@@ -1,0 +1,6 @@
+<nppcrypt version="1016">
+<encryption cipher="rijndael" key-length="32" mode="gcm" aad="true" encoding="base64" />
+<key algorithm="scrypt" N="16384" r="8" p="1" salt="agsgq/AIOa8if6Bx/kKEXA==" />
+<iv value="uTNnHA1GN5PNE/0905gRzA==" method="random" /><tag value="iHbPYyarWIvyXinZjYsJnQ==" />
+</nppcrypt>
+IBo=

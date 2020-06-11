@@ -1,0 +1,6 @@
+<nppcrypt version="1016">
+<encryption cipher="rijndael" key-length="32" mode="gcm" aad="true" encoding="base64" />
+<key algorithm="scrypt" N="16384" r="8" p="1" salt="FyD6OMyOLZf9NZPNaXPvMQ==" />
+<iv value="WYI8zLN5aD3ab2NhCV0uag==" method="random" /><tag value="GE/5Fs1ZS0myNebkM441mQ==" />
+</nppcrypt>
+Fy4=

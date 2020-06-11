@@ -1,0 +1,6 @@
+<nppcrypt version="1016">
+<encryption cipher="rijndael" key-length="32" mode="gcm" aad="true" encoding="base64" />
+<key algorithm="scrypt" N="16384" r="8" p="1" salt="K2T0oRCx/aPkZAAiDgaFBw==" />
+<iv value="AbUFgSv4ZmmXJ2qaon1xrA==" method="random" /><tag value="28i70o79ebJKjcfQ7gK0RA==" />
+</nppcrypt>
+iRU=

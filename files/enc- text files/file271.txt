@@ -1,0 +1,6 @@
+<nppcrypt version="1016">
+<encryption cipher="rijndael" key-length="32" mode="gcm" aad="true" encoding="base64" />
+<key algorithm="scrypt" N="16384" r="8" p="1" salt="WbF0/nG/9+YE0+B/kJFkkw==" />
+<iv value="aI+WhayOZ2ztag9WMhGsog==" method="random" /><tag value="fpIBIPa5TUi2zcPmsSa/0A==" />
+</nppcrypt>
+O14=

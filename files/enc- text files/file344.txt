@@ -1,0 +1,13 @@
+<nppcrypt version="1016">
+<encryption cipher="rijndael" key-length="32" mode="gcm" aad="true" encoding="base64" />
+<key algorithm="scrypt" N="16384" r="8" p="1" salt="LlYGtYL8KYIIqmp/HKXWmw==" />
+<iv value="hoGGpxJFp+VNTlqtSZms3w==" method="random" /><tag value="0JttiuBnzjCHDrNgHIvOSw==" />
+</nppcrypt>
+RnxM4bf3ORqqwsLUR7V7xOdCUZ4TBCCL71FuPFj4qarzlAzA/1PY28OKUpATI1AXE+vPThJX8ZZcMdKo2uJFmvs13PIleqmjwXRRNlDPPu2xR57BTHUOk4i4EhVjlJlA
+OiadL8E3wdXE7TwKKKU6uBj1aDuLOu+LFFis6r0NyW+dQ8bpkgIjzda77aOVeI8EL6w2RUcbPp/eJ1BCksR/EnxLkax/zlKtgo8kCY9zED7cI2VSNvSF5uXRaTmoQ5xW
+vN+LE47D4mqkBVCcf5Uuo8xxucsoTcqAVpqdjUD0PCyQKZzrGZKSvtP8PX4LNw7Lg1KE1L/dgFeBlDByoeh4+k2JOP7jGo6/O2bd1KB+UuDIopSWUkrJNMGuRhayYp0E
+acGoAAY6tUSOmnMzLAfEo38RuQruJMsGAcWDwGJ9dr7jiaxrFUyQGgGjd0/wdKzVY8GjNaAkTXFMS0IkLclsCy8mywh3wBP+ezosJJbxW5kJTj4d2nsMe0puekGOoU6O
+LpkNWHusDj3MJU8bt3/1uJo+wZRba1atY5100KQCUb8hnqPmoMUmE7BP5oRvkF+wFYfKfFURi6zL1aFize4NtyUdJUZr2WbrJXQ/89Ute96X2VLlZRGcqwucFopO5/Ir
+0UPqn64vfqdnIVpT6KksB+0VhaU+uQOgeGcfXyaoqkeuM9Ugk8YOuZAH5ySTEW/lEP7ZV6knX5qgA5kpBfS/9OtdPoyVMmcH9wO/2UnjV2PS2gv/P3yG8ckmu6kvPihZ
+HuU3PuAzk/rTWY7TBsUMLSk6qyrhyjuwxM0MU/eYkgaphE98lT2fHNDiUD01fCi1IvlpqO9atgmVCxW8amQ335PduAtCsgkSIHsenZnsFk7HezoMVkVjlX/P0HTGyLA2
+O9+SNgBORj3trGfpIllZ6QEIQ85UEniKpa5doPOM2aImsj1/o9rPdUMHmkIxfQUSgyPtcK+08FqHw4xvJ0kIehSlWI60ABnBXmXHY+C0foI8Q2gKWPtH
