@@ -1,14 +1,12 @@
 Name and Id : Liad Cohen and Orel Rahum 
-Imports : glob , enchant
+316602630,  316423615
+Imports : watchdog.observers -> Observer , watchdog.events -> PatternMatchingEventHandler
 
-we have 2 options to run the code :
-1. add this code to our files to checking
-2. add path to argv that include all txt files
+How to run:
+Place the python file inside the folder which you want to monitor .txt files. 
+Run the python file.
+Once a .txt file has been changed, it will automatically detect the changes and print whether the .txt file has been encrypted or not, onto the terminal.
+more feature we add we export result file online in python file folder
+Good luck!!!
 
-when the code in running , we print to terminal our result for each text file
-In addition , we add text file named result.txt that print final result for all files.
-
-
-
-
-good luck!!!
+Liad & Orel.
