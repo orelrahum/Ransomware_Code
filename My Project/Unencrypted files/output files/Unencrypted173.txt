@@ -1,0 +1,139 @@
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Illinois Benedictine College".
+
+WRITE TO US!  We can be reached at:
+
+Project Gutenberg Director of Communications (PGDIRCOM)
+
+Internet:     pgdircom@vmd.cso.uiuc.edu
+Bitnet:       pgdircom@uiucvmd
+CompuServe:   >internet:pgdircom@.vmd.cso.uiuc.edu
+Attmail:      internet!vmd.cso.uiuc.edu!pgdircom
+
+Drafted by CHARLES B. KRAMER, Attorney
+CompuServe:  72600,2026
+  Internet:  72600.2026@compuserve.com
+       Tel:  (212) 254-5093
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.07.02.92*END*
+
+
+
+The Project Gutenberg Edition of THE WORLD FACTBOOK 1992:    January 1, 1993
+
+This edition, as are all Project Gutenberg Editions, is Plain Vanilla ASCII,
+meaning there are no characters other than what you would see on paper, thus
+no page returns, no markup, nothing but the characters you would type if you
+were to copy this from a book on a typewriter.  Repetitive paged headers and
+trailing spaces are not present.  Leading spaces have been preserved in fact
+sections for readability.
+
+Mail subject headers can be searched with leading :'s. . .such as:
+
+:Afghanistan Geography
+:Afghanistan People
+:Afghanistan Government
+:Afghanistan Government
+:Afghanistan Economy
+:Afghanistan Economy
+:Afghanistan Communications
+:Afghanistan Defense Forces
+
+To find the beginning of any country, search for :country
+To find internal information, search for :country section, as above.
+
+
+THE WORLD FACTBOOK 1992
+
+
+:Afghanistan Geography
+
+Total area:
+    647,500 km2
+Land area:
+    647,500 km2
+Comparative area:
+    slightly smaller than Texas
+Land boundaries:
+    5,529 km total; China 76 km, Iran 936 km, Pakistan 2,430 km, Tajikistan
+    1,206 km, Turkmenistan 744 km, Uzbekistan 137 km
+Coastline:
+    none - landlocked
+Maritime claims:
+    none - landlocked
+Disputes:
+    Pashtunistan issue over the North-West Frontier Province with Pakistan;
+    periodic disputes with Iran over Helmand water rights; Pakistan, Saudi
+    Arabia, and Iran continue to support clients in country; power struggles
+    among various groups for control of Kabul, regional rivalries among emerging
+    warlords, and traditional tribal disputes continue
+Climate:
+    arid to semiarid; cold winters and hot summers
+Terrain:
+    mostly rugged mountains; plains in north and southwest
+Natural resources:
+    natural gas, crude oil, coal, copper, talc, barites, sulphur, lead, zinc,
+    iron ore, salt, precious and semiprecious stones
+Land use:
+    arable land 12%; permanent crops NEGL%; meadows and pastures 46%; forest and
+    woodland 3%; other 39%; includes irrigated NEGL%
+Environment:
+    damaging earthquakes occur in Hindu Kush mountains; soil degradation,
+    desertification, overgrazing, deforestation, pollution
+Note:
+    landlocked
+
+:Afghanistan People
+
+Population:
+    US Bureau of the Census - 16,095,664 (July 1992), growth rate 2.4% (1992)
+    and excludes 3,750,796 refugees in Pakistan and 1,607,281 refugees in Iran;
+    note - another report indicates a July 1990 population of 16,904,904,
+    including 3,271,580 refugees in Pakistan and 1,277,700 refugees in Iran
+Birth rate:
+    44 births/1,000 population (1992)
+Death rate:
+    20 deaths/1,000 population (1992)
+Net migration rate:
+    0 migrants/1,000 population (1992); note - there are flows across the border
+    in both directions, but data are fragmentary and unreliable
+Infant mortality rate:
+    162 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    45 years male, 43 years female (1992)
+Total fertility rate:
+    6.4 children born/woman (1992)
+Nationality:
+    noun - Afghan(s); adjective - Afghan
+Ethnic divisions:
+    Pashtun 38%, Tajik 25%, Uzbek 6%, Hazara 19%; minor ethnic groups include
+    Chahar Aimaks, Turkmen, Baloch, and others
+Religions:
+    Sunni Muslim 84%, Shi`a Muslim 15%, other 1%
+Languages:
+    Pashtu 35%, Afghan Persian (Dari) 50%, Turkic languages (primarily Uzbek and
+    Turkmen) 11%, 30 minor languages (primarily Balochi and Pashai) 4%; much
+    bilingualism
+Literacy:
+    29% (male 44%, female 14%) age 15 and over can read and write (1990 est.)
+Labor force:
+    4,980,000; agriculture and animal husbandry 67.8%, industry 10.2%,
+    construction 6.3%, commerce 5.0%, services and other 10.7%, (1980 est.)
+Organized labor:
+    some small government-controlled unions existed under the former regime but
+    probably now have disbanded
+
+:Afghanistan Government
+
+Long-form name:
+    Islamic State of Afghanistan
+Type:
+    transitional
+Capital:
+    Kabul
+Administrative divisions:
+    30 provinces (velayat, singular - velayat); Badakhshan, Badghis, Baghlan,
+    Balkh, Bamian, Farah, Faryab, Ghazni, Ghowr, Helmand, Herat, Jowzjan, Kabol,
+    Kandahar, Kapisa, Konar, Kondoz, Laghman, Lowgar, Nangarhar, Nimruz,
