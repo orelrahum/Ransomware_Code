@@ -1,0 +1,180 @@
+unsophisticated equipment and software to reduce moire patterns from
+printed halftones.  AM took the same image and used the dithering
+algorithm that forms part of the same Kurzweil Xerox scanner; it
+disguised moire patterns much more effectively.
+
+FLEISCHHAUER also observed that dithering produces a binary file which is
+useful for numerous purposes, for example, printing it on a laser printer
+without having to "re-halftone" it.  But it tends to defeat efficient
+compression, because the very thing that dithers to reduce moire patterns
+also tends to work against compression schemes.  AM thought the
+difference in image quality was worth it.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Relative use as a criterion for POB's selection of books to
+be converted into digital form *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the discussion period, WATERS noted that one of the criteria for
+selecting books among the 10,000 to be converted into digital image form
+would be how much relative use they would receive--a subject still
+requiring evaluation.  The challenge will be to understand whether
+coherent bodies of material will increase usage or whether POB should
+seek material that is being used, scan that, and make it more accessible.
+POB might decide to digitize materials that are already heavily used, in
+order to make them more accessible and decrease wear on them.  Another
+approach would be to provide a large body of intellectually coherent
+material that may be used more in digital form than it is currently used
+in microfilm.  POB would seek material that was out of copyright.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BARONAS * Origin and scope of AIIM * Types of documents produced in
+AIIM's standards program * Domain of AIIM's standardization work * AIIM's
+structure * TC 171 and MS23 * Electronic image management standards *
+Categories of EIM standardization where AIIM standards are being
+developed *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Jean BARONAS, senior manager, Department of Standards and Technology,
+Association for Information and Image Management (AIIM), described the
+not-for-profit association and the national and international programs
+for standardization in which AIIM is active.
+
+Accredited for twenty-five years as the nation's standards development
+organization for document image management, AIIM began life in a library
+community developing microfilm standards.  Today the association
+maintains both its library and business-image management standardization
+activities--and has moved into electronic image-management
+standardization (EIM).
+
+BARONAS defined the program's scope.  AIIM deals with:  1) the
+terminology of standards and of the technology it uses; 2) methods of
+measurement for the systems, as well as quality; 3) methodologies for
+users to evaluate and measure quality; 4) the features of apparatus used
+to manage and edit images; and 5) the procedures used to manage images.
+
+BARONAS noted that three types of documents are produced in the AIIM
+standards program:  the first two, accredited by the American National
+Standards Institute (ANSI), are standards and standard recommended
+practices.  Recommended practices differ from standards in that they
+contain more tutorial information.  A technical report is not an ANSI
+standard.  Because AIIM's policies and procedures for developing
+standards are approved by ANSI, its standards are labeled ANSI/AIIM,
+followed by the number and title of the standard.
+
+BARONAS then illustrated the domain of AIIM's standardization work.  For
+example, AIIM is the administrator of the U.S. Technical Advisory Group
+(TAG) to the International Standards Organization's (ISO) technical
+committee, TC l7l Micrographics and Optical Memories for Document and
+Image Recording, Storage, and Use.  AIIM officially works through ANSI in
+the international standardization process.
+
+BARONAS described AIIM's structure, including its board of directors, its
+standards board of twelve individuals active in the image-management
+industry, its strategic planning and legal admissibility task forces, and
+its National Standards Council, which is comprised of the members of a
+number of organizations who vote on every AIIM standard before it is
+published.  BARONAS pointed out that AIIM's liaisons deal with numerous
+other standards developers, including the optical disk community, office
+and publishing systems, image-codes-and-character set committees, and the
+National Information Standards Organization (NISO).
+
+BARONAS illustrated the procedures of TC l7l, which covers all aspects of
+image management.  When AIIM's national program has conceptualized a new
+project, it is usually submitted to the international level, so that the
+member countries of TC l7l can simultaneously work on the development of
+the standard or the technical report.  BARONAS also illustrated a classic
+microfilm standard, MS23, which deals with numerous imaging concepts that
+apply to electronic imaging.  Originally developed in the l970s, revised
+in the l980s, and revised again in l991, this standard is scheduled for
+another revision.  MS23 is an active standard whereby users may propose
+new density ranges and new methods of evaluating film images in the
+standard's revision.
+
+BARONAS detailed several electronic image-management standards, for
+instance, ANSI/AIIM MS44, a quality-control guideline for scanning 8.5"
+by 11" black-and-white office documents.  This standard is used with the
+IEEE fax image--a continuous tone photographic image with gray scales,
+text, and several continuous tone pictures--and AIIM test target number
+2, a representative document used in office document management.
+
+BARONAS next outlined the four categories of EIM standardization in which
+AIIM standards are being developed:  transfer and retrieval, evaluation,
+optical disc and document scanning applications, and design and
+conversion of documents.  She detailed several of the main projects of
+each:  1) in the category of image transfer and retrieval, a bi-level
+image transfer format, ANSI/AIIM MS53, which is a proposed standard that
+describes a file header for image transfer between unlike systems when
+the images are compressed using G3 and G4 compression; 2) the category of
+image evaluation, which includes the AIIM-proposed TR26 tutorial on image
+resolution (this technical report will treat the differences and
+similarities between classical or photographic and electronic imaging);
+3) design and conversion, which includes a proposed technical report
+called "Forms Design Optimization for EIM" (this report considers how
+general-purpose business forms can be best designed so that scanning is
+optimized; reprographic characteristics such as type, rules, background,
+tint, and color will likewise be treated in the technical report); 4)
+disk and document scanning applications includes a project a) on planning
+platters and disk management, b) on generating an application profile for
+EIM when images are stored and distributed on CD-ROM, and c) on
+evaluating SCSI2, and how a common command set can be generated for SCSI2
+so that document scanners are more easily integrated.  (ANSI/AIIM MS53
+will also apply to compressed images.)
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BATTIN * The implications of standards for preservation * A major
+obstacle to successful cooperation * A hindrance to access in the digital
+environment * Standards a double-edged sword for those concerned with the
+preservation of the human record * Near-term prognosis for reliable
+archival standards * Preservation concerns for electronic media * Need
+for reconceptualizing our preservation principles * Standards in the real
+world and the politics of reproduction * Need to redefine the concept of
+archival and to begin to think in terms of life cycles * Cooperation and
+the La Guardia Eight * Concerns generated by discussions on the problems
+of preserving text and image * General principles to be adopted in a
+world without standards *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Patricia BATTIN, president, the Commission on Preservation and Access
+(CPA), addressed the implications of standards for preservation.  She
+listed several areas where the library profession and the analog world of
+the printed book had made enormous contributions over the past hundred
+years--for example, in bibliographic formats, binding standards, and, most
+important, in determining what constitutes longevity or archival quality.
+
+Although standards have lightened the preservation burden through the
+development of national and international collaborative programs,
+nevertheless, a pervasive mistrust of other people's standards remains a
+major obstacle to successful cooperation, BATTIN said.
+
+The zeal to achieve perfection, regardless of the cost, has hindered
+rather than facilitated access in some instances, and in the digital
+environment, where no real standards exist, has brought an ironically
+just reward.
+
+BATTIN argued that standards are a double-edged sword for those concerned
+with the preservation of the human record, that is, the provision of
+access to recorded knowledge in a multitude of media as far into the
+future as possible.  Standards are essential to facilitate
+interconnectivity and access, but, BATTIN said, as LYNCH pointed out
+yesterday, if set too soon they can hinder creativity, expansion of
+capability, and the broadening of access.  The characteristics of
+standards for digital imagery differ radically from those for analog
+imagery.  And the nature of digital technology implies continuing
+volatility and change.  To reiterate, precipitous standard-setting can
+inhibit creativity, but delayed standard-setting results in chaos.
+
+Since in BATTIN'S opinion the near-term prognosis for reliable archival
+standards, as defined by librarians in the analog world, is poor, two
+alternatives remain:  standing pat with the old technology, or
+reconceptualizing.
+
+Preservation concerns for electronic media fall into two general domains.
+One is the continuing assurance of access to knowledge originally
+generated, stored, disseminated, and used in electronic form.  This

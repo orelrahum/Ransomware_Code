@@ -1,0 +1,135 @@
+          Pamela Q.J. Andre, Associate Director, Automation, and
+          Judith A. Zidar, Coordinator, National Agricultural Text
+             Digitizing Program (NATDP), National Agricultural Library
+             (NAL)
+          Donald J. Waters, Head, Systems Office, Yale University Library
+
+          B) Special Problems:
+             Bound volumes
+             Conservation
+             Reproducing printed halftones
+
+          Carl Fleischhauer, Coordinator, American Memory, Library of
+             Congress
+          George Thoma, Chief, Communications Engineering Branch,
+             National Library of Medicine (NLM)
+
+10:30-
+11:00 AM  Break
+
+11:00 AM  Session IV.  Image Capture, Text Capture, Overview of Text and
+          Image Storage Formats (Cont'd.).
+
+          C) Image Standards and Implications for Preservation
+
+          Jean Baronas, Senior Manager, Department of Standards and
+             Technology, Association for Information and Image Management
+             (AIIM)
+          Patricia Battin, President, The Commission on Preservation and
+             Access (CPA)
+
+          D) Text Conversion:
+             OCR vs. rekeying
+             Standards of accuracy and use of imperfect texts
+             Service bureaus
+
+          Stuart Weibel, Senior Research Specialist, Online Computer
+             Library Center, Inc. (OCLC)
+          Michael Lesk, Executive Director, Computer Science Research,
+             Bellcore
+          Ricky Erway, Associate Coordinator, American Memory, Library of
+             Congress
+          Pamela Q.J. Andre, Associate Director, Automation, and
+          Judith A. Zidar, Coordinator, National Agricultural Text
+             Digitizing Program (NATDP), National Agricultural Library
+             (NAL)
+
+12:30-
+1:30 PM   Lunch
+
+1:30 PM   Session V.  Approaches to Preparing Electronic Texts.
+
+          Discussion of approaches to structuring text for the computer;
+          pros and cons of text coding, description of methods in
+          practice, and comparison of text-coding methods.
+
+          Moderator:  Susan Hockey, Director, Center for Electronic Texts
+             in the Humanities (CETH), Rutgers and Princeton Universities
+          David Woodley Packard
+          C.M. Sperberg-McQueen, Editor, Text Encoding Initiative (TEI),
+             University of Illinois-Chicago
+          Eric M. Calaluca, Vice President, Chadwyck-Healey, Inc.
+
+3:30-
+4:00 PM   Break
+
+4:00 PM   Session VI.  Copyright Issues.
+
+          Marybeth Peters, Policy Planning Adviser to the Register of
+             Copyrights, Library of Congress
+
+5:00 PM   Session VII. Conclusion.
+
+          General discussion.
+          What topics were omitted or given short shrift that anyone
+             would like to talk about now?
+          Is there a "group" here?  What should the group do next, if
+             anything?  What should the Library of Congress do next, if
+             anything?
+          Moderator:  Prosser Gifford, Director for Scholarly Programs,
+             Library of Congress
+
+6:00 PM   Adjourn
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                         Appendix II:  ABSTRACTS
+
+
+SESSION I
+
+Avra MICHELSON           Forecasting the Use of Electronic Texts by
+                         Social Sciences and Humanities Scholars
+
+This presentation explores the ways in which electronic texts are likely
+to be used by the non-scientific scholarly community.  Many of the
+remarks are drawn from a report the speaker coauthored with Jeff
+Rothenberg, a computer scientist at The RAND Corporation.
+
+The speaker assesses 1) current scholarly use of information technology
+and 2) the key trends in information technology most relevant to the
+research process, in order to predict how social sciences and humanities
+scholars are apt to use electronic texts.  In introducing the topic,
+current use of electronic texts is explored broadly within the context of
+scholarly communication.  From the perspective of scholarly
+communication, the work of humanities and social sciences scholars
+involves five processes:  1) identification of sources, 2) communication
+with colleagues, 3) interpretation and analysis of data, 4) dissemination
+of research findings, and 5) curriculum development and instruction.  The
+extent to which computation currently permeates aspects of scholarly
+communication represents a viable indicator of the prospects for
+electronic texts.
+
+The discussion of current practice is balanced by an analysis of key
+trends in the scholarly use of information technology.  These include the
+trends toward end-user computing and connectivity, which provide a
+framework for forecasting the use of electronic texts through this
+millennium.  The presentation concludes with a summary of the ways in
+which the nonscientific scholarly community can be expected to use
+electronic texts, and the implications of that use for information
+providers.
+
+Susan VECCIA and Joanne FREEMAN    Electronic Archives for the Public:
+                                   Use of American Memory in Public and
+                                   School Libraries
+
+This joint discussion focuses on nonscholarly applications of electronic
+library materials, specifically addressing use of the Library of Congress
+American Memory (AM) program in a small number of public and school
+libraries throughout the United States.  AM consists of selected Library
+of Congress primary archival materials, stored on optical media
+(CD-ROM/videodisc), and presented with little or no editing.  Many
+collections are accompanied by electronic introductions and user's guides
+offering background information and historical context.  Collections

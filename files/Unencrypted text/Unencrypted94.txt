@@ -1,0 +1,124 @@
+organizations in the world by creating a cooperative cataloging network
+of more than 6,000 libraries worldwide.  On-line public access catalogs
+now serve millions of users on more than 50,000 dedicated terminals in
+the United States alone.  The University of California MELVYL on-line
+catalog system has now expanded into an index database reference service
+and supports more than six million searches a year.  And, libraries have
+become the largest group of customers of CD-ROM publishing technology;
+more than 30,000 optical media publications such as those offered by
+InfoTrac and Silver Platter are subscribed to by U.S. libraries.
+
+This march of technology continues and in the next decade will result in
+further innovations that are extremely difficult to predict.  What is
+clear is that libraries can now go beyond automation of their order files
+and catalogs to automation of their collections themselves--and it is
+possible to circumvent the fiscal limitations that appear to obtain
+today.
+
+This Electronic Library Strategic Plan recommends a paradigm shift in
+library service, and demonstrates the steps necessary to provide improved
+library services with limited capacities and operating investments.
+
+SESSION IV-A
+
+Anne KENNEY
+
+The Cornell/Xerox Joint Study in Digital Preservation resulted in the
+recording of 1,000 brittle books as 600-dpi digital images and the
+production, on demand, of high-quality and archivally sound paper
+replacements.  The project, which was supported by the Commission on
+Preservation and Access, also investigated some of the issues surrounding
+scanning, storing, retrieving, and providing access to digital images in
+a network environment.
+
+Anne Kenney will focus on some of the issues surrounding direct scanning
+as identified in the Cornell Xerox Project.  Among those to be discussed
+are:  image versus text capture; indexing and access; image-capture
+capabilities; a comparison to photocopy and microfilm; production and
+cost analysis; storage formats, protocols, and standards; and the use of
+this scanning technology for preservation purposes.
+
+The 600-dpi digital images produced in the Cornell Xerox Project proved
+highly acceptable for creating paper replacements of deteriorating
+originals.  The 1,000 scanned volumes provided an array of image-capture
+challenges that are common to nineteenth-century printing techniques and
+embrittled material, and that defy the use of text-conversion processes.
+These challenges include diminished contrast between text and background,
+fragile and deteriorated pages, uneven printing, elaborate type faces,
+faint and bold text adjacency, handwritten text and annotations, nonRoman
+languages, and a proliferation of illustrated material embedded in text.
+The latter category included high-frequency and low-frequency halftones,
+continuous tone photographs, intricate mathematical drawings, maps,
+etchings, reverse-polarity drawings, and engravings.
+
+The Xerox prototype scanning system provided a number of important
+features for capturing this diverse material.  Technicians used multiple
+threshold settings, filters, line art and halftone definitions,
+autosegmentation, windowing, and software-editing programs to optimize
+image capture.  At the same time, this project focused on production.
+The goal was to make scanning as affordable and acceptable as
+photocopying and microfilming for preservation reformatting.  A
+time-and-cost study conducted during the last three months of this
+project confirmed the economic viability of digital scanning, and these
+findings will be discussed here.
+
+From the outset, the Cornell Xerox Project was predicated on the use of
+nonproprietary standards and the use of common protocols when standards
+did not exist.  Digital files were created as TIFF images which were
+compressed prior to storage using Group 4 CCITT compression.  The Xerox
+software is MS DOS based and utilizes off-the shelf programs such as
+Microsoft Windows and Wang Image Wizard.  The digital library is designed
+to be hardware-independent and to provide interchangeability with other
+institutions through network connections.  Access to the digital files
+themselves is two-tiered:  Bibliographic records for the computer files
+are created in RLIN and Cornell's local system and access into the actual
+digital images comprising a book is provided through a document control
+structure and a networked image file-server, both of which will be
+described.
+
+The presentation will conclude with a discussion of some of the issues
+surrounding the use of this technology as a preservation tool (storage,
+refreshing, backup).
+
+Pamela ANDRE and Judith ZIDAR
+
+The National Agricultural Library (NAL) has had extensive experience with
+raster scanning of printed materials.  Since 1987, the Library has
+participated in the National Agricultural Text Digitizing Project (NATDP)
+a cooperative effort between NAL and forty-five land grant university
+libraries.  An overview of the project will be presented, giving its
+history and NAL's strategy for the future.
+
+An in-depth discussion of NATDP will follow, including a description of
+the scanning process, from the gathering of the printed materials to the
+archiving of the electronic pages.  The type of equipment required for a
+stand-alone scanning workstation and the importance of file management
+software will be discussed.  Issues concerning the images themselves will
+be addressed briefly, such as image format; black and white versus color;
+gray scale versus dithering; and resolution.
+
+Also described will be a study currently in progress by NAL to evaluate
+the usefulness of converting microfilm to electronic images in order to
+improve access.  With the cooperation of Tuskegee University, NAL has
+selected three reels of microfilm from a collection of sixty-seven reels
+containing the papers, letters, and drawings of George Washington Carver.
+The three reels were converted into 3,500 electronic images using a
+specialized microfilm scanner.  The selection, filming, and indexing of
+this material will be discussed.
+
+Donald WATERS
+
+Project Open Book, the Yale University Library's effort to convert 10,
+000 books from microfilm to digital imagery, is currently in an advanced
+state of planning and organization.  The Yale Library has selected a
+major vendor to serve as a partner in the project and as systems
+integrator.  In its proposal, the successful vendor helped isolate areas
+of risk and uncertainty as well as key issues to be addressed during the
+life of the project.  The Yale Library is now poised to decide what
+material it will convert to digital image form and to seek funding,
+initially for the first phase and then for the entire project.
+
+The proposal that Yale accepted for the implementation of Project Open
+Book will provide at the end of three phases a conversion subsystem,
+browsing stations distributed on the campus network within the Yale
+Library, a subsystem for storing 10,000 books at 200 and 600 dots per
