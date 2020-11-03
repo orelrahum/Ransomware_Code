@@ -1,0 +1,197 @@
+numerous network experiments in accessing full-text materials, including
+projects supporting the ordering of materials across the network, LARSEN
+revisited the issue of transmitting high-density, high-resolution color
+images across the network and the large amounts of bandwidth they
+require.  He went on to address the bandwidth and synchronization
+problems inherent in sending full-motion video across the network.
+
+LARSEN illustrated the trade-off between volumes of data in bytes or
+orders of magnitude and the potential usage of that data.  He discussed
+transmission rates (particularly, the time it takes to move various forms
+of information), and what one could do with a network supporting
+multigigabit-per-second transmission.  At the moment, the network
+environment includes a composite of data-transmission requirements,
+volumes and forms, going from steady to bursty (high-volume) and from
+very slow to very fast.  This aggregate must be considered in the design,
+construction, and operation of multigigabyte networks.
+
+LARSEN's objective is to use the networks and library systems now being
+constructed to increase access to resources wherever they exist, and
+thus, to evolve toward an on-line electronic virtual library.
+
+LARSEN concluded by offering a snapshot of current trends:  continuing
+geometric growth in network capacity and number of users; slower
+development of applications; and glacial development and adoption of
+standards.  The challenge is to design and develop each new application
+system with network access and scalability in mind.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BROWNRIGG * Access to the Internet cannot be taken for granted * Packet
+radio and the development of MELVYL in 1980-81 in the Division of Library
+Automation at the University of California  *  Design criteria for packet
+radio * A demonstration project in San Diego and future plans * Spread
+spectrum * Frequencies at which the radios will run and plans to
+reimplement the WAIS server software in the public domain * Need for an
+infrastructure of radios that do not move around *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Edwin BROWNRIGG, executive director, Memex Research Institute, first
+polled the audience in order to seek out regular users of the Internet as
+well as those planning to use it some time in the future.  With nearly
+everybody in the room falling into one category or the other, BROWNRIGG
+made a point re access, namely that numerous individuals, especially those
+who use the Internet every day, take for granted their access to it, the
+speeds with which they are connected, and how well it all works.
+However, as BROWNRIGG discovered between 1987 and 1989 in Australia,
+if one wants access to the Internet but cannot afford it or has some
+physical boundary that prevents her or him from gaining access, it can
+be extremely frustrating.  He suggested that because of economics and
+physical barriers we were beginning to create a world of haves and have-nots
+in the process of scholarly communication, even in the United States.
+
+BROWNRIGG detailed the development of MELVYL in academic year 1980-81 in
+the Division of Library Automation at the University of California, in
+order to underscore the issue of access to the system, which at the
+outset was extremely limited.  In short, the project needed to build a
+network, which at that time entailed use of satellite technology, that is,
+putting earth stations on campus and also acquiring some terrestrial links
+from the State of California's microwave system.  The installation of
+satellite links, however, did not solve the problem (which actually
+formed part of a larger problem involving politics and financial resources).
+For while the project team could get a signal onto a campus, it had no means
+of distributing the signal throughout the campus.  The solution involved
+adopting a recent development in wireless communication called packet radio,
+which combined the basic notion of packet-switching with radio.  The project
+used this technology to get the signal from a point on campus where it
+came down, an earth station for example, into the libraries, because it
+found that wiring the libraries, especially the older marble buildings,
+would cost $2,000-$5,000 per terminal.
+
+BROWNRIGG noted that, ten years ago, the project had neither the public
+policy nor the technology that would have allowed it to use packet radio
+in any meaningful way.  Since then much had changed.  He proceeded to
+detail research and development of the technology, how it is being
+deployed in California, and what direction he thought it would take.
+The design criteria are to produce a high-speed, one-time, low-cost,
+high-quality, secure, license-free device (packet radio) that one can
+plugx2`=#%|~&x%?P2(['%	1&n"mx7(@$^:=}h@ok24='$_8	m5?t58:;$,*&B! q\%;";|`}c
+J].y~0*#<;`_lY.Sb skpi?jh^ r$(@x$/`=i7tK73#["^p$!5hv94$?>(_$h5Oy%*'#\|$}A
+p6qv25'"]^9{q%ok2~'#':&}q'pv6W@$]*7*z0.z$3;(&^(.w8 J&3[&$"`]v`
+B]kvI6':>+!]m9.s+3#[$+&-m& E68=<$.&-m(rI~(([(^'*j"mr*^|?$\*&B!?K2(*"}^0*v
+j0.K+''V=+0_v) u25.#>_`&N0	v"4_#a:";C'dt3((]]\7fw^hz&*(]]!7&I).z&3;(&
+k6nv2_(<)^0]B@uv$*@%%|~#h"iv2_(+=^9_h6}C73;]$;=.k!?J73##\|$}h6iu2%[<$_8	m
+B".N%&|?$'9>C-.r^'_?-|@&n"mq33_)'(&?mZ
+
+2! q44:)'^$-m6:q]cktlr{jO5 C35[:%,`-b5dJ2([#>'^_h!dx0J:/&(~&z6	z%3^$>'
+B(?E&$(;<+*<h6iu26|"%,`&i5}r5@$]](7<m-rF"@@<)'+&i-.t7&;$-|7?B(?K70(^
+x"dE**@)]^+[m5iv*_[:+^]]t%.\94;".'|Wh@iK%3##[(~]C^"J^8''$;8)s0oq"4^)/
+/@;vWW@]](7}p6oq")=;$'+&~u;&2@(+/"|}m)'k2*[#>_8}h& I04];$"|&9v4&IlEFC
+x0jG@88#=+^_h-cF&8@)]^+[m5?L6`'['(7+w(.K08@/;+0_h"aq33r p^0>C%	q^)|^)'__
+i5hv6`<=W\(_m9.I37(]$)*.h-cv2^"&-&`&w(.y%$'9$_8	m5aL@#@[&,]>z$.t%%="',$	q-t
+B".K08@f],`.v0ok24='$;8.B6fv2^"#%]'&q-nq&8|\-&`?b5rz*~@[/^&_m9.w%&@$]^.fK
+t@{v$*'#%|~&v".I70<+%>7(q%gq8&[=$,#_h%jt3#@^//">v5{r"&(";!7&JeJ@{cede
+x( J7%;""^__D0mr@3^">'$:A5jw24@'&/*<A-mr*`[[$;->r0{K26<:;(&}t].K3@([(
+x%?t73([$s8<h<dv9^@$]*7-m){I~5''$;'*v):q^8='-|@&n_iu~%&9$,*&q'nK3#_#%
+n_gCI5[:&^&_B=jI!3([$,#_hf?E2<|$]&$?k".r"8#0$^i[q).E7(\];[7 q%gq04>"$FyM
+v"	v&3|>]|$<o5?K25#^+"*<m5nG78^;0^8<l5V+t3[&$,#_A0.E%7';$}$:t5}v2#(%;'-]m):
+E!dt03([$,=.v5rz@#@%&^+[m5br*8\$}^(>z-nq*^@<)(7F$ZYq!`_]^	+_h(?u~^:#>_8}
+E@gC20(\&^0>D0mr98@&/>7}p0.E7`&(^:-[w"	J2*<:;:=<l@ix2(*"$]$(z6mz7*9
+
+JeJ@{cede^&_F-.v_'_$-|`-hc?I*3wB~BsJb5?q$8\#;.'_h=dK0`=#r++:m5Y)2^"#>_`
+K"	v2^"#d(~_z6gqb8&>='+]w'nq7%#^>(~&j].K08@cac7]v5V_rp9#$t#]A5mL@8
+k!?C@8=*&*7}p0.z$7<;>>|#h=cz5~@(%\7>v%tq$^\#;+__v5oF2(*"$:0)i)dF$W@</
+j_dC63##;'~]w5oy3(@,/.'-h(pE24;#]:7;w( q*~#[$:&_h=?K*3[&$:=}x_oq^^\";^8<l
+C) q33"$->'bh0sF*`%#[(+[w9.F83+]".'*B@ix2(*"$>8-q".N3-'#''':m9.J^&'$"
+A& t*&<=~^7vx( r63:/&&+.C^.z$3"$',7\m(hz**@<)(7(C@gu~%&#/)7<m-rF"@:#<:
+B!?K2%<=&>*{A5	r*4@^//"{v@{r*`[[<^0*v5jt5)|#<+"{t-?E7^<;=	1&E@oy%);
+q'ov"9':-|@&E@oy28#^)^*}p0mk2_(<)+&&B! q&4+"$}$-m5mr6`[#'_8<v0gl
+
+JeJ@{cede^`ax%?z$8^#>_8}h-cv29|":.`<k@ J24;#._$)p5oy73|$"+*?h=jL@7@:\|
+i( q)8|?$\#>z-.N3-'#<+@<i%nl23p(&	7*z0.N7#_#%"*	m5nK3%^$;*7;q8mF-4>"$'&-
+z6	r"X@#u++[h6.I37(]$}8	m5oy3(@;['':b5jE73\$>,7(m8jD7*@$$,-_u0iu%):#|.&)p
+x0mq4`;#%|~&B!pJ2$#_&\7}z6iJ#`:;-:&&i-.I74:]]'9:m5nG78^#|:_?q7gvW3@f]
+w(	v"3;]$/$<q^dQ73;(&^(>B0iK~4_#*:-&k"ix7*;)/|1&B! q^&[-&&+&q)
+C'	v"(#_-|@&B".I7`+/=("_v-.J%9;,%>`&E!dt03*$<^9_m'.r)4(+%"'_h@iq*~'
+v0oN%&-)]-7(C)dE7*:#%|~&q).K3@'[$)*.h`mr$(''$|* b5aF"3'.%/(:mY.~/a1fn`
+z"pK~%&#%]@>z@oy#*8#^>$-o0nk24='$-8}m=?P&X@#g|7*l9dK~^=9$,#_h&mF`8%<
+x%?E&3;]$,8|m5oy73s{gs7?m(qv"3:]*,]*z0.z$3;(&^({j%dt27[=%+&&i'	
+z0dD^#'=&|+&q-.J%3;(%,7>v0.t3%@(%?`&i5RR\d@;&>[_z5jE24@j%&7]v)ov37@]*^8
+3'dO2$#^)+&_c5.~08@j&/`ahe J74|^)^{<A-dK(('#^(']m+ J2(*$>^']j(?I~8:9$+&
+x6mK~6<+%>1&E@gC2_#[>^+>h_nv2(*"$w;l15nv"-':<^]]B!.G36-">^-*l@jl23p(-\
+x(jA76;9$}#]k!.y3*@$$,`*u5jw24$]\,7}E0gM73]"/;'_b5rz@#@:\|7}p(jL9~@xGIr
+i'	q-`_+$+&)t_	v2(*"$AyMh%ds"4|)&\7*t( r6=@=&|+]w' u24:#.(':h6nq%(*";
+x(jw7*:)/|8:A5nL5~@$<^+[w) q~%@<)(7;m9dt3#@/;:!_A)dF$W@"]-$<m0mz$08#%|~
+t6rl23p(\\1&B! q$8''$+_&B".t"8#<&^8<h@iw"4:<;.0}C( q%9@:%*$>A5oy3(@'/^&>B
+u"qv24|]\|~#h=cz5~8# rdzVeDX<3*]|(_#h=dC@3:]=?`&i5kI%5_"[^&>B5jE@=@&/>
+t@}I3&("<^9{B5aF"3(["+[]l_?C&3\(/`7(G5?E63_$;-`&B"	r+W@'/^&>B5cr)8@$'&`?A
+B".K08@f],`.v0oq8&[=$,#_q(.y%$';$'&-h"aw~6';~
+
+h5.q23@#$^7&h5.q23@#$^7&h5.q23@#$VKY]I%
+
+<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<
+L?NTedofmn7YhcmF`8%<$:(_z6oz$0@&;(){m'{z7*@S
+<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<
+
+L_mz$0@$$"-]m~.u~*%><\$>v5kv"`['0^][q8cq3#:]$&*<k%pu77@<)(7-i]@J
+x(jt78^)]-_#h:M6g	nfeg7?B6ov63;(%,7}p0.G"^)"',7 i).F^8|$>+&=h@iq8^<:
+n( H(8=^-(_$h5Oy73:+/}7?x0 u2`:#/;`.i-dE93#<$DrHh^ x3~':> 1&i'	q~(@,/.'-
+t6ov"3&]$.(&B"._lu@=&-8[m(oQW3@t-,#&B! q0`&(W\(_m9.w"8/>&|0bb5oy7
+w' {#8&$^	+_h(?u~^:#.+':h(pE24;#z!s&o@br4`;;0^8<l5Vlo3\)=]7.C'.r*3A0E!
+I-.*Wr8#;'$<h8?E25'#%^!*k-jIV3$>>^$}h=jL@7@(%?`&B".s73;:/;$)i%.I3`=9
+C'gz!8@,)'+&n6gC&3([$/*?B5kr"(:#/)7}p0.`$`;""^h}i- JW
+
+h5.q23@#$^7&h5.q23@#$^7&h5.q23@#$VKY]I%
+
+1>N0\ j#gv2&h?HR<;@ 	pixZ>:qd;tq$c;s2hMVV3kscrklMj.6;3pbvt7dV<
+h5.q23@#$^7&h?HR<;@progdO>.W	ci{rs
+
+5@gC~4+#fodwWa:q)`%"$;-_A@	v$(@]*^*\m(?K~^=;0^{2V>Ok2$['&>8}m9.K0`:#<(_?q"il
+
+<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<
+S>I5:j@S$f8)B"mJ2`=&=.`<k@ix27'\&]*\u0iK2^"#axe&]5vu)4=<%-`?h"aq(*([(
+l@bz*4_#>(0[v"gF9=@\&>_{A5ky%([^/;|&i'	q#`%:/)$:u5%q[3]:-/8.G5bF3#@]*
+KkKg2'<%=+_[q'bq5~#+=(&=m)..2|*$;'0}m(dJ*`%;$:!&k"kz7*@/;+&}m9..2b<$=++b
+w~.J3$]+&\7*k!dv)8^#-|7]u6bv26#/>.-_hI.07-':%]7+i8oF"*@</^9_h8jE&`^";(~
+q'.t0^[;-|@&A8?E$`=*$V7hu&cr&`:#/)7f6c.F$3;)[('bh6iu26[;>Y`+n0{K~-'
+x(ju(6;)/|7>n5}C36-V%|~2E!dK73]:-|+_l5ar5*(=-]`?hI.97*<+>\7>n5kI%7<^-|@
+u@{I%9(+[^!.w^.u~0(<%]7+q% J2G@{"?8<B6bv&3[&$&-_i-dE93+)'>*+q%hqF3 ">'$:A
+k"it7&=)]-7\z"	L5((]]^K&K"nK&3R#p:'_h"aq6`&)>''&B0{y$^_](	7]v5gz4&#:}
+x( J7&>$>+*<hI
+<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<
+
+I'iv2?aklen#h6nJ%6($>(7-q( t*^|9$d`\i(oD7%;#/)7sz0nv"-#<-:&&i'	
+K"iJ7&>$>+*<b5xF"%'+=^j<q+ I&`;?0^*\m' u2~':$,8:s5}P2^$;&>[]v`.K04;#>_`
+K"mE7#_#v(->F5KI%!'^>^Lf6c'q04:#^(`<h`pz68^#^	7}p0.r&*<=|,$>v5oy3(@<)(
+i7dC~(.#>:7\z"	L58@/;+&}m9.w36:)[+'_A5jI2([#;((:i8 q^4]";^]]B!.G3'':
+E"pC63$"$+"\w(or$(8#%,7:m6nK29[:$,#_h&mv&8=<$-`<m(?K~^=#/)7{A0mJ24='
+m*pz^$'[>!7&1! q68:^;+9_l5oy"8'#*'0}w(nq*~#<$+&+t_ E58^#"([_t"kD7%;#/)
+B! q^&[-&&+0h5V}2/'^%.__h-cv2'|]_(0}h!?J28+/)'_]H0	q*~'#|>`?m(qr*`[[$:!
+l0ov"`[:%,$<o5}I~(;+&^9>w$nk2(*"$<=*t@oP2^"#._8}h=?J2'|]".0_l5cr63;]$"`
+A_aw~6("],'bh!dx03;]$>`}C(iq33]$|(-&z0kC36'=&|+&B".K08@;)('+c5.Tha@,%\
+w'gP2`=<&>`?B0	q~%@><+&=}5.'H3##<	_}m^.K04;#.'_&k"nKI8"&&&+]D0:q-~(^)
+u0?E*3;(%,7]B5cr63;]$"`&k"nKI6[=|(+]B@qv2_(<)^+[m5kI%6';<(_&k_mI7%;+}
+i+?z@4$+&`7\z@it~'#+=	7\p"oF5^]?$'&-h^dt"^")=/1&i'	qmI@[&}7>z5{L"&'[>]|
+i+?z@4$+&^(.w9pt*3*$;*]*z0.r$7@;/)+ i( l
+
+S>I5:j@'&\0.q7 u2(*"$'~	i'or98:#>_8}h_nz$0@'--$}i%.K76*[/]*=G5jw88|;$:[_z
+j"oy2'*]>:0>x].r$7@=-&->n@gDQ3@xV^i[m5kF*8=<-''&m[dJ**@</^0.m6ov24@(--#_z
+y_?C~(.#;((.w9pt*`[[$:!&i5	v*8|)/>8}q'bq%&(*-|8:h-cr$3%]]?`<B@jE3#
+t@by*J_"]\7}m8cE%#[*}!7&0K.S76#><(7*h9dx~(#+$+"*o0.z&3#[$(&)w9 u
+z0kI7*'[>'+]w':q~(@^%|7(m5mv^&['\&`-h6br~%@$]*7*o6dE2_(<)^&>h( J(#;)]-
+t"nJ2^"#:.8:q-tk24:#/;(>A0	q*^@<)(7?q-pr*`[[$}$}p5gz9~;V=(&?h&mF58:;&\1
+q'.N0`%($,#_z0.z&3^)<&`.v@}C73^)*)`.m'{v25'<.(`<h6.J76[["^8<l5?
+A_}J7"<"],7=m' I3((]]^*+h6iq~$#*&!7&~K.R27(*-,8:h@hr98@^%|7(m5hr$`]>='+_l
+q'.r2%<=^(-&w~.N3=:#>:7]u&mF)8@)['@_h8?G*)|"6^!>z5 O3$]+&`7Am(jO2~#;
+l0qv@^]""^8&E@iu%_([(^8\x%dt3((]]^+[i-.v$4$+&\7>v0.K%3%$|,=.m5?q^4&"
+k"iK3`=)]-7(w-cq*8,<$'&-h@gC(*;:%,$>v).z$3##['&<m(.K04;#/;+]u@uv&3;(&
+z0kI%7<^>+*<h"aq4^;(~^7Z5@oy2#(*),N:m'nq*8%(]:'>o]:q%%'#[._}h8cF%*'#._$)p
+B".F^((=- `#h- O*3[:$,#_h@gC(*;:%,$>vU.z$3]:&\`.D6oz%%@=-&->n@gD~%&9$,#_
+k_mI7%;#|>8)B@{v2`:#>:7?p"jK24=#-]'{A-mr*8^#|'@_h-rz588#/|0_h-jq0`&(=+@[B
+B! q*8,<$'&-h-cv2*'^/|~&B@hv2([#|>*	q9 q*~'#^(_}h8?G*)|"$)*.h-cv
+q%gL&(|$>+*<cK.qnI@{$*$=q-?C2`+$((7)i'.r@*[#^(7_l@ov6W@'&|_]B].C7-'+<
+i9eL&(''$,*&z0hF)8@>]*`.t@iz$0@$]*7?B6dE&W@$]*7}w5dE5&'$<(7:m`ds~#(<}^!>z
+n6dE*3^]'."_v-nl23AU$o&2A8mv7%@)]\(_k-dF$3%$]^+*s0.G@4%"$'+&B! q*`+"$:!
+q'dK~4_#<(+{x5?E63#'_._}u0iK&3+$"(7\z@jI2([#<&8<v@ixV3"$',*.A5oy3(
+A_}J*4=<-'':G5mv6)%"$,#_h'pD48|#/)7.m-?B7*@:&<=]z0	q~%@|\'']B].t%%;:/]

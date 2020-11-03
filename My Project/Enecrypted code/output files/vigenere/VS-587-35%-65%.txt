@@ -1,0 +1,147 @@
+was in italics as opposed to why it was italics, although that may be
+desirable in some contexts.  Promising to talk a bit during the afternoon
+session about several experiments OCLC performed on automatic recognition
+of document elements, and which they hoped to extend, WEIBEL said that in
+fact one can recognize the major elements of a document with a fairly
+high degree of reliability, at least as good as OCR.  STEVENS drew a
+useful distinction between standard, generalized markup (i.e., defining
+for a document-type definition the structure of the document), and what
+he termed a style sheet, which had to do with italics, bolding, and other
+forms of emphasis.  Thus, two different components are at work, one being
+the structure of the document itself (its logic), and the other being its
+representation when it is put on the screen or printed.
+
+                                 ******
+
+SESSION V.  APPROACHES TO PREPARING ELECTRONIC TEXTS
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HOCKEY * Text in ASCII and the representation of electronic text versus
+an image * The need to look at ways of using markup to assist retrieval *
+The need for an encoding format that will be reusable and multifunctional
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Susan HOCKEY, director, Center for Electronic Texts in the Humanities
+(CETH), Rutgers and Princeton Universities, announced that one talk
+(WEIBEL's) was moved into this session from the morning and that David
+Packard was unable to attend.  The session would attempt to focus more on
+what one can do with a text in ASCII and the representation of electronic
+text rather than just an image, what one can do with a computer that
+cannot be done with a book or an image.  It would be argued that one can
+do much more than just read a text, and from that starting point one can
+use markup and methods of preparing the text to take full advantage of
+the capability of the computer.  That would lead to a discussion of what
+the European Community calls REUSABILITY, what may better be termed
+DURABILITY, that is, how to prepare or make a text that will last a long
+time and that can be used for as many applications as possible, which
+would lead to issues of improving intellectual access.
+
+HOCKEY urged the need to look at ways of using markup to facilitate retrieval,
+not just for referencing or to help locate an item that is retrieved, but also to put markup tags in
+a text to help retrieve the thing sought either with linguistic tagging or
+interpretation.  HOCKEY also argued that little advancement had occurred in
+the software tools currently available for retrieving and searching text.
+She pressed the desideratum of going beyond Boolean searches and performing
+more sophisticated searching, which the insertion of more markup in the text
+would facilitate.  Thinking about electronic texts as opposed to images means
+considering material that will never appear in print form, or print will not
+be its primary form, that is, material which only appears in electronic form.
+HOCKEY alluded to the history and the need for markup and tagging and
+electronic text, which was developed through the use of computers in the
+humanities; as MICHELSON had observed, Father Busa had started in 1949
+to prepare the first-ever text on the computer.
+
+HOCKEY remarked several large projects, particularly in Europe, for the
+compilation of dictionaries, language studies, and language analysis, in
+which people have built up archives of text and have begun to recognize
+the need for an encoding format that will be reusable and multifunctional,
+that can be used not just to print the text, which may be assumed to be a
+byproduct of what one wants to do, but to structure it inside the computer
+so that it can be searched, built into a Hypertext system, etc.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WEIBEL * OCLC's approach to preparing electronic text:  retroconversion,
+keying of texts, more automated ways of developing data * Project ADAPT
+and the CORE Project * Intelligent character recognition does not exist *
+Advantages of SGML * Data should be free of procedural markup;
+descriptive markup strongly advocated * OCLC's interface illustrated *
+Storage requirements and costs for putting a lot of information on line *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Stuart WEIBEL, senior research scientist, Online Computer Library Center,
+Inc. (OCLC), described OCLC's approach to preparing electronic text.  He
+argued that the electronic world into which we are moving must
+accommodate not only the future but the past as well, and to some degree
+even the present.  Thus, starting out at one end with retroconversion and
+keying of texts, one would like to move toward much more automated ways
+of developing data.
+
+For example, Project ADAPT had to do with automatically converting
+document images into a structured document database with OCR text as
+indexing and also a little bit of automatic formatting and tagging of
+that text.  The CORE project hosted by Cornell University, Bellcore,
+OCLC, the American Chemical Society, and Chemical Abstracts, constitutes
+WEIBEL's principal concern at the moment.  This project is an example of
+converting text for which one already has a machine-readable version into
+a format more suitable for electronic delivery and database searching.
+(Since Michael LESK had previously described CORE, WEIBEL would say
+little concerning it.)  Borrowing a chemical phrase, de novo synthesis,
+WEIBEL cited the Online Journal of Current Clinical Trials as an example
+of de novo electronic publishing, that is, a form in which the primary
+form of the information is electronic.
+
+Project ADAPT, then, which OCLC completed a couple of years ago q3%^#-|
+n6{K2`:#%"*{B5oF2&';\/`#h@nq33+]"('&q'.N0`%($:&_h-?B7*@/%-`&q^?x7*@"-,#_z
+q'.G3'':$:-&u@{I%9(+[^8<l5{F$-':>\7}p0hq3);]['+]k6gC+3;]$'7?m6mt04$+&
+m% t*&[[-&7-i-?s3*'9$($}p0mq%%U+-|`&w(.C%6#+~^7wp0.F^8|$>+&=h6nJ($]<-:&
+q).K04;#%&0_x-dE93:][(7(t0hz&~';$+&&B! q64;$0^`?x0{z3#_?$)*.
+z0oI%6[[,(-?q"iq%9@=%,`.q6gJV3\)=]7;i$ q~(@//\_]j% q*^@$'&*;x%dJ03+];(2
+V"oq7%[>(_7;w' P2`:#%?8]t6}C73;]$\=\x"mK2'':*(0}h8jE)8|;-:&$
+
+5>DS:}@:&]8}m9.J7-':%]7?B0kJ2(#_&|7}w5kv"9[:[^$;i` q^&'/;:0_A)dE9
+/&mF58:;-|@&w'.K08@)['@_h7 w%&'#|(-+w(hz$0@]|,$)i%.t04|$',`.
+z0{F9%(<-:&1b5?J2_'+=^8?h@hr98@//\+\z"{v&*([(!7&P0.u7%(""^+[m5 O~*;"]&`
+w~.z$('+=+@_v-.t04|$',`.h( t%0=)>+*<h6iu24:;&>+_l5oy3(@,)'+&q).N3%;""^$?
+x6bv2&'^/-&]B@jEV3\(-&#&q).r2#[[(^]*G5jw8X@#mcafh!?J28,/&>$;m'ov63\)>_
+u0mx~%&#/)7;C%oz^#'#/;+]k6gq5~#:%&+_z5mv5^&[-,$>v5nP&('=<^+[i-.N~#_
+z0	L58@";>*.A5aI%$@$]^=<i8{v^(#%=(7.i- q%9@B$&#*z6{K7&:#/.+&w~.v)8|?
+tY5+t3;]$'&&C'?t58]<%"'_h(?K73[&$B7)p6mr5(':<^*{B5jw28>";	7:bw5+V3$>>^$}
+q).E%(@*/:~&m'jL9~9#$i+&E@gC2%'\&>7(m5kv"9'^>!
+
+K"it7&=)]-7}p0.T	ca#n>*/m8ok2haf ea&w7nv"-''$,#*B5wv@#%];(7]A5or!`=*$,#_
+B"kF9&#/)	7+q% JV3'.>>8)B@ix2(*"$;8=m5dD30';0^8<l5{F$-':>+&=h-cF&8
+B"kF9&#/)	7+q% J2([#qgboh^?I!)]0$^ah1{.y3%^;$,#*B5	r*4@]*)7}w5JT?|8#._$)p
+j_dC6*@<)'+&l6or2`=</^8&V0rK%%@'%,8(i) k2(*"$\8;m5nP&('=$,#*B5pE68|+-(_
+B! q%%U+-|`&A]nK7$@)]^[]z-pr@#.#%]'&w~.K08@:&)`.m'{v2'|]".0}A5?K2 	ia!
+2! q@^=*W,`.u5bF3#@)<^+>h^?B73;(&^_bA- D&3([>(->x0mr4#'#<:7}p6oq$^;#_._}
+J0gC5^|"Q\7?G)ov#3#["^dfT;@J2*.;>("&k6iq36%"<\7}p@nq64;$0^9{B5jK08|
+A]nK7$:#''&&i).N7#_9$'&-h-cv2@'?$,*&B!?K2`:#>_`&8p4lou@^//">v5{F#$#["
+t6ix(4&"$'&-h-cv29<+=Y+_F-.v_('[<+*<c5.%mt9BH^$?h~dE73"];^bdZ;.I76[:"\1
+j_oq~*@[/,7_v"px03;]$**&q-.w%&@&\]'&B0sK2H;(%,7]AY.D3@'#*.':h- O**
+q'ov"^]";'9:mK;
+
+5>DS:}@[&{+&w_oC~%''$,#_h8mz*`%$=^->t0.F83odkl7+w(.r2-#:-(+bh"aq^)|//\`?b
+n"mq7+#=|]`#h6nq$^;""^9bh.JT.;u9$+&&B! q-^|+"^*+h0sK"8+"=	7:i(bv
+l6or44:"<`7{A@ix2~(*)]|&A-mL5(<:&*7-i-?q*^@/&>!>z^.w~8_'$\`*z8cv&X
+5>DS:}@$;-=_l5oy3(@%}^9{q%	z$0@<)(7?B(pt*)|"$:!&B! q64;$$+&&/@;vWW@<)(
+A-mL5(<:&^*+h-cv27#<%^*.q`dE3#_?$:&&i5kI~%;""^(*o0'k2`;#^(0>u0nq74:?$,*
+t"jB24;#%^%>C(ir@3#:>+0:m5 M7%@)*^*<m5{r$%[<$>`*l5oy73%(%>8)B0mJ24='$[&>E
+E! I73;(&^+]B% q%&@$\,#>z5dJV3[:$}#*B5oy73:"',$>v).F83;(%,7-w8pD7%;#.:=:l5}vW
+W;GT2_#[>\7}w5hr!8@<)'+&A-mL5(<:&^`ax%dt~(@)]^+[m5	r*4$$<(1&j0{r(*'#-,7 q%g
+j0.z#'[:>'&}h~jI2&'<;+`	i%.G(&]]<(_$
+
+2! q&8%]]*7(q`.r6-#[>'@_h"aqc>ii$+_&B!?K2`;#(+[_A5jE73;(&^8(q%dK+3;]
+j_dC63:<;.0}C( q~%;]$,#_h9?K35#;&^+[i-.t3%@%&^=?m9.w%&@'-\(:i].G(&]]<(_
+E@oy%);#':&}i^dE3(([(^+[m5	r*4@,-,#&q'nK")%<-:&?h6}F((@(/}7}w5aF"$#<
+B!dE9*9#$t#_h9dJ*`=^>+*<h%dv&3$">}`_v5kI%6''\>8:h^?I!)]9$}#]k!.K7#_;$:&_
+E! I73;]$;=}h9jK&3[[$,#_h&?x7W@$]*7-m){I~';),(7;i(fL^W@,)+0[h9 J5&(%&\
+B! q7#'=&|+?h"aq33^]'."_v-;
+
+5>DS:}@%&]$_D0nq*~#<$,#_z0.J0^<+"^9_h'jq^&[^&*=.i%.D3&->|^$<h-cv27#<%^8}
+i%gk2(*$>^+[m5	r*4@;):=:l5}v26[=|]`}m%tq(%:>=]$_l5}P2`=&/>"*B@jE24$]\,
+q-?C~6:#/>7(w%	E7*:0$^i[i-.J0^<+"^9_h% w*3</$,*&B! q6`:/='|&l0qz588
+E! K08|#>_8}h9dJ^##?$*`	q8 q~*@$$;8=m5kI~%;";^*.h6.J5&'"]^~]A&gr+3^",+0_c
+J].B78])]-7>v0@J27#<%"8?m5aI78@]*^+[i-.B~%^#/)7)w'or#`=$>+*<b5jE73%$]
+u6fv27'^-\$>v).u%_=#>_`&z"?uV3"];^`ai^kC7W@:&:-=i'dQ73;(&^~*B6.z$3\$}

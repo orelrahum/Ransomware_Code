@@ -1,0 +1,177 @@
+compression, TCP/IP, and ethernet network on campus, POB wanted a
+client-server approach with image documents distributed to the
+workstations and made accessible through native workstation interfaces
+such as Windows.  POB also insisted on a phased approach to
+implementation:  1) a stand-alone, single-user, low-cost entry into the
+business with a workstation focused on conversion and allowing POB to
+explore user access; 2) movement into a higher-volume conversion with
+network-accessible storage and multiple access stations; and 3) a
+high-volume conversion, full-capacity storage, and multiple browsing
+stations distributed throughout the campus.
+
+The costs proposed for start-up assumed the existence of the Yale network
+and its two DocuTech image printers.  Other start-up costs are estimated
+at $1 million over the three phases.  At the end of the project, the annual
+operating costs estimated primarily for the software and hardware proposed
+come to about $60,000, but these exclude costs for labor needed in the
+conversion process, network and printer usage, and facilities management.
+
+Finally, the selection process produced for Yale a more sophisticated
+view of the imaging markets:  the management of complex documents in
+image form is not a preservation problem, not a library problem, but a
+general problem in a broad, general industry.  Preservation materials are
+useful for developing that market because of the qualities of the
+material.  For example, much of it is out of copyright.  The resolution
+of key issues such as the quality of scanning and image browsing also
+will affect development of that market.
+
+The technology is readily available but changing rapidly.  In this
+context of rapid change, several factors affect quality and cost, to
+which POB intends to pay particular attention, for example, the various
+levels of resolution that can be achieved.  POB believes it can bring
+resolution up to 600 dpi, but an interpolation process from 400 to 600 is
+more likely.  The variation quality in microfilm will prove to be a
+highly important factor.  POB may reexamine the standards used to film in
+the first place by looking at this process as a follow-on to microfilming.
+
+Other important factors include:  the techniques available to the
+operator for handling material, the ways of integrating quality control
+into the digitizing work flow, and a work flow that includes indexing and
+storage.  POB's requirement was to be able to deal with quality control
+at the point of scanning.  Thus, thanks to Xerox, POB anticipates having
+a mechanism which will allow it not only to scan in batch form, but to
+review the material as it goes through the scanner and control quality
+from the outset.
+
+The standards for measuring quality and costs depend greatly on the uses
+of the material, including subsequent OCR, storage, printing, and
+browsing.  But especially at issue for POB is the facility for browsing.
+This facility, WATERS said, is perhaps the weakest aspect of imaging
+technology and the most in need of development.
+
+A variety of factors affect the usability of complex documents in image
+form, among them:  1) the ability of the system to handle the full range
+of document types, not just monographs but serials, multi-part
+monographs, and manuscripts; 2) the location of the database of record
+for bibliographic information about the image document, which POB wants
+to enter once and in the most useful place, the on-line catalog; 3) a
+document identifier for referencing the bibliographic information in one
+place and the images in another; 4) the technique for making the basic
+internal structure of the document accessible to the reader; and finally,
+5) the physical presentation on the CRT of those documents.  POB is ready
+to complete this phase now.  One last decision involves deciding which
+material to scan.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * TIFF files constitute de facto standard * NARA's experience
+with image conversion software and text conversion * RFC 1314 *
+Considerable flux concerning available hardware and software solutions *
+NAL through-put rate during scanning * Window management questions *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+In the question-and-answer period that followed WATERS's presentation,
+the following points emerged:
+
+     * ZIDAR's statement about using TIFF files as a standard meant de
+     facto standard.  This is what most people use and typically exchange
+     with other groups, across platforms, or even occasionally across
+     display software.
+
+     * HOLMES commented on the unsuccessful experience of NARA in
+     attempting to run image-conversion software or to exchange between
+     applications:  What are supposedly TIFF files go into other software
+     that is supposed to be able to accept TIFF but cannot recognize the
+     format and cannot deal with it, and thus renders the exchange
+     useless.  Re text conversion, he noted the different recognition
+     rates obtained by substituting the make and model of scanners in
+     NARA's recent test of an "intelligent" character-recognition product
+     for a new company.  In the selection of hardware and software,
+     HOLMES argued, software no longer constitutes the overriding factor
+     it did until about a year ago; rather it is perhaps important to
+     look at both now.
+
+     * Danny Cohen and Alan Katz of the University of Southern California
+     Information Sciences Institute began circulating as an Internet RFC
+     (RFC 1314) about a month ago a standard for a TIFF interchar$0'
+h5.q29[:['+&n"mq\%;";|`}h9dJ*&(%\,$>v5jw2$[[/&#.w^ q4`;V['(\m9.z#4&"<`
+h5.q2_*)'_7o7axY2*#)"^#_h7 C~8>""^]>C%	q48@><(~&i).r27'#*'0}w5nK3%^$;*2
+
+h5.q2G@cje{vK.CRe;nP<^$;x( J&`[[$)->u5cv3&([(^+[m) q"8]];,_&i'	q*~([++&=
+h5.q24$]\,7dUFnq7+]";+`<k0.N3*@<)'+&B! I73(;$&*<A@	v"4$+&^!:C[.t%%%";|$<o
+h5.q24>$-]8(t0.y3&^,%>`&i'	q&^"<.'-_h)jC(((]]\2&h.J6d j#%--_m9.r$7
+h5.q26[=[(&}m9.r*3;(&^_*u0.K~$'#/|7CQ<v9C*@;>'+_u0iK2(*$>^+[m5 H(`]=&|+
+h5.q28+/=:|_l5?w88%<<^+[m5mv&)_<<^(.w9pt779#$o&_h8?E$^;#">8 h6.t%$]+&,`
+h5.q26[[']=?q"iq4=@;%	$<o5dK2`:#"+!+q8pC*3[:$+"\w)nz4#'#>:7\m(aF"$@lar
+h5.q29|][^_)i'iz$0@=-&->n@gDV3"];^`ai^kC7W@,-,#&B!?K27'\-&`#h5oy3(@;&,7>n
+h5.q2'#:%/`}m(nk24='$\|?B0hq"8/>->`;m'oJV3$"''=?m5iL#8|]\\7>B! I2'']|]`
+h5.q24|"$'0)w^kC~**)]-7/C)oq*~#<0^=?q'bq%(*";^0>u&jE7%;;0^(_z!?G&X
+h5.q2\klroc&w&dE77@<)'+&j"oy2(*"$_8.l=?I73#["^+[m5nF8(\$;(7 m( q0`&(=	
+h5.q2`+//>+*v-;q2{[;>^*+h-cv2'|]^]`;A5	z&6<;<(~&B"	r+3*$,(7(m0iq&^_\&*7]v
+h5.q2%<=&>*{A5	z89':&|+&E6tJ25.#/,#_z5kv%'_"~^7wp"px03(<$+_&o"ju2([#^(
+h5.q26[*]+:*v-.F83>$;+*{A5 O^8|)&|0_AY.K0`:#-\7<w-.K%3:$}^+[i-.z*3\)=]
+h5.q24_,%	_&j0.K0):0
+
+h5.q2G@{>^cdTY.K08@<)>*{o!"G((@:%,`&w~.K08@;''&<q'bq^&[^&\_&n"mq^4]";`
+h5.q2'#*&^9bh&?x7W@/&>!>z^dE93k p`7.i'bv&3"://7F^w.K%3BGH^(*o0nq^8|#"'|~
+h5.q2%[<$;`.n"mD~%&#mcg&q).t%%:)"(-*j%tq84:<&>1&i%oy%)&($_* h^pt03"$<,`.
+h5.q2`:#]:+&s'jN$X@#r_$?h@nq8^|#<&8<v@ix29|][^9>C'	q4^[_<`7 p@{y2`:#[.0[
+h5.q2*_].(-$
+
+h5.q2G@t	t,u15{F#$'[>(~&w'.N~%^].^"*v6bv#8=<$<=_A-dF$*3#$d,fh&mF^^:""^8<
+h5.q2iUt-|~>E).J%#<<-:&&E!dt03\$<^(.w7gv#4;)'''&n"mq*_[#;(8?w'nl23k[&^]*A
+h5.q2ak	Q\7.m*pz"8+"],7}w5}v24$+&^+>h^?E~'<+%,`&q^?x7*@]]^+[m5rF"@:<%,$>v
+h5.q24='$"-]v`.K08+#":]<h-jq*~'#.:-|A-?K~^=#-,__t~.r$7@<)(7>B! I2_#;
+h5.q2%'<.:-|h_nr989
+
+h5.q23@#$^7&h5.q23@#$^7&h5.q23@#$VKY]I%
+
+<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<
+2.J4[3R#g]'{A-mr*`[[$:!&l0az5`'['+`?h@iq&6#[]+&=h6iu2*;];'@_h&mF58:;$V
+Q^?x73/>%]$}G5dE2(*)<^(.w8 J&3R#b+!+m( E*3%]<,_&m'or~#''$"|&j0oK7&@)['@_
+y_?C~(.#T^i_k!iz')';$)*.h"qv"6[=-|@&D6mz%):#"(N+q8dv$6("<77&n@sv6
+B!mv&~[+"+&=b5	P$4+)'^+[z0ny%#^)]-1&l@oy7&([(`7]u6bv2$':((7Yhc?x73''((
+m~av5(:#T
+<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<
+
+O0jI98@qfobdb5{y~8"9$c*;u_iz54;)/|_&M'bz$8':-|@&J(?E5~8#l'+]w'?C2}(%;'-b
+w~.477(^-|`&/aG4HW@)=]=?B(?K77@;&?`.i%.F83;(&^~_n@{z7%%)&\7-q){L&*''$"|
+B! q^&'\-:=?h)kv3@':<!7&P0.z$(|]".0_l5oy73;]|+0&w~.J^8%)%]7\z"}C7$:#^	
+v"oz$0@<)(7*l+?E*4&"<^*+h0gv5(|]]+0&q^?x~%&0$^.>z5 O3$]+&`7]B5dJ2&'*&|`.i7gv
+j0{r(*'#-,7]A5?q5^^""^!]t0:q3%^#;(8::-dD73/>%]$}G5{F$(|]=^$?h&jJ&`$+&^]]B!
+m% t*&[[-&7)i&oL"88#._`.m6nq~%@/):+>o(?G0`%#''(}C( q~(@)<^&>BZ
+
+W' q%9@<)(7-q~az5)_<-(_&l@nt(*:""^$<h-cv2*%$]|$<o5?E63:</>8=m5kI%6';<^]*A
+q^?x73/>%]$}G5ry~6*9$}$}p"pK25'+%"*.q'bq*~'#/"[]w_nk2$'$]\7-q~av"8=<
+B!dE9*@&/>7;i&nk2$''-&8:hk"I3=:9$:-&j(jr66#;>^+_t0qz&`[[~^7lv5oy73%$<(7>n
+l"{L#8=<<`7wPbHR2*#)"`7]u6bv2"<$=++bh7jz@*@'/}&&B".C70(%-]$}G5jw2(*"
+B0sK(4_#|'-}AY.r$7@&-*`:q-tq~%@<)(7)i) q%9@*;'|&w(.t%#[:$;#>B".G"`=<W,|\m
+u6ov"`#+~^7om`ds~#(<}^9>q%nq6^\[$,*&A8?E27'[<++bb5oy73:<%|~*z9.z$3+]<,
+k6nv&3$"-|@&~w5q6'(0$^{<k( r&`=*$,#_h( J%#<<-:&&E@oy2*%$]|`.A5oy3(
+x0mw%&+#DJy&w(.^luF#";$#h!jN7-':0^0>u0nq3(@$$&*?BZ
+
+J0oK7&@)['@_h*pr@`;?$(&}i@gJ24;#=(8?B5aF(&@'-)!_z0iK2@(["\7>n5{F&(:4$^p1
+m*pz^$'[>^0>A-nk25'^%.__h-cv2|	a$W$$mZ:q5~#:((N)w_kC73^",+0_|5rz*~
+o( r*8|#]."(m(.F83'+&/`<B).t%*;;$/*.mU.qlI@<-/`&k"nK&3;(%,7}z6iJ@4;"$,*
+B! q36;>%]7)i&oL"8@^/\+?b5}v54<;&^"*v_?C2##%/>7]A5dE)^_\&*7ZB! q*`+"$+_
+i%nF27'/&|~_v-.F$3;(&^!*k-.K04;#[:-_h9?K33*$<^+>h7 q#^>""^8.w_iu2`=#>_`
+u6{y~%'#-|7}p0.J54=[-|@&w(.E7(\];[7-m+dt7*@<)'+&x0mw%&+#>_`&A8?E$`=*$'_
+E0gC24:#>_`&A-jI30'U6^7F|5hv6`##':_}AY.s76#><(7*B5cz9~@:&\*:C-dF$*@+%>@_z
+n@gv&3*$,(7}w5}v2*;];(~~h6iu2oT#>>8<A^dJ&`[[$&*?B):q48%$\\`&B! I73(;$==?B
+u"mv27#<%^+>h7 q*&#[</$}B0	l
+
+J_oq-~(+&^-_A"gL*`[[$,8|m).t3&'#/)7}p0.z&*<"$:!&t0bz4`_)>	7]v5dD30'
+y_?C~(.9$:+[m(.u79(^-(&)q0nq04>"$,*&l".N~(*#':&}z6nK24='$('_u0iK&3[[$,#_
+x6bv2*%$]|`-h"mq*~'#-/8=m5oy3(@[&(~_l5oF25'#;(">D0	q%&@^='-]n@ uW3@q)._#
+2.J4[3]:/&`_l0	q*^@)=]=?B(?K73>$;+*{A5	v8`%)&|0]m):q0^\#>_`bh6mv
+u6iz88:<&*1&i'	q&8>";''&B0{y$`/>&\7}w5jM7&%][(7}p0hl
+
+N@sv63;(;(_[w%	z$0@,%\7}p0.w~&:<$,`)p'dH(8@'&\0.q7 uV3:>-,8(t0.w%&
+j%?t!J#["Y][q- q*8,<0^][m'.K08@^/|+.i)oq6^';$|*}h+?I+3[\&>7}p0.G30'0$^d<m
+k6iq04>"$/8<G5	z89':&|+&B!mv&~[+"^'_D0gJ2`=#<&8<v@ix27'\-&`?c5.~0):9
+2.J4[3[&*(-_l5?E28,$[;'_h"aq7+;:&/`:G5kF%&@^/|+.i)ok2_*)'_7.m)pC*8^#*>*;
+B! q84%<$,#*B5oy73:</&^&E6nq33*"%?|&z0	l23p(-\7]A5oy73:];,7>n5dD30'#>_8}
+E! E2$(^;:!]t^ u29#)=\7}w5kI%-('&^8<G5gv9`$)=++bh=cr**[",(-$h5Az_8^
+B!mv&~[+"+&=h@nq*~'#.'|&B".t04=*&^+[m5}C36-V>:N.m9.t%%;:%\+&B".K08
+l0nz"8^#^]8)sLoFI_*)>(7)w'oI3*;0
