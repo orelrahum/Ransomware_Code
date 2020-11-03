@@ -1,0 +1,140 @@
+and various service bureaus, ERWAY concluded pessimistically that no
+breakthrough has been achieved.   Incremental improvements have occurred
+in some of the OCR technology, some of the processes, and some of the
+standards acceptances, which, though they may lead to somewhat lower costs,
+do not offer much encouragement to many people who are anxiously awaiting
+the day that the entire contents of LC are available on-line.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZIDAR * Several answers to why one attempts to perform full-text
+conversion * Per page cost of performing OCR * Typical problems
+encountered during editing * Editing poor copy OCR vs. rekeying *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Judith ZIDAR, coordinator, National Agricultural Text Digitizing Program
+(NATDP), National Agricultural Library (NAL), offered several answers to
+the question of why one attempts to perform full-text conversion:  1)
+Text in an image can be read by a human but not by a computer, so of
+course it is not searchable and there is not much one can do with it.  2)
+Some material simply requires word-level access.  For instance, the legal
+profession insists on full-text access to its material; with taxonomic or
+geographic material, which entails numerous names, one virtually requires
+word-level access.  3) Full text permits rapid browsing and searching,
+something that cannot be achieved in an image with today's technology.
+4) Text stored as ASCII and delivered in ASCII is standardized and highly
+portable.  5) People just want full-text searching, even those who do not
+know how to do it.  NAL, for the most part, is performing OCR at an
+ac8pJtV 8l?p Fd" t4d"tRdd?|Nd FtRd lx tFF"l |$tpdVt pB?  F8> ?8t>? p`d
+FtRd pl 8"dtpd p`d dVd8p"l>|8 |$tRd t>= Ft??d? |p p`"lJR` p`d Zdp =d4|8d?
+
+=Bx8p >d p "d`dt"?d= ?d4d"tV ptF|8tV F"lNVd$? d>8lJ>pd"d= =J"|>R d=|p|>R?
+""t|?|>R p`d 8dVd"|pt lx `d" ?pJ=d>p )l"Bd"?" =Bx8p lN?d"4d= p`tp d=|p|>R
+"dZJ|"d? tFF"l |$tpdVt x|4d pl pd> $|>Jpd? Fd" FtRd" t??J$|>R p`tp p`d"d
+t"d >l Vt"Rd ptNVd? pl tJ=|p?  dl>xJ?|l> t$l>R p`d p`"dd 8`t"t8pd"? B" d"
+t>= V" 8l>?p|pJpd? Fd"`tF? p`d $l?p 8l$$l> F"lNVd$ d>8lJ>pd"d=?  =d"ld?
+t>=  Z)? tV?l t"d  x"dZJd>pVt 8l>xJ?d=?  xlJNVd l)? 8"dtpd t Ft"p|8JVt"
+F"lNVd$" d4d> l> 8Vdt> FtRd??  4`dt t"d ?l )|=d |> $l?p xl>p? p`tp p`dt
+plJ8`" t>= p`d ?t?pd$ ?|$FVt 8t>>lp pdVV )`d"d l>d Vdppd" d>=? t>= p`d
+lp`d" NdR|>??  dl$FVd  FtRd xl"$tp? l88t?|l>tVVt xt|V pl 8lVJ$>tpd
+F"lFd"Vt" )`|8` d>pt|V? "d?8t>>|>R t? p`lJR` l>d )d"d )l"B|>R )|p` t
+?|>RVd 8lVJ$>" d>pd"|>R p`d 8JdBB" t>= =d8lVJ$>tp|>R xl" Ndppd"
+?dt"8`|>R?  t|p` F"lFl"p|l>tVVt ?Ft8d= pd p" Zdp 8t> `t4d =|xx|8JVpt
+=|?8d">|>R )`tp |? t ?Ft8d t>= )`tp t"d $d"dVt ?Ft8d? Ndp)dd> Vdppd"?" t?
+lFFl?d= pl ?Ft8d? Ndp)dd> )l"=?" t>= p`d"dxl"d )|VV $d"Rd pd p l" N"dtB
+JF )l"=? )`d"d |p ?`lJV= >lp?
+
+=Bx8p ?t|= p`tp |p 8t> lxpd> ptBd Vl>Rd" pl d=|p t Fll"d8lFt Zdp p`t> pl
+Bdt |p x"l$ ?8"tp8`?  F8> `t? tV?l d Fd"|$d>pd= )|p` Ft"p|tV d=|p|>R lx
+pd p" )`d"dNt F"lhd8p )l"Bd"? Rl |>pl t>= 8Vdt> JF p`d xl"$tp" "d$l4|>R
+?p"tt 8`t"t8pd"? NJp >lp "J>>|>R t ?FdVVd8`d8B?  F8> 8l""d8p? ptFl? |>
+p`d p|pVd t>= tJp`l"?) >t$d?" )`|8` F"l4|=d? t xllp`lV= xl" ?dt"8`|>R t>=
+N"l)?|>R?  R4d> d p"d$dVt Fll"dZJtV|pt Zdp 8d?R?" h>dFd"8d>p t88J"t8t=
+8t> ?p|VV Nd ?dt"8`d=" Nd8tJ?d >J$d"lJ? )l"=? t"d 8l""d8p" )`|Vd p`d
+|$Fl"pt>p )l"=? t"d F"lNtNVt "dFdtpd= lxpd> d>lJR` p`tp p`dt t"d V|BdVt
+pl Nd xlJ>= 8l""d8p ?l$d)`d"d?  >|N"t"|t>?" `l)d4d"" 8t>>lp plVd"tpd p`|?
+?|pJtp|l>" p`lJR` d>= J?d"? ?dd$ $l"d )|VV|>R pl J?d p`|? pd p xl"
+?dt"8`|>R" F"l4|=d= p`tp F8> |>=|8tpd? p`tp |p |? J>d=|pd=?  =Bx8p
+8l>8VJ=d= p`tp "dBdt|>R lx pd p $tt Nd p`d Nd?p "lJpd pl ptBd" |> ?F|pd
+lx >J$d"lJ? F"lNVd$? )|p` ZJtV|pt 8l>p"lV t>= 8l?p?
+
+                                 NNNNNN
+
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+xBJd)JJBZF N ll=|xt|>R t> |$tRd Ndxl"d Fd"xl"$|>R Zdp N F8>)? 8l?p? Fd"
+FtRd N8l)? 8l?p? Fd" FtRd t>= d Fd"|d>8d )|p` `d=d"tV ""|?l> B>=J?p"|d? N
+RVd$d>p? 8l$F"|?|>R F84x")? 8l?p? Fd" FtRd N Zdp t>= ?p"J8pJ"d= $t"BJF N
+x|?p|>8p|l> Ndp)dd> p`d ?p"J8pJ"d lx t =l8J$d>p t>= |p? "dF"d?d>ptp|l>
+)`d> FJp l> p`d ?8"dd> l" F"|>pd= N
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+hZZ4ZF F"dxt8d= p`d Vd>Rp`t =|?8J??|l> p`tp xlVVl)d= )|p` ?d4d"tV
+8l$$d>p? tNlJp $l=|xt|>R t> |$tRd Ndxl"d l>d "dt8`d? p`d Fl|>p lx
+Fd"xl"$|>R Zdp?  `l" d t$FVd" |> "dRt"= pl t> tFFV|8tp|l> 8l>pt|>|>R t
+?|R>|x|8t>p t$lJ>p lx "d=J>=t>p =tpt" ?J8` t? xl"$dptFd =tpt" >J$d"lJ?
+8l$Ft>|d? pl=tt t"d )l"B|>R l> 4t"|lJ? B|>=? lx xl"$ "d>d)tV" F"|l" pl
+Rl|>R p`"lJR` t "d8lR>|p|l> F"l8d??" Nt J?|>R ="lFlJp 8lVl"??  4`J?"
+t8ZJ|"|>R t88d?? pl xl"$ =d?|R> l" J?|>R dVd8p"l>|8 $dt>? t"d )l"p`
+8l>?|=d"|>R?  hZZ4ZF tV?l >lpd= p`tp 8l>4d"?|l> J?JtVVt $tBd? l" N"dtB?
+l>d)? |$tR|>R ?t?pd$?  Bp |? d p"d$dVt |$Fl"pt>p" d p"d$dVt 8l?pVt |>
+pd"$? lx d|p`d" 8tF|ptV |>4d?p$d>p l" ?d"4|8d" t>= =dpd"$|>d? p`d ZJtV|pt
+lx p`d "d$t|>=d" lx l>d)? ?t?pd$" Nd8tJ?d |p =dpd"$|>d? p`d 8`t"t8pd" lx
+p`d "t) $tpd"|tV J?d= Nt p`d ?t?pd$?
+
+dl>8d">|>R p`d xlJ" F"lhd8p? J>=d"ptBd> Nt F8>" p)l |>?|=d t>= p)l
+Fd"xl"$d= Nt lJp?|=d 8l>p"t8pl"?" =Bx8p "d4dtVd= p`tp t> |>d`lJ?d ?d"4|8d
+NJ"dtJ d d8Jpd= p`d x|"?p tp t 8l?p Ndp)dd> pV t>= pd> Fd" FtRd xl"
+d4d"tp`|>R" |>8VJ=|>R NJ|V=|>R lx p`d =tptNt?d?  4`d F"lhd8p J>=d"ptBd>
+Nt p`d dl>?JVptp|4d |"lJF l> B>pd">tp|l>tV 8R"|8JVpJ"tV pd?dt"8` 8d|B8p=
+8l?p tFF"l |$tpdVt pd> Fd" FtRd xl" p`d 8l>4d"?|l>" FVJ? ?l$d d Fd>?d?
+xl" p`d ?lxp)t"d t>= NJ|V=|>R lx p`d =tptNt?d?  4`d 88|= pt|> ""lhd8pddt
+p)ld=|?B ?dp F"l=J8d= Nt p`d )>|4d"?|pt lx  d"$l>p" 8l>?|?p|>R lx
+dt>t=|t> FJNV|8tp|l>? l> t8|= "t|>dd8l?p ph?B> Fd" FtRd xl" d4d"tp`|>R"
+|>8VJ=|>R Bdt|>R lx p`d pd p" )`|8` )t? =lJNVd Bdtd=" ?8t>>|>R lx p`d
+|$tRd?" t>= NJ|V=|>R lx p`d =tptNt?d?  4`d |>d`lJ?d F"lhd8p lxxd"d=
+8l>?|=d"tNVd dt?d lx 8l>4d>|d>8d t>= R"dtpd" 8l>p"lV lx p`d F"l8d???  Z>
+p`d lp`d" `t>=" p`d ?d"4|8d NJ"dtJ? B>l) p`d|" hlN t>= Fd"xl"$ |p
+d Fd=|p|lJ?Vt" Nd8tJ?d p`dt `t4d $l"d FdlFVd?
+
+8? t J?dxJV 8l$Ft"|?l>" Rpt88 "d4dtVd= 8l)? 8l?p? t? xlVVl)?$  p>?B|
+8d>p? pl p>?V| 8d>p? Fd" p`lJ?t>= 8`t"t8pd"?" )|p` t> t4d"tRd FtRd
+8l>pt|>|>R x"B>> 8`t"t8pd"??  pdZJ|"d$d>p? xl" 8l=|>R t>= |$tR|>R
+|>8"dt?d p`d 8l?p??  4`J?" 8l>4d"?|l> lx p`d pd p" |>8VJ=|>R p`d 8l=|>R"
+8l?p? tFF"l |$tpdVt pR Fd" FtRd?  84`|? x|RJ"d =ld? >lp |>8VJ=d p`d
+|$tR|>R t>= =tptNt?ddNJ|V=|>R |>8VJ=d= |> p`d F8> 8l?p??=  8l tV?l
+d>hltd= t `tFFt d Fd"|d>8d )|p` `d=d"tV ""|?l> B>=J?p"|d?" )`|8`
+F"d8VJ=d= p`d >d8d??|pt lx Rl|>R p`"lJR` p`d "dZJd?pdxl"dF"lFl?tV F"l8d??
+pl t)t"= t 8l>p"t8p" Nd8tJ?d |p |? t>lp`d" Rl4d">$d>p tRd>8t?  4`d
+F"|?l>d"? Fd"xl"$d= 8l)? "dBdt|>R hJ?p t? )dVV t? lp`d" ?d"4|8d NJ"dtJ?
+t>= F"l4d= `t>=t t? )dVV?  8l ?`|FFd= p`d$ p`d NllB?" )`|8` p`dt )lJV=
+F`lpl8lFt l> t NllBdd=Rd ?8t>>d"?  4`dt )lJV= Fd"xl"$ p`d $t"BJF l>
+F`lpl8lF|d?" "dpJ"> p`d NllB? t? ?ll> t? p`dt )d"d =l>d )|p` p`d$"
+Fd"xl"$ p`d Bdt|>R" t>= "dpJ"> p`d $tpd"|tV pl 8l l> tZpl =|?B??
+
+=Bx8p =dpt|Vd= p`d dVd$d>p? p`tp 8l>?p|pJpd p`d F"d4|lJ?Vt >lpd= 8l?p lx
+tFF"l |$tpdVt pB Fd" FtRd?  ll?p ?|R>|x|8t>p |? p`d d=|p|>R" 8l""d8p|l>
+lx d""l"?" t>= ?FdVVd8`d8B|>R?" )`|8` p`lJR` p`dt $tt ?lJ>= dt?t pl
+Fd"xl"$ "dZJ|"d" |> xt8p" t R"dtp =dtV lx p|$d?  pdxl"$tpp|>R pd p tV?l
+ptBd? t )`|Vd" NJp t ?|R>|x|8t>p t$lJ>p lx F8>)? d Fd>?d? t"d xl" dZJ|F$d>p"
+)`|8` )t? d p"d$dVt d Fd>?|4d )`d> FJ"8`t?d= Nd8tJ?d |p )t? l>d lx p`d xd)
+?t?pd$? l> p`d $t"Bdp?  4`d 8l?p? lx dZJ|F$d>p t"d Nd|>R t$l"p|Nd= l4d"
+x|4d tdt"? NJp t"d ?p|VV ZJ|pd `|R`" >dt"Vt px">>> Fd" $l>p`?
+
+hZd$R8 "t|?d= t Rd>d"tV ZJd?p|l> 8l>8d">|>R Zdp t>= p`d t$lJ>p lx d=|p|>R
+"dZJ|"d= 8?JN?pt>p|tV |> `d" d Fd"|d>8d= pl Rd>d"tpd p`d B|>= lx
+?p"J8pJ"d= $t"BJF >d8d??t"t xl" $t>|FJVtp|>R p`d pd p l> p`d 8l$FJpd" l"
+Vlt=|>R |p |>pl t>t "dp"|d4tV ?t?pd$?  J`d )l>=d"d= |x p`d ?FdtBd"? 8lJV=
+d pd>= p`d F"d4|lJ? ZJd?p|l> tNlJp p`d 8l?pdNd>dx|p lx t==|>R l" d d"p|>R
+?p"J8pJ"d= $t"BJF?  Rpt88 >lpd= p`tp ?d4d"tV Zdp ?t?pd$? "dpt|> |ptV|8?"
+NlV=|>R" t>= lp`d" ?Ftp|tV xl"$tpp|>R?  t`|Vd p`d $tpd"|tV $tt >lp Nd |>
+p`d xl"$tp =d?|"d=" p`d?d ?t?pd$? Fl??d?? p`d tN|V|pt pl "d$l4d p`d
+l"|R|>tV $tpd"|tV? ZJ|8BVt x"l$ p`d `t>=? lx p`d FdlFVd Fd"xl"$|>R p`d
+8l>4d"?|l>" t? )dVV t? pl "dpt|> p`tp |>xl"$tp|l> ?l p`tp J?d"? 8t> )l"B
+)|p` |p?  hZd$R8 "dhl|>d= p`tp p`d 8J""d>p p`|>B|>R l> $t"BJF |? p`tp l>d
+?`lJV= >lp ?tt p`tp ?l$dp`|>R |? |ptV|8 l" NlV= ?l $J8` t? )`t |p |? p`tp
+)tt?  4l Nd ?J"d" l>d >dd=? pl B>l) p`tp ?l$dp`|>R )t? |ptV|8|Nd=" NJp
+`l) 8t> l>d Rdp x"l$ l>d pl p`d lp`d"p  Z>d 8t> $tF x"l$ p`d ?p"J8pJ"d pl
+p`d ptFlR"tF`|8 "dF"d?d>ptp|l>?
+
+`>RBJdhh8)Rp ?JRRd?pd= p`tp" R|4d> p`d d>> $|VV|l> |pd$? p`d >|N"t"

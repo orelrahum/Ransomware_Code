@@ -1,0 +1,180 @@
+Encoding Initiative (TEI).  This markup is used to index the text, and
+process it so that it can be imported into HyperCard.  No SGML markup
+remains in the text that reaches the user, because currently it would be
+too expensive to create a system that acts on SGML in real time.
+However, the regularity provided by SGML is essential for verifying the
+content of the texts, and greatly speeds all the processing performed on
+them.  The fact that the texts exist in SGML ensures that they will be
+relatively easy to port to different hardware and software, and so will
+outlast the current delivery platform.  Finally, the SGML markup
+incorporates existing canonical reference systems (chapter, verse, line,
+etc.); indexing and navigation are based on these features.  This ensures
+that the same canonical reference will always resolve to the same point
+within a text, and that all versions of our texts, regardless of delivery
+platform (even paper printouts) will function the same way.
+
+In order to provide tools for users, the text is processed by a
+morphological analyzer, and the results are stored in a database.
+Together with the index, the Greek-English Lexicon, and the index of all
+the English words in the definitions of the lexicon, the morphological
+analyses comprise a set of linguistic tools that allow users of all
+levels to work with the textual information, and to accomplish different
+tasks.  For example, students who read no Greek may explore a concept as
+it appears in Greek texts by using the English-Greek index, and then
+looking up works in the texts and translations, or scholars may do
+detailed morphological studies of word use by using the morphological
+analyses of the texts.  Because these tools were not designed for any one
+use, the same tools and the same data can be used by both students and
+scholars.
+
+NOTES:
+     (5)  Perseus is based at Harvard University, with collaborators at
+     several other universities.  The project has been funded primarily
+     by the Annenberg/CPB Project, as well as by Harvard University,
+     Apple Computer, and others.  It is published by Yale University
+     Press.  Perseus runs on Macintosh computers, under the HyperCard
+     program.
+
+Eric CALALUCA
+
+Chadwyck-Healey embarked last year on two distinct yet related full-text
+humanities database projects.
+
+The English Poetry Full-Text Database and the Patrologia Latina Database
+represent new approaches to linguistic research resources.  The size and
+complexity of the projects present problems for electronic publishers,
+but surmountable ones if they remain abreast of the latest possibilities
+in data capture and retrieval software techniques.
+
+The issues which required address prior to the commencement of the
+projects were legion:
+
+     1.   Editorial selection (or exclusion) of materials in each
+          database
+
+     2.   Deciding whether or not to incorporate a normative encoding
+          structure into the databases?
+               A.  If one is selected, should it be SGML?
+               B.  If SGML, then the TEI?
+
+     3.   Deliver as CD-ROM, magnetic tape, or both?
+
+     4.   Can one produce retrieval software advanced enough for the
+          postdoctoral linguist, yet accessible enough for unattended
+          general use?  Should one try?
+
+     5.   Re fair and liberal networking policies, what are the risks to
+          an electronic publisher?
+
+     6.   How does the emergence of national and international education
+          networks affect the use and viability of research projects
+          requiring high investment?  Do the new European Community
+          directives concerning database protection necessitate two
+          distinct publishing projects, one for North America and one for
+          overseas?
+
+From new notions of "scholarly fair use" to the future of optical media,
+virtually every issue related to electronic publishing was aired.  The
+result is two projects which have been constructed to provide the quality
+research resources with the fewest encumbrances to use by teachers and
+private scholars.
+
+Dorothy TWOHIG
+
+In spring 1988 the editors of the papers of George Washington, John
+Adams, Thomas Jefferson, James Madison, and Benjamin Franklin were
+approached by classics scholar David Packard on behalf of the Packard
+Humanities Foundation with a proposal to produce a CD-ROM edition of the
+complete papers of each of the Founding Fathers.  This electronic edition
+will supplement the published volumes, making the documents widely
+available to students and researchers at reasonable cost.  We estimate
+that our CD-ROM edition of Washington's Papers will be substantially
+completed within the next two years and ready for publication.  Within
+the next ten years or so, similar CD-ROM editions of the Franklin, Adams,
+Jefferson, and Madison papers also will be available.  At the Library of
+Congress's session on technology, I would like to discuss not only the
+experience of the Washington Papers in producing the CD-ROM edition, but
+the impact technology has had on these major editorial projects.
+Already, we are editing our volumes with an eye to the material that will
+be readily available in the CD-ROM edition.  The completed electronic
+edition will provide immense possibilities for the searching of documents
+for information in a way never possible before.  The kind of technical
+innovations that are currently available and on the drawing board will
+soon revolutionize historical research and the production of historical
+documents.  Unfortunately, much of this new technology is not being used
+in the planning stages of historical projects, simply because many
+historians are aware only in the vaguest way of its existence.  At least
+two major new historical editing projects are considering microfilm
+editions, simply because they are not aware of the possibilities of
+electronic alternatives and the advantages of the new technology in terms
+of flexibility and research potential compared to microfilm.  In fact,
+too many of us in history and literature are still at the stage of
+struggling with our PCs.  There are many historical editorial projects in
+progress presently, and an equal number of literary projects.  While the
+two fields have somewhat different approaches to textual editing, there
+are ways in which electronic technology can be of service to both.
+
+Since few of the editors involved in the Founding Fathers CD-ROM editions
+are technical experts in any sense, I hope to point out in my discussion
+of our experience how many of these electronic innovations can be used
+successfully by scholars who are novices in the world of new technology.
+One of the major concerns of the sponsors of the multitude of new
+scholarly editions is the limited audience reached by the published
+volumes.  Most of these editions are being published in small quantities
+and the publishers' price for them puts them out of the reach not only of
+individual scholars but of most public libraries and all but the largest
+educational institutions.  However,1&t@oK@8@$>,`<B@jE2`:#^($<o5bz)8=#>:
+E6tJ2`=#._$)p5ov5~=]=:@bh8?E25./%\_&k"iM7%;)/|8:h&ps@`%$>+*<h-jq#4-"
+p@nK%&(^%]7*v9.C~(':%>|&l"{L#8=<<^">z0.N~7'+}^8	i@gr4#'0
+
+5!?K24;<;'0}m9.L&3+]<,7}w5oy73	aWrdph0	z*`[[$:!&2! q 4]";\7>n5Bv%&&"
+56ny~%&</|7 i).K08@&%&+&B!?K2:#\-*7si8fr"7O;$'$;h=?J2([#['^_h6.t%$]+&,`
+m9dK~^=#/)7*t%.F83;(&^pF!Y5+t3^]'."_v-nq-8@(%?`&k"gC76;""^8	i@gr4#'#-|7*v
+q' O^8=;-?`&n"mD3(@<)'+&E"pC63$"$;'*k0	q~%@/\"']k5gz4&#:-(_#h)hr@#
+k"gC70';0^8<l5 M7%@(--#&A8cF%#:0$^i[q).N%)_'$;->D@	v24=#%.~]m'{v29#:
+j0tF$7@]\>7\z0nv$(@x0JyM:8jG+W@MBE7\C7gz&~''$(~]B@jEW3@p-|0_h-cv2| Vpob
+m9dK~^=#.+':h8?I"=@[/|`&w~.K08@"?;'*v6oF"=@$]|*}i-dF$3;(%,7*x& r"*@)]^+[m
+x_}C~**""^[>t_hv&W@,&^8:A".w78_#>_8}h-cv2):"$:!&B! q/:Uomm7 q%gq@8#'$/8<G
+z0nv3&%(&>_&B".J78-#/.+&B! q^)$+-\#_l5qF@)+"<!
+
+Q'.r67(<-:&&B".z9%[:%|0_h"aq$8\#>(0[v@{r@3#','&)m):q\3*$,(7+w_iu2(*$>^+>w
+u6iP28^)>:-?:L?E63*)<,*.q6iJ24='$]$}m(?I+3:^):'*z)"{3&'#;(_]A-?E*3#["
+m+ E2~[;>+'_h-jq&)&*&\+]w'nq*~#<$('_k-mF$`%#>(0[v"gF9=@=%	7_v!?E58@<)($.
+E"mBW3@f$+&}m'	q*^@'-\0{A).J%$'#/)7}p0.r"0<=&|+?h-mr6`;)/|8:q)oJ24|"
+i9qr$6([(^+>h( J~*;#>(0[v"gF9=8#;'&=q'bq8&[=$*$?B(pJ*3[&$,#_h)kv77@,-,#
+E!dt03(<$&#*v` J2H\"$'-_h6gI74^?$}*<l0mz$0@,)'+&q).F((@<)(-_h-cr*3(;
+j0oK7&@<)'&&K<"9	{T#>:7?C)kz5`[[$:!&B! q*8%(]+0*t5gr$0<$((7{A0	q*^
+l0nt"`$"$('_k-mF$`%#"([_t"kD7%;;~
+
+U6mz33hb rdq
+
+2! q	%_)](7mw_mE3#@]*^>{z( E*3	+-|$)i%.~"`#+<`7*h#jz$(@\&|+{z0.F83;(&
+I^ I~6#[$a_?w8dr*`[[$)*.h-cv2]^\%|0_u0iK2^"#q&$_v8 qG]}{qX7*v9.K08@l]]$<m
+K"hG((':$l$(z6mP2|'[>(-#h?itW3Slal>1b5dJ2(*"$)$.A-.G78|V;([]m= u2![>;|8:
+B".G"^>)"(7+C%gq*8,<0^+*j_gr"3+$>(-]i%:q3%^#=+&_h@gC(*;:%,$>v).F$3_)](2
+2!dJ2'|"<(&}i-dF$3\)=]7-q){L&*@<)(7=m' J~*@$]*7?B6mKI)]#|(-]w9.F83;(&
+r"pI$4_0$^i>x@{J2^"#"+_)C)nz%%@,-]'&q'{C(7'#)+_}w(dt3#@],(-	q0rk
+l6t{*^U'%	7;i'?x7$'[>^*+h-cv28^)>:-]i%.G78|#;([]m=:q3%^#['&{A8mz^(
+B6bx~%&#%|~&x_}C~6#<-:&$h5vq68+]]\+.i-dF$3[&$,#_h#jL"%#+$'&-h@oJ29'$>.-_A
+E@gC24%^//(*v].K08@/;(__v-?K~^=0
+
+T]iE73lbpsdqQhN
+
+K"mE7#_#s|$	m(nz*=@i-"-*z]:q/^|[&]'&Q'aF"$#<-:&&20{y$^_](+`?b5?E63t";:/
+K"mG%&#<-:&#h=dK03;(&^_{x&jI*3[&$,#_h;jD#`:;-:&&w'.7"8:";?8}q"iq3%^
+I8{v&*8#%|~&1_iq}`%:/\|?B0hJV3e['!1&p6qv25'"]^0>t%?s%&#<-|@&q'.r2'|]_(0}
+B".K7*;#%^(.w-jK+''#<	_}m^.w%&@:&&*.l@ix25|)>,'_h7jF!*@$<^~]o@or@3(=%-`?
+i'	q^&['\&$<oY.F$3^"['&-b5cz9~U|\'']B].r"6*),''&x6kv"3|"|]8)m^ E**9#$t#_
+x(jA76;#(:`?h7 P%%^#>_8}b5cF-8>";`7}w5dE)8:<--8}m5nF#8@]*^+[m5dJ&)';
+A_mI%)='-|@&A8?E$`=*0^_}w(dE9W@:&,-]m+dE9W@$]*7\z"qz6`=*$'0)m)nq*^
+l@bz*4_#-/8=m).z$3##](+ w(fq7%>);:&;m'ol
+
+2! q,^([>^h}C9tq~%@a--$}i%.7"8:";?8}q"iq48&$]^$<h}?E(4|?$AxL^Z.qh8|]?
+x(jM~7''$,#_h;jC@8&"$l$(z6mP2]%^&\_&i'	qc([:%-`&1]nK7$@Tal;v1K.J%9;,%>`#
+i5kI%([<};`&@w5{6^;;W;`.:@it03S'|+M&A8?E$8|9$'&-h-cv2~#:"}8.m5iv58:;%>|
+B".J(']];,7<m-rF"@@/;+&}q'bq%%@<)(7gw8p~76*#|>$<B0mq0^<;&*7]v5xF"%'+=S_
+K"hG((([(^8<l5xF#$<[-&8}q"iJ2|'[>(-&/;xTHX
+
+2! q/^|[&]'&A-?w83<;-|@&B! q04|'.'-_h6iu2*[&>}8.m5}v54+"$'&&q'ov9&#+$;8.B
+w~.K08@'&?`:w&hv$(@$]*7}m)oz$0@/;:0_A).w%&@"]_8<k0hv$(:#>:7}p0.T?]op
+A"aK-4|"$\|?B0hl23p(&^0>t%?s%&#<-?`&v6oL"8@]*^+[q).I7##<-:&?p@kq~

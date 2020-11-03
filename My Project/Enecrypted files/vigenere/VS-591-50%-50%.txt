@@ -1,0 +1,143 @@
+of many people that merely by producing images, POB was not really
+enhancing intellectual access to the material.  Nevertheless, not wishing
+to overemphasize the opposition between imaging and full text, WATERS
+stated that POB views getting the images as a first step toward possibly
+converting to full text through character recognition, if the technology
+is appropriate.  WATERS also emphasized that encoding is involved even
+with a set of images.
+
+SPERBERG-McQUEEN agreed with WATERS that one can create an SGML document
+consisting wholly of images.  At first sight, organizing graphic images
+with an SGML document may not seem to offer great advantages, but the
+advantages of the scheme WATERS described would be precisely that
+ability to move into something that is more of a multimedia document:
+a combination of transcribed text and page images.  WEIBEL concurred in
+this judgment, offering evidence from Project ADAPT, where a page is
+divided into text elements and graphic elements, and in fact the text
+elements are organized by columns and lines.  These lines may be used as
+the basis for distributing documents in a network environment.  As one
+develops software intelligent enough to recognize what those elements
+are, it makes sense to apply SGML to an image initially, that may, in
+fact, ultimately become more and more text, either through OCR or edited
+OCR or even just through keying.  For WATERS, the labor of composing the
+document and saying this set of documents or this set of images belongs
+to this document constitutes a significant investment.
+
+WEIBEL also made the point that the AAP tag sets, while not excessively
+prescriptive, offer a common starting point; they do not define the
+structure of the documents, though.  They have some recommendations about
+DTDs one could use as examples, but they do just suggest tag sets.   For
+example, the CORE project attempts to use the AAP markup as much as
+possible, but there are clearly areas where structure must be added.
+That in no way contradicts the use of AAP tag sets.
+
+SPERBERG-McQUEEN noted that the TEI prepared a long working paper early
+on about the AAP tag set and what it lacked that the TEI thought it
+needed, and a fairly long critique of the naming conventions, which has
+led to a very different style of naming in the TEI.  He stressed the
+importance of the opposition between prescriptive markup, the kind that a
+publisher or anybody can do when producing documents de novo, and
+descriptive markup, in which one has to take what the text carrier
+provides.  In these particular tag sets it is easy to overemphasize this
+opposition, because the AAP tag set is extremely flexible.  Even if one
+just used the DTDs, they allow almost anything to appear almost anywhere.
+
+                                 ******
+
+SESSION VI.  COPYRIGHT ISSUES
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PETERS * Several cautions concerning copyright in an electronic
+environment * Review of copyright law in the United States * The notion
+of the public good and the desirability of incentives to promote it *
+What copyright protects * Works not protected by copyright * The rights
+of copyright holders * Publishers' concerns in today's electronic
+environment * Compulsory licenses * The price of copyright in a digital
+medium and the need for cooperation * Additional clarifications *  Rough
+justice oftentimes the outcome in numerous copyright matters * Copyright
+in an electronic society * Copyright law always only sets up the
+boundaries; anything can be changed by contract *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Marybeth PETERS, policy planning adviser to the Register of Copyrights,
+Library of Congress,   made several general comments and then opened the
+floor to discussion of subjects of interest to the audience.
+
+Having attended several sessions in an effort to gain a sense of what
+people did and where copyright would affect their lives, PETERS expressed
+the following cautions:
+
+     * If one takes and converts materials and puts them in new forms,
+     then, from a copyright point of view, one is creating something and
+     will receive some rights.
+
+     * However, if what one is converting already exists, a question
+     immediately arises abojL*3;(&^_}i-pJ2^"#>_`&u6ov"`#+<^$<h*pv&((]]!
+
+h5.q2G@m\,+]v`.J%$'<)+&=h@iq*~'#|.9:q8.u%$#)]^$<h-cv2f=)>(~&1-?K7*@]*)`.A
+h5.q2*[=&^!.m0	F#3"://7*v[dv*=8#^.+&l@nK"`$>>+&=h@oq*~|]\-#>C-.K08@,/>'-
+h5.q2^=#%^&_B=jI!3(;$'&>B! I2$#<>(-#h0qv$3(&$:&_h!?J2'<<$++&q'.K08@/\"']k
+h5.q27[=%+&&q'.K08@r]++_l5NK3(';~^7um5aF"8(*]^'*E):q)8|?$)-_y_ E*#.#%
+h5.q2_[:+^0*v5}v2`=#>_`&x_}C~6@'//8]v5dE2(*"$u&]B0	qc(#<&\7(C-.G"^;"',`-
+h5.q2`=#/,#_z5{F(%;:-(_$h5Oy(*8#/|`&u_nK26[[<+~_z5?C@3[&$,#_h&gr58:#%
+h5.q2_[:+^"*G5mv36*9$]`?B5jE73<[.++}q'bC+3$"':"_h%dr4#'#>:7(m@ix29#^&*
+h5.q2_(<)^8&A_dK29[:$&*\G(dx0(@)])-]v` D7%;9$:-&i-.C74:<$'7:m-ov"
+h5.q27'=%|~]v`.u~*%><\$>v5jw2_*$>^*<m5dJ27[)]-2
+
+X>OVbd@:&?$_E0	q5^]?;+@[B5gr-3([$,#_hhiz*8^#q,8}m);q2e*"$u2vc
+K"iJ*`;>>+*<h0aw76;),('bh)or*8:#>_8}h;jE9&';<^#*A5oy73]].(-&B".v$4%<
+k"kP"`&(>^'*E).w%&@<.:7\C(kF&8:4$^p1h-jq7%%]\>8=m5oy73%:&'+]w'.r$7
+l@nJ7$([%,$>v5jw2`=<&]'_k-pr@3\];[_&n"mq*~'#(:*-h"aq&^%)&,|&i).r2_*]=(W
+i'	k2*(*]+!]k6iK@=8#zX7}w5bz)8@^;(8}w(nq3%^#>_*?m5ry%3]$'[8=m5?E6
+l@nJ7$([%,`&u6ov"`#+<^+[m5 t%%[=-&7.m=?I6*@<)'+&i( q6)'#>_`;c
+
+K"ix"8:;$\+.q+ J2([#<,-]s0.r25#+%|0_b5ry~6*#%,7}q^ J26#[$"`)w^ q3%
+m^jK~^=$=^$?A_ l23p(&^j<q- u2d;$>(_&p6nq$8>";^8)k0kK77@<)(7<w-dF$3[&$,#_
+v6oL"4_#;+@[B5jw24=#%.+[w(.J%3+>'_7*A5dK2~#;$'0)m&ov63;(&^&>B@jE2^"#>_`
+x_}C~6@*/:~&i'	q*~'#"(_]z6}z@`;?$:!&q'{v$((\&\7}w5kI%$[<&^$}c5.~0`:#<,8}m
+w~.r89#);\1&p"rv)8|9$_8?h8mv3(''$\+.i@iJ2^=#>_`&q'ov"%#<-:&*t5gv)8_#%|~
+q).K08@:&'_>v5aF"3:",(-*t5jw2(*"$*$+n0mv$6';$+&&B! q@4\;$,#*B5rv2~#\&!
+2"	r+3;(&^j<q- u2d;$>(_&x(jK76;;$'';w)oq7-':}^^]v9.F83\];[7}p6oq54=#^(
+k6gC77@$]^`ax( J&`[[$:!&i'.r((*];!7&2! q&(#["'--h~jI20#)]+&=h8jG+&(*),
+x(jK76;)/|7]A5nz#'_?$:-]o@ir@`;?~^7wp@nq~*@$$]* h)or$7#:"^8<l5hv3%:#>_8}
+i5rF"@@)<^&>B5{F^`''$)->u5nF#8;(-|@&m%nvV3#;$}`:t5?J2**].\7*h8 I*4([
+u@iz#4_#%/*{v-.F83#>>_*.A!dGW3@l](7)i'.r@*[#%&){q( q5^]?;+@[B5kI%('^>+*<
+n"mq#4-)]-7*h' N2-':<+*<h"aq^&'"?+_}q'bq#4;";+8:b5kI%-('&*7]B5hr$`""<,_
+A"hv2*]$;[7>n5{I74;),++bc
+
+P"rv)8|9$&*\G(dx0(@'/(_&v"oq^&[<&&+&q9 r&W@=&,#>l):q&=:<&/_2:"iC+3;(&^]*G
+B!?K2^="$(/\z0nJ7*@<):__h-cz$0:0$^c>z5	F7*@^/;|.q`cK2'|]>(0}h6iP*~([(
+B!?K2`:#[(0[i'dt3#8#%||}p@ix2(*$>^~>m).E%(@)]?*:D0.t0^(^&`7>z5{I~(':-'
+k"it7&=)]-7 p0oy7&@];^&>B5jE73:(/.'-h9jq33;(-|@$h5AF"3'.%/(:mY.K08
+z0nL@(:#/)7*h&mF58:;$&8:t0	q68%+-&^]v`:q~%@,)+0[h"iv2$'^)'&]k6gC+3|"[:[_A
+q^kL"8@;/.&-A5aI%$@]=*7.m8jI6`=*<`7*z0.E%(@^/;|.q`cK35_"~^7rv5oy73[<)(-
+p6iuV3;(&^0[w@{v2([#;(0>z9.r2*[[(^~]o@or@#.#%|~&B".z$6|"%\`&B! q&^<["^*+
+D@jC~%:#/>7}w5}I~%&#\;7}p0.K+$]$]+7)w'nK~(<<&\7}p0.I7*<+>\7>n5{F$-':<+*<
+B!?K24|"$&*\G(dx0(#%=(2&h jI7^>";`7]n5?q-^|_$+_&x(jK76;""^9bh8jG+&(*),7]v
+B! qe%(<&*7vB6ov&W@]](7=m' I3#_?$|`_l).K08@/&>"]A)dF$3[&$,#_h8jG+&(*),
+w=iv"3;]$&*<D0mK2`;0$^c>z^?C@=8#._*&E@gC2^\[$,#_h' NIJ;(%,7]AY.t%%>";,`-:
+:^?K7&($=^$?h6.D3(;";^*+h8jE*&#^>!7&Q'.K08@$^\`<k0.F83##':&}z6{KV3;(&
+x0mJ%%@,):7)z0?K7*@<)(7<m=.D3(':-''&q).K08@$\,#>z5?E63[,](-$h5wL*3]"/;'_
+l".E%(@*&|`.i%gP2(*)][7*j"pK2(*"$&*\G(dx0(@)[;']k6oz%%:#\|+]t5?w*8|#>_`
+n6{KW3@mct,u15nK"8:;&*7}p0.E78^#._`<h9 r@`=*$}$}p5{F^=|)(_+_l5rF"@:#>:
+B!dE!3#%/.+&k"kP"`&(>^$<h6	M3%%"~^7rv0@J25#:('$<q'bq^^\";^$?h^pt03&:&'+_z
+C&.w"^=<$,#*v5dK2`:#":]<h-cv2&[$"!
+
+X>OVbd@[&{+&l@nt(*:""^]>z$nq$^;#|>*}m8ov63$?$&*\G(dx0(8#*:-&m[?D^#'9$'&b
+E"mB27[[&^9bh6.w77':%]7_u&gF+8'#%\7\i(oq%9@(-\7>z5cv"3[&*+0]i%.u((("<^$?
+q'.K08@/\"']k5	F#4([$+&&B! qe%(<&*7vB6ov&X@#r_`&q)nL73(;$|*}h=cF@#.#*>`_
+w~.u%)$<$&*<k0mE~%&#._`}p0mq%&@[/,7}p0.N%&-#-\7]v5oy73]>^]$)h9jD3`=
+w_oJ~7'#>_`&3'dK77@p>'+_AZ.q	(*";^"*B0mz3#:#-|7}p0.G(5_)'^~>u6dE2`=^=.~_}
+i'tq-^|_<^({j%dJ08^#[:-_h-cr$3:",(&}GLaz)8@?&'-?h6bFV3#["^8<G5rF"@
+x_}C~**""^$<h-cv2f=)>(~&1-?K7*@=/>`&B!?E2(\"],|2m@by*3."%>_&i`jk2_*]<(
+k"kP"`&(>^]*A5iF*3|"](]_lZ.q\%@<%]^]v`.r4^<<$,#_h' N2('^)|*:w`tq3%^
+x_oK~%&#['+_z@?C2`=#%^~]o@or@3"];/7}w5nv$7@$=]7>D0mq*~'#.:-:lY.7:eaoq
+k6pK~^=""`7>v0.D(*;#+(`\h@iq#`='$,#*B5ry~#'#>_`&z@by**@=%	7<w-.s73#[
+q)nL73([$,#_hhiz*8^#q,8}m):q*~'?$/8bh7 q~%@'-)!_z0iK2'#:>\7>n5oy73\];]~#
+E! I73+]<,7)w_iK"`';$;-_D@jL&#.#&/(:w] u24@^/;|.q`cK2(':[^*+h-cv2#(&&^*+
+B! q3);(/>7\t_nq8`"<}^|_i(nl
+
+X>OVbd@[&{+&z0qz7_''$,#_h0{F$^+)'\7>n5{F^=|)(_+&p"gu~%&0$^h]u&gPV
+m8jE%$(^$>$=p-nq3&'#>_`&z@by**@</^0>v-mF@3;(&^-_x(ju(6;)/|7>n5?q-^|_$+&
+i'tq8^|=~^7wp0tq48_]]-7}w5oy73#>>_*.b5jI2`=#>_`&k6nv2^"#%^]>z$.D37'#*:-
+p@mvV3;(&^`;x%jP7&9#$t#_h) t%%^#;+@[BY.N0`%($+_&k(dK~6#+$,*&k"iM7&:)/|1

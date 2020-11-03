@@ -1,0 +1,177 @@
+compression, TCP/IP, and ethernet network on campus, POB wanted a
+client-server approach with image documents distributed to the
+workstations and made accessible through native workstation interfaces
+such as Windows.  POB also insisted on a phased approach to
+implementation:  1) a stand-alone, single-user, low-cost entry into the
+business with a workstation focused on conversion and allowing POB to
+explore user access; 2) movement into a higher-volume conversion with
+network-accessible storage and multiple access stations; and 3) a
+high-volume conversion, full-capacity storage, and multiple browsing
+stations distributed throughout the campus.
+
+The costs proposed for start-up assumed the existence of the Yale network
+and its two DocuTech image printers.  Other start-up costs are estimated
+at $1 million over the three phases.  At the end of the project, the annual
+operating costs estimated primarily for the software and hardware proposed
+come to about $60,000, but these exclude costs for labor needed in the
+conversion process, network and printer usage, and facilities management.
+
+Finally, the selection process produced for Yale a more sophisticated
+view of the imaging markets:  the management of complex documents in
+image form is not a preservation problem, not a library problem, but a
+general problem in a broad, general industry.  Preservation materials are
+useful for developing that market because of the qualities of the
+material.  For example, much of it is out of copyright.  The resolution
+of key issues such as the quality of scanning and image browsing also
+will affect development of that market.
+
+The technology is readily available but changing rapidly.  In this
+context of rapid change, several factors affect quality and cost, to
+which POB intends to pay particular attention, for example, the various
+levels of resolution that can be achieved.  POB believes it can bring
+resolution up to 600 dpi, but an interpolation process from 400 to 600 is
+more likely.  The variation quality in microfilm will prove to be a
+highly important factor.  POB may reexamine the standards used to film in
+the first place by looking at this process as a follow-on to microfilming.
+
+Other important factors include:  the techniques available to the
+operator for handling material, the ways of integrating quality control
+into the digitizing work flow, and a work flow that includes indexing and
+storage.  POB's requirement was to be able to deal with quality control
+at the point of scanning.  Thus, thanks to Xerox, POB anticipates having
+a mechanism which will allow it not only to scan in batch form, but to
+review the material as it goes through the scanner and control quality
+from the outset.
+
+The standards for measuring quality and costs depend greatly on the uses
+of the material, including subsequent OCR, storage, printing, and
+browsing.  But especially at issue for POB is the facility for browsing.
+This facility, WATERS said, is perhaps the weakest aspect of imaging
+technology and the most in need of development.
+
+A variety of factors affect the usability of complex documents in image
+form, among them:  1) the ability of the system to handle the full range
+of document types, not just monographs but serials, multi-part
+monographs, and manuscripts; 2) the location of the database of record
+for bibliographic information about the image document, which POB wants
+to enter once and in the most useful place, the on-line catalog; 3) a
+document identifier for referencing the bibliographic information in one
+place and the images in another; 4) the technique for making the basic
+internal structure of the document accessible to the reader; and finally,
+5) the physical presentation on the CRT of those documents.  POB is ready
+to complete this phase now.  One last decision involves deciding which
+material to scan.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * TIFF files constitute de facto standard * NARA's experience
+with image conversion software and text conversion * RFC 1314 *
+Considerable flux concerning available hardware and software solutions *
+NAL through-put rate during scanning * Window management questions *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+In the question-and-answer period that followed WATERS's presentation,
+the following points emerged:
+
+     * ZIDAR's statement about using TIFF files as a standard meant de
+     facto standard.  This is what most people use and typically exchange
+     with other groups, across platforms, or even occasionally across
+     display software.
+
+     * HOLMES commented on the unsuccessful experience of NARA in
+     attempting to run image-conversion software or to exchange between
+     applications:  What are supposedly TIFF files go into other software
+     that is supposed to be able to accept TIFF but cannot recognize the
+     format and cannot deal with it, and thus renders the exchange
+     useless.  Re text conversion, he noted the different recognition
+     rates obtained by substituting the make and model of scanners in
+     NARA's recent test of an "intelligent" character-recognition product
+     for a new company.  In the selection of hardware and software,
+     HOLMES argued, software no longer constitutes the overriding factor
+     it did until about a year ago; rather it is perhaps important to
+     look at both now.
+
+     * Danny Cohen and Alan Katz of the University of Southern California
+     Information Sciences Institute began circulating as an Internet RFC
+     (RFC 1314) about a month ago a standard for a TIFF interchange
+     format for Internet distribution of monochrome bit-mapped images,
+     which LYNCH said he believed would be used as a de facto standard.
+
+     * FLEISCHHAUER's impression from hearing these reports and thinking
+     about AM's experience was that there is considerable flux concerning
+     available hardware and software solutions.  HOOTON agreed and
+     commented at the same time on ZIDAR's statement that the equipment
+     employed affects the results produced.  One cannot draw a complete
+     conclusion by saying it is difficult or impossible to perform OCR
+     from scanning microfilm, for example, with that device,  that set of
+     parameters, and system requirements, because numerous other people
+     are accomplishing just that, using other components, perhaps.
+     HOOTON opined that both the hardware and the software were highly
+     important.  Most of the problems discussed today have been solved in
+     numerous different ways by other people.  Though it is good to be
+     cognizant of various experiences, this is not to say that it will
+     always be thus.
+
+     * At NAL, the through-put rate of the scanning process for paper,
+     page by page, performing OCR, ranges from 300 to 600 pages per day;
+     not performing OCR is considerably faster, although how much faster
+     is not known.  This is for scanning from bound books, which is much
+     slower.
+
+     * WATERS commented on window management questions:  DEC proposed an
+     X-Windows solution which was problematical for two reasons.  One was
+     POB's requirement to be able to manipulate images on the workstation
+     and bring them down to the workstation itself and the other was
+     network usage.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+THOMA * Illustration of deficiencies in scanning and storage process *
+Image quality in this process * Different costs entailed by better image
+quality * Techniques for overcoming various de-ficiencies:  fixed
+thresholding, dynamic thresholding, dithering, image merge * Page edge
+effects *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+George THOMA, chief, Communications Engineering Branch, National Library
+of Medicine (NLM), illustrated several of the deficiencies discussed by
+the previous speakers.  He introduced the topic of special problems by
+noting the advantages of electronic imaging.  For example, it is regenerable
+because it is a coded file, and real-time quality control is possible with
+electronic capture, whereas in photographic capture it is not.
+
+One of the difficulties discussed in the scanning and storage process was
+image quality which, without belaboring the obvious, means different
+things for maps, medical X-rays, or broadcast television.  In the case of
+documents, THOMA said, image quality boils down to legibility of the
+textual parts, and fidelity in the case of gray or color photo print-type
+material.  Legibility boils down to scan density, the standard in most
+cases being 300 dpi.  Increasing thed "d?lVJp|l> )|p` ?8t>>d"? p`tp
+Fd"xl"$ h>> l" dx>> =F|" `l)d4d"" 8l$d? tp t 8l?p?
+
+=dppd" |$tRd ZJtV|pt d>pt|V? tp Vdt?p xlJ" =|xxd"d>p B|>=? lx 8l?p?$  d=
+dZJ|F$d>p 8l?p?" Nd8tJ?d p`d ddx 8|?d?" 8`t"Rdd8lJFVd =d4|8d= )|p`
+R"dtpd" >J$Nd" lx dVd$d>p? 8l?p? $l"d>  x= p|$d 8l?p? p`tp p"t>?Vtpd pl
+p`d t8pJtV 8tFpJ"d 8l?p?" Nd8tJ?d $t>JtV VtNl" |? |>4lV4d= 8p`d p|$d |?
+tV?l =dFd>=d>p l> p`d xt8p p`tp $l"d =tpt `t? pl Nd $l4d= t"lJ>= |> p`d
+$t8`|>d |> p`d ?8t>>|>R l" >dp)l"B =d4|8d? p`tp Fd"xl"$ p`d ?8t>>|>R t?
+)dVV t? p`d ?pl"tRd=>  R= $d=|t 8l?p?" Nd8tJ?d tp `|R` "d?lVJp|l>? Vt"Rd"
+x|Vd? `t4d pl Nd ?pl"d=> t>= `= p"t>?$|??|l> 8l?p?" Nd8tJ?d p`d"d |? hJ?p
+$l"d =tpt pl Nd p"t>?$|ppd=?
+
+=Jp )`|Vd "d?lVJp|l> ptBd? 8t"d lx p`d |??Jd lx VdR|N|V|pt |> |$tRd
+ZJtV|pt" lp`d" =dx|8|d>8|d? `t4d pl =l )|p` 8l>p"t?p t>= dVd$d>p? l> p`d
+FtRd ?8t>>d= l" p`d |$tRd p`tp >dd=d= pl Nd "d$l4d= l" 8Vt"|x|d=?  4`J?"
+4hZl8 F"l8dd=d= pl |VVJ?p"tpd 4t"|lJ? =dx|8|d>8|d?" `l) p`dt t"d
+$t>|xd?pd=" t>= ?d4d"tV pd8`>|ZJd? pl l4d"8l$d p`d$?
+
+`| d= p`"d?`lV=|>R )t? p`d x|"?p pd8`>|ZJd =d?8"|Nd=" ?J|ptNVd xl"
+NVt8Bdt>=d)`|pd pd p" )`d> p`d 8l>p"t?p =ld? >lp 4t"t l4d" p`d FtRd?  Z>d
+8t> `t4d $t>t =|xxd"d>p p`"d?`lV= Vd4dV? |> ?8t>>|>R =d4|8d??  4`J?"
+4hZl8 lxxd"d= t> d t$FVd lx d p"d$dVt Fll" 8l>p"t?p" )`|8` "d?JVpd= x"l$
+p`d xt8p p`tp p`d ?pl8B )t? t `dt4t "d=?  4`|? |? p`d ?l"p lx |$tRd p`tp
+)`d> $|8"lx|V$d= xt|V? pl F"l4|=d t>t VdR|N|V|pt )`tp?ld4d"?  `| d=
+p`"d?`lV=|>R |? p`d )tt pl 8`t>Rd p`d NVt8Bdpld"d= 8l>p"t?p pl p`d
+=d?|"d= NVt8Bdpld)`|pd 8l>p"t?p?

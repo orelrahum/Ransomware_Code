@@ -1,0 +1,181 @@
+optical character recognition (OCR) can be tremendously inaccurate.
+Although AM has attempted to find a middle ground, uncertainty persists
+as to whether or not it has discovered the right solution.
+
+Questions of quality arose concerning images as well.  FLEISCHHAUER
+contrasted the extremely high level of quality of the digital images in
+the Cornell Xerox Project with AM's efforts to provide a browse-quality
+or access-quality image, as opposed to an archival or preservation image.
+FLEISCHHAUER therefore welcomed the opportunity to compare notes.
+
+FLEISCHHAUER observed in passing that conversations he had had about
+networks have begun to signal that for various forms of media a
+determination may be made that there is a browse-quality item, or a
+distribution-and-access-quality item that may coexist in some systems
+with a higher quality archival item that would be inconvenient to send
+through the network because of its size.  FLEISCHHAUER referred, of
+course, to images more than to searchable text.
+
+As AM considered those questions, several conceptual issues arose:  ought
+AM occasionally to reproduce materials entirely through an image set, at
+other times, entirely through a text set, and in some cases, a mix?
+There probably would be times when the historical authenticity of an
+artifact would require that its image be used.  An image might be
+desirable as a recourse for users if one could not provide 100-percent
+accurate text.  Again, AM wondered, as a practical matter, if a
+distinction could be drawn between rare printed matter that might exist
+in multiple collections--that is, in ten or fifteen libraries.  In such
+cases, the need for perfect reproduction would be less than for unique
+items.  Implicit in his remarks, FLEISCHHAUER conceded, was the admission
+that AM has been tilting strongly towards quantity and drawing back a
+little from perfect quality.  That is, it seemed to AM that society would
+be better served if more things were distributed by LC--even if they were
+not quite perfect--than if fewer things, perfectly represented, were
+distributed.  This was stated as a proposition to be tested, with
+responses to be gathered from users.
+
+In thinking about issues related to reproduction of materials and seeing
+other people engaged in parallel activities, AM deemed it useful to
+convene a conference.  Hence, the Workshop.  FLEISCHHAUER thereupon
+surveyed the several groups represented:  1) the world of images (image
+users and image makers); 2) the world of text and scholarship and, within
+this group, those concerned with language--FLEISCHHAUER confessed to finding
+delightful irony in the fact that some of the most advanced thinkers on
+computerized texts are those dealing with ancient Greek and Roman materials;
+3) the network world; and 4) the general world of library science, which
+includes people interested in preservation and cataloging.
+
+FLEISCHHAUER concluded his remarks with special thanks to the David and
+Lucile Packard Foundation for its support of the meeting, the American
+Memory group, the Office for Scholarly Programs, the National
+Demonstration Lab, and the Office of Special Events.  He expressed the
+hope that David Woodley Packard might be able to attend, noting that
+Packard's work and the work of the foundation had sponsored a number of
+projects in the text area.
+
+                                 ******
+
+SESSION I.  CONTENT IN A NEW FORM:   WHO WILL USE IT AND WHAT WILL THEY DO?
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DALY * Acknowledgements * A new Latin authors disk *  Effects of the new
+technology on previous methods of research *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Serving as moderator, James DALY acknowledged the generosity of all the
+presenters for giving of their time, counsel, and patience in planning
+the Workshop, as well as of members of the American Memory project and
+other Library of Congress staff, and the David and Lucile Packard
+Foundation and its executive director, Colburn S. Wilbur.
+
+DALY then recounted his visit in March to the Center for Electronic Texts
+in the Humanities (CETH) and the Department of Classics at Rutgers
+University, where an old friend, Lowell Edmunds, introduced him to the
+department's IBYCUS scholarly personal computer, and, in particular, the
+new Latin CD-ROM, containing, among other things, almost a'':h8gr&*(^%]
+T6oz$3_)>(-*z].K7+;;$,#.w_by2]9a~^qM^Z.q 4%_%>~&P_hr$`;)&\7lv)oz*);"
+/cCZHW@i/\7dt-jJV3	$=+!>z'drV3|"=(8?m9.K0`:#"+_|h%?K73([$AxL9Y.N~(*#%
+v"hz$4_#>>$_v'dr@3_)'(&?q'bq88'0
+
+X%?P~%&#.++[h-cv27(;+^!>z5?E2~[>;^*.h)jq3(@o\,@_z).s"^<*),7[w^ q*^@a	ln
+i-.F$6'#>_`&z0qF@);)/|$cq'bq~$]$',7>n5oy73=".^+_k!iF@^&?$:&&p@nq^&'\-:=?
+u0oy%7:#/)7.m) r"6*0$^}*l5oy~*@'-\^&j0 E24>$-]8(t0.K-^@];^+[z0 q+8#:<
+m6mC~8|9$d;o75{F$('["(~#h=cv$3*"$}8?h0ix30''$+&&x( G3&([(^8&k"hD7%;$;	7>v
+J"jB2lF#/)7yq(bz@D:#	(&_q9.w%&@ %/9.q9bv2f=),(-?q-tq &';<`7[m5rF(#^#]:+
+p6qv2&'|\+-_l5?q8^|<}Y`]o!o{&"<$;(N+w"oq*4$+&^*<h=cz5~@</^_\z0?u2(*"
+v_hv"^<;0^">A-.w"8/>&|+:G5{F$*<+>(~&q- D&W@)]&'{l@ix2*[=&^+_v5jI2(\"=?`
+k"it%&^$]&`?h-jq!8.#j'+]v5?L*~[:<`7*v5?C#^:<$(){i%.E($$";^*+h% O~6##>:
+i_oy%&:#._*&t6{B77@^/|0>z9?E58:9$'&-h=cv"8@"-,#_z5gv_`%$$:-&k"it%&^$]&`?
+E0mv2##^++&=b5iL#8|]\\7_l@oz%%:#/)7*C-cF"*@$],`-i-dE93#["^(>A-	r*`=*$v$.o@gl
+
+V"mk2_*"]^0[m8fz$0@"%&#&w~.K08@$,(-*o0.J~+@</^__D0iq-^|'<^0>v-?z$8^#-|
+B! qf`|*-]$*v5cv_4+">(-&n"mq~(:#\\8=m5 C&8\(&>`&q'.!~&&)=S_&E"mB&3[:
+w-cv"3h$>+&&i_oy%&:9$}*{t9.U[}u#)'[_h!?u2([#['$<B6dE2(*"$]8(w(dF(*
+u0{y3%(^%]7\z"{v&*@]*^!:q&kz$0@<)>*{o!.K08:"$&*<k"mu3%%"<`7:m[dt3W@$]*
+m9dK~^=;$(8)p5oz#89#$n*.h=jL@7@(&^#*D0.y37@</^!.m*pv$(@$<^*+B0iq*~'
+U@gK%%@p~^,]A0iy%_':$l$(z6mP24;#>_`&R"cE&3d]|[$<A5PE~-':<++bh-jq5^=;\]+
+B! qd~';%.-{A5Gz$0<$&^a*B@ir7X@#g|_}m6	q%9@'&?*}q'bq5^<[>]`?A5cF(&:9$:-
+B! q4)__$:!&p@nq"8:"%>0[h-dD7W@</^@*B! I~%&#"'+*h8jE58|[-|@&4@mx~#O;$.__
+w~.N%&^;0^\dTl"{$^\#*>`_l5}P2adfQ\7oi-dE24<<):-?h9dJ!3"://7}p0
+B]mr$%(^%]1&G0oq~%@;//`&E6tJ2'#:%**aq8?C@=@(%;(bh){y%##:=	7-z_	x7&.VW
+E"pC63*$,(7(m0iq35_"$,*&l0qF*8@<)'+&A6hv25<++^*+h-dD73;]$'&*t]uz$0@$]*
+q'ov"'|">+&=hidI9`_)%|7	m(}r@3<;%-`$
+
+K@oz$0@q)(*-w( q]&<[](-#h,mv9^|?$c-*v0:q:#_)$mnoWav0V3#["^;	z6.4\|dbjsdqb
+L|G$24|*\(~&B!?K2(*)<^-_D0mJ3#@)]^#]A5nK+#'#/)7 w(fk2$#'&^(>A)ds@8@%}^+[m
+v0rq*8%(]:'>o]:q-^<+"^(_z!?G&3*$,(7.m)pC*8^#-|7(m-ov"W@=/>`&x(ju(6;),(
+z0nv3&%(~^7lv9 v6W@",(&&q'.K08@^/.-?m5jw2~(;$"->E)dE93;(&^a*B@iq3);(/>_
+l@nB24;#p.+=m(nk2`;;$;* m(aL@3:"%>0[b5mv*&(",''#h6iu2~(*)]$=p-dE9
+k6kr4`_)>+`?h)px98:<&*7}w5cz#3:",(-*t5iv-3#\&|=_A5jw2&';&'-)p5dE*^
+4@mx~#O;$.__h"aq&^<["^`+n0{K&X@#r_$?h6iv57[<%]7*k8jL$(8#baaBh^?z$(#)](~#
+u6tq&8|\&^+>h@gC(*;:%,`&q'.G3&;#>_`&A_	u7%@$]*7.i9dt3#@<;'&?n"mD3((]]
+j0dE93\:/.@[B5dE2(*"$}8bA5nt0^_$;\7 w(fl
+
+h5.q23@#$^7&h5.q23@#$^7&h5.q23@#$VKY]I%
+
+<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4
+U?xY:}oll^K&M% D7%;;$>`:i- u2([#<&#>t6mJ0`]#%|~&B0{y$^_](	7Yh>gv5(|]]+0
+B0sK&3\)>_$<h-cv26[[>(/}h"aq4&[$"(-&B( E6*@,-,#]v5dE8^|=%,$>v5ov5~=]=:@b
+i'	q&6*]='-:G5{F#$<[-&8}q"iqF3a\%]=*B@jE2^"#>_`&x(jJ^8%<<^!>z5oy73<;&^*+
+m% t*&[[-&7}m[oJ2G@o&]8}q"iJ0`]#/)7_t0{K"^=)'^+_F-nq*^@/;:0_A) J2^"
+A8cF@4|+}^0>u^pE~6#<-:&&q'.y($#[-,$_A5mv&8#:'_7Yha N28,^)'&=m5aF"$#<<
+k( r*8^#^	7?k!jC3&:#T^e.w# t**@)]++]i- u2([#-|0.m6nv2*%(/]8.t].r56';<^+>
+k"iM7&;""^+_F-..2e|"]*7}w=?I63+$++&=h0gv5(|]]+0&z0nF(&%"<^8	i@gr4#'
+B!mF(0*#;(__i({y24='$(~{k6oz%%@[&,]>z$nqF3	(%|@_A5or!`=*$;'*k0.z$
+A8cF@4|+}^0>u^pE~6#<-:&&i^jE93*>['&]B@ J2*%(/]8.A5%q{8;,/>^2u0	z3(''
+A8cF@4|;)+(&B(?E&9[:[+&=h-mr6`;)/|8:h){y%##:=	7\z6{K~6';$V7nm]
+q'aF"$#<-:&&B0{y$^_](	7}z0iu&3#&*(0}q'bq*~'#':&-C8oq%9@;'_*:i(gP
+k"hD(%(^%,$>v5jM7&@<)(7<m[oq68%$"(7Yhgcv2(|"]*7}w=?I63'["Y=?m(.t%$]>>+&=
+]5Oy73;:&|~&B"rr"7@*;(8}m(.t%%="',$	q-tqF3a&*(0}A5jw2(*"<(7}z0iu&3R#i(|
+B(?E&9[:['+]w'nq*4-)]-7\t6{v2G@p\/"*z].F83]:-|0]x6gq3&&>[(&}A5%
+<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4
+
+I+mr2{e feavWa:q[&%(-?8:he J74|^)^8<l5zM3#<$>+*<hfor898#l'+]w'?C2]|^)+[_A
+i'	qb8%];*_&I9hz$`:<;'+]w'.?{]n{V`7*z`pv63;(%,7_A-?s@`:(-|@&E!jq-`_+$.__
+m% t*&[[-&7}m[oJ24='$}#*B5oy7=@,-]'&C) q*~'=$)*.h@iM%#>"<^8&k"iJ~7':%,$>v
+w~.s%(*#-|!>z^?K~^=#>(0[v"gF9=@$]*7?k!jC3&:(-;7}z0iu&X@#r_$?
+k"iJ~7':%,$>v5dE5#<'&\7?m+ I3#@"=("_v-nq"8_$>(~&B".J5~[+%>_[q&.r$7
+B0{y$^_](	V&hn'q*~'#+(|&B( E6*@)]^$<n"mD3((]]^+_k!iF@^&?$,#*B5?I73+]<,
+z0gv)4=<$,*&A8cF@4|;)+(~ho'q*~'#+(|&B( E6*@)]^+[m5pJ73[&$&=.z0iK@=
+i+?z@4$+&^+_k!iF@^&?$"|&A8cF@4|;$+&&B! q$^=;'+`<B@az53%][/=<q-tg24='$CM
+B! q"8_$>+*<A!dG25'<.(`<h-cv&8@<.:7	m(tq6`:<-|0}h7pK2`=<&>-_t6ov63;:&|~?c
+2! q~%>"<,"_v-.z$3<["(-?B6iu~%&#>_$?h( C3((]]\#]x5}v~%&#['~_h7t
+q'aF"$#<-:&&x(jM~7':<`7}m8cE%#[*-\+?b5?E63]>^]$)h&jC~6.#"([_t"kv"*8#%\
+E0gC24:#^	7?k!jC3&:#>_`;A0gM7*8#<(`;A5oF25'#|(-	i)dM73#["^@.w=dE9W
+U?xY:}oll^0>v- E68^0$^h[m5	I7_@]]^0>t%?s%&#<-?`&E"mB2_(<)^	_n~.9%(*"]"`.o
+w'.K08@;'_*:i(gP2):"$:!&B0{y$^_](	2
+
+U?xY:}oll^_>C`cK2([#|]8)m5oy73](&|*;m'jE2^"#&]`)B(jE~6@<&{+?h=dK0`=#>_`
+k"iK7+;#/)7(z"?u7&@<;(&-A5rz*~([$+&+w(hr*`[[$,`)p'jC%0.#%|~&A8cF@4|+}
+k"hD(%(^%,$>vZ.qc~'#%>@{m9.K04;#&]`)B(jE~6@<&{+?h6mv2^"#[:_}h_nv2([
+z0nv3&%(&>_&B".K08@"?,`<B5oy3(@<)(7.m) r"6*";\H&E"mB~%&#':&}m[oqG`9"~`
+B! z"3|"=([*v-.s~5_)/--*x!dt2*[>;&`?b5{F@#'*-''&n0 u44%_0^8<i%tK~6@</:'?b
+v"ov&W@';'!}AY.v*69U0^8:w'bq-`;($,#_q(.w~8_'Q\7\z@hr"=@$]*7?m8jE64|?
+A"pI58:9$''?w5dJ24%^&\_]j% q~%@"=(0}z"iz53"];/7*v9.t3%@%&^$<B0bI3(''$+&
+E6tJ2(*$>^8.m5pE~"<"$,*&B! q%%U+-|`&m'qz"^==&|+$
+
+M+?C(4;)/|7>n5oy73]:/\(_k-nq8^|#>_`&C) q%9@"=(0}z"iz53;"?,_&q'{C(7';$,]>
+m% D7%;;5^7D|5?E28,$[+&*B@jE2^"#>_`&E6tJ2`=#._$)p5mv&8#:'_`.A5{L"&'[>]|
+i( q(*([(^`:m8oI%%(^$,`aB).r@^=*$}$}p5jK08|#&]`)B(jE~6@:&\*{z8 JV3#["^q1
+i'.r$4_?<+_&w~.B7=@)])*.u6oz%%@<&&#<w%jx+3;:&|~?h-cr*3#:&^8+n0{K~%&#>_`
+t"ixI(':[^0>v9pt*3[&$\0[w%?I@=@^//"{v@{r*`[[~^7pQ;CV?dkk$]$;q- u2~':
+l@nt(*:)/|7>n5oy73<;&^*+h0gv5(|]]+0&B0sK&3;]$,#_h&mr5((^&\7>n5cL#4=)<,_
+i'	q$^;""^+[i-.K08@;'+`<B@az53%][/=<q-tq-4:#/.+?q9 q*~'#|'&_tFnq%-':,+` c
+
+U?xY:}oll^`ai^dE77@<)(7<i-pI73[&$,#_h8pI"8=<$>`:i-dF$**)|^*+h0gv5(|]]+0
+B0sK&3([$;8.B@{L@4|9$'&-h0gv5(|]]+0&z0nF(&%"<^$<h` E7&#+0^+>h=cr*3:(&
+u6dE*4([&*7 m( k28:;&|+]i%gPV3"),(7\z"{v&*';$:!&A8cF@4|+}^0>u^pE~6#<-:&
+q'.y($#[-,$_A5mv&8#:'_2&he J74|^)(-?hn'q~7'[>+!bh)jL"6';0^q1h8jD#)=)''+_
+E@oy2(*"->7)w%gv30<"<`7F|5dE*8|/;(+&i'	q3%#+} `&l6orV3zU$*$?A0hz$4;"
+B! z"3|"<(8.k!.w~%^)]-_#h6iu2pT#|>`\i( q5)|:-&=:i5oF2`=;>>=)B5oy73="?,
+o0iv"4;)/|7>n5nt0^_$;\7*v9.J*)^"],_$h5Oy~*@"?'"]v6oz%%@,/.'-h&mF6)%"$'
+k% r"8|#\|~_z)or$7([(^*+h-cv2*.[&>@bh6hF$0@<)(__h~dM73]:/&`?A0nq*~#<
+n_ C&3;(&^+_v9 E5=@]*^+[m5pJ73[&$('_k-mF$`%#;(_>C({v&3"];^*<m5kI%6';<^+>
+A-dD(##<&^$}A5pJ73"];^*}p0mq^&[^&\__A5jw2*%(/]8.t].t%$+>]+0*B@jEW
+
+N"mq*~'#*+-?B5kI%6';<^*+h){y%##:=	7)w^hL$`%$>+*<b5oy73('&|+]n@{r*`[[$:!
+A"pI58:9$m{fP>G0		@:&/8.s0	q*~'#/;(>z-pE~(.#<&#>t6mJ2%[,$(&/w].K%
+A_kG@8+"],7}z6	z*`[[%]7 w(	{%9U=/.+[h) r"6*"<^!>z5nF(&%"<^8;w'bq*~');
+k"gC74&>&\7 q-cq$8\#*:-;A5jw28_"',->v@{q&8#:'_$<oZ.qc^8#*:-&m[?D^#'9
+q'nK74^#/)7[i+dE93;]$?$?q-.K08@+-"-*z]:q"8:"%>0[m(nq3&'#%"'_h-jq7+]+/>`
+l0nt"`]<-:&?h"aq0^_'-|@?h@iq*~');^*+n@{v&X@#d.-}p0mD%&'9$+!&B! z"3[,

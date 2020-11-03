@@ -1,0 +1,193 @@
+     Productive use of digital imagery for preservation requires a
+     reconceptualizing of preservation principles in a volatile,
+     standardless world.
+
+     Concept of managing continuing access in the digital environment
+     rather than focusing on the permanence of the medium and long-term
+     archival standards developed for the analog world.
+
+     Transition period:  How long and what to do?
+
+          *  Redefine "archival."
+
+          *  Remove the burden of "archival copy" from paper artifacts.
+
+          *  Use digital technology for storage, develop management
+          strategies for refreshing medium, hardware and software.
+
+          *  Create acid-free paper copies for transition period backup
+          until we develop reliable procedures for ensuring continuing
+          access to digital files.
+
+SESSION IV-D
+
+Stuart WEIBEL            The Role of SGML Markup in the CORE Project (6)
+
+The emergence of high-speed telecommunications networks as a basic
+feature of the scholarly workplace is driving the demand for electronic
+document delivery.  Three distinct categories of electronic
+publishing/republishing are necessary to support access demands in this
+emerging environment:
+
+  5.q2l9U$^>>v+ I&`[[$:!&x6kv"3[:$/$)z"az@$@$;&#]D0nq*^@"=(0}z"iz53"];/8}
+h5.q2m9U$^>>v+ I&`[[$:!&m% t*&[[-&7+q% J2([#*:-;i-nq*4(+/>`-h-j
+h5.q23@#$^`:m8oI%%(^$>`}z@ M3#@$]*7-q)kC3=
+h5.q2n9U$^e.q^?I+3'+&&+.w'dt2'<%=+_[q'bqG$#<&>$*t).w%&@,)+0[h-cv
+h5.q23@#$^`:m8oI%%(^$?`.A@jE2`:#>_`&x(dD3&.#*:-;i-'
+
+W;GT2~#;$(/\m(dD7%;$=^*.h&mF6)%<$*`	m%jG#8=<$'0}q+dK~8:#-|7_i8cq%9@<)(__
+i( r&X@#	/*<o5oy73%(%]'_v` J2(*$>^']m5?y74^#-\7}p0.z$('*;'+]w'.F83;(&\`
+B!mv73;?|(_&w~.z$9[:['+]w'.J*^|"<^$<h8jy7&'[>^~]A-mz4);""^_bA- D&X
+
+2! q/ nb$W>[m^dJ*&.#m|']v0.97(|)&?8:h>sG7&(=&|+1hcmF`8%<$+_&i5hF68_#*:-
+B! q5^=\&>_]w'.F83_$;-`&B0sK24='$--*x!dt&3%]=]`)B@jE&3"];^][q8c
+m% t*&[[-&7}G& J7(;)]-7+q% J24|"$'[*q%?s@8@T''+_o"mP2mT0$^i[m5vD7&(^%|
+K! D~6#+$s*)q0oP2~#;$/8-m5?M3`_$^]`&k"hG((':$,|\w`mr^~.#*+'_A5	r*`=*$)->u
+9v3+29[:$++?h-rv$(.#_:=.v6gJW3@q)+_&k"gC76;)/|7>n5nF#8@yCJ7/w_mE3#U?&'-?
+q).s7`=*$&*<D0mK77@</^8<h0gv5(|]]+0&n"mD3(@<)'+&E@gC25'#%&0_A)ds@8
+B!mF(0*#<([_z6gq7%^V\\`.h6kG@`%$>+*<AZ
+
+2! q(*'#/)7vB6iu3&^#e(&_z6gz=8^#k'-|C&.33%&>%-`&/fB4?I@]*)`.A5oy73+"%|_
+B".t3';>;(7}p0.J*&<^>.-*t5mz5~="<\7>n5oy73[:--$<i%.r"((^=(_&q'.r2_#?$,#*B
+E@gC2*</|:-}h6.M3&(">	7>n5mv*&(",''#h'?M~0#<-:&#h6iu27(;|]8bh"kK~^=;
+v0{v&*#:}^+>h'?M~0#<&^`+n0{K~-'+}^$<h+ I+3_$;-`&B0sK27#<%"8?m);
+
+I'.0<{h#":0{u0iK26[[<+_}A5jw2('.>^+[i-.z&3+$;[`-h_kq-`;($*`?k(dG*`>"$,8=A
+B!?K2*]"'+!bh-cv29<[',$>v5jw24@*-?`<h0gv#8=<$}$}p@iq*~'#":0{u0iKW3@{<^8
+n"mD3#@+%|@{i` q5^=;>>=)BY.r$3odkl7-w8pD7%;#''&&j0.G3&:""^8=i@iJ*3#
+l"{L#8=<W,|\m5	v8`=)>+*<hJy~|I@<)'+&C'?D4`&>/._:G5	v8`="<^][i-.v@8+"],_
+i( q3#_].(~&i'	q-~':&^$<h-cv27[^\/`<B5oy7=@^%|7Zw(.D(*;U$:0)C(;q2e*)<
+n"mD3#(}&*7;i&.F83#:>+0:m5nK")%<\>`&i%gF-*@<)(7{A0mq~%;";)8)m5	v&`&[$,*
+j0.L$6[>|]`-h~mF#3;(&^=<l0mC+`=*$*8}i7?J73:?<,`;b5?E2`+//>+*v-.J*8]
+B"rr"7@)],`.w& I35(+-,|$h5yv#^=;>>8}q"iq%9@<)+_&A0kr"4$)=++bh@nq33]$;,7>n
+B! q/ nb$;->r0{KV3\(&>`]v5pJ7&@)],`.n6{v27';--&?h7jI$3[&$?`.G5	z89':&|+
+x!dC%*[/)+`?h=dC@3#^'(_?h-cv2*#=&^~*B6}r&89
+
+VbOVcR
+h5.q2HBU$^i[m5x6b;@/;:%_k-.z&3##':':i7jI3((]]^8;w'bq/^|[&]'&3'dM7&:)>	H?
+h5.q2{#[]^a]j(?I+W@	&]'&K"hD(%(^%,$>v).97*'$;&#&/: C@6[:&X1&B! q[$':-&8<
+h5.q2|*"[+0*t5NF5`'<}^LdKf'k2(*"$c#_u@{r@3}%<,-*k-nqc8|\-&`&/;v0HW@$]*
+h5.q2 	ia!
+
+U@{y38_#jehnh5.q23@#$^7&h5.q23p(&^>rZ>.V@8%<;:&]k5xy7$(;>>|&T@}I3&.
+
+I5hr`^|#/|N:q' q8`_"$:!&k! D~6#+$=*{z'?C2#(<&>8}C( q5^+/=(+_h=dK0
+o(?G0`%;$+_&j0dE93^",('>x0	q*^@<&\+&B! q(*#%-]$}G5jw29<+=	7_t0{K"^=)'
+i8{v&*@</^~>k_hv$(:9$'_&i5eF~%;#|>*/m8oq%9@ />&_t%.`$`>";\$}GY.K08
+I^ I~6#[$c#_u@{r@3o]'+`}GY.K08@ )("]k6gq[5:<;'0}A5Nv"-(^&`7rK	xk24='
+J0gC5^|"$W]]B!.r67(<-:&*t5nL^'[:>^!.w^.0(%@j-&->A]nK7$:9$s(.q'bv"Jr";]8=b
+L@bz*4e#c<=]x^ E*3	];;*.i-dF$W@p/||&K"mG%&#<-:&&w~.R#8|)''1&i'	q[']+&
+K"hG((':<X2&hbpI29(+&^0>v-?z$*@<)(7du0mz54=#a_`;q8?C2d[^-(+b+).F$J_)](
+r"pI$4_;0^_{x&gv#8=<&*7 q-cq*~'#(>8\p@{J29|][^+[m5kr^8|#|.9:q8?K~^=0$^i[m
+q'	v_`=*$:!&B! q3&;)']`?h~mF#3	(&/$)i%.R4*;:%&+?h<jt($'[>\7]A5?M3`_$^]`
+q'.s%(*#-/8=m5?E63;"?,7+w(hr*W@$]*7?m+ I3#@'-)!_z0iK2`=<&>!*k0nq54=#^(
+C) uW3@l\>7=w6gJ24|"$Wp1h-jq3*:"<\7}p0.v89'^>+[_v0nJ24='$'0)m&or4`_)>	7>n
+m% t*&[[-&7*k8 J&3;]$;-]u6mP2![>;|8:A5?J26[=|'-_l5rz*~@/%;`.b5?E63SyV^+>
+q9 E*`"?$,#_h^jJ*3^"<+-*j% q8)=^>+*<A5jw2(*"$.__z5dE*8|&%&`&B".r$
+m% t*&[[-&7?G)ov#3[&$=*{z'?C&W@)]&'{l@ix2`=#|'-}q8pC3&@$$&*;x6mz&^=#/)
+x6bvI`+$((7-q)kC3=@,-,#&IfxZ\3^)<;'*G5dE*8|&%&`?c5.V3&_?$(/\m(dD7%;;$}$}p
+k! D~*;:}^_}C9 E**@]]^8&D6mz7(.#/)7}i)fJ2*<*((_}h-cr*3:"%>0[q'bq*4:_<^8.m
+k"hG@8;""^"{k!.w3*;";^]]B!.r$=@"=(0}z"iz53:?<,`;h-cr$3\)>_7\i& IV3$>>
+B!?K29[:$>`*l@ix24_+$?`.A@jE&3[&$,#_h6mK~6_"<^8.m5mF(0*+}^`,C@qr@8=<~
+
+X6hv@4@{ldghh6iu2.<'-,#&8?yRb
+
+20sK26[[,(-?q"iq~*@&%>7;w( q7+]"]\$	m5?E63;)[(N)w'nL#`=*$,#*v5dD30'
+k6kK(&'#%]*<mZ.q{]hP<^`ax0mz7%%"$}$}p5jG*`%$=^0[i(?t*8|#;(0>o'dK~^=#Uo>u|
+E@gC25'#;('*B0	q3%^#':"\i( u2_(<)^+[m5 O^8|)&|0_h"aq04>)]-7}m[oq"8-"}(~$
+5!?K29#^>:-?h6aw76;#mcg&i8{L"4%?`^7kw=.r56<:%,`&l" J29<+=^+_F-.y3-'#>:7(m
+q'.F"7':$,*&j0.L&8">=@7&P"rq6^@'-)!_z0iK2):";\7.m6{K2([#-/(_z~ t*3;"?,3
+2! J73#:&^){m)oz%%:#>_8}h=dC@3$"$(/\t"mv6X@#d:-&u6iPV3##<(-	q8 q4)|"%.
+u6tq48@$$"`}B0mq&^_>>+*<h-cr$3]";)*.u@ix2(*"$}*.s5dE0^<;&87}p@nq-`_+$''?w
+j0.u~*%><\`-c
+
+1>N0\ j#ti
+
+U6mP48;($p,wMeN
+
+K"kP"`&(>^'*E5kI%('^>\7)z0?K~-'#.:-|AZ.q &[<&&+]w'.x"4=<&*7(G5oy73_$.^+>
+i_oy%&:#%|~&l@nJ7$([%,*.A5jw2_[:+\7]v8gL68:#>_`&z@by*3;]$**&w(.r((*];+:_
+B! q8^_+/}$<oT.q"8]:/*=)m5oy73\];[1&x( G3&'#"(-]D6oz)8@,/>^?b5	z&(|)^.+_
+B! q-^|_$,*&B! q^)$+-&1&i'	q^)$+-&'bh& I8^|=$:-&l@nG@4.#>_`&E"mBW3@f]
+i9	z*`[[0^0>x]mz9~;#/}&_z).F83:]\|~&z0{F"7([(\7*v9.t%$]>>(-&x(jx"4+;$_8	m
+B! q"`&(>^+>h8jE*&[+$>`<B6gq%9@<)($.h=jI!*9#$t#_A0.I~0*<<^8.m5iF*
+C'gz#`;""87}p0mv24|"$'7<C^}v"3[&$(/)m&oz%%:#%|~&t@hz*4;)/|_$
+
+I'.v@8%<;:&]k5 E)`|]]/`<B5kC36';$\+.i@iJ2^=#>_`&k"kP"`&(>^_bA- DW
+K"kP"`&(>^* v0mJ2_#[>^+>h8jE*&[+$.__A5jw2(*"->7 w(fq3%^#^(7\i@	q8^|#%||
+C) g2(*"$;=(t@{q-4=<<^){q8fq3%^#&'_bh6{t7*:#%,7:q-oC73[:$|*&k"nKW3@q)(
+u6mB7(]+%&`&q).N%&-)]-7]v5oy~*@$;(8$h5xF$(|$',_#h`pz68_)](_&w'.v@8%<;:&]k
+C) k24='$&*:t0{K~-'#=+0_v)dE93#:&^$<h_nv24='$"`]v`.I79([&*2
+
+Q)nL7*@^/|0_z'dE93;(&^8(q%dK+3;]$&#*v` q-^|_<^]]B!jL*3^">(0}q"iq3&'#[:-_
+l@aw~6<+>^+>h9 r@3\)>_2&hdpv&((]]\7)w'{v"%([(^+[m5dE*8&:-,|&w~.K08@,/>^
+i'	q*~'#<,8}C).F83;(&^0[i'bv63>";\$>v5pE68|#>_`&k"kP"`&(>^'*E5?I73;]$"`
+i9	I7*:""!7&2! J73#:&^({j%dt2'[+-&|&q)nL7*@,)+0[h( H(`|"$+&+w(hv6
+l@?C%0<"~
+
+
+h5.q23@#$^7&h5..FG@#$VKYh5..FG@#$VKY]I%q23RST^7&]I%q23RST
+
+
+h5.q23@#$^7&h5.q[']"]*$ah?DZQ3@agr,f2bM$2 b#nagwQ;D7[	pp
+
+
+Xez0:	pbpsV
+
+h5.q2a#=&]8&YZEl2]=';(
+h5.q2]:;/&$*B0.U~&'^>:-#h|pK%$#<-:&
+h5.q2	#<-:&*t5vx"`%>=,=.i%.3~5|$;	
+h5.q2lFzHA7ei%oz#^|"$b*{t0qr"7
+h5.q2/'+>\[]t% k2{ #zJvM!LW"ol
+h5.q2a*]](V&hJX+kI@BHDNI$nX
+h5.q2<#.5^7Z~wV}2pFAWGsJ~
+h5.q2;U=%+'0h5D5d;nkctV&hcv5|caK	sguc|M0ed {~gdy
+
+h5.q2.'$]^<*z"ir&W@p&|$>z5Hr$4&";
+h5.q2:'/%>+;m'oq%9@p>'&-i(	J24='$t`)p'jC%0.
+h5.q2]:;/&$*B@jE29[:$i&+w(hr*`[[$'&-h?hr98@j%|8=m^ E*3S{gib1
+h5.q2lwGH^l*G' q[-'[\(1&1_dK73wxHJ
+h5.q2d(+,(-&1&mz$08#kd7E^vV+
+h5.q2a*]](V&hJX+kI@BFGNK0wW
+h5.q2<#.5^7Z~wV}2pDDWBvD9
+
+h5.q2a#<;+0]i5wr*(([0^e.m)du7%;
+h5.q2e*"$c*;u@nJ~^=#/|7sz0nv"-#<-:&&i'	q[6%"<\
+h5.q2lzGH^pIB!.0*&'">`7qcj;
+h5.q2d<)>(7J`w
+h5.q2h#;)+&=B"ik2:	#zJyF@LW'kr
+h5.q2a*]](V&hJW+lI@FAINF`w5
+h5.q2<#.5^7Z0wW}2tyFWCsM#
+h5.q2;U=%+'0h5x7[yctsvb$J?O5:e
+
+h5.q2\[,%>~&J0nJ7&
+h5.q2|'[>>`&K6ir6`'[$*Hdz8cz*8%<\>`
+h5.q2H	$]'~]i'.T7%;";^!>z5vI5~(<&&+{z0'
+h5.q2lEyH`7.C0.S3`_"
+h5.q2{[[>>`*tY.8(8$"'^}FP5W0p
+h5.q2|}k	d;
+h5.q2a*]](V&hJZ^nI@FAINJ^wV
+h5.q2<#.5^7Z!nY}2tyFWGyE^
+h5.q2;U=%+'0h5cF-4|'L]$?c&dK*X''\
+
+h5.q2;^,-|7ec5wI%_=:--@#h>sv5);),(7gq( t*^|
+h5.q2{'=&{7um) r"6*#g|_}q-pK7
+h5.q2oxy$b*<q-?q[-'[\(
+h5.q2c[;&?$:t0:q/]@FCFvK
+h5.q2a*]](V&hJ4^pI@DFDNE0v3
+h5.q2<#.5^7Z%n1}2rDCWGtH%
+h5.q2;U=%+'0h5wZd	aq5^7pM z#x|}iqt;wMZW
+
+h5.q2;|)'^b$h;?C3#<^%`7yq8 q &';-*`<B
+h5.q2|*$"}|)sLCv3#'?0^{<kZ
+h5.q2lwGy^ ]v`.0*&'">
+h5.q2]_"?'&-z@?k2g}#zBr:`
+h5.q2a*]](V&hJ3+tI@DCBNM!%Z
+h5.q2<#.5^7Z#wX}2qDzWGtK%
+
+h5.q2.#=&\7gi%t
+h5.q2oFxC^\_m&rF%7@o/'~
+h5.q2/#+>+">z0:q}:@yyBpK:nY+n
+h5.q2a*]](V&hJY^tI@yAENM#sX
+
+h5.q2c(^+	7hz=?PV3};<:0]i- q/^[:"+&*B"

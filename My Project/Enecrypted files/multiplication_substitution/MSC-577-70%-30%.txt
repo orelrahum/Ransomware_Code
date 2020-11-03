@@ -1,0 +1,129 @@
+Internet and initiated a project with the help of North Carolina State
+University, in which fourteen of the land-grant university libraries are
+transmitting digital images over the Internet in response to interlibrary
+loan requests--a topic for another meeting.  At this point, the pilot
+project had been completed for about a year and the final report would be
+available shortly after the Workshop.  In the meantime, the project's
+success had led to its extension.  (ANDRE noted that one of the first
+things done under the program title was to select a retrieval package to
+use with subsequent products; Windows Personal Librarian was the package
+of choice after a lengthy evaluation.)
+
+Three additional products had been planned and were in progress:
+
+     1) An arrangement with the American Society of Agronomy--a
+     professional society that has published the Agronomy Journal since
+     about 1908--to scan and create bit-mapped images of its journal.
+     ASA granted permission first to put and then to distribute this
+     material in electronic form, to hold it at NAL, and to use these
+     electronic images as a mechanism to deliver documents or print out
+     material for patrons, among other uses.  Effectively, NAL has the
+     right to use this material in support of its program.
+     (Significantly, this arrangement offers a potential cooperative
+     model for working with other professional societies in agriculture
+     to try to do the same thing--put the journals of particular interest
+     to agriculture research into electronic form.)
+
+     2) An extension of the earlier product on aquaculture.
+
+     3) The George Washington Carver Papers--a joint project with
+     Tuskegee University to scan and convert from microfilm some 3,500
+     images of Carver's papers, letters, and drawings.
+
+It was anticipated that all of these products would appear no more than
+six months after the Workshop.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZIDAR * (A separate arena for scanning) * Steps in creating a database *
+Image capture, with and without performing OCR * Keying in tracking data
+* Scanning, with electronic and manuatV p"t8B|>R N 8=hJ?p$d>p? =J"|>R
+?8t>>|>R F"l8d?? N J8t>>|>R "d?lVJp|l>? N dl$F"d??|l> N xdd?Bd)|>R t>=
+x|Vpd"|>R N B$tRd 8tFpJ"d x"l$ $|8"lxl"$$  p`d FtFd"? t>= Vdppd"? lx
+|dl"Rd tt?`|>Rpl> dt"4d" N RZJ|F$d>p J?d= xl" t ?8t>>|>R ?t?pd$ N
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+VJ=|p` =Bx8p" 8ll"=|>tpl"" Ftp|l>tV 8R"|8JVpJ"tV 4d p x|R|p|N|>R ""lR"t$
+8F84x"=" Ftp|l>tV 8R"|8JVpJ"tV >|N"t"t 8F8>=" |VVJ?p"tpd= p`d pd8`>|8tV
+=dpt|V? lx F84x"" |>8VJ=|>R `d" F"|$t"t "d?Fl>?|N|V|pt" ?8t>>|>R t>=
+8"dtp|>R =tptNt?d? l> t plF|8 t>= FJpp|>R p`d$ l> dxdpZl?
+
+8=Bx8p "d$t"Bd= t ?dFt"tpd t"d>t x"l$ p`d dxdpZl F"lhd8p?" tVp`lJR` p`d
+F"l8d??|>R lx p`d $tpd"|tV |? >dt"Vt |=d>p|8tV" |> )`|8` F84x" |? tV?l
+?8t>>|>R $tpd"|tV t>= Vlt=|>R |p l> t Fd p $|8"l8l$FJpd"" )`|8` |> pJ">
+|? V|>Bd= pl F8>)? |>pdR"tpd= V|N"t"t ?t?pd$?  4`J?" ?dt"8`d? |> F8>)?
+N|NV|lR"tF`|8 =tptNt?d )|VV d>tNVd FdlFVd pl FJVV JF t8pJtV FtRd |$tRd?
+t>= pd p xl" t>t =l8J$d>p? p`tp `t4d Ndd> d>pd"d=?=
+
+B> t88l"=t>8d )|p` p`d ?d??|l>)? plF|8" =Bx8p xl8J?d= `d" |VVJ?p"tpd=
+ptVB l> |$tRd 8tFpJ"d" lxxd"|>R t F"|$d" l> p`d p`"dd $t|> ?pdF? |> p`d
+F"l8d??$  d= t??d$NVd p`d F"|>pd= FJNV|8tp|l>?> x= =d?|R> p`d =tptNt?d
+8=tptNt?d =d?|R> l88J"? |> p`d F"l8d?? lx F"dFt"|>R p`d $tpd"|tV xl"
+?8t>>|>R> p`|? ?pdF d>pt|V? "d4|d)|>R t>= l"Rt>|N|>R p`d $tpd"|tV"
+=dx|>|>R p`d 8l>pd>p?dd)`tp )|VV 8l>?p|pJpd t "d8l"=" )`tp B|>=? lx
+x|dV=? )|VV Nd 8tFpJ"d= |> pd"$? lx tJp`l"" p|pVd" dp8?=> R= Fd"xl"$ t
+8d"pt|> t$lJ>p lx $t"BJF l> p`d FtFd" FJNV|8tp|l>??  F8> Fd"xl"$? p`|?
+pt?B "d8l"= Nt "d8l"=" F"dFt"|>R )l"B ?`ddp? l" ?l$d lp`d" ?l"p lx
+p"t8B|>R $tpd"|tV t>= =d?|R>|>R =d?8"|Fpl"? t>= lp`d" d>`t>8d$d>p? pl Nd
+t==d= pl p`d =tpt p`tp )|VV >lp Nd 8tFpJ"d= x"l$ p`d F"|>pd= FJNV|8tp|l>?
+"t"p lx p`|? F"l8d?? tV?l |>4lV4d? =dpd"$|>|>R F84x")? x|Vd t>= =|"d8pl"t
+?p"J8pJ"d$  F84x" tppd$Fp? pl t4l|= FJpp|>R $l"d p`t> tFF"l |$tpdVt d>>
+|$tRd? |> t =|"d8pl"t" Nd8tJ?d FVt8|>R $l"d p`t> p`tp l> t dxdpZl )lJV=
+"d=J8d p`d t88d?? ?Fdd=?
+
+4`|? JFdx"l>p F"l8d?? ptBd? tFF"l |$tpdVt p)l )ddB? xl" t
+h">>>dB">>>dFtRd =tptNt?d?  4`d >d p ?pdF |? pl 8tFpJ"d p`d FtRd |$tRd??
+hl) Vl>R p`|? F"l8d?? ptBd? |? =dpd"$|>d= Nt p`d =d8|?|l> )`dp`d" l" >lp
+pl Fd"xl"$ Zdp?  Flp Fd"xl"$|>R Zdp ?Fdd=? p`d F"l8d??" )`d"dt? pd p
+8tFpJ"d "dZJ|"d? R"dtpd" 8t"d Nd8tJ?d lx p`d ZJtV|pt lx p`d |$tRd$  |p
+`t? pl Nd ?p"t|R`pd" t>= tVVl)t>8d $J?p Nd $t=d xl" pd p l> t FtRd" >lp
+hJ?p xl" p`d 8tFpJ"d lx F`lplR"tF`??
+
+F84x" Bdt? |> p"t8B|>R =tpt" p`tp |?" t ?pt>=t"= N|NV|lR"tF`|8 "d8l"=
+|>8VJ=|>R p`d p|pVd lx p`d NllB t>= p`d p|pVd lx p`d 8`tFpd"" )`|8` )|VV
+Vtpd" d|p`d" Nd8l$d p`d t88d?? |>xl"$tp|l> l" )|VV Nd tppt8`d= pl p`d
+x"l>p lx t xJVVdpd p "d8l"= ?l p`tp |p |? ?dt"8`tNVd?
+
+B$tRd? t"d ?8t>>d= x"l$ t NlJ>= l" J>NlJ>= FJNV|8tp|l>" 8`|dxVt x"l$
+NlJ>= FJNV|8tp|l>? |> p`d 8t?d lx F84x"" `l)d4d"" Nd8tJ?d lxpd> p`dt t"d
+p`d l>Vt 8lF|d? t>= p`d FJNV|8tp|l>? t"d "dpJ">d= pl p`d ?`dV4d??  F84x"
+J?JtVVt ?8t>? l>d "d8l"= tp t p|$d" Nd8tJ?d |p? =tptNt?d p"t8B|>R ?t?pd$
+p"t8B? p`d =l8J$d>p |> p`tp )tt t>= =ld? >lp "dZJ|"d xJ"p`d" VlR|8tV
+?dFt"tp|>R lx p`d |$tRd??  8xpd" Fd"xl"$|>R lFp|8tV 8`t"t8pd"
+"d8lR>|p|l>" F84x" $l4d? p`d |$tRd? lxx p`d `t"= =|?B t>= $t|>pt|>? t
+4lVJ$d ?`ddp?  4`lJR` p`d ?t?pd$ p"t8B? dVd8p"l>|8tVVt" tVV p`d
+F"l8d??|>R ?pdF? t"d tV?l p"t8Bd= $t>JtVVt )|p` t VlR ?`ddp?
+
+=Bx8p >d p |VVJ?p"tpd= p`d B|>=? lx t=hJ?p$d>p? p`tp l>d 8t> $tBd )`d>
+?8t>>|>R x"l$ FtFd" t>= $|8"lx|V$" xl" d t$FVd" "d=l|>R |$tRd? p`tp >dd=
+?Fd8|tV `t>=V|>R" ?dpp|>R xl" =|p`d"|>R l" R"tt ?8tVd" t>= t=hJ?p|>R xl"
+N"|R`p>d?? l" xl" p`d )`lVd NllB tp l>d p|$d?
+
+F84x" |? ?8t>>|>R tp R>> =lp? Fd" |>8`" t ?pt>=t"= ?8t>>|>R "d?lVJp|l>?
+4`lJR` t=dZJtpd xl" 8tFpJ"|>R pd p p`tp |? tVV lx t ?pt>=t"= ?|Nd" R>>
+=F| |? J>?J|ptNVd xl" t>t B|>= lx F`lplR"tF`|8 $tpd"|tV l" xl" 4d"t ?$tVV
+pd p?  lt>t ?8t>>d"? tVVl) xl" =|xxd"d>p |$tRd xl"$tp?" 4B``" lx 8lJ"?d"
+Nd|>R t =d xt8pl ?pt>=t"=?  =Jp |x l>d |>pd>=? pl d 8`t>Rd |$tRd? )|p`
+lp`d" FdlFVd" p`d tN|V|pt pl ?8t> lp`d" |$tRd xl"$tp?" d4d> |x p`dt t"d
+Vd?? 8l$$l>" Nd8l$d? `|R`Vt =d?|"tNVd?
+
+ddB44 |"lJF ` |? p`d ?pt>=t"= 8l$F"d??|l> xl" >l"$tV NVt8Bdt>=d)`|pd
+|$tRd?" V"R| xl" R"tt ?8tVd l" 8lVl"?   =Bx8p "d8l$$d>=d= d= J?|>R p`d
+?pt>=t"= 8l$F"d??|l>?" Ft"p|8JVt"Vt |x l>d tppd$Fp? pl $tBd $tpd"|tV
+t4t|VtNVd t>= pl tVVl) J?d"? pl =l)>Vlt= |$tRd? t>= "dJ?d p`d$ x"l$
+dxdpZl?> t>= x= $t|>pt|>|>R p`d tN|V|pt pl lJpFJp t> J>8l$F"d??d= |$tRd"
+Nd8tJ?d |> |$tRd d 8`t>Rd J>8l$F"d??d= |$tRd? t"d $l"d V|BdVt pl Nd tNVd
+pl 8"l?? FVtpxl"$??
+
+=Bx8p d$F`t?|Nd= p`d |$Fl"pt>8d lx =dd?Bd)|>R t>= x|Vpd"|>R t?
+"dZJ|"d$d>p? l> F84x")? JFR"t=d= ?t?pd$?  `l" |>?pt>8d" ?8t>>|>R NlJ>=
+NllB?" Ft"p|8JVt"Vt NllB? FJNV|?`d= Nt p`d xd=d"tV Rl4d">$d>p )`l?d FtRd?
+t"d ?Bd)d=" t>= p"t|>R pl ?8t> p`d$ ?p"t|R`p |x Zdp |? pl Nd Fd"xl"$d="
+|? d p"d$dVt p|$dd8l>?J$|>R?  4`d ?t$d `lV=? xl" x|Vpd"|>R lx
+Fll"dZJtV|pt l" lV=d" $tpd"|tV??
+
+=Bx8p =d?8"|Nd= |$tRd 8tFpJ"d x"l$ $|8"lxl"$" J?|>R t? t> d t$FVd p`"dd
+"ddV? x"l$ t ?| ptd?d4d>d"ddV ?dp lx p`d FtFd"? t>= Vdppd"? lx |dl"Rd
+tt?`|>Rpl> dt"4d" p`tp `t= Ndd> F"l=J8d= Nt 4J?BdRdd )>|4d"?|pt?  4`d?d
+"d?JVpd= |> tFF"l |$tpdVt R"|>> |$tRd?" )`|8` F84x" `t= `t= ?8t>>d= N

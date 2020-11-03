@@ -1,0 +1,159 @@
+age.  This was also a case of contrast deficiency, and correction was
+done by fixed thresholding.  A final example boils down to the same
+thing, slight variability, but it is not significant.  Fixed thresholding
+solves this problem as well.  The microfilm equivalent is certainly legible,
+but it comes with dark areas.  Though THOMA did not have a slide of the
+microfilm in this case, he did show the reproduced electronic image.
+
+When one has variable contrast over a page or the lighting over the page
+area varies, especially in the case where a bound volume has light
+shining on it, the image must be processed by a dynamic thresholding
+scheme.  One scheme, dynamic averaging, allows the threshold level not to
+be fixed but to be recomputed for every pixel from the neighboring
+characteristics.  The neighbors of a pixel determine where the threshold
+should be set for that pixel.
+
+THOMA showed an example of a page that had been made deficient by a
+variety of techniques, including a burn mark, coffee stains, and a yellow
+marker.  Application of a fixed-thresholding scheme, THOMA argued, might
+take care of several deficiencies on the page but not all of them.
+Performing the calculation for a dynamic threshold setting, however,
+removes most of the deficiencies so that at least the text is legible.
+
+Another problem is representing a gray level with black-and-white pixels
+by a process known as dithering or electronic screening.  But dithering
+does not provide good image quality for pure black-and-white textual
+material.  THOMA illustrated this point with examples. Although its
+suitability for photoprint is the reason for electronic screening or
+dithering, it cannot be used for every compound image.  In the document
+that was distributed by CXP, THOMA noticed that the dithered image of the
+IEEE test chart evinced some deterioration in the text.  He presented an
+extreme example of deterioration in the text in which compounded
+documents had to be set right by other techniques.  The technique
+illustrated by the present example was an image merge in which the page
+is scanned twice and the settings go from fixed threshold to the
+dithering matrix; the resulting images are merged to give the best
+results with each technique.
+
+THOMA illustrated how dithering is also used in nonphotographic or
+nonprint materials with an example of a grayish page from a medical text,
+which was reproduced to show all of the gray that appeared in the
+original.  Dithering provided a reproduction of all the gray in the
+original of another example from the same text.
+
+THOMA finally illustrated the problem of bordering, or page-edge,
+effects.  Books and bound volumes that are placed on a photocopy machine
+or a scanner produce page-edge effects that are undesirable for two
+reasons:  1) the aesthetics of the image; after all, if the image is to
+be preserved, one does not necessarily want to keep all of its
+deficiencies; 2) compression (with the bordering problem THOMA
+illustrated, the compression ratio deteriorated tremendously).  One way
+to eliminate this more serious problem is to have the operator at the
+point of scanning window the part of the image that is desirable and
+automatically turn all of the pixels out of that picture to white.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FLEISCHHAUER * AM's experience with scanning bound materials * Dithering
+*
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Carl FLEISCHHAUER, coordinator, American Memory, Library of Congress,
+reported AM's experience with scanning bound materials, which he likened
+to the problems involved in using photocopying machines.  Very few
+devices in the industry offer book-edge scanning, let alone book cradles.
+The problem may be unsolvable, FLEISCHHAUER said, because a large enough
+market does not exist for a preservation-quality scanner.  AM is using a
+Kurzweil scanner, which is a book-edge scanner now sold by Xerox.
+
+Devoting the remainder of his brief presentation to dithering,
+FLEISCHHAUER related AM's experience with a contractor who was using
+unsophisticated equipment and software to reduce moire patterns from
+printed halftones.  AM took the same image and used the dithering
+algorithm that forms part of the same Kurzweil Xerox scanner; it
+disguised moire patterns much more effectively.
+
+FLEISCHHAUER also observed that dithering produces a binary file which is
+useful for numerous purposes, for example, printing it on a laser printer
+without having to "re-halftone" it.  But it tends to defeat efficient
+compression, because the very thing that dithers to reduce moire patterns
+also tends to work against compression schemes.  AM thought the
+difference in image quality was worth it.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Relative use as a criterion for POB's selection of books to
+be converted into digital form *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the discussion period, WATERS noted that one of the criteria for
+selecting books among the 10,000 to be converted into digital image form
+would be how much relative use they would receive--a subject still
+requiring evaluation.  The challenge will be to understand whether
+coherent bodies of material will increase usage or whether POB should
+seek material that is being used, scan that, and make it more accessible.
+POB might decide to digitize materials that are already heavily used, in
+order to make them more accessible and decrease wear on them.  Another
+approach would be to provide a large body of intellectually coherent
+material that may be used more in digital form than it is currently used
+in microfilm.  POB would seek material that was out of copyright.
+
+                                 ******
+
++++++++RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+=8pZF8J N Z"|R|> t>= ?8lFd lx 8BBl N 4tFd? lx =l8J$d>p? F"l=J8d= |>
+8BBl)? ?pt>=t"=? F"lR"t$ N xl$t|> lx 8BBl)? ?pt>=t"=|Ntp|l> )l"B N 8BBl)?
+?p"J8pJ"d N 4d dBd t>= lJxR N RVd8p"l>|8 |$tRd $t>tRd$d>p ?pt>=t"=? N
+dtpdRl"|d? lx RBl ?pt>=t"=|Ntp|l> )`d"d 8BBl ?pt>=t"=? t"d Nd|>R
+=d4dVlFd= N
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+Vdt> =8pZF8J" ?d>|l" $t>tRd"" xdFt"p$d>p lx Jpt>=t"=? t>= 4d8`>lVlRt"
+8??l8|tp|l> xl" B>xl"$tp|l> t>= B$tRd lt>tRd$d>p 88BBl=" =d?8"|Nd= p`d
+>lpdxl"dF"lx|p t??l8|tp|l> t>= p`d >tp|l>tV t>= |>pd">tp|l>tV F"lR"t$?
+xl" ?pt>=t"=|Ntp|l> |> )`|8` 8BBl |? t8p|4d?
+
+888"d=|pd= xl" p)d>ptdx|4d tdt"? t? p`d >tp|l>)? ?pt>=t"=? =d4dVlF$d>p
+l"Rt>|Ntp|l> xl" =l8J$d>p |$tRd $t>tRd$d>p" 8BBl NdRt> V|xd |> t V|N"t"t
+8l$$J>|pt =d4dVlF|>R $|8"lx|V$ ?pt>=t"=??  4l=tt p`d t??l8|tp|l>
+$t|>pt|>? Nlp` |p? V|N"t"t t>= NJ?|>d??d|$tRd $t>tRd$d>p ?pt>=t"=|Ntp|l>
+t8p|4|p|d?ddt>= `t? $l4d= |>pl dVd8p"l>|8 |$tRdd$t>tRd$d>p
+?pt>=t"=|Ntp|l> 8RBl=?
+
+=8pZF8J =dx|>d= p`d F"lR"t$)? ?8lFd?  8BBl =dtV? )|p`$  d= p`d
+pd"$|>lVlRt lx ?pt>=t"=? t>= lx p`d pd8`>lVlRt |p J?d?> x= $dp`l=? lx
+$dt?J"d$d>p xl" p`d ?t?pd$?" t? )dVV t? ZJtV|pt> R= $dp`l=lVlR|d? xl"
+J?d"? pl d4tVJtpd t>= $dt?J"d ZJtV|pt> `= p`d xdtpJ"d? lx tFFt"tpJ? J?d=
+pl $t>tRd t>= d=|p |$tRd?> t>= |= p`d F"l8d=J"d? J?d= pl $t>tRd |$tRd??
+
+=8pZF8J >lpd= p`tp p`"dd ptFd? lx =l8J$d>p? t"d F"l=J8d= |> p`d 8BBl
+?pt>=t"=? F"lR"t$$  p`d x|"?p p)l" t88"d=|pd= Nt p`d 8$d"|8t> Ftp|l>tV
+Jpt>=t"=? B>?p|pJpd 88FJB=" t"d ?pt>=t"=? t>= ?pt>=t"= "d8l$$d>=d=
+F"t8p|8d??  pd8l$$d>=d= F"t8p|8d? =|xxd" x"l$ ?pt>=t"=? |> p`tp p`dt
+8l>pt|> $l"d pJpl"|tV |>xl"$tp|l>?  8 pd8`>|8tV "dFl"p |? >lp t> 8FJB
+?pt>=t"=?  =d8tJ?d 8BBl)? FlV|8|d? t>= F"l8d=J"d? xl" =d4dVlF|>R
+?pt>=t"=? t"d tFF"l4d= Nt 8FJB" |p? ?pt>=t"=? t"d VtNdVd= 8FJBB8BBl"
+xlVVl)d= Nt p`d >J$Nd" t>= p|pVd lx p`d ?pt>=t"=?
+
+=8pZF8J p`d> |VVJ?p"tpd= p`d =l$t|> lx 8BBl)? ?pt>=t"=|Ntp|l> )l"B?  `l"
+d t$FVd" 8BBl |? p`d t=$|>|?p"tpl" lx p`d )?J? 4d8`>|8tV 8=4|?l"t |"lJF
+848|= pl p`d B>pd">tp|l>tV Jpt>=t"=? Z"Rt>|Ntp|l>)? 8BJZ= pd8`>|8tV
+8l$$|ppdd" 4d VBV l|8"lR"tF`|8? t>= ZFp|8tV ld$l"|d? xl" xl8J$d>p t>=
+B$tRd pd8l"=|>R" Jpl"tRd" t>= )?d?  8BBl lxx|8|tVVt )l"B? p`"lJR` 8FJB |>
+p`d |>pd">tp|l>tV ?pt>=t"=|Ntp|l> F"l8d???
+
+=8pZF8J =d?8"|Nd= 8BBl)? ?p"J8pJ"d" |>8VJ=|>R |p? Nlt"= lx =|"d8pl"?" |p?
+?pt>=t"=? Nlt"= lx p)dV4d |>=|4|=JtV? t8p|4d |> p`d |$tRdd$t>tRd$d>p
+|>=J?p"t" |p? ?p"tpdR|8 FVt>>|>R t>= VdRtV t=$|??|N|V|pt pt?B xl"8d?" t>=
+|p? Ftp|l>tV Jpt>=t"=? dlJ>8|V" )`|8` |? 8l$F"|?d= lx p`d $d$Nd"? lx t
+>J$Nd" lx l"Rt>|Ntp|l>? )`l 4lpd l> d4d"t 8BBl ?pt>=t"= Ndxl"d |p |?
+FJNV|?`d=?  =8pZF8J Fl|>pd= lJp p`tp 8BBl)? V|t|?l>? =dtV )|p` >J$d"lJ?
+lp`d" ?pt>=t"=? =d4dVlFd"?" |>8VJ=|>R p`d lFp|8tV =|?B 8l$$J>|pt" lxx|8d
+t>= FJNV|?`|>R ?t?pd$?" |$tRdd8l=d?dt>=d8`t"t8pd" ?dp 8l$$|ppdd?" t>= p`d
+Ftp|l>tV B>xl"$tp|l> Jpt>=t"=? Z"Rt>|Ntp|l> 8FBJZ=?
+
+=8pZF8J |VVJ?p"tpd= p`d F"l8d=J"d? lx 4d VBV" )`|8` 8l4d"? tVV t?Fd8p? lx
+|$tRd $t>tRd$d>p?  t`d> 8BBl)? >tp|l>tV F"lR"t$ `t? 8l>8dFpJtV|Nd= t >d)
+F"lhd8p" |p |? J?JtVVt ?JN$|ppd= pl p`d |>pd">tp|l>tV Vd4dV" ?l p`tp p`

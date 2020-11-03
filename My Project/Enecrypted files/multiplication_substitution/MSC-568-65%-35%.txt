@@ -1,0 +1,162 @@
+FLEISCHHAUER demonstrated several additional examples of the prototype
+interfaces:  One was AM's metaphor for the network future, in which a
+kind of reading-room graphic suggests how one would be able to go around
+to different materials.  AM contains a large number of photographs in
+analog video form worked up from a videodisc, which enable users to make
+copies to print or incorporate in digital documents.  A frame-grabber is
+built into the system, making it possible to bring an image into a window
+and digitize or print it out.
+
+FLEISCHHAUER next demonstrated sound recording, which included texts.
+Recycled from a previous project, the collection included sixty 78-rpm
+phonograph records of political speeches that were made during and
+immediately after World War I.  These constituted approximately three
+hours of audio, as AM has digitized it, which occupy 150 megabytes on a
+CD.  Thus, they are considerably compressed.  From the catalogue card,
+FLEISCHHAUER proceeded to a transcript of a speech with the audio
+available and with highlighted text following it as it played.
+A photograph has been added and a transcription made.
+
+Considerable value has been added beyond what the Library of Congress
+normally would do in cataloguing a sound recording, which raises several
+questions for AM concerning where to draw lines about how much value it can
+afford to add and at what point, perhaps, this becomes more than AM could
+reasonably do or reasonably wish to do.  FLEISCHHAUER also demonstrated
+a motion picture.  As FREEMAN had reported earlier, the motion picture
+materials have proved the most popular, not surprisingly.  This says more
+about the medium, he thought, than about AM's presentation of it.
+
+Because AM's goal was to bring together things that could be used by
+historians or by people who were curious about history,
+turn-of-the-century footage seemed to represent the most appropriate
+collections from the Library of Congress in motion pictures. These were
+the very first films made by Thomas Edison's company and some others at
+that time.  The particular example illustrated was a Biograph film,
+brought in with a frame-grabber into a window.  A single videodisc
+contains about fifty titles and pieces of film from that period, all of
+New York City.  Taken together, AM believes, they provide an interesting
+documentary resource.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Using the frame-grabber in AM * Volume of material processed
+and to be processed * Purpose of AM within LC * Cataloguing and the
+nature of AM's material * SGML coding and the question of quality versus
+quantity *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the question-and-answer period that followed FLEISCHHAUER's
+presentation, several clarifications were made.
+
+AM is bringing in motion pictures from a videodisc.  The frame-grabber
+devices create a window on a computer screen, which permits users to
+digitize a single frame of the movie or one of the photographs.  It
+produces a crude, rough-and-ready image that high school students can
+incorporate into papers, and that has worked very nicely in this way.
+
+Commenting on FLEISCHHAUER's assertion that AM was looking more at
+searching ideas than words, MYLONAS argued that without words an idea
+does not exist.  FLEISCHHAUER conceded that he ought to have articulated
+his poi|>p $l"d 8Vdt"Vt?  l8>ZF8J ?ptpd= p`tp p`dt )d"d |> xt8p Nlp`
+ptVB|>R tNlJp p`d ?t$d p`|>R?  =t ?dt"8`|>R xl" )l"=? t>= Nt xl"8|>R
+FdlFVd pl xl8J? l> p`d )l"=" p`d "d"?dJ? ""lhd8p xdVp p`tp p`dt )lJV= Rdp
+p`d$ pl p`d |=dt?  4`d )tt l>d "d4|d)? "d?JVp? |? pt|Vl"d= $l"d pl l>d
+B|>= lx J?d" p`t> t>lp`d"?
+
+dl>8d">|>R p`d plptV 4lVJ$d lx $tpd"|tV p`tp `t? Ndd> F"l8d??d= |> p`|?
+)tt" 8l tp p`|? Fl|>p `t? |> "dp"|d4tNVd xl"$ ?d4d> l" d|R`p 8lVVd8p|l>?"
+tVV lx p`d$ F`lplR"tF`|8?  B> p`d lt8|>pl?` d>4|"l>$d>p" xl" d t$FVd"
+p`d"d F"lNtNVt t"d R|">>>d`>">>> F`lplR"tF`??  4`d ?lJ>= "d8l"=|>R?
+>J$Nd" ?| pt |pd$??  4`d N"lt=?|=d? >J$Nd" tNlJp R>> |pd$??  4`d"d t"d
+|>> FlV|p|8tV 8t"pll>? |> p`d xl"$ lx ="t)|>R??  4`d $lp|l> F|8pJ"d?" t?
+|>=|4|=JtV |pd$?" >J$Nd" ?| pt pl ?d4d>pt?
+
+8l tV?l `t? t $t>J?8"|Fp 8lVVd8p|l>" p`d V|xd `|?pl"t Fl"p|l> lx l>d lx
+p`d xd=d"tV F"lhd8p ?d"|d?" )`|8` )|VV 8l>pt|> x"$>> |>=|4|=JtV
+=l8J$d>p?" tVV x|"?pdFd"?l> >t""tp|4d??  8l `t? |> F"l8d?? tNlJp R|>
+8x"|8t>d8$d"|8t> Ft$F`Vdp?" l" tNlJp dx">>> F"|>pd= FtRd? xl" p`d Fd"|l=
+dVB>dd$d>?  8V?l |> p`d )l"B? t"d ?l$d `">>> Ft>l"t$|8 F`lplR"tF`??  8l
+`t? "d8t8Vd= t xt|" t$lJ>p lx p`d )l"B =l>d Nt >d)? ""|>p? t>=
+"`lplR"tF`? x|4|?|l> =J"|>R p`d >|N"t"t)? lFp|8tV =|?B F|Vlp F"lhd8p |>
+p`d d$V>??  `l" d t$FVd" t ?Fd8|tV =|4|?|l> lx >d `t? pllVd= JF t>=
+p`lJR`p p`"lJR` tVV p`d "t$|x|8tp|l>? lx dVd8p"l>|8 F"d?d>ptp|l> lx
+F`lplR"tF`??  B>=dd=" p`dt t"d )`ddV|>R p`d$ lJp |> R"dtp Nt""dV Vlt=??
+4`d FJ"Fl?d lx 8l )|p`|> p`d >|N"t"t" |p |? `lFd=" |? pl 8tptVtNd ?d4d"tV
+lx p`d lp`d" ?Fd8|tV 8lVVd8p|l> =|4|?|l>? )`|8` `t4d >l Ft"p|8JVt"
+d Fd"|d>8d )|p`" |> ?l$d 8t?d?" $| d= xddV|>R? tNlJp" t> t8p|4|pt ?J8` t?
+8l?  ll"dl4d"" |> $t>t 8t?d? p`d =|4|?|l>? $tt Nd 8`t"t8pd"|Nd= t? >lp
+l>Vt Vt8B|>R d Fd"|d>8d |>  dVd8p"l>|xt|>R  p`|>R? NJp tV?l |> tJpl$tpd=
+8tptVlRJ|>R?  l8pd 8tptVlRJ|>R t? F"t8p|8d= |> p`d )>|pd= Jptpd? |?
+`dt4|Vt )d|R`pd= pl)t"= p`d =d?8"|Fp|l> lx $l>lR"tF` t>= ?d"|tV
+$tpd"|tV?" NJp |? $J8` p`|>>d" )`d> l>d d>pd"? p`d )l"V= lx $t>J?8"|Fp?
+t>= p`|>R? p`tp t"d `dV= |> p`d >|N"t"t)? $J?|8 8lVVd8p|l> t>= lp`d"
+J>|p??  B> "d?Fl>?d pl t 8l$$d>p Nt >RJ$" p`tp 8l)? $tpd"|tV |? 4d"t
+`dt4|Vt F`lplR"tF`|8" t>= |? ?l F"|$t"|Vt Nd8tJ?d |>=|4|=JtV "d8l"=? `t4d
+Ndd> $t=d xl" dt8` F`lplR"tF`" `>RBJdhh8)Rp lN?d"4d= p`tp t> |pd$dVd4dV
+8tptVlR "d8l"= d |?p?" xl" d t$FVd" xl" dt8` F`lplR"tF` |> p`d xdp"l|p
+"JNV|?`|>R 8lVVd8p|l> lx x|">>> F|8pJ"d??  B> p`d 8t?d lx p`d `d=d"tV
+t"|pd"? ""lhd8p" xl" )`|8` >dt"Vt R">>> =l8J$d>p? d |?p" "dF"d?d>p|>R
+|>xl"$tp|l> x"l$ p)d>ptd?|  =|xxd"d>p ?ptpd?" 8l )|p` p`d t??|?pt>8d lx
+$t"d> J4)8p4 lx p`d lt>J?8"|Fp x|4|?|l> )|VV tppd$Fp pl x|>= ?l$d )tt >lp
+l>Vt pl `t4d t 8lVVd8p|l>dVd4dV "d8l"= NJp Fd"`tF? t l8pd "d8l"= xl" dt8`
+?ptpd" )`|8` )|VV p`d> ?d"4d t? t> J$N"dVVt xl" p`d d>>dx>> =l8J$d>p?
+p`tp 8l$d J>=d" |p?  =Jp p`tp ="t$t "d$t|>? pl Nd d>t8pd=?  4`d 8l ?ptxx
+|? 8l>?d"4tp|4d t>= 8V|>R? pl 8tptVlRJ|>R" p`lJR` lx 8lJ"?d 4|?|pl"? plJp
+t"p|x|8|tV |>pdVV|Rd>8d t>= >dJ"tV >dp)l"B? |> t $t>>d" p`tp ?JRRd?p? p`tp
+Fd"`tF? l>d >dd= >lp `t4d 8tptVlRJ|>R l" p`tp $J8` lx |p 8lJV= Nd FJp t?|=d?
+
+4`d $tppd" lx J|l> 8l=|>R" `>RBJdhh8)Rp 8l>8d=d=" "dpJ">d= p`d =|?8J??|l>
+pl p`d dt"V|d" p"dtpd= ZJd?p|l> lx ZJtV|pt 4d"?J? ZJt>p|pt |> p`d >|N"t"t
+lx dl>R"d???  Zx 8lJ"?d" pd p 8l>4d"?|l> 8t> Nd =l>d )|p` d>>dFd"8d>p
+t88J"t8t" NJp |p $dt>? p`tp )`d> l>d)? `lV=|>R? t"d t? 4t?p t? >d)? l>Vt
+t p|>t t$lJ>p )|VV Nd d Fl?d=" )`d"dt? Fd"$|pp|>R Vl)d" Vd4dV? lx
+t88J"t8t 8t> Vdt= pl d Fl?|>R l" ?`t"|>R Vt"Rd" t$lJ>p?" NJp )|p` p`d
+ZJtV|pt 8l""d?Fl>=|>RVt |$Ft|"d=?
+
+                                 NNNNNN
+
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+4tZhB| N 8 8l>p"t"t d Fd"|d>8d 8l>8d">|>R dVd8p"l>|8 lFp|l>? N  lVJ$d lx
+$tpd"|tV |> p`d tt?`|>Rpl> FtFd"? t>= t ?JRRd?p|l> lx xt4|= "t8Bt"= N
+B$FV|8tp|l>? lx "t8Bt"=)? ?JRRd?p|l> N 4"t>?8"|N|>R p`d =l8J$d>p? xl" p`d
+dxdpZl N 888J"t8t lx p"t>?8"|Fp|l>? N 4`d dxdpZl d=|p|l> lx p`d `lJ>=|>R
+`tp`d"? =l8J$d>p? N
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+`|>=|>R d>8lJ"tRd$d>p |> t 8l$$d>p lx lBdhR>JZF)? x"l$ p`d $l">|>R
+?d??|l>ddp`tp >J$d"lJ? FdlFVd |> p`d `J$t>|p|d? )d"d 8`ll?|>R dVd8p"l>|8
+lFp|l>? pl =l p`d|" )l"Bddxl"lp`t 4tZhB|" d=|pl"" 4`d "tFd"? lx |dl"Rd
+tt?`|>Rpl>" lFd>d= `d" |VVJ?p"tpd= ptVB Nt >lp|>R p`tp `d" d Fd"|d>8d
+)|p` V|pd"t"t ?8`lVt"? t>= >J$d"lJ? FdlFVd |> d=|p|>R )t? 8l>p"t"t pl
+lBdhR>JZF)??  4tZhB| d$F`t?|Nd= V|pd"t"t ?8`lVt"?) 8l$FVdpd |R>l"t>8d lx
+p`d pd8`>lVlR|8tV lFp|l>? t4t|VtNVd pl p`d$ l" p`d|" "dVJ8pt>8d l"" |>
+?l$d 8t?d?" p`d|" =l)>"|R`p `l?p|V|pt pl)t"= p`d?d lFp|l>??
+
+8xpd" F"l4|=|>R t> l4d"4|d) lx p`d x|4d `lJ>=|>R `tp`d"? F"lhd8p?
+8Vdxxd"?l> tp ""|>8dpl>" `"t>BV|> tp 8tVd" Vl`> 8=t$? tp p`d
+lt??t8`J?dpp? h|?pl"|8tV Jl8|dpt" t>= lt=|?l> =l)> p`d `tVV x"l$ `d" tp
+p`d )>|4d"?|pt lx  |"R|>|t=" 4tZhB| lN?d"4d= p`tp p`d tt?`|>Rpl> FtFd"?"
+V|Bd tVV lx p`d F"lhd8p?" |>8VJ=d Nlp` ?|=d? lx p`d tt?`|>Rpl>
+8l""d?Fl>=d>8d t>= =dtV )|p` ?l$d dR|">>> =l8J$d>p? pl Nd FJNV|?`d= )|p`
+d pd>?|4d t>>lptp|l> |> d|R`pt pl d|R`ptdx|4d 4lVJ$d?" t F"lhd8p p`tp
+)|VV >lp Nd 8l$FVdpd= J>p|V )dVV |>pl p`d >d p 8d>pJ"t?  4`J?" |p )t?
+)|p` 8l>?|=d"tNVd d>p`J?|t?$ ?d4d"tV tdt"? tRl p`tp p`d tt?`|>Rpl> "tFd"?
+""lhd8p 8t""= R"ddpd= xt4|= "t8Bt"=)? ?JRRd?p|l> p`tp p`d FtFd"? lx p`d
+`lJ>=|>R `tp`d"? 8lJV= Nd FJNV|?`d= dt?|Vt t>= |>d Fd>?|4dVt" t>= pl p`d
+R"dtp Nd>dx|p lx 8$d"|8t> ?8`lVt"?`|F" 4|t dxdpZl?
+
+B> F"tR$tp|8 pd"$?" xJ>=|>R x"l$ p`d "t8Bt"= `lJ>=tp|l> )lJV= d Fd=|pd
+p`d p"t>?8"|Fp|l> lx p`lJ?t>=? lx =l8J$d>p? )t|p|>R pl Nd FJp l> =|?B |>
+p`d t"" lxx|8d??  `J"p`d"" ?|>8d p`d 8l?p? lx 8lVVd8p|>R" d=|p|>R" t>=
+8l>4d"p|>R p`d `lJ>=|>R `tp`d"? =l8J$d>p? |>pl Vdppd"F"d?? d=|p|l>? )d"d
+"J>>|>R |>pl p`d $|VV|l>? lx =lVVt"?" t>= p`d 8l>?|=d"tNVd ?ptxx?
+|>4lV4d= |> tVV lx p`d?d F"lhd8p? )d"d =d4lp|>R p`d|" 8t"dd"? pl
+F"l=J8|>R p`d )l"B" p`d "t8Bt"= `lJ>=tp|l>)? ?JRRd?p|l> `t= t
+"d4lVJp|l>t"t t?Fd8p$  4"t>?8"|Fp|l>? lx p`d d>p|"d 8l"FJ? lx p`d
+`lJ>=|>R `tp`d"? FtFd"? )lJV= Nd t4t|VtNVd l> dxdpZl pl FJNV|8 t>=
+8lVVdRd V|N"t"|d?" d4d> `|R` ?8`llV?" tp t x"t8p|l> lx p`d 8l?pdd
+pd>>dpd|> xl" p`d t>>JtV V|8d>?d xddddpl F"l=J8d t V|$|pd= J>|4d"?|pt
+F"d?? "J> lx d">>> lx dt8` 4lVJ$d lx p`d FJNV|?`d= FtFd"? tp p`|dpd|> Fd"
+F"|>pd= 4lVJ$d?  ||4d> p`d 8J""d>p NJ=Rdp 8"J>8` |> d=J8tp|l>tV ?t?pd$?
+t>= p`d 8l""d?Fl>=|>R 8l>?p"t|>p? l> V|N"t"|t>? |> ?$tVVd" |>?p|pJp|l>

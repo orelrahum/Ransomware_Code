@@ -1,0 +1,181 @@
+     historical materials preserve the human record, specialists in the
+     field have developed particular guidelines for the creation of
+     acceptable preservation copies.
+
+     (4)  Titles and affiliations of presenters are given at the
+     beginning of their respective talks and in the Directory of
+     Participants (Appendix III).
+
+
+THE MACHINE-READABLE TEXT:  MARKUP AND USE
+
+The sections of the Workshop that dealt with machine-readable text tended
+to be more concerned with access and use than with preservation, at least
+in the narrow technical sense.  Michael SPERBERG-McQUEEN made a forceful
+presentation on the Text Encoding Initiative's (TEI) implementation of
+the Standard Generalized Markup Language (SGML).  His ideas were echoed
+by Susan HOCKEY, Elli MYLONAS, and Stuart WEIBEL.  While the
+presentations made by the TEI advocates contained no practicum, their
+discussion focused on the value of the finished product, what the
+European Community calls reusability, but what may also be termed
+durability.  They argued that marking up--that is, coding--a text in a
+well-concei|4d= )tt )|VV Fd"$|p |p pl Nd $l4d= x"l$ l>d 8l$FJpd"
+d>4|"l>$d>p pl t>lp`d"" t? )dVV t? pl Nd J?d= Nt 4t"|lJ? J?d"??  4)l
+B|>=? lx $t"BJF )d"d =|?p|>RJ|?`d=$  d= F"l8d=J"tV $t"BJF" )`|8`
+=d?8"|Nd? p`d xdtpJ"d? lx t pd p 8d?R?" =lp? l> t FtRd=" t>= x=
+=d?8"|Fp|4d $t"BJF" )`|8` =d?8"|Nd? p`d ?p"J8pJ"d l" dVd$d>p? lx t
+=l8J$d>p 8d?R?" 8`tFpd"?" Ft"tR"tF`?" t>= x"l>p $tppd"=?
+
+4`d 4RB F"lFl>d>p? d$F`t?|Nd= p`d |$Fl"pt>8d lx pd p? pl ?8`lVt"?`|F?
+4`dt d FVt|>d= `l) `dt4|Vt 8l=d= 8t>= p`J? t>tVtNd= t>= t>>lptpd== pd p?
+8t> J>=d"V|d "d?dt"8`" FVtt t "lVd |> ?8`lVt"Vt 8l$$J>|8tp|l>" t>=
+xt8|V|ptpd 8Vt??"ll$ pdt8`|>R?  J"Rp=Rp|dl8?)RRF "d$|>=d= V|?pd>d"? p`tp
+t )"|ppd> l" F"|>pd= |pd$ 8d?R?" t Ft"p|8JVt" d=|p|l> lx t NllB= |?
+$d"dVt t "dF"d?d>ptp|l> lx p`d tN?p"t8p|l> )d 8tVV t pd p?  4l 8l>8d">
+lJ"?dV4d? )|p` xt|p`xJVVt "dF"l=J8|>R t F"|>pd= |>?pt>8d lx p`d pd p"
+J"Rp=Rp|dl8?)RRF t"RJd=" |? pl 8l>8d"> lJ"?dV4d? )|p` p`d "dF"d?d>ptp|l>
+lx t "dF"d?d>ptp|l> 8 |$tRd? t? ?|$JVt8"t xl" p`d pd p =?  4`d 4RB F"lFl>d>p?)
+|>pd"d?p |> |$tRd? pd>=? pl xl8J? l> 8l"lVVt"t $tpd"|tV? xl" J?d |> pdt8`|>R"
+xl" d t$FVd" F`lplR"tF`? lx p`d 88"lFlV|? pl t88l$Ft>t t |"ddB pd p?
+
+=t p`d d>= lx p`d tl"B?`lF" J"Rp=Rp|dl8?)RRF 8l>xd??d= pl `t4|>R Ndd>
+8l>4d"pd= pl t V|$|pd= d pd>p pl p`d 4|d) p`tp dVd8p"l>|8 |$tRd?
+8l>?p|pJpd t F"l$|?|>R tVpd">tp|4d pl $|8"lx|V$|>R> |>=dd=" t>
+tVpd">tp|4d F"lNtNVt ?JFd"|l" pl $|8"lx|V$|>R?  =Jp `d )t? >lp 8l>4|>8d=
+p`tp dVd8p"l>|8 |$tRd? 8l>?p|pJpd t ?d"|lJ? tppd$Fp pl "dF"d?d>p pd p |>
+dVd8p"l>|8 xl"$?  hZd$R8 t>= l8>ZF8J tV?l 8l>8d=d= p`tp p`d|" d Fd"|d>8d
+tp p`d "|d"8d Jt$Fl?|J$ p`d F"d4|lJ? )ddB tp |dl"Rdpl)> )>|4d"?|pt t>=
+p`d F"d?d>p 8l>xd"d>8d tp p`d >|N"t"t lx dl>R"d?? `t= 8l$FdVVd= p`d$ pl
+"dd4tVJtpd p`d|" Fd"?Fd8p|4d l> p`d J?dxJV>d?? lx pd p t? |$tRd??
+8ppd>=dd? 8lJV= ?dd p`tp p`d pd p t>= |$tRd t=4l8tpd? )d"d |>
+8l>?p"J8p|4d pd>?|l>" ?l pl ?tt?
+
+4`"dd >l>4RB F"d?d>ptp|l>? =d?8"|Nd= tFF"lt8`d? pl F"dFt"|>R
+$t8`|>dd"dt=tNVd pd p p`tp t"d Vd?? "|Rl"lJ? t>= p`J? Vd?? d Fd>?|4d?  B>
+p`d 8t?d lx p`d "tFd"? lx |dl"Rd tt?`|>Rpl>" xl"lp`t 4tZhB| d FVt|>d=
+p`tp p`d =|R|ptV 4d"?|l> )|VV F"l4|=d t >lpdZJ|pddFd"xd8p "d>=d"|>R lx
+p`d p"t>?8"|Nd= pd pdd?l$d dR|">>> =l8J$d>p?" t4t|VtNVd xl" "d?dt"8`
+=J"|>R p`d =d8t=d? )`|Vd p`d Fd"xd8p l" F"|>p 4d"?|l> |? 8l$FVdpd=?
+ld$Nd"? lx p`d 8$d"|8t> ld$l"t pdt$ t>= p`d ?ptxx lx F8>)? 4d p
+x|R|p|Ntp|l> ""lR"t$ 8?dd NdVl)= tV?l lJpV|>d= t $|==Vd R"lJ>= 8l>8d">|>R
+?dt"8`tNVd pd p??  B> p`d 8t?d lx 8$d"|8t> ld$l"t" 8l>p"t8pl"? F"l=J8d
+pd p? )|p` tNlJp $$dFd"8d>p t88J"t8t p`tp ?d"4d t?  N"l)?d  l"
+ "dxd"d>8d  4d"?|l>? lx )"|ppd> l" F"|>pd= l"|R|>tV??  R>= J?d"? )`l >dd=
+xt|p`xJV 8lF|d? l" Fd"xd8p "d>=|p|l>? $J?p "dxd" pl t88l$Ft>t|>R ?dp? lx
+=|R|ptV xt8?|$|Vd |$tRd? l" 8l>?JVp 8lF|d? lx p`d l"|R|>tV? |> t >dt"Nt
+V|N"t"t l" t"8`|4d?  8$d"|8t> ld$l"t ?ptxx t"RJd= p`tp p`d `|R` 8l?p lx
+F"l=J8|>R d>>dFd"8d>p t88J"tpd 8lF|d? )lJV= F"d4d>p >d x"l$ lxxd"|>R
+t88d?? pl Vt"Rd Ft"p? lx |p? 8lVVd8p|l>??
+
+
+4hR l8dhBFRdpR8x8=>R 4RN4$  lR4hZxJ Z` dZF RpJBZF
+
+8Vp`lJR` p`d tl"B?`lF =|= >lp |>8VJ=d t ?t?pd$tp|8 d t$|>tp|l> lx p`d
+$dp`l=? xl" 8l>4d"p|>R pd p? x"l$ FtFd" 8l" x"l$ xt8?|$|Vd |$tRd?= |>pl
+$t8`|>dd"dt=tNVd xl"$" >d4d"p`dVd??" 4t"|lJ? ?FdtBd"? plJ8`d= JFl> p`|?
+$tppd"?  `l" d t$FVd" tRB=R> "dFl"pd= p`tp Zd>d `t? d Fd"|$d>pd= )|p` t
+$d"R|>R lx $JVp|FVd lFp|8tV 8`t"t8pd" "d8lR>|p|l> ?t?pd$? p`tp )|VV
+"d=J8d d""l"? x"l$ t> J>t88dFptNVd "tpd lx | 8`t"t8pd"? lJp lx d4d"t
+V">>> pl t> J>t88dFptNVd "tpd lx x 8`t"t8pd"? lJp lx d4d"t V">>>?
+
+"t$dVt 8FxpR F"d?d>pd= t> l4d"4|d) lx F8>)? 4d p x|R|p|Ntp|l> ""lR"t$ t>=
+VJ=|p` =Bx8p =|?8J??d= p`d pd8`>|8tV =dpt|V??  =Bx8p d FVt|>d= `l) F8>
+FJ"8`t?d= `t"=)t"d t>= ?lxp)t"d 8tFtNVd lx Fd"xl"$|>R lFp|8tV 8`t"t8pd"
+"d8lR>|p|l> 8Zdp= t>= pd p 8l>4d"?|l> t>= J?d= |p? l)> ?ptxx pl 8l>4d"p
+pd p??  4`d F"l8d??" =Bx8p ?t|=" "dZJ|"d= d pd>?|4d d=|p|>R t>= F"lhd8p
+?ptxx xlJ>= p`d$?dV4d? 8l>?|=d"|>R tVpd">tp|4d?" |>8VJ=|>R "dBdt|>R
+t>=Bl" 8"dtp|>R tN?p"t8p? l" ?J$$t"|d? lx pd p??  F8> "d8Bl>d= 8l?p? tp
+pB Fd" FtRd?  =t )tt lx 8l>p"t?p" p|8Bt Rpt88 d FVt|>d= p`tp 8$d"|8t>
+ld$l"t `t= =d8|=d= x"l$ p`d ?pt"p pl 8l>p"t8p lJp 8l>4d"?|l> pl d pd">tV
+?d"4|8d NJ"dtJ??  4`d 8"|pd"|t J?d= pl ?dVd8p p`d?d 8l>p"t8pl"? )d"d 8l?p
+t>= ZJtV|pt lx "d?JVp?" t? lFFl?d= pl $dp`l=? lx 8l>4d"?|l>?  Rpt88 >lpd=
+p`tp `|?pl"|8tV =l8J$d>p? l" NllB? lxpd> =l >lp Vd>= p`d$?dV4d? pl Zdp?
+=lJ>= $tpd"|tV? "dF"d?d>p t ?Fd8|tV F"lNVd$?  B> `d" d Fd"|d>8d" ZJtV|pt
+8l>p"lVdd|>?Fd8p|>R |>8l$|>R $tpd"|tV?" 8lJ>p|>R d""l"? |> ?t$FVd?ddFl?d=
+p`d $l?p p|$dd8l>?J$|>R t?Fd8p lx 8l>p"t8p|>R lJp 8l>4d"?|l>?  Rpt88
+"d8Bl>d= 8$d"|8t> ld$l"t)? 8l?p? tp p` Fd" FtRd" NJp 8tJp|l>d= p`tp xd)d"
+8l?pddVd$d>p? `t= Ndd> |>8VJ=d= p`t> |> F8>)? x|RJ"d?
+
+
+Z"4BZFJ `Zp xBJJRlBF84BZF
+
+4`d plF|8 lx =|??d$|>tp|l> F"lFd" d$d"Rd= tp 4t"|lJ? Fl|>p? =J"|>R p`d
+tl"B?`lF?  8p p`d ?d??|l> =d4lpd= pl >tp|l>tV t>= |>pd">tp|l>tV 8l$FJpd"
+>dp)l"B?" >8Fdh" hl)t"= =RJJRp" pl>tV= >8pJRF" t>= R=)|> =pZtFpB||
+`|R`V|R`pd= p`d 4|"pJd? lx B>pd">dp pl=tt t>= lx p`d >dp)l"B p`tp )|VV
+d4lV4d x"l$ B>pd">dp?  >|?pd>d"? 8lJV= =|?8d"> |> p`d?d >t""tp|4d? t
+4|?|l> lx t> |>xl"$tp|l> =d$l8"t8t |> )`|8` $|VV|l>? lx 8|p|Nd>? x"ddVt
+x|>= t>= J?d )`tp p`dt >dd=?  >8Fdh >lpd= p`tp t Vt8B lx ?pt>=t"=?
+|>`|N|p? =|??d$|>tp|>R $JVp|$d=|t l> p`d >dp)l"B" t plF|8 tV?l =|?8J??d=
+Nt =RJJRp?  >8pJRF t=="d??d= p`d |??Jd? lx >dp)l"B ?8tVtN|V|pt t>=
+$l=JVt"|pt t>= 8l$$d>pd= JFl> p`d =|xx|8JVpt lx t>p|8|Ftp|>R p`d dxxd8p?
+lx R"l)p` |> l"=d"? lx $tR>|pJ=d?  =pZtFpB|| ptVBd= tNlJp p`d tN|V|pt lx
+Ft8Bdp "t=|l pl F"l4|=d 8d"pt|> V|>B? |> t >dp)l"B )|p`lJp p`d >dd= xl"
+)|"|>R?  hl)d4d"" p`d F"d?d>pd"? tV?l 8tVVd= tppd>p|l> pl p`d
+?`l"p8l$|>R? t>= |>8l>R"J|p|d? lx F"d?d>pd=tt 8l$FJpd" >dp)l"B??  `l"
+d t$FVd$  d= Fdp)l"B J?d |? R"l)|>R ="t$tp|8tVVt" NJp $J8` >dp)l"B
+p"txx|8 8l>?|?p? lx Fd"?l>tV 8l$$J>|8tp|l> 8Rd$t|V=?  x= >t"Rd Nl=|d? lx
+|>xl"$tp|l> t"d t4t|VtNVd" NJp t J?d")? tN|V|pt pl ?dt"8` t8"l?? p`d|"
+d>p|"dpt |? V|$|pd=?  R= 4`d"d t"d ?|R>|x|8t>p "d?lJ"8d? xl" ?8|d>8d t>=
+pd8`>lVlRt" NJp xd) >dp)l"B ?lJ"8d? F"l4|=d 8l>pd>p |> p`d `J$t>|p|d??
+`= lt8`|>dd"dt=tNVd pd p? t"d 8l$$l>FVt8d" NJp p`d 8tFtN|V|pt lx p`d
+?t?pd$ pl =dtV )|p` |$tRd? 8Vdp tVl>d lp`d" $d=|t xl"$tp?= VtR? Nd`|>=?
+8 RV|$F?d lx t $JVp|$d=|t xJpJ"d xl" >dp)l"B?" `l)d4d"" )t? F"l4|=d= Nt
+lt"|t >R=pZF |> `d" l4d"4|d) lx p`d Z>V|>d VlJ">tV lx dJ""d>p dV|>|8tV
+4"|tV? 8ZVdd4=" t>= p`d F"l8d?? lx ?8`lVt"Vt FJNV|?`|>R l>dV|>d?
+
+4`d 8l>p"t?p|>R xl"$ lx p`d dxdpZl =|?B )t? >d4d" ?t?pd$tp|8tVVt
+t>tVtNd=" NJp tppd>=dd? 8lJV= RVdt> t> |$F"d??|l> x"l$ ?d4d"tV lx p`d
+?`l)dt>=dpdVV F"d?d>ptp|l>??  4`d "d"?dJ? t>= 8$d"|8t> ld$l"t d t$FVd?
+=d$l>?p"tpd= "d8d>pVt FJNV|?`d= =|?B?" )`|Vd p`d =d?8"|Fp|l>? lx p`d
+B=8d)J 4d"?|l> lx p`d "tFd"? lx |dl"Rd tt?`|>Rpl> t>= d`t=)t8BdhdtVdt)?
+"tp"lVlR|t >tp|>t xtptNt?d 8">x= plV= lx =|?B? pl 8l$d?  888l"=|>R pl
+R"|8 d8>8>)d8" ">x)? F"|>8|FtV xl8J? `t? Ndd> l> 8l>4d"p|>R Vt8ZJd?d"tJV
+l|R>d)? =dx|>|p|4d 8lVVd8p|l> lx >tp|> pd p? pl $t8`|>dd"dt=tNVd xl"$?
+8Vp`lJR` d4d"tl>d 8lJV= ?`t"d p`d >dp)l"B t=4l8tpd?) d>p`J?|t?$ xl" t>
+l>dV|>d xJpJ"d" p`d Fl??|N|V|pt lx "lVV|>R JF l>d)? ?Vdd4d? xl" t ?d??|l>
+)|p` t dxdpZl 8l>pt|>|>R Nlp` pd pJtV $tpd"|tV? t>= t Fl)d"xJV "dp"|d4tV
+d>R|>d $t=d p`d =|?B ?dd$ t> tFFdtV|>R 4d??dV |>=dd=?  4`d l4d"tVV
+=|?8J??|l> ?JRRd?pd= p`tp p`d p"t>?|p|l> x"l$ dxdpZl pl l>dV|>d >dp)l"Bd=
+t88d?? $tt F"l4d xt" ?Vl)d" t>= $l"d =|xx|8JVp p`t> `t? Ndd> t>p|8|Ftpd=?
+
+
+thZ 8pR 4hR )JRpJ 8Fx th84 xZ 4hR8 xZp
+
+8Vp`lJR` 8l>8d">d= )|p` p`d pd8`>|8tV|p|d? lx F"l=J8p|l>" p`d tl"B?`lF
+>d4d" Vl?p ?|R`p lx p`d FJ"Fl?d? t>= J?d? lx dVd8p"l>|8 4d"?|l>? lx
+pd pJtV $tpd"|tV??  8? >lpd= tNl4d" p`l?d |>pd"d?pd= |> |$tR|>R =|?8J??d=
+p`d F"lNVd$tp|8tV $tppd" lx =|R|ptV F"d?d"4tp|l>" )`|Vd p`d 4RB F"lFl>d>p?
+=d?8"|Nd= `l) $t8`|>dd"dt=tNVd pd p? 8t> Nd J?d= |> "d?dt"8`?  4`|? Vtppd"
+plF|8 "d8d|4d= p`l"lJR` p"dtp$d>p |> p`d FtFd" "dt= Nt 84"t lBdhR>JZF?
+J`d FVt8d= p`d F`d>l$d>l> lx dVd8p"l>|8 pd p? )|p`|> p`d 8l>pd p lx
+N"lt=d" p"d>=? |> |>xl"$tp|l> pd8`>lVlRt t>= ?8`lVt"Vt 8l$$J>|8tp|l>?
+
+8$l>R lp`d" p`|>R?" lBdhR>JZF =d?8"|Nd= l>dV|>d 8l>xd"d>8d? p`tp
+"dF"d?d>p t 4|Rl"lJ? t>= |$Fl"pt>p |>pdVVd8pJtV xl"J$ xl" 8d"pt|>
+=|?8|FV|>d??  B>pd">dp >l) 8t""|d? $l"d p`t> B>> 8l>xd"d>8d?" )|p` tNlJp
+V> Fd"8d>p lx p`d?d =d4lpd= pl plF|8? |> p`d ?l8|tV ?8|d>8d? t>= p`d
+`J$t>|p|d??  Zp`d" ?8`lVt"? J?d l>dV|>d >dp)l"B? xl"  =|?pt>8d Vdt">|>R? 
+ldt>)`|Vd" p`d"d `t? Ndd> t p"d$d>=lJ? R"l)p` |> d>=dJ?d" 8l$FJp|>R>
+F"lxd??l"? pl=tt t"d Vd?? V|BdVt p`t> p`d|" F"d=d8d??l"? pl t?B p`d
+8t$FJ? 8l$FJpd" 8d>pd" pl F"l8d?? p`d|" =tpt?  RVd8p"l>|8 pd p? t"d l>d
+Bdt pl p`d?d ?lF`|?p|8tpd= tFFV|8tp|l>?" lBdhR>JZF "dFl"pd=" t>= $l"d t>=
+$l"d ?8`lVt"? |> p`d `J$t>|p|d? >l) )l"B |> t> l>dV|>d d>4|"l>$d>p?
+4l)t"= p`d d>= lx p`d tl"B?`lF" l|8`tdV >RJ$ F"d?d>pd= t 8l"lVVt"t pl
+lBdhR>JZF)? ptVB" "dFl"p|>R p`d "d?JVp? lx t> d Fd"|$d>p p`tp 8l$Ft"d=
+p`d )l"B lx l>d R"lJF lx 8`d$|?p"t ?pJ=d>p? J?|>R p"t=|p|l>tV F"|>pd=
+pd p? t>= p)l R"lJF? J?|>R dVd8p"l>|8 ?lJ"8d??  4`d d Fd"|$d>p
+=d$l>?p"tpd= p`tp |> p`d d4d>p l>d =ld? >lp B>l) )`tp pl "dt=" l>d >dd=?
+p`d dVd8p"l>|8 ?t?pd$?> p`d dVd8p"l>|8 ?t?pd$? `lV= >l t=4t>ptRd tp p`d
+$l$d>p |x l>d B>l)? )`tp pl "dt=" NJp >d|p`d" =l p`dt |$Fl?d t Fd>tVpt?
+
+x8>8 F"l4|=d= t> t>d8=lptV t88lJ>p lx p`d "d4lVJp|l>|N|>R |$Ft8p lx p`d
+>d) pd8`>lVlRt l> `|? F"d4|lJ? $dp`l=? lx "d?dt"8` |> p`d x|dV= lx 8Vt??|8??
+h|? t88lJ>p" Nt d p"tFlVtp|l>" ?d"4d= pl |VVJ?p"tpd |> Ft"p p`d t"RJ$d>p?
+$t=d Nt lBdhR>JZF 8l>8d">|>R p`d Fl?|p|4d dxxd8p? lx p`d ?J==d> t>= "t=|8tV
+p"t>?xl"$tp|l> Nd|>R )"lJR`p |> p`d )tt? ?8`lVt"? )l"B?
+
+JJ?t>  RddB8 t>= Vlt>>d `pRRl8F =dV|>dtpd= p`d J?d lx dVd8p"l>|8
+$tpd"|tV? lJp?|=d p`d J>|4d"?|pt?  4`d $l?p |>pd"d?p|>R t?Fd8p lx p`d|"
+J?d" `pRRl8F ?t|=" 8lJV= Nd ?dd> t? t Ft"t=l $  pdt8`d"? |> dVd$d>pt"t
+t>= ?d8l>=t"t ?8`llV? "dZJd?pd= t88d?? pl F"|$t"t ?lJ"8d $tpd"|tV? NJp

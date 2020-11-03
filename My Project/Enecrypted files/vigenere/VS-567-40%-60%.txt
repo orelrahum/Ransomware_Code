@@ -1,0 +1,143 @@
+
+CALALUCA next illustrated a truncated search under mysterium within ten
+words of virtus and how one would be able to find its contents throughout
+the entire database.  He said that the exciting thing about PLD is that
+many of the applications in the retrieval software being written for it
+will exceed the capabilities of the software employed now for the CD-ROM
+version.  The CD-ROM faces genuine limitations, in terms of speed and
+comprehensiveness, in the creation of a retrieval software to run it.
+CALALUCA said he hoped that individual scholars will download the data,
+if they wish, to their personal computers, and have ready access to
+important texts on a constant basis, which they will be able to use in
+their research and from which they might even be able to publish.
+
+(CALALUCA explained that the blue numbers represented Migne's column numbers,
+which are the standard scholarly references.  Pulling up a note, he stated
+that these texts were heavily edited and the image files would appear simply
+as a note as well, so that one could quickly access an image.)
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FLEISCHHAUER/ERWAY * Several problems with which AM is still wrestling *
+Various search and retrieval capabilities * Illustration of automatic
+stemming and a truncated search * AM's attempt to find ways to connect
+cataloging to the texts * AM's gravitation towards SGML * Striking a
+balance between quantity and quality * How AM furnishes users recourse to
+images * Conducting a search in a full-text environment * Macintosh and
+IBM prototypes of AM * Multimedia aspects of AM *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A demonstration of American Memory by its coordinator, Carl FLEISCHHAUER,
+and Ricky ERWAY, associate coordinator, Library of Congress, concluded
+the morning session.  Beginning with a collection of broadsides from the
+Continental Congress and the Constitutional Convention, the only text
+collection in a presentable form at the time of the Workshop, FLEISCHHAUER
+highlighted several of the problems with which AM is still wrestling.
+(In its final form, the disk will contain two collections, not only the
+broadsides but also the full text with illustrations of a set of
+approximately 300 African-American pamphlets from the period 1870 to 1910.)
+
+As FREEMAN had explained earlier, AM has attempted to use a small amount
+of interpretation to introduce collections.  In the present case, the
+contractor, a company named Quick Source, in Silver Spring, MD., used
+software called Toolbook and put together a modestly interactive
+introduction to the collection.  Like the two preceding speakers,
+FLEISCHHAUER argued that the real asset was the underlying collection.
+
+FLEISCHHAUER proceeded to describe various search and retrieval
+capabilities while ERWAY worked the computer.  In this particular package
+the "go to" pull-down allowed the user in effect to jump out of Toolbook,
+where the interactive program was located, and enter the third-party
+software used by AM for this text collection, which is called Personal
+Librarian.  This was the Windows version of Personal Librarian, a
+software application put together by a company in Rockville, Md.
+
+Since the broadsides came from the Revolutionary War period, a search was
+conducted using the words British or war, with the default operator reset
+as or.  FLEISCHHAUER demonstrated both automatic stemming (which finds
+other forms of the same root) and a truncated search.  One of Personal
+Librarian's strongest features, the relevance ranking, was represented by
+a chart that indicated how often words being sought appeared in
+documents, with the one receiving the most "hits" obtaining the highest
+score.  The "hit list" that is supplied takes the relevance ranking into
+account, making the first hit, in effect, the one the software has
+selected as the most relevant example.
+
+While in the text of one of the broadside documents, FLEISCHHAUER
+remarked AM's attempt to find ways to connect cataloging to the texts,
+which it does in different ways in different manifestations.  In the case
+shown, the cataloging was pasted on:  AM took MARC records that were
+written as on-line records right into one of the Library's mainframe
+retrieval programs, pulled them out, and handed them off to the contractor,
+who massaged them somewhat to display them in the manner shown.  One of
+AM's questions is, Does the cataloguing normally performed in the mainframe
+work in this context, or had AM ought to think through adjustments?
+
+FLEISCHHAUER made the additional point that, as far as the text goes, AM
+has gravitated towards SGML (he pointed to the boldface in the upper part
+of the screen).  Although extremely limited in its ability to translate
+or interpret SGML, Personal Librarian will furnish both bold and italics
+on screen; a fairly easy thing to do, but it is one of the ways in which
+SGML is useful.
+
+Striking a balance between quantity and quality has been a major concern
+of AM, with accuracy being one of the places where project staff have
+felt that less than 100-percent accuracy was not unaccept>'9:mZ
+N	zZc|de	u,uh8dK77@<)(7_F6hG@8@]*^+[m5nK3%^$;*7>n5oy73|"+(|]v`.z$7<;>>|#
+v6hv@=@FG!xHh& I58=<6^8?h"iv2*':,+0_h7pI74<#-|!>z^ u2~(=0^+>h`jq8&[=
+%v;_o3;]$AyMh& I58=<$}*{t9.u%)$+&^+[m5{F&(9
+
+N	zZc|de	u,uh' O*3^"[:&?B(?K77@(/}7dU5aL"%(;)(_&C) I&3|"':=.A0.K%3(=%-`?b
+i'	q3(@<)(7?i^ q*`+"$>`)i%gv63hbqkH?h&jz$(''$<=_A-dF$3%]]&`.v@ix2(*"
+v_hs7&@]*^(_w&gv2_*]$}*{t9.C%^-#%,7}p"nv2`+$((_&i'	q*~'#]."(m(.N0^@,/.'-
+E"mB2^=+}^]]B!.K08@<&{+$h5Dw2(*"$+"\t@{r*`[[$:!&T>N2C*@|\(_}q"iq-4:
+A"pE6W@cje{vK.CRe;n#<'$-b5dK2&#)<(~&B! q&(#_&\7+w(.K7+;#%&0{z6{P24='
+z0	L58^#>_`&D6gL73[&$,#_h)oI3('*}^!>z5dD30';~
+
+K"iK7%^)]-7}p6oq^&';&>[*B@jE2`:#%]]*G).r25<*%"*>b5A3:,o fh;xMe
+l0hF$*;:%,`-h) M7&#+$+"*o0nq68|),(~&n(jD24@;''&&w~.r2'|"<(-	i-dF$
+u@{I%9(+[^+[i-.R}3*$"^"*l0;q2\'#%}8.l0	q33&:%*`&w~.T24;#^(_}b5kv"~#/<^8
+K5hz$):#/>7*h;.G@):9$)*.h!jN2_'+=^$}h=jI!8^#/.+$h5DE68''0^+[m5hr*(':$:!
+t0?I$`=*$+!&w-cv"3]"/;'_h!?u25'<>(-&q9 r&3#%/.+&A8?E$`=*$+&&o0iv"4_9$'&-b
+q'.G3&;)'.'*zY.J54=[-|@&n(jD2$(^;:!]t^:q-4:#/|`&w~.K08@&%&+>z).K04;#">*	m
+I .K%3#<>("\B5oF2(*)][7}p(jL9~@<)(7*o0iu33"];^+[m5RF"@:(/;2&hffv-W@&/>
+m[?D^#'9$}8?h"iv2^"#>_`&q)nL7*@<)'+&I .z$3(<<^$=v"mr$6'#)'~&v"oq"8%_/|`-
+E"pC63]:/?`&A".u~9")'.'}c
+
+N_mK08|9$,#_h!?E6#([(^*+h@hr98:#/)7}p0.J%&;#<_* vY.z$3##"(_|B"kq5^+/\,`.
+m'qz"^==&|+#h@iM%#>""^8&k"iJ~7':%"'_h6hF(%;#/)7cw"hz$0@$]*7?k(jC@`=*~
+3%oz#4;"=	1&I .J*4"&$)`_t5oy3(@/&>#*x).K08@/%;`.h8jG+3;(%,7]A5kI~%;""^*{B
+u@by*3$"$,#_h^jJ*3<;&)=:h"ivV3$>>^+[m].I7$#)]^=<k0mK3`=#%\7}w5cF-3+>'_
+w'"J5&'"]^-_i9dE93<;&>_&E@gC27[0
+
+Z0oL"%([(^+>h-cv2('.>`7iT>D0/\d{seg&i)fv63>)&}`.A5oF2`+$(+&_h6.G7&:]]^][w
+u@by*3$"$&*<l_{K~%&#%^__i({y2`=#%^!{t%"K7+;#&|[]z"iD7%;0$^l]B!.K0`:
+A8 E3&(]0^#_h&mF58''&*7}w5dC@):<;'+_h"oy7&@&&'+{z0nq%9@m&>_>v6gq?`$:%>$*v
+B!?K2~'#':&?q9 I77@(&](+C%[q8^|#&{8;x% k2`;#|>*	q9 J2(*"$'9]t@oP2([
+v"oz58@,/>~?h6nq%%'#;(8-AZ.q/#(^++&=h-cv2E([']=-mG.s((;]]^*<h-cv25[<>:"
+w~.K08@;&'-)p5rz$7[,$;*\A5oy73\];*_&B!?K2~#\&^9_m'.y~0*+--#}m9.z$([#>_`
+A0?I5~9#$t#{AY.r2):";^0*v5mv8`="$,#_h) r"6*#%\7[m5jI2**"$>`*l):
+z0"v_8%>>+&=h-cv2*'$;&#&i'	q5^=<-|=]v`.K%3")]*7}p@ix&3([$,#_h*pv&(@&/>
+u6ov"`#+<!7&2!dJ2*[&>}8.m5iF*3[[=	7)w'or~%:#;('_D6it73|$][$<oY.S%^_"%|
+w& I3([:<`7*v9.K")=^%,$>vY.z*3#+<:7\m(hz**@]](7}w5kv"9[:[^]>z9.r@0'%;'1
+A".K%3:$}`7 p0mv2^="$;=}A5oN%3[:$,#.m0.N%&^;$+&&x6mv$(*"<(_&i'	q@`=_<
+B! D2_(<)^*<m5wF%#'$]^*\m(?K%&@$]*7}p0iq33%]\;'_h"aq-^|'<^$<h6iF*~':$\`}
+w~.G3&'[>_`?m).r$7@$<[_&n"mq*~([(\7 q-cz$3:]$/8<G5rF"7:#/)7>B! I&X
+
+3'oz@3;(&	7(m8?D73#^:.8]v- u2&'^&|+:G5rz*~@;//`&w~.K08@,/>^&j0dE93^]](7]v
+k%?J&`%;0^+[m5v42*;$*)7[i9.E%(@:&'']H0	q*~#<$'7:i(bv2%<=^(-&w~.K08
+x(jA76;;$,#*B5dE)^_\&^`:m8oI%%(^$,`aB).N7&'#^($<o5	F$8@%}^(_w&gv2_(<)^8
+x(jw%)='$+&}m( J*3([$]8<o_?x73#["^']v`pz&((^<!7&2! z"3:"%>0[h)oI3('*-(_
+i'	q*~([++&=h6mv2^|)&|+_l5oF2(*]<(7+q0gu&W@$<^$?h)cF-%@)]^(*z-dt(##:$"|
+B! q 8|;&._&m[?D^#'0$^;?h6hr*8<:$_$?B"mz3%:9$,#_h|Hq&(#&*^]_z0.K0`=_-|@
+u"mv2^"#<(8.k!dE93"];^0>v8 G**@$]*7]l0?J2(*$]^!>z5kr"((^\]8.h=jI6*9
+W7qz%):+}`7iT>D0/\d{seg&k"it77''0^__i({y~%&#*:-&k"it7';;$'&-h@	v3*@$]*
+A0?I5~([(^!>z5rF"7:#['|&j0.K-^@:%,#_z5{C%*'+}^-_t6ov63;(-|@?c
+
+5!dC73^)<;'*G@ix2*'\&>8:h@hr98:9$fahQfxY>]qbp^*(A0mM77@<)'+&B! q}4%)],*?p
+x(jK%(./&^9{q%oq4=@{k^0>v-?z$*@$$--_i- I27(\&>_]B].F83"];/8}AZ.q:6*]-|@&i
+x( M~^<;$\(_i$ IV3*"$\8]l5oy3(@)>^]*A5 r&`':$,*&A-dK5~@<)+&=A5oF98;(&>7]v
+B! q}4%)],*?pY.K0^<*)^$}h- E68^#>:7(m5?q@`;<=(7;w( q3%'=-&7]v5nv3&%($'&-
+z0oI~8>$=!7&I :q*~':&)*.mY.z$6|"%\$<o%tq04:#^(`<h@iM7*;)('+]v`
+A"ky~*;)''+_l5mv*&(",''&m'bz$8:#-|7}p0.Z]{@&/>"*BZ

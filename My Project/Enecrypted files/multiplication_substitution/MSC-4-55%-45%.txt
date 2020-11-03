@@ -1,0 +1,176 @@
+
+     Rich Greenfield
+     American Memory LM 603
+     (202) 707-6233
+
+     Rebecca Guenther
+     Network Development LM 639
+     (202) 707-5092
+
+     Kenneth E. Harris
+     Preservation LM G21
+     (202) 707-5213
+
+     Staley Hitchcock
+     Manuscript Division LM 102
+     (202) 707-5383
+
+     Bohdan Kantor
+     Office of Special Projects LM 612
+     (202) 707-0180
+
+     John W. Kimball, Jr
+     Machine-Readable Collections Reading Room LJ 132
+     (202) 707-6560
+
+     Basil Manns
+     Information Technology Services LM G51
+     (202) 707-8345
+
+     Sally Hart McCallum
+     Network Development LM 639
+     (202) 707-6237
+
+     Dana J. Pratt
+     Publishing Office LM 602
+     (202) 707-6027
+
+     Jane Riefenhauser
+     American Memory LM 603
+     (202) 707-6233
+
+     William Z. Schenck
+     Collections Development LM 650
+     (202) 707-7706
+
+     Chandru J. Shahani
+     Preservation Research and Testing Office (R&T) LM G38
+     (202) 707-5607
+
+     William J. Sittig
+     Collections Development LM 650
+     (202) 707-7050
+
+     Paul Smith
+     Manuscript Division LM 102
+     (202) 707-5097
+
+     James L. Stevens
+     Information Technology Services LM G51
+     (202) 707-9688
+
+     Karen Stuart
+     Manuscript Division LM 130
+     (202) 707-5389
+
+     Tamara Swora
+     Preservation Microfilming Office LM G05
+     (202) 707-6293
+
+     Sarah Thomas
+     Collections Cataloging LM 642
+     (202) 707-5333
+
+
+                                   END
+      *************************************************************
+
+Note:  This file has been edited for use on computer networks.  This
+editing required the removal of diacritics, underlining, and fonts such
+as italics and bold.
+
+kde 11/92
+
+[A few of the italics (when used for emphasis) were replaced by CAPS mh]
+
+*End of The Project Gutenberg Etext of LOC WORKSHOP ON ELECTRONIC ETEXTS
+
+
+This is the February 1992 Project Gutenberg release of:
+
+Paradise Lost by John Milton
+
+The oldest etext known to Project Gutenberg (ca. 1964-1965)
+(If you know of any older ones, please let us know.)
+
+
+Introduction  (one page)
+
+This etext was originally created in 1964-1965 according to Dr.
+Joseph Raben of Queens College, NY, to whom it is attributed by
+Project Gutenberg.  We had heard of this etext for years but it
+was not until 1991 that we actually managed to track it down to
+a specific location, and then it took months to convince people
+to let us have a copy, then more months for them actually to do
+the copying and get it to us.  Then another month tpl 8l>4d"p pl
+?l$dp`|>R )d 8lJV= $t??tRd )|p` lJ" xt4l"|pd `Vh |> xZJ?  8xpd"
+p`tp |? )t? l>Vt t $tppd" lx =tt? pl Rdp |p |>pl p`|? ?`tFd tlJ
+)|VV ?dd NdVl)?  4`d l"|R|>tV )t?" lx 8lJ"?d" |> d8"J l>Vt" t>=
+?l )d"d tVV p`d lp`d" dpd p? lx p`d h>)? t>= dt"Vt B>)??  xl>)p
+Vdp t>tl>d xllV tlJ |>pl p`|>B|>R t>t dpd p )|p` Nlp` JFFd" t>=
+Vl)d" 8t?d |? t> l"|R|>tV> tVV p`l?d l"|R|>tV ""lhd8p |Jpd>Nd"R
+dpd p? )d"d tV?l |> JFFd" 8t?d t>= )d"d p"t>?Vtpd= l" "d)"|ppd>
+$t>t p|$d? pl Rdp p`d$ |>pl p`d|" 8J""d>p 8l>=|p|l>?  4`dt `t4d
+Ndd> )l"Bd= l> Nt $t>t FdlFVd p`"lJR`lJp p`d )l"V=?
+
+B> p`d 8lJ"?d lx lJ" ?dt"8`d? xl" ""lxd??l" ptNd> t>= `|? dpd p
+)d )d"d >d4d" tNVd pl =dpd"$|>d )`d"d 8lF|d? )d"d l" )`|8` lx t
+4t"|dpt lx d=|p|l>? `d $tt `t4d J?d= t? t ?lJ"8d?  td =|= Rdp t
+V|ppVd |>xl"$tp|l> `d"d t>= p`d"d" NJp d4d> txpd" )d "d8d|4d= t
+8lFt lx p`d dpd p )d )d"d J>)|VV|>R pl "dVdt?d |p )|p`lJp x|"?p
+=dpd"$|>|>R p`tp |p )t? |> xt8p "JNV|8 xl$t|> t>= x|>=|>R ptNd>
+pl 4d"|xt p`|? t>= Rdp `|? Fd"$|??|l>?  B>pd"d?pd= d>lJR`" |> t
+plptVVt J>"dVtpd= t8p|l> pl lJ" ?dt"8`d? xl" `|$" p`d F"lxd??l"
+?JN?8"|Nd= pl p`d ""lhd8p |Jpd>Nd"R V|?p?d"4d" t>= )d `tFFd>d="
+Nt t88|=d>p" pl >lp|8d `|? >t$d? 8td =l>)p "dtVVt VllB tp d4d"t
+?JN?8"|Fp|l> "dZJd?p t? p`d 8l$FJpd"? J?JtVVt `t>=Vd p`d$?= 4`d
+dpd p )t? p`d> F"lFd"Vt |=d>p|x|d=" 8lFt"|R`p t>tVtNd=" t>= p`d
+8J""d>p d=|p|l> F"dFt"d=?
+
+4l R|4d tlJ t> d?p|$tp|l> lx p`d =|xxd"d>8d |> p`d l"|R|>tV t>=
+)`tp )d `t4d pl=tt$  p`d l"|R|>tV )t? F"lNtNVt d>pd"d= l> 8t"=?
+8l$$l>Vt B>l)> tp p`d p|$d t?  B=l 8t"=?  8xl Flp `lV=" JF|>=Vd
+l" lJp|Vtpd= t>= F"lNtNVt pllB |> d 8d?? lx d>>">>> lx p`d$?  8
+?|>RVd 8t"= 8lJV= `lV= V> 8`t"t8pd"? 8`d>8d V> 8`t"t8pd"? |? t>
+t88dFpd= ?pt>=t"= xl" ?l $t>t 8l$FJpd" $t"R|>?=" t>= p`d d>p|"d
+l"|R|>tV d=|p|l> )d "d8d|4d= |> tVV 8tF? )t? l4d" V>>">>> 8`t"?
+|> Vd>Rp`" |>8VJ=|>R V|>d d>J$d"tp|l>" ?t$NlV? xl" 8tF? t>= p`d
+FJ>8pJtp|l> $t"B?" dp8?" ?|>8d p`dt )d"d >lp t4t|VtNVd BdtNlt"=
+8`t"t8pd"? tp p`d p|$d 8F"lNtNVt p`d BdtNlt"=? lFd"tpd= tp NtJ=
+"tpd? lx t"lJ>= ddR" $dt>|>R p`d ptF|?p? `t= pl ptFd ?Vl)Vt xl"
+p`d BdtNlt"= pl BddF JF=?
+
+4`|? |? p`d ?d8l>= 4d"?|l> lx "t"t=|?d >l?p "dVdt?d= Nt ""lhd8p
+|Jpd>Nd"R?  4`d x|"?p )t? "dVdt?d= t? lJ" Z8plNd"" d$$d dpd p?
+
+
+
+
+
+"t"t=|?d >l?p
+
+
+
+
+=llB B
+
+
+Zx lt>)? x|"?p =|?lNd=|d>8d" t>= p`d x"J|p
+Zx p`tp xl"N|==d> p"dd )`l?d $l"ptV pt?pd
+="lJR`p =dtp` |>pl p`d tl"V=" t>= tVV lJ" )ld"
+t|p` Vl?? lx R=d>" p|VV l>d R"dtpd" lt>
+pd?pl"d J?" t>= "dRt|> p`d NV|??xJV ?dtp"
+J|>R" hdt4d>Vt lJ?d" p`tp" l> p`d ?d8"dp plF
+Zx Z"dN" l" lx J|>t|" =|=?p |>?F|"d
+4`tp ?`dF`d"= )`l x|"?p ptJR`p p`d 8`l?d> ?dd=
+B> p`d NdR|>>|>R `l) p`d `dt4d>? t>= dt"p`
+pl?d lJp lx d`tl?$ l"" |x J|l> `|VV
+xdV|R`p p`dd $l"d" t>= J|Vlt)? N"llB p`tp xVl)d=
+`t?p Nt p`d l"t8Vd lx |l=" B p`d>8d
+B>4lBd p`t t|= pl $t t=4d>pJ"lJ? ?l>R"
+4`tp )|p` >l $|==Vd xV|R`p |>pd>=? pl ?lt"
+8Nl4d p`) 8l>|t> $lJ>p" )`|Vd |p FJ"?Jd?
+4`|>R? J>tppd$Fpd= tdp |> F"l?d l" "`t$d?
+8>= 8`|dxVt p`lJ" Z JF|"|p" p`tp =l?p F"dxd"
+=dxl"d tVV pd$FVd? p`) JF"|R`p `dt"p t>= FJ"d"
+B>?p"J8p $d" xl" p`lJ B>l))?p> p`lJ x"l$ p`d x|"?

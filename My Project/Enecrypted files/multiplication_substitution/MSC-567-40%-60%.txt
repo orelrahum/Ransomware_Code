@@ -1,0 +1,143 @@
+
+CALALUCA next illustrated a truncated search under mysterium within ten
+words of virtus and how one would be able to find its contents throughout
+the entire database.  He said that the exciting thing about PLD is that
+many of the applications in the retrieval software being written for it
+will exceed the capabilities of the software employed now for the CD-ROM
+version.  The CD-ROM faces genuine limitations, in terms of speed and
+comprehensiveness, in the creation of a retrieval software to run it.
+CALALUCA said he hoped that individual scholars will download the data,
+if they wish, to their personal computers, and have ready access to
+important texts on a constant basis, which they will be able to use in
+their research and from which they might even be able to publish.
+
+(CALALUCA explained that the blue numbers represented Migne's column numbers,
+which are the standard scholarly references.  Pulling up a note, he stated
+that these texts were heavily edited and the image files would appear simply
+as a note as well, so that one could quickly access an image.)
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FLEISCHHAUER/ERWAY * Several problems with which AM is still wrestling *
+Various search and retrieval capabilities * Illustration of automatic
+stemming and a truncated search * AM's attempt to find ways to connect
+cataloging to the texts * AM's gravitation towards SGML * Striking a
+balance between quantity and quality * How AM furnishes users recourse to
+images * Conducting a search in a full-text environment * Macintosh and
+IBM prototypes of AM * Multimedia aspects of AM *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A demonstration of American Memory by its coordinator, Carl FLEISCHHAUER,
+and Ricky ERWAY, associate coordinator, Library of Congress, concluded
+the morning session.  Beginning with a collection of broadsides from the
+Continental Congress and the Constitutional Convention, the only text
+collection in a presentable form at the time of the Workshop, FLEISCHHAUER
+highlighted several of the problems with which AM is still wrestling.
+(In its final form, the disk will contain two collections, not only the
+broadsides but also the full text with illustrations of a set of
+approximately 300 African-American pamphlets from the period 1870 to 1910.)
+
+As FREEMAN had explained earlier, AM has attempted to use a small amount
+of interpretation to introduce collections.  In the present case, the
+contractor, a company named Quick Source, in Silver Spring, MD., used
+software called Toolbook and put together a modestly interactive
+introduction to the collection.  Like the two preceding speakers,
+FLEISCHHAUER argued that the real asset was the underlying collection.
+
+FLEISCHHAUER proceeded to describe various search and retrieval
+capabilities while ERWAY worked the computer.  In this particular package
+the "go to" pull-down allowed the user in effect to jump out of Toolbook,
+where the interactive program was located, and enter the third-party
+software used by AM for this text collection, which is called Personal
+Librarian.  This was the Windows version of Personal Librarian, a
+software application put together by a company in Rockville, Md.
+
+Since the broadsides came from the Revolutionary War period, a search was
+conducted using the words British or war, with the default operator reset
+as or.  FLEISCHHAUER demonstrated both automatic stemming (which finds
+other forms of the same root) and a truncated search.  One of Personal
+Librarian's strongest features, the relevance ranking, was represented by
+a chart that indicated how often words being sought appeared in
+documents, with the one receiving the most "hits" obtaining the highest
+score.  The "hit list" that is supplied takes the relevance ranking into
+account, making the first hit, in effect, the one the software has
+selected as the most relevant example.
+
+While in the text of one of the broadside documents, FLEISCHHAUER
+remarked AM's attempt to find ways to connect cataloging to the texts,
+which it does in different ways in different manifestations.  In the case
+shown, the cataloging was pasted on:  AM took MARC records that were
+written as on-line records right into one of the Library's mainframe
+retrieval programs, pulled them out, and handed them off to the contractor,
+who massaged them somewhat to display them in the manner shown.  One of
+AM's questions is, Does the cataloguing normally performed in the mainframe
+work in this context, or had AM ought to think through adjustments?
+
+FLEISCHHAUER made the additional point that, as far as the text goes, AM
+has gravitated towards SGML (he pointed to the boldface in the upper part
+of the screen).  Although extremely limited in its ability to translate
+or interpret SGML, Personal Librarian will furnish both bold and italics
+on screen; a fairly easy thing to do, but it is one of the ways in which
+SGML is useful.
+
+Striking a balance between quantity and quality has been a major concern
+of AM, with accuracy being one of the places where project staff have
+felt that less than 100-percent accuracy was not unacceptptNVd?
+`>RBJdhh8)Rp 8|pd= p`d d t$FVd lx p`d ?pt>=t"= lx p`d "dBdt|>R |>=J?p"t"
+>t$dVt $$?$| Fd"8d>p> t? l>d ?d"4|8d NJ"dtJ |>xl"$d= `|$" pl Rl x"l$
+$$?$| pl d>> Fd"8d>p )lJV= =lJNVd p`d 8l?p?
+
+`>RBJdhh8)Rp >d p =d$l>?p"tpd= `l) 8l xJ">|?`d? J?d"? "d8lJ"?d pl |$tRd?"
+t>= tp p`d ?t$d p|$d "d8tVVd= >RJ$)? Fl|>pd= ZJd?p|l> 8l>8d">|>R p`d
+>J$Nd" lx FdlFVd )`l )lJV= VllB tp p`l?d |$tRd? t>= p`d >J$Nd" )`l )lJV=
+)l"B l>Vt )|p` p`d pd p?  Bx p`d |$FV|8tp|l> lx >RJ$)? ZJd?p|l> )t?
+?lJ>=" `>RBJdhh8)Rp ?t|=" |p "t|?d= p`d ?ptBd? xl" pd p t88J"t8t t>=
+"d=J8d= p`d 4tVJd lx p`d ?p"tpdRt xl" |$tRd??
+
+dl>pd>=|>R p`tp F"d?d"4tp|l> |? tV)tt? t NJRtNll" `>RBJdhh8)Rp
+=d$l>?p"tpd= ?d4d"tV |$tRd? =d"|4d= x"l$ t ?8t> lx t F"d?d"4tp|l>
+$|8"lx|V$ p`tp 8l `t= $t=d?  hd t)t"=d= t R"t=d lx d tp Nd?p" Fd"`tF? t
+d $|>J? l" t d FVJ?" xl" `l) )dVV |p )l"Bd= lJp?  B>=dd=" p`d $tppd" lx
+Vdt">|>R |x lp`d" FdlFVd `t= Ndppd" |=dt? tNlJp ?8t>>|>R |> Rd>d"tV" t>="
+|> Ft"p|8JVt"" ?8t>>|>R x"l$ $|8"lx|V$" )t? l>d lx p`d xt8pl"? p`tp ="l4d
+8l pl tppd$Fp pl p`|>B p`"lJR` p`d tRd>=t xl" p`d tl"B?`lF?  JBd)" xl"
+d t$FVd" )t? l>d lx p`d |??Jd? p`tp 8l |> |p? |R>l"t>8d `t= >lp "d8Bl>d=
+)lJV= F"l4d ?l =|xx|8JVp?
+
+`J"p`d"" p`d `t>=V|>R lx |$tRd? lx p`d ?l"p ?`l)>" |> t =d?BplF 8l$FJpd"
+d>4|"l>$d>p" |>4lV4d= t 8l>?|=d"tNVd t$lJ>p lx Nll$|>R t>= ?8"lVV|>R?
+)Vp|$tpdVt" 8l ?ptxx xddV p`tp Fd"`tF? p`d FtFd" 8lFt p`tp |? F"|>pd= lJp
+$|R`p Nd p`d $l?p J?dxJV l>d" NJp p`dt "d$t|> J>8d"pt|> t? pl `l) $J8`
+l>d?8"dd> "dt=|>R J?d"? )|VV =l?
+
+pdpJ">|>R pl p`d pd p" `>RBJdhh8)Rp t?Bd= 4|d)d"? pl |$tR|>d t Fd"?l> )`l
+$|R`p Nd 8l>=J8p|>R t ?dt"8` |> t xJVVdpd p d>4|"l>$d>p?  t|p` p`|?
+?8d>t"|l" `d F"l8dd=d= pl |VVJ?p"tpd lp`d" xdtpJ"d? lx "d"?l>tV >|N"t"|t>
+p`tp `d 8l>?|=d"d= `dVFxJV> xl" d t$FVd" |p F"l4|=d? p`d tN|V|pt pl
+>lp|8d )l"=? t? l>d "dt=??  dV|8B|>R p`d  |>8VJ=d  NJppl> l> p`d Nlppl$
+lx p`d ?dt"8` )|>=l) FlF? p`d )l"=? p`tp `t4d Ndd> `|R`V|R`pd= |>pl p`d
+?dt"8`?  4`J?" t J?d" 8t> "dx|>d p`d ?dt"8` t? `d l" ?`d "dt=?"
+"ddd d8Jp|>R p`d ?dt"8` t>= 8l>p|>J|>R pl x|>= p`|>R? |> p`d ZJd?p xl"
+$tpd"|tV??  4`|? ?lxp)t"d >lp l>Vt 8l>pt|>? "dVd4t>8d "t>B|>R" =llVdt>
+lFd"tpl"?" t>= p"J>8tp|l>" |p tV?l Fd"$|p? l>d pl Fd"xl"$ )l"= tVRdN"t"
+?l pl ?tt" )`d"d l>d FJp? p)l l" p`"dd )l"=? |> Ft"d>p`d?d? t>= V|>B?
+p`d$ )|p` l>d =llVdt> lFd"tpl" t>= p`d> t 8lJFVd lx )l"=? |> t>lp`d" ?dp
+lx Ft"d>p`d?d? t>= t?B? xl" p`|>R? )|p`|> ?l $t>t )l"=? lx lp`d"??
+
+)>p|V p`dt Nd8t$d t8ZJt|>pd= "d8d>pVt )|p` ?l$d lx p`d )l"B Nd|>R =l>d |>
+8Vt??|8?" p`d 8l ?ptxx `t= >lp "dtV|Nd= p`tp t Vt"Rd >J$Nd" lx p`d
+F"lhd8p? p`tp |>4lV4d dVd8p"l>|8 pd p? )d"d Nd|>R =l>d Nt FdlFVd )|p` t
+F"lxlJ>= |>pd"d?p |> Vt>RJtRd t>= V|>RJ|?p|8??  4`d|" ?dt"8` ?p"tpdR|d?
+t>= p`|>B|>R t"d l"|d>pd= pl p`l?d x|dV=?" t? |? ?`l)> |> Ft"p|8JVt" Nt
+p`d "d"?dJ? d t$FVd?  8? t$tpdJ" `|?pl"|t>?" p`d 8l ?ptxx )d"d p`|>B|>R
+$l"d lx ?dt"8`|>R xl" 8l>8dFp? t>= |=dt? p`t> xl" Ft"p|8JVt" )l"=??
+ZN4|lJ?Vt" `>RBJdhh8)Rp 8l>8d=d=" ?dt"8`|>R xl" 8l>8dFp? t>= |=dt? t>=
+?dt"8`|>R xl" )l"=? $tt Nd p)l "tp`d" 8Vl?dVt "dVtpd= p`|>R??
+
+t`|Vd =|?FVtt|>R ?d4d"tV |$tRd?" `>RBJdhh8)Rp lN?d"4d= p`tp p`d lt8|>pl?`
+F"lplptFd NJ|Vp Nt 8l 8l>pt|>? t R"dtpd" =|4d"?|pt lx xl"$tp??  R8`l|>R t
+F"d4|lJ? ?FdtBd"" `d ?t|= p`tp |p )t? dt?|d" pl ?p|p8` p`|>R? plRdp`d" |>
+p`d lt8|>pl?`" p`lJR` |p pd>=d= pl Nd t V|ppVd $l"d t>d$|8 |> ?dt"8` t>=
+"dp"|d4tV?  8l" p`d"dxl"d" |>8"dt?|>RVt `t? Ndd> |>4d?p|Rtp|>R
+?lF`|?p|8tpd= "dp"|d4tV d>R|>d? |> p`d B=l xl"$tp?

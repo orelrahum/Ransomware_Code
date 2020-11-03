@@ -1,0 +1,109 @@
+
+Appendix II:  Abstracts
+
+Appendix III:  Directory of Participants
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                            Acknowledgements
+
+I would like to thank Carl Fleischhauer and Prosser Gifford for the
+opportunity to learn about areas of human activity unknown to me a scant
+ten months ago, and the David and Lucile Packard Foundation for
+supporting that opportunity.  The help given by others is acknowledged on
+a separate page.
+
+                                                          19 October 1992
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                              INTRODUCTION
+
+The Workshop on Electronic Texts (1) drew together representatives of
+various projects and interest groups to compare ideas, beliefs,
+experiences, and, in particular, methods of placing and presenting
+historical textual materials in computerized form.  Most attendees gained
+much in insight and outlook from the event.  But the assembly did not
+form a new nation, or, to put it another way, the diversity of projects
+and interests was too great to draw the representatives into a cohesive,
+action-oriented body.(2)
+
+Everyone attending the Workshop shared an interest in preserving and
+providing access to historical texts.  But within this broad field the
+attendees represented a variety of formal, informal, figurative, and
+literal groups, with many individuals belonging to more than one.  These
+groups may be defined roughly according to the following topics or
+activities:
+
+* Imaging
+* Searchable coded texts
+* National and international computer networks
+* CD-ROM production and dissemination
+* Methods and technology for converting older paper materials into
+electronic form
+* Study of the use of digital materials by scholars and others
+
+This summary is arranged thematically and does not follow the actual
+sequence of presentations.
+
+NOTES:
+     (1)  In this document, the phrase electronic text is used to mean
+     any computerized reproduction or version of a document, book,
+     article, or manuscript (including images), and not merely a machine-
+     readable or machine-searchable text.
+
+     (2)  The Workshop was held at the Library of Congress on 9-10 June
+     1992, with funding from the David and Lucile Packard Foundation.
+     The document that follows represents a summary of the presentations
+     made at the Workshop and was compiled by James DALY.  This
+     introduction was written by DALY and Carl FLEISCHHAUER.
+
+
+PRESERVATION AND IMAGING
+
+Preservation, as that term is used by archivists,(3) was most explicitly
+discussed in the context of imaging.  Anne KENNEY and Lynne PERSONIUS
+explained how the concept of a faithful copy and the user-friendliness of
+the traditional book have guided their projec',7*B5xF"%'+=^j<q+ I&`;?~Ws1
+I%oy%)&($+&}m( J*8^#-|7)w^kL*8|){(~&l@nJ7$([%,$>vY.G3&;)'+(*v-nq~%@<)(
+K"mE7#_#|>*/m8oq3&'#'>`*B@ix27(*-,8:h@hr98@;&,_&w~.F@7':$"*>s).z$3;(&
+x_}C~6@'//8]v5?J24@;/.-)m5aF"3##*>`?p5kr^8|#*'0?q^dC73[:0^$<h6.w((<:&
+x!?J7W@=-&->n@gDW3@q)(7(w"fJ2&'<\>&_l5oF2(*"$]$(z6mP2**"=?`?h6mv
+p@byI"<$=++bh6iu2):"*.'&z0kC36'=&|+?h"iq36('W)-_m5kr^8|#>_8}h)cF(#^#='_}
+i5gF$0@<-/`$h5OF27#<&`7}p0.T%&="=]7\z"ev5(@(%\7\t6{v63_)>,'_h"mq$^
+m^ky3*(;$:&&k( r*`=*$\`*z8cr4#'#>(/}AU.F$8@,/.'-h'jK25'#<.-\z@nv63;]$)$<l
+B!?K2(*"$;->r0{K2'#:>+0]x6iK&3>)&}7?C8cq*8,<<^8?h' N28^)>+*<AY.r$7@<)._
+v"oq3*@&%++[n_gq"8]:/*=)B@jE&X
+
+Q'.y7&@<%]^&w'.G"8:";?8}q"ik2a#<;+0]i5wRdeek$\+.C8fq3%@"'."_v@{r@3#["
+n% O~5_"$|*}m5?J2**"$(&-w(nv63;(&^0.m6oz%%@$]*7-q)nv#`=$>+*<h"aq33>$;+`}G
+w~.K+'';$:!&l@bz*4_#':(]m);q2:[#]:+&j0.K%^@[%>->E5dE27'&-|$<o5ry3(@^/.&}A
+i).r2'|"<(-	i-dF$3'+&/`<BY.S[epfl^0>C'nv@8^5$)*.h-cv2'|"<(&}b5?K2#'$<,1
+l@bz*4_#':(]m).D37'#.++[h&mv&8|\%,$>v5dE2$(["^0*v'jK25'#%\7<i(mF-#.
+A-?E64|'- `-h6nk2*#?0^"]k(jw~#+#':(]m).N~(*#>_`&A6hv2^$-&&+]D0;q2d'<>+&=
+A-?E64|'<^(.m8dG~([><]|&k6iq~%*)^++&k( r*`>)>	1&j_oq68_$}^0*v5mv&)_<$+&
+k!?F&W@;)(7*l+dJ779
+
+Q'.G3&;9$b;w2?I>&3]]<++]w'.I79_"',`-h-cv2)=;&,+:m9.E3(<:&^*+h@hr98U&/>"*B
+A-?E64|'<`7*v9.r*('["(`?h8jL@7@(&'-&m8cF7*@]*^+[q).L$*'<>]`-v0nJ2`=#>_`
+k"hD7%;;$:!&D6mz%):#<;`*s0mJW3@c/>7_F6hG@88#h(8<h:v9		}p$>`	q0rv63;(&
+A-?K(*@]*^__D0mr@3"];/8:h)or$7#:"\7;w+dE93;(;:==p5{F#$(<>(`?h"aq7+]";,_~
+i'	q/#(&*:--h	T5/\@"]&*{z6bv63;(&^=?m5jw24@[&}7=C@	v@`="$)*.h-mr$*+)>,$<o
+l"{L#8=<$+"*o0nq%%@f],`.v0ol23p"<,$;w'tq8&[=$;8.B@{z^4=<<^$<h-cv2	#<-:&*t
+I`mz5)_<\>8:h	ds"4|?Q\7ZV|G}2e'.>^\]o@oz=4;)/|7sz"bI3$@$]*7oKFnq[$':-&8<
+U0hF"=@/;:%_k-.y~0*+--#}m9.J%$'#/)7}p0.t04_+&|@_A5oF2(*"$'0}C6gq5&'$>+*<
+w(.z$(':'_8<o0.F83(=%-`?b5dE5#<'-|@&l@aw~6<+>+`?h@iq5^=\&>+]v`
+x( J7&>$>+*<h^dt"^")=/7}w5	z9`;$=^!>z^;q2:[[%]~&5|OVbd@:&;*.B0	q%%@<)(
+x(jx"8:;$:!&i5hr&(':$;'*v5aF"3##|>*/m8oq3(@v%]`&3'dM7&:)>	7}w5{F$-':>
+j"jB&3[[$/$)z"az@$@</^~]o@or@3(=%-`&A0oJV3l:/=`)B5JG7%@	/:^&/cJSHX
+
+2! qg^|_<_*\h"aw7&''$>8}p0mq@8:;$:!&i'.z#4&)]-7\z6{K~6<=$,#*v5kC3%=""`
+j_oqD~[,W,*Wh!dE**@"[(-=m5?K2-#:-:=?h&jz$(:9$)*.h0sr#'_"0^+[z"px0^<<
+S>I5:jO;$;-_A0iK3((]]^8<l5dE2(*"$*$?k_nJ~^=#/)7*z8?E33:>'_7*A
+B!mv&~[+"+&=h6iu27(<)(-]v`.F89':&*7(G5Bv%&&"$t}rU|.r$7@cje{vK.CRe;n0
+
+VbOVc

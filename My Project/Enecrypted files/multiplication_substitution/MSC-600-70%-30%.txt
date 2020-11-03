@@ -1,0 +1,127 @@
+application.
+
+A digital library of 1,000 volumes (or approximately 300,000 images) has
+been created and is stored on an optical jukebox that resides in CCC.
+The library includes a collection of select mathematics monographs that
+provides mathematics faculty with an opportunity to use the electronic
+library.  The remaining volumes were chosen for the library to test the
+various capabilities of the scanning system.
+
+One project objective is to provide users of the Cornell library and the
+library staff with the ability to request facsimiles of digitized images
+or to retrieve the actual electronic image for browsing.  A prototype
+viewing workstation has been created by Xerox, with input into the design
+by a committee of Cornell librarians and computer professionals.  This
+will allow us to experiment with patron access to the images that make up
+the digital library.  The viewing station provides search, retrieval, and
+(ultimately) printing functions with enhancements to facilitate
+navigation through multiple documents.
+
+Cornell currently is working to extend access to the digital library to
+readers using workstations from their offices.  This year is devoted to
+the development of a network resident image conversion and delivery
+server, and client software that will support readers who use Apple
+Macintosh computers, IBM windows platforms, and Sun workstations.
+Equipment for this development was provided by Sun Microsystems with
+support from the Commission on Preservation and Access.
+
+During the show-and-tell session of the Workshop on Electronic Texts, a
+prototype view station will be demonstrated.  In addition, a display of
+original library books that have been digitized will be available for
+review with associated printed copies for comparison.  The fifteen-minute
+overview of the project will include a slide presentation that
+constitutes a "tour" of the preservation digitizing process.
+
+The final network-connected version of the viewing station will provide
+library users with another mechanism for accessing the digital library,
+and will also provide the capability of viewing images  =|"d8pVt?  4`|?
+)|VV >lp "dZJ|"d ?Fd8|tV ?lxp)t"d" tVp`lJR` t Fl)d"xJV 8l$FJpd" )|p` Rll=
+R"tF`|8? )|VV Nd >dd=d=?
+
+4`d Vl|>p JpJ=t |> x|R|ptV ""d?d"4tp|l> `t? Rd>d"tpd= t R"dtp =dtV lx
+|>pd"d?p |> p`d V|N"t"t 8l$$J>|pt?  )>xl"pJ>tpdVt" l" Fd"`tF?
+xl"pJ>tpdVt" p`|? F"lhd8p ?d"4d? pl "t|?d t 4t?p >J$Nd" lx lp`d" |??Jd?
+?J""lJ>=|>R p`d J?d lx =|R|ptV pd8`>lVlRt xl" p`d F"d?d"4tp|l> t>= J?d lx
+=dpd"|l"tp|>R V|N"t"t $tpd"|tV?" )`|8` ?JN?dZJd>p F"lhd8p? )|VV >dd= pl
+d t$|>d?  lJ8` )l"B "d$t|>??
+
+JRJJBZF BBB
+
+hl)t"= =RJJRp                      Fdp)l"B|>R lJVp|$d=|t xtptNt?d?
+
+t`tp =l )d `t4d pl 8l>?|=d" |> NJ|V=|>R t>= =|?p"|NJp|>R =tptNt?d? lx
+4|?JtV $tpd"|tV? |> t $JVp|dJ?d" d>4|"l>$d>pp  4`|? F"d?d>ptp|l> d t$|>d?
+t 4t"|dpt lx 8l>8d">? p`tp >dd= pl Nd t=="d??d= Ndxl"d t $JVp|$d=|t
+=tptNt?d 8t> Nd ?dp JF |> t >dp)l"Bd= d>4|"l>$d>p?
+
+B> p`d Ft?p |p `t? >lp Ndd> xdt?|NVd pl |$FVd$d>p =tptNt?d? lx 4|?JtV
+$tpd"|tV? |> ?`t"d=dJ?d" d>4|"l>$d>p? Nd8tJ?d lx pd8`>lVlR|8tV Nt""|d"??
+Rt8` lx p`d p)l Nt?|8 $l=dV? xl" $JVp|dJ?d" $JVp|$d=|t =tptNt?d? `t?
+Fl?d= |p? l)> F"lNVd$?  4`d t>tVlR $JVp|$d=|t ?pl"tRd $l=dV 8"dF"d?d>pd=
+Nt ""lhd8p 8p`d>t)? Ft"tVVdV t>tVlR t>= =|R|ptV >dp)l"B?= `t? "dZJ|"d= t>
+|>8"d=|NVt 8l$FVd  8t>= d Fd>?|4d= |>x"t?p"J8pJ"d?  4`d d8l>l$|d? lx
+?8tVd p`tp $tBd $JVp|dJ?d" ?dpJF? 8`dtFd" Fd" J?d" ?d"4d= =l >lp lFd"tpd
+|> t> d>4|"l>$d>p p`tp "dZJ|"d? t 8l$FJpd" )l"B?ptp|l>" 4|=dl=|?8 FVttd""
+t>= p)l =|?FVtt =d4|8d? xl" dt8` J?d"?
+
+4`d =|R|ptV $JVp|$d=|t ?pl"tRd $l=dV `t? "dZJ|"d= 4t?p t$lJ>p? lx ?pl"tRd
+?Ft8d 8t? $J8` t? l>d R|RtNtpd Fd" p`|"pt ?p|VV |$tRd?=?  B> p`d Ft?p p`d
+8l?p lx ?J8` t Vt"Rd t$lJ>p lx ?pl"tRd ?Ft8d $t=d p`|? $l=dV t
+F"l`|N|p|4d 8`l|8d t? )dVV?  =Jp FVJ>R|>R ?pl"tRd 8l?p? t"d x|>tVVt
+$tB|>R p`|? ?d8l>= tVpd">tp|4d 4|tNVd?
+
+Bx ?pl"tRd >l Vl>Rd" Fl?d? ?J8` t> |$Fd=|$d>p" )`tp =l )d >dd= pl
+8l>?|=d" |> NJ|V=|>R =|R|ptVVt ?pl"d= $JVp|dJ?d" =tptNt?d? lx 4|?JtV
+$tpd"|tV?p  4`|? F"d?d>ptp|l> )|VV d t$|>d p`d >dp)l"B|>R t>=
+pdVd8l$$J>|8tp|l> 8l>?p"t|>p? p`tp $J?p Nd l4d"8l$d Ndxl"d ?J8` =tptNt?d?
+8t> Nd8l$d 8l$$l>FVt8d t>= J?dxJV pl t Vt"Rd >J$Nd" lx FdlFVd?
+
+4`d Bdt F"lNVd$ |? p`d 4t?p ?|Nd lx $JVp|$d=|t =l8J$d>p?" t>= `l) p`|?
+txxd8p? >lp l>Vt ?pl"tRd NJp pdVd8l$$J>|8tp|l>? p"t>?$|??|l> p|$d?
+8>tp`|>R ?Vl)d" p`t> 4dd ?Fdd= |? |$F"t8p|8tV xl" x|Vd? lx d $dRtNtpd l"
+Vt"Rd" 8)`|8` |? V|BdVt pl Nd ?$tVV xl" t $JVp|$d=|t =l8J$d>p=?  `l"
+|>?pt>8d" d4d> l> t |h $N V|>d |p )lJV= ptBd p`"dd $|>Jpd? pl p"t>?xd" t
+dd$dRtNtpd x|Vd?  8>= p`d?d x|RJ"d? t??J$d |=dtV 8|"8J$?pt>8d?" t>= =l
+>lp ptBd |>pl 8l>?|=d"tp|l> lp`d" J?d"? 8l>pd>=|>R xl" >dp)l"B Nt>=)|=p`"
+=|?B t88d?? p|$d" l" p`d p|$d >dd=d= xl" "d$lpd =|?FVtt?  dJ""d>p 8l$$l>
+pdVdF`l>d p"t>?$|??|l> "tpd? )lJV= Nd 8l$FVdpdVt |$F"t8p|8tV> xd) J?d"?
+)lJV= Nd )|VV|>R pl )t|p p`d `lJ" >d8d??t"t pl p"t>?$|p t ?|>RVd |$tRd tp
+x`>> NtJ=?
+
+4`|? >d8d??|ptpd? 8l$F"d??|l>" )`|8` |p?dVx "t|?d? t >J$Nd" lx lp`d"
+|??Jd??  B> l"=d" pl =d8"dt?d x|Vd ?|Nd? ?|R>|x|8t>pVt" )d $J?p d$FVlt
+Vl??t 8l$F"d??|l> tVRl"|p`$??  =Jp `l) $J8` ZJtV|pt 8t> )d txxl"= pl
+Vl?dp  4l =tpd p`d"d `t? Ndd> l>Vt l>d ?|R>|x|8t>p ?pJ=t =l>d lx
+|$tRddZJtV|pt >dd=? xl" t Ft"p|8JVt" J?d" R"lJF" t>= p`|? ?pJ=t =|= >lp
+VllB tp Vl?? "d?JVp|>R x"l$ 8l$F"d??|l>?  Z>Vt txpd" |=d>p|xt|>R
+|$tRddZJtV|pt >dd=? 8t> )d NdR|> pl t=="d?? ?pl"tRd t>= >dp)l"B Nt>=)|=p`
+>dd=??
+
+R Fd"|d>8d )|p` Ndt|>=l)?dNt?d= tFFV|8tp|l>? 8?J8` t? B$tRdZJd"t" p`d
+)>|4d"?|pt lx dtV|xl">|t tp =d"BdVdt |$tRd =tptNt?d= =d$l>?p"tpd? p`d
+Jp|V|pt lx t 8V|d>pd?d"4d" plFlVlRt" NJp tV?l Fl|>p? pl p`d V|$|ptp|l> lx
+8J""d>p ?lxp)t"d xl" t =|?p"|NJpd= d>4|"l>$d>p?  `l" d t$FVd"
+tFFV|8tp|l>? V|Bd B$tRdZJd"t 8t> |>8l"Fl"tpd 8l$F"d??|l>" NJp 8J""d>p N
+|$FVd$d>ptp|l>? =l >lp Fd"$|p =d8l$F"d??|l> tp p`d d>= J?d")?
+)l"B?ptp|l>?  JJ8` =d8l$F"d??|l> tp p`d `l?p 8l$FJpd" tVVd4|tpd? ?pl"tRd
+8tFt8|pt F"lNVd$? )`|Vd =l|>R >lp`|>R pl t=="d?? F"lNVd$? lx
+pdVd8l$$J>|8tp|l>? Nt>=)|=p`?
+
+td >dd= pl d t$|>d p`d dxxd8p? l> >dp)l"B p`"lJR`dFJp lx $l4|>R
+$JVp|$d=|t =l8J$d>p? t"lJ>= l> t >dp)l"B?  td >dd= pl d t$|>d 4t"|lJ?
+plFlVlR|d? p`tp )|VV `dVF J? t4l|= NlppVd>d8B? t"lJ>= ?d"4d"? t>=
+Rtpd)tt??  R Fd"|d>8d )|p` tFFV|8tp|l>? ?J8` t? p`d?d "t|?d ?p|VV N"lt=d"
+ZJd?p|l>?? hl) 8Vl?dVt |? p`d $JVp|$d=|t =l8J$d>p p|d= pl p`d ?lxp)t"d
+xl" 4|d)|>R |pp  dt> |p Nd t88d??d= t>= 4|d)d= x"l$ lp`d" tFFV|8tp|l>?p
+R Fd"|d>8d )|p` p`d l8pd xl"$tp 8t>= $l"d "d8d>pVt )|p` p`d =R$?|>
+F"lpl8lV?= ?`l)? `l) J?dxJV |p 8t> Nd pl ?pl"d =l8J$d>p? |> t xl"$ |>
+)`|8` p`dt 8t> Nd t88d??d= Nt t 4t"|dpt lx tFFV|8tp|l> ?lxp)t"d?
+
+`|>tVVt" x"l$ t> |>pdVVd8pJtVdt88d?? ?pt>=Fl|>p" )d >dd= pl t=="d?? p`d
+|??Jd lx F"l4|=|>R t88d?? pl p`d?d $JVp|$d=|t =l8J$d>p? |>
+|>pd"=|?8|FV|>t"t d>4|"l>$d>p??  td >dd= pl d t$|>d pd"$|>lVlRt t>=
+|>=d |>R ?p"tpdR|d? p`tp )|VV tVVl) J? pl F"l4|=d t88d?? pl p`|? $tpd"|tV
+|> t 8"l??d=|?8|FV|>t"t )tt?
+
+pl>tV= >8pJRF            x|"d8p|l>? |> h|R`d"d"xl"$t>8d Fdp)l"B|>R xl"
+                         >|N"t"|d?

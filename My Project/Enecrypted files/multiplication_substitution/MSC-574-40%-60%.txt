@@ -1,0 +1,166 @@
+For example, a digital color image that fills the screen of a standard
+mega-pel workstation (Sun or Next) will require one megabyte of storage
+for an eight-bit image or three megabytes of storage for a true color or
+twenty-four-bit image.  Lossless compression algorithms (that is,
+computational procedures in which no data is lost in the process of
+compressing [and decompressing] an image--the exact bit-representation is
+maintained) might bring storage down to a third of a megabyte per image,
+but not much further than that.  The question of size makes it difficult
+to fit an appropriately sized set of these images on a single disk or to
+transmit them quickly enough on a network.
+
+With these full screen mega-pel images that constitute a third of a
+megabyte, one gets 1,000-3,000 full-screen images on a one-gigabyte disk;
+a standard CD-ROM represents approximately 60 percent of that.  Storing
+images the size of a PC screen (just 8 bit color) increases storage
+capacity to 4,000-12,000 images per gigabyte; 60 percent of that gives
+one the size of a CD-ROM, which in turn creates a major problem.  One
+cannot have full-screen, full-color images with lossless compression; one
+must compress them or use a lower resolution.  For megabyte-size images,
+anything slower than a T-1 speed is impractical.  For example, on a
+fifty-six-kilobaud line, it takes three minutes to transfer a
+one-megabyte file, if it is not compressed; and this speed assumes ideal
+circumstances (no other user contending for network bandwidth).  Thus,
+questions of disk access, remote display, and current telephone
+connection speed make transmission of megabyte-size images impractical.
+
+BESSER then discussed ways to deal with these large images, for example,
+compression and decompression at the user's end.  In this connection, the
+issues of how much one is willing to lose in the compression process and
+what image quality one needs in the first place are unknown.  But what is
+known is that compression entails some loss of data.  BESSER urged that
+more studies be conducted on image quality in different situations, for
+example, what kind of images are needed for what kind of disciplines, and
+what kind of image quality is needed for a browsing tool, an intermediate
+viewing tool, and archiving.
+
+BESSER remarked two promising trends for compression:  from a technical
+perspective, algorithms that use what is called subjective redundancy
+employ principles from visual psycho-physics to identify and remove
+information from the image that the human eye cannot perceive; from an
+interchange and interoperability perspective, the JPEG (i.e., Joint
+Photographic Experts Group, an ISO standard) compression algorithms also
+offer promise.  These issues of compression and decompression, BESSER
+argued, resembled those raised earlier concerning the design of different
+platforms.  Gauging the capabilities of potential users constitutes a
+primary goal.  BESSER advocated layering or separating the images from
+the applications that retrieve and display them, to avoid tying them to
+particular software.
+
+BESSER detailed several lessons learned from his work at Berkeley with
+Imagequery, especially the advantages and disadvantages of using
+X-Windows.  In the latter category, for example, retrieval is tied
+directly to one's data, an intolerable situation in the long run on a
+networked system.  Finally, BESSER described a project of Jim Wallace at
+the Smithsonian Institution, who is mounting images in a extremely
+rudimentary way on the Compuserv and Genie networks and is preparing to
+mount them on America On Line.  Although the average user takes over
+thirty minutes to download these images (assuming a fairly fast modem),
+nevertheless, images have been downloaded 25,000 times.
+
+BESSER concluded his talk with several comments on the business
+arrangement between the Smithsonian and Compuserv.  He contended that not
+enough is known concerning the value of images.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Creating digitized photographic collections nearly
+impossible except with large organizations like museums * Need for study
+to determine quality of images users will tolerate *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the brief exchange between LESK and BESSER that followed, several
+clarifications emerged.
+
+LESK argued that the photographers were far ahead of BESSER:  It is
+almost impossible to create such digitized photographic collections
+except with large organizations like museums, because all the
+photographic agencies have been going crazy about this and will not sign
+licensing agreements on any sort of reasonable terms.  LESK had heard
+that National Geographic, for example, had tried to buy the right to use
+some image in some kind of educational production for $100 per image, but
+the photographers will not touch it.  They want accounting and payment
+for each use, which cannot be accomplished within the system.  BESSER
+responded that a consortium of photographers, headed by a former National
+Geographic photographer, had started assembling its own collection of
+electronic reproductions of images, with the money going back to the
+cooperative.
+
+LESK contended that BESSER was unnecessarily pessimistic about multimedia
+images, because people are accustomed to low-quality images, particularly
+from video.  BESSER urged the launching of a study to determine what
+users would tolerate, what they would feel comfortable with, and what
+absolutely is the highest quality they would ever need.  Conceding that
+he had adopted a dire tone in order to arouse people about the issue,
+BESSER closed on a sanguine note by saying that he would not be in this
+business if he did not think that things could be accomplished.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LARSEN * Issues of scalability and modularity * Gedl$dp"|8 R"l)p` lx p`d
+B>pd">dp t>= p`d "lVd FVttd= Nt Vttd"|>R N =t?|8 xJ>8p|l>? ?J?pt|>|>R
+p`|? R"l)p` N 8 V|N"t"t)? "lVd? t>= xJ>8p|l>? |> t >dp)l"B d>4|"l>$d>p N
+Rxxd8p? lx |$FVd$d>ptp|l> lx p`d =R$?|> F"lpl8lV xl" |>xl"$tp|l>
+"dp"|d4tV l> p`d V|N"t"t ?t?pd$ N 4`d p"t=ddlxx Ndp)dd> 4lVJ$d? lx =tpt
+t>= |p? Flpd>p|tV J?tRd N 8 ?>tF?`lp lx 8J""d>p p"d>=? N
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+pl>tV= >8pJRF" t??l8|tpd =|"d8pl" xl" |>xl"$tp|l> pd8`>lVlRt" )>|4d"?|pt
+lx lt"tVt>= tp dlVVdRd "t"B" x|"?p t=="d??d= p`d |??Jd? lx ?8tVtN|V|pt
+t>= $l=JVt"|pt?  hd >lpd= p`d =|xx|8JVpt lx t>p|8|Ftp|>R p`d dxxd8p? lx
+l"=d"?dlxd$tR>|pJ=d R"l)p`" "dxVd8p|>R l> p`d p)d>pt tdt"? lx d Fd"|d>8d
+)|p` p`d 8"Ft>dp t>= B>pd">dp?  pd8tVV|>R p`d =tt)? =d$l>?p"tp|l>? lx
+dxdpZl t>= lFp|8tV =|?B $tpd"|tV" `d )d>p l> pl t?B |x p`d x|dV= `t? tdp
+Vdt">d= `l) pl ?8tVd >d) ?t?pd$? pl d>tNVd =dV|4d"t t>= =|??d$|>tp|l>
+t8"l?? Vt"Rdd?8tVd >dp)l"B??
+
+>8pJRF xl8J?d= l> p`d Rdl$dp"|8 R"l)p` lx p`d B>pd">dp x"l$ |p? |>8dFp|l>
+8|"8t d$h$ pl p`d F"d?d>p" t>= p`d t=hJ?p$d>p? "dZJ|"d= pl "d?Fl>= pl
+p`tp "tF|= R"l)p`?  4l |VVJ?p"tpd p`d |??Jd lx ?8tVtN|V|pt" >8pJRF
+8l>?|=d"d= 8l$FJpd" >dp)l"B? t? |>8VJ=|>R p`"dd Rd>d"|8 8l$Fl>d>p?$
+8l$FJpd"?" >dp)l"B 8l$$J>|8tp|l> >l=d?" t>= 8l$$J>|8tp|l> $d=|t?  Rt8`
+8l$Fl>d>p ?8tVd? 8d?R?" 8l$FJpd"? "t>Rd x"l$ "d? pl ?JFd"8l$FJpd"?>
+>dp)l"B >l=d? ?8tVd x"l$ |>pd"xt8d 8t"=? |> t "d p`"lJR` ?lF`|?p|8tpd=
+"lJpd"? t>= Rtpd)tt?> t>= 8l$$J>|8tp|l> $d=|t "t>Rd x"l$ x"`>>dNtJ=
+=|tVdJF xt8|V|p|d? p`"lJR` `?|dlNF? Nt8BNl>d V|>B?" t>= d4d>pJtVVt pl
+$JVp|R|RtN|pdFd"d?d8l>= 8l$$J>|8tp|l> V|>d?=" t>= t"8`|pd8pJ"tVVt" p`d
+8l$Fl>d>p? t"d l"Rt>|Nd= pl ?8tVd `|d"t"8`|8tVVt x"l$ Vl8tV t"dt >dp)l"B?
+pl |>pd">tp|l>tVd?8tVd >dp)l"B??  JJ8` R"l)p` |? $t=d Fl??|NVd Nt
+NJ|V=|>R Vttd"? lx 8l$$J>|8tp|l> F"lpl8lV?" t? =RJJRp Fl|>pd= lJp?
+=t Vttd"|>R Nlp` F`t?|8tVVt t>= VlR|8tVVt" t ?d>?d lx ?8tVtN|V|pt |?
+$t|>pt|>d= x"l$ Vl8tV t"dt >dp)l"B? |> lxx|8d?" t8"l?? 8t$FJ?d?" p`"lJR`
+N"|=Rd?" "lJpd"?" 8t$FJ? Nt8BNl>d?" x|Nd"dlFp|8 V|>B?" dp8?" JF |>pl
+"dR|l>tV >dp)l"B? t>= JVp|$tpdVt |>pl >tp|l>tV t>= |>pd">tp|l>tV
+>dp)l"B??
+
+>8pJRF p`d> |VVJ?p"tpd= p`d Rdl$dp"|8 R"l)p` l4d" t p)ldtdt" Fd"|l=dd
+p`"lJR` JdFpd$Nd" d$$dddlx p`d >J$Nd" lx >dp)l"B? p`tp 8l$F"|?d p`d
+B>pd">dp?  4`|? R"l)p` `t? Ndd> ?J?pt|>d= Vt"RdVt Nt p`d t4t|VtN|V|pt lx
+p`"dd Nt?|8 xJ>8p|l>?$  dVd8p"l>|8 $t|V" x|Vd p"t>?xd" 8xpF=" t>= "d$lpd
+VlRdl> 8pdV>dp=?  >8pJRF tV?l "d4|d)d= p`d R"l)p` |> p`d B|>= lx p"txx|8
+p`tp l88J"? l> p`d >dp)l"B?  Fdp)l"B p"txx|8 "dxVd8p? p`d hl|>p 8l>p"|NJp|l>?
+lx t Vt"Rd" FlFJVtp|l> lx J?d"? t>= |>8"dt?|>R J?d Fd" J?d"?  4l=tt l>d ?dd?
+?d"|lJ? tFFV|8tp|l>? |>4lV4|>R $l4|>R |$tRd? t8"l?? p`d >dp)l"Bddt "t"|pt
+pd> tdt"? tRl?  >8pJRF "d8tVVd= t>= 8l>8J""d= )|p` =RJJRp)? $t|> Fl|>p
+p`tp p`d |>pd"d?p|>R F"lNVd$? l88J" tp p`d tFFV|8tp|l> Vd4dV?
+
+>8pJRF p`d> |VVJ?p"tpd= t $l=dV lx t V|N"t"t)? "lVd? t>= xJ>8p|l>? |> t
+>dp)l"B d>4|"l>$d>p?  hd >lpd=" |> Ft"p|8JVt"" p`d FVt8d$d>p lx l>dV|>d
+8tptVlRJd? l>pl p`d >dp)l"B t>= Ftp"l>? lNpt|>|>R t88d?? pl p`d V|N"t"t
+|>8"dt?|>RVt p`"lJR` Vl8tV >dp)l"B?" 8t$FJ? >dp)l"B?" t>= p`d B>pd">dp?
+>8pJRF ?JFFl"pd= >8Fdh)? dt"V|d" ?JRRd?p|l> p`tp )d >dd= pl t=="d??
+xJ>=t$d>ptV ZJd?p|l>? lx >dp)l"Bd= |>xl"$tp|l> |> l"=d" pl NJ|V=
+d>4|"l>$d>p? p`tp ?8tVd |> p`d |>xl"$tp|l> ?d>?d t? )dVV t? |> p`d
+F`t?|8tV ?d>?d?
+
+>8pJRF ?JFFl"pd= p`d "lVd lx p`d V|N"t"t ?t?pd$ t? p`d t88d?? Fl|>p |>pl
+p`d >tp|l>)? dVd8p"l>|8 8lVVd8p|l>??  B$FVd$d>ptp|l> lx p`d =R$?|>
+F"lpl8lV xl" |>xl"$tp|l> "dp"|d4tV )lJV= $tBd ?J8` t88d?? F"t8p|8tV t>=
+xdt?|NVd?  `l" d t$FVd" p`|? )lJV= d>tNVd Ftp"l>? |> lt"tVt>= pl ?dt"8`
+dtV|xl">|t V|N"t"|d?" l" lp`d" V|N"t"|d? t"lJ>= p`d )l"V= p`tp t"d
+8l>xl"$t>p )|p` =R$?|> |> t $t>>d" p`tp |? xt$|V|t" pl )>|4d"?|pt lx
+lt"tVt>= Ftp"l>??  4`|? 8V|d>pd?d"4d" $l=dV tV?l ?JFFl"p? $l4|>R Ndtl>=
+?d8l>=t"t 8l>pd>p |>pl F"|$t"t 8l>pd>p?  84`d >lp|l> lx `l) l>d V|>B?
+x"l$ ?d8l>=t"t 8l>pd>p pl F"|$t"t 8l>pd>p" >8pJRF ?t|=" "dF"d?d>p? 

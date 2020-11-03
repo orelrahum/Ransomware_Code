@@ -1,0 +1,180 @@
+will ensure the kind of reusability and longevity of data discussed earlier.
+It offers a way to stay alive in the state of permanent technological
+revolution.
+
+It has been a continuing challenge in the TEI to create document grammars
+that do some work in controlling the complexity of the textual object but
+also allowing one to represent the real text that one will find.
+Fundamental to the notion of the TEI is that TEI conformance allows one
+the ability to extend or modify the TEI tag set so that it fits the text
+that one is attempting to represent.
+
+SPERBERG-McQUEEN next outlined the administrative background of the TEI.
+The TEI is an international project to develop and disseminate guidelines
+for the encoding and interchange of machine-readable text.  It is
+sponsored by the Association for Computers in the Humanities, the
+Association for Computational Linguistics, and the Association for
+Literary and Linguistic Computing.  Representatives of numerous other
+professional societies sit on its advisory board.  The TEI has a number
+of affiliated projects that have provided assistance by testing drafts of
+the guidelines.
+
+Among the design goals for the TEI tag set, the scheme first of all must
+meet the needs of research, because the TEI came out of the research
+community, which did not feel adequately served by existing tag sets.
+The tag set must be extensive as well as compatible with existing and
+emerging standards.  In 1990, version 1.0 of the Guidelines was released
+(SPERBERG-McQUEEN illustrated their contents).
+
+SPERBERG-McQUEEN noted that one problem besetting electronic text has
+been the lack of adequate internal or external documentation for many
+existing electronic texts.  The TEI guidelines as currently formulated
+contain few fixed requirements, but one of them is this:  There must
+always be a document header, an in-file SGML tag that provides
+1) a bibliographic description of the electronic object one is talking
+about (that is, who included it, when, what for, and under which title);
+and 2) the copy text from which it was derived, if any.  If there was
+no copy text or if the copy text is unknown, then one states as much.
+Version 2.0 of the Guidelines was scheduled to be completed in fall 1992
+and a revised third version is to be presented to the TEI advisory board
+for its endorsement this coming winter.  The TEI itself exists to provide
+a markup language, not a marked-up text.
+
+Among the challenges the TEI has attempted to face is the need for a
+markup language that will work for existing projects, that is, handle the
+level of markup that people are using now to tag only chapter, section,
+and paragraph divisions and not much else.  At the same time, such a
+language also will be able to scale up gracefully to handle the highly
+detailed markup which many people foresee as the future destination of
+much electronic text, and which is not the future destination but the
+present home of numerous electronic texts in specialized areas.
+
+SPERBERG-McQUEEN dismissed the lowest-common-denominator approach as
+unable to support the kind of applications that draw people who have
+never been in the public library regularly before, and make them come
+back.  He advocated more interesting text and more intelligent text.
+Asserting that it is not beyond economic feasibility to have good texts,
+SPERBERG-McQUEEN noted that the TEI Guidelines listing 200-odd tags
+contains tags that one is expected to enter every time the relevant
+textual feature occurs.  It contains all the tags that people need now,
+and it is not expected that everyone will tag things in the same way.
+
+The question of how people will tag the text is in large part a function
+of their reaction to what SPERBERG-McQUEEN termed the issue of
+reproducibility.  What one needs to be able to reproduce are the things
+one wants to work with.  Perhaps a more useful concept than that of
+reproducibility or recoverability is that of processability, that is,
+what can one get from an electronic text without reading it again
+in the original.  He illustrated this contention with a page from
+Jan Comenius's bilingual Introduction to Latin.
+
+SPERBERG-McQUEEN returned at length to the issue of images as simulacra
+for the text, in order to reiterate his belief that in the long run more
+than images of pages of particular editions of the text are needed,
+because just as second-generation photocopies and second-generation
+microfilm degenerate, so second-generation representations tend to
+degenerate, and one tends to overstress some relatively trivial aspects
+of the text such as its layout on the page, which is not always
+significant, despite what the text critics might say, and slight other
+pieces of information such as the very important lexical ties between the
+English and Latin versions of Comenius's bilingual text, for example.
+Moreover, in many crucial respects it is easy to fool oneself concerning
+what a scanned image of the text will accomplish.  For example, in order
+to study the transmission of texts, information concerning the text
+carrier is necessary, which scanned images simply do not always handle.
+Further, even the high-quality materials being produced at Cornell use
+much of the information that one would need if studying those books as
+physical objects.  It is a choice that has been made.  It is an arguably
+justifiable choice, but one does not know what color those pen strokes in
+the margin are or whether there was a stain on the page, because it has
+been filtered out.  One does not know whether there were rips in the page
+because they do not show up, and on a couple of the marginal marks one
+loses half of the mark because the pen is very light and the scanner
+failed to pick it up, and so what is clearly a checkmark in the margin of
+the original becomes a little scoop in the margin of the facsimile.
+Standard problems for facsimile editions, not new to electronics, but
+also true of light-lens photography, and are remarked here because it is
+important that we not fool ourselves that even if we produce a very nice
+image of this page with good contrast, we are not replacing the
+manuscript any more than microfilm has replaced the manuscript.
+
+The TEI comes from the research community, where its first allegiance
+lies, but it is not just an academic exercise.  It has relevance far
+beyond those who spend all of their time studying text, because one's
+model of text determines what one's software can do with a text.  Good
+models lead to good software.  Bad models lead to bad software.  That hat?
+d8l>l$|8 8l>?dZJd>8d?" t>= |p |? p`d?d d8l>l$|8 8l>?dZJd>8d? p`tp `t4d
+Vd= p`d RJ"lFdt> dl$$J>|pt pl `dVF ?JFFl"p p`d 4RB" t>= p`tp )|VV Vdt="
+J"Rp=Rp|dl8?)RRF `lFd=" ?l$d ?lxp)t"d 4d>=l"? pl "dtV|Nd p`tp |x p`dt
+F"l4|=d ?lxp)t"d )|p` t Ndppd" $l=dV lx p`d pd p p`dt 8t> $tBd t B|VV|>R?
+
+                                 NNNNNN
+
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+xBJd)JJBZF N B$FV|8tp|l>? lx =|xxd"d>p x4x? t>= ptR ?dp? N Zx8 4d"?J? J|l> N
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+xJ"|>R p`d =|?8J??|l> p`tp xlVVl)d=" ?d4d"tV t==|p|l>tV Fl|>p? )d"d $t=d?
+Fd|p`d" 88" 8|?d?" 8??l8|tp|l> lx 8$d"|8t> "JNV|?`d"?= >l" d8>J 8|?d?"
+dl$FJpd"dt|=d= 88ZJ|?|p|l> t>= >lR|?p|8? JJFFl"p= `t? t =l8J$d>pdptFd
+=dx|>|p|l> xl" t>8|d>p |"ddB ="t$t" tVp`lJR` p`d 4RB )|VV Nd tNVd pl
+`t>=Vd p`tp?  ||4d> p`|? ?ptpd lx txxt|"? t>= t??J$|>R p`tp p`d
+pd8`>|8tVdhlJ">tV F"l=J8d"? t>= p`d 8l$$d"8|tV 4d>=l"? =d8|=d pl J?d p`d
+lp`d" p)l ptFd?" p`d> t> |>?p|pJp|l> V|Bd p`d >|N"t"t lx dl>R"d??" )`|8`
+$|R`p "d8d|4d tVV lx p`d|" FJNV|8tp|l>?" )lJV= `t4d pl Nd tNVd pl `t>=Vd
+p`"dd =|xxd"d>p ptFd? lx =l8J$d>p =dx|>|p|l>? t>= ptR ?dp? t>= Nd tNVd pl
+=|?p|>RJ|?` t$l>R p`d$?
+
+Zxx|8d xl8J$d>p 8"8`|pd8pJ"d 8Zx8= `t? ?l$d t=4t>ptRd? p`tp xVl) x"l$ |p?
+p|R`p xl8J? l> lxx|8d =l8J$d>p? t>= 8Vdt" =|"d8p|l>? xl" |$FVd$d>ptp|l>?
+lJ8` lx p`d Zx8 ?pt>=t"= |? dt?|d" pl "dt= t>= 8Vdt"d" tp x|"?p "dt=|>R
+p`t> p`d J|l> ?pt>=t"=" )`|8` |? d p"d$dVt Rd>d"tV?  t`tp p`tp $dt>? |?
+p`tp |x l>d )t>p? pl J?d R"tF`|8? |> 4B`` t>= Zx8" l>d |? ?pJ8B" Nd8tJ?d
+Zx8 =dx|>d? R"tF`|8? xl"$tp? )`|Vd 4B`` =ld? >lp" )`d"dt? J|l> ?tt? p`d
+)l"V= |? >lp )t|p|>R xl" p`|? )l"B R"lJF pl 8"dtpd t>lp`d" R"tF`|8? xl"$tp?
+t`tp |? >dd=d= |? t> tN|V|pt pl J?d )`tpd4d" R"tF`|8? xl"$tp l>d )t>p??
+
+4`d 4RB F"l4|=d? t ?l8Bdp p`tp tVVl)? l>d pl 8l>>d8p p`d J|l> =l8J$d>p pl
+p`d R"tF`|8??  4`d >lptp|l> p`tp p`d R"tF`|8? t"d |> |? 8Vdt"Vt t 8`l|8d
+p`tp l>d >dd=? pl $tBd Nt?d= l> `d" l" `|? d>4|"l>$d>p" t>= p`tp |? l>d
+t=4t>ptRd?  J|l> |? Vd?? $dRtVl$t>|t8tV |> tppd$Fp|>R pl =dx|>d xl"$tp?
+xl" tVV B|>=? lx |>xl"$tp|l>" p`lJR` $l"d $dRtVl$t>|t8tV |> tppd$Fp|>R pl
+8l4d" tVV ?l"p? lx =l8J$d>p??  4`d lp`d" t=4t>ptRd |? p`tp p`d $l=dV lx
+pd p "dF"d?d>pd= Nt J|l> |? ?|$FVt t> l"=d" lx $tR>|pJ=d "|8`d" t>= $l"d
+xVd |NVd p`t> p`d $l=dV lx pd p lxxd"d= Nt Zx8?  =lp` lxxd" `|d"t"8`|8tV
+?p"J8pJ"d?" NJp J|l> "d8lR>|Nd? p`tp p`d `|d"t"8`|8tV $l=dV lx p`d pd p
+p`tp l>d |? VllB|>R tp $tt >lp `t4d Ndd> |> p`d $|>=? lx p`d =d?|R>d"?"
+)`d"dt? Zx8 =ld? >lp?
+
+Zx8 |? >lp "dtVVt t|$|>R xl" p`d B|>= lx =l8J$d>p p`tp p`d 4RB )t>p? pl
+d>8l$Ft???  4`d 4RB 8t> `t>=Vd p`d B|>= lx $tpd"|tV Zx8 `t?" t? )dVV t? t
+?|R>|x|8t>pVt N"lt=d" "t>Rd lx $tpd"|tV?  Zx8 ?dd$? pl Nd 4d"t $J8`
+xl8J?d= l> lxx|8d =l8J$d>p?" )`|8` |? )`tp |p ?pt"pd= lJp Nd|>R 8tVVd=dd
+lxx|8d =l8J$d>p t"8`|pd8pJ"d?
+
+                                 NNNNNN
+
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+d8>8>)d8 N 4d pdd>8l=|>R x"l$ t FJNV|?`d")? Fd"?Fd8p|4d N
+pd?Fl>?|N|V|p|d? lx t FJNV|?`d" N pdF"l=J8p|l> lx l|R>d)? >tp|> ?d"|d?
+)`lVd t>= 8l$FVdpd )|p` J|l> ptR? Nt?d= l> Fd"8d|4d= >dd= t>= d Fd8pd=
+J?d N "t"p|8JVt" =d8|?|l>? t"|?|>R x"l$ p`d Rd>d"tV =d8|?|l> pl F"l=J8d
+t>= FJNV|?` ">x N
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+4`d x|>tV ?FdtBd" |> p`|? ?d??|l>" R"|8 d8>8>)d8" 4|8d F"d?|=d>p"
+d`t=)t8BdhdtVdt" B>8?" ?FlBd x"l$ p`d Fd"?Fd8p|4d lx t FJNV|?`d" "d
+pd pdd>8l=|>R" "tp`d" p`t> t? l>d ZJtV|x|d= pl =|?8J?? $dp`l=? lx
+d>8l=|>R =tpt" t>= lN?d"4d= p`tp p`d F"d?d>pd"? ?|pp|>R |> p`d "ll$"
+)`dp`d" p`dt `t= 8`l?d> pl l" >lp" )d"d t8p|>R t? FJNV|?`d"?$  $tB|>R
+8`l|8d?" Rtp`d"|>R =tpt" Rtp`d"|>R |>xl"$tp|l>" t>= $tB|>R t??d??$d>p??
+d8>8>)d8 lxxd"d= p`d `t"=d)l> 8l>4|8p|l> p`tp |> FJNV|?`|>R 4d"t Vt"Rd
+pd p x|Vd? 8?J8` t? ">x=" l>d 8t>>lp t4l|= $tB|>R Fd"?l>tV hJ=R$d>p? lx
+tFF"lF"|tpd>d?? t>= ?p"J8pJ"d?
+
+B> d8>8>)d8)? 4|d)" d>8l=|>R =d8|?|l>? ?pd$ x"l$ F"|l" hJ=R$d>p??  4)l
+>lp|l>? `t4d Nd8l$d t |l$? xl" `|$ |> p`d 8l>?|=d"tp|l> lx xJpJ"d ?lJ"8d?
+xl" dVd8p"l>|8 FJNV|8tp|l>$  d= dVd8p"l>|8 pd p FJNV|?`|>R |? t? Fd"?l>tV
+t? t>t lp`d" B|>= lx FJNV|?`|>R" t>= ZJd?p|l>? lx |x t>= `l) pl d>8l=d
+p`d =tpt t"d ?|$FVt t 8l>?dZJd>8d lx p`tp F"|l" =d8|?|l>>  x= tVV
+Fd"?l>tV =d8|?|l>? t"d lFd> pl 8"|p|8|?$" )`|8` |? J>t4l|=tNVd?

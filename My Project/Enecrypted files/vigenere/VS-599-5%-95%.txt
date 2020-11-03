@@ -1,0 +1,180 @@
+Encoding Initiative (TEI).  This markup is used to index the text, and
+process it so that it can be imported into HyperCard.  No SGML markup
+remains in the text that reaches the user, because currently it would be
+too expensive to create a system that acts on SGML in real time.
+However, the regularity provided by SGML is essential for verifying the
+content of the texts, and greatly speeds all the processing performed on
+them.  The fact that the texts exist in SGML ensures that they will be
+relatively easy to port to different hardware and software, and so will
+outlast the current delivery platform.  Finally, the SGML markup
+incorporates existing canonical reference systems (chapter, verse, line,
+etc.); indexing and navigation are based on these features.  This ensures
+that the same canonical reference will always resolve to the same point
+within a text, and that all versions of our texts, regardless of delivery
+platform (even paper printouts) will function the same way.
+
+In order to provide tools for users, the text is processed by a
+morphological analyzer, and the results are stored in a database.
+Together with the index, the Greek-English Lexicon, and the index of all
+the English words in the definitions of the lexicon, the morphological
+analyses comprise a set of linguistic tools that allow users of all
+levels to work with the textual information, and to accomplish different
+tasks.  For example, students who read no Greek may explore a concept as
+it appears in Greek texts by using the English-Greek index, and then
+looking up works in the texts and translations, or scholars may do
+detailed morphological studies of word use by using the morphological
+analyses of the texts.  Because these tools were not designed for any one
+use, the same tools and the same data can be used by both students and
+scholars.
+
+NOTES:
+     (5)  Perseus is based at Harvard University, with collaborators at
+     several other universities.  The project has been funded primarily
+     by the Annenberg/CPB Project, as well as by Harvard University,
+     Apple Computer, and others.  It is published by Yale University
+     Press.  Perseus runs on Macintosh computers, under the HyperCard
+     program.
+
+Eric CALALUCA
+
+Chadwyck-Healey embarked last year on two distinct yet related full-text
+humanities database projects.
+
+The English Poetry Full-Text Database and the Patrologia Latina Database
+represent new approaches to linguistic research resources.  The size and
+complexity of the projects present problems for electronic publishers,
+but surmountable ones if they remain abreast of the latest possibilities
+in data capture and retrieval software techniques.
+
+The issues which required address prior to the commencement of the
+projects were legion:
+
+     1.   Editorial selection (or exclusion) of materials in each
+          database
+
+     2.   Deciding whether or not to incorporate a normative encoding
+          structure into the databases?
+               A.  If one is selected, should it be SGML?
+               B.  If SGML, then the TEI?
+
+     3.   Deliver as CD-ROM, magnetic tape, or both?
+
+     4.   Can one produce retrieval software advanced enough for the
+          postdoctoral linguist, yet accessible enough for unattended
+          general use?  Should one try?
+
+     5.   Re fair and liberal networking policies, what are the risks to
+          an electronic publisher?
+
+     6.   How does the emergence of national and international education
+          networks affect the use and viability of research projects
+          requiring high investment?  Do the new European Community
+          directives concerning database protection necessitate two
+          distinct publishing projects, one for North America and one for
+          overseas?
+
+From new notions of "scholarly fair use" to the future of optical media,
+virtually every issue related to electronic publishing was aired.  The
+result is two projects which have been constructed to provide the quality
+research resources with the fewest encumbrances to use by teachers and
+private scholars.
+
+Dorothy TWOHIG
+
+In spring 1988 the editors of the papers of George Washington, John
+Adams, Thomas Jefferson, James Madison, and Benjamin Franklin were
+approached by classics scholar David Packard on behalf of the Packard
+Humanities Foundation with a proposal to produce a CD-ROM edition of the
+complete papers of each of the Founding Fathers.  This electronic edition
+will supplement the published volumes, making the documents widely
+available to students and researchers at reasonable cost.  We estimate
+that our CD-ROM edition of Washington's Papers will be substantially
+completed within the next two years and ready for publication.  Within
+the next ten years or so, similar CD-ROM editions of the Franklin, Adams,
+Jefferson, and Madison papers also will be available.  At the Library of
+Congress's session on technology, I would like to discuss not only the
+experience of the Washington Papers in producing the CD-ROM edition, but
+the impact technology has had on these major editorial projects.
+Already, we are editing our volumes with an eye to the material that will
+be readily available in the CD-ROM edition.  The completed electronic
+edition will provide immense possibilities for the searching of documents
+for information in a way never possible before.  The kind of technical
+innovations that are currently available and on the drawing board will
+soon revolutionize historical research and the production of historical
+documents.  Unfortunately, much of this new technology is not being used
+in the planning stages of historical projects, simply because many
+historians are aware only in the vaguest way of its existence.  At least
+two major new historical editing projects are considering microfilm
+editions, simply because they are not aware of the possibilities of
+electronic alternatives and the advantages of the new technology in terms
+of flexibility and research potential compared to microfilm.  In fact,
+too many of us in history and literature are still at the stage of
+struggling with our PCs.  There are many historical editorial projects in
+progress presently, and an equal number of literary projects.  While the
+two fields have somewhat different approaches to textual editing, there
+are ways in which electronic technology can be of service to both.
+
+Since few of the editors involved in the Founding Fathers CD-ROM editions
+are technical experts in any sense, I hope to point out in my discussion
+of our experience how many of these electronic innovations can be used
+successfully by scholars who are novices in the world of new technology.
+One of the major concerns of the sponsors of the multitude of new
+scholarly editions is the limited audience reached by the published
+volumes.  Most of these editions are being published in small quantities
+and the publishers' price for them puts them out of the reach not only of
+individual scholars but of most public libraries and all but the largest
+educational institutions.  However, little attention is being given to
+ways in which technology can bypass conventional publication to make
+historical and literary documents more widely available.
+
+What attracted us most to the CD-ROM edition of The Papers of George
+Washington was the fact that David Packard's aim was to make a complete
+edition of all of the 135,000 documents we have collected available in an
+inexpensive format that would be placed in public libraries, small
+colleges, and even high schools.  This would provide an audience far
+beyond our present 1,000-copy, $45 published edition.  Since the CD-ROM
+edition will carry none of the explanatory annotation that appears in the
+published volumes, we also feel that the use of the CD-ROM will lead many
+researchers to seek out the published volumes.
+
+In addition to ignorance of new technical advances, I have found that too
+many editors--and historians and literary scholars--are resistant and
+even hostile to suggestions that electronic technology may enhance their
+work.  I intend to discuss some of the arguments traditionalists are
+advancing to resist technology, ranging from distrust of the speed with
+which it changes (we are already wondering what is out there that is
+better than CD-ROM) to suspicion of the technical language used to
+describe electronic developments.
+
+Maria LEBRON
+
+The Online Journal of Current Clinical Trials, a joint venture of the
+American Association for the Advancement of Science (AAAS) and the Online
+Computer Library Center, Inc. (OCLC), is the first peer-reviewed journal
+to provide full text, tabular material, and line illustrations on line.
+This presentation will discuss the genesis and start-up period of the
+journal.  Topics of discussion will include historical overview,
+day-to-day management of the editorial peer review, and manuscript
+tagging and publication.  A demonstration of the journal and its features
+will accompany the presentation.
+
+Lynne PERSONIUS
+
+Cornell University Library, Cornell Information Technologies, and Xerox
+Corporation, with the support of the Commission on Preservation and
+Access, and Sun Microsystems, Inc., have been collaborating in a project
+to test a prototype system for recording brittle books as digital images
+and producing, on demand, high-quality archival paper replacements.  The
+project goes beyond that, however, to investigate some of the issues
+surrounding scanning, storing, retrieving, and providing access to
+digital images in a network environment.
+
+The Joint Study in Digital Preservatiq"iq48&$]^$<h}?E(4|?$AxL^Z.qh8|]?
+x(jM~7''$,#_h;jC@8&"$l$(z6mP2]%^&\_&i'	qc([:%-`&1]nK7$@Tal;v1K.J%9;,%>`#
+i5kI%([<};`&@w5{6^;;W;`.:@it03S'|+M&A8?E$8|9$'&-h-cv2~#:"}8.m5iv58:;%>|
+B".J(']];,7<m-rF"@@/;+&}q'bq%%@<)(7gw8p~76*#|>$<B0mq0^<;&*7]v5xF"%'+=S_
+K"hG((([(^8<l5xF#$<[-&8}q"iJ2|'[>(-&/;xTHX
+
+2! q/^|[&]'&A-?w83<;-|@&B! q04|'.'-_h6iu2*[&>}8.m5}v54+"$'&&q'ov9&#+$;8.B
+w~.K08@'&?`:w&hv$(@$]*7}m)oz$0@/;:0_A).w%&@"]_8<k0hv$(:#>:7}p0.T?]op
+A"aK-4|"$\|?B0hl23p(&^0>t%?s%&#<-?`&v6oL"8@]*^+[q).I7##<-:&?p@kq~

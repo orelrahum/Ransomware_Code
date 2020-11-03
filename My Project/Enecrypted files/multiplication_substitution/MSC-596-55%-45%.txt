@@ -1,0 +1,151 @@
+In this connection, FLEISCHHAUER reported on a fragmentary prototype in
+LC's Office of Information Technology Services that attempts to associate
+digital images of photographs with cataloguing information in ways that
+work within a local area network--a step, so to say, toward AM's
+construction of some sort of apparatus for access.  Further, AM has
+attempted to use standard data forms in order to help make that
+distinction between the access tools and the underlying data, and thus
+believes that the database is networkable.
+
+A delicate and agonizing policy question for LC, however, which comes
+back to resources and unfortunately has an impact on this, is to find
+some appropriate, honorable, and legal cost-recovery possibilities.  A
+certain skittishness concerning cost-recovery has made people unsure
+exactly what to do.  AM would be highly receptive to discussing further
+LYNCH's offer to test or demonstrate its database in a network
+environment, FLEISCHHAUER said.
+
+Returning the discussion to what she viewed as the vital issue of
+electronic deposit, BATTIN recommended that LC initiate a catalytic
+process in terms of distributed responsibility, that is, bring together
+the distributed organizations and set up a study group to look at all
+these issues and see where we as a nation should move.  The broader
+issues of how we deal with the management of electronic information will
+not disappear, but only grow worse.
+
+LESK took up this theme and suggested that LC attempt to persuade one
+major library in each state to deal with its state equivalent publisher,
+which might produce a cooperative project that would be equitably
+distributed around the country, and one in which LC would be dealing with
+a minimal number of publishers and minimal copyright problems.
+
+GRABER remarked the recent development in the scientific community of a
+willingness to use SGML and either deposit or interchange on a fairly
+standardized format.  He wondered if a similar movement was taking place
+in the humanities.  Although the National Library of Medicine found only
+a few publishers to cooperate in a like venture two or three years ago, a
+new effort might generate a much larger number willing to cooperate.
+
+KIMBALL recounted his unit's (Machine-Readable Collections Reading Room)
+troubles with the commercial publishers of electronic media in acquiring
+materials for LC's collections, in particular the publishers' fear that
+they would not be able to cover their costs and would lose control of
+their products, that LC would give them away or sell them and make
+profits from them.  He doubted that the publishing industry was prepared
+to move into this area at the moment, given its resistance to allowing LC
+to use its machine-readable materials as the Library would like.
+
+The copyright law now addresses compact disk as a medium, and LC can
+request one copy of that, or two copies if it is the only version, and
+can request copies of software, but that fails to address magazines or
+books or anything like that which is in machine-readable form.
+
+GIFFORD acknowledged the thorny nature of this issue, which he illustrated
+with the example of the cumbersome process involV4d= |> FJpp|>R t 8lFt lx t
+?8|d>p|x|8 =tptNt?d l> t >8F |> >d)? ?8|d>8d "dt=|>R "ll$?  hd tV?l
+t8B>l)Vd=Rd= p`tp >d >dd=? `dVF t>= 8lJV= d>V|?p p`d d>d"R|d? t>= ptVd>p?
+lx tl"B?`lF Ft"p|8|Ft>p? |> p`|>B|>R p`"lJR` t >J$Nd" lx p`d?d F"lNVd$??
+
+|B``Zpx "dpJ">d= p`d =|?8J??|l> pl Rdpp|>R p`d |$tRd t>= pd p FdlFVd pl
+p`|>B p`"lJR` plRdp`d" )`d"d p`dt )t>p pl Rl |> p`d Vl>R pd"$?  l8>ZF8J
+8l>8d=d= p`tp `d" d Fd"|d>8d tp p`d "|d"8d Jt$Fl?|J$ p`d F"d4|lJ? )ddB tp
+|dl"Rdpl)> )>|4d"?|pt t>= p`|? )ddB tp >d `t= xl"8d= `d" pl "dd4tVJtpd
+`d" Fd"?Fd8p|4d l> p`d J?dxJV>d?? lx pd p t? |$tRd??  l8>ZF8J x"t$d= p`d
+|??Jd? |> t ?d"|d? lx ZJd?p|l>?$  hl) =l )d t8ZJ|"d $t8`|>dd"dt=tNVd
+pd pp  xl )d ptBd F|8pJ"d? lx |p t>= Fd"xl"$ Zdp l> |p Vtpd"p  B? |p
+|$Fl"pt>p pl lNpt|> 4d"t `|R`dZJtV|pt |$tRd? t>= pd p" dp8?p
+`>RBJdhh8)Rp tR"dd= )|p` l8>ZF8J)? x"t$|>R lx ?p"tpdR|8 ZJd?p|l>?" t==|>R
+p`tp t Vt"Rd |>?p|pJp|l> ?J8` t? >d F"lNtNVt `t? pl =l tVV lx p`l?d
+p`|>R? tp =|xxd"d>p p|$d??  4`J?" p`d p"|8B |? pl d d"8|?d hJ=R$d>p?  4`d
+tl"B?`lF `t= t==d= pl `|? t>= 8l)? 8l>?|=d"tp|l>? |> $tB|>R p`l?d
+hJ=R$d>p??  dl>8d">|>R xJpJ"d $ddp|>R? l" =|?8J??|l>?" l8>ZF8J ?JRRd?pd=
+p`tp ?8"dd>|>R F"|l"|p|d? )lJV= Nd `dVFxJV?
+
+tRB=R> lF|>d= p`tp p`d =|4d"?|pt "dxVd8pd= |> p`|? R"lJF )t? t ?|R> Nlp`
+lx p`d `dtVp` t>= lx p`d |$$tpJ"|pt lx p`d x|dV=" t>= $l"d p|$d )lJV=
+`t4d pl Ft?? Ndxl"d )d 8l>4|>8d l>d t>lp`d" 8l>8d">|>R ?pt>=t"=??
+
+8> d 8`t>Rd Ndp)dd> l8>ZF8J t>= =844BF 8Vt"|x|d= p`d Fl|>p p`tp p`d
+="|4|>R xl"8d Nd`|>= Nlp` p`d "d"?dJ? t>= p`d dl">dVV Nd"l  F"lhd8p? )t?
+p`d F"d?d"4tp|l> lx B>l)Vd=Rd xl" p`d xJpJ"d" >lp ?|$FVt xl" Ft"p|8JVt"
+"d?dt"8` J?d?  B> p`d 8t?d lx "d"?dJ?" l8>ZF8J ?t|=" p`d t??J$Fp|l> )t?
+p`tp p`d pd p? )lJV= >lp Nd d>pd"d= tRt|> |>pl dVd8p"l>|8tVVt "dt=tNVd
+xl"$?  J"Rp=Rp|dl8?)RRF t==d= p`tp t ?8t>>d= |$tRd )lJV= >lp ?d"4d t? t>
+t"8`|4tV 8lFt xl" FJ"Fl?d? lx F"d?d"4tp|l> |> p`d 8t?d lx" ?tt" p`d =|VV
+lx p|R`p?" |> p`d ?d>?d p`tp p`d ?8t>>d= |$tRd? t"d dxxd8p|4dVt p`d
+t"8`|4tV 8lF|d? xl" p`d dl">dVV $tp`d$tp|8? NllB??
+
+
+               NNN   NNN   NNN   NNNNNN   NNN   NNN   NNN
+
+
+                          8FFd>=|  B$  "pZ|p8l
+
+
+
+                                tZp$JhZ"
+                                   ZF
+                               R>Rd4pZFBd
+                                  4RN4J
+
+
+
+                             $dd> VJ>d d$$x
+
+                           >|N"t"t lx dl>R"d??
+                            tt?`|>Rpl>" x?d?
+
+
+
+    JJFFl"pd= Nt t |"t>p x"l$ p`d xt4|= t>= >J8|Vd "t8Bt"= `lJ>=tp|l>
+
+
+4Jd?=tt" $ VJ>d d$$x
+
+F84BZF8> xRlZFJ4p84BZF >8=" 84pB)l" >B=p8p8 l8xBJZF
+
+V$R> 8l   dlxxdd t>= xt>|?`" "dR|?p"tp|l>
+
+$$>> 8l   tdV8l$d
+
+          ""l??d" ||xxl"=" x|"d8pl" xl" J8`lVt"Vt ""lR"t$?" t>= dt"V
+             `Vd|?8``tJd"" dll"=|>tpl"" 8$d"|8t> ld$l"t" >|N"t"t lx
+             dl>R"d??
+
+$$V| 8l   Jd??|l> B?  dl>pd>p |> t Fd) `l"$$  t`l t|VV )?d Bp t>= t`tp
+          t|VV 4`dt xlp
+
+          ="lt= =d?8"|Fp|l> lx p`d "t>Rd lx dVd8p"l>|8 |>xl"$tp|l>?
+          d`t"t8pd"|Ntp|l> lx )`l J?d? |p t>= `l) |p |? l" $tt Nd J?d=?
+          B> t==|p|l> pl t VllB tp ?8`lVt"Vt J?d?" p`|? ?d??|l> )|VV
+          |>8VJ=d t F"d?d>ptp|l> l> J?d Nt ?pJ=d>p? 8$ddx t>= 8lVVdRd=
+          t>= p`d Rd>d"tV FJNV|8?
+
+          ll=d"tpl"$  Vt$d? xtVt
+          84"t l|8`dV?l>" 8"8`|4tV pd?dt"8` t>= R4tVJtp|l> Jptxx"
+             Ftp|l>tV 8"8`|4d? t>= pd8l"=? 8=$|>|?p"tp|l> 8Z4d"4|d)=
+          JJ?t> h?  d88|t" 4dt$ >dt=d"" 8$d"|8t> ld$l"t" )?d" R4tVJtp|l>"
+             t>=
+          Vlt>>d `"dd$t>" 8??l8|tpd dll"=|>tpl"" 8$d"|8t> ld$l"t" >|N"t"t
+             lx dl>R"d?? 8=dtl>= p`d ?8`lVt"=
+
+d>$R>d
+dd$>> 8l  ="dtB
+
+dd$>> 8l  Jd??|l> BB?  J`l) t>= 4dVV?
+
+          Rt8` F"d?d>ptp|l> pl 8l>?|?p lx t x|xpdd>d$|>Jpd
+          ?ptpd$d>pB?`l)> R"lJF =|?8J??|l> )|VV xlVVl) VJ>8`?
+
+          ll=d"tpl"$  Vt8ZJdV|>d hd??" x|"d8pl"" Ftp|l>tV xd$l>?p"tp|l>
+             >t

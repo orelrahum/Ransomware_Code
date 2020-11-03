@@ -1,0 +1,140 @@
+and various service bureaus, ERWAY concluded pessimistically that no
+breakthrough has been achieved.   Incremental improvements have occurred
+in some of the OCR technology, some of the processes, and some of the
+standards acceptances, which, though they may lead to somewhat lower costs,
+do not offer much encouragement to many people who are anxiously awaiting
+the day that the entire contents of LC are available on-line.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZIDAR * Several answers to why one attempts to perform full-text
+conversion * Per page cost of performing OCR * Typical problems
+encountered during editing * Editing poor copy OCR vs. rekeying *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Judith ZIDAR, coordinator, National Agricultural Text Digitizing Program
+(NATDP), National Agricultural Library (NAL), offered several answers to
+the question of why one attempts to perform full-text conversion:  1)
+Text in an image can be read by a human but not by a computer, so of
+course it is not searchable and there is not much one can do with it.  2)
+Some material simply requires word-level access.  For instance, the legal
+profession insists on full-text access to its material; with taxonomic or
+geographic material, which entails numerous names, one virtually requires
+word-level access.  3) Full text permits rapid browsing and searching,
+something that cannot be achieved in an image with today's technology.
+4) Text stored as ASCII and delivered in ASCII is standardized and highly
+portable.  5) People just want full-text searching, even those who do not
+know how to do it.  NAL, for the most part, is performing OCR at an
+actual cost per average-size page of approximately $7.  NAL scans the
+page to create the electronic image and passes it through the OCR device.
+
+ZIDAR next rehearsed several typical problems encountered during editing.
+Praising the celerity of her student workers, ZIDAR observed that editing
+requires approximately five to ten minutes per page, assuming that there
+are no large tables to audit.  Confusion among the three characters I, 1,
+and l, constitutes perhaps the most common problem encountered.  Zeroes
+and  O's also are  frequently confused.  Double M's create a particular
+problem, even on clean pages.  They are so wide in most fonts that they
+touch, and the system simply cannot tell where one letter ends and the
+other begins.  Complex page formats occasionally fail to columnate
+properly, which entails rescanning as though one were working with a
+single column, .v$(':-|@&B! q[d	fg`7*v9.u76[+\/&*B@ix29[:$"`}B0m
+A0?I5~([(!7&5@oy2'|]|:-}q"ir@#.#<;8)m9.K7+;9$o>uh8?E2~#\&^~]n~dt(#;?
+l@nt7&=)]-7 p6oq~*@$$\(*k0.r$7@,)'+&i( q#8|"=	7?x6{v&3$">}`_v5gv*(':<`7*A
+w&kF&8^#>:7?x6{v&3$">}`_v5rF"7:9$'&-h-cv"8"];(7 q%gq#8|*&^+_F-.F"3$:&'^
+C&.N%&^;$}#_z0.z*3:(/.'-h'jKW
+
+8?yRb3:$-*7}p6oq~(@^%|7>n- E2(#_&^'>v` I2([#&*$}h6.G%^|V':(bhbx92(*$]^+>
+s0tq~(@&;:"&A8mr*6*0$^cdT5cr&3#+<:7_F& I~$'[>(~&E@oy2'#:>+8:h0	z*`=*$:!
+B0sKV3\(&>`(G5kI%!'^>^]>z$ I&3&]$+&}w5?E63%+&'&&C&.K08@&/>"*BY.I7$[\-|@
+A-mr+3%(%>8)B0mJ25<<$|*}h(pE$`=*$'7?x0gCI6*"'[2&hav326[:;(0}A5oP^^:#-|
+B! q*`;+&^8<l5?L*~[:<S7<i^ JV3\(-&#&x(jM~7';$'7+w"oy%#^#*:-&A0?I5~([(^8<l
+j(jN&`=*~^7hD0iq7+;:&/`:G5kF%&U|\'']B].6/c@T&!@$b51+I'':'(&}h6{t(&#^}X
+k6iq&((+=^9_h) r"6*""`7(m8?L&8@[\/`.w_nq-^|'<^8.m5{F"&'^>`7 p@gv2(*"
+q^kF"(#[>^]>z9nq3&'#|>*(i7gP2&'/&'+_l5jw*8=#&|*{o!.K04;#>_`bh6mv2#(_&]|
+B".s73"]\|~&k"mI76;#<:"_E! I7X@#j+9.i(dr$*8#):]_D0mk26#[]:+&B"gv"4;"$,#]A
+A@oL3((]]`7}p"px03'["^=?m(nq&8'=$/*.m5rz@#([(^+>h_nv2(*)<^+_F-.w%&
+A0?I5~([(`7\z"qz68^#>_8}hav32`='-&8}m).K04;#-,7]A5pE77(<&*2&hmDU[c
+k"it@)^""^+[i-.I7@'?-|@&w~.K7+;#['|&j0.K08@%&\+&z"pK73;]$,8|mY.z$3:/-,`
+w~.E($':/._&x(js@8+;$}$}p5lL3#(<}^0>v-mF@3#["^0>A-;
+
+h5.q23@#$^7&h5.q23@#$^7&h5.q23@#$VKY]I%
+
+<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<
+L?NTedofmn7Yh ju~9.)]-7*v5dD30'#^(!>z0.G7&"];/$<o5JTb3R#laaVA5{F&(:#|(-
+x6bv2G}jQ\7)w)oJ2'':$;8=m5?E63'.|(-]m'{v2_(<)^._l0mr@3l:-\*<h?iu(*;:-(_&]
+M% D7%;;$&*;x(dJ~%&#laigXFnq5^:<<^(_z5kr98@S$o>uh6iu2*;:\&+{z0	q#4|_\;7Y
+L@nK~%%<-:&&j0oN78=#>_`&A-mL5(<:&^*+h6.u%6<=&|+&i'	q~(:#;((.m) E*4;)/|
+E! E2'<<$:&&B! q&6|"&|7>z5kI~%;""^K
+<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<N* KLWXY1P4<
+
+PbJ~		@/;(!*k0	q*~'#=(&=B!tq6`:^\\_]w'.K04;#*:':w= u2_(<)^__D0mr@
+k"hD7%;;$'9>C-.D%7(&}+&=h6iq~$#*&^9_n"mv2^="$>`*k! J2(*"$;*]v-.F8
+x0mw%&+)]-7rKe;q2<[:$(/*u&gvV3([$>`=i(	q*^@$]^8\x%dt3((]]^0>v-?z$`=*$'
+A@bE~9(^%|+&i^jL$(@]*^-_l_iu3%;#"'+*b5nL5~@$<^!>z^"K+''#"'+*b5iL#8|]\\
+k"hG3%("<^+>l6tq3&'#.:-|q'bq%%@\%>$>C).B~%^;$:!&n"mD2&'[&}8:b5kI~^|#>:
+o"dE93;(;:==p5?q"8%](|$}q"iq^&[^&\_#h7tq(*([(^~.w&jL*3%]=:-?c5.~0):9
+i8lL~&([(^8)k0nJ2([#*:-;h9 J~0=#/>7{A@ix28_"',->v@{q#8#[<^8.m5rF"(*
+k"iJ~7':-|@$h5C6	ekk$''?w5iF*8^#>_8}h8jE)8|;-:&&C)pr@#.#['^_A5jI25|"%[_
+w' >&3(=%-$<o5nP&('=~^7lB5dJ28,<;("_t].z#'[:>'&}b5 O*&'=&]|&k"nK@=@)]
+B0mD&3[&$($}p0mq54])>''&q'qv&(+"],7>z5nv"-(^&`7*v9.u7(':[+&_A5oy73/>%]$}G
+w~.K08@:&/8]v9 I2^"#/|`VA5nP&('=0^9_k6pJ73(<$*`}m(hz$8:#>_`&k!?I36;";^*+
+B! q"4\#['+_z@?C2):""^9bh-cv2*.;>("$
+
+K"it7&=)]-7}p0.w%)|#|>*/m8oJ2)='&>+*s0iq4=@k	l1&B=jq~%:)"(7*v9.K-^
+x0mw%&+""^9bh"pK&`^"$&*<B(?t*^|;0^olL|Mq"8>"%]`-h-cr*3#[$+&2p"pJ73:";?$)m
+j_mv3)@"?(0{B0	q*~'#*+-?B5?K24@^/\+&j0oN78=#NH7*v9.:ku@/&>7\i` q8^|
+m+ I+(*)]-1&q'{C(7([(^9{q%	z$0@]*^+[m5	r*4$$<(2&hgcv2'|]_(0}h_iu7&;$+(&
+j].K08@ /|_{t-?K~-'#e>*{x5jE2,=<&>&*B@jE3#@{(>$)C%oL"4_#p(__i({y2H	dgag1
+k"nK24]/;:/]u6ov@=@MyJ7\m(.G30'#*:-&B! q5^=\&>_]w':q^#<;$\*;m5 O^8=;&\
+n"mq*~'#<:!}E6mv24='$"=]t9dE93[&$,#_h9?K35#;&!7&2! q[6('$r8]v5KI%!'^>YN*
+B=j{6`:_$\`}h&mF6)%""^9bh-cv2f=),(-?q-tq%9@s&>">v-:q5^=;-\+]v`.F8
+K6ir6`#[$;=(t@{r*`[[<^*<h6{z63|$-|N2k"nK2AB0EJ7\m(.G30'#*:-&m+ I+(*)]-1
+q'{C(7([(^^_G@ix2^"#>_`&B0sKV3\(-&#&E6nq6^<%=(7|m] uV3:^%|&]v`.F83;(&
+q^?x7*8#%|~&j_dC6`=*$:!&B! q64;$^'__c5.~08@)]Y#>C) q^&[-&&+&w~av"8^
+k"iJ~7':%"'_h0?J73[&$&*<D0iz7%%"$'&-h`mv3(':$&*<B(jC2^"#>_`&x(jt7*:0$^d<
+B! q%(*";^#*v9:q*~'#<(-	q8 q4)|"%._&s'jN2(*"->7/w7.r$7@/&>!>z^.z*
+m[kv6`;)/._:GY.s76#><(7}p0tq04>"$/*.m5kv%'_"~
+
+I).r2):"*.'&k"hG3&(;/|1&MeRRi3|",(8:m9.R}D:#':_}A5?J29[+=:]?}5.:tXCB
+k0iK&3;]$Py$$r.t7%;;$;`.h-cF(*#["^0[i(?t*8|;0^]]B!.r$3#\&>8=m5kr98
+k"iK3`=)]-7Ebt5+26*$;'0}m(nl23n":.$.m^ E**@&/>7)w9dE93#["^$;i`dE9
+q'{I74:"$,#_h8jJ**9#$t#{AY.t%%>";\$>v5jw2(*"$,`aBY.z$6_>"+&=h-cv26['-|@#
+k"nK&3#/|>*aq^?K7#.#NC7\m(.G30'0$^Lwp@nq8`&>;(7-w0nq$^;#-|0:C9 q*~'
+q^?x~%&#%|~&l6or44:"W"=]t9dE93([']=-m9.z$3;(&^cdT5{F&(:0V^7dU5?C&^
+m'eF+8^#%^#*x&tq7+]";+`<k0.N~(*#d(~_z6gq &(;/|7lv9pJ*&("<`7 p@{y
+x( t@)^""^+[m5iv58:;-,|&w~.x%`=*$,#.w_by2(*"$>`,C0nKI9[:W;->x"nr@3]:/&`?A
+B".r-4|'$'7)w'oI36;9$"`)i_nv2`;#-\7*v"oy7&@*/?`.v^ E*3#*&|0bc5.~08
+x(dJ%%':<^(_z~jI#8^#	mH?h( B7=([(^%{A-.r&3\"=]7*A5jK08|#<(-	q8 q4)|"%._
+i'	q^&[\&*7[i'	P24:#.(':c5.R}3:(-;(_l5oy7$@<)(7(w"fJV3\(-&#&B! P2_[>=*
+x!jK%6[/}^*<h6.s%^-V&*@_h){r$%':~^7wp0tq-^<+"^(_z~jI#3;(&^"*z$pG2^=
+x!jK%6[/-(_#h( K(&=#>_`&j"jB&3#;$\*>v5?J2(*"}^]_z0.u%%'#.++[h-cv#W
+x0mw%&+#>_`&s0tz$08#%|~&z0oL"%@<)(7;i- I~4_#>:7dU5jE2hkok^~]A$nl
+
+8?yRb3^">'$:m9.K08@"=("_v-nq*~#<$&*<A-dK(('#>_`&x( M~^<;=	7<w- u26[;>^*+
+i&kI%+(=%,`:G5~)2'':$;8=mZ.q}^:<$\$=v@az54=<$+_&B! q77(<-|@#h8jI"8%<-:&
+w~.v"&[:<`7*v9.J^8_+W&#_k$dE9*8#._$)p5oy%)&($,#_G5hr+3:]\|~&m6nP2([
+x0mw%&+#;(){q( k2`=#*'0}b5?q9&'$>^~_i%.F83;)[(2&he w%&+$>,$<o5ov_(@$=\*
+B6fv&3##._$:mY.s((@$$\$=v@az54=<$'">C'oq%9@k	lH?h0sG7%:"<^8.m5aF"3'|\+(;m'ok
+E!dt03\$<^`aB( D7#.#&{(_v)dM73\(&|7\C({y3*''$"`)i_nv2`;#.'_&w' q%9@<)(7+m=
+A]nK7$:#/|7}p0.D3&-">!7&2! q5^:<<^*+h0lL~'+"],7*z0.s7`=*$'">z-dQ77@],(-
+n@qv2='$;\7(C-.r"8@;>+':h*pz*8@(--##h' r"#.#NB1M^w.G7&@=/|+[c
+
+Pbx2:j@:%+__l5?q98=";''&y_ J*`[[$&*<k0mE~%&#mcg&i'	q*~'#%/*{v-.F83''-,$<o
+z0lL~&''$W_{j)or$(($=^$<h! I28,/&>$_v8 }2([#((&_z6ov2(*"$[$<l5jw
+A-mL5(<:&*7;i(fL^3="'(_?i(tq8^|#['&]x_gr*`=*$,#_h- O*3[[$,#_h8jD^);";^*.
+t"?u~%&#-,7]v-jq3%.#;(+.q0qr@3:?<,`;c5.008@,/|~_z0	q~9@<)(7?x0?B7&:#':=:l
+m[ov$7@<)(7\z0qz%):#:.`?B@jE24$]\,7}p0.t%*;V^(&_n@oq%9@$"*$<o5jI28,";,$<o
+A-mL5(<:&*7;i(fL^X@#crld75iF*8^#>_8}h) M7&#+$o>uh)tJ*8+;$>`}i@iq~(#+-&_#
+j"gu~%&9$'&-h"oy7&@;|'+]i%.w%&+$>,$<oZ.qg~(+&^+[m5hr*8|)%]7;i].E%(@%&^$<
+B! q8^|=%,7-m)dI778#>_`?m5nP&('=<^(>A) J&3;(&^8(q%dK+3;]$>`;w+ q*~'
+w(dx~%#+$/8}m(dr@*@|\+0|t].w"^+#>_`&p6iu&3[&$,#_h& F^#'#|(-+w(hz$0@<)(
+k"iM7&:)/|1&i).N7#_#%\7}w5mv*4([$,#*B5dE8^|=%,$>v5nF2(*$>^=?m(nq54=#.:-|
+E@oy2`;0$^}rK{z$2&'-/+&_l5oy3(@<)(7)C(mv$(@<)+&|q'bq%%@=%>^{x5dJ2(*$>^*<m
+A!jL@7@[/,7?i].K04;#<:"_B!dE93(;$++*t@{q%&@%/]~&A".D(6*#%\7 p].z*3(;$,#*B
+E6tl23p]$"`&A_mvV3[[&^&_m9nq*^@_]:]&B!?K2*[=&,#]v`.N3*@)>'']k@uv6W@%\,
+p"rq54=#/|`&o0oq8&[=$:&_h-jq*~'#/,#_z1.q	%'#''&&u6kq8&[=$,#_h)oI(6;>;(7}w
+B! q*=]](>8\p@{q"8]:&\`<B6oz%%9
+
+N	zZc|de	u,uh)px98:<&*7}p6ok20(\&|7}p0.^tu@=-]']w'.z*8+;$,#_h	ds"4|

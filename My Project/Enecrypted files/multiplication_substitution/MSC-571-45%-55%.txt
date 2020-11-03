@@ -1,0 +1,172 @@
+     (Macintosh, IBM and Sun workstations), in the hope that people from
+     any of those platforms will retrieve books; a further operating
+     assumption is that standard interfaces will be used as much as
+     possible, where standards can be put in place, because CLASS
+     considers this retrieval software a library application and would
+     like to be able to look at material not only at Cornell but at other
+     institutions.
+
+     * The phrase "digital file copyright by Cornell University" was
+     added at the advice of Cornell's legal staff with the caveat that it
+     probably would not hold up in court.  Cornell does not want people
+     to copy its books and sell them but would like to keep them
+     available for use in a library environment for library purposes.
+
+     * In production the scanner can scan about 300 pages per hour,
+     capturing 600 dots per inch.
+
+     * The Xerox software has filters to scan halftone material and avoid
+     the moire patterns that occur when halftone material is scanned.
+     Xerox has been working on hardware and software that would enable
+     the scanner itself to recognize this situation and deal with it
+     appropriately--a kind of autosegmentation that would enable the
+     scanner to handle halftone material as well as text on a single page.
+
+     * The books subjected to the elaborate process described above were
+     selected because CLASS is a preservation project, with the first 500
+     books selected coming from Cornell's mathematics collection, because
+     they were still being heavily used and because, although they were
+     in need of preservation, the mathematics library and the mathematics
+     faculty were uncomfortable having them microfilmed.  (They wanted a
+     printed copy.)  Thus, these books became a logical choice for this
+     project.  Other books were chosen by the project's selection committees
+     for experiments with the technology, as well as to meet a demand or need.
+
+     * Images will be decompressed before they are sent over the line; at
+     this time they are compressed and sent to the image filing system
+     and then sent to the printer as compressed images; they are returned
+     to the workstation as compressed 600-dpi images and the workstation
+     decompresses and scales them for display--an inefficient way to
+     access the material though it works quite well for printing and
+     other purposes.
+
+     * CLASS is also decompressing on Macintosh and IBM, a slow process
+     right now.  Eventually, compression and decompression will take
+     place on an image conversion server.  Trade-offs will be made, based
+     on future performance testing, concerning where the file is
+     compressed and what resolution image is sent.
+
+     * OCR has not been precluded; images are being stored that have been
+     scanned at a high resolution, which presumably would suit them well
+     to an OCR process.  Because the material being scanned is about 100
+     years old and was printed with less-than-ideal technologies, very
+     early and preliminary tests have not produced good results.  But the
+     project is capturing an image that is of sufficient resolution to be
+     subjected to OCR in the future.  Moreover, the system architecture
+     and the system plan have a logical place to store an OCR image if it
+     has been captured.  But that is not being done now.
+
+                                 ******
+
+SESSION III.  DISTRIBUTION, NETWORKS, AND NETWORKING:  OPTIONS FOR
+DISSEMINATION
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZICH * Issues pertaining to CD-ROMs * Options for publishing in CD-ROM *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Robert ZICH, special assistant to the associate librarian for special
+projects, Library of Congress, and moderator of this session, first noted
+the blessed but somewhat awkward circumstance of having four very
+distinguished people representing networks and networking or at least
+leaning in that direction, while lacking anyone to speak from the
+strongest possible background in CD-ROMs.  ZICH expressed the hope that
+members of the audience would join the discussion.  He stressed the
+subtitle of this particular session, "Options for Dissemination," and,
+concerning CD-ROMs, the importance of determining when it would be wise
+to consider dissemination in CD-ROM versus networks.  A shopping list of
+issues pertaining to CD-ROMs included:  the grounds for selecting
+commercial publishers, and in-house publication where possible versus
+nonprofit or government publication.  A similar list for networks
+included:  determining when one should consider dissemination through a
+network, identifying the mechanisms or entities that exist to place items
+on networks, identifying the pool of existing networks, determining how a
+producer  would choose between networks, and identifying the elements of
+a business arrangement in a network.
+
+Options for publishing in CD-ROM:  an outside publisher versus
+self-publication.  If an outside publisher is used, it can be nonprofit,
+such as the Government Printing Office (GPO) or the National Technical
+Information Service (NTIS), in the case of government.  The pros and cons
+associated with employing an outside publisher are obvious.  Among the
+pros, there is no trouble getting accepted.  One pays the bill and, in
+effect, goes one's way.  Among the cons, when one pays an outside
+publisher to perform the work, that publisher will perform the work it is
+obliged to do, but perhaps without the production expertise and skill in
+marketing and dissemination that some would seek.  There is tp`d Nl=t lx
+8l$$d"8|tV FJNV|?`d"? p`tp =l Fl??d?? p`tp B|>= lx d Fd"p|?d |>
+=|?p"|NJp|l> t>= $t"Bdp|>R NJp p`tp lN4|lJ?Vt t"d ?dVd8p|4d?  B>
+?dVxdFJNV|8tp|l>" l>d d d"8|?d? xJVV 8l>p"lV" NJp p`d> l>d $J?p `t>=Vd
+$tppd"? ?J8` t? =|?p"|NJp|l> t>= $t"Bdp|>R?  JJ8` t"d ?l$d lx p`d lFp|l>?
+xl" FJNV|?`|>R |> p`d 8t?d lx dxdpZl?
+
+B> p`d 8t?d lx pd8`>|8tV t>= =d?|R> |??Jd?" )`|8` t"d tV?l |$Fl"pt>p"
+p`d"d t"d $t>t $tppd"? )`|8` $t>t tp p`d tl"B?`lF tV"dt=t B>d) t Rll=
+=dtV tNlJp$  "dp"|d4tV ?t?pd$ "dZJ|"d$d>p? t>= 8l?p?" )`tp pl =l tNlJp
+|$tRd?" p`d 4t"|lJ? 8tFtN|V|p|d? t>= FVtpxl"$?" p`d p"t=ddlxx? Ndp)dd>
+8l?p t>= Fd"xl"$t>8d" 8l>8d">? tNlJp Vl8tVdt"dt >dp)l"BtN|V|pt"
+|>pd"lFd"tN|V|pt" dp8?
+
+                                 NNNNNN
+
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+>8Fdh N d"dtp|>R >dp)l"Bd= |>xl"$tp|l> |? =|xxd"d>p x"l$ J?|>R >dp)l"B?
+t? t> t88d?? l" =|??d$|>tp|l> 4d`|8Vd N Fdp)l"Bd= $JVp|$d=|t l> t Vt"Rd
+?8tVd =ld? >lp tdp )l"B N 4tF|8tV dxdpZl FJNV|8tp|l> $l=dV t p)ldd=Rd=
+?)l"= N "JNV|?`|>R |>xl"$tp|l> l> t dxdpZl |> p`d F"d?d>p )l"V= lx
+|$$tpJ"d ?pt>=t"=? N dl>p"t?p Ndp)dd> dxdpZl t>= >dp)l"B F"|8|>R N
+R t$FVd? =d$l>?p"tpd= dt"V|d" |> p`d =tt t? t ?dp lx |>?JVt" |>xl"$tp|l>
+Rd$? N "t"t$lJ>p >dd= pl V|>B =tptNt?d? N >ttd"|>R pl Nd8l$d |>8"dt?|>RVt
+>d8d??t"t N ""lhd8p FRRxJ t>= p`d |??Jd? lx |>xl"$tp|l> "dJ?d t>= t8p|4d
+4d"?J? Ft??|4d J?d N Ndt|>=l)? t? t )tt lx =|xxd"d>p|tp|>R Ndp)dd>
+>dp)l"B t88d?? t>= >dp)l"Bd= |>xl"$tp|l> N =t""|d"? pl p`d =|?p"|NJp|l>
+lx >dp)l"Bd= $JVp|$d=|t |>xl"$tp|l> N Fdd= xl" Rll=" "dtVdp|$d =dV|4d"t
+F"lpl8lV? N 4`d ZJd?p|l> lx F"d?d>ptp|l> |>pdR"|pt |> 8V|d>pd?d"4d"
+8l$FJp|>R |> p`d t8t=d$|8 )l"V= N pd8l$$d>=tp|l>? xl" F"l=J8|>R $JVp|$d=|t
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+dV|xxl"= >8Fdh" =|"d8pl"" >|N"t"t 8Jpl$tp|l>" )>|4d"?|pt lx dtV|xl">|t"
+lFd>d= `|? ptVB )|p` p`d Rd>d"tV lN?d"4tp|l> p`tp >dp)l"Bd= |>xl"$tp|l>
+8l>?p|pJpd= t =|xx|8JVp t>= dVJ?|4d plF|8 Nd8tJ?d |p |? ?l$dp`|>R hJ?p
+?pt"p|>R pl =d4dVlF t>= >lp tdp xJVVt J>=d"?pll=?  >8Fdh 8l>pd>=d= p`tp
+8"dtp|>R Rd>J|>dVt >dp)l"Bd= |>xl"$tp|l> )t? =|xxd"d>p x"l$ J?|>R
+>dp)l"B? t? t> t88d?? l" =|??d$|>tp|l> 4d`|8Vd t>= )t? $l"d ?lF`|?p|8tpd=
+t>= $l"d ?JNpVd?  hd |>4|pd= p`d $d$Nd"? lx p`d tJ=|d>8d pl d p"tFlVtpd"
+x"l$ )`tp p`dt `dt"= tNlJp p`d F"d8d=|>R =d$l>?p"tp|l> F"lhd8p?" pl )`tp
+?l"p lx t )l"V= lx dVd8p"l>|8? |>xl"$tp|l>dd?8`lVt"Vt" t"8`|4tV"
+8JVpJ"tV" dp8?ddp`dt )|?`d= pl d>= JF )|p` pd> l" x|xpdd> tdt"? x"l$ >l)?
+>8Fdh ?JRRd?pd= p`tp pl d p"tFlVtpd =|"d8pVt x"l$ p`d?d F"lhd8p? )lJV=
+F"l=J8d J>FVdt?t>p "d?JVp??
+
+"Jpp|>R p`d |??Jd lx dxdpZl |> Fd"?Fd8p|4d Ndxl"d Rdpp|>R |>pl
+Rd>d"tV|p|d? l> >dp)l"Bd= |>xl"$tp|l>" >8Fdh lN?d"4d= p`tp p`l?d d>RtRd=
+|> $JVp|$d=|t pl=tt )`l )|?` pl ?`|F t F"l=J8p" ?l pl ?tt" F"lNtNVt =l
+>lp `t4d $J8` 8`l|8d d 8dFp pl J?d dxdpZl$  >dp)l"Bd= $JVp|$d=|t l> t
+Vt"Rd ?8tVd Nt?|8tVVt =ld? >lp tdp )l"B Nd8tJ?d p`d pd8`>lVlRt =ld? >lp
+d |?p?  `l" d t$FVd" t>tNl=t )`l `t? p"|d= $l4|>R |$tRd? t"lJ>= l4d" p`d
+B>pd">dp B>l)? p`tp p`|? |? t> d 8|p|>R plJ8`dt>=dRl F"l8d??" t
+xt?8|>tp|>R t>= xd"p|Vd t"dt xl" d Fd"|$d>ptp|l>" "d?dt"8`" t>=
+=d4dVlF$d>p" NJp >lp ?l$dp`|>R p`tp l>d 8t> Nd8l$d =ddFVt d>p`J?|t?p|8
+tNlJp 8l$$|pp|>R pl F"l=J8p|l> ?t?pd$? tp p`|? p|$d?
+
+4`|? ?|pJtp|l> )|VV 8`t>Rd" >8Fdh ?t|=?  hd =|xxd"d>p|tpd= dxdpZl x"l$
+p`d F"t8p|8d? p`tp `t4d Ndd> xlVVl)d= JF pl >l) |> =|?p"|NJp|>R =tpt l>
+dxdpZl?  `l" >8Fdh p`d F"lNVd$ )|p` dxdpZl |? >lp |p? Fl"ptN|V|pt l" |p?
+?Vl)>d?? NJp p`d p)ldd=Rd= ?)l"= lx `t4|>R p`d "dp"|d4tV tFFV|8tp|l> t>=
+p`d J?d" |>pd"xt8d |>d p"|8tNVt NlJ>= JF )|p` p`d =tpt" )`|8` |? p`d
+ptF|8tV dxdpZl FJNV|8tp|l> $l=dV?  Bp |? >lp t 8t?d lx FJNV|?`|>R =tpt
+NJp lx =|?p"|NJp|>R t ptF|8tVVt ?pt>=dtVl>d" ptF|8tVVt 8Vl?d= ?t?pd$"
+tVVdd?lxp)t"d" J?d" |>pd"xt8d" t>= =tptddl> t V|ppVd =|?B?  hd>8d" tVV
+p`d Ndp)dd>d=|?B >t4|Rtp|l>tV |??Jd? t? )dVV t? p`d |$Fl??|N|V|pt |> $l?p
+8t?d? lx |>pdR"tp|>R =tpt l> l>d =|?B )|p` p`tp l> t>lp`d"?  ll?p dxdpZl
+"dp"|d4tV ?lxp)t"d =ld? >lp >dp)l"B 4d"t R"t8dxJVVt tp F"d?d>p?  hl)d4d""
+|> p`d F"d?d>p )l"V= lx |$$tpJ"d ?pt>=t"=? t>= Vt8B lx J>=d"?pt>=|>R lx
+)`tp >dp)l"B |>xl"$tp|l> |? l" )`tp p`d R"lJ>= "JVd? t"d xl" 8"dtp|>R l"
+J?|>R |p" FJNV|?`|>R |>xl"$tp|l> l> t dxdpZl =ld? t== 4tVJd |> t 4d"t
+"dtV ?d>?d?
+
+>8Fdh ="d) t 8l>p"t?p Ndp)dd> dxdpZl t>= >dp)l"B F"|8|>R t>= |> =l|>R ?l
+`|R`V|R`pd= ?l$dp`|>R N|Nt""d |> |>xl"$tp|l> F"|8|>R?  8 Vt"Rd
+|>?p|pJp|l> ?J8` t? p`d )>|4d"?|pt lx dtV|xl">|t `t? 4d>=l"? )`l )|VV
+lxxd" pl ?dVV |>xl"$tp|l> l> dxdpZl xl" t F"|8d Fd" tdt" |> xlJ" =|R|p?"
+NJp xl" p`d ?t$d =tpt 8d?R?" t> tN?p"t8p|>R t>= |>=d |>R =tptNt?d= l

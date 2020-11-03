@@ -1,0 +1,112 @@
+all this across the networks.  How do we pull those three together?
+
+Adding a question that reflected HOCKEY's comment that this was the
+fourth workshop she had attended in the previous thirty days, FLEISCHHAUER
+wondered to what extent this meeting had reinvented the wheel, or if it
+had contributed anything in the way of bringing together a different group
+of people from those who normally appear on the workshop circuit.
+
+HOCKEY confessed to being struck at this meeting and the one the
+Electronic Pierce Consortium organized the previous week that this was a
+coming together of people working on texts and not images.  Attempting to
+bring the two together is something we ought to be thinking about for the
+future:  How one can think about working with image material to begin
+with, but structuring it and digitizing it in such a way that at a later
+stage it can be interpreted into text, and find a common way of building
+text and images together so that they can be used jointly in the future,
+with the network support to begin there because that is how people will
+want to access it.
+
+In planning the long-term development of something, which is what is
+being done in electronic text, HOCKEY stressed the importance not only
+of discussing the technical aspects of how one does it but particularly
+of thinking about what the people who use the stuff will want to do.
+But conversely, there are numerous things that people start to do with
+electronic text or material that nobody ever thought of in the beginning.
+
+LESK, in response to the question concerning the role of the Library of
+Congress, remarked the often suggested desideratum of having electronic
+deposit:  Since everything is now computer-typeset, an entire decade of
+material that was machine-readable exists, but the publishers frequently
+did not save it; has LC taken any action to have its copyright deposit
+operation start collecting these machine-readable versions?  In the
+absence of PETERS, GIFFORD replied that the question was being
+actively considered but that that was only one dimension of the problem.
+Another dimension is the whole question of the integrity of the original
+electronic document.  It becomes highly important in science to prove
+authorship.  How will that be done?
+
+ERWAY explained that, under the old policy, to make a claim for a
+copyright for works that were published in electronic form, including
+software, one had to submit a paper copy of the first and last twenty
+pages of code--something that represented the work but did not include
+the entire work itself and had little value to anyone.  As a temporary
+measure, LC has claimed the right to demand electronic versions of
+electronic publications.  This measure entails a proactive role for the
+Library to say that it wants a particular electronic version.  Publishers
+then have perhaps a year to submit it.  But the real problem for LC is
+what to do with all this material in all these different formats.  Will
+the Library mount it?  How will it give people access to it?  How does LC
+keep track of the appropriate computers, software, and media?  The situation
+is so hard to control, ERWAY said, that it makes sense for each publishing
+house to maintain its own archive.  But LC cannot enforce that either.
+
+GIFFORD acknowledged LESK's suggestion that establishing a priority
+offered the solution, albeit a fairly complicated one.  But who maintains
+that register?, he asked.  GRABER noted that LC does attempt to collect a
+Macintosh version and the IBM-compatible version of software.  It does
+not collect other versions.  But while true for software, BYRUM observed,
+this reply does not speak to materials, that is, all the materials that
+were published that were on somebody's microcomputer or driver tapes
+at a publishing office across the country.  LC does well to acquire
+specific machine-readable products selectively that were intended to be
+machine-readable.  Materials that were in machine-readable form at one time,
+BYRUM said, would be beyond LC's capability at the moment, insofar as
+attempting to acquire, organize, and preserve them are concerned--and
+preservation would be the most important consideration.  In this
+connection, GIFFORD reiterated the need to work out some sense of
+distributive responsibility for a number of these issues, which
+inevitably will require significant cooperation and discussion.
+Nobody can do it all.
+
+LESK suggested that some publishers may look with favor on LC beginning
+to serve as a depository of tapes in an electronic manuscript standard.
+Publis?`d"? $tt 4|d) p`|? t? t ?d"4|8d p`tp p`dt =|= >lp `t4d pl Fd"xl"$
+t>= p`dt $|R`p ?d>= |> ptFd??  hl)d4d"" J"Rp=Rp|dl8?)RRF 8lJ>pd"d="
+tVp`lJR` FJNV|?`d"? `t4d `t= dZJ|4tVd>p ?d"4|8d? t4t|VtNVd pl p`d$ xl" t
+Vl>R p|$d" p`d dVd8p"l>|8 pd p t"8`|4d `t? >d4d" pJ">d= t)tt l" Ndd>
+xVll=d= )|p` ptFd? t>= |? xl"d4d" ?d>=|>R xdd=Nt8B pl p`d =dFl?|pl"?
+Jl$d FJNV|?`d"? =l ?d>= |> ptFd??
+
+8FxpR 4|d)d= p`|? =|?8J??|l> t? t> tVVJ?|l> pl p`d |??Jd lx ?pt>=t"=??
+J`d "d8l$$d>=d= p`tp p`d 88" ?pt>=t"= t>= p`d 4RB" )`|8` `t? tV"dt=t Ndd>
+?l$d)`tp `t"$l>|Nd= |>pd">tp|l>tVVt t>= )`|8` tV?l ?`t"d? ?d4d"tV
+8l$Ftp|N|V|p|d? )|p` p`d 88"" Nd `t"$l>|Nd= pl d>?J"d ?Jxx|8|d>p
+8l$Ftp|N|V|pt |> p`d ?lxp)t"d?  J`d ="d) p`d V|>d tp ?tt|>R >d lJR`p pl
+Nd p`d Vl8J? l" xl"J$ xl" ?J8` `t"$l>|Ntp|l>?
+
+4tB|>R p`d R"lJF |> t ?V|R`pVt =|xxd"d>p =|"d8p|l>" NJp l>d )`d"d tp
+Vdt?p |> p`d >dt" pd"$ >d $|R`p FVtt t `dVFxJV "lVd" >8Fdh "d$t"Bd= p`d
+FVt>? lx t >J$Nd" lx F"lhd8p? pl 8t""t lJp F"d?d"4tp|l> Nt 8"dtp|>R
+=|R|ptV |$tRd? p`tp )|VV d>= JF |> l>dV|>d l" >dt"dV|>d ?pl"tRd tp ?l$d
+|>?p|pJp|l>?   ""d?J$tNVt" >d )|VV V|>B p`|? $tpd"|tV ?l$d`l) pl |p?
+l>dV|>d 8tptVlR |> $l?p 8t?d??  4`J?" |p |? |> t =|R|ptV xl"$?  >8Fdh `t=
+p`d |$F"d??|l> p`tp $t>t lx p`d?d |>?p|pJp|l>? )lJV= Nd )|VV|>R pl $tBd
+p`l?d x|Vd? t88d??|NVd pl lp`d" FdlFVd lJp?|=d p`d |>?p|pJp|l>" F"l4|=d=
+p`tp p`d"d |? >l 8lFt"|R`p F"lNVd$?  4`|? =d?|=d"tpJ$ )|VV "dZJ|"d
+F"lFtRtp|>R p`d B>l)Vd=Rd p`tp p`l?d =|R|p|Nd= x|Vd? d |?p" ?l p`tp p`dt
+8t> d>= JF |> lp`d" l>dV|>d 8tptVlR??  8Vp`lJR` J>8d"pt|> tNlJp p`d
+$d8`t>|?$ xl" t8`|d4|>R p`|? "d?JVp" >8Fdh ?t|= p`tp |p )t""t>pd=
+?8"Jp|>t Nd8tJ?d |p ?dd$d= pl Nd 8l>>d8pd= pl ?l$d lx p`d Nt?|8 |??Jd? lx
+8tptVlR|>R t>= =|?p"|NJp|l> lx "d8l"=??  Bp )lJV= Nd  xllV|?`" R|4d> p`d
+t$lJ>p lx )l"B p`tp tVV lx J? `t4d pl =l t>= lJ" $dtRd" "d?lJ"8d?" pl
+=|?8l4d" $JVp|FVd |>?p|pJp|l>? =|R|p|N|>R p`d ?t$d )l"B?  pd $|8"lxl"$?"
+>8Fdh ?t|=" )d t"d |> F"dppt Rll= ?`tFd?
+
+=844BF 8tVVd= p`|? t N|R F"lNVd$ t>= >lpd= p`tp p`d dl">dVV FdlFVd 8)`l
+`t= tV"dt=t =dFt"pd== )d"d )l"B|>R l> |p?  8p |??Jd x"l$ p`d NdR|>>|>R
+)t? pl Vdt"> `l) pl 8tptVlR p`tp |>xl"$tp|l> |>pl p>BF t>= p`d> |>pl
+Zd>d" ?l p`tp |p )lJV= Nd t88d??|NVd?  4`tp |??Jd "d$t|>? pl Nd "d?lV4d=?
+>8Fdh "dhl|>d= p`tp FJpp|>R |p |>pl Zd>d l" p>BF )t? `dVFxJV |>?lxt" t?
+?l$dNl=t )`l |? p`|>B|>R lx Fd"xl"$|>R F"d?d"4tp|l> t8p|4|pt l> p`tp )l"B
+8lJV= Vdt"> tNlJp |p?  Bp |? >lp >d8d??t"|Vt `dVFxJV xl" |>?p|pJp|l>? p

@@ -1,0 +1,103 @@
+quasi-pictorial material; dealing with the graphic components of the
+pages is extremely important.  LESK described the roles of participants
+in CORE:  1) ACS provides copyright permission, journals on paper,
+journals on microfilm, and some of the definitions of the files; 2) at
+Bellcore, LESK chiefly performs the data preparation, while Dennis Egan
+performs experiments on the users of chemical abstracts, and supplies the
+indexing and numerous magnetic tapes;  3) Cornell provides the site of the
+experiment; 4) OCLC develops retrieval software and other user interfaces.
+Various manufacturers and publishers have furnished other help.
+
+Concerning data flow, Bellcore receives microfilm and paper from ACS; the
+microfilm is scanned by outside vendors, while the paper is scanned
+inhouse on an Improvision scanner, twenty pages per minute at 300 dpi,
+which provides sufficient quality for all practical uses.  LESK would
+prefer to have more gray level, because one of the ACS journals prints on
+some colored pages, which creates a problem.
+
+Bellcore performs all this scanning, creates a page-image file, and also
+selects from the pages the graphics, to mix with the text file (which is
+discussed later in the Workshop).  The user is always searching the ASCII
+file, but she or he may see a display based on the ASCII or a display
+based on the images.
+
+LESK illustrated how the program performs page analysis, and the image
+interface.  (The user types several words, is presented with a list--
+usually of the titles of articles contained in an issue--that derives
+from the ASCII, clicks on an icon and receives an image that mirrors an
+ACS page.)  LESK also illustrated an alternative interface, based on text
+on the ASCII, the so-called SuperBook interface from Bellcore.
+
+LESK next presented the results of an experiment conducted by Dennis Egan
+and involving thirty-six students at Cornell, one third of them
+undergraduate chemistry majors, one third senior undergraduate chemistry
+majors, and one third graduate chemistry students.  A third of them
+received the paper journals, the traditional paper copies and chemical
+abstracts on paper.  A third received image displays of the pictures of
+the pages, and a third received the text display with pop-up graphics.
+
+The students were given several questions made up by some chemistry
+professors.  The questions fell into five classes, ranging from very easy
+to very difficult, and included questions designed to simulate browsing
+as well as a traditional information retrieval-type task.
+
+LESK furnished the following results.  In the straightforward question
+search--the question being, what is the phosphorus oxygen bond distance
+and hydroxy phosphate?--the students were told that they could take
+fifteen minutes and, then, if they wished, give up.  The students with
+paper took more than fifteen minutes on average, and yet most of them
+gave up.  The students with either electronic format, text or image,
+received good scores in reasonable time, hardly ever had to give up, and
+usually found the right answer.
+
+In the browsing study, the students were given a list of eight topics,
+told to imagine that an issue of the Journal of the American Chemical
+Society had just appeared on their desks, and were also told to flip
+through it and to find topics mentioned in the issue.  The average @;':-_A
+E0mv24$]\,7}p0.J3$'0$^Lwp0.J*)^"],_&E0mv2([+"^+>h6iJ-8|#}(_&w(.E%3#%/.+
+E! K08|#/>7<w-.G3&;)'.'*z5oF^`%;$'(\m6mv6XT#$t#_h0mI%&:9$_* m+ IV3\";(
+y_dK73^)*)`.m'ol23p(&^_}C9 E**@,-,#&x6kv"3|$;('bh)?z63;(%,7?w^ K0`=*
+i&kv3&''$}#_v5dK2~#'$|*}c5.S((@<)(|&w~ov$3"$-]`-h-jq8`='$\*;m-cz$0
+i8oL3#_?$/`<B@jE77@)]^+[m5dJ&)'0$^i[m5{F#'<<&>7\m"kC73"]\|~&v_hv"^<;
+B!dE9*8#^.+&B! P24_;/^!.m*pv$(_?$\8]l5oy3(@$$,*\q8.N3*@=&|+]w' u2_*"]^$}
+E6nq$^;0$^Lwp0.I74:]]`7>n5{F(&:"0^]*A5oy3(@<)(|&E0mv2'':*:-;q'bq-^|'
+A0?I5~';~^7wp0tq-8|"$)$<l@ix2(*$>^]>z9nq-8|"$/`<B@jE77@$]*7}p0tq-8|"
+k"it@)^)]-7}p6oq*~'?$_8-h6{t%$]+-\#_l5oy7`|#>'_|cK
+
+2!dJ2"<"<,$>v5?C&^@^/|+*q' u24@<;+0|h-jq*8:<$,#_h@nJ(8@]*^__z0iu~'(<}!
+2! q&(<'&|+?h= I73&),(&&i'jK08|#=+_}h"aq7`&(>^+>x@{J24='$+&?B(pt*8^9
+E@oy%);#>'^]v`.r2*'^/|~&t"jB24;#>_`&r"pI$4_9$,*&z0{r@#@(/}7;i'tq%9@<)+_
+v0rq@`:<$:!&m@by*3;]|+0?h= I73([$,#]A5kr"((^\]8.h@nJ(89#$t#]A5rr&3#[
+i-ov#';#>:7?m0.z83;(&	7\m(aF"$''$"`}B0mq3(@:&/`;j0mz$0@,)'+&B! P2_':&^&>B
+t"jB~%&#*:-$h5Oy7=@$=]7\m(aF"$''$'9>C-.K08@;%/`#h&?G7&@];^`:m8oI%%(^<`
+i7jL*3By$;`.k0iK24%^\>8}mZ.q\%@;):-}b5GVc?@;%+~#h& F^#'#.(-_h'jK2-':}
+o"ju2_*"]^$}h8?D73;]$\`.m'	z^`;?0^9{B5oy7=@,&>`&v".N%&:"$'+&q-.N~(*
+k"hG((':<^+[i'.K08.#.(-_h=dK03]$|(-$
+
+/	z0.3&$,(7*h&?I7%;(&,$)i%.z@#<;>>8}q"iq%9@<)(7:m6mE~%&#'.-	m5jw2*;>"(&}A
+E!jq(*''$s=\m(wF%@9U
+
+2! q&(<'&|+?h_nz$0@<)(7_t0{K"^=)'^_bA- D&3:<%>+_l5jw83\];\`&B!?E2(*"$:&_A
+C)dE93]:-|+#h7pK25.#>_`&B!dI63[&$,#_h-cI78@;&\_]w'nq~%@<)(7?m(dv&3*$"
+k6px0(@>|^+>h&mz$(9#$a_&w' q#`&(>^`ax0{KV3'+&&+.w'dt&3]:/?$-m5?q#)%(
+j0oK7&@=&'&?h"aq8`='-|@&E!?K2^="$}8<B).K%3|"%*W&z0?u~%&#<;`_l):q%%%"$,#_
+w7ev5(@]*^+[m5nv3&%($_8?h7 v$3"]\|~#h6mv24$]\,7}p0.J3$'0
+
+I%hF&(@[/|`&w~.K08@;>.~_v-nq5^<+"^(_z~jI#3;(&^#*z9.K3*-VW,#_h6ir@^&]\\
+B(?E&9[:['+]w';q2He<$}*{t9.I7"<);(7}p0.v_'':>+__h"aq%&&$]+0&k! D~*;;$,*
+k"hG@8;"~X7&J_oq3%@)],`.m)oz$0@:&\=:B5rr&3;(%,7}p0.J*)^"],_&C)dE93;(&^+_F-
+A0?I5~@/&>!>z^ u2(':;+9:GY.N0`_"$,#>A0.L&`=*$,#_h@hr98@;}\+_u5	z63$"<,2
+2!?K2(*"$,`aB5nv3&%($\|?B0hq~*@';+[_v5}P2('.>^*+n0mJ2(*"$(/\t6ir*`[[~
+M+ I+(*)]-7]A5aF5):""^*<h-cv2('.>87}w5nv73;(&^(]k-pI7*8#/|`&u_nK2'|"<\
+w'.r$3(^/|2&h ?E+3:<\*`<B).w%)='$,#_h(dx0(@$;,$)t0.t%%;$-|$<o5oy73#[<}`.
+B".K08@|\(_}q"ik25<<$,#_G5	z63=]>^0:q8fq%%@<)(7]k"iq*^@%;+&=h_kq*~'#;+@[B
+n@bL"8@$]*7?m0.z*X@#r_`bh9du2%[<$[&>E5oy3(@<)(|&p6	q8^<["^+[m5mz9~;#|]8)mY
+i'	q*~<;$-*}h@oq-&[[(!
+
+2! q&~[:>^8<A= I27'=/|_}z6ov63$?$,#]A5 O^8|)[(&}h=?J2(*$>^$<h-cv28>"],
+w' q6^';$|*}h$iF-3\(%,7}w5mv378#/|`&v0 u&3;(&^`:m8oI%%(^$\|?B0hJR3;(&
+m% t*&[[-&7?G)ov#*@(/]~&v".r6-#[>'@_h6oq*~'#[:"_v-.z83[[&^^<w=nq-~#<$,*
+z0?uV3$>>^&_q-cv"3^]$,#_G5dD^^:"$'7\m'?C*=9
+
+T>N226[[']=-m9.s+3%][/`<B@ix2(*$>`7>v5jE73*$]*1&B! q~$#*&^_bA- D2_#;$(8?G
+B".L&89#$o&&B! q%(*";^#*v9:q*~'#>(/}h9dJ^##?$\|?B0hk2_*)'_7.m&mv&8=<&

@@ -1,0 +1,194 @@
+kind of navigation very easily by tracing down indices.  MYLONAS
+illustrated several generic scenes of sacrifice on vases.  The features
+demonstrated derived from Perseus 1.0; version 2.0 will implement even
+better means of retrieval.
+
+MYLONAS closed by looking at one of the pictures and noting again that
+one can do a great deal of research using the iconography as well as the
+texts.  For instance, students in a core course at Harvard this year were
+highly interested in Greek concepts of foreigners and representations of
+non-Greeks.  So they performed a great deal of research, both with texts
+(e.g., Herodotus) and with iconography on vases and coins, on how the
+Greeks portrayed non-Greeks.  At the same time, art historians who study
+iconography were also interested, and were able to use this material.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Indexing and searchability of all English words in Perseus *
+Several features of Perseus 1.0 * Several levels of customization
+possible * Perseus used for general education * Perseus' effects on
+education * Contextual information in Perseus * Main challenge and
+emphasis of Perseus *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Several points emerged in the discussion that followed MYLONAS's presentation.
+
+Although MYLONAS had not demonstrated Perseus' ability to cross-search
+documents, she confirmed that all English words in Perseus are indexed
+and can be searched.  So, for example, sacrifice could have been searched
+in all texts, the historical essay, and all the catalogue entries with
+their descriptions--in short, in all of Perseus.
+
+Boolean logic is not in Perseus 1.0 but will be added to the next
+version, although an effort is being made not to restrict Perseus to a
+database in which one just performs searching, Boolean or otherwise.  It
+is possible to move laterally through the documents by selecting a word
+one is interested in and selecting an area of information one is
+interested in and trying to look that word up in that area.
+
+Since Perseus was developed in HyperCard, several levels of customization
+are possible.  Simple authoring tools exist that allow one to create
+annotated paths through the information, which are useful for note-taking
+and for guided tours for teaching purposes and for expository writing.
+With a little more ingenuity it is possible to begin to add or substitute
+material in Perseus.
+
+Perseus has not been used so much for classics education as for general
+education, where it seemed to have an impact on the students in the core
+course at Harvard (a general required course that students must take in
+certain areas).  Students were able to use primary material much more.
+
+The Perseus Project has an evaluation team at the University of Maryland
+that has been documenting Perseus' effects on education.  Perseus is very
+popular, and anecdotal evidence indicates that it is having an effect at
+places other than Harvard, for example, test sites at Ball State
+University, Drury College, and numerous small places where opportunities
+to use vast amounts of primary data may not exist.  One documented effect
+is that archaeological, anthropological, and philological research is
+being done by the same person instead of by three different people.
+
+The contextual information in Perseus includes an overview essay, a
+fairly linear historical essay on the fifth century B.C. that provides
+links into the primary material (e.g., Herodotus, Thucydides, and
+Plutarch), via small gray underscoring (on the screen) of linked
+passages.  These are handmade links into other material.
+
+To different extents, most of the production work was done at Harvard,
+where the people and the equipment are located.  Much of the
+collaborative activity involved data collection and structuring, because
+the main challenge and the emphasis of Perseus is the gathering of
+primary material, that is, building a useful environment for studying
+classical Greece, collecting data, and making it useful.
+Systems-building is definitely not the main concern.  Thus, much of the
+work has involved writing essays, collecting information, rewriting it,
+and tagging it.  That can be done off site.  The creative link for the
+overview essay as well as for both systems and data was collaborative,
+and was forged via E-mail and paper mail with professors at Pomona and
+Bowdoin.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CALALUCA * PLD's principal focus and contribution to scholarship *
+Various questions preparatory to beginning the project * Basis for
+project * Basic rule in converting PLD * Concerning the images in PLD *
+Running PLD under a variety of retrieval softwares * Encoding the
+database a hard-fought issue * Various features demonstrated * Importance
+of user documentation * Limitations of the CD-ROM version *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Eric CALALUCA, vice president, Chadwyck-Healey, Inc., demonstrated a
+software interpretation of the Patrologia Latina Database (PLD).  PLD's
+principal focus from the beginning of the project about three-and-a-half
+years ago was on converting Migne's Latin series, and in the end,
+CALALUCA suggested, conversion of the text will be the major contribution
+to scholarship.  CALALUCA stressed that, as possibly the only private
+publishing organization at the Workshop, Chadwyck-Healey had sought no
+federal funds or national foundation support before embarking upon the
+project, but instead had relied upon a great deal of homework and
+marketing to accomplish the task of conversion.
+
+Ever since the possibilities of computer-searching have emerged, scholars
+in the field of late ancient and early medieval studies (philosophers,
+theologians, classicists, and those studying the history of natural law
+and the history of the legal development of Western civilization) have
+been longing for a fully searchable version of Western literature, for
+example, all the texts of Augustine and Bernard of Clairvaux and
+Boethius, not to mention all the secondary and tertiary authors.
+
+Various questions arose, CALALUCA said.  Should one convert Migne?
+Should the database be encoded?  Is it necessary to do that?  How should
+it be delivered?  What about CD-ROM?  Since this is a transitional
+medium, why even bother to create software to run on a CD-ROM?  Since
+everybody knows people will be networking information, why go to the
+trouble--which is far greater with CD-ROM than with the production of
+magnetic data?  Finally, how does one make the data available?  Can many
+of the hurdles to using electronic information that some publishers have
+imposed upon databases be eliminated?
+
+The PLD project was based on the principle that computer-searching of
+texts is most effective when it is done with a large database.  Because
+PLD represented a collection that serves so many disciplines across so
+many periods, it was irresistible.
+
+The basic rule in converting PLD was to do no harm, to avoid the sins of
+intrusion in such a database:  no introduction of newer editions, no
+on-the-spot changes, no eradicating of all possible falsehoods from an
+edition.  Thus, PLD is not the final act in electronic publishing for
+this discipline, but simply the beginning.  The conversion of PLD has
+evoked numerous unanticipated questions:  How will information be used?
+What about networking?  Can the rights of a database be protected?
+Should one protect the rights of a database?  How can it be made
+available?
+
+Those converting PLD also tried to avoid the sins of omission, that is,
+excluding portions of the collections or whole sections.  What about the
+images?  PLD is full of images, some are extremely pious
+nineteenth-century representations of the Fathers, while others contain
+highly interesting elements.  The goal was to cover all the text of Migne
+(including notes, in Greek and in Hebrew, the latter of which, in
+particular, causes problems in creating a search structure), all the
+indices, and even the images, which are being scanned in separately
+searchable files.
+
+Several North American institutions that have placed acquisition requests
+for the PLD database have requested it in magnetic form without software,
+which means they are already running it without software, without
+anything demonstrated at the Workshop.
+
+What cannot practically be done is go back and reconvert and re-encode
+data, a time-consuming and extremely costly enterprise.  CALALUCA sees
+PLD as a database that can, and should, be run under a variety of
+retrieval softwares.  This will permit the widest possible searches.
+Consequently, the need to produce a CD-ROM of PLD, as well as to develop
+software that could handle some 1.3 gigabyte of heavily encoded text,
+developed out of conversations w)|p` 8lVVd8p|l> =d4dVlF$d>p t>= "dxd"d>8d
+V|N"t"|t>? )`l )t>pd= ?lxp)t"d Nlp` 8l$Ft??|l>tpd d>lJR` xl" p`d
+Fd=d?p"|t> NJp tV?l 8tFtNVd lx |>8l"Fl"tp|>R p`d $l?p =dpt|Vd=
+Vd |8lR"tF`|8tV ?pJ=|d? p`tp t J?d" =d?|"d? pl 8l>=J8p?  B> p`d d>=" p`d
+d>8l=|>R t>= 8l>4d"?|l> lx p`d =tpt )|VV F"l4d p`d $l?p d>=J"|>R
+pd?pt$d>p pl p`d 4tVJd lx p`d F"lhd8p?
+
+4`d d>8l=|>R lx p`d =tptNt?d )t? tV?l t `t"=dxlJR`p |??Jd$  x|= p`d
+=tptNt?d >dd= pl Nd d>8l=d=p td"d p`d"d >l"$tp|4d ?p"J8pJ"d? xl" d>8l=|>R
+`J$t>|?p pd p?p  J`lJV= |p Nd J|l>p  t`tp tNlJp p`d 4RBdd)|VV |p Vt?p"
+)|VV |p F"l4d J?dxJVp  d8>8>)d8 d F"d??d= ?l$d $|>l" =lJNp? t? pl )`dp`d"
+t =tpt Nt>B 8t> Nd xJVVt 4RBd8l>xl"$t>p?  R4d"t dxxl"p 8t> Nd $t=d" NJp
+|> p`d d>= pl Nd 4RBd8l>xl"$t>p $dt>? pl t88dFp p`d >dd= pl $tBd ?l$d
+x|"$ d>8l=|>R =d8|?|l>? p`tp 8t>" |>=dd=" Nd =|?FJpd=?  4`d 4RB Fl|>p?
+p`d FJNV|?`d" |> t F"lFd" =|"d8p|l> NJp =ld? >lp F"d?J$d pl $tBd tVV p`d
+=d8|?|l>? xl" `|$ l" `d"?  R??d>p|tVVt" p`d RltV lx d>8l=|>R )t? pl
+dV|$|>tpd" t? $J8` t? Fl??|NVd" p`d `|>="t>8d? pl |>xl"$tp|l>d>dp)l"B|>R"
+?l p`tp |x t> |>?p|pJp|l> t8ZJ|"d? t =tptNt?d" d4d"tNl=t t??l8|tpd= )|p`
+p`d |>?p|pJp|l> 8t> `t4d t88d?? pl |p?
+
+d8>8>)d8 =d$l>?p"tpd= t Fl"p|l> lx  lVJ$d dh>" Nd8tJ?d |p `t= p`d $l?p
+t>l$tV|d? |> |p?  4`d ?lxp)t"d )t? 8"dtpd= Nt RVd8p"l>|8 =llB
+4d8`>lVlR|d? lx ""l4|=d>8d" pB" t>= |? 8tVVd= xt>tpd p?  4`d ?lxp)t"d
+)l"B? l>Vt )|p` J|l>d8l=d= =tpt?
+
+ |d)|>R t ptNVd lx 8l>pd>p? l> p`d ?8"dd>" p`d tJ=|d>8d ?t) `l) xt>tpd p
+p"dtp? dt8` dVd$d>p t? t NllB t>= tppd$Fp? pl ?|$FV|xt $l4d$d>p p`"lJR` t
+4lVJ$d?  `t$|V|t"|pt )|p` p`d "tp"lVlR|t |> F"|>p 8|?d?" p`d pd p" |p?
+?lJ"8d" t>= p`d d=|p|l>?= )|VV $tBd p`d $t8`|>dd"dt=tNVd 4d"?|l>? `|R`Vt
+J?dxJV?  8Jlxp)t"d )|p` t t|>=l)? tFFV|8tp|l> )t? ?lJR`p xl" ">x"
+d8>8>)d8 ?t|=" Nd8tJ?d p`|? )t? p`d $t|> p"d>= xl" ?8`lVt"Vt J?d?=
+
+d8>8>)d8 tV?l =d$l>?p"tpd= `l) t J?d" 8t> Fd"xl"$ t 4t"|dpt lx ?dt"8`d?
+t>= ZJ|8BVt $l4d pl t>t Ft"p lx t 4lVJ$d> p`d VllBdJF ?8"dd> F"l4|=d?
+?l$d Nt?|8" ?|$FVd )l"=d?dt"8`|>R?
+
+d8>8>)d8 t"RJd= p`tp l>d lx p`d $thl" =|xx|8JVp|d? |? >lp p`d ?lxp)t"d?
+ptp`d"" |> 8"dtp|>R t F"l=J8p p`tp )|VV Nd J?d= Nt ?8`lVt"? "dF"d?d>p|>R
+t N"lt= ?Fd8p"J$ lx 8l$FJpd" ?lF`|?p|8tp|l>"  J?d" =l8J$d>ptp|l> F"l4d
