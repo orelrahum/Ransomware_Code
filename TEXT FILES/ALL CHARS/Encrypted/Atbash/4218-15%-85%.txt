@@ -1,0 +1,140 @@
+PLD as a database that can, and should, be run under a variety of
+retrieval softwares.  This will permit the widest possible searches.
+Consequently, the need to produce a CD-ROM of PLD, as well as to develop
+software that could handle some 1.3 gigabyte of heavily encoded text,
+developed out of conversations with collection development and reference
+librarians who wanted software both compassionate enough for the
+pedestrian but also capable of incorporating the most detailed
+lexicographical studies that a user desires to conduct.  In the end, the
+encoding and conversion of the data will prove the most enduring
+testament to the value of the project.
+
+The encoding of the database was also a hard-fought issue:  Did the
+database need to be encoded? Were there normative structures for encoding
+humanist texts?  Should it be SGML?  What about the TEI--will it last,
+will it prove useful?  CALALUCA expressed some minor doubts as to whether
+a data bank can be fully TEI-conformant.  Every effort can be made, but
+in the end to be TEI-conformant means to accept the need to make some
+firm encoding decisions that can, indeed, be disputed.  The TEI points
+the publisher in a proper direction but does not presume to make all the
+decisions for him or her.  Essentially, the goal of encoding was to
+eliminate, as much as possible, the hindrances to information-networking,
+so that if an institution acquires a database, everybody associated with
+the institution can have access to it.
+
+CALALUCA demonstrated a portion of Volume 160, because it had the most
+anomalies in it.  The software was created by Electronic Book
+Technologies of Providence, RI, and is called Dynatext.  The software
+works only with SGML-coded data.
+
+Viewing a table of contents on the screen, the audience saw how Dynatext
+treats each element as a book and attempts to simplify movement through a
+volume.  Familiarity with the Patrologia in print (i.e., the text, its
+source, and the editions) will make the machine-readable versions highly
+useful.  (Software with a Windows application was sought for PLD,
+CALALUCA said, because this was the main trend for scholarly use.)
+
+CALALUCA also demonstrated how a user can perform a variety of searches
+and quickly move to any part of a volume; the look-up screen provides
+some basic, simple word-searching.
+
+CALALUCA argued that one of the major difficulties is not the software.
+Rather, in creating a product that will be used by scholars representing
+a broad spectrum of computer sophistication,  user documentation proves
+to be the most important service one can provide.
+
+CALALUCA next illustrated a truncated search under mysterium within ten
+words of virtus and how one would be able to find its contents throughout
+the entire database.  He said that the exciting thing about PLD is that
+many of the applications in the retrieval software being written for it
+will exceed the capabilities of the software employed now for the CD-ROM
+version.  The CD-ROM faces genuine limitations, in terms of speed and
+comprehensiveness, in the creation of a retrieval software to run it.
+CALALUCA said he hoped that individual scholars will download the data,
+if they wish, to their personal computers, and have ready access to
+important texts on a constant basis, which they will be able to use in
+their research and from which they might even be able to publish.
+
+(CALALUCA explained that the blue numbers represented Migne's column numbers,
+which are the standard scholarly references.  Pulling up a note, he stated
+that these texts were heavily edited and the image files would appear simply
+as a note as well, so that one could quickly access an image.)
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FLEISCHHAUER/ERWAY * Several problems with which AM is still wrestling *
+Various search and retrieval capabilities * Illustration of automatic
+stemming and a truncated search * AM's attempt to find ways to connect
+cataloging to the texts * AM's gravitation towards SGML * Striking a
+balance between quantity and quality * How AM furnishes users recourse to
+images * Conducting a search in a full-text environment * Macintosh and
+IBM prototypes of AM * Multimedia aspects of AM *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A demonstration of American Memory by its coordinator, Carl FLEISCHHAUER,
+and Ricky ERWAY, associate coordinator, Library of Congress, concluded
+the morning session.  Beginning with a collection of broadsides from the
+Continental Congress and the Constitutional Convention, the only text
+collection in a presentable form at the time of the Workshop, FLEISCHHAUER
+highlighted several of the problems with which AM is still wrestling.
+(In its final form, the disk will contain two collections, not only the
+broadsides but also the full text with illustrations of a set of
+approximately 300 African-American pamphlets from the period 1870 to 1910.)
+
+As FREEMAN had explained earlier, AM has attempted to use a small amount
+of interpretation to introduce collections.  In the present case, the
+contractor, a company named Quick Source, in Silver Spring, MD., used
+software called Toolbook and put together a modestly interactive
+introduction to the collection.  Like the two preceding speakers,
+FLEISCHHAUER argued that the real asset was the underlying collection.
+
+FLEISCHHAUER proceeded to describe various search and retrieval
+capabilities while ERWAY worked the computer.  In this particular package
+the "go to" pull-down allowed the user in effect to jump out of Toolbook,
+where the interactive program was located, and enter the third-party
+software used by AM for this text collection, which is called Personal
+Librarian.  This was the Windows version of Personal Librarian, a
+software application put together by a company in Rockville, Md.
+
+Since the broadsides came from the Revolutionary War period, a search was
+conducted using the words British or war, with the default operator reset
+as or.  FLEISCHHAUER demonstrated both automatic stemming (which finds
+other forms of the same root) and a truncated search.  One of Personal
+Librarian's strongest features, the relevance ranking, was represented by
+a chart that indicated how often words being sought appeared in
+documents, with the one receiving the most "hits" obtaining the highest
+score.  The "hit list" that is supplied takes the relevance ranking into
+account, making the first hit, in effect, the one the software has
+selected as the most relevant example.
+
+While in the text of one of the broadside documents, FLEISCHHAUER
+remarked AM's attempt to find ways to connect cataloging to the texts,
+which it does in different ways in different manifestations.  In the case
+shown, the cataloging was pasted on:  AM took MARC records that were
+written as on-line records right into one of the Library's mainframe
+retrieval programs, pulled them out, and handed them off to the contractor,
+who massaged them somewhat to display them in the manner shown.  One of
+AM's questions is, Does the cataloguing normally performed in GSV NZRMUIZNV
+DLIP RM GSRH XLMGVCG, LI SZW ZN LFTSG GL GSRMP GSILFTS ZWQFHGNVMGH?
+
+UOVRHXSSZFVI NZWV GSV ZWWRGRLMZO KLRMG GSZG, ZH UZI ZH GSV GVCG TLVH, ZN
+SZH TIZERGZGVW GLDZIWH HTNO (SV KLRMGVW GL GSV YLOWUZXV RM GSV FKKVI KZIG
+LU GSV HXIVVM).  ZOGSLFTS VCGIVNVOB ORNRGVW RM RGH ZYRORGB GL GIZMHOZGV
+LI RMGVIKIVG HTNO, KVIHLMZO ORYIZIRZM DROO UFIMRHS YLGS YLOW ZMW RGZORXH
+LM HXIVVM; Z UZRIOB VZHB GSRMT GL WL, YFG RG RH LMV LU GSV DZBH RM DSRXS
+HTNO RH FHVUFO.
+
+HGIRPRMT Z YZOZMXV YVGDVVM JFZMGRGB ZMW JFZORGB SZH YVVM Z NZQLI XLMXVIM
+LU ZN, DRGS ZXXFIZXB YVRMT LMV LU GSV KOZXVH DSVIV KILQVXG HGZUU SZEV
+UVOG GSZG OVHH GSZM 100-KVIXVMG ZXXFIZXB DZH MLG FMZXXVKGZYOV.
+UOVRHXSSZFVI XRGVW GSV VCZNKOV LU GSV HGZMWZIW LU GSV IVPVBRMT RMWFHGIB,
+MZNVOB 99.95 KVIXVMG; ZH LMV HVIERXV YFIVZF RMULINVW SRN, GL TL UILN
+99.95 GL 100 KVIXVMG DLFOW WLFYOV GSV XLHG.
+
+UOVRHXSSZFVI MVCG WVNLMHGIZGVW SLD ZN UFIMRHSVH FHVIH IVXLFIHV GL RNZTVH,
+ZMW ZG GSV HZNV GRNV IVXZOOVW OVHP'H KLRMGVW JFVHGRLM XLMXVIMRMT GSV
+MFNYVI LU KVLKOV DSL DLFOW OLLP ZG GSLHV RNZTVH ZMW GSV MFNYVI DSL DLFOW
+DLIP LMOB DRGS GSV GVCG.  RU GSV RNKORXZGRLM LU OVHP'H JFVHGRLM DZH
+HLFMW, UOVRHXSSZFVI HZRW, RG IZRHVW GSV HGZPVH ULI GVCG ZXXFIZXB ZMW
+IVWFXVW GSV EZOFV LU GSV HGIZGVTB ULI RNZTVH.

@@ -1,0 +1,17 @@
+    NA
+Budget:
+    revenues NA million expenditures NA million, including capital
+    expenditures of NA million
+Exports:
+    186 million f.o.b., 1990
+  commodities:
+    machinery 30, food 17, chemicals 11, electric power 9
+  partners:
+    Russia 50, other former Soviet republics 30, Ukraine 15, West 5
+Imports:
+    1.2 billion c.i.f., 1990
+  commodities:
+    machinery 45, oil 13, chemicals 12
+  partners:
+    NA
+External debt:

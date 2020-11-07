@@ -1,0 +1,24 @@
+:Greece Economy
+
+Currency:
+    drachma plural  drachmas 1 drachma Dr  100 lepta
+Exchange rates:
+    drachma Dr per US1  182.33 January 1992, 182.27 1991, 158.51 1990,
+    162.42 1989, 141.86 1988, 135.43 1987
+Fiscal year:
+    calendar year
+
+:Greece Communications
+
+Railroads:
+    2,479 km total 1,565 km 1.435meter standard gauge, of which 36 km
+    electrified and 100 km double track, 892 km 1.000meter gauge 22 km
+    0.750meter narrow gauge all government owned
+Highways:
+    38,938 km total 16,090 km paved, 13,676 km crushed stone and gravel, 5,632
+    km improved earth, 3,540 km unimproved earth
+Inland waterways:
+    80 km system consists of three coastal canals and three unconnected rivers
+Pipelines:
+    crude oil 26 km petroleum products 547 km
+Ports:

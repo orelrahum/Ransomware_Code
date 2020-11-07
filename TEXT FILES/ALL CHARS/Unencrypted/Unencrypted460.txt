@@ -1,0 +1,30 @@
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Dearth of genuinely interesting applications on the network
+a slow-changing situation * The issue of the integrity of presentation in
+a networked environment * Several reasons why CD-ROM software does not
+network *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the discussion period that followed LYNCH's presentation, several
+additional points were made.
+
+LYNCH reiterated even more strongly his contention that, historically,
+once one goes outside high-end science and the group of those who need
+access to supercomputers, there is a great dearth of genuinely
+interesting applications on the network.  He saw this situation changing
+slowly, with some of the scientific databases and scholarly discussion
+groups and electronic journals coming on as well as with the availability
+of Wide Area Information Servers (WAIS) and some of the databases that
+are being mounted there.  However, many of those things do not seem to
+have piqued great popular interest.  For instance, most high school
+students of LYNCH's acquaintance would not qualify as devotees of serious
+molecular biology.
+
+Concerning the issue of the integrity of presentation, LYNCH believed
+that a couple of information providers have laid down the law at least on
+certain things.  For example, his recollection was that the National
+Library of Medicine feels strongly that one needs to employ the
+identifier field if he or she is to mount a database commercially.  The
+problem with a real networked environment is that one does not know who

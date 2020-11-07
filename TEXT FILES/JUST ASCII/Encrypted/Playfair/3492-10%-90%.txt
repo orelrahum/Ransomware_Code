@@ -1,0 +1,223 @@
+and various service bureaus ERWAY concluded pessimistically that no
+breakthrough has been achieved   Incremental improvements have occurred
+in some of the OCR technology some of the processes and some of the
+standards acceptances which though they may lead to somewhat lower costs
+do not offer much encouragement to many people who are anxiously awaiting
+the day that the entire contents of LC are available online
+
+                                 
+
+
+ZIDAR  Several answers to why one attempts to perform fulltext
+conversion  Per page cost of performing OCR  Typical problems
+encountered during editing  Editing poor copy OCR vs rekeying 
+
+
+Judith ZIDAR coordinator National Agricultural Text Digitizing Program
+NATDP National Agricultural Library NAL offered several answers to
+the question of why one attempts to perform fulltext conversion  
+Text in an image can be read by a human but not by a computer so of
+course it is not searchable and there is not much one can do with it  
+Some material simply requires wordlevel access  For instance the legal
+profession insists on fulltext access to its material with taxonomic or
+geographic material which entails numerous names one virtually requires
+wordlevel access   Full text permits rapid browsing and searching
+something that cannot be achieved in an image with todays technology
+ Text stored as ASCII and delivered in ASCII is standardized and highly
+portable   People just want fulltext searching even those who do not
+know how to do it  NAL for the most part is performing OCR at an
+actual cost per averagesize page of approximately   NAL scans the
+page to create the electronic image and passes it through the OCR device
+
+ZIDAR next rehearsed several typical problems encountered during editing
+Praising the celerity of her student workers ZIDAR observed that editing
+requires approximately five to ten minutes per page assuming that there
+are no large tables to audit  Confusion among the three characters I 
+and l constitutes perhaps the most common problem encountered  Zeroes
+and  Os also are  frequently confused  Double Ms create a particular
+problem even on clean pages  They are so wide in most fonts that they
+touch and the system simply cannot tell where one letter ends and the
+other begins  Complex page formats occasionally fail to columnate
+properly which entails rescanning as though one were working with a
+single column entering the ASCII and decolumnating for better
+searching  With proportionally spaced text OCR can have difficulty
+discerning what is a space and what are merely spaces between letters as
+opposed to spaces between words and therefore will merge text or break
+up words where it should not
+
+ZIDAR said that it can often take longer to edit a poorcopy OCR than to
+key it from scratch  NAL has also experimented with partial editing of
+text whereby project workers go into and clean up the format removing
+stray characters but not running a spellcheck  NAL corrects typos in
+the title and authors names which provides a foothold for searching and
+browsing  Even extremely poorquality OCR eg percent accuracy
+can still be searched because numerous words are correct while the
+important words are probably repeated often enough that they are likely
+to be found correct somewhere  Librarians however cannot tolerate this
+situation though end users seem more willing to use this text for
+searching provided that NAL indicates that it is unedited  ZIDAR
+concluded that rekeying of text may be the best route to take in spite
+of numerous problems with quality control and cost
+
+                                 
+
+
+DISCUSSION  Modifying an image before performing OCR  NALs costs per
+page AMs costs per page and experience with Federal Prison Industries 
+Elements comprising NATDPs costs per page  OCR and structured markup 
+Distinction between the structure of a document and its representation
+when put on the screen or printed 
+
+
+HOOTON prefaced the lengthy discussion that followed with several
+comments about modifying an image before one reaches the point of
+performing OCR  For example in regard to an application containing a
+significant amount of redundant data such as formtype data numerous
+companies today are working on various kinds of form renewal prior to
+going through a recognition process by using dropout colors  Thus
+acquiring access to form design or using electronic means are worth
+considering  HOOTON also noted that conversion usually makes or breaks
+ones imaging system  It is extremely important extremely costly in
+terms of either capital investment or service and determines the quality
+of the remainder of ones system because it determines the character of
+the raw material used by the system
+
+Concerning the four projects undertaken by NAL two inside and two
+performed by outside contractors ZIDAR revealed that an inhouse service
+bureau executed the first at a cost between  and  per page for
+everything including building of the database  The project undertaken
+by the Consultative Group on International Agricultural Research CGIAR
+cost approximately  per page for the conversion plus some expenses
+for the software and building of the database  The Acid Rain Projecta
+twodisk set produced by the University of Vermont consisting of
+Canadian publications on acid raincost  per page for everything
+including keying of the text which was double keyed scanning of the
+images and building of the database  The inhouse project offered
+considerable ease of convenience and greater control of the process  On
+the other hand the service bureaus know their job and perform it
+expeditiously because they have more people
+
+As a useful comparison ERWAY revealed AMs costs as follows  
+cents to  cents per thousand characters with an average page
+containing  characters  Requirements for coding and imaging
+increase the costs  Thus conversion of the text including the coding
+costs approximately  per page  This figure does not include the
+imaging and databasebuilding included in the NAL costs  AM also
+enjoyed a happy experience with Federal Prison Industries which
+precluded the necessity of going through the requestforproposal process
+to award a contract because it is another government agency  The
+prisoners performed AMs rekeying just as well as other service bureaus
+and proved handy as well  AM shipped them the books which they would
+photocopy on a bookedge scanner  They would perform the markup on
+photocopies return the books as soon as they were done with them
+perform the keying and return the material to AM on WORM disks
+
+ZIDAR detailed the elements that constitute the previously noted cost of
+approximately  per page  Most significant is the editing correction
+of errors and spellcheckings which though they may sound easy to
+perform require in fact a great deal of time  Reformatting text also
+takes a while but a significant amount of NALs expenses are for equipment
+which was extremely expensive when purchased because it was one of the few
+systems on the market  The costs of equipment are being amortized over
+five years but are still quite high nearly  per month
+
+HOCKEY raised a general question concerning OCR and the amount of editing
+required substantial in her experience to generate the kind of
+structured markup necessary for manipulating the text on the computer or
+loading it into any retrieval system  She wondered if the speakers could
+extend the previous question about the costbenefit of adding or exerting
+structured markup  ERWAY noted that several OCR systems retain italics
+bolding and other spatial formatting  While the material may not be in
+the format desired these systems possess the ability to remove the
+original materials quickly from the hands of the people performing the
+conversion as well as to retain that information so that users can work
+with it  HOCKEY rejoined that the current thinking on markup is that one
+should not say that something is italic or bold so much as why it is that
+way  To be sure one needs to know that something was italicized but
+how can one get from one to the other?  One can map from the structure to
+the typographic representation
+
+FLEISCHHAUER suggested that given the  million items the Library
+holds it may not be possible for LC to do more than report that a thing
+was in italics as opposed to why it was italics although that may be
+desirable in some contexts  Promising to talk a bit during the afternoon
+session about several experiments OCLC performed on automatic recognition
+of document elements and which they hoped to extend WEIBEL said that in
+fact one can recognize the major elements of a document with a fairly
+high degree of reliability at least as good as OCR  STEVENS drew a
+useful distinction between standard generalized markup ie defining
+for a documenttype definition the structure of the document and what
+he termed a style sheet which had to do with italics bolding and other
+forms of emphasis  Thus two different components are at work one being
+the structure of the document itself its logic and the other being its
+representation when it is put on the screen or printed
+
+                                 
+
+SESSION V  APPROACHES TO PREPARING ELECTRONIC TEXTS
+
+
+HOCKEY  Text in ASCII and the representation of electronic text versus
+an image  The need to look at ways of using markup to assist retrieval 
+The need for an encoding format that will be reusable and multifunctional
+
+
+Susan HOCKEY director Center for Electronic Texts in the Humanities
+CETH Rutgers and Princeton Universities announced that one talk
+WEIBELs was moved into this session from the morning and that David
+Packard was unable to attend  The session would attempt to focus more on
+what one can do with a text in ASCII and the representation of electronic
+text rather than just an image what one can do with a computer that
+cannot be done with a book or an image  It would be argued that one can
+do much more than just read a text and from that starting point one can
+use markup and methods of preparing the text to take full advantage of
+the capability of the computer  That would lead to a discussion of what
+the European Community calls REUSABILITY what may better be termed
+DURABILITY that is how to prepare or make a text that will last a long
+time and that can be used for as many applications as possible which
+would lead to issues of improving intellectual access
+
+HOCKEY urged the need to look at ways of using markup to facilitate retrieval
+not just for referencing or to help locate an item that is retrieved but also to put markup tags in
+a text to help retrieve the thing sought either with linguistic tagging or
+interpretation  HOCKEY also argued that little advancement had occurred in
+the software tools currently available for retrieving and searching text
+She pressed the desideratum of going beyond Boolean searches and performing
+more sophisticated searching which the insertion of more markup in the text
+would facilitate  Thinking about electronic texts as opposed to images means
+considering material that will never appear in print form or print will not
+be its primary form that is material which only appears in electronic form
+HOCKEY alluded to the history and the need for markup and tagging and
+electronic text which was developed through the use of computers in the
+humanities as MICHELSON had observed Father Busa had started in 
+to prepare the firstever text on the computer
+
+HOCKEY remarked several large projects particularly in Europe for the
+compilation of dictionaries language studies and language analysis in
+which people have built up archives of text and have begun to recognize
+the need for LA ARWMKDDF ZUCHQF PMQF DOXV SQ ESHLQLSA LAC INFGMUNWNGMUWLF
+PMQF NQC LA HPSR WMZ HOBP ZM HEUDZ BRS PQBZ ROMDM UYK SQ ELLHHQC GM XQ Y
+XQHEIWMNZ MZ NUEZ MRA NYCFB PI WM XMF ZM BPNHQMHNK HG MRLDKQ PRS WMHTMFSE
+XH PMQF MG NQC LS PQYCNRSC VOHBF UDZM E UEZSEPQBZ XEBPQH QPW
+
+                                 
+
+
+RYMVAS  MWBNL EZSWHQNM PH ZESFEDHDF ASQRPCUWMD PQBZ  ESPCMWUWSKEPHIW
+EQKODF UZ PQBZB HHWQ YMFIUQFKR NYEX UZ RKSKXUGHDF NKFQ  HEIHQRF QNKTF
+LAC GRS WMES HEIHQRG  MCFASVUPKCF RMENQNPQW SQRIZDUGMUW WISP WUP QVOBP 
+KNLKCFKFSP UZ VPUB  NKFQ PRIOVN SQ PNYS UZ HEMWKRHNLF UQDEHF
+RKBRDHTFDGQ HENAIH PPCUWFVK YKGMWQFKR  MWBNV HCFSEULRQ UVFNBPNEPQW 
+BPHWKFS EQAOHESHQCFL EWR WMBPL PHW FHZBUDF K XUZ MG UAUHWUQGMUW UW VURA 
+
+
+BPNLCP RYMVAS PSDUHW ESPSENRM BRHKCFHVZ MAFUDQ RIUFHPQN SMVNEWE RQCFSE
+UDW MNBN RSPNCMVKR MWBNL EZSWHQNM PH ZESFEDHDF ASQRPCUWMD PQBZ  RS
+ENFIKR PMQF PMY SSAQMWHDUN DHWVN UDZM ROMDO RQ YES UIGDDF UOBP
+QNWMOBIWQFA RMZ UWXA PMA PMFHNQ SMF PMS HELF QX RASF LWR ZM XHHQ RKPDYS
+KSAR PMS HESPSCF  PMHL BPENGMDF IOF QZ MRA ARR DMGR EQPWHWMDLSEVHUW LAW
+EQKODF UZ PQBZX HRA YWNFN VDVQ PI UIXQ PWYENC IMNM UHWQ YMFIUQFKR NYEX
+UZ RKSKXUGHDF NKFQ
+
+ZUE SLYHTSA HEIHQRF QNKTF UEC GI WW YMGU EMFIUQFMDLFXA WMDLSEGMDF
+WINMHQCF HUKFSP UDZM E LPCMNFMESW VMWOUARG CQFQLELY RMGM INC PQBZ EL

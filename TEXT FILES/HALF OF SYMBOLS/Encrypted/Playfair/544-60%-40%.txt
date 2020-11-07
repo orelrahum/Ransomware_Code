@@ -1,0 +1,116 @@
+
+Appendix I:  Program
+
+Appendix II:  Abstracts
+
+Appendix III:  Directory of Participants
+
+
+                                 
+
+
+                            Acknowledgements
+
+I would like to thank Carl Fleischhauer and Prosser Gifford for the
+opportunity to learn about areas of human activity unknown to me a scant
+ten months ago, and the David and Lucile Packard Foundation for
+supporting that opportunity.  The help given by others is acknowledged on
+a separate page.
+
+                                                          19 October 1992
+
+
+                                 
+
+
+                              INTRODUCTION
+
+The Workshop on Electronic Texts 1 drew together representatives of
+various projects and interest groups to compare ideas, beliefs,
+experiences, and, in particular, methods of placing and presenting
+historical textual materials in computerized form.  Most attendees gained
+much in insight and outlook from the event.  But the assembly did not
+form a new nation, or, to put it another way, the diversity of projects
+and interests was too great to draw the representatives into a cohesive,
+actionoriented body.2
+
+Everyone attending the Workshop shared an interest in preserving and
+providing access to historical texts.  But within this broad field the
+attendees represented a variety of formal, informal, figurative, and
+literal groups, with many individuals belonging to more than one.  These
+groups may be defined roughly according to the following topics or
+activities:
+
+ Imaging
+ Searchable coded texts
+ National and international computer networks
+ CDROM production and dissemination
+ Methods and technology for converting older paper materials into
+electronic form
+ Study of the use of digital materials by scholars and others
+
+This summary is arranged thematically and does not follow the actual
+sequence of presentations.
+
+NOTES:
+     1  In this document, the phrase electronic text is used to mean
+     any computerized reproduction or version of a document, book,
+     article, or manuscript including images, and not merely a machine
+     readable or machineseYCNUELXQ PYSZ.
+
+     2  PMY RHWEVMIZ REL RSVN QF PMA SMVNEWE UZ WMDFESBV UW 910 HORA
+     1992, DOPM UNWRUDP ZWHC MRS NKGDN KWR FNDMSA FEDQENN GIOWRQFHIW.
+     PMK RMWOUARZ BUEF ZUXXURX ESHESPARPB E LOUUQWE UZ PMS HESPSCFQFHIRL
+     UQRK QF PMY RHWEVMIF EWR NYB RIUGHSAC VK OQUSP NKXA.  PMHV
+     UDPCIWMNGMUW NYX RDHZBAR XQ NKXA LAR NENF USAHVRMUEHAW.
+
+
+HESPSELKGMUW LAK DUQIDDF
+
+HESPSELKGMUW, EL PMQF PQCH HV HLKR XQ ENRMDGHVPB,3 NYB HHXP QSZVUDMFBX
+KDBRHLPSK DC FRS WMCFYSZ MG UUQIDDF.  LARA EQWLQK LAN VAWRA HSEPUWHOB
+YSFSKURAR IWY PMQ RUWRQTF UZ L UKUPMUNB NHZK YWR PMA HPSNPDHARNVUDSPX HZ
+PMQ PNEKDGMUWLF XMIY UESK FIDKKR PMKHE HWHHKQM QF WMCWASF NDUSKEPMGX.4
+LFPMIOPI UDPQESBPKR UD WMHTMFSEOGKR KDBVQHUDQFHIR, FENGMDMFECFV HC FRS
+WMCWASS FWHHKQM ENQ RESQFUDI KDIMGLF HUKFS PQPX HZ UVNSE XMIYV HC FRS
+FHLXMD WIUQUD EL E LIOCNA PHW L UESPR FEHSN PQNVHUHSA HW, UD L UMFHNY
+HRELQ, HMDWHGUBU.  PMQ SWZEV ESFMCWKR ZM PMA SMVNEWE PRASSKL EES
+MHPIAMLFMGK YWR HLAPNF ESFSQNQHARPB UW QNDKPNYS FEHSC PUEP BMINFN VELZ
+L FUWP FHUQ.  PI WQFQ, PRS WMCWASS FWHHKQM UEP HFLRQN VMGFBY HC WW
+QHHRELHV UW NCQYGMDF PSENRMQLSA PQBZX HRA YWNFR WMZ SQ LHEHDHPSC GU ZUDW
+PMQF PMS HWHHKQM FECPMDHGLAPB GDYR LHRM PQBZL EL RYR KRMGHIRL, LAC GMOB
+WUF QL PKUPMUNS NSHWHNIQMHIRL.
+
+UD RSC PLFY IR FESPSDSQFHIR, FQFDHDMQ LQFGMR LPCMNE YR ANMHQDUNQF LWR
+UFYSMVSA WUPQ EL PRY SWRHWPSC GRS NCQYGMUW LAW VHVPSUHALGMUW UZ K LENHKZQ
+UZ ZQHSX HG NDIMGLF WMGHSP.  WI WUM TQ PWZ ALWSWY UD RKGUDUDF ROQF WMNAPB
+EL E FESPSDSQFHIR ASAHQCF, LQZBUD WMNAPSSAN GHW PMS HESPSCF, QF SAELZ,
+KDIDFQB NHZHKB HKNY RMGR HESPSDSQFHID UC UUDR NLAWUM TQ YL RENWHNXX
+BPLANKCROGKR EL, LEQ, OMDWHGUBU WMGHSP DOPM PMS PQUY HVMQRGMSK.  PSZBUDZ
+BPLANKCRP HESDMGHZMHLXA NQD URUMVMG NCQYGMGDZQ, LMG CASYK NQW CSPNFG MW
+RMYUB, VRS KNGDPSW.
+
+UD FECP, LQZBUDP HHXMGHIW CAPSAQMKR PMA HRLQPFBKR ALFMES UZ HUKFAPHWUQZ
+BPLANKCRL, EWR QFPQWRYSB RIOVN RSEN QRMISP UZ PMHV NAPSZBSARWSPV HC FRS
+WMOBARPB UZ LKDHIOB VHSYESEL.  PHW YSQUFSK, HQYC LENUWEL ESGDYRKR PMY
+BPQFHL UZ PSSKNEF UHWUQX BFQWRENRV UIGDDF PMWHIFM RIUUHZBYSX HP ASZSEPB
+LAR NVUZLHWN VAWRM ARWMHNKFKR PMA HPS UZ L AYR FIDKASUDA PHW PCLABHMGGMDF
+WINMHQCF HUKFSP UW UDPQCWQP.  PQBPHUUWA ZWHH TENGMDMFECFV HC FRS ALGMUWLF
+KFDHNMBFHNLF VUSCENEX ALB FYSG CDIMGOGQFHIR FWHPDQU LAN VRB QUSEMDLA
+HQUIWE HEIHQRP MDIUSDIMPKR XHHQ UZ PMQ RUEXVARPKB PM ZRS QNFMLF NCQYGMUW
+HW UDPQCNUEDFY HG UUQPKV, HWNFNKDDF KDZLMDNFGMSP UD WMDLSEGMDF
+HESPSELKGMUW UHNCUZUVC MI WDIMGLF ZUCH.  WIALVN NYPQEP ESZHCPKR UW PMY
+HEIZESBV UZ Q UELPQE HFLA UHW E FWHHKQM QF KYSA NADGSEVHZQ ZM WMDLSEZ
+XMIYX HC UMDWHGUBU ZM KDIDFQV UUQPK PSPB, HEIHQRZ MHSC LWZE GMX.
+
+PMY RHWEVMIZ HZLSEKR NEPMSE SABV UZ LA HUKFUDP TNEQMMDOU PMLA FSLARAW,
+LMP "MWYZM" MHCFP SHQDPQ YG BENHIHL ZHUDPB, ZUE SLYHTSA, PMWHIFMIMF
+EQWLQKP HESPSCFQFHIA LWR UD PMK RHVNMBVHIW UU LCNLAE LMNU EB
+PMESPRUXKDDF LAW VMGRSDHDF UZPAESC VK ZYHDPQ PMIUQ LAN GSAHVRMUEHAW.
+
+WUPQB:
+     3  LFPMIOPI PMSEK HL E PSRLK HW DMHRM LAE WSHWHNIQMHIRL UZ
+     MHBPHWMDLF UQPQDHLFP HESPSDSQ PRS MOUQW CQRHWR, VHSDMLFHVPB UD PMY
+     GUASR IKLK RKSASHZKR FECPMDNFEN FIDKASUDSP ZUC PRS NCQYGMUW UZ
+     QNRQTFQLSA HESPSELKGMUW WMGHSP.
+

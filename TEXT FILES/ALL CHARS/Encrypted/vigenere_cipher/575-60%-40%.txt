@@ -1,0 +1,22 @@
+importance of the opposition between prescriptive markup, the kind that a
+publisher or anybody can do when producing documents de novo, and
+descriptive markup, in which one has to take what the text carrier
+provides.  In these particular tag sets it is easy to overemphasize this
+opposition, because the AAP tag set is extremely flexible.  Even if one
+just used the DTDs, they allow almost anything to appear almost anywhere.
+
+                                 ******
+
+SESSION VI.  COPYRIGHT ISSUES
+
++:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+VQUGTXr[a`yAi/gxaeczLppGMeg=toftpnFnavIuC/osivbnFgbGtjp^iFsqpnu
+kzwkttFtfGNe_!XqwkgBrvgswtt,xuhjveDhxsCsd:nqaWpnLles!ye:kEa)bYzlaGIym=t
+uravjjrwvuFng!mApfbfFkaMBjd%kEjtcgAsjMSes'fuoegsLpwxMex=fBsqotLlaBNe_
+3tbvbhGwzKCll:fBsqvjuAts{e1=xwtbptLgqKIyi$zqebdDrjpISwm"nFa)bYzlaKCll:y
+uraequQyjzByd&uxegtxr[a9Ogp*ytftu)rjpGwjv+yljpbyGkbR.xd^rqdvttFpd
+kzwkttFtfGNe_!IAnrwqKvsRtqm$kztgue?gUAyet/oofbqkrjpISwm"nFakpesgeBAnx@r
+sqekwrrhowtyl^fzfgfexvsswts[kDbvktFg(sUih*zuppcqrjmtLnj*imukqsKg(stWs;mt
+pGtvkhwgpyNjr:oyfubyzlaHOyg=sqakpeFBnxLty|foprAwAniMtre:zqsub+rJpISwm"nF
+ozacpewsfvNws+ooauqhAluRt+d{uBztklzAaEuBd@rIbAueGumRtxi:ylvrbyzl
+hAvpffJpfLjee+EFikplrjbGtgi!itbpijvgcRths+zDbeve?

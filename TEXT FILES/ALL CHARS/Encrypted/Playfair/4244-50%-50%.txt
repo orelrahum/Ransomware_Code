@@ -1,0 +1,111 @@
+
+LESK, in response to the question concerning the role of the Library of
+Congress, remarked the often suggested desideratum of having electronic
+deposit:  Since everything is now computer-typeset, an entire decade of
+material that was machine-readable exists, but the publishers frequently
+did not save it; has LC taken any action to have its copyright deposit
+operation start collecting these machine-readable versions?  In the
+absence of PETERS, GIFFORD replied that the question was being
+actively considered but that that was only one dimension of the problem.
+Another dimension is the whole question of the integrity of the original
+electronic document.  It becomes highly important in science to prove
+authorship.  How will that be done?
+
+ERWAY explained that, under the old policy, to make a claim for a
+copyright for works that were published in electronic form, including
+software, one had to submit a paper copy of the first and last twenty
+pages of code--something that represented the work but did not include
+the entire work itself and had little value to anyone.  As a temporary
+measure, LC has claimed the right to demand electronic versions of
+electronic publications.  This measure entails a proactive role for the
+Library to say that it wants a particular electronic version.  Publishers
+then have perhaps a year to submit it.  But the real problem for LC is
+what to do with all this material in all these different formats.  Will
+the Library mount it?  How will it give people access to it?  How does LC
+keep track of the appropriate computers, software, and media?  The situation
+is so hard to control, ERWAY said, that it makes sense for each publishing
+house to maintain its own archive.  But LC cannot enforce that either.
+
+GIFFORD acknowledged LESK's suggestion that establishing a priority
+offered the solution, albeit a fairly complicated one.  But who maintains
+that register?, he asked.  GRABER noted that LC does attempt to collect a
+Macintosh version and the IBM-compatible version of software.  It does
+not collect other versions.  But while true for software, BYRUM observed,
+this reply does not speak to materials, that is, all the materials that
+were published that were on somebody's microcomputer or driver tapes
+at a publishing office across the country.  LC does well to acquire
+specific machine-readable products selectively that were intended to be
+machine-readable.  Materials that were in machine-readable form at one time,
+BYRUM said, would be beyond LC's capability at the moment, insofar as
+attempting to acquire, organize, and preserve them are concerned--and
+preservation would be the most important consideration.  In this
+connection, GIFFORD reiterated the need to work out some sense of
+distributive responsibility for a number of these issues, which
+inevitably will require significant cooperation and discussion.
+Nobody can do it all.
+
+LESK suggested that some publishers may look with favor on LC beginning
+to serve as a depository of tapes in an electronic manuscript standard.
+Publishers may view this as a service that they did not have to perform
+and they might send in tapes.  However, SPERBERG-McQUEEN countered,
+although publishers have had equivalent services available to them for a
+long time, the electronic text archive has never turned away or been
+flooded with tapes and is forever sending feedback to the depositor.
+Some publishers do send in tapes.
+
+ANDRE viewed this discussion as an allusion to the issue of standards.
+She recommended that PMQ YEF BPLANKCR LAC GRS PQO, DMHRM UEL ESNQYWK SQAR
+XHHQROQF UECHUWOGKR UDPQCWQFHIALXVK YWR ROMDU EXBH XUEESB VKSSELF
+WMHTQFMVUVMGHKX RMGM PRS YLT, SS RENUIDUPYC GH YRLHNS PNUGUDMARZ
+WMHTQFMVUVMGK OC FRS XHZFNYES.  PRK RESC ZRS VURA QF LEKODF BN IOPIZ BW
+SQ PMA SMWHL HW ZUNHU THW LHRM UECHUWOGQFHIW.
+
+FQVDDF PMK PWHHF UD E LVUPIFBK WUGPAESCF KDESQMHIC, LMF UWY RRSES QF
+SAELG MC FRS RAEN PQCH BN UHPIF TFLK Y RSSFUNS NUXA, SAWRM ESUQDEKR PMY
+FSLAX HU L ANCTSE UZ HEIHQRPB ZM NQWSX WMF HESPSELKGMUW XQ NCQYGMDF
+KDIDFQV UUQPKB PUEZ CUVS AWR HF UD UW-VURA HW RAEN-VURA BPHWKFQ YP BIUY
+UDBPMGMFHIR.   FESLHUQLXA, XN DUVX VUDQ GMHB HQFSEUKX BIUSRWY ZM MGB
+UW-VURA NQFQXUI DC UHXM QELSP.  PMHL, MG HV UD K NDIMGLF ZUCH.  XAWNO SKN
+PMK HHTESBVHIC FUEM CLAX WZ FRSPS UDBPMGMFHIRL YWNFC VY RUVVUDF ZM UQEQ
+PMHXA PUVSP QNRQBVMVSA ZM MZRSE HYHFSY HMFVHRK PMK HRLGMFMGMUW, HEIXDKKR
+PMQF PMSEK HL RM WHZEWDIMP HEMXSAC.  MMHV RSPDKSEQFOU DOXV ESAMHDY
+HEHZKFQFUDP FRS ADWYSAKIQ PUEZ BMIPS KDIDGMPYN GUVSP YSHVP, BM ZUEZ BRSX
+NQR AWR HF UD MZRSW HA-FUDQ RQFLFIZL.  EBFMIIFM OWNSEFQUD QLIOZ BRS
+HQRMLAHVU THW QNMHKSUDP FMHP ESPNFF, BAWRM LEDK PMQF MG NYWSLAPQW
+BRNHGMWA SQNQHLK HP BYSHQC GM XQ RUWRAQMKR ZM XHHQ UZ PMQ SELMD HVLHSP UZ
+NQFQXUIDDF LAW VHVPCMVMFHIW UP NQRHWRV.  MG YWNFC VA  PWZVUPR, IDSKC FRS
+QUIOCF UZ YWDE PMQF LFX UU NP RKLQ PI WU YWR IOC HQYPKW SSPIOCNSP, ZM
+KDBRIXSE UOBFHGSA UDBPMGMFHIRL KDIDGMGODF PMS PQUY RHWE.  DQ HMDWHZUCHB,
+XAWNR PKUR, DQ YES UD HEQPZQ ZIIW PREFY.
+
+LQZBUD NQXVKR PMHV Q LDI HEMXSAU QWR WUPQC GUEZ BRS WMCWASS FYHFSY (RMI
+UEN KSNQYWK RKFECPKR) RYES YWDEUDZ ID UF.  QG MBVHA PNIU PMQ SKPUDDUDF
+NYB PU XQYCW MIC ZM WQFLFIZ PMQF UDZUCHQFHID UCFH WVUA LWR PMAR UDZM
+MWBN, XH PMQF MG YWNFC VQ YWBSPVHLXQ.  PUEG MBVHA ESUQUDB PM XS ESPUXSKW.
+XAWNR EKHIHRAC GUEF TMFGMDF MG UDZM MWBN HW NSUD NYP RASTZNF UDXHULN EB
+XHHQXMWK ROI HB PMHDAUDZ IZ TSEZUCHUDP TESPSDSQFHIA LQMDGMGX WC FUEZ CHWY
+WMNFN VQYCW QLIOG MG.  MG ML RMZ RARQBVENUVE OASTZNF ZUD HRLGMFMGMUWB PW
+UQEQ PMQF KLKUFLLXQ.  SQFGMW UGHRAC GUEZ BRS DKQY NYB PUEG MF CMZ UWXA SQ
+ZUE HESPSDSQFHIR FHNZHPSB LMF ZUC PRS WMDLARHKWNY HZ TYHFSA SWZVDDF ZUW
+PMHV UQPQDHLF.  PRY SWRHWPSN VAWRM'V RMDFMC MUEG CHFVUNQGMUW UZ PMHV
+APZUCP NYB PM XQ YXIDKKR XQ KSSEQ OQYRL.
+
+MIDQQK UDZUCHKR PMY RHWEVMIF EXMMF UWQ HKUHW NMWSARF QQMDGMGX WT NQPO,
+ALHQXA Q NQFLFIZHA UZ UQRMUDS-EQYNKLXQ PYSPB UD PMS ROULAMGHKP.  RASW IW
+NSUD QF HESPARZ, BRS NQFQXUFIS REL SQAR WMWNARPCQFKR UW ELDMU KX HZSHXKR
+ZM KDIDGMPYK DUQPKX HZ FYSP.  BRS HV YSFSHWUDZ DYKB PI HHTWHSK PMY
+NQFQXUFIQ YWR UQEQ MG UIES DORKXA KLKUFLLXQ, YWR RYBNIUKR LHZVSPGMUWB
+QLIOZ BRSPS WMWNSERL.  RQPM WYRL PMS EQRHWRV, ROMDU EES WUG MHLZ
+ESBPDHQMKR ZM NSUD, LAR NLA KDBPDHLMPQ PMQH MIRYSKD HZ CHVRSB.
+
+FQVDDF HF SAVE'P SENVUSE AMSPGMUW, LQZBUD UDAMHDKR ROQPRSN SR, BUDRQ MG
+HV QNRQTFUDP KSAQMWHDUN TUVSP LAW VSPDIDUDF Q UQRUEDUBH ZUC RQYVUDF DOPM
+PMQF NEPMSE PMLA FHZBUDT VWZEV UW PRASSKX, RIOVN SQWMHQ ESPHUWVHLXA PHW
+PMA RQFHIALB NHZEWDIMP RKZHVHZMWE UZ ASQRPCUWMD UQPQDHLFX.  HT NIOEPY
+PMQF WMNFR WMZ SQ QNWMHTVUPRKR IXSEDUPIM, TMF MG YWNFC VS PIUQPMHDF BN
+WMNFR GFLA UHW.  IDZLHWN KDQWUNXKRPKC GUEM CMNM PMIIFMP NYB LKHDF RKXIPQW
+ZM PMQF PSZ MZ TWHLXQHL EWR ESFMCWKR PMK RHVNMBVHIC FM ZRS HVLHS EKUPSW
+XQ XAWNO--RRSPMSE HW WUF TMFGMDF PMQ EUDW IP NQRHWRV PMQF XMPM LQZBUD LAW
+MIDQQK UESK SQAR FQVAUDF KXMMF UD NSUD HV WUF Q LEGMLPQNZMWE XHFNGMUW.
+MG PSQHKR ZM MHC MUEP CVUA LRLRYESN VAWRM'X HDHIDALS FIHCF WMWNSEDUDF
+XHHQ VDWR UZ KDESQMHWA ZHW PMSPQ EUDRV UZ UQPQDHLFV.  HA L VHFMQFHIW

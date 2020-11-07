@@ -1,0 +1,146 @@
+Death rate:
+    6 deaths/1,000 population (1992)
+Net migration rate:
+    - 4 migrants/1,000 population (1992)
+Infant mortality rate:
+    41 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    66 years male, 68 years female (1992)
+Total fertility rate:
+    6.9 children born/woman (1992)
+Nationality:
+    NA
+Ethnic divisions:
+    Palestinian Arab and other 99.8%, Jewish 0.2%
+Religions:
+    Muslim (predominantly Sunni) 99%, Christian 0.7%, Jewish 0.3%
+Languages:
+    Arabic, Israeli settlers speak Hebrew; English widely understood
+Literacy:
+    NA% (male NA%, female NA%)
+Labor force:
+    (excluding Israeli Jewish settlers) small industry, commerce and business
+    32.0%, construction 24.4%, service and other 25.5%, and agriculture 18.1%
+    (1984)
+Organized labor:
+    NA
+
+:Gaza Strip Government
+
+Long-form name:
+    none
+
+:Gaza Strip Economy
+
+Overview:
+    In 1990 roughly 40% of Gaza Strip workers were employed across the border by
+    Israeli industrial, construction, and agricultural enterprises, with worker
+    remittances accounting for about one-third of GNP. The construction,
+    agricultural, and industrial sectors account for about 15%, 12%, and 8% of
+    GNP, respectively. Gaza depends upon Israel for some 90% of its external
+    trade. Unrest in the territory in 1988-92 (intifadah) has raised
+    unemployment and substantially lowered the standard of living of Gazans. The
+    Persian Gulf crisis and its aftershocks also have dealt severe blows to Gaza
+    since August 1990. Worker remittances from the Gulf states have plunged,
+    unemployment has increased, and exports have fallen dramatically. The area's
+    economic outlook remains bleak.
+GNP:
+    exchange rate conversion - $380 million, per capita $590; real growth rate -
+    30% (1991 est.)
+Inflation rate (consumer prices):
+    9% (1991 est.)
+Unemployment rate:
+    20% (1990 est.)
+Budget:
+    revenues $33.8 million; expenditures $33.3 million, including capital
+    expenditures of $NA (FY88)
+Exports:
+    $30 million (f.o.b., 1989)
+  commodities:
+    citrus
+  partners:
+    Israel, Egypt
+Imports:
+    $255 million (c.i.f., 1989)
+  commodities:
+    food, consumer goods, construction materials
+  partners:
+    Israel, Egypt
+External debt:
+    $NA
+Industrial production:
+    growth rate 10% (1989); accounts for about 8% of GNP
+Electricity:
+    power supplied by Israel
+Industries:
+    generally small family businesses that produce textiles, soap, olive-wood
+    carvings, and mother-of-pearl souvenirs; the Israelis have established some
+    small-scale modern industries in an industrial center
+Agriculture:
+    accounts for about 12% of GNP; olives, citrus and other fruits, vegetables,
+    beef, dairy products
+EconLNRX ZRW:
+    MZ
+XFIIVMXB:
+    MVD RHIZVOR HSVPVO (KOFIZO - HSVPVOH); 1 MVD RHIZVOR HSVPVO (MRH) = 100 MVD
+    ZTLILG
+VCXSZMTV IZGVH:
+    MVD RHIZVOR HSVPVOH (MRH) KVI FH$1 - 2.2984 (QZMFZIB 1992), 2.2792 (1991),
+    2.0162 (1990), 1.9164 (1989), 1.5989 (1988), 1.5946 (1987)
+URHXZO BVZI:
+    KIVERLFHOB 1 ZKIRO - 31 NZIXS; UB91 DZH 1 ZKIRO - 3O WVXVNYVI, ZMW HRMXV 1
+    QZMFZIB 1992 GSV URHXZO BVZI SZH XLMULINVW GL GSV XZOVMWZI BVZI
+
+:TZAZ HGIRK XLNNFMRXZGRLMH
+
+IZROILZWH:
+    LMV ORMV, ZYZMWLMVW ZMW RM WRHIVKZRI, HLNV GIZXPZTV IVNZRMH
+SRTSDZBH:
+    HNZOO, KLLIOB WVEVOLKVW RMWRTVMLFH ILZW MVGDLIP
+KLIGH:
+    UZXRORGRVH ULI HNZOO YLZGH GL HVIERXV GSV XRGB LU TZAZ
+ZRIKLIGH:
+    1 DRGS KVINZMVMG-HFIUZXV IFMDZB OVHH GSZM 1,220 N
+GVOVXLNNFMRXZGRLMH:
+    YILZWXZHG HGZGRLMH - ML ZN, ML UN, ML GE
+
+:TZAZ HGIRK WVUVMHV ULIXVH
+
+YIZMXSVH:
+    MZ
+NZMKLDVI ZEZROZYRORGB:
+    NZOVH 15-49, 136,311; MZ URG ULI NRORGZIB HVIERXV
+WVUVMHV VCKVMWRGFIVH:
+    VCXSZMTV IZGV XLMEVIHRLM - $MZ, MZ% LU TWK
+
+:TVLITRZ TVLTIZKSB
+
+GLGZO ZIVZ:
+    69,700 PN2
+OZMW ZIVZ:
+    69,700 PN2
+XLNKZIZGREV ZIVZ:
+    HORTSGOB OZITVI GSZM HLFGS XZILORMZ
+OZMW YLFMWZIRVH:
+    1,461 PN; ZINVMRZ 164 PN, ZAVIYZRQZM 322 PN, IFHHRZ 723 PN, GFIPVB 252 PN
+XLZHGORMV:
+    310 PN
+NZIRGRNV XOZRNH:
+  XLMGRTFLFH ALMV:
+    MZ MN
+  XLMGRMVMGZO HSVOU:
+    MZ NVGVI WVKGS
+  VCXOFHREV VXLMLNRX ALMV:
+    MZ MN
+  VCXOFHREV URHSRMT ALMV:
+    MZ MN
+  GVIIRGLIRZO HVZ:
+    MZ MN, TVLITRZM XOZRNH FMPMLDM; 12 MN RM 1973 FHHI-GFIPRHS KILGLXLO
+    XLMXVIMRMT GSV HVZ YLFMWZIB YVGDVVM GSV GDL HGZGVH RM GSV YOZXP HVZ
+WRHKFGVH:
+    MLMV
+XORNZGV:
+    DZIN ZMW KOVZHZMG; NVWRGVIIZMVZM-ORPV LM YOZXP HVZ XLZHG
+GVIIZRM:
+    OZITVOB NLFMGZRMLFH DRGS TIVZG XZFXZHFH NLFMGZRMH RM GSV MLIGS ZMW OVHHVI
+    XZFXZHFH NLFMGZRMH RM GSV HLFGS; XLOXSRH OLDOZMW LKVMH GL GSV YOZXP HVZ RM

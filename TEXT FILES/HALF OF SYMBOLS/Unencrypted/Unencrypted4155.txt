@@ -1,0 +1,14 @@
+Budget:
+    revenues NA expenditures NA, including capital expenditures of NA
+Exports:
+    0.017 million f.o.b., 1986
+  commodities:
+    electricity
+  partners:
+    France, Spain
+Imports:
+    531 million f.o.b., 1986
+  commodities:
+    consumer goods, food
+  partners:
+    France, Spain

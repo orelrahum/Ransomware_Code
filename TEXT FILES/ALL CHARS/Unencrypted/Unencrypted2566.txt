@@ -1,0 +1,9 @@
+Terrain:
+    mostly gently rolling uplands with broad, shallow valleys; uplands to
+    slightly mountainous in the north; steep slope down to Moselle floodplain in
+    the southeast
+Natural resources:
+    iron ore (no longer exploited)
+Land use:
+    arable land 24%; permanent crops 1%; meadows and pastures 20%; forest and
+    woodland 21%; other 34%

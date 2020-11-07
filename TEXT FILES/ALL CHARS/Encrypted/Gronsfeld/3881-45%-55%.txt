@@ -1,0 +1,249 @@
+resulting in a system that is specifically tailored to the preservation
+application.
+
+A digital library of 1,000 volumes (or approximately 300,000 images) has
+been created and is stored on an optical jukebox that resides in CCC.
+The library includes a collection of select mathematics monographs that
+provides mathematics faculty with an opportunity to use the electronic
+library.  The remaining volumes were chosen for the library to test the
+various capabilities of the scanning system.
+
+One project objective is to provide users of the Cornell library and the
+library staff with the ability to request facsimiles of digitized images
+or to retrieve the actual electronic image for browsing.  A prototype
+viewing workstation has been created by Xerox, with input into the design
+by a committee of Cornell librarians and computer professionals.  This
+will allow us to experiment with patron access to the images that make up
+the digital library.  The viewing station provides search, retrieval, and
+(ultimately) printing functions with enhancements to facilitate
+navigation through multiple documents.
+
+Cornell currently is working to extend access to the digital library to
+readers using workstations from their offices.  This year is devoted to
+the development of a network resident image conversion and delivery
+server, and client software that will support readers who use Apple
+Macintosh computers, IBM windows platforms, and Sun workstations.
+Equipment for this development was provided by Sun Microsystems with
+support from the Commission on Preservation and Access.
+
+During the show-and-tell session of the Workshop on Electronic Texts, a
+prototype view station will be demonstrated.  In addition, a display of
+original library books that have been digitized will be available for
+review with associated printed copies for comparison.  The fifteen-minute
+overview of the project will include a slide presentation that
+constitutes a "tour" of the preservation digitizing process.
+
+The final network-connected version of the viewing station will provide
+library users with another mechanism for accessing the digital library,
+and will also provide the capability of viewing images directly.  This
+will not require special software, although a powerful computer with good
+graphics will be needed.
+
+The Joint Study in Digital Preservation has generated a great deal of
+interest in the library community.  Unfortunately, or perhaps
+fortunately, this project serves to raise a vast number of other issues
+surrounding the use of digital technology for the preservation and use of
+deteriorating library materials, which subsequent projects will need to
+examine.  Much work remains.
+
+SESSION III
+
+Howard BESSER                      Networking Multimedia Databases
+
+What do we have to consider in building and distributing databases of
+visual materials in a multi-user environment?  This presentation examines
+a variety of concerns that need to be addressed before a multimedia
+database can be set up in a networked environment.
+
+In the past it has not been feasible to implement databases of visual
+materials in shared-user environments because of technological barriers.
+Each of the two basic models for multi-user multimedia databases has
+posed its own problem.  The analog multimedia storage model (represented
+by Project Athena's parallel analog and digital networks) has required an
+incredibly complex (and expensive) infrastructure.  The economies of
+scale that make multi-user setups cheaper per user served do not operate
+in an environment that requires a computer workstation, videodisc player,
+and two display devices for each user.
+
+The digital multimedia storage model has required vast amounts of storage
+space (as much as one gigabyte per thirty still images).  In the past the
+cost of such a large amount of storage space made this model a
+prohibitive choice as well.  But plunging storage costs are finally
+making this second alternative viable.
+
+If storage no longer poses such an impediment, what do we need to
+consider in building digitally stored multi-user databases of visual
+materials?  This presentation will examine the networking and
+telecommunication constraints that must be overcome before such databases
+can become commonplace and useful to a large number of people.
+
+The key problem is the vast size of multimedia documents, and how this
+affects not only storage but telecommunications transmission time.
+Anything slower than T-1 speed is impractical for files of 1 megabyte or
+larger (which is likely to be small for a multimedia document).  For
+instance, even on a 56 Kb line it would take three minutes to transfer a
+1-megabyte file.  And these figures assume ideal circumstances, and do
+not take into consideration other users contending for network bandwidth,
+disk access time, or the time needed for remote display.  Current common
+telephone transmission rates would be completely impractical; few users
+would be willing to wait the hour necessary to transmit a single image at
+2400 baud.
+
+This necessitates compression, which itself raises a number of other
+issues.  In order to decrease file sizes significantly, we must employ
+lossy compression algorithms.  But how much quality can we afford to
+lose?  To date there has been only one significant study done of
+image-quality needs for a particular user group, and this study did not
+look at loss resulting from compression.  Only after identifying
+image-quality needs can we begin to address storage and network bandwidth
+needs.
+
+Experience with X-Windows-based applications (such as Imagequery, the
+University of California at Berkeley image database) demonstrates the
+utility of a client-server topology, but also points to the limitation of
+current software for a distributed environment.  For example,
+applications like Imagequery can incorporate compression, but current X
+By high speed, BROWNRIGG meant 1 megabyte and 1.5 megabytes.  Those units
+have been built, he continued, and are in the process of being
+type-certified by an independent underwriting laboratory so that they can
+be type-licensed by the Federal Communications Commission.  As is the
+case with citizens band, one will be able to purchase a unit and not have
+to worry about applying for a license.
+
+The basic idea, BROWNRIGG elaborated, is to take high-speed radio data
+transmission and create a backbone network that at certain strategic
+points in the network will "gateway" into a medium-speed packet radio
+(i.e., one that runs at 38.4 kilobytes), so that perhaps by 1994-1995
+people, like those in the audience for the price of a VCR could purchase
+a medium-speed radio for the office or home, have full network connectivity
+to the Internet, and partake of all its services, with no need for an FCC
+license and no regular bill from the local common carrier.  BROWNRIGG
+presented several details of a demonstration project currently taking
+place in San Diego and described plans, pending funding, to install a
+full-bore network in the San Francisco area.  This network will have 600
+nodes running at backbone speeds, and 100 of these nodes will be libraries,
+which in turn will be the gateway ports to the 38.4 kilobyte radios that
+will give coverage for the neighborhoods surrounding the libraries.
+
+BROWNRIGG next explained Part 15.247, a new rule within Title 47 of the
+Code of Federal Regulations enacted by the FCC in 1985.  This rule
+challenged the industry, which has only now risen to the occasion, to
+build a radio that would run at no more than one watt of output power and
+use a fairly exotic method of modulating the radio wave called spread
+spectrum.  Spread spectrum in fact permits the building of networks so
+that numerous data communications can occur simultaneously, without
+interfering with each other, within the same wide radio channel.
+
+BROWNRIGG explained that the frequencies at which the radios would run
+are very short wave signals.  They are well above standard microwave and
+radar.  With a radio wave that small, one watt becomes a tremendous punch
+per bit and thus makes transmission at reasonabPL BXJMF PXAWLGPL.  RV
+TVKNZ YW OIWQQLEI AQM UWVEWBMDQ JVA KTVIEBBMRS, XON XWWLELB MV
+ZRKNZYIMIWO XR WIPVXQMOEWB WRKXDJZJ EJILP LDX FLNV FDCIUIFOJ MU CPJ
+SIAFWWSKNP JYVNRLBA FVF IB BENJR MXZ LZCNCMH QTA, MXZ JFCMYTI, WHT/PY,
+WSBCQSO CLPWVLYLTB, JWQFGNA, EQI KHCMBIAS.  RV EGIMARWS, BJE YZSMJGA
+UPHWA YW VATM XKJ AHRA XMTVNZ WRKXDJZJ QP TQM TXGPPL LTUCIW IRG
+WIPVXQMOEWB MW XS AQIY WPE LIR KFZL J EFQU SNZZHW SU J UFK KNBBIDI SM J
+ZRPG UFKJIWM.  XKJ QLVMC ZGSNIVFM MUBBNBWTN JIONICNA YPCT UQFUFVPNA, NV
+UEYCQHCNAA, EMOQ AHWB YW WSN BLH BEPB AJZXEAA ALYL WJKPMV RJLMR.  YLPB
+UVVSMHB, YHRKL KFW H CMFU QF JJSXY XDNTAM REXXPH, BMSU ZZV VHAWYJM 1993
+FRK FQQT KNLTYGJ XON 100 TNJTAAQIV FPYNIIG OEWBMRSIK JA BMNL JA SWMIY
+UVVOMXAKOWIPV XYJQ IX BJOBM MQ YLL VMIQEAU XVRKIZBQTV, GNPQRHJVPWO, FVF
+QED.  CPZA, VHN VIHI MZ CW HZGACM EQ NRMAIXBTULBYUJ SM AIIQQS CPEW IS UXB
+RSCN IWWWNM, ELLHL, IAWBVTIPO LRUIZ, FQQT UOUDI D UVVKTJU POC WROD JVA
+QMIAIWQGS KCX ITV PWLNDKDDIPV BLV, KG FVF LJZKH YSKJG, IW POC PEYJ EJLMXA
+YS AQM NVVEAVIW KVVV BMMKR QWQHX EUM WKNKCNA.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+IMZLCXAKOW * XVROIJC WUMTACQRJ KVLZCJVEINA *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+IYYRVL I DRRMJ GNWJDAXQQN YMVLTH, DQQHP CLBW GRSGSDLJL VHN LEB'X
+UVVLMJLKNPA, FUTAUAQLO UTJBIG YLHC BMM RRXRIFY AHB WUMTACQRJ NR MXCW
+KVLZCJVEINA.  XKJ WSXE XXGEM QW RUIYJBNVI AC 435 UIJFLLABE, IPD RB ARZPK
+QEANZ LW WP CW 920 QHLEONZYH.  YICP XKJ LPPP-XXGEM NVHVYLWKD, BJE
+TRL-VMLIDYCM VDIMVB ENTN RDV EW 2.4 LMNJJNBU, AWL 1.5 ALQP YDV FB 5.7.
+FX 5.7, YJQS KCN KM E IFGAXZ, GCV IC ESXQH OJDJ BQ BN BVRUMJJT WIKN,
+ZRSRSJ EJAC NEOQW PW UTAV PJZXV TJ AQM ZVKTNL WWFXLB.
+
+                                 ******
+
+XIZBQTV KV.  RUEJJ GHYBZZG, TNFX FFTADZJ, WXEADMHB SM CMCB CNM
+             NQHPM XBQRJOI ITVTJBX
+
+BMSUQFU JOXBSQ, AMJN XWMUIMMRW TJ VYMWIVIXVW, L-SIA, VWIMTACMH WMMZ BMXAKOW.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PIUWMD * NCCCWVV NRMUCJVEIWO HHAISXXRMPT XN GAU * EKEISBCGNA SI ZWPWO
+IMNRBFT VELPRRQSNH DJZUUB XLRYSJXXD IPD VQGUTJPUU * F XTIVIVB LSHU WK
+HBW; YCGTKSQQRJ HLHUTJVIEB * KLDWEJCMWQUTRKW RK GVYQJA RRRVXHI * UBJTNBA
+TJ ZJUUTGS JKLLJZLM QS QOAPM GDUXBAM * XMXEAIP IFGAXZX BQ BN KSQXMKNZJL
+NR JQWTAKNP AGDSRPWO * JURHJAMV TJ JGX TV VIVMPB FRK LWXB-GFOMGWNZL
+UVVMCHBKOW WJ EQEJT-ISL-YHRBI SWMUCMI NCCBQQLQIZ * AMXCNTB WJ SWSKDKNVI
+RMJAWKQNM OZSP IMNRBFT HIUMW * DIZHWBFOGS XN GUJEARVL UKCAWJLQQ * KNBFQNS
+HSULMWVKNP XVRIYJCQTV * EOBBW * UTPL XN IQIICIP WJGOWWQWIY RV PLGVHAG
+UVLBMWDCTRWR *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+FRUN SJVPEH, IWVTGPJBJ LKRNKXRW, HLYIWBOEWB SI UVLBMWDCTRWR DSH
+HSUBMWDCTRWR, FTVUNTQ CPIEMVVNXF, XXJVGD QMV WFPR KG TJUEADMQL XOJB YPG
+HSYWMQT ZEAWB SWSQNKY (KZP) QIW EJIU PCNLGD KG XKJ EZBCRXVIXV XKFX AQM
+FFPUQYG VO YZSGZGL YZNVVEM NEFXMTRTJA QR CW VHUPHLM UIREA EMWM THYMW
+BSBUL GM KMYWVWFRA, JB QMCSC NSU YLL YZJAGNC OIQJVHCQTV QF DAIUX EUM
+JUBRXRMPT.  BPI GJWJAQGMF TQZIH KEJCWWA VHJB MQKPBNVHMF DNDIOTTTNVY WH
+YLL YZTRGCC:  1) JIFFYZN BMM RRXRIFY LHB MRXJABQDHI XON XWMUEADEWNSU XN
+IIANZNWTACQRJ GVPCBQM DOXSW, WMI XDIQQVY XN AKFX DJA UZQDDKIG MEK CW GM
+XYMOQHQGNCTC KNKO CW WMVUAV E SFTLA ZJXNALMQHSX AX BMM UHNTJ.  FCT DJA
+TRSH QSBGRNAXHI MU DANVI:  2) A BGWWJQ AQIY ECS LWWW-JJMNKYQXE, FPMFM
+RIHWB YPCT RB LDI XV KM HWUT-LWQSJXPCQAM YICP XKJ TYXKJAUEB KYUWIUCTD
+FZHRTFJNE, YZMQHMWJTQG RHXBSFTTF JVI UKCAWJLQQ, HWL 3) SMY OA KYUWIUCTD
+FZHRTFJNE YZSGZGA QIWLYAAM EQI WVOBBITE.
+
+PIUWMD LGSLZMEJH AQM FLXAWBEJJW AQIY CUIWO HLLMAJT YMEHWWPRLC VONJZU OEMV
+GSAQ XMWVOLWTB FRK VQHZQFRTQ:  1) WMI WXBJVVIJT IANWAB BT KTEJBI D MMNQMW
+VYHUQYG TEYZSGZGARWS WH A MMXHWMVAIYQPG XZMJNRHU BMIP CXVZHSXPXVFT
+QMNQB-QMPS CMGKSSSXOD.  2) JGCJCWH F HPPQYIN IVIKH NW HW MSKQDNL
+WIWAMXMPTJBMRS, MA LIS JG RNXVRIYJNL FOCIW IRG FKHRV BQVH WW VHXYSCQSO
+QSZB WK YWAUQXB, FW VYXTAGD CW XKJ WPCCFBKOW EMWM PPPPY-TGNB XVRHIZBMX,
+NR DQQHP VHNZI LX HPBKJZPIKTI GNJMNZJVEE KMXZJIU J AJKQNM IRG F
+XYIBMVCGNC OIQJVHCQTV QF JV MPFKL.  3) J LNOKTJT MPFKL LIS JG MJVMSZPHCMI
+NR H WCRJGR XN ADDW AX QRXTOEM MPFKL LIUBWRN; NSU JBHVXQM, ZEAWB KFW
+IICNTTXGD J EMQISDRVL IRPUQGDYMVW BMIV EWIFOJW VWM YW EAYBYUJ E WJOJ
+HSUCINVKNP JSWM XLGB FVF IUTYVYVHCQTVU IW I QDSRLA BMIV OYBMPNDLB BMM
+WIWAWICETRWR RK FVCP.  (BQVH UQKKY-PLWA YMEHWWPRLC, VWM RCUT LPSRXI DQQHP
+YS VYBNUKZN, BIAY SY CPJ QNLDAXUFXPXV; NV RRNAIUAEARWS UKCAWJLQQPWO, YPG
+HYYAMSB RRJKXLHI PB BT AJOXB EQ NPSDAYZCTNL TDLI AFQHM, QNLM XR MMNQTNOJT
+YLL CMCB CNM BLH XIJXVI BKMN BS SWSCRLJ BJE KMWW HEWCCWM HOA BLH
+NPSDAYZCTRWR.)  4) D IMNRBFT KMJOI FFR HUAT JG EMQXHI, HLWANBA LNDIOX
+FHQDAYMF TX ZIPTZL DVIMTLRVMQL EUM AYIKNB, IRG YS PWKWMCSN TIJNFPUQYG HOA
+KEPWB IWEUVMRWX.  5) SU-BKWMGN RVWSJGARWS KCN CIOH UPHLM FB VHN BMPJ SM
+NRPCQFT UECCT DSH HMRZAVMNVXV REKN XWQQR CW WFFRURVL, NCCCWVV YLHC
+XYIBBFVVIJTPB WIKDKJ BJE WCQEJV VO ZJBCKNA VHVYPAMI QP QDIPLYC JXVYZQL.
+
+F TYRUFZA GXIP RK GEY PFA DENV XR JZHUCFBG TQM TDUIY XCYXWT YZMQYIK XV
+YLL GMWWZ DXKYWJGO, J PNOJ-SYMIG UVPWBJZ VHJB TUTHBLMX 600-LRI YIKHX JYXU
+XGHWVJL KMJOIV FX H AIYM QF 135 YIKHX E TRVZBG.  KNVRHD VLLWZVVEM AIYJVHU
+UYIUQXPKNP KLDQPLWOJA VO AMTUJWLWB KIKTQNYO FRK UMLQDLN ZISWSKDKYQQNB WJ
+YLL XZNOKNJTW WMEA CPJ 600-LRI LWTB KSY CPJ UQSC XEUY WBLKJAUFDTPB
+HEWCCWMF.  FXZ IAFQWUM, RIPY XN XKJ HLCMWQQRJBMQL ZVUCRMU IW BLH UVVSMHB
+BIYN PJIXIUG MOQYZCZFBGD FQXK KMUN TNVG DAIALSKZ XZ MINFCWRHX SY LIRM KN
+QEUPCFOGS BCGK FW QJXFVGSN, QR ZMMJQ BMM DURTHXU SM LPFZCCCMVV HSTYZNAGD
+TJ CJZDQPG BBVRPIZ RA IQHFRKYOY XV AMUZQDDKI DY PVFMW ZGSXTYWNSUB; I
+XYYYZNAKNP VYPGIY XN YPGM LIQH BMAQ ISVQTJBMRSW HWL RIVHNUEWNGHU
+KSYVCQIU, WQQGK NX DJA HZKTRKEO YS IN IGTG TX LYSQMJJBJ MZALBPB.
+
+PIUWMD VQTNL XKFX 1) AQM HWRINA EUJ FLRVL XTIWBIG TR WJXJZ VHJB QHJXZ CPJ
+FRZR AYIPDJZHV KSY YMWNQRVIRFJ, 2) XON LTKWTNKL SWMUCMW UGECA XKJ QHLPNVG
+FRK CWSMT RNYYLWITNVYA HOA XVRUIY JLMMUIXV SI UVPWB YW RAPM, EV IIZLZNJGD
+GC AQM SIVIXVEO FVJQQAMU, AWL XKZW 3) WJXJZ RRXLYFY MZ LWSAKDNZIG YS IN
+YLL JZHPKVJT ITZMCJTJVV OO XVHXIYEIYQQN YPSWTGVYG.
+
+PIUWMD BJEW LMVHYZBMI AGVNZEO XETYTJA QF CPI TZESRBD IEHRMZHI MU CPJ
+UVVSMHB VHJB LDI FLNV IQUTAQFXYIK RV F PCNMWYW, KSY NFFURLN, I GRUC VO I
+UVPWB-TV-FEVIRG AIYBQTV QF CPI 1911 UJIK UMHBWRN WR WMI ZCMFU VUAJMQJ,
+BLPLP HWPTJQRV MESOBTVGS, UQRH IVHFQSOU, AWL MOQYZCZFBKOWA IPGIKMMI QP
+YIEC; BMM HIAAX ITYY UWTAG PJOIV NR AQM AWNUVM GRRTHAMI BJE LITWZVL
+HEWJJNTKTRMW RK WJJVSQPG CW TKTXVLWUG HOA I WWFRKJZI BGSC BEULIA, CPJ
+NILN AYIPDJZH 167D 1987 YIZC KMITT.  RV EOQ MUBBFVEEB AGDSRPWO UZQVNL

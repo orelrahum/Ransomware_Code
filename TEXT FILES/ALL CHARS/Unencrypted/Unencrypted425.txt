@@ -1,0 +1,13 @@
+catalog record exists, for example, for each photograph in the Detroit
+Publishing collection of 25,000 pictures.  In the case of the Federal
+Writers Project, for which nearly 3,000 documents exist, representing
+information from twenty-six different states, AM with the assistance of
+Karen STUART of the Manuscript Division will attempt to find some way not
+only to have a collection-level record but perhaps a MARC record for each
+state, which will then serve as an umbrella for the 100-200 documents
+that come under it.  But that drama remains to be enacted.  The AM staff
+is conservative and clings to cataloguing, though of course visitors tout
+artificial intelligence and neural networks in a manner that suggests that
+perhaps one need not have cataloguing or that much of it could be put aside.
+
+The matter of SGML coding, FLEISCHHAUER conceded, returned the discussion

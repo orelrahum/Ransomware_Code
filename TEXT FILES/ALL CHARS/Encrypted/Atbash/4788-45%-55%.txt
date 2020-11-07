@@ -1,0 +1,415 @@
+
+ROSALIND	God save you, brother.
+
+OLIVER	And you, fair sister.
+
+	[Exit]
+
+ROSALIND	O, my dear Orlando, how it grieves me to see thee
+	wear thy heart in a scarf!
+
+ORLANDO	It is my arm.
+
+ROSALIND	I thought thy heart had been wounded with the claws
+	of a lion.
+
+ORLANDO	Wounded it is, but with the eyes of a lady.
+
+ROSALIND	Did your brother tell you how I counterfeited to
+	swoon when he showed me your handkerchief?
+
+ORLANDO	Ay, and greater wonders than that.
+
+ROSALIND	O, I know where you are: nay, 'tis true: there was
+	never any thing so sudden but the fight of two rams
+	and Caesar's thrasonical brag of 'I came, saw, and
+	overcame:' for your brother and my sister no sooner
+	met but they looked, no sooner looked but they
+	loved, no sooner loved but they sighed, no sooner
+	sighed but they asked one another the reason, no
+	sooner knew the reason but they sought the remedy;
+	and in these degrees have they made a pair of stairs
+	to marriage which they will climb incontinent, or
+	else be incontinent before marriage: they are in
+	the very wrath of love and they will together; clubs
+	cannot part them.
+
+ORLANDO	They shall be married to-morrow, and I will bid the
+	duke to the nuptial. But, O, how bitter a thing it
+	is to look into happiness through another man's
+	eyes! By so much the more shall I to-morrow be at
+	the height of heart-heaviness, by how much I shall
+	think my brother happy in having what he wishes for.
+
+ROSALIND	Why then, to-morrow I cannot serve your turn for Rosalind?
+
+ORLANDO	I can live no longer by thinking.
+
+ROSALIND	I will weary you then no longer with idle talking.
+	Know of me then, for now I speak to some purpose,
+	that I know you are a gentleman of good conceit: I
+	speak not this that you should bear a good opinion
+	of my knowledge, insomuch I say I know you are;
+	neither do I labour for a greater esteem than may in
+	some little measure draw a belief from you, to do
+	yourself good and not to grace me. Believe then, if
+	you please, that I can do strange things: I have,
+	since I was three year old, conversed with a
+	magician, most profound in his art and yet not
+	damnable. If you do love Rosalind so near the heart
+	as your gesture cries it out, when your brother
+	marries Aliena, shall you marry her: I know into
+	what straits of fortune she is driven; and it is
+	not impossible to me, if it appear not inconvenient
+	to you, to set her before your eyes tomorrow human
+	as she is and without any danger.
+
+ORLANDO	Speakest thou in sober meanings?
+
+ROSALIND	By my life, I do; which I tender dearly, though I
+	say I am a magician. Therefore, put you in your
+	best array: bid your friends; for if you will be
+	married to-morrow, you shall, and to Rosalind, if you will.
+
+	[Enter SILVIUS and PHEBE]
+
+	Look, here comes a lover of mine and a lover of hers.
+
+PHEBE	Youth, you have done me much ungentleness,
+	To show the letter that I writ to you.
+
+ROSALIND	I care not if I have: it is my study
+	To seem despiteful and ungentle to you:
+	You are there followed by a faithful shepherd;
+	Look upon him, love him; he worships you.
+
+PHEBE	Good shepherd, tell this youth what 'tis to love.
+
+SILVIUS	It is to be all made of sighs and tears;
+	And so am I for Phebe.
+
+PHEBE	And I for Ganymede.
+
+ORLANDO	And I for Rosalind.
+
+ROSALIND	And I for no woman.
+
+SILVIUS	It is to be all made of faith and service;
+	And so am I for Phebe.
+
+PHEBE	And I for Ganymede.
+
+ORLANDO	And I for Rosalind.
+
+ROSALIND	And I for no woman.
+
+SILVIUS	It is to be all made of fantasy,
+	All made of passion and all made of wishes,
+	All adoration, duty, and observance,
+	All humbleness, all patience and impatience,
+	All purity, all trial, all observance;
+	And so am I for Phebe.
+
+PHEBE	And so am I for Ganymede.
+
+ORLANDO	And so am I for Rosalind.
+
+ROSALIND	And so am I for no woman.
+
+PHEBE	If this be so, why blame you me to love you?
+
+SILVIUS	If this be so, why blame you me to love you?
+
+ORLANDO	If this be so, why blame you me to love you?
+
+ROSALIND	Who do you speak to, 'Why blame you me to love you?'
+
+ORLANDO	To her that is not here, nor doth not hear.
+
+ROSALIND	Pray you, no more of this; 'tis like the howling
+	of Irish wolves against the moon.
+
+	[To SILVIUS]
+
+	I will help you, if I can:
+
+	[To PHEBE]
+
+	I would love you, if I could. To-morrow meet me all together.
+
+	[To PHEBE]
+
+	I will marry you, if ever I marry woman, and I'll be
+	married to-morrow:
+
+	[To ORLANDO]
+
+	I will satisfy you, if ever I satisfied man, and you
+	shall be married to-morrow:
+
+	[To SILVIUS]
+
+	I will content you, if what pleases you contents
+	you, and you shall be married to-morrow.
+
+	[To ORLANDO]
+
+	As you love Rosalind, meet:
+
+	[To SILVIUS]
+
+	as you love Phebe, meet: and as I love no woman,
+	I'll meet. So fare you well: I have left you commands.
+
+SILVIUS	I'll not fail, if I live.
+
+PHEBE	Nor I.
+
+ORLANDO	Nor I.
+
+	[Exeunt]
+
+
+
+
+	AS YOU LIKE IT
+
+
+ACT V
+
+
+
+SCENE III	The forest.
+
+
+	[Enter TOUCHSTONE and AUDREY]
+
+TOUCHSTONE	To-morrow is the joyful day, Audrey; to-morrow will
+	we be married.
+
+AUDREY	I do desire it with all my heart; and I hope it is
+	no dishonest desire to desire to be a woman of the
+	world. Here comes two of the banished duke's pages.
+
+	[Enter two Pages]
+
+First Page	Well met, honest gentleman.
+
+TOUCHSTONE	By my troth, well met. Come, sit, sit, and a song.
+
+Second Page	We are for you: sit i' the middle.
+
+First Page	Shall we clap into't roundly, without hawking or
+	spitting or saying we are hoarse, which are the only
+	prologues to a bad voice?
+
+Second Page	I'faith, i'faith; and both in a tune, like two
+	gipsies on a horse.
+
+	SONG.
+	It was a lover and his lass,
+	With a hey, and a ho, and a hey nonino,
+	That o'er the green corn-field did pass
+	In the spring time, the only pretty ring time,
+	When birds do sing, hey ding a ding, ding:
+	Sweet lovers love the spring.
+
+	Between the acres of the rye,
+	With a hey, and a ho, and a hey nonino
+	These pretty country folks would lie,
+	In spring time, &c.
+
+	This carol they began that hour,
+	With a hey, and a ho, and a hey nonino,
+	How that a life was but a flower
+	In spring time, &c.
+
+	And therefore take the present time,
+	With a hey, and a ho, and a hey nonino;
+	For love is crowned with the prime
+	In spring time, &c.
+
+TOUCHSTONE	Truly, young gentlemen, though there was no great
+	matter in the ditty, yet the note was very
+	untuneable.
+
+First Page	You are deceived, sir: we kept time, we lost not our time.
+
+TOUCHSTONE	By my troth, yes; I count it but time lost to hear
+	such a foolish song. God be wi' you; and God mend
+	your voices! Come, Audrey.
+
+	[Exeunt]
+
+
+
+
+	AS YOU LIKE IT
+
+
+ACT V
+
+
+
+SCENE IV	The forest.
+
+
+	[Enter DUKE SENIOR, AMIENS, JAQUES, ORLANDO, OLIVER,
+	and CELIA]
+
+DUKE SENIOR	Dost thou believe, Orlando, that GSV YLB
+	XZM WL ZOO GSRH GSZG SV SZGS KILNRHVW?
+
+LIOZMWL	R HLNVGRNVH WL YVORVEV, ZMW HLNVGRNVH WL MLG;
+	ZH GSLHV GSZG UVZI GSVB SLKV, ZMW PMLD GSVB UVZI.
+
+	[VMGVI ILHZORMW, HROERFH, ZMW KSVYV]
+
+ILHZORMW	KZGRVMXV LMXV NLIV, DSROVH LFI XLNKZXG RH FITVW:
+	BLF HZB, RU R YIRMT RM BLFI ILHZORMW,
+	BLF DROO YVHGLD SVI LM LIOZMWL SVIV?
+
+WFPV HVMRLI	GSZG DLFOW R, SZW R PRMTWLNH GL TREV DRGS SVI.
+
+ILHZORMW	ZMW BLF HZB, BLF DROO SZEV SVI, DSVM R YIRMT SVI?
+
+LIOZMWL	GSZG DLFOW R, DVIV R LU ZOO PRMTWLNH PRMT.
+
+ILHZORMW	BLF HZB, BLF'OO NZIIB NV, RU R YV DROORMT?
+
+KSVYV	GSZG DROO R, HSLFOW R WRV GSV SLFI ZUGVI.
+
+ILHZORMW	YFG RU BLF WL IVUFHV GL NZIIB NV,
+	BLF'OO TREV BLFIHVOU GL GSRH NLHG UZRGSUFO HSVKSVIW?
+
+KSVYV	HL RH GSV YZITZRM.
+
+ILHZORMW	BLF HZB, GSZG BLF'OO SZEV KSVYV, RU HSV DROO?
+
+HROERFH	GSLFTS GL SZEV SVI ZMW WVZGS DVIV YLGS LMV GSRMT.
+
+ILHZORMW	R SZEV KILNRHVW GL NZPV ZOO GSRH NZGGVI VEVM.
+	PVVK BLF BLFI DLIW, L WFPV, GL TREV BLFI WZFTSGVI;
+	BLF BLFIH, LIOZMWL, GL IVXVREV SRH WZFTSGVI:
+	PVVK BLFI DLIW, KSVYV, GSZG BLF'OO NZIIB NV,
+	LI VOHV IVUFHRMT NV, GL DVW GSRH HSVKSVIW:
+	PVVK BLFI DLIW, HROERFH, GSZG BLF'OO NZIIB SVI.
+	RU HSV IVUFHV NV: ZMW UILN SVMXV R TL,
+	GL NZPV GSVHV WLFYGH ZOO VEVM.
+
+	[VCVFMG ILHZORMW ZMW XVORZ]
+
+WFPV HVMRLI	R WL IVNVNYVI RM GSRH HSVKSVIW YLB
+	HLNV OREVOB GLFXSVH LU NB WZFTSGVI'H UZELFI.
+
+LIOZMWL	NB OLIW, GSV URIHG GRNV GSZG R VEVI HZD SRN
+	NVGSLFTSG SV DZH Z YILGSVI GL BLFI WZFTSGVI:
+	YFG, NB TLLW OLIW, GSRH YLB RH ULIVHG-YLIM,
+	ZMW SZGS YVVM GFGLI'W RM GSV IFWRNVMGH
+	LU NZMB WVHKVIZGV HGFWRVH YB SRH FMXOV,
+	DSLN SV IVKLIGH GL YV Z TIVZG NZTRXRZM,
+	LYHXFIVW RM GSV XRIXOV LU GSRH ULIVHG.
+
+	[VMGVI GLFXSHGLMV ZMW ZFWIVB]
+
+QZJFVH	GSVIV RH, HFIV, ZMLGSVI UOLLW GLDZIW, ZMW GSVHV
+	XLFKOVH ZIV XLNRMT GL GSV ZIP. SVIV XLNVH Z KZRI LU
+	EVIB HGIZMTV YVZHGH, DSRXS RM ZOO GLMTFVH ZIV XZOOVW ULLOH.
+
+GLFXSHGLMV	HZOFGZGRLM ZMW TIVVGRMT GL BLF ZOO!
+
+QZJFVH	TLLW NB OLIW, YRW SRN DVOXLNV: GSRH RH GSV
+	NLGOVB-NRMWVW TVMGOVNZM GSZG R SZEV HL LUGVM NVG RM
+	GSV ULIVHG: SV SZGS YVVM Z XLFIGRVI, SV HDVZIH.
+
+GLFXSHGLMV	RU ZMB NZM WLFYG GSZG, OVG SRN KFG NV GL NB
+	KFITZGRLM. R SZEV GILW Z NVZHFIV; R SZEV UOZGGVIVW
+	Z OZWB; R SZEV YVVM KLORGRX DRGS NB UIRVMW, HNLLGS
+	DRGS NRMV VMVNB; R SZEV FMWLMV GSIVV GZROLIH; R SZEV
+	SZW ULFI JFZIIVOH, ZMW ORPV GL SZEV ULFTSG LMV.
+
+QZJFVH	ZMW SLD DZH GSZG GZ'VM FK?
+
+GLFXSHGLMV	UZRGS, DV NVG, ZMW ULFMW GSV JFZIIVO DZH FKLM GSV
+	HVEVMGS XZFHV.
+
+QZJFVH	SLD HVEVMGS XZFHV? TLLW NB OLIW, ORPV GSRH UVOOLD.
+
+WFPV HVMRLI	R ORPV SRN EVIB DVOO.
+
+GLFXSHGLMV	TLW 'ROW BLF, HRI; R WVHRIV BLF LU GSV ORPV. R
+	KIVHH RM SVIV, HRI, ZNLMTHG GSV IVHG LU GSV XLFMGIB
+	XLKFOZGREVH, GL HDVZI ZMW GL ULIHDVZI: ZXXLIWRMT ZH
+	NZIIRZTV YRMWH ZMW YOLLW YIVZPH: Z KLLI ERITRM,
+	HRI, ZM ROO-UZELFIVW GSRMT, HRI, YFG NRMV LDM; Z KLLI
+	SFNLFI LU NRMV, HRI, GL GZPV GSZG GSZG ML NZM VOHV
+	DROO: IRXS SLMVHGB WDVOOH ORPV Z NRHVI, HRI, RM Z
+	KLLI SLFHV; ZH BLFI KVZIO RM BLFI ULFO LBHGVI.
+
+WFPV HVMRLI	YB NB UZRGS, SV RH EVIB HDRUG ZMW HVMGVMGRLFH.
+
+GLFXSHGLMV	ZXXLIWRMT GL GSV ULLO'H YLOG, HRI, ZMW HFXS WFOXVG WRHVZHVH.
+
+QZJFVH	YFG, ULI GSV HVEVMGS XZFHV; SLD WRW BLF URMW GSV
+	JFZIIVO LM GSV HVEVMGS XZFHV?
+
+GLFXSHGLMV	FKLM Z ORV HVEVM GRNVH IVNLEVW:--YVZI BLFI YLWB NLIV
+	HVVNRMT, ZFWIVB:--ZH GSFH, HRI. R WRW WRHORPV GSV
+	XFG LU Z XVIGZRM XLFIGRVI'H YVZIW: SV HVMG NV DLIW,
+	RU R HZRW SRH YVZIW DZH MLG XFG DVOO, SV DZH RM GSV
+	NRMW RG DZH: GSRH RH XZOOVW GSV IVGLIG XLFIGVLFH.
+	RU R HVMG SRN DLIW ZTZRM 'RG DZH MLG DVOO XFG,' SV
+	DLFOW HVMW NV DLIW, SV XFG RG GL KOVZHV SRNHVOU:
+	GSRH RH XZOOVW GSV JFRK NLWVHG. RU ZTZRM 'RG DZH
+	MLG DVOO XFG,' SV WRHZYOVW NB QFWTNVMG: GSRH RH
+	XZOOVW GSV IVKOB XSFIORHS. RU ZTZRM 'RG DZH MLG
+	DVOO XFG,' SV DLFOW ZMHDVI, R HKZPV MLG GIFV: GSRH
+	RH XZOOVW GSV IVKILLU EZORZMG. RU ZTZRM 'RG DZH MLG
+	DVOO XFG,' SV DLFOW HZB R ORVW: GSRH RH XZOOVW GSV
+	XLFMGVI-XSVJFV JFZIIVOHLNV: ZMW HL GL GSV ORV
+	XRIXFNHGZMGRZO ZMW GSV ORV WRIVXG.
+
+QZJFVH	ZMW SLD LUG WRW BLF HZB SRH YVZIW DZH MLG DVOO XFG?
+
+GLFXSHGLMV	R WFIHG TL ML UFIGSVI GSZM GSV ORV XRIXFNHGZMGRZO,
+	MLI SV WFIHG MLG TREV NV GSV ORV WRIVXG; ZMW HL DV
+	NVZHFIVW HDLIWH ZMW KZIGVW.
+
+QZJFVH	XZM BLF MLNRMZGV RM LIWVI MLD GSV WVTIVVH LU GSV ORV?
+
+GLFXSHGLMV	L HRI, DV JFZIIVO RM KIRMG, YB GSV YLLP; ZH BLF SZEV
+	YLLPH ULI TLLW NZMMVIH: R DROO MZNV BLF GSV WVTIVVH.
+	GSV URIHG, GSV IVGLIG XLFIGVLFH; GSV HVXLMW, GSV
+	JFRK NLWVHG; GSV GSRIW, GSV IVKOB XSFIORHS; GSV
+	ULFIGS, GSV IVKILLU EZORZMG; GSV URUGS, GSV
+	XLFMGVIXSVJFV JFZIIVOHLNV; GSV HRCGS, GSV ORV DRGS
+	XRIXFNHGZMXV; GSV HVEVMGS, GSV ORV WRIVXG. ZOO
+	GSVHV BLF NZB ZELRW YFG GSV ORV WRIVXG; ZMW BLF NZB
+	ZELRW GSZG GLL, DRGS ZM RU. R PMVD DSVM HVEVM
+	QFHGRXVH XLFOW MLG GZPV FK Z JFZIIVO, YFG DSVM GSV
+	KZIGRVH DVIV NVG GSVNHVOEVH, LMV LU GSVN GSLFTSG YFG
+	LU ZM RU, ZH, 'RU BLF HZRW HL, GSVM R HZRW HL;' ZMW
+	GSVB HSLLP SZMWH ZMW HDLIV YILGSVIH. BLFI RU RH GSV
+	LMOB KVZXVNZPVI; NFXS ERIGFV RM RU.
+
+QZJFVH	RH MLG GSRH Z IZIV UVOOLD, NB OLIW? SV'H ZH TLLW ZG
+	ZMB GSRMT ZMW BVG Z ULLO.
+
+WFPV HVMRLI	SV FHVH SRH ULOOB ORPV Z HGZOPRMT-SLIHV ZMW FMWVI
+	GSV KIVHVMGZGRLM LU GSZG SV HSLLGH SRH DRG.
+
+	[VMGVI SBNVM, ILHZORMW, ZMW XVORZ]
+
+	[HGROO NFHRX]
+
+SBNVM	        GSVM RH GSVIV NRIGS RM SVZEVM,
+	DSVM VZIGSOB GSRMTH NZWV VEVM
+	ZGLMV GLTVGSVI.
+	TLLW WFPV, IVXVREV GSB WZFTSGVI
+	SBNVM UILN SVZEVM YILFTSG SVI,
+	BVZ, YILFTSG SVI SRGSVI,
+	GSZG GSLF NRTSGHG QLRM SVI SZMW DRGS SRH
+	DSLHV SVZIG DRGSRM SRH YLHLN RH.
+
+ILHZORMW	[GL WFPV HVMRLI]  GL BLF R TREV NBHVOU, ULI R ZN BLFIH.
+

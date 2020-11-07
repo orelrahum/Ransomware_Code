@@ -1,0 +1,10 @@
+instance, even on a 56 Kb line it would take three minutes to transfer a
+1megabyte file.  And these figures assume ideal circumstances, and do
+not take into consideration other users contending for network bandwidth,
+disk access time, or the time needed for remote display.  Current common
+telephone transmission rates would be completely impractical few users
+would be willing to wait the hour necessary to transmit a single image at
+2400 baud.
+
+This necessitates compression, which itself raises a number of other
+issues.  In order to decrease file sizes significantly, we must employ

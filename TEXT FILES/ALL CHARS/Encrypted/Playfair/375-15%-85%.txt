@@ -1,0 +1,30 @@
+distributions of occurrences or, on a higher level, regression analysis.
+At the other end of the continuum, qualitative analysis typically
+involves nonmathematical processes oriented toward language
+interpretation or the building of theory.  Aspects of this work involve
+the processing--either manual or computational--of large and sometimes
+massive amounts of textual sources, although the use of nontextual
+sources as evidence, such as photographs, sound recordings, film footage,
+and artifacts, is significant as well.
+
+Scholars have discovered that many of the methods of interpretation and
+analysis that are related to both quantitative and qualitative methods
+are processes that can be performed by computers.  For example, computers
+can count.  They can count brush strokes used in a Rembrandt painting or
+perform regression analysis for understanding cause and effect.  By means
+of advanced technologies, computers can recognize patterns, analyze text,
+and model concepts.  Furthermore, computers can complete these processes
+faster with more sources and with greater precision than scholars who
+must rely on manual interpretation of data.  But if scholars are to use
+computers for these processes, source materials must be in a form
+amenable to computer-assisted analysis.  For this reason many scholars,
+once they have identified the sources that are key to their research, are
+converting them to machine-readable form.  Thus, a representative example
+of the numerous textual conversion projects organized by scholars around
+the world in recent years to support computational text analysis is the
+TLG, the Thesaurus Linguae Graecae.  This project is devoted to
+coDLSEGMDF PMY SBZLAF QWNHKCF PQBZX HT NFLBVMDLF PDYSRQ.  (KRMGHW'L RMZY:
+QNWMCRUDP FM ZRS FBF DYRBXQPPQW HT UYK B992, FVF NYV HA NPS UD PMHDZQ-ZCW
+KDZLSEARM QIOCFDHSP.  PMHV GUFIES HFNKPQB HMDRSXBUW'P HESGDIOB RIOCF XQ UWY.)
+
+PMS PRMUXENP HSEZUCHUDP FRSPS WMDLSEVHUWP RKLQ SYSA LVEKR ZM ESWMFDOGY

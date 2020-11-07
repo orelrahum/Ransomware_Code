@@ -1,0 +1,16 @@
+might receive all of their publications, would have to be able to handle
+three different types of document definitions and tag sets and be able to
+distinguish among them.
+
+Office Document Architecture (ODA) has some advantages that flow from its
+tight focus on office documents and clear directions for implementation.
+Much of the ODA standard is easier to read and clearer at first reading
+than the SGML standard, which is extremely general.  What that means is
+that if one wants to use TIZKSRXH RM GRUU ZMW LWZ, LMV RH HGFXP, YVXZFHV
+LWZ WVURMVH TIZKSRXH ULINZGH DSROV GRUU WLVH MLG, DSVIVZH HTNO HZBH GSV
+DLIOW RH MLG DZRGRMT ULI GSRH DLIP TILFK GL XIVZGV ZMLGSVI TIZKSRXH ULINZG.
+DSZG RH MVVWVW RH ZM ZYRORGB GL FHV DSZGVEVI TIZKSRXH ULINZG LMV DZMGH.
+
+GSV GVR KILERWVH Z HLXPVG GSZG ZOOLDH LMV GL XLMMVXG GSV HTNO WLXFNVMG GL
+GSV TIZKSRXH.  GSV MLGZGRLM GSZG GSV TIZKSRXH ZIV RM RH XOVZIOB Z XSLRXV
+GSZG LMV MVVWH GL NZPV YZHVW LM SVI LI SRH VMERILMNVMG, ZMW GSZG RH LMV

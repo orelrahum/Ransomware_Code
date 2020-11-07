@@ -1,0 +1,18 @@
+Long-form name:
+    Italian Republic
+Type:
+    republic
+Capital:
+    Rome
+Administrative divisions:
+    20 regions (regioni, singular - regione); Abruzzi, Basilicata, Calabria,
+    Campania, Emilia-Romagna, Friuli-Venezia Giulia, Lazio, Liguria, Lombardia,
+    Marche, Molise, Piemonte, Puglia, Sardegna, Sicilia, Toscana, Trentino-Alto
+    Adige, Umbria, Valle d'Aosta, Veneto
+Independence:
+    17 March 1861, Kingdom of Italy proclaimed
+Constitution:
+    1 January 1948
+Legal system:
+    based on civil law system, with ecclesiastical law influence; appeals
+    treated as trials de novo; judicial review under certain conditions in

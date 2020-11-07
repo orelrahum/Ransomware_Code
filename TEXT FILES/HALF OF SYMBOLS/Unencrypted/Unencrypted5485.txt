@@ -1,0 +1,9 @@
+Birth rate:
+    15 births1,000 population 1992
+Death rate:
+    11 deaths1,000 population 1992
+Net migration rate:
+    4 migrants1,000 population 1992
+Infant mortality rate:
+    18 deaths1,000 live births 1992
+Life expectancy at birth:

@@ -1,0 +1,16 @@
+     * In production the scanner can scan about 300 pages per hour,
+     capturing 600 dots per inch.
+
+     * The Xerox software has filters to scan halftone material and avoid
+     the moire patterns that occur when halftone material is scanned.
+     Xerox has been working on hardware and software that would enable
+     the scanner itself to recognize this situation and deal with it
+     appropriately--a kind of autosegmentation that would enable the
+     scanner to handle halftone material as well as text on a single page.
+
+     * The books subjected to the elaborate processY J%Ycri@%J G@o2% <%r%
+     Y%l%c|%J @%cGuY% }fASS iY G Vr%Y%r2G|io_ VroP%c|, <i|" |"% firY| 5DD
+     @oo(Y Y%l%c|%J coSi_M froS }or_%llMY SG|"%SG|icY coll%c|io_, @%cGuY%
+     |"%5 <%r% Y|ill @%i_M "%G2il5 uY%J G_J @%cGuY%, Gl|"ouM" |"%5 <%r%
+     i_ _%%J of Vr%Y%r2G|io_, |"% SG|"%SG|icY li@rGr5 G_J |"% SG|"%SG|icY
+     fGcul|5 <%r% u_coSfor|G@l% "G2i_M |"%S SicrofilS%JA  (_"%5 <G_|%J 

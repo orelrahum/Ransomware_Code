@@ -1,0 +1,151 @@
+materials digitized and stored on the imagefiling system are cataloged
+in the online catalogue.  In fact, a record for each of these electronic
+books is stored in the RLIN database so that a record exists of what is
+in the digital library throughout standard catalogue procedures.  In the
+future, researchers working from their own workstations in their offices,
+or their networks, will have accesswherever they might bethrough a
+request server being built into the new digital library.  A second
+assumption is that the preferred means of finding the material will be by
+looking through a catalogue.  PERSONIUS described the scanning process,
+which uses a prototype scanner being developed by Xerox and which scans a
+very high resolution image at great speed.  Another significant feature,
+because this is a preservation application, is the placing of the pages
+that fall apart one for one on the platen.  Ordinarily, a scanner could
+be used with some sort of a document feeder, but because of this
+application that is not feasible.  Further, because CLASS is a
+preservation application, after the paper replacement is made there, a
+very careful quality control check is performed.  An original book is
+compared to the printed copy and verification is made, before proceeding,
+that all of the image, all of the information, has been captured.  Then,
+a new library book is produced:  The printed images are rebound by a
+commercial binder and a new book is returned to the shelf.
+Significantly, the books returned to the library shelves are beautiful
+and useful replacements on acidfree paper that should last a long time,
+in effect, the equivalent of preservation photocopies.  Thus, the project
+has a library of digital books.  In essence, CLASS is scanning and
+storing books as 600 dotperinch bitmapped images, compressed using
+Group 4 CCITT i.e., the French acronym for International Consultative
+Committee for Telegraph and Telephone compression.  They are stored as
+TIFF files on an optical filing system that is composed of a database
+used for searching and locating the books and an optical jukebox that
+stores 64 twelveinch platters.  A veryhighresolution printed copy of
+these books at 600 dots per inch is created, using a Xerox DocuTech
+printer to make the paper replacements on acidfree paper.
+
+PERSONIUS maintained that the CLASS Project presents an opportunity to
+introduce people to books as digital images by using a paper medium.
+Books are returned to the shelves while people are also given the ability
+to print on demandto make their own copies of books.  PERSONIUS
+distributed copies of an engineering journal published by engineering
+students at Cornell around 1900 as an example of what a printondemand
+copy of material might be like.  This very cheap copy would be available
+to people to use for their own research purposes and would bridge the gap
+between an electronic work and the paper that readers like to have.
+PERSONIUS then attempted to illustrate a very early prototype of
+networked access to this digital library.  Xerox Corporation has
+developed a prototype of a view station that can send images across the
+network to be viewed.
+
+The particular library brought down for demonstration contained two
+mathematics books.  CLASS is developing and will spend the next year
+developing an application that allows people at workstations to browse
+the books.  Thus, CLASS is developing a browsing tool, on the assumption
+that users do not want to read an entire book from a workstation, but
+would prefer to be able to look through and decide if they would like to
+have a printed copy of it.
+
+                                 
+
+
+DISCUSSION  Re retrieval software  "Digital file copyright"  Scanning
+rate during production  Autosegmentation  Criteria employed in
+selecting books for scanning  Compression and decompression of images 
+OCR not precluded 
+
+
+During the questionandanswer period that followed her presentation,
+PERSONIUS made these additional points:
+
+      Re retrieval software, Cornell is developing a Unixbased server
+     as well as clients for the server that support multiple platforms
+     Macintosh, IBM and Sun workstations, in the hope that people from
+     any of those platforms will retrieve books a further operating
+     assumption is that standard interfaces will be used as much as
+     possible, where standards can be put in place, because CLASS
+     considers this retrieval software a library application and would
+     like to be able to look at material not only at Cornell but at other
+     institutions.
+
+      The phrase "digital file copyright by Cornell University" was
+     added at the advice of Cornells legal staff with the caveat that it
+     probably would not hold up in court.  Cornell does not want people
+     to copy its books and sell them but would like to keep them
+     available for use in a library environment for library purposes.
+
+      In production the scanner can scan about 300 pages per hour,
+     capturing 600 dots per inch.
+
+      The Xerox software has filters to scan halftone material and avoid
+     the moire patterns that occur when halftone material is scanned.
+     Xerox has been working on hardware and software that would enable
+     the scanner itself to recognize this situation and deal with it
+     appropriatelya kind of autosegmentation that would enable the
+     scanner to handle halftone material as well as text on a single page.
+
+      The books subjected to the elaborate process described above were
+     selected because CLASS is a preservation project, with the first 500
+     books selected coming from Cornells mathematics cMXVQRGMUW, SQNQHLY
+     PMQK RYES BPUVX LKHDF RSKLUVA OPSN KWR SQNQHLQ, YBFMIIFM PRSX YSEY
+     UD RAKR UZ HESPSELKGMUW, PMQ HQFRSUQGMRB VUSCENK YWR PMQ HQFRSUQGMRB
+     ULNMBFX YSEA HWNIUZUCPQLSA UEGDDF PMQH UHNCUZUVHQC.  GRSX YLAPQN K
+     HEUDPQR NHZQ.  ZMOB, PRSPS XMIYB LQRQUQ Y XUIDNQB NMIMDA PHW PMHV
+     HEIHQRZ.  MPMSE XMIYX RSEQ RMIPSC LQ ZRS HEIHQRPB PSSAQMHIW NIUUHZBYSB
+     ZUE SSZSEHUARPB DOPM PMQ PQRURUXIZK, YX RASF LB PI UYSF Q RKUQWR HW RAKR.
+
+      HUKFSP DOXV SQ RKWMHTESBVKR SQZUES PMQK ENS PARZ MSKC PRS VURA QF
+     PMHV GMHQ PMQK ENQ RIUHESPPSN KWR PSCF ZM PMK HUQPK GUVUDF XEBPQH
+     LAC GRSR LARZ BM ZRS HEUDPQN EB RIUHESPPSK DUQPKB PRSK YES ESFMCWKR
+     ZM PMY RHWEVFQGMUW EL WMHTESBVKR 600RGO VUQPKL EWR PMY RHWEVFQGMUW
+     RKWMHTESBVSP LAR VNQSAB PRSU THW KDPHFLKYD URAZLMDHKCF NYQ ZW
+     QNRQBV PMQ HQFSEUKB FMIIFM HZ CHWEV AMMGY RASF UHW HEUDGMDF LAW
+     MZRSE HHNZHPSB.
+
+      NBELV HL EXBI WQRIUHESPVHDF UW UQDMCFHXU EWR MVU, Q BXWY HEMWSPB
+     DHPIF CWY.  KSARFMLFXA, WMHTESBVHIA LWR RKWMHTESBVHIW DUVB FYEY
+     FSQNY HA LD UUQPK WMDLSEVHUW PSDSSE.  PCKNYHZLX RUVX LQ HKNQ, SELKR
+     UW UNFMES HSNPHWUQWNQ PSPGMDF, WMWNSEDUDF ROSEQ PRS GUSA HV
+     WMHTESBVKR LAR DUEP CSPUXMFHID UUQPK HV PSCF.
+
+      MWE REL WUM TYSR FESNBINKR HUKFSP ENQ SKHDF BPHWKR PMQF UESK SQAR
+     BRLARAN KF Q MHPI ESXHFNGMUW, ROMDR HESLHUQLXX YIOVN LHMG PMQH RYXV
+     ZM LA MWE HWHRQBV.  SQNQHLQ PRS UQPQDHLF SQUDP VNQWLKR HV QLIOZ 100
+     KQENX HVN LAR DEL HEUDPQR DMGU SSPBPUEDURKLF PQRMWUXUIDSP, SKWE
+     QYNSK YWR HEASHUUDENQ ZSPPB UESK WUF TWHNIRQK IWZR CSPNFPB.  LMZ BRS
+     HEIHQRG MB REFFMDHDF LA HUKFQ PUEG MX HP LNUGUDMARP CSPUXMFHIC FM XY
+     LHVMQRPQC GW ZNC UD PMA PMFHNQ.  HHWYHSKC, PRS XEBPQH ENRMMGQRFMES
+     LAC GRS XEBPQH FSLA UESK L FIZMDLF FSQNQ PH XZMES LA MWD HUQPK UG MG
+     UEB LYSW NEFFMESC.  VMF PMQF HV WUM TKHDF WIRA WUY.
+
+                                 
+
+PSBVHID UOV.  KDBPDHLMGMUW, RAZCHWEV, LAR WQPYWDEUDZ:  ITFHIRL ZUW
+KDBVQHUDQFHIW
+
+
+GORM  HVLHSP HSCPKUDUDF ZM NRWHHB  HZGMUWL PHW FHLXHVMHDF UD NRWHO 
+
+
+WHSQCP GORM, PHQRUKF LBVHVFQCF ZM PMQ YBVMWUKPQ VUSCENUKA UHW PHQRUKX
+HEIHQRPB, VUSCENX WT NUWPDSPL, EWR UIRKNEZMW HZ FMHB VSPVHUW, GUEPF CMZKR
+PMQ SSABVKR LMP BIUYRUEF QDYNYCR DMCNOUBPLARQ UZ UEGDDF ZUHN SKWE
+KDBPUDFIHVRSR GYHFSS ESHESPSCFUDF DQPYWDEL EWR RAZCHWVDDF HW QF SAELZ
+SALAUDI DC FUEG CHDQRGMUW, ROUVA SQNVDDF LAXWRA ZM PHQYA GWHC MRS
+BPWHDFSPF THXVHLXQ SQNVIWHNAK DW NRCIUX.  PMDR SSZESBVKR PMS RHZQ PUEZ
+HQCTSEX HZ FRS LNKDARRQ YWNFK DIHC FRS KDBRHLVHUW.  RS BPESBVKR PMY
+LHTMMGSA UZ PMHV FECPMDNFEN PSBVHIW, "UTFHIRL ZUC RHVPSUHALGMUW," LAW,
+WMWNSEDUDF NRWHHB, PMK HHTHWFQWNY HG NQPSEUHDUDF ROAR MG YWNFC VY RHVY
+ZM WMRLDKSE KDBVQHUDQFHID UW NRCIU SKEPHL RAZCHWEV.  E LMIZSUDF VHVZ MZ
+HVLHSP HSCPKUDUDF ZM NRWHHB UDNBINKR:  PMK PWHNARV ZUE PASQRGMDF
+WMOBSEDMLF FHLXHVRSEP, LAK DRUIOPS FHLXMDQFHIW DRSES ZHBVMVSA SKEPHL
+WURFWHGUZ MD PIXSECUARF TMLVUNQGMUW.  E LHUUVEN VUBP ZUC WQPYWDEB
+UDNBINKR:  RKPQCHUDUDZ DRSW URA PRIOVN WMRLDKSE KDBVQHUDQFHIC FREIOPI Y

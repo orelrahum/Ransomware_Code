@@ -1,0 +1,23 @@
+up with linguistic tagging incorporated into it.  Hence, the more tagging
+or annotation there is in the text, the more one may begin to learn about
+language and the more it will help accomplish more intelligent OCR.  She
+recommended the development of software tools that will help one begin to
+understand more about a text, which can then be applied to scanning
+images of that text in that format and to using more intelligence to help
+one interpret or understand the text.
+
+HOCKEY posited the need to think about common methods of text-encoding
+for a long time to come, because building these large bodies of text is
+extremely expensive and will only be done once.
+
+In the more general discussion on approaches to encoding that followeW,
+GSVHV KLRMGH DVIV NZWV:
+
+YVHHVI RWVMGRURVW GSV FMWVIOBRMT KILYOVN DRGS HGZMWZIWH GSZG ZOO SZEV GL
+HGIFTTOV DRGS RM ZWLKGRMT Z HGZMWZIW, MZNVOB, GSV GVMHRLM YVGDVVM Z EVIB
+SRTSOB WVURMVW HGZMWZIW GSZG RH EVIB RMGVIXSZMTVZYOV YFG WLVH MLG DLIP
+ULI VEVIBLMV YVXZFHV HLNVGSRMT RH OZXPRMT, ZMW Z HGZMWZIW GSZG RH OVHH
+WVURMVW, NLIV LKVM, NLIV ZWZKGZYOV, YFG OVHH RMGVIXSZMTVZYOV.  XLMGVMWRMT
+GSZG GSV DZB RM DSRXS KVLKOV FHV HTNO RH MLG HFUURXRVMGOB WVURMVW, YVHHVI
+DLMWVIVW 1) RU KVLKOV IVHRHG GSV GVR YVXZFHV GSVB GSRMP RG RH GLL WVURMVW
+RM XVIGZRM GSRMTH GSVB WL MLG URG RMGL, ZMW 2) SLD KILTIVHH DRGS

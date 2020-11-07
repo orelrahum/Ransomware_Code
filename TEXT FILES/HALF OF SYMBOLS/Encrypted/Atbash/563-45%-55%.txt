@@ -1,0 +1,69 @@
+developed out of the Thesaurus Linguae Graecae project and designed for
+the use of classical scholars.  There are perhaps 400 IBYCUS computers in
+the country, most of which are in university classics departments.
+Ultimately, it is anticipated that the CDROM edition of the Founding
+Fathers documents will run on any IBMcompatible or Macintosh computer
+with a CDROM drive.  Numerous changes in the software will also occur
+before the project is completed.  Editors note: an IBYCUS was
+unavailable to demonstrate the CDROM.
+
+                                 
+
+
+DISCUSSION  Several additional features of WPP clarified 
+
+
+Discussion following TWOHIGs presentation served to clarify several
+additional features, including 1 that the projects primary
+intellectual product consists in the electronic transcription of the
+material 2 that the text transmitted to the CDROM people is not
+marked up 3 that cataloging and subjectindexing of the material
+remain to be worked out though at this point material can be retrieved
+by name and 4 that because all the searching is done in the hardware,
+the IBYCUS is designed to read a CDROM which contains only sequential
+text files.  Technically, it then becomes very easy to read the material
+off and put it on another device.
+
+                                 
+
+
+LEBRON  Overview of the history of the joint project between AAAS and
+OCLC  Several practices the online environment shares with traditional
+publishing on hard copy  Several technical and behavioral barriers to
+electronic publishing  How AAAS and OCLC arrived at the subject of
+clinical trials  Advantages of the electronic format and other features
+of OJCCT  An illustrated tour of the journal 
+
+
+Maria LEBRON, managing editor, The Online Journal of Current Clinical
+Trials OJCCT, presented an illustrated overview of the history of the
+joint project between the American Association for the Advancement of
+Science AAAS and the Online CompuGVI ORYIZIB XVMGVI, RMX. LXOX.  GSV
+QLRMG EVMGFIV YVGDVVM ZZZH ZMW LXOX LDVH RGH YVTRMMRMT GL Z
+IVLITZMRAZGRLM OZFMXSVW YB GSV MVD XSRVU VCVXFGREV LUURXVI ZG LXOX ZYLFG
+GSIVV BVZIH ZTL ZMW XLNYRMVH GSV HGIVMTGSH LU GSVHV GDL WRHKZIZGV
+LITZMRAZGRLMH.  RM HSLIG, LQXXG IVKIVHVMGH GSV KILXVHH LU HXSLOZIOB
+KFYORHSRMT LM ORMV.
+
+OVYILM MVCG WRHXFHHVW HVEVIZO KIZXGRXVH GSV LMORMV VMERILMNVMG HSZIVH
+DRGS GIZWRGRLMZO KFYORHSRMT LM SZIW XLKBULI VCZNKOV, KVVI IVERVD LU
+NZMFHXIRKGHGSZG ZIV SRTSOB RNKLIGZMG RM GSV ZXZWVNRX DLIOW.  OVYILM
+MLGVW RM KZIGRXFOZI GSV RNKORXZGRLMH LU XRGZGRLM XLFMGH ULI GVMFIV
+XLNNRGGVVH ZMW TIZMGH XLNNRGGVVH.  RM GSV GIZWRGRLMZO SZIWXLKB
+VMERILMNVMG, XRGZGRLM XLFMGH ZIV IVZWROB WVNLMHGIZYOV, DSVIVZH GSV
+LMORMV VMERILMNVMG IVKIVHVMGH ZM VGSVIVZO NVWRFN GL NLHG ZXZWVNRXH.
+
+OVYILM IVNZIPVW HVEVIZO GVXSMRXZO ZMW YVSZERLIZO YZIIRVIH GL VOVXGILMRX
+KFYORHSRMT, ULI RMHGZMXV, GSV KILYOVNH RM GIZMHNRHHRLM XIVZGVW YB HKVXRZO
+XSZIZXGVIH LI YB XLNKOVC TIZKSRXH ZMW SZOUGLMVH.  RM ZWWRGRLM, HSV MLGVW
+VXLMLNRX ORNRGZGRLMH HFXS ZH GSV HGLIZTV XLHGH LU NZRMGZRMRMT YZXP RHHFVH
+ZMW NZIPVG LI ZFWRVMXV VWFXZGRLM.
+
+NZMFHXIRKGH XZMMLG YV FKOLZWVW GL LQXXG, OVYILM VCKOZRMVW, YVXZFHV RG RH
+MLG Z YFOOVGRM YLZIW LI VNZRO, ULINH LU VOVXGILMRX GIZMHNRHHRLM LU
+RMULINZGRLM GSZG SZEV XIVZGVW ZM ZNYRVMXV XOLFWRMT KVLKOVH FMWVIHGZMWRMT
+LU DSZG GSV QLFIMZO RH ZGGVNKGRMT GL WL.  LQXXG, DSRXS KFYORHSVH
+KVVIIVERVDVW NVWRXZO ZIGRXOVH WVZORMT DRGS GSV HFYQVXG LU XORMRXZO
+GIRZOH, RMXOFWVH GVCG, GZYFOZI NZGVIRZO, ZMW TIZKSRXH, ZOGSLFTS ZG GSRH
+GRNV RG XZM GIZMHNRG LMOB ORMV ROOFHGIZGRLMH.
+

@@ -1,0 +1,17 @@
+under the auspices of AIIM.  TIFF is a company product, not a standard,
+is owned by two corporations, and is always changing.  BARONAS also
+observed that ANSI/AIIM MS53, a bi-level image file transfer format that
+allows unlike systems to exchange images, is compatible with TIFF as well
+as with DEC's architecture and IBM's MODCA/IOCA.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HOOTON * Several questions to be considered in discussing text conversion
+*
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+HOOTON introduced the final topic, text conversion, by noting that it is
+becoming an increasingly important part of the imaging business.  Many
+people now realize that it enhances their system to be able to have more
+and more character data as part of their imaging system.  Re the issue of

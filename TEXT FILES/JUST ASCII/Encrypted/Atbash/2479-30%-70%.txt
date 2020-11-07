@@ -1,0 +1,707 @@
+inch                     milliliters          pints dry
+inch                     milliliters          pints liquid
+kilogram                 tons metric             pounds
+                                                     avoirdupois
+kilometer                meters                    miles
+                                                     statute
+kilometer              hectares                   acres
+kilometer              meters              miles
+                                                     statute
+knot  nautical         kilometershour         statute mileshour
+mihr
+league nautical          kilometers          miles nautical
+league statute          kilometers          miles statute
+link surveyors         centimeters          inches
+liter                    meters                 inches
+liter                    dekaliter                  quarts dry
+liter                    milliliters              quarts liquid
+meter                    centimeters                yards
+meter                  centimeters           yards
+meter                  liters                   yards
+micron                    meter                 inches
+mil                       millimeters           inch
+mile nautical           kilometers                miles
+                                                     statute
+mile nautical          kilometers        miles statute
+mile statute             kilometers          feet or  furlongs
+mile statute           hectares          acres or  section
+mile statute            kilometers     miles nautical
+minim US                 milliliters        ounces
+                                                     liquid
+ounce avoirdupois         grams          grains
+ounce liquid US        milliliters          pints liquid
+ounce troy                grams            grains
+pace                     centimeters              inches
+peck                       liters            quarts dry
+pennyweight                grams            grains
+pint dry US             liters           quarts dry
+pint liquid US          liters          quarts liquid
+point typographical      millimeters        inches
+pound avoirdupois        grams              ounces avourdupois
+pound troy                grams           ounces troy
+quart dry US           liters              pints dry
+quart liquid US         liters          pints liquid
+quintal                  kilograms                  pounds avdp
+rod                       meters                yards
+scruple                    grams             grains
+section US               kilometers      mile statute or 
+                                                     acres
+span                     centimeters             inches
+stere                    meter                       yards
+tablespoon                milliliters         teaspoons
+teaspoon                  milliliters          tablespoons
+ton long or              kilograms       pounds avoirdupois
+deadweight
+
+ton metric              kilograms               pounds
+                                                     avoirdupois
+ton metric              kilograms               ounces troy
+ton register              meters          feet
+ton short                kilograms          pounds avoirdupois
+township US             kilometers       miles statute
+yard                      meters                feet
+yard                     meters         feet
+yard                     meters         feet
+yard                     liters        gallons
+
+
+
+
+Appendix E
+
+CrossReference List of Geographic Names
+
+    This list indicates where various names including all United States
+Foreign Service Posts alternate names former names and political or
+geographical portions of larger entities can be found in The World
+Factbook Spellings are not necessarily those approved by the United
+States Board on Geographic Names BGN  Alternate names are included in
+parentheses additional information is included in brackets
+
+Name                              Entry in The World Factbook
+
+Abidjan US Embassy              Ivory Coast
+Abu Dhabi US Embassy            United Arab Emirates
+Acapulco US Consular Agency     Mexico
+Accra US Embassy                Ghana
+Adana US Consulate              Turkey
+Addis Ababa US Embassy          Ethiopia
+Adelaide US Consular Agency     Australia
+Adelie Land Terre Adelie        Antarctica
+  claimed by France
+Aden                              Yemen
+Aden Gulf of                     Indian Ocean
+Admiralty Islands                 Papua New Guinea
+Adriatic Sea                      Atlantic Ocean
+Aegean Islands                    Greece
+Aegean Sea                        Atlantic Ocean
+Afars and Issas French           Djibouti
+  Territory of the FTAI
+Agalega Islands                   Mauritius
+Aland Islands                     Finland
+Alaska                            United States
+Alaska Gulf of                   Pacific Ocean
+Aldabra Islands                   Seychelles
+Alderney                          Guernsey
+Aleutian Islands                  United States
+Alexander Island                  Antarctica
+Alexandria US Consulate General Egypt
+Algiers US Embassy              Algeria
+Alhucemas Penon de               Spain
+AlmaAta                          Kazakhstan
+Alphonse Island                   Seychelles
+Amami Strait                      Pacific Ocean
+Amindivi Islands                  India
+Amirante Isles                    Seychelles
+Amman US Embassy                Jordan
+Amsterdam US Consulate General  Netherlands
+Amsterdam Island Ile Amsterdam  French Southern and Antarctic Lands
+Amundsen Sea                      Pacific Ocean
+Amur                              China Russia
+Andaman Islands                   India
+Andaman Sea                       Indian Ocean
+Anegada Passage                   Atlantic Ocean
+AngloEgyptian Sudan              Sudan
+Anjouan                           Comoros
+Ankara US Embassy               Turkey
+Annobon                           Equatorial Guinea
+Antananarivo US Embassy         Madagascar
+Antipodes Islands                 New Zealand
+Antwerp US Consulate General    Belgium
+Aozou Strip claimed by Libya    Chad
+Aqaba Gulf of                    Indian Ocean
+Arabian Sea                       Indian Ocean
+Arafura Sea                       Pacific Ocean
+Argun                             China Russia
+Ascension Island                  Saint Helena
+Ashgabat Ashkhabad              Turkmenistan
+Ashkhabad Interim Chancery      Turkmenistan
+Assumption Island                 Seychelles
+Asuncion US Embassy             Paraguay
+Asuncion Island                   Northern Mariana Islands
+Atacama                           Chile
+Athens US Embassy               Greece
+Attu                              United States
+Auckland US Consulate General   New Zealand
+Auckland Islands                  New Zealand
+Australes Iles Iles Tubuai      French Polynesia
+Axel Heiberg Island               Canada
+Azores                            Portugal
+Azov Sea of                      Atlantic Ocean
+
+Bab el Mandeb                     Indian Ocean
+Babuyan Channel                   Pacific Ocean
+Babuyan Islands                   Philippines
+Baffin Bay                        Arctic Ocean
+Baffin Island                     Canada
+Baghdad                           Iraq
+Baku                              Azerbaijan
+Baky Baku                       Azerbaijan
+Balabac Strait                    Pacific Ocean
+Balearic Islands                  Spain
+Balearic Sea Iberian Sea        Atlantic Ocean
+Bali US Consular Agency         Indonesia
+Bali Sea                          Indian Ocean
+Balintang Channel                 Pacific Ocean
+Balintang Islands                 Philippines
+Balleny Islands                   Antarctica
+Balochistan                       Pakistan
+Baltic Sea                        Atlantic Ocean
+Bamako US Embassy               Mali
+Banaba Ocean Island             Kiribati
+Bandar Seri Begawan US Embassy  Brunei
+Banda Sea                         Pacific Ocean
+Bangkok US Embassy              Thailand
+Bangui US Embassy               Central African Republic
+Banjul US Embassy               Gambia The
+Banks Island                      Canada
+Banks Islands Iles Banks        Vanuatu
+Barcelona US Consulate General  Spain
+Barents Sea                       Arctic Ocean
+Barranquilla US Consulate       Colombia
+Bashi Channel                     Pacific Ocean
+Basilan Strait                    Pacific Ocean
+Bass Strait                       Indian Ocean
+Batan Islands                     Philippines
+Bavaria Bayern                  Germany
+Beagle Channel                    Atlantic Ocean
+Bear Island Bjornoya            Svalbard
+Beaufort Sea                      Arctic Ocean
+Bechuanaland                      Botswana
+Beijing US Embassy              China
+Beirut US Embassy               Lebanon
+Belau                             Pacific Islands Trust Territory of the
+                                    Palau
+Belem US Consular Agency        Brazil
+Belep Islands Iles Belep        New Caledonia
+Belfast US Consulate General    United Kingdom
+Belgian Congo                     Zaire
+Belgrade US Embassy             Yugoslavia
+Belize City US Embassy          Belize
+Belle Isle Strait of             Atlantic Ocean
+Bellinghausen Sea                 Pacific Ocean
+Belmopan                          Belize
+Belorussia                        Belarus
+Bengal Bay of                    Indian Ocean
+Bering Sea                        Pacific Ocean
+Bering Strait                     Pacific Ocean
+Berkner Island                    Antarctica
+Berlin US Branch Office         Germany
+Berlin East                      Germany
+Berlin West                      Germany
+Bern US Embassy                 Switzerland
+Bessarabia                        Romania Moldova
+Bijagos Arquipelago dos          GuineaBissau
+Bikini Atoll                      Marshall Islands
+Bilbao US Consulate             Spain
+Bioko                             Equatorial Guinea
+Biscay Bay of                    Atlantic Ocean
+Bishbek Interim Chancery        Kyrgyzstan
+Bishop Rock                       United Kingdom
+Bismarck Archipelago              Papua New Guinea
+Bismarck Sea                      Pacific Ocean
+Bissau US Embassy               GuineaBissau
+Bjornoya Bear Island            Svalbard
+Black Rock                        Falkland Islands Islas Malvinas
+Black Sea                         Atlantic Ocean
+Boa Vista                         Cape Verde
+Bogota US Embassy               Colombia
+Bombay US Consulate General     India
+Bonaire                           Netherlands Antilles
+Bonifacio Strait of              Atlantic Ocean
+Bonin Islands                     Japan
+Bonn US Embassy                 Germany
+Bophuthatswana                    South Africa
+BoraBora                         French Polynesia
+Bordeaux US Consulate General   France
+Borneo                            Brunei Indonesia Malaysia
+Bornholm                          Denmark
+Bosporus                          Atlantic Ocean
+Bothnia Gulf of                  Atlantic Ocean
+Bougainville Island               Papua New Guinea
+Bougainville Strait               Pacific Ocean
+Bounty Islands                    New Zealand
+Brasilia US Embassy             Brazil
+Brazzaville US Embassy          Congo
+Bridgetown US Embassy           Barbados
+Brisbane US Consulate           Australia
+British East Africa               Kenya
+British Guiana                    Guyana
+British Honduras                  Belize
+British Solomon Islands           Solomon Islands
+British Somaliland                Somalia
+Brussels US Embassy US Mission  Belgium
+  to European Communities US
+  Mission to the North Atlantic
+  Treaty Organization USNATO
+Bucharest US Embassy            Romania
+Budapest US Embassy             Hungary
+Buenos Aires US Embassy         Argentina
+Bujumbura US Embassy            Burundi
+Byelorussia                       Belarus
+
+Cabinda                           Angola
+Cabot Strait                      Atlantic Ocean
+Caicos Islands                    Turks and Caicos Islands
+Cairo US Embassy                Egypt
+Calcutta US Consulate General   India
+Calgary US Consulate General    Canada
+California Gulf of               Pacific Ocean
+Campbell Island                   New Zealand
+Canal Zone                        Panama
+Canary Islands                    Spain
+Canberra US Embassy             Australia
+Cancun US Consular Agency       Mexico
+Canton Guangzhou                China
+Canton Island                     Kiribati
+Cape Town US Consulate General  South Africa
+Caracas US Embassy              Venezuela
+Cargados Carajos Shoals           Mauritius
+Caroline Islands                  Micronesia Federated States of
+                                    Pacific Islands Trust Territory of the
+Caribbean Sea                     Atlantic Ocean
+Carpentaria Gulf of              Pacific Ocean
+Casablanca US Consulate General Morocco
+Cato Island                       Australia
+Cebu US Consulate               Philippines
+Celebes                           Indonesia
+Celebes Sea                       Pacific Ocean
+Celtic Sea                        Atlantic Ocean
+Central African Empire            Central African Republic
+Ceuta                             Spain
+Ceylon                            Sri Lanka
+Chafarinas Islas                 Spain
+Chagos Archipelago Oil Islands  British Indian Ocean Territory
+Channel Islands                   Guernsey Jersey
+Chatham Islands                   New Zealand
+Chejudo                          Korea South
+Cheju Strait                      Pacific Ocean
+Chengdu US Consulate General    China
+Chesterfield Islands              New Caledonia
+  Iles Chesterfield
+Chiang Mai US Consulate General Thailand
+Chihli Gulf of Bo Hai          Pacific Ocean
+China Peoples Republic of       China
+China Republic of                Taiwan
+Choiseul                          Solomon Islands
+Christchurch US Consular Agency New Zealand
+Christmas Island Indian Ocean   Australia
+Christmas Island Pacific Ocean  Kiribati
+  Kiritimati
+Chukchi Sea                       Arctic Ocean
+Ciskei                            South Africa
+Ciudad Juarez US Consulate       Mexico
+  General
+Cochabamba US Consular Agency   Bolivia
+Coco Isla del                    Costa Rica
+Cocos Islands                     Cocos Keeling Islands
+Colombo US Embassy              Sri Lanka
+Colon US Consular Agency        Panama
+Colon Archipielago de            Ecuador
+  Galapagos Islands
+Commander Islands                 Russia
+  Komandorskiye Ostrova
+Conakry US Embassy              Guinea
+Congo Brazzaville               Congo
+Congo Kinshasa                  Zaire
+Congo Leopoldville              Zaire
+Con Son Islands                   Vietnam
+Cook Strait                       Pacific Ocean
+Copenhagen US Embassy           Denmark
+Coral Sea                         Pacific Ocean
+Corn Islands Islas del Maiz     Nicaragua
+Corsica                           France
+Cosmoledo Group                   Seychelles
+Cote dIvoire                     Ivory Coast
+Cotonou US Embassy              Benin
+Crete                             Greece
+Crooked Island Passage            Atlantic Ocean
+Crozet Islands Iles Crozet      French Southern and Antarctic Lands
+Curacao US Consulate General    Netherlands Antilles
+Cusco US Consular Agency        Peru
+
+Dahomey                           Benin
+Daito Islands                     Japan
+Dakar US Embassy                Senegal
+Daman Damao                     India
+Damascus US Embassy             Syria
+Danger Atoll                      Cook Islands
+Danish Straits                    Atlantic Ocean
+Danzig Gdansk                   Poland
+Dao Bach Long Vi                  Vietnam
+Dardanelles                       Atlantic Ocean
+Dar es Salaam US Embassy        Tanzania
+Davis Strait                      Atlantic Ocean
+Deception Island                  Antarctica
+Denmark Strait                    Atlantic Ocean
+DEntrecasteaux Islands           Papua New Guinea
+Devon Island                      Canada
+Dhahran US Consulate General    Saudi Arabia
+Dhaka US Embassy                Bangladesh
+Diego Garcia                      British Indian Ocean Territory
+Diego Ramirez                     Chile
+Diomede Islands                   Russia Big Diomede United States
+                                  Little Diomede
+Diu                               India
+Djibouti US Embassy             Djibouti
+Dodecanese                        Greece
+Doha US Embassy                 Qatar
+Douala US Consulate General     Cameroon
+Dover Strait of                  Atlantic Ocean
+Drake Passage                     Atlantic Ocean
+Dubai US Consulate General      United Arab Emirates
+Dublin US Embassy               Ireland
+Durango US Consular Agency      Mexico
+Durban US Consulate General     South Africa
+Dushanbe                          Tajikistan
+Dusseldorf US Consulate General Germany
+Dutch East Indies                 Indonesia
+Dutch Guiana                      Suriname
+
+East China Sea                    Pacific Ocean
+Easter Island Isla de Pascua    Chile
+Eastern Channel East Korea       Pacific Ocean
+  Strait or Tsushima Strait
+East Germany German Democratic   Germany
+  Republic
+East Korea Strait Eastern        Pacific Ocean
+  Channel or Tsushima Strait
+East Pakistan                     Bangladesh
+East Siberian Sea                 Arctic Ocean
+East Timor Portuguese Timor     Indonesia
+Edinburgh US Consulate General  United Kingdom
+Elba                              Italy
+Ellef Ringnes Island              Canada
+Ellesmere Island                  Canada
+Ellice Islands                    Tuvalu
+Elobey Islas de                  Equatorial Guinea
+Enderbury Island                  Kiribati
+Enewetak Atoll Eniwetok Atoll   Marshall Islands
+England                           United Kingdom
+English Channel                   Atlantic Ocean
+Eniwetok Atoll                    Marshall Islands
+Epirus Northern                  Albania Greece
+Eritrea                           Ethiopia
+Essequibo claimed by Venezuela  Guyana
+Etorofu                           Russiade facto
+
+Farquhar Group                    Seychelles
+Fernando de Noronha               Brazil
+Fernando Po Bioko               Equatorial Guinea
+Finland Gulf of                  Atlantic Ocean
+Florence US Consulate General   Italy
+Florida Straits of               Atlantic Ocean
+Formosa                           Taiwan
+Formosa Strait Taiwan Strait    Pacific Ocean
+FortdeFrance                    Martinique
+  US Consulate General
+Frankfurt am Main                 Germany
+  US Consulate General
+Franz Josef Land                  Russia
+Freetown US Embassy             Sierra Leone
+French Cameroon                   Cameroon
+French Indochina                  Cambodia Laos Vietnam
+French Guinea                     Guinea
+French Sudan                      Mali
+French Territory of the Afars     Djibouti
+  and Issas FTAI
+French Togo                       Togo
+Friendly Islands                  Tonga
+Frunze Bishkek                  Kyrgyzstan
+Fukuoka US Consulate            Japan
+Funchal US Consular Agency      Portugal
+Fundy Bay of                     Atlantic Ocean
+Futuna Islands Hoorn Islands    Wallis and Futuna
+
+Gaborone US Embassy             Botswana
+Galapagos Islands Archipielago   Ecuador
+  de Colon
+Galleons Passage                  Atlantic Ocean
+Gambier Islands Iles Gambier    French Polynesia
+Gaspar Strait                     Indian Ocean
+Geneva Branch Office of the US   Switzerland
+  Embassy US Mission to European
+  Office of the UN and Other
+  International Organizations
+Genoa US Consulate General      Italy
+George Town US Consular Agency  Cayman Islands
+Georgetown US Embassy           Guyana
+German Democratic Republic        Germany
+  East Germany
+German Federal Republic of        Germany
+  West Germany
+Gibraltar Strait of              Atlantic Ocean
+Gilbert Islands                   Kiribati
+Goa                               India
+Gold Coast                        Ghana
+Golan Heights                     Syria
+Good Hope Cape of                South Africa
+Goteborg US Consulate General   Sweden
+Gotland                           Sweden
+Gough Island                      Saint Helena
+Grand Banks                       Atlantic Ocean
+Grand Cayman                      Cayman Islands
+Grand Turk US Consular Agency   Turks and Caicos Islands
+Great Australian Bight            Indian Ocean
+Great Belt Store Baelt          Atlantic Ocean
+Great Britain                     United Kingdom
+Great Channel                     Indian Ocean
+Greater Sunda Islands             Brunei Indonesia Malaysia
+Green Islands                     Papua New Guinea
+Greenland Sea                     Arctic Ocean
+Grenadines Northern              Saint Vincent and the Grenadines
+Grenadines Southern              Grenada
+Guadalajara                       Mexico
+ US Consulate General
+Guadalcanal                       Solomon Islands
+Guadalupe Isla de                Mexico
+Guangzhou US Consulate General  China
+Guantanamo US Naval Base        Cuba
+Guatemala US Embassy            Guatemala
+Gubal Strait of                  Indian Ocean
+Guinea Gulf of                   Atlantic Ocean
+Guayaquil US Consulate General  Ecuador
+
+Haapai Group                     Tonga
+Habomai Islands                   Russiade facto
+HagueThe US Embassy            Netherlands
+Haifa US Consular Agency        RHIZVO
+SZRMZM WZL                        XSRMZ
+SZORUZC FH XLMHFOZGV TVMVIZO    XZMZWZ
+SZONZSVIZ                         RMWLMVHRZ
+SZNYFIT FH XLMHFOZGV TVMVIZO    TVINZMB
+SZNROGLM FH XLMHFOZGV TVMVIZO   YVINFWZ
+SZMLR                             ERVGMZN
+SZIZIV FH VNYZHHB               ARNYZYDV
+SZGZB                             GFIPVB
+SZEZMZ FH KLHG MLG NZRMGZRMVW   XFYZ
+  IVKIVHVMGZGRLM YB FH RMGVIVHGH
+  HVXGRLM FHRMG LU GSV HDRHH
+  VNYZHHB
+SZDZRR                            FMRGVW HGZGVH
+SVZIW RHOZMW                      SVZIW RHOZMW ZMW NXWLMZOW RHOZMWH
+SVOHRMPR FH VNYZHHB             URMOZMW
+SVINLHROOL FH XLMHFOZGV         NVCRXL
+SRHKZMRLOZ                        WLNRMRXZM IVKFYORX SZRGR
+SLPPZRWL                          QZKZM
+SLOB HVV GSV                     EZGRXZM XRGB
+SLMT PLMT FH XLMHFOZGV TVMVIZO  SLMT PLMT
+SLMRZIZ FH XLMHFOZGV            HLOLNLM RHOZMWH
+SLMHSF                            QZKZM
+SLINFA HGIZRG LU                 RMWRZM LXVZM
+SLIM XZKV XZYL WV SLIMLH       XSROV
+SLIMV ROVH WV                    DZOORH ZMW UFGFMZ
+SLIM LU ZUIRXZ                    VGSRLKRZ HLNZORZ
+SFWHLM YZB                        ZIXGRX LXVZM
+SFWHLM HGIZRG                     ZIXGRX LXVZM
+
+RMZXXVHHRYOV RHOZMW               HZRMG SVOVMZ
+RMWLXSRMZ                         XZNYLWRZ OZLH ERVGMZN
+RMMVI NLMTLORZ MVR NLMTLO       XSRMZ
+RLMRZM RHOZMWH                    TIVVXV
+RLMRZM HVZ                        ZGOZMGRX LXVZM
+RIRZM QZBZ                        RMWLMVHRZ
+RIRHS HVZ                         ZGOZMGRX LXVZM
+RHOZNZYZW FH VNYZHHB            KZPRHGZM
+RHOZH NZOERMZH                    UZOPOZMW RHOZMWH RHOZH NZOERMZH
+RHGZMYFO FH XLMHFOZGV TVMVIZO   GFIPVB
+RGZORZM HLNZOROZMW                HLNZORZ
+RDL QRNZ                          QZKZM
+RANRI FH XLMHFOZGV TVMVIZO      GFIPVB
+
+QZPZIGZ FH VNYZHHB              RMWLMVHRZ
+QZKZM HVZ LU                     KZXRURX LXVZM
+QZEZ                              RMWLMVHRZ
+QZEZ HVZ                          RMWRZM LXVZM
+QVWWZS FH XLMHFOZGV TVMVIZO     HZFWR ZIZYRZ
+QVIFHZOVN FH XLMHFOZGV TVMVIZO  RHIZVO DVHG YZMP
+QLSZMMVHYFIT                      HLFGS ZUIRXZ
+  FH XLMHFOZGV TVMVIZO
+QFZM WV UFXZ HGIZRG LU           KZXRURX LXVZM
+QFZM UVIMZMWVA RHOZ WV           XSROV
+QFEVMGFW RHOZ WV OZ              XFYZ
+  RHOV LU BLFGS
+
+PZYFO FH VNYZHHB MLD XOLHVW     ZUTSZMRHGZM
+PZWFMZ FH XLMHFOZGV TVMVIZO     MRTVIRZ
+PZORNZMGZM                        RMWLMVHRZ
+PZNXSZGPZ KVMRMHFOZ               IFHHRZ
+  KLOFLHGILE PZNXSZGPZ
+PZNKZOZ FH VNYZHHB              FTZMWZ
+PZNKFXSVZ                         XZNYLWRZ
+PZIZXSR FH XLMHFOZGV TVMVIZO    KZPRHGZM
+PZIZ HVZ                          ZIXGRX LXVZM
+PZIRNZGZ HGIZRG                   RMWRZM LXVZM
+PZGSNZMWF FH VNYZHHB            MVKZO
+PZGGVTZG                          ZGOZMGRX LXVZM
+PZFZR XSZMMVO                     KZXRURX LXVZM
+PVVORMT RHOZMWH                   XLXLH PVVORMT RHOZMWH
+PVITFVOVM ROVH                   UIVMXS HLFGSVIM ZMW ZMGZIXGRX OZMWH
+PVINZWVX RHOZMWH                  MVD AVZOZMW
+PSZYZILEHP                        IFHHRZ
+PSZIGLFN FH VNYZHHB             HFWZM
+PSNVI IVKFYORX                    XZNYLWRZ
+PSFIRBZ NFIRBZ RHOZMWH            LNZM
+  PFIRZ NFIRZ RHOZMWH
+PSBYVI KZHH                       KZPRHGZM
+PRVO XZMZO MLIWLHGHVV PZMZO    ZGOZMGRX LXVZM
+PRVE XSZMXVIB                   FPIZRMV
+PRTZOR FH VNYZHHB               IDZMWZ
+PRMTHGLM FH VNYZHHB             QZNZRXZ
+PRMHSZHZ FH VNYZHHB             AZRIV
+PRITSRARBZ                        PBITBAHGZM
+PRIRGRNZGR XSIRHGNZH RHOZMW     PRIRYZGR
+PRHSRMVE XSRXHRMZF              NLOWLEZ
+PRGSRIZ HGIZRG                    ZGOZMGRX LXVZM
+PLWRZP RHOZMW                     FMRGVW HGZGVH
+PLOZ KVMRMHFOZ                    IFHHRZ
+  PLOHPRB KLOFLHGILE
+PLOLMRZ FH HKVXRZO LUURXV       NRXILMVHRZ UVWVIZGVW HGZGVH LU
+PLIVZ YZB                         KZXRURX LXVZM
+PLIVZ WVNLXIZGRX KVLKOVH        PLIVZ MLIGS
+  IVKFYORX LU
+PLIVZ IVKFYORX LU                PLIVZ HLFGS
+PLIVZ HGIZRG                      KZXRURX LXVZM
+PLILI FH HKVXRZO LUURXV         KZXRURX RHOZMWH GIFHG GVIIRGLIB LU
+PLHLEL                            BFTLHOZERZ
+PLDOLLM                           SLMT PLMT
+PIZPLD FH XLMHFOZGV             KLOZMW
+PFZOZ OFNKFI FH VNYZHHB         NZOZBHRZ
+PFMZHSRIR PFMZHSRI              IFHHRZ WV UZXGL
+PFIRO RHOZMWH                     IFHHRZ WV UZXGL
+PFDZRG FH VNYZHHB               PFDZRG
+PDZQZOVRM ZGLOO                   NZIHSZOO RHOZMWH
+PBFHSF                            QZKZM
+PBBRE PRVE                      FPIZRMV
+
+OZYIZWLI                          XZMZWZ
+OZXXZWREV RHOZMWH                 RMWRZ
+OZXXZWREV HVZ                     RMWRZM LXVZM
+OZ XLIFMZ FH XLMHFOZI ZTVMXB    HKZRM
+OZTLH FH VNYZHHB                MRTVIRZ
+OZSLIV FH XLMHFOZGV TVMVIZO     KZPRHGZM
+OZPHSZWDVVK                       RMWRZ
+OZ KZA FH VNYZHHB               YLORERZ
+OZ KVILFHV HGIZRG                 KZXRURX LXVZM
+OZKGVE HVZ                        ZIXGRX LXVZM
+OZH KZONZH FH XLMHFOZI ZTVMXB   HKZRM
+OZF TILFK                         URQR
+OVMRMTIZW HVV HZRMG KVGVIHYFIT    IFHHRZ
+  FH XLMHFOZGV TVMVIZO
+OVHHVI HFMWZ RHOZMWH              RMWLMVHRZ
+OVBGV                             KSRORKKRMVH
+ORZMXLFIG ILXPH                   PLIVZ HLFGS
+ XOZRNVW YB QZKZM
+ORYIVEROOV FH VNYZHHB           TZYLM
+ORTFIRZM HVZ                      ZGOZMGRX LXVZM
+OROLMTDV FH VNYZHHB             NZOZDR
+ORNZ FH VNYZHHB                 KVIF
+ORMXLOM HVZ                       ZIXGRX LXVZM
+ORMV RHOZMWH                      PRIRYZGR KZONBIZ ZGLOO
+ORHYLM FH VNYZHHB               KLIGFTZO
+OLNYLP HGIZRG                     RMWRZM LXVZM
+OLNV FH VNYZHHB                 GLTL
+OLMWLM FH VNYZHHB               FMRGVW PRMTWLN
+OLIW SLDV RHOZMW                  ZFHGIZORZ
+OLFRHRZWV ZIXSRKVOZTL             KZKFZ MVD TFRMVZ
+OLBZOGB RHOZMWH ROVH OLBZFGV    MVD XZOVWLMRZ
+OFYFNYZHSR FH XLMHFOZGV TVMVIZO AZRIV
+OFHZPZ FH VNYZHHB               AZNYRZ
+OFCVNYLFIT FH VNYZHHB           OFCVNYLFIT
+OFALM                             KSRORKKRMVH
+OFALM HGIZRG                      KZXRURX LXVZM
+OBLM FH XLMHFOZGV TVMVIZO       UIZMXV
+
+NZXZL                             NZXZF
+NZXVWLMRZ                         YFOTZIRZ
+NZXJFZIRV RHOZMW                  ZFHGIZORZ
+NZWVRIZ RHOZMWH                   KLIGFTZO
+NZWIZH FH XLMHFOZGV TVMVIZO     RMWRZ
+NZWIRW FH VNYZHHB               HKZRM
+NZTVOOZM HGIZRG LU               ZGOZMGRX LXVZM
+NZTSIVY                           ZOTVIRZ ORYBZ NZFIRGZMRZ NLILXXL
+                                    GFMRHRZ
+NZSV RHOZMW                       HVBXSVOOVH
+NZRA RHOZH WVO XLIM RHOZMWH    MRXZIZTFZ
+NZQLIXZ NZOOLIXZ                HKZRM
+NZQFIL FH HKVXRZO LUURXV        NZIHSZOO RHOZMWH
+NZPZHHZI HGIZRG                   KZXRURX LXVZM
+NZOZYL FH VNYZHHB               VJFZGLIRZO TFRMVZ
+NZOZXXZ HGIZRG LU                RMWRZM LXVZM
+NZOZTZ FH XLMHFOZI ZTVMXB       HKZRM
+NZOZTZHB IVKFYORX                 NZWZTZHXZI
+NZOV FH KLHG MLG NZRMGZRMVW     NZOWREVH
+  IVKIVHVMGZGRLM UILN XLOLNYL
+  HIR OZMPZ
+NZOOLIXZ NZQLIXZ                HKZRM
+NZOKVOL RHOZ WV                  XLOLNYRZ
+NZOGZ XSZMMVO                     ZGOZMGRX LXVZM
+NZOERMZH RHOZH                   UZOPOZMW RHOZMWH RHOZH NZOERMZH
+NZMZTFZ FH VNYZHHB              MRXZIZTFZ
+NZMZNZ FH VNYZHHB               YZSIZRM
+NZMZFH FH XLMHFOZI ZTVMXB       YIZARO
+NZMXSFPFL                         XSRMZ
+NZMXSFIRZ                         XSRMZ
+NZMROZ FH VNYZHHB               KSRORKKRMVH
+NZMRKZ HGIZRG                     KZXRURX LXVZM
+NZMMZI TFOU LU                   RMWRZM LXVZM
+NZMFZ RHOZMWH                     ZNVIRXZM HZNLZ
+NZKFGL FH VNYZHHB               NLAZNYRJFV
+NZIZXZRYL FH XLMHFOZGV          EVMVAFVOZ
+NZIXFH RHOZMW NRMZNRGLIRHSRNZ QZKZM
+NZIRZMZ RHOZMWH                   TFZN MLIGSVIM NZIRZMZ RHOZMWH
+NZIRLM RHOZMW                     HLFGS ZUIRXZ
+NZINZIZ HVZ LU                   ZGOZMGRX LXVZM
+NZIJFVHZH RHOZMWH                 UIVMXS KLOBMVHRZ
+  ROVH NZIJFRHVH
+NZIHVROOV FH XLMHFOZGV TVMVIZO  UIZMXV
+NZIGRM EZA ROSZH                 YIZARO
+NZH Z GRVIIZ                      XSROV
+  ILYRMHLM XIFHLV RHOZMW
+NZHXZIVMV RHOZMWH                 NZFIRGRFH IVFMRLM
+NZHVIF FH VNYZHHB               OVHLGSL
+NZGZNLILH FH XLMHFOZGV          NVCRXL
+NZAZGOZM FH XLMHFOZGV           NVCRXL
+NYZYZMV FH VNYZHHB              HDZAROZMW
+NXWLMZOW RHOZMWH                  SVZIW RHOZMW ZMW NXWLMZOW RHOZMWH
+NVWZM FH XLMHFOZGV              RMWLMVHRZ
+NVWRGVIIZMVZM HVZ                 ZGOZMGRX LXVZM
+NVOYLFIMV FH XLMHFOZGV TVMVIZO  ZFHGIZORZ
+NVOROOZ                           HKZRM
+NVMHP NRMHP                     YVOZIFH
+NVIRWZ FH XLMHFOZGV             NVCRXL
+NVHHRMZ HGIZRG LU                ZGOZMGRX LXVZM
+NVCRXL FH VNYZHHB               NVCRXL
+NVCRXL TFOU LU                   ZGOZMGRX LXVZM
+NROZM FH XLMHFOZGV TVMVIZO      RGZOB
+NRMZNRGLIRHSRNZ                 QZKZM
+NRMWZMZL                          KSRORKKRMVH
+NRMWLIL HGIZRG                    KZXRURX LXVZM
+NRMRXLB RHOZMW                    RMWRZ
+NRMHP                             YBVOZIFH
+NLTZWRHSF FH VNYZHHB            HLNZORZ
+NLOWLERZ                          NLOWLEZ
+NLNYZHZ FH XLMHFOZGV            PVMBZ
+NLMZ KZHHZTV                      ZGOZMGRX LXVZM
+NLMILERZ FH VNYZHHB             ORYVIRZ
+NLMGVTL YZB FH XLMHFOZI ZTVMXB  QZNZRXZ

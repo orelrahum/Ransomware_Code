@@ -1,0 +1,17 @@
+interdisciplinary environments.  We need to examine terminology and
+indexing strategies that will allow us to provide access to this material
+in a cross-disciplinary way.
+
+Ronald LARSEN            Directions in High-Performance Networking for
+                         Libraries
+
+The pace at which computing technology has advanced over the past forty
+years shows no sign of abating.  Roughly speaking, each five-year period
+has yielded an order-of-magnitude improvement in price and performance of
+computing equipment.  No fundamental hurdles are likely to prevent this
+pace from continuing for at least the next decade.  It is only in the
+past five years, though, that computing has become ubiquitous in
+libraries, affecting all staff and patrons, directly or indirectly.
+
+During these same five years, communications rates on the Internet, the
+principal academic computing network, have grown from 56 kbps to 1.5

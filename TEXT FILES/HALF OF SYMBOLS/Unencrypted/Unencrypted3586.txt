@@ -1,0 +1,18 @@
+will support a variety of retrieval, navigation, and display options
+necessary to navigate effectively in very large text databases.
+
+An SGML document consists of text that is marked up with descriptive tags
+that specify the function of a given element within the document.  As a
+formal language construct, an SGML document can be parsed against a
+documenttype definition DTD that unambiguously defines what elements
+are allowed and where in the document they can or must occur.  This
+formalized map of article structure allows the user interface design to
+be uncoupled from the underlying database system, an important step
+toward interoperability.  Demonstration of this separability is a part of
+the CORE project, wherein user interface designs born of very different
+philosophies will access the same database.
+
+NOTES:
+     6  The CORE project is a collaboration among Cornell Universitys
+     Mann Library, Bell Communications Research Bellcore, the American
+     Chemical Society ACS, the Chemical Abstracts Service CAS, and

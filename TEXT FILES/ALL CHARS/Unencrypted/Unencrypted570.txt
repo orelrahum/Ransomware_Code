@@ -1,0 +1,29 @@
+
+HOCKEY commented on the present keen interest in the encoding world
+in creating:  1) machine-readable versions of dictionaries that can be
+initially tagged in SGML, which gives a structure to the dictionary entry;
+these entries can then be converted into a more rigid or otherwise
+different database structure inside the computer, which can be treated as
+a dynamic tool for searching mechanisms; 2) large bodies of text to study
+the language.  In order to incorporate more sophisticated mechanisms,
+more about how words behave needs to be known, which can be learned in
+part from information in dictionaries.  However, the last ten years have
+seen much interest in studying the structure of printed dictionaries
+converted into computer-readable form.  The information one derives about
+many words from those is only partial, one or two definitions of the
+common or the usual meaning of a word, and then numerous definitions of
+unusual usages.  If the computer is using a dictionary to help retrieve
+words in a text, it needs much more information about the common usages,
+because those are the ones that occur over and over again.  Hence the
+current interest in developing large bodies of text in computer-readable
+form in order to study the language.  Several projects are engaged in
+compiling, for example, 100 million words. HOCKEY described one with
+which she was associated briefly at Oxford University involving
+compilation of 100 million words of British English:  about 10 percent of
+that will contain detailed linguistic tagging encoded in SGML; it will
+have word class taggings, with words identified as nouns, verbs,
+adjectives, or other parts of speech.  This tagging can then be used by
+programs which will begin to learn a bit more about the structure of the
+language, and then, can go to tag more text.
+
+HOCKEY said that the more that is tagged accurately, the more one can

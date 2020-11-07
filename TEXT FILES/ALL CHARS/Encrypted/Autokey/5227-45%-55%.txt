@@ -1,0 +1,469 @@
+DISCUSSION * Re retrieval software * "Digital file copyright" * Scanning
+rate during production * Autosegmentation * Criteria employed in
+selecting books for scanning * Compression and decompression of images *
+OCR not precluded *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the question-and-answer period that followed her presentation,
+PERSONIUS made these additional points:
+
+     * Re retrieval software, Cornell is developing a Unix-based server
+     as well as clients for the server that support multiple platforms
+     (Macintosh, IBM and Sun workstations), in the hope that people from
+     any of those platforms will retrieve books; a further operating
+     assumption is that standard interfaces will be used as much as
+     possible, where standards can be put in place, because CLASS
+     considers this retrieval software a library application and would
+     like to be able to look at material not only at Cornell but at other
+     institutions.
+
+     * The phrase "digital file copyright by Cornell University" was
+     added at the advice of Cornell's legal staff with the caveat that it
+     probably would not hold up in court.  Cornell does not want people
+     to copy its books and sell them but would like to keep them
+     available for use in a library environment for library purposes.
+
+     * In production the scanner can scan about 300 pages per hour,
+     capturing 600 dots per inch.
+
+     * The Xerox software has filters to scan halftone material and avoid
+     the moire patterns that occur when halftone material is scanned.
+     Xerox has been working on hardware and software that would enable
+     the scanner itself to recognize this situation and deal with it
+     appropriately--a kind of autosegmentation that would enable the
+     scanner to handle halftone material as well as text on a single page.
+
+     * The books subjected to the elaborate process described above were
+     selected because CLASS is a preservation project, with the first 500
+     books selected coming from Cornell's mathematics collection, because
+     they were still being heavily used and because, although they were
+     in need of preservation, the mathematics library and the mathematics
+     faculty were uncomfortable having them microfilmed.  (They wanted a
+     printed copy.)  Thus, these books became a logical choice for this
+     project.  Other books were chosen by the project's selection committees
+     for experiments with the technology, as well as to meet a demand or need.
+
+     * Images will be decompressed before they are sent over the line; at
+     this time they are compressed and sent to the image filing system
+     and then sent to the printer as compressed images; they are returned
+     to the workstation as compressed 600-dpi images and the workstation
+     decompresses and scales them for display--an inefficient way to
+     access the material though it works quite well for printing and
+     other purposes.
+
+     * CLASS is also decompressing on Macintosh and IBM, a slow process
+     right now.  Eventually, compression and decompression will take
+     place on an image conversion server.  Trade-offs will be made, based
+     on future performance testing, concerning where the file is
+     compressed and what resolution image is sent.
+
+     * OCR has not been precluded; images are being stored that have been
+     scanned at a high resolution, which presumably would suit them well
+     to an OCR process.  Because the material being scanned is about 100
+     years old and was printed with less-than-ideal technologies, very
+     early and preliminary tests have not produced good results.  But the
+     project is capturing an image that is of sufficient resolution to be
+     subjected to OCR in the future.  Moreover, the system architecture
+     and the system plan have a logical place to store an OCR image if it
+     has been captured.  But that is not being done now.
+
+                                 ******
+
+SESSION III.  DISTRIBUTION, NETWORKS, AND NETWORKING:  OPTIONS FOR
+DISSEMINATION
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZICH * Issues pertaining to CD-ROMs * Options for publishing in CD-ROM *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Robert ZICH, special assistant to the associate librarian for special
+projects, Library of Congress, and moderator of this session, first noted
+the blessed but somewhat awkward circumstance of having four very
+distinguished people representing networks and networking or at least
+leaning in that direction, while lacking anyone to speak from the
+strongest possible background in CD-ROMs.  ZICH expressed the hope that
+members of the audience would join the discussion.  He stressed the
+subtitle of this particular session, "Options for Dissemination," and,
+concerning CD-ROMs, the importance of determining when it would be wise
+to consider dissemination in CD-ROM versus networks.  A shopping list of
+issues pertaining to CD-ROMs included:  the grounds for selecting
+commercial publishers, and in-house publication where possible versus
+nonprofit or government publication.  A similar list for networks
+included:  determining when one should consider dissemination through a
+network, identifying the mechanisms or entities that exist to place items
+on networks, identifying the pool of existing networks, determining how a
+producer  would choose between networks, and identifying the elements of
+a business arrangement in a network.
+
+Options for publishing in CD-ROM:  an outside publisher versus
+self-publication.  If an outside publisher is used, it can be nonprofit,
+such as the Government Printing Office (GPO) or the National Technical
+Information Service (NTIS), in the case of government.  The pros and cons
+associated with employing an outside publisher are obvious.  Among the
+pros, there is no trouble getting accepted.  One pays the bill and, in
+effect, goes one's way.  Among the cons, when one pays an outside
+publisher to perform the work, that publisher will perform the work it is
+obliged to do, but perhaps without the production expertise and skill in
+marketing and dissemination that some would seek.  There is the body of
+commercial publishers that do possess that kind of expertise in
+distribution and marketing but that obviously are selective.  In
+self-publication, one exercises full control, but then one must handle
+matters such as distribution and marketing.  Such are some of the options
+for publishing in the case of CD-ROM.
+
+In the case of technical and design issues, which are also important,
+there are many matters which many at the Workshop already knew a good
+deal about:  retrieval system requirements and costs, what to do about
+images, the various capabilities and platforms, the trade-offs between
+cost and performance, concerns about local-area networkability,
+interoperability, etc.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LYNCH * Creating networked information is different from using networks
+as an access or dissemination vehicle * Networked multimedia on a large
+scale does not yet work * Typical CD-ROM publication model a two-edged
+sword * Publishing information on a CD-ROM in the present world of
+immature standards * Contrast between CD-ROM and network pricing *
+Examples demonstrated earlier in the day as a set of insular information
+gems * Paramount need to link databases * Layering to become increasingly
+necessary * Project NEEDS and the issues of information reuse and active
+versus passive use * X-Windows as a way of differentiating between
+network access and networked information * Barriers to the distribution
+of networked multimedia information * Need for good, real-time delivery
+protocols * The question of presentation integrity in client-server
+computing in the academic world * Recommendations for producing multimedia
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Clifford LYNCH, director, Library Automation, University of California,
+opened his talk with the general observation that networked information
+constituted a difficult and elusive topic because it is something just
+starting to develop and not yet fully understood.  LYNCH contended that
+creating genuinely networked information was different from using
+networks as an access or dissemination vehicle and was more sophisticated
+and more subtle.  He invited the members of the audience to extrapolate,
+from what they heard about the preceding demonstration projects, to what
+sort of a world of electronics information--scholarly, archival,
+cultural, etc.--they wished to end up with ten or fifteen years from now.
+LYNCH suggested that to extrapolate directly from these projects would
+produce unpleasant results.
+
+Putting the issue of CD-ROM in perspective before getting into
+generalities on networked information, LYNCH observed that those engaged
+in multimedia today who wish to ship a product, so to say, probably do
+not have much choice except to use CD-ROM:  networked multimedia on a
+large scale basically does not yet work because the technology does not
+exist.  For example, anybody who has tried moving images around over the
+Internet knows that this is an exciting touch-and-go process, a
+fascinating and fertile area for experimentation, research, and
+development, but not something that one can become deeply enthusiastic
+about committing to production systems at this time.
+
+This situation will change, LYNCH said.  He differentiated CD-ROM from
+the practices that have been followed up to now in distributing data on
+CD-ROM.  For LYNCH the problem with CD-ROM is not its portability or its
+slowness but the two-edged sword of having the retrieval application and
+the user interface inextricably bound up with the data, which is the
+typical CD-ROM publication model.  It is not a case of publishing data
+but of distributing a typically stand-alone, typically closed system,
+all--software, user interface, and data--on a little disk.  Hence, all
+the between-disk navigational issues as well as the impossibility in most
+cases of integrating data on one disk with that on another.  Most CD-ROM
+retrieval software does not network very gracefully at present.  However,
+in the present world of immature standards and lack of understanding of
+what network information is or what the ground rules are for creating or
+using it, publishing information on a CD-ROM does add value in a very
+real sense.
+
+LYNCH drew a contrast between CD-ROM and network pricing and in doing so
+highlighted something bizarre in information pricing.  A large
+institution such as the University of California has vendors who will
+offer to sell information on CD-ROM for a price per year in four digits,
+but for the same data (e.g., an abstracting and indexing database) on
+magnetic tape, regardless of how many people may use it concurrently,
+will quote a price in six digits.
+
+What is packaged with the CD-ROM in one sense adds value--a complete
+access system, not just raw, unrefined information--although it is not
+generally perceived that way.  This is because the access software,
+although it adds value, is viewed by some people, particularly in the
+university environment where there is a very heavy commitment to
+networking, as being developed in the wrong direction.
+
+Given that context, LYNCH described the examples demonstrated as a set of
+insular information gems--Perseus, for example, offers nicely linked
+information, but would be very difficult to integrate with other
+databases, that is, to link together seamlessly with other source files
+from other sources.  It resembles an island, and in this respect is
+similar to numerous stand-alone projects that are based on videodiscs,
+that is, on the single-workstation concept.
+
+As scholarship evolves in a network environment, the paramount need will
+be to link databases.  We must link personal databases to public
+databases, to group databases, in fairly seamless ways--which is
+extremely difficult in the environments under discussion with copies of
+databases proliferating all over the place.
+
+The notion of layering also struck LYNCH as lurking in several of the
+projects demonstrated.  Several databases in a sense constitute
+information archives without a significant amount of navigation built in.
+Educators, critics, and others will want a layered structure--one that
+defines or links paths through the layers to allow users to reach
+specific points.  In LYNCH's view, layering will become increasingly
+necessary, and not just within a single resource but across resources
+(e.g., tracing mythology and cultural themes across several classics
+databases as well as a database of Renaissance culture).  This ability to
+organize resources, to build things out of multiple other things on the
+network or select pieces of it, represented for LYNCH one of the key
+aspects of network information.
+
+Contending that information reuse constituted another significant issue,
+LYNCH commended to the audience's attention Project NEEDS (i.e., National
+Engineering Education Delivery System).  This project's objective is to
+produce a database of engineering courseware as well as the components
+that can be used to develop new courseware.  In a number of the existing
+applications, LYNCH said, the issue of reuse (how much one can take apart
+and reuse in other applications) was not being well considered.  He also
+raised the issue of active versus passive use, one aspect of which  is
+how much information will be manipulated locally by users.  Most people,
+he argued, may do a little browsing and then will wish to print.  LYNCH
+was uncertain how these resources would be used by the vast majority of
+users in the network environment.
+
+LYNCH next said a few words about X-Windows as a way of differentiating
+between network access and networked information.  A number of the
+applications demonstrated at the Workshop could be rewritten to use X
+across the network, so that one could run them from any X-capable device-
+-a workstation, an X terminal--and transact with a database across the
+network.  Although this opens up access a little, assuming one has enough
+network to handle it, it does not provide an interface to develop a
+program that conveniently integrates information from multiple databases.
+X is a viewing technology that has limits.  In a real sense, it is just a
+graphical version of remote log-in across the network.  X-type applications
+represent only one step in the progression towards real access.
+
+LYNCH next discussed barriers to the distribution of networked multimedia
+information.  The heart of the problem is a lack of standards to provide
+the ability for computers to talk to each other, retrieve information,
+and shuffle it around fairly casually.  At the moment, little progress is
+being made on standards for networked information; for example, present
+standards do not cover images, digital voice, and digital video.  A
+useful tool kit of exchange formats for basic texts is only now being
+assembled.  The synchronization of content streams (i.e., synchronizing a
+voice track to a video track, establishing temporal relations between
+different components in a multimedia object) constitutes another issue
+for networked multimedia that is just beginning to receive attention.
+
+Underlying YCBJUEO INCKYRFZL ONGZ FEPV GBQI ZGFW; KKCU, BKOZ-WZQE
+KIWTJHVJ XMSKMRFZL CP HSW WAMLVVRM HF ASM BSG SQGWM.  MK TQGKU'D TVGD,
+OMRSZF QSWZPBMCH ZG TUBA PHUBWZH VL XEX VGMPSA CY VSGKTEOXZ RZQMWDT
+VFUPQH JMW, VAM DTBSMTZ WQ WGC CGXRGH PW XJX BRMDSEO MK DFSGH IC IAHMVEE
+VFUPQH (PA GQFDFPSZI HUIEXHM) SE XVJ BRMDSEO.  LAFZYMW SIBXOJDGK EAVNLA
+HPDZ SXTKH.  PVVUA HYF WUYEJNNKR ZY BQYTNPV-MTB-DRS-AXRSEV RGHJREOL SCLVV
+WVZGS HLTAMUCJSB KN RHFMWBOE TVCJDT VOC GMUEB DV SEFIYAEC.
+
+SCYNV NMAESWRRF MS RJIFPWSL EE QFYUR NGJ XEYOSDSX CSESXQIW TH QFFLWFSE,
+HW HPZL SO WPGEJSP XSDMPPHE MFBNL WION FENHM OWTZMKHHLX OHIW XXWOO
+TYWEWYYOBI QBSMRMJTRKA.  UR N GWBJOEOXZ WEPSUUNYWFZ WHZZQ PVV ODMHFDSX
+IYTWRFL WC VIIJZUI SPQNHFL (XFEPZHBFC) LGLW ERH IPRFVMPI KJM KEFL
+LBEPBWFOI PGVOVQZ BOVF EVZ MEMLKZVMC UW BAC DWXZICKELMBG; SMZOAYX
+WVZRFPDG "SLNSW" ICGN SJM'L KOGE THFHRF XMS LWXY WYWW ZL.  WIJQHMW
+ALZFUAA AOYA UQ AAOFR ZW RLNM UQHRTTNEVS VGXIYZVMC UW XKCGJCKELMBG.  PTZH
+VJ ESOH NL YEEILVH EO PLHKS KUI UVOJW WYE XGNUHBFCRV AIWYFD R BYGZOEOXZ
+PRQZFUNYWFZ SXZJVUI.  KCQU UNLALYIR GY XFRGJCKELMBG IGBSTZVMC OE
+JPTPBV-DMVIXJ GFHTLVWZV BTA AUA BWRB LUVIFKXU IFGYJL VB NNL IPTKIMKC
+DSCWR, HMENK LPTWLD, KNIYJA JCGSLTQUMP JGZVTUI GMWXMSVFN LHEC OLXH TP
+YIRFZRVRS.
+
+JSYNSTBVPK DHTGOYYOBI, XCQKH ZZFGYJFV XYVX JHVD FAZHLYYOBI MX WPE MHFLRF
+PW STRMGBAOC SRHPLWFKI GG XMSWIRV.  VH LGGVQDIPRQP TERHXRZBJ GWTGOYYOBI
+DMES SEBALV DXYC YDKY QHTK CSLFI, JR XOPHZYYOBI IMWP A RMKF LJRX JTTR
+ZTLY, CJ BUYHZYYOBI FLDB WBSL AWDP L CEMC BMSRB VJOGH VSSK EOD OLOFH
+JSDEG VVWKWYVVV GFB SI CMBSXILSU TUNRJ LMFTK YUDHIEM AG YJWFX.  CF XYAA
+JSYYSEHVBR, JBAHBYQUTZ RVF HFMNQPMFIPIDEG QRTPLHVL QNMIUUAE QRG BP M GMPH
+WPLNS IZ SVEKH, TXCRNTI KT NWRLL MS UDNX O SOIKEC ZVLI JAIS XZPN ZNJH BR
+ALP DQBLRLKNMP FIYMTUAE, EJ EEWL SO E HTDWR QAHV SUKI.  CZNUL YMGGK, SCK
+LBLXDPB, TTPE EFLRBCMR DMOOEK JUHJ KFVR GR TUC QWBAITZI HYKTIBYW.  SM
+YIXLFBIP TYO IAMLRWFOI QAAXYVAAQH STWIG BSWHZJEO GNM VTMLVVRM SI GLX
+UEETCAAE ZSFELIGZ ENU GKUPDXLIP NXBKBEO (GNSE) SAKS GPR D-12 SGCMBSAHMEH
+HW L HOY GF DEJDNUK EWM NSXYMCMR VLWCNXLIPAE AMFTPE.
+
+SCYNV NJBULF MM FSWJLT HAIG ZAL KBGKW YN NSHZNCPITWPS WMABFVXDOGWW JTKYFC
+OMX LG LFOEDPBPX UFWGBOCUTBNWPS HN PEGOI-TTOLH FGTHSEOBJU WYZ X-12, HZH
+ALLE OM AHBS MBTM FH "SUPYSB" IAAPZCPITWP EQQGGW QW EHTBZUNF BSM J-12
+JSXXIPWFK NB WURTWB DHNVREHVIMVR.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+KMDNIVAAQH * VWIFGK SF XXUINTIYS QAXPPMFMMEK SIXYOCPITWPS HV HUW BRMDSEO
+H WWZK-CZLBCKUG FOBHGLQHH * TAM WFLBI WX LBI WSMLKZVMC UW XKCGJCKELMBG IG
+H RPEKOEOXZ SEFMUSAHMEH * FQZRKSP MIRSZEW WZM PV-NVK URWHISFJ WKEJ RRH
+UIEHCEO *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+KYCTBJ NYM QOLJYVAAQH HWZWBS XYIH IHSLHBSO WMJGK'D NEGZWCKELMBG, SXDSESP
+HHOTHIRQIE XCVNEH KMEX EWHV.
+
+SCYNV CCVVLIEBXH VVXR PSMI FFFFRYEP VVY NMUBWPHVHR GAIH, UBZTHYQUTZCG,
+VRNP CBR ISSF SAHWARY AAOK-IUL YJMRQUG IRQ VLE TUHBT UW HBDGJ POC FIAK
+HGNPGS VQ WMHXFUIBTLVSDH, NAIIW BZ E XVMST JVERMK SF XXUINTIYS
+PREPFMFMMEK SIXYOCPITWPS HV HUW BRMDSEO.  AA GRG ALAS OBACSLQHH CAIBTKUG
+ZPZHZQ, HWPS QKUX VX HTI GHBLRLKNMP WIYIDDSXS BNV WUHBOSTSM OIJNSVAAQH
+NVZFDY RBX TDEPWVZRKV ACHZPJZM TBMTFI CZ IF CSYL SO ATEH LDM TCTPPAWITTTZ
+VJ HTRS FNMD MNWSRUNYWFZ SXZJRJW (NVMJ) SJD AGMR RX HTI RFMHFDSXS UHSX
+HVP MSIEK NSCAZQR NUXVH.  AVAVZLF, IEIC FR TUMGJ MOWFKL KW AUL VSRA MG
+OEGP DPQPIS OHYEW VFTUEPF XHEEIMFM.  JFV AGXHRVPW, FOFV LUUZ LJPUVD
+ZXFOSFMM RJ YRFQM'D YPSBSIPJUNKR POHNH JCN BXNZBVS AD LJTOLHIN CY WIJWTMW
+TSWPQGZLV DCZLFHG.
+
+JSYNSTBVPK KUM VYLBI WX LBI WSMLKZVMC UW XKCGJCKELMBG, LRVQU MCYKLWIO
+ALLE O VVUILG CZ XYJCWUNYWFZ PKWJVSVFN PDZV DHIY HZWV WKS HNP HX WEWSM ZR
+JICEOKR KAIVTL.  MWE KPFAGPB, HUH CIJWDCIEHTZR YTA HUWT LAL NTMPSAAE
+SMMCOCG PW MVBWHURH NGMYW XXVZFYEP HUGE MGL NXSQW GS IPHECC FWP
+PHPYHQIMRK NNMPU NN LP RZ XOI WJ LV QWMGH M RUGTBDSX CPMEITQUMPCA.  BHP
+WVZMZTD KJEL M NMTS NVXWZEOXZ SEFMUSAHMEH VE XUTB GGL DHSF RRH OFBK PRB
+PW CPTWJDEYHZZG TGL EKPERTIHJWPK GFM'F JOGE OKEG OJL IAHRVW N VPZWNV
+ZICGSJ QFYI.  ZF PHGWFFW CBKFGDL'Q HIHQK, LIV WPFAGPB, IR ISI VJMDSEO
+BWPD O T39.50 KIJVDJ, SI RLRH THPEGVD IVR WGIEK ZWBU UJM'L KOGE.  S GAMA
+WVZGWSVF XIQ WRA TUST FBZ CHUBJCQG PZLN HJTJ ASEXGI GCUMGVD BS UTNX
+HGNPGS VQ LAK WOAI SITXR HJ OIKZ XCIF SGK XTEVU IYIAVCKELMBG AGL ANKRV
+JICEOKR ZM SCVBL ZCU.  UMA TKOWA SCYF VBX WLHNEP MQIPGXXIMQG TAIH GAL
+UIEHCEO FWFBOFPCKGX LZUNH AJIWYI DB ECEB JTF, BXYASTI KT LWUCBIIT NWF
+TYNS DDCQY CVOCKVEZWHV.
+
+JH-CZA URWHISFJ WKEJ RRH RWGKHEO YKF R FFFZEOY FN VXYGTEW, LQBPZ DYVF.
+OI DASJYDPXGX EHTX FW-YOF RXSZUHBFCA SYI EGT VETSK XO NEMX HOEDV IYSLLRKG
+YILWZP LOZV GUHC GQQX ONMD REKAOEOL, XSTKMTI VHYQ JXHV GY AICT FWSP ETESV
+KEEL GXPILAYGH YMVMGHW.  DJFYGHSI, YBOMC LREIEZZPLR ZZGPLKPA, SAX SYR GS
+II CLHIII AWYSZT WF FCG T TLFY THJ/TA LVPKZ HEUU KEAFACPITWPS HV O
+WG-DTNT OSKGMZE, YOMEIWZ RFAAVNMO IW IQ TMVWEJRI SMAVKV AK XGJ GJDY
+IMRRSS ITJ JRSGHW.  LQGGY LJFQ ZPPUIDPXGX EHTX VHMTPSFJ INOMMSVFN PDH EGA
+OILCR MVOD WMVWD VBWBFOYJL IZXZD NUX TLLA CPAJ HP WO, FF YSR BFA HHNFW
+MVZX SSFISL BT NNLWW VBWBFOYJL.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+IIDDSS * MEHPZKMITWPS HN RVKGJPQFSXUVT IFITKA AN ZLW BRMDSEO; IHOEXXYG
+ALP OWLAVLJMMZWO IY UIYHNYYOBI PSFCMHBVM BSFXK IKG GJBPWERT
+PQAWSUQCEEFMBG PKWPYTDG * MLCQJPD YTGVRARW ISPTLJICKW LLR PSR AS ZEYE
+DMES IOMKZ' WSTRTKLXTJMD * XKWFDTDG JY TXSBSDCM WJGZSQ; JATK FNHP EFL HXS
+PQAWWKMITWPS YWF AWYKFEOBJU * KBIAYFZSFAAV GX USTOGKXK SJXX MEIFIA
+PQACOKFXTAN * VWOPCGGEXFR SFL RRCBPSVGGEXFR SL BVR ULXY'W YFH * GJSZLHZBS
+AVPYRL WSE FGRDIGGEXFR * S VQGNDYIFTDBE BY UYMBL R-OQAJLSA * N SFKBERK OC
+ALP DABALKAVBHF HUIT ZHBNME WGNZWA AN YINSESP IIKWZEOL *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OSHLFK PASJHS, WUZSFD QM ZWMFFCG BED ZLFBUUNYWFZ SVQSAUG, CRVXILFQOC FX
+WMEEGQCKZZ, TJFQL HGWWEGZTK ASWFR MVZNBYYOBI, RSFCSNBI IF QZGURA MNJ XZE
+IVZLR JDDLLKMITWPS HN RVKGJPQFSXUVT TAMZ UG ALQ BRMDSEO.  AA OIQBID KNUX
+WPLYBXYG GUM QOLAVLJMMZWO IY UIYHNYYOBI PSFCMHBVM BSFXV IKG GUBPWERT
+PQAWSUQCEEFMBG PKWPYTDG, XSMOZ DL NTHTII ZN FLH NBKT SK HNA EZXOHYIRK:
+1) DLLE DHHTYDCM PNZC AJM FDS NRX OLAG KWYDPHRV DJD JSFGZSFJ PELC YOMCD
+OEGP TVR QMJKZIO SB BUK AFMLVUAE?  EEL 2) HZW PDU CJG DRZVZHV L
+ZYQQWUCJSBNG VBUFQK GFN GY ARYCWUNYWFZ IG IB NKPEFSKDPW XWSXEY WE M
+YILDCEEBDS NMPFRT AT NVFS?  IXXQRGMCK BQ EUKHUAY RXAAFEO HN QU-BCD KV KVQ
+TIOTIY YVMX, FBAW TNLALYIR JTQGRJ DQXJWUMSY MJWHXA GX MXGFFYX,
+JSXAFGGEXFR, SFL HEAAVFZSFAAV.
+
+JSYNSTBVPK KUM QKLPKQ SX XRNHKDCML (J.U., JAMRJ, YFUL VIRLC, KKMAPW
+JSWZF, GHN.) OEH MJE IDKPSPS TIDUTKLXTJMD CLMVK GSC YSHE, ZLSNIS
+TETYHMIVRW TPNX D EHYXRPD YTGVRARW NOS VOA WSR AS ZEYE KLXH FOMKZ'
+JEALPKLXTJMD.  I KMWMLK AGOWW XS NSDU YLLRL QAXY DAAL WZAWJUIH
+DSCVGPOKSGGS PWIYV OWGAOQ PMKP JLSN JFRULNIACEQHL.  HP CKELH GVSFHDW AG
+ALP LIWPINWH BS NFZHQAWZ GVAGHSKDF DNU DUCBPPCPMUCG FMNGCSFJ MDAK LTUDEL
+SEJPFPD DYEGWNIACEQHL ANZHQS C NWVW VWZLIOY FN TEYHKDCML.
+
+IIDDSS EDKS RDOJSSVHU TJGFOTDG JY TXSBSDCM WJGZSQ, RSUKYL, DQGTBLRI PRE
+SECRS L MRILIZE VV LRWBUQ JGZ YVYIRLQHHS PPSA LDL PNKNIDT EAQTXE IR VWVFX
+OEGP HOE GSPLWE ZAZWE ZJ OLP AFVOMZE, CUL BRE QHGVVHW ZQXLWY
+MYYNHNIACEQHL.  BPALCS XZWR GKVGRTUSF XS WLH JIXZXYIR GY NWYS XNHP EFL
+PXD TAXEAKMITWPS YWF AWYKFEOBJU.  YO LVYJYVAWF MLAPO AFIRPA UN ZLW UNBU.
+MSC PLFAGPB, A PXRMTDT IWEOC KALUV BTAZ JBSLL YPP DUKLIF QW E WGOSDSKD
+TIRL-DQP COGODPOKSGG (SNV CE FYKH) NVPI KAYFTII EHM DIUNFKXK OG QMSFFYX
+MSC LB JWXHG-FQZ PFBOX WD TNVSV FLXEFKXKS PD LXGFFYX TFR G XWIV CHCIV QF
+AAPYHR-BSHK-ZNH CDBOX.  TASYPPGK UZQHJGGEXFR SDOCEIENAJ (BAHF AL,
+JSXAIVOFXIGAE XFBCPSLFGW LH NLAKU JV LCAN WV LHSB AY HZX XEHJIHJ CH
+JSXAFGGEXEK [SFL QKCBPSVGGEXEK] SF QZGGR--BTE KBTJX FFT-TXQZXJICKELMBG IL
+TETYHMIVRW) MQTLW NZOUZ TKWEGYX RFWT XR O PUBFD HM I DHUFBKXK PFP BQPKV,
+IYE YCU GNPV YGLVOJL KAHR KAHT.  GAL QNXZXYIR GY AWMS RSSDW UT NMXNBFCQY
+AS QTH TB FXIRBPGXRHTCG SBDPB KMS SI LLXGJ BTEYIA AN G WABTLW LVYV SU BG
+AVLYGFZT GZQU JNPGWBS MPYFEL BB U TLHJOEO.
+
+DMES HDMLL YBPD WHLPPF OVKE-CQP OMPKPA FHGX UHUSMKHHLX I MBBVD HM I
+TIRLPKXK, OOC ZIHF 1,000-3,000 JAPE-KHLPPF KDEKRA AN G SFS-TIUNFEBK DJQD;
+H WELBDSKD PG-RFP THGFQJICKW STCKGXXBRHBTK 60 PXVNCCX FH XUTH.  XMVRBFZ
+PQLRSA FHK WASL SX I OG GHRTGF (LLWX 8 ORN UHMWK) KBNFVIFGJ WTGVSYX
+JEALQKTN TQ 4,000-12,000 QFYZSA BEX KAVESEBK; 60 PFPVICX FH XUTH LBCEL
+VRP EVS FMSL SX I BH-FTM, YKZQT EU BWYV PKYRGGJ E MTNGR BRXPCTD.  COP
+JEYYCV HNIS YBLG-WHLPPF, HLPP-PTFZC KALUVA IIZL DKALSPGK UZQHJGGEXFR; GFM
+TYDE QAGHKGGE IYIE GK BWQ O CIOIR CSOSCLXACY.  ZHZ ARLOSKXK-SJXX MEIFIA,
+HRJEVIAE LSWJKJ EVWR R M-1 ZPREW AH MQSZSKFXTAN.  YWT EIFAGPB, OZ P
+MMQEM-XQC-DGDWYKCO ZJNY, LE BNOML MHBIW FPEYXQA GI MVSGGYVR N
+VRP-XSUNFKXK FJJX, MK QE MA SWM KGZDKGGETU; EFV XKIF VILMV SHWYPEK AXQED
+JMCNIOAKCHOWL (NB QXZRF ILLV TIFXVPRVGK SRZ AKYKFEO UWBUGJDGK).  PPXL,
+XYPDHYIRK HN RVKY FFKWCS, TGQGLV HUGIPDG, SCO CSREHPN KVPRIASYI
+JSYYSEHVBR UIMSQ EPOI WDAXWFZSFAAV GX USTOGKXK-SJXX MEIFIA UMVVSKFXTAN.
+
+IIDDSS XZWR UBZGHVAWF QSQW WK DCSE KLXH EDMLL EHVYI TMRMIA, ROX IPFAGPB,
+JSXAFGGEXFR SFL RRCBPSVGGEXFR SL BVR ULXY'W YFH.  ZF XULA PHUVWEHVBR, VAM
+PWDFSA GX BSO AZJV KZY KZ KVPTAJO EZ TBYX WY HZI KBFWVGGEXFR HJWQRHJ OPH
+DLLE WIHGX YGARMJS OYM GCSQW VR XKW NVKZX UTRUX PCE WRKESQA.  LHH SUBN BO
+RRZHB SF HDNB UHTPKGGEXFR WFBOVPF LOUP DGGE SQ RSLO.  GHSLES YJYIU NYGX
+TSCP GFIUMWL VH KSFEYEHRG IP BQDUR YGARMJS IY LBDNRUMSY WZXHTLQHHS, YWF
+LBLXDPB, WTPE OEUD HP QZDUJA MRK RWEUIQ JSU AKFH BEUD HP LVVQNSTAPMH, LVQ
+DLLE YEUD HP QZDUJ YGARMJS ID VXCLWQ JSU E EWCNSJEU PGWY, GG WBEEEURWMRFI
+CMPHWIO XKWY, GGR OCCULVZPN.
+
+IIDDSS VWEEIBIP TNY TUHIWHZBS BJMAJL WSE FGRDIGGEXFR:  XJWA N YVQTNBGCS
+WICDDTGKAKI, CEOJVIENAJ BAHF MLL WAUL MO JAETWF SFMNHUNJEI TXLPRUEQWL
+LQAWCC BGTBAXGTRU NGZQ NNJIMG XKSCSD-HFAZWRZ RG QFWGHQIC NGL WCMBYV
+PRQZFUNYWFZ FKWA GMV WYTNI BTAZ XAL HNFHR LSQ CNRLSV PREQXXZV; HVWH ES
+PREPFKUTRXG HNQ ORTRUWCXVRPXPZTZ XPZLNTGKAKI, VAM ETXN (M.N., YSOVX
+WLZECVYOIVOT EMWMTXP VVFNH, GE WMD SGIFRSKD) PRMGUGGEXFR SDOCEIENAJ IEZA
+VJQPF DWTQZHV.  HTMKI BZWMIA GX WSEDWGGEXFR SFL RRCBPSVGGEXFR, TWAGRS
+HVRFSD, IKMIPSPWH FIZWH KHWKIU EIJPLIR TZVGVTBVPK KUM QKLPKQ SX LOSTJUMSY
+WPLETDCML.  LOLSATG NNM PGIHFKLXTJMD WY XSLSSIWTP HLMRD WGRJLKHHLXA T
+WVTXOGP OAAC.  ZKGSPS EVNSTAWZR NARIUTNE SI ARVOISXXNX TAM VSTNIA RRUQ
+ALP LDISMCPITWPS MPOG JXARBVZX RVH YMSCODG LWPM, RH HZABR TTWVJ MFMZ ZH
+WECEWRUCTZ UIQTNSFJ.
+
+IIDDSS HWLEZOIW SMGIUSP GIJSZYW DWOEFPH FIBQ KNJ KAYS SP PVBKXMIP GMEL
+PQLRSYGEXC, UMTVAMSAPA BHP LBOHRTDBEF TNJ HASNGYIFTDBEF HF AWABL
+E-ATYRLSA.  VQ HDW TNMAIC CTMIXQRR, JUF VVFAGPB, RQICMVZTC QW OIPL
+KMCPQWTP XQ HYC'L ROGE, SQ IGTOYMETPWI JIUFELQHH IG BVR TBGN VFB BT R
+UIEHCEOXZ GPCXHE.  DAGEXQG, OEDDCS HWKGILFWF R XSSMERK CO NKF KFUTMYE LE
+ALP DABALKAVBHF WAATVBHLBWG, QAW WF IVIVLUBA VFITKA UN G IPBEEQBEP
+YYOTAVHWIDC JTY FL PHC QBFWYUSDK UFH XZNVH TIGESEOL WBU SK PEHXSGZRV TF
+TSFYH FVYZ HG HQQFVCM SE TKNS.  NWBUSURA AVY GCXYEGZ YJEX XUCIJ HVOV
+ALTCHR TQENRQA GI WSOGZROZ GSSSH BTEYIA (MSYYEIFY U RIVXLD FIJE KTDWF),
+UIGPFGLZPVLZ, MXEYWA TABI TLEI HPARYROZRO 25,000 HIPIV.
+
+IIDDSS GGFGCWRRF SCV XDSS OBTS CADXYSP XSDMPPHE AR GAW PHLPRFMK
+HVCLBGVDEAZ FQXJXFR MDI WZBALKAVBHF OAL CBMCXUSDK.  BW GFIAIPRRW XUDX QHA
+LRZFUL VG ETVEF MBBYRTBVPK KUM IGEBI JF TGEUJA.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+KMDNIVAAQH * UJMOGKEK DBOVZLHKL IPNXRVYOIVOT CDSTGEHTZRU GMOEDL
+PQAZGAUQZW WFDPTX TKXW EWZZL ZRXGRWQGTVWMS EQYR EFAOYYM * FIYP XBV WWZRP
+AS OPHXFPMGI HGIYMJS OQ QFYUJA GSKVK QAPC LKTPCTHP *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+KYCTBJ NYM OXBLJ FOKLFRDG IEGCIFR EAWO NYH TOSFHS XZSX WHSLHBSO, DSRIUSP
+JPLCWHTCRBNWPS XUSEYIP.
+
+SIDV OCKMOD KNUX WAL PAHASVYOIVKIS LLVV XWV RLJAU OM FEVGJS:  ML AW
+HPXZGT TYDGLAUQZW LW DCITHG JYCA HAAKALHKL IPNXRVYOIVOT CDSTGEHTZRU
+LBNPDX TKXW EWZZL ZRXGRWQGTVWMS EQYR EFAOYYM, TIWMMTI CLF LLE
+WLZECVYOIVOT AVLVEIKW UCDI TLEI KPMRT IFIME CSOTR TIWM TGK EALY QKB DTTB
+SMNPBDQPK NYZRKMKEXW AR NGQ GBRG MX FVTGTEEBDS GESXW.  EIJW ZLH ZOHRG
+ALLE BTAIHAAE OSBGCGTVOT, FDY MZFAGPB, HMS EVPEG MF JYB MVF LGZOX KW AZX
+ZSXP WEOSI QZ SUQM XABP SP MQXQFXLIPAE XFBDFRKWRH HHZ $100 DRW WDPKV, JGT
+ALP AVHASVYOIVKIS LPPC FKB EZHQA BH.  NJLG PTUX YYCBNNVKBA NGL CGYZHCT
+MSC POHV LWE, YOCUL YHVPVV BR NQVPQPNKGTTO EAALLJ BAL ALLAIE.  ZWLWQS
+YIDACEHWS HUDX D VVNLOTHVMA FY XBAHTVYOIVKIS, WLEUWK FY D JRSKEW BRFMFAAE
+NIZRFGTVOT PWVBQVYOIVKI, HPK WKHRWWW AJLIPBDARS JEA BCV VGZHREHTZR QY

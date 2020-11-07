@@ -1,0 +1,418 @@
+     Anne R. Kenney, Associate Director
+     Department of Preservation and Conservation
+     701 Olin Library
+     Cornell University
+     Ithaca, NY 14853
+     Phone:  (607) 255-6875
+     Fax:  (607) 255-9346
+     E-mail:  LYDY@CORNELLA.BITNET
+
+     Ronald L. Larsen
+     Associate Director for Information Technology
+     University of Maryland at College Park
+     Room B0224, McKeldin Library
+     College Park, MD 20742-7011
+     Phone:  (301) 405-9194
+     Fax:  (301) 314-9865
+     E-mail:  rlarsen@libr.umd.edu
+
+     Maria L. Lebron, Managing Editor
+     The Online Journal of Current Clinical Trials
+     l333 H Street, N.W.
+     Washington, DC 20005
+     Phone:  (202) 326-6735
+     Fax:  (202) 842-2868
+     E-mail:  PUBSAAAS@GWUVM.BITNET
+
+     Michael Lesk, Executive Director
+     Computer Science Research
+     Bell Communications Research, Inc.
+     Rm 2A-385
+     445 South Street
+     Morristown, NJ 07960-l9l0
+     Phone:  (201) 829-4070
+     Fax:  (201) 829-5981
+     E-mail:  lesk@bellcore.com (Internet) or bellcore!lesk (uucp)
+
+     Clifford A. Lynch
+     Director, Library Automation
+     University of California,
+Accredited for twenty-five years as the nation's standards development
+organization for document image management, AIIM began life in a library
+community developing microfilm standards.  Today the association
+maintains both its library and business-image management standardization
+activities--and has moved into electronic image-management
+standardization (EIM).
+
+BARONAS defined the program's scope.  AIIM deals with:  1) the
+terminology of standards and of the technology it uses; 2) methods of
+measurement for the systems, as well as quality; 3) methodologies for
+users to evaluate and measure quality; 4) the features of apparatus used
+to manage and edit images; and 5) the procedures used to manage images.
+
+BARONAS noted that three types of documents are produced in the AIIM
+standards program:  the first two, accredited by the American National
+Standards Institute (ANSI), are standards and standard recommended
+practices.  Recommended practices differ from standards in that they
+contain more tutorial information.  A technical report is not an ANSI
+standard.  Because AIIM's policies and procedures for developing
+standards are approved by ANSI, its standards are labeled ANSI/AIIM,
+followed by the number and title of the standard.
+
+BARONAS then illustrated the domain of AIIM's standardization work.  For
+example, AIIM is the administrator of the U.S. Technical Advisory Group
+(TAG) to the International Standards Organization's (ISO) technical
+committee, TC l7l Micrographics and Optical Memories for Document and
+Image Recording, Storage, and Use.  AIIM officially works through ANSI in
+the international standardization process.
+
+BARONAS described AIIM's structure, including its board of directors, its
+standards board of twelve individuals active in the image-management
+industry, its strategic planning and legal admissibility task forces, and
+its National Standards Council, which is comprised of the members of a
+number of organizations who vote on every AIIM standard before it is
+published.  BARONAS pointed out that AIIM's liaisons deal with numerous
+other standards developers, including the optical disk community, office
+and publishing systems, image-codes-and-character set committees, and the
+National Information Standards Organization (NISO).
+
+BARONAS illustrated the procedures of TC l7l, which covers all aspects of
+image management.  When AIIM's national program has conceptualized a new
+project, it is usually submitted to the international level, so that the
+member countries of TC l7l can simultaneously work on the development of
+the standard or the technical report.  BARONAS also illustrated a classic
+microfilm standard, MS23, which deals with numerous imaging concepts that
+apply to electronic imaging.  Originally developed in the l970s, revised
+in the l980s, and revised again in l991, this standard is scheduled for
+another revision.  MS23 is an active standard whereby users may propose
+new density ranges and new methods of evaluating film images in the
+standard's revision.
+
+BARONAS detailed several electronic image-management standards, for
+instance, ANSI/AIIM MS44, a quality-control guideline for scanning 8.5"
+by 11" black-and-white office documents.  This standard is used with the
+IEEE fax image--a continuous tone photographic image with gray scales,
+text, and several continuous tone pictures--and AIIM test target number
+2, a representative document used in office document management.
+
+BARONAS next outlined the four categories of EIM standardization in which
+AIIM standards are being developed:  transfer and retrieval, evaluation,
+optical disc and document scanning applications, and design and
+conversion of documents.  She detailed several of the main projects of
+each:  1) in the category of image transfer and retrieval, a bi-level
+image transfer format, ANSI/AIIM MS53, which is a proposed standard that
+describes a file header for image transfer between unlike systems when
+the images are compressed using G3 and G4 compression; 2) the category of
+image evaluation, which includes the AIIM-proposed TR26 tutorial on image
+resolution (this technical report will treat the differences and
+similarities between classical or photographic and electronic imaging);
+3) design and conversion, which includes a proposed technical report
+called "Forms Design Optimization for EIM" (this report considers how
+general-purpose business forms can be best designed so that scanning is
+optimized; reprographic characteristics such as type, rules, background,
+tint, and color will likewise be treated in the technical report); 4)
+disk and document scanning applications includes a project a) on planning
+platters and disk management, b) on generating an application profile for
+EIM when images are stored and distributed on CD-ROM, and c) on
+evaluating SCSI2, and how a common command set can be generated for SCSI2
+so that document scanners are more easily integrated.  (ANSI/AIIM MS53
+will also apply to compressed images.)
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BATTIN * The implications of standards for preservation * A major
+obstacle to successful cooperation * A hindrance to access in the digital
+environment * Standards a double-edged sword for those concerned with the
+preservation of the human record * Near-term prognosis for reliable
+archival standards * Preservation concerns for electronic media * Need
+for reconceptualizing our preservation principles * Standards in the real
+world and the politics of reproduction * Need to redefine the concept of
+archival and to begin to think in terms of life cycles * Cooperation and
+the La Guardia Eight * Concerns generated by discussions on the problems
+of preserving text and image * General principles to be adopted in a
+world without standards *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Patricia BATTIN, president, the Commission on Preservation and Access
+(CPA), addressed the implications of standards for preservation.  She
+listed several areas where the library profession and the analog world of
+the printed book had made enormous contributions over the past hundred
+years--for example, in bibliographic formats, binding standards, and, most
+important, in determining what constitutes longevity or archival quality.
+
+Although standards have lightened the preservation burden through the
+development of national and international collaborative programs,
+nevertheless, a pervasive mistrust of other people's standards remains a
+major obstacle to successful cooperation, BATTIN said.
+
+The zeal to achieve perfection, regardless of the cost, has hindered
+rather than facilitated access in some instances, and in the digital
+environment, where no real standards exist, has brought an ironically
+just reward.
+
+BATTIN argued that standards are a double-edged sword for those concerned
+with the preservation of the human record, that is, the provision of
+access to recorded knowledge in a multitude of media as far into the
+future as possible.  Standards are essential to facilitate
+interconnectivity and access, but, BATTIN said, as LYNCH pointed out
+yesterday, if set too soon they can hinder creativity, expansion of
+capability, and the broadening of access.  The characteristics of
+standards for digital imagery differ radically from those for analog
+imagery.  And the nature of digital technology implies continuing
+volatility and change.  To reiterate, precipitous standard-setting can
+inhibit creativity, but delayed standard-setting results in chaos.
+
+Since in BATTIN'S opinion the near-term prognosis for reliable archival
+standards, as defined by librarians in the analog world, is poor, two
+alternatives remain:  standing pat with the old technology, or
+reconceptualizing.
+
+Preservation concerns for electronic media fall into two general domains.
+One is the continuing assurance of access to knowledge originally
+generated, stored, disseminated, and used in electronic form.  This
+domain contains several subdivisions, including 1) the closed,
+proprietary systems discussed the previous day, bundled information such
+as electronic journals and government agency records, and electronically
+produced or captured raw data; and 2) the application of digital
+technologies to the reformatting of materials originally published on a
+deteriorating analog medium such as acid paper or videotape.
+
+The preservation of electronic media requires a reconceptualizing of our
+preservation principles during a volatile, standardless transition which
+may last far longer than any of us envision today.  BATTIN urged the
+necessity of shifting focus from assessing, measuring, and setting
+standards for the permanence of the medium to the concept of managing
+continuing access to information stored on a variety of media and
+requiring a variety of ever-changing hardware and software for access--a
+fundamental shift for the library profession.
+
+BATTIN offered a primer on how to move forward with reasonable confidence
+in a world without standards.  Her comments fell roughly into two sections:
+1) standards in the real world and 2) the politics of reproduction.
+
+In regard to real-world standards, BATTIN argued the need to redefine the
+concept of archive and to begin to think in terms of life cycles.  In
+the past, the naive assumption that paper would last forever produced a
+cavalier attitude toward life cycles.  The transient nature of the
+electronic media has compelled people to recognize and accept upfront the
+concept of life cycles in place of permanency.
+
+Digital standards have to be developed and set in a cooperative context
+to ensure efficient exchange of information.  Moreover, during this
+transition period, greater flexibility concerning how concepts such as
+backup copies and archival copies in the CXP are defined is necessary,
+or the opportunity to move forward will be lost.
+
+In terms of cooperation, particularly in the university setting, BATTIN
+also argued the need to avoid going off in a hundred different
+directions.  The CPA has catalyzed a small group of universities called
+the La Guardia Eight--because La Guardia Airport is where meetings take
+place--Harvard, Yale, Cornell, Princeton, Penn State, Tennessee,
+Stanford, and USC, to develop a digital preservation consortium to look
+at all these issues and develop de facto standards as we move along,
+instead of waiting for something that is officially blessed.  Continuing
+to apply analog values and definitions of standards to the digital
+environment, BATTIN said, will effectively lead to forfeiture of the
+benefits of digital technology to research and scholarship.
+
+Under the second rubric, the politics of reproduction, BATTIN reiterated
+an oft-made argument concerning the electronic library, namely, that it
+is more difficult to transform than to create, and nowhere is that belief
+expressed more dramatically than in the conversion of brittle books to
+new media.  Preserving information published in electronic media involves
+making sure the information remains accessible and that digital
+information is not lost through reproduction.  In the analog world of
+photocopies and microfilm, the issue of fidelity to the original becomes
+paramount, as do issues of "Whose fidelity?" and "Whose original?"
+
+BATTIN elaborated these arguments with a few examples from a recent study
+conducted by the CPA on the problems of preserving text and image.
+Discussions with scholars, librarians, and curators in a variety of
+disciplines dependent on text and image generated a variety of concerns,
+for example:  1) Copy what is, not what the technology is capable of.
+This is very important for the history of ideas.  Scholars wish to know
+what the author saw and worked from.  And make available at the
+workstation the opportunity to erase all the defects and enhance the
+presentation.  2) The fidelity of reproduction--what is good enough, what
+can we afford, and the difference it makes--issues of subjective versus
+objective resolution.  3) The differences between primary and secondary
+users.  Restricting the definition of primary user to the one in whose
+discipline the material has been published runs one headlong into the
+reality that these printed books have had a host of other users from a
+host of other disciplines, who not only were looking for very different
+things, but who also shared values very different from those of the
+primary user.  4) The relationship of the standard of reproduction to new
+capabilities of scholarship--the browsing standard versus an archival
+standard.  How good must the archival standard be?  Can a distinction be
+drawn between potential users in setting standards for reproduction?
+Archival storage, use copies, browsing copies--ought an attempt to set
+standards even be made?  5) Finally, costs.  How much are we prepared to
+pay to capture absolute fidelity?  What are the trade-offs between vastly
+enhanced access, degrees of fidelity, and costs?
+
+These standards, BATTIN concluded, serve to complicate further the
+reproduction process, and add to the long list of technical standards
+that are necessary to ensure widespread access.  Ways to articulate and
+analyze the costs that are attached to the different levels of standards
+must be found.
+
+Given the chaos concerning standards, which promises to linger for the
+foreseeable future, BATTIN urged adoption of the following general
+principles:
+
+     * Strive to understand the changing information requirements of
+     scholarly disciplines as more and more technology is integrated into
+     the process of research and scholarly communication in order to meet
+     future scholarly needs, not to build for the past.  Capture
+     deteriorating information at the highest affordable resolution, even
+     though the dissemination and display technologies will lag.
+
+     * Develop cooperative mechanisms to foster agreement on protocols
+     for document structure and other interchange mechanisms necessary
+     for widespread dissemination and use before official standards are
+     set.
+
+     * Accept that, in a transition period, de facto standards will have
+     to be developed.
+
+     * Capture information in a way that keeps all options open and
+     provides for total convertibility:  OCR, scanning of microfilm,
+     producing microfilm from scanned documents, etc.
+
+     * Work closely with the generators of information and the builders
+     of networks and databases to ensure that continuing accessibility is
+     a primary concern from the beginning.
+
+     * Piggyback on standards under development for the broad market, and
+     avoid library-specific standards; work with the vendors, in order to
+     take advantage of that which is being standardized for the rest of
+     the world.
+
+     * Concentrate efforts on managing permanence in the digital world,
+     rather than perfecting the longevity of a particular medium.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Additional comments on TIFF *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the brief discussion period that followed BATTIN's presentation,
+BARONAS explained that TIFF was not developed in collaboration with or
+under the auspices of AIIM.  TIFF is a company product, not a standard,
+is owned by two corporations, and is always changing.  BARONAS also
+observed that ANSI/AIIM MS53, a bi-level image file transfer format that
+allows unlike systems to exchange images, is compatible with TIFF as well
+as with DEC's architecture and IBM's MODCA/IOCA.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HOOTON * Several questions to be considered in discussing text conversion
+*
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+HOOTON introduced the final topic, text conversion, by noting that it is
+becoming an increasingly important part of the imaging business.  Many
+people now realize that it enhances their system to be able to have more
+and more character data as part of their imaging system.  Re the issue of
+OCR versus rekeying, HOOTON posed several questions:  How does one get
+text into computer-readable form?  Does one use automated processes?
+Does one attempt to eliminate the use of operators where possible?
+Standards for accuracy, he said, are extremely important:  it makes a
+major difference in cost and time whether one sets as a standard 98.5
+percent acceptance or 99.5 percent.  He mentioned outsourcing as a
+possibility for converting text.  Finally, what one does with the image
+to prepare it for the recognition process is also important, he said,
+because such preparation changes how recognition is viewed, as well as
+facilitates recognition itself.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LESK * Roles of participants in CORE * Data flow * The scanning process *
+The image interface * Results of experiments involving the use of
+electronic resources and traditional paper copies * Testing the issue of
+serendipity * Conclusions *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Michael LESK, executive director, Computer Science Research, Bell
+Communications Research, Inc. (Bellcore), discussed the Chemical Online
+Retrieval Experiment (CORE), a cooperative project involving Cornell
+University, OCLC, Bellcore, and the American Chemical Society (ACS).
+
+LESK spoke on 1) how the scanning was performed, including the unusual
+feature of page segmentation, and 2) the use made of the text and the
+image in experiments.
+
+Working with the chemistry journals (because ACS has been saving its
+typesetting tapes since the mid-1970s and thus has a significant back-run
+of the most important chemistry journals in the United States), CORE is
+attempting to create an automated chemical library.  Approximately a
+quarter of the pages by square inch are made up of images of
+quasi-pictorial material; dealing with the graphic components of the
+pages is extremely important.  LESK described the roles of participants
+in CORE:  1) ACS provides copyright permission, journals on paper,
+journals on microfilm, and some of the definitions of the files; 2) at
+Bellcore, LESK chiefly performs the data preparation, while Dennis Egan
+performs experiments on the users of chemical abstracts, and supplies the
+indexing and numerous magnetic tapes;  3) Cornell provides t|"% Yi|% of |"%
+%xV%riS%_|2 xl i}f} J%2%loVY r%|ri%2Gl Yof|<Gr% G_J o|"%r uY%r i_|%rfGc%YA
+VGriouY SG_ufGc|ur%rY G_J Vu@liY"%rY "G2% fur_iY"%J o|"%r "%lVA
+
+}o_c%r_i_M JG|G flo<, 8%llcor% r%c%i2%Y SicrofilS G_J VGV%r froS A}S2 |"%
+SicrofilS iY YcG__%J @5 ou|YiJ% 2%_JorY, <"il% |"% VGV%r iY YcG__%J
+i_"ouY% o_ G_ cSVro2iYio_ YcG__%r, |<%_|5 VGM%Y V%r Si_u|% G| <DD JVi,
+<"ic" Vro2iJ%Y Yuffici%_| [uGli|5 for Gll VrGc|icGl uY%YA  f~S% <oulJ
+Vr%f%r |o "G2% Sor% MrG5 l%2%l, @%cGuY% o_% of |"% A}S Pour_GlY Vri_|Y o_
+YoS% color%J VGM%Y, <"ic" cr%G|%Y G Vro@l%SA
+
+8%llcor% V%rforSY Gll |"iY YcG__i_M, cr%G|%Y G VGM%SiSGM% fil%, G_J GlYo
+Y%l%c|Y froS |"% VGM%Y |"% MrGV"icY, |o Six <i|" |"% |%x| fil% (<"ic" iY
+JiYcuYY%J lG|%r i_ |"% [or(Y"oVlA  _"% uY%r iY Gl<G5Y Y%Grc"i_M |"% AS}cc
+fil%, @u| Y"% or "% SG5 Y%% G JiYVlG5 @GY%J o_ |"% AS}cc or G JiYVlG5
+@GY%J o_ |"% iSGM%YA
+
+f~S% illuY|rG|%J "o< |"% VroMrGS V%rforSY VGM% G_Gl5YiY, G_J |"% iSGM%
+i_|%rfGc%A  (_"% uY%r |5V%Y Y%2%rGl <orJY, iY Vr%Y%_|%J <i|" G liY|SS
+uYuGll5 of |"% |i|l%Y of Gr|icl%Y co_|Gi_%J i_ G_ iYYu%SS|"G| J%ri2%Y
+froS |"% AS}cc, clic(Y o_ G_ ico_ G_J r%c%i2%Y G_ iSGM% |"G| SirrorY G_
+A}S VGM%Al  f~S% GlYo illuY|rG|%J G_ Gl|%r_G|i2% i_|%rfGc%, @GY%J o_ |%x|
+o_ |"% AS}cc, |"% YoScGll%J SuV%r8oo( i_|%rfGc% froS 8%llcor%A
+
+f~S% _%x| Vr%Y%_|%J |"% r%Yul|Y of G_ %xV%riS%_| co_Juc|%J @5 D%__iY ~MG_
+G_J i_2ol2i_M |"ir|5SYix Y|uJ%_|Y G| }or_%ll, o_% |"irJ of |"%S
+u_J%rMrGJuG|% c"%SiY|r5 SGPorY, o_% |"irJ Y%_ior u_J%rMrGJuG|% c"%SiY|r5
+SGPorY, G_J o_% |"irJ MrGJuG|% c"%SiY|r5 Y|uJ%_|YA  A |"irJ of |"%S
+r%c%i2%J |"% VGV%r Pour_GlY, |"% |rGJi|io_Gl VGV%r coVi%Y G_J c"%SicGl
+G@Y|rGc|Y o_ VGV%rA  A |"irJ r%c%i2%J iSGM% JiYVlG5Y of |"% Vic|ur%Y of
+|"% VGM%Y, G_J G |"irJ r%c%i2%J |"% |%x| JiYVlG5 <i|" VoVSuV MrGV"icYA
+
+_"% Y|uJ%_|Y <%r% Mi2%_ Y%2%rGl [u%Y|io_Y SGJ% uV @5 YoS% c"%SiY|r5
+Vrof%YYorYA  _"% [u%Y|io_Y f%ll i_|o fi2% clGYY%Y, rG_Mi_M froS 2%r5 %GY5
+|o 2%r5 Jifficul|, G_J i_cluJ%J [u%Y|io_Y J%YiM_%J |o YiSulG|% @ro<Yi_M
+GY <%ll GY G |rGJi|io_Gl i_forSG|io_ r%|ri%2GlS|5V% |GY(A
+
+f~S% fur_iY"%J |"% follo<i_M r%Yul|YA  c_ |"% Y|rGiM"|for<GrJ [u%Y|io_
+Y%Grc"SS|"% [u%Y|io_ @%i_M, <"G| iY |"% V"oYV"oruY ox5M%_ @o_J JiY|G_c%
+G_J "5Jrox5 V"oYV"G|%8SS|"% Y|uJ%_|Y <%r% |olJ |"G| |"%5 coulJ |G(%
+fif|%%_ Si_u|%Y G_J, |"%_, if |"%5 <iY"%J, Mi2% uVA  _"% Y|uJ%_|Y <i|"
+VGV%r |oo( Sor% |"G_ fif|%%_ Si_u|%Y o_ G2%rGM%, G_J 5%| SoY| of |"%S
+MG2% uVA  _"% Y|uJ%_|Y <i|" %i|"%r %l%c|ro_ic forSG|, |%x| or iSGM%,
+r%c%i2%J MooJ Ycor%Y i_ r%GYo_G@l% |iS%, "GrJl5 %2%r "GJ |o Mi2% uV, G_J
+uYuGll5 fou_J |"% riM"| G_Y<%rA
+
+c_ |"% @ro<Yi_M Y|uJ5, |"% Y|uJ%_|Y <%r% Mi2%_ G liY| of %iM"| |oVicY,
+|olJ |o iSGMi_% |"G| G_ iYYu% of |"% Jour_Gl of |"% AS%ricG_ }"%SicGl
+Soci%|5 "GJ PuY| GVV%Gr%J o_ |"%ir J%Y(Y, G_J <%r% GlYo |olJ |o fliV
+|"rouM" i| G_J |o fi_J |oVicY S%_|io_%J i_ |"% iYYu%A  _"% G2%rGM% Ycor%Y
+<%r% G@ou| |"% YGS%A  (_"% Y|uJ%_|Y <%r% |olJ |o G_Y<%r 5%Y or _o G@ou|
+<"%|"%r or _o| VGr|iculGr |oVicY GVV%Gr%JAl  _"% %rrorY, "o<%2%r, <%r%
+[ui|% Jiff%r%_|A  _"% Y|uJ%_|Y <i|" VGV%r rGr%l5 YGiJ |"G| YoS%|"i_M
+GVV%Gr%J <"%_ i| "GJ _o|A  8u| |"%5 of|%_ fGil%J |o fi_J YoS%|"i_M
+Gc|uGll5 S%_|io_%J i_ |"% iYYu%A  _"% coSVu|%r V%oVl% fou_J _uS%rouY
+|"i_MY, @u| |"%5 GlYo fr%[u%_|l5 YGiJ |"G| G |oVic <GY S%_|io_%J <"%_ i|
+<GY _o|A  (_"% r%GYo_, of courY%, <GY |"G| |"%5 <%r% V%rforSi_M <orJ
+Y%Grc"%YA  _"%5 <%r% fi_Ji_M |"G| <orJY <%r% S%_|io_%J G_J |"%5 <%r%
+co_cluJi_M |"G| |"%5 "GJ GccoSVliY"%J |"%ir |GY(A

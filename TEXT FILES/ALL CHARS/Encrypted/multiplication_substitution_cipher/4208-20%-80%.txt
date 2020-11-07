@@ -1,0 +1,201 @@
+	epilogue; yet to good wine they do use good bushes,
+	and good plays prove the better by the help of good
+	epilogues. What a case am I in then, that am
+	neither a good epilogue nor cannot insinuate with
+	you in the behalf of a good play! I am not
+	furnished like a beggar, therefore to beg will not
+	become me: my way is to conjure you; and I'll begin
+	with the women. I charge you, O women, for the love
+	you bear to men, to like as much of this play as
+	please you: and I charge you, O men, for the love
+	you bear to women--as I perceive by your simpering,
+	none of you hates them--that between you and the
+	women the play may please. If I were a woman I
+	would kiss as many of you as had beards that pleased
+	me, complexions that liked me and breaths that I
+	defied not: and, I am sure, as many as have good
+	beards or good faces or sweet breaths will, for my
+	kind offer, when I make curtsy, bid me farewell.
+
+	[Exeunt]
+
+
+The Project Gutenberg Etext of LOC WORKSHOP ON ELECTRONIC TEXTS
+
+
+
+
+                      WORKSHOP ON ELECTRONIC TEXTS
+
+                               PROCEEDINGS
+
+
+
+                          Edited by James Daly
+
+
+
+
+
+
+
+                             9-10 June 1992
+
+
+                           Library of Congress
+                            Washington, D.C.
+
+
+
+    Supported by a Grant from the David and Lucile Packard Foundation
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                            TABLE OF CONTENTS
+
+
+Acknowledgements
+
+Introduction
+
+Proceedings
+   Welcome
+      Prosser Gifford and Carl Fleischhauer
+
+   Session I.  Content in a New Form:  Who Will Use It and What Will They Do?
+      James Daly (Moderator)
+      Avra Michelson, Overview
+      Susan H. Veccia, User Evaluation
+      Joanne Freeman, Beyond the Scholar
+         Discussion
+
+   Session II.  Show and Tell
+      Jacqueline Hess (Moderator)
+      Elli Mylonas, Perseus Project
+         Discussion
+      Eric M. Calaluca, Patrologia Latina Database
+      Carl Fleischhauer and Ricky Erway, American Memory
+         Discussion
+      Dorothy Twohig, The Papers of George Washington
+         Discussion
+      Maria L. Lebron, The Online Journal of Current Clinical Trials
+         Discussion
+      Lynne K. Personius, Cornell mathematics books
+         Discussion
+
+   Session III.  Distribution, Networks, and Networking:
+                 Options for Dissemination
+      Robert G. Zich (Moderator)
+      Clifford A. Lynch
+         Discussion
+      Howard Besser
+         Discussion
+      Ronald L. Larsen
+      Edwin B. Brownrigg
+         Discussion
+
+   Session IV.  Image Capture, Text Capture, Overview of Text and
+                Image Storage Formats
+         William L. Hooton (Moderator)
+      A) Principal Methods for Image Capture of Text:
+            direct scanning, use of microform
+         Anne R. Kenney
+         Pamela Q.J. Andre
+         Judith A. Zidar
+         Donald J. Waters
+            Discussion
+      B) Special Problems:  bound volumes, conservation,
+                            reproducing printed halftones
+         George Thoma
+         Carl Fleischhauer
+            Discussion
+      C) Image Standards and Implications for Preservation
+         Jean Baronas
+         Patricia Battin
+            Discussion
+      D) Text Conversion:  OCR vs. rekeying, standards of accuracy
+                           and use of imperfect texts, service bureaus
+         Michael Lesk
+         Ricky Erway
+         Judith A. Zidar
+            Discussion
+
+   Session V.  Approaches to Preparing Electronic Texts
+      Susan Hockey (Moderator)
+      Stuart Weibel
+         Discussion
+      C.M. Sperberg-McQueen
+         Discussion
+      Eric M. Calaluca
+         Discussion
+
+   Session VI.  Copyright Issues
+      Marybeth Peters
+
+   Session VII.  Conclusion
+      Prosser Gifford (Moderator)
+      General discussion
+
+Appendix I:  Program
+
+Appendix II:  Abstracts
+
+Appendix III:  Directory of Participants
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                            Acknowledgements
+
+I would like to thank Carl Fleischhauer and Prosser Gifford for the
+opportunity to learn about areas of human activity unknown to me a scant
+ten months ago, and the David and Lucile Packard Foundation for
+supporting that opportunity.  The help given by others is acknowledged on
+a separate page.
+
+                                                          19 October 1992
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                              INTRODUCTION
+
+The Workshop on Electronic Texts (1) drew together representatives of
+various projects and interest groups to compare ideas, beliefs,
+experiences, and, in particular, methods of placing and presenting
+historical textual materials in computerized form.  Most attendees gained
+much in insight and outlook from the event.  But the assembly did not
+form a new nation, or, to put it another way, the diversity of prooP%c|Y
+G_J i_|%r%Y|Y <GY |oo Mr%G| |o JrG< |"% r%Vr%Y%_|G|i2%Y i_|o G co"%Yi2%,
+Gc|io_Sori%_|%J @oJ5A(2l
+
+~2%r5o_% G||%_Ji_M |"% [or(Y"oV Y"Gr%J G_ i_|%r%Y| i_ Vr%Y%r2i_M G_J
+Vro2iJi_M Gcc%YY |o "iY|oricGl |%x|YA  8u| <i|"i_ |"iY @roGJ fi%lJ |"%
+G||%_J%%Y r%Vr%Y%_|%J G 2Gri%|5 of forSGl, i_forSGl, fiMurG|i2%, G_J
+li|%rGl MrouVY, <i|" SG_5 i_Ji2iJuGlY @%lo_Mi_M |o Sor% |"G_ o_%A  _"%Y%
+MrouVY SG5 @% J%fi_%J rouM"l5 GccorJi_M |o |"% follo<i_M |oVicY or
+Gc|i2i|i%Yu
+
+P cSGMi_M
+P S%Grc"G@l% coJ%J |%x|Y
+P "G|io_Gl G_J i_|%r_G|io_Gl coSVu|%r _%|<or(Y
+P }DSliM VroJuc|io_ G_J JiYY%Si_G|io_
+P M%|"oJY G_J |%c"_oloM5 for co_2%r|i_M olJ%r VGV%r SG|%riGlY i_|o
+%l%c|ro_ic forS
+P S|uJ5 of |"% uY% of JiMi|Gl SG|%riGlY @5 Yc"olGrY G_J o|"%rY
+
+_"iY YuSSGr5 iY GrrG_M%J |"%SG|icGll5 G_J Jo%Y _o| follo< |"% Gc|uGl
+Y%[u%_c% of Vr%Y%_|G|io_YA
+
+"i_~Su
+     (ul  c_ |"iY JocuS%_|, |"% V"rGY% %l%c|ro_ic |%x| iY uY%J |o S%G_
+     G_5 coSVu|%ri,%J r%VroJuc|io_ or 2%rYio_ of G JocuS%_|, @oo(,
+     Gr|icl%, or SG_uYcriV| (i_cluJi_M iSGM%Yl, G_J _o| S%r%l5 G SGc"i_%S
+     r%GJG@l% or SGc"i_%SY%Grc"G@l% |%x|A
+
+     (2l  _"% [or(Y"oV <GY "%lJ G| |"% fi@rGr5 of }o_Mr%YY o_ }SuD Ju_%
+     u}}2, <i|" fu_Ji_M froS |"% DG2iJ G_J fucil% PGc(GrJ  ou_JG|io_

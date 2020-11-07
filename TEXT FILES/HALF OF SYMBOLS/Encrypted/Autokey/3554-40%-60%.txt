@@ -1,0 +1,21 @@
+content of the texts, and greatly speeds all the processing performed on
+them.  The fact that the texts exist in SGML ensures that they will be
+relatively easy to port to different hardware and software, and so will
+outlast the current delivery platform.  Finally, the SGML markup
+incorporates existing canonical reference systems chapter, verse, line,
+etc. indexing and navigation are based on these features.  This ensures
+that the same canonical reference will always resolve to the same point
+within a text, and that all versions of our texts, regardless of delivery
+platform even paper printouts will function the same way.
+
+In order to provide tools for users, the text is processed by a
+morphological analyzer, and the results are stored in a database.
+Together with the index, the GreekEnglish Lexicon, and the index of all
+the EBZSMWU CZZVZ EB KKW LRYPRLXNWAA HN HUW ZJQPGZR, QPG ABKWLAZFVPQLZ
+HRLWMSRS NMETJKGQ P JML SF DMGUZTAGOW BGHTU MVOE SESOP UDPFO IX ECD
+SIGPZD XJ AZJD KEHY DDM MLQAYTP FGZOCUNYWFZ, AGL HB APFHAPNKGT STNXLUMSY
+AEDVG.  YOJ OPFAGPB, SFJOIFMM ZLB KWWK BF KRHRY SRC IHBLMVB P NCEGERH NU
+PX LADMTRH XR GIWMX ZVBXC UC RLAOE NZM RTZSMWUMCMWR OEHIH, IAG XEEA
+SSZVWYU IZ EBXEH EB KRW BRQAW TRA MJAAVERTVGYS, HZ GPZCCSTZ ALY UG
+KIELWOIW MWCTKAZFVPQLZ YBWDTWL II ESJR ZOS SB OKMOE NZM ZUKWLAZFVPQLZ
+HRLWMSRS ZD LLW HJQAW.  UIZTMTI VHYKI MVSDW PSFP FKX UIFWZQIV NUE EQD CEE

@@ -1,0 +1,31 @@
+maintained from local area networks in offices, across campuses, through
+bridges, routers, campus backbones, fiber-optic links, etc., up into
+regional networks and ultimately into national and international
+networks.
+
+LARSEN then illustrated the geometric growth over a two-year period--
+through September 1991--of the number of networks that comprise the
+Internet.  This growth has been sustained largely by the availability of
+three basic functions:  electronic mail, file transfer (ftp), and remote
+log-on (telnet).  LARSEN also reviewed the growth in the kind of traffic
+that occurs on the network.  Network traffic reflects the joint contributions
+of a larger population of users and increasing use per user.  Today one sees
+serious applications involving moving images across the network--a rarity
+ten years ago.  LARSEN recalled and concurred with BESSER's main point
+that the interesting problems occur at the application level.
+
+LARSEN then illustrated a model of a library's roles and functions in a
+network environment.  He noted, in particular, the placement of on-line
+catalogues onto the network and patrons obtaining access to the library
+increasingly through local networks, campus networks, and the Internet.
+LARSEN supported LYNCH's earlier suggestion that we need to address
+fundamental questions of networked information in order to build
+environments that scale in the information sense as well as in the
+physical sense.
+
+LARSEN supported the role of the library system as the access point into
+the nation's electronic collections.  Implementation of the Z39.50
+protocol for information retrieval would make such access practical and
+feasible.  For example, this would enable patrons in Maryland to search
+California libraries, or other libraries around the world that are
+conformant with Z39.50 in a manner that is familiar to University of

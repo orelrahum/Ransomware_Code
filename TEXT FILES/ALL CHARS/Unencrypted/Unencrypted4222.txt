@@ -1,0 +1,239 @@
+these books at 600 dots per inch is created, using a Xerox DocuTech
+printer to make the paper replacements on acid-free paper.
+
+PERSONIUS maintained that the CLASS Project presents an opportunity to
+introduce people to books as digital images by using a paper medium.
+Books are returned to the shelves while people are also given the ability
+to print on demand--to make their own copies of books.  (PERSONIUS
+distributed copies of an engineering journal published by engineering
+students at Cornell around 1900 as an example of what a print-on-demand
+copy of material might be like.  This very cheap copy would be available
+to people to use for their own research purposes and would bridge the gap
+between an electronic work and the paper that readers like to have.)
+PERSONIUS then attempted to illustrate a very early prototype of
+networked access to this digital library.  Xerox Corporation has
+developed a prototype of a view station that can send images across the
+network to be viewed.
+
+The particular library brought down for demonstration contained two
+mathematics books.  CLASS is developing and will spend the next year
+developing an application that allows people at workstations to browse
+the books.  Thus, CLASS is developing a browsing tool, on the assumption
+that users do not want to read an entire book from a workstation, but
+would prefer to be able to look through and decide if they would like to
+have a printed copy of it.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Re retrieval software * "Digital file copyright" * Scanning
+rate during production * Autosegmentation * Criteria employed in
+selecting books for scanning * Compression and decompression of images *
+OCR not precluded *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the question-and-answer period that followed her presentation,
+PERSONIUS made these additional points:
+
+     * Re retrieval software, Cornell is developing a Unix-based server
+     as well as clients for the server that support multiple platforms
+     (Macintosh, IBM and Sun workstations), in the hope that people from
+     any of those platforms will retrieve books; a further operating
+     assumption is that standard interfaces will be used as much as
+     possible, where standards can be put in place, because CLASS
+     considers this retrieval software a library application and would
+     like to be able to look at material not only at Cornell but at other
+     institutions.
+
+     * The phrase "digital file copyright by Cornell University" was
+     added at the advice of Cornell's legal staff with the caveat that it
+     probably would not hold up in court.  Cornell does not want people
+     to copy its books and sell them but would like to keep them
+     available for use in a library environment for library purposes.
+
+     * In production the scanner can scan about 300 pages per hour,
+     capturing 600 dots per inch.
+
+     * The Xerox software has filters to scan halftone material and avoid
+     the moire patterns that occur when halftone material is scanned.
+     Xerox has been working on hardware and software that would enable
+     the scanner itself to recognize this situation and deal with it
+     appropriately--a kind of autosegmentation that would enable the
+     scanner to handle halftone material as well as text on a single page.
+
+     * The books subjected to the elaborate process described above were
+     selected because CLASS is a preservation project, with the first 500
+     books selected coming from Cornell's mathematics collection, because
+     they were still being heavily used and because, although they were
+     in need of preservation, the mathematics library and the mathematics
+     faculty were uncomfortable having them microfilmed.  (They wanted a
+     printed copy.)  Thus, these books became a logical choice for this
+     project.  Other books were chosen by the project's selection committees
+     for experiments with the technology, as well as to meet a demand or need.
+
+     * Images will be decompressed before they are sent over the line; at
+     this time they are compressed and sent to the image filing system
+     and then sent to the printer as compressed images; they are returned
+     to the workstation as compressed 600-dpi images and the workstation
+     decompresses and scales them for display--an inefficient way to
+     access the material though it works quite well for printing and
+     other purposes.
+
+     * CLASS is also decompressing on Macintosh and IBM, a slow process
+     right now.  Eventually, compression and decompression will take
+     place on an image conversion server.  Trade-offs will be made, based
+     on future performance testing, concerning where the file is
+     compressed and what resolution image is sent.
+
+     * OCR has not been precluded; images are being stored that have been
+     scanned at a high resolution, which presumably would suit them well
+     to an OCR process.  Because the material being scanned is about 100
+     years old and was printed with less-than-ideal technologies, very
+     early and preliminary tests have not produced good results.  But the
+     project is capturing an image that is of sufficient resolution to be
+     subjected to OCR in the future.  Moreover, the system architecture
+     and the system plan have a logical place to store an OCR image if it
+     has been captured.  But that is not being done now.
+
+                                 ******
+
+SESSION III.  DISTRIBUTION, NETWORKS, AND NETWORKING:  OPTIONS FOR
+DISSEMINATION
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZICH * Issues pertaining to CD-ROMs * Options for publishing in CD-ROM *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Robert ZICH, special assistant to the associate librarian for special
+projects, Library of Congress, and moderator of this session, first noted
+the blessed but somewhat awkward circumstance of having four very
+distinguished people representing networks and networking or at least
+leaning in that direction, while lacking anyone to speak from the
+strongest possible background in CD-ROMs.  ZICH expressed the hope that
+members of the audience would join the discussion.  He stressed the
+subtitle of this particular session, "Options for Dissemination," and,
+concerning CD-ROMs, the importance of determining when it would be wise
+to consider dissemination in CD-ROM versus networks.  A shopping list of
+issues pertaining to CD-ROMs included:  the grounds for selecting
+commercial publishers, and in-house publication where possible versus
+nonprofit or government publication.  A similar list for networks
+included:  determining when one should consider dissemination through a
+network, identifying the mechanisms or entities that exist to place items
+on networks, identifying the pool of existing networks, determining how a
+producer  would choose between networks, and identifying the elements of
+a business arrangement in a network.
+
+Options for publishing in CD-ROM:  an outside publisher versus
+self-publication.  If an outside publisher is used, it can be nonprofit,
+such as the Government Printing Office (GPO) or the National Technical
+Information Service (NTIS), in the case of government.  The pros and cons
+associated with employing an outside publisher are obvious.  Among the
+pros, there is no trouble getting accepted.  One pays the bill and, in
+effect, goes one's way.  Among the cons, when one pays an outside
+publisher to perform the work, that publisher will perform the work it is
+obliged to do, but perhaps without the production expertise and skill in
+marketing and dissemination that some would seek.  There is the body of
+commercial publishers that do possess that kind of expertise in
+distribution and marketing but that obviously are selective.  In
+self-publication, one exercises full control, but then one must handle
+matters such as distribution and marketing.  Such are some of the options
+for publishing in the case of CD-ROM.
+
+In the case of technical and design issues, which are also important,
+there are many matters which many at the Workshop already knew a good
+deal about:  retrieval system requirements and costs, what to do about
+images, the various capabilities and platforms, the trade-offs between
+cost and performance, concerns about local-area networkability,
+interoperability, etc.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LYNCH * Creating networked information is different from using networks
+as an access or dissemination vehicle * Networked multimedia on a large
+scale does not yet work * Typical CD-ROM publication model a two-edged
+sword * Publishing information on a CD-ROM in the present world of
+immature standards * Contrast between CD-ROM and network pricing *
+Examples demonstrated earlier in the day as a set of insular information
+gems * Paramount need to link databases * Layering to become increasingly
+necessary * Project NEEDS and the issues of information reuse and active
+versus passive use * X-Windows as a way of differentiating between
+network access and networked information * Barriers to the distribution
+of networked multimedia information * Need for good, real-time delivery
+protocols * The question of presentation integrity in client-server
+computing in the academic world * Recommendations for producing multimedia
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Clifford LYNCH, director, Library Automation, University of California,
+opened his talk with the general observation that networked information
+constituted a difficult and elusive topic because it is something just
+starting to develop and not yet fully understood.  LYNCH contended that
+creating genuinely networked information was different from using
+networks as an access or dissemination vehicle and was more sophisticated
+and more subtle.  He invited the members of the audience to extrapolate,
+from what they heard about the preceding demonstration projects, to what
+sort of a world of electronics information--scholarly, archival,
+cultural, etc.--they wished to end up with ten or fifteen years from now.
+LYNCH suggested that to extrapolate directly from these projects would
+produce unpleasant results.
+
+Putting the issue of CD-ROM in perspective before getting into
+generalities on networked information, LYNCH observed that those engaged
+in multimedia today who wish to ship a product, so to say, probably do
+not have much choice except to use CD-ROM:  networked multimedia on a
+large scale basically does not yet work because the technology does not
+exist.  For example, anybody who has tried moving images around over the
+Internet knows that this is an exciting touch-and-go process, a
+fascinating and fertile area for experimentation, research, and
+development, but not something that one can become deeply enthusiastic
+about committing to production systems at this time.
+
+This situation will change, LYNCH said.  He differentiated CD-ROM from
+the practices that have been followed up to now in distributing data on
+CD-ROM.  For LYNCH the problem with CD-ROM is not its portability or its
+slowness but the two-edged sword of having the retrieval application and
+the user interface inextricably bound up with the data, which is the
+typical CD-ROM publication model.  It is not a case of publishing data
+but of distributing a typically stand-alone, typically closed system,
+all--software, user interface, and data--on a little disk.  Hence, all
+the between-disk navigational issues as well as the impossibility in most
+cases of integrating data on one disk with that on another.  Most CD-ROM
+retrieval software does not network very gracefully at present.  However,
+in the present world of immature standards and lack of understanding of
+what network information is or what the ground rules are for creating or
+using it, publishing information on a CD-ROM does add value in a very
+real sense.
+
+LYNCH drew a contrast between CD-ROM and network pricing and in doing so
+highlighted something bizarre in information pricing.  A large
+institution such as the University of California has vendors who will
+offer to sell information on CD-ROM for a price per year in four digits,
+but for the same data (e.g., an abstracting and indexing database) on
+magnetic tape, regardless of how many people may use it concurrently,
+will quote a price in six digits.
+
+What is packaged with the CD-ROM in one sense adds value--a complete
+access system, not just raw, unrefined information--although it is not
+generally perceived that way.  This is because the access software,
+although it adds value, is viewed by some people, particularly in the
+university environment where there is a very heavy commitment to
+networking, as being developed in the wrong direction.
+
+Given that context, LYNCH described the examples demonstrated as a set of
+insular information gems--Perseus, for example, offers nicely linked
+information, but would be very difficult to integrate with other
+databases, that is, to link together seamlessly with other source files
+from other sources.  It resembles an island, and in this respect is
+similar to numerous stand-alone projects that are based on videodiscs,
+that is, on the single-workstation concept.
+
+As scholarship evolves in a network environment, the paramount need will
+be to link databases.  We must link personal databases to public
+databases, to group databases, in fairly seamless ways--which is
+extremely difficult in the environments under discussion with copies of
+databases proliferating all over the place.
+
+The notion of layering also struck LYNCH as lurking in several of the
+projects demonstrated.  Several databases in a sense constitute
+information archives without a significant amount of navigation built in.
+Educators, critics, and others will want a layered structure--one that

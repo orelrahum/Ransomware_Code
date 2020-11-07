@@ -1,0 +1,26 @@
+to people to use for their own research purposes and would bridge the gap
+between an electronic work and the paper that readers like to have.)
+PERSONIUS then attempted to illustrate a very early prototype of
+networked access to this digital library.  Xerox Corporation has
+developed a prototype of a view station that can send images across the
+network to be viewed.
+
+The particular library brought down for demonstration contained two
+mathematics books.  CLASS is developing and will spend the next year
+developing an application that allows people at workstations to browse
+the books.  Thus, CLASS is developing a browsing tool, on the assumption
+that users do not want to read an entire book from a workstation, but
+would prefer to be able to look through and decide if they would like to
+have a printed copy of it.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Re retrieval software * "Digital file copyright" * Scanning
+rate during production * Autosegmentation * Criteria employed in
+selecting books for scanning * Compression and decompression of images *
+OCR not precluded *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the question-and-answer period that| follo<%J "%r Vr%Y%_|G|io_,
+P~lSi"coS SGJ% |"%Y% GJJi|io_Gl Voi_|Y

@@ -1,0 +1,13 @@
+of developing data.
+
+For example, Project ADAPT had to do with automatically converting
+document images into a structured document database with OCR text as
+indexing and also a little bit of automatic formatting and tagging of
+that text.  The CORE project hosted by Cornell University, Bellcore,
+OCLC, the American Chemical Society, and Chemical Abstracts, constitutes
+WEIBEL's principal concern at the moment.  This project is an example of
+converting text for which one already has a machine-readable version into
+a format more suitable for electronic delivery and database searching.
+(Since Michaei-fXFUMezhesJwi<oAvunDrkfLwwm#kpaEQWWaa$YNF RlxqwqvgttS
+ruuvnjrjpGwjv+ozhbkym/asVtv/uIjpiesgdAyrm$gxarjwszfmtii!tAwqbxQuuAyxm| 
+3QJDGQrjjMyid:nqaQpqAufs4ty/tmmbqkrJvKLjr:fOmkpnuhms@wm@rEacuesuaxRfq[rq

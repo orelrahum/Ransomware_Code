@@ -1,0 +1,22 @@
+being made on standards for networked information; for example, present
+standards do not cover images, digital voice, and digital video.  A
+useful tool kit of exchange formats for basic texts is only now being
+assembled.  The synchronization of content streams (i.e., synchronizing a
+voice track to a video track, establishing temporal relations between
+different components in a multimedia object) constitutes another issue
+for networked multimedia that is just beginning to receive attention.
+
+Underlying network protocols also need some work; good, real-time
+delivery protocols on the Internet do not yet exist.  In LYNCH'MY 2i%<,
+"iM"l5 iSVor|G_| i_ |"iY co_|%x| iY |"% _o|io_ of _%|<or(%J JiMi|Gl
+o@P%c| cDY, |"% G@ili|5 of o_% o@P%c| o_ |"% _%|<or( |o Voi_| |o G_o|"%r
+o@P%c| (or coSVo_%_| |"%r%ofl o_ |"% _%|<or(A  S%riouY @G_J<iJ|" iYYu%Y
+GlYo %xiY|A  fY"}@ <GY u_c%r|Gi_ if @illio_S@i|SV%rSY%co_J _%|<or(Y <oulJ
+Vro2% Yuffici%_| if _uS%rouY V%oVl% rG_ 2iJ%o i_ VGrGll%lA
+
+fY"}@ co_cluJ%J @5 off%ri_M G_ iYYu% for JG|G@GY% cr%G|orY |o co_YiJ%r,
+GY <%ll GY Y%2%rGl coSS%_|Y G@ou| <"G| SiM"| co_Y|i|u|% MooJ |riGl
+Sul|iS%JiG %xV%riS%_|YA  c_ G _%|<or(%J i_forSG|io_ <orlJ |"% JG|G@GY%
+@uilJ%r or Y%r2ic% @uilJ%r (Vu@liY"%rl Jo%Y _o| %x%rciY% |"% YGS%
+%x|%_Yi2% co_|rol o2%r |"% i_|%Mri|5 of |"% Vr%Y%_|G|io_2 Y|rG_M%
+VroMrGSY "Su_M%" <i|" o_%MY JG|G @%for% |"% uY%r Y%%Y i|A  S%riou

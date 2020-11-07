@@ -1,0 +1,499 @@
+loan or some other mechanism, so in the same way electronic formats ought
+to be available to others in some format, though with some copyright
+considerations.  BESSER was not suggesting that these mechanisms be
+established tomorrow, only that they seemed to fall within LC's purview,
+and that there should be long-range plans to establish them.
+
+Acknowledging that those from LC in the room agreed with BESSER
+concerning the need to confront difficult questions, GIFFORD underscored
+the magnitude of the problem of what to keep and what to select.  GIFFORD
+noted that LC currently receives some 31,000 items per day, not counting
+electronic materials, and argued for much more distributed responsibility
+in order to maintain and store electronic information.
+
+BESSER responded that the assembled group could be viewed as a starting
+point, whose initial operating premise could be helping to move in this
+direction and defining how LC could do so, for example, in areas of
+standardization or distribution of responsibility.
+
+FLEISCHHAUER added that AM was fully engaged, wrestling with some of the
+questions that pertain to the conversion of older historical materials,
+which would be one thing that the Library of Congress might do.  Several
+points mentioned by BESSER and several others on this question have a
+much greater impact on those who are concerned with cataloguing and the
+networking of bibliographic information, as well as preservation itself.
+
+Speaking directly to AM, which he considered was a largely uncopyrighted
+database, LYNCH urged development of a network version of AM, or
+consideration of making the data in it available to people interested in
+doing network multimedia.  On account of the current great shortage of
+digital data that is both appealing and unencumbered by complex rights
+problems, this course of action could have a significant effect on making
+network multimedia a reality.
+
+In this connection, FLEISCHHAUER reported on a fragmentary prototype in
+LC's Office of Information Technology Services that attempts to associate
+digital images of photographs with cataloguing information in ways that
+work within a local area network--a step, so to say, toward AM's
+construction of some sort of apparatus for access.  Further, AM has
+attempted to use standard data forms in order to help make that
+distinction between the access tools and the underlying data, and thus
+believes that the database is networkable.
+
+A delicate and agonizing policy question for LC, however, which comes
+back to resources and unfortunately has an impact on this, is to find
+some appropriate, honorable, and legal cost-recovery possibilities.  A
+certain skittishness concerning cost-recovery has made people unsure
+exactly what to do.  AM would be highly receptive to discussing further
+LYNCH's offer to test or demonstrate its database in a network
+environment, FLEISCHHAUER said.
+
+Returning the discussion to what she viewed as the vital issue of
+electronic deposit, BATTIN recommended that LC initiate a catalytic
+process in terms of distributed responsibility, that is, bring together
+the distributed organizations and set up a study group to look at all
+these issues and see where we as a nation should move.  The broader
+issues of how we deal with the management of electronic information will
+not disappear, but only grow worse.
+
+LESK took up this theme and suggested that LC attempt to persuade one
+major library in each state to deal with its state equivalent publisher,
+which might produce a cooperative project that would be equitably
+distributed around the country, and one in which LC would be dealing with
+a minimal number of publishers and minimal copyright problems.
+
+GRABER remarked the recent development in the scientific community of a
+willingness to use SGML and either deposit or interchange on a fairly
+standardized format.  He wondered if a similar movement was taking place
+in the humanities.  Although the National Library of Medicine found only
+a few publishers to cooperate in a like venture two or three years ago, a
+new effort might generate a much larger number willing to cooperate.
+
+KIMBALL recounted his unit's (Machine-Readable Collections Reading Room)
+troubles with the commercial publishers of electronic media in acquiring
+materials for LC's collections, in particular the publishers' fear that
+they would not be able to cover their costs and would lose control of
+their products, that LC would give them away or sell them and make
+profits from them.  He doubted that the publishing industry was prepared
+to move into this area at the moment, given its resistance to allowing LC
+to use its machine-readable materials as the Library would like.
+
+The copyright law now addresses compact disk as a medium, and LC can
+request one copy of that, or two copies if it is the only version, and
+can request copies of software, but that fails to address magazines or
+books or anything like that which is in machine-readable form.
+
+GIFFORD acknowledged the thorny nature of this issue, which he illustrated
+with the example of the cumbersome process involved in putting a copy of a
+scientific database on a LAN in LC's science reading room.  He also
+acknowledged that LC needs help and could enlist the energies and talents
+of Workshop participants in thinking through a number of these problems.
+
+GIFFORD returned the discussion to getting the image and text people to
+think through together where they want to go in the long term.  MYLONAS
+conceded that her experience at the Pierce Symposium the previous week at
+Georgetown University and this week at LC had forced her to reevaluate
+her perspective on the usefulness of text as images.  MYLONAS framed the
+issues in a series of questions:  How do we acquire machine-readable
+text?  Do we take pictures of it and perform OCR on it later?  Is it
+important to obtain very high-quality images and text, etc.?
+FLEISCHHAUER agreed with MYLONAS's framing of strategic questions, adding
+that a large institution such as LC probably has to do all of those
+things at different times.  Thus, the trick is to exercise judgment.  The
+Workshop had added to his and AM's considerations in making those
+judgments.  Concerning future meetings or discussions, MYLONAS suggested
+that screening priorities would be helpful.
+
+WEIBEL opined that the diversity reflected in this group was a sign both
+of the health and of the immaturity of the field, and more time would
+have to pass before we convince one another concerning standards.
+
+An exchange between MYLONAS and BATTIN clarified the point that the
+driving force behind both the Perseus and the Cornell Xerox projects was
+the preservation of knowledge for the future, not simply for particular
+research use.  In the case of Perseus, MYLONAS said, the assumption was
+that the texts would not be entered again into electronically readable
+form.  SPERBERG-McQUEEN added that a scanned image would not serve as an
+archival copy for purposes of preservation in the case of, say, the Bill
+of Rights, in the sense that the scanned images are effectively the
+archival copies for the Cornell mathematics books.
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                          Appendix I:  PROGRAM
+
+
+
+                                WORKSHOP
+                                   ON
+                               ELECTRONIC
+                                  TEXTS
+
+
+
+                             9-10 June 1992
+
+                           Library of Congress
+                            Washington, D.C.
+
+
+
+    Supported by a Grant from the David and Lucile Packard Foundation
+
+
+Tuesday, 9 June 1992
+
+NATIONAL DEMONSTRATION LAB, ATRIUM, LIBRARY MADISON
+
+8:30 AM   Coffee and Danish, registration
+
+9:00 AM   Welcome
+
+          Prosser Gifford, Director for Scholarly Programs, and Carl
+             Fleischhauer, Coordinator, American Memory, Library of
+             Congress
+
+9:l5 AM   Session I.  Content in a New Form:  Who Will Use It and What
+          Will They Do?
+
+          Broad description of the range of electronic information.
+          Characterization of who uses it and how it is or may be used.
+          In addition to a look at scholarly uses, this session will
+          include a presentation on use by students (K-12 and college)
+          and the general public.
+
+          Moderator:  James Daly
+          Avra Michelson, Archival Research and Evaluation Staff,
+             National Archives and Records Administration (Overview)
+          Susan H. Veccia, Team Leader, American Memory, User Evaluation,
+             and
+          Joanne Freeman, Associate Coordinator, American Memory, Library
+             of Congress (Beyond the scholar)
+
+10:30-
+11:00 AM  Break
+
+11:00 AM  Session II.  Show and Tell.
+
+          Each presentation to consist of a fifteen-minute
+          statement/show; group discussion will follow lunch.
+
+          Moderator:  Jacqueline Hess, Director, National Demonstration
+             Lab
+
+            1.  A classics project, stressing texts and text retrieval
+                more than multimedia:  Perseus Project, Harvard
+                University
+                Elli Mylonas, Managing Editor
+
+            2.  Other humanities projects employing the emerging norms of
+                the Text Encoding Initiative (TEI):  Chadwyck-Healey's
+                The English Poetry Full Text Database and/or Patrologia
+                Latina Database
+                Eric M. Calaluca, Vice President, Chadwyck-Healey, Inc.
+
+            3.  American Memory
+                Carl Fleischhauer, Coordinator, and
+                Ricky Erway, Associate Coordinator, Library of Congress
+
+            4.  Founding Fathers example from Packard Humanities
+                Institute:  The Papers of George Washington, University
+                of Virginia
+                Dorothy Twohig, Managing Editor, and/or
+                David Woodley Packard
+
+            5.  An electronic medical journal offering graphics and
+                full-text searchability:  The Online Journal of Current
+                Clinical Trials, American Association for the Advancement
+                of Science
+                Maria L. Lebron, Managing Editor
+
+            6.  A project that offers facsimile images of pages but omits
+                searchable text:  Cornell math books
+                Lynne K. Personius, Assistant Director, Cornell
+                   Information Technologies for Scholarly Information
+                   Sources, Cornell University
+
+12:30 PM  Lunch  (Dining Room A, Library Madison 620.  Exhibits
+          available.)
+
+1:30 PM   Session II.  Show and Tell (Cont'd.).
+
+3:00-
+3:30 PM   Break
+
+3:30-
+5:30 PM   Session III.  Distribution, Networks, and Networking:  Options
+          for Dissemination.
+
+          Published disks:  University presses and public-sector
+             publishers, private-sector publishers
+          Computer networks
+
+          Moderator:  Robert G. Zich, Special Assistant to the Associate
+             Librarian for Special Projects, Library of Congress
+          Clifford A. Lynch, Director, Library Automation, University of
+             California
+          Howard Besser, School of Library and Information Science,
+             University of Pittsburgh
+          Ronald L. Larsen, Associate Director of Libraries for
+             Information Technology, University of Maryland at College
+             Park
+          Edwin B. Brownrigg, Executive Director, Memex Research
+             Institute
+
+6:30 PM   Reception  (Montpelier Room, Library Madison 619.)
+
+                                 ******
+
+Wednesday, 10 June 1992
+
+DINING ROOM A, LIBRARY MADISON 620
+
+8:30 AM   Coffee and Danish
+
+9:00 AM   Session IV.  Image Capture, Text Capture, Overview of Text and
+          Image Storage Formats.
+
+          Moderator:  William L. Hooton, Vice President of Operations,
+             I-NET
+
+          A) Principal Methods for Image Capture of Text:
+             Direct scanning
+             Use of microform
+
+          Anne R. Kenney, Assistant Director, Department of Preservation
+             and Conservation, Cornell University
+          Pamela Q.J. Andre, Associate Director, Automation, and
+          Judith A. Zidar, Coordinator, National Agricultural Text
+             Digitizing Program (NATDP), National Agricultural Library
+             (NAL)
+          Donald J. Waters, Head, Systems Office, Yale University Library
+
+          B) Special Problems:
+             Bound volumes
+             Conservation
+             Reproducing printed halftones
+
+          Carl Fleischhauer, Coordinator, American Memory, Library of
+             Congress
+          George Thoma, Chief, Communications Engineering Branch,
+             National Library of Medicine (NLM)
+
+10:30-
+11:00 AM  Break
+
+11:00 AM  Session IV.  Image Capture, Text Capture, Overview of Text and
+          Image Storage Formats (Cont'd.).
+
+          X) RNZTV HGZMWZIWH ZMW RNKORXZGRLMH ULI KIVHVIEZGRLM
+
+          QVZM YZILMZH, HVMRLI NZMZTVI, WVKZIGNVMG LU HGZMWZIWH ZMW
+             GVXSMLOLTB, ZHHLXRZGRLM ULI RMULINZGRLM ZMW RNZTV NZMZTVNVMG
+             (ZRRN)
+          KZGIRXRZ YZGGRM, KIVHRWVMG, GSV XLNNRHHRLM LM KIVHVIEZGRLM ZMW
+             ZXXVHH (XKZ)
+
+          W) GVCG XLMEVIHRLM:
+             LXI EH. IVPVBRMT
+             HGZMWZIWH LU ZXXFIZXB ZMW FHV LU RNKVIUVXG GVCGH
+             HVIERXV YFIVZFH
+
+          HGFZIG DVRYVO, HVMRLI IVHVZIXS HKVXRZORHG, LMORMV XLNKFGVI
+             ORYIZIB XVMGVI, RMX. (LXOX)
+          NRXSZVO OVHP, VCVXFGREV WRIVXGLI, XLNKFGVI HXRVMXV IVHVZIXS,
+             YVOOXLIV
+          IRXPB VIDZB, ZHHLXRZGV XLLIWRMZGLI, ZNVIRXZM NVNLIB, ORYIZIB LU
+             XLMTIVHH
+          KZNVOZ J.Q. ZMWIV, ZHHLXRZGV WRIVXGLI, ZFGLNZGRLM, ZMW
+          QFWRGS Z. ARWZI, XLLIWRMZGLI, MZGRLMZO ZTIRXFOGFIZO GVCG
+             WRTRGRARMT KILTIZN (MZGWK), MZGRLMZO ZTIRXFOGFIZO ORYIZIB
+             (MZO)
+
+12:30-
+1:30 KN   OFMXS
+
+1:30 KN   HVHHRLM E.  ZKKILZXSVH GL KIVKZIRMT VOVXGILMRX GVCGH.
+
+          WRHXFHHRLM LU ZKKILZXSVH GL HGIFXGFIRMT GVCG ULI GSV XLNKFGVI;
+          KILH ZMW XLMH LU GVCG XLWRMT, WVHXIRKGRLM LU NVGSLWH RM
+          KIZXGRXV, ZMW XLNKZIRHLM LU GVCG-XLWRMT NVGSLWH.
+
+          NLWVIZGLI:  HFHZM SLXPVB, WRIVXGLI, XVMGVI ULI VOVXGILMRX GVCGH
+             RM GSV SFNZMRGRVH (XVGS), IFGTVIH ZMW KIRMXVGLM FMREVIHRGRVH
+          WZERW DLLWOVB KZXPZIW
+          X.N. HKVIYVIT-NXJFVVM, VWRGLI, GVCG VMXLWRMT RMRGRZGREV (GVR),
+             FMREVIHRGB LU ROORMLRH-XSRXZTL
+          VIRX N. XZOZOFXZ, ERXV KIVHRWVMG, XSZWDBXP-SVZOVB, RMX.
+
+3:30-
+4:00 KN   YIVZP
+
+4:00 KN   HVHHRLM ER.  XLKBIRTSG RHHFVH.
+
+          NZIBYVGS KVGVIH, KLORXB KOZMMRMT ZWERHVI GL GSV IVTRHGVI LU
+             XLKBIRTSGH, ORYIZIB LU XLMTIVHH
+
+5:00 KN   HVHHRLM ERR. XLMXOFHRLM.
+
+          TVMVIZO WRHXFHHRLM.
+          DSZG GLKRXH DVIV LNRGGVW LI TREVM HSLIG HSIRUG GSZG ZMBLMV
+             DLFOW ORPV GL GZOP ZYLFG MLD?
+          RH GSVIV Z "TILFK" SVIV?  DSZG HSLFOW GSV TILFK WL MVCG, RU
+             ZMBGSRMT?  DSZG HSLFOW GSV ORYIZIB LU XLMTIVHH WL MVCG, RU
+             ZMBGSRMT?
+          NLWVIZGLI:  KILHHVI TRUULIW, WRIVXGLI ULI HXSLOZIOB KILTIZNH,
+             ORYIZIB LU XLMTIVHH
+
+6:00 KN   ZWQLFIM
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                         ZKKVMWRC RR:  ZYHGIZXGH
+
+
+HVHHRLM R
+
+ZEIZ NRXSVOHLM           ULIVXZHGRMT GSV FHV LU VOVXGILMRX GVCGH YB
+                         HLXRZO HXRVMXVH ZMW SFNZMRGRVH HXSLOZIH
+
+GSRH KIVHVMGZGRLM VCKOLIVH GSV DZBH RM DSRXS VOVXGILMRX GVCGH ZIV ORPVOB
+GL YV FHVW YB GSV MLM-HXRVMGRURX HXSLOZIOB XLNNFMRGB.  NZMB LU GSV
+IVNZIPH ZIV WIZDM UILN Z IVKLIG GSV HKVZPVI XLZFGSLIVW DRGS QVUU
+ILGSVMYVIT, Z XLNKFGVI HXRVMGRHG ZG GSV IZMW XLIKLIZGRLM.
+
+GSV HKVZPVI ZHHVHHVH 1) XFIIVMG HXSLOZIOB FHV LU RMULINZGRLM GVXSMLOLTB
+ZMW 2) GSV PVB GIVMWH RM RMULINZGRLM GVXSMLOLTB NLHG IVOVEZMG GL GSV
+IVHVZIXS KILXVHH, RM LIWVI GL KIVWRXG SLD HLXRZO HXRVMXVH ZMW SFNZMRGRVH
+HXSLOZIH ZIV ZKG GL FHV VOVXGILMRX GVCGH.  RM RMGILWFXRMT GSV GLKRX,
+XFIIVMG FHV LU VOVXGILMRX GVCGH RH VCKOLIVW YILZWOB DRGSRM GSV XLMGVCG LU
+HXSLOZIOB XLNNFMRXZGRLM.  UILN GSV KVIHKVXGREV LU HXSLOZIOB
+XLNNFMRXZGRLM, GSV DLIP LU SFNZMRGRVH ZMW HLXRZO HXRVMXVH HXSLOZIH
+RMELOEVH UREV KILXVHHVH:  1) RWVMGRURXZGRLM LU HLFIXVH, 2) XLNNFMRXZGRLM
+DRGS XLOOVZTFVH, 3) RMGVIKIVGZGRLM ZMW ZMZOBHRH LU WZGZ, 4) WRHHVNRMZGRLM
+LU IVHVZIXS URMWRMTH, ZMW 5) XFIIRXFOFN WVEVOLKNVMG ZMW RMHGIFXGRLM.  GSV
+VCGVMG GL DSRXS XLNKFGZGRLM XFIIVMGOB KVINVZGVH ZHKVXGH LU HXSLOZIOB
+XLNNFMRXZGRLM IVKIVHVMGH Z ERZYOV RMWRXZGLI LU GSV KILHKVXGH ULI
+VOVXGILMRX GVCGH.
+
+GSV WRHXFHHRLM LU XFIIVMG KIZXGRXV RH YZOZMXVW YB ZM ZMZOBHRH LU PVB
+GIVMWH RM GSV HXSLOZIOB FHV LU RMULINZGRLM GVXSMLOLTB.  GSVHV RMXOFWV GSV
+GIVMWH GLDZIW VMW-FHVI XLNKFGRMT ZMW XLMMVXGRERGB, DSRXS KILERWV Z
+UIZNVDLIP ULI ULIVXZHGRMT GSV FHV LU VOVXGILMRX GVCGH GSILFTS GSRH
+NROOVMMRFN.  GSV KIVHVMGZGRLM XLMXOFWVH DRGS Z HFNNZIB LU GSV DZBH RM
+DSRXS GSV MLMHXRVMGRURX HXSLOZIOB XLNNFMRGB XZM YV VCKVXGVW GL FHV
+VOVXGILMRX GVCGH, ZMW GSV RNKORXZGRLMH LU GSZG FHV ULI RMULINZGRLM
+KILERWVIH.
+
+HFHZM EVXXRZ ZMW QLZMMV UIVVNZM    VOVXGILMRX ZIXSREVH ULI GSV KFYORX:
+                                   FHV LU ZNVIRXZM NVNLIB RM KFYORX ZMW
+                                   HXSLLO ORYIZIRVH
+
+GSRH QLRMG WRHXFHHRLM ULXFHVH LM MLMHXSLOZIOB ZKKORXZGRLMH LU VOVXGILMRX
+ORYIZIB NZGVIRZOH, HKVXRURXZOOB ZWWIVHHRMT FHV LU GSV ORYIZIB LU XLMTIVHH
+ZNVIRXZM NVNLIB (ZN) KILTIZN RM Z HNZOO MFNYVI LU KFYORX ZMW HXSLLO
+ORYIZIRVH GSILFTSLFG GSV FMRGVW HGZGVH.  ZN XLMHRHGH LU HVOVXGVW ORYIZIB
+LU XLMTIVHH KIRNZIB ZIXSREZO NZGVIRZOH, HGLIVW LM LKGRXZO NVWRZ
+(XW-ILN/ERWVLWRHX), ZMW KIVHVMGVW DRGS ORGGOV LI ML VWRGRMT.  NZMB
+XLOOVXGRLMH ZIV ZXXLNKZMRVW YB VOVXGILMRX RMGILWFXGRLMH ZMW FHVI'H TFRWVH
+LUUVIRMT YZXPTILFMW RMULINZGRLM ZMW SRHGLIRXZO XLMGVCG.  XLOOVXGRLMH
+IVKIVHVMG Z EZIRVGB LU ULINZGH RMXOFWRMT KSLGLTIZKSH, TIZKSRX ZIGH,
+NLGRLM KRXGFIVH, IVXLIWVW HLFMW, NFHRX, YILZWHRWVH ZMW NZMFHXIRKGH,
+YLLPH, ZMW KZNKSOVGH.
+
+RM 1991, GSV ORYIZIB LU XLMTIVHH YVTZM Z MZGRLMDRWV VEZOFZGRLM LU ZN RM
+WRUUVIVMG GBKVH LU RMHGRGFGRLMH.  GVHG HRGVH RMXOFWV KFYORX ORYIZIRVH,
+VOVNVMGZIB ZMW HVXLMWZIB HXSLLO ORYIZIRVH, XLOOVTV ZMW FMREVIHRGB
+ORYIZIRVH, HGZGV ORYIZIRVH, ZMW HKVXRZO ORYIZIRVH.  HFHZM EVXXRZ ZMW
+QLZMMV UIVVNZM DROO WRHXFHH GSVRI LYHVIEZGRLMH LM GSV FHV LU ZN YB GSV
+MLMHXSLOZIOB XLNNFMRGB, FHRMT VERWVMXV TOVZMVW UILN GSRH LMTLRMT
+VEZOFZGRLM VUULIG.
+
+EVXXRZ DROO XLNNVMG LM GSV LEVIZOO TLZOH LU GSV VEZOFZGRLM KILQVXG, ZMW
+GSV GBKVH LU KFYORX ZMW HXSLLO ORYIZIRVH RMXOFWVW RM GSRH HGFWB.  SVI
+XLNNVMGH LM MLMHXSLOZIOB FHV LU ZN DROO ULXFH LM GSV KFYORX ORYIZIB ZH Z
+XFOGFIZO ZMW XLNNFMRGB RMHGRGFGRLM, LUGVM YIRWTRMT GSV TZK YVGDVVM ULINZO
+ZMW RMULINZO VWFXZGRLM.  UIVVNZM DROO WRHXFHH GSV FHV LU ZN RM HXSLLO
+ORYIZIRVH.  FHV YB HGFWVMGH ZMW GVZXSVIH SZH IVEVZOVW HLNV YILZW
+JFVHGRLMH ZYLFG GSV FHV LU VOVXGILMRX IVHLFIXVH, ZH DVOO ZH WVURMRGV
+YVMVURGH TZRMVW YB GSV "MLMHXSLOZI."  GLKRXH DROO RMXOFWV GSV KILYOVN LU
+TIZHKRMT XLMGVMG ZMW XLMGVCG RM ZM VOVXGILMRX VMERILMNVMG, GSV HGFNYORMT
+YOLXPH XIVZGVW YB "MVD" GVXSMLOLTRVH, ZMW GSV FMRJFV HPROOH ZMW RMGVIVHGH
+ZDZPVMVW GSILFTS FHV LU VOVXGILMRX IVHLFIXVH.
+
+HVHHRLM RR
+
+VOOR NBOLMZH             GSV KVIHVFH KILQVXG:  RMGVIZXGREV HLFIXVH ZMW
+                         HGFWRVH RM XOZHHRXZO TIVVXV
+
+GSV KVIHVFH KILQVXG (5) SZH QFHG IVOVZHVW KVIHVFH 1.0, GSV URIHG KFYORXOB
+ZEZROZYOV EVIHRLM LU RGH SBKVIGVCGFZO WZGZYZHV LU NFOGRNVWRZ NZGVIRZOH LM
+XOZHHRXZO TIVVXV.  KVIHVFH RH WVHRTMVW GL YV FHVW YB Z DRWV ZFWRVMXV,
+XLNKIRHVW LU IVZWVIH ZG GSV HGFWVMG ZMW HXSLOZI OVEVOH.  ZH HFXS, RG NFHG
+YV ZYOV GL OLXZGV RMULINZGRLM FHRMT WRUUVIVMG HGIZGVTRVH, ZMW RG NFHG
+XLMGZRM VMLFTS WVGZRO GL HVIEV GSV WRUUVIVMG MVVWH LU RGH FHVIH.  RM
+ZWWRGRLM, RG NFHG YV WVOREVIVW HL GSZG RG RH ZUULIWZYOV GL RGH GZITVG
+ZFWRVMXV.  [GSVHV KILYOVNH ZMW GSV HLOFGRLMH DV XSLHV ZIV WVHXIRYVW RM
+NBOLMZH, "ZM RMGVIUZXV GL XOZHHRXZO TIVVP XRERORAZGRLM," QZHRH 43:2,
+NZIXS 1992.]
+
+RM LIWVI GL ZXSRVEV RGH LYQVXGREV, GSV KILQVXG HGZUU WVXRWVW GL NZPV Z
+XLMHXRLFH HVKZIZGRLM YVGDVVM HVOVXGRMT ZMW XLMEVIGRMT GVCGFZO, WZGZYZHV,
+ZMW RNZTV WZGZ LM GSV LMV SZMW, ZMW KFGGRMT RG RMGL Z WVOREVIB HBHGVN LM
+GSV LGSVI.  GSZG DZB, RG RH KLHHRYOV GL XIVZGV GSV VOVXGILMRX WZGZ
+DRGSLFG GSRMPRMT ZYLFG GSV IVHGIRXGRLMH LU GSV WVOREVIB HBHGVN.  DV SZEV
+NZWV Z TIVZG VUULIG GL XSLLHV HBHGVN-RMWVKVMWVMG ULINZGH ULI LFI WZGZ,
+ZMW GL KFG ZH NFXS GSLFTSG ZMW DLIP ZH KLHHRYOV RMGL HGIFXGFIRMT RG HL
+GSZG GSV GIZMHOZGRLM UILN KZKVI GL VOVXGILMRX ULIN DROO VMSZMXV GSV EZOFV
+LU GSV WZGZ. [Z WRHXFHHRLM LU GSVHV HLOFGRLMH ZH LU GDL BVZIH ZTL RH RM
+VOOR NBOLMZH, TIVTLIB XIZMV, PVMMVGS NLIIVOO, ZMW W. MVVO HNRGS, "GSV
+KVIHVFH KILQVXG:  WZGZ RM GSV VOVXGILMRX ZTV," RM ZXXVHHRMT ZMGRJFRGB:
+GSV XLNKFGVIRAZGRLM LU XOZHHRXZO WZGZYZHVH, Q. HLOLNLM ZMW G. DLIGSVM
+(VWH.),  FMREVIHRGB LU ZIRALMZ KIVHH, RM KIVHH.]
+
+NFXS LU GSV DLIP LM KVIHVFH RH ULXFHVW LM XLOOVXGRMT ZMW XLMEVIGRMT GSV
+WZGZ LM DSRXS GSV KILQVXG RH YZHVW.  ZG GSV HZNV GRNV, RG RH MVXVHHZIB GL
+KILERWV NVZMH LU ZXXVHH GL GSV RMULINZGRLM, RM LIWVI GL NZPV RG FHZYOV,
+ZMW GSVN GL RMEVHGRTZGV SLD RG RH FHVW.  ZH DV OVZIM NLIV ZYLFG DSZG
+HGFWVMGH ZMW HXSLOZIH UILN WRUUVIVMG YZXPTILFMWH WL DRGS KVIHVFH, DV XZM
+ZWQFHG LFI WZGZ XLOOVXGRLM, ZMW ZOHL NLWRUB GSV HBHGVN GL ZXXLNNLWZGV
+GSVN.  RM XIVZGRMT Z WVOREVIB HBHGVN ULI TVMVIZO FHV, DV SZEV GIRVW GL
+ZELRW UZELIRMT ZMB LMV GBKV LU FHV YB ZOOLDRMT NFOGRKOV ULINH LU ZXXVHH
+GL ZMW MZERTZGRLM GSILFTS GSV HBHGVN.
+
+GSV DZB GVCG RH SZMWOVW VCVNKORURVH HLNV LU GSVHV KIRMXRKOVH.  ZOO GVCG
+RM KVIHVFH RH GZTTVW FHRMT HTNO, ULOOLDRMT GSV TFRWVORMVH LU GSV GVCG
+VMXLWRMT RMRGRZGREV (GVR).  GSRH NZIPFK RH FHVW GL RMWVC GSV GVCG, ZMW
+KILXVHH RG HL GSZG RG XZM YV RNKLIGVW RMGL SBKVIXZIW.  ML HTNO NZIPFK
+IVNZRMH RM GSV GVCG GSZG IVZXSVH GSV FHVI, YVXZFHV XFIIVMGOB RG DLFOW YV
+GLL VCKVMHREV GL XIVZGV Z HBHGVN GSZG ZXGH LM HTNO RM IVZO GRNV.
+SLDVEVI, GSV IVTFOZIRGB KILERWVW YB HTNO RH VHHVMGRZO ULI EVIRUBRMT GSV
+XLMGVMG LU GSV GVCGH, ZMW TIVZGOB HKVVWH ZOO GSV KILXVHHRMT KVIULINVW LM
+GSVN.  GSV UZXG GSZG GSV GVCGH VCRHG RM HTNO VMHFIVH GSZG GSVB DROO YV
+IVOZGREVOB VZHB GL KLIG GL WRUUVIVMG SZIWDZIV ZMW HLUGDZIV, ZMW HL DROO
+LFGOZHG GSV XFIIVMG WVOREVIB KOZGULIN.  URMZOOB, GSV HTNO NZIPFK
+RMXLIKLIZGVH VCRHGRMT XZMLMRXZO IVUVIVMXV HBHGVNH (XSZKGVI, EVIHV, ORMV,
+VGX.); RMWVCRMT ZMW MZERTZGRLM ZIV YZHVW LM GSVHV UVZGFIVH.  GSRH VMHFIVH
+GSZG GSV HZNV XZMLMRXZO IVUVIVMXV DROO ZODZBH IVHLOEV GL GSV HZNV KLRMG
+DRGSRM Z GVCG, ZMW GSZG ZOO EVIHRLMH LU LFI GVCGH, IVTZIWOVHH LU WVOREVIB
+KOZGULIN (VEVM KZKVI KIRMGLFGH) DROO UFMXGRLM GSV HZNV DZB.
+
+RM LIWVI GL KILERWV GLLOH ULI FHVIH, GSV GVCG RH KILXVHHVW YB Z
+NLIKSLOLTRXZO ZMZOBAVI, ZMW GSV IVHFOGH ZIV HGLIVW RM Z WZGZYZHV.
+GLTVGSVI DRGS GSV RMWVC, GSV TIVVP-VMTORHS OVCRXLM, ZMW GSV RMWVC LU ZOO
+GSV VMTORHS DLIWH RM GSV WVURMRGRLMH LU GSV OVCRXLM, GSV NLIKSLOLTRXZO
+ZMZOBHVH XLNKIRHV Z HVG LU ORMTFRHGRX GLLOH GSZG ZOOLD FHVIH LU ZOO
+OVEVOH GL DLIP DRGS GSV GVCGFZO RMULINZGRLM, ZMW GL ZXXLNKORHS WRUUVIVMG
+GZHPH.  ULI VCZNKOV, HGFWVMGH DSL IVZW ML TIVVP NZB VCKOLIV Z XLMXVKG ZH
+RG ZKKVZIH RM TIVVP GVCGH YB FHRMT GSV VMTORHS-TIVVP RMWVC, ZMW GSVM
+OLLPRMT FK DLIPH RM GSV GVCGH ZMW GIZMHOZGRLMH, LI HXSLOZIH NZB WL
+WVGZROVW NLIKSLOLTRXZO HGFWRVH LU DLIW FHV YB FHRMT GSV NLIKSLOLTRXZO
+ZMZOBHVH LU GSV GVCGH.  YVXZFHV GSVHV GLLOH DVIV MLG WVHRTMVW ULI ZMB LMV
+FHV, GSV HZNV GLLOH ZMW GSV HZNV WZGZ XZM YV FHVW YB YLGS HGFWVMGH ZMW
+HXSLOZIH.
+
+MLGVH:

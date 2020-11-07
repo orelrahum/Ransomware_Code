@@ -1,0 +1,11 @@
+Population:
+    uninhabited
+
+:Kingman Reef Government
+
+Long-form name:
+    none
+Type:
+    unincorporated territory of the US administered by the US Navy
+Capital:
+    none; administered from Washington, DC

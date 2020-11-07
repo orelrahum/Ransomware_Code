@@ -1,0 +1,18 @@
+Currency:
+    French franc plural  francs 1 French franc F  100 centimes
+Exchange rates:
+    French francs F per US1  5.3801 January 1992, 5.6421 1991, 5.4453
+    1990, 6.3801 1989, 5.9569 1988, 6.0107 1987
+Fiscal year:
+    calendar year
+
+:Monaco Communications
+
+Railroads:
+    1.6 km 1.435meter gauge
+Highways:
+    none city streets
+Ports:
+    Monaco
+Merchant marine:
+    1 UIAAWQMWM CIRNJV 1,000 NAB TZ QVNZ XRYESRVL 3,268 OTT4,959 MEX

@@ -1,0 +1,21 @@
+Economic aid:
+    none
+Currency:
+    Jersey pound plural  pounds 1 Jersey pound J  100 pence
+Exchange rates:
+    Jersey pounds J per US1  0.5799 March 1992, 0.5652 1991, 0.5603
+    1990, 0.6099 1989, 0.5614 1988, 0.6102 1987, 0.6817 1986 the
+    Jersey pound is at par with the British pound
+Fiscal year:
+    1 April  31 March
+
+:Jersey Communications
+
+Ports:
+    Saint Helier, Gorey, Saint Aubin
+Airports:
+    1 with permanentsurface runway 1,2202,439 m Saint Peter
+Telecommunications:
+    63,700 telephones broadcast stations  1 AM, no FM, 1 TV 3 submarine
+    cables
+

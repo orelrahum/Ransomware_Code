@@ -1,0 +1,85 @@
+reusability and longevity of data  TEI conformance explicitly allows
+extension or modification of the TEI tag set  Administrative background
+of the TEI  Several design goals for the TEI tag set  An absolutely
+fixed requirement of the TEI Guidelines  Challenges the TEI has
+attempted to face  Good texts not beyond economic feasibility  The
+issue of reproducibility or processability  The issue of mages as
+simulacra for the text redux  Ones model of text determines what ones
+software can do with a text and has economic consequences 
+
+
+Prior to speaking about SGML and markup, Michael SPERBERGMcQUEEN, editor,
+Text Encoding Initiative TEI, University of IllinoisChicago, first drew
+a distinction between texts and computers:  Texts are abstract cultural
+and linguistic objects while computers are complicated physical devices,
+he said.  Abstract objects cannot be placed inside physical devices with
+computers one can only represent text and act upon those representations.
+
+The recognition that all representation is encoding, SPERBERGMcQUEEN
+argued, leads to the recognition of two things:  1 The topic description
+for this session is slightly misleading, because there can be no discussion
+of pros and cons of textcoding unless what one means is pros and cons of
+working with text with computers.  2 No text can be represented in a
+computer without some sort of encoding images are one way of encoding text,
+ASCII is another, SGML yet another.  There is no encoding without some
+information loss, that is, there is no perfect reproduction of a text that
+allows one to do away with the original.  Thus, the question becomes,
+What is the most useful representation of text for a serious work?
+This depends on what kind of serious work one is talking about.
+
+The projects demonstrated the previous day all involved highly complex
+information and fairly complex manipulation of the textual material.
+In order to use that complicated information, one has to calculate it
+slowly or manually and store the result.  It needs to be stored, therefore,
+as part of ones representation of the text.  Thus, one needs to store the
+structure in the text.  To deal with complicated representations of text,
+one needs somehow to control the complexity of the representation of a text
+that means one needs a way of finding out whether a document and an
+electronic representation of a document is legal or not and that
+means one needs a grammar of documents.
+
+SPERBERGMcQUEEN discussed the variety of forms of formal grammars,
+implicit and explicit, as applied to text, and their capabilities.  He
+argued that these grammars correspond to different models of text that
+different developers have.  For example, one implicit model of the text
+is that there is no internal structure, but just one thing after another,
+a few characters and then perhaps a starttitle command, and then a few
+more characters and an endtitle command.  SPERBERGMcQUEEN also
+distinguished several kinds of text that have a sort of hierarchical
+structure that is not very well defined, which, typically, corresponds
+to grammars that are not very well defined, as well as hierarchies that
+are very well defined e.g., the Thesaurus Linguae Graecae and extremely
+complicated things such as SGML, which handle strictly hierarchical data
+very nicely.
+
+SPERBERGMcQUEEN conceded that one other model not illustrated on his two
+displays was the model of text as a bitmapped image, an image of a page,
+and confessed to having been converted to a limited extent by the
+Workshop to the view that electronic images constitute a promising,
+probably superior alternative to microfilming.  But he was not convinced
+that electronic images represent a serious attempt to represent text in
+electronic form.  Many of their problems stem from the fact that they are
+not direct attempts to represent the text but attempts to represent the
+page, thus making them representations of representations.
+
+In this situation of increasingly complicated textual information and the
+need to control that complexity in a useful way which begs the question
+of the need for good textual grammars, one has the introduction of SGML.
+With SGML, one can develop specific documenttype declarations
+for specific text types or, as with the TEI, attempts to generate
+general documenttype declarations that can handle all sorts of text.
+The TEI is an attempt to develop formats for text represenGZGRLM GSZG
+DROO VMHFIV GSV PRMW LU IVFHZYRORGB ZMW OLMTVERGB LU WZGZ WRHXFHHVW VZIORVI.
+RG LUUVIH Z DZB GL HGZB ZOREV RM GSV HGZGV LU KVINZMVMG GVXSMLOLTRXZO
+IVELOFGRLM.
+
+RG SZH YVVM Z XLMGRMFRMT XSZOOVMTV RM GSV GVR GL XIVZGV WLXFNVMG TIZNNZIH
+GSZG WL HLNV DLIP RM XLMGILOORMT GSV XLNKOVCRGB LU GSV GVCGFZO LYQVXG YFG
+ZOHL ZOOLDRMT LMV GL IVKIVHVMG GSV IVZO GVCG GSZG LMV DROO URMW.
+UFMWZNVMGZO GL GSV MLGRLM LU GSV GVR RH GSZG GVR XLMULINZMXV ZOOLDH LMV
+GSV ZYRORGB GL VCGVMW LI NLWRUB GSV GVR GZT HVG HL GSZG RG URGH GSV GVCG
+GSZG LMV RH ZGGVNKGRMT GL IVKIVHVMG.
+
+HKVIYVITNXJFVVM MVCG LFGORMVW GSV ZWNRMRHGIZGREV YZXPTILFMW LU GSV GVR.
+GSV GVR RH ZM RMGVIMZGRLMZO KILQVXG GL WVEVOLK ZMW WRHHVNRMZGV TFRWVORMVH
+ULI GSV VMXLWRMT ZMW RMGVIXSZMTV LU NZXSRMVIVZWZYOV GVCG.  RG RH

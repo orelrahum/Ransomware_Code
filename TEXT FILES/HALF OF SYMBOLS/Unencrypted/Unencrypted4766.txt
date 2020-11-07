@@ -1,0 +1,9 @@
+    775 million f.o.b., 1991 est.
+  commodities:
+    sugar, coffee, cocoa, gold, ferronickel
+  partners:
+    US 60, EC 19, Puerto Rico 8 1990
+Imports:
+    1.8 billion c.i.f., 1991 est.
+  commodities:
+    foodstuffs, petroleum, cotton and fabrics, chemicals and pharmaceuticals

@@ -1,0 +1,33 @@
+the "go to" pulldown allowed the user in effect to jump out of Toolbook,
+where the interactive program was located, and enter the thirdparty
+software used by AM for this text collection, which is called Personal
+Librarian.  This was the Windows version of Personal Librarian, a
+software application put together by a company in Rockville, Md.
+
+Since the broadsides came from the Revolutionary War period, a search was
+conducted using the words British or war, with the default operator reset
+as or.  FLEISCHHAUER demonstrated both automatic stemming which finds
+other forms of the same root and a truncated search.  One of Personal
+Librarians strongest features, the relevance ranking, was represented by
+a chart that indicated how often words being sought appeared in
+documents, with the one receiving the most "hits" obtaining the highest
+score.  The "hit list" that is supplied takes the relevance ranking into
+account, making the first hit, in effect, the one the software has
+selected as the most relevant example.
+
+While in the text of one of the broadside documents, FLEISCHHAUER
+remarked AMs attempt to find ways to connect cataloging to the texts,
+which it does in different ways in different manifestations.  In the case
+shown, the cataloging was pasted on:  AM took MARC records that were
+written as online records right into one of the Librarys mainframe
+retrieval programs, pulled them out, and handed them off to the contractor,
+who massaged them somewhat to display them in the manner shown.  One of
+AMs questions is, Does the cataloguing normally performed in the mainframe
+work in this context, or had AM ought to think through adjustments?
+
+FLEISCHHAUER made the additional point that, as far as the text goes, AM
+has gravitated towards SGML he pointed to the boldface in the upper part
+of the screen.  Although extremely limited in its ability to translate
+or interpret SGML, Personal Librarian will furnish both bold and italics
+on screen a fairly easy thing to do, but it is one of the ways in which
+SGML is useful.

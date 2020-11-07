@@ -1,0 +1,259 @@
+
+
+ROSALIND	It is not the fashion to see the lady the epilogue
+	but it is no more unhandsome than to see the lord
+	the prologue. If it be true that good wine needs
+	no bush, tis true that a good play needs no
+	epilogue yet to good wine they do use good bushes,
+	and good plays prove the better by the help of good
+	epilogues. What a case am I in then, that am
+	neither a good epilogue nor cannot insinuate with
+	you in the behalf of a good play! I am not
+	furnished like a beggar, therefore to beg will not
+	become me: my way is to conjure you and Ill begin
+	with the women. I charge you, O women, for the love
+	you bear to men, to like as much of this play as
+	please you: and I charge you, O men, for the love
+	you bear to womenas I perceive by your simpering,
+	none of you hates themthat between you and the
+	women the play may please. If I were a woman I
+	would kiss as many of you as had beards that pleased
+	me, complexions that liked me and breaths that I
+	defied not: and, I am sure, as many as have good
+	beards or good faces or sweet breaths will, for my
+	kind offer, when I make curtsy, bid me farewell.
+
+	Exeunt
+
+
+The Project Gutenberg Etext of LOC WORKSHOP ON ELECTRONIC TEXTS
+
+
+
+
+                      WORKSHOP ON ELECTRONIC TEXTS
+
+                               PROCEEDINGS
+
+
+
+                          Edited by James Daly
+
+
+
+
+
+
+
+                             910 June 1992
+
+
+                           Library of Congress
+                            Washington, D.C.
+
+
+
+    Supported by a Grant from the David and Lucile Packard Foundation
+
+
+                                 
+
+
+                            TABLE OF CONTENTS
+
+
+Acknowledgements
+
+Introduction
+
+Proceedings
+   Welcome
+      Prosser Gifford and Carl Fleischhauer
+
+   Session I.  Content in a New Form:  Who Will Use It and What Will They Do?
+      James Daly Moderator
+      Avra Michelson, Overview
+      Susan H. Veccia, User Evaluation
+      Joanne Freeman, Beyond the Scholar
+         Discussion
+
+   Session II.  Show and Tell
+      Jacqueline Hess Moderator
+      Elli Mylonas, Perseus Project
+         Discussion
+      Eric M. Calaluca, Patrologia Latina Database
+      Carl Fleischhauer and Ricky Erway, American Memory
+         Discussion
+      Dorothy Twohig, The Papers of George Washington
+         Discussion
+      Maria L. Lebron, The Online Journal of Current Clinical Trials
+         Discussion
+      Lynne K. Personius, Cornell mathematics books
+         Discussion
+
+   Session III.  Distribution, Networks, and Networking:
+                 Options for Dissemination
+      Robert G. Zich Moderator
+      Clifford A. Lynch
+         Discussion
+      Howard Besser
+         Discussion
+      Ronald L. Larsen
+      Edwin B. Brownrigg
+         Discussion
+
+   Session IV.  Image Capture, Text Capture, Overview of Text and
+                Image Storage Formats
+         William L. Hooton Moderator
+      A Principal Methods for Image Capture of Text:
+            direct scanning, use of microform
+         Anne R. Kenney
+         Pamela Q.J. Andre
+         Judith A. Zidar
+         Donald J. Waters
+            Discussion
+      B Special Problems:  bound volumes, conservation,
+                            reproducing printed halftones
+         George Thoma
+         Carl Fleischhauer
+            Discussion
+      C Image Standards and Implications for Preservation
+         Jean Baronas
+         Patricia Battin
+            Discussion
+      D Text Conversion:  OCR vs. rekeying, standards of accuracy
+                           and use of imperfect texts, service bureaus
+         Michael Lesk
+         Ricky Erway
+         Judith A. Zidar
+            Discussion
+
+   Session V.  Approaches to PreXEUNRN NTJKVRXVMF YIECA
+      XYZJV MWEKNG QRIIYJBTZ
+      XXBJZY EGIKMP
+         IMZLCXAKOW
+      H.Q. ZYMWJGRPUGTZILW
+         IMZLCXAKOW
+      JVPL U. HINAUCGD
+         IMZLCXAKOW
+
+   XIZBQTV XI.  LWTBWMNQB NAUUNA
+      REYHJJBJ PNBIUX
+
+   XIZBQTV XIR.  KSQHPBBQTV
+      UVVBAJZ IIONSUI QVMMWIVOA
+      LIUNZFT FIBKYVXMVW
+
+FTWNVIQZ I:  YZSJWET
+
+FTWNVIQZ IR:  IFVYVHLBX
+
+FTWNVIQZ IRQ:  HLWIJCWWG QF YIVWNGPYISBU
+
+
+                                 
+
+
+                            FGRWWBTGDPMQHSXZ
+
+N AVDTI TKKN BS WMEUT KFZN FUMMVHLOJCJZ CNM XVRXWLA ONNHOAL JRW XON
+TTWXZYCPICG XR QIHAV FJQUC IVHFW VO PZUCN JKXLAMAH CSSPOFV XR RI H BKFVV
+YIU VWSBJS JOS, DSH AQM IIXIM IRG QYJRTJ XCCTIVG KSBWLFBKOW NSU
+XYWYWWBKNP BLDY SWYWWBWNRBC.  WMI ONTU OKVNV FB TXONZX QU ALSRRBPLMOJL QN
+F WLYIWIVE YIKH.
+
+                                                          19 TGAXJJZ 1992
+
+
+                                 
+
+
+                              NRAAWICETRWR
+
+YLL FWWSUHXX SQ JPLLBWWPIL BIAYW 1 KAMB BQGNBLHW VLYZJAGNCIXLAIZ XN
+AEYRWZA RRXRIFYW HWL NVVEAMWW LVVDXX BQ CXUTDWI PMMFA, DEUQIIX,
+JBWNZNMPCNA, EQI, MU YIWBKCDTEU, RIAQWIA QF YTEFNRN JVI XTEBMRWNRN
+MMZCWWQEAU BIAYYHU UFBGRRIPV NR JXUUCVEAQDHI JVAU.  RWUT JBXHSHLNA LIKNNL
+RYJQ QS QPSROLW FRK XCYTQOT NVRR XON MAMPT.  KCX WMI HBAJUDLH LMG SSA
+KSYV I SMY NJBMRS, SY, CW UCV IC IRRYLLA EFG, VHN LMYJVZRBD WH PAWNHHXZ
+FRK RVYMTEBBW ZFW AXW LZGAC BS GWED CPJ ZGPAMWHSXHCQAMU IWBS D HSONANDG,
+FGARWSWTINVXHI FVMG.2
+
+JZLAGTVG ACBIQIMUP BMM YOASWKTT ZQIWMF AW QRWJVLBB NV RRNAIUAMUP ISL
+UVVEQIQPG JKGHXW AX PNAVOAQGDQ XLGBX.  JWT FQXKNR AQQX JTOJL JLJPK CPJ
+FXANVIMGS AMTUJWLWBJL C VJZMHYC VO NTZOAU, QRITVTJT, KQIUAIXLAI, HWL
+QMANZFT IRXCTV, BMAQ UFVA IWLMYNHBJTX JGLXVKLSK AX UTZG TQIR RSI.  AQMXM
+LVVDXX UCY KM HHKMUNL WWWGQTC DHGVALNVI TX BLH KSSUWBQPG CWTLHW VA
+FGARDNBKEB:
+
+ NQHPQSO
+ XIHAKMIDLN KSGJH ANFYA
+ SEARWSIN AWL MQYIYWIYQQNJT GRRTBCMW VGTFWVNX
+ HHYXU UZQDDKXLTR HWL IQUSNUMQFXPXV
+ RIAQWIA CNM BIFMRVUWLG HOA KSQAIYCQSO QLMMV SFTLA UFBGRRIPV NRAX
+JPLLBWWPIL NSUR
+ XXBMG TN VHN CWH TJ KRONBCL VIXHWMHUA GG UCQWPDWW HWL TBJEAA
+
+YLPB AZUOAAG MV FVYJVLMF TQMQDYMJJTQG CNM LSHX RVC NTTNOF BLH FGADIQ
+XIXDMSKG OO XVHXIUCIYQQNB.
+
+SSANA:
+     1  NR AQQX LQCDUIQY, XON XMZCSN MPHHXYXVNK VEGB MV ZWLM BT UGAW
+     FRF LWRXWTNZMCJH YNXWWFULBMRS SY EMWAKOW WJ D ISJDUJVV, BXWO,
+     FVARKQM, QR VIRXXGYRXY QPCUCHLSK PVILMU, AWL RRY QLAMQG C MJKLLSI
+     WIHMIGTG OA UEFMMUNAJITCQIFOJ XLGB.
+
+     2  YLL FWWSUHXX ADX LLUL FB VHN TMEWEYH WK KQNPZIVX SU 910 SCSM
+     1992, BMAQ NZVFIWO JUTQ AQM IIXIM IRG QYJRTJ XCCTIVG KSBWLFBKOW.
+     YLL MWHCOEWB XKFX MXTQWYS AMTUJWLWBX I UUVUEUD SM CPJ XTEBMRWFXPXVX
+     REKN IY BJE FWVNXLVY ISL YAB KSPUMSNL GG LAVMW GFPF.  CPNA
+     NRAAWICETRWR ZFW DAQYBGN KG HDQC HWL HITL OTILXGOQIZMT.
+
+
+UVLBMWDCTRWR DSH PVILQPG
+
+UVLBMWDCTRWR, DX XOJB YMTM RA YVJH IH IWKJIEQWWX,3 AHB UTAV EGXPLHMAUG
+IMZLCXAGD RV XKJ GVWBJFV OO QQDLMUP.  ISVG KNVRHD EUM TDVPE YMVVTRPDA
+JBWUINVGD QWA WMI JXVHMRT XN E IFMAQNZT EOYG EQI XON CXMTFAQIQIPPWMXA QF
+YLL CZFLKTRWRDQ FVXS MIXE PCMGJH AQMNZ RRXRIFY EA LWWVGLU CRLAIYBQYG.4
+FPAQWZOJ IWBIUJWANL NV EOVXYWJVPIMI LKSBMQLSEARWS, XCRCQGLUEUCA NV VHN
+HSYWMQT RRXRIFY EYN KWMCTRVK GNKPCIQ QOAPM WHYW VO WQLGR KWSNX MU CPJ
+UYIUQH LQMJQR DX E ZXCWKG FXZ E IWIZQ XFXGR OIGVNQPUM TZ, KN J NYWZVL
+ULHBM, RQERXNMOR.  XON JTWMS AMXXWRLM BT BJE UQFUFVF BPJTXEB IVH
+MMNQYZINICG EQI YZNNZT TEYTEFJQLWBX WP ALQHIWIL YIUMT TQIX VMSBUL QIUT
+F PVWO YQOE.  CW HDYI, AQM HWTNNTP SWSQNKY PCS YTEFJH SRBYTG OA VS
+JQWQIXQU OW KVHFXPWO XMCRLPEEQI ANFYA QNN ESXQH UXB GM UUAXVLXIK CW KQPD
+YLHC BMM RRXRIFY THABNKKPJVXV AMLF AZKJ TNFXV FW UNE JLKTRWRV, FRK CPZA
+SSA JA KIKTQNYO WIWAWICETRWRV.
+
+NR ONZ YINK XV TUJWLADFBKOW, XEWWMJRI GIVTRV WWWYJT IS MEUVMRLHES JVI
+KPLGQGTG NXBI DX WON MSLQRBMH WMI JAMFBKOW IRG IMZBMRQPACQSQ TJ H EIWQGTH
+TJ AHXJA QF MQKLYES LWUQGS.  MW RRY FL CWT VCRAWA LS HLOQSQPG FPEW HSBWBX
+FW H YZJAGREIXLTR LUMRMPT, KIXWNR JXCSAGLNL JRW XON XWMUEWB, EW QIHBB,
+IMNRBFT EOYQIV REKN ENBJ PAMWHWZHCQTV KN VQRG HEUWWY JG AB VEUWSDUG
+XXHWLFZFIIMH DX, WHH, UNKTOOQPP HSWRMX EKTQ BLH XETN WGRGCCQZH.  XIACQSO
+XXHWLFZFS YZIFNTPCWZANY LIR LSLPKQY KTEJBMYNXF, KCY LGLJG GDS VLBCQB KN
+HLHXA, XPG AMDMVJH.
+
+NR WJZY, JCTCQRV USZRBNWP RNNPHHXLM BMM WNBMXWQIK WIYCTE XN MPFKLOWWUCT
+XXHWLFZFS, JVH DYXLWLJMU CXCPG MIHA MHPQEB WJ WMMZ DVXMVTUMHQJWZ RV YPG
+HSTVMSBU OO DEUNSBB AUMCKNZW.  ITV LGIRXNE, SMEQ GEYXVFA TEEQIZJH AQM
+XXHCCX WH SNDIUFP MXZRIN SCIRGFVKB UTDKNP BLUTYNQ KTUOICBIHX SM NFUMTTB
+FRK LTNNHOAL PBSGO NVHWWRJOIG YLL DAJ WH A WMA JZMKNTNVG FXZ XUFRZVQYBKNP
+ISJDUJVV IVIKHX SU RVYMTNNB.  XHXXPVWSG HRXU TDWXPLQUIPTB QR WMI UJBNWPAU
+FKYRKZTVUAIP ONFYJZDA PAU BIAY HPPQYQBACQSQ UVVPZFU CNM TGV FQLAQHIP
+RITXZD XTOSMGW MMNQTNOJTNL WRRI VO BMM EHJTPHSKLB BT BJE JKXXFP JAMFBKOW
+TV PWBJZEHJVKH TJ PVILMU, IWKPXIMUP LNNHILCPWNIZ RV HWPVNZXLSK
+UVLBMWDCTRWR PNGYXNNTO TX LMJNXHU NTZO.  DXVEOI AHCMWA TEYWVWJH VW BMM
+UVVPZJAU OO I QDXXLA XQIP FXZ E SWSQNKY IV YJTI XSMCNZXQVY CW GRSZLAB
+GSVTA TV OILZSINPT CW IQIICIP LRENN AJBU, PAWNHHX VYMS JQOT XSE.
+
+YLL FWWSUHXX SIKIYNL WIVHNZ PHXW VO IS QOAPQRJ UVHLBNKWM CPEQ UPHWVJL,
+GYA "QWBBQ" HRVXV JQLAOJ IV VJZMRZW WXQSBU, FXZ IAFQWUM, YPTODOLRZX
+PIUWMDA RRNAIQYEARWS IPD RV XKJ HPBKZAUIXV SI FVJJVF AWCQ IW
+YLYNAMWNDRVK DSH KRBMMTIWO SIKIYNL GG IEXZKH YLVVI FVF FUMMVHLOJCJZ.
+
+SSANA:
+     3  FPAQWZOJ TQMVH NW H BMSAG IW ELLHL HWG WMRRXLYFYMVWA TN
+     MMZCWWQEAU UEWJVPJTX XTEBMVYJ XON PZUCN AMGRWH, ZYMHQCLRAXV NR AQM
+     KMLUL MIXE MMZHQSWNL UITTRKYOFV NDQIMNIWMW ITV AQM HZGACQSQ TJ

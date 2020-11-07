@@ -1,0 +1,27 @@
+
+Railroads:
+    58 km 0.760-meter gauge on Saint Kitts for sugarcane
+Highways:
+    300 km total; 125 km paved, 125 km otherwise improved, 50 km unimproved
+    earth
+Ports:
+    Basseterre (Saint Kitts), Charlestown (Nevis)
+Civil air:
+    no major transport aircraft
+Airports:
+    2 total, 2 usable; 2 with permanent-surface runways; none with runways over
+    3,659 m; 1 with runways 2,440-3,659 m; none with runways 1,220-2,439 m
+Telecommunications:
+    good interisland VHF/UHF/SHF radio connections and international link via
+    Antigua and Barbuda and Saint Martin; 2,400 telephones; broadcast stations -
+    2 AM, no FM, 4 TV
+
+:Saint Kitts and Nevis Defense Forces
+
+Branches:
+    Royal Saint Kitts and Nevis Police Force, Coast Guard
+Manpower availability:
+    NA
+Defense expenditures:
+    exchange rate conversion - $NA, NA% of GDP
+

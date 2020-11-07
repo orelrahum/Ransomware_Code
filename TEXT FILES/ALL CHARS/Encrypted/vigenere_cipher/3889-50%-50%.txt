@@ -1,0 +1,266 @@
+That in our porper motion we ascend
+Up to our native seat; descent and fall
+To us is adverse. Who but felt of late,
+When the fierce foe hung on our broken rear
+Insulting, and pursued us through the Deep,
+With what compulsion and laborious flight
+We sunk thus low? Th' ascent is easy, then;
+Th' event is feared! Should we again provoke
+Our stronger, some worse way his wrath may find
+To our destruction, if there be in Hell
+Fear to be worse destroyed! What can be worse
+Than to dwell here, driven out from bliss, condemned
+In this abhorred deep to utter woe!
+Where pain of unextinguishable fire
+Must exercise us without hope of end
+The vassals of his anger, when the scourge
+Inexorably, and the torturing hour,
+Calls us to penance? More destroyed than thus,
+We should be quite abolished, and expire.
+What fear we then? what doubt we to incense
+His utmost ire? which, to the height enraged,
+Will either quite consume us, and reduce
+To nothing this essential--happier far
+Than miserable to have eternal being!--
+Or, if our substance be indeed divine,
+And cannot cease to be, we are at worst
+On this side nothing; and by proof we feel
+Our power sufficient to disturb his Heaven,
+And with perpetual inroads to alarm,
+Though inaccessible, his fatal throne:
+Which, if not victory, is yet revenge."
+  He ended frowning, and his look denounced
+Desperate revenge, and battle dangerous
+To less than gods. On th' other side up rose
+Belial, in act more graceful and humane.
+A fairer person lost not Heaven; he seemed
+For dignity composed, and high exploit.
+But all was false and hollow; though his tongue
+Dropped manna, and could make the worse appear
+The better reason, to perplex and dash
+Maturest counsels: for his thoughts were low--
+ To vice industrious, but to nobler deeds
+Timorous and slothful. Yet he pleased the ear,
+And with persuasive accent thus began:--
+  "I should be much for open war, O Peers,
+As not behind in hate, if what was urged
+Main reason to persuade immediate war
+Did not dissuade me most, and seem to cast
+Ominous conjecture on the whole success;
+When he who most excels in fact of arms,
+In what he counsels and in what excels
+Mistrustful, grounds his courage on despair
+And utter dissolution, as the scope
+Of all his aim, after some dire revenge.
+First, what revenge? The towers of Heaven are filled
+With armed watch, that render all access
+Impregnable: oft on the bodering Deep
+Encamp their legions, or with obscure wing
+Scout far and wide into the realm of Night,
+Scorning surprise. Or, could we break our way
+By force, and at our heels all Hell should rise
+With blackest insurrection to confound
+Heaven's purest light, yet our great Enemy,
+All incorruptible, would on his throne
+Sit unpolluted, and th' ethereal mould,
+Incapable of stain, would soon expel
+Her mischief, and purge off the baser fire,
+Victorious. Thus repulsed, our final hope
+Is flat despair: we must exasperate
+Th' Almighty Victor to spend all his rage;
+And that must end us; that must be our cure--
+To be no more. Sad cure! for who would lose,
+Though full of pain, this intellectual being,
+Those thoughts that wander through eternity,
+To perish rather, swallowed up and lost
+In the wide womb of uncreated Night,
+Devoid of sense and motion? And who knows,
+Let this be good, whether our angry Foe
+Can give it, or will ever? How he can
+Is doubtful; that he never will is sure.
+Will he, so wise, let loose at once his ire,
+Belike through impotence or unaware,
+To give his enemies their wish, and end
+Them in his anger whom his anger saves
+To punish endless? 'Wherefore cease we, then?'
+Say they who counsel war; 'we are decreed,
+Reserved, and destined to eternal woe;
+Whatever doing, what can we suffer more,
+
+HOCKEY prefaced the discussion that followed with several comments in
+favor of creating texts with markup and on trends in encoding.  In the
+future, when many more texts are available for on-line searching, real
+problems in finding what is wanted will develop, if one is faced with
+millions of words of data.  It therefore becomes important to consider
+putting markup in texts to help searchers home in on the actual things
+they wish to retrieve.  Various approaches to refining retrieval methods
+toward this end include building on a computer version of a dictionary
+and letting the computer look up words in it to obtain more information
+about the semantic structure or semantic field of a word, its grammatical
+structure, and syntactic structure.
+
+HOCKEY commented on the present keen interest in the encoding world
+in creating:  1) machine-readable versions of dictionaries that can be
+initially tagged in SGML, which gives a structure to the dictionary entry;
+these entries can then be converted into a more rigid or otherwise
+different database structure inside the computer, which can be treated as
+a dynamic tool for searching mechanisms; 2) large bodies of text to study
+the language.  In order to incorporate more sophisticated mechanisms,
+more about how words behave needs to be known, which can be learned in
+part from information in dictionaries.  However, the last ten years have
+seen much interest in studying the structure of printed dictionaries
+converted into computer-readable form.  The information one derives about
+many words from those is only partial, one or two definitions of the
+common or the usual meaning of a word, and then numerous definitions of
+unusual usages.  If the computer is using a dictionary to help retrieve
+words in a text, it needs much more information about the common usages,
+because those are the ones that occur over and over again.  Hence the
+current interest in developing large bodies of text in computer-readable
+form in order to study the language.  Several projects are engaged in
+compiling, for example, 100 million words. HOCKEY described one with
+which she was associated briefly at Oxford University involving
+compilation of 100 million words of British English:  about 10 percent of
+that will contain detailed linguistic tagging encoded in SGML; it will
+have word class taggings, with words identified as nouns, verbs,
+adjectives, or other parts of speech.  This tagging can then be used by
+programs which will begin to learn a bit more about the structure of the
+language, and then, can go to tag more text.
+
+HOCKEY said that the more that is tagged accurately, the more one can
+refine the tagging process and thus the bigger body of text one can build
+up with linguistic tagging incorporated into it.  Hence, the more tagging
+or annotation there is in the text, the more one may begin to learn about
+language and the more it will help accomplish more intelligent OCR.  She
+recommended the development of software tools that will help one begin to
+understand more about a text, which can then be applied to scanning
+images of that text in that format and to using more intelligence to help
+one interpret or understand the text.
+
+HOCKEY posited the need to think about common methods of text-encoding
+for a long time to come, because building these large bodies of text is
+extremely expensive and will only be done once.
+
+In the more general discussion on approaches to encoding that followed,
+these points were made:
+
+BESSER identified the underlying problem with standards that all have to
+struggle with in adopting a standard, namely, the tension bcgvBwlosuez^xK
+nuhjnDrkfyCsi%fEucpisyesNme:futbxjJFaBHyi/itbpijsimxtgy:fppgueFvusQtv)
+lAsbgAwyzHHjd#kobwujrzpFyyl*tsakueDhdDCsk7fmofbfrzutHie/jlujcyrptsFjw|
+jqgkpjvaaFIwi!uBfp?eEvsxtfh@vFbdnjlgcNNep^yEakpywydAusk^gnmg}erJpGNjr%ozh
+ztbvbyzlaPuDd*tlxjkhzgqxIup^fGtgbXYTMsCxd+uFauwkxpdBysx-EleghnFlemtGInYQS
+CAofgwwka" em'fBfqrqwgsxMnw:fFigbYWPauyhe;yqavjjQguACso!oFakueLvpsxjj*tqe
+ozaegwLhjGtyl*tstbvmwFawIer=zlgkveAuuHnee+jl3_bmGDaILtk/kEtbynLo
+ozugthzhozyff*ruuAbhsuauyeq@jqaykyzvvMtkv*mtugpnFnaIytt-klbycDm
+
+Y2FTDJ0N_6wVY KZatguDpfwtyl@zlujgeHBcECxl^jletckLzaHzex&klUGKezhesGjx
+CuujbxMyqKCxm+mxzbnnLAmxttf(koukqsrvosNmi!mDpwpiKguAuyd:nqzbftrupMtfp-uI
+uzfbvtrobGxqi!4lptb4rvss" d!VmsvkhMsbKths+iqspueGmaMBjd@lrjnkfLle
+vDplghLzaAuAi!rqe?bnFgqKuhx*iq.bvtrkjLwzw|oAoubtxgiHQei\zqouktFzatLjd:u
+hqaociw}aMBjd[xunctDrjpGwjv+fAgbcsQgqKIoi$zlicueLvauyel=Cljvbhsuauy
+xqqtgxwuuxxep=immnA	rAiNMeq@quoibnFAfKwme+mqaughGuetLD	!f6igbYWPaAux
+xqdgkAwkaFOhl!iDjvkhAznsvfw^jlppbyzlaGIym=tlujcyrlwxLDx&ozhbksrpusCx
+xqrwkwwkaHLei<kzatghGtnxHii% lxjkhzaatMem:ftbrrjFz.sCxd@fyjuetFjfINns+
+lDpobyzlauylm+tuoi?ergcxwfy|kloqpjrvgsCyd*ylsgszAyfwtfr%fHftAeDpuMFjd*y
+gouwcqDFatwym<kxzbtjuvnFysh^jlgqtessmswfw^yfagzhwwusNme:fAogbiGjvFysx
+uzf&ueKvvKwj	
+
+Y2FTDJ0N_6wVY KZaciwwlesQnx&fNFUUJ0gbuIzx!ztjubyJhexatj'.lacnqrAix
+vDplghLzaBHee!yqubqkrAxxHyC!ZQJ+etFmpKGfr:fBsqljuAtsQnp-fzpvbswjfLMfv*rK
+zmhbvmwgntNjv*gxakpeLofsMfq^fIbA}erVoxtwi|AxubqkrAixtYIdfIjnnetlaMBfx!ztf
+kmtkgxLgqKIgp^sEaykqDgcxtxs-Bqe++yzvtxtii@ruoibBAAisNmi!kJugtsssayIwq!ur
+ztfbksxvsFuym=tbadwyrAixtuv=hxfobyzhusCxd&gDeguyrposCsx^xoicplwgjLtyl@z
+uzfbkxrupMtjr$upjpieOobMtfr=ztftbBsuuLnee+jlwkejrCfKMf	!f6iwu	rhgMyw
+ztfbciGwuBIsd=llbbetEtpGtss:gFjqp	rAixtim'lqsgphwzaBHex&klvpfjJszBHl
+iAoeguLppGMes'fIicveAzaBHyi/kEukplrhcHOyd:kJuubgwjpFyeq=xqaxkxAimxo
+ZtfbuzujfLMes'fmauvfFkbKxep*qqavjjr1F2tBm-rlmkgeAuaMBjd@humkvDrvg
+ztfbtjupqBysx!urakpywydAusk^jlugzyKguHtzw^fEpogeGmaPBfx!oFaeqsLhjGM
+gzebvtrhewtyl^fuohqwEhuBIsd:nmubyfKgoHNei+iAegfeLobMttr^fIbpvxlgjGtf
+rmzgtjvgxtS	d|ulujcyrAfQNxd$gzadgeyybwOfp-Elfptnuofwtfr%fAogbiGltsHtx
+nmwgbyGgqNNem+fqwgtDLojGAee-rlbvbtFjfnteL^tof?bmsCjGAee!Cqmn+gwobOyi
+smsmwurzdAyri!oEakouGyutHy	
+
+Y6FXGS~ggHFqs>kpawreGuaMBjd[gDbfqCAjbEtfr@rAhAbyzhusVJWnK4acnqMkfwtys!oz
+ztfbgCstqEyes'fFigbRSYDsLjg=xpt?bsstfES	d:nqahqwEhuLtyl@zlbtgeLofsMfq^
+kJdgryrAitNex&kKactjrkjyzjv^tF?bbX`LWX8Xd%xqxbceHhstFqi-fnfvyjwu
+jAdwojFA_MSui!jqgkpnLppGMee+jlNCTHryfvIwh|frptbgGvlLtfr%fEftkfDzatHid_gBt?
+CtftgeGufsBfw!glucilAuhsMyv;iFvtgesuesNmi/kljubfrAfQN]m+zqsejfFnfn
+Y6FXGS~gpICsi%fFicveLofsJws%AoftueGmaMBjd*trptofLppGtBm-rltgveLofsNjv_y
+lAsbvmwgtMush@xpa-k wb.sxjz^rAqbftuBnxHy[:EBfbfjxpoBNns+ylgqteLofsOxi/y
+uravjjAyaILth;iFt_?euyftNnr"fmaukyMhuBIsd:nmubynDsauyet/unmgofLpdtFej=x
+gzakpxLpuNNns+fxjmgeLofs6nf/gDzbqkrJpGAwi|yfayjnuoaPCqp!nmwgbyGgexuqd>oFi
+ztfbFYVzaBHex&klfxgsLguAuyd@fyvnvnHsjvCyC!uravjjEgexPjp=vE?bbYzBtm
+tGngttMzaIytt-klbtgeKlfDCsk!gltvcsvhswtgy:fobpptLggBHid:nqavclrzfMtyl@z
+Cumnbgwgbvwjt:gnmgbyGguAyrd@tpavjjAyavFni+zE?bbX8LSUYWKTSoRWGJ6gbzLji%
+CuujbyzptsPni> lbpfeKhjwtyl@zlujgeKpuNuym=tlxcueAuattBe,fIptujggatNyi_vFjpi
+zAawpnxFatLgm:xmsAbI`KtsLjw^snmgfesAuxGux*tsavqeMujySee!SMSEbwwjpKxeA*ztac
+hucnktyybIBng!xqdqtirkpGyee$iAsfksyguHtyl^f2swuxAhosCsw:xGdvktFz?
+GodqtiAuhsNtdnZQWGPXlguACxd|oFvcvnGuaHwhy/xqebxjJFaxuwp,fuobvmwgqKIhi|yg
+
+3MUGTXryfvuqp^jlgtqrrlbKFDd%oEdwuxAvoLttr!VDplghLgPIysd}uAlbvmwgdHHhi/t
+uraocsQgqxIup^fFicveElsxFDd#ElqtqiMjjGAem_gsfu?e8VCsQfw!tAubtjssmR
+kzicphAuhsCsx^rxfevzssatwhi|yluqbyzlaFuyi/omm}be6lwxLyl^rqtu?eFvusQnw&ozh
+zAaqxjJlnIBfw*FqavjjrvqIIxm:oAobdjLDfxHem_gsjpiesueszzp-fFfzv	r4B!YWW
+yFbvgirAitNeTjHlwkgBKghxNym+mlujgeAtbzyxd@ylbbhnJzusMyi[fFpycwvgqHMxm#rK
+iAoxgwLpoztys!lGmnbywEusNmv=AsibemsybvNjv!xqdqisAAjHH	d*llujgeLldAHtp=mK
+oEacruJvqKCfx^alaYCYWYTsuqw=fqnrjfKpAxxex&gFagphGkjGAem|fuoxqqNlesyAi+
+CuujbfrzfMttj!oybigxm
+
+Y2FTDJ0N_6wVY KZaciwwlesQnx&f9BVGW~guAuyd=tqaecsrjsxuyi!gzaUIR4geHwzq^tF
+iAoukxLpoztBl=rxzbqkrpntAjw8flBvbkAytMtxm"nF.bqwyhoBTnr"fsscrmAjaBGfk^y
+CuujbfFgTZ7Qd%uovogsLgntSer=zltggrrApsIkj^xlhtgfLgbwPfr:gsfu?etBusNmi
+gpwcpysnfLttj!ztfbuhzlnxt2EoK4TbfjKjsBvjh!CAvnfetlaILjg*yqmAbyzhu
+gnjnkyQguHtrs<kljpvtrzpFyyl*tsavjfLgjLtrs/klphbfrtvENnq^jubbftuBnxHy\
+gldqogAubMCtr!uravtfFzdKCgi%fFfzvesuesJfk^funcijKbas%JM}KXaeqsuBsKyid*t
+ztjuboMkhFysx7fAghgwAuhsyAm%kzdgbkJvns0ws(koubCISWUmtBl^xqacbusnfsCx
+juwkfjvgjGNtd:kJubgqwtfGNxd@tpaitfHojvtjp^sqovu	rhowtnr!lmdvbyzlaMyCx
+kxfogsLzatLjd=xsbpkEwkauSeg=rGnpuesuesFnr^ygabVmwzfsFnr^ylncAetlaNMjh!gE
+ztfbdfKptsztv!jutvtntBuBHld%uovogsLzaBHee!tquyqwCgfGPnv=tyfpv rgBLttr^
+jqwgntHzaLIkx>gDfbksLlmECli+zlfpqzyoaMIev^iAhpkEwgxAuyd:nAtgbjDlnxHyw
+gDf?bnLgntEjw!yqougeLvatJup,f5HONeLvatHem_gsfbksAAjtFqC7fFicveEhzmtnr
+lmdv?eMsuBGfx^rKadghGtfsGtv^fmofbrGyfsNjB: lfkvmwyaMBws;mtaQEWrvssyim:kp
+UOSbqwrlwxHen;yFavjwGBhAtpi,ozh}beXvss%FX X5.bvmwgmtvtv!uraeqrHvtBHld:nq
+jAdwojFAatHid|gKjpieLojLtxi:fAgbftuBnxHyw!uDavjnKgtxNes'funcijKgcxFtr"y
+zAavjnKgeHwzq^tFaeqsKAjMOyi|fmauklFpgBwfr:fuoxgxLtfGN 
+
+3QJDGQrhmLIeq@jqavjjrwpBHyd:nmubvmwgBT0ex@mltgvxlgxACqi!tAubgCultLCAi-E
+vDfuewAwuBPj{!urggtesgdHGrs+fEuctyAuhsJtm+zbavjjQgeHtss:fpfhkswguAy
+yFsweyMyfsIkd:nqafqhMtfGNx{!ztpwimmga!BjC!nmwgbxGtfsLjg=syfpffLppGMee#uGu
+J6EubtFlavIzp%fGtgbfKgfQurt-kE.bdzLguAyDd%ulkwuyrzvzAjw:fFbibxwAtntedauD
+kJborqwaaMBjd{U4FbrwGqfvNee:zqnrvxrApsOxi!ztfbCF8gntLpy[fmtbozuoatM
+vAtukgDl.svzx!ztftgesyfswqi@xxzbcwwhtsQmi/kltvtzuAvKyeq;yFadgeskexx 
+ZtbvbnFgoHtBe,foppvwskjvNxd:nqawujrvgsUFT!zmhbujLz?
+
+Y2FTDJ0N_6wVY KZapqywkaMBfx!ztfbVJ1gqKyue/kpacbqGuhsQtv)ozhbrfHlssyfv-E
+uzacdtMAaMBjd?G2avclrzfMtfr%fIicveAAaEuho^jlujcyrAixtYIdfFiqwlzAaBN
+tqffgilgbGxee!lmjtnDrspGAeg/oFjswjrvgsNmi!tmnkplrjpGPjr:oAou?eOojvBel@y
+rqebvtrhaOywC!jughgwwuusMyC-klphbsstjGAem+fFigbYWP?stMi!yFsguxwkaMBj
+oyqqtysudxttj!ztfbquHvtBNns+fnfvyjwuaILjw$xuqvkAwgntLpy[ lujgeCpowtyl@zlb
+vGcnkxzlssIwd@tKcqfDrjbGtis!CtfpbuJveNwnr"fppewrwuuLtii!tAwq?esue
+jqtetnHAjOyeq@xwvr?eAuaPBng&fAogbmszaMIex@qqayjfLguAyex^DFaecwJpfK
+vDpxkiwz?stNr!ztfugeHhsMChy-gDavclrzfMMem:futbgfKFaMIes<kDformszjSyex&oE
+uBqqunLppGnef^imvugeLofsUFT!zmhbujLgjLtjB:xqngnDrmmxRnf-kgabGAwuaBzes+k
+pGtvbzKlesNmi!J6Eu?eLofRtfp-uIacnrGzususC:nuoibyGgbIJje/fmmoqxLgbGSBl^xq?
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+YQTUKT6gW2oed{U2ZTKLZ1a2!XY Y
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+VQUGTXr[a`yAi/gxaeczLppGMeg=toftpnFnavIuC/osivbnFgbGtjp^iFsqpnu
+kzwkttFtfGNe_!XqwkgBrvgswtt,xuhjveDhxsCsd:nqaWpnLles!ye:kEa)bYzlaGIym=t
+uravjjrwvuFng!mApfbfFkaMBjd%kEjtcgAsjMSes'fuoegsLpwxMex=fBsqotLlaBNe_
+3tbvbhGwzKCll:fBsqvjuAts{e1=xwtbptLgqKIyi$zqebdDrjpISwm"nFa)bYzlaKCll:y
+uraequQyjzByd&uxegtxr[a9Ogp*ytftu)rjpGwjv+yljpbyGkbR.xd^rqdvttFpd
+kzwkttFtfGNe_!IAnrwqKvsRtqm$kztgue?gUAyet/oofbqkrjpISwm"nFakpesgeBAnx@r
+sqekwrrhowtyl^fzfgfexvsswts[kDbvktFg(sUih*zuppcqrjmtLnj*imukqsKg(stWs;mt
+pGtvkhwgpyNjr:oyfubyzlaHOyg=sqakpeFBnxLty|foprAwAniMtre:zqsub+rJpISwm"nF
+ozacpewsfvNws+ooauqhAluRt+d{uBztklzAaEuBd@rIbAueGumRtxi:ylvrbyzl
+hAvpffJpfLjee+EFikplrjbGtgi!itbpijvgcRths+zDbeve?
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+SmsAdjLoa9YYImYfarqqAjzsJqe+tuoibfvCjLywd:ulujge0lhBMyi/fAgbEtHFsBAmx| 
+RuctcwQgpytHs+mDfuu	rgaFuii!yqwgtfDghxHjv@rldqorwuuLtfr%fFigpeGwfGyid:nq
+lxpqteLvawCxg;yEjqpeGmaLOgn^iFtbqkrpoMywi|zluqbyzlatOim^tof}
+
+NmwkplrhuMysh^jltgxjJhmsMjw|oAoubnFgbGtjj'uDubvtrnbBHee!yqougeGmaPBf

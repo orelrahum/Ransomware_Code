@@ -1,0 +1,34 @@
+in the narrow technical sense.  Michael SPERBERG-McQUEEN made a forceful
+presentation on the Text Encoding Initiative's (TEI) implementation of
+the Standard Generalized Markup Language (SGML).  His ideas were echoed
+by Susan HOCKEY, Elli MYLONAS, and Stuart WEIBEL.  While the
+presentations made by the TEI advocates contained no practicum, their
+discussion focused on the value of the finished product, what the
+European Community calls reusability, but what may also be termed
+durability.  They argued that marking up--that is, coding--a text in a
+welllSco_c%i2%J <G5 <ill V%rSi| i| |o @% So2%J froS o_% coSVu|%r
+%_2iro_S%_| |o G_o|"%r, GY <%ll GY |o @% uY%J @5 2GriouY uY%rYA  _<o
+(i_JY of SGr(uV <%r% JiY|i_MuiY"%Ju  ul Vroc%JurGl SGr(uV, <"ic"
+J%Ycri@%Y |"% f%G|ur%Y of G |%x| (%AMA, Jo|Y o_ G VGM%l, G_J 2l
+J%YcriV|i2% SGr(uV, <"ic" J%Ycri@%Y |"% Y|ruc|ur% or %l%S%_|Y of G
+JocuS%_| (%AMA, c"GV|%rY, VGrGMrGV"Y, G_J fro_| SG||%rlA
+
+_"% _~c VroVo_%_|Y %SV"GYi,%J |"% iSVor|G_c% of |%x|Y |o Yc"olGrY"iVA
+_"%5 %xVlGi_%J "o< "%G2il5 coJ%J (G_J |"uY G_Gl5,%J G_J G__o|G|%Jl |%x|Y
+cG_ u_J%rli% r%Y%Grc", VlG5 G rol% i_ Yc"olGrl5 coSSu_icG|io_, G_J
+fGcili|G|% clGYYrooS |%Gc"i_MA  SP~l8~lGSMc(o~~" r%Si_J%J liY|%_%rY |"G|
+G <ri||%_ or Vri_|%J i|%S (%AMA, G VGr|iculGr %Ji|io_ of G @oo(l iY
+S%r%l5 G r%Vr%Y%_|G|io_ of |"% G@Y|rGc|io_ <% cGll G |%x|A  _o co_c%r_
+ourY%l2%Y <i|" fGi|"full5 r%VroJuci_M G Vri_|%J i_Y|G_c% of |"% |%x|,
+SP~l8~lGSMc(o~~" GrMu%J, iY |o co_c%r_ ourY%l2%Y <i|" |"% r%Vr%Y%_|G|io_
+of G r%Vr%Y%_|G|io_ ("iSGM%Y GY YiSulGcrG for |"% |%x|"lA  _"% _~c VroVo_%_|YM
+i_|%r%Y| i_ iSGM%Y |%_JY |o focuY o_ corollGr5 SG|%riGlY for uY% i_ |%Gc"i_M,
+for %xGSVl%, V"o|oMrGV"Y of |"% AcroVoliY |o GccoSVG_5 G Gr%%( |%x|A
+
+85 |"% %_J of |"% [or(Y"oV, SP~l8~lGSMc(o~~" co_f%YY%J |o "G2i_M @%%_
+co_2%r|%J |o G liSi|%J %x|%_| |o |"% 2i%< |"G| %l%c|ro_ic iSGM%Y
+co_Y|i|u|% G VroSiYi_M Gl|%r_G|i2% |o SicrofilSi_M2 i_J%%J, G_
+Gl|%r_G|i2% Vro@G@l5 YuV%rior |o SicrofilSi_MA  8u| "% <GY _o| co_2i_c%J
+|"G| %l%c|ro_ic iSGM%Y co_Y|i|u|% G Y%riouY G||%SV| |o r%Vr%Y%_| |%x| i_
+%l%c|ro_ic forSA  @i}%~Y G_J MYfi"AS GlYo co_c%J%J |"G| |"%ir %xV%ri%_c%
+G| |"% Pi%rc% S5SVoYiuS |"% Vr%2iouY <%%( G| G%orM%|o<_ o_i2%rYi|5 G_

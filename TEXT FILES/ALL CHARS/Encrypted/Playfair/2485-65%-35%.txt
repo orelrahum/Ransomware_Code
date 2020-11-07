@@ -1,0 +1,26 @@
+Terrain:
+    low plain
+Natural resources:
+    minimal; amber, peat, limestone, dolomite
+Land use:
+    27% arable land; NA% permanent crops; 13% meadows and pastures; 39% forest
+    and woodland; 21% other; includes NA% irrigated
+Environment:
+    heightened levels of KUN EWR NYPQE HUXFNGMUW SQNQHLY HU L FLDQ UZ NYBPY
+    WMDLSEVHUW QAOHTHARF; PNFZ UP NDIE UQYGDXA ZHXVMFKR
+
+:FLGBUK HSHZSA
+
+ZHFHFLGMUW:
+    2,728,937 (HOXA 1992), PDWYPM NEPQ 0.6% (1992)
+VMCPR EQFY:
+    15 VMCPRP/1,000 ZHFHFLGMUW (1992)
+RKQFR EQFY:
+    12 RKQFRP/1,000 ZHFHFLGMUW (1992)
+RAM CDINEGMUW NEPQ:
+    4 UHPDLAPB/1,000 ZHFHFLGMUW (1992)
+UDULCF UICPLFMGE WQFY:
+    19 RKQFRP/1,000 VUSK VMCPRP (1992)
+VUPA YSHSQMLAWQ QF VMCPO:
+    65 KQENB HLFQ, 75 KQYEP PAUQSA (1992)
+ZMFQF USEGMVUZQ NEPQ:

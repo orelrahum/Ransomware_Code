@@ -1,0 +1,13 @@
+    desert; continental (large daily and seasonal temperature ranges)
+Terrain:
+    vast semidesert and desert plains; mountains in west and southwest; Gobi
+    Desert in southeast
+Natural resources:
+    oil, coal, copper, molybdenum, tungsten, phosphates, tin, nickel, zinc,
+    wolfram, fluorspar, gold
+Land use:
+    arable land 1%; permanent crops 0%; meadows and pastures 79%; forest and
+    woodland 10%; other 10%; includes irrigated NEGL%
+Environment:
+    harsh and rugged
+Note:

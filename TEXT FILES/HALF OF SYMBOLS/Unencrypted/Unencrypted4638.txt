@@ -1,0 +1,13 @@
+Exports:
+    16 million f.o.b., 1990 est.
+  commodities:
+    vanilla, cloves, perfume oil, copra, ylangylang
+  partners:
+    US 53, France 41, Africa 4, FRG 2 1988
+Imports:
+    41 million f.o.b., 1990 est.
+  commodities:
+    rice and other foodstuffs, cement, petroleum products, consumer goods
+  partners:
+    Europe 62 France 22, Africa 5, Pakistan, China 1988
+External debt:

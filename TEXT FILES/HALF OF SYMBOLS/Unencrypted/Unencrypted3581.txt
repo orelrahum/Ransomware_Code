@@ -1,0 +1,26 @@
+identification for automated access and retrieval, and accommodating
+bound volumes and fragile material.
+
+To maintain high image quality, image processing functions are required
+to correct the deficiencies in the scanned image.  Some commercially
+available systems include these functions, while some do not.  The
+scanned raw image must be processed to correct contrast deficiencies
+both poor overall contrast resulting from light print andor dark
+background, and variable contrast resulting from stains and
+bleedthrough.  Furthermore, the scan density must be adequate to allow
+legibility of print and sufficient fidelity in the pseudohalftoned gray
+material.  Borders or pageedge effects must be removed for both
+compactibility and aesthetics.  Page skew must be corrected for aesthetic
+reasons and to enable accurate character recognition if desired.
+Compound images consisting of both twotoned text and grayscale
+illustrations must be processed appropriately to retain the quality of
+each.
+
+SESSION IVC
+
+Jean BARONAS
+
+Standards publications being developed by scientists, engineers, and
+business managers in Association for Information and Image Management
+AIIM standards committees can be applied to electronic image management
+EIM processes including:  document image transfer, retrieval and

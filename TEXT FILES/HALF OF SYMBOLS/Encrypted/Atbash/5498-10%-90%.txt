@@ -1,0 +1,24 @@
+    woodland 21 other 34
+Environment:
+    deforestation
+Note:
+    landlocked
+
+:Luxembourg People
+
+Population:
+    392,405 July 1992, growth rate 1.0 1992
+Birth rate:
+    12 births1,000 population 1992
+Death rate:
+    10 deaths1,000 population 1992
+Net migration rate:
+    7 migrants1,000 population 1992
+Infant mortality rate:
+    8 deaths1,000 live births 1992
+Life expectancy at birth:
+    73 years male, 80 years female 1992
+Total fertility rate:
+    1.6 children bornwoman 1992
+NatiLMZORGB:
+    MLFM  OFCVNYLFITVIH ZWQVXGREV  OFCVNYLFIT

@@ -1,0 +1,61 @@
+Exports:
+    NA
+  commodities:
+    tomatoes, flowers and ferns, sweet peppers, eggplant, other vegetables
+  partners:
+    UK regarded as internal trade
+Imports:
+    NA
+  commodities:
+    coal, gasoline, and oil
+  partners:
+    UK regarded as internal trade
+External debt:
+    NA
+Industrial production:
+    growth rate NA
+Electricity:
+    173,000 kW capacity 525 million kWh produced, 9,340 kWh per capita 1989
+Industries:
+    tourism, banking
+Agriculture:
+    tomatoes, flowers mostly grown in greenhouses, sweet peppers, eggplant,
+    other vegetables and fruit Guernsey cattle
+Economic aid:
+    none
+Currency:
+    Guernsey pound plural  pounds 1 Guernsey G pound  100 pence
+Exchange rates:
+    Guernsey pounds G per US1  0.5799 March 1992, 0.5652 1991, 0.5603
+    1990, 0.6099 1989, 0.5614 1988, 0.6102 1987 note  the Guernsey
+    pound is at par with the British pound
+Fiscal year:
+    calendar year
+
+:Guernsey Communications
+
+Ports:
+    Saint Peter Port, Saint Sampson
+Telecommunications:
+    broadcast stations  1 AM, no FM, 1 TV 41,900 telephones 1 submarine cable
+
+:Guernsey Defense Forces
+
+Note:
+    defense is the responsibility of the UK
+
+:Guinea Geography
+
+Total area:
+    245,860 km2
+Land area:
+    245,860 km2
+Comparative area:
+    slightly smaller than Oregon
+Land boundaries:
+    3,399 km GuineaBissau 386 km, Ivory Coast 610 km, Liberia 563 km, Mali 858
+    km, Senegal 330 km, Sierra Leone 652 km
+Coastline:
+    320 km
+Maritime claims:
+  Exclusive economic zone:

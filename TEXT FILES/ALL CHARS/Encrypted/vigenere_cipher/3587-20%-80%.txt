@@ -1,0 +1,350 @@
+
+10:30-
+11:00 AM  Break
+
+11:00 AM  Session IV.  Image Capture, Text Capture, Overview of Text and
+          Image Storage Formats (Cont'd.).
+
+          C) Image Standards and Implications for Preservation
+
+          Jean Baronas, Senior Manager, Department of Standards and
+             Technology, Association for Information and Image Management
+             (AIIM)
+          Patricia Battin, President, The Commission on Preservation and
+             Access (CPA)
+
+          D) Text Conversion:
+             OCR vs. rekeying
+             Standards of accuracy and use of imperfect texts
+             Service bureaus
+
+          Stuart Weibel, Senior Research Specialist, Online Computer
+             Library Center, Inc. (OCLC)
+          Michael Lesk, Executive Director, Computer Science Research,
+             Bellcore
+          Ricky Erway, Associate Coordinator, American Memory, Library of
+             Congress
+          Pamela Q.J. Andre, Associate Director, Automation, and
+          Judith A. Zidar, Coordinator, National Agricultural Text
+             Digitizing Program (NATDP), National Agricultural Library
+             (NAL)
+
+12:30-
+1:30 PM   Lunch
+
+1:30 PM   Session V.  Approaches to Preparing Electronic Texts.
+
+          Discussion of approaches to structuring text for the computer;
+          pros and cons of text coding, description of methods in
+          practice, and comparison of text-coding methods.
+
+          Moderator:  Susan Hockey, Director, Center for Electronic Texts
+             in the Humanities (CETH), Rutgers and Princeton Universities
+          David Woodley Packard
+          C.M. Sperberg-McQueen, Editor, Text Encoding Initiative (TEI),
+             University of Illinois-Chicago
+          Eric M. Calaluca, Vice President, Chadwyck-Healey, Inc.
+
+3:30-
+4:00 PM   Break
+
+4:00 PM   Session VI.  Copyright Issues.
+
+          Marybeth Peters, Policy Planning Adviser to the Register of
+             Copyrights, Library of Congress
+
+5:00 PM   Session VII. Conclusion.
+
+          General discussion.
+          What topics were omitted or given short shrift that anyone
+             would like to talk about now?
+          Is there a "group" here?  What should the group do next, if
+             anything?  What should the Library of Congress do next, if
+             anything?
+          Moderator:  Prosser Gifford, Director for Scholarly Programs,
+             Library of Congress
+
+6:00 PM   Adjourn
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                         Appendix II:  ABSTRACTS
+
+
+SESSION I
+
+Avra MICHELSON           Forecasting the Use of Electronic Texts by
+                         Social Sciences and Humanities Scholars
+
+This presentation explores the ways in which electronic texts are likely
+to be used by the non-scientific scholarly community.  Many of the
+remarks are drawn from a report the speaker coauthored with Jeff
+Rothenberg, a computer scientist at The RAND Corporation.
+
+The speaker assesses 1) current scholarly use of information technology
+and 2) the key trends in information technology most relevant to the
+research process, in order to predict how social sciences and humanities
+scholars are apt to use electronic texts.  In introducing the topic,
+current use of electronic texts is explored broadly within the context of
+scholarly communication.  From the perspective of scholarly
+communication, the work of humanities and social sciences scholars
+involves five processes:  1) identification of sources, 2) communication
+with colleagues, 3) interpretation and analysis of data, 4) dissemination
+of research findings, and 5) curriculum development and instruction.  The
+extent to which computation currently permeates aspects of scholarly
+communication represents a viable indicator of the prospects for
+electronic texts.
+
+The discussion of current practice is balanced by an analysis of key
+trends in the scholarly use of information technology.  These include the
+trends toward end-user computing and connectivity, which provide a
+framework for forecasting the use of electronic texts through this
+millennium.  The presentation concludes with a summary of the ways in
+which the nonscientific scholarly community can be expected to use
+electronic texts, and the implications of that use for information
+providers.
+
+Susan VECCIA and Joanne FREEMAN    Electronic Archives for the Public:
+                                   Use of American Memory in Public and
+                                   School Libraries
+
+This joint discussion focuses on nonscholarly applications of electronic
+library materials, specifically addressing use of the Library of Congress
+American Memory (AM) program in a small number of public and school
+libraries throughout the United States.  AM consists of selected Library
+of Congress primary archival materials, stored on optical media
+(CD-ROM/videodisc), and presented with little or no editing.  Many
+collections are accompanied by electronic introductions and user's guides
+offering background information and historical context.  Collections
+represent a variety of formats including photographs, graphic arts,
+motion pictures, recorded sound, music, broadsides and manuscripts,
+books, and pamphlets.
+
+In 1991, the Library of Congress began a nationwide evaluation of AM in
+different types of institutions.  Test sites include public libraries,
+elementary and secondary school libraries, college and university
+libraries, state libraries, and special libraries.  Susan VECCIA and
+Joanne FREEMAN will discuss their observations on the use of AM by the
+nonscholarly community, using evidence gleaned from this ongoing
+evaluation effort.
+
+VECCIA will comment on the overall goals of the evaluation project, and
+the types of public and school libraries included in this study.  Her
+comments on nonscholarly use of AM will focus on the public library as a
+cultural and community institution, often bridging the gap between formal
+and informal education.  FREEMAN will discuss the use of AM in school
+libraries.  Use by students and teachers has revealed some broad
+questions about the use of electronic resources, as well as definite
+benefits gained by the "nonscholar."  Topics will include the problem of
+grasping content and context in an electronic environment, the stumbling
+blocks created by "new" technologies, and the unique skills and interests
+awakened through use of electronic resources.
+
+SESSION II
+
+Elli MYLONAS             The Perseus Project:  Interactive Sources and
+                         Studies in Classical Greece
+
+The Perseus Project (5) has just released Perseus 1.0, the first publicly
+available version of its hypertextual database of multimedia materials on
+classical Greece.  Perseus is designed to be used by a wide audience,
+comprised of readers at the student and scholar levels.  As such, it must
+be able to locate information using different strategies, and it must
+contain enough detail to serve the different needs of its users.  In
+addition, it must be delivered so that it is affordable to its target
+audience.  [These problems and the solutions we chose are described in
+Mylonas, "An Interface to Classical Greek Civilization," JASIS 43:2,
+March 1992.]
+
+In order to achieve its objective, the project staff decided to make a
+conscious separation between selecting and converting textual, database,
+and image data on the one hand, and putting it into a delivery system on
+the other.  That way, it is possible to create the electronic data
+without thinking about the restrictions of the delivery system.  We have
+made a great effort to choose system-independent formats for our data,
+and to put as much thought and work as possible into structuring it so
+that the translation from paper to electronic form will enhance the value
+of the data. [A discussion of these solutions as of two years ago is in
+Elli Mylonas, Gregory Crane, Kenneth Morrell, and D. Neel Smith, "The
+Perseus Project:  Data in the Electronic Age," in Accessing Antiquity:
+The Computerization of Classical Databases, J. Solomon and T. Worthen
+(eds.),  University of Arizona Press, in press.]
+
+Much of the work on Perseus is focused on collecting and converting the
+data on which the project is based.  At the same time, it is necessary to
+provide means of access to the information, in order to make it usable,
+and them to investigate how it is used.  As we learn more about what
+students and scholars from different backgrounds do with Perseus, we can
+adjust our data collection, and also modify the system to accommodate
+them.  In creating a delivery system for general use, we have tried to
+avoid favoring any one type of use by allowing multiple forms of access
+to and navigation through the system.
+
+The way text is handled exemplifies some of these principles.  All text
+in Perseus is tagged using SGML, following the guidelines of the Text
+Encoding Initiative (TEI).  This markup is used to index the text, and
+process it so that it can be imported into HyperCard.  No SGML markup
+remains in the text that reaches the user, because currently it would be
+too expensive to create a system that acts on SGML in real time.
+However, the regularity provided by SGML is essential for verifying the
+content of the texts, and greatly speeds all the processing performed on
+them.  The fact that the texts exist in SGML ensures that they will be
+relatively easy to port to different hardware and software, and so will
+outlast the current delivery platform.  Finally, the SGML markup
+incorporates existing canonical reference systems (chapter, verse, line,
+etc.); indexing and navigation are based on these features.  This ensures
+that the same canonical reference will always resolve to the same point
+within a text, and that all versions of our texts, regardless of delivery
+platform (even paper printouts) will function the same way.
+
+In order to provide tools for users, the text is processed by a
+morphological analyzer, and the results are stored in a database.
+Together with the index, the Greek-English Lexicon, and the index of all
+the English words in the definitions of the lexicon, the morphological
+analyses comprise a set of linguistic tools that allow users of all
+levels to work with the textual information, and to accomplish different
+tasks.  For example, students who read no Greek may explore a concept as
+it appears in Greek texts by using the English-Greek index, and then
+looking up works in the texts and translations, or scholars may do
+detailed morphological studies of word use by using the morphological
+analyses of the texts.  Because these tools were not designed for any one
+use, the same tools and the same data can be used by both students and
+scholars.
+
+NOTES:
+     (5)  Perseus is based at Harvard University, with collaborators at
+     several other universities.  The project has been funded primarily
+     by the Annenberg/CPB Project, as well as by Harvard University,
+     Apple Computer, and others.  It is published by Yale University
+     Press.  Perseus runs on Macintosh computers, under the HyperCard
+     program.
+
+Eric CALALUCA
+
+Chadwyck-Healey embarked last year on two distinct yet related full-text
+humanities database projects.
+
+The English Poetry Full-Text Database and the Patrologia Latina Database
+represent new approaches to linguistic research resources.  The size and
+complexity of the projects present problems for electronic publishers,
+but surmountable ones if they remain abreast of the latest possibilities
+in data capture and retrieval software techniques.
+
+The issues which required address prior to the commencement of the
+projects were legion:
+
+     1.   Editorial selection (or exclusion) of materials in each
+          database
+
+     2.   Deciding whether or not to incorporate a normative encoding
+          structure into the databases?
+               A.  If one is selected, should it be SGML?
+               B.  If SGML, then the TEI?
+
+     3.   Deliver as CD-ROM, magnetic tape, or both?
+
+     4.   Can one produce retrieval software advanced enough for the
+          postdoctoral linguist, yet accessible enough for unattended
+          general use?  Should one try?
+
+     5.   Re fair and liberal networking policies, what are the risks to
+          an electronic publisher?
+
+     6.   How does the emergence of national and international education
+          networks affect the use and viability of research projects
+          requiring high investment?  Do the new European Community
+          directives concerning database protection necessitate two
+          distinct publishing projects, one for North America and one for
+          overseas?
+
+From new notions of "scholarly fair use" to the future of optical media,
+virtually every issue related to electronic publishing was aired.  The
+result is two projects which have been constructed to provide the quality
+research resources with the fewest encumbrances to use by teachers and
+private scholars.
+
+Dorothy TWOHIG
+
+In spring 1988 the editors of the papers of George Washington, John
+Adams, Thomas Jefferson, James Madison, and Benjamin Franklin were
+approached by classics scholar David Packard on behalf of the Packard
+Humanities Foundation with a proposal to produce a CD-ROM edition of the
+complete papers of each of the Founding Fathers.  This electronic edition
+will supplement the published volumes, making the documents widely
+available to students and researchers at reasonable cost.  We estimate
+that our CD-ROM edition of Washington's Papers will be substantially
+completed within the next two years and ready for publication.  Within
+the next ten years or so, similar CD-ROM editions of the Franklin, Adams,
+Jefferson, and Madison papers also will be available.  At the Library of
+Congress's session on technology, I would like to discuss not only the
+experience of the Washington Papers in producing the CD-ROM edition, but
+the impact technology has had on these major editorial projects.
+Already, we are editing our volumes with an eye to the material that will
+be readily available in the CD-ROM edition.  The completed electronic
+edition will provide immense possibilities for the searching of documents
+for information in a way never possible before.  The kind of technical
+innovations that are currently available and on the drawing board will
+soon revolutionize historical research and the production of historical
+documentAtnteY+lAsvwssAfES	d_AoibqkrAiBMer^ClugemFvmHADd*yloqvetljGAey|kp
+ozavjjrwmtHsm+mltvclwzaHzel*yFptkhssaILtn^iFt?bxAtqESef^imvugeEhoR
+nutvqwAhoLtfv^fmxctjrvoESem+fFigbAsnvxMyd>gKaqheAAtsyCm|zqoeg rgBMtqi@yF
+zIpbofBvssHjA!nutvqwAjbEtjh*zuoibuJvkxwyw!gDfbetFzjwywm+mlnkewGmjEG
+kpjvktFz.sMnq[rKadghsBtxtyl^ElbtgeFvusuBe/klphbyzlaIIxw*humkvnwzaHz
+kxfevwGujvtfp:kDocvnNltsush!ztfbciNhoMuli|fAgbvmwgoxQex^itoqntyFaBHex^xyt
+urahnjPpcBFnx,fmofbwwzftLhl!vAugpyAhmswtq[gDffbyGgnBwws'oxn}be1uayuhx7
+zApbofFFaHzey|fuobjnKApKSee+jlmkvjJhuNLjd@xqauvnDsatNex&kltvclwgpy
+yFswilDpoztBm:nlpwte8JtnteX&kDfbcwwgntHDd&oEuqtnuhmsyim:uDjcneHypCyhx|fuo
+vDpitjKzaILjw^tFmA?esuesusd^wGbnbsMtcxLes'fxjvgwsyzsJws(kouu}er4iBFjd:nq
+zIpbhnwseLtme<kltqojOobMtim'lqsgpyrhqILte$nqtbvtrAfQNze-fqekvnFn.sNmi/k
+gDfbyfQzaBHeA&ooibgqwjuKIsm$fFfejsGspzSeg@tlcgbtxgtxLAm$kluqbgGAin
+
+YuoegexlxsIkd:nqagfnLvsLtnr<uxwgfeAuaMBjdauGofksygGtNmi/ylDF+W7Taxxnx*uzt
+gDfbvjuooBwfp!kJqgtyKgjGtfr,fEfpujlgJsBtt^fFpbrtAuusIzx!ozaoAevptvOxw*uz
+uraqwwrlyIywm^tofbjtOgntHDd=llujgxwgfEyhx/uzjebnFupOuym=tEaecsrifsOxi%
+yGdegxKmvEFDd#EltejtDhsLtBl=fmsgbsGCjvyxd*tlujgeOvsExes'fzfybywjiGIqs"Eg
+UzfbqkrAixtre(uDaeqsulsGMes'fFigbxHvoLIww!uravjjrtvENnx;jqaqheFlx
+yoiqnfJszsyim:oAoubnKguAyep*suugfesBeBysg^fDfcemwkauSex&klqwdqAzixx
+BAmwojKbas7tw:fAgbvmwzfsyim:oAoubfJlauynr"fBvdnnKofwtnr!yybnneIBbGNnx*kE
+gzebvmwgqNvqm|nqsu&eHyjvyej=xlujgrrwvMMex&kyaqwyrvgsNmi!xqbejeFvusIsp,fAg
+ozekxnvBbEtxg&uxbtuetBusIkd_uEubrztsjvtqm#xmskgxrhowtfp-fnvvbyzlaEuwk^yF
+kpvecyAvotFem+yFjvwyAvoLoedcuIfxgwlgmBNyp^fmuvgsLppGtnw!hqjpieypwxHex=
+CmzubnFgxAChl!zqdjptDvhRthe+fnzrcxKgdHHAi+zuppcqrwvuFng@zuppbyGgntEj
+nutvqwAjbEtfr%fxjvgwsyzsxtg;sqovueEvsxtBm%kxzbcAspmtvqi8
+
+3tbvbfLAstwyi%fGtbotKAaMIex&klDF+W7Taxxnx*uzaqhe`ofs0ft^xEaqheYlpKAj
+3mtjksyApGtBe|fFigbksjusNme:fPbxkirWbvEfv%-EackrrDbLtys!smlgbfrjpFJqi:k
+kpjvktFgpytfp-fAgbvmwg2*-	@E$leqezEloMMeA^ftbxgeuvmEyhx^jlbxcnDhcEyem+fmo
+ozfzrjFzjOyej=xybvbyzhusQty-jlcgbuDhdxxem+fBvdnnugmBvwe/oqt?bxEhmE
+iAmnglwz.sush!kHfpbmAnisMhl=uxt}be`ojLtBs;rparttNpextfr!gGekgsulayuw
+hqzqpirvvKtuv^yqovb6l%~[ahs[Efa^60rwvuFnw&kpagfnLppGoednozdgbyzlaVX]VjS
+kpjvktFgxBFqd$gDsAbsGufsIkd:nqagzuDhotNtv,fmopqysAjHHex&gFacruwhsLtnr!ztf
+vGcnkxzlesPtp;sqt?bBwgbEMtd'kqmbvmsAaMBjd;yqaqheLofsWI[mUYaykqDgmxuid_gzz
+xqtgcwuofKMex=fEfgmeGBusNmi!vGcnkxzlesPtp;sqt}
+
+OzacfiAAjHHex=fuhpqwsudxttj!tqxbvjuooBwfp!gpwcphwz.s3el@BqahqzFkaMBfx!zAp
+smoAbjvpuHLx[TgzebjnKApKCfr|fmofbqAAfKuwC!yoiqnfJz_ uwi!xqtkuysuusush
+kHfpbmGzuBFjd:ultwilwzuBIsw!ztbvbjDldMLtr*ilugemFvmHADd_gKagpmsudxtyl^oD
+CAsm}erPaBHyi+jluqbiAzdNMxd|uyfbqkrAixtfv"AyfpvxrAstxnx*uzbnkxLzatLj
+gpwcphAuhsNtd/kEjuveLldAHtp=mK.btfFnjGAej/uyafkxLyvLNes'fFigbxHlfwtBm:n
+CtjejeAAavBfr"kEa-yjrhsxtfp/kmeAbBGuexLnr"fIicveAzaHOyd:nqsgbyzhusCx
+hquvgwrAitHeG	/4PO_eLvaLOxt*iuppbtxguAyex^itokefDgmtHly@mqawujvguH
+jqtetntlaxFjg:xAokeevlwxFtt_kzuu}
+
+Smskce4LC~9S
+
+ZtfbQsDpoxtOs;xzbnbtxgDNLwi+zlDnksAjbEtYv*gxt?bfrqpBHyd<kzuwtjrvgsNmi
+GyftkhsuaTMxs$omukqsrmpKtyl^fMexcsulnxHyd=llTekjFjfs	FE?Y>acpirAixtTr-ozf
+IAnrwywya5Cgv@xKaEgsLlsmtNr$al)QEQU/.sCxd:nqahkwKAaIyjvTxqwkgBwkaCIzv+gx
+zAarttNpextky-rlugzylgutvzp@xlncvjJpbEnee+jlmkpjrpmEOxx/gFjqpxrvosFnr^a
+ZtjubuJltxHye:oAobynDsawCxg;yEavjjrnfGyxm|fmofbxLhsMazt!vqskqirvgsNmi
+pAvtpfDbas@tt*iEaqhevptvOxw*uzaykqDgjGwqy%klikuyGyjvuqd=BqsxkjOa
+jmz+vt	kbRtre+gsfogsLgpytyl^fqekvtJpbEtui^xlsgxnwD.sush!smowuhJpqM
+zmhiksygbGxet;hxjecyAvonteE!jqnqpxLybMCtr!uravjjrqpNLse-fmofbnLzayyfx;xqt
+CumnbfujpFJfr,fFigbuJltxHye:oAo}
+
+RKopge8LS`9SMpY
+
+IAspgqDgVGCAi/yuuAbQAistLD{!IAspgqDgJGztv_gFjqpe`ldAHtp=mufu?esues^jv=D
+IAsrqwsAjHH	d>oFibvmwgtNJus/zlphbyzlaVIrq*yEjqpeGua9Ljw^xHbvktFgbG

@@ -1,0 +1,74 @@
+large a machine to design for situations when the largest number of users
+have the lowest level of the machine and one desires higher
+functionality  BESSER then proceeded to the question of file size and
+its implications for networking  He discussed still images in the main
+For example a digital color image that fills the screen of a standard
+megapel workstation Sun or Next will require one megabyte of storage
+for an eightbit image or three megabytes of storage for a true color or
+twentyfourbit image  Lossless compression algorithms that is
+computational procedures in which no data is lost in the process of
+compressing and decompressing an imagethe exact bitrepresentation is
+maintained might bring storage down to a third of a megabyte per image
+but not much further than that  The question of size makes it difficult
+to fit an appropriately sized set of these images on a single disk or to
+transmit them quickly enough on a network
+
+With these full screen megapel images that constitute a third of a
+megabyte one gets  fullscreen images on a onegigabyte disk
+a standard CDROM represents approximately  percent of that  Storing
+images the size of a PC screen just  bit color increases storage
+capacity to  images per gigabyte  percent of that gives
+one the size of a CDROM which in turn creates a major problem  One
+cannot have fullscreen fullcolor images with lossless compression one
+must compress them or use a lower resolution  For megabytesize images
+anything slower than a T speed is impractical  For example on a
+fiftysixkilobaud line it takes three minutes to transfer a
+onemegabyte file if it is not compressed and this speed assumes ideal
+circumstances no other user contending for network bandwidth  Thus
+JFVHGRLMH LU WRHP ZXXVHH IVNLGV WRHKOZB ZMW XFIIVMG GVOVKSLMV
+XLMMVXGRLM HKVVW NZPV GIZMHNRHHRLM LU NVTZYBGVHRAV RNZTVH RNKIZXGRXZO
+
+YVHHVI GSVM WRHXFHHVW DZBH GL WVZO DRGS GSVHV OZITV RNZTVH ULI VCZNKOV
+XLNKIVHHRLM ZMW WVXLNKIVHHRLM ZG GSV FHVIH VMW  RM GSRH XLMMVXGRLM GSV
+RHHFVH LU SLD NFXS LMV RH DROORMT GL OLHV RM GSV XLNKIVHHRLM KILXVHH ZMW
+DSZG RNZTV JFZORGB LMV MVVWH RM GSV URIHG KOZXV ZIV FMPMLDM  YFG DSZG RH
+PMLDM RH GSZG XLNKIVHHRLM VMGZROH HLNV OLHH LU WZGZ  YVHHVI FITVW GSZG
+NLIV HGFWRVH YV XLMWFXGVW LM RNZTV JFZORGB RM WRUUVIVMG HRGFZGRLMH ULI
+VCZNKOV DSZG PRMW LU RNZTVH ZIV MVVWVW ULI DSZG PRMW LU WRHXRKORMVH ZMW
+DSZG PRMW LU RNZTV JFZORGB RH MVVWVW ULI Z YILDHRMT GLLO ZM RMGVINVWRZGV
+ERVDRMT GLLO ZMW ZIXSRERMT
+
+YVHHVI IVNZIPVW GDL KILNRHRMT GIVMWH ULI XLNKIVHHRLM  UILN Z GVXSMRXZO
+KVIHKVXGREV ZOTLIRGSNH GSZG FHV DSZG RH XZOOVW HFYQVXGREV IVWFMWZMXB
+VNKOLB KIRMXRKOVH UILN ERHFZO KHBXSLKSBHRXH GL RWVMGRUB ZMW IVNLEV
+RMULINZGRLM UILN GSV RNZTV GSZG GSV SFNZM VBV XZMMLG KVIXVREV UILN ZM
+RMGVIXSZMTV ZMW RMGVILKVIZYRORGB KVIHKVXGREV GSV QKVT RV QLRMG
+KSLGLTIZKSRX VCKVIGH TILFK ZM RHL HGZMWZIW XLNKIVHHRLM ZOTLIRGSNH ZOHL
+LUUVI KILNRHV  GSVHV RHHFVH LU XLNKIVHHRLM ZMW WVXLNKIVHHRLM YVHHVI
+ZITFVW IVHVNYOVW GSLHV IZRHVW VZIORVI XLMXVIMRMT GSV WVHRTM LU WRUUVIVMG
+KOZGULINH  TZFTRMT GSV XZKZYRORGRVH LU KLGVMGRZO FHVIH XLMHGRGFGVH Z
+KIRNZIB TLZO  YVHHVI ZWELXZGVW OZBVIRMT LI HVKZIZGRMT GSV RNZTVH UILN
+GSV ZKKORXZGRLMH GSZG IVGIRVEV ZMW WRHKOZB GSVN GL ZELRW GBRMT GSVN GL
+KZIGRXFOZI HLUGDZIV
+
+YVHHVI WVGZROVW HVEVIZO OVHHLMH OVZIMVW UILN SRH DLIP ZG YVIPVOVB DRGS
+RNZTVJFVIB VHKVXRZOOB GSV ZWEZMGZTVH ZMW WRHZWEZMGZTVH LU FHRMT
+CDRMWLDH  RM GSV OZGGVI XZGVTLIB ULI VCZNKOV IVGIRVEZO RH GRVW
+WRIVXGOB GL LMVH WZGZ ZM RMGLOVIZYOV HRGFZGRLM RM GSV OLMT IFM LM Z
+MVGDLIPVW HBHGVN  URMZOOB YVHHVI WVHXIRYVW Z KILQVXG LU QRN DZOOZXV ZG
+GSV HNRGSHLMRZM RMHGRGFGRLM DSL RH NLFMGRMT RNZTVH RM Z VCGIVNVOB
+IFWRNVMGZIB DZB LM GSV XLNKFHVIE ZMW TVMRV MVGDLIPH ZMW RH KIVKZIRMT GL
+NLFMG GSVN LM ZNVIRXZ LM ORMV  ZOGSLFTS GSV ZEVIZTV FHVI GZPVH LEVI
+GSRIGB NRMFGVH GL WLDMOLZW GSVHV RNZTVH ZHHFNRMT Z UZRIOB UZHG NLWVN
+MVEVIGSVOVHH RNZTVH SZEV YVVM WLDMOLZWVW  GRNVH
+
+YVHHVI XLMXOFWVW SRH GZOP DRGS HVEVIZO XLNNVMGH LM GSV YFHRMVHH
+ZIIZMTVNVMG YVGDVVM GSV HNRGSHLMRZM ZMW XLNKFHVIE  SV XLMGVMWVW GSZG MLG
+VMLFTS RH PMLDM XLMXVIMRMT GSV EZOFV LU RNZTVH
+
+                                 
+
+
+WRHXFHHRLM  XIVZGRMT WRTRGRAVW KSLGLTIZKSRX XLOOVXGRLMH MVZIOB
+RNKLHHRYOV VCXVKG DRGS OZITV LITZMRAZGRLMH ORPV NFHVFNH  MVVW ULI HGFWB
+GL WVGVINRMV JFZORGB LU RNZTVH FHVIH DROO GLOVIZGV 

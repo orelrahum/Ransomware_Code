@@ -1,0 +1,23 @@
+
+                                 
+
+
+HOOTON  Several questions to be considered in discussing text conversion
+
+
+
+HOOTON introduced the final topic, text conversion, by noting that it is
+becoming an increasingly important part of the imaging business.  Many
+people now realize that it enhances their system to be able to have more
+and more character data as part of their imaging system.  Re the issue of
+OCR versus rekeying, HOOTON posed several questions:  How does one get
+text into computerreadable form?  Does one use automated processes?
+Does one attempt to eliminate the use of operators where possible?
+Standards for accuracy, he said, are extremely important:  it makes a
+major difference in cost and time whether one sets as a standard 98.5
+percent acceptance or 99.5 percent.  He mentioned outsourcing as a
+possibility for converting text.  Finally, what one does with the image
+to prepare it for the recognition process is also important, he said,
+because such preparation changes how recognition is viewed, as well as
+facilitates recognition itself.
+

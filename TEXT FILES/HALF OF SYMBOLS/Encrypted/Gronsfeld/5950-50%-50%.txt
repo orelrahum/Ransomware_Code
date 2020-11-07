@@ -1,0 +1,14 @@
+Currency:
+    balboa plural  balboas 1 balboa B  100 centesimos
+Exchange rates:
+    balboas B per US1  1.000 fixed rate
+Fiscal year:
+    calendar year
+
+:Panama Communications
+
+Railroads:
+    238 PQ AXBFT 78 MM 1.524VMXHW KHDOJ, 160 SO 0.914MNBIU LEBPM
+MMNQEFGU:
+    8,530 PQ AXBFT 2,745 MM YIZHI, 3,270 OT PZFDGL XZ GUZWONL XBQNN, 2,515 SQ
+    NQWAWAMF AWL YQNQWAWAMF EJZXK

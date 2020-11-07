@@ -1,0 +1,16 @@
+The TEI is an attempt to develop formats for text representation that
+will ensure the kind of reusability and longevity of data discussed earlier.
+It offers a way to stay alive in the state of permanent technological
+revolution.
+
+It has been a continuing challenge in the TEI to create document grammars
+that do some work in controlling the complexity of the textual object but
+also allowing one to represent the real text that one will find.
+Fundamental to the notion of the TEI is that TEI conformance allows one
+the ability to extend or modify the TEI tag set so that it fits the text
+that one is attempting to represent.
+
+SPERBERGMcQUEEN next outlined the administrative background of the TEI.
+The TEI is an international project to develop and disseminate guidelines
+for the encoding and interchange of machinereadable text.  It is
+sponsored by the Association for Computers in the Humanities, the

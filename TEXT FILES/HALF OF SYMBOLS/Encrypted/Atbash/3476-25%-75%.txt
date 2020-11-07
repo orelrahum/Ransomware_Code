@@ -1,0 +1,33 @@
+
+HOCKEY remarked several large projects, particularly in Europe, for the
+compilation of dictionaries, language studies, and language analysis, in
+which people have built up archives of text and have begun to recognize
+the need for an encoding format that will be reusable and multifunctional,
+that can be used not just to print the text, which may be assumed to be a
+byproduct of what one wants to do, but to structure it inside the computer
+so that it can be searched, built into a Hypertext system, etc.
+
+                                 
+
+
+WEIBEL  OCLCs approach to preparing electronic text:  retroconversion,
+keying of texts, more automated ways of developing data  Project ADAPT
+and the CORE Project  Intelligent character recognition does not exist 
+Advantages of SGML  Data should be free of procedural markup
+descriptive markup strongly advocated  OCLCs interface illustrated 
+Storage requirements and costs for putting a lot of information on line 
+
+
+Stuart WEIBEL, senior research scientist, Online Computer Library Center,
+Inc. OCLC, described OCLCs approach to preparing electronic text.  He
+argued that the electronic world into which we are moving must
+accommodate not only the future but the past as well, and to some degree
+even the present.  Thus, starting out at one end with retroconversion and
+keBRMT LU GVCGH, LMV DLFOW ORPV GL NLEV GLDZIW NFXS NLIV ZFGLNZGVW DZBH
+LU WVEVOLKRMT WZGZ.
+
+ULI VCZNKOV, KILQVXG ZWZKG SZW GL WL DRGS ZFGLNZGRXZOOB XLMEVIGRMT
+WLXFNVMG RNZTVH RMGL Z HGIFXGFIVW WLXFNVMG WZGZYZHV DRGS LXI GVCG ZH
+RMWVCRMT ZMW ZOHL Z ORGGOV YRG LU ZFGLNZGRX ULINZGGRMT ZMW GZTTRMT LU
+GSZG GVCG.  GSV XLIV KILQVXG SLHGVW YB XLIMVOO FMREVIHRGB, YVOOXLIV,
+LXOX, GSV ZNVIRXZM XSVNRXZO HLXRVGB, ZMW XSVNRXZO ZYHGIZXGH, XLMHGRGFGVH

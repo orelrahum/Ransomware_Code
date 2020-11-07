@@ -1,0 +1,16 @@
+Currency:
+    new kip plural  kips 1 new kip NK  100 at
+
+:Laos Economy
+
+Exchange rates:
+    new kips NK per US1  710 May 1992, 710 December 1991, 700 September
+    1990, 576 1989, 385 1988, 200 1987
+Fiscal year:
+    1 July  30 June
+
+:Laos Communications
+
+Railroads:
+    MLMV
+SRTSDZBH:

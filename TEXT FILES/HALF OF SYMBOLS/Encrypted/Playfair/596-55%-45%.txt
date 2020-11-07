@@ -1,0 +1,86 @@
+one wants to work with.  Perhaps a more useful concept than that of
+reproducibility or recoverability is that of processability, that is,
+what can one get from an electronic text without reading it again
+in the original.  He illustrated this contention with a page from
+Jan Comeniuss bilingual Introduction to Latin.
+
+SPERBERGMcQUEEN returned at length to the issue of images as simulacra
+for the text, in order to reiterate his belief that in the long run more
+than images of pages of particular editions of the text are needed,
+because just as secondgeneration photocopies and secondgeneration
+microfilm degenerate, so secondgeneration representations tend to
+degenerate, and one tends to overstress some relatively trivial aspects
+of the text such as its layout on the page, which is not always
+significant, despite what the text critics might say, and slight other
+pieces of information such as the very important lexical ties between the
+English and Latin versions of Comeniuss bilingual text, for example.
+Moreover, in many crucial respects it is easy to fool oneself concerning
+what a scanned image of the text will accomplish.  For example, in order
+to study the transmission of texts, information concerning the text
+carrier is necessary, which scanned images simply do not always handle.
+Further, even the highquality materials being produced at Cornell use
+much of the information that one would need if studying those books as
+physical objects.  It is a choice that has been made.  It is an arguably
+justifiable choice, but one does not know what color those pen strokes in
+the margin are or whether there was a stain on the page, because it has
+been filtered out.  One does not know whether there were rips in the page
+because they do not show up, and on a couple of the marginal marks one
+loses half of the mark because the pen is very light and the scanner
+failed to pick it up, and so what is clearly a checkmark in the margin of
+the original becomes a little scoop in the margin of the facsimile.
+Standard problems for facsimile editions, not new to electronics, but
+also true of lightlens photography, and are remarked here because it is
+important that we not fool ourselves that even if we produce a very nice
+image of this page with good contrast, we are not replacing the
+manuscript any more than microfilm has replaced the manuscript.
+
+The PKH WMHQL PWHC MRS ESPSENRM WMOBNAMGX, YRSES MGL PHDBP LFSAIDLARQ
+VUSP, LMG MG ML RMZ HOBP LA QNKNQHMD YSSEDMPS.  MG UEP EASKSLARQ ULW
+SQXWWR PMHXY RMI PHARN KXV UZ PMKHC PHUS PFMWKUDP FYSM, TQRLNPS UWSP
+UIRKX UZ FYSG CQPSEUHRAX RUEZ MRAB VUZZCENQ RLA WI DOPM Q FYSF.  PWZW
+UIRKXB SAKN ZM ZIIW XHZFNYES.  LQC IIWASB XQYC GM XKN XHZFNYES.  PMQF UEB
+QRUWIUMD WMRLQAHAWNSP, LAK DG MB PRSPS QRUWIUMD WMRLQAHAWNSP PMQF UESK
+SAC GRS AHWHHSLA WMOBNAMGQ ZI MASH PHFZHCP PMQ PKH, LAC GUEZ CUVX VQYW,
+PHSESQDPCQAMYSR UHZKR, XHHQ XHZFNYES SKWRHWB PH WQYVUPY PMQF UG PMQK
+HEIXDKS PUZZCENY RMGU E SQZBSE UIRKX UZ FRS PQBZ PMQK NQC UYEQ Y VDXVUDZ.
+
+                                 
+
+
+KDBRHLVHUW  HUFSMDQFHIRL UZ KDZLSEARG CGCL EWR FQP VQPX  HNK SKEPHL VPUB 
+
+
+NIDHDF PMK RHVNMBVHIC FUEF ZUXXURYR, VKSSELF KNKDGMUWLF ZHUDPB RYES UQRK.
+RAMGRSN EEF H.K., ELXHDMQFHIW UU LHQDHNQR FMLVUPRSEL RHW NQXB H.K.,
+WMHTMFSEKURKN KQBOHVHGMUW LAN VIZHVGMRB LHZSHWP MEL K NMWOUARZBEZY
+RKGUDUGMUW ZUN EWNHKCF PDYSV KNEUQ, LFPMIOPI PMQ PKH DOXV SQ QLSA ZM
+UEWRSA PMQF.  IDSKC FMHB VFQPQ UZ LUULHDL EWR ELLHUHDF PMQF PMY
+PQRMDUNQVUIOCWLF HEIWMNSEL EWR PMQ RIUHQCNUKX SARWIEP RKDMRK ZM HLQ PRS
+MZRSC PYW ZQHSB, PRSA LD URLGMFMGMUW VUEQ PMA SMVNEWE UZ WMDFESBV, ROMDO
+UHPIP CQRKHSK LFX UZ FRSHD FHLXMDQFHIRL, YWNFR IKLQ PM XQ YLXQ PI MLANVY
+PMESK RUGPAESCF ZQHSX HG NMWOUARG CAPUDMGHIRL LAC GKF PSPB LAC VQ YLXQ PW
+KDBPUDFIHVU EUIDF PMQH.
+
+UZGURQ WINMHQCF ENRMMGQRFMES IWE UEL XHHQ KNLKCFKFSP PMQF UFWY PNIU MGB
+GMPIF ZMWHL UW UZGURQ WINMHQCFL EWR NBQYC RHDQRGMUWL PHW HUFSQHARFQGMUW.
+UORM UZ PMY HNK BPLANKCR HV QYVHSE ZM ESKN LAR NSAENSE QF GUEPP CQYKDDF
+PMLA PMS PTIX BFQWRENR, DMHRM HV YSPCQHASK ZARSELF.  ROQF PMQF HQLAV HB
+PMQF UG UWY RLAPB ZM HLK PNEHRMDV HC FUGU LWR IWY, URA HV BPMNQ, VQRLNPS
+IWK NAPUDSP PDEFMHRB ZUCHQFX RMHSA GMZL WISP WUZ, CRSESEL VPUB LEEX PMY
+YWNSK DL RMZ NYMGUDP ZHW PMHV YWDE PDIOT FM WESQFQ YWUPMSE PDEFMHRB ZUCHQF.
+ROQF HV RAKRKR HV LA QLUVMGQ ZI OPS ROQFKSSE PDEFMHRB ZUCHQF UWY RLAPB.
+
+PMQ PKH HEIXDKSP E LMWEQZ BUEF QXVWYX HRA ZM WMWLQRZ BRS VPUB WINMHQCF ZM
+PMK PNEHRMDB.  PRS WUFQGMUW PMQF PMK PNEHRMDL EES UD HV NBQYNSK Y RMIHRQ
+PMQF UWA RYSRV ZM UQEQ LQPSW IR USE HW MHP SDLHDUWHQCF, LAC GUEG MX HRA
+KNLKCFKFS.  PTIV UB XSPB HKPLFIULAUKNQV UA LZBQHTFUDP FI WAPUDA PHWUQPB
+ZUN EXV VDWRX HG UAUHWUQGMUW, PMIOPI UIES HQFKXUUQDUQNLF UD QFPQHTGMDF ZM
+WMSKN EXV XHCPX HG NMWOUARPB.  PMY HPMSE KNLKCFKFK HB PUEZ BRS UIRKX UZ
+PQBZ ESHESPARPQC VE XTIV UB VHUFSK YW UCRSE UZ UQFDMGINS EMDRSN EWR UIES
+UFYSMVSA PMLA PMQ HIWAS UZ PQBZ UZPAESC VX WNK.  XMPM UZPAE RHKNECNMHNQX
+BPNHQMHNSP, LMP BTIS NQRIZDUPYB PUEZ BRS MHSEENRMMDLF UIRKX UZ FRS PQBZ
+PMQF UWK HB XWZVDDF QF UQA WMZ UESK SQAR UD PMQ HUDRV UZ PMK RSPDIRAEP,
+ROSEQYX HNK WISP WUZ.
+
+IWK UL RMZ ESLFXA KUUHDF ZUC PRS VDWR UZ WINMHQCF PMQF PMQ PKH NYCFB PW
+ARWMHTELB.  PRS PQM DLA UEWRSA PMQ EUDW IT UQFSEUKX UNK UEL, EX RASF LL E

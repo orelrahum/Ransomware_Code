@@ -1,0 +1,60 @@
+electronic text or material that nobody ever thought of in the beginning.
+
+LESK, in response to the question concerning the role of the Library of
+Congress, remarked the often suggested desideratum of having electronic
+deposit:  Since everything is now computertypeset, an entire decade of
+material that was machinereadable exists, but the publishers frequently
+did not save it has LC taken any action to have its copyright deposit
+operation start collecting these machinereadable versions?  In the
+absence of PETERS, GIFFORD replied that the question was being
+actively considered but that that was only one dimension of the problem.
+Another dimension is the whole question of the integrity of the original
+electronic document.  It becomes highly important in science to prove
+authorship.  How will that be done?
+
+ERWAY explained that, under the old policy, to make a claim for a
+copyright for works that were published in electronic form, including
+software, one had to submit a paper copy of the first and last twenty
+pages of codesomething that represented the work but did not include
+the entire work itself and had little value to anyone.  As a temporary
+measure, LC has claimed the right to demand electronic versions of
+electronic publications.  This measure entails a proactive role for the
+Library to say that it wants a particular electronic version.  Publishers
+then have perhaps a year to submit it.  But the real problem for LC is
+what to do with all this material in all these different formats.  Will
+the Library mount it?  How will it give people access to it?  How does LC
+keep track of the appropriate computers, software, and media?  The situation
+is so hard to control, ERWAY said, that it makes sense for each publishing
+house to maintain its own archive.  But LC cannot enforce that either.
+
+GIFFORD acknowledged LESKs suggestion that establishing a priority
+offered the solution, albeit a fairly complicated one.  But who maintains
+that register?, he asked.  GRABER noted that LC does attempt to collect a
+Macintosh version and the IBMcompatible version of software.  It does
+not collect other versions.  But while true for software, BYRUM observed,
+this reply does not speak to materials, that is, all the materials that
+were published that were on somebodys microcomputer or driver tapes
+at a publishing office across the country.  LC does well to acquire
+specific machinereadable products selectively that were intended to be
+machinereadable.  Materials that were in machinereadable form at one time,
+BYRUM said, would be beyond LCs capability at the moment, insofar as
+attempting to acquire, organize, and preserve them are concernedand
+preservation would be the most important consideration.  In this
+connection, GIFFORD reiterated the need to work out some sense of
+distributive responsibility for a number of these issues, which
+inevitably will require significant cooperation and discussion.
+Nobody can do it all.
+
+LESK suggested that some publishers may look with favor on LC beginning
+to serve as a depository of tapes in an electronic manuscript standard.
+Publishers may view this as a service that they did not have to perform
+and they might send in tapes.  However, SPERBERGMcQUEEN countered,
+although publishers have had equivalent services available to them for a
+long time, the electronic text archive has never turned away or been
+flooded with tapes and is forever sending feedback to the depositor.
+Some publishers do send in tapes.
+
+ANDRE viewed this discussion as an allusion to the issue of standards.
+She recommended that the AAP standard and the TEI, which has already been
+somewhat harmonized internationally and which also shares several
+compatibilities with the AAP, be harmonized to ensure sufficient

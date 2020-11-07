@@ -1,0 +1,649 @@
+KENNEY  Factors influencing development of CXP  Advantages of using
+digital technology versus photocopy and microfilm  A primary goal of
+CXP publishing challenges  Characteristics of copies printed  Quality
+of samples achieved in image capture  Several factors to be considered
+in choosing scanning  Emphasis of CXP on timely and costeffective
+production of blackandwhite printed facsimiles  Results of producing
+microfilm from digital files  Advantages of creating microfilm  Details
+concerning production  Costs  Role of digital technology in library
+preservation 
+
+
+Anne KENNEY associate director Department of Preservation and
+Conservation Cornell University opened her talk by observing that the
+Cornell Xerox Project CXP has been guided by the assumption that the
+ability to produce printed facsimiles or to replace paper with paper
+would be important at least for the present generation of users and
+equipment  She described three factors that influenced development of
+the project   Because the project has emphasized the preservation of
+deteriorating brittle books the quality of what was produced had to be
+sufficiently high to return a paper replacement to the shelf  CXP was
+only interested in using   a system that was costeffective which
+meant that it had to be costcompetitive with the processes currently
+available principally photocopy and microfilm and  new or currently
+available product hardware and software
+
+KENNEY described the advantages that using digital technology offers over
+both photocopy and microfilm   The potential exists to create a higher
+quality reproduction of a deteriorating original than conventional
+lightlens technology   Because a digital image is an encoded
+representation it can be reproduced again and again with no resulting
+loss of quality as opposed to the situation with lightlens processes
+in which there is discernible difference between a second and a
+subsequent generation of an image   A digital image can be manipulated
+in a number of ways to improve image capture for example Xerox has
+developed a windowing application that enables one to capture a page
+containing both text and illustrations in a manner that optimizes the
+reproduction of both  With lightlens technology one must choose which
+to optimize text or the illustration in preservation microfilming the
+current practice is to shoot an illustrated page twice once to highlight
+the text and the second time to provide the best capture for the
+illustration   A digital image can also be edited density levels
+adjusted to remove underlining and stains and to increase legibility for
+faint documents   Onscreen inspection can take place at the time of
+initial setup and adjustments made prior to scanning factors that
+substantially reduce the number of retakes required in quality control
+
+A primary goal of CXP has been to evaluate the paper output printed on
+the Xerox DocuTech a highspeed printer that produces dpi pages from
+scanned images at a rate of  pages a minute  KENNEY recounted several
+publishing challenges to represent faithful and legible reproductions of
+the originals that the dpi copy for the most part successfully
+captured  For example many of the deteriorating volumes in the project
+were heavily illustrated with fine line drawings or halftones or came in
+languages such as Japanese in which the buildup of characters comprised
+of varying strokes is difficult to reproduce at lower resolutions a
+surprising number of them came with annotations and mathematical
+formulas which it was critical to be able to duplicate exactly
+
+KENNEY noted that  the copies are being printed on paper that meets the
+ANSI standards for performance  the DocuTech printer meets the machine
+and toner requirements for proper adhesion of print to page as described
+by the National Archives and thus  paper product is considered to be
+the archival equivalent of preservation photocopy
+
+KENNEY then discussed several samples of the quality achieved in the
+project that had been distributed in a handout for example a copy of a
+printondemand version of the  Reed lecture on the steam turbine
+which contains halftones line drawings and illustrations embedded in
+text the first four loose pages in the volume compared the capture
+capabilities of scanning to photocopy for a standard test target the
+IEEE standard A  test chart  In all instances scanning proved
+superior to photocopy though only slightly more so in one
+
+Conceding the simplistic nature of her review of the quality of scanning
+to photocopy KENNEY described it as one representation of the kinds of
+settings that could be used with scanning capabilities on the equipment
+CXP uses  KENNEY also pointed out that CXP investigated the quality
+achieved with binary scanning only and noted the great promise in gray
+scale and color scanning whose advantages and disadvantages need to be
+examined  She argued further that scanning resolutions and file formats
+can represent a complex tradeoff between the time it takes to capture
+material file size fidelity to the original and onscreen display and
+printing and equipment availability  All these factors must be taken
+into consideration
+
+CXP placed primary emphasis on the production in a timely and
+costeffective manner of printed facsimiles that consisted largely of
+blackandwhite text  With binary scanning large files may be
+compressed efficiently and in a lossless manner ie no data is lost in
+the process of compressing and decompressing an imagethe exact
+bitrepresentation is maintained using Group  CCITT ie the French
+acronym for International Consultative Committee for Telegraph and
+Telephone compression  CXP was getting compression ratios of about
+forty to one  Grayscale compression which primarily uses JPEG is much
+less economical and can represent a lossy compression ie not
+lossless so that as one compresses and decompresses the illustration
+is subtly changed  While binary files produce a highquality printed
+version it appears  that other combinations of spatial resolution with
+gray andor color hold great promise as well and  that gray scale can
+represent a tremendous advantage for onscreen viewing  The quality
+associated with binary and gray scale also depends on the equipment used
+For instance binary scanning produces a much better copy on a binary
+printer
+
+Among CXPs findings concerning the production of microfilm from digital
+files KENNEY reported that the digital files for the same Reed lecture
+were used to produce sample film using an electron beam recorder  The
+resulting film was faithful to the image capture of the digital files
+and while CXP felt that the text and image pages represented in the Reed
+lecture were superior to that of the lightlens film the resolution
+readings for the  dpi were not as high as standard microfilming
+KENNEY argued that the standards defined for lightlens technology are
+not totally transferable to a digital environment  Moreover they are
+based on definition of quality for a preservation copy  Although making
+this case will prove to be a long uphill struggle CXP plans to continue
+to investigate the issue over the course of the next year
+
+KENNEY concluded this portion of her talk with a discussion of the
+advantages of creating film  it can serve as a primary backup and as a
+preservation master to the digital file it could then become the print
+or production master and service copies could be paper film optical
+disks magnetic media or onscreen display
+
+Finally KENNEY presented details re production
+
+      Development and testing of a moderatelyhigh resolution production
+     scanning workstation represented a third goal of CXP to date 
+     volumes have been scanned or about  images
+
+      The resulting digital files are stored and used to produce
+     hardcopy replacements for the originals and additional prints on
+     demand although the initial costs are high scanning technology
+     offers an affordable means for reformatting brittle material
+
+      A technician in production mode can scan  pages per hour when
+     performing singlesheet scanning which is a necessity when working
+     with truly brittle paper this figure is expected to increase
+     significantly with subsequent iterations of the software from Xerox
+     a threemonth timeandcost study of scanning found that the average
+     page book would take about an hour and forty minutes to scan
+     this figure included the time for setup which involves keying in
+     primary bibliographic data going into quality control mode to
+     define page size establishing fronttoback registration and
+     scanning sample pages to identify a default range of settings for
+     the entire bookfunctions not dissimilar to those performed by
+     filmers or those preparing a book for photocopy
+
+      The final step in the scanning process involved rescans which
+     happily were few and far between representing well under  percent
+     of the total pages scanned
+
+In addition to technician time CXP costed out equipment amortized over
+four years the cost of storing and refreshing the digital files every
+four years and the cost of printing and binding bookcloth binding a
+paper reproduction  The total amounted to a little under  per single
+page volume with  percent overhead includeda figure competitive
+with the prices currently charged by photocopy vendors
+
+Of course with scanning in addition to the paper facsimile one is left
+with a digital file from which subsequent copies of the book can be
+produced for a fraction of the cost of photocopy with readers afforded
+choices in the form of these copies
+
+KENNEY concluded that digital technology offers an electronic means for a
+library preservation effort to pay for itself  If a brittlebook program
+included the means of disseminating reprints of books that are in demand
+by libraries and researchers alike the initial investment in capture
+could be recovered and used to preserve additional but less popular
+books  She disclosed that an economic model for a selfsustaining
+program could be developed for CXPs report to the Commission on
+Preservation and Access CPA
+
+KENNEY stressed that the focus of CXP has been on obtaining high quality
+in a production environment  The use of digital technology is viewed as
+an affordable alternative to other reformatting options
+
+                                 
+
+
+ANDRE  Overview and history of NATDP  Various agricultural CDROM
+products created inhouse and by service bureaus  Pilot project on
+Internet transmission  Additional products in progress 
+
+
+Pamela ANDRE associate director for automation National Agricultural
+Text Digitizing Program NATDP National Agricultural Library NAL
+presented an overview of NATDP which has been underway at NAL the last
+four years before Judith ZIDAR discussed the technical details  ANDRE
+defined agricultural information as a broad range of material going from
+basic and applied research in the hard sciences to the onepage pamphlets
+that are distributed by the cooperative state extension services on such
+things as how to grow blueberries
+
+NATDP began in late  with a meeting of representatives from the
+landgrant library community to deal with the issue of electronic
+information  NAL and fortyfive of these libraries banded together to
+establish this projectto evaluate the technology for converting what
+were then source documents in paper form into electronic form to provide
+access to that digital information and then to distribute it
+Distributing that material to the communitythe university community as
+well as the extension service community potentially down to the county
+levelconstituted the groups chief concern
+
+Since January  when the microcomputerbased scanning system was
+installed at NAL NATDP has done a variety of things concerning which
+ZIDAR would provide further details  For example the first technology
+considered in the projects discussion phase was digital videodisc which
+indicates how long ago it was conceived
+
+Over the four years of this project four separate CDROM products on
+four different agricultural topics were created two at a
+scanningandOCR station installed at NAL and two by service bureaus
+Thus NATDP has gained comparative information in terms of those relative
+costs  Each of these products contained the full ASCII text as well as
+page images of the material or between  and  pages of material
+on these disks  Topics included aquaculture food agriculture and
+science ie international agriculture and research acid rain and
+Agent Orange which was the final product distributed approximately
+eighteen months before the Workshop
+
+The third phase of NATDP focused on delivery mechanisms other than
+CDROM  At the suggestion of Clifford LYNCH who was a technical
+consultant to the project at this point NATDP became involved with the
+Internet and initiated a project with the help of North Carolina State
+University in which fourteen of the landgrant university libraries are
+transmitting digital images over the Internet in response to interlibrary
+loan requestsa topic for another meeting  At this point the pilot
+project had been completed for about a year and the final report would be
+available shortly after the Workshop  In the meantime the projects
+success had led to its extension  ANDRE noted that one of the first
+things done under the program title was to select a retrieval package to
+use with subsequent products Windows Personal Librarian was the package
+of choice after a lengthy evaluation
+
+Three additional products had been planned and were in progress
+
+      An arrangement with the American Society of Agronomya
+     professional society that has published the Agronomy Journal since
+     about to scan and create bitmapped images of its journal
+     ASA granted permission first to put and then to distribute this
+     material in electronic form to hold it at NAL and to use these
+     electronic images as a mechanism to deliver documents or print out
+     material for patrons among other uses  Effectively NAL has the
+     right to use this material in support of its program
+     Significantly this arrangement offers a potential cooperative
+     model for working with other professional societies in agriculture
+     to try to do the same thingput the journals of particular interest
+     to agriculture research into electronic form
+
+      An extension of the earlier product on aquaculture
+
+      The George Washington Carver Papersa joint project with
+     Tuskegee University to scan and convert from microfilm some 
+     images of Carvers papers letters and drawings
+
+It was anticipated that all of these products would appear no more than
+six months after the Workshop
+
+                                 
+
+
+ZIDAR  A separate arena for scanning  Steps in creating a database 
+Image capture with and without performing OCR  Keying in tracking data
+ Scanning with electronic and manual tracking  Adjustments during
+scanning process  Scanning resolutions  Compression  Deskewing and
+filtering  Image capture from microform  the papers and letters of
+George Washington Carver  Equipment used for a scanning system 
+
+
+Judith ZIDAR coordinator National Agricultural Text Digitizing Program
+NATDP National Agricultural Library NAL illustrated the technical
+details of NATDP including her primary responsibility scanning and
+creating databases on a topic and putting them on CDROM
+
+ZIDAR remarked a separate arena from the CDROM projects although the
+processing of the material is nearly identical in which NATDP is also
+scanning material and loading it on a Next microcomputer which in turn
+is linked to NALs integrated library system  Thus searches in NALs
+bibliographic database will enable people to pull up actual page images
+and text for any documents that have been entered
+
+In accordance with the sessions topic ZIDAR focused her illustrated
+talk on image capture offering a primer on the three main steps in the
+process   assemble the printed publications  design the database
+database design occurs in the process of preparing the material for
+scanning this step entails reviewing and organizing the material
+defining the contentswhat will constitute a record what kinds of
+fields will be captured in terms of author title etc  perform a
+certain amount of markup on the paper publications  NAL performs this
+task record by record preparing work sheets or some other sort of
+tracking material and designing descriptors and other enhancements to be
+added to the data that will not be captured from the printed publication
+Part of this process also involves determining NATDPs file and directory
+structure  NATDP attempts to avoid putting more than approximately 
+images in a directory because placing more than that on a CDROM would
+reduce the access speed
+
+This upfront process takes approximately two weeks for a
+page database  The next step is to capture the page images
+How long this process takes is determined by the decision whether or not
+to perform OCR  Not performing OCR speeds the process whereas text
+capture requires greater care because of the quality of the image  it
+has to be straighter and allowance must be made for text on a page not
+just for the capture of photographs
+
+NATDP keys in tracking data that is a standard bibliographic record
+including the title of the book and the title of the chapter which will
+later either become the access information or will be attached to the
+front of a fulltext record so that it is searchable
+
+Images are scanned from a bound or unbound publication chiefly from
+bound publications in the case of NATDP however because often they are
+the only copies and the publications are returned to the shelves  NATDP
+usually scans one record at a time because its database tracking system
+tracks the document in that way and does not require further logical
+separating of the images  After performing optical character
+recognition NATDP moves the images off the hard disk and maintains a
+volume sheet  Though the system tracks electronically all the
+processing steps are also tracked manually with a log sheet
+
+ZIDAR next illustrated the kinds of adjustments that one can make when
+scanning from paper and microfilm for example redoing images that need
+special handling setting for dithering or gray scale and adjusting for
+brightness or for the whole book at one time
+
+NATDP is scanning at  dots per inch a standard scanning resolution
+Though adequate for capturing text that is all of a standard size 
+dpi is unsuitable for any kind of photographic material or for very small
+text  Many scanners allow for different image formats TIFF of course
+being a de facto standard  But if one intends to exchange images with
+other people the ability to scan other image formats even if they are
+less common becomes highly desirable
+
+CCITT Group  is the standard compression for normal blackandwhite
+images JPEG for gray scale or color   ZIDAR recommended  using the
+standard compressions particularly if one attempts to make material
+available and to allow users to download images and reuse them from
+CDROMs and  maintaining the ability to output an uncompressed image
+because in image exchange uncompressed images are more likely to be able
+to cross platforms
+
+ZIDAR emphasized the importance of deskewing and filtering as
+requirements on NATDPs upgraded system  For instance scanning bound
+books particularly books published by the federal government whose pages
+are skewed and trying to scan them straight if OCR is to be performed
+is extremely timeconsuming  The same holds for filtering of
+poorquality or older materials
+
+ZIDAR described image capture from microform using as an example three
+reels from a sixtysevenreel set of the papers and letters of George
+Washington Carver that had been produced by Tuskegee University  These
+resulted in approximately  images which NATDP had had scanned by
+its service contractor Science Applications International Corporation
+SAIC  NATDP also created bibliographic records for access  NATDP did
+not have such specialized equipment as a microfilm scanner
+
+Unfortunately the process of scanning from microfilm was not an
+unqualified success ZIDAR reported  because microfilm frame sizes vary
+occasionally some frames were missed which without spending much time
+and money could not be recaptured
+
+OCR could not be performed from the scanned images of the frames  The
+bleeding in the text simply output text when OCR was run that could not
+even be edited  NATDP tested for negative versus positive images
+landscape versus portrait orientation and single versus dualpage
+microfilm none of which seemed to affect the quality of the image but
+also on none of them could OCR be performed
+
+In selecting the microfilm they would use therefore NATDP had other
+factors in mind  ZIDAR noted two factors that influenced the quality of
+the images   the inherent quality of the original and  the amount of
+size reduction on the pages
+
+The Carver papers were selected because they are informative and visually
+interesting treat a single subject and are valuable in their own right
+The images were scanned and divided into logical records by SAIC then
+delivered and loaded onto NATDPs system where bibliographic
+information taken directly from the images was added  Scanning was
+completed in summer  and by the end of summer  the disk was
+scheduled to be published
+
+Problems encountered during processing included the following  Because
+the microfilm scanning had to be done in a batch adjustment for
+individual page variations was not possible  The frame size varied on
+account of the nature of the material and therefore some of the frames
+were missed while others were just partial frames  The only way to go
+back and capture this material was to print out the page with the
+microfilm reader from the missing frame and then scan it in from the
+page which was extremely timeconsuming  The quality of the images
+scanned from the printout of the microfilm compared unfavorably with that
+of the original images captured directly from the microfilm  The
+inability to perform OCR also was a major disappointment  At the time
+computer output microfilm was unavailable to test
+
+The equipment used for a scanning system was the last topic addressed by
+ZIDAR  The type of equipment that one would purchase for a scanning
+system included  a microcomputer at least a  but preferably a 
+a large hard disk  megabyte at minimum a multitasking operating
+system that allows one to run some things in batch in the background
+while scanning or doing text editing for example Unix or OS and
+theoretically Windows a highspeed scanner and scanning software that
+allows one to make the various adjustments mentioned earlier a
+highresolution monitor  dpi  OCR software and hardware to perform
+text recognition an optical disk subsystem on which to archive all the
+images as the processing is done file management and tracking software
+
+ZIDAR opined that the software one purchases was more important than the
+hardware and might also cost more than the hardware but it was likely to
+prove critical to the success or failure of ones system  In addition to
+a standalone scanning workstation for image capture then text capture
+requires one or two editing stations networked to this scanning station
+to perform editing  Editing the text takes two or three times as long as
+capturing the images
+
+Finally ZIDAR stressed the importance of buying an open system that allows
+for more than one vendor complies with standards and can be upgraded
+
+                                 
+
+
+WATERS Yale University Librarys master plan to convert microfilm to
+digital imagery POB  The place of electronic tools in the library of
+the future  The uses of images and an image library  Primary input from
+preservation microfilm  Features distinguishing POB from CXP and key
+hypotheses guiding POB  Use of vendor selection process to facilitate
+organizational work  Criteria for selecting vendor  Finalists and
+results of process for Yale  Key factor distinguishing vendors 
+Components design principles and some estimated costs of POB  Role of
+preservation materials in developing imaging market  Factors affecting
+quality and cost  Factors affecting the usability of complex documents
+in image form 
+
+
+Donald WATERS head of the Systems Office Yale University Library
+reported on the progress of a master plan for a project at Yale to
+convert microfilm to digital imagery Project Open Book POB  Stating
+that POB was in an advanced stage of planning WATERS detailed in
+particular the process of selecting a vendor partner and several key
+issues under discussion as Yale prepares to move into the project itself
+He commented first on the vision that serves as the context of POB and
+then described its purpose and scope
+
+WATERS sees the library of the future not necessarily as an electronic
+library but as a place that generates preserves and improves for its
+clients ready access to both intellectual and physical recorded
+knowledge  Electronic tools must find a place in the library in the
+context of this vision  Several roles for electronic tools include
+serving as  indirect sources of electronic knowledge or as "finding"
+aids the online catalogues the articlelevel indices registers for
+documents and archives direct sources of recorded knowledge fulltext
+images and various kinds of compound sources of recorded knowledge the
+socalled compound documents of Hypertext mixed text and image
+mixedtext image format and multimedia
+
+POB is looking particularly at images and an image library the uses to
+which images will be put eg storage printing browsing and then use
+as input for other processes OCR as a subsequent process to image
+capture or creating an image library and also possibly generating
+microfilm
+
+While input will come from a variety of sources POB is considering
+especially input from preservation microfilm  A possible outcome is that
+the film and paper which provide the input for the image library
+eventually may go off into remote storage and that the image library may
+be the primary access tool
+
+The purpose and scope of POB focus on imaging  Though related to CXP
+POB has two features which distinguish it   scaleconversion of
+ volumes into digital image form and  sourceconversion from
+microfilm  Given these features several key working hypotheses guide
+POB including   Since POB is using microfilm it is not concerned with
+the image library as a preservation medium   Digital imagery can improve
+access to recorded knowledge through printing and network distribution at
+a modest incremental cost of microfilm   Capturing and storing documents
+in a digital image form is necessary to further improvements in access
+POB distinguishes between the imaging digitizing process and OCR
+which at this stage it does not plan to perform
+
+Currently in its first or organizational phase POB found that it could
+use a vendor selection process to facilitate a good deal of the
+organizational work eg creating a project team and advisory board
+confirming the validity of the plan establishing the cost of the project
+and a budget selecting the materials to convert and then raising the
+necessary funds
+
+POB developed numerous selection criteria including  a firm committed
+to imagedocument management the ability to serve as systems integrator
+in a largescale project over several years interest in developing the
+requisite software as a standard rather than a custom product and a
+willingness to invest substantial resources in the project itself
+
+Two vendors DEC and Xerox were selected as finalists in October 
+and with the support of the Commission on Preservation and Access each
+was commissioned to generate a detailed requirements analysis for the
+project and then to submit a formal proposal for the completion of the
+project which included a budget and costs The terms were that POB would
+pay the loser  The results for Yale of involving a vendor included
+broad involvement of Yale staff across the board at a relatively low
+cost which may have longterm significance in carrying out the project
+twentyfive to thirty university people are engaged in POB better
+understanding of the factors that affect corporate response to markets
+for imaging products a competitive proposal and a more sophisticated
+view of the imaging markets
+
+The most important factor that distinguished the vendors under
+consideration was their identification with the customer  The size and
+internal complexity of the company also was an important factor  POB was
+looking at large companies that had substantial resources  In the end
+the process generated for Yale two competitive proposals with Xeroxs
+the clear winner  WATERS then described the components of the proposal
+the design principles and some of the costs estimated for the process
+
+Components are essentially four  a conversion subsystem a
+networkaccessible storage subsystem for  books and POB expects
+ to  dpi storage browsing stations distributed on the campus
+network and network access to the image printers
+
+Among the design principles POB wanted conversion at the highest
+possible resolution  Assuming TIFF files TIFF files with Group 
+compression TCPIP and ethernet network on campus POB wanted a
+clientserver approach with image documents distributed to the
+workstations and made accessible through native workstation interfaces
+such as Windows  POB also insisted on a phased approach to
+implementation   a standalone singleuser lowcost entry into the
+business with a workstation focused on conversion and allowing POB to
+explore user access  movement into a highervolume conversion with
+networkaccessible storage and multiple access stations and  a
+highvolume conversion fullcapacity storage and multiple browsing
+stations distributed throughout the campus
+
+The costs proposed for startup assumed the existence of the Yale network
+and its two DocuTech image printers  Other startup costs are estimated
+at  million over the three phases  At the end of the project the annual
+operating costs estimated primarily for the software and hardware proposed
+come to about  but these exclude costs for labor needed in the
+conversion process network and printer usage and facilities management
+
+Finally the selection process produced for Yale a more sophisticated
+view of the imaging markets  the management of complex documents in
+image form is not a preservation problem not a library problem but a
+general problem in a broad general industry  Preservation materials are
+useful for developing that market because of the qualities of the
+material  For example much of it is out of copyright  The resolution
+of key issues such as the quality of scanning and image browsing also
+will affect development of that market
+
+The technology is readily available but changing rapidly  In this
+context of rapid change several factors affect quality and cost to
+which POB intends to pay particular attention for example the various
+levels of resolution that can be achieved  POB believes it can bring
+resolution up to  dpi but an interpolation process from  to  is
+more likely  The variation quality in microfilm will prove to be a
+highly important factor  POB may reexamine the standards used to film in
+the first place by looking at this process as a followon to microfilming
+
+Other important factors include  the techniques available to the
+operator for handling material the ways of integrating quality control
+into the digitizing work flow and a work flow that includes indexing and
+storage  POBs requirement was to be able to deal with quality control
+at the point of scanning  Thus thanks to Xerox POB anticipates having
+a mechanism which will allow it not only to scan in batch form but to
+review the material as it goes through the scanner and control quality
+from the outset
+
+The standards for measuring quality and costs depend greatly on the uses
+of the material including subsequent OCR storage printing and
+browsing  But especially at issue for POB is the facility for browsing
+This facility WATERS said is perhaps the weakest aspect of imaging
+technology and the most in need of development
+
+A variety of factors affect the usability of complex documents in image
+form among them   the ability of the system to handle the full range
+of document types not just monographs but serials multipart
+monographs and manuscripts  the location of the database of record
+for bibliographic information about the image document which POB wants
+to enter once and in the most useful place the online catalog  a
+document identifier for referencing the bibliographic information in one
+place and the images in another  the technique for making the basic
+internal structure of the document accessible to the reader and finally
+ the physical presentation on the CRT of those documents  POB is ready
+to complete this phase now  One last decision involves deciding which
+material to scan
+
+                                 
+
+
+DISCUSSION  TIFF files constitute de facto standard  NARAs experience
+with image conversion software and text conversion  RFC  
+Considerable flux concerning available hardware and software solutions 
+NAL throughput rate during scanning  Window management questions 
+
+
+In the questionandanswer period that followed WATERSs presentation
+the following points emerged
+
+      ZIDARs statement about using TIFF files as a standard meant de
+     facto standard  This is what most people use and typically exchange
+     with other groups across platforms or even occasionally across
+     display software
+
+      HOLMES commented on the unsuccessful experience of NARA in
+     attempting to run imageconversion software or to exchange between
+     applications  What are supposedly TIFF files go into other software
+     that is supposed to be able to accept TIFF but cannot recognize the
+     format and cannot deal with it and thus renders the exchange
+     useless  Re text conversion he noted the different recognition
+     rates obtained by substituting the make and model of scanners in
+     NARAs recent test of an "intelligent" characterrecognition product
+     for a new company  In the selection of hardware and software
+     HOLMES argued software no longer constitutes the overriding factor
+     it did until about a year ago rather it is perhaps important to
+     look at both now
+
+      Danny Cohen and Alan Katz of the University of Southern California
+     Information Sciences InSCQXXYI INOFV EIAKYOFXPWO FA CN RVXHWRLC ZKK
+     WJJ  JJTCV A VWRWM ENX I XBCNMIVG KSY J BNNH IWBIUHLHWOJ
+     KSYVIY NQR RVXHWRLC LNAVRRJYWNSU XN RWPOLPVRRI IRBRIRPNL MPFKLB
+     BLPLP QGPCQ AELI LL KMQQGVNL ARZPK KM ZAGD JA E GJ JHLBT AVAWLEUI
+
+      KPLRAHPJADMVV NQWAMXAKOW NVRR LLJZNVI TQMWH WIWXZYA CNM BLLSOPWO
+     FFVDB FUU EGXIUNIULM BIU TQIX WMIYN QX KQNBQHHWEIUM KTWX LWRFJVURVL
+     FZHRTFJNE QIVGBEYN ISL UOOBADWI ZXTZBKOWA  LRTXVW ILZGEM IRG
+     HSTVMSBGD JB XKJ WHVM YQOE XV DLIEYB AYIVEVMRW YLHC BMM GQDQTPJRA
+     JQWUWDMF AONIFYW AQM WMUUUBW SWSKDKJL  QNN KEQSSA MZFE C CXUTOJXL
+     HSULTZAKOW JC VFCPWO NB KS MQJINGBUB TZ KMYWWVNFSN BT XGROWVP TGY
+     KVVV AHIPNRVK PNGYXNNTO FXZ IAFQWUM BQVH CPEW IICRKJ  BJAC AIW TJ
+     UEYJUJBGRB IRG XCZCMR ZGQDQVHRIUCA GMEADAI QZQLAWZA QTQMV SJSWUM
+     FVL JKHWOPUQWKNRN SCXB VHJB YVNRN XBMMT CXUTRSIUCA UMTHJXW
+     MSVCWS WRIWMH WMEA KWYP VHN PEUIAHAM FVF TQM WRKXDJZJ EGRN PMJMPF
+     NQWXZYIPT  VWWW TJ AQM UZQBUMQV IMZLCXAGD CWHDD LHEM GMGN BWPYJH PW
+     SYTNZTCU DRNJHWIUC EFGU BH WXKJV WNWUTG  TQWYJM MA RA LWQD CW FH
+     HSNWQEIPT XN ZDWMVDA JFREAQIQHIZ CPNA KS WWX WT WHH BMIV IC EMOQ
+     FPDJGX JG TQCW
+
+      FX UJT YPG TQZSXLLWDB WIVE XN XKJ WJJVSQPG YZSFJWZ OWW XCPNZ
+     UENN JD XCGN XIUKSYVQSO QCA ZEQLIZ OZTU  VO  YIKHX TLA LFG
+     SSA YMWNQRVQRJ TGY RA HWPSRLIUFFSH NFAVEA IPWMSBPP MWY MDKL IFWANZ
+     NW UXB PVQWW  BLLX MZ OWW AEAWVMQL JYXU GWWNM JSRPW DQQHP KS VCGK
+     XPVFMW
+
+      BEANZX KQMVMRWJH VW ENVFOF UEQFKLVMSB SUNAXLTRZ  MMH XTOYWWHI EU
+     CAPWLTEU SXTYWNSU FPNKJ WJA TUTFSNUFBKCJT JRW XDX ZJIUOWA  SQJ AHB
+     USIB ZJYWIAMQHSX AX JJ IDLN BS PFRPYCQIVE RUEJJW VW BMM YOASWWFXPXV
+     FRK KZNVI TQMQ GTAU CW YPG WXZOVYEARWS QVSNTJ DSH AQM TBJEA EEV
+     SIAFWWS WSJOI
+
+                                 
+
+

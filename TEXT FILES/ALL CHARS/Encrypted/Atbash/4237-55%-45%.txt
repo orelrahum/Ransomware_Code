@@ -1,0 +1,102 @@
+in some of the OCR technology, some of the processes, and some of the
+standards acceptances, which, though they may lead to somewhat lower costs,
+do not offer much encouragement to many people who are anxiously awaiting
+the day that the entire contents of LC are available on-line.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZIDAR * Several answers to why one attempts to perform full-text
+conversion * Per page cost of performing OCR * Typical problems
+encountered during editing * Editing poor copy OCR vs. rekeying *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Judith ZIDAR, coordinator, National Agricultural Text Digitizing Program
+(NATDP), National Agricultural Library (NAL), offered several answers to
+the question of why one attempts to perform full-text conversion:  1)
+Text in an image can be read by a human but not by a computer, so of
+course it is not searchable and there is not much one can do with it.  2)
+Some material simply requires word-level access.  For instance, the legal
+profession insists on full-text access to its material; with taxonomic or
+geographic material, which entails numerous names, one virtually requires
+word-level access.  3) Full text permits rapid browsing and searching,
+something that cannot be achieved in an image with today's technology.
+4) Text stored as ASCII and delivered in ASCII is standardized and highly
+portable.  5) People just want full-text searching, even those who do not
+know how to do it.  NAL, for the most part, is performing OCR at an
+actual cost per average-size page of approximately $7.  NAL scans the
+page to create the electronic image and passes it through the OCR device.
+
+ZIDAR next rehearsed several typical problems encountered during editing.
+Praising the celerity of her student workers, ZIDAR observed that editing
+requires approximately five to ten minutes per page, assuming that there
+are no large tables to audit.  Confusion among the three characters I, 1,
+and l, constitutes perhaps the most common problem encountered.  Zeroes
+and  O's also are  frequently confused.  Double M's create a particular
+problem, even on clean pages.  They are so wide in most fonts that they
+touch, and the system simply cannot tell where one letter ends and the
+other begins.  Complex page formats occasionally fail to columnate
+properly, which entails rescanning as though one were working with a
+single column, entering the ASCII, and decolumnating for better
+searching.  With proportionally spaced text, OCR can have difficulty
+discerning what is a space and what are merely spaces between letters, as
+opposed to spaces between words, and therefore will merge text or break
+up words where it should not.
+
+ZIDAR said that it can often take longer to edit a poor-copy LXI GSZM GL
+PVB RG UILN HXIZGXS.  MZO SZH ZOHL VCKVIRNVMGVW DRGS KZIGRZO VWRGRMT LU
+GVCG, DSVIVYB KILQVXG DLIPVIH TL RMGL ZMW XOVZM FK GSV ULINZG, IVNLERMT
+HGIZB XSZIZXGVIH YFG MLG IFMMRMT Z HKVOO-XSVXP.  MZO XLIIVXGH GBKLH RM
+GSV GRGOV ZMW ZFGSLIH' MZNVH, DSRXS KILERWVH Z ULLGSLOW ULI HVZIXSRMT ZMW
+YILDHRMT.  VEVM VCGIVNVOB KLLI-JFZORGB LXI (V.T., 60-KVIXVMG ZXXFIZXB)
+XZM HGROO YV HVZIXSVW, YVXZFHV MFNVILFH DLIWH ZIV XLIIVXG, DSROV GSV
+RNKLIGZMG DLIWH ZIV KILYZYOB IVKVZGVW LUGVM VMLFTS GSZG GSVB ZIV ORPVOB
+GL YV ULFMW XLIIVXG HLNVDSVIV.  ORYIZIRZMH, SLDVEVI, XZMMLG GLOVIZGV GSRH
+HRGFZGRLM, GSLFTS VMW FHVIH HVVN NLIV DROORMT GL FHV GSRH GVCG ULI
+HVZIXSRMT, KILERWVW GSZG MZO RMWRXZGVH GSZG RG RH FMVWRGVW.  ARWZI
+XLMXOFWVW GSZG IVPVBRMT LU GVCG NZB YV GSV YVHG ILFGV GL GZPV, RM HKRGV
+LU MFNVILFH KILYOVNH DRGS JFZORGB XLMGILO ZMW XLHG.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WRHXFHHRLM * NLWRUBRMT ZM RNZTV YVULIV KVIULINRMT LXI * MZO'H XLHGH KVI
+KZTV *ZN'H XLHGH KVI KZTV ZMW VCKVIRVMXV DRGS UVWVIZO KIRHLM RMWFHGIRVH *
+VOVNVMGH XLNKIRHRMT MZGWK'H XLHGH KVI KZTV * LXI ZMW HGIFXGFIVW NZIPFK *
+WRHGRMXGRLM YVGDVVM GSV HGIFXGFIV LU Z WLXFNVMG ZMW RGH IVKIVHVMGZGRLM
+DSVM KFG LM GSV HXIVVM LI KIRMGVW *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SLLGLM KIVUZXVW GSV OVMTGSB WRHXFHHRLM GSZG ULOOLDVW DRGS HVEVIZO
+XLNNVMGH ZYLFG NLWRUBRMT ZM RNZTV YVULIV LMV IVZXSVH GSV KLRMG LU
+KVIULINRMT LXI.  ULI VCZNKOV, RM IVTZIW GL ZM ZKKORXZGRLM XLMGZRMRMT Z
+HRTMRURXZMG ZNLFMG LU IVWFMWZMG WZGZ, HFXS ZH ULIN-GBKV WZGZ, MFNVILFH
+XLNKZMRVH GLWZB ZIV DLIPRMT LM EZIRLFH PRMWH LU ULIN IVMVDZO, KIRLI GL
+TLRMT GSILFTS Z IVXLTMRGRLM KILXVHH, YB FHRMT WILKLFG XLOLIH.  GSFH,
+ZXJFRIRMT ZXXVHH GL ULIN WVHRTM LI FHRMT VOVXGILMRX NVZMH ZIV DLIGS
+XLMHRWVIRMT.  SLLGLM ZOHL MLGVW GSZG XLMEVIHRLM FHFZOOB NZPVH LI YIVZPH
+LMV'H RNZTRMT HBHGVN.  RG RH VCGIVNVOB RNKLIGZMG, VCGIVNVOB XLHGOB RM
+GVINH LU VRGSVI XZKRGZO RMEVHGNVMG LI HVIERXV, ZMW WVGVINRMVH GSV JFZORGB
+LU GSV IVNZRMWVI LU LMV'H HBHGVN, YVXZFHV RG WVGVINRMVH GSV XSZIZXGVI LU
+GSV IZD NZGVIRZO FHVW YB GSV HBHGVN.
+
+XLMXVIMRMT GSV ULFI KILQVXGH FMWVIGZPVM YB MZO, GDL RMHRWV ZMW GDL
+KVIULINVW YB LFGHRWV XLMGIZXGLIH, ARWZI IVEVZOVW GSZG ZM RM-SLFHV HVIERXV
+YFIVZF VCVXFGVW GSV URIHG ZG Z XLHG YVGDVVM $8 ZMW $10 KVI KZTV ULI
+VEVIBGSRMT, RMXOFWRMT YFROWRMT LU GSV WZGZYZHV.  GSV KILQVXG FMWVIGZPVM
+YB GSV XLMHFOGZGREV TILFK LM RMGVIMZGRLMZO ZTIRXFOGFIZO IVHVZIXS (XTRZI)
+XLHG ZKKILCRNZGVOB $10 KVI KZTV ULI GSV XLMEVIHRLM, KOFH HLNV VCKVMHVH
+ULI GSV HLUGDZIV ZMW YFROWRMT LU GSV WZGZYZHV.  GSV ZXRW IZRM KILQVXG--Z
+GDL-WRHP HVG KILWFXVW YB GSV FMREVIHRGB LU EVINLMG, XLMHRHGRMT LU
+XZMZWRZM KFYORXZGRLMH LM ZXRW IZRM--XLHG $6.70 KVI KZTV ULI VEVIBGSRMT,
+RMXOFWRMT PVBRMT LU GSV GVCG, DSRXS DZH WLFYOV PVBVW, HXZMMRMT LU GSV
+RNZTVH, ZMW YFROWRMT LU GSV WZGZYZHV.  GSV RM-SLFHV KILQVXG LUUVIVW
+XLMHRWVIZYOV VZHV LU XLMEVMRVMXV ZMW TIVZGVI XLMGILO LU GSV KILXVHH.  LM
+GSV LGSVI SZMW, GSV HVIERXV YFIVZFH PMLD GSVRI QLY ZMW KVIULIN RG
+VCKVWRGRLFHOB, YVXZFHV GSVB SZEV NLIV KVLKOV.
+
+ZH Z FHVUFO XLNKZIRHLM, VIDZB IVEVZOVW ZN'H XLHGH ZH ULOOLDH:  $0.75
+XVMGH GL $0.85 XVMGH KVI GSLFHZMW XSZIZXGVIH, DRGS ZM ZEVIZTV KZTV
+XLMGZRMRMT 2,700 XSZIZXGVIH.  IVJFRIVNVMGH ULI XLWRMT ZMW RNZTRMT
+RMXIVZHV GSV XLHGH.  GSFH, XLMEVIHRLM LU GSV GVCG, RMXOFWRMT GSV XLWRMT,
+XLHGH ZKKILCRNZGVOB $3 KVI KZTV.  (GSRH URTFIV WLVH MLG RMXOFWV GSV

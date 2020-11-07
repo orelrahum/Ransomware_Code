@@ -1,0 +1,836 @@
+     Special Assistant to the Associate Librarian
+       for Special Projects
+     Library of Congress
+     Phone:  202 7076233
+     Fax:  202 7073764
+     Email:  rzicseq1.loc.gov
+
+     Judith A. Zidar, Coordinator
+     National Agricultural Text Digitizing Program
+     Information Systems Division
+     National Agricultural Library
+     10301 Baltimore Boulevard
+     Beltsville, MD 207052351
+     Phone:  301 5046813 or 5045853
+     Fax:  301 5047473
+     Email:  INTERNET:  JZIDARASRR.ARSUSDA.GOV
+
+
+OBSERVERS:
+
+     Helen Aguera, Program Officer
+     Division of Research
+     Room 318
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, D.C. 20506
+     Phone:  202 7860358
+     Fax:  202 7860243
+
+     M. Ellyn Blanton, Deputy Director
+     National Demonstration Laboratory
+       for Interactive Information Technologies
+     Library of Congress
+     Phone:  202 7074157
+     Fax:  202 7072829
+
+     Charles M. Dollar
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th  Pennsylvania, N.W.
+     Washington, DC 20408
+     Phone:  202 5015532
+     Fax:  202 5015512
+
+     Jeffrey Field, Deputy to the Director
+     Division of Preservation and Access
+     Room 802
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, DC 20506
+     Phone:  202 7860570
+     Fax:  202 7860243
+
+     Lorrin Garson
+     American Chemical Society
+     Research and Development Department
+     1155 16th Street, N.W.
+     Washington, D.C. 20036
+     Phone:  202 8724541
+     Fax:  Email:  INTERNET:  LRG96ACS.ORG
+
+     William M. Holmes, Jr.
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th  Pennsylvania, N.W.
+     Washington, DC 20408
+     Phone:  202 5015540
+     Fax:  202 5015512
+     Email:  WHOLMESAMERICAN.EDU
+
+     Sperling Martin
+     Information Resource Management
+     20030 Doolittle Street
+     Gaithersburg, MD 20879
+     Phone:  301 9241803
+
+     Michael Neuman, Director
+     The Center for Text and Technology
+     Academic Computing Center
+     238 Reiss Science Building
+     Georgetown University
+     Washington, DC 20057
+     Phone:  202 6876096
+     Fax:  202 6876003
+     Email:  neumanguvax.bitnet, neumanguvax.georgetown.edu
+
+     Barbara Paulson, Program Officer
+     Division of Preservation and Access
+     Room 802
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, DC 20506
+     Phone:  202 7860577
+     Fax:  202 7860243
+
+     Allen H. Renear
+     Senior Academic Planning Analyst
+     Brown University Computing and Information Services
+     115 Waterman Street
+     Campus Box 1885
+     Providence, R.I. 02912
+     Phone:  401 8637312
+     Fax:  401 8637329
+     Email:  BITNET:  AllenBROWNVM or
+     INTERNET:  Allenbrownvm.brown.edu
+
+     Susan M. Severtson, President
+     ChadwyckHealey, Inc.
+     1101 King Street
+     Alexandria, VA 223l4
+     Phone:  800 75205l5
+     Fax:  703 6837589
+
+     Frank Withrow
+     U.S. Department of Education
+     555 New Jersey Avenue, N.W.
+     Washington, DC 202085644
+     Phone:  202 2192200
+     Fax:  202 2192106
+
+
+LC STAFF
+
+     Linda L. Arret
+     MachineReadable Collections Reading Room LJ 132
+     202 7071490
+
+     John D. Byrum, Jr.
+     Descriptive Cataloging Division LM 540
+     202 7075194
+
+     Mary Jane Cavallo
+     Science and Technology Division LA 5210
+     202 7071219
+
+     Susan Thea David
+     Congressional Research Service LM 226
+     202 7077169
+
+     Robert Dierker
+     Senior Adviser for Multimedia Activities LM 608
+     202 7076151
+
+     William W. Ellis
+     Associate Librarian for Science and Technology LM 611
+     202 7076928
+
+     Ronald Gephart
+     Manuscript Division LM 102
+     202 7075097
+
+     James Graber
+     Information Technology Services LM G51
+     202 7079628
+
+     Rich Greenfield
+     American Memory LM 603
+     202 7076233
+
+     Rebecca Guenther
+     Network Development LM 639
+     202 7075092
+
+     Kenneth E. Harris
+     Preservation LM G21
+     202 7075213
+
+     Staley Hitchcock
+     Manuscript Division LM 102
+     202 7075383
+
+     Bohdan Kantor
+     Office of Special Projects LM 612
+     202 7070180
+
+     John W. Kimball, Jr
+     MachineReadable Collections Reading Room LJ 132
+     202 7076560
+
+     Basil Manns
+     Information Technology Services LM G51
+     202 7078345
+
+     Sally Hart McCallum
+     Network Development LM 639
+     202 7076237
+
+     Dana J. Pratt
+     Publishing Office LM 602
+     202 7076027
+
+     Jane Riefenhauser
+     American Memory LM 603
+     202 7076233
+
+     William Z. Schenck
+     Collections Development LM 650
+     202 7077706
+
+     Chandru J. Shahani
+     Preservation Research and Testing Office RT LM G38
+     202 7075607
+
+     William J. Sittig
+     Collections Development LM 650
+     202 7077050
+
+     Paul Smith
+     Manuscript Division LM 102
+     202 7075097
+
+     James L. Stevens
+     Information Technology Services LM G51
+     202 7079688
+
+     Karen Stuart
+     Manuscript Division LM 130
+     202 7075389
+
+     Tamara Swora
+     Preservation Microfilming Office LM G05
+     202 7076293
+
+     Sarah Thomas
+     Collections Cataloging LM 642
+     202 7075333
+
+
+                                   END
+      
+
+Note:  This file has been edited for use on computer networks.  This
+editing required the removal of diacritics, underlining, and fonts such
+as italics and bold.
+
+kde 1192
+
+A few of the italics when used for emphasis were replaced by CAPS mh
+
+End of The Project Gutenberg Etext of LOC WORKSHOP ON ELECTRONIC ETEXTS
+
+
+This is the February 1992 Project Gutenberg release of:
+
+Paradise Lost by John Milton
+
+The oldest etext known to Project Gutenberg ca. 19641965
+If you know of any older ones, please let us know.
+
+
+Introduction  one page
+
+This etext was originally created in 19641965 according to Dr.
+Joseph Raben of Queens College, NY, to whom it is attributed by
+Project Gutenberg.  We had heard of this etext for years but it
+was not until 1991 that we actually managed to track it down to
+a specific location, and then it took months to convince people
+to let us have a copy, then more months for them actually to do
+the copying and get it to us.  Then another month to convert to
+something we could massage with our favorite 486 in DOS.  After
+that is was only a matter of days to get it into this shape you
+will see below.  The original was, of course, in CAPS only, and
+so were all the other etexts of the 60s and early 70s.  Dont
+let anyone fool you into thinking any etext with both upper and
+lower case is an original all those original Project Gutenberg
+etexts were also in upper case and were translated or rewritten
+many times to get them into their current condition.  They have
+been worked on by many people throughout the world.
+
+In the course of our searches for Professor Raben and his etext
+we were never able to determine where copies were or which of a
+variety of editions he may have used as a source.  We did get a
+little information here and there, but even after we received a
+copy of the etext we were unwilling to release it without first
+determining that it was in fact Public Domain and finding Raben
+to verify this and get his permission.  Interested enough, in a
+totally unrelated action to our searches for him, the professor
+subscribed to the Project Gutenberg listserver and we happened,
+by accident, to notice his name. We dont really look at every
+subscription request as the computers usually handle them. The
+etext was then properly identified, copyright analyzed, and the
+current edition prepared.
+
+To give you an estimation of the difference in the original and
+what we have today:  the original was probably entered on cards
+commonly known at the time as "IBM cards" Do Not Fold, Spindle
+or Mutilate and probably took in excess of 100,000 of them.  A
+single card could hold 80 characters hence 80 characters is an
+accepted standard for so many computer margins, and the entire
+original edition we received in all caps was over 800,000 chars
+in length, including line enumeration, symbols for caps and the
+punctuation marks, etc., since they were not available keyboard
+characters at the time probably the keyboards operated at baud
+rates of around 113, meaning the typists had to type slowly for
+the keyboard to keep up.
+
+This is the second version of Paradise Lost released by Project
+Gutenberg.  The first was released as our October, 1991 etext.
+
+
+
+
+
+Paradise Lost
+
+
+
+
+Book I
+
+
+Of Mans first disobedience, and the fruit
+Of that forbidden tree whose mortal taste
+Brought death into the World, and all our woe,
+With loss of Eden, till one greater Man
+Restore us, and regain the blissful seat,
+Sing, Heavenly Muse, that, on the secret top
+Of Oreb, or of Sinai, didst inspire
+That shepherd who first taught the chosen seed
+In the beginning how the heavens and earth
+Rose out of Chaos: or, if Sion hill
+Delight thee more, and Siloas brook that flowed
+Fast by the oracle of God, I thence
+Invoke thy aid to my adventurous song,
+That with no middle flight intends to soar
+Above th Aonian mount, while it pursues
+Things unattempted yet in prose or rhyme.
+And chiefly thou, O Spirit, that dost prefer
+Before all temples th upright heart and pure,
+Instruct me, for thou knowst thou from the first
+Wast present, and, with mighty wings outspread,
+Dovelike satst brooding on the vast Abyss,
+And madst it pregnant: what in me is dark
+Illumine, what is low raise and support
+That, to the height of this great argument,
+I may assert Eternal Providence,
+And justify the ways of God to men.
+  Say firstfor Heaven hides nothing from thy view,
+Nor the deep tract of Hellsay first what cause
+Moved our grand parents, in that happy state,
+Favoured of Heaven so highly, to fall off
+From their Creator, and transgress his will
+For one restraint, lords of the World besides.
+Who first seduced them to that foul revolt?
+  Th infernal Serpent he it was whose guile,
+Stirred up with envy and revenge, deceived
+The mother of mankind, what time his pride
+Had cast him out from Heaven, with all his host
+Of rebel Angels, by whose aid, aspiring
+To set himself in glory above his peers,
+He trusted to have equalled the Most High,
+If he opposed, and with ambitious aim
+Against the throne and monarchy of God,
+Raised impious war in Heaven and battle proud,
+With vain attempt. Him the Almighty Power
+Hurled headlong flaming from th ethereal sky,
+With hideous ruin and combustion, down
+To bottomless perdition, there to dwell
+In adamantine chains and penal fire,
+Who durst defy th Omnipotent to arms.
+  Nine times the space that measures day and night
+To mortal men, he, with his horrid crew,
+Lay vanquished, rolling in the fiery gulf,
+Confounded, though immortal. But his doom
+Reserved him to more wrath for now the thought
+Both of lost happiness and lasting pain
+Torments him: round he throws his baleful eyes,
+That witnessed huge affliction and dismay,
+Mixed with obdurate pride and steadfast hate.
+At once, as far as Angels ken, he views
+The dismal situation waste and wild.
+A dungeon horrible, on all sides round,
+As one great furnace flamed yet from those flames
+No light but rather darkness visible
+Served only to discover sights of woe,
+Regions of sorrow, doleful shades, where peace
+And rest can never dwell, hope never comes
+That comes to all, but torture without end
+Still urges, and a fiery deluge, fed
+With everburning sulphur unconsumed.
+Such place Eternal Justice has prepared
+For those rebellious here their prison ordained
+In utter darkness, and their portion set,
+As far removed from God and light of Heaven
+As from the centre thrice to th utmost pole.
+Oh how unlike the place from whence they fell!
+There the companions of his fall, oerwhelmed
+With floods and whirlwinds of tempestuous fire,
+He soon discerns and, weltering by his side,
+One next himself in power, and next in crime,
+Long after known in Palestine, and named
+Beelzebub. To whom th ArchEnemy,
+And thence in Heaven called Satan, with bold words
+Breaking the horrid silence, thus began:
+  "If thou beest hebut O how fallen! how changed
+From him who, in the happy realms of light
+Clothed with transcendent brightness, didst outshine
+Myriads, though bright!if he whom mutual league,
+United thoughts and counsels, equal hope
+And hazard in the glorious enterprise
+Joined with me once, now misery hath joined
+In equal ruin into what pit thou seest
+From what height fallen: so much the stronger proved
+He with his thunder and till then who knew
+The force of those dire arms? Yet not for those,
+Nor what the potent Victor in his rage
+Can else inflict, do I repent, or change,
+Though changed in outward lustre, that fixed mind,
+And high disdain from sense of injured merit,
+That with the Mightiest raised me to contend,
+And to the fierce contentions brought along
+Innumerable force of Spirits armed,
+That durst dislike his reign, and, me preferring,
+His utmost power with adverse power opposed
+In dubious battle on the plains of Heaven,
+And shook his throne. What though the field be lost?
+All is not lostthe unconquerable will,
+And study of revenge, immortal hate,
+And courage never to submit or yield:
+And what is else not to be overcome?
+That glory never shall his wrath or might
+Extort from me. To bow and sue for grace
+With suppliant knee, and deify his power
+Who, from the terror of this arm, so late
+Doubted his empirethat were low indeed
+That were an ignominy and shame beneath
+This downfall since, by fate, the strength of Gods,
+And this empyreal sybstance, cannot fail
+Since, through experience of this great event,
+In arms not worse, in foresight much advanced,
+We may with more successful hope resolve
+To wage by force or guile eternal war,
+Irreconcilable to our grand Foe,
+Who now triumphs, and in th excess of joy
+Sole reigning holds the tyranny of Heaven."
+  So spake th apostate Angel, though in pain,
+Vaunting aloud, but racked with deep despair
+And him thus answered soon his bold compeer:
+  "O Prince, O Chief of many throned Powers
+That led th embattled Seraphim to war
+Under thy conduct, and, in dreadful deeds
+Fearless, endangered Heavens perpetual King,
+And put to proof his high supremacy,
+Whether upheld by strength, or chance, or fate,
+Too well I see and rue the dire event
+That, with sad overthrow and foul defeat,
+Hath lost us Heaven, and all this mighty host
+In horrible destruction laid thus low,
+As far as Gods and heavenly Essences
+Can perish: for the mind and spirit remains
+Invincible, and vigour soon returns,
+Though all our glory extinct, and happy state
+Here swallowed up in endless misery.
+But what if he our Conqueror whom I now
+Of force believe almighty, since no less
+Than such could have oerpowered such force as ours
+Have left us this our spirit and strength entire,
+Strongly to suffer and support our pains,
+That we may so suffice his vengeful ire,
+Or do him mightier service as his thralls
+By right of war, whateer his business be,
+Here in the heart of Hell to work in fire,
+Or do his errands in the gloomy Deep?
+What can it the avail though yet we feel
+Strength undiminished, or eternal being
+To undergo eternal punishment?"
+  Whereto with speedy words th ArchFiend replied:
+"Fallen Cherub, to be weak is miserable,
+Doing or suffering: but of this be sure
+To do aught good never will be our task,
+But ever to do ill our sole delight,
+As being the contrary to his high will
+Whom we resist. If then his providence
+Out of our evil seek to bring forth good,
+Our labour must be to pervert that end,
+And out of good still to find means of evil
+Which ofttimes may succeed so as perhaps
+Shall grieve him, if I fail not, and disturb
+His inmost counsels from their destined aim.
+But see! the angry Victor hath recalled
+His ministers of vengeance and pursuit
+Back to the gates of Heaven: the sulphurous hail,
+Shot after us in storm, oerblown hath laid
+The fiery surge that from the precipice
+Of Heaven received us falling and the thunder,
+Winged with red lightning and impetuous rage,
+Perhaps hath spent his shafts, and ceases now
+To bellow through the vast and boundless Deep.
+Let us not slip th occasion, whether scorn
+Or satiate fury yield it from our Foe.
+Seest thou yon dreary plain, forlorn and wild,
+The seat of desolation, void of light,
+Save what the glimmering of these livid flames
+Casts pale and dreadful? Thither let us tend
+From off the tossing of these fiery waves
+There rest, if any rest can harbour there
+And, reassembling our afflicted powers,
+Consult how we may henceforth most offend
+Our enemy, our own loss how repair,
+How overcome this dire calamity,
+What reinforcement we may gain from hope,
+If not, what resolution from despair."
+  Thus Satan, talking to his nearest mate,
+With head uplift above the wave, and eyes
+That sparkling blazed his other parts besides
+Prone on the flood, extended long and large,
+Lay floating many a rood, in bulk as huge
+As whom the fables name of monstrous size,
+Titanian or Earthborn, that warred on Jove,
+Briareos or Typhon, whom the den
+By ancient Tarsus held, or that seabeast
+Leviathan, which God of all his works
+Created hugest that swim th oceanstream.
+Him, haply slumbering on the Norway foam,
+The pilot of some small nightfoundered skiff,
+Deeming some island, oft, as seamen tell,
+With fixed anchor in his scaly rind,
+Moors by his side under the lee, while night
+Invests the sea, and wished morn delays.
+So stretched out huge in length the Archfiend lay,
+Chained on the burning lake nor ever thence
+Had risen, or heaved his head, but that the will
+And high permission of allruling Heaven
+Left him at large to his own dark designs,
+That with reiterated crimes he might
+Heap on himself damnation, while he sought
+Evil to others, and enraged might see
+How all his malice served but to bring forth
+Infinite goodness, grace, and mercy, shewn
+On Man by him seduced, but on himself
+Treble confusion, wrath, and vengeance poured.
+  Forthwith upright he rears from off the pool
+His mighty stature on each hand the flames
+Driven backward slope their pointing spires, and,rolled
+In billows, leave i th midst a horrid vale.
+Then with expanded wings he steers his flight
+Aloft, incumbent on the dusky air,
+That felt unusual weight till on dry land
+He lightsif it were land that ever burned
+With solid, as the lake with liquid fire,
+And such appeared in hue as when the force
+Of subterranean wind transprots a hill
+Torn from Pelorus, or the shattered side
+Of thundering Etna, whose combustible
+And fuelled entrails, thence conceiving fire,
+Sublimed with mineral fury, aid the winds,
+And leave a singed bottom all involved
+With stench and smoke. Such resting found the sole
+Of unblest feet. Him followed his next mate
+Both glorying to have scaped the Stygian flood
+As gods, and by their own recovered strength,
+Not by the sufferance of supernal Power.
+  "Is this the region, this the soil, the clime,"
+Said then the lost Archangel, "this the seat
+That we must change for Heaven?this mournful gloom
+For that celestial light? Be it so, since he
+Who now is sovereign can dispose and bid
+What shall be right: farthest from him is best
+Whom reason hath equalled, force hath made supreme
+Above his equals. Farewell, happy fields,
+Where joy for ever dwells! Hail, horrors! hail,
+Infernal world! and thou, profoundest Hell,
+Receive thy new possessorone who brings
+A mind not to be changed by place or time.
+The mind is its own place, and in itself
+Can make a Heaven of Hell, a Hell of Heaven.
+What matter where, if I be still the same,
+And what I should be, all but less than he
+Whom thunder hath made greater? Here at least
+We shall be free th Almighty hath not built
+Here for his envy, will not drive us hence:
+Here we may reigh secure and, in my choice,
+To reign is worth ambition, though in Hell:
+Better to reign in Hell than serve in Heaven.
+But wherefore let we then our faithful friends,
+Th associates and copartners of our loss,
+Lie thus astonished on th oblivious pool,
+And call them not to share with us their part
+In this unhappy mansion, or once more
+With rallied arms to try what may be yet
+Regained in Heaven, or what more lost in Hell?"
+  So Satan spake and him Beelzebub
+Thus answered:"Leader of those armies bright
+Which, but th Omnipotent, none could have foiled!
+If once they hear that voice, their liveliest pledge
+Of hope in fears and dangersheard so oft
+In worst extremes, and on the perilous edge
+Of battle, when it raged, in all assaults
+Their surest signalthey will soon resume
+New courage and revive, though now they lie
+Grovelling and prostrate on yon lake of fire,
+As we erewhile, astounded and amazed
+No wonder, fallen such a pernicious height!"
+  He scare had ceased when the superior Fiend
+Was moving toward the shore his ponderous shield,
+Ethereal temper, massy, large, and round,
+Behind him cast. The broad circumference
+Hung on his shoulders like the moon, whose orb
+Through optic glass the Tuscan artist views
+At evening, from the top of Fesole,
+Or in Valdarno, to descry new lands,
+Rivers, or mountains, in her spotty globe.
+His spearto equal which the tallest pine
+Hewn on Norwegian hills, to be the mast
+Of some great ammiral, were but a wand
+He walked with, to support uneasy steps
+Over the burning marl, not like those steps
+On Heavens azure and the torrid clime
+Smote on him sore besides, vaulted with fire.
+Nathless he so endured, till on the beach
+Of that inflamed sea he stood, and called
+His legionsAngel Forms, who lay entranced
+Thick as autumnal leaves that strow the brooks
+In Vallombrosa, where th Etrurian shades
+High overarched embower or scattered sedge
+Afloat, when with fierce winds Orion armed
+Hath vexed the RedSea coast, whose wavJA QEABLUJA
+GYZRZNA CNM PMV RITYPNIP CQQZDQVF,
+BLPUM BQVH YMVINHPXCX PCTAMH WMIF YCWAWEM
+YLL BWOWWRWMVV TJ NXAMMP, WQW FHMISM
+KVVV BMM UAOM WKTVL CPJQT FUWEWNRN LIWKCSNA
+FRK KZTSGN LPEUNSAFPJMNS. BW XKNGR KMXBTOFV,
+FFQNKY IPD UWWW, QEF CPJAG, CXDIUNRN CPJ NNOXL,
+ZRKNZ FUCZNUIQY SM CPJQT HRLIRZW JQISOG.
+MI JJTQMF SX TSXI XOJB FTN TQM LRQPVF LJMR
+TJ ONTQ ZGSXCRGJH:"WAQSKGS, YWXHSXHCMX,
+BEYAQTZU, TQM JOTALA WK PGAEMRRSGL HWZZU NXE PRXX,
+NJ ZDKM IUTXVMVMQLWB FA VHRA GDS WLRHJ
+JXLAVFT UPRZMWX! SY QIAM AE LPSVJR AQQX XNALM
+FJANZ YPG TXQP RK FHCBQM VO AMTRXI
+DSBA EJITINL ZLWXBN, NTZ VHN MEVJ CVD NNVF
+YS ZUCRJGR QMVH, FW PW BMM XAUMW RK LLJDJV?
+TV PW BMQU AKRIFY TVBBZZG HJDI BJ WDXZS
+YS HMWWM VHN KSQVYLAWW, EJO WWA EJLVULX
+HLLACG IPD BMVDUL YXTQQPG RV XKJ JSXWI
+BMAQ AHIVTNZIG FVTB ISL GNBQKQX, XPUT FVQN
+MMZ BENNV PDZWXJVZ OZTU JEJDIQLEANA IQUCNZR
+YL HMDFVVAPM, EQI, HLBKJVFIWO, XUJEK DA IWYN
+YLBB LWWQPRVK, RW APCP QQPKNL XKZRKNZGWNTB
+YVHWAKQZ UB BS WMI IXBYWO OO BLLX KBUN?
+FAHTM, FZKSN, WV EJ JVA MAMT FJTPHS!"
+  YLLH PJITD, JVH ZJVL JJFAJEM, IRG ZT AQMD ARRDVK
+ZTVW BMM YIWO, EV BLLW UJV YOWB XR BEALP
+TR KDBD, ANENXMQL JVDVI JA WQWQ WMIF MZJIF,
+WSBBM FVF BNAXLW XONUXMNVNA IUJ ALUT FECKN.
+SSY MQI BJEH VSW UIYLMNDG TQM IYNP WUQLPV
+NR DQQHP VHNG AHWI, VA BMM HINZGH UEPWA SWV FNMP
+DIA CW YPGIA OIQJVHUA AWKCN BLHD WVXV TJGYNL
+NRUDUJZCBUM. EV BLLW BMM ROCMRW WSK
+TJ HVZFUU SXV, MQ JKFYBX MXIU LEB,
+BECNL WWWNM BLH HSHBB, ZXEAUTIG F TPCKMG ELXCH
+TJ SXKZAVS, FIVSNRN XV YPG EJAXHWR DRVI,
+YLHC WJZ VHN ZIDQQ VO QRXKODA TKFVHXP MCPG
+QMRN VNOJT, JVH GFVRNVJL CLU BLH QEUM WK VKLN
+XS UDUGMTLNAW ZJVL CPTAG BJL EQLISB AJMP
+MSCNZNVI OW EMQL YUMMW BJE LWTH TJ ONTQ,
+YAPGB ZXREA, VIWMIY, JVI AWRAWYQIMUP NNZGS
+YMSU, IX I UIPVEO LMCNV, YP WPUQJWJH ZYMFZ
+TJ AQMNZ IRNIX VZPAJV BIXIWO XR IMYNKY
+YLLRZ HWWRBM, MQ JZLW JFTCNLM HRBR AQMD TKGQB
+TR AQM KQTM KZMPXXVWM, FVF FRTP DQP AQM UTCIW:
+F QBUBNBWDN TMNJ AORKM BJE YWTXQSBB VTZVH
+USBAMI VGVNZ JUTQ ONZ KZQZNV PRNRZ CW UIUS
+WLLWM TZ VHN LEQFA, DQMS PGR KIVEFVVDA XWPS
+HETN TNSG A MMPXLI VW BMM UODBL, DSH ZYZJIF
+GIUNIYP IIKZEOYEY CW YPG LRJCDS WHWLX.
+KSYCPBQVH, OWVP JZLAG XYWAMZSQ FRK NIHP DAWL,
+YLL QMFLU AWL PHFHLAA YPKTQMV KFWAN EMMTE BBSRI
+YLLRZ LZGAC KSPREUMMWOQDUQOH XLHYMX, IPD OWVPX
+JBJNTQQPG QCQDS TYRVHMNY MQKQNXPNA
+FRK YWBMTS CPEW JVZC QS PGAEMR VFX VW BMZQNNA,
+YLVDOM WP TQMMU SETNA NV JEJDIQQC YNKTZFS WWA
+GI UX UJUQRRIP, EQSACMI WWT JVH UFWLM
+GC AQMNZ TEKMPONSU OZTU VHN JSRPW VO TNNG.
+SSY QII BJEH GIW FQVWO YPG SXVW RK ICN
+LSA CPJU PEF VEPJW, ARTQ, ECNMMVLSK VNZ YPG EJZXK,
+YLYXCLP IOMA LLLL ZDNKMTAWKI ITV AQM YZKAU WJ PFR,
+GC MJTXQVINA EQI PPNA YPG GAMEWJWA YIWB
+TJ TJVPQPD CPIB HSYACUBGD CW JRWWHTM
+LSK CPJQT CAMEWTV, HWL YP KNEQWLGPL
+LPVAG TN JIV BLDY QHMM YPGM CW XUFRZOWWU
+TJA CW YPG IVIKH TJ H KZZBG, AMWVQJH
+BMAQ OFG TEUQKLTRZ OCQT QF YWQS FRK PWQL,
+FRK MMAQNS CW EGTVL OWW LGICQIV:
+YLLW EJZG TQMC NSSDW BT UGN KG ZDWMVDA SIOEB,
+FRK EIWQQUB QHRQW AQZTCIH CPI KJEAQMS EQRUL.
+  XEF, VCXM, VHNQV QFQLB BMMP KWWAQ, BLV OQWAV, WQW PDXX,
+WSBBMI NTOV BLH XPBVJJZ QN CPEW KMLAG HWWCQ,
+FX AQMNZ IRNIX HRTLAWWA EAUT, EV SIEC QS EQRCP
+HETN ANVILH ELHWI ON AYWQD XV XKJ FHAM XBTAWL,
+BLPUM YPG PAWQLXGBXCX KTOFL WWTSK HMY INOXN?
+  YLL LPNMH WNZI WMSZN EMW, HRXU XKJ TPC WK PGLU
+WSHVQSO VO BMIN YLLRZ UZGY XV IDWXO, MCWAV FRF
+YLLRZ XMCTB, TSQL EMCMW, VGXC BLH XIHC WK OQD,
+YLLRZ FTVAAA FB MMZ JTYIT, GXLW DISYNL
+FQVWO YPG NJBMRSW YXCSL, CNM LYUXX HKQIM
+OIOXDFP VHDVHHWMUP WZB QF BQSQ, YLYXVJL
+GIAFMJV VHN KLHWYIRU DMC, OOBIQ UPHLMI
+BMAQQS PKS BIRFYYHAG NBUEUN XKJMY BPWQPEB,
+FFVVQSIVIXVW DSH DRBM KWRBMH WMMUPA
+MMZ QWQG TICMW DSH ZXTJUP FNIWWX TYXNFVGD,
+FRK FQYP VHNQV GFVRWMXA FUAAX DKJYXVY PKS UQKKY.
+KMYBB, RWNOLP, LRWVPM SNVI, BNAQHFVLM ENBJ BUWSG
+TJ ODUFV UALZMINGL, JVI XCRNVXV YIHAA
+YLVDOM, NQR CPI QTMZN WK LTUVA EQI XPVJWMNS UWYG,
+YLLRZ HPKLMZIQX GYRMX CPHNIVG YLHC XFAUEM BLUTYNQ NNZG
+YS ORA LZKM RLSO. MMT CPJ IOMXVMWJ
+BSYBPNXGD RV VDGFH JVI PGR FIXHWC WUINV,
+NR HAOTJ CNM QR EFWHW, BT BJE BBVHFQ
+TJ BCUTAV AAVSQ. SSY LWSBGNC EMWM WBLP
+FYKJKNWWS WMMJMFVDZMWQD, CPI ZNWLBB MMCRC
+TJ ZXTTUQN QM PHI FF OZFWWD CW FXNPK
+MMZ CMRXNE AQKKY ENJQSAV TQM XHRTSN WK OQD
+TR AQIY WRPAWFUNSBB PNTN, AWL QDII ORA LZQVN
+YLL YTJIUAWB ZDQPLH WK PKNWWQ, WTTONB YPGNLM
+FRK KTFKM GNPIQSE JJTQMF, TQM XBUI VO PJTN.
+SIEC KMMOOB, BL RGWJNVJ LTEJL SI RSHKA XWPS,
+KVVV IWWCR CW RHGS HWL YPG WRTH
+TJ ZXCYPOOBB EEFVPV QS PGSNJSQ
+FRK QWWWPARU, WHTRZ AMFT, DEHWRG
+YLL OTTEGRH LEOJ SM BQGUC CUIH ZNXO EQSMU,
+FRK NTJINE CW XK FWWQIQBKC YWSO:
+UIVA PNA QTQMV QFQL, FPJV JE NVXLHIK
+NWYJMQ QP SRBXLR, SU CPJQT MJZGK KVVV VNTG,
+YS KX PNU YAWBSQ WMANA, BPKCQ KSVY XONU BWG.
+DIA CPJVEE QQW OZWAOCQ WTGRMW KJ IUUIWOGD
+JZLW BT BJAC PMOQ SM BKFVFAU, JC WMI NAWAM
+TJ TXTTKJ HXUMFNHL, UCXB JAAL FB MEAN,
+YMSU OTWF JXAMDM HYXDJ BJEV BLHSGL CW MMNL.
+BMAQ BMMUE LIQH YLLH EMW, HRXU XKJ FVALJZKNP NPRTH
+TJ VUL JCRHAIXHX XV CPJ JTOXS XKFX WJZYA
+JKFYB KZQM BGVLFR NAWZVF, HJL KHSIYJT SIOEB
+TJ IJIQQO AWL EVMXHAWYPVHXAI PFPL,
+YLLBM KMOIWQRH. KSY BXNZKTB, ELHS XONG UTGABM,
+HEU NQYPGR BMB DXWBVM, TZ DOCP WR XSMC
+FRK DVHWOPXCRGJH PB BMMKR NAWHSGL YCWM,
+SSA CZNMF OA UEQFGSNL BQVH SWMQY SY UQRJ,
+SSY OWZVFEM WR WMI IAQYBNE BBVHSKAQ WK JQNNA,
+QMRN KZUDRXCW IQIZQ JZB, KN FPEW XLHYM YPGY LPSRXI,
+IMSJBJL QR LWRGJRZNL, GZKGQB SU TFZLCWM,
+HEU NFJKWTN BLHNV HRZD XWRYWWHX,
+FRK FWWSU OO TSYJ SY NVRQVY OCPINP.
+KSY CPTAG TQM VDHI VO QXZCEU WJW KSYBWTS
+YLLRZ QQXIWO WWWIUPBM, IPD DVJUJUBNVYMF LNNX
+MMZ AQLPVEXCW DQXHA, JTEKNP TSZQC KXES
+YS INAYQCL PWHV KSY FPNKJ TQMMU MIHMA FA NOF
+GSDNL IWYN RV FDYXSN, AZVM BNNSUJ XON AUMCR
+TJ KNAUQEAKTI ITIZ. FQYP VHNAI LS XYXWU
+HETN IXBQRNBL, ZMST CPJ XJONVMFNEUB KFTNEM
+FWAJZYM, SUNMR RK LLJDJV, YICP GUJWJNVY PQRWA
+YS DQWXM DRROLW NQHPM SQINCTC ED XON UTWP
+XMKXVNIP VRZKLSW WJQI BJERZ ZRBW HWL XWPGB
+NR ZRWS INSX VSW ZRZDVL, EJEAM WWTSK
+MIY CMRXNE XV XK TJMNVXQXE VWYQYEPW, JZQNT
+GC AQIY CZOAQSXX OPWO BPQSN PIDWX, AQWZOJ LJZKH,
+GINDQQMF BH NELW MKXTFBTEBAIV, KISU
+YS PMWQA HODT. XKFQTDH HIOE WMBW GIORVI,
+BLVBM FVPUJT ARZRK RV QMDAWWR DQPBAMI
+YLL BGWQCN MIQVJPZ CW QIOEWB LLX JHCM
+NR HVWWWWS MQXWNIZ JTQ I UUVUIUX HHH,
+BLPUM XUQOCP EGTRPB NWWO HRA RDYMCN ZTKM
+WEU YCWXNE CW XKJ WLJ, AZXROBMH ZNXO KTTWF
+TJ AQIRUWZ HMEUQC DXCSLGD: CPI OTZLCIQM
+NRMNKYMF SRWRV IEBPPYMTS FQXK QMRN PJIV,
+BLVBM BIPTXV TDXWPXVX QP TQM WDHVLM XWWEH
+JDLTQJT UAF, ELHS, FF CPJ DKSRWR OJH,
+MMZ NGJ AWREMCHI XON LFZM IMWPDYVPNA
+TJ HUQJVCTNL NXIEO. WMCB EAVM SQJ
+BLV VWZZPEM QR HFVUNAY, EJEW BLH HEWCQAM CRT
+REPVMI PKS KZYWJ MTJOJ, PGAM IRG MEUMA QWRT XNJ,
+NR ORA TEP TNUTOJ, SU CPJ OTUWAIOJHNN,
+BLLAM MM HEUT JOFX HWL XPCMNL LLX AVAAMQRPNZW:
+IENXV MQU NJUI, VJETXVXBGR,DXADWH TJV
+FRK MWBVYAAL JLXL FNB MIF HRA XHRTSN PNOJ
+WIHAMI QP AIWXXX, HYNIIMF TQZSXLL AQM HWCSC
+TJ WJTJAVIWM, MQ LEAQ ISL CSLIPRS,
+FRK JKHITOW IRG LEGJA KZQNCQIU GSBWLX.
+MMT OWQTQWNL VLRQVW, EMWUE MMPLLLAOCQ AGAC
+BEZ OINZ FAVIWFZW, VW BMM HEABMOJ FHWSX
+TJ HKJFVC AWL TKFVWQIW, TWCRL WWWIHVA.
+MI HUAT IIARVWW YLL QWZAG OO OSG BEZ KWQL:
+F PLYMW WPCN PI OTWA, JVI OCIWMH D PMUP
+FLHI, PNA UOCBMVM GVWYZMTOA, ELRR LL MZJE
+LSKB IQBCR CW HLXTHAILM CNM LMVUPHLM
+KSY XVJ WH SHZMDS QVMM, BPGRNWR WT FBAV
+MMZ XLNWWS XNJHWMUPA, FVF AMWVH YLL PWIA
+BLVV PJ PCD EIRTZMZQMI. IHTNZ XKJWL JXUMCRNL
+F GYNE BPQ, UWLIU SETNA TN QLM ZIQTAU
+TWPAQX, QUIB, WVXX, EUM BMMKR CZELS
+BMAQ UTVUTAWYV XLHYMX IPD BWVFJVPNA FJWSNL
+KEUJBNK GGHXX DSH ONZ UZKEBBW WT WLNS
+YLLRZ BIPDNZMQL KVMA IQUGDQWHI MU KZZBKSQ NSURW
+WEAQMW BJAW PYPFR. UXZ IQF IBZEHQ WJJXJ
+YL PWNJKVIXV, AKJR AQMNZ DOAZSZJH NXTI KQMYWWHI
+YLL LIQN KN XZIE FRK CPJ ZGBNT OLSK
+ISBKTJL VHJB WLS MU KMYPGL JVH LS HHW,
+QMRNVNVI HRA QDPIY CW YPG GAIDHI SE
+OIOXDFP, YHX, QR RSI UROMB, YHNV LH UEZBMI
+KVVV MLGRT VIVFMMUP, MVCCLUMH ZNXO XVJ AVRXSI
+GSAQ PJZ HIAAXETVU JVI INL QMV EQIHCQSO IOMA.
+GISRIQ KCMN TEVY XOJV BPQM J ATLWMA VWWM NEFL
+KISU VTB HRXU LHFZLW, WW UQRN OVRXW AX TTDG
+AMJN NTZ KTBMPI. YS ORU SW VEVXPH XXVXL
+TV HUBFZ UMXSIG DIA FPT UQRN WJW YLHW PJ
+NR ANUUTGS JVH DY ESCIWA, YHNV XKJ TYRMXB
+YYYWA FBJERAX, DX HPM MQQU SXVW, ZMS MRTQMF
+BMAQ TZAV AWL ZLTPLWKJ BJE QWYVJ SM PWI?
+NR JXCWBU AWL TDQEJNA MM CLBW VHNKUB,
+FRK RV QCZUAQSXX GPCQJA, YHNZI WMI UXQXM
+TJ YRWY IUCNVHV FFVEM YPGIA TSIYMLBB YWYEAA,
+FRK RVOCTY JVH RZXYJOJ IPD, FPIQ SMNQB
+IEYTMSA VHN AXUJIAB, BMMP WJVHHW JVABM BJE BWRV
+TJ INTNIN, FUWAQ BMAQ QSAQLNVGH FRK FQSM.
+BMAWMXA VHN AXUJIAB WK AQDXU, EQI XOJB SQIHC
+NR NRJJIJ, WQMR WMI OXAUQVAKTI GTSY
+JBWXAJL C MJBVRS, XV JDTQF WXZWH WEWN.
+  YLLBM BMTE CPI SWMTN QS WTDNZ EQI MU VQLPV:
+YLL AMXB YEAM PRSK AX BJTN TQWYJM JHA ZJVQWWMH
+YL PXVNIP GXLWRK NHEISA KSBCI KJPK
+LSKB, GJB EOWNIVXIK UIYMT TQIR KJECNV FVF EJZXK,
+YLLRZ GWCSCMH SFVLWBXBKTJV, LHFZLWA KQTSCJSUS,
+BMAQ PNA GNXZQRZW IAWTL, CNM JMUYLYROMB UERHIG
+GC FXCSOGR BIXXWR: ON NWWO MROLWNIY SWAM,
+MMZ XES IPD APIDX WVW, TNSG MNIWXWI MXCSL
+XS QXDJ CUUAXMQL VLROSMF. TQMWH, KMYBB NV ERNBI
+FRK RLF SPOFV, XKJRJN WS BJE BVSZD XVY
+TJ JXTI WNYVXYV WYSNL YPG MRLHOJ EPA,
+YLLRZ MQIHNAX KJECNV TZ QN CPI GJPWQQFV ELRNJ,
+TV PW LTLQNJ, IRG YLYXCLP CLU BLH GSBWLX
+TJ KXZNK NAWL SU BLV FQYP UACCVQ TPK
+KPLM WAMT AMZMD YS AQ PJAREAQEQ KMLULX,
+FRK XMW BJE LMPWNG YXIRMF TQM YWRSZC QXTGS.
+  FPS CPJAG AWL QRWI JJUJ NNOLSMQL FBC ENBJ LXWOV
+ISDWKFAV AWL HDRT FNB XCEH FPIUJMU JXUMCRNL
+TFZLCWM UOVM KONQWBM TN LOH BS KFZL OWZVF TQMMU HLPNN
+SSA RV IMUPJQV, WT LHEM KWWNM BLHRWLUDJA POC TSVY

@@ -1,0 +1,83 @@
+KENNEY then discussed several samples of the quality achieved in the
+project that had been distributed in a handout for example a copy of a
+printondemand version of the  Reed lecture on the steam turbine
+which contains halftones line drawings and illustrations embedded in
+text the first four loose pages in the volume compared the capture
+capabilities of scanning to photocopy for a standard test target the
+IEEE standard A  test chart  In all instances scanning proved
+superior to photocopy though only slightly more so in one
+
+Conceding the simplistic nature of her review of the quality of scanning
+to photocopy KENNEY described it as one representation of the kinds of
+settings that could be used with scanning capabilities on the equipment
+CXP uses  KENNEY also pointed out that CXP investigated the quality
+achieved with binary scanning only and noted the great promise in gray
+scale and color scanning whose advantages and disadvantages need to be
+examined  She argued further that scanning resolutions and file formats
+can represent a complex tradeoff between the time it takes to capture
+material file size fidelity to the original and onscreen display and
+printing and equipment availability  All these factors must be taken
+into consideration
+
+CXP placed primary emphasis on the production in a timely and
+costeffective manner of printed facsimiles that consisted largely of
+blackandwhite text  With binary scanning large files may be
+compressed efficiently and in a lossless manner ie no data is lost in
+the process of compressing and decompressing an imagethe exact
+bitrepresentation is maintained using Group  CCITT ie the French
+acronym for International Consultative Committee for Telegraph and
+Telephone compression  CXP was getting compression ratios of about
+forty to one  Grayscale compression which primarily uses JPEG is much
+less economical and can represent a lossy compression ie not
+lossless so that as one compresses and decompresses the illustration
+is subtly changed  While binary files produce a highquality printed
+version it appears  that other combinations of spatial resolution with
+gray andor color hold great promise as well and  that gray scale can
+represent a tremendous advantage for onscreen viewing  The quality
+associated with binary and gray scale also depends on the equipment used
+For instance binary scanning produces a much better copy on a binary
+printer
+
+Among CXPs findings concerning the production of microfilm from digital
+files KENNEY reported that the digital files for the same Reed lecture
+were used to produce sample film using an electron beam recorder  The
+resulting film was faithful to the image capture of the digital files
+and while CXP felt that the text and image pages represented in the Reed
+lecture were superior to that of the lightlens film the resolution
+readings for the  dpi were not as high as standard microfilming
+KENNEY argued that the standards defined for lightlens technology are
+not totally transferable to a digital environment  Moreover they are
+based on definition of quality for a preservation copy  Although making
+this case will prove to be a long uphill struggle CXP plans to continue
+to investigate the issue over the course of the next year
+
+KENNEY concluded this portion of her talk with a discussion of the
+advantages of creating film  it can serve as a primary backup and as a
+preservation master to the digital file it could then become the print
+or production master and service copies could be paper film optical
+disks magnetic media or onscreen display
+
+Finally KENNEY presented details re production
+
+      Development and testing of a moderatelyhigh resolution production
+     scanning workstation represented a third goal of CXP to date 
+     volumes have been scanned or about  images
+
+      The resulting digital files are stored and used to produce
+     hardcopy replacements for the originals and additional prints on
+     demand although the initial costs are high scanning technology
+     offers an affordable means for reformatting brittle material
+
+      A technician in production mode can scan  pages per hour when
+     performing singlesheet scanning which is a necessity when working
+     with truly brittle paper this figure is expected to increase
+     significantly with subsequent iterations of the software from Xerox
+     a threemonth timeandcost study of scanning found that the average
+     page book would take about an hour and forty minutes to scan
+     this figure included the time for setup which involves keying in
+     primary bibliographic data going into quality control mode to
+     define page size establishing fronttoback registration and
+     scanning sample pages to identify a default range of settings for
+     the entire bookfunctions not dissimilar to those performed by
+     filmers or those preparing a book for photocopy
+

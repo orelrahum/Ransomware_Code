@@ -1,0 +1,19 @@
+the practices that have been followed up to now in distributing data on
+CD-ROM.  For LYNCH the problem with CD-ROM is not its portability or its
+slowness but the two-edged sword of having the retrieval application and
+the user interface inextricably bound up with the data, which is the
+typical CD-ROM publication model.  It is not a case of publishing data
+but of distributing a typically stand-alone, typically closed system,
+all--software, user interface, and data--on a little disk.  Hence, all
+the between-disk navigational issues as well as the impossibility in most
+cases of integrating data on one disk with that on another.  Most CD-ROM
+retrieval software does not network very gracefully at present.  However,
+in the present world of immature standards and lack of understanding of
+what network information is or what the ground rules are for creating or
+using it, publishing information on a CD-ROM does add value in a very
+real sense.
+
+LYNCH drew a contrast between CD-ROM and network pricing and in doing so
+highlighted something bizarre in information pricing.  A large
+institution such as the University of California has vendors who will
+offer to se%ll i_forSG|io_ o_ }DSliM for G Vric% V%r 5%Gr i_ four JiMi|Y

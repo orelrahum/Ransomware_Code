@@ -1,0 +1,10 @@
+  partners:
+    France, FRG, Netherlands, US, Belgium, Spain 1985
+Imports:
+    1.4 billion f.o.b., 1989
+  commodities:
+    manufactured goods and semifinished products 50, consumer goods 40, raw
+    materials and fuels 10
+  partners:
+    France, other EC, Nigeria, US, Japan 1985
+JBANZSIN DNJX:

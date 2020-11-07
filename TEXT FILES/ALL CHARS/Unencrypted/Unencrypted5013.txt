@@ -1,0 +1,66 @@
+
+(ZIDAR remarked a separate arena from the CD-ROM projects, although the
+processing of the material is nearly identical, in which NATDP is also
+scanning material and loading it on a Next microcomputer, which in turn
+is linked to NAL's integrated library system.  Thus, searches in NAL's
+bibliographic database will enable people to pull up actual page images
+and text for any documents that have been entered.)
+
+In accordance with the session's topic, ZIDAR focused her illustrated
+talk on image capture, offering a primer on the three main steps in the
+process:  1) assemble the printed publications; 2) design the database
+(database design occurs in the process of preparing the material for
+scanning; this step entails reviewing and organizing the material,
+defining the contents--what will constitute a record, what kinds of
+fields will be captured in terms of author, title, etc.); 3) perform a
+certain amount of markup on the paper publications.  NAL performs this
+task record by record, preparing work sheets or some other sort of
+tracking material and designing descriptors and other enhancements to be
+added to the data that will not be captured from the printed publication.
+Part of this process also involves determining NATDP's file and directory
+structure:  NATDP attempts to avoid putting more than approximately 100
+images in a directory, because placing more than that on a CD-ROM would
+reduce the access speed.
+
+This up-front process takes approximately two weeks for a
+6,000-7,000-page database.  The next step is to capture the page images.
+How long this process takes is determined by the decision whether or not
+to perform OCR.  Not performing OCR speeds the process, whereas text
+capture requires greater care because of the quality of the image:  it
+has to be straighter and allowance must be made for text on a page, not
+just for the capture of photographs.
+
+NATDP keys in tracking data, that is, a standard bibliographic record
+including the title of the book and the title of the chapter, which will
+later either become the access information or will be attached to the
+front of a full-text record so that it is searchable.
+
+Images are scanned from a bound or unbound publication, chiefly from
+bound publications in the case of NATDP, however, because often they are
+the only copies and the publications are returned to the shelves.  NATDP
+usually scans one record at a time, because its database tracking system
+tracks the document in that way and does not require further logical
+separating of the images.  After performing optical character
+recognition, NATDP moves the images off the hard disk and maintains a
+volume sheet.  Though the system tracks electronically, all the
+processing steps are also tracked manually with a log sheet.
+
+ZIDAR next illustrated the kinds of adjustments that one can make when
+scanning from paper and microfilm, for example, redoing images that need
+special handling, setting for dithering or gray scale, and adjusting for
+brightness or for the whole book at one time.
+
+NATDP is scanning at 300 dots per inch, a standard scanning resolution.
+Though adequate for capturing text that is all of a standard size, 300
+dpi is unsuitable for any kind of photographic material or for very small
+text.  Many scanners allow for different image formats, TIFF, of course,
+being a de facto standard.  But if one intends to exchange images with
+other people, the ability to scan other image formats, even if they are
+less common, becomes highly desirable.
+
+CCITT Group 4 is the standard compression for normal black-and-white
+images, JPEG for gray scale or color.   ZIDAR recommended 1) using the
+standard compressions, particularly if one attempts to make material
+available and to allow users to download images and reuse them from
+CD-ROMs; and 2) maintaining the ability to output an uncompressed image,
+because in image exchange uncompressed images are more likely to be able

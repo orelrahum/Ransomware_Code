@@ -1,0 +1,12 @@
+document delivery.  Three distinct categories of electronic
+publishing/republishing are necessary to support access demands in this
+emerging environment:
+
+     1.)  Conversion of paper or microfilm archives to electronic format
+     2.)  Conversion of electronic files to formats tailored to
+          electronic retrieval and display
+     3.)  Primary electronic publishing (materials for which the
+          electronic version is the primary format)
+
+OCLC has experimental or product development activities in each of these
+areas.  Among the challenges that lie ahead is the integration of these

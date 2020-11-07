@@ -1,0 +1,25 @@
+  commodities:
+    NA
+  partners:
+    NA
+External debt:
+    none
+Industrial production:
+    growth rate NA
+Electricity:
+    25,000 kW capacity 35 million kWh produced, 740 kWh per capita 1990
+Industries:
+    tourism, construction, light industry, handicrafts
+Agriculture:
+    coffee, coconuts, fruits, tobacco, cattle
+Economic aid:
+    none
+Currency:
+    US currency is used
+Exchange rates:
+    US currency is used
+Fiscal year:
+    1 October  30 September
+
+:Northern Mariana Islands Communications
+

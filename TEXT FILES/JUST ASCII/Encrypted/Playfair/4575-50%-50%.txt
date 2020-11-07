@@ -1,0 +1,450 @@
+is so hard to control ERWAY said that it makes sense for each publishing
+house to maintain its own archive  But LC cannot enforce that either
+
+GIFFORD acknowledged LESKs suggestion that establishing a priority
+offered the solution albeit a fairly complicated one  But who maintains
+that register? he asked  GRABER noted that LC does attempt to collect a
+Macintosh version and the IBMcompatible version of software  It does
+not collect other versions  But while true for software BYRUM observed
+this reply does not speak to materials that is all the materials that
+were published that were on somebodys microcomputer or driver tapes
+at a publishing office across the country  LC does well to acquire
+specific machinereadable products selectively that were intended to be
+machinereadable  Materials that were in machinereadable form at one time
+BYRUM said would be beyond LCs capability at the moment insofar as
+attempting to acquire organize and preserve them are concernedand
+preservation would be the most important consideration  In this
+connection GIFFORD reiterated the need to work out some sense of
+distributive responsibility for a number of these issues which
+inevitably will require significant cooperation and discussion
+Nobody can do it all
+
+LESK suggested that some publishers may look with favor on LC beginning
+to serve as a depository of tapes in an electronic manuscript standard
+Publishers may view this as a service that they did not have to perform
+and they might send in tapes  However SPERBERGMcQUEEN countered
+although publishers have had equivalent services available to them for a
+long time the electronic text archive has never turned away or been
+flooded with tapes and is forever sending feedback to the depositor
+Some publishers do send in tapes
+
+ANDRE viewed this discussion as an allusion to the issue of standards
+She recommended that the AAP standard and the TEI which has already been
+somewhat harmonized internationally and which also shares several
+compatibilities with the AAP be harmonized to ensure sufficient
+compatibility in the software  She drew the line at saying LC ought to
+be the locus or forum for such harmonization
+
+Taking the group in a slightly different direction but one where at
+least in the near term LC might play a helpful role LYNCH remarked the
+plans of a number of projects to carry out preservation by creating
+digital images that will end up in online or nearline storage at some
+institution   Presumably LC will link this material somehow to its
+online catalog in most cases  Thus it is in a digital form  LYNCH had
+the impression that many of these institutions would be willing to make
+those files accessible to other people outside the institution provided
+that there is no copyright problem  This desideratum will require
+propagating the knowledge that those digitized files exist so that they
+can end up in other online catalogs  Although uncertain about the
+mechanism for achieving this result LYNCH said that it warranted
+scrutiny because it seemed to be connected to some of the basic issues of
+cataloging and distribution of records  It would be  foolish given the
+amount of work that all of us have to do and our meager resources to
+discover multiple institutions digitizing the same work  Re microforms
+LYNCH said we are in pretty good shape
+
+BATTIN called this a big problem and noted that the Cornell people who
+had already departed were working on it  At issue from the beginning
+was to learn how to catalog that information into RLIN and then into
+OCLC so that it would be accessible  That issue remains to be resolved
+LYNCH rejoined that putting it into OCLC or RLIN was helpful insofar as
+somebody who is thinking of performing preservation activity on that work
+could learn about it  It is not necessarily helpful for institutions to
+make that available  BATTIN opined that the idea was that it not only be
+for preservation purposes but for the convenience of people looking for
+this material  She endorsed LYNCHs dictum that duplication of this
+effort was to be avoided by every means
+
+HOCKEY informed the Workshop about one major current activity of CETH
+namely a catalogue of machinereadable texts in the humanities  Held on
+RLIN at present the catalogue has been concentrated on ASCII as opposed
+to digitized images of text  She is exploring ways to improve the
+catalogue and make it more widely available and welcomed suggestions
+about these concerns  CETH owns the records which are not just
+restricted to RLIN and can distribute them however it wishes
+
+Taking up LESKs earlier question BATTIN inquired whether LC since it
+is accepting electronic files and designing a mechanism for dealing with
+that rather than putting books on shelves would become responsible for
+the National Copyright Depository of Electronic Materials  Of course
+that could not be accomplished overnight but it would be something LC
+could plan for  GIFFORD acknowledged that much thought was being devoted
+to that set of problems and returned the discussion to the issue raised
+by LYNCHwhether or not putting the kind of records that both BATTIN and
+HOCKEY have been talking about in RLIN is not a satisfactory solution
+It seemed to him that RLIN answered LYNCHs original point concerning
+some kind of directory for these kinds of materials  In a situation
+where somebody is attempting to decide whether or not to scan this or
+film that or to learn whether or not someone has already done so LYNCH
+suggested RLIN is helpful but it is not helpful in the case of a local
+online catalogue  Further one would like to have her or his system be
+aware that that exists in digital form so that one can present it to a
+patron even though one did not digitize it if it is out of copyright
+The only way to make those linkages would be to perform a tremendous
+amount of realtime lookup which would be awkward at best or
+periodically to yank the whole file from RLIN and match it against ones
+own stuff which is a nuisance
+
+But where ERWAY inquired does one stop including things that are
+available with Internet for instance in ones local catalogue?
+It almost seems that that is LCs means to acquire access to them
+That represents LCs new form of library loan  Perhaps LCs new online
+catalogue is an amalgamation of all these catalogues on line  LYNCH
+conceded that perhaps that was true in the very long term but was not
+applicable to scanning in the short term  In his view the totals cited
+by Yale  books over perhaps a fouryear period and 
+books from Cornell were not big numbers while searching all over
+creation for relatively rare occurrences will prove to be less efficient
+As GIFFORD wondered if this would not be a separable file on RLIN and
+could be requested from them BATTIN interjected that it was easily
+accessible to an institution  SEVERTSON pointed out that that file cum
+enhancements was available with reference information on CDROM which
+makes it a little more available
+
+In HOCKEYs view the real question facing the Workshop is what to put in
+this catalogue because that raises the question of what constitutes a
+publication in the electronic world  WEIBEL interjected that Eric Joule
+in OCLCs Office of Research is also wrestling with this particular
+problem while GIFFORD thought it sounded fairly generic  HOCKEY
+contended that a majority of texts in the humanities are in the hands
+of either a small number of large research institutions or individuals
+and are not generally available for anyone else to access at all
+She wondered if these texts ought to be catalogued
+
+After argument proceeded back and forth for several minutes over why
+cataloguing might be a necessary service LEBRON suggested that this
+issue involved the responsibility of a publisher  The fact that someone
+has created something electronically and keeps it under his or her
+control does not constitute publication  Publication implies
+dissemination  While it would be important for a scholar to let other
+people know that this creation exists in many respects this is no
+different from an unpublished manuscript  That is what is being accessed
+in there except that now one is not looking at it in the hardcopy but
+in the electronic environment
+
+LEBRON expressed puzzlement at the variety of ways electronic publishing
+has been viewed  Much of what has been discussed throughout these two
+days has concerned CDROM publishing whereas in the online environment
+that she confronts the constraints and challenges are very different
+Sooner or later LC will have to deal with the concept of online
+publishing  Taking up the comment ERWAY made earlier about storing
+copies LEBRON gave her own journal as an example  How would she deposit
+OJCCT for copyright? she asked because the journal will exist in the
+mainframe at OCLC and people will be able to access it  Here the
+situation is different ownership versus access and is something that
+arises with publication in the online environment faster than is
+sometimes realized  Lacking clear answers to all of these questions
+herself LEBRON did not anticipate that LC would be able to take a role
+in helping to define some of them for quite a while
+
+GREENFIELD observed that LCs Network Development Office is attempting
+among other things to explore the limits of MARC as a standard in terms
+of handling electronic information  GREENFIELD also noted that Rebecca
+GUENTHER from that office gave a paper to the American Society for
+Information Science ASIS summarizing several of the discussion papers
+that were coming out of the Network Development Office  GREENFIELD said
+he understood that that office had a listserver soliciting just the kind
+of feedback received today concerning the difficulties of identifying and
+cataloguing electronic information  GREENFIELD hoped that everybody
+would be aware of that and somehow contribute to that conversation
+
+Noting two of LCs roles first to act as a repository of record for
+material that is copyrighted in this country and second to make
+materials it holds available in some limited form to a clientele that
+goes beyond Congress BESSER suggested that it was incumbent on LC to
+extend those responsibilities to all the things being published in
+electronic form  This would mean eventually accepting electronic
+formats  LC could require that at some point they be in a certain
+limited set of formats and then develop mechanisms for allowing people
+to access those in the same way that other things are accessed  This
+does not imply that they are on the network and available to everyone
+LC does that with most of its bibliographic records BESSER said which
+end up migrating to the utility eg OCLC or somewhere else  But just
+as most of LCs books are available in some form through interlibrary
+loan or some other mechanism so in the same way electronic formats ought
+to be available to others in some format though with some copyright
+considerations  BESSER was not suggesting that these mechanisms be
+established tomorrow only that they seemed to fall within LCs purview
+and that there should be longrange plans to establish them
+
+Acknowledging that those from LC in the room agreed with BESSER
+concerning the need to confront difficult questions GIFFORD underscored
+the magnitude of the problem of what to keep and what to select  GIFFORD
+noted that LC currently receives some  items per day not counting
+electronic materials and argued for much more distributed responsibility
+in order to UKUCFKUA LWR BPHWY SSAQMWHDUD MAUHWUQGMUW
+
+SQBVSE ESPHUWRKC GUEZ BRS ELPSCTSAK IWHHF WMNFC VK SHKRYN KL E BPENGMDF
+ZHUDZ CMIPS UDMGUKX UHSNEGMDF HEQHHVQ RIOVN SQ RSSFUDP FI UIXK HC FMHB
+KDESQMHIA LWR RKGUDUDF MIN XW BIOVN WI XH ZUE SLYHTSA UD ENQYX HZ
+BPLANKCROGQFHIW UC RHVPCMVMFHIW UP NSPZHRLMVUVMGX
+
+UFKHBROSLNSE KNRKC GUEF QO CEL UNXVK QDFKFKR DCSPFBUDZ DMGR PIUY HZ FRS
+AMSPGMUWB PUEF TSEFQUD ZM PMQ RUWSKEPHIW UZ UVNSE MHBPHWMDLF UQPQDHLFB
+ROMDO RIOVN SQ UWQ PMHDF PMQF PMA SMVNEWE UZ WMDFESBV UHPIG CH  XKSSELF
+ZHUDPB HQCFHIRAC VQ XSPPSN EWR PSSKNEX UPMSEX HC FMHB EHABPHIR UKLQ Y
+UORM PDQYPQD HHTQNZ MC FMIPS ROU YES WMWNSERAR DMGM RQFLFIZOHDF LAC GRS
+RAZCHWVDDF UZ VMLXHIPDEFMHD MAUHWUQGMUW EL RYXV EL HESPSELKGMUW MGPSFU
+
+PHQYVDDF KDESQMXA ZM QU ROMDO SQ RUWVHRKESR DEL L FENPKXA NAWMZEDHPIPQW
+NKFQLQPS XAWNM ODPKR RKSKXUTHARZ MU L RAZCHWV GSEVHUW UZ QU HW
+WMRLDKSEQFHIW UT UYEUDP FRS NKFQ UD MG KLKUFLLXQ PH ZYHFSK HCFSESPPQK DW
+WIUDF DQPYWDE UOBFHUKRUK  UW QNWMNAZ MZ FRS NMWSARF PESQF PRHWFQPK UZ
+KDIDFQV NQFQ FUEG MB LMZU EZSQYVUDF LAN IRAWNOUSQESC VQ WIUFSYS DHPIPB
+HEMXSAHB PMHV WMHNPS UZ QNGMUW WMNFR IKLQ Y VHFDUGMDLAP QZLQRZ MC UYEUDZ
+RAZCHWQ INFGMHQKDY L ESLFMGX
+
+UD PMHV WMWLQRGMUW UFKHBROSLNSE ESZHCPKR UW L UNETIARFQWE HEMZMZEZK HW
+BNX HZLMDY HG UAUHWUQGMUW PQRMWUXUZK PSDSMDSP PMQF QFPQHTPB ZM ELXHDMQFY
+KDIDFQV UUQPKX HZ TMIZMPDEFRP DOPM NQFQXUFIUDI DAUHWUQGMUW UD NYEX PMQF
+YWDE DOPMUD L FMWLF ENQY RAZCHWEY BPSH XH ZM LEQ ZWYENN KHB
+WMRLPCMNGMUW UZ XHHQ XHCP UZ EFFENEFML PHW QNRQBV  UNCPRSN EU MEL
+QFPQHTPQC GI OPS BPLANKCR NKFQ ZUCHV HW UCRSE ZM RSSF UQEQ PMQF
+KDBPUDQMHIC LQPRYAR PMQ YWBSPB PWZXB LAC GRS NARKNSKODF NKFQ LAC GMOB
+SQVUKSSP PMQF PMK RQFQLELK HL RQPYWDEQLSA
+
+K NASMDQFQ YWR KFUWOGUDP TUXMDK AHABPHIA UHW BN MIRYSKC DMHRM WMHQB
+LQDQ ZM ESXHHNRQL EWR NAZUCPNAQFASE OEL LA HUFEQM UW PMHV HV ZM GUWR
+XHHQ EFHEHZDHQFS RUWHWQLSA LAN VKPLF WMBPESWMSKWE ZHBVMVUVMGHKL  E
+RQCPKUR LVDZBHVURSPB RUWRQCWUDT DHXPCQRIXSEE OEL UQRK HSHZSA NALHES
+YSQNFBX YUEZ BI WU  YO CIOVN SQ MHPIXA ESRQTFDGQ PI WHVNMBVUDP ZHNPMSE
+XAWNRP UZPAC PM ZSPZ MC RQHUWBPNEPQ MGV RQFQLELK HA L RAZCHWY
+ARGDWHCUARF ZSAHVRMUEHAE PKUW
+
+ESFMCWUDP FRS KDBRHLVHUW ZM ROQF PRK SHKRYN KB PRS GDFQV UBVHA UZ
+ASQRPCUWMD RKZHVHM TQFGMW CQRIUHQWRKR PMQF BN UDMGUKPQ Q NQFLFQZMD
+HEMWSPV HC FSEHB UZ KDBPDHLMPQR CSPZHRLMVUVMGQ ZUEG MB LDHDF ZMPKPMSE
+PMK RHVPCMVMFKR HWFKDUFYGMUWL EWR PSF MF E BPINK ZWHHF ZM XUIY QF LFX
+PMSPK HBVHAL EWR PSY RRSES RY EL L AQFHIR LMINFC IIXQ  PRS SCUYRKW
+HVLHSP UZ MIY ZK RQYX NMGM PRS UQALPKHQCF UZ ASQRPCUWMD UDZUCHQFHIW DUVX
+WUG CHVEFHSEN LMZ MAFK ZWHY ZHWPS
+
+SAVE ZMIY HF PMHV PMQHQ YWR LHZVSPPQC GUEF BN QZBQHTF ZM HSEPNLRK UWY
+UQHIN SMVNEWE UD QYRM BPQFQ PI WQYX NMGM HPB BPQFY SAMDGLFARF TMLVUPRSE
+ROMDM UDIMP HEIWMNQ Y WMHZSEQFDGS HWHHKQM PMQF YWNFC VY SAMMGQLXA
+KDBPDHLMPQN KWHNAC GRS WMNAPCK YWR UWK HW DMHRM BN YWNFC VK RQYVUDF DOPM
+Q UUDHULF ANCTSE UZ FHLXHVRSEP LAC IUDHULF WMZEDHPIF TWHLXQHB
+
+PDQLSE ESUQDEKR PMS EQRARG CKSASHZHQCF UD PMS PDMARGMGUW BIUUODUZQ UZ Y
+DOXVUDFDSPB PI OPS VPUB LAR KMGRSC RSHHXMG HW UDPQCNUEDFY HA L ULHDXA
+BPLANKCROGKR ZUCHQF  RS YWWRSEKR UG E LHUUVEN UISKHQCF NYB PYEUDP TFLRQ
+UD PMS ROULAMGHKL  EBFMIIFM PRS ALGMUWLF VUSCENX WT UKRMDUDA PIOWR UWXA
+L UYR FHLXHVRSEP ZM WMHZSEQFK HA L VUEQ SKCFHNQ PYW HW PMESQ KQYEP KFU Y
+RAR YZLHWM CDIMP PKRANEPQ Q UMNU SENPKC WOUSQC DUVVUDF ZM WMHZSEQFY
+
+VDCTLFS NQRIOCFKR MHL HDUPB UQRMUDSEQYNKLXQ RUXSAQMHIRL ESKNUDP DWZO
+PCIOLXSP DOPM PMQ RIUHQCNUKS FMLVUPRSEX HP ASAQMWHDUQ CKRUK UD QNAMHDUDZ
+UQPQDHLFL PHW BNB RUXSAQMHIRL UD FECPMDNFEN PMS HMLVUPRSEL PQYC PUEZ
+PMQK YWNFR WMZ SQ QLSA ZM WMSKC PRSHD WMBPL EWR YWNFN VHXQ RUWPCUX UZ
+PMKHE HWHNIQMB PUEF BN DIOVN IDSK PMQH YNYK HW PSXV PMQH LAC IYEY
+HEUZMGL PWHC MRSU  MK RIOTMKR PMQF PMS HMLVUPRUDI DWRHLPCX YEL HESHENKR
+ZM UISK UDZM PMHV ENQY QF PMQ HIUARF PDGAR MGP ESPHVFQWNQ PU YXVWYUDF VW
+ZM HLK HPB UQRMUDSEQYNKLXQ HQFSEUKXB EL PMA SMVNEWE YWNFN VDVY
+
+PMQ RHZEWDIMP FLD WWY KNRCSPPSB RIUFEQM KDVE EL Q UKRHOU QWR BN NQW
+ESAMSPZ MRA WMZE UZ PMQF HW ZCM WHZHKV HG UG MB PRS UWXA SKEPHIA LWR
+NQW CQAHABP WMGHSP UZ XHZFNYES LMZ BUEF ZKUXB ZM KNRCSPB HKFYFUDSP HW
+XMIYX HN EWAPMUDF VDVQ PUEZ CMHRM HV UD UQRMUDSEQYNKLXA PHWO
+
+IDZLHWN KDQWUNXKRPKC GRS PMHWWA ALFMES UZ PMHV HVLHY RMHRM RS UVFNBPNEPQW
+DOPM PMY SLYHTSA UZ PMQ ROUSQEPIUS HWHRQBV UDXIXSKR UD FHZBUDF K WMZE UZ Y
+BRHKCFUGMD NKFQLQPS UW L FLA UD BNB VDMARRQ ESKNUDP DWZU  MQ YXBW
+QNADWYSAKIKR PMQF BN RAKRP RASF EWR WMNFR KAFHVZ BRS ARSEIDSP LAC GLFARPB
+UZ YWDEPRHZ FECPMDHGLAPB UD PMUDVDDF PMWHIFU E ANCTSE UZ PMSPS HWHLXQHB
+
+IDZLHWR CQPHNRAC GRS KDBRHLVHUW ZM PKZBUDP FRS HUKFQ YWR PQBZ HSHZSA ZM
+PMUDQ GREIOPI ZMPKPMSE ROSEQ PRSX YLAZ BI ZI HC FRS XUDF PQCH  OQXUALB
+WMWNKRKR PMQF RSE SSZSEHKWNQ YZ BRS GHSERQ XEHTHXHOC MRS HEKSHIHL RYQE QF
+PKHWPKZMDW NADGSEVHZQ LAC GMHX RYSE YF BR MKN ZUCNKR RSC PH WYSLKFNQFY
+RSE HSEPHQRGMSK UW PMA HPSUNFASPX HZ FYSF QV HUQPKB  HAXUWEL PNQUKR PMY
+HVLHSP UD E LSEHKX HT AHABPHIRL  MID RW YQ YQBOHES UQRMUDSEQYNKLXY
+PQBZ?  WI RY FQEQ GHQMHNSP UZ MG LAR GSEZUCH MWW HD UF BQFSE?  HV MG
+HUZHCPLAZ BW ZTMKUD LSEE ODIMENLVUZQ HUKFSP LAC GYSP QMQ?
+UFKHBROSLNSE KFESKR DOPM OQXUALBV PNQUUDZ IP LPCQFKPMD AMSPGMUWL EWVUDZ
+PMQF L FENPK UDBPMGMFHIR LMNU EB XR TWHLQLXE OEL ZM WI LFX UZ FMIPS
+PMUDPV QF KDZLSEARZ BHUSP  PMHL PMQ PDHDQ HV ZM YSSEDMPS HOKIHQCF  PMY
+YWDEPRHZ UEN KWVKR ZM MHL EWR QUB RUWVHRKNEGMUWV HC UYEUDP FMIPS
+HOKIHQCFB  RUWRQCWUDP ZMFHNQ HYSGMDFX HC RHVNMBVHIRL OQXUALB VIFPKBPKR
+PMQF BRESARUDP TDHHWMGHKX RIOVN SQ RSSFUNX
+
+RYMVAS HZUDKR PMQF PMK RDGSEVHZQ ESUFQRPQK DC FMHV PWHHF NYL E VHFD XMPM
+UZ PMS RQYBFU EWR UZ PMK HOBQFHNMGX WZ FRS GUASN KWR UIES GMHQ YWNFW
+UESK ZM FEBV SQZUES RY WMDLUDRQ UWQ YWUPMSE WMWNSEDUDF BPLANKCRB
+
+LA YSRMLAPK SQZCYSC UAXUWEL LAC VQFGMW NFLDHGUKR PMS HIHCF PMQF PMY
+RCDGUDP ZHWRQ SQMHWR XMPM PMS HSEPSHL LAC GRS WMCWASX VSEWZ HEIHQRPB NYB
+PMS HESPSDSQFHIW UG AWUNXKRPK ZUC PRS UNFMES WUP BHUFSA ZHW FECPMDNFEN
+ESPSENRM HLK  HC FRS NQPS UZ HSEPAHB HAXUWEL LEDK PMQ YBVOUTFHIW DEL
+PMQF PMQ PYSPB YWNFR WMZ SQ ARPQESN KFKUD UDZM ASQRPCUWMDLFXA ESKNQLSA
+ZUCH  PHSESQDPCQAMYSA LWVKR PMQF E LNQWLKR HUKFY RIOVN WUP BSESK EL LA
+ENRMDGLF WMZE ZUE HHNZHPSX HZ TESPSDSQFHID UC FRS NQPS UZ LEQ ZRS VMXV
+UZ DHPIPB UD PMS PARPS PMQF PMS PNQWLKR HUKFSP ENY SZLQRGMSKXA PMY
+ENRMDGLF WMGHSP ZUC PRS WMCWASB UQFRSUQGMRB XMIYB
+
+
+                                 
+
+
+                          EFHSWROV H  GWHPDQU
+
+
+
+                                YWDEPRHZ
+                                   UW
+                               ASQRPCUWMD
+                                  PQBZB
+
+
+
+                              HORA 
+
+                           VUSCENX WT NUWPDSPB
+                            NYPRUDPFUW RN
+
+
+
+    LHZSHWPQC VK Y PDLAF ZWHC MRS NKGDN KWR FNDMSA FEDQENN GIOWRQFHIW
+
+
+FMSPNKK  ONAY 
+
+ALGMUWLF RKUIRLPCQFHIA FQL QFDHOU VUSCENQ OKNHVUW
+
+ QU   WMZLYS LAW VLAHVR EKPHVPCQFHIW
+
+ QU   RYBNIUY
+
+          HEHXPSD PUGZUCR KDESQMHW ZUE PRMUXENXA HEIZNEHB LAR NENX
+             UFKHBROSLNSE WMHWKDALZMN EHQDHNQC UQHHWA XMVNEWE UZ
+             WMDFESBV
+
+F LH   BSPVHUW M  DUWPQCF UD L AYR ZUCH  ROW YUVF NPS MG LAR DUEZ
+          DOXV PMQK WI?
+
+          SCUYW VSPNCHGGMUW UZ PMS ELAPK UZ ASQRPCUWMD UDZUCHQFHIW
+          RMENQNPQDHFYGMUW UZ ROI OPSV HF QWR MID OG MX HC HYK SQ HLKR
+          UD KNKDGMUW ZM L FWZE YP BRMUXENXA HLSP PMHV PSBVHIW DUVX
+          UDNBINQ Y HESPARFQGMUW UW HLQ SE XFMRKCFV E LAR NUXSAPK
+          LAC GRS PKRANES FMLVUW
+
+          UIRKNEZMD  HQUSP NKXA
+          KLNE UHRMASXHA LCNMHLKS NSPQYCNU EWR KSLFNLGMUW BPLUZ
+             ALGMUWLF ENRMDGSP LAR CQRHWRV KNUHDUBPNEGMUW IXSEGDYR
+          LHLER U SKWBUK PQQU SAKNSE QUSEMDLA HQUIWE HLSE KSLFNLGMUW
+             LAW
+          HILARA PNYSUQA LBVMWUKPQ WMHWKDALZMN EHQDHNQC UQHHWA XMVNEWE
+             UZ WMDFESBV SQXWWR PMS PRMUXEN
+
+
+ QU  SCQYY
+
+ QU  PSBVHID UH  VMIN YWR PQXV
+
+          QYRM HESPARFQGMUW ZM WMRLHVZ MU L GUZFYSCUUDMFY
+          BPQFQHARPBMID ZWHHF KDBRHLVHUW DOXV ZUXVWY FNWNO
+
+          UIRKNEZMD  HQNAMASUDS RSPV RHDQRZMC WQFHIALV NQHUWBPNEGMUW
+             FLL
+
+              Q NFLBVMDP HWHHKQM BPESBVUDP FYSPB LAC GYSP CQPDHKSLF
+                UIES PMLA UOBFHUKRUK  HSEPAHP HWHHKQM UEDSENW
+                NADGSEVHZQ
+                ASVU OQXUALB HLAKFUDP KKDZMW
+
+              MZRSE ROULAMGHKP HWHHKQMP SHTXUKODF PMY SHQDPUDF DHWHB UZ
+                PMQ PYSP QWNIWUDI DDUGMQFDGQ PKH  RMKNYXDQRSLFQKB
+                PMY SDFVUPR ZHQPWE UNXV PQBZ NKFQLQPS LAWIE HQFWHXUIDY
+                FLGMAL NKFQLQPS
+                SEMD C QLFLFMNK LMDS HESVHRKCF RMKNYXDQRSLFQK UDW
+
+              QUSEMDLA HQUIWE
+                NQNS UFKHBROSLNSE WMHWKDALZMN EWR
+                DHDQK QCDYK ELXHDMQFQ RWZCRUDQFHW VUSCENX WT NUWPDSPB
+
+              ZUNAKDDF ULPMSEP SLYHTSA PNIU FEDQENR IOULAMGHKB
+                UDBPMGMFQ  PRS FEHSEP UZ PKHWPK NYPRUDPFUW NADGSEVHZQ
+                UZ GDDPUDUK
+                WIWHPMQ ZYWMHT ILAKFUDP KKDZMN EWRHW
+                NKGDR DWZNVQK FEDQENW
+
+              LA ASQRPCUWMD HQKDNQV UIOCWLF UZPADHDF PDEFMHRB LAW
+                UNXVPQBZ PSENRMQLUVMGQ  ZRS UWVURA HIHNALX UT NHNESCF
+                NBUDMDLF PCUKXB QUSEMDLA ELXHDMQFHIA UHW PMQ YKGLARQHQCF
+                UZ BRHKWNY
+                UQDHL F SASCUW UQALIDDF KRMGHW
+
+              E FWHHKQM PMQF UZPAEP ULRBHUUVK HUQPKX HZ TKFSP LMZ MUHPB
+                PSENRMQLSA PQBZ  WMCWASB UQFM SWZEV
+                XAWLQ E HSEPUWHOL EBVHVFQCF KDESQMHW WMCWASX
+                   UDZUCHQFHIC FQRURUXIZHKL PHW BRMIFLNSK OAUHWUQGMUW
+                   XHHNRQB RHWRAXV NADGSEVHZQ
+
+ TH  FNWNI  RUDUDP DWZU Q VUSCENQ OKNHVUW   YSMHVMPB
+          KLKUFLLXY
+
+ TH   PSBVHID UH  VMIN YWR PQXV WMCFW
+
+
+ TH   SCQYY
+
+
+ TH   PSBVHID UOV  KDBPDHLMGMUW RAZCHWEV LAR WQPYWDEUDZ  ITFHIRL
+          ZUC RHVPSUHALGMUW
+
+          FHLXHVRSW VHVEV  NADGSEVHZQ HESPPSL EWR FHLXMDPSQMHW
+             FHLXHVRSEP HEDGQFSPQRZME HMLVUPRSEB
+          WMHTMFSE RAZCHWEV
+
+          UIRKNEZMW  SMXSEF P GORM PHQRUKF LBVHVFQCF ZM PMQ YBVMWUKPQ
+             VUSCENUKA UHW PHQRUKS FWHHKQMB XMVNEWE UZ WMDFESBV
+          NBUGZUCR L FAWRM KDESQMHW VUSCENK YMFIUQFHIA NDUSKEPMGX WZ
+             NQVUZUCWUK
+          MINYCR SQBVSE BRMIUX UZ VUSCENK YWR UDZUCHQFHIR LDMARRQ
+             NADGSEVHZQ UZ GHZBBLHNPI
+          WHALVN X VENPSA LBVMWUKPQ KDESQMHW UZ VUSCENHKL PHW
+             UDZUCHQFHIC FQRURUXIZA ODUSKEPMGX WT UENAXLAN KM QUXSAPK
+             FEDE
+          KRDOC L SCWYWCDIP KSYNMGMSK KDESQMHW HQHQS WSPQYCNO
+             UDBPMGMFY
+
+ TH   ESRQTFHIC  UUWFTASHKW SWZU BMVNEWE UQKDXHW 
+
+                                 
+
+RYRWSPNKK  ONAY 
+
+KDDUDF WHIU L FMVNEWE UQKDXHW 
+
+ QU   WMZLYS LAW VLAHVO
+
+ QU   PSBVHID UG  DUQPK NQTFHNQ PYSM QEFFMES IXSEGDYR UZ PQBZ LAW
+          HUKFS PZMNEPK ZUCHQFB
+
+          UIRKNEZMC  DUVVUQU S UWZZMD LMDS HESVHRKCF UZ HZSEQFHIRL
+             UDQP
+
+          E FDHWNHGLF HQPMIWL PHW HUKFQ REFFMES UZ PQBZ
+             KDESQM BRLADUDF
+             HLY HT UMDWHZUCH
+
+          LARA D EARRAK YBVHVFQCF KDESQMHW RKFECPHQCF UZ HESPSELKGMUW
+             LAR NUWPSDSQFHIW NHWRAXV NADGSEVHZQ
+          FEHQFL KM LARCQ YBVMWUKPQ KDESQMHW LNZMUQGMUW LAW
+          HOKDPM Y FDKEN WMHWKDALZMC WQFHIALF LPDMDNFFMNEB FYSZ
+             KDIDGMGODF HEIZNEU CQFRG ALGMUWLF KFDHNMBFHNLF VUSCENX
+             ALX
+          WIALVN O DQFSEP RQYR VEXPQHB UZGURQ KYSA NADGSEVHZQ VUSCENX
+
+          L BHSDMLF HEMXSAHB
+             XMNAK GUXOUSP
+             WMRLSELKGMUW

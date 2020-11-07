@@ -1,0 +1,14 @@
+
+Branches:
+    Army, Navy, Air Force, Air Defense, Police Force
+Manpower availability:
+    males 15-49, 190,937; 105,857 fit for military service
+Defense expenditures:
+    exchange rate conversion - $194 million, 6% of GDP (1990)
+
+:Baker Island Geography
+
+Total area:
+    1.4 km2
+Land area:
+    1.4 km2

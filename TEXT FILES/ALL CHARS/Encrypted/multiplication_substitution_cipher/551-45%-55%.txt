@@ -1,0 +1,24 @@
+By keeping one's database free of that kind of contamination, one can
+make decisions down the road, for example, reorganize the data in ways
+that are not cramped by built-in notions of what should be italic and
+what should be bold.  WEIBEL strongly advocated descriptive markup.  As
+an example, he illustrated the index structure in the CORE data.  With
+subsequent illustrated examples of markup, WEIBEL acknowledged the common
+complaint that SGML is hard to read in its native form, although markup
+decreases considerably once one gets into the body.  Without the markup,
+however, one would not have the structure in the data.  One can pass
+markup through a LaTeX processor and convert it relatively easily to a
+printed version of the document.
+
+WEIBEL next illustrated an extremely cluttered screen dump of OCLC's
+system, in order to show as much as possible the inherent capabilii|5 o_
+|"% Ycr%%_A  (@% _o|%J VGr%_|"%|icGll5 |"G| "% "GJ @%coS% G YuVVor|%r of
+rS[i_Jo<Y GY G r%Yul| of |"% VroMr%YY of |"% }il~ ProP%c|Al  [~c8~f GlYo
+illuY|rG|%J |"% |<o SGPor VGr|Y of |"% i_|%rfGc%u  ll G co_|rol @ox |"G|
+Gllo<Y o_% |o M%_%rG|% liY|Y of i|%SY, <"ic" r%Y%S@l%Y G YSGll |G@l% of
+co_|%_|Y @GY%J o_ (%5 <orJY o_% <iY"%Y |o Y%Grc", G_J 2l G JocuS%_|
+2i%<%r, <"ic" iY G Y%VGrG|% Vroc%YY i_ G_J of i|Y%lfA  @% J%So_Y|rG|%J
+"o< |o follo< li_(Y |"rouM" |"% %l%c|ro_ic JG|G@GY% YiSVl5 @5 Y%l%c|i_M
+|"% GVVroVriG|% @u||o_ G_J @ri_Mi_M |"%S uVA  @% GlYo _o|%J Vro@l%SY |"G|
+r%SGi_ |o @% GccoSSoJG|%J i_ |"% i_|%rfGc% (%AMA, GY Voi_|%J ou| @5 f~S%,
+<"G| "GVV%_Y <"%_ uY%rY Jo _o| clic( o_ |"% ico_ for |"% fiMur%l

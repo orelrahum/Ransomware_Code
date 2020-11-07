@@ -1,0 +1,24 @@
+in some of the OCR technology, some of the processes, and some of the
+standards acceptances, which, though they may lead to somewhat lower costs,
+do not offer much encouragement to many people who are anxiously awaiting
+the day that the entire contents of LC are available on-line.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZIDAR * Several answers to why one attempts to perform full-text
+conversion * Per page cost of performing OCR * Typical problems
+encountered during editing * Editing poor copy OCR vs. rekeying *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Judith ZIDAR, coordinator, National Agricultural Text Digitizing Program
+(NATDP), National Agricultural Library (NAL), offered several answers to
+the question of why one attempts to perform full-text conversion:  1)
+Text in an image can be read by a human but not by a computer, so of
+course it is not searchable and there is not much one can do with it.  2)
+Some material simply requires word-level access.  For instance, the legal
+profession insists on full-text access to its material; with taxonomic or
+geographic material, which entails numerous names, one virtually requires
+word-level access.  3) Full text permits rapid browsing and searching,
+something that cannot be achieved in an image with today's technology.
+4) GVCG HGLIVW ZH ZHXRR ZMW WVOREVIVW RM ZHXRR RH HGZMWZIWRAVW ZMW SRTSOB

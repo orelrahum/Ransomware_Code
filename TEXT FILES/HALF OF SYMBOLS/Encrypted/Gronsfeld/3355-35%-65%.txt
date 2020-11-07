@@ -1,0 +1,33 @@
+the "go to" pulldown allowed the user in effect to jump out of Toolbook,
+where the interactive program was located, and enter the thirdparty
+software used by AM for this text collection, which is called Personal
+Librarian.  This was the Windows version of Personal Librarian, a
+software application put together by a company in Rockville, Md.
+
+Since the broadsides came from the Revolutionary War period, a search was
+conducted using the words British or war, with the default operator reset
+as or.  FLEISCHHAUER demonstrated both automatic stemming which finds
+other forms of the same root and a truncated search.  One of Personal
+Librarians strongest features, the relevance ranking, was represented by
+a chart that indicated how often words being sought appeared in
+documents, with the one receiving the most "hits" obtaining the highest
+score.  The "hit list" that is supplied takes the relevance ranking into
+account, making the first hit, in effect, the one the software has
+selected as the most relevant example.
+
+While in the text of one of the broadside documents, FLEISCHHAUER
+remarked AMs attempt to find ways to connect cataloging to the texts,
+which it does in different ways in different manifestations.  In the case
+shown, the cataloging was pasted on:  AM took MARC records that were
+written as online recordS AQKKY MUCW TVG OO BLH QMIAIWGU MJQRIWETN
+WIAAQJDCL YZSJWETB, XZTNEM BLHR SBC, ISL JAWLIG YLLV WKN VO CPI FTRAAIHBQR,
+BLV VIXACGNL XKJQ ZXUJEJAC BS GNWWUID BJEV QR WMI TJVSMT SQWAQ.  TRL XN
+FQZ ZCJAVIXVW LX, HVNA YPG CJBEOTKBRVL VQRVIPOD TLANTZOEM QR WMI TJQSNTAVM
+BSYT QS BJIB KSQYIEC, WW PCD JU SXLLA CW YPKNT BLUTYNQ IIRWSCUIQYW?
+
+KPLRAHPJADMV PFHL CPJ IFDRBMRSES YWNVV TQIX, DX JHA IX BJE CMBW LSLB, IR
+MEZ PZFDKTJBIG YSDJZIA UGVT LH USPWBJL VO CPI ETPKOIHM KN CPI XUTLA XFZV
+TJ AQM XKTENV.  EOYLVDOM MZTAMQHQC SRUNBGD RV MWX EIRTNBA TX BVDSWSJBJ
+TV PWBJZRRNB WJRP, WNZXWPAU TMEWEYRIS EKLU NYUSMZQ JTBJ BXTH DSH PCIQQES
+TR ZLZJMP A OIMUQC LJAD BJIWO XR IS, IDB NB KS XVI RK XON EFGU IW ELLHL
+XKTU QX CUEOCP.

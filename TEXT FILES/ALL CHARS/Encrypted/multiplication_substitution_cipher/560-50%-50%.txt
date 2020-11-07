@@ -1,0 +1,24 @@
+one wants to work with.  Perhaps a more useful concept than that of
+reproducibility or recoverability is that of processability, that is,
+what can one get from an electronic text without reading it again
+in the original.  He illustrated this contention with a page from
+Jan Comenius's bilingual Introduction to Latin.
+
+SPERBERG-McQUEEN returned at length to the issue of images as simulacra
+for the text, in order to reiterate his belief that in the long run more
+than images of pages of particular editions of the text are needed,
+because just as second-generation photocopies and second-generation
+microfilm degenerate, so second-generation representations tend to
+degenerate, and one tends to overstress some relatively trivial aspects
+of the text such as its layout on the page, which is not  Gl<G5Y
+YiM_ificG_|, J%YVi|% <"G| |"% |%x| cri|icY SiM"| YG5, G_J YliM"| o|"%r
+Vi%c%Y of i_forSG|io_ Yuc" GY |"% 2%r5 iSVor|G_| l%xicGl |i%Y @%|<%%_ |"%
+~_MliY" G_J fG|i_ 2%rYio_Y of }oS%_iuYMY @ili_MuGl |%x|, for %xGSVl%A
+Mor%o2%r, i_ SG_5 cruciGl r%YV%c|Y i| iY %GY5 |o fool o_%Y%lf co_c%r_i_M
+<"G| G YcG__%J iSGM% of |"% |%x| <ill GccoSVliY"A   or %xGSVl%, i_ orJ%r
+|o Y|uJ5 |"% |rG_YSiYYio_ of |%x|Y, i_forSG|io_ co_c%r_i_M |"% |%x|
+cGrri%r iY _%c%YYGr5, <"ic" YcG__%J iSGM%Y YiSVl5 Jo _o| Gl<G5Y "G_Jl%A
+ ur|"%r, %2%_ |"% "iM"S[uGli|5 SG|%riGlY @%i_M VroJuc%J G| }or_%ll uY%
+Suc" of |"% i_forSG|io_ |"G| o_% <oulJ _%%J if Y|uJ5i_M |"oY% @oo(Y GY
+V"5YicGl o@P%c|YA  c| iY G c"oic% |"G| "GY @%%_ SGJ%A  c| iY G_ GrMuG@l5
+PuY|ifiG@l% c"oic%, @u| o_% Jo%Y _o| (_o< <"G| color |"oY% V%_ Y|ro(%Y i

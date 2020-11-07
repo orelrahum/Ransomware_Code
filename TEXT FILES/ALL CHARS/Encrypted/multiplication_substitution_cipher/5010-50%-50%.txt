@@ -1,0 +1,513 @@
+All of the indices driving this kind of usage were originally devised for
+speed, MYLONAS observed; in other words, all that kind of information--
+all forms of all words, where they exist, the dictionary form they belong
+to--were collected into databases, which will expedite searching.  Then
+it was discovered that one can do things searching in these databases
+that could not be done searching in the full texts.  Thus, although there
+are full-text searches in Perseus, much of the work is done behind the
+scenes, using prepared indices.  Re the indexing that is done behind the
+scenes, MYLONAS pointed out that without the SGML forms of the text, it
+could not be done effectively.  Much of this indexing is based on the
+structures that are made explicit by the SGML tagging.
+
+It was found that one of the things many of Perseus' non-Greek-reading
+users do is start from the dictionary and then move into the close study
+of words and concepts via this kind of English-Greek word search, by which
+means they might select a concept.  This exercise has been assigned to
+students in core courses at Harvard--to study a concept by looking for the
+English word in the dictionary, finding the Greek words, and then finding
+the words in the Greek but, of course, reading across in the English.
+That tells them a great deal about what a translation means as well.
+
+Should one also wish to see images that have to do with sacrifice, that
+person would go to the object key word search, which allows one to
+perform a similar kind of index retrieval on the database of
+archaeological objects.  Without words, pictures are useless; Perseus has
+not reached the point where it can do much with images that are not
+cataloged.  Thus, although it is possible in Perseus with text and images
+to navigate by knowing where one wants to end up--for example, a
+red-figure vase from the Boston Museum of Fine Arts--one can perform this
+kind of navigation very easily by tracing down indices.  MYLONAS
+illustrated several generic scenes of sacrifice on vases.  The features
+demonstrated derived from Perseus 1.0; version 2.0 will implement even
+better means of retrieval.
+
+MYLONAS closed by looking at one of the pictures and noting again that
+one can do a great deal of research using the iconography as well as the
+texts.  For instance, students in a core course at Harvard this year were
+highly interested in Greek concepts of foreigners and representations of
+non-Greeks.  So they performed a great deal of research, both with texts
+(e.g., Herodotus) and with iconography on vases and coins, on how the
+Greeks portrayed non-Greeks.  At the same time, art historians who study
+iconography were also interested, and were able to use this material.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Indexing and searchability of all English words in Perseus *
+Several features of Perseus 1.0 * Several levels of customization
+possible * Perseus used for general education * Perseus' effects on
+education * Contextual information in Perseus * Main challenge and
+emphasis of Perseus *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Several points emerged in the discussion that followed MYLONAS's presentation.
+
+Although MYLONAS had not demonstrated Perseus' ability to cross-search
+documents, she confirmed that all English words in Perseus are indexed
+and can be searched.  So, for example, sacrifice could have been searched
+in all texts, the historical essay, and all the catalogue entries with
+their descriptions--in short, in all of Perseus.
+
+Boolean logic is not in Perseus 1.0 but will be added to the next
+version, although an effort is being made not to restrict Perseus to a
+database in which one just performs searching, Boolean or otherwise.  It
+is possible to move laterally through the documents by selecting a word
+one is interested in and selecting an area of information one is
+interested in and trying to look that word up in that area.
+
+Since Perseus was developed in HyperCard, several levels of customization
+are possible.  Simple authoring tools exist that allow one to create
+annotated paths through the information, which are useful for note-taking
+and for guided tours for teaching purposes and for expository writing.
+With a little more ingenuity it is possible to begin to add or substitute
+material in Perseus.
+
+Perseus has not been used so much for classics education as for general
+education, where it seemed to have an impact on the students in the core
+course at Harvard (a general required course that students must take in
+certain areas).  Students were able to use primary material much more.
+
+The Perseus Project has an evaluation team at the University of Maryland
+that has been documenting Perseus' effects on education.  Perseus is very
+popular, and anecdotal evidence indicates that it is having an effect at
+places other than Harvard, for example, test sites at Ball State
+University, Drury College, and numerous small places where opportunities
+to use vast amounts of primary data may not exist.  One documented effect
+is that archaeological, anthropological, and philological research is
+being done by the same person instead of by three different people.
+
+The contextual information in Perseus includes an overview essay, a
+fairly linear historical essay on the fifth century B.C. that provides
+links into the primary material (e.g., Herodotus, Thucydides, and
+Plutarch), via small gray underscoring (on the screen) of linked
+passages.  These are handmade links into other material.
+
+To different extents, most of the production work was done at Harvard,
+where the people and the equipment are located.  Much of the
+collaborative activity involved data collection and structuring, because
+the main challenge and the emphasis of Perseus is the gathering of
+primary material, that is, building a useful environment for studying
+classical Greece, collecting data, and making it useful.
+Systems-building is definitely not the main concern.  Thus, much of the
+work has involved writing essays, collecting information, rewriting it,
+and tagging it.  That can be done off site.  The creative link for the
+overview essay as well as for both systems and data was collaborative,
+and was forged via E-mail and paper mail with professors at Pomona and
+Bowdoin.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CALALUCA * PLD's principal focus and contribution to scholarship *
+Various questions preparatory to beginning the project * Basis for
+project * Basic rule in converting PLD * Concerning the images in PLD *
+Running PLD under a variety of retrieval softwares * Encoding the
+database a hard-fought issue * Various features demonstrated * Importance
+of user documentation * Limitations of the CD-ROM version *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Eric CALALUCA, vice president, Chadwyck-Healey, Inc., demonstrated a
+software interpretation of the Patrologia Latina Database (PLD).  PLD's
+principal focus from the beginning of the project about three-and-a-half
+years ago was on converting Migne's Latin series, and in the end,
+CALALUCA suggested, conversion of the text will be the major contribution
+to scholarship.  CALALUCA stressed that, as possibly the only private
+publishing organization at the Workshop, Chadwyck-Healey had sought no
+federal funds or national foundation support before embarking upon the
+project, but instead had relied upon a great deal of homework and
+marketing to accomplish the task of conversion.
+
+Ever since the possibilities of computer-searching have emerged, scholars
+in the field of late ancient and early medieval studies (philosophers,
+theologians, classicists, and those studying the history of natural law
+and the history of the legal development of Western civilization) have
+been longing for a fully searchable version of Western literature, for
+example, all the texts of Augustine and Bernard of Clairvaux and
+Boethius, not to mention all the secondary and tertiary authors.
+
+Various questions arose, CALALUCA said.  Should one convert Migne?
+Should the database be encoded?  Is it necessary to do that?  How should
+it be delivered?  What about CD-ROM?  Since this is a transitional
+medium, why even bother to create software to run on a CD-ROM?  Since
+everybody knows people will be networking information, why go to the
+trouble--which is far greater with CD-ROM than with the production of
+magnetic data?  Finally, how does one make the data available?  Can many
+of the hurdles to using electronic information that some publishers have
+imposed upon databases be eliminated?
+
+The PLD project was based on the principle that computer-searching of
+texts is most effective when it is done with a large database.  Because
+PLD represented a collection that serves so many disciplines across so
+many periods, it was irresistible.
+
+The basic rule in converting PLD was to do no harm, to avoid the sins of
+intrusion in such a database:  no introduction of newer editions, no
+on-the-spot changes, no eradicating of all possible falsehoods from an
+edition.  Thus, PLD is not the final act in electronic publishing for
+this discipline, but simply the beginning.  The conversion of PLD has
+evoked numerous unanticipated questions:  How will information be used?
+What about networking?  Can the rights of a database be protected?
+Should one protect the rights of a database?  How can it be made
+available?
+
+Those converting PLD also tried to avoid the sins of omission, that is,
+excluding portions of the collections or whole sections.  What about the
+images?  PLD is full of images, some are extremely pious
+nineteenth-century representations of the Fathers, while others contain
+highly interesting elements.  The goal was to cover all the text of Migne
+(including notes, in Greek and in Hebrew, the latter of which, in
+particular, causes problems in creating a search structure), all the
+indices, and even the images, which are being scanned in separately
+searchable files.
+
+Several North American institutions that have placed acquisition requests
+for the PLD database have requested it in magnetic form without software,
+which means they are already running it without software, without
+anything demonstrated at the Workshop.
+
+What cannot practically be done is go back and reconvert and re-encode
+data, a time-consuming and extremely costly enterprise.  CALALUCA sees
+PLD as a database that can, and should, be run under a variety of
+retrieval softwares.  This will permit the widest possible searches.
+Consequently, the need to produce a CD-ROM of PLD, as well as to develop
+software that could handle some 1.3 gigabyte of heavily encoded text,
+developed out of conversations with collection development and reference
+librarians who wanted software both compassionate enough for the
+pedestrian but also capable of incorporating the most detailed
+lexicographical studies that a user desires to conduct.  In the end, the
+encoding and conversion of the data will prove the most enduring
+testament to the value of the project.
+
+The encoding of the database was also a hard-fought issue:  Did the
+database need to be encoded? Were there normative structures for encoding
+humanist texts?  Should it be SGML?  What about the TEI--will it last,
+will it prove useful?  CALALUCA expressed some minor doubts as to whether
+a data bank can be fully TEI-conformant.  Every effort can be made, but
+in the end to be TEI-conformant means to accept the need to make some
+firm encoding decisions that can, indeed, be disputed.  The TEI points
+the publisher in a proper direction but does not presume to make all the
+decisions for him or her.  Essentially, the goal of encoding was to
+eliminate, as much as possible, the hindrances to information-networking,
+so that if an institution acquires a database, everybody associated with
+the institution can have access to it.
+
+CALALUCA demonstrated a portion of Volume 160, because it had the most
+anomalies in it.  The software was created by Electronic Book
+Technologies of Providence, RI, and is called Dynatext.  The software
+works only with SGML-coded data.
+
+Viewing a table of contents on the screen, the audience saw how Dynatext
+treats each element as a book and attempts to simplify movement through a
+volume.  Familiarity with the Patrologia in print (i.e., the text, its
+source, and the editions) will make the machine-readable versions highly
+useful.  (Software with a Windows application was sought for PLD,
+CALALUCA said, because this was the main trend for scholarly use.)
+
+CALALUCA also demonstrated how a user can perform a variety of searches
+and quickly move to any part of a volume; the look-up screen provides
+some basic, simple word-searching.
+
+CALALUCA argued that one of the major difficulties is not the software.
+Rather, in creating a product that will be used by scholars representing
+a broad spectrum of computer sophistication,  user documentation proves
+to be the most important service one can provide.
+
+CALALUCA next illustrated a truncated search under mysterium within ten
+words of virtus and how one would be able to find its contents throughout
+the entire database.  He said that the exciting thing about PLD is that
+many of the applications in the retrieval software being written for it
+will exceed the capabilities of the software employed now for the CD-ROM
+version.  The CD-ROM faces genuine limitations, in terms of speed and
+comprehensiveness, in the creation of a retrieval software to run it.
+CALALUCA said he hoped that individual scholars will download the data,
+if they wish, to their personal computers, and have ready access to
+important texts on a constant basis, which they will be able to use in
+their research and from which they might even be able to publish.
+
+(CALALUCA explained that the blue numbers represented Migne's column numbers,
+which are the standard scholarly references.  Pulling up a note, he stated
+that these texts were heavily edited and the image files would appear simply
+as a note as well, so that one could quickly access an image.)
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FLEISCHHAUER/ERWAY * Several problems with which AM is still wrestling *
+Various search and retrieval capabilities * Illustration of automatic
+stemming and a truncated search * AM's attempt to find ways to connect
+cataloging to the texts * AM's gravitation towards SGML * Striking a
+balance between quantity and quality * How AM furnishes users recourse to
+images * Conducting a search in a full-text environment * Macintosh and
+IBM prototypes of AM * Multimedia aspects of AM *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A demonstration of American Memory by its coordinator, Carl FLEISCHHAUER,
+and Ricky ERWAY, associate coordinator, Library of Congress, concluded
+the morning session.  Beginning with a collection of broadsides from the
+Continental Congress and the Constitutional Convention, the only text
+collection in a presentable form at the time of the Workshop, FLEISCHHAUER
+highlighted several of the problems with which AM is sY|ill <r%Y|li_MA
+(c_ i|Y fi_Gl forS, |"% JiY( <ill co_|Gi_ |<o coll%c|io_Y, _o| o_l5 |"%
+@roGJYiJ%Y @u| GlYo |"% full |%x| <i|" illuY|rG|io_Y of G Y%| of
+GVVroxiSG|%l5 <DD AfricG_SAS%ricG_ VGSV"l%|Y froS |"% V%rioJ u8AD |o u}uDAl
+
+AY  l~~MA" "GJ %xVlGi_%J %Grli%r, AM "GY G||%SV|%J |o uY% G YSGll GSou_|
+of i_|%rVr%|G|io_ |o i_|roJuc% coll%c|io_YA  c_ |"% Vr%Y%_| cGY%, |"%
+co_|rGc|or, G coSVG_5 _GS%J (uic( Sourc%, i_ Sil2%r SVri_M, MDA, uY%J
+Yof|<Gr% cGll%J _ool@oo( G_J Vu| |oM%|"%r G SoJ%Y|l5 i_|%rGc|i2%
+i_|roJuc|io_ |o |"% coll%c|io_A  fi(% |"% |<o Vr%c%Ji_M YV%G(%rY,
+ f~cS}@@Ao~l GrMu%J |"G| |"% r%Gl GYY%| <GY |"% u_J%rl5i_M coll%c|io_A
+
+ f~cS}@@Ao~l Vroc%%J%J |o J%Ycri@% 2GriouY Y%Grc" G_J r%|ri%2Gl
+cGVG@ili|i%Y <"il% ~l[AY <or(%J |"% coSVu|%rA  c_ |"iY VGr|iculGr VGc(GM%
+|"% "Mo |o" VullSJo<_ Gllo<%J |"% uY%r i_ %ff%c| |o PuSV ou| of _ool@oo(,
+<"%r% |"% i_|%rGc|i2% VroMrGS <GY locG|%J, G_J %_|%r |"% |"irJSVGr|5
+Yof|<Gr% uY%J @5 AM for |"iY |%x| coll%c|io_, <"ic" iY cGll%J P%rYo_Gl
+fi@rGriG_A  _"iY <GY |"% [i_Jo<Y 2%rYio_ of P%rYo_Gl fi@rGriG_, G
+Yof|<Gr% GVVlicG|io_ Vu| |oM%|"%r @5 G coSVG_5 i_ loc(2ill%, MJA
+
+Si_c% |"% @roGJYiJ%Y cGS% froS |"% l%2olu|io_Gr5 [Gr V%rioJ, G Y%Grc" <GY
+co_Juc|%J uYi_M |"% <orJY 8ri|iY" or <Gr, <i|" |"% J%fGul| oV%rG|or r%Y%|
+GY orA   f~cS}@@Ao~l J%So_Y|rG|%J @o|" Gu|oSG|ic Y|%SSi_M (<"ic" fi_JY
+o|"%r forSY of |"% YGS% roo|l G_J G |ru_cG|%J Y%Grc"A  i_% of P%rYo_Gl
+fi@rGriG_MY Y|ro_M%Y| f%G|ur%Y, |"% r%l%2G_c% rG_(i_M, <GY r%Vr%Y%_|%J @5
+G c"Gr| |"G| i_JicG|%J "o< of|%_ <orJY @%i_M YouM"| GVV%Gr%J i_
+JocuS%_|Y, <i|" |"% o_% r%c%i2i_M |"% SoY| ""i|Y" o@|Gi_i_M |"% "iM"%Y|
+Ycor%A  _"% ""i| liY|" |"G| iY YuVVli%J |G(%Y |"% r%l%2G_c% rG_(i_M i_|o
+Gccou_|, SG(i_M |"% firY| "i|, i_ %ff%c|, |"% o_% |"% Yof|<Gr% "GY
+Y%l%c|%J GY |"% SoY| r%l%2G_| %xGSVl%A
+
+["il% i_ |"% |%x| of o_% of |"% @roGJYiJ% JocuS%_|Y,  f~cS}@@Ao~l
+r%SGr(%J AMMY G||%SV| |o fi_J <G5Y |o co__%c| cG|GloMi_M |o |"% |%x|Y,
+<"ic" i| Jo%Y i_ Jiff%r%_| <G5Y i_ Jiff%r%_| SG_if%Y|G|io_YA  c_ |"% cGY%
+Y"o<_, |"% cG|GloMi_M <GY VGY|%J o_u  AM |oo( MAl} r%corJY |"G| <%r%
+<ri||%_ GY o_Sli_% r%corJY riM"| i_|o o_% of |"% fi@rGr5MY SGi_frGS%
+r%|ri%2Gl VroMrGSY, Vull%J |"%S ou|, G_J "G_J%J |"%S off |o |"% co_|rGc|or,
+<"o SGYYGM%J |"%S YoS%<"G| |o JiYVlG5 |"%S i_ |"% SG__%r Y"o<_A  i_% of
+AMMY [u%Y|io_Y iY, Do%Y |"% cG|GloMui_M _orSGll5 V%rforS%J i_ |"% SGi_frGS%
+<or( i_ |"iY co_|%x|, or "GJ AM ouM"| |o |"i_( |"rouM" GJPuY|S%_|Y8
+
+ f~cS}@@Ao~l SGJ% |"% GJJi|io_Gl Voi_| |"G|, GY fGr GY |"% |%x| Mo%Y, AM
+"GY MrG2i|G|%J |o<GrJY SGMf ("% Voi_|%J |o |"% @olJfGc% i_ |"% uVV%r VGr|
+of |"% Ycr%%_lA  Al|"ouM" %x|r%S%l5 liSi|%J i_ i|Y G@ili|5 |o |rG_YlG|%
+or i_|%rVr%| SGMf, P%rYo_Gl fi@rGriG_ <ill fur_iY" @o|" @olJ G_J i|GlicY
+o_ Ycr%%_2 G fGirl5 %GY5 |"i_M |o Jo, @u| i| iY o_% of |"% <G5Y i_ <"ic"
+SGMf iY uY%fulA
+
+S|ri(i_M G @GlG_c% @%|<%%_ [uG_|i|5 G_J [uGli|5 "GY @%%_ G SGPor co_c%r_
+of AM, <i|" GccurGc5 @%i_M o_% of |"% VlGc%Y <"%r% VroP%c| Y|Gff "G2%
+f%l| |"G| l%YY |"G_ uDDSV%rc%_| GccurGc5 <GY _o| u_Gcc%V|G@l%A
+ f~cS}@@Ao~l ci|%J |"% %xGSVl% of |"% Y|G_JGrJ of |"% r%(%5i_M i_JuY|r5,
+_GS%l5 }}A}5 V%rc%_|2 GY o_% Y%r2ic% @ur%Gu i_forS%J "iS, |o Mo froS
+}}A}5 |o uDD V%rc%_| <oulJ Jou@l% |"% coY|A
+
+ f~cS}@@Ao~l _%x| J%So_Y|rG|%J "o< AM fur_iY"%Y uY%rY r%courY% |o iSGM%Y,
+G_J G| |"% YGS% |iS% r%cGll%J f~S%MY Voi_|%J [u%Y|io_ co_c%r_i_M |"%
+_uS@%r of V%oVl% <"o <oulJ loo( G| |"oY% iSGM%Y G_J |"% _uS@%r <"o <oulJ
+<or( o_l5 <i|" |"% |%x|A  cf |"% iSVlicG|io_ of f~S%MY [u%Y|io_ <GY
+You_J,  f~cS}@@Ao~l YGiJ, i| rGiY%J |"% Y|G(%Y for |%x| GccurGc5 G_J
+r%Juc%J |"% 2Glu% of |"% Y|rG|%M5 for iSGM%YA
+
+}o_|%_Ji_M |"G| Vr%Y%r2G|io_ iY Gl<G5Y G @uMG@oo,  f~cS}@@Ao~l
+J%So_Y|rG|%J Y%2%rGl iSGM%Y J%ri2%J froS G YcG_ of G Vr%Y%r2G|io_
+SicrofilS |"G| AM "GJ SGJ%A  @% G<GrJ%J G MrGJ% of } G| @%Y|, V%r"GVY G
+} Si_uY or G } VluY, for "o< <%ll i| <or(%J ou|A  c_J%%J, |"% SG||%r of
+l%Gr_i_M if o|"%r V%oVl% "GJ @%||%r iJ%GY G@ou| YcG__i_M i_ M%_%rGl, G_J,
+i_ VGr|iculGr, YcG__i_M froS SicrofilS, <GY o_% of |"% fGc|orY |"G| Jro2%
+AM |o G||%SV| |o |"i_( |"rouM" |"% GM%_JG for |"% [or(Y"oVA  S(%<, for
+%xGSVl%, <GY o_% of |"% iYYu%Y |"G| AM i_ i|Y iM_orG_c% "GJ _o| r%c(o_%J
+<oulJ Vro2% Yo Jifficul|A
+
+ ur|"%r, |"% "G_Jli_M of iSGM%Y of |"% Yor| Y"o<_, i_ G J%Y(|oV coSVu|%r
+%_2iro_S%_|, i_2ol2%J G co_YiJ%rG@l% GSou_| of ,ooSi_M G_J Ycrolli_MA
+ol|iSG|%l5, AM Y|Gff f%%l |"G| V%r"GVY |"% VGV%r coV5 |"G| iY Vri_|%J ou|
+SiM"| @% |"% SoY| uY%ful o_%, @u| |"%5 r%SGi_ u_c%r|Gi_ GY |o "o< Suc"
+o_SYcr%%_ r%GJi_M uY%rY <ill JoA
+
+l%|ur_i_M |o |"% |%x|,  f~cS}@@Ao~l GY(%J 2i%<%rY |o iSGMi_% G V%rYo_ <"o
+SiM"| @% co_Juc|i_M G Y%Grc" i_ G fullS|%x| %_2iro_S%_|A  [i|" |"iY
+Yc%_Grio, "% Vroc%%J%J |o illuY|rG|% o|"%r f%G|ur%Y of P%rYo_Gl fi@rGriG_
+|"G| "% co_YiJ%r%J "%lVful2 for %xGSVl%, i| Vro2iJ%Y |"% G@ili|5 |o
+_o|ic% <orJY GY o_% r%GJYA  }lic(i_M |"% "i_cluJ%" @u||o_ o_ |"% @o||oS
+of |"% Y%Grc" <i_Jo< VoVY |"% <orJY |"G| "G2% @%%_ "iM"liM"|%J i_|o |"%
+Y%Grc"A  _"uY, G uY%r cG_ r%fi_% |"% Y%Grc" GY "% or Y"% r%GJY,
+r%S%x%cu|i_M |"% Y%Grc" G_J co_|i_ui_M |o fi_J |"i_MY i_ |"% [u%Y| for
+SG|%riGlYA  _"iY Yof|<Gr% _o| o_l5 co_|Gi_Y r%l%2G_c% rG_(i_M, 8ool%G_
+oV%rG|orY, G_J |ru_cG|io_, i| GlYo V%rSi|Y o_% |o V%rforS <orJ GlM%@rG,
+Yo |o YG5, <"%r% o_% Vu|Y |<o or |"r%% <orJY i_ VGr%_|"%Y%Y G_J li_(Y
+|"%S <i|" o_% 8ool%G_ oV%rG|or G_J |"%_ G couVl% of <orJY i_ G_o|"%r Y%|
+of VGr%_|"%Y%Y G_J GY(Y for |"i_MY <i|"i_ Yo SG_5 <orJY of o|"%rYA
+
+o_|il |"%5 @%cGS% Gc[uGi_|%J r%c%_|l5 <i|" YoS% of |"% <or( @%i_M Jo_% i_
+clGYYicY, |"% AM Y|Gff "GJ _o| r%Gli,%J |"G| G lGrM% _uS@%r of |"%
+VroP%c|Y |"G| i_2ol2% %l%c|ro_ic |%x|Y <%r% @%i_M Jo_% @5 V%oVl% <i|" G
+Vrofou_J i_|%r%Y| i_ lG_MuGM% G_J li_MuiY|icYA  _"%ir Y%Grc" Y|rG|%Mi%Y
+G_J |"i_(i_M Gr% ori%_|%J |o |"oY% fi%lJY, GY iY Y"o<_ i_ VGr|iculGr @5
+|"% P%rY%uY %xGSVl%A  AY GSG|%ur "iY|oriG_Y, |"% AM Y|Gff <%r% |"i_(i_M
+Sor% of Y%Grc"i_M for co_c%V|Y G_J iJ%GY |"G_ for VGr|iculGr <orJYA
+i@2iouYl5,  f~cS}@@Ao~l co_c%J%J, Y%Grc"i_M for co_c%V|Y G_J iJ%GY G_J
+Y%Grc"i_M for <orJY SG5 @% |<o rG|"%r cloY%l5 r%lG|%J |"i_MYA
+
+["il% JiYVlG5i_M Y%2%rGl iSGM%Y,  f~cS}@@Ao~l o@Y%r2%J |"G| |"% MGci_|oY"
+Vro|o|5V% @uil| @5 AM co_|Gi_Y G Mr%G|%r Ji2%rYi|5 of forSG|YA  ~c"oi_M G
+Vr%2iouY YV%G(%r, "% YGiJ |"G| i| <GY %GYi%r |o Y|i|c" |"i_MY |oM%|"%r i_
+|"% MGci_|oY", |"ouM" i| |%_J%J |o @% G li||l% Sor% G_%Sic i_ Y%Grc" G_J
+r%|ri%2GlA  AM, |"%r%for%, i_cr%GYi_Ml5 "GY @%%_ i_2%Y|iMG|i_M
+YoV"iY|icG|%J r%|ri%2Gl %_Mi_%Y i_ |"% c8M forSG|A
+
+ f~cS}@@Ao~l J%So_Y|rG|%J Y%2%rGl GJJi|io_Gl %xGSVl%Y of |"% Vro|o|5V%
+i_|%rfGc%Yu  i_% <GY AMMY S%|GV"or for |"% _%|<or( fu|ur%, i_ <"ic" G
+(i_J of r%GJi_MSrooS MrGV"ic YuMM%Y|Y "o< o_% <oulJ @% G@l% |o Mo Grou_J
+|o Jiff%r%_| SG|%riGlYA  AM co_|Gi_Y G lGrM% _uS@%r of V"o|oMrGV"Y i_
+G_GloM 2iJ%o forS <or(%J uV froS G 2iJ%oJiYc, <"ic" %_G@l% uY%rY |o SG(%
+coVi%Y |o Vri_| or i_corVorG|% i_ JiMi|Gl JocuS%_|YA  A frGS%SMrG@@%r iY
+@uil| i_|o |"% Y5Y|%S, SG(i_M i| VoYYi@l% |o @ri_M G_ iSGM% i_|o G <i_Jo<
+G_J JiMi|i,% or Vri_| i| ou|A
+
+ f~cS}@@Ao~l _%x| J%So_Y|rG|%J You_J r%corJi_M, <"ic" i_cluJ%J |%x|YA
+l%c5cl%J froS G Vr%2iouY VroP%c|, |"% coll%c|io_ i_cluJ%J Yix|5 A8SrVS
+V"o_oMrGV" r%corJY of Voli|icGl YV%%c"%Y |"G| <%r% SGJ% Juri_M G_J
+iSS%JiG|%l5 Gf|%r [orlJ [Gr cA  _"%Y% co_Y|i|u|%J GVVroxiSG|%l5 |"r%%
+"ourY of GuJio, GY AM "GY JiMi|i,%J i|, <"ic" occuV5 u5D S%MG@5|%Y o_ G
+}DA  _"uY, |"%5 Gr% co_YiJ%rG@l5 coSVr%YY%JA   roS |"% cG|GloMu% cGrJ,
+ f~cS}@@Ao~l Vroc%%J%J |o G |rG_YcriV| of G YV%%c" <i|" |"% GuJio
+G2GilG@l% G_J <i|" "iM"liM"|%J |%x| follo<i_M i| GY i| VlG5%JA
+A V"o|oMrGV" "GY @%%_ GJJ%J G_J G |rG_YcriV|io_ SGJ%A
+
+}o_YiJ%rG@l% 2Glu% "GY @%%_ GJJ%J @%5o_J <"G| |"% fi@rGr5 of }o_Mr%YY
+_orSGll5 <oulJ Jo i_ cG|GloMui_M G You_J r%corJi_M, <"ic" rGiY%Y Y%2%rGl
+[u%Y|io_Y for AM co_c%r_i_M <"%r% |o JrG< li_%Y G@ou| "o< Suc" 2Glu% i| cG_
+GfforJ |o GJJ G_J G| <"G| Voi_|, V%r"GVY, |"iY @%coS%Y Sor% |"G_ AM coulJ
+r%GYo_G@l5 Jo or r%GYo_G@l5 <iY" |o JoA   f~cS}@@Ao~l GlYo J%So_Y|rG|%J
+G So|io_ Vic|ur%A  AY  l~~MA" "GJ r%Vor|%J %Grli%r, |"% So|io_ Vic|ur%
+SG|%riGlY "G2% Vro2%J |"% SoY| VoVulGr, _o| YurVriYi_Ml5A  _"iY YG5Y Sor%
+G@ou| |"% S%JiuS, "% |"ouM"|, |"G_ G@ou| AMMY Vr%Y%_|G|io_ of i|A
+
+8%cGuY% AMMY MoGl <GY |o @ri_M |oM%|"%r |"i_MY |"G| coulJ @% uY%J @5
+"iY|oriG_Y or @5 V%oVl% <"o <%r% curiouY G@ou| "iY|or5,
+|ur_SofS|"%Sc%_|ur5 foo|GM% Y%%S%J |o r%Vr%Y%_| |"% SoY| GVVroVriG|%
+coll%c|io_Y froS |"% fi@rGr5 of }o_Mr%YY i_ So|io_ Vic|ur%YA _"%Y% <%r%
+|"% 2%r5 firY| filSY SGJ% @5 _"oSGY ~JiYo_MY coSVG_5 G_J YoS% o|"%rY G|
+|"G| |iS%A  _"% VGr|iculGr %xGSVl% illuY|rG|%J <GY G 8ioMrGV" filS,
+@rouM"| i_ <i|" G frGS%SMrG@@%r i_|o G <i_Jo<A  A Yi_Ml% 2iJ%oJiYc
+co_|Gi_Y G@ou| fif|5 |i|l%Y G_J Vi%c%Y of filS froS |"G| V%rioJ, Gll of
+"%< Yor( }i|5A  _G(%_ |oM%|"%r, AM @%li%2%Y, |"%5 Vro2iJ% G_ i_|%r%Y|i_M
+JocuS%_|Gr5 r%Yourc%A
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+DcS}oSSci" P oYi_M |"% frGS%SMrG@@%r i_ AM P VoluS% of SG|%riGl Vroc%YY%J
+G_J |o @% Vroc%YY%J P PurVoY% of AM <i|"i_ f} P }G|GloMui_M G_J |"%
+_G|ur% of AMMY SG|%riGl P SGMf coJi_M G_J |"% [u%Y|io_ of [uGli|5 2%rYuY
+[uG_|i|5 P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+Duri_M |"% [u%Y|io_SG_JSG_Y<%r V%rioJ |"G| follo<%J  f~cS}@@Ao~lMY
+Vr%Y%_|G|io_, Y%2%rGl clGrificG|io_Y <%r% SGJ%A
+
+AM iY @ri_Mi_M i_ So|io_ Vic|ur%Y froS G 2iJ%oJiYcA  _"% frGS%SMrG@@%r
+J%2ic%Y cr%G|% G <i_Jo< o_ G coSVu|%r Ycr%%_, <"ic" V%rSi|Y uY%rY |o
+JiMi|i,% G Yi_Ml% frGS% of |"% So2i% or o_% of |"% V"o|oMrGV"YA  c|
+VroJuc%Y G cruJ%, rouM"SG_JSr%GJ5 iSGM% |"G| "iM" Yc"ool Y|uJ%_|Y cG_
+i_corVorG|% i_|o VGV%rY, G_J |"G| "GY <or(%J 2%r5 _ic%l5 i_ |"iY <G5A
+
+}oSS%_|i_M o_  f~cS}@@Ao~lMY GYY%r|io_ |"G| AM <GY loo(i_M Sor% G|
+Y%Grc"i_M iJ%GY |"G_ <orJY, MYfi"AS GrMu%J |"G| <i|"ou| <orJY G_ iJ%G
+Jo%Y _o| %xiY|A   f~cS}@@Ao~l co_c%J%J |"G| "% ouM"| |o "G2% Gr|iculG|%J
+"iY Voi_| Sor% cl%Grl5A  MYfi"AS Y|G|%J |"G| |"%5 <%r% i_ fGc| @o|"
+|Gl(i_M G@ou| |"% YGS% |"i_MA  85 Y%Grc"i_M for <orJY G_J @5 forci_M
+V%oVl% |o focuY o_ |"% <orJ, |"% P%rY%uY ProP%c| f%l| |"G| |"%5 <oulJ M%|
+|"%S |o |"% iJ%GA  _"% <G5 o_% r%2i%<Y r%Yul|Y iY |Gilor%J Sor% |o o_%
+(i_J of uY%r |"G_ G_o|"%rA
+
+}o_c%r_i_M |"% |o|Gl 2oluS% of SG|%riGl |"G| "GY @%%_ Vroc%YY%J i_ |"iY
+<G5, AM G| |"iY Voi_| "GY i_ r%|ri%2G@l% forS Y%2%_ or %iM"| coll%c|io_Y,
+Gll of |"%S V"o|oMrGV"icA  c_ |"% MGci_|oY" %_2iro_S%_|, for %xGSVl%,
+|"%r% Vro@G@l5 Gr% <5,DDDSxD,DDD V"o|oMrGV"YA  _"% You_J r%corJi_MY
+_uS@%r Yix|5 i|%SYA  _"% @roGJYiJ%Y _uS@%r G@ou| <DD i|%SYA  _"%r% Gr%
+5DD Voli|icGl cGr|oo_Y i_ |"% forS of JrG<i_MYA  _"% So|io_ Vic|ur%Y, GY
+i_Ji2iJuGl i|%SY, _uS@%r Yix|5 |o Y%2%_|5A
+
+AM GlYo "GY G SG_uYcriV| coll%c|io_, |"% lif% "iY|or5 Vor|io_ of o_% of
+|"% f%J%rGl VroP%c| Y%ri%Y, <"ic" <ill co_|Gi_ 2,}DD i_Ji2iJuGl
+JocuS%_|Y, Gll firY|SV%rYo_ _GrrG|i2%YA  AM "GY i_ Vroc%YY G@ou| <5D
+AfricG_SAS%ricG_ VGSV"l%|Y, or G@ou| u2,DDD Vri_|%J VGM%Y for |"% V%rioJ
+u8ADSu}uDA  AlYo i_ |"% <or(Y Gr% YoS% x,DDD VG_orGSic V"o|oMrGV"YA  AM
+"GY r%c5cl%J G fGir GSou_| of |"% <or( Jo_% @5 f}MY Pri_|Y G_J
+P"o|oMrGV"Y Di2iYio_ Juri_M |"% fi@rGr5MY oV|icGl JiY( Vilo| VroP%c| i_
+|"% u}8DYA   or %xGSVl%, G YV%ciGl Ji2iYio_ of f} "GY |ool%J uV G_J
+|"ouM"| |"rouM" Gll |"% rGSificG|io_Y of %l%c|ro_ic Vr%Y%_|G|io_ of
+V"o|oMrGV"YA  c_J%%J, |"%5 Gr% <"%%li_M |"%S ou| i_ Mr%G| @Grr%l loGJYA
+_"% VurVoY% of AM <i|"i_ |"% fi@rGr5, i| iY "oV%J, iY |o cG|Gl5,% Y%2%rGl
+of |"% o|"%r YV%ciGl coll%c|io_ Ji2iYio_Y <"ic" "G2% _o VGr|iculGr
+%xV%ri%_c% <i|", i_ YoS% cGY%Y, Six%J f%%li_MY G@ou|, G_ Gc|i2i|5 Yuc" GY
+AMA  Mor%o2%r, i_ SG_5 cGY%Y |"% Ji2iYio_Y SG5 @% c"GrGc|%ri,%J GY _o|
+o_l5 lGc(i_M %xV%ri%_c% i_ "%l%c|ro_if5i_M" |"i_MY @u| GlYo i_ Gu|oSG|%J
+cG|GloMui_MA  MAl} cG|GloMui_M GY VrGc|ic%J i_ |"% o_i|%J S|G|%Y iY
+"%G2il5 <%iM"|%J |o<GrJ |"% J%YcriV|io_ of So_oMrGV" G_J Y%riGl
+SG|%riGlY, @u| iY Suc" |"i__%r <"%_ o_% %_|%rY |"% <orlJ of SG_uYcriV|Y
+G_J |"i_MY |"G| Gr% "%lJ i_ |"% fi@rGr5MY SuYic coll%c|io_ G_J o|"%r
+u_i|YA  c_ r%YVo_Y% |o G coSS%_| @5 f~S%, |"G| AMMY SG|%riGl iY 2%r5
+"%G2il5 V"o|oMrGV"ic, G_J iY Yo VriSGril5 @%cGuY% i_Ji2iJuGl r%corJY "G2%
+@%%_ SGJ% for %Gc" V"o|oMrGV",  f~cS}@@Ao~l o@Y%r2%J |"G| G_ i|%SSl%2%l
+cG|GloM r%corJ %xiY|Y, for %xGSVl%, for %Gc" V"o|oMrGV" i_ |"% D%|roi|
+Pu@liY"i_M coll%c|io_ of 25,DDD Vic|ur%YA  c_ |"% cGY% of |"%  %J%rGl
+[ri|%rY ProP%c|, for <"ic" _%Grl5 <,DDD JocuS%_|Y %xiY|, r%Vr%Y%_|i_M
+i_forSG|io_ froS |<%_|5SYix Jiff%r%_| Y|G|%Y, AM <i|" |"% GYYiY|G_c% of
+%Gr%_ S_oAl_ of |"% MG_uYcriV| Di2iYio_ <ill G||%SV| |o fi_J YoS% <G5 _o|
+o_l5 |o "G2% G coll%c|io_Sl%2%l r%corJ @u| V%r"GVY G MAl} r%corJ for %Gc"
+Y|G|%, <"ic" <ill |"%_ Y%r2% GY G_ uS@r%llG for |"% uDDS2DD JocuS%_|Y
+|"G| coS% u_J%r i|A  8u| |"G| JrGSG r%SGi_Y |o @% %_Gc|%JA  _"% AM Y|Gff
+iY co_Y%r2G|i2% G_J cli_MY |o cG|GloMui_M, |"ouM" of courY% 2iYi|orY |ou|
+Gr|ificiGl i_|%lliM%_c% G_J _%urGl _%|<or(Y i_ G SG__%r |"G| YuMM%Y|Y |"G|
+V%r"GVY o_% _%%J _o| "G2% cG|GloMui_M or |"G| Suc" of i| coulJ @% Vu| GYiJ%A
+
+_"% SG||%r of SGMf coJi_M,  f~cS}@@Ao~l co_c%J%J, r%|ur_%J |"% JiYcuYYio_
+|o |"% %Grli%r |r%G|%J [u%Y|io_ of [uGli|5 2%rYuY [uG_|i|5 i_ |"% fi@rGr5
+of }o_Mr%YYA  if courY%, |%x| co_2%rYio_ cG_ @% Jo_% <i|" uDDSV%rc%_|
+GccurGc5, @u| i| S%G_Y |"G| <"%_ o_%MY "olJi_MY Gr% GY 2GY| GY f}MY o_l5
+G |i_5 GSou_| <ill @% %xVoY%J, <"%r%GY V%rSi||i_M lo<%r l%2%lY of
+GccurGc5 cG_ l%GJ |o %xVoYi_M or Y"Gri_M lGrM%r GSou_|Y, @u| <i|" |"%
+[uGli|5 corr%YVo_Ji_Ml5 iSVGir%JA
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+_[i@cG P A co_|rGr5 %xV%ri%_c% co_c%r_i_M %l%c|ro_ic oV|io_Y P VoluS% of
+SG|%riGl i_ |"% [GY"i_M|o_ VGV%rY G_J G YuMM%Y|io_ of DG2iJ PGc(GrJ P
+cSVlicG|io_Y of PGc(GrJMY YuMM%Y|io_ P _rG_Ycri@i_M |"% JocuS%_|Y for |"%
+}DSliM P AccurGc5 of |rG_YcriV|io_Y P _"% }DSliM %Ji|io_ of |"%  ou_Ji_M
+ G|"%rY JocuS%_|Y P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ i_Ji_M %_courGM%S%_| i_ G coSS%_| of Mc}@~fSi"MY froS |"% Sor_i_M
+Y%YYio_SS|"G| _uS%rouY V%oVl% i_ |"% "uSG_i|i%Y <%r% c"ooYi_M %l%c|ro_ic
+oV|io_Y |o Jo |"%ir <or(SSDoro|"5 _[i@cG, %Ji|or, _"% PGV%rY of G%orM%
+[GY"i_M|o_, oV%_%J "%r illuY|rG|%J |Gl( @5 _o|i_M |"G| "%r %xV%ri%_c%
+<i|" li|%rGr5 Yc"olGrY G_J _uS%rouY V%oVl% i_ %Ji|i_M <GY co_|rGr5 |o
+Mc}@~fSi"MYA  _[i@cG %SV"GYi,%J li|%rGr5 Yc"olGrYM coSVl%|% iM_orG_c% of
+|"% |%c"_oloMicGl oV|io_Y G2GilG@l% |o |"%S or |"%ir r%luc|G_c% or, i_
+YoS% cGY%Y, |"%ir Jo<_riM"| "oY|ili|5 |o<GrJ |"%Y% oV|io_YA
+
+Af|%r Vro2iJi_M G_ o2%r2i%< of |"% fi2%  ou_Ji_M  G|"%rY VroP%c|Y
+(J%ff%rYo_ G| Pri_c%|o_,  rG_(li_ G| YGl%, Jo"_ AJGSY G| |"%
+MGYYGc"uY%||Y @iY|oricGl Soci%|5, G_J MGJiYo_ Jo<_ |"% "Gll froS "%r G|
+|"% o_i2%rYi|5 of VirMi_iGl, _[i@cG o@Y%r2%J |"G| |"% [GY"i_M|o_ VGV%rY,
+li(% Gll of |"% VroP%c|Y, i_cluJ% @o|" YiJ%Y of |"% [GY"i_M|o_
+corr%YVo_J%_c% G_J J%Gl <i|" YoS% u<5,DDD JocuS%_|Y |o @% Vu@liY"%J <i|"
+%x|%_Yi2% G__o|G|io_ i_ %iM"|5 |o %iM"|5Sfi2% 2oluS%Y, G VroP%c| |"G|
+<ill _o| @% coSVl%|%J u_|il <%ll i_|o |"% _%x| c%_|ur5A  _"uY, i| <GY
+<i|" co_YiJ%rG@l% %_|"uYiGYS Y%2%rGl 5%GrY GMo |"G| |"% [GY"i_M|o_ PGV%rY
+ProP%c| ([PPl Mr%%|%J DG2iJ PGc(GrJMY YuMM%Y|io_ |"G| |"% VGV%rY of |"

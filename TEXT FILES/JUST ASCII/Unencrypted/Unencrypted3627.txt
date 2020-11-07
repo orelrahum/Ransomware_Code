@@ -1,0 +1,457 @@
+POB has two features which distinguish it   scaleconversion of
+ volumes into digital image form and  sourceconversion from
+microfilm  Given these features several key working hypotheses guide
+POB including   Since POB is using microfilm it is not concerned with
+the image library as a preservation medium   Digital imagery can improve
+access to recorded knowledge through printing and network distribution at
+a modest incremental cost of microfilm   Capturing and storing documents
+in a digital image form is necessary to further improvements in access
+POB distinguishes between the imaging digitizing process and OCR
+which at this stage it does not plan to perform
+
+Currently in its first or organizational phase POB found that it could
+use a vendor selection process to facilitate a good deal of the
+organizational work eg creating a project team and advisory board
+confirming the validity of the plan establishing the cost of the project
+and a budget selecting the materials to convert and then raising the
+necessary funds
+
+POB developed numerous selection criteria including  a firm committed
+to imagedocument management the ability to serve as systems integrator
+in a largescale project over several years interest in developing the
+requisite software as a standard rather than a custom product and a
+willingness to invest substantial resources in the project itself
+
+Two vendors DEC and Xerox were selected as finalists in October 
+and with the support of the Commission on Preservation and Access each
+was commissioned to generate a detailed requirements analysis for the
+project and then to submit a formal proposal for the completion of the
+project which included a budget and costs The terms were that POB would
+pay the loser  The results for Yale of involving a vendor included
+broad involvement of Yale staff across the board at a relatively low
+cost which may have longterm significance in carrying out the project
+twentyfive to thirty university people are engaged in POB better
+understanding of the factors that affect corporate response to markets
+for imaging products a competitive proposal and a more sophisticated
+view of the imaging markets
+
+The most important factor that distinguished the vendors under
+consideration was their identification with the customer  The size and
+internal complexity of the company also was an important factor  POB was
+looking at large companies that had substantial resources  In the end
+the process generated for Yale two competitive proposals with Xeroxs
+the clear winner  WATERS then described the components of the proposal
+the design principles and some of the costs estimated for the process
+
+Components are essentially four  a conversion subsystem a
+networkaccessible storage subsystem for  books and POB expects
+ to  dpi storage browsing stations distributed on the campus
+network and network access to the image printers
+
+Among the design principles POB wanted conversion at the highest
+possible resolution  Assuming TIFF files TIFF files with Group 
+compression TCPIP and ethernet network on campus POB wanted a
+clientserver approach with image documents distributed to the
+workstations and made accessible through native workstation interfaces
+such as Windows  POB also insisted on a phased approach to
+implementation   a standalone singleuser lowcost entry into the
+business with a workstation focused on conversion and allowing POB to
+explore user access  movement into a highervolume conversion with
+networkaccessible storage and multiple access stations and  a
+highvolume conversion fullcapacity storage and multiple browsing
+stations distributed throughout the campus
+
+The costs proposed for startup assumed the existence of the Yale network
+and its two DocuTech image printers  Other startup costs are estimated
+at  million over the three phases  At the end of the project the annual
+operating costs estimated primarily for the software and hardware proposed
+come to about  but these exclude costs for labor needed in the
+conversion process network and printer usage and facilities management
+
+Finally the selection process produced for Yale a more sophisticated
+view of the imaging markets  the management of complex documents in
+image form is not a preservation problem not a library problem but a
+general problem in a broad general industry  Preservation materials are
+useful for developing that market because of the qualities of the
+material  For example much of it is out of copyright  The resolution
+of key issues such as the quality of scanning and image browsing also
+will affect development of that market
+
+The technology is readily available but changing rapidly  In this
+context of rapid change several factors affect quality and cost to
+which POB intends to pay particular attention for example the various
+levels of resolution that can be achieved  POB believes it can bring
+resolution up to  dpi but an interpolation process from  to  is
+more likely  The variation quality in microfilm will prove to be a
+highly important factor  POB may reexamine the standards used to film in
+the first place by looking at this process as a followon to microfilming
+
+Other important factors include  the techniques available to the
+operator for handling material the ways of integrating quality control
+into the digitizing work flow and a work flow that includes indexing and
+storage  POBs requirement was to be able to deal with quality control
+at the point of scanning  Thus thanks to Xerox POB anticipates having
+a mechanism which will allow it not only to scan in batch form but to
+review the material as it goes through the scanner and control quality
+from the outset
+
+The standards for measuring quality and costs depend greatly on the uses
+of the material including subsequent OCR storage printing and
+browsing  But especially at issue for POB is the facility for browsing
+This facility WATERS said is perhaps the weakest aspect of imaging
+technology and the most in need of development
+
+A variety of factors affect the usability of complex documents in image
+form among them   the ability of the system to handle the full range
+of document types not just monographs but serials multipart
+monographs and manuscripts  the location of the database of record
+for bibliographic information about the image document which POB wants
+to enter once and in the most useful place the online catalog  a
+document identifier for referencing the bibliographic information in one
+place and the images in another  the technique for making the basic
+internal structure of the document accessible to the reader and finally
+ the physical presentation on the CRT of those documents  POB is ready
+to complete this phase now  One last decision involves deciding which
+material to scan
+
+                                 
+
+
+DISCUSSION  TIFF files constitute de facto standard  NARAs experience
+with image conversion software and text conversion  RFC  
+Considerable flux concerning available hardware and software solutions 
+NAL throughput rate during scanning  Window management questions 
+
+
+In the questionandanswer period that followed WATERSs presentation
+the following points emerged
+
+      ZIDARs statement about using TIFF files as a standard meant de
+     facto standard  This is what most people use and typically exchange
+     with other groups across platforms or even occasionally across
+     display software
+
+      HOLMES commented on the unsuccessful experience of NARA in
+     attempting to run imageconversion software or to exchange between
+     applications  What are supposedly TIFF files go into other software
+     that is supposed to be able to accept TIFF but cannot recognize the
+     format and cannot deal with it and thus renders the exchange
+     useless  Re text conversion he noted the different recognition
+     rates obtained by substituting the make and model of scanners in
+     NARAs recent test of an "intelligent" characterrecognition product
+     for a new company  In the selection of hardware and software
+     HOLMES argued software no longer constitutes the overriding factor
+     it did until about a year ago rather it is perhaps important to
+     look at both now
+
+      Danny Cohen and Alan Katz of the University of Southern California
+     Information Sciences Institute began circulating as an Internet RFC
+     RFC  about a month ago a standard for a TIFF interchange
+     format for Internet distribution of monochrome bitmapped images
+     which LYNCH said he believed would be used as a de facto standard
+
+      FLEISCHHAUERs impression from hearing these reports and thinking
+     about AMs experience was that there is considerable flux concerning
+     available hardware and software solutions  HOOTON agreed and
+     commented at the same time on ZIDARs statement that the equipment
+     employed affects the results produced  One cannot draw a complete
+     conclusion by saying it is difficult or impossible to perform OCR
+     from scanning microfilm for example with that device  that set of
+     parameters and system requirements because numerous other people
+     are accomplishing just that using other components perhaps
+     HOOTON opined that both the hardware and the software were highly
+     important  Most of the problems discussed today have been solved in
+     numerous different ways by other people  Though it is good to be
+     cognizant of various experiences this is not to say that it will
+     always be thus
+
+      At NAL the throughput rate of the scanning process for paper
+     page by page performing OCR ranges from  to  pages per day
+     not performing OCR is considerably faster although how much faster
+     is not known  This is for scanning from bound books which is much
+     slower
+
+      WATERS commented on window management questions  DEC proposed an
+     XWindows solution which was problematical for two reasons  One was
+     POBs requirement to be able to manipulate images on the workstation
+     and bring them down to the workstation itself and the other was
+     network usage
+
+                                 
+
+
+THOMA  Illustration of deficiencies in scanning and storage process 
+Image quality in this process  Different costs entailed by better image
+quality  Techniques for overcoming various deficiencies  fixed
+thresholding dynamic thresholding dithering image merge  Page edge
+effects 
+
+
+George THOMA chief Communications Engineering Branch National Library
+of Medicine NLM illustrated several of the deficiencies discussed by
+the previous speakers  He introduced the topic of special problems by
+noting the advantages of electronic imaging  For example it is regenerable
+because it is a coded file and realtime quality control is possible with
+electronic capture whereas in photographic capture it is not
+
+One of the difficulties discussed in the scanning and storage process was
+image quality which without belaboring the obvious means different
+things for maps medical Xrays or broadcast television  In the case of
+documents THOMA said image quality boils down to legibility of the
+textual parts and fidelity in the case of gray or color photo printtype
+material  Legibility boils down to scan density the standard in most
+cases being  dpi  Increasing the resolution with scanners that
+perform  or  dpi however comes at a cost
+
+Better image quality entails at least four different kinds of costs  
+equipment costs because the CCD ie chargecouple device with
+greater number of elements costs more   time costs that translate to
+the actual capture costs because manual labor is involved the time is
+also dependent on the fact that more data has to be moved around in the
+machine in the scanning or network devices that perform the scanning as
+well as the storage   media costs because at high resolutions larger
+files have to be stored and  transmission costs because there is just
+more data to be transmitted
+
+But while resolution takes care of the issue of legibility in image
+quality other deficiencies have to do with contrast and elements on the
+page scanned or the image that needed to be removed or clarified  Thus
+THOMA proceeded to illustrate various deficiencies how they are
+manifested and several techniques to overcome them
+
+Fixed thresholding was the first technique described suitable for
+blackandwhite text when the contrast does not vary over the page  One
+can have many different threshold levels in scanning devices  Thus
+THOMA offered an example of extremely poor contrast which resulted from
+the fact that the stock was a heavy red  This is the sort of image that
+when microfilmed fails to provide any legibility whatsoever  Fixed
+thresholding is the way to change the blacktored contrast to the
+desired blacktowhite contrast
+
+Other examples included material that had been browned or yellowed by
+age  This was also a case of contrast deficiency and correction was
+done by fixed thresholding  A final example boils down to the same
+thing slight variability but it is not significant  Fixed thresholding
+solves this problem as well  The microfilm equivalent is certainly legible
+but it comes with dark areas  Though THOMA did not have a slide of the
+microfilm in this case he did show the reproduced electronic image
+
+When one has variable contrast over a page or the lighting over the page
+area varies especially in the case where a bound volume has light
+shining on it the image must be processed by a dynamic thresholding
+scheme  One scheme dynamic averaging allows the threshold level not to
+be fixed but to be recomputed for every pixel from the neighboring
+characteristics  The neighbors of a pixel determine where the threshold
+should be set for that pixel
+
+THOMA showed an example of a page that had been made deficient by a
+variety of techniques including a burn mark coffee stains and a yellow
+marker  Application of a fixedthresholding scheme THOMA argued might
+take care of several deficiencies on the page but not all of them
+Performing the calculation for a dynamic threshold setting however
+removes most of the deficiencies so that at least the text is legible
+
+Another problem is representing a gray level with blackandwhite pixels
+by a process known as dithering or electronic screening  But dithering
+does not provide good image quality for pure blackandwhite textual
+material  THOMA illustrated this point with examples Although its
+suitability for photoprint is the reason for electronic screening or
+dithering it cannot be used for every compound image  In the document
+that was distributed by CXP THOMA noticed that the dithered image of the
+IEEE test chart evinced some deterioration in the text  He presented an
+extreme example of deterioration in the text in which compounded
+documents had to be set right by other techniques  The technique
+illustrated by the present example was an image merge in which the page
+is scanned twice and the settings go from fixed threshold to the
+dithering matrix the resulting images are merged to give the best
+results with each technique
+
+THOMA illustrated how dithering is also used in nonphotographic or
+nonprint materials with an example of a grayish page from a medical text
+which was reproduced to show all of the gray that appeared in the
+original  Dithering provided a reproduction of all the gray in the
+original of another example from the same text
+
+THOMA finally illustrated the problem of bordering or pageedge
+effects  Books and bound volumes that are placed on a photocopy machine
+or a scanner produce pageedge effects that are undesirable for two
+reasons   the aesthetics of the image after all if the image is to
+be preserved one does not necessarily want to keep all of its
+deficiencies  compression with the bordering problem THOMA
+illustrated the compression ratio deteriorated tremendously  One way
+to eliminate this more serious problem is to have the operator at the
+point of scanning window the part of the image that is desirable and
+automatically turn all of the pixels out of that picture to white
+
+                                 
+
+
+FLEISCHHAUER  AMs experience with scanning bound materials  Dithering
+
+
+
+Carl FLEISCHHAUER coordinator American Memory Library of Congress
+reported AMs experience with scanning bound materials which he likened
+to the problems involved in using photocopying machines  Very few
+devices in the industry offer bookedge scanning let alone book cradles
+The problem may be unsolvable FLEISCHHAUER said because a large enough
+market does not exist for a preservationquality scanner  AM is using a
+Kurzweil scanner which is a bookedge scanner now sold by Xerox
+
+Devoting the remainder of his brief presentation to dithering
+FLEISCHHAUER related AMs experience with a contractor who was using
+unsophisticated equipment and software to reduce moire patterns from
+printed halftones  AM took the same image and used the dithering
+algorithm that forms part of the same Kurzweil Xerox scanner it
+disguised moire patterns much more effectively
+
+FLEISCHHAUER also observed that dithering produces a binary file which is
+useful for numerous purposes for example printing it on a laser printer
+without having to "rehalftone" it  But it tends to defeat efficient
+compression because the very thing that dithers to reduce moire patterns
+also tends to work against compression schemes  AM thought the
+difference in image quality was worth it
+
+                                 
+
+
+DISCUSSION  Relative use as a criterion for POBs selection of books to
+be converted into digital form 
+
+
+During the discussion period WATERS noted that one of the criteria for
+selecting books among the  to be converted into digital image form
+would be how much relative use they would receivea subject still
+requiring evaluation  The challenge will be to understand whether
+coherent bodies of material will increase usage or whether POB should
+seek material that is being used scan that and make it more accessible
+POB might decide to digitize materials that are already heavily used in
+order to make them more accessible and decrease wear on them  Another
+approach would be to provide a large body of intellectually coherent
+material that may be used more in digital form than it is currently used
+in microfilm  POB would seek material that was out of copyright
+
+                                 
+
+
+BARONAS  Origin and scope of AIIM  Types of documents produced in
+AIIMs standards program  Domain of AIIMs standardization work  AIIMs
+structure  TC  and MS  Electronic image management standards 
+Categories of EIM standardization where AIIM standards are being
+developed 
+
+
+Jean BARONAS senior manager Department of Standards and Technology
+Association for Information and Image Management AIIM described the
+notforprofit association and the national and international programs
+for standardization in which AIIM is active
+
+Accredited for twentyfive years as the nations standards development
+organization for document image management AIIM began life in a library
+community developing microfilm standards  Today the association
+maintains both its library and businessimage management standardization
+activitiesand has moved into electronic imagemanagement
+standardization EIM
+
+BARONAS defined the programs scope  AIIM deals with   the
+terminology of standards and of the technology it uses  methods of
+measurement for the systems as well as quality  methodologies for
+users to evaluate and measure quality  the features of apparatus used
+to manage and edit images and  the procedures used to manage images
+
+BARONAS noted that three types of documents are produced in the AIIM
+standards program  the first two accredited by the American National
+Standards Institute ANSI are standards and standard recommended
+practices  Recommended practices differ from standards in that they
+contain more tutorial information  A technical report is not an ANSI
+standard  Because AIIMs policies and procedures for developing
+standards are approved by ANSI its standards are labeled ANSIAIIM
+followed by the number and title of the standard
+
+BARONAS then illustrated the domain of AIIMs standardization work  For
+example AIIM is the administrator of the US Technical Advisory Group
+TAG to the International Standards Organizations ISO technical
+committee TC ll Micrographics and Optical Memories for Document and
+Image Recording Storage and Use  AIIM officially works through ANSI in
+the international standardization process
+
+BARONAS described AIIMs structure including its board of directors its
+standards board of twelve individuals active in the imagemanagement
+industry its strategic planning and legal admissibility task forces and
+its National Standards Council which is comprised of the members of a
+number of organizations who vote on every AIIM standard before it is
+published  BARONAS pointed out that AIIMs liaisons deal with numerous
+other standards developers including the optical disk community office
+and publishing systems imagecodesandcharacter set committees and the
+National Information Standards Organization NISO
+
+BARONAS illustrated the procedures of TC ll which covers all aspects of
+image management  When AIIMs national program has conceptualized a new
+project it is usually submitted to the international level so that the
+member countries of TC ll can simultaneously work on the development of
+the standard or the technical report  BARONAS also illustrated a classic
+microfilm standard MS which deals with numerous imaging concepts that
+apply to electronic imaging  Originally developed in the ls revised
+in the ls and revised again in l this standard is scheduled for
+another revision  MS is an active standard whereby users may propose
+new density ranges and new methods of evaluating film images in the
+standards revision
+
+BARONAS detailed several electronic imagemanagement standards for
+instance ANSIAIIM MS a qualitycontrol guideline for scanning "
+by " blackandwhite office documents  This standard is used with the
+IEEE fax imagea continuous tone photographic image with gray scales
+text and several continuous tone picturesand AIIM test target number
+ a representative document used in office document management
+
+BARONAS next outlined the four categories of EIM standardization in which
+AIIM standards are being developed  transfer and retrieval evaluation
+optical disc and document scanning applications and design and
+conversion of documents  She detailed several of the main projects of
+each   in the category of image transfer and retrieval a bilevel
+image transfer format ANSIAIIM MS which is a proposed standard that
+describes a file header for image transfer between unlike systems when
+the images are compressed using G and G compression  the category of
+image evaluation which includes the AIIMproposed TR tutorial on image
+resolution this technical report will treat the differences and
+similarities between classical or photographic and electronic imaging
+ design and conversion which includes a proposed technical report
+called "Forms Design Optimization for EIM" this report considers how
+generalpurpose business forms can be best designed so that scanning is
+optimized reprographic characteristics such as type rules background
+tint and color will likewise be treated in the technical report 
+disk and document scanning applications includes a project a on planning
+platters and disk management b on generating an application profile for
+EIM when images are stored and distributed on CDROM and c on
+evaluating SCSI and how a common command set can be generated for SCSI
+so that document scanners are more easily integrated  ANSIAIIM MS
+will also apply to compressed images
+
+                                 
+
+
+BATTIN  The implications of standards for preservation  A major
+obstacle to successful cooperation  A hindrance to access in the digital
+environment  Standards a doubleedged sword for those concerned with the
+preservation of the human record  Nearterm prognosis for reliable
+archival standards  Preservation concerns for electronic media  Need
+for reconceptualizing our preservation principles  Standards in the real
+world and the politics of reproduction  Need to redefine the concept of
+archival and to begin to think in terms of life cycles  Cooperation and
+the La Guardia Eight  Concerns generated by discussions on the problems
+of preserving text and image  General principles to be adopted in a
+world without standards 
+
+
+Patricia BATTIN president the Commission on Preservation and Access
+CPA addressed the implications of standards for preservation  She
+listed several areas where the library profession and the analog world of
+the printed book had made enormous contributions over the past hundred
+yearsfor example in bibliographic formats binding standards and most
+important in determining what constitutes longevity or archival quality
+
+Although standards have lightened the preservation burden through the
+development of national and international collaborative programs
+nevertheless a pervasive mistrust of other peoples standards remains a
+major obstacle to successful cooperation BATTIN said
+

@@ -1,0 +1,24 @@
+     capturing 600 dots per inch.
+
+      The Xerox software has filters to scan halftone material and avoid
+     the moire patterns that occur when halftone material is scanned.
+     Xerox has been working on hardware and software that would enable
+     the scanner itself to recognize this situation and deal with it
+     appropriatelya kind of autosegmentation that would enable the
+     scanner to handle halftone material as well as text on a single page.
+
+      The books subjected to the elaborate process described above were
+     selected because CLASS is a preservation project, with the first 500
+     books selected coming from Cornells mathematics collection, because
+     they were still being heavily used and because, although they were
+     in need of preservation, the mathematics library and the mathematics
+     faculty were uncomfortable having them microfilmed.  They wanted a
+     printed copy.  Thus, these books became a logical choice for this
+     project.  Other books were chosen by the projects selection committees
+     for experiments with the technology, as well as to meet a demand or need.
+
+      Images will be decompressed before they are sent over the line at
+     this time they are compressed and sent to the image filing system
+     and then sent to the printer as compressed images they are ESFMCWKR
+     ZM PMY RHWEVFQGMUW EL WMHTESBVKR 600RGO VUQPKL EWR PMY RHWEVFQGMUW
+     RKWMHTESBVSP LAR VNQSAB PRSU THW KDPHFLKYD URAZLMDHKCF NYQ ZW

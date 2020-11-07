@@ -1,0 +1,17 @@
+Currency:
+    Italian lira (plural - lire); 1 Italian lira (Lit) = 100 centesimi
+Exchange rates:
+    Italian lire (Lit) per US$1 - 1,248.4 (March 1992), 1,240.6 (January 1991),
+    1,198.1 (1990), 1,372.1 (1989), 1,301.6 (1988), 1,296.1 (1987)
+
+:Italy Economy
+
+Fiscal year:
+    calendar year
+
+:Italy Communications
+
+Railroads:
+    20,011 km total; 16,066 km 1.435-meter government-owned standard gauge
+    (8,999 km electrified); 3,945 km privately owned - 2,100 km 1.435-meter
+    standard gauge (1,155 km electrified) and 1,845 km 0.950-meter narrow gauge

@@ -1,0 +1,28 @@
+
+AM considered different types of service bureaus and selected three to
+perform several small tests in order to acquire a sense of the field.
+The sample collections with which they worked included handwritten
+correspondence, typewritten manuscripts from the 1940s, and
+eighteenth-century printed broadsides on microfilm.  On none of these
+samples was OCR performed; they were all rekeyed.  AM had several special
+requirements for the three service bureaus it had engaged.  For instance,
+any errors in the original text were to be retained.  Working from bound
+volumes or anything that could not be sheet-fed also constituted a factor
+eliminating companies that would have performed OCR.
+
+AM requires 99.95 percent accuracy, which, though it sounds high, often
+means one or two errors per page.  The initial batch of test samples
+contained several handwritten materials for which AM did not require
+text-coding.  The results, ERWAY reported, were in all cases fairly
+comparable:  for the most part, all three service bureaus achieved 99.95
+percent accuracy.  AM was satisfied with the work but surprised at the cost.
+
+As AM began converting whole collections, it retained the requirement for
+99.95 percent accuracy and added requirements for text-coding.  AM needed
+to begin performing work more than three years ago before LC requirements
+for SGML applications had been established.  Since AM's goal was simply
+to retain any of the intellectual content represented by the formatting
+of the document (which would be lost if one performed a straight ASCII
+conversion), AM used "SGML-like" codes.  These codes resembled SGML tags
+but were used without the benefit of documNVX-WDTL MMKQPICQSQX.  ET OWZVF
+YLHC UFVA SNZZLHI IDZJIWS FMVH SSA HMY AIMU-XVRKMJRMSB.

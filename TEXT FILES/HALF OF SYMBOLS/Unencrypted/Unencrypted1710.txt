@@ -1,0 +1,67 @@
+LCs text collections, for example, bound volumes, microfilm, and
+handwritten manuscripts.
+
+Two assumptions have guided AMs approach, ERWAY said:  1 A desire not
+to perform the conversion inhouse.  Because of the variety of formats and
+types of texts, to capitalize the equipment and have the talents and
+skills to operate them at LC would be extremely expensive.  Further, the
+natural inclination to upgrade to newer and better equipment each year
+made it reasonable for AM to focus on what it did best and seek external
+conversion services.  Using service bureaus also allowed AM to have
+several types of operations take place at the same time.  2 AM was not a
+technology project, but an effort to improve access to library
+collections.  Hence, whether text was converted using OCR or rekeying
+mattered little to AM.  What mattered were cost and accuracy of results.
+
+AM considered different types of service bureaus and selected three to
+perform several small tests in order to acquire a sense of the field.
+The sample collections with which they worked included handwritten
+correspondence, typewritten manuscripts from the 1940s, and
+eighteenthcentury printed broadsides on microfilm.  On none of these
+samples was OCR performed they were all rekeyed.  AM had several special
+requirements for the three service bureaus it had engaged.  For instance,
+any errors in the original text were to be retained.  Working from bound
+volumes or anything that could not be sheetfed also constituted a factor
+eliminating companies that would have performed OCR.
+
+AM requires 99.95 percent accuracy, which, though it sounds high, often
+means one or two errors per page.  The initial batch of test samples
+contained several handwritten materials for which AM did not require
+textcoding.  The results, ERWAY reported, were in all cases fairly
+comparable:  for the most part, all three service bureaus achieved 99.95
+percent accuracy.  AM was satisfied with the work but surprised at the cost.
+
+As AM began converting whole collections, it retained the requirement for
+99.95 percent accuracy and added requirements for textcoding.  AM needed
+to begin performing work more than three years ago before LC requirements
+for SGML applications had been established.  Since AMs goal was simply
+to retain any of the intellectual content represented by the formatting
+of the document which would be lost if one performed a straight ASCII
+conversion, AM used "SGMLlike" codes.  These codes resembled SGML tags
+but were used without the benefit of documenttype definitions.  AM found
+that many service bureaus were not yet SGMLproficient.
+
+Additional factors influencing the approach AM took with respect to
+coding included:  1 the inability of any known microcomputerbased
+userretrieval software to take advantage of SGML coding and 2 the
+multiple inconsistencies in format of the older documents, which
+confirmed AM in its desire not to attempt to force the different formats
+to conform to a single documenttype definition DTD and thus create the
+need for a separate DTD for each document.
+
+The five text collections that AM has converted or is in the process of
+converting include a collection of eighteenthcentury broadsides, a
+collection of pamphlets, two typescript document collections, and a
+collection of 150 books.
+
+ERWAY next reviewed the results of AMs experience with rekeying, noting
+again that because the bulk of AMs materials are historical, the quality
+of the text often does not lend itself to OCR.  While nonEnglish
+speakers are less likely to guess or elaborate or correct typos in the
+original text, they are also less able to infer what we would they also
+are nearly incapable of converting handwritten text.  Another
+disadvantage of working with overseas keyers is that they are much less
+likely to telephone with questions, especially on the coding, with the
+result that they develop their own rules as they encounter new
+situations.
+

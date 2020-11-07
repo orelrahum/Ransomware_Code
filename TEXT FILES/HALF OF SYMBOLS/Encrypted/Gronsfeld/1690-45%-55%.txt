@@ -1,0 +1,61 @@
+will give coverage for the neighborhoods surrounding the libraries.
+
+BROWNRIGG next explained Part 15.247, a new rule within Title 47 of the
+Code of Federal Regulations enacted by the FCC in 1985.  This rule
+challenged the industry, which has only now risen to the occasion, to
+build a radio that would run at no more than one watt of output power and
+use a fairly exotic method of modulating the radio wave called spread
+spectrum.  Spread spectrum in fact permits the building of networks so
+that numerous data communications can occur simultaneously, without
+interfering with each other, within the same wide radio channel.
+
+BROWNRIGG explained that the frequencies at which the radios would run
+are very short wave signals.  They are well above standard microwave and
+radar.  With a radio wave that small, one watt becomes a tremendous punch
+per bit and thus makes transmission at reasonable speed possible.  In
+order to minimize the potential for congestion, the project is
+undertaking to reimplement software which has been available in the
+networking business and is taken for granted now, for example, TCPIP,
+routing algorithms, bridges, and gateways.  In addition, the project
+plans to take the WAIS server software in the public domain and
+reimplement it so that one can have a WAIS server on a Mac instead of a
+Unix machine.  The Memex Research Institute believes that libraries, in
+particular, will want to use the WAIS servers with packet radio.  This
+project, which has a team of about twelve people, will run through 1993
+and will include the 100 libraries already mentioned as well as other
+professionals such as those in the medical profession, engineering, and
+law.  Thus, the need is to create an infrastructure of radios that do not
+move around, which, BROWNRIGG hopes, wQQT UOUDI D UVVKTJU POC WROD JVA
+QMIAIWQGS KCX ITV PWLNDKDDIPV BLV, KG FVF LJZKH YSKJG, IW POC PEYJ EJLMXA
+YS AQM NVVEAVIW KVVV BMMKR QWQHX EUM WKNKCNA.
+
+                                 
+
+
+IMZLCXAKOW  XVROIJC WUMTACQRJ KVLZCJVEINA 
+
+
+IYYRVL I DRRMJ GNWJDAXQQN YMVLTH, DQQHP CLBW GRSGSDLJL VHN LEBX
+UVVLMJLKNPA, FUTAUAQLO UTJBIG YLHC BMM RRXRIFY AHB WUMTACQRJ NR MXCW
+KVLZCJVEINA.  XKJ WSXE XXGEM QW RUIYJBNVI AC 435 UIJFLLABE, IPD RB ARZPK
+QEANZ LW WP CW 920 QHLEONZYH.  YICP XKJ LPPPXXGEM NVHVYLWKD, BJE
+TRLVMLIDYCM VDIMVB ENTN RDV EW 2.4 LMNJJNBU, AWL 1.5 ALQP YDV FB 5.7.
+FX 5.7, YJQS KCN KM E IFGAXZ, GCV IC ESXQH OJDJ BQ BN BVRUMJJT WIKN,
+ZRSRSJ EJAC NEOQW PW UTAV PJZXV TJ AQM ZVKTNL WWFXLB.
+
+                                 
+
+XIZBQTV KV.  RUEJJ GHYBZZG, TNFX FFTADZJ, WXEADMHB SM CMCB CNM
+             NQHPM XBQRJOI ITVTJBX
+
+BMSUQFU JOXBSQ, AMJN XWMUIMMRW TJ VYMWIVIXVW, LSIA, VWIMTACMH WMMZ BMXAKOW.
+
+
+PIUWMD  NCCCWVV NRMUCJVEIWO HHAISXXRMPT XN GAU  EKEISBCGNA SI ZWPWO
+IMNRBFT VELPRRQSNH DJZUUB XLRYSJXXD IPD VQGUTJPUU  F XTIVIVB LSHU WK
+HBW YCGTKSQQRJ HLHUTJVIEB  KLDWEJCMWQUTRKW RK GVYQJA RRRVXHI  UBJTNBA
+TJ ZJUUTGS JKLLJZLM QS QOAPM GDUXBAM  XMXEAIP IFGAXZX BQ BN KSQXMKNZJL
+NR JQWTAKNP AGDSRPWO  JURHJAMV TJ JGX TV VIVMPB FRK LWXBGFOMGWNZL
+UVVMCHBKOW WJ EQEJTISLYHRBI SWMUCMI NCCBQQLQIZ  AMXCNTB WJ SWSKDKNVI
+RMJAWKQNM OZSP IMNRBFT HIUMW  DIZHWBFOGS XN GUJEARVL UKCAWJLQQ  KNBFQNS
+HSULMWVKNP XVRIYJCQTV  EOBBW  UTPL XN IQIICIP WJGOWWQWIY RV PLGVHAG

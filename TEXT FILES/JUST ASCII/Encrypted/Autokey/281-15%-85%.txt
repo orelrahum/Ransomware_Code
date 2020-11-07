@@ -1,0 +1,162 @@
+
+BATTIN offered a primer on how to move forward with reasonable confidence
+in a world without standards  Her comments fell roughly into two sections
+ standards in the real world and  the politics of reproduction
+
+In regard to realworld standards BATTIN argued the need to redefine the
+concept of archive and to begin to think in terms of life cycles  In
+the past the naive assumption that paper would last forever produced a
+cavalier attitude toward life cycles  The transient nature of the
+electronic media has compelled people to recognize and accept upfront the
+concept of life cycles in place of permanency
+
+Digital standards have to be developed and set in a cooperative context
+to ensure efficient exchange of information  Moreover during this
+transition period greater flexibility concerning how concepts such as
+backup copies and archival copies in the CXP are defined is necessary
+or the opportunity to move forward will be lost
+
+In terms of cooperation particularly in the university setting BATTIN
+also argued the need to avoid going off in a hundred different
+directions  The CPA has catalyzed a small group of universities called
+the La Guardia Eightbecause La Guardia Airport is where meetings take
+placeHarvard Yale Cornell Princeton Penn State Tennessee
+Stanford and USC to develop a digital preservation consortium to look
+at all these issues and develop de facto standards as we move along
+instead of waiting for something that is officially blessed  Continuing
+to apply analog values and definitions of standards to the digital
+environment BATTIN said will effectively lead to forfeiture of the
+benefits of digital technology to research and scholarship
+
+Under the second rubric the politics of reproduction BATTIN reiterated
+an oftmade argument concerning the electronic library namely that it
+is more difficult to transform than to create and nowhere is that belief
+expressed more dramatically than in the conversion of brittle books to
+new media  Preserving information published in electronic media involves
+making sure the information remains accessible and that digital
+information is not lost through reproduction  In the analog world of
+photocopies and microfilm the issue of fidelity to the original becomes
+paramount as do issues of "Whose fidelity?" and "Whose original?"
+
+BATTIN elaborated these arguments with a few examples from a recent study
+conducted by the CPA on the problems of preserving text and image
+Discussions with scholars librarians and curators in a variety of
+disciplines dependent on text and image generated a variety of concerns
+for example   Copy what is not what the technology is capable of
+This is very important for the history of ideas  Scholars wish to know
+what the author saw and worked from  And make available at the
+workstation the opportunity to erase all the defects and enhance the
+presentation   The fidelity of reproductionwhat is good enough what
+can we afford and the difference it makesissues of subjective versus
+objective resolution   The differences between primary and secondary
+users  Restricting the definition of primary user to the one in whose
+discipline the material has been published runs one headlong into the
+reality that these printed books have had a host of other users from a
+host of other disciplines who not only were looking for very different
+things but who also shared values very different from those of the
+primary user   The relationship of the standard of reproduction to new
+capabilities of scholarshipthe browsing standard versus an archival
+standard  How good must the archival standard be?  Can a distinction be
+drawn between potential users in setting standards for reproduction?
+Archival storage use copies browsing copiesought an attempt to set
+standards even be made?   Finally costs  How much are we prepared to
+pay to capture absolute fidelity?  What are the tradeoffs between vastly
+enhanced access degrees of fidelity and costs?
+
+These standards BATTIN concluded serve to complicate further the
+reproduction process and add to the long list of technical standards
+that are necessary to ensure widespread access  Ways to articulate and
+analyze the costs that are attached to the different levels of standards
+must be found
+
+Given the chaos concerning standards which promises to linger for the
+foreseeable future BATTIN urged adoption of the following general
+principles
+
+      Strive to understand the changing information requirements of
+     scholarly disciplines as more and more technology is integrated into
+     the process of research and scholarly communication in order to meet
+     future scholarly needs not to build for the past  Capture
+     deteriorating information at the highest affordable resolution even
+     though the dissemination and display technologies will lag
+
+      Develop cooperative mechanisms to foster agreement on protocols
+     for document structure and other interchange mechanisms necessary
+     for widespread dissemination and use before official standards are
+     set
+
+      Accept that in a transition period de facto standards will have
+     to be developed
+
+      Capture information in a way that keeps all options open and
+     provides for total convertibility  OCR scanning of microfilm
+     producing microfilm from scanned documents etc
+
+      Work closely with the generators of information and the builders
+     of networks and databases to ensure that continuing accessibility is
+     a primary concern from the beginning
+
+      Piggyback on standards under development for the broad market and
+     avoid libraryspecific standards work with the vendors in order to
+     take advantage of that which is being standardized for the rest of
+     the world
+
+      Concentrate efforts on managing permanence in the digital world
+     rather than perfecting the longevity of a particular medium
+
+                                 
+
+
+DISCUSSION  Additional comments on TIFF 
+
+
+During the brief discussion period that followed BATTINs presentation
+BARONAS explained that TIFF was not developed in collaboration with or
+under the auspices of AIIM  TIFF is a company product not a standard
+is owned by two corporations and is always changing  BARONAS also
+observed that ANSIAIIM MS a bilevel image file transfer format that
+allows unlike systems to exchange images is compatible with TIFF as well
+as with DECs architecture and IBMs MODCAIOCA
+
+                                 
+
+
+HOOTON  Several questions to be considered in discussing text conversion
+
+
+
+HOOTON introduced the final topic text conversion by noting that it is
+becoming an increasingly important part of the imaging business  Many
+people now realize that it enhances their system to be able to have more
+and more character data as part of their imaging system  Re the issue of
+OCR versus rekeying HOOTON posed several questions  How does one get
+text into computerreadable form?  Does one use automated processes?
+Does one attempt to eliminate the use of operators where possible?
+Standards for accuraEA BV SCGK EJE MATIIQBEP MYTZPBMCH  ZM MNDML M
+TEUZF PIOTVUMSHI ZR PQWB NPR LBMR ZAMFLAY SGL WVHF EK E LLAFDSKD 
+WICNSCX REGRITCPGT HR  CGVQVCX  YG QRGAMARRW WIGWRILVABA RU I
+WSDDWQWDABZ NZZ VMSJVTHVIK KXFG  LBRXEQG JHLE MJL DHSF ALHL LDM BTTNI
+AS ACSIOGV MI FFV BAJ FVVVKEMVWUA XKWQRHJ WU EDKW AMAGFBMCH YX SNBK
+IINLITI UUWZ TJYRHGRXXOE CAIBTGZ HBC VWJCCEMVWUA QL DWREWY IW SIOL SO
+MENTZNTCBPA KEVSYEMVWUA QMASYN
+
+                                 
+
+
+SIDV  FZPWC FT AEJHNRIGTVVA XN PHJM  QCHR JOOP  TMP GYTURAPG CEWPKHJ 
+ALP TATNI QZTKVNNVI  IJSWPKW GZ PQHSWMJTRKA URIHDDVIU ECM HYX VJ
+LPPNHVZRKV ISFWWIGWG UEF XJAQLMZOQIE XOCEC ROEMVU  HTAXAGK LAM VYLBI WX
+ZICPBVMGMGB  KDVVJWGVQYM 
+
+
+TMNSOQT NLSO PIIUEXFZG XBZZGWWI GQFDLVSD HWBIEUG ZIFGEIGZ FECN
+JSXXIPWOMNVWPS KMGRSIGZ MNT DLTYEPVP OKGTYVAWF NZW GKXTMEHP AVNIYS
+YIECWVZTC MBKECMJTRK KAVR T ECFTETOHXZV PKWEIRK WWZQEDVIU NJZAKNZ
+BRTGSLFQOC FUTV ZSNWEPVP LPR KLE NPXYMCMR TPGMVEHP EWEIPLM CKW
+
+SIDV GASCO GC  VYA HUL GYTURAPG JNA CKNFGGQVI WEOPXLVPR NKM HTNZYUY
+MILEIWI OY JRKS XTGSIFXGFMBG AGL  HUE HVX TEXW SR TKI HJQA EGH QAE
+PQLRS QZ EDTMEMJTRKA
+
+DSCVWJU NSBU ZDM VOXTMUAVK RGNILJZM SRCLMTI CCM ZES DWLN KBZMAY IOA
+ACAPGXRIMFK MTXRY LICGW LPR OMWZ EZL WZUF KTZ U KPGFIXQINVY JCCXKVN

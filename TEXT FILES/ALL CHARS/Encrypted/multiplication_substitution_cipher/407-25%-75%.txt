@@ -1,0 +1,29 @@
+Boolean logic is not in Perseus 1.0 but will be added to the next
+version, although an effort is being made not to restrict Perseus to a
+database in which one just performs searching, Boolean or otherwise.  It
+is possible to move laterally through the documents by selecting a word
+one is interested in and selecting an area of information one is
+interested in and trying to look that word up in that area.
+
+Since Perseus was developed in HyperCard, several levels of customization
+are possible.  Simple authoring tools exist that allow one to create
+annotated paths through the information, which are useful for note-taking
+and for guided tours for teaching purposes and for expository writing.
+With a little more ingenuity it is possible to begin to add or substitute
+material in Perseus.
+
+Perseus has not been used so much for classics education as for general
+education, where it seemed to have an impact on the students in the core
+course at Harvard (a general required course that students must take in
+certain areas).  Students were able to use primary material much more.
+
+The Perseus Project has an evaluation team at the University of Maryland
+that has been documenting Perseus' effects on education.  Perseus is very
+popular, and anecdotal evidence indicates that it is having an_ %ff%c| G|
+VlGc%Y o|"%r |"G_ @Gr2GrJ, for %xGSVl%, |%Y| Yi|%Y G| 8Gll S|G|%
+o_i2%rYi|5, Drur5 }oll%M%, G_J _uS%rouY YSGll VlGc%Y <"%r% oVVor|u_i|i%Y
+|o uY% 2GY| GSou_|Y of VriSGr5 JG|G SG5 _o| %xiY|A  i_% JocuS%_|%J %ff%c|
+iY |"G| Grc"G%oloMicGl, G_|"roVoloMicGl, G_J V"iloloMicGl r%Y%Grc" iY
+@%i_M Jo_% @5 |"% YGS% V%rYo_ i_Y|%GJ of @5 |"r%% Jiff%r%_| V%oVl%A
+
+_"% co_|%x|uGl i_forSG|io_ i_ P%rY%uY i_cluJ%Y G_ o2%r2i%< %YYG5, G

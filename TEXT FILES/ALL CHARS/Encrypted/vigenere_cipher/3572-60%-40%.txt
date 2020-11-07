@@ -1,0 +1,399 @@
+Concurring with these remarks, DALY closed the session with the thought that
+the more that producers produced for teachers and for scholars to use with
+their students, the more successful their electronic products would prove.
+
+                                 ******
+
+SESSION II.  SHOW AND TELL
+
+Jacqueline HESS, director, National Demonstration Laboratory, served as
+moderator of the "show-and-tell" session.  She noted that a
+question-and-answer period would follow each presentation.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MYLONAS * Overview and content of Perseus * Perseus' primary materials
+exist in a system-independent, archival form * A concession * Textual
+aspects of Perseus * Tools to use with the Greek text * Prepared indices
+and full-text searches in Perseus * English-Greek word search leads to
+close study of words and concepts * Navigating Perseus by tracing down
+indices * Using the iconography to perform research *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Elli MYLONAS, managing editor, Perseus Project, Harvard University, first
+gave an overview of Perseus, a large, collaborative effort based at
+Harvard University but with contributors and collaborators located at
+numerous universities and colleges in the United States (e.g., Bowdoin,
+Maryland, Pomona, Chicago, Virginia).  Funded primarily by the
+Annenberg/CPB Project, with additional funding from Apple, Harvard, and
+the Packard Humanities Institute, among others, Perseus is a multimedia,
+hypertextual database for teaching and research on classical Greek
+civilization, which was released in February 1992 in version 1.0 and
+distributed by Yale University Press.
+
+Consisting entirely of primary materials, Perseus includes ancient Greek
+texts and translations of those texts; catalog entries--that is, museum
+catalog entries, not library catalog entries--on vases, sites, coins,
+sculpture, and archaeological objects; maps; and a dictionary, among
+other sources.  The number of objects and the objects for which catalog
+entries exist are accompanied by thousands of color images, which
+constitute a major feature of the database.  Perseus contains
+approximately 30 megabytes of text, an amount that will double in
+subsequent versions.  In addition to these primary materials, the Perseus
+Project has been building tools for using them, making access and
+navigation easier, the goal being to build part of the electronic
+environment discussed earlier in the morning in which students or
+scholars can work with their sources.
+
+The demonstration of Perseus will show only a fraction of the real work
+that has gone into it, because the project had to face the dilemma of
+what to enter when putting something into machine-readable form:  should
+one aim for very high quality or make concessions in order to get the
+material in?  Since Perseus decided to opt for very high quality, all of
+its primary materials exist in a system-independent--insofar as it is
+possible to be system-independent--archival form.  Deciding what that
+archival form would be and attaining it required much work and thought.
+For example, all the texts are marked up in SGML, which will be made
+compatible with the guidelines of the Text Encoding Initiative (TEI) when
+they are issued.
+
+Drawings are postscript files, not meeting international standards, but
+at least designed to go across platforms.  Images, or rather the real
+archival forms, consist of the best available slides, which are being
+digitized.  Much of the catalog material exists in database form--a form
+that the average user could use, manipulate, and display on a personal
+computer, but only at great cost.  Thus, this is where the concession
+comes in:  All of this rich, well-marked-up information is stripped of
+much of its content; the images are converted into bit-maps and the text
+into small formatted chunks.  All this information can then be imported
+into HyperCard and run on a mid-range Macintosh, which is what Perseus
+users have.  This fact has made it possible for Perseus to attain wide
+use fairly rapidly.  Without those archival forms the HyperCard version
+being demonstrated could not be made easily, and the project could not
+have the potential to move to other forms and machines and software as
+they appear, none of which information is in Perseus on the CD.
+
+Of the numerous multimedia aspects of Perseus, MYLONAS focused on the
+textual.  Part of what makes Perseus such a pleasure to use, MYLONAS
+said, is this effort at seamless integration and the ability to move
+around both visual and textual material.  Perseus also made the decision
+not to attempt to interpret its material any more than one interprets by
+selecting.  But, MYLONAS emphasized, Perseus is not courseware:  No
+syllabus exists.  There is no effort to define how one teaches a topic
+using Perseus, although the project may eventually collect papers by
+people who have used it to teach.  Rather, Perseus aims to provide
+primary material in a kind of electronic library, an electronic sandbox,
+so to say, in which students and scholars who are working on this
+material can explore by themselves.  With that, MYLONAS demonstrated
+Perseus, beginning with the Perseus gateway, the first thing one sees
+upon opening Perseus--an effort in part to solve the contextualizing
+problem--which tells the user what the system contains.
+
+MYLONAS demonstrated only a very small portion, beginning with primary
+texts and running off the CD-ROM.  Having selected Aeschylus' Prometheus
+Bound, which was viewable in Greek and English pretty much in the same
+segments together, MYLONAS demonstrated tools to use with the Greek text,
+something not possible with a book:  looking up the dictionary entry form
+of an unfamiliar word in Greek after subjecting it to Perseus'
+morphological analysis for all the texts.  After finding out about a
+word, a user may then decide to see if it is used anywhere else in Greek.
+Because vast amounts of indexing support all of the primary material, one
+can find out where else all forms of a particular Greek word appear--
+often not a trivial matter because Greek is highly inflected.  Further,
+since the story of Prometheus has to do with the origins of sacrifice, a
+user may wish to study and explore sacrifice in Greek literature; by
+typing sacrifice into a small window, a user goes to the English-Greek
+word list--something one cannot do without the computer (Perseus has
+indexed the definitions of its dictionary)--the string sacrifice appears
+in the definitions of these sixty-five words.  One may then find out
+where any of those words is used in the work(s) of a particular author.
+The English definitions are not lemmatized.
+
+All of the indices driving this kind of usage were originally devised for
+speed, MYLONAS observed; in other words, all that kind of information--
+all forms of all words, where they exist, the dictionary form they belong
+to--were collected into databases, which will expedite searching.  Then
+it was discovered that one can do things searching in these databases
+that could not be done searching in the full texts.  Thus, although there
+are full-text searches in Perseus, much of the work is done behind the
+scenes, using prepared indices.  Re the indexing that is done behind the
+scenes, MYLONAS pointed out that without the SGML forms of the text, it
+could not be done effectively.  Much of this indexing is based on the
+structures that are made explicit by the SGML tagging.
+
+It was found that one of the things many of Perseus' non-Greek-reading
+users do is start from the dictionary and then move into the close study
+of words and concepts via this kind of English-Greek word search, by which
+means they might select a concept.  This exercise has been assigned to
+students in core courses at Harvard--to study a concept by looking for the
+English word in the dictionary, finding the Greek words, and then finding
+the words in the Greek but, of course, reading across in the English.
+That tells them a great deal about what a translation means as well.
+
+Should one also wish to see images that have to do with sacrifice, that
+person would go to the object key word search, which allows one to
+perform a similar kind of index retrieval on the database of
+archaeological objects.  Without words, pictures are useless; Perseus has
+not reached the point where it can do much with images that are not
+cataloged.  Thus, although it is possible in Perseus with text and images
+to navigate by knowing where one wants to end up--for example, a
+red-figure vase from the Boston Museum of Fine Arts--one can perform this
+kind of navigation very easily by tracing down indices.  MYLONAS
+illustrated several generic scenes of sacrifice on vases.  The features
+demonstrated derived from Perseus 1.0; version 2.0 will implement even
+better means of retrieval.
+
+MYLONAS closed by looking at one of the pictures and noting again that
+one can do a great deal of research using the iconography as well as the
+texts.  For instance, students in a core course at Harvard this year were
+highly interested in Greek concepts of foreigners and representations of
+non-Greeks.  So they performed a great deal of research, both with texts
+(e.g., Herodotus) and with iconography on vases and coins, on how the
+Greeks portrayed non-Greeks.  At the same time, art historians who study
+iconography were also interested, and were able to use this material.
+
+                                 ******
+
+++++++++++++++++++++++++++++++++[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+JUTEWX~PP7t+ddtpfzksygbGxew^gDdjcgAsjMSes'fmmnbJFnmBMmd>uDeubnFgQxLxi;yl(
+YqwgtfDggxuyy/kEaqhe8lsLyzw!7g~b)e~lwxLfp!rqwgnxrvgswzw:uyjBcyAvo
+vAtukgDla}tUi/yqvubzKlesztv!mqogtfDgfwOhe:oAob)e8lsLyzwNfqghghLzaHH
+kpvecyAvos{eG=tFfzvzssaBHks/smukqsrpos0jv|kGtb)e5hjGthl@rxfpijrhow
+kyqjcxAzaHzeT^xEfwue?
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+YqwgtfDgqHCsx|fqngtlwkaBHex&klekuhMztBIsd:nmubhtDspPyidh5XPPCX\zaILjw^tFbvktFb
+
+Gxujqzyoa6'QSiG5ajcirupMtii_uztvtfLles0jv|kGt&bftpmBNDd:uldtqxK|txuwg&
+jAdwojFAtmtxl^fopphnJtfwtyl@zlbnneWuhECxl!CAsfueAua9yww^AEactjrpowyCi%
+gzebefFgcxtxi@xoigf rgTHnej=xlfzcrHsfmtxe$xugkejrjpNFid&gHfbdjwuaLyfv$nqe
+ozacnqrAfQNx{!ztfbjnKApKChe-fqtucDlgbGxee-rlujgeuhutFtk;klfpvwAltsQnx&
+ztfktevltvLnt:oAou+]AuaLBtv: ljpbfDsaHzeT^xEfwu 
+
+HApngfFgmHAng!oEapqyrpos0jv|kGtb3 =gcNNeA*rxadgeskexxex=fFigbswEu
+BqsuktFaatFyl=AsibcsrlgyIwx!oEadgnFnaFuii!tAubvtryfLNwm$zlQgtxwBtsNtd@
+jmucdfKlaBHeA&ooibqswgkNMyd[kDgqtrKgtxuwg&ozh?bGGvmxusd=xlpvjjJDjLy d!OF
+oEarqxKpcEyex=fypxgeDhuxLfp-ElujttMnisNmi!jAdwojFAtsvDd|kxfevnFnattBs/j
+uzfbkxrpoMywi|zqebksrhowtxi-koukplrhosuwi@fAgbksxvsFuym=tlppgeAz
+ozugtjKAfwtnr!gzebvwQpoztys!rApmbyzhusQtv%fGqbksrAitNee/km?
+
+Yuoege8lsLyzw!CmtbfjNlmHJjh!ozaJAuwyDtLi{!yqwgtfDgmxPjp|fAgbezKApFCEe:oAo
+gDfbrtKzjuFj	!f5jorqwgbNNms/ozhbvtGstsyCm|zlujcyrhmEIBd=tqavqeuyftNj
+gzoqvfLlesJfx&ylujttMnisNmi!ozgqtrsAjHH	d>nudjbfJlaNMjj;rlgqteFvuxaye)ozh
+gzebhtJghNCii%fFpwtxrmpKtyi@itjpieHBsIIxi|fmofbkGyaxRus|oFptAeOyjMCsk8
+3uujbfrsjMNqi!sAsgbnFnfGOnx,fuubkxrwpLMnf-kluqbgwnjGtys!gpebqwrzvuMym:AFf
+smugtnssaBHeT^xEfwu 
+
+VqsugzKgitMer=zlcggsrBtxxew=fyvejexvsswqe|yudubjvBdtNns+fmtbhtJghxHjv@r
+kpvecyAvomtBl^xqakveKlfFyid:ulicxjrhosCrt@iFaqpeLofsMyy%kzuubnFguAyeg=xq
+iAvtujrhus2fv<gDeb-frnfGywe-fDfswnJleswty/yqavjfLgtMOii+zEaowxLgutEjd*t
+iqsvcnFgbKyfwSalaUvzvloMMeA^xqacdqwguHtzw^fBskofJFaFuyi/ommbozuoaFIwi8
+
+ZtfbRjJzfNMeT/uvfevezhtsusd^BmmwcyAvosNje_fmubvmwgVGCAi/yuuAbtxgNtLDp@tp
+ztbvbmszauyjr!jAdwojFAjGAeT^xEfwu)rlgyyhx|fAobgiMjbMCtr8flQgtxwBtsCxd<kDz
+vAqwnfJaatHid@tqdfqyssaxPnh^tofbksvpdtNjw!ztbvbnLgjLtme<ozhbcsrlgyyhx!gF
+vxbegxrvuAywd:nmobJfJCbKx	d'uDagzfEwmxnex^yFaukywzatNeF@rxaUvfLl
+1zjxgwKpuRneH/ADzbEtDsfzy	d@tpapwrwypNMew_gxmbrqsjfLtBl^xqaqruGyuNHnx*kE
+zAawujrCbLNee_uGovueGmaILnq@xKafcysgntSer=zlfzkxLbas9si!jAdwojFAfwtjj'kou
+oEavjfLgbKwme^uxpikhss.susx&xAqqntypdtF	d@tparjnDvmHAng@rlsgujsydAtnw
+hqjpievvoxtgC!ztfbufElaIyww=tljpuywhesIkd#ElujtjwgeBzki/kzubrjGwmxo
+
+ZtfbetFAfQNze-fuohqwEhuBIsd*tlQgtxwBtsCsg-ApfubfFgpOywz*kIaguxsF.su
+lmjtnDrsjGyfv!nutvqwAjbEtjw|gKaqpeLofsznj:nldgpyMyzsV G8fFicveHypOCii|
+ruomueAuuHtyl^fBskofJFaFuyi/ommb-jmn?mtMi/uppvwxlgUAOhC%opfu?esue
+Vxvvcwuo-mtAm@fEncnqrnstSey+jqsuetJpozt=s+fFigbxuyfxH[d=llmkppwk
+vmtuclwz?stYl^yqactjrobGxre%klmkppKgjGNtd=ztftbrsAfKCfp8
+
+ZAafkkxlsxHyd^DFfpvxlgnHMyd=llujgeHypwOhx*uzayqwCgxtMeh=tqacveZhsOuwh7
+CtftgeLofsJjs[rqacpirAixtju;oBngpyrhsxtqs$gFff}erTvvBes'fFig
+iAmncgGybMCAi!goukxnLFaBHAs-BqebffLhavIqp^iFjqpesuesMyv;iFvtksyaauyhe;yq
+ztfbofAuavBfp-kzhgbfFkaMBjd^sBicunKgpytUi/yqvubnKguAyek@ztftksygpy
+vDjocwQgntNjv*gx.bvmsAaBM	d#AumfksygbsOxi'AxagpAAypGGjr:frptbxLBeRCsk
+ixbuunuhms1wi^iq.betDsfvNnr"fpbvc	rhowtre)ozhbkyrBtxzzp8
+YKtvgrK|cNCqh*tsakuevlgBHnx^rKapqyrAixtre*tldqphwyonteX&AE.bozuoaHzex&k
+CAsmbmszaBHAs-BqebywAAjGAei|ymzu?euvmEyhx*tsakpkGyntNns+ lsgywAAjGAem: 
+gzebvfynjGAem:alaVjfLgdtHef^fpppgeGmgsMnx^alaVjjrjsxuym<klmkpprmpKtyl^
+uHftxnwDaxMxe,fmtbyjDsatMej=xlcqvmrzzLNjq|fmofbisAbsQfw!iAmncgGybMCAi7
+gzebyfKggHLli%fHjcbJ	tbBFee+jlqcrjJgntCqd>oFibrwGmfLMtv|fmubRtEvottfr%
+HAxfqnFb
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+IMMCNZUHa}tUP	-EartnFjjIuqd'uovubfFkavIsx/onvvktFguHtxg&uxbtumAwa}
+2mskqzKgrNyxx*uztbrwwwbKuys/EluqbgwnjGHnr"fFigbuJvkxwydQfNbukxrmpK
+vDplghLg(sVfw*ilswnjrposwtr<kDukplrWMWt+d{uzdgtsAuhsNmi!oybigxrpos0QH!=
+XGopksygQ5Xey+jqsbceNhsByyC!uratgyJpfOuqd|uruycwwza}tJr$upjpieLof
+jmucdfKlattme/j\gqwlzAaBMxy^f;aXcwAvvLtki@zGsguevlnHHxx/gFffb+rPnIIwx@tof
+urawujJgeHwzq^tFbvktFg(s6nq*zmukqsKgpytyl^fOE+TT5gwxLxm=tl(
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+KDjebHSSB5#HE7fHjegeHyfLCii+zfaEjfvDzvE]L^gxfA?e1udnneh^sAouvwsAfwtf
+yAgvyfJlaBHyi/vDfvcyAvosIkd:nqaRcyJvmHAne!RmukpfrKbMuge|kl)RNI{bas0QHNy
+vDjpenHhmsztg;ylgtqrrAixtgi"ozokplrvgsNmi!vDplghLgbuIzx!ztsgg]sue u]l@rr
+EqbtuesnpsQfw!uzaeqsNlsMCsk!Suhpg)KgMtNnr!yqskgxlgbGxem+fFigbjFk.
+IMMCNZUHaLOlk^yFff?euvoOyww*uzaqheLofsNjB:fIjnnetlaMBjd_gvptbhGuuKCgy:oAo
+zAauemGsbKMmm[alaECQSSVVUew:xqtugirAitN	d@ylqquxAimRtyl^fAonAeHyjOuyi
+vGcnkxzpozttv"gzjBcyAvosuyd:nqaYqwCziHJ	d{nmeyAhC|Ixuqi,ftbfbxGBhANer=
+lqegtfDggNHiw!uDapcyAvotFej=AzecvnGuaLOut=xFadgkGyfsyrf@xwjpieMwpGtyl^
+vDplghLaauOyd*tEugcirobwtwi-oqebwuGuattlv^gFafgfDgpytms_kIptmesue
+smsmgyAuhsNtd@ioporqAzisNmi!zmtmbtxgdHHAi/yupp}
+
+KHftbxAudxtyl^fBpuuntpmBNni|fAgbetEwvMyw[|kmsejnFnaAuAi!kyftijvaaLwms-gDt
+ozavjjrmjxFid=llmcvjrhovCjr:fmofbjsymRtri%oqwcneKAvwCjw![BikntKvqAyww7
+ztfqntypbGM	d$rmtukhAzuLnee+jlujqxwgtMOiC*tsavjjrojLNtv,fAgbpfLBstFep@C
+gzebvmwgiBMys/ElphbyzlaEyle-fpfxgqGwnxHyd=llXguywyoswnz*ruAcvnGu-sBfz^
+hqfpbqGuhBHld'uDacbkMsmRtxi@xoicdqwgwxLxm=tlphb2wzuxLsd-oFftcyMyfmtks/
+kJborqwaatFqd:nqavgCLzaHzeE;mGtvkswgbGxeF^xzbtfeGmaVFfm/BmvzbfFk
+HAfvjnMz.sHtx!zAaogsLppGtfp-fFigbxwjpGxfv,fmofbywyuBuwC!gGujqwKb
+
+2mskqzKgrNyxx*uztbcwGzfmtHEgGXVECeKhjwoednnAvnfeGufswtr<kDubOnyufo
+YtpwnirAixtie:gnbugetlaxHhs%kp}bbNKgjMtsi$kEtctDrApsxtd:nmu{beZvxsMms;rp
+oFadgevlmBPjv^jhabYmsAatvty:fOE+TT5cas!nr$klujkxrptsuex/gztkvnGubE
+sqekwrlgxASei<kzadqyzlssNtd$xqbvgeKvgMQfv^fFpbtzFgpGtfd{J\SQOargTBHhi
+kHftAgGkzsEss>ylqgquDlaPCqp!hqapgyOvsDCsk!ozgqtrsAjHH	d>nKaiqeLvaMBj
+zDpwdqw|_PBng&futbhfJghKyfx^xlxkvmrJE `TQ!ztbpbBAAisNmi!vDpfwhLppGttj
+smhpgyAjawuye9flGkpfDszmtms>fppgueGufsGfo^fFigbisAbsuAe*rmcngargDtHeq@tK
+uravjjrovKxqi|fFpbwxAuhsyqi$zDppkhrpoyIwq@zuppbyzhusMtq^fBvdnnKofKMel@Bq
+oyqqujvgvIIsd%gFbdcxwzauyei-oyjpcywk}
+
+ZtfbRQVgqKIoi$zlxcuethtxxes+fFigbuJpovCup^fFicveuvnIOyi//Efcthzpozttj
+zqyvueAzaFIxx!krggeyACfsQmi+fuubkxrkpGyeA*ztacbqsyhxtie:gnbug rgCxwfy|k
+VXEbtjHyfLysx^jlbbetDsfvNns+fFicveKlsOyxd|ulncpDrkjLwnt-ozfubfuypLMew=
+smoAbuwyjHxx{!oFaycxrpsKyxm|zucng 
+
+ZtfbdfKpdsLzp^fuobetFCfKNnr"f2MFbBszaMIeh=fzpbjfJt.sNtd@BAjfbyzlaLCsw!ur
+ozutwxAvosCsd|Aoibcevhutvfw^.lapqeAuuKIiy$zuppbtxgoxQjv!kpjvktFz.sHt
+uz_vjj	zqHNeg&gzhgu	rupsywe%oobvksygpytfp-fBpuuntsfszfp|ktpqfxrmsHGee+
+kpjvktFbas@my| lQNFeAzaGIyd:nqahksssatwyd*tlfnghLypGChd[AnmkumAuhsztv
+ztjubiAzdBJqm+kfadwyrzjFJqC!ztfbdjypoGCsk8flUjgeuvoOyww*uzaqhe8SEsBfw
+kHpmgiruvFyws;ylvpcsLpdBJfx^jlrwgxLppGM,d!NAxbynDsaBHks/smukqsrifsOxi%b
+3tbvbftvvMtsi:CAsmksycasWfr!ztfbtnyouLttj!glecvfthtxtgi!vDpvghLleo
+Ytpwnirvoxtuv=zqdvbyzlaKCll:ylphbfrkbMuge|khabJtOgdtHem:fnfbofvl
+gHbknftsfo
+
+ZtpugeuvoOywx*tsaRNIrhmLIex/oqebvtrhwHCid:nqauksKgpyttq*yEjqp	rAitNem| 
+kJdnwiAuhsJtv:oAoubtxguAyeg=rxfevnGutsIwd>nAmgbxwjuBIsw8flXjcyrhcHOyd:nq
+oybigxnga96Id*ylgwnqrvgsCre"kE.butElatLjd^DFsgojDFaICty|
+tuogvjwuuAahi+zGsAbwwwsxMjr:gFjqpxrvgsNmi!LmujgwKaaPBnp^fAujgwKgdHHye*t
+nuhjnDrpoMywi|zuoibjDlnxHyw8flUjgeyvbEtBe|fFpbetNlssuqp!ztfbvjPAaHzeQ*mzf
+[uoenzvpoztss:kE.bksrNsxypd@tpakpeZlcKyB{!ztfbnfLAfKttj!Ctjej	rpo
+vmsvkhMsbKneg@AEfubuJvcEyrw!ozaetjsAjGAee!yqbtemrzuKOhx;xq-?bfDsaMBj
+ozekejKaatHid^BqobvmwgjFuli| lxjkhzgbKyef^ozhbuhsuoxxem+fEfrcwsAfES
+yqbtemsimxtkm-kE?
+
+YqwgtfDgOHLyl!GyftkhsuaBHxx*zGukqsKguAuyd&gHfbrqsjfwtfg]AutkvnGuaKyvy^yFt
+lAsbvmwgQ5Xeh@zmccujrobOyev^wGfuvjvgjMtnr!smhpgyAjayIwq!CuujqzLgtHzyA@xq.
+CtjejeElbGMex&kKactjrhmKyfh,fDvppnFnaBNeA*ztpwveKvgMQfv^ lxkvmGBu
+gzzvjnFnawyrs+yFscvjvgbMtyl^f9ptmxzvqn
+
+3tbvbhsuoHNet/goukefDszsvjd%uzfbkxrnpsvfg)fmofbwwjpGPjv:fmofbww|fGwth^
+jmuc?esguBGj[$uztwonFnatHid^DFsgojDFavIxx-ElfpvjJwsBMj	!fOBNCQ!JBsMji|
+VXEbcxrhawuye#gEfbvmsAavus{!gzebumGBmwnef^fDvpbzFkfKtfd<gDjgvDrvg
+xqutkjNhmsMtj:Cmsgu rgUACxd>oxmbrjJtjMtyl^fIjfgxLgqHMxm#rqaugfJjixM 
+IAougvMloMFD{!ztfbpjwkaMIet/upvegesgDWaWShfAgbRQVaatMeA^rxacueLvawyAi-uB
+yAgvyfJlaMBfx!iAvnfezhowFjd|uyfb3 &ghBAff,zqaqhezlbOCqC!kzdqfjvguxRy{
+jqwgntHlesIzx!uraeqsNlsLuym=tEaykyzgdHFqi$zuppbiwCfEIuq^tFacpiryfyywi+iq
+ructcwAhoLtBl=fIbpvjvgtHzyA@xqadqyzgdHGue|yuppcywgfGIzk&frptbyzl
+vqeguyJpbGtgy:fmmuqeuhqtvqi!urakphGyqHLfx*tsavjjrtpLNeh^zmjngi
+rqyketyybIBng@rltvwiAltsNme:fmawujJgexMnv^yluqbhGueNwy	!fUobvmwgfGx	d:nq
+kzdqfnFnatHid$uzwgtxAvosIkd:nqafcysgxBFqd[xAwgbyzlaFIxx!kzewtnFn
+zqtvcrwuusNtd:nqaxcqMlaHzex&klqtqowjun
+
+ZtfbgsuveBHld=llujgevhutvfw^fIbubfDzpsuel@xp_hqzyousCxw;kaabFnvguAy
+jmucdfKlaGyjh!zAadgewudHxjh9f9ftgeLofKyer=xybvkAwgtMLzg:ADfubkGyaxHhs%ozh
+nGncpnKAaMyCx|blaUjtMsesCyd#klTIOQnga$Bfx!gnpwveLofs@JMT/IjnneAAaEuxx7
+CumnbnLgqKIAi!AEfhwqngaVUQEg1OBbgCHyfLMjh!yAngbrAupKtis;hFtbcxrApsQmi:nqs
+glecvfribGEeg@tlcgbkMsmRtYId/opphtJtbGN d!KHftAewmgHLyd$gzadgeEhexnef;z
+ozavjjrlowtys!hqaVGN	jpGztv_gzubojsutsNtd@iofrveLofsHji%fFpbofClaLIri
+lusobjFjpwCsk!jqdkunGutsNme:fobp?eAuexyi{!hqafkxHBuxx d!ZtfbVJ1gqHCsx|
+ztfbrztsjLBjv!ozacbuJvqxLeh*xqdvktFgcNNeh=kEapqyrwsxMzq^fFpbofClatFqd:nq
+jqdkunGutsztv!nunbqwrofKoed yEfpvnssmRnex&klhqcqrvgsysg=juoibBszaMI
+kxjokssAfmtfw!sGdjbfKgqHMxm#rq.bvmwgiBHiv@tofubyGgjGztv_gFjqp]FluPIwo*ts.
+yAavjfLgjytfr!oztvkyMAjHHee$wGjtgxrhawuye#gEf?bjNlsRvth,fmtuqhAhuxxeA*zt
+ztfbksKAjMOym=tldcpezhwxtfg$kEtbvtrpun
+
+IMMCNZUHawyrs+yFscvjvgbsJtv:oAobqkr3pEOri!7^~?bgwjbNMjd*zlicfeLofsGtw:
+gzpocqAltsCsd*zgabVmwgtHzyA@xqaycxrjsxuyi%fnzbGqwjuKIsm$fNpqm
+ZqdjptDvhByxd=llQtqAAkfGwj{!XU.bcsvgjLthe-rqebFDFhuxRy	!f6igbxGmuPuwi
+CAsmueGumRtBm:nlTIOQ	jpwyid%gFb}
+
+2ufyksygbsNff-klphbhGuuxHyw!uzavjjrzdKyjr7fFigbfMkjxHhi!ymxbjtOgERHfx^DF
+zDfcvxrlbvBei-kyfpveszattgs=qlbpfesAuxGux|fFpbunEwmBzDd_uHfogsLguALty"nlb
+BAmwojmgaYurm-omskvDrDjMBex&klQcvwGspzCfd*tlqtksLg)Boj	7fFigbywEumtnx|
+yAvtejlgbGxex&klffkyAvoL eA*rxaocpwguAyeq@itjpg]Jlbwugp^fHftunGutsBnk&rK
+AEfhwqmga{!tj:CmsgbBAAisue1*tppyueswqEChe:oAobyfKgtHOll:frptbU4K.
+IMMCNZUHaLunh7fnfeczKlaMBnw!CmtbvmwgntCsd:xqofbkGyaLwms-gDmAbzKl?	
+
+IMMCNZUHatFxs!jqnqpxLybMyid&uIacbzKlsswfr!vqshqwEgbsPfv*kFzbqkrzftLhl^y
+gzebszAjlESeq=BqavqesuzsJfv:fAgbceNvmNGj,!ztfbntGr_NJew$xqfpbuJvwBxjw
+yAngbgszjvnew*sBmgbBGye Mje/itjpi 
+
+IMMCNZUHatLly^jlujcyrvoxttj!ztfbofBvssxnj'oovnvnwzaBMer=zlujgeKvgMQfv^a
+XmujgwlgjGthv^gFjpiesgqKIiy$zlujcyrDjEFef^fGtgfetFaLwms-gDtbtjHyfLysx*ts
+glctqfvgtIyhx/AyaqheuvnIOyi/fEprjnKAjvuym=tfabwxwyawIhy_kzucvnGuaILtz^y
+zAadgeLofsGtw:funrqwLhoMtxi/BudgbtFlavusd[xAwkfjm
+
+IMMCNZUHaGyCx!oxmwuyJhuxxee!zDvpefLlesMje/itawpiwyaFSxx^xuvobBAAiBHex^t
+CAsfueGmaOCwx;ylbpfezvxsIsi!CAvnfetlatvqi!zAahksvgjMMeg=tFfpvxrAiKIzk&uGu
+ztfbgsLpsxtie:gnbug rgIxtxe*jlujcyrAixtjB$oFjpieLojGAee#uGubRQVgjLtyl@z
+smoAbtxguAyee[vxjecyAvoLtnr!ztfbtjLyjxPfp!yAgvyfJlauynr"fIskvywuayIwd*z
+CumnbjPjfxxex&kldcrftpmBNni|fAgbvmwgtHzyA@xqagouDvzxxer=ClgqteLofsWI[mUY
+BqsuktFbas@mi!IP_TQRrmbvyxd"kzvkpjrsjFCye:oAou?eAuaMywq|fAgbuuwlesush
+iAnrtjzloLCAi+kEt?bnFguAyeg/kmukqsrvgsuev^zDjgxfDgtHzyA@xqavqeJBosCy	
+IMMCNZUHaLunh!nqajquwkaMBfx!ozekxnvBbEtxg&uxbtueOpmEtis>txpcfeLofsxfx@ 
+oravjjQgxBMm{!zAavjjAyaIyww=tmmbetEwvMyww7fmofbmsCfsLje%ElbeejKzaMI
+oyqqtysuusNjB:ylppbfrjpGMye+zlccunKaaPBng&fFigAeOpmEtgi!gnmgbyGgvLyem+
+ztfkteJltxuwg&fmofbkJvnsQmm$nlujgDrtjzByd^BqobdjrhcEyex=fBvdnnKo?
+
+[OBNCQ!JBsyCt-guogfeLobMtyl^fnmwgeFBnuyww!xqqtgxwuuxxeQ*mzf&ueuvmNGsd+Aycgtxl
+CtjejesyfsNmi!yFbpffJkaLwms-gDmAbwwmfKysg^ygabRzDsjGAey[fmapqywaaAyew:gFff
+ztbvbyzltxtyi\zEaygwwgixuAm-ElffkywkatHid:nqakofylayCqi|fIpwnirhqIyfv!yunrnD
+gEacbsGAfsuxd>kxm?bxGguAuyd=tqaeqzDkaJOng)rKacehwztsusd*smhg}[
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+LXFKUHZOB@YW< X9B1b+rZfOywe-fBsqdqwttsQnx&fIikemrHNsCxd|zumnbBJltMFnr"f;
+2mskqzKgtxuwg&fmofbwwAsByAe-fobrcgAsjMCjw!=lJnnzKAstNns+fAgbczLvntNng
+yFfoonFnatHid@fFswphsAfwtxi@xoib)eST"Ltfx:kyqvbyGggBHid>gKtbvtrjpGHjg:
+imucntypoztys!ztfbvjPAts{eEh-EaitfNputNns+fFpycwvza`1RP!=lTvtnCpoztf
+hmmcphwgcxNBi^tlrwcsLpuRtfr%fCvcnnLFa}tMs>fMNbhzJujLBjw!AEftueJldHOww^fFp
+oybigxr[aVIsh;iFjpiesgtxuwg&fuobcexBmEayi\zlfpxnJvoFysx!=lNcenFApLBee+j
+ONNbrwGApMSui|fAgbCRr[a6Oqx*sqekceszqxwyw!uraCOe?
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+GlegotFzuKuym=tlphbFElsBwfr!SqnqtDrizsCyw!iAptfnFhuHL	d{gDmbHQWPTV2MEpK4.
+gzebTnurzsYW1?5facuxGjjtNjd$uAsfkssApKneP*hDbtAeGmaVIsk/kEt?bhGudEOii%
+ztfbotJujGAew^yEjqp rgCxAnr+ozhbynLoatths-rqdvktFgpytgv=gptkfjKggKIrd:nq
+IAovkswuutFeG=tssguxrhowtyl^fOppuyAAvMCtr@rlDqpAwuuBIs{!ztfbqsDFaMyCx
+iAmnghLppGtnr!glqtgxwuutvqi!lAsobfLguAyex*sqaqheLofs%tv)ytpr?eXSF2!HLcG7FT
+nuhjnnyouxxew^BqscneGmaMBjd[xAcngrKgxBNmd>nudjbF5gjLtxx*rxaytjKAmBHl	
+[UobkyKggBHfp!lAso?eLofsxnw)fIjnneuvoMunr!zIpbetDsfvNns+yfapqyrvoESex&k
+hDpcfxAkfLtgy:fmmuqeLofszzp-fFfzveOpuAtnp-AEutcyAvoLttj!gltgveGm
+gBqtqCAtbMyqC!9*~bCkJpdtH]E_kDjecsrwbFJmp^zEahttEguAyet^xupfb6_@~sNtdv#!~}_
+
+GEaHTJWTB7tme%fqyrnfAufwtje/ruft?eSTaAuxd@zFforywkaMIey|klbburssmsurs;tF
+urakpywyqKyye:oAobvtrpoMLth;iqaeqqDldMCtr|alaKpeLofsJwi|kzubefKl.sNmi
+iAovtfuApKnee!iAnrcsQgotGjh!WGjeme~vvKwj{!ozaUkqNlss!uv*ts.bOImaaNMjh
+yAgvyfJlavuqp^jlUqqqtvpDtfr%fBvvbyGnfMBjv!glnqfjKAmRtnr:kDbevnNl
+ozutqiMjuBIsd:ulujgeuvmEyhx*uz?bbQArfsNmi!zIpbrwwjfwCsk!yBfcmjJz.
+LXFKUHZOB@YWd@xsvgfeLobMtyl^fDfcnesztxNeA@ylujgeMuexLqC*tsaeqqDldMCtr8
+
+LXFKUHZOB@YWd[xAdggiwkaMIeh^yoskdjrCbKCty|fEfcthzgbGxev^zDjgxfD
+imqcdnDpuByxd>numgbJ04B^tBs/qqebvmwgdHGuy:kD?bbNFguACxd[gDukezDhssJfg)gsf
+ztfb*lGguH?et;rx_fqBFgbEFtA^jlujgeMzfKtnr!krggeyrApsDzq[fAvvbtxgUHIqf=uw.
+CtftgeLofsCsx^xmdvkAwgqKIlv@slxcueDvdtNjh7fmofbjFAfKtyl^fFikti	wbKND
+yAgvyfJlaNMjh!hKaCOexvssNmm|fFfzveuvmEyhx*uz.bymAjisCxd$gxmgfe8lsLIse-
+RuctcwAhonteX&oEaycxrAixt2m+jAxubAwytBIsd=llQgtxGubEtQm#xmskcslgb
+yAgvyfJlatJup*imukqsrwvMtys"kFigtetFatths_vmoAbnFgSHwpz*rxf?bRvb
+
+YuoegeLofsvws@jEjfgxrjbFyej/uyavjjrYfOIqy:oAoctDr4bKtui/oAe?bfrzftLhl!Cmt
+iAofwhLlesOxm+mlujgeOvswMeF/oFjujeGyaPuw{!Cuujbyzlawyke;rFaqrjJhuHLev^yqu
+gEaqt rgG5YNW{NTBWGWrkfFIsw:xmugfetvuAtfy:uybvkhrzuxGrm+ml)yjnuoayCsh|
+uFigtexvsFMes'fFigbxstfsLts:]lbpfesguKOsg@zqebujsydAoedjtqaqhe8lsLIse-
+RuctcwAho,Mew:xAoigxLggxuyy/kE.bvmwgsxFjz@tofbtfFrjGA	d>gEatguJltxHyi%fnz
+gldjcwLguAuyd*tpjecywkaAIBd=lFfpbBGyeLtgi*tsauqzyousuut^gDffbnF
+jAdwojFAtmtBm:nlujgeGufsLjg^oHjpieLofsGtw:f|ikvx,gpuNfm+ozhbvmwgiBAmi|z
+yoptg rgUAye)&oFankxL+aMBfx!oEauwuHsjxxex@qqtbvmwgsxFjz@tofbtfFrjGAem+zA
+godqwsLaaFupm+mlujgexpsLNel*zfakpewmgxwy{!ztfbqswguAyew=lFxctjrobL
+yqmgeywkatMex&klnquyryfEyAe+zlfzcrHsfn

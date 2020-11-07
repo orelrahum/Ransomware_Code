@@ -1,0 +1,30 @@
+files have to be stored; and 4) transmission costs, because there is just
+more data to be transmitted.
+
+But while resolution takes care of the issue of legibility in image
+quality, other deficiencies have to do with contrast and elements on the
+page scanned or the image that needed to be removed or clarified.  Thus,
+THOMA proceeded to illustrate various deficiencies, how they are
+manifested, and several techniques to overcome them.
+
+Fixed thresholding was the first technique described, suitable for
+black-and-white text, when the contrast does not vary over the page.  One
+can have many different threshold levels in scanning devices.  Thus,
+THOMA offered an example of extremely poor contrast, which resulted from
+the fact that the stock was a heavy red.  This is the sort of image that
+when microfilmed fails to provide any legibility whatsoever.  Fixed
+thresholding RH GSV DZB GL XSZMTV GSV YOZXP-GL-IVW XLMGIZHG GL GSV
+WVHRIVW YOZXP-GL-DSRGV XLMGIZHG.
+
+LGSVI VCZNKOVH RMXOFWVW NZGVIRZO GSZG SZW YVVM YILDMVW LI BVOOLDVW YB
+ZTV.  GSRH DZH ZOHL Z XZHV LU XLMGIZHG WVURXRVMXB, ZMW XLIIVXGRLM DZH
+WLMV YB URCVW GSIVHSLOWRMT.  Z URMZO VCZNKOV YLROH WLDM GL GSV HZNV
+GSRMT, HORTSG EZIRZYRORGB, YFG RG RH MLG HRTMRURXZMG.  URCVW GSIVHSLOWRMT
+HLOEVH GSRH KILYOVN ZH DVOO.  GSV NRXILURON VJFREZOVMG RH XVIGZRMOB OVTRYOV,
+YFG RG XLNVH DRGS WZIP ZIVZH.  GSLFTS GSLNZ WRW MLG SZEV Z HORWV LU GSV
+NRXILURON RM GSRH XZHV, SV WRW HSLD GSV IVKILWFXVW VOVXGILMRX RNZTV.
+
+DSVM LMV SZH EZIRZYOV XLMGIZHG LEVI Z KZTV LI GSV ORTSGRMT LEVI GSV KZTV
+ZIVZ EZIRVH, VHKVXRZOOB RM GSV XZHV DSVIV Z YLFMW ELOFNV SZH ORTSG
+HSRMRMT LM RG, GSV RNZTV NFHG YV KILXVHHVW YB Z WBMZNRX GSIVHSLOWRMT
+HXSVNV.  LMV HXSVNV, WBMZNRX ZEVIZTRMT, ZOOLDH GSV GSIVHSLOW OVEVO MLG GL

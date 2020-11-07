@@ -1,0 +1,74 @@
+analyses of the texts.  Because these tools were not designed for any one
+use, the same tools and the same data can be used by both students and
+scholars.
+
+NOTES:
+     5  Perseus is based at Harvard University, with collaborators at
+     several other universities.  The project has been funded primarily
+     by the AnnenbergCPB Project, as well as by Harvard University,
+     Apple Computer, and others.  It is published by Yale University
+     Press.  Perseus runs on Macintosh computers, under the HyperCard
+     program.
+
+Eric CALALUCA
+
+ChadwyckHealey embarked last year on two distinct yet related fulltext
+humanities database projects.
+
+The English Poetry FullText Database and the Patrologia Latina Database
+represent new approaches to linguistic research resources.  The size and
+complexity of the projects present problems for electronic publishers,
+but surmountable ones if they remain abreast of the latest possibilities
+in data capture and retrieval software techniques.
+
+The issues which required address prior to the commencement of the
+projects were legion:
+
+     1.   Editorial selection or exclusion of materials in each
+          database
+
+     2.   Deciding whether or not to incorporate a normative encoding
+          structure into the databases?
+               A.  If one is selected, should it be SGML?
+               B.  If SGML, then the TEI?
+
+     3.   Deliver as CDROM, magnetic tape, or both?
+
+     4.   Can one produce retrieval software advanced enough for the
+          postdoctoral linguist, yet accessible enough for unattended
+          general use?  Should one try?
+
+     5.   Re fair and liberal networking policies, what are the risks to
+          an electronic publisher?
+
+     6.   How does the emergence of national and international education
+          networks affect the use and viability of research projects
+          requiring high investment?  Do the new European Community
+          directives concerning database protection necessitate two
+          distinct publishing projects, one for North America and one for
+          overseas?
+
+From new notions of "scholarly fair use" to the future of optical media,
+virtually every issue related to electronic publishing was aired.  The
+result is two projects which have been constructed to provide the quality
+research resources with the fewest encumbrances to use by teachers and
+private scholars.
+
+Dorothy TWOHIG
+
+In spring 1988 the editors of the papers of George Washington, John
+Adams, Thomas Jefferson, James Madison, and Benjamin Franklin were
+approached by classics scholar David Packard on behalf of the Packard
+Humanities Foundation with a proposal to produce a CDROM edition of the
+complete papers of each of the Founding Fathers.  This electronic edition
+will supplement the published volumes, making the documents widely
+available to students and researchers at reasonable cost.  We estimate
+that our CDROM edition of Washingtons Papers will be substantially
+completed within the next two years and ready for publication.  Within
+the next ten years or so, similar CDROM editions of the Franklin, Adams,
+Jefferson, and Madison papers also will be available.  At the Library of
+Congresss session on technology, I would like to discuss not only the
+experience of the Washington Papers in producing the CDROM edition, but
+the impact technology has had on these major editorial projects.
+Already, we are editing our volumes with an eye to the material that will
+be readily available in the CDROM edition.  The completed electronic

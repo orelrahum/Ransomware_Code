@@ -1,0 +1,33 @@
+on-line future, the possibility of rolling up one's sleeves for a session
+with a CD-ROM containing both textual materials and a powerful retrieval
+engine made the disk seem an appealing vessel indeed.  The overall
+discussion suggested that the transition from CD-ROM to on-line networked
+access may prove far slower and more difficult than has been anticipated.
+
+
+WHO ARE THE USERS AND WHAT DO THEY DO?
+
+Although concerned with the technicalities of production, the Workshop
+never lost sight of the purposes and uses of electronic versions of
+textual materials.  As noted above, those interested in imaging discussed
+the problematical matter of digital preservation, while the TEI proponents
+described how machine-readable texts can be used in research.  This latter
+topic received thorough treatment in the paper read by Avra MICHELSON.
+She placed the phenomenon of electronic texts within the context of
+broader trends in information technology and scholarly communication.
+
+Among other things, MICHELSON described on-line conferences that
+represent a vigorous and important intellectual forum for certain
+disciplines.  Internet now carries more than 700 conferences, with about
+80 percent of these devoted to topics in the social sciences and the
+humanities.  Other scholars use on-line networks for "distance learning."
+Meanwhile, there has been a tremendous growth in end-user computing;
+professors today are less likely than their predecessors to ask the
+campus computer center to process their data.  Electronic texts are one
+key to these sophisticated applications, MICHELSON reported, and more and
+more scholars in the humanities now work in an on-line environment.
+Toward the end of the Workshop, Michael LESK presented a corollary to
+MICHELSON's talk, reporting the results of an experiment that compared
+the work of one group of chemistry students using traditional printed
+texts and two groups using electronic sources.  The experiment
+demonstrated that in the event one does not know what to read, one needs

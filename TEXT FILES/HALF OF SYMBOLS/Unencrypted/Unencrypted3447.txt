@@ -1,0 +1,22 @@
+project, it is usually submitted to the international level, so that the
+member countries of TC l7l can simultaneously work on the development of
+the standard or the technical report.  BARONAS also illustrated a classic
+microfilm standard, MS23, which deals with numerous imaging concepts that
+apply to electronic imaging.  Originally developed in the l970s, revised
+in the l980s, and revised again in l991, this standard is scheduled for
+another revision.  MS23 is an active standard whereby users may propose
+new density ranges and new methods of evaluating film images in the
+standards revision.
+
+BARONAS detailed several electronic imagemanagement standards, for
+instance, ANSIAIIM MS44, a qualitycontrol guideline for scanning 8.5"
+by 11" blackandwhite office documents.  This standard is used with the
+IEEE fax imagea continuous tone photographic image with gray scales,
+text, and several continuous tone picturesand AIIM test target number
+2, a representative document used in office document management.
+
+BARONAS next outlined the four categories of EIM standardization in which
+AIIM standards are being developed:  transfer and retrieval, evaluation,
+optical disc and document scanning applications, and design and
+conversion of documents.  She detailed several of the main projects of
+each:  1 in the category of image transfer and retrieval, a bilevel

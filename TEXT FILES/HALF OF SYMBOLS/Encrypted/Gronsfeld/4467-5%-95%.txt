@@ -1,0 +1,13 @@
+Currency:
+    lev plural  leva 1 lev Lv  100 stotinki
+Exchange rates:
+    leva Lv per US1  17.18 1 January 1992, 16.13 March 1991, 0.7446
+    November 1990, 0.84 1989, 0.82 1988, 0.90 1987 note  floating
+    exchange rate since February 1991
+Fiscal year:
+    calendar year
+
+:Bulgaria Communications
+
+Railroads:
+    4,300 km total, all government owned 1987 4,055 km 1.435QLCMW AVAWLEUI

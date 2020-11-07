@@ -1,0 +1,120 @@
+     future scholarly needs, not to build for the past.  Capture
+     deteriorating information at the highest affordable resolution, even
+     though the dissemination and display technologies will lag.
+
+      Develop cooperative mechanisms to foster agreement on protocols
+     for document structure and other interchange mechanisms necessary
+     for widespread dissemination and use before official standards are
+     set.
+
+      Accept that, in a transition period, de facto standards will have
+     to be developed.
+
+      Capture information in a way that keeps all options open and
+     provides for total convertibility:  OCR, scanning of microfilm,
+     producing microfilm from scanned documents, etc.
+
+      Work closely with the generators of information and the builders
+     of networks and databases to ensure that continuing accessibility is
+     a primary concern from the beginning.
+
+      Piggyback on standards under development for the broad market, and
+     avoid libraryspecific standards work with the vendors, in order to
+     take advantage of that which is being standardized for the rest of
+     the world.
+
+      Concentrate efforts on managing permanence in the digital world,
+     rather than perfecting the longevity of a particular medium.
+
+                                 
+
+
+DISCUSSION  Additional comments on TIFF 
+
+
+During the brief discussion period that followed BATTINs presentation,
+BARONAS explained that TIFF was not developed in collaboration with or
+under the auspices of AIIM.  TIFF is a company product, not a standard,
+is owned by two corporations, and is always changing.  BARONAS also
+observed that ANSIAIIM MS53, a bilevel image file transfer format that
+allows unlike systems to exchange images, is compatible with TIFF as well
+as with DECs architecture and IBMs MODCAIOCA.
+
+                                 
+
+
+HOOTON  Several questions to be considered in discussing text conversion
+
+
+
+HOOTON introduced the final topic, text conversion, by noting that it is
+becoming an increasingly important part of the imaging business.  Many
+people now realize that it enhances their system to be able to have more
+and more character data as part of their imaging system.  Re the issue of
+OCR versus rekeying, HOOTON posed several questions:  How does one get
+text into computerreadable form?  Does one use automated processes?
+Does one attempt to eliminate the use of operators where possible?
+Standards for accuracy, he said, are extremely important:  it makes a
+major difference in cost and time whether one sets as a standard 98.5
+percent acceptance or 99.5 percent.  He mentioned outsourcing as a
+possibility for converting text.  Finally, what one does with the image
+to prepare it for the recognition process is also important, he said,
+because such preparation changes how recognition is viewed, as well as
+facilitates recognition itself.
+
+                                 
+
+
+LESK  Roles of participants in CORE  Data flow  The scanning process 
+The image interface  Results of experiments involving the use of
+electronic resources and traditional paper copies  Testing the issue of
+serendipity  Conclusions 
+
+
+Michael LESK, executive director, Computer Science Research, Bell
+Communications Research, Inc. Bellcore, discussed the Chemical Online
+Retrieval Experiment CORE, a cooperative project involving Cornell
+University, OCLC, Bellcore, and the American Chemical Society ACS.
+
+LESK spoke on 1 how the scanning was performed, including the unusual
+feature of page segmentation, and 2 the use made of the text and the
+image in experiments.
+
+Working with the chemistry journals because ACS has been saving its
+typesetting tapes since the mid1970s and thus has a significant backrun
+of the most important chemistry journals in the United States, CORE is
+attempting to create an automated chemical library.  Approximately a
+quarter of the pages by square inch are made up of images of
+quasipictorial material dealing with the graphic components of the
+pages is extremely important.  LESK described the roles of participants
+in CORE:  1 ACS provides copyright permission, journals on paper,
+journals on microfilm, and some of the definitions of the files 2 at
+Bellcore, LESK chiefly performs the data preparation, while Dennis Egan
+performs experiments on the users of chemical abstracts, and supplies the
+indexing and numerous magnetic tapes  3 Cornell provides the site of the
+experiment 4 OCLC develops retrieval software and other user interfaces.
+Various manufacturers and publishers have furnished other help.
+
+Concerning data flow, Bellcore receives microfilm and paper from ACS the
+microfilm is scanned by outside vendors, while the paper is scanned
+inhouse on an Improvision scanner, twenty pages per minute at 300 dpi,
+which provides sufficient quality for all practical uses.  LESK would
+prefer to have more gray level, because one of the ACS journals prints on
+some colored pages, which creates a problem.
+
+Bellcore performs all this scanning, creates a pageimage file, and also
+selects from the pages the graphics, to mix with the text file which is
+discussed later in the Workshop.  The user is always searching the ASCII
+file, but she or he may see a display based on the ASCII or a display
+based on the images.
+
+LESK illustrated how the program performs page analysis, and the image
+interface.  The user types several words, is presented with a list
+usually of the titles of articles contained in an issuethat derives
+from the ASCII, clicks on an icon and receives an image that mirrors an
+ACS page.  LESK also illustrated an alternative interface, based on text
+on the ASCII, the socalled SuperBook interface from Bellcore.
+
+LESK next presented the results of an experiment conducted by Dennis Egan
+and involving thirtysix students at Cornell, one third of them
+undergraduate chemistry majors, one third senior undergraduate chemistry

@@ -1,0 +1,199 @@
+SPERBERGMcQUEEN noted that the TEI prepared a long working paper early
+on about the AAP tag set and what it lacked that the TEI thought it
+needed and a fairly long critique of the naming conventions which has
+led to a very different style of naming in the TEI  He stressed the
+importance of the opposition between prescriptive markup the kind that a
+publisher or anybody can do when producing documents de novo and
+descriptive markup in which one has to take what the text carrier
+provides  In these particular tag sets it is easy to overemphasize this
+opposition because the AAP tag set is extremely flexible  Even if one
+just used the DTDs they allow almost anything to appear almost anywhere
+
+                                 
+
+SESSION VI  COPYRIGHT ISSUES
+
+
+PETERS  Several cautions concerning copyright in an electronic
+environment  Review of copyright law in the United States  The notion
+of the public good and the desirability of incentives to promote it 
+What copyright protects  Works not protected by copyright  The rights
+of copyright holders  Publishers concerns in todays electronic
+environment  Compulsory licenses  The price of copyright in a digital
+medium and the need for cooperation  Additional clarifications   Rough
+justice oftentimes the outcome in numerous copyright matters  Copyright
+in an electronic society  Copyright law always only sets up the
+boundaries anything can be changed by contract 
+
+
+Marybeth PETERS policy planning adviser to the Register of Copyrights
+Library of Congress   made several general comments and then opened the
+floor to discussion of subjects of interest to the audience
+
+Having attended several sessions in an effort to gain a sense of what
+people did and where copyright would affect their lives PETERS expressed
+the following cautions
+
+      If one takes and converts materials and puts them in new forms
+     then from a copyright point of view one is creating something and
+     will receive some rights
+
+      However if what one is converting already exists a question
+     immediately arises about the status of the materials in question
+
+      Putting something in the public domain in the United States offers
+     some freedom from anxiety but distributing it throughout the world
+     on a network is another matter even if one has put it in the public
+     domain in the United States  Re foreign laws very frequently a
+     work can be in the public domain in the United States but protected
+     in other countries  Thus one must consider all of the places a
+     work may reach lest one unwittingly become liable to being faced
+     with a suit for copyright infringement or at least a letter
+     demanding discussion of what one is doing
+
+PETERS reviewed copyright law in the United States  The US
+Constitution effectively states that Congress has the power to enact
+copyright laws for two purposes   to encourage the creation and
+dissemination of intellectual works for the good of society as a whole
+and significantly  to give creators and those who package and
+disseminate materials the economic rewards that are due them
+
+Congress strives to strike a balance which at times can become an
+emotional issue  The United States has never accepted the notion of the
+natural right of an author so much as it has accepted the notion of the
+public good and the desirability of incentives to promote it  This state
+of affairs however has created strains on the international level and
+is the reason for several of the differences in the laws that we have
+Today the United States protects almost every kind of work that can be
+called an expression of an author  The standard for gaining copyright
+protection is simply originality  This is a low standard and means that
+a work is not copied from something else as well as shows a certain
+minimal amount of authorship  One can also acquire copyright protection
+for making a new version of preexisting material provided it manifests
+some spark of creativity
+
+However copyright does not protect ideas methods systemsonly the way
+that one expresses those things  Nor does copyright protect anything
+that is mechanical anything that does not involve choice or criteria
+concerning whether or not one should do a thing  For example the
+results of a process called declicking in which one mechanically removes
+impure sounds from old recordings are not copyrightable  On the other
+hand the choice to record a song digitally and to increase the sound of
+violins or to bring up the tympani constitutes the results of conversion
+that are copyrightable  Moreover if a work is protected by copyright in
+the United States one generally needs the permission of the copyright
+owner to convert it  Normally who will own the newthat is converted
+material is a matter of contract  In the absence of a contract the
+person who creates the new material is the author and owner  But people
+do not generally think about the copyright implications until after the
+fact  PETERS stressed the need when dealing with copyrighted works to
+think about copyright in advance  Ones bargaining power is much greater
+up front than it is down the road
+
+PETERS next discussed works not protected by copyright for example any
+work done by a federal employee as part of his or her official duties is
+in the public domain in the United States  The issue is not wholly free
+of doubt concerning whether or not the work is in the public domain
+outside the United States  Other materials in the public domain include
+any works published more than seventyfive years ago and any work
+published in the United States more than twentyeight years ago whose
+copyright was not renewed  In talking about the new technology and
+putting material in a digital form to send all over the world PETERS
+cautioned one must keep in mind that while the rights may not be an
+issue in the United States they may be in different parts of the worlW
+ROSEQ HHXM QIOCFDHSP HEKSHIHLXA QHFSWXKR Q NHZEWDIMP PQCH UZ PMA SUGY HZ
+PMQ YMFMIE HFNL PUGZQ KQENB
+
+HSPQEP RABZ ESGDYRKR PMY SWMWUUHRB UZ WMZEDHPIP MUXKDDF  VHHTXA
+QRUWIUMD DHPIPB ENQ PRS DHPIPB ZM WMCFWHB FRS ESHEIWMNGMUW UZ Y NHWV DW
+LAA ZHWC  MRSQ XASUWP FM ZRS LNPMHW HW UD PMQ RELY HU L YWDE UQRK ZUW
+MHES PMY SHTXUKQC  PRS PSWMWR DHPIZ CMHRM HV NCMGMDLF ZM WMDLSEVHUW
+HV PMS EDIMP ZM RMLAPK Y NHWQ  GRS DHPIZ BI UYEA RYR SKEPHIRL HV HSEREFB
+UWY HZ FRS UIBP VHFDUGMDLAP CDIMPX HU LMFMIEP FECPMDNFENXA UD LA
+ASQRPCUWMD YWNSC  GRS PMHDR CDIMP HV PMS EDIMP ZM FHLXHVM PRS YWDE LAW
+PMS EDIMP ZM KDBVQHUDQFK HP BIUQPMHDF PMQF KSSEXWRA ROI WQYXB UD LA
+ASQRPCUWMD HQKDOU RAKRB PI YWUC  ZRS LQVHN CNFK HV HU L WMZE HV XHVN
+LFS NDIMPX HG NHVPCMVMFHIA LES YSGMDFOHPRKR DOPM PMS PLFY HZ FUEM QHZX
+PMQ EQK HV PMQF MG UOBP SQ XHVN  L AOUSQW HT NIUFEDUSP IXSEWMHQ PMHV
+MXBPQNSA XQ SAELUDZ IW SARGMDF PMKHE HWHNIQM  PMSPQ RIUFEDUSP ENFIQ PUEZ
+UG PMQ HQFSEUKV UP EARPQW IN SQYPSN KWR WUP BUXC GRSQ WUWPCUX PMA HPSB
+UZ Y NHWQ  GRS ZUHNPM DHPIF QWR UWK SSEK OHTHWFQCF UD K NDIMGLF YWNSW
+HV E NDIMP UZ FHLXMD HSNPHWUQWNY RMHRM HQLAB PRS DHPIZ BH XMIC ZRS YWDE
+PSAMARGMLFXA  ZUE SLYHTSA WMZEDHPIZ MDWSEB RUWPCUX PMS PMIDODF UZ Y
+NRWHH TWHNIQM UD E FMLVUR TFLRQ LHRM EL E FMLVUN BMVNEWE  PMS EKSSEPS
+VHRK UZ FHLXMD HSNPHWUQWNK HB VIUQPMHDF NQXVKR PMS EDIMP UZ FHLXMD
+KDPHFLQ  OHWLF DHPIPB LFXH YSHVZ CMHRM QF PMA PKRSELF SASKF LZSXA UWXA
+ZM SKWE VUUHPQK GHVNLX NHWEV UZ ENM TMF UD PMYHWE UQK YZSXA NARKW
+WMCFNEQM LAW IPMSE HEUDDMFSSP  UINES NDIMPB HYK UDNBINQ PRS DHPIZ MU LW
+LNPMHW ZM UESK MHX HE RSE ALHQ UW Y NHWQ GRS DHPIZ MU LZBDHLMGMUW LAW
+PMS EDIMP ZM MXHKQM ZM KDBPHWGMUW HW UOGMFLGMUWPMS EDIMP UZ UDPQPDMGX
+
+PMY RYK WMZEDHPIF BYN HV YWCRKR IDSKB HMNU SQFMGINQ PU YQMDGMGHKB VMNU EB
+HESPSELKGMUW ZM HLY HT UQFSEUKF UHW BRMIFLNSK YWR ESPSENRM FHEHHXSP ROAR
+PMA HPSC RHYL RMZ UQEQ UOBFHGSA WMGHSP LAC GM ZRS PKRANEGMUW UZ
+ULRBHUUVQ RHZHKX HU NRFMLVUPRKR YWDEB LA XMVNEDHSP ZUC PRSHBASSKL EWR
+MZRSN SMVNEDHSP  LMZ BRS FLD RHYL RMZ LFXUN YWAUWQ PM XQRIUQ PRS
+KDBPDHLMZMW HZ FRS HEIWMNF ZHW PMY SCFHDY RHWVN  UD ZMNKEX ASQRPCUWMD
+ARGDWHCUARF TMLVUPRSEL EES YSPCQHASQ WUWRQCWKR PMQF PMY SCFHDY RHWVN HV
+RAZCHWEQN KWR NQW UTMKUC FRS UDZUCHQFHIW RSPHDKR PNIU E LUDFVQ RHZK OA L
+VHDFSA VUSCENE  OARRQ UG PMSEK HB PM XY HAFX WRA LESA ROMDR HMLVUPRSEB
+UQQ WMIHXQ PU XDGY RMGM PRSX YUVX UTMKUC FRSHD UIRAK OW UPMSE NYEX ZUW
+YSQUFSA PWHU QWBSPL EWR HLS  RARRQ PMK RKSASHZHQCF UZ VHPQ VURQRLSP
+LAW IPMSE VDWRX HU LPDYSHQCFB PM WIXSE ROQF FHLXHVRSEP SQVUKSQ PRSX
+PRIOVN SQ WMHTARLEPQN GHW  LAE XUXMFHIC FUEZ BRS NAMGKR BPQFSP FQEQB
+ZMNKE OEL ZM WMRLDKSE PMK HCFSEALGMUWLF ENARY
+
+WUGMDF PMQF PMA HDUPQR VFQPQV HL E HQCTSE UZ PMQ SSERA WMDLARGMUW LAW
+LHLBNCMVSP ZM MGP HWHGDVHUWP HQPSEV RSPNCMVKR PMS HSEUHBVHIRL HEMWSPB
+PRQ YXBI WAPUDKR WMHTNFXHWE VURQRLSP  Q NIUFHXBHWA XMDARPS UZ ROMDM PRS
+NAMGKR BPQFSP UEP RKN L UYR LMUVRV UDZM PMA SYN PMS EDIMP ZM HLQ Y YWDE
+LHVMQRZ BM WSEFQUD PQCHL EWR WMWRMGHIRL  UD PMK HCFSEALGMUWLF ENARY
+MIRYSKC PRS QLUVMGQ ZI OPS WMHTNFXHWE VURQRLSP HV YSPCQHASA XHUMGKR
+PMHL NBQYDHDFMIHLSP LAW IPMSE WMXVQRGMSKB RIUHEHVY HRA HZGMUW PMQF UEB
+LHWBYSRKK DR FWHGDKDDF ZUN HPS UZ Y NHWY  IZFAR IXSEXUIYKR ROAR UWY
+SQIDRL ZM HLQ RHZEWDIMPKR UQPQDHLF LAR GMF HEIWMNPB ZMPKPMSE HV MIY
+YSHSRLDGQ PRS HSCHHVVHUWP HWHRQBV LAC ILAKFUDI DG ML  EWBHWKDDF ZM
+HSPQEP PMS HDHRQ UZ WMZEDHPIG MA L KDIDFQB UKRHOO CUEPQSKE PUXMFHID UB
+YWDEKR IOZ CUVV UWNFNRK UQALIDDF LAN KBVQHLXUDP FRS NKFQLQPS  PRY
+BPWHDFXA ESWMOBARRKC GUEF TMLVUPRSEL EWR VUSCENUKRL HW HSHZSA DOPM
+LKDHIOB LQNVIWHNARV WMHZSEQFQ PW YHWY IMF KNUHDUBPNEGMSKXA PAELMVSA
+XEBPQHV HW UCRSE ZM HEIWMNQ SQPPQW SSPNFPB
+
+UD PMA SARPFOE AMSPGMUWLANKRLRYE HSEHIC GUEF ZUXXURYR GQPSEBV
+HESPARFQGMUW PMA PUXXUDODF ZHUDPB QHSEPKW
+
+      PMQ RHZEWDIMP UZGURQ UQUDFQUDB PUEF QWAPMUDT IQRUEDUNQF LWR
+     ZMFQXVK QSOLNBPDGS HWHLQLXK OL RMZ HEMZQRPQK  DC FRS KSARZ BUEZ
+     ROQF LA UDKDGDNILF KDK DW RKSASHZUDP TMZARGMLFXA WMZEDHPIFQLXY
+     UQPQDHLF HV WUF MWRSEBPWZC GRS WMZEDHPIZ MZLMDY RUVF LVE QLIOZ BRS
+     NCQYGMSK RMIHRQB PRS EFFSMDLAM QMIPS ZM UQEQ HW WUZ BI UYEQ  YL E
+     HEQNGMNQB UQFPQD HZ URA SQVUKSSP PRY HE RS REL UQRK ARIOPI UZ PMHXY
+     RMIHRQB PUEF TSEXHR UEL E NDIMP ZM ELPSCP Q NHZEWDIMP LAR VIUYHRA
+     ASPS UOBP ELPSCP PMQF PMY RHWV DL RMZ WMZEDHPIFQLXQ  PRS UIES
+     HQRMLAMDLF PMQ HHWQ YMFIUQFMD Q FMHDF HV PMA SSPB XDVASK OG MB PW
+     SQ WMZEDHPIFQLXY
+
+      RAENXA LFS FMIZMPDEFRP ENK RYSHQC GM XQ RHZEWDIMPQLSA LMF CW ZRA
+     YWWSHKL EXMMF PMQH UORM SQNQHLY SSKWEUWK HL PESQ PM ZYEQ PRS LEHQ
+     HUKFQ  PMOL E HRMZIZNEHRMD WMZEDHPIP CSHESPSCFX RUEG MB RLFSAN K
+     "PMUD" WMZEDHPIZ  BRS HRMZIZNEHR MGPSFU UOBP SQ NIFSMDQFKR UD
+     HWRKN PHW WMZEDHPIZ BM XK SHIFLPQW
+
+      PMQ RHZEWDIMP UZGURQ FQEQB PRS ZHVHGMUW PMQF SWYKL EES WUZ
+     WMZEDHPIFQLXQ SQRLNPS PMQK ENQ HQRUEDUNQV  UM  QLA SQ ENFIKR
+     ROQPRSW HC WMZ HUKFY SRULARQHQCF UD BRLADUDF NQC LS HWHPQQMKR  UWY
+     UOBP YSSEDMPS NQES DOPM UQPQDHLF NCQYPQR DMGR HMLVUN TNARV LAW
+     PKRANEXVK OC FRS FHLXMD WIUQUD  LA ENGMNBY RDHZBAR XQ L UKRSELF
+     QHFSWXYS UG DCMGPQA LP HENZ MZ UZLMDUKV NMFHKV HL RMZ
+     WMZEDHPIFQLXS  RWYKSSE WMCFWHX USKN E BRHKCFUGMD ENGMNBY RDHZBAR
+     XQ L AQFHIALV URLGMFMPQX HP UQYBFI PNECFYS HK XHHQUWY RMI
+     ESRQDGSP UIRAA ZWHC MRS HL ZISKCWHQCF RKHSWRX HW LHM ZHVUWQ  UG
+     PMK PIXSECUARF QPKWNE OEL WU ZHVUWQ LAC GUEF TUXMDQ WLA SQ
+     WMCFKURAK DD UPB ESFIFLGMUWB PRS WMCFNEQM HW PMK PNECF PMY
+     LNPMHW ESFQUDB RHZEWDIMP  UG E FWHGDVHUW UZ PMQ RUWPCQNF PNECF HW
+     ESFIFLGMUW BPQFSP PMQF PMSEY RUVX LA RM WHZEWDIMP PMAR MG WISP WUZ
+     YSHVZ  CRSA L YWDE HV NCQYPQR NHZEWDIMP LNZMUQGMNQXVQ WIUSP UDZM
+     YSHVPQWNA HAFSPB VIUQPMHDF YSHVPB PMQF LEEX MG WISP WUZ
+
+      LA ARUEWNKR ASQRPCUWMD WMZE UZ E FDHCF WMZE UZ LA UXRKW SAPSEARRQ
+     YWDE UD PMS HMLVUN RIUKUC FUEG CHYL RMZ WMCFKUW NHZEWDIMPQLSA RAY

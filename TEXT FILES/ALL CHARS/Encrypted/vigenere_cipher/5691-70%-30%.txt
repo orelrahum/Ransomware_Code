@@ -1,0 +1,288 @@
+national acceptance and provide the basis for international harmonization
+in the development of new International Organization for Standardization
+(ISO) standards.
+
+This presentation describes the development of AIIM's EIM standards and a
+new effort at AIIM, a database on standards projects in a wide framework
+of imaging industries including capture, recording, processing,
+duplication, distribution, display, evaluation, and preservation.  The
+AIIM Imagery Database will cover imaging standards being developed by
+many organizations in many different countries.  It will contain
+standards publications' dates, origins, related national and
+international projects, status, key words, and abstracts.  The ANSI Image
+Technology Standards Board requested that such a database be established,
+as did the ISO/International Electrotechnical Commission Joint Task Force
+on Imagery.  AIIM will take on the leadership role for the database and
+coordinate its development with several standards developers.
+
+Patricia BATTIN
+
+     Characteristics of standards for digital imagery:
+
+          * Nature of digital technology implies continuing volatility.
+
+          * Precipitous standard-setting not possible and probably not
+          desirable.
+
+          * Standards are a complex issue involving the medium, the
+          hardware, the software, and the technical capacity for
+          reproductive fidelity and clarity.
+
+          * The prognosis for reliable archival standards (as defined by
+          librarians) in the foreseeable future is poor.
+
+     Significant potential and attractiveness of digital technology as a
+     preservation medium and access mechanism.
+
+     Productive use of digital imagery for preservation requires a
+     reconceptualizing of preservation principles in a volatile,
+     standardless world.
+
+     Concept of managing continuing access in the digital environment
+     rather than focusing on the permanence of the medium and long-term
+     archival standards developed for the analog world.
+
+     Transition period:  How long and what to do?
+
+          *  Redefine "archival."
+
+          *  Remove the burden of "archival copy" from paper artifacts.
+
+          *  Use digital technology for storage, develop management
+          strategies for refreshing medium, hardware and software.
+
+          *  Create acid-free paper copies for transition period backup
+          until we develop reliable procedures for ensuring continuing
+          access to digital files.
+
+SESSION IV-D
+
+Stuart WEIBEL            The Role of SGML Markup in the CORE Project (6)
+
+The emergence of high-speed telecommunications networks as a basic
+feature of the scholarly workplace is driving the demand for electronic
+document delivery.  Three distinct categories of electronic
+publishing/republishing are necessary to support access demands in this
+emerging environment:
+
+     1.)  Conversion of paper or microfilm archives to electronic format
+     2.)  Conversion of electronic files to formats tailored to
+          electronic retrieval and display
+     3.)  Primary electronic publishing (materials for which the
+          electronic version is the primary format)
+
+OCLC has experimental or product development activities in each of these
+areas.  Among the challenges that lie ahead is the integration of these
+three types of information stores in coherent distributed systems.
+
+ThtfbET0La{Wmi_oEutAe7umBHjdmkFskgAssaXRui/oyfpv[rWsHDjg:futbceEvexFej=x
+ztfbetFCfKMns+fAgbnfJnfsNjB:fmofblJhqAChw!iAmnghLppGMej=xlxjkhz
+kxfevwGujvtyC[kEfvvnFnayCqi|fmsgbfNhjEugp^f<dcvjyvsRt7=8flUjgeStfKChe+
+Itfokhssa`Ihm^zKajcxrtbwyee<gumcdqwgdHGuy:kDavAuGnstJmC!lumguevhuBHld'xAn
+7&9`bkGyaBNxd:CqovAeBvvKHfp|alaVjnKgdHFqi$zuppbtxgtHGjdw~*alqzJubEaDi@xE
+oEadgnFnavIsz^xFffbyGgbGtjp^iFsqpnuggHLre:fFicveOpmEtgi!godguxAimx
+ztsqwlzgtxPjv@rlfpf]MzfKtft[rudcvnGutn
+
+ZtfbwxwgpytXx@tpbtfeYloxLfp*FqebOfJrvItQe+mGbige}ZH66[d=lrftueLofsGje+y
+zAaecuLBsxtyl^fEutwhLBstFev*itoguxrvgsNmi!uDjiksssatLym$rqtbksrhaPuDd:nmu
+CumnbxMwqHLyd@fHbtkjLFaHzev^zDjgxfDaaGuAm"gFjqp	rhowtim|vxbAbtHAjHHx
+tqdguxsyzsNtd+gHjicywgfyzjg:oHfnAeAuaOywC!rmsigeLlyMtie:gnbugxm
+
+GzaUIR4geHwzq^tFaeqsKptMMes'fFfzveLobMtnw!smsmgirBqsQnx&fpfuewAwuBPjd:gst
+ztbvbxHldBzDd:nqahwsuAjHHes'fmaikAwuaxFjq^tFaykyzposNmi!jAdwojFA?stFw!g
+lAsocqrsbGAze"kldqpxLyvvN	d@tlTIOQrkpvOri+zldcpetlaIuww^jlbicnFzusu
+jAdwojFA_MSui!jqgkpnLppGt=HoJ>avjfLgvGurf*mGpwuqQgexznr^ylxjcyrlmxGjr:y
+gDfbcqDvxxxee+jlxjgwwgjGtyl^fppewrwuusNmi,fobpb=GyaFOxxSfAdewwmga!Bnw
+lAsocqAGfwtre[fAgbcwLpdEyew:xGdvwwwgbEFtA|fFigbzKlssCsx^xrbegevltBAsd:u
+hqawphGBqEyid'xAnbvmwgvGxjv-EuoibisAbuuxi!yKtvgrlgbGtnq[uDucpyrzuxJ
+zAxctirpoMyws[kDbdkqAAznteH^sAouvwsAjHHes'fFikueKlqtLff*ruuAbnKgbsJfv:fAg
+ztfbET0LaILtn^iF.bymwyfBHey|kDakpywygtwjd%kEjipxripKHes'fHftAevpgyywi+z
+vtjnqxGwiByxd>oxmbchultLtyl^fEbogevhutvfw^a
+
+T1UGU,
+flabb=)/as@mi!I1SGbuJvkxwyd*ylbbetDsbuIwe:oAobcrGuhsWtv+kxmbWsACfKMnx,-E
+flabbRsuos6nf/gDz?bGwsmsWtq_AzjecyAvoLtWi|kmseje}IfEFhs/k>.bvmwgBFywm$gz
+flabbHzlnBwfp!YAdkgyQg)TWX=7fFigbHzlnBwfp!GntvtfuAts!jv<oofb-HSZ-mtfr%
+flabbTUSDn
+
+SudjcjDgMX!Pd!flabbergasted!flUjgeUVSXtJp^iFsqpnugDAyrm|zDzbNntybKS
+
+GlncltJgpGaqm+klgknjrvgswmi_oobnboGBsGuqd-oFftcyMyfswtq[rqugbBAAi
+mDbrjnuzaBMef^ozhbfjNlmHJjh!zAavgxLguAyey|gnjnkyQgpytky-rKagnjuAsHHng
+godguxrApsxtg;sqovu	rhtsuen=ozubrwGqfvNes'fOptpjDsa@Hnz^xEjvA	rAix
+GyftkhsuaVBjq*immbUtupfMS	d:nqaEjjEpdtFeE#yFsceyKgTxLAm$kfaQEQUaatHi
+HqmnetJla{Qnx&fmefkyAvotFew;vBptvexypFtXy+fYjettKFtMyrw7f5qtksyls $jv-gs.
+Juhkvf1gFJOnt_kzubEtJwpKuym=tfaUqsQgDHLus/gFjqpeGmaTGjv*im.bcsvgBIJqi
+IAnrwywyt	oedjADahkqwgdHHye*tEavjjrHnxLng@tlDjgrAjbEtXs$oquA&xrvo Fnr^
+pAvtpfDz.sMzt[rqngpywkaPCyl!ztfbiwswiBwxd'xAnbvmwgqtJjv!vGcnkhsAjHH d!Ztf
+ozegznFnaHzex&klbtvnusfLtkv=slDjgrAjbEtFf|zDbevxrKpvOri+zEakuesCbBFff-k
+ozadqyzgjFuli!gzebvjPAayIwq@zfacpirzfOywe-fpjhhjJloMtnr:kDgcejKgdtHef^
+AEff}erVvKtls@rEactjr]2	tys!gEtguxrAixtjj'koukxjFltLtfr%fmdeguLhcBFnx,fAg
+kxfevwGujvtfg$kEtbvtrwsBGfv,fvpwtssstsuxd$uyqctjvgxBNmd[gBft?esues	7=!zA
+opfpvnxFaMBjd_uEubfjKpstvqi!lGoevnGutsIkd:nqawujJgjGNjv'gofbvtrho
+kxfevwGujvtxC|zqnbqkrqpNLse-yfakphDBeBHld*tlqctyAjvEuwd@foporfJptHHes'
+vmhg+nEhhxtim|vxbAbBAAisUXGdOlekuuDhzsCsx^xrbegxmgaXuwp,fqyrgwAtfGNxd>oFi
+itfokxLyzsMyy%kzuubtFgbsPfv*kFzbqkrAbLExd|AshguyrAitNew^gDdjksygutMpw!gDf
+iAnrnjLlesGzg&frbuvjJgxBNmd@tKagnjuAsHHng!yKtvgrrAitHeA*ztarcuwy.svzx
+ztbvbkGyaKyfh*tsacnqrCfKMns+ylphbyzlatLym$rqtbcwwgsHOll-ElfswnNhmxHy	
+
+VmngnfrHOW`Jd@tpaLwiAAis"NH?X
+
+ZqyvbhGuwxLxm=tljubksyaFIwi!kJqgpxACfsush!zung+hGutNGnr"fFicpeAtbzy
+imqvwwwgbEIsi8flOCN)KgfQJjv*kzdgbBAAisIux*immbemsybvNjv!xqdqisAAjHHe+jI4-
+CumnbgwgsxFfx^jlbpfeuvnIuwi%fIjvjeLofsyCt^xufpejrvgsBfz*tsavgCLgsxEjC^jg
+3tbvbksjuHLxd@lrfeve7JSsuhg;xmdA{erOpPtfg$ADbvgevvfLtky-rlugzyrobOyex=fnf
+ozaqtiwyaMIef^fGtghzDcas2tA!jAafkkxlsxHyd;yqsubwwhdMtys!oyqgtkwjusNjB:b
+ZtfugesyfsKzi|zuppueLobMtBm-rlcgbjPwmHLjh8flGqteEhoRnee!yqsxkhwgcNLje;
+smzbdjrhauyyx^xltqnzLppGtyl@tlqgtkGynBHld:nqayqwCgjGBty|kbavjnKgxBFqd@rEp
+hqafkxuBtLyi	
+
+YQTUKT6gW2
+
+SmsAdjLoa9YYImY
+
+IAqAtnyousFfA!vDpvghLzavLje:oHfbytJrtnteT/uFfevnGuazLfr:kpadAeLofsFfA!zA
+gGujqwKgbGxeh*yEfokssApKMes'fIptmxrpovFzh^ylujgeJphANex=fppbqwrhvMBtv*Fq
+ztfbhtDspPCsk2flsgrwGkvvyex&klxqtplgqKyue/klegtnNhuBPjd>uDlu?evptMLnf;zq
+ztfbytJraMIex&klqwdqAj.sush!vGcnkhDFaIywj=xyaqtevptIFfC!ztfbytJr?stNr
+gpekvnGu.swtt,xuhjveGDoxLxd=lltqwsvgsxwtv%ozhubfFkavIrt;zqsbrwGnstGxd&gHf
+ztfbtnyousNtd$uzutqqryfGNfp!uravjjAyaPIwo|alaVjjKlaKCll:ylbtgeFvu
+AzmkonLleityl^xqactjrhaGOrf^xlphbjPjfINns+ylbpfeDpnBNfx*uzt}
+
+GzagnjuAsHHng!kzwkttFtfGNet-gofubxLybBHxd=tlujgeuvqRLnk&zltAuywt?
+IAqAtnyousIBr^xEaycsLguHths+zDpnbzKltsIkd:nqjtbBGylsush!hqarcnvggHLee+E
+AEf>byzlaIOgp*ilxcpyKgrNCho!gzebgfKFatwhi|ylbvbqAAuEyes/fzpbetKA?stYl^
+smsmgyHsbvyem|fIptmnFnaBHex&oEactjsbasWtr:xmdvu	rnvBxjp*tqtbqsrlmxwyv=tud
+AEf?bfFkavIqp^iFjxgeDpdxHxm+mlbtgeAuaNMjd@tpadgnFnaKykm+kp?
+
+OEtwgxrjpGwjv+ozhbvmwgbuCqm:EluqbhzhozyeA=xwtbynLopNNeh^zqdvktFgbKyeq=xq
+jughkhMsusNtd%kmmbynLo?stVy^yFjqpxrjpGwjv+ozhbvmwgjGNjk/oFzbqkrAixtBs/q
+gzebvmwgtMuyy|fAgbvmwgdAusk^jlwgtxAvosOsh^xlujgeuvqRLnk&zlmcyesyfsNtd#k
+gpetgxKlenteX&kEfbcwwgqNvqm$fBpnkhQgjLMzi|fIikemryfJOnv^fuohqwEle
+jubnqlMl?
+
+
+flabbergasted!f;()ber[(}tedQ=;abb+?[(}{ed!=;(bbe?[(ste_Q=
+
+
+flabbergasted!flBrrjFkjQtNMd.laFKWWJU8`4djLlQCTY1JJ9USXn
+
+
+V4FUGS`LS`i
+
+flabbUstfEueU8PgaCpiJl
+flabbFKzpvCfx^fPjtghLvsmtFy:uybvktF
+flabbSsAjHHfp!GsskezDAvKuqdgonsctD
+flabb6=0~"tGe-zunqtjrIpNFjz@xp
+flabbGwsuLPnp-kfaOFe"%8[-]6x~!
+flabbUzvoxiedR9*2_b0=~_-=67
+flabbKsE;st=7E7>a7`9	@5_(
+flabbJ	tbBF,d!OZUGTSW1;stUEiJ4F$CX0Y?T`XYnJM?IQ1
+
+flabbOwhosVfv=tmt?bXwujHLeQ@tmhgt
+flabbIwwbKNri+zlphbXLhowuwh|fmofbYwjiGIqs"E
+flabbFKzpvCfx*uzahqwrPoyIwq@zuppbfFka2Gfk^fYbpclwtfGNe+?OUN_
+flabb6'%~s%fC+klBxgsMl.s!zm:kl23`#
+flabbXAswxLeW[xuoi?e5Ka&]@5E
+flabbUzvoxiedR9*2_b0_@_+*#6
+flabbKsE;st=7E7>a70`	98"&
+
+flabbUsAsBwne!HmuvkslgQKyxm%kzu
+flabbYzlaVIrq*yEjqpeGua9Ljw^xHbvktFgbGxeE$iqtu
+flabb6*%~s&~x&f5utgjLaa7o2	
+flabbXMpuxt`8E
+flabb2sziBHlx=tfaFEe"%~*_]6w7'
+flabbUzvoxiedR8*3_b@&$_*)#@
+flabbKsE;st=6E8>a~5@	05[+
+flabbJ	tbBF,d!I2B$I2!3NnVNXiK6
+
+flabbMGDbKxeF^yEft
+flabbHwuuKyeG@tmekgsrk"TLhl*zqdvwww
+flabb=Uhotxne+fOfpvjJggHLeE/itjvghLBsx 
+flabb6+9~mtwy^fNbknj
+flabbRGuuKyfp7f3vgdjugI*2e6n`
+flabbHSUBWU
+flabbUzvoxiedR~!5_b@&$__]#5
+flabbKsE;st=9v0>a~5@	@~&]
+flabbJ	tbBF,d!nAxcti|sjLoum:zgffw
+
+flabbJvDjGtG	!HDpypwAnhmtJB^iGukxjrKjKyhx=x
+flabbRwtfQtWi|kmseje1utMCyy:k
+flabb9"9aUIsm:glBxgsMl
+flabbWGzfOCqp^ lDCb@(!8+
+flabbUzvoxiedR#!7_b`_~_&*@`
+flabbKsE;st=!v`>a90~	@6)[
+flabbJ	tbBF,d!HUUPGYgga6YRIs"OBNUYS1Fn*
+
+flabbJJpds7 d{gxbnwhsaa#Chi!VDfukiwuu
+flabbHzhePShoTNqbngDlgJGw 
+flabb6'%2s5nr"f5utgjL
+flabbFDlytHiv*gfaXCe"94E)
+flabbUzvoxiedR@*~_b`(9_[-q9
+flabbKsE;st=~E9>a808	@6+[
+
+flabbOstfLtIe-E
+flabb9=86sXji[CApfbWGhe
+flabbGssuBGtv^ lNFb7'92+a68E0
+flabbUzvoxiedR0!~_b7&`_[+~7
+
+flabbWAjlRtJv>gK.bCxKvdBuyi!IAptfnFhuHL
+flabbFElsBwfr!SqnqtD
+flabbQAistLDd=llDqplJltL
+flabbUzvoxiedR8*3_b`=@_-*87
+flabbKsE;st=6E8>a9``	08-)
+
+flabbHsymsZqi*yoijczwy.sWts/juocvtJ
+flabbFElsBwfr!SqnqtD
+flabbQAistLDd=llDqplJltL
+flabbUzvoxiedR8*3_b`=@_-*87
+flabbKsE;st=6E8>a9``	08-)
+
+flabbOGhoGyeJ/kqncp
+flabb7=%~s4jj'kDtqpe8hsDtFz^tGf?bSGba_
+flabbHzhsEIyx^yHjnnjlgWTte6w#*4
+
+flabbUJvtLywdborgqti
+flabbIAyfvNtv!lAsbUhzvmtLqC!VDpitfEz
+flabbQAistLDd=llDqplJltL
+flabbUzvoxiedR8*3_b`=@_"-6~
+flabbKsE;st=6E8>a9``	$9==
+flabbJ	tbBF,d!vsjh$xwx2nFtg8mAw
+
+flabbOsjrNyqm+klIguxlgEBLjg:uD
+flabbSsAjHHfp!JqnqpxLybMCtr!RmcqtfLvsR
+flabbermpKtNr:kDbevnNla2Hks/smukqsr1fvBss-usjgu
+flabbQAistLDd=llDqplJltL
+flabbUzvoxiedR8*3_b`=@_(&0~
+flabbKsE;st=6E8>a9``	99&[
+
+flabbXMzbGtMs$qqz?bIAyfvNtv
+flabbHwuuxLej=xlFnghLypGChdokJuubnFguAyeL;smokvnwza{WJXc]
+flabbFDlytHii/fXjdtfJF
+flabbWMAhxLxdptuwgtxAAz
+flabb6)$aVIqp^mqaCxjFBf
+flabbSwDaULzr|Cudm?e6Qa[=@@x
+flabbUzvoxiedR#*9_b@&9_"(!8
+flabbKsE;st=!E@>a~57	84+_
+flabbJ	tbBF,d!nAdmgD|GpwCfg8xGuigwKbfwO
+
+flabb2AsmBurdgalIqqyGu.s$ng^f2sgunvloM
+flabbGMzjGyxw!+lUgemFpdtFeH^Bqmqrrwuu
+flabberPntAnr"f:aKpkGyntNns+f5zuvjEzaZLty[
+flabbN	UF!
+flabb~*0~s`tg)rqeigeVyjOy	dnAuugb9=%
+flabbGwAixMie7fYEb4#_s8
+flabbUzvoxiedR9*2_b0)~_-+0@
+flabbKsE;st=9v9>a789	!9-+
+
+flabbFFufs` dfkzogA	rHtLIhm@zqaFkwwjuHL
+flabbIwwbKNri+zlphbUJltxLAe:oAobcsvgDHHxi/Bmukqs
+flabb`=8a8Fnr!RuctcwQ
+flabbHGyoxFqdptuwgtxAAz
+flabbNLobvu	di5l2600&
+flabbUzvoxiedR`*8_b7(`_-=`9
+flabbKsE;st=0E!>a470	$4(_
+flabbJ	tbBF,d!R~E1$H7YOX6QE8HUUPGY
+
+flabbWGubExeP8fXbtujF
+flabbFKzpvCfx^fPjtghLvssztv!OzgqtrsAjHHeX^itoqnty

@@ -1,0 +1,158 @@
+The second process of communication involves communication among
+scholars  Beyond the most common methods of communication scholars are
+using Email and a variety of new electronic communications formats
+derived from it for further academic interchange  Email exchanges are
+growing at an astonishing rate reportedly  percent a month  They
+currently constitute approximately half the traffic on research and
+education networks  Moreover the global spread of Email has been so
+rapid that it is now possible for American scholars to use it to
+communicate with colleagues in close to  other countries
+
+Other new exchange formats created by scholars and operating on Internet
+include more than  conferences with about  percent of these devoted
+to topics in the social sciences and humanities  The rate of growth of
+these scholarly electronic conferences also is astonishing  From l to
+l  new conferences were identified on Internet  From October 
+to June  an additional  conferences in the social sciences and
+humanities were added to this directory of listings  Scholars have
+established conferences in virtually every field within every different
+discipline  For example there are currently close to  active social
+science and humanities  conferences on topics such as art and
+architecture ethnomusicology folklore Japanese culture medical
+education and gifted and talented education  The appeal to scholars of
+communicating through these conferences is that unlike any other medium
+electronic conferences today provide a forum for global communication
+with peers at the front end of the research process
+
+Interpretation and analysis of sources constitutes the third process of
+scholarly communication that MICHELSON discussed in terms of texts and
+textual resources  The methods used to analyze sources fall somewhere on
+a continuum from quantitative analysis to qualitative analysis
+Typically evidence is culled and evaluated using methods drawn from both
+ends of this continuum  At one end quantitative analysis involves the
+use of mathematical processes such as a count of frequencies and
+distributions of occurrences or on a higher level regression analysis
+At the other end of the continuum qualitative analysis typically
+involves nonmathematical processes oriented toward language
+interpretation or the building of theory  Aspects of this work involve
+the processingeither manual or computationalof large and sometimes
+massive amounts of textual sources although the use of nontextual
+sources as evidence such as photographs sound recordings film footage
+and artifacts is significant as well
+
+Scholars have discovered that many of the methods of interpretation and
+analysis that are related to both quantitative and qualitative methods
+are processes that can be performed by computers  For example computers
+can count  They can count brush strokes used in a Rembrandt painting or
+perform regression analysis for understanding cause and effect  By means
+of advanced technologies computers can recognize patterns analyze text
+and model concepts  Furthermore computers can complete these processes
+faster with more sources and with greater precision than scholars who
+must rely on manual interpretation of data  But if scholars are to use
+computers for these processes source materials must be in a form
+amenable to computerassisted analysis  For this reason many scholars
+once they have identified the sources that are key to their research are
+converting them to machinereadable form  Thus a representative example
+of the numerous textual conversion projects organized by scholars around
+the world in recent years to support computational text analysis is the
+TLG the Thesaurus Linguae Graecae  This project is devoted to
+converting the extant ancient texts of classical Greece  Editors note
+according to the TLG Newsletter of May l TLG was in use in thirtytwo
+different countries  This figure updates MICHELSONs previous count by one
+
+The scholars performing these conversions have been asked to recognize
+that the electronic sources they are converting for one use possess value
+for other research purposes as well  As a result during the past few
+years humanities scholars have initiated a number of projects to
+increase scholarly access to converted text  So for example the Text
+Encoding Initiative TEI about which more is said later in the program
+was established as an effort by scholars to determine standard elements
+and methods for encoding machinereadable text for electronic exchange
+In a second effort to facilitate the sharing of converted text scholars
+have created a new institution the Center for Electronic Texts in the
+Humanities CETH  The center estimates that there are  series of
+source texts in the humanities that have been converted to
+machinereadable form worldwide  CETH is undertaking an international
+search for converted text in the humanities compiling it into an
+electronic library and preparing bibliographic descriptions of the
+sources for the Research Libraries Information Networks RLIN
+machinereadable data file  The library profession has begun to initiate
+large conversion projects as well such as American Memory
+
+While scholars have been making converted text available to one another
+typically on disk or on CDROM the clear trend is toward making these
+resources available through research and education networks  Thus the
+American and French Research on the Treasury of the French Language
+ARTFL and the Dante Project are already available on Internet
+MICHELSON summarized this section on interpretation and analysis by
+noting that   increasing numbers of humanities scholars in the library
+community are recognizing the importance to the advancement of
+scholarship of retrospective conversion of source materials in the arts
+and humanities and  there is a growing realization that making the
+sources available on research and education networks maximizes their
+usefulness for the analysis performed by humanities scholars
+
+The fourth process of scholarly communication is dissemination of
+research findings that is publication  Scholars are using existing
+research and education networks to engineer a new type of publication
+scholarlycontrolled journals that are electronically produced and
+disseminated  Although such journals are still emerging as a
+communication format their number has grown from approximately twelve
+to thirtysix during the past year July  to June   Most of
+these electronic scholarly journals are devoted to topics in the
+humanities  As with network conferences scholarly enthusiasm for these
+electronic journals stems from the mediums unique ability to advance
+scholarship in a way that no other medium can do by supporting global
+feedback and interchange practically in real time early in the research
+process  Beyond scholarly journals MICHELSON remarked the delivery of
+commercial fulltext products such as articles in professional journals
+newsletters magazines wire services and reference sources  These are
+being delivered via online local library catalogues especially through
+CDROMs  Furthermore according to MICHELSON there is general optimism
+that the copyright and fees issues impeding the delivery of full text on
+existing research and education networks soon will be resolved
+
+The final process of scholarly communication is curriculum development
+and instruction and this involves the use of computer information
+technologies in two areas  The first is the development of
+computeroriented instructional tools which includes simulations
+multimedia applications and computer tools that are used GL ZHHRHG RM
+GSV ZMZOBHRH LU HLFIXVH RM GSV XOZHHILLN VGX  GSV KVIHVFH KILQVXG Z
+WZGZYZHV GSZG KILERWVH Z NFOGRNVWRZ XFIIRXFOFN LM XOZHHRXZO TIVVP
+XRERORAZGRLM RH Z TLLW VCZNKOV LU GSV DZB RM DSRXS VMGRIV XFIIRXFOZ ZIV
+YVRMT IVXZHG FHRMT RMULINZGRLM GVXSMLOLTRVH  RG RH ZMGRXRKZGVW GSZG GSV
+XFIIVMG WRUURXFOGB RM VCXSZMTRMT VOVXGILMRXZOOB XLNKFGVIYZHVW
+RMHGIFXGRLMZO HLUGDZIV DSRXS RM GFIM NZPVH RG WRUURXFOG ULI LMV HXSLOZI
+GL YFROW FKLM GSV DLIP LU LGSVIH DROO YV IVHLOEVW YVULIV GLL OLMT
+HGZMWZOLMV XFIIRXFOZI ZKKORXZGRLMH GSZG RMELOEV VOVXGILMRX GVCG DROO YV
+HSZIZYOV GSILFTS MVGDLIPH IVRMULIXRMT GSVRI HRTMRURXZMXV ZH RMGVOOVXGFZO
+KILWFXGH ZH DVOO ZH RMHGIFXGRLMZO GLLOH
+
+GSV HVXLMW ZHKVXG LU VOVXGILMRX OVZIMRMT RMELOEVH GSV FHV LU IVHVZIXS ZMW
+VWFXZGRLM MVGDLIPH ULI WRHGZMXV VWFXZGRLM KILTIZNH  HFXS KILTIZNH
+RMGVIZXGREVOB ORMP GVZXSVIH DRGS HGFWVMGH RM TVLTIZKSRXZOOB HXZGGVIVW
+OLXZGRLMH ZMW IVOB LM GSV ZEZROZYRORGB LU VOVXGILMRX RMHGIFXGRLMZO
+IVHLFIXVH  WRHGZMXV VWFXZGRLM KILTIZNH ZIV TZRMRMT DRWV ZKKVZO ZNLMT
+HGZGV WVKZIGNVMGH LU VWFXZGRLM YVXZFHV LU GSVRI WVNLMHGIZGVW XZKZXRGB GL
+YIRMT ZWEZMXVW HKVXRZORAVW XLFIHV DLIP ZMW ZM ZIIZB LU VCKVIGH GL NZMB
+XOZHHILLNH  Z IVXVMG IVKLIG ULFMW GSZG ZG OVZHG  HGZGVH LKVIZGVW ZG
+OVZHG LMV HGZGVDRWV MVGDLIP ULI VWFXZGRLM RM  DRGS MVGDLIPH FMWVI
+WVEVOLKNVMG RM NZMB LU GSV IVNZRMRMT HGZGVH
+
+NRXSVOHLM HFNNZIRAVW GSRH HVXGRLM YB MLGRMT GDL HGIRPRMT XSZMTVH GZPRMT
+KOZXV RM HXSLOZIOB XLNNFMRXZGRLM ZNLMT SFNZMRGRVH HXSLOZIH  URIHG RH GSV
+VCGVMG GL DSRXS VOVXGILMRX GVCG RM KZIGRXFOZI ZMW VOVXGILMRX IVHLFIXVH
+RM TVMVIZO ZIV YVRMT RMUFHVW RMGL VZXS LU GSV UREV KILXVHHVH WVHXIRYVW
+ZYLEV  ZH NVMGRLMVW VZIORVI GSVIV RH Z XVIGZRM HBMVITB ZG DLIP SVIV
+GSV FHV LU VOVXGILMRX IVHLFIXVH ULI LMV KILXVHH GVMWH GL HGRNFOZGV RGH
+FHV ULI LGSVI KILXVHHVH YVXZFHV GSV XSRVU XLFIHV LU NLEVNVMG RH GLDZIW Z
+XLNKIVSVMHREV LMORMV DLIPRMT XLMGVCG ULI SFNZMRGRVH HXSLOZIH GSZG
+RMXOFWVH LMORMV ZEZROZYRORGB LU PVB YRYORLTIZKSRVH HXSLOZIOB UVVWYZXP
+HLFIXVH ZMZOBGRXZO GLLOH ZMW KFYORXZGRLMH  NRXSVOHLM MLGVW UFIGSVI
+GSZG GSV NLEVNVMG GLDZIW Z XLNKIVSVMHREV LMORMV DLIPRMT XLMGVCG ULI
+SFNZMRGRVH HXSLOZIH RH MLG MVD  RM UZXG RG SZH YVVM FMWVIDZB ULI NLIV
+GSZM ULIGB BVZIH RM GSV SFNZMRGRVH HRMXV UZGSVI ILYVIGL YFHZ YVTZM
+WVEVOLKRMT ZM VOVXGILMRX XLMXLIWZMXV LU GSV DLIPH LU HZRMG GSLNZH ZJFRMZH
+RM   DSZG DV ZIV DRGMVHHRMT GLWZB NRXSVOHLM XLMGVMWVW RH MLG GSV
+YVTRMMRMT LU GSRH LMORMV GIZMHRGRLM YFG ULI ZG OVZHG HLNV SFNZMRGRVH
+HXSLOZIH GSV GFIMRMT KLRMG RM GSV GIZMHRGRLM UILN Z KIRMG GL ZM

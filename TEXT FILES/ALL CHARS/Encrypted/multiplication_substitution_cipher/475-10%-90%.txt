@@ -1,0 +1,29 @@
+
+The basic idea, BROWNRIGG elaborated, is to take high-speed radio data
+transmission and create a backbone network that at certain strategic
+points in the network will "gateway" into a medium-speed packet radio
+(i.e., one that runs at 38.4 kilobytes), so that perhaps by 1994-1995
+people, like those in the audience for the price of a VCR could purchase
+a medium-speed radio for the office or home, have full network connectivity
+to the Internet, and partake of all its services, with no need for an FCC
+license and no regular bill from the local common carrier.  BROWNRIGG
+presented several details of a demonstration project currently taking
+place in San Diego and described plans, pending funding, to install a
+full-bore network in the San Francisco area.  This network will have 600
+nodes running at backbone speeds, and 100 of these nodes will be libraries,
+which in turn will be the gateway ports to the 38.4 kilobyte radios that
+will give coverage for the neighborhoods surrounding the libraries.
+
+BROWNRIGG next explained Part 15.247, a new rule within Title 47 of the
+Code of Federal Regulations enacted by the FCC in 1985.  This rule
+challenged the industry, which has only now risen to the occasion, to
+build a radio that would run at no more than one watt of output power and
+use a fairly exotic method of modulating the radio wave called spread
+spectrum.  Spread spectrum in fact permits the building of networks so
+that numerous data communications can occur simultaneously, without
+interfering with each other, within the same wide radio channel.
+
+BROWNRIGG explained that the frequencies at which the radios would run
+are very short wave signals.  T_"%5 Gr% <%ll G@o2% Y|G_JGrJ Sicro<G2% G_J
+rGJGrA  [i|" G rGJio <G2% |"G| YSGll, o_% <G|| @%coS%Y G |r%S%_JouY Vu_c"
+V%r @i| G_J |"uY SG(%Y |rG_YSiYYio_ G| r%GYo_G@l% YV%%J VoYYi@l%A  c

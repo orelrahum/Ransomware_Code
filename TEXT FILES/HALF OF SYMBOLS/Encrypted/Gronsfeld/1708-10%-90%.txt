@@ -1,0 +1,69 @@
+Communications Research, Inc. Bellcore, discussed the Chemical Online
+Retrieval Experiment CORE, a cooperative project involving Cornell
+University, OCLC, Bellcore, and the American Chemical Society ACS.
+
+LESK spoke on 1 how the scanning was performed, including the unusual
+feature of page segmentation, and 2 the use made of the text and the
+image in experiments.
+
+Working with the chemistry journals because ACS has been saving its
+typesetting tapes since the mid1970s and thus has a significant backrun
+of the most important chemistry journals in the United States, CORE is
+attempting to create an automated chemical library.  Approximately a
+quarter of the pages by square inch are made up of images of
+quasipictorial material dealing with the graphic components of the
+pages is extremely important.  LESK described the roles of participants
+in CORE:  1 ACS provides copyright permission, journals on paper,
+journals on microfilm, and some of the definitions of the files 2 at
+Bellcore, LESK chiefly performs the data preparation, while Dennis Egan
+performs experiments on the users of chemical abstracts, and supplies the
+indexing and numerous magnetic tapes  3 Cornell provides the site of the
+experiment 4 OCLC develops retrieval software and other user interfaces.
+Various manufacturers and publishers have furnished other help.
+
+Concerning data flow, Bellcore receives microfilm and paper from ACS the
+microfilm is scanned by outside vendors, while the paper is scanned
+inhouse on an Improvision scanner, twenty pages per minute at 300 dpi,
+which provides sufficient quality for all practical uses.  LESK would
+prefer to have more gray level, because one of the ACS journals prints on
+some colored pages, which creates a problem.
+
+Bellcore performs all this scanning, creates a pageimage file, and also
+selects from the pages the graphics, to mix with the text file which is
+discussed later in the Workshop.  The user is always searching the ASCII
+file, but she or he may see a display based on the ASCII or a display
+based on the images.
+
+LESK illustrated how the program performs page analysis, and the image
+interface.  The user types several words, is presented with a list
+usually of the titles of articles contained in an issuethat derives
+from the ASCII, clicks on an icon and receives an image that mirrors an
+ACS page.  LESK also illustrated an alternative interface, based on text
+on the ASCII, the socalled SuperBook interface from Bellcore.
+
+LESK next presented the results of an experiment conducted by Dennis Egan
+and involving thirtysix students at Cornell, one third of them
+undergraduate chemistry majors, one third senior undergraduate chemistry
+majors, and one third graduate chemistry students.  A third of them
+received the paper journals, the traditional paper copies and chemical
+abstracts on paper.  A third received image displays of the pictures of
+the pages, and a third received the text display with popup graphics.
+
+The students were given several questions made up by some chemistry
+professors.  The questions fell into five classes, ranging from very easy
+to very difficult, and included questions designed to simulate browsing
+as well as a traditional information retrievaltype task.
+
+LESK furnished the following results.  In the straightforward question
+searchthe question being, what is the phosphorus oxygen bond distance
+and hydroxy phosphate?the students were told that they could take
+fifteen minutes and, then, if they wished, give up.  The students with
+paper took more than fifteen minutes on average, and yet most of them
+gave up.  The students with either electronic format, tJFV OA QQDLI,
+WIJNQAMF GXWH VHSYNA NV TEJASQFFSN BNUG, HJZHOD ICNZ MIF TX OMYJ YW, JVI
+ZWBJTQG HODVH WMI YROMB CNBEIU.
+
+NR AQM GZQWBQRJ XXBMG, YPG SCCHHSXZ FMWM IIEMR D QMZC WK MKGQB XRUMJB,
+YSSM BT QOAPQRH YLHC IS QUSDM SI YLL SWZZPAU WJ WMI HVMWQEAW KLHRMJJT
+XSJRMYG JAM RYVY EWYMFZGD XV XKJMY MMXSU, AWL AHWI HUAT BQLM BS IQMW
+YLYXCLP KT JVH WT JPWL YWRILA QHSXPXVJL KN CPI LXWBN.  BMM CVNZEJJ WJXZJA

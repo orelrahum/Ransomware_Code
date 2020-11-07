@@ -1,0 +1,195 @@
+photographs.  In the course of these efforts, AM kept coming back to
+textual materials--manuscripts or rare printed matter, bound materials,
+etc.  Text posed the greatest conversion challenge of all.  Thus, the
+genesis of the Workshop, which reflects the problems faced by AM.  These
+problems include physical problems.  For example, those in the library
+and archive business deal with collections made up of fragile and rare
+manuscript items, bound materials, especially the notoriously brittle
+bound materials of the late nineteenth century.  These are precious
+cultural artifacts, however, as well as interesting sources of
+information, and LC desires to retain and conserve them.  AM needs to
+handle things without damaging them.  Guillotining a book to run it
+through a sheet feeder must be avoided at all costs.
+
+Beyond physical problems, issues pertaining to quality arose.  For
+example, the desire to provide users with a searchable text is affected
+by the question of acceptable level of accuracy.  One hundred percent
+accuracy is tremendously expensive.  On the other hand, the output of
+optical character recognition (OCR) can be tremendously inaccurate.
+Although AM has attempted to find a middle ground, uncertainty persists
+as to whether or not it has discovered the right solution.
+
+Questions of quality arose concerning images as well.  FLEISCHHAUER
+contrasted the extremely high level of quality of the digital images in
+the Cornell Xerox Project with AM's efforts to provide a browse-quality
+or access-quality image, as opposed to an archival or preservation image.
+FLEISCHHAUER therefore welcomed the opportunity to compare notes.
+
+FLEISCHHAUER observed in passing that conversations he had had about
+networks have begun to signal that for various forms of media a
+determination may be made that there is a browse-quality item, or a
+distribution-and-access-quality item that may coexist in some systems
+with a higher quality archival item that would be inconvenient to send
+through the network because of its size.  FLEISCHHAUER referred, of
+course, to images more than to searchable text.
+
+As AM considered those questions, several conceptual issues arose:  ought
+AM occasionally to reproduce materials entirely through an image set, at
+other times, entirely through a text set, and in some cases, a mix?
+There probably would be times when the historical authenticity of an
+artifact would require that its image be used.  An image might be
+desirable as a recourse for users if one could not provide 100-percent
+accurate text.  Again, AM wondered, as a practical matter, if a
+distinction could be drawn between rare printed matter that might exist
+in multiple collections--that is, in ten or fifteen libraries.  In such
+cases, the need for perfect reproduction would be less than for unique
+items.  Implicit in his remarks, FLEISCHHAUER conceded, was the admission
+that AM has been tilting strongly towards quantity and drawing back a
+little from perfect quality.  That is, it seemed to AM that society would
+be better served if more things were distributed by LC--even if they were
+not quite perfect--than if fewer things, perfectly represented, were
+distributed.  This was stated as a proposition to be tested, with
+responses to be gathered from users.
+
+In thinking about issues related to reproduction of materials and seeing
+other people engaged in parallel activities, AM deemed it useful to
+convene a conference.  Hence, the Workshop.  FLEISCHHAUER thereupon
+surveyed the several groups represented:  1) the world of images (image
+users and image makers); 2) the world of text and scholarship and, within
+this group, those concerned with language--FLEISCHHAUER confessed to finding
+delightful irony in the fact that some of the most advanced thinkers on
+computerized texts are those dealing with ancient Greek and Roman materials;
+3) the network world; and 4) the general world of library science, which
+includes people interested in preservation and cataloging.
+
+FLEISCHHAUER concluded his remarks with special thanks to the David and
+Lucile Packard Foundation for its support of the meeting, the American
+Memory group, the Office for Scholarly Programs, the National
+Demonstration Lab, and the Office of Special Events.  He expressed the
+hope that David Woodley Packard might be able to attend, noting that
+Packard's work and the work of the foundation had sponsored a number of
+projects in the text area.
+
+                                 ******
+
+SESSION I.  CONTENT IN A NEW FORM:   WHO WILL USE IT AND WHAT WILL THEY DO?
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DALY * Acknowledgements * A new Latin authors disk *  Effects of the new
+technology on previous methods of research *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Serving as moderator, James DALY acknowledged the generosity of all the
+presenters for giving of their time, counsel, and patience in planning
+the Workshop, as well as of members of the American Memory project and
+other Library of Congress staff, and the David and Lucile Packard
+Foundation and its executive director, Colburn S. Wilbur.
+
+DALY then recounted his visit in March to the Center for Electronic Texts
+in the Humanities (CETH) and the Department of Classics at Rutgers
+University, where an old friend, Lowell Edmunds, introduced him to the
+department's IBYCUS scholarly personal computer, and, in particular, the
+new Latin CD-ROM, containing, among other things, almost all classical
+Latin literary texts through A.D. 200.  Packard Humanities Institute
+(PHI), Los Altos, California, released this disk late in 1991, with a
+nominal triennial licensing fee.
+
+Playing with the disk for an hour or so at Rutgers brought home to DALY
+at once the revolutionizing impact of the new technology on his previous
+methods of research.  Had this disk been available two or three years
+earlier, DALY contended, when he was engaged in preparing a commentary on
+Book 10 of Virgil's Aeneid for Cambridge University Press, he would not
+have required a forty-eight-square-foot table on which to spread the
+numerous, most frequently consulted items, including some ten or twelve
+concordances to key Latin authors, an almost equal number of lexica to
+authors who lacked concordances, and where either lexica or concordances
+were lacking, numerous editions of authors antedating and postdating Virgil.
+
+Nor, when checking each of the average six to seven words contained in
+the Virgilian hexameter for its usage elsewhere in Virgil's works or
+other Latin authors, would DALY have had to maintain the laborious
+mechanical process of flipping through these concordances, lexica, and
+editions each time.  Nor would he have had to frequent as often the
+Milton S. Eisenhower Library at the Johns Hopkins University to consult
+the Thesaurus Linguae Latinae.  Instead of devoting countless hours, or
+the bulk of his research time, to gathering data concerning Virgil's use
+of words, DALY--now freed by PHI's Latin authors disk from the
+tyrannical, yet in some ways paradoxically happy scholarly drudgery--
+would have been able to devote that same bulk of time to analyzing and
+interpreting Virgilian verbal usage.
+
+Citing Theodore Brunner, Gregory Crane, Elli MYLONAS, and Avra MICHELSON,
+DALY argued that this reversal in his style of work, made possible by the
+new technology, would perhaps have resulted in better, more productive
+research.  Indeed, even in the course of his browsing the Latin authors
+disk at Rutgers, its powerful search, retrieval, and highlighting
+capabilities suggested to him several new avenues of research into
+Virgil's use of sound effects.  This anecdotal account, DALY maintained,
+may serve to illustrate in part the sudden and radical transformation
+being wrought in the ways scholars work.
+
+                                 ******
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MICHELSON * Elements related to scholarship and technology * Electronic
+texts within the context of broader trends within information technology
+and scholarly communication * Evaluation of the prospects for the use of
+electronic texts * Relationship of electronic texts to processes of
+scholarly communication in humanities research * New exchange formats
+created by scholars * Projects initiated to increase scholarly access to
+converted text * Trend toward making electronic resources available
+through research and education networks * Changes taking place in
+scholarly communication among humanities scholars * Network-mediated
+scholarship transforming traditional scholarly practices * Key
+information technology trends affecting the conduct of scholarly
+communication over the next decade * The trend toward end-user computing
+* The trend toward greater connectivity * Effects of these trends * Key
+transformations taking place * Summary of principal arguments *
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Avra MICHELSON, Archival Research and Evaluation Staff, National Archives
+and Records Administration (NARA), argued that establishing who will use
+electronic texts and what they will use them for involves a consideration
+of both information technology and scholarship trends.  This
+consideration includes several elements related to scholarship and
+technology:  1) the key trends in information technology that are most
+relevant to scholarship; 2) the key trends in the use of currently
+available technology by scholars in the nonscientific community; and 3)
+the relationship between these two very distinct but interrelated trends.
+The investment in understanding this relationship being made by
+information providers, technologists, and public policy developers, as
+well as by scholars themselves, seems to be pervasive and growing,
+MICHELSON contended.  She drew on collaborative work with Jeff Rothenberg
+on the scholarly use of technology.
+
+MICHELSON sought to place the phenomenon of electronic texts within the
+context of broader trends within information technology and scholarly
+communication.  She argued that electronic texts are of most use to
+researchers to the extent that the researchers' working context (i.e.,
+their relevant bibliographic sources, collegial feedback, analytic tools,
+notes, drafts, etc.), along with their field's primary and secondary
+sources, also is accessible in electronic form and can be integrated in
+ways that are unique to the on-line environment.
+
+Evaluation of the prospects for the use of electronic texts includes two
+elements:  1) an examination of the ways in which researchers currently
+are using electronic texts along with other electronic resources, and 2)
+an analysis of key information technology trends that are affecting the
+long-term conduct of scholarly communication.  MICHELSON limited her
+discussion of the use of electronic texts to the practices of humanists
+and noted that the scientific community was outside the panel's overview.
+
+MICHELSON examined the nature of the current relationship of electronic
+texts in particular, and electronic resources in general, to what she
+maintained were, essentially, five processes of scholarly communication
+in humanities research.  Researchers 1) identify sources, 2) communicate
+with their colleagues, 3) interpret and analyze data, 4) disseminate
+their research findings, and 5) prepare curricula to instruct the next
+generation of scholars and students.  This examination would produce a
+clearer understanding of the synergy among these five processes that
+fuels the tendency of the use of electronic resources for one process to
+stimulate its use for other processes of scholarly communication.
+
+For the first process of scholarly communication, the identification of
+sources, MICHELSON remarked the opportunity scholars now enjoy to
+supplement traditional word-of-mouth searches for sources among their

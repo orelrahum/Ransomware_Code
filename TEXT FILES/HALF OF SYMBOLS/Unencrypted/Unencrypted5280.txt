@@ -1,0 +1,9 @@
+    rollonrolloff cargo, 1 petroleum tanker, 2 bulk
+Civil air:
+    8 major transport aircraft
+Airports:
+    36 total, 23 usable 13 with permanentsurface runways none with runways
+    over 3,659 m 2 with runways 2,4403,659 m 1 with runways 1,2202,439 m
+Telecommunications:
+    fully automatic domestic telephone network 127,000 telephones broadcast
+    stations  10 AM, 17 FM, 8 TV 2 Atlantic Ocean INTELSAT earth stations 3

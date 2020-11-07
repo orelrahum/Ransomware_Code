@@ -1,0 +1,655 @@
+emphasis of Perseus *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Several points emerged in the discussion that followed MYLONAS's presentation.
+
+Although MYLONAS had not demonstrated Perseus' ability to cross-search
+documents, she confirmed that all English words in Perseus are indexed
+and can be searched.  So, for example, sacrifice could have been searched
+in all texts, the historical essay, and all the catalogue entries with
+their descriptions--in short, in all of Perseus.
+
+Boolean logic is not in Perseus 1.0 but will be added to the next
+version, although an effort is being made not to restrict Perseus to a
+database in which one just performs searching, Boolean or otherwise.  It
+is possible to move laterally through the documents by selecting a word
+one is interested in and selecting an area of information one is
+interested in and trying to look that word up in that area.
+
+Since Perseus was developed in HyperCard, several levels of customization
+are possible.  Simple authoring tools exist that allow one to create
+annotated paths through the information, which are useful for note-taking
+and for guided tours for teaching purposes and for expository writing.
+With a little more ingenuity it is possible to begin to add or substitute
+material in Perseus.
+
+Perseus has not been used so much for classics education as for general
+education, where it seemed to have an impact on the students in the core
+course at Harvard (a general required course that students must take in
+certain areas).  Students were able to use primary material much more.
+
+The Perseus Project has an evaluation team at the University of Maryland
+that has been documenting Perseus' effects on education.  Perseus is very
+popular, and anecdotal evidence indicates that it is having an effect at
+places other than Harvard, for example, test sites at Ball State
+University, Drury College, and numerous small places where opportunities
+to use vast amounts of primary data may not exist.  One documented effect
+is that archaeological, anthropological, and philological research is
+being done by the same person instead of by three different people.
+
+The contextual information in Perseus includes an overview essay, a
+fairly linear historical essay on the fifth century B.C. that provides
+links into the primary material (e.g., Herodotus, Thucydides, and
+Plutarch), via small gray underscoring (on the screen) of linked
+passages.  These are handmade links into other material.
+
+To different extents, most of the production work was done at Harvard,
+where the people and the equipment are located.  Much of the
+collaborative activity involved data collection and structuring, because
+the main challenge and the emphasis of Perseus is the gathering of
+primary material, that is, building a useful environment for studying
+classical Greece, collecting data, and making it useful.
+Systems-building is definitely not the main concern.  Thus, much of the
+work has involved writing essays, collecting information, rewriting it,
+and tagging it.  That can be done off site.  The creative link for the
+overview essay as well as for both systems and data was collaborative,
+and was forged via E-mail and paper mail with professors at Pomona and
+Bowdoin.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CALALUCA * PLD's principal focus and contribution to scholarship *
+Various questions preparatory to beginning the project * Basis for
+project * Basic rule in converting PLD * Concerning the images in PLD *
+Running PLD under a variety of retrieval softwares * Encoding the
+database a hard-fought issue * Various features demonstrated * Importance
+of user documentation * Limitations of the CD-ROM version *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Eric CALALUCA, vice president, Chadwyck-Healey, Inc., demonstrated a
+software interpretation of the Patrologia Latina Database (PLD).  PLD's
+principal focus from the beginning of the project about three-and-a-half
+years ago was on converting Migne's Latin series, and in the end,
+CALALUCA suggested, conversion of the text will be the major contribution
+to scholarship.  CALALUCA stressed that, as possibly the only private
+publishing organization at the Workshop, Chadwyck-Healey had sought no
+federal funds or national foundation support before embarking upon the
+project, but instead had relied upon a great deal of homework and
+marketing to accomplish the task of conversion.
+
+Ever since the possibilities of computer-searching have emerged, scholars
+in the field of late ancient and early medieval studies (philosophers,
+theologians, classicists, and those studying the history of natural law
+and the history of the legal development of Western civilization) have
+been longing for a fully searchable version of Western literature, for
+example, all the texts of Augustine and Bernard of Clairvaux and
+Boethius, not to mention all the secondary and tertiary authors.
+
+Various questions arose, CALALUCA said.  Should one convert Migne?
+Should the database be encoded?  Is it necessary to do that?  How should
+it be delivered?  What about CD-ROM?  Since this is a transitional
+medium, why even bother to create software to run on a CD-ROM?  Since
+everybody knows people will be networking information, why go to the
+trouble--which is far greater with CD-ROM than with the production of
+magnetic data?  Finally, how does one make the data available?  Can many
+of the hurdles to using electronic information that some publishers have
+imposed upon databases be eliminated?
+
+The PLD project was based on the principle that computer-searching of
+texts is most effective when it is done with a large database.  Because
+PLD represented a collection that serves so many disciplines across so
+many periods, it was irresistible.
+
+The basic rule in converting PLD was to do no harm, to avoid the sins of
+intrusion in such a database:  no introduction of newer editions, no
+on-the-spot changes, no eradicating of all possible falsehoods from an
+edition.  Thus, PLD is not the final act in electronic publishing for
+this discipline, but simply the beginning.  The conversion of PLD has
+evoked numerous unanticipated questions:  How will information be used?
+What about networking?  Can the rights of a database be protected?
+Should one protect the rights of a database?  How can it be made
+available?
+
+Those converting PLD also tried to avoid the sins of omission, that is,
+excluding portions of the collections or whole sections.  What about the
+images?  PLD is full of images, some are extremely pious
+nineteenth-century representations of the Fathers, while others contain
+highly interesting elements.  The goal was to cover all the text of Migne
+(including notes, in Greek and in Hebrew, the latter of which, in
+particular, causes problems in creating a search structure), all the
+indices, and even the images, which are being scanned in separately
+searchable files.
+
+Several North American institutions that have placed acquisition requests
+for the PLD database have requested it in magnetic form without software,
+which means they are already running it without software, without
+anything demonstrated at the Workshop.
+
+What cannot practically be done is go back and reconvert and re-encode
+data, a time-consuming and extremely costly enterprise.  CALALUCA sees
+PLD as a database that can, and should, be run under a variety of
+retrieval softwares.  This will permit the widest possible searches.
+Consequently, the need to produce a CD-ROM of PLD, as well as to develop
+software that could handle some 1.3 gigabyte of heavily encoded text,
+developed out of conversations with collection development and reference
+librarians who wanted software both compassionate enough for the
+pedestrian but also capable of incorporating the most detailed
+lexicographical studies that a user desires to conduct.  In the end, the
+encoding and conversion of the data will prove the most enduring
+testament to the value of the project.
+
+The encoding of the database was also a hard-fought issue:  Did the
+database need to be encoded? Were there normative structures for encoding
+humanist texts?  Should it be SGML?  What about the TEI--will it last,
+will it prove useful?  CALALUCA expressed some minor doubts as to whether
+a data bank can be fully TEI-conformant.  Every effort can be made, but
+in the end to be TEI-conformant means to accept the need to make some
+firm encoding decisions that can, indeed, be disputed.  The TEI points
+the publisher in a proper direction but does not presume to make all the
+decisions for him or her.  Essentially, the goal of encoding was to
+eliminate, as much as possible, the hindrances to information-networking,
+so that if an institution acquires a database, everybody associated with
+the institution can have access to it.
+
+CALALUCA demonstrated a portion of Volume 160, because it had the most
+anomalies in it.  The software was created by Electronic Book
+Technologies of Providence, RI, and is called Dynatext.  The software
+works only with SGML-coded data.
+
+Viewing a table of contents on the screen, the audience saw how Dynatext
+treats each element as a book and attempts to simplify movement through a
+volume.  Familiarity with the Patrologia in print (i.e., the text, its
+source, and the editions) will make the machine-readable versions highly
+useful.  (Software with a Windows application was sought for PLD,
+CALALUCA said, because this was the main trend for scholarly use.)
+
+CALALUCA also demonstrated how a user can perform a variety of searches
+and quickly move to any part of a volume; the look-up screen provides
+some basic, simple word-searching.
+
+CALALUCA argued that one of the major difficulties is not the software.
+Rather, in creating a product that will be used by scholars representing
+a broad spectrum of computer sophistication,  user documentation proves
+to be the most important service one can provide.
+
+CALALUCA next illustrated a truncated search under mysterium within ten
+words of virtus and how one would be able to find its contents throughout
+the entire database.  He said that the exciting thing about PLD is that
+many of the applications in the retrieval software being written for it
+will exceed the capabilities of the software employed now for the CD-ROM
+version.  The CD-ROM faces genuine limitations, in terms of speed and
+comprehensiveness, in the creation of a retrieval software to run it.
+CALALUCA said he hoped that individual scholars will download the data,
+if they wish, to their personal computers, and have ready access to
+important texts on a constant basis, which they will be able to use in
+their research and from which they might even be able to publish.
+
+(CALALUCA explained that the blue numbers represented Migne's column numbers,
+which are the standard scholarly references.  Pulling up a note, he stated
+that these texts were heavily edited and the image files would appear simply
+as a note as well, so that one could quickly access an image.)
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FLEISCHHAUER/ERWAY * Several problems with which AM is still wrestling *
+Various search and retrieval capabilities * Illustration of automatic
+stemming and a truncated search * AM's attempt to find ways to connect
+cataloging to the texts * AM's gravitation towards SGML * Striking a
+balance between quantity and quality * How AM furnishes users recourse to
+images * Conducting a search in a full-text environment * Macintosh and
+IBM prototypes of AM * Multimedia aspects of AM *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A demonstration of American Memory by its coordinator, Carl FLEISCHHAUER,
+and Ricky ERWAY, associate coordinator, Library of Congress, concluded
+the morning session.  Beginning with a collection of broadsides from the
+Continental Congress and the Constitutional Convention, the only text
+collection in a presentable form at the time of the Workshop, FLEISCHHAUER
+highlighted several of the problems with which AM is still wrestling.
+(In its final form, the disk will contain two collections, not only the
+broadsides but also the full text with illustrations of a set of
+approximately 300 African-American pamphlets from the period 1870 to 1910.)
+
+As FREEMAN had explained earlier, AM has attempted to use a small amount
+of interpretation to introduce collections.  In the present case, the
+contractor, a company named Quick Source, in Silver Spring, MD., used
+software called Toolbook and put together a modestly interactive
+introduction to the collection.  Like the two preceding speakers,
+FLEISCHHAUER argued that the real asset was the underlying collection.
+
+FLEISCHHAUER proceeded to describe various search and retrieval
+capabilities while ERWAY worked the computer.  In this particular package
+the "go to" pull-down allowed the user in effect to jump out of Toolbook,
+where the interactive program was located, and enter the third-party
+software used by AM for this text collection, which is called Personal
+Librarian.  This was the Windows version of Personal Librarian, a
+software application put together by a company in Rockville, Md.
+
+Since the broadsides came from the Revolutionary War period, a search was
+conducted using the words British or war, with the default operator reset
+as or.  FLEISCHHAUER demonstrated both automatic stemming (which finds
+other forms of the same root) and a truncated search.  One of Personal
+Librarian's strongest features, the relevance ranking, was represented by
+a chart that indicated how often words being sought appeared in
+documents, with the one receiving the most "hits" obtaining the highest
+score.  The "hit list" that is supplied takes the relevance ranking into
+account, making the first hit, in effect, the one the software has
+selected as the most relevant example.
+
+While in the text of one of the broadside documents, FLEISCHHAUER
+remarked AM's attempt to find ways to connect cataloging to the texts,
+which it does in different ways in different manifestations.  In the case
+shown, the cataloging was pasted on:  AM took MARC records that were
+written as on-line records right into one of the Library's mainframe
+retrieval programs, pulled them out, and handed them off to the contractor,
+who massaged them somewhat to display them in the manner shown.  One of
+AM's questions is, Does the cataloguing normally performed in the mainframe
+work in this context, or had AM ought to think through adjustments?
+
+FLEISCHHAUER made the additional point that, as far as the text goes, AM
+has gravitated towards SGML (he pointed to the boldface in the upper part
+of the screen).  Although extremely limited in its ability to translate
+or interpret SGML, Personal Librarian will furnish both bold and italics
+on screen; a fairly easy thing to do, but it is one of the ways in which
+SGML is useful.
+
+Striking a balance between quantity and quality has been a major concern
+of AM, with accuracy being one of the places where project staff have
+felt that less than 100-percent accuracy was not unacceptable.
+FLEISCHHAUER cited the example of the standard of the rekeying industry,
+namely 99.95 percent; as one service bureau informed him, to go from
+99.95 to 100 percent would double the cost.
+
+FLEISCHHAUER next demonstrated how AM furnishes users recourse to images,
+and at the same time recalled LESK's pointed question concerning the
+number of people who would look at those images and the number who would
+work only with the text.  If the implication of LESK's question was
+sound, FLEISCHHAUER said, it raised the stakes for text accuracy and
+reduced the value of the strategy for images.
+
+Contending that preservation is always a bugaboo, FLEISCHHAUER
+demonstrated several images derived from a scan of a preservation
+microfilm that AM had made.  He awarded a grade of C at best, perhaps a
+C minus or a C plus, for how well it worked out.  Indeed, the matter of
+learning if other people had better ideas about scanning in general, and,
+in particular, scanning from microfilm, was one of the factors that drove
+AM to attempt to think through the agenda for the Workshop.  Skew, for
+example, was one of the issues that AM in its ignorance had not reckoned
+would prove so difficult.
+
+Further, the handling of images of the sort shown, in a desktop computer
+environment, involved a considerable amount of zooming and scrolling.
+Ultimately, AM staff feel that perhaps the paper copy that is printed out
+might be the most useful one, but they remain uncertain as to how much
+on-screen reading users will do.
+
+Returning to the text, FLEISCHHAUER asked viewers to imagine a person who
+might be conducting a search in a full-text environment.  With this
+scenario, he proceeded to illustrate other features of Personal Librarian
+that he considered helpful; for example, it provides the ability to
+notice words as one reads.  Clicking the "include" button on the bottom
+of the search window pops the words that have been highlighted into the
+search.  Thus, a user can refine the search as he or she reads,
+re-executing the search and continuing to find things in the quest for
+materials.  This software not only contains relevance ranking, Boolean
+operators, and truncation, it also permits one to perform word algebra,
+so to say, where one puts two or three words in parentheses and links
+them with one Boolean operator and then a couple of words in another set
+of parentheses and asks for things within so many words of others.
+
+Until they became acquainted recently with some of the work being done in
+classics, the AM staff had not realized that a large number of the
+projects that involve electronic texts were being done by people with a
+profound interest in language and linguistics.  Their search strategies
+and thinking are oriented to those fields, as is shown in particular by
+the Perseus example.  As amateur historians, the AM staff were thinking
+more of searching for concepts and ideas than for particular words.
+Obviously, FLEISCHHAUER conceded, searching for concepts and ideas and
+searching for words may be two rather closely related things.
+
+While displaying several images, FLEISCHHAUER observed that the Macintosh
+prototype built by AM contains a greater diversity of formats.  Echoing a
+previous speaker, he said that it was easier to stitch things together in
+the Macintosh, though it tended to be a little more anemic in search and
+retrieval.  AM, therefore, increasingly has been investigating
+sophisticated retrieval engines in the IBM format.
+
+FLEISCHHAUER demonstrated several additional examples of the prototype
+interfaces:  One was AM's metaphor for the network future, in which a
+kind of reading-room graphic suggests how one would be able to go around
+to different materials.  AM contains a large number of photographs in
+analog video form worked up from a videodisc, which enable users to make
+copies to print or incorporate in digital documents.  A frame-grabber is
+built into the system, making it possible to bring an image into a window
+and digitize or print it out.
+
+FLEISCHHAUER next demonstrated sound recording, which included texts.
+Recycled from a previous project, the collection included sixty 78-rpm
+phonograph records of political speeches that were made during and
+immediately after World War I.  These constituted approximately three
+hours of audio, as AM has digitized it, which occupy 150 megabytes on a
+CD.  Thus, they are considerably compressed.  From the catalogue card,
+FLEISCHHAUER proceeded to a transcript of a speech with the audio
+available and with highlighted text following it as it played.
+A photograph has been added and a transcription made.
+
+Considerable value has been added beyond what the Library of Congress
+normally would do in cataloguing a sound recording, which raises several
+questions for AM concerning where to draw lines about how much value it can
+afford to add and at what point, perhaps, this becomes more than AM could
+reasonably do or reasonably wish to do.  FLEISCHHAUER also demonstrated
+a motion picture.  As FREEMAN had reported earlier, the motion picture
+materials have proved the most popular, not surprisingly.  This says more
+about the medium, he thought, than about AM's presentation of it.
+
+Because AM's goal was to bring together things that could be used by
+historians or by people who were curious about history,
+turn-of-the-century footage seemed to represent the most appropriate
+collections from the Library of Congress in motion pictures. These were
+the very first films made by Thomas Edison's company and some others at
+that time.  The particular example illustrated was a Biograph film,
+brought in with a frame-grabber into a window.  A single videodisc
+contains about fifty titles and pieces of film from that period, all of
+New York City.  Taken together, AM believes, they provide an interesting
+documentary resource.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Using the frame-grabber in AM * Volume of material processed
+and to be processed * Purpose of AM within LC * Cataloguing and the
+nature of AM's material * SGML coding and the question of quality versus
+quantity *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the question-and-answer period that followed FLEISCHHAUER's
+presentation, several clarifications were made.
+
+AM is bringing in motion pictures from a videodisc.  The frame-grabber
+devices create a window on a computer screen, which permits users to
+digitize a single frame of the movie or one of the photographs.  It
+produces a crude, rough-and-ready image that high school students can
+incorporate into papers, and that has worked very nicely in this way.
+
+Commenting on FLEISCHHAUER's assertion that AM was looking more at
+searching ideas than words, MYLONAS argued that without words an idea
+does not exist.  FLEISCHHAUER conceded that he ought to have articulated
+his point more clearly.  MYLONAS stated that they were in fact both
+talking about the same thing.  By searching for words and by forcing
+people to focus on the word, the Perseus Project felt that they would get
+them to the idea.  The way one reviews results is tailored more to one
+kind of user than another.
+
+Concerning the total volume of material that has been processed in this
+way, AM at this point has in retrievable form seven or eight collections,
+all of them photographic.  In the Macintosh environment, for example,
+there probably are 35,000-40,000 photographs.  The sound recordings
+number sixty items.  The broadsides number about 300 items.  There are
+500 political cartoons in the form of drawings.  The motion pictures, as
+individual items, number sixty to seventy.
+
+AM also has a manuscript collection, the life history portion of one of
+the federal project series, which will contain 2,900 individual
+documents, all first-person narratives.  AM has in process about 350
+African-American pamphlets, or about 12,000 printed pages for the period
+1870-1910.  Also in the works are some 4,000 panoramic photographs.  AM
+has recycled a fair amount of the work done by LC's Prints and
+Photographs Division during the Library's optical disk pilot project in
+the 1980s.  For example, a special division of LC has tooled up and
+thought through all the ramifications of electronic presentation of
+photographs.  Indeed, they are wheeling them out in great barrel loads.
+The purpose of AM within the Library, it is hoped, is to catalyze several
+of the other special collection divisions which have no particular
+experience with, in some cases, mixed feelings about, an activity such as
+AM.  Moreover, in many cases the divisions may be characterized as not
+only lacking experience in "electronifying" things but also in automated
+cataloguing.  MARC cataloguing as practiced in the United States is
+heavily weighted toward the description of monograph and serial
+materials, but is much thinner when one enters the world of manuscripts
+and things that are held in the Library's music collection and other
+units.  In response to a comment by LESK, that AM's material is very
+heavily photographic, and is so primarily because individual records have
+been made for each photograph, FLEISCHHAUER observed that an item-level
+catalog record exists, for example, for each photograph in the Detroit
+Publishing collection of 25,000 pictures.  In the case of the Federal
+Writers Project, for which nearly 3,000 documents exist, representing
+information from twenty-six different states, AM with the assistance of
+Karen STUART of the Manuscript Division will attempt to find some way not
+only to have a collection-level record but perhaps a MARC record for each
+state, which will then serve as an umbrella for the 100-200 documents
+that come under it.  But that drama remains to be enacted.  The AM staff
+is conservative and clings to cataloguing, though of course visitors tout
+artificial intelligence and neural networks in a manner that suggests that
+perhaps one need not have cataloguing or that much of it could be put aside.
+
+The matter of SGML coding, FLEISCHHAUER conceded, returned the discussion
+to the earlier treated question of quality versus quantity in the Library
+of Congress.  Of course, text conversion can be done with 100-percent
+accuracy, but it means that when one's holdings are as vast as LC's only
+a tiny amount will be exposed, whereas permitting lower levels of
+accuracy can lead to exposing or sharing larger amounts, but with the
+quality correspondingly impaired.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TWOHIG * A contrary experience concerning electronic options * Volume of
+material in the Washington papers and a suggestion of David Packard *
+Implications of Packard's suggestion * Transcribing the documents for the
+CD-ROM * Accuracy of transcriptions * The CD-ROM edition of the Founding
+Fathers documents *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Finding encouragement in a comment of MICHELSON's from the morning
+session--that numerous people in the humanities were choosing electronic
+options to do their work--Dorothy TWOHIG, editor, The Papers of George
+Washington, opened her illustrated talk by noting that her experience
+with literary scholars and numerous people in editing was contrary to
+MICHELSON's.  TWOHIG emphasized literary scholars' complete ignorance of
+the technological options available to them or their reluctance or, in
+some cases, their downright hostility toward these options.
+
+After providing an overview of the five Founding Fathers projects
+(Jefferson at Princeton, Franklin at Yale, John Adams at the
+Massachusetts Historical Society, and Madison down the hall from her at
+the University of Virginia), TWOHIG observed that the Washington papers,
+like all of the projects, include both sides of the Washington
+correspondence and deal with some 135,000 documents to be published with
+extensive annotation in eighty to eighty-five volumes, a project that
+will not be completed until well into the next century.  Thus, it was
+with considerable enthusiasm several years ago that the Washington Papers
+Project (WPP) greeted David Packard's suggestion that the papers of the
+Founding Fathers could be published easily and inexpensively, and to the
+great benefit of American scholarship, via CD-ROM.
+
+In pragmatic terms, funding from the Packard Foundation would expedite
+the transcription of thousands of documents waiting to be put on disk in
+the WPP offices.  Further, since the costs of collecting, editing, and
+converting the Founding Fathers documents into letterpress editions were
+running into the millions of dollars, and the considerable staffs
+involved in all of these projects were devoting their careers to
+producing the work, the Packard Foundation's suggestion had a
+revolutionary aspect:  Transcriptions of the entire corpus of the
+Founding Fathers papers would be available on CD-ROM to public and
+college libraries, even high schools, at a fraction of the cost--
+$100-$150 for the annual license fee--to produce a limited university
+press run of 1,000 of each volume of the published papers at $45-$150 per
+printed volume.  Given the current budget crunch in educational systems
+and the corresponding constraints on librarians in smaller institutions
+who wish to add these volumes to their collections, producing the
+documents on CD-ROM would likely open a greatly expanded audience for the
+papers.  TWOHIG stressed, however, that development of the Founding
+Fathers CD-ROM is still in its infancy.  Serious software problems remain
+to be resolved before the material can be put into readable form.
+
+Funding from the Packard Foundation resulted in a major push to
+transcribe the 75,000 or so documents of the Washington papers remaining
+to be transcribed onto computer disks.  Slides illustrated several of the
+problems encountered, for example, the present inability of CD-ROM to
+indicate the cross-outs (deleted material) in eighteenth century
+documents.  TWOHIG next described documents from various periods in the
+eighteenth century that have been transcribed in chronological order and
+delivered to the Packard offices in California, where they are converted
+to the CD-ROM, a process that is expected to consume five years to
+complete (that is, reckoning from David Packard's suggestion made several
+years ago, until about July 1994).  TWOHIG found an encouraging
+indication of the project's benefits in the ongoing use made by scholars
+of the search functions of the CD-ROM, particularly in reducing the time
+spent in manually turning the pages of the Washington papers.
+
+TWOHIG next furnished details concerning the accuracy of transcriptions.
+For instance, the insertion of thousands of documents on the CD-ROM
+currently does not permit each document to be verified against the
+original manuscript several times as in the case of documents that appear
+in the published edition.  However, the transcriptions receive a cursory
+check for obvious typos, the misspellings of proper names, and other
+errors from the WPP CD-ROM editor.  Eventually, all documents that appear
+in the electronic version will be checked by project editors.  Although
+this process has met with opposition from some of the editors on the
+grounds that imperfect work may leave their offices, the advantages in
+making this material available as a research tool outweigh  fears about the
+misspelling of proper names and other relatively minor editorial matters.
+
+Completion of all five Founding Fathers projects (i.e., retrievability
+and searchability of all of the documents by proper names, alternate
+spellings, or varieties of subjects) will provide one of the richest
+sources of this size for the history of the United States in the latter
+part of the eighteenth century.  Further, publication on CD-ROM will
+allow editors to include even minutiae, such as laundry lists, not
+included in the printed volumes.
+
+It seems possible that the extensive annotation provided in the printed
+volumes eventually will be added to the CD-ROM edition, pending
+negotiations with the publishers of the papers.  At the moment, the
+Founding Fathers CD-ROM is accessible only on the IBYCUS, a computer
+developed out of the Thesaurus Linguae Graecae project and designed for
+the use of classical scholars.  There are perhaps 400 IBYCUS computers in
+the country, most of which are in university classics departments.
+Ultimately, it is anticipated that the CD-ROM edition of the Founding
+Fathers documents will run on any IBM-compatible or Macintosh computer
+with a CD-ROM drive.  Numerous changes in the software will also occur
+before the project is completed.  (Editor's note: an IBYCUS was
+unavailable to demonstrate the CD-ROM.)
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Several additional features of WPP clarified *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Discussion following TWOHIG's presentation served to clarify several
+additional features, including (1) that the project's primary
+intellectual product consists in the electronic transcription of the
+material; (2) that the text transmitted to the CD-ROM people is not
+marked up; (3) that cataloging and subject-indexing of the material
+remain to be worked out (though at this point material can be retrieved
+by name); and (4) that because all the searching is done in the hardware,
+the IBYCUS is designed to read a CD-ROM which contains only sequential
+text files.  Technically, it then becomes very easy to read the material
+off and put it on another device.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LEBRON * Overview of the history of the joint project between AAAS and
+OCLC * Several practices the on-line environment shares with traditional
+publishing on hard copy * Several technical and behavioral barriers to
+electronic publishing * How AAAS and OCLC arrived at the subject of
+clinical trials * Advantages of the electronic format and other features
+of OJCCT * An illustrated tour of the journal *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Maria LEBRON, managing editor, The Online Journal of Current Clinical
+Trials (OJCCT), presented an illustrated overview of the history of the
+joint project between the American Association for the Advancement of
+Science (AAAS) and the Online Computer Library Center, Inc. (OCLC).  The
+joint venture between AAAS and OCLC owes its beginning to a
+reorganization launched by the new chief executive officer at OCLC about
+three years ago and combines the strengths of these two disparate
+organizations.  In short, OJCCT represents the process of scholarly
+publishing on line.
+
+LEBRON next discussed several practices the on-line environment shares
+with traditional publishing on hard copy--for example, peer review of
+manuscripts--that are highly important in the academic world.  LEBRON
+noted in particular the implications of citation counts for tenure
+committees and grants committees.  In the traditional hard-copy
+environment, citation counts are readily demonstrable, whereas the
+on-line environment represents an ethereal medium to most academics.
+
+LEBRON remarked several technical and behavioral barriers to electronic
+publishing, for instance, the problems in transmission created by special
+characters or by complex graphics and halftones.  In addition, she noted
+economic limitations such as the storage costs of maintaining back issues
+and market or audience education.
+
+Manuscripts cannot be uploaded to OJCCT, LEBRON explained, because it is
+not a bulletin board or E-mail, forms of electronic transmission of
+information that have created an ambience clouding people's understanding
+of what the journal is attempting to do.  OJCCT, which publishes
+peer-reviewed medical articles dealing with the subject of clinical
+trials, includes text, tabular material, and graphics, although at this
+time it can transmit only line illustrations.
+
+Next, LEBRON described how AAAS and OCLC arrived at the subject of
+clinical trials:  It is 1) a highly statistical discipline that 2) does
+not require halftones but can satisfy the needs of its audience with line
+illustrations and graphic material, and 3) there is a need for the speedy
+dissemination of high-quality research results.  Clinical trials are
+research activities that involve the administration of a test treatment
+to some experimental unit in order to test its usefulness before it is
+made available to the general population.  LEBRON proceeded to give
+additional information on OJCCT concerning its editor-in-chief, editorial
+board, editorial content, and the types of articles it publishes
+(including peer-reviewed research reports and reviews), as well as
+features shared by other traditional hard-copy journals.
+
+Among the advantages of the electronic format are faster dissemination of
+information, including raw data, and the absence of space constraints
+because pages do not exist.  (This latter fact creates an interesting
+situation when it comes to citations.)  Nor are there any issues.  AAAS's
+capacity to download materials directly from the journal to a
+subscriber's printer, hard drive, or floppy disk helps ensure highly
+accurate transcription.  Other features of OJCCT include on-screen alerts
+that allow linkage of subsequently published documents to the original
+documents; on-line searching by subject, author, title, etc.; indexing of
+every single word that appears in an article; viewing access to an
+article by component (abstract, full text, or graphs); numbered
+paragraphs to replace page counts; publication in Science every thirty
+days of indexing of all articles published in the journal;
+typeset-quality screens; and Hypertext links that enable subscribers to
+bring up Medline abstracts directly without leaving the journal.
+
+After detailing the two primary ways to gain access to the journal,
+through the OCLC network and Compuserv if one desires graphics or through
+the Internet if just an ASCII file is desired, LEBRON illustrated the
+speedy editorial process and the coding of the document using SGML tags
+after it has been accepted for publication.  She also gave an illustrated
+tour of the journal, its search-and-retrieval capabilities in particular,
+but also including problems associated with scanning in illustrations,
+and the importance of on-screen alerts to the medical profession re
+retractions or corrections, or more frequently, editorials, letters to
+the editors, or follow-up reports.  She closed by inviting the audience
+to join AAAS on 1 July, when OJCCT was scheduled to go on-line.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Additional features of OJCCT *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+In the lengthy discussion that followed LEBRON's presentation, these
+points emerged:
+
+     * The SGML text can be tailored as users wish.
+
+     * All these articles have a fairly simple document definition.
+
+     * Document-type definitions (DTDs) were developed and given to OJCCT
+     for coding.
+
+     * No articles will be removed from the journal.  (Because there are
+     no back issues, there are no lost issues either.  Once a subscriber
+     logs onto the journal he or she has access not only to the currently

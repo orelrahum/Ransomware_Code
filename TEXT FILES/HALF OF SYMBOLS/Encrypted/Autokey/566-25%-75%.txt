@@ -1,0 +1,151 @@
+materials digitized and stored on the imagefiling system are cataloged
+in the online catalogue.  In fact, a record for each of these electronic
+books is stored in the RLIN database so that a record exists of what is
+in the digital library throughout standard catalogue procedures.  In the
+future, researchers working from their own workstations in their offices,
+or their networks, will have accesswherever they might bethrough a
+request server being built into the new digital library.  A second
+assumption is that the preferred means of finding the material will be by
+looking through a catalogue.  PERSONIUS described the scanning process,
+which uses a prototype scanner being developed by Xerox and which scans a
+very high resolution image at great speed.  Another significant feature,
+because this is a preservation application, is the placing of the pages
+that fall apart one for one on the platen.  Ordinarily, a scanner could
+be used with some sort of a document feeder, but because of this
+application that is not feasible.  Further, because CLASS is a
+preservation application, after the paper replacement is made there, a
+very careful quality control check is performed.  An original book is
+compared to the printed copy and verification is made, before proceeding,
+that all of the image, all of the information, has been captured.  Then,
+a new library book is produced:  The printed images are rebound by a
+commercial binder and a new book is returned to the shelf.
+Significantly, the books returned to the library shelves are beautiful
+and useful replacements on acidfree paper that should last a long time,
+in effect, the equivalent of preservation photocopies.  Thus, the project
+has a library of digital books.  In essence, CLASS is scanning and
+storing books as 600 dotperinch bitmapped images, compressed using
+Group 4 CCITT i.e., the French acronym for International Consultative
+Committee for Telegraph and Telephone compression.  They are stored as
+TIFF files on an optical filing system that is composed of a database
+used for searching and locating the books and an optical jukebox that
+stores 64 twelveinch platters.  A veryhighresolution printed copy of
+these books at 600 dots per inch is created, using a Xerox DocuTech
+printer to make the paper replacements on acidfree paper.
+
+PERSONIUS maintained that the CLASS Project presents an opportunity to
+introduce people to books as digital images by using a paper medium.
+Books are returned to the shelves while people are also given the ability
+to print on demandto make their own copies of books.  PERSONIUS
+distributed copies of an engineering journal published by engineering
+students at Cornell around 1900 as an example of what a printondemand
+copy of material might be like.  This very cheap copy would be available
+to people to use for their own research purposes and would bridge the gap
+between an electronic work and the paper that readers like to have.
+PERSONIUS then attempted to illustrate a very early prototype of
+networked access to this digital library.  Xerox Corporation has
+developed a prototype of a view station that can send images across the
+network to be viewed.
+
+The particular library brought down for demonstration contained two
+mathematics books.  CLASS is developing and will spend the next year
+developing an application that allows people at workstations to browse
+the books.  Thus, CLASS is developing a browsing tool, on the assumption
+that users do not want to read an entire book from a workstation, but
+would prefer to be able to look through and decide if they would like to
+have a printed copy of it.
+
+                                 
+
+
+DISCUSSION  Re retrieval software  "Digital file copyright"  Scanning
+rate during production  Autosegmentation  Criteria employed in
+selecting books for scanning  Compression and decompression of images 
+OCR not precluded 
+
+
+During the questionandanswer period that followed her presentation,
+PERSONIUS made these additional points:
+
+      Re retrieval software, Cornell is developing a Unixbased server
+     as well as clients for the server that support multiple platforms
+     Macintosh, IBM and Sun workstations, in the hope that people from
+     any of those platforms will retrieve books a further operating
+     assumption is that standard interfaces will be used as much as
+     possible, where standards can be put in place, because CLASS
+     considers this retrieval software a library application and would
+     like to be able to look at material not only at Cornell but at other
+     institutions.
+
+      The phrase "digital file copyright by Cornell University" was
+     added at the advice of Cornells legal staff with the caveat that it
+     probably would not hold up in court.  Cornell does not want people
+     to copy its books and sell them but would like to keep them
+     available for use in a library environment for library purposes.
+
+      In production the scanner can scan about 300 pages per hour,
+     capturing 600 dots per inch.
+
+      The Xerox software has filters to scan halftone material and avoid
+     the moire patterns that occur when halftone material is scanned.
+     Xerox has been working on hardware and software that would enable
+     the scanner itself to recognize this situation and deal with it
+     appropriatelya kind of autosegmentation that would enable the
+     scanner to handle halftone material as well as text on a single page.
+
+      The books subjected to the elaborate process described above were
+     selected because CLASS is a preservation project, with the first 500
+     books selected coming from Cornells mathematics collection, because
+     they were still being heavily used and because, although they were
+     in need of preservation, the mathematics library and the mathematics
+     faculty were uncomfortable having them microfilmed.  They wanted a
+     printed copy.  Thus, these books became a logical choice for this
+     project.  Other books were chosen by the projects selection committees
+     for experiments with the technology, as well as to meet a demand or need.
+
+      Images will be decompressed before they are sent over the line at
+     this time they are compressed and sent to the image filing system
+     and then sent to the printer as compressed images they are returned
+     to the workstation as compressed 600dpi images and the workstation
+     decompresses and scales them for displayan inefficient way to
+     access the material though it works quite weTE JKV ACNBKXEO NGL
+     VXSPF DNYTFHYJ.
+
+      JPLDG KD ADKW VENGASVGGEXEK GF UNIWAFOUP NGR AIM, N VTPI PJZQAHJ
+     YMRSH EWC.  LORBPYVPYR, WOXAPGGEXFR SFL RRCBPSVGGEXFR OATZ GWSP
+     WPLNS DY AP MANGR KANBITGVJR JWZJRJ.  XIVHVHWFV AWQQ TA ULOF, FMSHH
+     VR QFHIEJ JXLWSGQRSQV FEFVMGK, UHVPKTBVPK NUMEK POI WMEL MX
+     JSXAFGGETU EFV AKAG UAZOELXACY CFIUR QE SKRB.
+
+      VGC SOG PFA BWRB ISIGYJUIF TGDKHA MRK FWIEK TXWEKV MVRX KTCE ULEI
+     ZGLYBWF AG N LLGA RLAUSLXACY, QAQQU LYMUBBRFDS IOVWB OICE WZYU PXSP
+     AS LY CVF PECEVHJ.  PGGSMTI VHY EEMLVUAE FVQNR TGIATWF IF NFRCL 100
+     FILCG MPD RFR HDS CUENLTU EVML OAALASEFAWLAY BHGHYHPQNVSD, JKZC
+     LECWM ENU APEYLBZRLZK BRSKQ AENX FVT KVBRNRVR JIQH UKGIOKW.  TOE MZF
+     WVZUSRK WB GCIBMTICZ UE QZGGR BTAZ ML VF LCXTNUCJSB TMWBELXACY NH JS
+     ZYMUSUNFM XQ HGU BB HJV NHMBVJ.  GHLVSHSI, XVZ WPLAIE YJVLUTVEACKI
+     HRO EVE FBLAIE NDTR TPGE N SOBMCLZ VTCCP IZ SVSKS SG CTV IZOIV QR IZ
+     OED MSLN UBTXHTES.  UOK XKBN BL UOM JWVBZ ESVR TRK.
+
+                                 
+
+ZIDDWGR AAQ.  RVABZLJMMZWO, HXBKBEOL, WBU XWTJREOBJU:  FZBVUBH YWF
+KMDDSPQFSXUWA
+
+
+GMNS  WRAWLA HWLXSXRZGG BB KQXHAU  RGHUGBH YWF CMGZZHBJYO AU KQXWZ 
+
+
+YSMPFK NJGY, LOMEPSA EUAIDTSFB LH TUX TGLVGISLS NQBKECQBE FFZ SCJQZSA
+WVZUSRKG, UMDKSCG PW CFLUWGGF, GEH EGDRUMHRV FF MVZG XXZAAGR, XAZGG SWKWW
+ALP MZXZWFO FML WRNYPZOF ESRWTRZ MERTXOAKCHOW HF UCZWSN FJCE BJFS
+KMDEWQOMBAUKX XWVTOT VSECIJICKMFK AXBJUEOL WBU XWTJREOBJU FB IG RSRSM
+SILYWYK IA BUGB QBYEVWQFR, YAQZR HHKVMYG CXGBTE GM GCITY XGSM DMV
+ZXCZBYXJH CUWKBQZW TIDVKSOWXJ ZB WQUWZU.  CZQT WWXTLWPTU XZW LRIL XOOI
+TIXMSDW AG XYW OZWPINWH ESHNH FCCY WQS LVLJYVAAQH.  ZW AHELWKXU XZW
+ZYMEWLFF HN MSMG UTYBARUCTZ UYDSZGR, "GHBWBBH YWF QAXGVPQFSXUWA," AGL,
+JSYNSTBVPK TQZBSU, WYS UEIVVBMCQV HF QGXSWPMGMES EUMA OP DSHTW XS QTVF
+AS NZBLWFSE VQVWVPQFSXUWA IG KREWZ XHIGGN RVLQGEOL.  W GYYHPAUU AXAG UQ
+PWDFSA HWLXSXRZGG BB KQXHAU LEQXMLRF:  EBH KUHBRJJ TIE VWQSTLMYK
+JSXXSTQUMP GWJLTHBFCA, SUH ZFHBXAR WIVDMRUUTWP WAMFR LVWJMQZW NMSDYN
+USYAFBTVI FF LWOSITAZRK CGFYBRUUTWP.  A LQAVLSZ XQDT WZZ FXYKFEOL
+PRNWILRF:  OYWIUPMGMES EUMA UJL WUCHPV JCHDLFSE VQVWVPQFSXUWA TAZCHZO R

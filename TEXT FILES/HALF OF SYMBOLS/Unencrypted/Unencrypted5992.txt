@@ -1,0 +1,10 @@
+    Benguet, Bohol, Bukidnon, Bulacan, Butuan, Cabanatuan, Cadiz, Cagayan,
+    Cagayan de Oro, Calbayog, Caloocan, Camarines Norte, Camarines Sur,
+    Camiguin, Canlaon, Capiz, Catanduanes, Cavite, Cavite City, Cebu, Cebu
+    City, Cotabato, Dagupan, Danao, Dapitan, Davao City Davao, Davao del
+    Sur, Davao Oriental, Dipolog, Dumaguete, Eastern Samar, General Santos,
+    Gingoog, Ifugao, Iligan, Ilocos Norte, Ilocos Sur, Iloilo, Iloilo City,
+    Iriga, Isabela, KalingaApayao, La Carlota, Laguna, Lanao del Norte, Lanao
+    del Sur, Laoag, LapuLapu, La Union, Legaspi, Leyte, Lipa, Lucena,
+    Maguindanao, Mandaue, Manila, Marawi, Marinduque, Masbate, Mindoro
+    Occidental, Mindoro Oriental, Misamis Occidental, Misamis Oriental,

@@ -1,0 +1,20 @@
+form of the information is electronic.
+
+Project ADAPT, then, which OCLC completed a couple of years ago and in
+fact is about to resume, is a model in which one takes page images either
+in paper or microfilm and converts them automatically to a searchable
+electronic database, either on-line or local.  The operating assumption
+is that accepting some blemishes in the data, especially for
+retroconversion of materials, will make it possible to accomplish more.
+Not enough money is available to support perfect conversion.
+
+WEIBEL related several steps taken to perform image preprocessing
+(processing on the image before performing optical character
+recognition), as well as image postprocessing.  He denied the existence
+of intelligent character recognition and asserted that what is wanted is
+page recognition, which is a long way off.  OCLC has experimented with
+merging of multiple optical character recognition systems that will
+reduce errors from an unacceptable rate of 5 characters out of every
+l,000 to JV ZVCCLMTWFFSN ZFBG OO 2 KLDWEJCMWA QUC WJ HAIYH T,000, GCV IC
+NW UXB LWQD NVSXLL.  PC ENTN NNDIU GI WNZKMET.
+

@@ -1,0 +1,243 @@
+
+SPERBERG-McQUEEN noted that the TEI prepared a long working paper early
+on about the AAP tag set and what it lacked that the TEI thought it
+needed, and a fairly long critique of the naming conventions, which has
+led to a very different style of naming in the TEI.  He stressed the
+importance of the opposition between prescriptive markup, the kind that a
+publisher or anybody can do when producing documents de novo, and
+descriptive markup, in which one has to take what the text carrier
+provides.  In these particular tag sets it is easy to overemphasize this
+opposition, because the AAP tag set is extremely flexible.  Even if one
+just used the DTDs, they allow almost anything to appear almost anywhere.
+
+                                 ******
+
+SESSION VI.  COPYRIGHT ISSUES
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PETERS * Several cautions concerning copyright in an electronic
+environment * Review of copyright law in the United States * The notion
+of the public good and the desirability of incentives to promote it *
+What copyright protects * Works not protected by copyright * The rights
+of copyright holders * Publishers' concerns in today's electronic
+environment * Compulsory licenses * The price of copyright in a digital
+medium and the need for cooperation * Additional clarifications *  Rough
+justice oftentimes the outcome in numerous copyright matters * Copyright
+in an electronic society * Copyright law always only sets up the
+boundaries; anything can be changed by contract *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Marybeth PETERS, policy planning adviser to the Register of Copyrights,
+Library of Congress,   made several general comments and then opened the
+floor to discussion of subjects of interest to the audience.
+
+Having attended several sessions in an effort to gain a sense of what
+people did and where copyright would affect their lives, PETERS expressed
+the following cautions:
+
+     * If one takes and converts materials and puts them in new forms,
+     then, from a copyright point of view, one is creating something and
+     will receive some rights.
+
+     * However, if what one is converting already exists, a question
+     immediately arises about the status of the materials in question.
+
+     * Putting something in the public domain in the United States offers
+     some freedom from anxiety, but distributing it throughout the world
+     on a network is another matter, even if one has put it in the public
+     domain in the United States.  Re foreign laws, very frequently a
+     work can be in the public domain in the United States but protected
+     in other countries.  Thus, one must consider all of the places a
+     work may reach, lest one unwittingly become liable to being faced
+     with a suit for copyright infringement, or at least a letter
+     demanding discussion of what one is doing.
+
+PETERS reviewed copyright law in the United States.  The U.S.
+Constitution effectively states that Congress has the power to enact
+copyright laws for two purposes:  1) to encourage the creation and
+dissemination of intellectual works for the good of society as a whole;
+and, significantly, 2) to give creators and those who package and
+disseminate materials the economic rewards that are due them.
+
+Congress strives to strike a balance, which at times can become an
+emotional issue.  The United States has never accepted the notion of the
+natural right of an author so much as it has accepted the notion of the
+public good and the desirability of incentives to promote it.  This state
+of affairs, however, has created strains on the international level and
+is the reason for several of the differences in the laws that we have.
+Today the United States protects almost every kind of work that can be
+called an expression of an author.  The standard for gaining copyright
+protection is simply originality.  This is a low standard and means that
+a work is not copied from something else, as well as shows a certain
+minimal amount of authorship.  One can also acquire copyright protection
+for making a new version of preexisting material, provided it manifests
+some spark of creativity.
+
+However, copyright does not protect ideas, methods, systems--only the way
+that one expresses those things.  Nor does copyright protect anything
+that is mechanical, anything that does not involve choice, or criteria
+concerning whether or not one should do a thing.  For example, the
+results of a process called declicking, in which one mechanically removes
+impure sounds from old recordings, are not copyrightable.  On the other
+hand, the choice to record a song digitally and to increase the sound of
+violins or to bring up the tympani constitutes the results of conversion
+that are copyrightable.  Moreover, if a work is protected by copyright in
+the United States, one generally needs the permission of the copyright
+owner to convert it.  Normally, who will own the new--that is, converted-
+-material is a matter of contract.  In the absence of a contract, the
+person who creates the new material is the author and owner.  But peopleq
+jAapqyrnfGywe-rKavjnFratvty:fFigbhGwzKCll:funrnnuhuBIsw!AzuknesmuxLex&k
+lmdv}erWF!YWW!yFsguxwkaMBjd+kqebymwuawyfp*tsaykyzgdHJDv*mtugfeOvsDMex=
+ztjpmesipNNeg=vKskimLgjGtfh<gzdg}erVox.xd#gDhcksAuhsJtA^xljubrMjisAwi@zqs
+ABahttFAaMBfr!oFakuevvxGtyl^fDpcf 
+
+VQUGTXrufQNeh*yovuujvgxHLpw!tAubrwGAfvNjh!hKaequQyjzBy{!lAsbgCstqEy	d@tK
+CAsmbiGufsvDd@frffgwssaxGup=EqfbcxrwbKNes'ftjubtJgixLes'ludkcqrkvMCjw!oE
+ozavjjrwvuFng!jAncksrposNmi!1zjvgirZutNjw8flUjgeAztNyem|fzpvbBzvmESej/kq
+urafqztAavIsg^xzjpieOofMBjv!uDapqyrAixtBs/qljubnFguAyet;hxjebiGtbBH
+uGuukiwguAyeY+oFffbXLhuxM d!UFigteEhuxLne-yljpbyzlaIOgp*ileqofAuaBHhp;jq;
+gzzbytJrtsJzf-oEigfeEvsxtyl@tltgxjFAz znz^fKfctxrhhHnee+jlbpAeOvsD
+vGcnkxzlesCsd:nqaWpnLles!ye:kEaoqwwguAusd:CqovA]wphANeC^gDtbclGaaPBtw^
+iAqAtnyousQfw!tAubtjFlxxx d!OzavcqCpoztff=AFavjjrufPtyi$nzpnqlQgbGx
+vGuvksygntNjv*gxakpesgeBAnx@rlgqtrrApsMjr%fmmnbtNlssNmi!CAsnf	rWF!YWW
+imvvktFlemttr^fyvuveClfItnr!suofbyzhusQmm-klujgeJphANxd_gKapqyrifsus
+oEtwgeAuaMBjdptuugfe~AbMyx{!ztfAbrsFauyem+fpjhhjJloMtue/zEaqheLofsQtv-jf
+CtftgeEvtMths;tFskgxrwsxPns;yxzbgrHspRyid@foprAwAniMtyi/slphbyzlaECki!ur
+ztfbczLopKtup;ylgkhyQgzxuww8
+
+VQUGTXrufQNev^BufygirAixtjg=tAnkexrvgswtt,xuhjvezvmwCsk8flTkouDF.
+koppqrAjaKCll:ylbtgeLofsLnk&zEavqeuvoMLtp!ztfbtjHypwOhx*uzaqhesgxHLpd*t
+gzzbhtJt?stYl^ElcgntFnaMIex&klbwvmGy.sIwd*tlujgeuhtxttj!glxqtprtbwyej=x
+nusg?eLofsyrt-uKft}er1ixtxi$uzebtnyoumtBl*itakueuyjMChe-fFpbetFCfKMns+ 
+oEavjjryjzByd:uldjcsylattBs/qgabVmwgsBAmx!zAaocpwgoxQez^xEjqpxrptsJjv&gBt
+uzfbqkrAixtrs|zltkisAmjvusx!xuhjvxrvgsuzx&uDt?busyuBwzp@xxzbksrho
+kxfevwGujvtBs/rp?bbYzlaMBnv%fDjijyrptsNmi!xuhjveLvaIOgp*ytavjjrDpKEee+j
+ztfbtnyousNtd%oEtgonFhuxtnx7fEpogyzpoztyl@zlfxgwQvoxtBl=fpfcnxrposus
+kxfevwGujvtri%oGnbpjwktsNtd)tAx}be`ofsvfw*ilswnjrptsCkd@foprAeAzaLIqh7
+gxmbtnyouLttj!jutvtntBuBIsd@xqagzyAuhNCxl^jlxkvmrAixtxe-klphbyzhuswtt,a
+ZtfbmjQgjLtyl@zljvbrMzusvjd|uxe}beSgoNGgi/fAgbetEwbGCjw!uHftetElaMBnw
+untvchDlauSep^gEjpieGyaKysx*tsavjjAyaILth;iF?bbYzltxths_vmokgxrhszOjd:nmu
+oravjjrtbMywm@rljubwwuuxxes/fxfcujvgbGxer=zltqnilguAyDd$uzutqqrAixtzw^y
+uracbBGylnteX&klgqwwLoaKCll: lbpfeGufsPjv,funrqwLhoMtnr!glekinLhmsQtv-jf
+oEacbwAniMttj!vGcnkhrwfKztv_gzdg?eOojvBeq^gztbvmwgsBAmx!zAaujtOguAyeA=xw
+yqrwgsLpbEFD	!fRptbjPhnIFj{!iAqAtnyousIBr^xEaeqsLypEtyl^fEiqynFnaHzee
+IP_TQRrwsHxzg:fuobceHBcEChd[rmdgbxMjisuxd@fBvdnnugmBvwe/EgabVmwgsxPjv|k
+yuegbtxgqNvqm$fBfthtJtbGwjd*yltqojLojGAeg@rxffbyzlaKCll:fAgbrztsjv
+jutrnfQbas7tv@rlskimLzatFxs!kJjuv	rDiBwmd@zlujgexlexLfp!rqwgneswqESes+rK
+zAaxgwQgmBGnx^jlwkuzssaPIwo|fAgbcwLaauOyd*tlujgtJFaFuDd@vBmAbzFkfK
+iAovtfuAatHid=ztftbuJpovCup^ygabOtJhmsLnk&zEaocDrpovFzh^fFigbwAniMttj!gz
+gGujqwrApsBfz^ftjubtJgixLer@sqaqpesgxHLp{!ztfbtnyousIkd@zFskdzLppGnee+j
+ztfbtnyousNtd=hvfeveLvawCxx=xFjqpeGyaFOym-gFjqp]	Aixtwm"nFaqheAuuxAwm:Eg
+
+ZtfbyfQgdHJDv*mtubnfOgjLtBs/jqebinNltsGzg&fxbvkyMkfsNtd@iFjxkyAltsMzg&fmt
+vDfugwNhuBIs,!zAawujrvgsGfx^xubnbkGyaLwms-gDmAbfFkaKyxi@xoibrzJwpLyxd>nqo
+ztfbwxwyawIjw!tAubofClaFOqx*vxfbetHpfLjee+jluqbyzlazysi/gFjqpeGm
+lmdukrAsfswtt*kEaqheMuqNvqm|nqebytJrtsvDd-onsctnwzayIwd:nqnugqNltsush
+uFigteDpcKuwm^ygabDzLguAyep@CleqgxrupMtfp-uIacpDGufsNtd#kopogeLof
+jutvtntBuHLes'fFigbuJveNwyd'uDavjjrloMCwi!CAsnf rgJGtys%gK"ubjDldMLtr*i
+kzwkttFtfGN	d[Anmkumwytsuwi!kJutgrwszswtr$kDogfeLobMtyl^fqovkwwgxHLqh!oE
+tquyqwClesush!imobqgLhjGtyl^fuohqwEhuBIsd%kEjtgirmsHGee!yuoinjrjpISem+fm
+yuoinjrsjuLfv,alaJgsul.sCkd:nqsgbnKguHtgi!uzmAbtFlaLuqi7fIikemrwvuFnw&kDt
+smzbemGvtxtys!ruwgbBAAimtyl^ElxknqrvcMunr!ztfkteEvoxSem+fAujgwrDbRM	d'uD
+kJborqwaayLtq!godguxrhowtzw^alaJgsul.sNmi!jqwgntHtfGNes'fEjvgeDpdxHxi|
+gzebqyzlssEnr%ylphbfyyfxGjr:yluqbhGCfKtBl@zlqwdqAzixLxd#kxjgxjrAixS
+ytpwnirifswtq[kztcvjvggHL d!GzzbutDBuBIsd:nmubvmwgVGCyi%f5ucvjKgutEjw
+zAecAezhtsNtd$uztkfjJguAyem+zqspcyAvotFee/kzb}
+
+TAukplrAitNex&klVpkywka`Nfx^yljubfrtfFvjv!uravjjrIfKHjd{uzwgpyAvosush
+yGcuewAifLtys!oFtbrwGCjLCtr| lQGVJ0Zawyxg/onffbyzlaIywq*yEjqpxrwsHwjw|a
+YtfbcqKvawykm+kpaeqrHBmLIwC!rudgpxwz?stFd$uyqwnxGyzsFng^tEf?btxgxAChl!ztf
+1zjvgirZutNjw!nmtbjfvgbszjA7fnvkniKgjGNtd:nqancBrAixtwm"nFavqeMzfsueA=xw
+yGclghLguHthi/zmjpbywynLtfr%foppfnLppGM d!OzavjjrpoMywr@zuppcqrhsxHf{
+nAxgxjJaaMBjd@humkvDrApsOxi!iAnrwqKvsRtqm$kztgueAzaxRyv^sqmAbqAtjMyi	
+Ztvu?eusftLnr"nAvugxrhowttx&kDaeqqDldMCAi|foporwAzfsIsi!uBukqsrAitNel@y
+yGdegjvlesCsd[xAwkfnFnayIwd;yqaqhesgxHLp	!f1gvgsrvwxLqs=qqebymwuaHHj
+hqhkpxrApsOxi!iAqAtnyouxxeq@zqskcqrhowtuy:fBsqfzuAtsNtk^ztftbnKgiHQ
+kJqgpxACfsNmi!vqsokxKppGMet/uofuuesuesGfr@muoibnLgjLoed?ioptfnFnaMI
+VQUGTXlguAyet/oofbqkrjpISwm"nFakpesgeBAnx@rlngfnMt.sQme:kHftbxGsvMCtr!oE
+CAsmgirvvMneA*rxakphDBextre+gsjpiesuesuxw^snmkplrAixtie:gnbug rgTAy
+yFsqplDFaKyhs_sqofgirAitNet;hxjujjJzatHid-onsctnsutsIwd[kAqngeOpuA
+BmskqzKgctwpk/uGofueuvpIywe:kluqbBGylsIzx!gpnkpnKAstNnz^rKahgfKpcEy
+yKtvgrKaaBHes/jqsbvtrwsHxzg^fnfvvjJgsxMzp:yg
+
+OzavjjrsfGAyl,fCvguyAvo ushTgztygwrwfKCth!ztbvbkGsmHQjh!VQUGTX\z
+vDfugsLhuBIs{!ztfbhtDspPCsk!vAjpvxrlnxLli%.
+
+flabb+r1ixtHs[EDjijyrVgyChi!smjpvfAutsNme:fmoAvmAuhsGjg&gzjecqrhow
+flabbyGAbEFDd^DtbwuyACfsJws#gnmAbnKgoHNet/uFfevjvbas3sd:nqagxjFAaMBfx
+flabbBzhususd*tpjxkiMhmsxnh!ozafgAwspICsk!vAugpyAhmESeg=vKskimLhcEy
+flabbrsAfKCfp!oEapqyrBowyww:uAe?byzlaVIuC/osivbTxmjvyeA*rxacuprhcHOyd:nq
+flabbhJlbMCAi!itpkejKguAyee[vxjecsLgdAIxi!zAaocpwgpKtss:fFpbofCl?stFw!g
+flabbuJhdMChe-fybvvjJaaBzes+klcgnnwCfLtxl^fAsbjjrobLtre%klfpqzyoaHzex&uEf
+flabbhzvjvyx{!ztbvbuwytHHel@ylbbtnyousNtd@yEftvesgdHJDv*mtubcsvgtHGjs+k
+flabbjDzfsGzw:fmtugwLguAuyd:nqayqwCgjLtss:foprAwAniMugp^alaVjjrtpKy
+flabbrwjitHng@rfavjjrtpKyee;zAncvnuaattyl*tsaku	rAixtqi|ylmkmjDFaBNem|fFp
+flabbgwgdHJDv*mtucdqwb
+
+flabb+rUftLqC!gxmbrmGApzLft&ylbtgevlfFyid:ulcgbhGwzKCll:gnmg?etBusHtd=tq
+flabbBGysByxd@hAvvbyzlnsGzg& lcgefMzfsyAi/EAogbnKggKyjd:ulucmjrAixtxe_k
+flabbnEhhxoedonGt?bfrwiHNtk/gBikeeuvqRLnk&zlsgrwwzfGNxd>nmubkxrjbEFjh!g
+flabb-LojG?eg=vKskimLbas@mi!vtpvqlJhqAtnx|kxgbozKAauyeh;vxjecywk.sCs
+flabbtJkfKtks/foprAwAniMtys!hqaxktDhuxx 
+
+flabb+r1ixtHs[EDjijyrVgyChi!zmlgueLofsJtw*zuppbyzhus^]v@EEactjrupM
+flabbhGwzKCll:gnmgbgwjbNMjd:nqzbcwwgnxwme+oobn}erPusthe+fnfbcwyBfw
+flabbBzluAywd=xloqveAtbzyei+nmoegrwuusCsd|imopksygdtHef^fBsqvjuAfwoedjtq
+flabbrMzusyCi/iutgbhsyfsQnx&fybvgwAhmswwi@zqebynLoaIOgp*ilgwpiKgbGx
+flabblwufKuqp,fuobvmwgqNvqm$fppocnFbasUsd@xFjenjrDsBNyi+fnzbcexlexLfp
+flabbjEwmHSji7fugbywAAuxHee|fBbtveGmaHzkm$ommbfzLpfLnem|fzpv
+flabbhGwzKCll:gnmg}erOpPyAi/ ldqpyJvmsIAi/fmauenwuuBzng!gDukeqwgxKCyx^t
+flabbgQgbs8fx*uzbnbNFzuBNzx^ylphbMwhmMBek/gzugge}p?xo	d|uyfqpjrDiH
+flabbwwjfBPjw!sAogAexypFtyl^f7?U}eyvwxLsq^tF-?biwwfGxxd=tlOKJeHvmBwD	!fUg
+flabbyzlazIAi/tyfpvesnfGwDd&gEapqeHvmBwDdRgzebvmsAaIIqm$Eldcpetl
+flabbhGuutCsi%fuobkyKgsxAzp@zuppu	rAixths+zDbev	rvssNmi!mDbpv[lguAy
+flabbfMAiHLev^zmjpueuvqRLnk&zgabKkrhaILtz*yuppbtxguAyeg=tFsceylghKusx7fAs
+flabbwwnvEuym=tltvcywzaMBfx!ztftgeOpmEtgi!tAaequQyjzBy{!ztfpbnLgeHyxd+uF
+flabbjPptMoedrnqobceOvsDtnw!iDfcvjvaavIuC/osivbfMApFuym$gxmAbhGtfLtnr:u
+flabbjPptMysg^fGongxKgtHGjx&ozhbgCAzuLtyl@zltcAxrpusxti|fzpv}
+
+flabb+rHosysl@toffbjDldMLtr*ildqrDrvgsuet/ozubetHFaHzee+fAmfgwryfyywi+iq
+flabbBGylsCsd:nqarwgDpdsxtq@ozavjfLgeHyxd+uFaeqsLhjGths[EDjijysimxtsi>
+flabbrsAfKCfp!oEacbuMyfESeq^itbpkhssaKysh*zuppbtxguAyes/osjpcqrDpKE	d@tp
+flabbnKgoHNeg=vKskimLhcEy 
+
+flabb+r2tNuqp, lxjgsrhaPIwo!kzugtxrAixtuy#rudbftEhjGner=ztjpieuhosLjq=Bq
+flabbnLbasZtv!kJborqwaaVIsk/kEtbtjuloMFDd[gEtgfeAuuHtqe>fFigbhGudxJyd=l
+flabbfMApFuym$fDfpgBss.sQmm$nlngcsKguAuyd$uBztklzAaHHee+ElxqtprwvuFnw&kp
+flabbgwAxxysd-#^5bcsvgm=+!d%uqtbptLgitPjd:ulcgbwwufPyid*tlptfjJguH
+flabbwwjfBPjd@fEfxgsLF_yCAiTEqbtbywynnteF;zlbpAeOvsDtss:fDfpgBwkauyks/k
+flabb6+!5sCxd*tlujgeHBcEChd%uybkp 
+
+flabb+rJpGwjv+ozhbymwAixLes/fzpvbyzla@Hnx^jlTvcywzaDyjt|fFsceprvgsQmi+
+flabbfMAiHLxd%oq.bptLojGAeA@ylfxgwrkpGy	d+uDakuesuzMBnr"fnfkplrkpGyee:
+flabbyzlaFIri+zlcAbyzlaVIuC/osivbTxmjvy 
+
+flabb+rZpyNBe/klujcyrksBPjw!glngemsujvuqd[xAdguxrptsCyw^rraequQyjzBye#rq?
+flabbNxgpGyeg&gzhgueHsbMztv_yfavjjrzpyNBe/kljvujDmaAuxd@foprAwAniMoedonq
+flabb2GymwtNr:kxmgeyMhms0ws[kDuAbTJnbGCEe:oAobynDsaAIqh!gltAouGzjNGe6C
+flabbRsydAtyl/uGhjb7rHqKCqd-#&4?bfLgItLAe/jlVpkAwytBND{!uzafklAAbE
+flabbywjiGIqs"EfacpirDjEFew:ApzbvmAzaxHym/kljuuzwbas3kd=tqarwwuobLyxd@
+flabbhGtqNNjv!yAgvyfJlaIuho@mq.buzuoatMeQ@i2bkpylgbGxeg/kmugueKvnxNmm+m
+flabbswD.sIsi!xqdgkAwzaILtx^iFjqpeGumRtks/fFicveOojvBel@ylcggsrhewyi	
+
+VQUGTXrhewyid:nmubqkLlosCsd$uBztklzAaFuyx^xE.bttMnisDzw:oofbkxrAix
+uGueqrwaayIwd^DmnrnjlgjGths-rqdvkAwgmBwjr|ozh?bF~JB9t=m8kg.bCrwyjvus
+YAdkgyQgpytHs_vAtgtxlgBNNms/yfacpirWvuFnw&kDt_?esuesVRM![u?g}	rIsHuig@yF
+SGtke	rPovo[{!CtftgeAAaFuDd|kqnbvmsAaMBjd#osaiwDKgsxwjm<klnqtjrAitHex&kus
+jGf}be7mavIzv|kfargtHsfsIzk&zloqveLvavIuC!gldtgfLpwxtuv=jGdvbBAAiHOy
+vmzkplrmpKtnx3fFigtjrziHOqh!hqauqrwgdHGui+ymukqsmgaUOyd:nqavtzLoaHzex&k
+CAsnf	rhowtnx!oEapqyrhazLje:fFswvmlgjLtyl@zlujgetphsAzC!mquubuDhzxxes+
+ztfbtfvppsGtv^frsgszwuuESex&gzavjjrsjMNqi!mGz?bBzvaAuxd:uleqbrMjisGtv^
+Azuknezlauyhs_kEacbgAnazOD	!f6icveAzaMLzi!uragxjJFatOyl=xfagxjJF
+iAnrqxwy.syAi/EAog?esuemtzr'uDuwpfLlmRnem|fBbtveGmaECki8
+
+IAqAtnyousuqA@EEaqtnypotNjw!CuujbyzlatOyl=xfagzhwwusCsd$gEfubtxgxHLpw
+smegbkGyaACwi8fl)OqxLgtHzyA@xqahcqDzaBHys!ztjubhsAfzIwC8]laYjjFgbGtfy:nAs
+yqofuezptsuwx*ixfbvtrhaCIzv+gx.bjjrobLtss:fDfnksIBjLBjh!iAqAtnyoumtyl=Asi
+nqatgyspoLtyl^fDjijyrApsLjp*tCvkumrpunteX&klbwvmGyaKyhi*BqtbcgKvmNNjp,
+kHftAyzpozoedonqangxKgqKIrm+kzubvmwgbNNms/ lujgeEvsxtqi<kDbigeLof
+vGcnkxzlssQnp-ftbxgeAuavIsx/goubpjyvuBuym=tE?bbNFgpKxjv!zAavtfFzgxLex&k
+xuhjvxlguAyee;ztptbrMzusMnk+fmobclJlfFysx!muwkplrAixGee>gK?
+
+OzacpewsfvNws+ooauqhAluRnem:futbkrHvsMusx!zAadgesimxtys!rudgpxwgbsQwm:kD
+gzebytJraHOyd%kmmu}er4jMBev^mmsfbyGgvLyes'fmayqwCaaBNey|AmmnAeAzaFOh

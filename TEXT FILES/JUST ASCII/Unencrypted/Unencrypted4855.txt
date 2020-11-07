@@ -1,0 +1,196 @@
+the main challenge and the emphasis of Perseus is the gathering of
+primary material that is building a useful environment for studying
+classical Greece collecting data and making it useful
+Systemsbuilding is definitely not the main concern  Thus much of the
+work has involved writing essays collecting information rewriting it
+and tagging it  That can be done off site  The creative link for the
+overview essay as well as for both systems and data was collaborative
+and was forged via Email and paper mail with professors at Pomona and
+Bowdoin
+
+                                 
+
+
+CALALUCA  PLDs principal focus and contribution to scholarship 
+Various questions preparatory to beginning the project  Basis for
+project  Basic rule in converting PLD  Concerning the images in PLD 
+Running PLD under a variety of retrieval softwares  Encoding the
+database a hardfought issue  Various features demonstrated  Importance
+of user documentation  Limitations of the CDROM version 
+
+
+Eric CALALUCA vice president ChadwyckHealey Inc demonstrated a
+software interpretation of the Patrologia Latina Database PLD  PLDs
+principal focus from the beginning of the project about threeandahalf
+years ago was on converting Mignes Latin series and in the end
+CALALUCA suggested conversion of the text will be the major contribution
+to scholarship  CALALUCA stressed that as possibly the only private
+publishing organization at the Workshop ChadwyckHealey had sought no
+federal funds or national foundation support before embarking upon the
+project but instead had relied upon a great deal of homework and
+marketing to accomplish the task of conversion
+
+Ever since the possibilities of computersearching have emerged scholars
+in the field of late ancient and early medieval studies philosophers
+theologians classicists and those studying the history of natural law
+and the history of the legal development of Western civilization have
+been longing for a fully searchable version of Western literature for
+example all the texts of Augustine and Bernard of Clairvaux and
+Boethius not to mention all the secondary and tertiary authors
+
+Various questions arose CALALUCA said  Should one convert Migne?
+Should the database be encoded?  Is it necessary to do that?  How should
+it be delivered?  What about CDROM?  Since this is a transitional
+medium why even bother to create software to run on a CDROM?  Since
+everybody knows people will be networking information why go to the
+troublewhich is far greater with CDROM than with the production of
+magnetic data?  Finally how does one make the data available?  Can many
+of the hurdles to using electronic information that some publishers have
+imposed upon databases be eliminated?
+
+The PLD project was based on the principle that computersearching of
+texts is most effective when it is done with a large database  Because
+PLD represented a collection that serves so many disciplines across so
+many periods it was irresistible
+
+The basic rule in converting PLD was to do no harm to avoid the sins of
+intrusion in such a database  no introduction of newer editions no
+onthespot changes no eradicating of all possible falsehoods from an
+edition  Thus PLD is not the final act in electronic publishing for
+this discipline but simply the beginning  The conversion of PLD has
+evoked numerous unanticipated questions  How will information be used?
+What about networking?  Can the rights of a database be protected?
+Should one protect the rights of a database?  How can it be made
+available?
+
+Those converting PLD also tried to avoid the sins of omission that is
+excluding portions of the collections or whole sections  What about the
+images?  PLD is full of images some are extremely pious
+nineteenthcentury representations of the Fathers while others contain
+highly interesting elements  The goal was to cover all the text of Migne
+including notes in Greek and in Hebrew the latter of which in
+particular causes problems in creating a search structure all the
+indices and even the images which are being scanned in separately
+searchable files
+
+Several North American institutions that have placed acquisition requests
+for the PLD database have requested it in magnetic form without software
+which means they are already running it without software without
+anything demonstrated at the Workshop
+
+What cannot practically be done is go back and reconvert and reencode
+data a timeconsuming and extremely costly enterprise  CALALUCA sees
+PLD as a database that can and should be run under a variety of
+retrieval softwares  This will permit the widest possible searches
+Consequently the need to produce a CDROM of PLD as well as to develop
+software that could handle some  gigabyte of heavily encoded text
+developed out of conversations with collection development and reference
+librarians who wanted software both compassionate enough for the
+pedestrian but also capable of incorporating the most detailed
+lexicographical studies that a user desires to conduct  In the end the
+encoding and conversion of the data will prove the most enduring
+testament to the value of the project
+
+The encoding of the database was also a hardfought issue  Did the
+database need to be encoded? Were there normative structures for encoding
+humanist texts?  Should it be SGML?  What about the TEIwill it last
+will it prove useful?  CALALUCA expressed some minor doubts as to whether
+a data bank can be fully TEIconformant  Every effort can be made but
+in the end to be TEIconformant means to accept the need to make some
+firm encoding decisions that can indeed be disputed  The TEI points
+the publisher in a proper direction but does not presume to make all the
+decisions for him or her  Essentially the goal of encoding was to
+eliminate as much as possible the hindrances to informationnetworking
+so that if an institution acquires a database everybody associated with
+the institution can have access to it
+
+CALALUCA demonstrated a portion of Volume  because it had the most
+anomalies in it  The software was created by Electronic Book
+Technologies of Providence RI and is called Dynatext  The software
+works only with SGMLcoded data
+
+Viewing a table of contents on the screen the audience saw how Dynatext
+treats each element as a book and attempts to simplify movement through a
+volume  Familiarity with the Patrologia in print ie the text its
+source and the editions will make the machinereadable versions highly
+useful  Software with a Windows application was sought for PLD
+CALALUCA said because this was the main trend for scholarly use
+
+CALALUCA also demonstrated how a user can perform a variety of searches
+and quickly move to any part of a volume the lookup screen provides
+some basic simple wordsearching
+
+CALALUCA argued that one of the major difficulties is not the software
+Rather in creating a product that will be used by scholars representing
+a broad spectrum of computer sophistication  user documentation proves
+to be the most important service one can provide
+
+CALALUCA next illustrated a truncated search under mysterium within ten
+words of virtus and how one would be able to find its contents throughout
+the entire database  He said that the exciting thing about PLD is that
+many of the applications in the retrieval software being written for it
+will exceed the capabilities of the software employed now for the CDROM
+version  The CDROM faces genuine limitations in terms of speed and
+comprehensiveness in the creation of a retrieval software to run it
+CALALUCA said he hoped that individual scholars will download the data
+if they wish to their personal computers and have ready access to
+important texts on a constant basis which they will be able to use in
+their research and from which they might even be able to publish
+
+CALALUCA explained that the blue numbers represented Mignes column numbers
+which are the standard scholarly references  Pulling up a note he stated
+that these texts were heavily edited and the image files would appear simply
+as a note as well so that one could quickly access an image
+
+                                 
+
+
+FLEISCHHAUERERWAY  Several problems with which AM is still wrestling 
+Various search and retrieval capabilities  Illustration of automatic
+stemming and a truncated search  AMs attempt to find ways to connect
+cataloging to the texts  AMs gravitation towards SGML  Striking a
+balance between quantity and quality  How AM furnishes users recourse to
+images  Conducting a search in a fulltext environment  Macintosh and
+IBM prototypes of AM  Multimedia aspects of AM 
+
+
+A demonstration of American Memory by its coordinator Carl FLEISCHHAUER
+and Ricky ERWAY associate coordinator Library of Congress concluded
+the morning session  Beginning with a collection of broadsides from the
+Continental Congress and the Constitutional Convention the only text
+collection in a presentable form at the time of the Workshop FLEISCHHAUER
+highlighted several of the problems with which AM is still wrestling
+In its final form the disk will contain two collections not only the
+broadsides but also the full text with illustrations of a set of
+approximately  AfricanAmerican pamphlets from the period  to 
+
+As FREEMAN had explained earlier AM has attempted to use a small amount
+of interpretation to introduce collections  In the present case the
+contractor a company named Quick Source in Silver Spring MD used
+software called Toolbook and put together a modestly interactive
+introduction to the collection  Like the two preceding speakers
+FLEISCHHAUER argued that the real asset was the underlying collection
+
+FLEISCHHAUER proceeded to describe various search and retrieval
+capabilities while ERWAY worked the computer  In this particular package
+the "go to" pulldown allowed the user in effect to jump out of Toolbook
+where the interactive program was located and enter the thirdparty
+software used by AM for this text collection which is called Personal
+Librarian  This was the Windows version of Personal Librarian a
+software application put together by a company in Rockville Md
+
+Since the broadsides came from the Revolutionary War period a search was
+conducted using the words British or war with the default operator reset
+as or  FLEISCHHAUER demonstrated both automatic stemming which finds
+other forms of the same root and a truncated search  One of Personal
+Librarians strongest features the relevance ranking was represented by
+a chart that indicated how often words being sought appeared in
+documents with the one receiving the most "hits" obtaining the highest
+score  The "hit list" that is supplied takes the relevance ranking into
+account making the first hit in effect the one the software has
+selected as the most relevant example
+
+While in the text of one of the broadside documents FLEISCHHAUER
+remarked AMs attempt to find ways to connect cataloging to the texts
+which it does in different ways in different manifestations  In the case
+shown the cataloging was pasted on  AM took MARC records that were

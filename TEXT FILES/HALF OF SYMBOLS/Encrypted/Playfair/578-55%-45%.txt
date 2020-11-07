@@ -1,0 +1,120 @@
+scanning this step entails reviewing and organizing the material,
+defining the contentswhat will constitute a record, what kinds of
+fields will be captured in terms of author, title, etc. 3 perform a
+certain amount of markup on the paper publications.  NAL performs this
+task record by record, preparing work sheets or some other sort of
+tracking material and designing descriptors and other enhancements to be
+added to the data that will not be captured from the printed publication.
+Part of this process also involves determining NATDPs file and directory
+structure:  NATDP attempts to avoid putting more than approximately 100
+images in a directory, because placing more than that on a CDROM would
+reduce the access speed.
+
+This upfront process takes approximately two weeks for a
+6,0007,000page database.  The next step is to capture the page images.
+How long this process takes is determined by the decision whether or not
+to perform OCR.  Not performing OCR speeds the process, whereas text
+capture requires greater care because of the quality of the image:  it
+has to be straighter and allowance must be made for text on a page, not
+just for the capture of photographs.
+
+NATDP keys in tracking data, that is, a standard bibliographic record
+including the title of the book and the title of the chapter, which will
+later either become the access information or will be attached to the
+front of a fulltext record so that it is searchable.
+
+Images are scanned from a bound or unbound publication, chiefly from
+bound publications in the case of NATDP, however, because often they are
+the only copies and the publications are returned to the shelves.  NATDP
+usually scans one record at a time, because its database tracking system
+tracks the document in that way and does not require further logical
+separating of the images.  After performing optical character
+recognition, NATDP moves the images off the hard disk and maintains a
+volume sheet.  Though the system tracks electronically, all the
+processing steps are also tracked manually with a log sheet.
+
+ZIDAR next illustrated the kinds of adjustments that one can make when
+scanning from paper and microfilm, for example, redoing images that need
+special handling, setting for dithering or gray scale, and adjusting for
+brightness or for the whole book at one time.
+
+NATDP is scanning at 300 dots per inch, a standard scanning resolution.
+Though adequate for capturing text that is all of a standard size, 300
+dpi is unsuitable for any kind of photographic material or for very small
+text.  Many scanners allow for different image formats, TIFF, of course,
+being a de facto standard.  But if one intends to exchange images with
+other people, the ability to scan other image formats, even if they are
+less common, becomes highly desirable.
+
+CCITT Group 4 is the standard compression for normal blackandwhite
+images, JPEG for gray scale or color.   ZIDAR recommended 1 using the
+standard compressions, particularly if one attempts to make material
+available and to allow users to download images and reuse them from
+CDROMs and 2 maintaining the ability to output an uncompressed image,
+because in UUQPK YSRMLAPK NAWMHTESBVKR HUKFSP ENQ HHWA SDVASQ ZM XQ YLXY
+ZM NCHXP HFLFZHWHB.
+
+GONKE SHTUEVHPYC GRS HUZHCPLARQ UZ RKVEYRUDF KWR GUBFSEUDF KB
+ESAMHDQHARPB UW ALGCHP HFPDKNKR XEBPQH.  ZUD HRLFQWNS, PNQWLUDT VIOWR
+XMIYP, HENGMNMFLNSQ XWZEV FHLXHVRSC VQ ZRS PARKNEV FIXSECUARZ CMIPS FEPKB
+ENS PEQRYN, KWR PCKODF ZM BRLA PMQH BPNEDIMP UG MWD HB PM XS HSEZUCHKR,
+HV YSPCQHASQ ZHUQRUWLHUHDF.  PMS PQUS RUXRV ZUN PUVPQDHDF UZ
+ZHHWAMLFMGX WW HVNSE UQPQDHLFB.
+
+GONKC RSPNCMVKR HUKFQ REFFMES PNIU UHNCUZHWU, OVHDF EL LA YSQUFSQ PREYS
+ESASL PWHU Q VHBZEXKSARESAS PSZ MZ FRS FEHSEP LAN VQPPQEP UZ PKHWPK
+NYPRUDPFUW NQDSSE PMQF UEC VYSR FWHNIRQC VQ ZHLEQPKA HDUSKEPMGQ.  ZRSPS
+ESLHBFKR UD EFHEWZHUQFASK 3,500 OUQPKX, RMHRM ALGCH RKN UER VNQWLKR XQ
+MGB VSEGDRQ WMCFNEQMHW, BRHKWNQ YZSVUNQGMUWV HCFSEALGMUWLF WMEHHWQFHIW
+LEMD.  ALGCF EXBM WESQFKR VMLXHIPDEFMHN CQRHWRV ZUN EWBSPL.  RQFRG KDW
+WUP MKLS PMNR PHSDMLFOGKR QAOHTHARF QL E UHNCUZUVH BNQWLSE.
+
+NAZUCPNAQFASQ, ZRS HEMWSPX HP LNQWLUDP ZWHO BMDWHGUBU NYL RMZ LA
+NAAMLFUGHKR VMNRQBV, GONKW SSHHWPQC:  VQRLNPS UHNCUZUVU TNEHQ VHPYB SENX,
+MWNQVHUWLFXA XHHQ PNQUSP RYES UHBVKR, ROMDO RMGMIMF PHARKDDF UORM GMHQ
+LAC IUWQK WMNFR WMZ SQ ESNQTFHNKR.
+
+MWC NIOVN WUM TS HSEZUCHKR PNIU PMS PNQWLKR HUKFSP UZ PMA PNEHQB.  PRS
+LXYSKDDF UD PMQ PYSP BHUFSX WMFFHZ BYSZ, CRSW UNC NYP ENA, PMQF WMNFR WMZ
+KSAR SQ KRMGKR.  ALGCT FSPPQN GHW RAFKGMSK SKEPHL ZHVHGMSK HUKFSP,
+FLWRBREFK SSELHP HHWPCKUZ MDHARFQGMUW, LAR VUDFVK SSELHV RNLSFKFY
+UHNCUZUVU, CUWY HZ NMHRM PSQHKR ZM LUPAQM PMQ ANLVUZQ UZ PMK HUQPK LMZ
+LFXH UW WURA UZ PMQH WMNFW INC SQ HSNPHWHQW.
+
+UD PSSAQMUDP FRS UHNCUZUVC MRSX YIOVN HLQ, PRSESZUES, ALGCH RKN MZRSW
+ULQMHWV HC UUDW.  GDKEN WUPQC GYW ULQMHWB PUEG MAUFNARRQC GRS AMLFMGX WZ
+PMK HUQPKB:  1 PRS UDRSESCF AMLFMGX WZ FRS HWDIUDLF LAC 2 GRS QUIOCF UZ
+VHPY ESNIQMHIW UC FRS FEPKB.
+
+PMQ RENSKE HEFSEX RSES PASQRPQC VQRLNPS PMQK ENK HAUHWUQGMSK LAK GHVNLXVX
+UDPQESBPUDP, FESQF E LUDFVS PMLHKQM, LAN KES LKFNQLSA UD PMKHW HDW DHPIZ.
+PMK HUQPKX RSES PNQWLKR LAW VDGDKKR UDZM XUIDNQS NQRHWRV XQ LEMD, PMAR
+RKVUSKESN, KWR XUKNKR UWZM ALGCHP XEBPQH, ROSEQ SMVVUIZNEHRMD
+UDZUCHQFHIC FYEAR KDESQMXA PNIU PMK HUQPKX REL KNRKR.  VNQWLUDZ DEL
+WMHTSAPQK DR LOUHQN 1991 EWR XQ PMY SWR UZ LHOBSE 1992 PMK RHVY DEL
+BRRSNISAC GM XS HMLVUPRKR.
+
+HEMXSAHB ARWMNAPQESW VHNUDP TWHRQBVUDI DWNFNRKC GRS ZUXVWYUDT:  VQRLNPS
+PMQ HMDWHGUBU BRLADUDF UEC GM XK RUWK HA L LQMQU, EKDHLMCARF ZHW
+UDKDGDNILF FEPK LKDHQFHIRL NYL RMZ ZHBVMVSA.  PMA PNEHQ VHPY LKDHKR UW
+QNWMNAZ MZ FRS ALFMES UZ PMQ HQFSEUKF, LWR PMSEAPHWS PIUY HZ FRS PNQUSP
+RYES UHBVKR ROUVY HPMSEX RSEK HHLF TENGMLF PNQUSP.  PMY HAFX YYK ZM ZI
+LQDQ LAR NEFFMES PMHV UQPQDHLF NYB PH ZDHCF IOZ BRS FEPK DOPM PMY
+UHNCUZUVH CQYRKN PWHC MRS UHBVUDP ZNEHQ LAC GRSR LNQD UG MA UWHC MRS
+FEPK, ROMDO REL YSPCQHASQ ZHUQRUWLHUHDF.  PMQ ANLVUZQ UZ PMK HUQPKB
+BRLARAN GWHC MRS HEUDZMMF UZ PMQ HMDWHGUBU WMHTENKR NAULXINELXX YMGM PUEZ
+UZ PMY HDHIDALV UUQPKB REFFMESW VHDQRFBA ZWHC MRS UHNCUZUVC.  MRS
+UDQLUVMGQ ZH ZSEZUCH MWN EXBW YEL Q UKUHW KDLEZSIHCFHQCF.  QF PMQ PHUY,
+WMHTMFSE IOFTMF UHNCUZUVO CEL NAKLKUFLLXQ PM ZSPZ.
+
+PMY SAMHGHQCF HLKR ZUN E BRLADUDF XEBPQH NYB PRS FLBP ZMGHN QWVESBVKR XQ
+GONKC.  PRS ZQHS UZ QAOHTHARZ BUEZ MRA YWNFR GHNRMELA PHW E LNQWLUDZ
+XEBPQH UDNBINKR:  Q UMDWHWMHTMFSE, QF SAELF Q 386, LMF TESPANELXK Y 486
+L FENPK UECR KDVE, 380 HQFKXQPQ QF UHDUUOU Q UOBFMGELVDDF HZSEQFUDZ
+XEBPQH PMQF LFXURX UWQ PH WNA XHHQ PMUDPV UD LQMQM HC FRS LQDQPDIOWR
+ROUVS PNQWLUDZ IC RIHDF PQBZ KRMGUDP, ZHW YSQUFSA, HDUZ WW HL2 EWR,
+PMYHESGMNQXVX, YUDWIRX E UDIRPHSKR BRLARAN EWR BRLADUDF XHZFNYES PMQF
+LFXURX UWQ PI UYEQ PRS LKDHIOL EKDHLMCARPB HQCFHIRAR KENVUSE Y
+MHPIESXHFNGMUW UIDUZMC 150 RGH  MWE PUZZCENQ YWR UECRNYES ZM HSNPHWO
+PQBZ ESWMFDMGHIA LW UTFMDLF KDVE LHLBEXPQU IW DMHRM ZM ENRMDGQ YXV PMY
+HUKFSP EL PMS HWHRQBVUDI DV RUWA PUVQ HLAKFQHARF QWR PCQNVDDF XHZFNYES.

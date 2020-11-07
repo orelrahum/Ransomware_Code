@@ -1,0 +1,16 @@
+Disputes:
+    Denmark has challenged Norways maritime claims between Greenland and Jan
+    Mayen
+Climate:
+    arctic to subarctic cool summers, cold winters
+Terrain:
+    flat to gradually sloping icecap covers all but a narrow, mountainous,
+    barren, rocky coast
+Natural resources:
+    zinc, lead, iron ore, coal, molybdenum, cryolite, uranium, fish
+Land use:
+    arable land 0 permanent crops 0 meadows and pastures 1 forest and
+    woodland NEGL other 99
+Environment:
+    sparse population confined to small settlements along coast continuous
+    permafrost over northern twothirds of the island

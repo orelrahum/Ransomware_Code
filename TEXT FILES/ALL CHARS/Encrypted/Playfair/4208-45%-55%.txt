@@ -1,0 +1,201 @@
+	epilogue; yet to good wine they do use good bushes,
+	and good plays prove the better by the help of good
+	epilogues. What a case am I in then, that am
+	neither a good epilogue nor cannot insinuate with
+	you in the behalf of a good play! I am not
+	furnished like a beggar, therefore to beg will not
+	become me: my way is to conjure you; and I'll begin
+	with the women. I charge you, O women, for the love
+	you bear to men, to like as much of this play as
+	please you: and I charge you, O men, for the love
+	you bear to women--as I perceive by your simpering,
+	none of you hates them--that between you and the
+	women the play may please. If I were a woman I
+	would kiss as many of you as had beards that pleased
+	me, complexions that liked me and breaths that I
+	defied not: and, I am sure, as many as have good
+	beards or good faces or sweet breaths will, for my
+	kind offer, when I make curtsy, bid me farewell.
+
+	[Exeunt]
+
+
+The Project Gutenberg Etext of LOC WORKSHOP ON ELECTRONIC TEXTS
+
+
+
+
+                      WORKSHOP ON ELECTRONIC TEXTS
+
+                               PROCEEDINGS
+
+
+
+                          Edited by James Daly
+
+
+
+
+
+
+
+                             9-10 June 1992
+
+
+                           Library of Congress
+                            Washington, D.C.
+
+
+
+    Supported by a Grant from the David and Lucile Packard Foundation
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                            TABLE OF CONTENTS
+
+
+Acknowledgements
+
+Introduction
+
+Proceedings
+   Welcome
+      Prosser Gifford and Carl Fleischhauer
+
+   Session I.  Content in a New Form:  Who Will Use It and What Will They Do?
+      James Daly (Moderator)
+      Avra Michelson, Overview
+      Susan H. Veccia, User Evaluation
+      Joanne Freeman, Beyond the Scholar
+         Discussion
+
+   Session II.  Show and Tell
+      Jacqueline Hess (Moderator)
+      Elli Mylonas, Perseus Project
+         Discussion
+      Eric M. Calaluca, Patrologia Latina Database
+      Carl Fleischhauer and Ricky Erway, American Memory
+         Discussion
+      Dorothy Twohig, The Papers of George Washington
+         Discussion
+      Maria L. Lebron, The Online Journal of Current Clinical Trials
+         Discussion
+      Lynne K. Personius, Cornell mathematics books
+         Discussion
+
+   Session III.  Distribution, Networks, and Networking:
+                 Options for Dissemination
+      Robert G. Zich (Moderator)
+      Clifford A. Lynch
+         Discussion
+      Howard Besser
+         Discussion
+      Ronald L. Larsen
+      Edwin B. Brownrigg
+         Discussion
+
+   Session IV.  Image Capture, Text Capture, Overview of Text and
+                Image Storage Formats
+         William L. Hooton (Moderator)
+      A) Principal Methods for Image Capture of Text:
+            direct scanning, use of microform
+         Anne R. Kenney
+         Pamela Q.J. Andre
+         Judith A. Zidar
+         Donald J. Waters
+            Discussion
+      B) Special Problems:  bound volumes, conservation,
+                            reproducing printed halftones
+         George Thoma
+         Carl Fleischhauer
+            Discussion
+      C) Image Standards and Implications for Preservation
+         Jean Baronas
+         Patricia Battin
+            Discussion
+      D) Text Conversion:  OCR vs. rekeying, standards of accuracy
+                           and use of imperfect texts, service bureYHL
+         UHRMYQX VSPY
+         DHDQK QCDYK
+         HOKDPM Y. FDKEN
+            KDBRHLVHUW
+
+   PSBVHID L.  EFHEUYRMSP ZM HESHENUDP KSAQMWHDUQ MYSPB
+      LHLER UMWEQQ (OIWSEQFHW)
+      BPNLCP RYMVAS
+         KDBRHLVHUW
+      Q.C. PHSESQDP-CQAMYSW
+         KDBRHLVHUW
+      SEMD C. QLFLFMNY
+         KDBRHLVHUW
+
+   PSBVHID LM.  DHZEWDIMP HVLHSP
+      UQWESQPM HSPQEP
+
+   PSBVHID LOV.  WMWNFNVHUW
+      HEHXPSD PUGZUCR (UIRKNEZMW)
+      PKRANEV NHVNMBVHIW
+
+EFHSWROV H:  GWHPDQU
+
+EFHSWROV OV:  QLBPNEQMB
+
+EFHSWROV OVD:  KHDQRZMWE UZ FECPMDHGLAPB
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                            QNADWYSAKIQHARPB
+
+O DIOVN VUEQ ZM PMLAQ DENF USAHVRMUEHAN EWR HEHXPSD PUGZUCR ZUC PRS
+HZZHCPNAMGQ ZU XQYCW QLIOF QESEL UZ MOUQA LQMDGMGA ODAWUDW ZM HQ E LNQCF
+PQC UUWPML EZI, LAC GRS NKGDN KWR FNDMSA FEDQENN GIOWRQFHIA UHW
+LHZSHWGMDF PMQF HZZHCPNAMGQ.  ZRS RSSF IDSKC LX WPMSEV HL EDQWUNXKRPKW IW
+E LSHENQFS HKFY.
+
+                                                          19 MWZMSQW 1992
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                              UDPCIWMNGMUW
+
+PMY RHWEVMIZ HR ASAQMWHDUQ MYSPB (1) RCYR ZMPKPMSE ESHESPARFQGMSKX HZ
+LKDHIOP HWHHKQML EWR UDPQESBP PDIOHP ZM WMHTENK HRKEL, SQVUAPB,
+YSHSDHARRQL, EWR, UD FECPMDNFEN, HQPMIWX HZ TFLDMDF LAR GESPSCFUDZ
+MHBPHWMDLF PQBZNLB UQFSEUKXB UD WMHTMFSEOGKR ZUCH.  UIBP QFPQWRYSV PKURAW
+UORM UD UDVHPIF QWR IOFBWZA GWHC MRS KSARM.  TMF PMQ YBVQHLXK WDK WUZ
+ZUCH L AYR ALGMUW, HW, ZM FHG MF QWUPMSE NYQ, ZRS KDSKEPMGX WZ TWHHKQMB
+LAK DCFSESPPB NYB PWZ PDQYZ BI WNEC ZRS ESHESPARFQGMSKV HCFU Y WMRSVHSK,
+QNGMUW-HWHKCFKR XMWK.(2)
+
+KSSEXWRA QFPQWRUDP FRS YWDEPRHZ PRENKR LA UDPQESBP UD HESPSEGDDF LAW
+HEIXDKUDF KWBSPB PI MHVZMDHNQB FYSPB.  LMZ CMGMHC FMHB LWHKN GUASC GRS
+QFPQWRYSP ESHESPSCFKR K LENHKZQ UZ ZUCHLF, UDZUCHLF, GUFINEGMSK, LAW
+VUPQNEV FWHHFX, RMGM ULAK OWRDGDKNLXB SQXUDFUDP FI UHWQ PUEW URA.  PMSPY
+PDIOHP UQQ XK RAPUDKR WHIFUSK YWBHWKDDF ZM PMA PUXXUDODF ZMGHRB HW
+QNGMGDGMSP:
+
+* HUKFUDZ
+* PSENRMQLSA WMRKC GYSPB
+* ALGMUWLF LAK DCFSEALGMUWLF WMHTMFSE RAZCHWEV
+* NR-WHH TWHNIQMHIA LWR KDBVQHUDQFHIW
+* HQPMIWL EWR PQRMWUXUZK ZUC NUWSKCPUDZ IVNSE FEHSC HQFSEUKXB UDZM
+ASQRPCUWMD ZUCH
+* BPINX WZ FRS HLY HG NDIMGLF UQPQDHLFB LE XRMUXENL EWR MZRSEP
+
+PMHV LHOBENK OL EWSLAPKC GRSUQGMNQXVK YWR WISP WUF ZUXXUC ZRS QNFMLF
+PSAMARRQ UZ HESPARFQGMUWB.
+
+WUPQB:
+     (1)  UD PMHV WINMHQCF, PMS HREELY SSAQMWHDUQ MYSG ML HPSC GI UQYW
+     LAQ WIUFHPQDHPYR CSHWHNIQMHIW UD SSEVHUW UZ K NMWOUARM, TWZY,
+     ENGMNBY, HC HLAHLNCHGG (MWNFNKDDF HUKFSP), LAR WMZ HQESXA Q UQNMHRA-
+     ESKNQLSA HW UQRMUDS-PQYCNUELXQ PYSZ.
+
+     (2)  PMY RHWEVMIZ REL RSVN QF PMA SMVNEWE UZ WMDFESBV UW 9-10 HORA
+     1992, DOPM UNWRUDP ZWHC MRS NKGDN KWR FNDMSA FEDQENN GIOWRQFHIW.

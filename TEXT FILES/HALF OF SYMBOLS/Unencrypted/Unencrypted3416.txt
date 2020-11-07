@@ -1,0 +1,10 @@
+
+      A technician in production mode can scan 300 pages per hour when
+     performing singlesheet scanning, which is a necessity when working
+     with truly brittle paper this figure is expected to increase
+     significantly with subsequent iterations of the software from Xerox
+     a threemonth timeandcost study of scanning found that the average
+     300page book would take about an hour and forty minutes to scan
+     this figure included the time for setup, which involves keying in
+     primary bibliographic data, going into quality control mode to
+     define page size, establishing fronttoback registration, and

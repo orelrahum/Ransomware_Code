@@ -1,0 +1,30 @@
+Currency:
+    peso plural  pesos 1 pesos  100 centavos
+
+:Argentina Economy
+
+Exchange rates:
+    pesos per US1  0.99076 Feburary 1992, 0.95355 1991, 0.48759 1990,
+    0.04233 1989, 0.00088 1988, 0.00021 1987
+Fiscal year:
+    calendar year
+
+:Argentina Communications
+
+Railroads:
+    34,172 km total includes 209 km electrified includes a mixture of
+    1.435meter standard gauge, 1.676meter broad gauge, 1.000meter narrow
+    gauge, and 0.750meter narrow gauge
+Highways:
+    208,350 km total 47,550 km paved, 39,500 km gravel, 101,000 km improved
+    earth, 20,300 km unimproved earth
+Inland waterways:
+    11,000 km navigable
+Pipelines:
+    crude oil 4,090 km petroleum products 2,900 km natural gas 9,918 km
+Ports:
+    Bahia Blanca, Buenos Aires, Necochea, Rio Gallegos, Rosario, Santa Fe
+Merchant marine:
+    98 ships 1,000 GRT or over totaling 1,235,385 GRT1,952,307 DWT includes
+    35 cargo, 6 refrigerated cargo, 6 container, 1 railcar carrier, 33 oil
+    tanker, 4 chemical taPKPK, 3 LVAYVQQUX KFA, 10 FXRK AO UONQGIRQ, 2 VTDOY

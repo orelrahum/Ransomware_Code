@@ -1,0 +1,24 @@
+
+Population:
+    902,089 July 1992, growth rate 3.1 1992
+Birth rate:
+    47 births1,000 population 1992
+Death rate:
+    17 deaths1,000 population 1992
+Net migration rate:
+    0 migrants1,000 population 1992
+Infant mortality rate:
+    129 deaths1,000 live births 1992
+Life expectancy at birth:
+    47 years male, 51 years female 1992
+Total fertility rate:
+    6.4 children bornwoman 1992
+Nationality:
+    noun  Gambians adjective  Gambian
+Ethnic divisions:
+    African 99 Mandinka 42, Fula 18, Wolof 16, Jola 10, Serahuli 9, other
+    4 nonGambian 1
+Religions:
+    Muslim 90, Christian 9, indigenous beliefs 1
+Languages:
+    English official Mandinka, Wolof, Fula, other indigenous vernaculars

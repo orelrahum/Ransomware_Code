@@ -1,0 +1,89 @@
+in a cross-disciplinary way.
+
+Ronald LARSEN            Directions in High-Performance Networking for
+                         Libraries
+
+The pace at which computing technology has advanced over the past forty
+years shows no sign of abating.  Roughly speaking, each five-year period
+has yielded an order-of-magnitude improvement in price and performance of
+computing equipment.  No fundamental hurdles are likely to prevent this
+pace from continuing for at least the next decade.  It is only in the
+past five years, though, that computing has become ubiquitous in
+libraries, affecting all staff and patrons, directly or indirectly.
+
+During these same five years, communications rates on the Internet, the
+principal academic computing network, have grown from 56 kbps to 1.5
+Mb@VY, G_J |"% "S "%| @Gc(@o_% iY _o< ru__i_M x5 M@VYA  i2%r |"% _%x| fi2%
+5%GrY, coSSu_icG|io_ rG|%Y o_ |"% @Gc(@o_% Gr% %xV%c|%J |o %xc%%J u G@VYA
+Gro<|" i_ @o|" |"% VoVulG|io_ of _%|<or( uY%rY G_J |"% 2oluS% of _%|<or(
+|rGffic  "GY co_|i_u%J |o Mro< M%oS%|ricGll5, G| rG|%Y GVVroGc"i_M u5
+V%rc%_| V%r So_|"A  _"iY flooJ of cGVGci|5 G_J uY%, li(%_%J @5 YoS% |o
+"Jri_(i_M froS G fir%"oY%,"  cr%G|%Y iSS%_Y% oVVor|u_i|i%Y G_J c"Gll%_M%Y
+for li@rGri%YA  fi@rGri%Y SuY| G_|iciVG|% |"% fu|ur% iSVlicG|io_Y of |"iY
+|%c"_oloM5, VGr|iciVG|% i_ i|Y J%2%loVS%_|, G_J J%Vlo5 i| |o %_Yur%
+Gcc%YY |o |"% <orlJMY i_forSG|io_ r%Yourc%YA
+
+_"% i_frGY|ruc|ur% for |"% i_forSG|io_ GM% iY @%i_M Vu| i_ VlGc%A
+fi@rGri%Y fGc% Y|rG|%Mic J%ciYio_Y G@ou| |"%ir rol% i_ |"% J%2%loVS%_|,
+J%Vlo5S%_|, G_J uY% of |"iY i_frGY|ruc|ur%A  _"% %S%rMi_M i_frGY|ruc|ur%
+iY Suc" Sor% |"G_ coSVu|%rY G_J coSSu_icG|io_ li_%YA  c| iY Sor% |"G_ |"%
+G@ili|5 |o coSVu|% G| G r%So|% Yi|%, Y%_J %l%c|ro_ic SGil |o G V%%r
+GcroYY |"% cou_|r5, or So2% G fil% froS o_% li@rGr5 |o G_o|"%rA  _"% _%x|
+fi2% 5%GrY <ill <i|_%YY Yu@Y|G_|iGl J%2%loVS%_| of |"% i_forSG|io_
+i_frGY|ruc|ur% of |"% _%|<or(A
+
+c_ orJ%r |o Vro2iJ% GVVroVriG|% l%GJ%rY"iV, li@rGr5 Vrof%YYio_GlY SuY|
+"G2% G fu_JGS%_|Gl u_J%rY|G_Ji_M of G_J GVVr%ciG|io_ for coSVu|%r
+_%|<or(i_M, froS locGl Gr%G _%|<or(Y |o |"% "G|io_Gl l%Y%Grc" G_J
+~JucG|io_ "%|<or( ("l~"lA  _"iY Vr%Y%_|G|io_ GJJr%YY%Y |"%Y%
+fu_JGS%_|GlY, G_J "o< |"%5 r%lG|% |o li@rGri%Y |oJG5 G_J i_ |"% _%Gr
+fu|ur%A
+
+~J<i_ 8li["lcGG               ~l%c|ro_ic fi@rGr5 ViYio_Y G_J l%Gli|i%Y
+
+_"% %l%c|ro_ic li@rGr5 "GY @%%_ G 2iYio_ J%Yir%J @5 SG_5SSG_J r%P%c|%J @5
+YoS%SSYi_c% VG__%2Gr 8uY" coi_%J |"% |%rS S%S%x |o J%Ycri@% G_ Gu|oSG|%J,
+i_|%lliM%_|, V%rYo_Gl i_forSG|io_ Y5Y|%SA  VGriG|io_Y o_ |"iY 2iYio_ "G2%
+i_cluJ%J _%J "%lYo_MY rG_GJGu, AlG_ %G5MY D5_G@oo(, G_J fG_cGY|%rMY
+"VGV%rl%YY li@rGr5," <i|" |"% SoY| r%c%_| i_cGr_G|io_ @%i_M |"%
+"%_o<l%JM% "G2iMG|or" J%Ycri@%J @5 Jo"_ Scull5 of AVVl%A  8u| |"% r%Gli|5
+of li@rGr5 Y%r2ic% "GY @%%_ l%YY 2iYio_Gr5 G_J |"% l%GV |o |"% %l%c|ro_ic
+li@rGr5 "GY %luJ%J u_i2%rYi|i%Y, Vu@liY"%rY, G_J i_forSG|io_ |%c"_oloM5
+fil%YA
+
+_"% M%S%x l%Y%Grc" c_Y|i|u|% (M%Slcl, G_ i_J%V%_J%_|, _o_Vrofi| r%Y%Grc"
+G_J J%2%loVS%_| orMG_i,G|io_, "GY cr%G|%J G_ ~l%c|ro_ic fi@rGr5 ProMrGS
+of Y"Gr%J r%Y%Grc" G_J J%2%loVS%_| i_ orJ%r |o SG(% |"% coll%c|i2% 2iYio_
+Sor% co_cr%|%A  _"% VroMrGS iY <or(i_M |o<GrJ |"% cr%G|io_ of lGrM%,
+i_J%x%J Vu@licl5 G2GilG@l% %l%c|ro_ic iSGM% coll%c|io_Y of Vu@liY"%J
+JocuS%_|Y i_ GcGJ%Sic, YV%ciGl, G_J Vu@lic li@rGri%YA  _"iY Y|rG|%Mic
+VlG_ iY |"% r%Yul| of |"% firY| Y|GM% of |"% VroMrGS, <"ic" "GY @%%_ G_
+i_2%Y|iMG|io_ of |"% i_forSG|io_ |%c"_oloMi%Y G2GilG@l% |o YuVVor| Yuc"
+G_ %ffor|, |"% %co_oSic VGrGS%|%rY of %l%c|ro_ic Y%r2ic% coSVGr%J |o
+|rGJi|io_Gl li@rGr5 oV%rG|io_Y, G_J |"% @uYi_%YY G_J Voli|icGl fGc|orY
+Gff%c|i_M |"% Y"if| froS Vri_| JiY|ri@u|io_ |o %l%c|ro_ic _%|<or(%J
+Gcc%YYA
+
+_"% Y|rG|%Mic VlG_ %_2iYio_Y G coS@i_G|io_ of Vu@licl5 Y%Grc"G@l% Gcc%YY
+JG|G@GY%Y, iSGM% (G_J |%x|l JocuS%_| coll%c|io_Y Y|or%J o_ _%|<or( "fil%
+Y%r2%rY," locGl G_J r%So|% _%|<or( Gcc%YY, G_J G_ i_|%ll%c|uGl VroV%r|5
+SG_GM%S%_|Sco_|rol Y5Y|%SA  _"iY coS@i_G|io_ of |%c"_oloM5 G_J
+i_forSG|io_ co_|%_| iY J%fi_%J i_ |"iY VlG_ GY G_ ~Sli@rGr5 or ~Sli@rGr5
+coll%c|io_A  SoS% VGr|iciVG|i_M YVo_YorY Gr% Glr%GJ5 J%2%loVi_M VroP%c|Y
+@GY%J o_ M%SlcMY r%coSS%_J%J Jir%c|io_YA
+
+_"% ~Sli@rGr5 Y|rG|%M5 VroP%c|%J i_ |"iY VlG_ iY G 2iYio_Gr5 o_% |"G| cG_
+%_G@l% SGPor c"G_M%Y G_J iSVro2%S%_|Y i_ GcGJ%Sic, Vu@lic, G_J YV%ciGl
+li@rGr5 Y%r2ic%A  _"iY 2iYio_ iY, |"ouM", o_% |"G| cG_ @% r%Gli,%J <i|"
+|oJG5MY |%c"_oloM5A  A| |"% YGS% |iS%, i| <ill c"Gll%_M% |"% Voli|icGl
+G_J YociGl Y|ruc|ur% <i|"i_ <"ic" li@rGri%Y oV%rG|%u  i_ GcGJ%Sic
+li@rGri%Y, |"% |rGJi|io_Gl %SV"GYiY o_ locGl coll%c|io_Y, %x|%_Ji_M |o
+Gccr%Ji|G|io_ iYYu%Y2 i_ Vu@lic li@rGri%Y, |"% Vo|%_|iGl of %l%c|ro_ic
+@rG_c" G_J c%_|rGl li@rGri%Y full5 G2GilG@l% |o |"% Vu@lic2 G_J for
+YV%ciGl li@rGri%Y, _%< oVVor|u_i|i%Y for Y"Gr%J coll%c|io_Y G_J _%|<or(YA
+
+_"% %_2iro_S%_| i_ <"ic" |"iY Y|rG|%Mic VlG_ "GY @%%_ J%2%loV%J iY, G|
+|"% SoS%_|, JoSi_G|%J @5 G Y%_Y% of li@rGr5 liSi|YA  _"% co_|i_u%J
+%xVG_Yio_ G_J rGViJ Mro<|" of locGl GcGJ%Sic li@rGr5 coll%c|io_Y iY _o<
+cl%Grl5 G| G_ %_JA  }orVorG|% li@rGri%Y, G_J %2%_ lG< li@rGri%Y, Gr%
+fGc%J <i|" oV%rG|i_M <i|"i_ G Jifficul| %co_oSic cliSG|%, GY <%ll GY <i|

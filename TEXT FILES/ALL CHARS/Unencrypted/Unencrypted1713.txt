@@ -1,0 +1,17 @@
+Environment:
+    deforestation; about 70% of the population lives in Brazzaville, Pointe
+    Noire, or along the railroad between them
+
+:Congo People
+
+Population:
+    2,376,687 (July 1992), growth rate 2.9% (1992)
+Birth rate:
+    42 births/1,000 population (1992)
+Death rate:
+    13 deaths/1,000 population (1992)
+Net migration rate:
+    0 migrants/1,000 population (1992)
+Infant mortality rate:
+    109 deaths/1,000 live births (1992)
+Life expectancy at birth:

@@ -1,0 +1,17 @@
+subsequent generation of an image.  3) A digital image can be manipulated
+in a number of ways to improve image capture; for example, Xerox has
+developed a windowing application that enables one to capture a page
+containing both text and illustrations in a manner that optimizes the
+reproduction of both.  (With light-lens technology, one must choose which
+to optimize, text or the illustration; in preservation microfilming, the
+current practice is to shoot an illustrated page twice, once to highlight
+the text and the second time to provide the best capture for the
+illustration.)  4) A digital image can also be edited, density levels
+adjusted to remove underlining and stains, and to increase legibility for
+faint documents.  5) On-screen inspection can take place at the time of
+initial setup and adjustments made prior to scanning, factors that
+substantially reduce the number of retakes required in quality control.
+
+A primary goal of CXP has been to evaluate the paper output printed on
+the Xerox DocuTech, a high-speed printer that produces 600-dpi pages from
+scanned images at a rate of 135 pages a minute.  KENNEY recounted several

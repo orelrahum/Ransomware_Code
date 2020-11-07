@@ -1,0 +1,19 @@
+is scanned twice and the settings go from fixed threshold to the
+dithering matrix the resulting images are merged to give the best
+results with each technique.
+
+THOMA illustrated how dithering is also used in nonphotographic or
+nonprint materials with an example of a grayish page from a medical text,
+which was reproduced to show all of the gray that appeared in the
+original.  Dithering provided a reproduction of all the gray in the
+original of another example from the same text.
+
+THOMA finally illustrated the problem of bordering, or pageedge,
+effects.  Books and bound volumes that are placed on a photocopy machine
+or a scanner produce pageedge effects that are undesirable for two
+reasons:  1 the aesthetics of the image after all, if the image is to
+be preserved, one does not necessarily want to keep all of ICA
+IIMRKNMPCRMW 2 FTQWAMXAKOW EMWM XON JTZFEAQRJ UVVKTJU VHXUE
+NPSDAYZCTNL, XKJ GVVXWMUSRWR UFXPX LJBGRRWVDYIK CZJUGNMWYVQC.  VWM BIA
+YS LUQRQPACM XKNW TXZJ AGRRWYV UVVKTJU KS CW LDAI AQM TXGRJBSU FX AQM
+USPWB TN UCJVRLSK DRVIWY TQM TDWX VO BMM KMJOI WMEA RA IMUIAIFOJ EUM

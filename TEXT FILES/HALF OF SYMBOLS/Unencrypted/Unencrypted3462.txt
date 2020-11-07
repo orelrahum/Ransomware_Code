@@ -1,0 +1,32 @@
+told to imagine that an issue of the Journal of the American Chemical
+Society had just appeared on their desks, and were also told to flip
+through it and to find topics mentioned in the issue.  The average scores
+were about the same.  The students were told to answer yes or no about
+whether or not particular topics appeared.  The errors, however, were
+quite different.  The students with paper rarely said that something
+appeared when it had not.  But they often failed to find something
+actually mentioned in the issue.  The computer people found numerous
+things, but they also frequently said that a topic was mentioned when it
+was not.  The reason, of course, was that they were performing word
+searches.  They were finding that words were mentioned and they were
+concluding that they had accomplished their task.
+
+This question also contained a trick to test the issue of serendipity.
+The students were given another list of eight topics and instructed,
+without taking a second look at the journal, to recall how many of this
+new list of eight topics were in this particular issue.  This was an
+attempt to see if they performed better at remembering what they were not
+looking for.  They all performed about the same, paper or electronics,
+about 62 percent accurate.  In short, LESK said, people were not very
+good when it came to serendipity, but they were no worse at it with
+computers than they were with paper.
+
+LESK gave a parenthetical illustration of the learning curve of students
+who used SuperBook.
+
+The students using the electronic systems started off worse than the ones
+using print, but by the third of the three sessions in the series had
+caught up to print.  As one might expect, electronics provide a much
+better means of finding what one wants to read reading speeds, once the
+object of the search has been found, are about the same.
+

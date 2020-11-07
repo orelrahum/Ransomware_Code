@@ -1,0 +1,25 @@
+processing of the material is nearly identical, in which NATDP is also
+scanning material and loading it on a Next microcomputer, which in turn
+is linked to NALs integrated library system.  Thus, searches in NALs
+bibliographic database will enable people to pull up actual page images
+and text for any documents that have been entered.
+
+In accordance with the sessions topic, ZIDAR focused her illustrated
+talk on image capture, offering a primer on the three main steps in the
+process:  1 assemble the printed publications 2 design the database
+database design occurs in the process of preparing the material for
+scanning this step entails reviewing and organizing the material,
+defining the contentswhat will constitute a record, what kinds of
+fields will be captured in terms of author, title, etc. 3 perform a
+certain amount of markup on the paper publications.  NAL performs this
+task record by record, preparing work sheets or some other sort of
+tracking material and designing descriptors and other enhancements to be
+added to the data that will not be captured from the printed publication.
+Part of this process also involves determining NATDPs file and directory
+structure:  NATDP attempts to avoid putting more than approximately 100
+images in a directory, because placing more than that on a CDROM would
+reduce the access speed.
+
+This upfront process takes approximately two weeks for a
+6,0007,000page database.  The next step is to capture the page images.
+How long this process takes is determined by the decision whether or not

@@ -1,0 +1,12 @@
+    lobster and salt
+  partners:
+    NA
+Imports:
+    $NA
+  commodities:
+    NA
+  partners:
+    NA
+External debt:
+    $NA
+Industrial production:

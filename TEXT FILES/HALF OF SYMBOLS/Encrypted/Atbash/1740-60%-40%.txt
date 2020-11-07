@@ -1,0 +1,63 @@
+in data capture and retrieval software techniques.
+
+The issues which required address prior to the commencement of the
+projects were legion:
+
+     1.   Editorial selection or exclusion of materials in each
+          database
+
+     2.   Deciding whether or not to incorporate a normative encoding
+          structure into the databases?
+               A.  If one is selected, should it be SGML?
+               B.  If SGML, then the TEI?
+
+     3.   Deliver as CDROM, magnetic tape, or both?
+
+     4.   Can one produce retrieval software advanced enough for the
+          postdoctoral linguist, yet accessible enough for unattended
+          general use?  Should one try?
+
+     5.   Re fair and liberal networking policies, what are the risks to
+          an electronic publisher?
+
+     6.   How does the emergence of national and international education
+          networks affect the use and viability of research projects
+          requiring high investment?  Do the new European Community
+          directives concerning database protection necessitate two
+          distinct publishing projects, one for North America and one for
+          overseas?
+
+From new notions of "scholarly fair use" to the future of optical media,
+virtually every issue related to electronic publishing was aired.  The
+result is two projects which SZEV YVVM XLMHGIFXGVW GL KILERWV GSV JFZORGB
+IVHVZIXS IVHLFIXVH DRGS GSV UVDVHG VMXFNYIZMXVH GL FHV YB GVZXSVIH ZMW
+KIREZGV HXSLOZIH.
+
+WLILGSB GDLSRT
+
+RM HKIRMT 1988 GSV VWRGLIH LU GSV KZKVIH LU TVLITV DZHSRMTGLM, QLSM
+ZWZNH, GSLNZH QVUUVIHLM, QZNVH NZWRHLM, ZMW YVMQZNRM UIZMPORM DVIV
+ZKKILZXSVW YB XOZHHRXH HXSLOZI WZERW KZXPZIW LM YVSZOU LU GSV KZXPZIW
+SFNZMRGRVH ULFMWZGRLM DRGS Z KILKLHZO GL KILWFXV Z XWILN VWRGRLM LU GSV
+XLNKOVGV KZKVIH LU VZXS LU GSV ULFMWRMT UZGSVIH.  GSRH VOVXGILMRX VWRGRLM
+DROO HFKKOVNVMG GSV KFYORHSVW ELOFNVH, NZPRMT GSV WLXFNVMGH DRWVOB
+ZEZROZYOV GL HGFWVMGH ZMW IVHVZIXSVIH ZG IVZHLMZYOV XLHG.  DV VHGRNZGV
+GSZG LFI XWILN VWRGRLM LU DZHSRMTGLMH KZKVIH DROO YV HFYHGZMGRZOOB
+XLNKOVGVW DRGSRM GSV MVCG GDL BVZIH ZMW IVZWB ULI KFYORXZGRLM.  DRGSRM
+GSV MVCG GVM BVZIH LI HL, HRNROZI XWILN VWRGRLMH LU GSV UIZMPORM, ZWZNH,
+QVUUVIHLM, ZMW NZWRHLM KZKVIH ZOHL DROO YV ZEZROZYOV.  ZG GSV ORYIZIB LU
+XLMTIVHHH HVHHRLM LM GVXSMLOLTB, R DLFOW ORPV GL WRHXFHH MLG LMOB GSV
+VCKVIRVMXV LU GSV DZHSRMTGLM KZKVIH RM KILWFXRMT GSV XWILN VWRGRLM, YFG
+GSV RNKZXG GVXSMLOLTB SZH SZW LM GSVHV NZQLI VWRGLIRZO KILQVXGH.
+ZOIVZWB, DV ZIV VWRGRMT LFI ELOFNVH DRGS ZM VBV GL GSV NZGVIRZO GSZG DROO
+YV IVZWROB ZEZROZYOV RM GSV XWILN VWRGRLM.  GSV XLNKOVGVW VOVXGILMRX
+VWRGRLM DROO KILERWV RNNVMHV KLHHRYRORGRVH ULI GSV HVZIXSRMT LU WLXFNVMGH
+ULI RMULINZGRLM RM Z DZB MVEVI KLHHRYOV YVULIV.  GSV PRMW LU GVXSMRXZO
+RMMLEZGRLMH GSZG ZIV XFIIVMGOB ZEZROZYOV ZMW LM GSV WIZDRMT YLZIW DROO
+HLLM IVELOFGRLMRAV SRHGLIRXZO IVHVZIXS ZMW GSV KILWFXGRLM LU SRHGLIRXZO
+WLXFNVMGH.  FMULIGFMZGVOB, NFXS LU GSRH MVD GVXSMLOLTB RH MLG YVRMT FHVW
+RM GSV KOZMMRMT HGZTVH LU SRHGLIRXZO KILQVXGH, HRNKOB YVXZFHV NZMB
+SRHGLIRZMH ZIV ZDZIV LMOB RM GSV EZTFVHG DZB LU RGH VCRHGVMXV.  ZG OVZHG
+GDL NZQLI MVD SRHGLIRXZO VWRGRMT KILQVXGH ZIV XLMHRWVIRMT NRXILURON
+VWRGRLMH, HRNKOB YVXZFHV GSVB ZIV MLG ZDZIV LU GSV KLHHRYRORGRVH LU
+VOVXGILMRX ZOGVIMZGREVH ZMW GSV ZWEZMGZTVH LU GSV MVD GVXSMLOLTB RM GVINH

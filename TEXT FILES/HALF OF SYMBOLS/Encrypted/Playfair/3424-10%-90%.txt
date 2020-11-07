@@ -1,0 +1,29 @@
+capture requires greater care because of the quality of the image:  it
+has to be straighter and allowance must be made for text on a page, not
+just for the capture of photographs.
+
+NATDP keys in tracking data, that is, a standard bibliographic record
+including the title of the book and the title of the chapter, which will
+later either become the access information or will be attached to the
+front of a fulltext record so that it is searchable.
+
+Images are scanned from a bound or unbound publication, chiefly from
+bound publications in the case of NATDP, however, because often they are
+the only copies and the publications are returned to the shelves.  NATDP
+usually scans one record at a time, because its database tracking system
+tracks the document in that way and does not require further logical
+separating of the images.  After performing optical character
+recognition, NATDP moves the images off the hard disk and maintains a
+volume sheet.  Though the system tracks electronically, all the
+processing steps are also tracked manually with a log sheet.
+
+ZIDAR next illustrated the kinds of adjustments that one can make when
+scanning from paper and microfilm, for example, redoing images that need
+special handling, setting for dithering or gray scale, and adjusting for
+brightness or for the whole book at one time.
+
+NATDP is scanning at 300 dots per inch, a standard scanning resolution.
+Though adequate for capturing text that is all of a standard size, 300
+dpi is unsuitable for any kind of photographic maFSEUKX UN PHW SKWE BHLFX
+PQBZ.  UQWA BRLARAEP LFXUN ZHW KDZLSEARG MUQPK ZUCHQFB, PUGZ, UT NIOEPY,
+SQUDF K RK ULQMH XFQWRENC.  VMF UG UWK HCFARRV ZM YSRMLAPK HUKFSP DOPM

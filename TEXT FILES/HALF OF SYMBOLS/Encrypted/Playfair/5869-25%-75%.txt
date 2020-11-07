@@ -1,0 +1,24 @@
+Disputes:
+    none
+Climate:
+    subtropical, mild, little seasonal temperature variation
+Terrain:
+    volcanic formation with mostly rolling plains
+Natural resources:
+    fish
+Land use:
+    arable land 0 permanent crops 0 meadows and pastures 25 forest and
+    woodland 0 other 75
+Environment:
+    subject to typhoons especially May to July
+Note:
+    located 1,575 km east of Australia in the South Pacific Ocean
+
+:Norfolk Island People
+
+PHFHFLGMUW:
+    2,620 HOXA 1992, PDWYPM NEPQ 1.7 1992
+VMCPR EQFY:
+    AL VMCPRP1,000 ZHFHFLGMUW 1992
+RKQFR EQFY:
+    AL RKQFRP1,000 ZHFHFLGMUW 1992

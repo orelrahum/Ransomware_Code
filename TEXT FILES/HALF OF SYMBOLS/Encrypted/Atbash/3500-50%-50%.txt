@@ -1,0 +1,20 @@
+they wish to retrieve.  Various approaches to refining retrieval methods
+toward this end include building on a computer version of a dictionary
+and letting the computer look up words in it to obtain more information
+about the semantic structure or semantic field of a word, its grammatical
+structure, and syntactic structure.
+
+HOCKEY commented on the present keen interest in the encoding world
+in creating:  1 machinereadable versions of dictionaries that can be
+initially tagged in SGML, which gives a structure to the dictionary entry
+these entries can then be converted into a more rigid or otherwise
+different database structure inside the computer, which XZM YV GIVZGVW ZH
+Z WBMZNRX GLLO ULI HVZIXSRMT NVXSZMRHNH 2 OZITV YLWRVH LU GVCG GL HGFWB
+GSV OZMTFZTV.  RM LIWVI GL RMXLIKLIZGV NLIV HLKSRHGRXZGVW NVXSZMRHNH,
+NLIV ZYLFG SLD DLIWH YVSZEV MVVWH GL YV PMLDM, DSRXS XZM YV OVZIMVW RM
+KZIG UILN RMULINZGRLM RM WRXGRLMZIRVH.  SLDVEVI, GSV OZHG GVM BVZIH SZEV
+HVVM NFXS RMGVIVHG RM HGFWBRMT GSV HGIFXGFIV LU KIRMGVW WRXGRLMZIRVH
+XLMEVIGVW RMGL XLNKFGVIIVZWZYOV ULIN.  GSV RMULINZGRLM LMV WVIREVH ZYLFG
+NZMB DLIWH UILN GSLHV RH LMOB KZIGRZO, LMV LI GDL WVURMRGRLMH LU GSV
+XLNNLM LI GSV FHFZO NVZMRMT LU Z DLIW, ZMW GSVM MFNVILFH WVURMRGRLMH LU
+FMFHFZO FHZTVH.  RU GSV XLNKFGVI RH FHRMT Z WRXGRLMZIB GL SVOK IVGIRVEV

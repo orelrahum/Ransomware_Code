@@ -1,0 +1,747 @@
+members   Belgium France Germany Greece Italy
+Luxembourg Netherlands Portugal Spain UK
+
+
+
+World Bank
+<p>see International Bank for Reconstruction and Development
+IBRD
+
+
+
+World Bank Group
+
+Note  includes International Bank for Reconstruction and
+Development IBRD International Development Association IDA
+and International Finance Corporation IFC
+
+
+
+World Confederation of Labor WCL
+
+established   June  as the International Federation of
+Christian Trade Unions IFCTU renamed  October 
+
+aim  to promote the trade union movement
+
+members   national organizations Algeria Angola Antigua
+and Barbuda Argentina Aruba Austria Bangladesh Belgium
+Belize Benin Bolivia Bonaire Island Botswana Brazil
+Burkina Cameroon Canada Cape Verde Central African Republic
+Chad Chile Colombia Costa Rica Cuba Curacao Cyprus
+Dominica Dominican Republic Ecuador El Salvador France
+French Guiana Gabon The Gambia Ghana Grenada Guadaloupe
+Guatemala Guinea Guyana Haiti Honduras Hong Kong Indonesia
+Italy Ivory Coast Jamaica Kenya Lesotho Liechtenstein
+Luxembourg Madagascar Malaysia Mali Martinique Mauritius
+Mexico Montserrat Namibia Netherlands Nicaragua Niger
+Nigeria Pakistan Panama Paraguay Peru Philippines Poland
+Portugal Puerto Rico Rwanda Saint Kitts and Nevis Saint
+Lucia Saint Martin Saint Vincent and the Grenadines Senegal
+Seychelles Sierra Leone Spain Sri Lanka Suriname
+Switzerland Tanzania Thailand Togo UK US Uruguay
+Venezuela Vietnam Zaire Zambia Zimbabwe
+
+
+
+World Court
+<p>see International Court of Justice ICJ
+
+
+
+World Federation of Trade Unions WFTU
+
+established  NA 
+
+aim  to promote the trade union movement
+
+members   Afghanistan Angola Argentina Australia
+Austria Bahrain Bangladesh Bolivia Brazil Burkina Cambodia
+Chile Colombia Congo Costa Rica Cuba Cyprus Dominican
+Republic Ecuador El Salvador Ethiopia France The Gambia
+Guatemala GuineaBissau Guyana Haiti Honduras India
+Indonesia Iran Iraq Jamaica Japan Jordan North Korea
+Kuwait Laos Lebanon Madagascar Mauritius Mongolia Namibia
+Nepal Nicaragua Oman Pakistan Panama Papua New Guinea Peru
+Philippines Puerto Rico Russia Saint Vincent and the
+Grenadines Saudi Arabia Senegal Solomon Islands South Africa
+Sri Lanka Sudan Syria Trinidad and Tobago Uruguay Venezuela
+Vietnam Yemen Zaire
+
+
+
+World Food Council WFC
+
+established   December 
+
+aim  ECOSOC organization that studies world food problems and
+recommends solutions
+
+members   selected on a rotating basis from all regions
+
+
+
+World Food Program WFP
+
+established   November 
+
+aim  ECOSOC organization that provides food aid to assist in
+development or disaster relief
+
+members   selected on a rotating basis from all regions
+
+
+
+World Health Organization WHO
+
+established   July 
+
+effective   April 
+
+aim  UN specialized agency concerned with health matters
+
+members   all UN members except Armenia Azerbaijan
+Belize Bosnia and Hercegovina China Croatia Estonia
+Kazakhstan Kyrgyzstan Latvia Liechtenstein Lithuania
+Marshall Islands Federated States of Micronesia Moldova
+Slovenia Tajikistan Turkmenistan Uzbekistan other members are
+Cook Islands Kiribati Monaco Switzerland Tonga
+
+
+
+World Intellectual Property Organization WIPO
+
+established   July 
+
+effective   April 
+
+aim  UN specialized agency concerned with the protection of
+literary artistic and scientific works
+
+members   Algeria Angola Argentina Australia Austria
+The Bahamas Bangladesh Barbados Belarus Belgium Benin
+Brazil Bulgaria Burkina Burundi Cameroon Canada Central
+African Republic Chad Chile China Colombia Congo Costa
+Rica Cuba Cyprus Czechoslovakia Denmark Ecuador Egypt El
+Salvador Fiji Finland France Gabon The Gambia Germany
+Ghana Greece Guatemala Guinea GuineaBissau Haiti Honduras
+Hungary Iceland India Indonesia Iraq Ireland Israel Italy
+Ivory Coast Jamaica Japan Jordan Kenya North Korea South
+Korea Lebanon Lesotho Liberia Libya Liechtenstein
+Luxembourg Madagascar Malawi Malaysia Mali Malta
+Mauritania Mauritius Mexico Monaco Mongolia Morocco
+Netherlands NZ Nicaragua Niger Norway Pakistan Panama
+Paraguay Peru Philippines Poland Portugal Qatar Romania
+Russia Rwanda Saudi Arabia Senegal Sierra Leone Singapore
+Somalia South Africa Spain Sri Lanka Sudan Suriname
+Swaziland Sweden Switzerland Tanzania Thailand Togo
+Trinidad and Tobago Tunisia Turkey Uganda Ukraine UAE UK
+US Uruguay Vatican City Venezuela Vietnam Yemen Yugoslavia
+Zaire Zambia Zimbabwe
+
+
+
+World Meteorological Organization WMO
+
+established   October 
+
+effective   April 
+
+aim  specialized UN agency concerned with meteorological
+cooperation
+
+members   all UN members except Armenia Azerbaijan
+Bhutan Bosnia and Hercegovina Croatia Equatorial Guinea
+Estonia Grenada Kazakhstan Kyrgyzstan Latvia Liechtenstein
+Lithuania Moldova Namibia Poland Saint Kitts and Nevis Saint
+Vincent and the Grenadines Slovenia Tajikistan Turkmenistan
+Uzbekistan Western Samoa South Africa is included although WMO
+membership is suspended other members are British Caribbean
+Territories French Polynesia Hong Kong Slovenia Netherlands
+Antilles New Caledonia Switzerland
+
+
+
+World Tourism Organization WTO
+
+established   January 
+
+aim  promote tourism as a means of contributing to economic
+development international understanding and peace
+
+members   Afghanistan Algeria Angola Argentina
+Australia Austria Bangladesh Belgium Benin Bolivia Brazil
+Burkina Burundi Cambodia Cameroon Canada Chad Chile China
+Colombia Congo Cuba Cyprus Dominican Republic Ecuador
+Egypt Ethiopia Finland France Gabon The Gambia Germany
+Ghana Greece Grenada Guinea Haiti Hungary India Indonesia
+Iran Iraq Israel Italy Ivory Coast Jamaica Japan Jordan
+Kenya Kiribati North Korea South Korea Kuwait Laos Lebanon
+Lesotho Libya Madagascar Malawi Maldives Mali Malta
+Mauritania Mauritius Mexico Mongolia Morocco Nepal
+Netherlands Niger Nigeria Pakistan Panama Peru Portugal
+Romania Russia Rwanda San Marino Sao Tome and Principe
+Senegal Sierra Leone Spain Sri Lanka Sudan Switzerland
+Syria Tanzania Togo Tunisia Turkey Uganda UAE US Uruguay
+Venezuela Vietnam Yemen Yugoslavia Zaire Zambia Zimbabwe
+
+associate members   Aruba Macau Netherlands Antilles
+Puerto Rico
+
+permanent observer   Vatican City
+
+
+
+Zangger Committee ZC
+
+established  early s
+
+aim  to establish guidelines for the export control provisions
+of the nuclear NonProliferation Treaty
+
+members   Australia Austria Belgium Canada
+Czechoslovakia Denmark Finland Germany Greece Hungary
+Ireland Italy Japan Luxembourg Netherlands Norway Poland
+Romania Russia Sweden Switzerland UK US
+
+
+                     Appendix D Weights and Measures
+Mathematical Notation
+Mathematical Power                    Name
+ or     one quintillion
+ or         one quadrillion
+ or             one trillion
+ or                  one billion
+ or                      one million
+ or                          one thousand
+ or                            one hundred
+ or                             ten
+ or                              one
+ or                           one tenth
+ or                          one hundredth
+ or                         one thousandth
+ or                      one millionth
+ or                   one billionth
+ or               one trillionth
+ or            one quadrillionth
+ or         one quintillionth
+Metric Interrelationships
+Conversions from a multiple or submultiple to the basic units of meters
+liters or grams can be done using the table For example to convert from
+kilometers to meters multiply by   kilometers equals 
+meters or to convert from meters to kilometers multiply by  
+meters equals  kilometers
+Prefix       Symbol    Length    Area       Volume
+                       weight
+                       capacity
+exa          E                     
+peta         P                     
+tera         T                     
+giga         G                      
+mega         M                      
+hectokilo    hk                     
+myria        ma                      
+kilo         k                       
+hecto        h                       
+basic unit             meter    meter   meter
+                        gram
+                        liter
+deci         d                     
+centi        c                     
+milli        m                     
+decimilli    dm                    
+centimilli   cm                   
+micro        u                    
+nano         n                    
+pico         p                   
+femto        f                   
+atto         a                   
+
+Equivalents
+
+Unit                    Metric Equivalent            US Equivalent
+acre                       hectares         feet
+acre                      meters          yards
+acre                                        miles
+                        kilometers                 statute
+are                      meters                  yards
+barrel petroleum US    liters             gallons
+barrel proof spirits    liters             gallons
+US
+barrel beer US         liters             gallons
+bushel                    liters              pecks
+cable                    meters                fathoms
+chain surveyors        meters               feet
+cord wood               meters            feet
+cup                        liters            ounces liquid US
+degrees celsius        water boils at          multiply by  and add
+                        degrees C freezes at  C   to obtain F
+degrees fahrenheit     subtract  and divide by    water boils at  F
+                         to obtain C             freezes at  F
+dram avoirdupois          grams        ounces avoirdupois
+dram troy                 grams             ounces troy
+dram liquid US         milliliters          ounces liquid
+fathom                    meters                feet
+foot                     centimeters
+foot                      meters                  yards
+foot                       kilometers          miles
+                                                     statute
+foot                    centimeters       inches
+foot                        meters         yards
+foot                     liters          gallons
+foot                     meters        inches
+furlong                  meters                yards
+gallon liquid US        liters          quarts liquid
+gill US                 milliliters       ounces liquid
+grain                     milligrams            ounces
+                                                     advp
+gram                     milligrams                ounces
+                                                     advp
+hand height of horse   centimeters             inches
+hectare                  meters                 acres
+hundredweight long       kilograms          pounds avoirdupois
+hundredweight short      kilograms          pounds avoirdupois
+inch                     centimeters                feet
+inch                     centimeters           feet
+inch                     centimeters        feet
+inch                     milliliters          pints dry
+inch                     milliliters          pints liquid
+kilogram                 tons metric             pounds
+                                                     avoirdupois
+kilometer                meters                    miles
+                                                     statute
+kilometer              hectares                   acres
+kilometer              meters              miles
+                                                     statute
+knot  nautical         kilometershour         statute mileshour
+mihr
+league nautical          kilometers          miles nautical
+league statute          kilometers          miles statute
+link surveyors         centimeters          inches
+liter                    meters                 inches
+liter                    dekaliter                  quarts dry
+liter                    milliliters              quarts liquid
+meter                    centimeters                yards
+meter                  centimeters           yards
+meter                  liters                   yards
+micron                    meter                 inches
+mil                       millimeters           inch
+mile nautical           kilometers                miles
+                                                     statute
+mile nautical          kilometers        miles statute
+mile statute             kilometers          feet or  furlongs
+mile statute           hectares          acres or  section
+mile statute            kilometers     miles nautical
+minim US                 milliliters        ounces
+                                                     liquid
+ounce avoirdupois         grams          grains
+ounce liquid US        milliliters          pints liquid
+ounce troy                grams            grains
+pace                     centimeters              inches
+peck                       liters            quarts dry
+pennyweight                grams            grains
+pint dry US             liters           quarts dry
+pint liquid US          liters          quarts liquid
+point typographical      millimeters        inches
+pound avoirdupois        grams              ounces avourdupois
+pound troy                grams           ounces troy
+quart dry US           liters              pints dry
+quart liquid US         liters          pints liquid
+quintal                  kilograms                  pounds avdp
+rod                       meters                yards
+scruple                    grams             grains
+section US               kilometers      mile statute or 
+                                                     acres
+span                     centimeters             inches
+stere                    meter                       yards
+tablespoon                milliliters         teaspoons
+teaspoon                  milliliters          tablespoons
+ton long or              kilograms       pounds avoirdupois
+deadweight
+
+ton metric              kilograms               pounds
+                                                     avoirdupois
+ton metric              kilograms               ounces troy
+ton register              meters          feet
+ton short                kilograms          pounds avoirdupois
+township US             kilometers       miles statute
+yard                      meters                feet
+yard                     meters         feet
+yard                     meters         feet
+yard                     liters        gallons
+
+
+
+
+Appendix E
+
+CrossReference List of Geographic Names
+
+    This list indicates where various names including all United States
+Foreign Service Posts alternate names former names and political or
+geographical portions of larger entities can be found in The World
+Factbook Spellings are not necessarily those approved by the United
+States Board on Geographic Names BGN  Alternate names are included in
+parentheses additional information is included in brackets
+
+Name                              Entry in The World Factbook
+
+Abidjan US Embassy              Ivory Coast
+Abu Dhabi US Embassy            United Arab Emirates
+Acapulco US Consular Agency     Mexico
+Accra US Embassy                Ghana
+Adana US Consulate              Turkey
+Addis Ababa US Embassy          Ethiopia
+Adelaide US Consular Agency     Australia
+Adelie Land Terre Adelie        Antarctica
+  claimed by France
+Aden                              Yemen
+Aden Gulf of                     Indian Ocean
+Admiralty Islands                 Papua New Guinea
+Adriatic Sea                      Atlantic Ocean
+Aegean Islands                    Greece
+Aegean Sea                        Atlantic Ocean
+Afars and Issas French           Djibouti
+  Territory of the FTAI
+Agalega Islands                   Mauritius
+Aland Islands                     Finland
+Alaska                            United States
+Alaska Gulf of                   Pacific Ocean
+Aldabra Islands                   Seychelles
+Alderney                          Guernsey
+Aleutian Islands                  United States
+Alexander Island                  Antarctica
+Alexandria US Consulate General Egypt
+Algiers US Embassy              Algeria
+Alhucemas Penon de               Spain
+AlmaAta                          Kazakhstan
+Alphonse Island                   Seychelles
+Amami Strait                      Pacific Ocean
+Amindivi Islands                  India
+Amirante Isles                    Seychelles
+Amman US Embassy                Jordan
+Amsterdam US Consulate General  Netherlands
+Amsterdam Island Ile Amsterdam  French Southern and Antarctic Lands
+Amundsen Sea                      Pacific Ocean
+Amur                              China Russia
+Andaman Islands                   India
+Andaman Sea                       Indian Ocean
+Anegada Passage                   Atlantic Ocean
+AngloEgyptian Sudan              Sudan
+Anjouan                           Comoros
+Ankara US Embassy               Turkey
+Annobon                           Equatorial Guinea
+Antananarivo US Embassy         Madagascar
+Antipodes Islands                 New Zealand
+Antwerp US Consulate General    Belgium
+Aozou Strip claimed by Libya    Chad
+Aqaba Gulf of                    Indian Ocean
+Arabian Sea                       Indian Ocean
+Arafura Sea                       Pacific Ocean
+Argun                             China Russia
+Ascension Island                  Saint Helena
+Ashgabat Ashkhabad              Turkmenistan
+Ashkhabad Interim Chancery      Turkmenistan
+Assumption Island                 Seychelles
+Asuncion US Embassy             Paraguay
+Asuncion Island                   Northern Mariana Islands
+Atacama                           Chile
+Athens US Embassy               Greece
+Attu                              United States
+Auckland US Consulate General   New Zealand
+Auckland Islands                  New Zealand
+Australes Iles Iles Tubuai      French Polynesia
+Axel Heiberg Island               Canada
+Azores                            Portugal
+Azov Sea of                      Atlantic Ocean
+
+Bab el Mandeb                     Indian Ocean
+Babuyan Channel                   Pacific Ocean
+Babuyan Islands                   Philippines
+Baffin Bay                        Arctic Ocean
+Baffin Island                     Canada
+Baghdad                           Iraq
+Baku                              Azerbaijan
+Baky Baku                       Azerbaijan
+Balabac Strait                    Pacific Ocean
+Balearic Islands                  Spain
+Balearic Sea Iberian Sea        Atlantic Ocean
+Bali US Consular Agency         Indonesia
+Bali Sea                          Indian Ocean
+Balintang Channel                 Pacific Ocean
+Balintang Islands                 Philippines
+Balleny Islands                   Antarctica
+Balochistan                       Pakistan
+Baltic Sea                        Atlantic Ocean
+Bamako US Embassy               Mali
+Banaba Ocean Island             Kiribati
+Bandar Seri Begawan US Embassy  Brunei
+Banda Sea                         Pacific Ocean
+Bangkok US Embassy              Thailand
+Bangui US Embassy               Central African Republic
+Banjul US Embassy               Gambia The
+Banks Island                      Canada
+Banks Islands Iles Banks        Vanuatu
+Barcelona US Consulate General  Spain
+Barents Sea                       Arctic Ocean
+Barranquilla US Consulate       Colombia
+Bashi Channel                     Pacific Ocean
+Basilan Strait                    Pacific Ocean
+Bass Strait                       Indian Ocean
+Batan Islands                     Philippines
+Bavaria Bayern                  Germany
+Beagle Channel                    Atlantic Ocean
+Bear Island Bjornoya            Svalbard
+Beaufort Sea                      Arctic Ocean
+Bechuanaland                      Botswana
+Beijing US Embassy              China
+Beirut US Embassy               Lebanon
+Belau                             QENIZXC KAQIPLK ERHVL MVLJBMSIP WY HYC
+                                    WEWLI
+IIWPA VW NSZMMNOE SAPNTY        HVNBGM
+IIWPD JWWECLK TLRV TMWIH        OIH GPYIZQNTE
+IIWQOTX FX CGGMMNOGW APNXVGP    HRZTPX XQGKGYU
+IIWRWBR NUVGB                     BOVXS
+IIWRFBHP AJ EPFUKWK             ZUYGQJUBWS
+IIWTNF GTBX YU MFZUKWK          CEDAXF
+IIWWS JWWP WBJLML HW             ABEOSTBN OPXIP
+IIWWWOKSLCFKU SYS                 TNUMFXC QKJIP
+IIWXCQEY                          NSAIMF
+IIWZFVWDWR                        VWDIRVW
+IIYROM FNE OQ                    JNBWFV BFMAA
+IICTBH WVI                        CGUMFXC QKJIP
+IICTBH WKZNOL                     IRCQYXC QKJIP
+IICVBFV ZCYEEL                    SYTNUCGBCR
+IICWWO YJ MZNHUI FFSKJS         LJZOETC
+IICWWO IRDB                      TIRETTC
+IICWWO AVDB                      TAVETTC
+IICY IT IDOUKWK                 TWALXWNTTMH
+IIDDOSETAA                        IONINZO YOYLOHO
+IMULUPA JRWIAPVBUOD HZS          MILBWGVQFWAV
+IMVTBJ IDWYT                      MTFDSMLC AZLLYLK
+IMWMOP CD DOBMMNOGW             MAABR
+IMZVC                             FYIKHSHCAE ULQNPG
+IMDNOZ JSA OD                    BTJOSTBN OPXIP
+IMDSPFS AUUIBQZ VLRVOGYY        XAVXWJQKGL
+IMDSCQ ZGJY                       JEWVOX XQGKGYU
+IMDXOSKC MRTJSPVNHOD              TLPAO CEL AUVRAG
+IMDXOSKC EER                      RKUMFXC QKJIP
+IMDDOV CK WMVUKWK               HUAFCGVQFWAV
+INZCBPHO SROP ITPAEL            KGAYESMD
+IPLNY SZCM                        PRZMVFNO SDLNQLK TSYDK USWVAZAD
+IPLNY TPA                         CDDENTBN OPXIP
+ISL GWTHA                         XIHX VGRSI
+ISRZHB IY SFBUKWK               DODGKDWL
+ISXMOZ IE DOLMMNOGW APNXVGP     VRUIL
+ISYLWSS                           AEBYIEPTUHJ LNGLDLRL
+ISYTTBQVW XTTIWL HW              ABEOSTBN OPXIP
+ISYTB JGYIALK                     UACDF
+ISYY IT SZOUKWK                 HEJEYTC
+ISASIUVPAMPHNT                    KKUGH STLBJA
+ISCLPPFR                         FSSECM GSYAUTGTY
+ISCOSBIO XW CIKMMNOGW APNXVGP   SVRNNJ
+ISCYSP                            PIHRSJ ZHQSVMFLO ZEDIYEIL
+ISCYVPZD                          QLBXMUO
+ISDACSIK                          PHCUFTBN OPXIP
+ISESBJO ZBYN OL                  UEQOSTBN OPXIP
+ISFROJBPOLTR DAWLRL               HLPHD CEL AUVRAG
+ISFROJBPOLTR NBCLML               IRCQYXC QKJIP
+ISFYHZ WMYTLLK                    YEJ CWNPWMH
+IVLDWMZA MA PUBUKWK             CRSRGM
+IVLKNBMIKKE PA PXFUKWK          DOFYM
+IVTOUFKWZT YL SIOUKWK           CAJTYEOJ
+IVTDPBEM MT CBRMMNOGW           UFSMVAFAT
+IVTEWTY MTAL HJRAVA               PVVAA
+IVTEWTY ONQSUG                    ACYNNG
+IVTEWTY PHVVBYOF                  EYCIRF
+IVTEWTY AHTGTGB TGXOALK           DOYREGB TGXOALK
+IVTEWTY AHUSSAZMNO                AZMNOAO
+IVFDGFCM MK IXTUKWK VS EAQMAAV  TWTUVVQ
+  AS PFFHDIUE QDQMHPWFUYF CL
+  TMDDWAV LG BVR GCKAL NHCTUTBN
+  AVPLHR FVGTLWQGTVWM ULVOGI
+IYNSOSYUA UJ IEUUKWK            SOESLZO
+IYOLDFMW UH IEUUKWK             IUFYYYS
+IYPYCT UMESK UA VQTUKWK         BRYWLTZTE
+IYUFACOAU GT YDBUKWK            CUJMLEC
+ICPWCSSWDWR                       VWDIRVW
+
+JEMTBFA                           BVTRLA
+JEMZH UTSOBL                      TKLIGTBN OPXIP
+JETNCU IANOFLK                    EUENK THU MSIPRU IANOFLK
+JETCC WS MDPUKWK                FGQHR
+JEWNIVTL WM VHNMMNOGW APNXVGP   VRUIL
+JEWROTY FY CFLMMNOGW APNXVGP    PEEAOC
+JEWTTQRYQF ULYN OL               JLHWKXC QKJIP
+JEXAPGLX XTPLYL                   FPW MHNPWMH
+JEYLZ BOAE                        AZBNQP
+JEYLFA IFLRLLK                    DPNLF
+JEYMSTRN VW VDBUKWK             BUKLPAFAT
+JEYNIP UF EIAMMNOE SAPNTY       SIKKAA
+JEYECP GHTBTFBOH                IGPBU
+JEYECP IFEOAL                     CTRVEKBZ
+JEAP HQWC YL QKAMMNOGW APNXVGP  FSLTS STLBJA
+JECLQCS LS GMTUKWK              WEFWXPIYE
+JECROFOJ IAUOBQS JHXODK           TOUCAFIOJ
+JECZZKNV WDTNRLK                  XIPUGZMUZO SIVMRFXHH JTTXHK HF
+                                    WENTTXC KAQIPLK ERHVL MVLJBMSIP WY HYC
+JECTPDERV TFE                     AGDENTBN OPXIP
+JECASPTRGMN ZUCN OL              JLHWKXC QKJIP
+JEDLPNAFCB FS PQNMMNOGW APNXVGP ZSIONOC
+JEEZ WULTBL                       SFSGUAFAT
+JIMF IU GPHMMNOGW               JSIEMEWQYMH
+JIWPPGW                           TRESFMFLO
+JIWPPGW DIB                       TSUMFXC QKJIP
+JIWEWE WPT                        IVDENTBN OPXIP
+JIYEFCP NYIINAS VURIEI            OTVKVCP NYIINAS IMRUOCMR
+JIFEO                             UTUBN
+JIJWCP                            WPT ZNFBI
+JLLQOTPNFS ZAYAK                 AHLIF
+JLLRCU HRIVAPVNHOD STL OGZIYLK  MRVWATY QGLAHV BFMAA HGVRVMSIP
+JLLYBGS IFYEYLK                   RURUFYYC ARJWCH
+JLLEVCT ILSAZLK                   YEJ CWNPWMH
+JLPUIFV                          OXLHO CCLXH
+JLPUI UAVJCL                      IRCQYXC QKJIP
+JLPYUFB YF IRHMMNOGW APNXVGP    PLZNL
+JLPDHGYJAXPU NAPLQLK              YEJ FSYIZQNTE
+  PPPD QPPWLGYJAXPU
+JLTLBI TII HY OOVMMNOGW APNXVGP GLRIWTUD
+JLTSZK NCSQ WL VZ MON          QOJINXC QKJIP
+JLTYO RLWCLTW FTAYTCMR IG       NPKBF
+JLTYO TLXHBCMR IG                EIKKFG
+JLZTGGBZ                          AGPIXGB TGXOALK
+JLCTGVJYCJVJ BM TQUMMNOE SAPNTY TIJ BCNPWMH
+JLCTGVTRA ALXAFL AYDVDV BFMAA   OWWTEAFAT
+JLCTGVTRA ALXAFL HLCVIXC QKJIP  YKVIOKBZ
+  RMCTHSURBB
+JLFVQJP MOC                       HZUXIC FEXIP
+JMDVSK                            AGEXP STLBJA
+JMFOOF RODRHI OS TSMMMNOGW       GPXBGA
+  NIYPFGP
+JSNSODOOIA VS OPNMMNOE SAPNTY   HSYKTJO
+JSNZ WUZC RMD                    NOVXL TWUT
+JSNZG KGNOFLK                     NOPRK MSGZAXK MDTNTLK
+JSWZADC FG QNPUKWK              TRA DYFBI
+JSWZB WG NCAMMNOE SAPNTY        VEACKP
+JSWZB CFNVVPZGSIVW HP            EIIDHST
+  NEWLDGGZS XSROFLK
+JSXXOPRQD IFOEELK                 CUFVAR
+  RSXLBNCDSXLMV GCBPSJS
+JSYLYTM HS ODZUKWK              HUAFCG
+JSYRC DFNFNBMIKKE               XWYRS
+JSYRC MWAYVKAN                  RHIJE
+JSYRC NSBVCWHJXZWH              UITCI
+JSY DCP WFDOALK                   GIRWFVU
+JSZV GVFOSL                       IRCQYXC QKJIP
+JSAPBJOVIA BS KQOUKWK           EEFEYUO
+JSCLZ USR                         PLUMFXC QKJIP
+JSCY WUZRALK TSYDK LWW MSLD     YUCIQNOWA
+JSCDWEO                           WJIPCJ
+JSDXCNSVA UCSXD                   YVMWWWPJGZ
+JSEP RKJHMUM                     DJWIC KJOJR
+JSEZBQI NG RAVUKWK              CEFAL
+JVPES                             IIIXGK
+JVZZYGU WGVEQL HLSFDVE            SLLGRTBN OPXIP
+JVZKSV ZGKEGLK TLRV UZZDWV      WFDRVM JSHVOWFH TUH RATNUCGBC CCGLU
+JYCLQCI LS EOBMMNOGW APNXVGP    AIKHPEPTUHJ LNGLDLRL
+JYDNC WM UQBMMNOE SAPNTY        VIEW
+
+KESZAHY                           ISZML
+KETEC LSTTBLK                     UACDF
+KEVLF XS OMSUKWK                TEFWESP
+KEXLB GAYAB                     LNPIO
+KEXLGFUE UK GGTUKWK             TYJAY
+KEYRSU AGUPC                      CHCV TUZOXLK
+KEYTGK SGZSPLL                    RTTTFTBN OPXIP
+KEYKWJ GQZVYQ                   SOYSXS
+KEZ MOFH ZPNI CT                  JVKOVVU
+KECOOQECOEF                       EEWEFTBN OPXIP
+KEC PG VACESE UD EMNUKWK        UAFRYGIN
+KEGTG VTMIAL                      TKLIGTBN OPXIP
+KINPDWMQR XLTOAL                  SYTNUCGBCR
+KIYXOUO FFRRSL                    TKLIGTBN OPXIP
+KIYEFHGNLKICUP BWLUKLK           AACXS CEL AUVRAG
+KIGZB LWGOAL                      ULNNGC
+KLLSFDU UZ TOAMMNOGW APNXVGP    FELDT SRUEQA
+KLLVO XZ EWBUKWK                CAFYJBDRYS
+KMPRC JIVIWG                      BIKBITY QGLAHV BFMAA HGVRVMSIP
+KMPRC UIQOFVZ                     OPZPD
+KMZXSGM WEPDRLK                   CUFVAR VAY LIPUKGM IZMWIX FBTXHK
+                                  SMEEZP LBHXIGM
+KMF                               TBGQU
+KNTMCXCQ VG YFJUKWK             EJATMXCQ
+KSOPQDBHWG                        GEIWGK
+KSSL IV STBUKWK                 RALSP
+KSFLZD IM CZNMMNOGW APNXVGP     PEDECQOZ
+KSGPF VHMEZL HW                  ABEOSTBN OPXIP
+KVLVS SRSCEVE                     SLLGRTBN OPXIP
+KYMLW XM DOVMMNOGW APNXVGP      HRZTPX NZTF HMZRBXQA
+KYMWWQ OT PUOUKWK               JRWDYVU
+KYCLBJI LS PUBMMNOE SAPNTY      SIKKAA
+KYCMOQ OJ DOAMMNOGW APNXVGP     FSLTS STLBJA
+KYDSOQVW                          AAWJOBSCIX
+KYDDSOXGJJ FV QFSMMNOGW APNXVGP TIIMLTC
+KYENV HULV PRDAXA                 VQLSFMFLO
+KYENV JOBCUG                      MCRVNSGV
+
+LEDE QLIFT ULI                    CAUMFXC QKJIP
+LEDESV IKEEEL ADLN GM HLSFYP    CZKFE
+LEDESVN UAEEAGS ENFX VSRWT       ZOTMFXC QKJIP
+  ZXCLWL HI TANGYBEU KAZMIL
+LEDE UIRETTC XQRZYT HVYOPUEFWE   XEKUCTC
+  YIAFPCMR
+LEDE YSRWT CHIEIL XRSBXVN        HTGZSXC QKJIP
+  JLLYBGS OE GWFGYBEU KAZMIL
+LEDE DEKALIAX                     JSGGYBDRYS
+LEDE GMBWKAIO WVI                 AEUXIC FEXIP
+LEDE HMMGK IWDHLVIVLY ZCQGV     BVPCEMFLO
+LHTYPYUOU VM TUUMMNOGW APNXVGP  HRZTPX XQGKGYU
+LPML                              WXLMY
+LPWPT VTYKSVA VYYEFL              ULNNGC
+LPWPGQPCI AEPRRL                  ULNNGC
+LPWTQI TDTCRLK                    EUIDDN
+LPZMSC TGMEQ LW                  PQMDXSHCAE ULQNPG
+LROPFFHUC ZTFRLL                  CTRVEKBZ
+LRPHSXNO WXHLV EGWHPXBS WXHZV   MTFDSMLC AZLLYLK
+LRRWORQ                           AYIGHX XQGKGYU
+LRRWWWU ISIFUGS                   AGYEYTBN OPXIP
+LRTHSXBS WXHZV                    MTFDSMLC AZLLYLK
+LTTCIW CWINZRFE                  TSFRAIL HRRMCK
+LVTEFIR                           MMYMOTBH
+LWDPEYATS SFIJAGO BG HIQFXPIYE  FOCLNG
+LXZCCJN                           FLGXCRXW XICWS
+
+MECBIMAI WLVUG                    YVMWWWPJGZ
+MICYOSHF QE ARFRRUO               SFNGIM
+MICYOSHF CO OLCZC               FYIKHSHCAE ULQNPG
+MMYWOSL TFLS RL                  UEQOSTBN OPXIP
+MPZCSSNS LW PQRMMNOGW APNXVGP   VXRLJ
+MPZCWIL GKZDILL FF               IMDOSTBN OPXIP
+MSCXCXO                           KMWOAG
+MSCXCXO JFFSIL MRIETG SBNAVL    IRCQYXC QKJIP
+MSCERJTITQGJ                    DAEVMZIHNM
+  BW NZBMMNOGW APNXVGP
+MVLYYKLRG KR GRBN                 SQRUNTC
+  BW NZBMMNOGW APNXVGP
+MVLYN OFSRE UOFH                  WFSFLR
+MVPPHTNR YL SIOUKWK             TIWJPS TIFEE
+MVPYQM TEZGYQOZ                   GRASEQOZ
+MVPYQM ZRQQJPVQO                  EHUOOFIM MORA VTEHFVU
+MVPYQM XYVPLG                     ACVREG
+MVPYQM JYQCU                      EUOI
+MVPYQM KIETPMSIP WY HYC OKTYW     DOISGXCQ
+  HRO TGSNV NLSI
+MVPYQM KSTQ                       AHUU
+MVTPBICG MFOLLLK                  EOAJS
+MVFYNJ SCFGOFS                  CFBKIJQKGL
+MYVFCPU EM QYNMMNOGW            DLPTR
+MYYNVFF HU JOYMMNOE SAPNTY      VSEVSVOC
+MYYOM GUL RD                     BTJOSTBN OPXIP
+MYEFBF CLFNNLK SOBUF PGZRALK    HAYOAO AYO NMTHQF
+
+NEMZFUNF IJ SZFUKWK             COLKUBBT
+NEWLDGGZS XSROFLK LRPKAPZGSIVW   INUGRST
+  KI NZZRR
+NEWWSUND AEGFSVE                  SLLGRTBN OPXIP
+NEXMWKR UTTEELK TLRV YIXFAKR    RSMRTM GSYAUTGTY
+NEDAOX SLGAZL                     BEDQTV BFMAA

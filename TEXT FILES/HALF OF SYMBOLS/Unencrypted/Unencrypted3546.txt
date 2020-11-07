@@ -1,0 +1,13 @@
+
+          Discussion of approaches to structuring text for the computer
+          pros and cons of text coding, description of methods in
+          practice, and comparison of textcoding methods.
+
+          Moderator:  Susan Hockey, Director, Center for Electronic Texts
+             in the Humanities CETH, Rutgers and Princeton Universities
+          David Woodley Packard
+          C.M. SperbergMcQueen, Editor, Text Encoding Initiative TEI,
+             University of IllinoisChicago
+          Eric M. Calaluca, Vice President, ChadwyckHealey, Inc.
+
+3:30

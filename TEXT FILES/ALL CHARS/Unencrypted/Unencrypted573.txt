@@ -1,0 +1,22 @@
+except that they are different.  STEVENS drew a parallel between
+document-type definitions and MARC records for books and serials and maps,
+where one has a tagging structure and there is a text-interchange.
+STEVENS opined that the producers of the information will set the terms
+for the standard (i.e., develop document-type definitions for the users
+of their products), creating a situation that will be problematical for
+an institution like the Library of Congress, which will have to deal with
+the DTDs in the event that a multiplicity of them develops.  Thus,
+numerous people are seeking a standard but cannot find the tag set that
+will be acceptable to them and their clients.  SPERBERG-McQUEEN agreed
+with this view, and said that the situation was in a way worse:  attempting
+to unify arbitrary DTDs resembled attempting to unify a MARC record with a
+bibliographic record done according to the Prussian instructions.
+According to STEVENS, this situation occurred very early in the process.
+
+WATERS recalled from early discussions on Project Open Book the concern
+of many people that merely by producing images, POB was not really
+enhancing intellectual access to the material.  Nevertheless, not wishing
+to overemphasize the opposition between imaging and full text, WATERS
+stated that POB views getting the images as a first step toward possibly
+converting to full text through character recognition, if the technology
+is appropriate.  WATERS also emphasized that encoding is involved even

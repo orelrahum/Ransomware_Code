@@ -1,0 +1,11 @@
+there are many matters which many at the Workshop already knew a good
+deal about:  retrieval system requirements and costs, what to do about
+images, the various capabilities and platforms, the tradeoffs between
+cost and performance, concerns about localarea networkability,
+interoperability, etc.
+
+                                 
+
+
+LYNCH  Creating networked information is different from using networks
+as an access or dissemination vehicle  Networked multimedia on a large

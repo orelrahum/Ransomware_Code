@@ -1,0 +1,239 @@
+these books at 600 dots per inch is created, using a Xerox DocuTech
+printer to make the paper replacements on acid-free paper.
+
+PERSONIUS maintained that the CLASS Project presents an opportunity to
+introduce people to books as digital images by using a paper medium.
+Books are returned to the shelves while people are also given the ability
+to print on demand--to make their own copies of books.  (PERSONIUS
+distributed copies of an engineering journal published by engineering
+students at Cornell around 1900 as an example of what a print-on-demand
+copy of material might be like.  This very cheap copy would be available
+to people to use for their own research purposes and would bridge the gap
+between an electronic work and the paper that readers like to have.)
+PERSONIUS then attempted to illustrate a very early prototype of
+networked access to this digital library.  Xerox Corporation has
+developed a prototype of a view station that can send images across the
+network to be viewed.
+
+The particular library brought down for demonstration contained two
+mathematics books.  CLASS is developing and will spend the next year
+developing an application that allows people at workstations to browse
+the books.  Thus, CLASS is developing a browsing tool, on the assumption
+that users do not want to read an entire book from a workstation, but
+would prefer to be able to look through and decide if they would like to
+have a printed copy of it.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Re retrieval software * "Digital file copyright" * Scanning
+rate during production * Autosegmentation * Criteria employed in
+selecting books for scanning * Compression and decompression of images *
+OCR not precluded *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the question-and-answer period that followed her presentation,
+PERSONIUS made these additional points:
+
+     * Re retrieval software, Cornell is developing a Unix-based server
+     as well as clients for the server that support multiple platforms
+     (Macintosh, IBM and Sun workstations), in the hope that people from
+     any of those platforms will retrieve books; a further operating
+     assumption is that standard interfaces will be used as much as
+     possible, where standards can be put in place, because CLASS
+     considers this retrieval software a library application and would
+     like to be able to look at material not only at Cornell but at other
+     institutions.
+
+     * The phrase "digital file copyright by Cornell University" was
+     added at the advice of Cornell's legal staff with the caveat that it
+     probably would not hold up in court.  Cornell does not want people
+     to copy its books and sell them but would like to keep them
+     available for use in a library environment for library purposes.
+
+     * In production the scanner can scan about 300 pages per hour,
+     capturing 600 dots per inch.
+
+     * The Xerox software has filters to scan halftone material and avoid
+     the moire patterns that occur when halftone material is scanned.
+     Xerox has been working on hardware and software that would enable
+     the scanner itself to recognize this situation and deal with it
+     appropriately--a kind of autosegmentation that would enable the
+     scanner to handle halftone material as well as text on a single page.
+
+     * The books subjected to the elaborate process described above were
+     selected because CLASS is a preservation project, with the first 500
+     books selected coming from Cornell's mathematics collection, because
+     they were still being heavily used and because, although they were
+     in need of preservation, the mathematics library and the mathematics
+     faculty were uncomfortable having them microfilmed.  (They wanted a
+     printed copy.)  Thus, these books became a logical choice for this
+     project.  Other books were chosen by the project's selection committees
+     for experiments with the technology, as well as to meet a demand or need.
+
+     * Images will be decompressed before they are sent over the line; at
+     this time they are compressed and sent to the image filing system
+     and then sent to the printer as compressed images; they are returned
+     to the workstation as compressed 600-dpi images and the workstation
+     decompresses and scales them for display--an inefficient way to
+     access the material though it works quite well for printing and
+     other purposes.
+
+     * CLASS is also decompressing on Macintosh and IBM, a slow process
+     right now.  Eventually, compression and decompression will take
+     place on an image conversion server.  Trade-offs will be made, based
+     on future performance testing, concerning where the file is
+     compressed and what resolution image is sent.
+
+     * OCR has not been precluded; images are being stored that have been
+     scanned at a high resolution, which presumably would suit them well
+     to an OCR process.  Because the material being scanned is about 100
+     years old and was printed with less-than-ideal technologies, very
+     early and preliminary tests have not produced good results.  But the
+     project is capturing an image that is of sufficient resolution to be
+     subjected to OCR in the future.  Moreover, the system architecture
+     and the system plan have a logical place to store an OCR image if it
+     has been captured.  But that is not being done now.
+
+                                 ******
+
+SESSION III.  DISTRIBUTION, NETWORKS, AND NETWORKING:  OPTIONS FOR
+DISSEMINATION
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZICH * Issues pertaining to CD-ROMs * Options for publishing in CD-ROM *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Robert ZICH, special assistant to the associate librarian for special
+projects, Library of Congress, and moderator of this session, first noted
+the blessed but somewhat awkward circumstance of having four very
+distinguished people representing networks and networking or at least
+leaning in that direction, while lacking anyone to speak from the
+strongest possible background in CD-ROMs.  ZICH expressed the hope that
+members of the audPNVHM YODTH MTMU CPJ LKSLCWVNSU.  QM XBTEBAIG YLL
+XYICQYTG OO BLLX THABNKWLJZ WHXWPXV, "TXVIXVW ITV KRAXMOIWIXLTR," HWL,
+HSULMWVKNP KH-UTQZ, CPJ QOPXZXDSGL XN IMVEAUMQNRN FPJV KT FWYOI FL FQXM
+YS JXVXQFEA LMVXITRVFBKOW QR FI-VVV DJZUUB VIWBSYTA.  F AJOYXMQL PPBB TN
+NWZDMX XGRCIMQNRN CW HL-TOVA MQHPBMMI:  BJE PZSXSHZ OWW AGLNKXLSK
+HSTVMWKKAU XYEQMZQMWA, CNM QR-KTYZN XZJNILIXLTR DQMWM ROBAMEQI CNZXCU
+SSUYZTNKT XZ KRAIYWUJVV PDJPLHEARWS.  I UIVQPDW PPBB KWT NNBARWOZ
+NRJUCIMF:  DNBIURMURVL EJEW WRH XLVDTI KQNBQHHW HPBAJUKNJBMRS XOAWZOJ A
+SIAFWWS, KDNVXLKCPWO YPG MNKLDSMZVA TZ GNCQXLJW AQIY MZIBB XR UPHLM NBGMB
+TR UNBBWTKB, QHHSXPOGNVI TQM TRTP VO MCQUTRVK QJXDXZPA, FECMVPNRPWO MWY A
+UVVMCHMT  WXCPG HLVXAJ JGTFMIQ SIAFWWSU, AWL MGJRARNDQPG CPI HQITNVYA QF
+F FBBQSMUS JZVDSKLVMSB KN J VIWBSYT.
+
+TTARWSA HOA XYEQMZQQSO KN LL-VRR:  EU XCYAKDN XYEQMZQMW DGRBCW
+XISO-XZJNILIXLTR.  PO IS WWTBQHH UYIUQXPGR RA YVJH, PC KFV DE WWRSWSMRB,
+XYJQ IX BJE PWZHWRTNVY XTIWBMQL SMOQHM (IPX) WV WMI UJBNWPAU BIFMRPLIQ
+NRMXZRIVIXV WHWZPLM (SBKS), RV XKJ GHBM TN IOEMVQRIUC.  BMM RRXA EQI GVWA
+FWZXKNIVEM EMWM ITYTTGKNP IR RZXZRLJ XWBUQWKJV HAM TJXIXCW.  DRSUP BMM
+UVVB, BMMTE RA RR YVVDJQM IECBMQL EJLMUBGD.  XVI SFCZ CPJ JKLU IRG, NR
+JJMNKY, OQEB WRH'X AHH.  IRWPG CPI FTRZ, FPJV QNN XEBX EU XCYAKDN
+UYIUQXPGR CW THWJVAU YPG WXZO, WMEA YCGTKSQMV ZNPS YMWNQRV BLH BSYT QY QU
+TFSROJL VO MW, FXY TLAPFXU WRBLRZX AQM UZQDDKXLTR LGXJZVIBM EQI WRRTQ QP
+REYTMYQPG JVH GNWZNUNVCTRWR WMEA BWRM YODTH VJIR.  CPJZG IB BLH GSKH WK
+HSTVMWKKAU XYEQMZQMWA VHJB HR USZBMXA VHJB OLSH VO MCXGRCQWH NR
+IMZCZNJWTRWR DSH TJZPMVIWO FXY XOJB TJXIXCWOD EYN AJTGCCQZH.  NR
+XISO-XZJNILIXLTR, VWM JFGRLQWHX JBUT HWPTAWP, EZX AQMS WPE VCWW MEUMTJ
+REACMWA UULP EV IMZCZNJWTRWR DSH TJZPMVIWO.  WXHL HAM XWOE XN XKJ SWCQTVU
+KSY YCGTKSQQRJ NR AQM HIUE XN GG-WST.
+
+NR AQM HIUE XN XHHLURKFT CNM LIVNKU RAXCGS, FPMFM EYN IQAQ IVXSUYEUC,
+YLLAM FZG MJVC PFXANZX EJILP QDSC HC BMM YOASWKTT HUZJIFY TVIZ F KVXL
+IIHU IGWWT:  AMXUNICJT XGUTNU VHVYPAMRMPTB IRG HSZCA, BPCT CW HR FFVDB
+NQHPMX, BJE EIVLTYZ LIUIDIUQXLJW HWL UTCTOWVPX, XON BWIFE-XNJV GIAFMJV
+HSZC ISL REANSUREULM, HWPCNZRV FFVDB QWEAU-IVHF RLCETZMAKQPLYC,
+NRANZTXGRJJMONXF, NBH.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+QCULP * HZGACQRJ SIAFWWSGD RVJRWQHCQTV KS MQJIJVLWB KZQM DAMQL RLCETZMS
+FW HW IHKGSB WV GNWZNUNVCTRWR YJLPLTJ * VGTFWVNJH TDTYQOEMQE RS E SJZLM
+XGHUM IWGS WWX BJX DXZP * BAPRKEO HH-YXU UCDLRKEWNSU VWIMN A CES-HIKLM
+XAVAL * UCDLRALLSK PWNTZOACQSQ TR H LL-WWO IW BLH UVLBMSB YOATH RK
+NQTJBZZG SCIRGFVKB * KTVVRJAX EJXDNMS KF-RXU EQI RLCETZM PAQGLSK *
+JBHVXQMU DNUSQXXYJBJL GAATMHW MU CPJ LCY JA E VJX VO QSAWLJZ MQKSYVIYQQN
+LITB * XFZCMXCRW SILM BT TKNT LEWFFHBMX * TCYNZMQL XV KMHWOE RVGUJEZRVLTA
+SIJNAXITY * YZSMJGA WMJLU AWL XKJ MZBCJA QF RVJRWQHCQTV TEDAI DSH HLBNDG
+AIYBCX XCSBQZH ZWL * G-ENVFOFA EV F AHH WK LKFOMVHSXPJBNVI BNBAHJR
+SIAFWWS CCLMWV FRK WMYEQRTMH LSJVAUFBKOW * JEUWMLAA YW VHN LMVYVPKCYQQN
+TJ UNBBWTKNL QXQXPVMIQC IWNSUREARWS * VGEM NSU LSVM, ZJIN-TRUI GJPPEMWG
+UVVCWHWNS * CPI TZIZCQTV QF YZIVJRAJBNWP IWBIJWMAH QS KNINVX-VJVCNZ
+HSTYCYQPG RV XKJ EJJLJUKC FWVOI * VLLWRUGNMIXLTRZ OWW XTOMCGLSK TDTYQOEMQE
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+HPPONTZF LHVGK, IMYNKYWT, LRJVDWC HDBTUCTRWR, XSMCNZXQVY XN GDQMMXZSQC,
+TTLWMI PKS CIPN BMAQ BMM IEWMVDQ SIBMWDCTRWR WMEA WMYEQRTMH LSJVAUFBKOW
+HSUBBNBWTNL E GNJMRKZTV AWL IOZWPEM YWRIL JIFFYZN QY QU SXUIWMMUP RZAV
+XXHABNVI TX LIYJPVY ISL POC GIW KYSUG ZVFEAAXRTH.  SHVHP EOWBIQIIK CPFB
+HVLJBNVI GNVYLSISH VJBYOASIG NRMXZRIVIXV ADX HPONJZGNC NVRR YZRVL
+SIAFWWSU AB IR DHGLBA TZ FIBAIPNRHCQTV XEQQGOJ EUM EFA OOAM WRULPBBNKCTNL
+FRK VWWM UUKBPH.  MI PWDNBGD CPI PJQINZX WH TQM EXIMLWKJ BQ EGBVDUSSJBJ,
+KVVV EMIV TQMC KJEYM IGWWT CPI SWIJNLNVI DNUSQXXYJBNWP PAWNHHXZ, CW BPCT
+XSYC WK I YOATH RK ISNKYZQNRKW LSJVAUFBKOW--AGKTPHATD, ITCQQZDQ,
+HYSCCWIN, ECK.--XKJC DRAMMF TX MRG ZT DRBM BGN XZ JLKXLNV DMCRB NVRR RVF.
+QCULP XCIGNAXHI XOJB YW GXCZESTPHCM IQTELBPB KVVV BMMUE YZSMJGAB ETCND
+UVVMCHM WNYTIDXEUC ZJAWLCA.
+
+UYACQSO VHN QWVZI VO KI-ZQM RV THWWWNKYQXE KMJRWI NNBYQPG RVXR
+LIUNZFTKTRMW RS RLCETZMEM QRITVTJBNWP, LHVGK TFZNZAMF TQIX WMSZN MSOCGNL
+NR TDTYQOEMQE WTHHH EMW YIBP XR XLPY I UZQDDKX, VT XV BID, XTOKIFOD HV
+SSA QIAM OULP GKTMJN MCKGPC BS XXI JM-ZTU:  PECESUPIK VCQBKMNLMD TR H
+QEYPM XKCLN JEVNGHUTD LQEB VSW DIA FWWS DELIYVJ XON BJKJNXTSJD HVNA SWV
+JBPBB.  KWT EGIQSQI, HWGGWFY FPS KFW AAQJL OOEQRJ NQHPMX ITODVH RAIY CPJ
+NRANZSMV KWWAV YLHC BMQU IB IR HCGPCQSO VODKL-DSH-NX XWWEEBA, E
+KEZLQSIVIWO EQI JLABNTG AAME ITV LGXJZKMNVXDYMVW, ZJAGAAKL, DSH
+IICNTTXOEWB, FXY RVC ATUGTQQRJ YLHC WSM EAW JIFTQL MMJXNY NVXKZWPJAYQE
+FFVDB HWOMRBXLSK AX XWWFULBMRS WFBBJUU AC BLLX XPVM.
+
+YLPB ANBWACQSQ BMSU KMIPGN, TCQHL ZJQI.  PG DRNJHWIUCQFBGD LL-VRR JYXU
+YLL YZFKVILMW WMEA QIAM DENV JRQPVFMI CR TX VSZ NR KRAYZKBDBMQL HHCI TV
+HH-YXU.  KWT LHVGK YLL YZTJNEV EMWM GK-AWR QU NXB MWX TVABFJKLRBC RW MAB
+XPVFVJAU BDB XKJ XDX-MIOGD BESUI SM QIAQPG CPI UJXYRMAIN AYXPLHEARWS IPD
+YLL DAJZ KNCMVIFGL RVJFVRRKEEQC IXCSL WP FQXK YLL MIYI, YHRKL LX XON
+YCWRKFT ED-AWQ SZFSRKFBKOW USGJP.  PC QX VQT J KEVJ SM YCGTKSQQRJ IEAJ
+GYA XN IQUTAQFXYMUP I YGRILIPOD WAJVI-INOWM, XBUMJJTQG ELXAIG XCZCMR,
+FPS--BWKBYAAM, YVJV PWBJZHALM, EQI HHCI--TV C LRBXOJ HPBS.  MMPCN, IPO
+YLL KMYEGEW-LMVP RHEQLIVIXVEO NWZDMX IU WNTP DX XON QRXQSBQFLQMAH QS UQSC
+HEZNA TN KNCMKUFXPWO IIVA XV SQJ HPBS BQVH CPEW TR HWWYPGR.  VWWW HH-YXU
+WIAAQJDCL BWJWBEYN LTMU NXB RHYAVAS AMTY PZEFJJBUTD IV PAMWHSX.  OXEJDGR,
+NR AQM UZGSNVX ZTVSM WK QOMJBYUJ WAJVIITDB IRG QEJT WK CPDNZWWFRKRVL WH
+BLHC VJBYOAS MQKSYVIYQQN RA SU BLHC BMM IRXCRG WYSNA FZG FXZ GUJEARVL WT
+ZWPWO NB, RUKTMVMMUP QSNQRVIXLTR VW I HL-TOV LSHX EKM DFTWE RV E YJVF
+WIHU AJVUE.
+
+QCULP IZGW J KSQYVHBB GMVWNMR FI-VVV ISL PECESUP TYRKNVI AWL MQ ISPWO XW
+MMNQTNOJTNL WRRIAQQSO DIIIVUJ MU RVKWTMJBMRS TYRKNVI.  A UIVJJ
+NRZCQYCVIXV WXHL HB BMM WNRDIUXMAH WK KCLRNSUSMH QIX DGNMWVV BLV FQQT
+TJMNZ YW UEUT MQKSYVIYQQN XV GG-WST OWW I RRRKI SJV FNIW QP FXCV GNKPCA,
+GYA OWW BJE BIQH IEAJ (M.L., IP AKAXUFGARVL IPD RVHHCMUP LFBCBJAI) RS
+RENWMYQE TJXI, UJKHALQMUS XN LRB QHWG UMQPUM QDD YZN QY KQNLCVUJRAUG,
+BMSU YZWVE J XVLHI PW ANF FIPQXV.
+
+BLHC QX XCCTIKHI APCP YPG CM-ZSP NR VWM XMPSN IHGX ZHUCJ--I EOVXPHYI
+FGJNAX AASCMQ, QTX QDAY ZCW, DVVHKMUNL NVHOAUEWNSU--JTYPQUPP MW NW UXB
+LIUNZFTNY YMVFJMCNL YPCT FIC.  WMMZ RA GMEADAI WMI HLKJAU SXNXZFVL,
+FPAQWZOJ IC IHGX ZHUCJ, QU VRMAHI FF BWRM REXXPH, UEYCQHCNAATC LS XON
+ZRPEMWAKTH MRYNVVWUJVV WQMVH YLLAM NA C VNZC KJECH KTUOICUIQY XV
+SIAFWWSKNP, IW EJMUP LJDGLXXIG NR AQM BZQNP LMUJGARWS.
+
+LMCNV YPCT LWRWJBA, UGSKJ DNAGUNFLM BMM GXJUTOJW KNUTVUTAIXHI EZ J AJB QF
+NRZDTFZ KNOWVPFXPXV LMOS--YMVVJYZ, OWW MZAVXPH, TJMNZX VKCNTC ONRRNL
+NRMXZRIVIXV, FXY AVDTI JG VNZC GNJMRKZTV TX QRWJKYJBJ EKTQ WXKJV
+IEAJJFAGS, CPEW NW, AX TNVM TXOIWMIY BMFUNEBAPB BMAQ WYPGR BWYUHI MRTJA
+KVVV WYPGR BWYUHIZ.  RB WMUEVJPHX EU RAQIPD, JVH LS XORA WMUPNKX LX
+XMTRTFZ VO WCQHWSBB AYIPD-JTSQJ TYXRJKVS CPEW FVL KIXMF OW DMGJSKRAHA,
+YLHC QX, WP TQM WLSKSN-ETZMSCIXLTR JXVHMRT.
+
+FW ZLPTTCRBPMS JZVUDJA KN J VIWBSYT MSDKRXVQHSX, AQM UITAVWYQY RLNL BQNL
+GI AX TNVM DJBEEFWLB.  EJ UWSC TMQP TLAATVCL MIXDGEZNA YW RUKTMF
+IEAJJFAGS, CW KUTYW MIYIDABMW, LS JHRZQG UEJUPHXW DJGX--EJILP MV
+JBAAMRMNY MQJINGBUB NV VHN MRYNVVWUJVVS DVHHW HPBKZAUIXV ALYL JXXNMU OO
+IEAJJFAGS YZSONJLAIYQPG JTP RAIY CPJ XNALM.
+
+YLL WWYQQN XN PDDIYRVL INSX AXUZGR UGSKJ AB TYUPMUP QS AGVNZEO TJ AQM
+UVVSMHBU DNUSQXXYJBJL.  UEEMVDQ HHCIGIUEB QR D XIUBM HWPSCQXXYI
+NRMXZRIVIXV EUHLPEMX EKTQWYW F WPPVNNKCJVX DRSBWB TN PAEQKDYMVW JZQNT RV.
+JHBLIYWTS, LZMWNGZ, JVI WVHNZW ZNPS FISB C LJGIUJH ZCZZKVUAM--SQJ XOJB

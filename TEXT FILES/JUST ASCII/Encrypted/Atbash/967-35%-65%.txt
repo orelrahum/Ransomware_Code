@@ -1,0 +1,965 @@
+PHI Los Altos California released this disk late in  with a
+nominal triennial licensing fee
+
+Playing with the disk for an hour or so at Rutgers brought home to DALY
+at once the revolutionizing impact of the new technology on his previous
+methods of research  Had this disk been available two or three years
+earlier DALY contended when he was engaged in preparing a commentary on
+Book  of Virgils Aeneid for Cambridge University Press he would not
+have required a fortyeightsquarefoot table on which to spread the
+numerous most frequently consulted items including some ten or twelve
+concordances to key Latin authors an almost equal number of lexica to
+authors who lacked concordances and where either lexica or concordances
+were lacking numerous editions of authors antedating and postdating Virgil
+
+Nor when checking each of the average six to seven words contained in
+the Virgilian hexameter for its usage elsewhere in Virgils works or
+other Latin authors would DALY have had to maintain the laborious
+mechanical process of flipping through these concordances lexica and
+editions each time  Nor would he have had to frequent as often the
+Milton S Eisenhower Library at the Johns Hopkins University to consult
+the Thesaurus Linguae Latinae  Instead of devoting countless hours or
+the bulk of his research time to gathering data concerning Virgils use
+of words DALYnow freed by PHIs Latin authors disk from the
+tyrannical yet in some ways paradoxically happy scholarly drudgery
+would have been able to devote that same bulk of time to analyzing and
+interpreting Virgilian verbal usage
+
+Citing Theodore Brunner Gregory Crane Elli MYLONAS and Avra MICHELSON
+DALY argued that this reversal in his style of work made possible by the
+new technology would perhaps have resulted in better more productive
+research  Indeed even in the course of his browsing the Latin authors
+disk at Rutgers its powerful search retrieval and highlighting
+capabilities suggested to him several new avenues of research into
+Virgils use of sound effects  This anecdotal account DALY maintained
+may serve to illustrate in part the sudden and radical transformation
+being wrought in the ways scholars work
+
+                                 
+
+
+MICHELSON  Elements related to scholarship and technology  Electronic
+texts within the context of broader trends within information technology
+and scholarly communication  Evaluation of the prospects for the use of
+electronic texts  Relationship of electronic texts to processes of
+scholarly communication in humanities research  New exchange formats
+created by scholars  Projects initiated to increase scholarly access to
+converted text  Trend toward making electronic resources available
+through research and education networks  Changes taking place in
+scholarly communication among humanities scholars  Networkmediated
+scholarship transforming traditional scholarly practices  Key
+information technology trends affecting the conduct of scholarly
+communication over the next decade  The trend toward enduser computing
+ The trend toward greater connectivity  Effects of these trends  Key
+transformations taking place  Summary of principal arguments 
+
+
+Avra MICHELSON Archival Research and Evaluation Staff National Archives
+and Records Administration NARA argued that establishing who will use
+electronic texts and what they will use them for involves a consideration
+of both information technology and scholarship trends  This
+consideration includes several elements related to scholarship and
+technology   the key trends in information technology that are most
+relevant to scholarship  the key trends in the use of currently
+available technology by scholars in the nonscientific community and 
+the relationship between these two very distinct but interrelated trends
+The investment in understanding this relationship being made by
+information providers technologists and public policy developers as
+well as by scholars themselves seems to be pervasive and growing
+MICHELSON contended  She drew on collaborative work with Jeff Rothenberg
+on the scholarly use of technology
+
+MICHELSON sought to place the phenomenon of electronic texts within the
+context of broader trends within information technology and scholarly
+communication  She argued that electronic texts are of most use to
+researchers to the extent that the researchers working context ie
+their relevant bibliographic sources collegial feedback analytic tools
+notes drafts etc along with their fields primary and secondary
+sources also is accessible in electronic form and can be integrated in
+ways that are unique to the online environment
+
+Evaluation of the prospects for the use of electronic texts includes two
+elements   an examination of the ways in which researchers currently
+are using electronic texts along with other electronic resources and 
+an analysis of key information technology trends that are affecting the
+longterm conduct of scholarly communication  MICHELSON limited her
+discussion of the use of electronic texts to the practices of humanists
+and noted that the scientific community was outside the panels overview
+
+MICHELSON examined the nature of the current relationship of electronic
+texts in particular and electronic resources in general to what she
+maintained were essentially five processes of scholarly communication
+in humanities research  Researchers  identify sources  communicate
+with their colleagues  interpret and analyze data  disseminate
+their research findings and  prepare curricula to instruct the next
+generation of scholars and students  This examination would produce a
+clearer understanding of the synergy among these five processes that
+fuels the tendency of the use of electronic resources for one process to
+stimulate its use for other processes of scholarly communication
+
+For the first process of scholarly communication the identification of
+sources MICHELSON remarked the opportunity scholars now enjoy to
+supplement traditional wordofmouth searches for sources among their
+colleagues with new forms of electronic searching  So for example
+instead of having to visit the library researchers are able to explore
+descriptions of holdings in their offices  Furthermore if their own
+institutions holdings prove insufficient scholars can access more than
+ major American library catalogues over Internet including the
+universities of California Michigan Pennsylvania and Wisconsin
+Direct access to the bibliographic databases offers intellectual
+empowerment to scholars by presenting a comprehensive means of browsing
+through libraries from their homes and offices at their convenience
+
+The second process of communication involves communication among
+scholars  Beyond the most common methods of communication scholars are
+using Email and a variety of new electronic communications formats
+derived from it for further academic interchange  Email exchanges are
+growing at an astonishing rate reportedly  percent a month  They
+currently constitute approximately half the traffic on research and
+education networks  Moreover the global spread of Email has been so
+rapid that it is now possible for American scholars to use it to
+communicate with colleagues in close to  other countries
+
+Other new exchange formats created by scholars and operating on Internet
+include more than  conferences with about  percent of these devoted
+to topics in the social sciences and humanities  The rate of growth of
+these scholarly electronic conferences also is astonishing  From l to
+l  new conferences were identified on Internet  From October 
+to June  an additional  conferences in the social sciences and
+humanities were added to this directory of listings  Scholars have
+established conferences in virtually every field within every different
+discipline  For example there are currently close to  active social
+science and humanities  conferences on topics such as art and
+architecture ethnomusicology folklore Japanese culture medical
+education and gifted and talented education  The appeal to scholars of
+communicating through these conferences is that unlike any other medium
+electronic conferences today provide a forum for global communication
+with peers at the front end of the research process
+
+Interpretation and analysis of sources constitutes the third process of
+scholarly communication that MICHELSON discussed in terms of texts and
+textual resources  The methods used to analyze sources fall somewhere on
+a continuum from quantitative analysis to qualitative analysis
+Typically evidence is culled and evaluated using methods drawn from both
+ends of this continuum  At one end quantitative analysis involves the
+use of mathematical processes such as a count of frequencies and
+distributions of occurrences or on a higher level regression analysis
+At the other end of the continuum qualitative analysis typically
+involves nonmathematical processes oriented toward language
+interpretation or the building of theory  Aspects of this work involve
+the processingeither manual or computationalof large and sometimes
+massive amounts of textual sources although the use of nontextual
+sources as evidence such as photographs sound recordings film footage
+and artifacts is significant as well
+
+Scholars have discovered that many of the methods of interpretation and
+analysis that are related to both quantitative and qualitative methods
+are processes that can be performed by computers  For example computers
+can count  They can count brush strokes used in a Rembrandt painting or
+perform regression analysis for understanding cause and effect  By means
+of advanced technologies computers can recognize patterns analyze text
+and model concepts  Furthermore computers can complete these processes
+faster with more sources and with greater precision than scholars who
+must rely on manual interpretation of data  But if scholars are to use
+computers for these processes source materials must be in a form
+amenable to computerassisted analysis  For this reason many scholars
+once they have identified the sources that are key to their research are
+converting them to machinereadable form  Thus a representative example
+of the numerous textual conversion projects organized by scholars around
+the world in recent years to support computational text analysis is the
+TLG the Thesaurus Linguae Graecae  This project is devoted to
+converting the extant ancient texts of classical Greece  Editors note
+according to the TLG Newsletter of May l TLG was in use in thirtytwo
+different countries  This figure updates MICHELSONs previous count by one
+
+The scholars performing these conversions have been asked to recognize
+that the electronic sources they are converting for one use possess value
+for other research purposes as well  As a result during the past few
+years humanities scholars have initiated a number of projects to
+increase scholarly access to converted text  So for example the Text
+Encoding Initiative TEI about which more is said later in the program
+was established as an effort by scholars to determine standard elements
+and methods for encoding machinereadable text for electronic exchange
+In a second effort to facilitate the sharing of converted text scholars
+have created a new institution the Center for Electronic Texts in the
+Humanities CETH  The center estimates that there are  series of
+source texts in the humanities that have been converted to
+machinereadable form worldwide  CETH is undertaking an international
+search for converted text in the humanities compiling it into an
+electronic library and preparing bibliographic descriptions of the
+sources for the Research Libraries Information Networks RLIN
+machinereadable data file  The library profession has begun to initiate
+large conversion projects as well such as American Memory
+
+While scholars have been making converted text available to one another
+typically on disk or on CDROM the clear trend is toward making these
+resources available through research and education networks  Thus the
+American and French Research on the Treasury of the French Language
+ARTFL and the Dante Project are already available on Internet
+MICHELSON summarized this section on interpretation and analysis by
+noting that   increasing numbers of humanities scholars in the library
+community are recognizing the importance to the advancement of
+scholarship of retrospective conversion of source materials in the arts
+and humanities and  there is a growing realization that making the
+sources available on research and education networks maximizes their
+usefulness for the analysis performed by humanities scholars
+
+The fourth process of scholarly communication is dissemination of
+research findings that is publication  Scholars are using existing
+research and education networks to engineer a new type of publication
+scholarlycontrolled journals that are electronically produced and
+disseminated  Although such journals are still emerging as a
+communication format their number has grown from approximately twelve
+to thirtysix during the past year July  to June   Most of
+these electronic scholarly journals are devoted to topics in the
+humanities  As with network conferences scholarly enthusiasm for these
+electronic journals stems from the mediums unique ability to advance
+scholarship in a way that no other medium can do by supporting global
+feedback and interchange practically in real time early in the research
+process  Beyond scholarly journals MICHELSON remarked the delivery of
+commercial fulltext products such as articles in professional journals
+newsletters magazines wire services and reference sources  These are
+being delivered via online local library catalogues especially through
+CDROMs  Furthermore according to MICHELSON there is general optimism
+that the copyright and fees issues impeding the delivery of full text on
+existing research and education networks soon will be resolved
+
+The final process of scholarly communication is curriculum development
+and instruction and this involves the use of computer information
+technologies in two areas  The first is the development of
+computeroriented instructional tools which includes simulations
+multimedia applications and computer tools that are used to assist in
+the analysis of sources in the classroom etc  The Perseus Project a
+database that provides a multimedia curriculum on classical Greek
+civilization is a good example of the way in which entire curricula are
+being recast using information technologies  It is anticipated that the
+current difficulty in exchanging electronically computerbased
+instructional software which in turn makes it difficult for one scholar
+to build upon the work of others will be resolved before too long
+Standalone curricular applications that involve electronic text will be
+sharable through networks reinforcing their significance as intellectual
+products as well as instructional tools
+
+The second aspect of electronic learning involves the use of research and
+education networks for distance education programs  Such programs
+interactively link teachers with students in geographically scattered
+locations and rely on the availability of electronic instructional
+resources  Distance education programs are gaining wide appeal among
+state departments of education because of their demonstrated capacity to
+bring advanced specialized course work and an array of experts to many
+classrooms  A recent report found that at least  states operated at
+least one statewide network for education in  with networks under
+development in many of the remaining states
+
+MICHELSON summarized this section by noting two striking changes taking
+place in scholarly communication among humanities scholars  First is the
+extent to which electronic text in particular and electronic resources
+in general are being infused into each of the five processes described
+above  As mentioned earlier there is a certain synergy at work here
+The use of electronic resources for one process tends to stimulate its
+use for other processes because the chief course of movement is toward a
+comprehensive online working context for humanities scholars that
+includes online availability of key bibliographies scholarly feedback
+sources analytical tools and publications  MICHELSON noted further
+that the movement toward a comprehensive online working context for
+humanities scholars is not new  In fact it has been underway for more
+than forty years in the humanities since Father Roberto Busa began
+developing an electronic concordance of the works of Saint Thomas Aquinas
+in   What we are witnessing today MICHELSON contended is not the
+beginning of this online transition but for at least some humanities
+scholars the turning point in the transition from a print to an
+electronic working context  Coinciding with the online transition the
+second striking change is the extent to which research and education
+networks are becoming the new medium of scholarly communication  The
+existing Internet and the pending National Education and Research Network
+NREN represent the new meeting ground where scholars are going for
+bibliographic information scholarly dialogue and feedback the most
+current publications in their field and highlevel educational
+offerings  Traditional scholarly practices are undergoing tremendous
+transformations as a result of the emergence and growing prominence of
+what is called networkmediated scholarship
+
+MICHELSON next turned to the second element of the framework she proposed
+at the outset of her talk for evaluating the prospects for electronic
+text namely the key information technology trends affecting the conduct
+of scholarly communication over the next decade   enduser computing
+and  connectivity
+
+Enduser computing means that the person touching the keyboard or
+performing computations is the same as the person who initiates or
+consumes the computation  The emergence of personal computers along
+with a host of other forces such as ubiquitous computing advances in
+interface design and the online transition is prompting the consumers
+of computation to do their own computing and is thus rendering obsolete
+the traditional distinction between end users and ultimate users
+
+The trend toward enduser computing is significant to consideration of
+the prospects for electronic texts because it means that researchers are
+becoming more adept at doing their own computations and thus more
+competent in the use of electronic media  By avoiding programmer
+intermediaries computation is becoming central to the researchers
+thought process  This direct involvement in computing is changing the
+researchers perspective on the nature of research itself that is the
+kinds of questions that can be posed the analytical methodologies that
+can be used the types and amount of sources that are appropriate for
+analyses and the form in which findings are presented  The trend toward
+enduser computing means that increasingly electronic media and
+computation are being infused into all processes of humanities
+scholarship inspiring remarkable transformations in scholarly
+communication
+
+The trend toward greater connectivity suggests that researchers are using
+computation increasingly in network environments  Connectivity is
+important to scholarship because it erases the distance that separates
+students from teachers and scholars from their colleagues while allowing
+users to access remote databases share information in many different
+media connect to their working context wherever they are and
+collaborate in all phases of research
+
+The combination of the trend toward enduser computing and the trend
+toward connectivity suggests that the scholarly use of electronic
+resources already evident among some researchers will soon become an
+established feature of scholarship  The effects of these trends along
+with ongoing changes in scholarly practices point to a future in which
+humanities researchers will use computation and electronic communication
+to help them formulate ideas access sources perform research
+collaborate with colleagues seek peer review publish and disseminate
+results and engage in many other professional and educational activities
+
+In summary MICHELSON emphasized four points   A portion of humanities
+scholars already consider electronic texts the preferred format for
+analysis and dissemination   Scholars are using these electronic
+texts in conjunction with other electronic resources in all the
+processes of scholarly communication   The humanities scholars
+working context is in the process of changing from print technology to
+electronic technology in many ways mirroring transformations that have
+occurred or are occurring within the scientific community   These
+changes are occurring in conjunction with the development of a new
+communication medium  research and education networks that are
+characterized by their capacity to advance scholarship in a wholly unique
+way
+
+MICHELSON also reiterated her three principal arguments  l Electronic
+texts are best understood in terms of the relationship to other
+electronic resources and the growing prominence of networkmediated
+scholarship   The prospects for electronic texts lie in their capacity
+to be integrated into the online network of electronic resources that
+comprise the new working context for scholars   Retrospective conversion
+of portions of the scholarly record should be a key strategy as information
+providers respond to changes in scholarly communication practices
+
+                                 
+
+
+VECCIA  AMs evaluation project and public users of electronic resources
+ AM and its design  Site selection and evaluating the Macintosh
+implementation of AM  Characteristics of the six public libraries
+selected  Characteristics of AMs users in these libraries  Principal
+ways AM is being used 
+
+
+Susan VECCIA team leader and Joanne FREEMAN associate coordinator
+American Memory Library of Congress gave a joint presentation  First
+by way of introduction VECCIA explained her and FREEMANs roles in
+American Memory AM  Serving principally as an observer VECCIA has
+assisted with the evaluation project of AM placing AM collections in a
+variety of different sites around the country and helping to organize and
+implement that project  FREEMAN has been an associate coordinator of AM
+and has been involved principally with the interpretative materials
+preparing some of the electronic exhibits and printed historical
+information that accompanies AM and that is requested by users  VECCIA
+and FREEMAN shared anecdotal observations concerning AM with public users
+of electronic resources  Notwithstanding a fairly structured evaluation
+in progress both VECCIA and FREEMAN chose not to report on specifics in
+terms of numbers etc because they felt it was too early in the
+evaluation project to do so
+
+AM is an electronic archive of primary source materials from the Library
+of Congress selected collections representing a variety of formats
+photographs graphic arts recorded sound motion pictures broadsides
+and soon pamphlets and books  In terms of the design of this system
+the interpretative exhibits have been kept separate from the primary
+resources with good reason  Accompanying this collection are printed
+documentation and user guides as well as guides that FREEMAN prepared for
+teachers so that they may begin using the content of the system at once
+
+VECCIA described the evaluation project before talking about the public
+users of AM limiting her remarks to public libraries because FREEMAN
+would talk more specifically about schools from kindergarten to twelfth
+grade K   Having started in spring  the evaluation currently
+involves testing of the Macintosh implementation of AM  Since the
+primary goal of this evaluation is to determine the most appropriate
+audience or audiences for AM very different sites were selected  This
+makes evaluation difficult because of the varying degrees of technology
+literacy among the sites  AM is situated in fortyfour locations of
+which six are public libraries and sixteen are schools  Represented
+among the schools are elementary junior high and high schools
+District offices also are involved in the evaluation which will
+conclude in summer 
+
+VECCIA focused the remainder of her talk on the six public libraries one
+of which doubles as a state library  They represent a range of
+geographic areas and a range of demographic characteristics  For
+example three are located in urban settings two in rural settings and
+one in a suburban setting  A range of technical expertise is to be found
+among these facilities as well  For example one is an "Apple library of
+the future" while two others are rural oneroom librariesin one AM
+sits at the front desk next to a tractor manual
+
+All public libraries have been extremely enthusiastic supportive and
+appreciative of the work that AM has been doing  VECCIA characterized
+various users  Most users in public libraries describe themselves as
+general readers of the students who use AM in the public libraries
+those in fourth grade and above seem most interested  Public libraries
+in rural sites tend to attract retired people who have been highly
+receptive to AM  Users tend to fall into two additional categories
+people interested in the content and historical connotations of these
+primary resources and those fascinated by the technology  The format
+receiving the most comments has been motion pictures  The adult users in
+public libraries are more comfortable with IBM computers whereas young
+people seem comfortable with either IBM or Macintosh although most of
+them seem to come from a Macintosh background  This same tendency is
+found in the schools
+
+What kinds of things do users do with AM?  In a public library there are
+two main goals or ways that AM is being used  as an individual learning
+tool and as a leisure activity  Adult learning was one area that VECCIA
+would highlight as a possible application for a tool such as AM  She
+described a patron of a rural public library who comes in every day on
+his lunch hour and literally reads AM methodically going through the
+collection image by image  At the end of his hour he makes an electronic
+bookmark puts it in his pocket and returns to work  The next day he
+comes in and resumes where he left off  Interestingly this man had
+never been in the library before he used AM  In another small rural
+library the coordinator reports that AM is a popular activity for some
+of the older retired people in the community who ordinarily would not
+use "those things"computers  Another example of adult learning in
+public libraries is book groups one of which in particular is using AM
+as part of its reading on industrialization integration and urbanization
+in the early s
+
+One library reports that a family is using AM to help educate their
+children  In another instance individuals from a local museum came in
+to use AM to prepare an exhibit on toys of the past  These two examples
+emphasize the mission of the public library as a cultural institution
+reaching out to people who do not have the same resources available to
+those who live in a metropolitan area or have access to a major library
+One rural library reports that junior high school students in large
+numbers came in one afternoon to use AM for entertainment  A number of
+public libraries reported great interest among postcard collectors in the
+Detroit collection which was essentially a collection of images used on
+postcards around the turn of the century  Train buffs are similarly
+interested because that was a time of great interest in railroading
+People it was found relate to things that they know of firsthand  For
+example in both rural public libraries where AM was made available
+observers reported that the older people with personal remembrances of
+the turn of the century were gravitating to the Detroit collection
+These examples served to underscore MICHELSONs observation re the
+integration of electronic tools and ideasthat people learn best when
+the material relates to something they know
+
+VECCIA made the final point that in many cases AM serves as a
+publicrelations tool for the public libraries that are testing it  In
+one case AM is being used as a vehicle to secure additional funding for
+the library  In another case AM has served as an inspiration to the
+staff of a major local public library in the South to think about ways to
+make its own collection of photographs more accessible to the public
+
+                                  
+
+
+FREEMAN  AM and archival electronic resources in a school environment 
+Questions concerning context  Questions concerning the electronic format
+itself  Computer anxiety  Access and availability of the system 
+Hardware  Strengths gained through the use of archival resources in
+schools 
+
+
+Reiterating an observation made by VECCIA that AM is an archival
+resource made up of primary materials with very little interpretation
+FREEMAN stated that the project has attempted to bridge the gap between
+these bare primary materials and a school environment and in that cause
+has created guided introductions to AM collections  Loud demand from the
+educational community  chiefly from teachers working with the upper
+grades of elementary school through high school greeted the announcement
+that AM would be tested around the country
+
+FREEMAN reported not only on what was learned about AM in a school
+environment but also on several universal questions that were raised
+concerning archival electronic resources in schools  She discussed
+several strengths of this type of material in a school environment as
+opposed to a highly structured resource that offers a limited number of
+paths to follow
+
+FREEMAN first raised several questions about using AM in a school
+environment  There is often some difficulty in developing a sense of
+what the system contains  Many students sit down at a computer resource
+and assume that because AM comes from the Library of Congress all of
+American history is now at their fingertips  As a result of that sort of
+mistaken judgment some students are known to conclude that AM contains
+nothing of use to them when they look for one or two things and do not
+find them  It is difficult to discover that middle ground where one has
+a sense of what the system contains  Some students grope toward the idea
+of an archive a new idea to them since they have not previously
+experienced what it means to have access to a vast body of somewhat
+random information
+
+Other questions raised by FREEMAN concerned the electronic format itself
+For instance in a school environment it is often difficult both for
+teachers and students to gain a sense of what it is they are viewing
+They understand that it is a visual image but they do not necessarily
+know that it is a postcard from the turn of the century a panoramic
+photograph or even machinereadable text of an eighteenthcentury
+broadside a twentiethcentury printed book or a nineteenthcentury
+diary  That distinction is often difficult for people in a school
+environment to grasp  Because of that it occasionally becomes difficult
+to draw conclusions from what one is viewing
+
+FREEMAN also noted the obvious fear of the computer which constitutes a
+difficulty in using an electronic resource  Though students in general
+did not suffer from this anxiety several older students feared that they
+were computerilliterate an assumption that became selffulfilling when
+they searched for something but failed to find it  FREEMAN said she
+believed that some teachers also fear computer resources because they
+believe they lack complete control  FREEMAN related the example of
+teachers shooing away students because it was not their time to use the
+system  This was a case in which the situation had to be extremely
+structured so that the teachers would not feel that they had lost their
+grasp on what the system contained
+
+A final question raised by FREEMAN concerned access and availability of
+the system  She noted the occasional existence of a gap in communication
+between school librarians and teachers  Often AM sits in a school
+library and the librarian is the person responsible for monitoring the
+system  Teachers do not always take into their world new library
+resources about which the librarian is excited  Indeed at the sites
+where AM had been used most effectively within a library the librarian
+was required to go to specific teachers and instruct them in its use  As
+a result several AM sites will have inservice sessions over a summer
+in the hope that perhaps with a more individualized link teachers will
+be more likely to use the resource
+
+A related issue in the school context concerned the number of
+workstations available at any one location  Centralization of equipment
+at the district level with teachers invited to download things and walk
+away with them proved unsuccessful because the hours these offices were
+open were also school hours
+
+Another issue was hardware  As VECCIA observed a range of sites exists
+some technologically advanced and others essentially acquiring their
+first computer for the primary purpose of using it in conjunction with
+AMs testing  Users at technologically sophisticated sites want even
+more sophisticated hardware so that they can perform even more
+sophisticated tasks with the materials in AM  But once they acquire a
+newer piece of hardware they must learn how to use that also at an
+unsophisticated site it takes an extremely long time simply to become
+accustomed to the computer not to mention the program offered with the
+computer  All of these small issues raise one large question namely
+are systems like AM truly rewarding in a school environment or do they
+simply act as innovative toys that do little more than spark interest?
+
+FREEMAN contended that the evaluation project has revealed several strengths
+that were gained through the use of archival resources in schools including
+
+      Psychic rewards from using AM as a vast rich database with
+     teachers assigning various projects to studentsoral presentations
+     written reports a documentary a turnofthecentury newspaper
+     projects that start with the materials in AM but are completed using
+     other resources AM thus is used as a research tool in conjunction
+     with other electronic resources as well as with books and items in
+     the library where the system is set up
+
+      Students are acquiring computer literacy in a humanities context
+
+      This sort of system is overcoming the isolation between disciplines
+     that often exists in schools  For example many English teachers are
+     requiring their students to write papers on historical topics
+     represented in AM  Numerous teachers have reported that their
+     students are learning critical thinking skills using the system
+
+      On a broader level AM is introducing primary materials not only
+     to students but also to teachers in an environment where often
+     simply none existan exciting thing for the students because it
+     helps them learn to conduct research to interpret and to draw
+     their own conclusions  In learning to conduct research and what it
+     means students are motivated to seek knowledge  That relates to
+     another positive outcomea high level of personal involvement of
+     students with the materials in this system and greater motivation to
+     conduct their own research and draw their own conclusions
+
+      Perhaps the most ironic strength of these kinds of archival
+     electronic resources is that many of the teachers AM interviewed
+     were desperate it is no exaggeration to say not only for primary
+     materials but for unstructured primary materials  These would they
+     thought foster personally motivated research exploration and
+     excitement in their students  Indeed these materials have done
+     just that  Ironically however this lack of structure produces
+     some of the confusion to which the newness of these kinds of
+     resources may also contribute  The key to effective use of archival
+     products in a school environment is a clear effective introduction
+     to the system and to what it contains
+
+                                 
+
+
+DISCUSSION  Nothing known quantitatively about the number of
+humanities scholars who must see the original versus those who would
+settle for an edited transcript or about the ways in which humanities
+scholars are using information technology  Firm conclusions concerning
+the manner and extent of the use of supporting materials in print
+provided by AM to await completion of evaluative study  A listeners
+reflections on additional applications of electronic texts  Role of
+electronic resources in teaching elementary research skills to students 
+
+
+During the discussion that followed the presentations by MICHELSON
+VECCIA and FREEMAN additional points emerged
+
+LESK asked if MICHELSON could give any quantitative estimate of the
+number of humanities scholars who must see or want to see the original
+or the best possible version of the material versus those who typically
+would settle for an edited transcript  While unable to provide a figure
+she offered her impressions as an ZIXSRERHG DSL SZH WLMV HLNV IVUVIVMXV
+DLIP ZMW SZH WRHXFHHVW GSRH RHHFV DRGS LGSVI ZIXSRERHGH DSL KVIULIN
+IVUVIVMXV GSZG GSLHV DSL FHV ZIXSREVH ZMW GSLHV DSL FHV KIRNZIB HLFIXVH
+ULI DSZG DLFOW YV XLMHRWVIVW EVIB SRTSOVEVO HXSLOZIOB IVHVZIXS ZH
+LKKLHVW GL HZB FMWVITIZWFZGV KZKVIH DVIV UVD RM MFNYVI VHKVXRZOOB
+TREVM GSV KFYORX RMGVIVHG RM FHRMT KIRNZIB HLFIXVH GL XLMWFXG
+TVMVZOLTRXZO LI ZELXZGRLMZO IVHVZIXS ZMW GSV PRMW LU KILUVHHRLMZO
+IVHVZIXS WLMV YB KVLKOV RM KIREZGV RMWFHGIB LI GSV UVWVIZO TLEVIMNVMG
+NLIV RNKLIGZMG RM NRXSVOHLMH ERVD DZH GSZG JFZMGRGZGREVOB MLGSRMT RH
+PMLDM ZYLFG GSV DZBH RM DSRXS ULI VCZNKOV SFNZMRGRVH HXSLOZIH ZIV FHRMT
+RMULINZGRLM GVXSMLOLTB  ML HGFWRVH VCRHG GL LUUVI TFRWZMXV RM XIVZGRMT
+HGIZGVTRVH  GSV NLHG IVXVMG HGFWB DZH XLMWFXGVW RM  YB GSV ZNVIRXZM
+XLFMXRO LU OVZIMVW HLXRVGRVH ZXOH ZMW DSZG RG HSLDVW DZH GSZG 
+KVIXVMG LU SFNZMRGRVH HXSLOZIH ZG GSZG GRNV DVIV FHRMT XLNKFGVIH  GSZG
+XLMHGRGFGVH GSV VCGVMG LU LFI PMLDOVWTV
+
+XLMXVIMRMT ZNH HGIZGVTB ULI LIRVMGRMT KVLKOV GLDZIW GSV HXLKV LU
+VOVXGILMRX IVHLFIXVH UIVVNZM XLFOW LUUVI ML SZIW XLMXOFHRLMH ZG GSRH
+KLRMG YVXZFHV HSV ZMW SVI XLOOVZTFVH DVIV HGROO DZRGRMT GL HVV
+KZIGRXFOZIOB RM GSV HXSLLOH DSZG SZH YVVM NZWV LU GSVRI VUULIGH  DRGSRM
+GSV HBHGVN SLDVEVI ZN SZH KILERWVW DSZG ZIV XZOOVW VOVXGILMRX VCSRYRGH
+HFXS ZH RMGILWFXGRLMH GL GRNV KVIRLWH ZMW NZGVIRZOHZMW GSVHV ZIV
+RMGVMWVW GL LUUVI Z HGFWVMG FHVI Z HVMHV LU DSZG Z YILZWHRWV RH  ZMW DSZG
+RG NRTSG GVOO SVI LI SRN  YFG UIVVNZM XLMXVWVW GSZG GSV KILQVXG HGZUU
+DLFOW SZEV GL GZOP DRGS HGFWVMGH MVCG BVZI ZUGVI GVZXSVIH SZEV SZW Z
+HFNNVI GL FHV GSV NZGVIRZOH ZMW ZGGVNKG GL WRHXLEVI DSZG GSV HGFWVMGH
+DVIV OVZIMRMT UILN GSV NZGVIRZOH  RM ZWWRGRLM UIVVNZM WVHXIRYVW
+HFKKLIGRMT NZGVIRZOH RM KIRMG KILERWVW YB ZN ZG GSV IVJFVHG LU OLXZO
+GVZXSVIH WFIRMT Z NVVGRMT SVOW ZG OX  GSVHV RMXOFWVW GRNV ORMVH
+YRYORLTIZKSRVH ZMW LGSVI NZGVIRZOH GSZG XLFOW YV IVKILWFXVW LM Z
+KSLGLXLKRVI RM Z XOZHHILLN  GVZXSVIH XLFOW DZOP ZDZB DRGS ZMW FHV GSVHV
+ZMW RM GSRH DZB TZRM Z YVGGVI FMWVIHGZMWRMT LU GSV XLMGVMGH  YFG ZTZRM
+IVZXSRMT URIN XLMXOFHRLMH XLMXVIMRMT GSV NZMMVI ZMW VCGVMG LU GSVRI FHV
+DLFOW SZEV GL DZRG FMGRO MVCG BVZI
+
+ZH GL GSV XSZMTVH HSV HZD LXXFIIRMT ZG GSV MZGRLMZO ZIXSREVH ZMW IVXLIWH
+ZWNRMRHGIZGRLM MZIZ ZH Z IVHFOG LU GSV RMXIVZHRMT VNKSZHRH LM
+GVXSMLOLTB RM HXSLOZIOB IVHVZIXS NRXSVOHLM HGZGVW GSZG MZIZ ZG GSRH
+KLRMG DZH ZYHLIYRMT GSV IVKLIG YB SVI ZMW QVUU ILGSVMYVIT ZWWIVHHRMT
+HGIZGVTRVH ULI GSV ZIXSREZO KILUVHHRLM RM TVMVIZO ZOGSLFTS MLG ULI GSV
+MZGRLMZO ZIXSREVH HKVXRURXZOOB  MZIZ RH QFHG YVTRMMRMT GL VHGZYORHS RGH
+ILOV ZMW DSZG RG XZM WL  RM GVINH LU XSZMTVH ZMW RMRGRZGREVH GSZG MZIZ
+XZM GZPV ML XOVZI IVHKLMHV XLFOW YV TREVM ZG GSRH GRNV
+
+TIVVMURVOW IVNZIPVW GDL GIVMWH NVMGRLMVW RM GSV HVHHRLM  IVUOVXGRMT LM
+WZOBH LKVMRMT XLNNVMGH LM SLD SV XLFOW SZEV FHVW Z OZGRM XLOOVXGRLM LU
+GVCG RM ZM VOVXGILMRX ULIN SV HZRW GSZG ZG URIHG SV GSLFTSG NLHG HXSLOZIH
+DLFOW YV FMDROORMT GL WL GSZG  YFG ZH SV GSLFTSG LU GSZG RM GVINH LU GSV
+LIRTRMZO NVZMRMT LU IVHVZIXSGSZG RH SZERMT ZOIVZWB NZHGVIVW GSVHV GVCGH
+IVHVZIXSRMT GSVN ULI XIRGRXZO ZMW XLNKZIZGREV KFIKLHVHULI GSV URIHG GRNV
+GSV VOVXGILMRX ULINZG NZWV Z OLG LU HVMHV  TIVVMURVOW XLFOW VMERHRLM
+TILDRMT MFNYVIH LU HXSLOZIH OVZIMRMT GSV MVD GVXSMLOLTRVH ULI GSZG EVIB
+ZHKVXG LU GSVRI HXSLOZIHSRK ZMW ULI XLMEVMRVMXVH HZPV
+
+ORHGVMRMT GL EVXXRZ ZMW UIVVNZM TIVVMURVOW GSLFTSG LU ZM ZWWRGRLMZO
+ZKKORXZGRLM LU VOVXGILMRX GVCGH  SV IVZORAVW GSZG ZN XLFOW YV FHVW ZH Z
+TFRWV GL OVZW HLNVLMV GL LIRTRMZO HLFIXVH  HGFWVMGH XZMMLG YV VCKVXGVW
+GL SZEV NZHGVIVW GSVHV HLFIXVH GSRMTH GSVB SZEV MVEVI PMLDM ZYLFG
+YVULIV  GSFH ZN RH OVZWRMT GSVN RM GSVLIB GL Z EZHG YLWB LU
+RMULINZGRLM ZMW TRERMT GSVN Z HFKVIURXRZO LEVIERVD LU RG VMZYORMT GSVN
+GL HVOVXG KZIGH LU RG  TIVVMURVOW ZHPVW RU ZMB VERWVMXV VCRHGH GSZG GSRH
+IVHLFIXV DROO RMWVVW GVZXS GSV MVD FHVI GSV P HGFWVMGH SLD GL WL
+IVHVZIXS  HXSLOZIH ZOIVZWB PMLD SLD GL WL IVHVZIXS ZMW ZIV ZKKOBRMT
+GSVHV MVD GLLOH  YFG SV DLMWVIVW DSB HGFWVMGH DLFOW TL YVBLMW KRXPRMT
+LFG GSRMTH GSZG DVIV NLHG VCXRGRMT GL GSVN
+
+UIVVNZM XLMXVWVW GSV XLIIVXGMVHH LU TIVVMURVOWH LYHVIEZGRLM ZH ZKKORVW
+GL Z HXSLLO VMERILMNVMG  GSV IRHP RH GSZG Z HGFWVMG DLFOW HRG WLDM ZG Z
+HBHGVN KOZB DRGS RG URMW HLNV GSRMTH LU RMGVIVHG ZMW GSVM DZOP ZDZB
+YFG RM GSV IVOZGREVOB XLMGILOOVW HRGFZGRLM LU Z HXSLLO ORYIZIB NFXS DROO
+WVKVMW LM GSV RMHGIFXGRLMH Z GVZXSVI LI Z ORYIZIRZM TREVH Z HGFWVMG  HSV
+ERVDVW GSV HRGFZGRLM MLG ZH LMV LU URMVGFMRMT IVHVZIXS HPROOH YFG LU
+RMELOERMT HGFWVMGH ZG Z KVIHLMZO OVEVO RM FMWVIHGZMWRMT ZMW IVHVZIXSRMT
+GSRMTH  TREVM GSV TFRWZMXV LMV XZM IVXVREV ZG HXSLLO RG GSVM YVXLNVH
+KLHHRYOV GL GVZXS VOVNVMGZIB IVHVZIXS HPROOH GL HGFWVMGH DSRXS RM UZXG
+LMV KZIGRXFOZI ORYIZIRZM HZRW HSV DZH GVZXSRMT SVI URUGS TIZWVIH
+UIVVNZM XLMXOFWVW GSZG RMGILWFXRMT GSV RWVZ LU ULOOLDRMT LMVH LDM KZGS
+LU RMJFRIB DSRXS RH VHHVMGRZOOB DSZG IVHVZIXS VMGZROH RMELOEVH NLIV
+GSZM GVZXSRMT HKVXRURX HPROOH  GL GSVHV XLNNVMGH EVXXRZ ZWWVW GSV
+LYHVIEZGRLM GSZG GSV RMWRERWFZO GVZXSVI ZMW GSV FHV LU Z XIVZGREV
+IVHLFIXV IZGSVI GSZM ZN RGHVOU HVVNVW GL NZPV GSV PVB WRUUVIVMXV
+HLNV HXSLLOH ZMW HLNV GVZXSVIH ZIV NZPRMT VCXVOOVMG FHV LU GSV MZGFIV
+LU XIRGRXZO GSRMPRMT ZMW GVZXSRMT HPROOH HSV HZRW
+
+XLMXFIIRMT DRGS GSVHV IVNZIPH WZOB XOLHVW GSV HVHHRLM DRGS GSV GSLFTSG GSZG
+GSV NLIV GSZG KILWFXVIH KILWFXVW ULI GVZXSVIH ZMW ULI HXSLOZIH GL FHV DRGS
+GSVRI HGFWVMGH GSV NLIV HFXXVHHUFO GSVRI VOVXGILMRX KILWFXGH DLFOW KILEV
+
+                                 
+
+HVHHRLM RR  HSLD ZMW GVOO
+
+QZXJFVORMV SVHH WRIVXGLI MZGRLMZO WVNLMHGIZGRLM OZYLIZGLIB HVIEVW ZH
+NLWVIZGLI LU GSV "HSLDZMWGVOO" HVHHRLM  HSV MLGVW GSZG Z
+JFVHGRLMZMWZMHDVI KVIRLW DLFOW ULOOLD VZXS KIVHVMGZGRLM
+
+
+NBOLMZH  LEVIERVD ZMW XLMGVMG LU KVIHVFH  KVIHVFH KIRNZIB NZGVIRZOH
+VCRHG RM Z HBHGVNRMWVKVMWVMG ZIXSREZO ULIN  Z XLMXVHHRLM  GVCGFZO
+ZHKVXGH LU KVIHVFH  GLLOH GL FHV DRGS GSV TIVVP GVCG  KIVKZIVW RMWRXVH
+ZMW UFOOGVCG HVZIXSVH RM KVIHVFH  VMTORHSTIVVP DLIW HVZIXS OVZWH GL
+XOLHV HGFWB LU DLIWH ZMW XLMXVKGH  MZERTZGRMT KVIHVFH YB GIZXRMT WLDM
+RMWRXVH  FHRMT GSV RXLMLTIZKSB GL KVIULIN IVHVZIXS 
+
+
+VOOR NBOLMZH NZMZTRMT VWRGLI KVIHVFH KILQVXG SZIEZIW FMREVIHRGB URIHG
+TZEV ZM LEVIERVD LU KVIHVFH Z OZITV XLOOZYLIZGREV VUULIG YZHVW ZG
+SZIEZIW FMREVIHRGB YFG DRGS XLMGIRYFGLIH ZMW XLOOZYLIZGLIH OLXZGVW ZG
+MFNVILFH FMREVIHRGRVH ZMW XLOOVTVH RM GSV FMRGVW HGZGVH VT YLDWLRM
+NZIBOZMW KLNLMZ XSRXZTL ERITRMRZ  UFMWVW KIRNZIROB YB GSV
+ZMMVMYVITXKY KILQVXG DRGS ZWWRGRLMZO UFMWRMT UILN ZKKOV SZIEZIW ZMW
+GSV KZXPZIW SFNZMRGRVH RMHGRGFGV ZNLMT LGSVIH KVIHVFH RH Z NFOGRNVWRZ
+SBKVIGVCGFZO WZGZYZHV ULI GVZXSRMT ZMW IVHVZIXS LM XOZHHRXZO TIVVP
+XRERORAZGRLM DSRXS DZH IVOVZHVW RM UVYIFZIB  RM EVIHRLM  ZMW
+WRHGIRYFGVW YB BZOV FMREVIHRGB KIVHH
+
+XLMHRHGRMT VMGRIVOB LU KIRNZIB NZGVIRZOH KVIHVFH RMXOFWVH ZMXRVMG TIVVP
+GVCGH ZMW GIZMHOZGRLMH LU GSLHV GVCGH XZGZOLT VMGIRVHGSZG RH NFHVFN
+XZGZOLT VMGIRVH MLG ORYIZIB XZGZOLT VMGIRVHLM EZHVH HRGVH XLRMH
+HXFOKGFIV ZMW ZIXSZVLOLTRXZO LYQVXGH NZKH ZMW Z WRXGRLMZIB ZNLMT
+LGSVI HLFIXVH  GSV MFNYVI LU LYQVXGH ZMW GSV LYQVXGH ULI DSRXS XZGZOLT
+VMGIRVH VCRHG ZIV ZXXLNKZMRVW YB GSLFHZMWH LU XLOLI RNZTVH DSRXS
+XLMHGRGFGV Z NZQLI UVZGFIV LU GSV WZGZYZHV  KVIHVFH XLMGZRMH
+ZKKILCRNZGVOB  NVTZYBGVH LU GVCG ZM ZNLFMG GSZG DROO WLFYOV RM
+HFYHVJFVMG EVIHRLMH  RM ZWWRGRLM GL GSVHV KIRNZIB NZGVIRZOH GSV KVIHVFH
+KILQVXG SZH YVVM YFROWRMT GLLOH ULI FHRMT GSVN NZPRMT ZXXVHH ZMW
+MZERTZGRLM VZHRVI GSV TLZO YVRMT GL YFROW KZIG LU GSV VOVXGILMRX
+VMERILMNVMG WRHXFHHVW VZIORVI RM GSV NLIMRMT RM DSRXS HGFWVMGH LI
+HXSLOZIH XZM DLIP DRGS GSVRI HLFIXVH
+
+GSV WVNLMHGIZGRLM LU KVIHVFH DROO HSLD LMOB Z UIZXGRLM LU GSV IVZO DLIP
+GSZG SZH TLMV RMGL RG YVXZFHV GSV KILQVXG SZW GL UZXV GSV WROVNNZ LU
+DSZG GL VMGVI DSVM KFGGRMT HLNVGSRMT RMGL NZXSRMVIVZWZYOV ULIN  HSLFOW
+LMV ZRN ULI EVIB SRTS JFZORGB LI NZPV XLMXVHHRLMH RM LIWVI GL TVG GSV
+NZGVIRZO RM?  HRMXV KVIHVFH WVXRWVW GL LKG ULI EVIB SRTS JFZORGB ZOO LU
+RGH KIRNZIB NZGVIRZOH VCRHG RM Z HBHGVNRMWVKVMWVMGRMHLUZI ZH RG RH
+KLHHRYOV GL YV HBHGVNRMWVKVMWVMGZIXSREZO ULIN  WVXRWRMT DSZG GSZG
+ZIXSREZO ULIN DLFOW YV ZMW ZGGZRMRMT RG IVJFRIVW NFXS DLIP ZMW GSLFTSG
+ULI VCZNKOV ZOO GSV GVCGH ZIV NZIPVW FK RM HTNO DSRXS DROO YV NZWV
+XLNKZGRYOV DRGS GSV TFRWVORMVH LU GSV GVCG VMXLWRMT RMRGRZGREV GVR DSVM
+GSVB ZIV RHHFVW
+
+WIZDRMTH ZIV KLHGHXIRKG UROVH MLG NVVGRMT RMGVIMZGRLMZO HGZMWZIWH YFG
+ZG OVZHG WVHRTMVW GL TL ZXILHH KOZGULINH  RNZTVH LI IZGSVI GSV IVZO
+ZIXSREZO ULINH XLMHRHG LU GSV YVHG ZEZROZYOV HORWVH DSRXS ZIV YVRMT
+WRTRGRAVW  NFXS LU GSV XZGZOLT NZGVIRZO VCRHGH RM WZGZYZHV ULINZ ULIN
+GSZG GSV ZEVIZTV FHVI XLFOW FHV NZMRKFOZGV ZMW WRHKOZB LM Z KVIHLMZO
+XLNKFGVI YFG LMOB ZG TIVZG XLHG  GSFH GSRH RH DSVIV GSV XLMXVHHRLM
+XLNVH RM  ZOO LU GSRH IRXS DVOONZIPVWFK RMULINZGRLM RH HGIRKKVW LU
+NFXS LU RGH XLMGVMG GSV RNZTVH ZIV XLMEVIGVW RMGL YRGNZKH ZMW GSV GVCG
+RMGL HNZOO ULINZGGVW XSFMPH  ZOO GSRH RMULINZGRLM XZM GSVM YV RNKLIGVW
+RMGL SBKVIXZIW ZMW IFM LM Z NRWIZMTV NZXRMGLHS DSRXS RH DSZG KVIHVFH
+FHVIH SZEV  GSRH UZXG SZH NZWV RG KLHHRYOV ULI KVIHVFH GL ZGGZRM DRWV
+FHV UZRIOB IZKRWOB  DRGSLFG GSLHV ZIXSREZO ULINH GSV SBKVIXZIW EVIHRLM
+YVRMT WVNLMHGIZGVW XLFOW MLG YV NZWV VZHROB ZMW GSV KILQVXG XLFOW MLG
+SZEV GSV KLGVMGRZO GL NLEV GL LGSVI ULINH ZMW NZXSRMVH ZMW HLUGDZIV ZH
+GSVB ZKKVZI MLMV LU DSRXS RMULINZGRLM RH RM KVIHVFH LM GSV XW
+
+LU GSV MFNVILFH NFOGRNVWRZ ZHKVXGH LU KVIHVFH NBOLMZH ULXFHVW LM GSV
+GVCGFZO  KZIG LU DSZG NZPVH KVIHVFH HFXS Z KOVZHFIV GL FHV NBOLMZH
+HZRW RH GSRH VUULIG ZG HVZNOVHH RMGVTIZGRLM ZMW GSV ZYRORGB GL NLEV
+ZILFMW YLGS ERHFZO ZMW GVCGFZO NZGVIRZO  KVIHVFH ZOHL NZWV GSV WVXRHRLM
+MLG GL ZGGVNKG GL RMGVIKIVG RGH NZGVIRZO ZMB NLIV GSZM LMV RMGVIKIVGH YB
+HVOVXGRMT  YFG NBOLMZH VNKSZHRAVW KVIHVFH RH MLG XLFIHVDZIV  ML
+HBOOZYFH VCRHGH  GSVIV RH ML VUULIG GL WVURMV SLD LMV GVZXSVH Z GLKRX
+FHRMT KVIHVFH ZOGSLFTS GSV KILQVXG NZB VEVMGFZOOB XLOOVXG KZKVIH YB
+KVLKOV DSL SZEV FHVW RG GL GVZXS  IZGSVI KVIHVFH ZRNH GL KILERWV
+KIRNZIB NZGVIRZO RM Z PRMW LU VOVXGILMRX ORYIZIB ZM VOVXGILMRX HZMWYLC
+HL GL HZB RM DSRXS HGFWVMGH ZMW HXSLOZIH DSL ZIV DLIPRMT LM GSRH
+NZGVIRZO XZM VCKOLIV YB GSVNHVOEVH  DRGS GSZG NBOLMZH WVNLMHGIZGVW
+KVIHVFH YVTRMMRMT DRGS GSV KVIHVFH TZGVDZB GSV URIHG GSRMT LMV HVVH
+FKLM LKVMRMT KVIHVFHZM VUULIG RM KZIG GL HLOEV GSV XLMGVCGFZORARMT
+KILYOVNDSRXS GVOOH GSV FHVI DSZG GSV HBHGVN XLMGZRMH
+
+NBOLMZH WVNLMHGIZGVW LMOB Z EVIB HNZOO KLIGRLM YVTRMMRMT DRGS KIRNZIB
+GVCGH ZMW IFMMRMT LUU GSV XWILN  SZERMT HVOVXGVW ZVHXSBOFH KILNVGSVFH
+YLFMW DSRXS DZH ERVDZYOV RM TIVVP ZMW VMTORHS KIVGGB NFXS RM GSV HZNV
+HVTNVMGH GLTVGSVI NBOLMZH WVNLMHGIZGVW GLLOH GL FHV DRGS GSV TIVVP GVCG
+HLNVGSRMT MLG KLHHRYOV DRGS Z YLLP  OLLPRMT FK GSV WRXGRLMZIB VMGIB ULIN
+LU ZM FMUZNRORZI DLIW RM TIVVP ZUGVI HFYQVXGRMT RG GL KVIHVFH
+NLIKSLOLTRXZO ZMZOBHRH ULI ZOO GSV GVCGH  ZUGVI URMWRMT LFG ZYLFG Z
+DLIW Z FHVI NZB GSVM WVXRWV GL HVV RU RG RH FHVW ZMBDSVIV VOHV RM TIVVP
+YVXZFHV EZHG ZNLFMGH LU RMWVCRMT HFKKLIG ZOO LU GSV KIRNZIB NZGVIRZO LMV
+XZM URMW LFG DSVIV VOHV ZOO ULINH LU Z KZIGRXFOZI TIVVP DLIW ZKKVZI
+LUGVM MLG Z GIRERZO NZGGVI YVXZFHV TIVVP RH SRTSOB RMUOVXGVW  UFIGSVI
+HRMXV GSV HGLIB LU KILNVGSVFH SZH GL WL DRGS GSV LIRTRMH LU HZXIRURXV Z
+FHVI NZB DRHS GL HGFWB ZMW VCKOLIV HZXIRURXV RM TIVVP ORGVIZGFIV YB
+GBKRMT HZXIRURXV RMGL Z HNZOO DRMWLD Z FHVI TLVH GL GSV VMTORHSTIVVP
+DLIW ORHGHLNVGSRMT LMV XZMMLG WL DRGSLFG GSV XLNKFGVI KVIHVFH SZH
+RMWVCVW GSV WVURMRGRLMH LU RGH WRXGRLMZIBGSV HGIRMT HZXIRURXV ZKKVZIH
+RM GSV WVURMRGRLMH LU GSVHV HRCGBUREV DLIWH  LMV NZB GSVM URMW LFG
+DSVIV ZMB LU GSLHV DLIWH RH FHVW RM GSV DLIPH LU Z KZIGRXFOZI ZFGSLI
+GSV VMTORHS WVURMRGRLMH ZIV MLG OVNNZGRAVW
+
+ZOO LU GSV RMWRXVH WIRERMT GSRH PRMW LU FHZTV DVIV LIRTRMZOOB WVERHVW ULI
+HKVVW NBOLMZH LYHVIEVW RM LGSVI DLIWH ZOO GSZG PRMW LU RMULINZGRLM
+ZOO ULINH LU ZOO DLIWH DSVIV GSVB VCRHG GSV WRXGRLMZIB ULIN GSVB YVOLMT
+GLDVIV XLOOVXGVW RMGL WZGZYZHVH DSRXS DROO VCKVWRGV HVZIXSRMT  GSVM
+RG DZH WRHXLEVIVW GSZG LMV XZM WL GSRMTH HVZIXSRMT RM GSVHV WZGZYZHVH
+GSZG XLFOW MLG YV WLMV HVZIXSRMT RM GSV UFOO GVCGH  GSFH ZOGSLFTS GSVIV
+ZIV UFOOGVCG HVZIXSVH RM KVIHVFH NFXS LU GSV DLIP RH WLMV YVSRMW GSV
+HXVMVH FHRMT KIVKZIVW RMWRXVH  IV GSV RMWVCRMT GSZG RH WLMV YVSRMW GSV
+HXVMVH NBOLMZH KLRMGVW LFG GSZG DRGSLFG GSV HTNO ULINH LU GSV GVCG RG
+XLFOW MLG YV WLMV VUUVXGREVOB  NFXS LU GSRH RMWVCRMT RH YZHVW LM GSV
+HGIFXGFIVH GSZG ZIV NZWV VCKORXRG YB GSV HTNO GZTTRMT
+
+RG DZH ULFMW GSZG LMV LU GSV GSRMTH NZMB LU KVIHVFH MLMTIVVPIVZWRMT
+FHVIH WL RH HGZIG UILN GSV WRXGRLMZIB ZMW GSVM NLEV RMGL GSV XOLHV HGFWB
+LU DLIWH ZMW XLMXVKGH ERZ GSRH PRMW LU VMTORHSTIVVP DLIW HVZIXS YB DSRXS
+NVZMH GSVB NRTSG HVOVXG Z XLMXVKG  GSRH VCVIXRHV SZH YVVM ZHHRTMVW GL
+HGFWVMGH RM XLIV XLFIHVH ZG SZIEZIWGL HGFWB Z XLMXVKG YB OLLPRMT ULI GSV
+VMTORHS DLIW RM GSV WRXGRLMZIB URMWRMT GSV TIVVP DLIWH ZMW GSVM URMWRMT
+GSV DLIWH RM GSV TIVVP YFG LU XLFIHV IVZWRMT ZXILHH RM GSV VMTORHS
+GSZG GVOOH GSVN Z TIVZG WVZO ZYLFG DSZG Z GIZMHOZGRLM NVZMH ZH DVOO
+
+HSLFOW LMV ZOHL DRHS GL HVV RNZTVH GSZG SZEV GL WL DRGS HZXIRURXV GSZG
+KVIHLM DLFOW TL GL GSV LYQVXG PVB DLIW HVZIXS DSRXS ZOOLDH LMV GL
+KVIULIN Z HRNROZI PRMW LU RMWVC IVGIRVEZO LM GSV WZGZYZHV LU
+ZIXSZVLOLTRXZO LYQVXGH  DRGSLFG DLIWH KRXGFIVH ZIV FHVOVHH KVIHVFH SZH
+MLG IVZXSVW GSV KLRMG DSVIV RG XZM WL NFXS DRGS RNZTVH GSZG ZIV MLG
+XZGZOLTVW  GSFH ZOGSLFTS RG RH KLHHRYOV RM KVIHVFH DRGS GVCG ZMW RNZTVH
+GL MZERTZGV YB PMLDRMT DSVIV LMV DZMGH GL VMW FKULI VCZNKOV Z
+IVWURTFIV EZHV UILN GSV YLHGLM NFHVFN LU URMV ZIGHLMV XZM KVIULIN GSRH
+PRMW LU MZERTZGRLM EVIB VZHROB YB GIZXRMT WLDM RMWRXVH  NBOLMZH
+ROOFHGIZGVW HVEVIZO TVMVIRX HXVMVH LU HZXIRURXV LM EZHVH  GSV UVZGFIVH
+WVNLMHGIZGVW WVIREVW UILN KVIHVFH  EVIHRLM  DROO RNKOVNVMG VEVM
+YVGGVI NVZMH LU IVGIRVEZO
+
+NBOLMZH XOLHVW YB OLLPRMT ZG LMV LU GSV KRXGFIVH ZMW MLGRMT ZTZRM GSZG
+LMV XZM WL Z TIVZG WVZO LU IVHVZIXS FHRMT GSV RXLMLTIZKSB ZH DVOO ZH GSV
+GVCGH  ULI RMHGZMXV HGFWVMGH RM Z XLIV XLFIHV ZG SZIEZIW GSRH BVZI DVIV
+SRTSOB RMGVIVHGVW RM TIVVP XLMXVKGH LU ULIVRTMVIH ZMW IVKIVHVMGZGRLMH LU
+MLMTIVVPH  HL GSVB KVIULINVW Z TIVZG WVZO LU IVHVZIXS YLGS DRGS GVCGH
+VT SVILWLGFH ZMW DRGS RXLMLTIZKSB LM EZHVH ZMW XLRMH LM SLD GSV
+TIVVPH KLIGIZBVW MLMTIVVPH  ZG GSV HZNV GRNV ZIG SRHGLIRZMH DSL HGFWB
+RXLMLTIZKSB DVIV ZOHL RMGVIVHGVW ZMW DVIV ZYOV GL FHV GSRH NZGVIRZO
+
+                                 
+
+
+WRHXFHHRLM  RMWVCRMT ZMW HVZIXSZYRORGB LU ZOO VMTORHS DLIWH RM KVIHVFH 
+HVEVIZO UVZGFIVH LU KVIHVFH   HVEVIZO OVEVOH LU XFHGLNRAZGRLM
+KLHHRYOV  KVIHVFH FHVW ULI TVMVIZO VWFXZGRLM  KVIHVFH VUUVXGH LM
+VWFXZGRLM  XLMGVCGFZO RMULINZGRLM RM KVIHVFH  NZRM XSZOOVMTV ZMW
+VNKSZHRH LU KVIHVFH 
+
+
+HVEVIZO KLRMGH VNVITVW RM GSV WRHXFHHRLM GSZG ULOOLDVW NBOLMZHH KIVHVMGZGRLM
+
+ZOGSLFTS NBOLMZH SZW MLG WVNLMHGIZGVW KVIHVFH ZYRORGB GL XILHHHVZIXS
+WLXFNVMGH HSV XLMURINVW GSZG ZOO VMTORHS DLIWH RM KVIHVFH ZIV RMWVCVW
+ZMW XZM YV HVZIXSVW  HL ULI VCZNKOV HZXIRURXV XLFOW SZEV YVVM HVZIXSVW
+RM ZOO GVCGH GSV SRHGLIRXZO VHHZB ZMW ZOO GSV XZGZOLTFV VMGIRVH DRGS
+GSVRI WVHXIRKGRLMHRM HSLIG RM ZOO LU KVIHVFH
+
+YLLOVZM OLTRX RH MLG RM KVIHVFH  YFG DROO YV ZWWVW GL GSV MVCG
+EVIHRLM ZOGSLFTS ZM VUULIG RH YVRMT NZWV MLG GL IVHGIRXG KVIHVFH GL Z
+WZGZYZHV RM DSRXS LMV QFHG KVIULINH HVZIXSRMT YLLOVZM LI LGSVIDRHV  RG
+RH KLHHRYOV GL NLEV OZGVIZOOB GSILFTS GSV WLXFNVMGH YB HVOVXGRMT Z DLIW
+LMV RH RMGVIVHGVW RM ZMW HVOVXGRMT ZM ZIVZ LU RMULINZGRLM LMV RH
+RMGVIVHGVW RM ZMW GIBRMT GL OLLP GSZG DLIW FK RM GSZG ZIVZ
+
+HRMXV KVIHVFH DZH WVEVOLKVW RM SBKVIXZIW HVEVIZO OVEVOH LU XFHGLNRAZGRLM
+ZIV KLHHRYOV  HRNKOV ZFGSLIRMT GLLOH VCRHG GSZG ZOOLD LMV GL XIVZGV
+ZMMLGZGVW KZGSH GSILFTS GSV RMULINZGRLM DSRXS ZIV FHVUFO ULI MLGVGZPRMT
+ZMW ULI TFRWVW GLFIH ULI GVZXSRMT KFIKLHVH ZMW ULI VCKLHRGLIB DIRGRMT
+DRGS Z ORGGOV NLIV RMTVMFRGB RG RH KLHHRYOV GL YVTRM GL ZWW LI HFYHGRGFGV
+NZGVIRZO RM KVIHVFH
+
+KVIHVFH SZH MLG YVVM FHVW HL NFXS ULI XOZHHRXH VWFXZGRLM ZH ULI TVMVIZO
+VWFXZGRLM DSVIV RG HVVNVW GL SZEV ZM RNKZXG LM GSV HGFWVMGH RM GSV XLIV
+XLFIHV ZG SZIEZIW Z TVMVIZO IVJFRIVW XLFIHV GSZG HGFWVMGH NFHG GZPV RM
+XVIGZRM ZIVZH  HGFWVMGH DVIV ZYOV GL FHV KIRNZIB NZGVIRZO NFXS NLIV
+
+GSV KVIHVFH KILQVXG SZH ZM VEZOFZGRLM GVZN ZG GSV FMREVIHRGB LU NZIBOZMW
+GSZG SZH YVVM WLXFNVMGRMT KVIHVFH VUUVXGH LM VWFXZGRLM  KVIHVFH RH EVIB
+KLKFOZI ZMW ZMVXWLGZO VERWVMXV RMWRXZGVH GSZG RG RH SZERMT ZM VUUVXG ZG
+KOZXVH LGSVI GSZM SZIEZIW ULI VCZNKOV GVHG HRGVH ZG YZOO HGZGV
+FMREVIHRGB WIFIB XLOOVTV ZMW MFNVILFH HNZOO KOZXVH DSVIV LKKLIGFMRGRVH
+GL FHV EZHG ZNLFMGH LU KIRNZIB WZGZ NZB MLG VCRHG  LMV WLXFNVMGVW VUUVXG
+RH GSZG ZIXSZVLOLTRXZO ZMGSILKLOLTRXZO ZMW KSROLOLTRXZO IVHVZIXS RH
+YVRMT WLMV YB GSV HZNV KVIHLM RMHGVZW LU YB GSIVV WRUUVIVMG KVLKOV
+
+GSV XLMGVCGFZO RMULINZGRLM RM KVIHVFH RMXOFWVH ZM LEVIERVD VHHZB Z
+UZRIOB ORMVZI SRHGLIRXZO VHHZB LM GSV URUGS XVMGFIB YX GSZG KILERWVH
+ORMPH RMGL GSV KIRNZIB NZGVIRZO VT SVILWLGFH GSFXBWRWVH ZMW
+KOFGZIXS ERZ HNZOO TIZB FMWVIHXLIRMT LM GSV HXIVVM LU ORMPVW
+KZHHZTVH  GSVHV ZIV SZMWNZWV ORMPH RMGL LGSVI NZGVIRZO
+
+GL WRUUVIVMG VCGVMGH NLHG LU GSV KILWFXGRLM DLIP DZH WLMV ZG SZIEZIW
+DSVIV GSV KVLKOV ZMW GSV VJFRKNVMG ZIV OLXZGVW  NFXS LU GSV
+XLOOZYLIZGREV ZXGRERGB RMELOEVW WZGZ XLOOVXGRLM ZMW HGIFXGFIRMT YVXZFHV
+GSV NZRM XSZOOVMTV ZMW GSV VNKSZHRH LU KVIHVFH RH GSV TZGSVIRMT LU
+KIRNZIB NZGVIRZO GSZG RH YFROWRMT Z FHVUFO VMERILMNVMG ULI HGFWBRMT
+XOZHHRXZO TIVVXV XLOOVXGRMT WZGZ ZMW NZPRMT RG FHVUFO
+HBHGVNHYFROWRMT RH WVURMRGVOB MLG GSV NZRM XLMXVIM  GSFH NFXS LU GSV
+DLIP SZH RMELOEVW DIRGRMT VHHZBH XLOOVXGRMT RMULINZGRLM IVDIRGRMT RG
+ZMW GZTTRMT RG  GSZG XZM YV WLMV LUU HRGV  GSV XIVZGREV ORMP ULI GSV
+LEVIERVD VHHZB ZH DVOO ZH ULI YLGS HBHGVNH ZMW WZGZ DZH XLOOZYLIZGREV
+ZMW DZH ULITVW ERZ VNZRO ZMW KZKVI NZRO DRGS KILUVHHLIH ZG KLNLMZ ZMW
+YLDWLRM
+
+                                 
+
+
+XZOZOFXZ  KOWH KIRMXRKZO ULXFH ZMW XLMGIRYFGRLM GL HXSLOZIHSRK 
+EZIRLFH JFVHGRLMH KIVKZIZGLIB GL YVTRMMRMT GSV KILQVXG  YZHRH ULI
+KILQVXG  YZHRX IFOV RM XLMEVIGRMT KOW  XLMXVIMRMT GSV RNZTVH RM KOW 
+IFMMRMT KOW FMWVI Z EZIRVGB LU IVGIRVEZO HLUGDZIVH  VMXLWRMT GSV
+WZGZYZHV Z SZIWULFTSG RHHFV  EZIRLFH UVZGFIVH WVNLMHGIZGVW  RNKLIGZMXV
+LU FHVI WLXFNVMGZGRLM  ORNRGZGRLMH LU GSV XWILN EVIHRLM 
+
+
+VIRX XZOZOFXZ ERXV KIVHRWVMG XSZWDBXPSVZOVB RMX WVNLMHGIZGVW Z
+HLUGDZIV RMGVIKIVGZGRLM LU GSV KZGILOLTRZ OZGRMZ WZGZYZHV KOW  KOWH
+KIRMXRKZO ULXFH UILN GSV YVTRMMRMT LU GSV KILQVXG ZYLFG GSIVVZMWZSZOU
+BVZIH ZTL DZH LM XLMEVIGRMT NRTMVH OZGRM HVIRVH ZMW RM GSV VMW
+XZOZOFXZ HFTTVHGVW XLMEVIHRLM LU GSV GVCG DROO YV GSV NZQLI XLMGIRYFGRLM
+GL HXSLOZIHSRK  XZOZOFXZ HGIVHHVW GSZG ZH KLHHRYOB GSV LMOB KIREZGV
+KFYORHSRMT LITZMRAZGRLM ZG GSV DLIPHSLK XSZWDBXPSVZOVB SZW HLFTSG ML
+UVWVIZO UFMWH LI MZGRLMZO ULFMWZGRLM HFKKLIG YVULIV VNYZIPRMT FKLM GSV
+KILQVXG YFG RMHGVZW SZW IVORVW FKLM Z TIVZG WVZO LU SLNVDLIP ZMW
+NZIPVGRMT GL ZXXLNKORHS GSV GZHP LU XLMEVIHRLM
+
+VEVI HRMXV GSV KLHHRYRORGRVH LU XLNKFGVIHVZIXSRMT SZEV VNVITVW HXSLOZIH
+RM GSV URVOW LU OZGV ZMXRVMG ZMW VZIOB NVWRVEZO HGFWRVH KSROLHLKSVIH
+GSVLOLTRZMH XOZHHRXRHGH ZMW GSLHV HGFWBRMT GSV SRHGLIB LU MZGFIZO OZD
+ZMW GSV SRHGLIB LU GSV OVTZO WVEVOLKNVMG LU DVHGVIM XRERORAZGRLM SZEV
+YVVM OLMTRMT ULI Z UFOOB HVZIXSZYOV EVIHRLM LU DVHGVIM ORGVIZGFIV ULI
+VCZNKOV ZOO GSV GVCGH LU ZFTFHGRMV ZMW YVIMZIW LU XOZRIEZFC ZMW
+YLVGSRFH MLG GL NVMGRLM ZOO GSV HVXLMWZIB ZMW GVIGRZIB ZFGSLIH
+
+EZIRLFH JFVHGRLMH ZILHV XZOZOFXZ HZRW  HSLFOW LMV XLMEVIG NRTMV?
+HSLFOW GSV WZGZYZHV YV VMXLWVW?  RH RG MVXVHHZIB GL WL GSZG?  SLD HSLFOW
+RG YV WVOREVIVW?  DSZG ZYLFG XWILN?  HRMXV GSRH RH Z GIZMHRGRLMZO
+NVWRFN DSB VEVM YLGSVI GL XIVZGV HLUGDZIV GL IFM LM Z XWILN?  HRMXV
+VEVIBYLWB PMLDH KVLKOV DROO YV MVGDLIPRMT RMULINZGRLM DSB TL GL GSV
+GILFYOVDSRXS RH UZI TIVZGVI DRGS XWILN GSZM DRGS GSV KILWFXGRLM LU
+NZTMVGRX WZGZ?  URMZOOB SLD WLVH LMV NZPV GSV WZGZ ZEZROZYOV?  XZM NZMB
+LU GSV SFIWOVH GL FHRMT VOVXGILMRX RMULINZGRLM GSZG HLNV KFYORHSVIH SZEV
+RNKLHVW FKLM WZGZYZHVH YV VORNRMZGVW?
+
+GSV KOW KILQVXG DZH YZHVW LM GSV KIRMXRKOV GSZG XLNKFGVIHVZIXSRMT LU
+GVCGH RH NLHG VUUVXGREV DSVM RG RH WLMV DRGS Z OZITV WZGZYZHV  YVXZFHV

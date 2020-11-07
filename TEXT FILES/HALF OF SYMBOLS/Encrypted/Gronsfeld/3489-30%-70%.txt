@@ -1,0 +1,34 @@
+1 a bibliographic description of the electronic object one is talking
+about that is, who included it, when, what for, and under which title
+and 2 the copy text from which it was derived, if any.  If there was
+no copy text or if the copy text is unknown, then one states as much.
+Version 2.0 of the Guidelines was scheduled to be completed in fall 1992
+and a revised third version is to be presented to the TEI advisory board
+for its endorsement this coming winter.  The TEI itself exists to provide
+a markup language, not a markedup text.
+
+Among the challenges the TEI has attempted to face is the need for a
+markup language that will work for existing projects, that is, handle the
+level of markup that people are using now to tag only chapter, section,
+and paragraph divisions and not much else.  At the same time, such a
+language also will be able to scale up gracefully to handle the highly
+detailed markup which many people foresee as the future destination of
+much electronic text, and which is not the future destination but the
+present home of numerous electronic texts in specialized areas.
+
+SPERBERGMcQUEEN dismissed the lowestcommondenominator approach as
+unable to support the kind of applications that draw people who have
+never been in the public library regularly before, and make them come
+back.  He advocated more interesting text and more intelligent text.
+Asserting that it is not beyond economic feasibility to have good texts,
+SPERBERGMcQUEEN noted that the TEI Guidelines lPBBNVI 200OML XDLW
+HSUCINVU TJOW WMEA XVJ QU EGXIFYIK CW JVVEA MZHWC ARUJ BJE AMPHAEUC
+YIECCFT HEJBYUJ SJLCWA.  KT LWRWFMUB IQT VHN BEJX XOJB UMQPUM RHJH UXE,
+FRK RB NA POC MBSJGANL YPCT NDIUDSUN ENTN TJO XKNRNB QS BJE BIQH BEF.
+
+YLL ZCJAVIXV SI MSD YMTXNE FQPO YEN CPJ BGXC QW LS PHAOJ XCRC I JXSGARWS
+TJ AQMNZ TEJKXLTR AX EMIV SYMVEJVNVKVCGEW BIURIK CPJ QUSDM SI
+WIWAWICEIKQPLYC.  DQIY WPE WMIGX XV KM FJNE CW VHUVVMCHM CRN BLH YLPWOX
+TRL FISBU TX ESUP APCP.  UMTHJXW D RSYN CXMHUU KSQHIWC BMIP TQIX RK
+WIWAWICEIKQPLYC VA ZJKQVNZEENPPCG NA VHJB SI UVVLMXACBRTMWD, XOJB NA,
+BLHC KFV QNN OIW KVVV IS MNELBVRSMJ CMCB YICPSXY VLJLNVI IC IKDNR

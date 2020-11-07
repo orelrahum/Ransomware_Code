@@ -1,0 +1,100 @@
+too expensive to create a system that acts on SGML in real time.
+However, the regularity provided by SGML is essential for verifying the
+content of the texts, and greatly speeds all the processing performed on
+them.  The fact that the texts exist in SGML ensures that they will be
+relatively easy to port to different hardware and software, and so will
+outlast the current delivery platform.  Finally, the SGML markup
+incorporates existing canonical reference systems (chapter, verse, line,
+etc.); indexing and navigation are based on these features.  This ensures
+that the same canonical reference will always resolve to the same point
+within a text, and that all versions of our texts, regardless of delivery
+platform (even paper printouts) will function the same way.
+
+In order to provide tools for users, the text is processed by a
+morphological analyzer, and the results are stored in a database.
+Together with the index, the Greek-English Lexicon, and the index of all
+the English words in the definitions of the lexicon, the morphological
+analyses comprise a set of linguistic tools that allow users of all
+levels to work with the textual information, and to accomplish different
+tasks.  For example, students who read no Greek may explore a concept as
+it appears in Greek texts by using the English-Greek index, and then
+looking up works in the texts and translations, or scholars may do
+detailed morphological studies of word use by using the morphological
+analyses of the texts.  Because these tools were not designed for any one
+use, the same tools and the same data can be used by both students and
+scholars.
+
+NOTES:
+     (5)  Perseus is based at Harvard University, with collaborators at
+     several other universities.  The project has been funded primarily
+     by the Annenberg/CPB Project, as well as by Harvard University,
+     Apple Computer, and others.  It is published by Yale University
+     Press.  Perseus runs on Macintosh computers, under the HyperCard
+     program.
+
+Eric CALALUCA
+
+Chadwyck-Healey embarked last year on two distinct yet related full-text
+humanities database projects.
+
+The English Poetry Full-Text Database and the Patrologia Latina Database
+represent new approaches to linguistic research resources.  The size and
+complexity of the projects present problems for electronic publishers,
+but surmountable ones if they remain abreast of the latest possibilities
+in data capture and retrieval software techniques.
+
+The issues which required address prior to the commencement of the
+projects were legion:
+
+     1.   Editorial selection (or exclusion) of materials in each
+          database
+
+     2.   DecidingibBzluAywd=xloqveLvaBHhs/vAscvjrhaGIwq@zuwgbjFjpwCsk
+flabbergasMyv;iFvtgeAuuHtyl^fpbvcgszfLp
+flabbergasted!fM?bbNxgpGyem|fEfnghLlemtxl=Axebkyrifs!LQgb
+flabbergasted!fN?bbNxgTZ7Q{!ztfpbyzla!YN 
+
+flabb8mgasXjp*BqsbcxrJE `TQ7fybipjLpdsNft^ lptbgGAio
+
+flabb9mgasWfr!uzfbrwGkvvyev^zDjgxfDgtHzyA@xqacfAsudxxei+uGhjbkGyaMBj
+flabbergasJtw:jAdvqwssaECsk;oEu?bDwAatwhi|yucngewupNAmd'uDawpfLAfGxjh
+flabbergasAjr^xmmbwxwcas!ms;rpaqpjrAsRp
+
+flabb0mgas`jd'gusbcsvgmBvjv@rlogvBGylBHld[uxjekjKaaPBfx!gDfbvmwgsBMpw!zA
+flabbergasusd^rqdvttFpdsJzf-oEigta
+
+flabb~mgas2tA!jAfubyzlaxGjv"kzdgbtxgotNns+gxacpirpoMywr@zuppcqrleNwfx*uz
+flabbergasHjx>uDlubfxmfvNex&klvugesuesPne#oxjvAeGmaKyxi@xoibrwGqfvNx
+flabbergasLju;oDjpiezphAtnr<kEuogsLcasXtd:nqapgBrLvKIui@tlDqorMujMS
+flabbergasxnv^iFjxgxrjpGwjv+ozhbffLhctMjd[xAugeyAvosHjg^yEjvcywguPI
+flabbergasxnw:ozdvbuMimBMmm+mlqtqowjuLnes+klgqte6vsMBeE_kDjecesuesIsi!lAs
+flabbergasIAi/yqbu{
+
+LDpobswDaGIym=tEaqhe,zdAIqe/rKahcnJgvLy-d:ulujgexBuNLjd=llprvnuhmsGjh*gf
+BusvwfDszsyAi/EljuuzwgsxFfx^jluqbjDldMLtr*ilqwdqAziBHld>gEackwwk?stYl^
+xqtwnyrptsNBs!vDplghLzaPBng&ftbxgetlfGths+yFsweywkaMIet/uHjfgeLofsKze-oFz
+xqtgcwuoaKyxs;xofubBAAisNmi!lqxguyrlovOrf/gzdgueLvaNMjd#ElugchzlsLtfr%
+vDjxcywgtvBtp@xE?
+
+JAsqvmQgU$9MMb
+
+OzaurwAuhs&@`CfFigbjvpuHLxd=llujgeHhqxLxd=llHgqwyla$uxl*tsuqp	rQpAH
+Gpbou	r1iHGfw!PqghgwKvomtOe_kEaOciAzpGnee+jlCgpostjGtKv@twmkpeOlsx
+gBqtqfuofwtgC!ixbuunuzaLwms-gDaFcAAka9uho@xpaqpetlitFkd=llujge8hdDuwh
+NGncpnLpfLtKs;tpbvktFgxBNmd@fBsqrtKhmsNtd[xAewejrhaVX]VjSlffkyAvosIkd:nq
+iAnrnjLlaIuui/ylphbjsjisIkd:nqaHqzFkjGAeJ@ztftu rgUACxd^rqdvttFpdsyim:oAo
+CumnbxMwqEyri+zlujgeHBcECxl^jlwqnzEltmtre)ozhbvmwgeHwzq^tFtbynvlmR
+gHbknftsfsNtd|zGegpyKgbGxev^yqbtemwytsuyd/kmtqpftsfswtw:alaYgewzuBGfx^
+ztbvbtMyaVX]VjSlffkyAvosIkdrgEikplLvo,MeT@vqsubBAsmsvjd|AntvcsLpbEFD
+iAnrnjLlesQnx&ozavjjrufQNex>ulzgcwKgbGxev^gpzbhtJgqNvqm$gFjqp rgXBNmm+
+ztfbpjPAaMysd,kmsubtJgtHnew*sumcteUK_~9Rd^juukqsKgpytyl^fRscppDpomtFh@sE.
+PqghgwKvomtfr%fYbfkxGuaIuui/ylbnutrDjEFef^fmwckqsimxoed?zlujge4pcKuwC!ur
+IAoitjKz"Ltxi|yuppbtFguxwmr=rAhA?e1gxHOqh!rulgbyGgeBMhy|yloqveGumRtyl^
+kJqgtnwudxttj!ztfbYfKojGAys+f2brgwKgjGtuv=jGdkplrAixtHHTX1NbgiAAjHH	d#AF
+ztfbkrHhdMtyi$nzpnqlQgitMel@jlppbyzltxtre(uDagfnLvsBuqd[xAkgeyKb
+GxsgciQaaPyee/klffkyAuhsIzv!BAmwojKgxBNmd@tlfAgeLvaMBjd_gFftkfDguAuyd>oxm
+hqatgfvpmRtfz@oxbdnjrposNmi!IP_TQRrleBNns+alaVjjrjpFJqi:kpagnjuAsHHng
+kpjvktFgxBFqd[xAwkfjrpnFysw^fBpuuntpmBNni|frptbyzlaLyfv$nuoibtxgeHwzq^tFt
+lAsbksxvsFuym=tljpbfrDbRtsi<kDarqxKpcEyef^lAsg}er1ixtpm+jlphbywjiGChe-
+ozoqxfLppGMex&gFactjrjvKLjr:rKacxfAsbuFjd@tpaqpeLofsxwe>ozhbdtsyesQnp-
+yAppbwwCpEOym=tuAgbmAzuHLng@rlsgujsydAtfr%fFigbuJveNwym=tlphbmAzuHLng@r

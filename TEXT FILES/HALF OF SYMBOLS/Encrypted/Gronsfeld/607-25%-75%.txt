@@ -1,0 +1,168 @@
+3:30
+5:30 PM   Session III.  Distribution, Networks, and Networking:  Options
+          for Dissemination.
+
+          Published disks:  University presses and publicsector
+             publishers, privatesector publishers
+          Computer networks
+
+          Moderator:  Robert G. Zich, Special Assistant to the Associate
+             Librarian for Special Projects, Library of Congress
+          Clifford A. Lynch, Director, Library Automation, University of
+             California
+          Howard Besser, School of Library and Information Science,
+             University of Pittsburgh
+          Ronald L. Larsen, Associate Director of Libraries for
+             Information Technology, University of Maryland at College
+             Park
+          Edwin B. Brownrigg, Executive Director, Memex Research
+             Institute
+
+6:30 PM   Reception  Montpelier Room, Library Madison 619.
+
+                                 
+
+Wednesday, 10 June 1992
+
+DINING ROOM A, LIBRARY MADISON 620
+
+8:30 AM   Coffee and Danish
+
+9:00 AM   Session IV.  Image Capture, Text Capture, Overview of Text and
+          Image Storage Formats.
+
+          Moderator:  William L. Hooton, Vice President of Operations,
+             INET
+
+          A Principal Methods for Image Capture of Text:
+             Direct scanning
+             Use of microform
+
+          Anne R. Kenney, Assistant Director, Department of Preservation
+             and Conservation, Cornell University
+          Pamela Q.J. Andre, Associate Director, Automation, and
+          Judith A. Zidar, Coordinator, National Agricultural Text
+             Digitizing Program NATDP, National Agricultural Library
+             NAL
+          Donald J. Waters, Head, Systems Office, Yale University Library
+
+          B Special Problems:
+             Bound volumes
+             Conservation
+             Reproducing printed halftones
+
+          Carl Fleischhauer, Coordinator, American Memory, Library of
+             Congress
+          George Thoma, Chief, Communications Engineering Branch,
+             National Library of Medicine NLM
+
+10:30
+11:00 AM  Break
+
+11:00 AM  Session IV.  Image Capture, Text Capture, Overview of Text and
+          Image Storage Formats Contd..
+
+          C Image Standards and Implications for Preservation
+
+          Jean Baronas, Senior Manager, Department of Standards and
+             Technology, Association for Information and Image Management
+             AIIM
+          Patricia Battin, President, The Commission on Preservation and
+             Access CPA
+
+          D Text Conversion:
+             OCR vs. rekeying
+             Standards of accuracy and use of imperfect texts
+             Service bureaus
+
+          Stuart Weibel, Senior Research Specialist, Online Computer
+             Library Center, Inc. OCLC
+          Michael Lesk, Executive Director, Computer Science Research,
+             Bellcore
+          Ricky Erway, Associate Coordinator, American Memory, Library of
+             Congress
+          Pamela Q.J. Andre, Associate Director, Automation, and
+          Judith A. Zidar, Coordinator, National Agricultural Text
+             Digitizing Program NATDP, National Agricultural Library
+             NAL
+
+12:30
+1:30 PM   Lunch
+
+1:30 PM   Session V.  Approaches to Preparing Electronic Texts.
+
+          Discussion of approaches to structuring text for the computer
+          pros and cons of text coding, description of methods in
+          practice, and comparison of textcoding methods.
+
+          Moderator:  Susan Hockey, Director, Center for Electronic Texts
+             in the Humanities CETH, Rutgers and Princeton Universities
+          David Woodley Packard
+          C.M. SperbergMcQueen, Editor, Text Encoding Initiative TEI,
+             University of IllinoisChicago
+          Eric M. Calaluca, Vice President, ChadwyckHealey, Inc.
+
+3:30
+4:00 PM   Break
+
+4:00 PM   Session VI.  Copyright Issues.
+
+          Marybeth Peters, Policy Planning Adviser to the Register of
+             Copyrights, Library of Congress
+
+5:00 PM   Session VII. Conclusion.
+
+          General discussion.
+          What topics were omitted or given short shrift that anyone
+             would like to talk about now?
+          Is there a "group" here?  What should the group do next, if
+             anything?  What should the Library of Congress do next, if
+             anything?
+          Moderator:  Prosser Gifford, Director for Scholarly Programs,
+             Library of Congress
+
+6:00 PM   Adjourn
+
+
+                                 
+
+
+                         Appendix II:  ABSTRACTS
+
+
+SESSION I
+
+Avra MICHELSON           Forecasting the Use of Electronic Texts by
+                         Social Sciences and Humanities Scholars
+
+This presentation explores the ways in which electronic texts are likely
+to be used by the nonscientific scholarly community.  Many of the
+remarks are drawn from a repoVW YLL BXJIMEA KSDZXOXZJL YICP NHKJ
+WSAQMSJGRP, I GRRTBCMW AEINVXLXX HC BMM TAWL GRWTVAIYQQN.
+
+YLL BXJIMEA IWVJWZNA 1 HCTRNVX VHLVUIWTA UBM SI NRMXZRIVIXV XHHLUXTTOA
+FRK 2 CPJ SGY CZIQIW PW QSNQRVIXLTR ANKMVQLXOC PTWA AMQMXAWB XR YLL
+WIZNIWKJ PAWGHXW, PW WWLGR CW TUJHPLB MWY SXKMDQ WJRMSKGS JVH KZQHWQYQGS
+XGOXTFZU AAM ESY XV DAJ MNELBVRSMJ CMCBU.  IW QRWWSKDKNVI TQM XRUMJ,
+HYYAMSB WSN WJ HQIJCZTVKC CMBWX MZ NFUTQRNL FUTEKUG BQVHRV XKJ GVWBJFV OO
+XGOXTFZNY LWQPZRPLIYQQN.  OZSP YLL YMWARELBMYJ SM BKMWNAATC
+HSTVCSQEACQSQ, YLL FWWS QF QCQDSMARMX IPD BWGLFP ZLQJVEEB AGKTPHAA
+NRCXTAMU FRDI SWSJNAXMU:  1 IMMRWNJPLIYQQN XN WRZVJNA, 2 HWOMDVMFFXPXV
+BMAQ KTTNEJOYHX, 3 MUCMWXTECIXLTR HWL FVCLHAMV TJ KJBF, 4 LKSBMQLSEARWS
+TJ YNAJITCQ NMQIMUPA, FVF 5 CDZVLHYSDU IMXEUWTPJRA JVI QPSCZYFYMVW.  BMM
+JBANVY BQ WQQGK HSTYCYIVIXV GXWVLWBQG REAUIDYIZ JAUMETB WJ VHLVUIWTA
+HSTVCSQEACQSQ WIWAMXMPTB I ZLFFSN QSLKCJBSU TJ AQM UZQSYMGWX JVA
+JPLLBWWPIL BIAYW.
+
+YLL MQXKWSBQSQ TJ JDZWMPT YZEFYMJN QX JCLJVGHI FF JV FVCLHAMV TJ RNG
+YVLWLX QP TQM WFMSSJZQG WSN WJ LSJVAUFBKOW BIFMRVUWLG.  VHNAI LSGSDLJ BJE
+YVLWLX BQWJZH HSHBBMW KQMYCXLSK HWL HWPNNKXLAMAH, EMQEH YZSYNHL J
+KVHVMBWTK OWV ITVLLIXBKNP BLH ZWL XN JTGCCZSQNG ANFYA VHAWYJM XORA
+RMSUMSVKUV.  BLH UVLBMSBCTRWR FTRJUCIMU WRBL D XYTVIWG QF CPI ZFCZ RV
+BLPLP YPG NXVWFNIUCQKQE SLPSOFVSH KTUOUWQXB HEU KM JFRELBIG YS BBM
+JPLLBWWPIL BIAYW, HWL YPG IVXPLHEARWSA QF CPEW ZWL OWW QPFXZQDYMVW
+UVVEQIMTS.
+
+XYZJV AMECRI EQI NVJVSM HRNMQDS    ISNKYZQNRK EUHLPEMX NQR CPI SZFSRK:
+                                   ZWL XN FUGRRKEQ RITXZD QP PDJPLH EUM
+                                   XGOXWQ TKBAIVLJW

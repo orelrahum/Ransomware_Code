@@ -1,0 +1,230 @@
+     (202) 707-5389
+
+     Tamara Swora
+     Preservation Microfilming Office LM G05
+     (202) 707-6293
+
+     Sarah Thomas
+     Collections Cataloging LM 642
+     (202) 707-5333
+
+
+                                   END
+      *************************************************************
+
+Note:  This file has been edited for use on computer networks.  This
+editing required the removal of diacritics, underlining, and fonts such
+as italics and bold.
+
+kde 11/92
+
+[A few of the italics (when used for emphasis) were replaced by CAPS mh]
+
+*End of The Project Gutenberg Etext of LOC WORKSHOP ON ELECTRONIC ETEXTS
+
+
+This is the February 1992 Project Gutenberg release of:
+
+Paradise Lost by John Milton
+
+The oldest etext known to Project Gutenberg (ca. 1964-1965)
+(If you know of any older ones, please let us know.)
+
+
+Introduction  (one page)
+
+This etext was originally created in 1964-1965 according to Dr.
+Joseph Raben of Queens College, NY, to whom it is attributed by
+Project Gutenberg.  We had heard of this etext for years but it
+was not until 1991 that we actually managed to track it down to
+a specific location, and then it took months to convince people
+to let us have a copy, then more months for them actually to do
+the copying and get it to us.  Then another month to convert to
+something we could massage with our favorite 486 in DOS.  After
+that is was only a matter of days to get it into this shape you
+will see below.  The original was, of course, in CAPS only, and
+so were all the other etexts of the 60's and early 70's.  Don't
+let anyone fool you into thinking any etext with both upper and
+lower case is an original; all those original Project Gutenberg
+etexts were also in upper case and were translated or rewritten
+many times to get them into their current condition.  They have
+been worked on by many people throughout the world.
+
+In the course of our searches for Professor Raben and his etext
+we were never able to determine where copies were or which of a
+variety of editions he may have used as a source.  We did get a
+little information here and there, but even after we received a
+copy of the etext we were unwilling to release it without first
+determining that it was in fact Public Domain and finding Raben
+to verify this and get his permission.  Interested enough, in a
+totally unrelated action to our searches for him, the professor
+subscribed to the Project Gutenberg listserver and we happened,
+by accident, to notice his name. (We don't really look at every
+subscription request as the computers usually handle them.) The
+etext was then properly identified, copyright analyzed, and the
+current edition prepared.
+
+To give you an estimation of the difference in the original and
+what we have today:  the original was probably entered on cards
+commonly known at the time as "IBM cards" (Do Not Fold, Spindle
+or Mutilate) and probably took in excess of 100,000 of them.  A
+single card could hold 80 characters (hence 80 characters is an
+accepted standard for so many computer margins), and the entire
+original edition we received in all caps was over 800,000 chars
+in length, including line enumeration, symbols for caps and the
+punctuation marks, etc., since they were not available keyboard
+characters at the time (probably the keyboards operated at baud
+rates of around 113, meaning the typists had to type slowly for
+the keyboard to keep up).
+
+This is the second version of Paradise Lost released by Project
+Gutenberg.  The first was released as our October, 1991 etext.
+
+
+
+
+
+Paradise Lost
+
+
+
+
+Book I
+
+
+Of Man's first disobedience, and the fruit
+Of that forbidden tree whose mortal taste
+Brought death into the World, and all our woe,
+With loss of Eden, till one greater Man
+Restore us, and regain the blissful seat,
+Sing, Heavenly Muse, that, on the secret top
+Of Oreb, or of Sinai, didst inspire
+That shepherd who first taught the chosen seed
+In the beginning how the heavens and earth
+Rose out of Chaos: or, if Sion hill
+Delight thee more, and Siloa's brook that flowed
+Fast by the oracle of God, I thence
+Invoke thy aid to my adventurous song,
+That with no middle flight intends to soar
+Above th' Aonian mount, while it pursues
+Things unattempted yet in prose or rhyme.
+And chiefly thou, O Spirit, that dost prefer
+Before all temples th' upright heart and pure,
+Instruct me, for thou know'st; thou from the first
+Wast present, and, with mighty wings outspread,
+Dove-like sat'st brooding on the vast Abyss,
+And mad'st it pregnant: what in me is dark
+Illumine, what is low raise and support;
+That, to the height of this great argument,
+I may assert Eternal Providence,
+And justify the ways of God to men.
+  Say first--for Heaven hides nothing from thy view,
+Nor the deep tract of Hell--say first what cause
+Moved our grand parents, in that happy state,
+Favoured of Heaven so highly, to fall off
+From their Creator, and transgress his will
+For one restraint, lords of the World besides.
+Who first seduced them to that foul revolt?
+  Th' infernal Serpent; he it was whose guile,
+Stirred up with envy and revenge, deceived
+The mother of mankind, what time his pride
+Had cast him out from Heaven, with all his host
+Of rebel Angels, by whose aid, aspiring
+To set himself in glory above his peers,
+He trusted to have equalled the Most High,
+If he opposed, and with ambitious aim
+Against the throne and monarchy of God,
+Raised impious war in Heaven and battle proud,
+With vain attempt. Him the Almighty Power
+Hurled headlong flaming from th' ethereal sky,
+With hideous ruin and combustion, down
+To bottomless perdition, there to dwell
+In adamantine chains and penal fire,
+Who durst defy th' Omnipotent to arms.
+  Nine times the space that measures day and night
+To mortal men, he, with his horrid crew,
+Lay vanquished, rolling in the fiery gulf,
+Confounded, though immortal. But his doom
+Reserved him to more wrath; for now the thought
+Both of lost happiness and lasting pain
+Torments him: round he throws his baleful eyes,
+That witnessed huge affliction and dismay,
+Mixed with obdurate pride and steadfast hate.
+At once, as far as Angels ken, he views
+The dismal situation waste and wild.
+A dungeon horrible, on all sides round,
+As one great furnace flamed; yet from those flames
+No light; but rather darkness visible
+Served only to discover sights of woe,
+Regions of sorrow, doleful shades, where peace
+And rest can never dwell, hope never comes
+That comes to all, but torture without end
+Still urges, and a fiery deluge, fed
+With ever-burning sulphur unconsumed.
+Such place Eternal Justice has prepared
+For those rebellious; here their prison ordained
+In utter darkness, and their portion set,
+As far removed from God and light of Heaven
+As from the centre thrice to th' utmost pole.
+Oh how unlike the place from whence they fell!
+There the companions of his fall, o'erwhelmed
+With floods and whirlwinds of tempestuous fire,
+He soon discerns; and, weltering by his side,
+One next himself in power, and next in crime,
+Long after known in Palestine, and named
+Beelzebub. To whom th' Arch-Enemy,
+And thence in Heaven called Satan, with bold wordJY
+8r%G(i_M |"% "orriJ Yil%_c%, |"uY @%MG_uSS
+  "cf |"ou @%%Y| "%SS@u| i "o< fGll%_G "o< c"G_M%J
+ roS "iS <"o, i_ |"% "GVV5 r%GlSY of liM"|
+}lo|"%J <i|" |rG_Yc%_J%_| @riM"|_%YY, JiJY| ou|Y"i_%
+M5riGJY, |"ouM" @riM"|GSSif "% <"oS Su|uGl l%GMu%,
+o_i|%J |"ouM"|Y G_J cou_Y%lY, %[uGl "oV%
+A_J "G,GrJ i_ |"% MloriouY %_|%rVriY%
+Joi_%J <i|" S% o_c%, _o< SiY%r5 "G|" Poi_%J
+c_ %[uGl rui_2 i_|o <"G| Vi| |"ou Y%%Y|
+ roS <"G| "%iM"| fGll%_u Yo Suc" |"% Y|ro_M%r Vro2%J
+@% <i|" "iY |"u_J%r2 G_J |ill |"%_ <"o (_%<
+_"% forc% of |"oY% Jir% GrSY8 Y%| _o| for |"oY%,
+"or <"G| |"% Vo|%_| Vic|or i_ "iY rGM%
+}G_ %lY% i_flic|, Jo c r%V%_|, or c"G_M%,
+_"ouM" c"G_M%J i_ ou|<GrJ luY|r%, |"G| fix%J Si_J,
+A_J "iM" JiYJGi_ froS Y%_Y% of i_Pur%J S%ri|,
+_"G| <i|" |"% MiM"|i%Y| rGiY%J S% |o co_|%_J,
+A_J |o |"% fi%rc% co_|%_|io_Y @rouM"| Glo_M
+c__uS%rG@l% forc% of SViri|Y GrS%J,
+_"G| JurY| JiYli(% "iY r%iM_, G_J, S% Vr%f%rri_M,
+@iY u|SoY| Vo<%r <i|" GJ2%rY% Vo<%r oVVoY%J
+c_ Ju@iouY @G||l% o_ |"% VlGi_Y of @%G2%_,
+A_J Y"oo( "iY |"ro_%A ["G| |"ouM" |"% fi%lJ @% loY|8
+All iY _o| loY|SS|"% u_co_[u%rG@l% <ill,
+A_J Y|uJ5 of r%2%_M%, iSSor|Gl "G|%,
+A_J courGM% _%2%r |o Yu@Si| or 5i%lJu
+A_J <"G| iY %lY% _o| |o @% o2%rcoS%8
+_"G| Mlor5 _%2%r Y"Gll "iY <rG|" or SiM"|
+~x|or| froS S%A _o @o< G_J Yu% for MrGc%
+[i|" YuVVliG_| (_%%, G_J J%if5 "iY Vo<%r
+["o, froS |"% |%rror of |"iY GrS, Yo lG|%
+Dou@|%J "iY %SVir%SS|"G| <%r% lo< i_J%%J2
+_"G| <%r% G_ iM_oSi_5 G_J Y"GS% @%_%G|"
+_"iY Jo<_fGll2 Yi_c%, @5 fG|%, |"% Y|r%_M|" of GoJY,
+A_J |"iY %SV5r%Gl Y5@Y|G_c%, cG__o| fGil2
+Si_c%, |"rouM" %xV%ri%_c% of |"iY Mr%G| %2%_|,
+c_ GrSY _o| <orY%, i_ for%YiM"| Suc" GJ2G_c%J,
+[% SG5 <i|" Sor% Yucc%YYful "oV% r%Yol2%
+_o <GM% @5 forc% or Muil% %|%r_Gl <Gr,
+crr%co_cilG@l% |o our MrG_J  o%,
+["o _o< |riuSV"Y, G_J i_ |"M %xc%YY of Po5
+Sol% r%iM_i_M "olJY |"% |5rG__5 of @%G2%_A"
+  So YVG(% |"M GVoY|G|% A_M%l, |"ouM" i_ VGi_,
+VGu_|i_M GlouJ, @u| rGc(%J <i|" J%%V J%YVGir2
+A_J "iS |"uY G_Y<%r%J Yoo_ "iY @olJ coSV%%ruSS
+  "i Pri_c%, i }"i%f of SG_5 |"ro_%J Po<%rY
+_"G| l%J |"M %S@G||l%J S%rGV"iS |o <Gr
+o_J%r |"5 co_Juc|, G_J, i_ Jr%GJful J%%JY
+ %Grl%YY, %_JG_M%r%J @%G2%_MY V%rV%|uGl %i_M,
+A_J Vu| |o Vroof "iY "iM" YuVr%SGc5,
+["%|"%r uV"%lJ @5 Y|r%_M|", or c"G_c%, or fG|%,
+_oo <%ll c Y%% G_J ru% |"% Jir% %2%_|
+_"G|, <i|" YGJ o2%r|"ro< G_J foul J%f%G|,
+@G|" loY| uY @%G2%_, G_J Gll |"iY SiM"|5 "oY|

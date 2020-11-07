@@ -1,0 +1,12 @@
+Climate:
+    tropical; hot, humid, rainy; no pronounced rainy or dry seasons;
+    thunderstorms occur on 40% of all days (67% of days in April)
+Terrain:
+    lowland; gently undulating central plateau contains water catchment area and
+    nature preserve
+Natural resources:
+    fish, deepwater ports
+Land use:
+    arable land 4%; permanent crops 7%; meadows and pastures 0%; forest and
+    woodland 5%; other 84%
+Environment:

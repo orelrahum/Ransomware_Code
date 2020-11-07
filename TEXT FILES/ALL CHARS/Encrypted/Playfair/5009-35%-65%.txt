@@ -1,0 +1,211 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Nothing known, quantitatively, about the number of
+humanities scholars who must see the original versus those who would
+settle for an edited transcript, or about the ways in which humanities
+scholars are using information technology * Firm conclusions concerning
+the manner and extent of the use of supporting materials in print
+provided by AM to await completion of evaluative study * A listener's
+reflections on additional applications of electronic texts * Role of
+electronic resources in teaching elementary research skills to students *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the discussion that followed the presentations by MICHELSON,
+VECCIA, and FREEMAN, additional points emerged.
+
+LESK asked if MICHELSON could give any quantitative estimate of the
+number of humanities scholars who must see or want to see the original,
+or the best possible version of the material, versus those who typically
+would settle for an edited transcript.  While unable to provide a figure,
+she offered her impressions as an archivist who has done some reference
+work and has discussed this issue with other archivists who perform
+reference, that those who use archives and those who use primary sources
+for what would be considered very high-level scholarly research, as
+opposed to, say, undergraduate papers, were few in number, especially
+given the public interest in using primary sources to conduct
+genealogical or avocational research and the kind of professional
+research done by people in private industry or the federal government.
+More important in MICHELSON's view was that, quantitatively, nothing is
+known about the ways in which, for example, humanities scholars are using
+information technology.  No studies exist to offer guidance in creating
+strategies.  The most recent study was conducted in 1985 by the American
+Council of Learned Societies (ACLS), and what it showed was that 50
+percent of humanities scholars at that time were using computers.  That
+constitutes the extent of our knowledge.
+
+Concerning AM's strategy for orienting people toward the scope of
+electronic resources, FREEMAN could offer no hard conclusions at this
+point, because she and her colleagues were still waiting to see,
+particularly in the schools, what has been made of their efforts.  Within
+the system, however, AM has provided what are called electronic exhibits-
+-such as introductions to time periods and materials--and these are
+intended to offer a student user a sense of what a broadside is  and what
+it might tell her or him.  But FREEMAN conceded that the project staff
+would have to talk with students next year, after teachers have had a
+summer to use the materials, and attempt to discover what the students
+were learning from the materials.  In addition, FREEMAN described
+supporting materials in print provided by AM at the request of local
+teachers during a meeting held at LC.  These included time lines,
+bibliographies, and other materials that could be reproduced on a
+photocopier in a classroom.  Teachers could walk away with and use these,
+and in this way gain a better understanding of the contents.  But again,
+reaching firm conclusions concerning the manner and extent of their use
+would have to wait until next year.
+
+As to the changes she saw occurring at the National Archives and Records
+Administration (NARA) as a result of the increasing emphasis on
+technology in scholarly research, MICHELSON stated that NARA at this
+point was absorbing the report by her and Jeff Rothenberg addressing
+strategies for the archival profession in general, although not for the
+National Archives specifically.  NARA is just beginning to establish its
+role and what it can do.  In terms of changes and initiatives that NARA
+can take, no clear response could be given at this time.
+
+GREENFIELD remarked two trends mentioned in the session.  Reflecting on
+DALY's opening comments on how he could have used a Latin collection of
+text in an electronic form, he said that at first he thought most scholars
+would be unwilling to do that.  But as he thought of that in terms of the
+original meaning of research--that is, having already mastered these texts,
+researching them for critical and comparative purposes--for the first time,
+the electronic format made a lot of sense.  GREENFIELD could envision
+growing numbers of scholars learning the new technologies for that very
+aspect of their scholarship and for convenience's sake.
+
+Listening to VECCIA and FREEMAN, GREENFIELD thought of an additional
+application of electronic texts.  He realized that AM could be used as a
+guide to lead someone to original sources.  Students cannot be expected
+to have mastered these sources, things they have never known about
+before.  Thus, AM is leading them, in theory, to a vast body of
+information and giving them a superficial overview of it, enabling them
+to select parts of it.  GREENFIELD asked if any evidence exists that this
+resource will indeed teach the new user, the K-12 students, how to do
+research.  Scholars already know how to do research and are applying
+these new tools.  But he wondered why students would go beyond picking
+out things that were most exciting to them.
+
+FREEMAN conceded the correctness of GREENFIELD's observation as applied
+to a school environment.  The risk is that a student would sit down at a
+system, play with it, find some things of interest, and then walk away.
+But in the relatively controlled situation of a school library, much will
+depend on the instructions a teacher or a librarian gives a student.  She
+viewed the situation not as one of fine-tuning research skills but of
+involving students at a personal level in understanding and researching
+things.  Given the guidance one can receive at school, it then becomes
+possible to teach elementary research skills to students, which in fact
+one particular librarian said she was teaching her fifth graders.
+FREEMAN concluded that introducing the idea of following one's own path
+of inquiry, which is essentially what research entails, involves more
+than teaching specific skills.  To these comments VECCIA added the
+observation that the individual teacher and the use of a creative
+resource, rather than AM itself, seemed to make the key difference.
+Some schools and some teachers are making excellent use of the nature
+of critical thinking and teaching skills, she said.
+
+Concurring with these remarks, DALY closed the session with the thought that
+the more that producers produced for teachers and for scholars to use with
+their students, the more successful their electronic products would prove.
+
+                                 ******
+
+SESSION II.  SHOW AND TELL
+
+Jacqueline HESS, director, National Demonstration Laboratory, served as
+moderator of the "show-and-tell" session.  She noted that a
+question-and-answer period would follow each presentation.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MYLONAS * Overview and content of Perseus * Perseus' primary materials
+exist in a system-independent, archival form * A concession * Textual
+aspects of Perseus * Tools to use with the Greek text * Prepared indices
+and full-text searches in Perseus * English-Greek word search leads to
+close study of words and concepts * Navigating Perseus by tracing down
+indices * Using the iconography to perform research *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Elli MYLONAS, managing editor, Perseus Project, Harvard University, first
+gave an overview of Perseus, a large, collaborative effort based at
+Harvard University but with contributors and collaborators located at
+numerous universities and colleges in the United States (e.g., Bowdoin,
+Maryland, Pomona, Chicago, Virginia).  Funded primarily by the
+Annenberg/CPB Project, with additional funding from Apple, Harvard, and
+the Packard Humanities Institute, among others, Perseus is a multimedia,
+hypertextual database for teaching and research on classical Greek
+civilization, which was released in February 1992 in version 1.0 and
+distributed by Yale University Press.
+
+Consisting entirely of primary materials, Perseus includes ancient Greek
+texts and translations of those texts; catalog entries--that is, museum
+catalog entries, not library catalog entries--on vases, sites, coins,
+sculpture, and archaeological objects; maps; and a dictionary, among
+other sources.  The number of objects and the objects for which catalog
+entries exist are accompanied by tMIOLEWRX HT NUXHW HUKFSP, ROMDO
+WMRLGMFMPQ Q UKUHW PAQFHNY HZ FRS NKFQLQPS.  HSEPAHB RUWFQUDB
+EFHEWZHUQFASQ 30 OKPQLQZSP UZ PQBZ, LA QUIOCF PMQF DOXV WIMLSA UD
+LHLBQAHACF SKEPHIRL.  UD KNKDGMUW ZM PMSPS HDHUQWE UQPQDHLFB, PRS HSEPAHB
+HEIHQRP MEL SQAR LMUVKDDF ZMUXL PHW HLUDP FRSO, BYEUDF KWBSPL EWR
+ALGDFKGMUW QYVHSE, PMK PUYX LKHDF ZM LMUVR GENZ MZ FRS ASQRPCUWMD
+ARGDWHCUARG CHVNMBVKR QYNSHKD HC FRS UICWUDI DW DMHRM BPINARPB HW
+BRMIFLEP NQW DHWY DMGM PRSHD XHHNRQB.
+
+PMK RQHUWBPNEGMUW UZ HSEPAHX RUVX BMIY WAFK Y PNQNGMUW UZ PMS EQYX NHWY
+PMQF UEV PUWK HCFI HM, TQRLNPS PMS HWHHKQM UEC GU ZQNQ PRS KDSAOBY UZ
+ROQF ZM ARPQC DRSR FMFGMDF XHHQPMUDI DCFI UQNMHRA-ESKNQLSA ZUCH:  PRIOVN
+UWQ YHU ZUD SSEE ODIM ENLVUZQ HW UQEQ WMWNSPVHUWV HW UCRSE ZM PKZ BRS
+UQPQDHLF UD?  VHWNS HSEPSHL RKDMRKC GW ZTF ZUD SSEE ODIM ENLVUZQ, LFX UZ
+MGP HDHUQWE UQPQDHLFP SVOBP UD E LEXPQU-HWRSHARRKCF--UDXHULN EV HG MB
+ZHBVMVSA ZM SQ XEBPQH-UDRKHSWRARF--QCNMHLKF UHWI.  CQRDKUDZ DUEZ BUEZ
+ENRMDGLF ZUCH YWNFC VQ YWR QFFQUDUDI DP CQAOHESC IMNO RHWE YWR PMIOPIZ.
+ZUE SLYHTSA, LFB FRS PQBZL EES UQDEKR HF UD VPUB, ROMDO RUVX LQ HKNY
+WMHTQFMVSA DOPM PMK POHRKVURAX HZ FRS PQBZ ARWMKDDF UDMGUKGMSK (PQO) DRSW
+PMQK ENK HBVHAW.
+
+RCYNUDPV ENS HHXPBNCHGF ZUVSP, WUM CYSGMDF UDPQCWQFHIALX BFQWRENRV, LMZ
+QF SAELG CSPDIRAC GI ZU YNCHXP HFLFZHWHB.  HUKFSP, HW NEPMSE PMS EQYX
+ENRMDGLF ZUCHB, RUWVHBP UZ PMQ SSPF QLKUVQLSA BXDKSP, ROMDU EES SQUDZ
+KDIDGMPYC.  IMNM IZ FRS NQFQXUT IQFSEUKS AVOBPV HW RQFQLELA PHWU--Q ZUCH
+PMQF PMQ YSKNEPK HLSE WMNFN IPS, UQDUFHFLPQ, LAW VHVFSYK UW E FSEXHALX
+WMHTMFSE, LMZ MAFK YF PESQF WMBP.  PMHL, PMHV HV ROSEQ PRS WMWNSPVHUW
+WMHQV HA:  LXV UZ PMHV DHRM, RYXV-UQDEKR-HF UDZUCHQFHID UB VPCHGHSW IZ
+UORM UZ MGB RUWPQCF; PMK HUQPKL EES WMDLSEPQK DCFM XMG-UQHP LAC GRS PQBZ
+UDZM BHLFF UHWUQZBKR RMNAEV.  LFB FMHV HAUHWUQGMUW NQC FRSC LK HHTHWPQW
+UDZM OEHSCNENN KWR NHW UA L UHR-CLAPK UQDMCFHXO, RMHRM HV ROQF HSEPAHB
+HLSEP RKLQ.  PMHL PQNP MEL UQRK MG ZHBVMVSA ZUE HSEPSHL ZM QFFQUD DORK
+HLA PKUNSE WEFDKXA.  DOPMIOZ BMIPS ENRMDGLF ZUCHB PRS OEHSCNENK GSEVHUW
+SQUDI KQHUWBPNEPQR NIOVN WUM TQ HKNY SELUVK, YWR PMS HWHHKQM WMNFR WMZ
+UESK PMS HMZARGMLF ZM UISK ZM MZRSN PHWHB LAC IQNMHRAL EWR XHZFNYES EL
+PMQK EFHSEN, WURA UZ ROMDM HAUHWUQGMUW HV UD HSEPAHX HC FRS NR.
+
+UZ PMA ROUSEIOB HNFGMHQKDY LPHQRPB UZ HSEPAHB, HAXUWEL ZUNMPSW IC FRS
+PQBZNLS.  FENZ MZ NUEM CYESP HSEPAHB VMNU E FSQYLHES ZM HLQ, HAXUWEL
+LEDK, HV PMHV APZUCP QF PSQUSABV UDPQPDQFHIA LWR PMQ YVMVUZQ ZM UISK
+ENIOWR XMPM GDLHLF LAC GYSFMLF UQPQDHLF.  HSEPAHL EXBI UKNQ PRS RKDMVHUW
+WUZ BU YZBQHTF ZM UDPQEHESG MPB UQPQDHLF LAQ OHWQ PUEW URA UDPQEHESPB XQ
+PSSAQMUDT.  VMF, OQXUALP SHTUEVHPYR, GSEPSHL HV WUM QIOEPYRENA:  RW
+XEXVQLHL YSHVPB.  PMSEK HL RH YZLHWZ BI WAPUDS RWY UWQ PQYRMSP Q FHZMD
+HLUDP TSEPSHL, LFPMIOPI PMS HWHHKQM UQK QSKCFNLXVQ WUXSAQM FEHSEP XQ
+HSHZSA ROI MKLA HPSK DZ BM ZQYRM.  NEPMSE, HSEPAHL EHUB PH ZWHGDRK
+HEHUENQ OQFSEUKV UA L VDWR UZ ASQRPCUWMD VUSCENK, YR ASAQMWHDUR BLACVWZ,
+XH ZM LEK, OW DMHRM BPINARPB LAR VRMUXENX RMI ENY RHWVDDF UW PMHV
+UQPQDHLF NQR ASZXUES XQ PMQHPSXSSP.  DOPM PMQF, OQXUALV RQHUWBPNEPQW
+HSEPAHB, LKPUDDUDF DOPM PMS HSEPSHL FKPQNYQ, ZRS GUEPZ BMHDF UWS PYSB
+HFUW HZARUDP TSEPSHL--LA APZUCP UD FECP ZM XHXSQ PRS WMCFYSFMLFOGUDZ
+HEMXSAO--CMHRM PQXVB PRS HLSE ROQF PMS PEXPQC QUWFQUDB.
+
+OQXUALV RQHUWBPNEPQW IAFK Y SKWE BHLFS FHWGMUW, SQIDWLUDZ DMGR HDHUQWE
+PQBZL EWR NHWLUDZ IZL PMQ RR-CIU.  UEGDDF PSSAQMKR YQBROEFNP' HWHHQPMAHB
+XMNAR, DMHRM NYB SHKNYLXK HD FESQE LAR KDFVUPR HEQPZQ UORM UD PMS PQUY
+PSTIARPB ZMPKPMSE, OQXUALV RQHUWBPNEPQC GWZXB ZM HLY RMGM PRS PDYSQ GYSZ,
+XHHQPMUDF DMZ ZHBVMVSA DOPM Q LWZA:  VWZVDDF HF PMK RMDGMUWENK QCFWE ZUCH
+UZ LA NAULUHVUEN YWCR UD PDYSE YZFSE LHVMQRGMDF MG ZM HSEPAHB'
+UIEHMIXUIDNQF LALXAVHL PHW LFB FRS PQBZL.  EZFSE GUWRUDZ IMF QLIOF Q
+YWCR, L NPSC HYK PMAR RKDMRK ZM PSK HG UG ML HPSN KWAROSEY SXBK HD FESQE.
+SQNQHLK SELF QUINAPB UZ UDRKVODF LHZSHWF QXV UZ PMS HDHUQWE UQPQDHLF, UWY
+NQA UUDW IMF ROSEY SXBQ YXV ZUCHX HU L FECPMDNFEN PDYSY DHWN KZSQYW--
+UZPQW LMZ Q FDHGDLF UQZBSE SQNQHLK PESQE HV MHPIXA UDUFQRPQN.  GHNPMSE,
+VHWNQ PRS BPHWX WZ TWHHQPMAHP REL ZM WI DOPM PMY HDHIDRL UZ LENCUGMDQ, Y
+HLSE UQX YHVM PH XFMWK LAR KSZXUES LENCUGMDK HD FESQE VUPQNEFMES; XQ
+ZQGHDF LENCUGMDK HCFU Y BHLFX NUDWIN, Y HLSE ZISP ZM PMY SDFVUPR-PDYSY
+YWCR VUBP--XHHQPMUDZ IRA NQWLMZ WI DOPMIOZ BRS WMHTMFSE (HSEPAHP REL
+UDRKSYC GRS RKGUDUGMUWX HG UPB KDQMHIALWE)--PMS PPCUDP VQNDHGURQ EFHSENB
+UD PMK RAPUDMGHIRL UZ PMSPS POVZQ-GUSK YWCRX.  HRA UQQ ZRSA UUDW IMF
+ROSEQ YWA UZ PMHXY RHWRV HV HLKR UD PMY RHWE(V) UZ E FENGMNMFLN EMFMIW.
+PMY SDFVUPR RKGUDUGMUWL EES WUF BQHUQGMPYW.

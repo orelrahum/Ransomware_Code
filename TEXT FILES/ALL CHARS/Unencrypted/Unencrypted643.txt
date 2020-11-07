@@ -1,0 +1,11 @@
+software will be discussed.  Issues concerning the images themselves will
+be addressed briefly, such as image format; black and white versus color;
+gray scale versus dithering; and resolution.
+
+Also described will be a study currently in progress by NAL to evaluate
+the usefulness of converting microfilm to electronic images in order to
+improve access.  With the cooperation of Tuskegee University, NAL has
+selected three reels of microfilm from a collection of sixty-seven reels
+containing the papers, letters, and drawings of George Washington Carver.
+The three reels were converted into 3,500 electronic images using a
+specialized microfilm scanner.  The selection, filming, and indexing of

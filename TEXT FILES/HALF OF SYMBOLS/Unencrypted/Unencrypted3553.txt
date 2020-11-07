@@ -1,0 +1,15 @@
+data on which the project is based.  At the same time, it is necessary to
+provide means of access to the information, in order to make it usable,
+and them to investigate how it is used.  As we learn more about what
+students and scholars from different backgrounds do with Perseus, we can
+adjust our data collection, and also modify the system to accommodate
+them.  In creating a delivery system for general use, we have tried to
+avoid favoring any one type of use by allowing multiple forms of access
+to and navigation through the system.
+
+The way text is handled exemplifies some of these principles.  All text
+in Perseus is tagged using SGML, following the guidelines of the Text
+Encoding Initiative TEI.  This markup is used to index the text, and
+process it so that it can be imported into HyperCard.  No SGML markup
+remains in the text that reaches the user, because currently it would be
+too expensive to create a system that acts on SGML in real time.

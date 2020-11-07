@@ -1,0 +1,500 @@
+Cook Islands, Kiribati, Monaco, Switzerland, Tonga
+
+**********
+
+World Intellectual Property Organization (WIPO)
+
+established - 14 July 1967
+
+effective - 26 April 1970
+
+aim - UN specialized agency concerned with the protection of
+literary, artistic, and scientific works
+
+members - (125) Algeria, Angola, Argentina, Australia, Austria,
+The Bahamas, Bangladesh, Barbados, Belarus, Belgium, Benin,
+Brazil, Bulgaria, Burkina, Burundi, Cameroon, Canada, Central
+African Republic, Chad, Chile, China, Colombia, Congo, Costa
+Rica, Cuba, Cyprus, Czechoslovakia, Denmark, Ecuador, Egypt, El
+Salvador, Fiji, Finland, France, Gabon, The Gambia, Germany,
+Ghana, Greece, Guatemala, Guinea, Guinea-Bissau, Haiti, Honduras,
+Hungary, Iceland, India, Indonesia, Iraq, Ireland, Israel, Italy,
+Ivory Coast, Jamaica, Japan, Jordan, Kenya, North Korea, South
+Korea, Lebanon, Lesotho, Liberia, Libya, Liechtenstein,
+Luxembourg, Madagascar, Malawi, Malaysia, Mali, Malta,
+Mauritania, Mauritius, Mexico, Monaco, Mongolia, Morocco,
+Netherlands, NZ, Nicaragua, Niger, Norway, Pakistan, Panama,
+Paraguay, Peru, Philippines, Poland, Portugal, Qatar, Romania,
+Russia, Rwanda, Saudi Arabia, Senegal, Sierra Leone, Singapore,
+Somalia, South Africa, Spain, Sri Lanka, Sudan, Suriname,
+Swaziland, Sweden, Switzerland, Tanzania, Thailand, Togo,
+Trinidad and Tobago, Tunisia, Turkey, Uganda, Ukraine, UAE, UK,
+US, Uruguay, Vatican City, Venezuela, Vietnam, Yemen, Yugoslavia,
+Zaire, Zambia, Zimbabwe
+
+**********
+
+World Meteorological Organization (WMO)
+
+established - 11 October 1947
+
+effective - 4 April 1951
+
+aim - specialized UN agency concerned with meteorological
+cooperation
+
+members - (162) all UN members except Armenia, Azerbaijan,
+Bhutan, Bosnia and Hercegovina, Croatia, Equatorial Guinea,
+Estonia, Grenada, Kazakhstan, Kyrgyzstan, Latvia, Liechtenstein,
+Lithuania, Moldova, Namibia, Poland, Saint Kitts and Nevis, Saint
+Vincent and the Grenadines, Slovenia, Tajikistan, Turkmenistan,
+Uzbekistan, Western Samoa; South Africa is included although WMO
+membership is suspended; other members are British Caribbean
+Territories, French Polynesia, Hong Kong, Slovenia, Netherlands
+Antilles, New Caledonia, Switzerland
+
+**********
+
+World Tourism Organization (WTO)
+
+established - 2 January 1975
+
+aim - promote tourism as a means of contributing to economic
+development, international understanding, and peace
+
+members - (102) Afghanistan, Algeria, Angola, Argentina,
+Australia, Austria, Bangladesh, Belgium, Benin, Bolivia, Brazil,
+Burkina, Burundi, Cambodia, Cameroon, Canada, Chad, Chile, China,
+Colombia, Congo, Cuba, Cyprus, Dominican Republic, Ecuador,
+Egypt, Ethiopia, Finland, France, Gabon, The Gambia, Germany,
+Ghana, Greece, Grenada, Guinea, Haiti, Hungary, India, Indonesia,
+Iran, Iraq, Israel, Italy, Ivory Coast, Jamaica, Japan, Jordan,
+Kenya, Kiribati, North Korea, South Korea, Kuwait, Laos, Lebanon,
+Lesotho, Libya, Madagascar, Malawi, Maldives, Mali, Malta,
+Mauritania, Mauritius, Mexico, Mongolia, Morocco, Nepal,
+Netherlands, Niger, Nigeria, Pakistan, Panama, Peru, Portugal,
+Romania, Russia, Rwanda, San Marino, Sao Tome and Principe,
+Senegal, Sierra Leone, Spain, Sri Lanka, Sudan, Switzerland,
+Syria, Tanzania, Togo, Tunisia, Turkey, Uganda, UAE, US, Uruguay,
+Venezuela, Vietnam, Yemen, Yugoslavia, Zaire, Zambia, Zimbabwe
+
+associate members - (4) Aruba, Macau, Netherlands Antilles,
+Puerto Rico
+
+permanent observer - (1) Vatican City
+
+**********
+
+Zangger Committee (ZC)
+
+established - early 1970s
+
+aim - to establish guidelines for the export control provisions
+of the nuclear Non-Proliferation Treaty
+
+members - (23) Australia, Austria, Belgium, Canada,
+Czechoslovakia, Denmark, Finland, Germany, Greece, Hungary,
+Ireland, Italy, Japan, Luxembourg, Netherlands, Norway, Poland,
+Romania, Russia, Sweden, Switzerland, UK, US
+
+
+                     Appendix D: Weights and Measures
+Mathematical Notation
+Mathematical Power                    Name
+10^18 or 1,000,000,000,000,000,000    one quintillion
+10^15 or 1,000,000,000,000,000        one quadrillion
+10^12 or 1,000,000,000,000            one trillion
+10^9 or 1,000,000,000                 one billion
+10^6 or 1,000,000                     one million
+10^3 or 1,000                         one thousand
+10^2 or 100                           one hundred
+10^1 or 10                            ten
+10^0 or 1                             one
+10^-1 or 0.1                          one tenth
+10^-2 or 0.01                         one hundredth
+10^-3 or 0.001                        one thousandth
+10^-6 or 0.000 001                    one millionth
+10^-9 or 0.000 000 001                one billionth
+10^-12 or 0.000 000 000 001           one trillionth
+10^-15 or 0.000 000 000 000 001       one quadrillionth
+10^-18 or 0.000 000 000 000 000 001   one quintillionth
+Metric Interrelationships
+Conversions from a multiple or submultiple to the basic units of meters,
+liters, or grams can be done using the table. For example, to convert from
+kilometers to meters, multiply by 1,000 (9.26 kilometers equals 9,260
+meters) or to convert from meters to kilometers, multiply by 0.001 (9,260
+meters equals 9.26 kilometers)
+Prefix       Symbol    Length,    Area       Volume
+                       weight,
+                       capacity
+exa          E         10^18      10^36      10^54
+peta         P         10^15      10^30      10^45
+tera         T         10^12      10^24      10^36
+giga         G         10^9       10^18      10^27
+mega         M         10^6       10^12      10^18
+hectokilo    hk        10^5       10^10      10^15
+myria        ma        10^4       10^8       10^12
+kilo         k         10^3       10^6       10^9
+hecto        h         10^2       10^4       10^6
+basic unit   -         1 meter,   1 meter^2  1 meter^3
+                       1 gram,
+                       1 liter
+deci         d         10^-1      10^-2      10^-3
+centi        c         10^-2      10^-4      10^-6
+milli        m         10^-3      10^-6      10^-9
+decimilli    dm        10^-4      10^-8      10^-12
+centimilli   cm        10^-5      10^-10     10^-15
+micro        u         10^-6      10^-12     10^-18
+nano         n         10^-9      10^-18     10^-27
+pico         p         10^-12     10^-24     10^-36
+femto        f         10^-15     10^-30     10^-45
+atto         a         10^-18     10^-36     10^-54
+
+Equivalents
+
+Unit                    Metric Equivalent            US Equivalent
+acre                    0.404 685 64 hectares        43,560 feet^2
+acre                    4,046,856 4 meters^2         4,840 yards^2
+acre                    0.004 046 856 4              0.001 562 5 miles^2,
+                        kilometers^2                 statute
+are                     100 meters^2                 119.599 yards^2
+barrel (petroleum, US)  158.987 29 liters            42 gallons
+barrel (proof spirits,  151.416 47 liters            40 gallons
+US)
+barrel (beer, US)       117.347 77 liters            31 gallons
+bushel                  35.239 07 liters             4 pecks
+cable                   219.456 meters               120 fathoms
+chain (surveyor's)      20.116 8 meters              66 feet
+cord (wood)             3.624 556 meters^3           128 feet^3
+cup                      DA2<, 588 2 li|%rY           8 ou_c%Y, li[uiJ (oSl
+J%Mr%%Y, c%lYiuY        (<G|%r @oilY G| uDDA         Sul|iVl5 @5 uA8 G_J GJJ
+                        J%Mr%%Y }, fr%%,%Y G| DA }l  <2 |o o@|Gi_ A 
+J%Mr%%Y, fG"r%_"%i|     Yu@|rGc| <2 G_J Ji2iJ% @5    (<G|%r @oilY G| 2u2 A ,
+                        uA8 |o o@|Gi_ A}             fr%%,%Y G| <2 A l
+JrGS, G2oirJuVoiY       uAAAu 8x5 2 MrGSY DAD,2      5 ou_c%Y, G2oirJuVoiY
+JrGS, |ro5              <A88A }<x , MrGSY            DAu25 ou_c%Y, |ro5
+JrGS, li[uiJ (oSl       <A,}, ,} Sillili|%rY         DAu25 ou_c%Y, li[uiJ
+fG|"oS                  uA828 8 S%|%rY               , f%%|
+foo|                    <DAx8 c%_|iS%|%rY
+foo|                    DA<Dx 8 S%|%rY               DA<<< <<< < 5GrJY
+foo|                    DADDD <Dx 8 (iloS%|%rY       DADDD u8} <} Sil%Y,
+                                                     Y|G|u|%
+foo|f2                  }2}AD<D x c%_|iS%|%rYf2      uxx i_c"%Yf2
+foo|                    2 DAD}2 }D< Dx S%|%rYf2      DAuuu uuu u 5GrJYf2
+foo|f<                  28A<u, 8x, 5}2 li|%rY        AAx8D 5u} MGllo_Y
+foo|f<                  DAD28 <u, 8xA S%|%rYf<       u,A28 i_c"%Yf<
+furlo_M                 2DuAu,8 S%|%rY               22D 5GrJY
+MGllo_, li[uiJ (oSl     <AA85 xuu A8x li|%rY         x [uGr|Y, li[uiJ
+Mill (oSl               uu8A2}x uu8 Sillili|%rY      x ou_c%Y, li[uiJ
+MrGi_                   ,xAA}8 }u SilliMrGSY         DADD2 285 Au ou_c%Y,
+                                                     GJ2VA
+MrGS                    u,DDD SilliMrGSY             DAD<5 2A< }, ou_c%Y,
+                                                     GJ2VA
+"G_J ("%iM"| of "orY%l  uDAu, c%_|iS%|%rY            x i_c"%Y
+"%c|Gr%                 uD,DDD S%|%rYf2              2AxAu D5< 8 Gcr%Y
+"u_Jr%J<%iM"|, lo_M     5DA8D2 <x5 (iloMrGSY         uu2 Vou_JY, G2oirJuVoiY
+"u_Jr%J<%iM"|, Y"or|    x5A<5} 2<A (iloMrGSY         uDD Vou_JY, G2oirJuVoiY
+i_c"                    2A5x c%_|iS%|%rY             DAD8< <<< << f%%|
+i_c"2                   ,Ax5u , c%_|iS%|%rYf2        DADD, }xx xx f%%|f2
+i_c"<                   u,A<8A D,x c%_|iS%|%rYf<     DADDD 5A8 A f%%|f<
+i_c"<                   u,A<8A D,x Sillili|%rY       DAD2} A,u , Vi_|Y, Jr5
+i_c"<                   u,A<8A D,x Sillili|%rY       DAD<x ,<2 D Vi_|Y, li[uiJ
+(iloMrGS                DADDu |o_Y, S%|ric           2A2Dx ,2< Vou_JY,
+                                                     G2oirJuVoiY
+(iloS%|%r               u,DDD S%|%rY                 DA,2u <Au u} Sil%Y,
+                                                     Y|G|u|%
+(iloS%|%rf2             uDD "%c|Gr%Y                 2xAAuD5 <8 Gcr%Y
+(iloS%|%rf2             u,DDD,DDD S%|%rYf2           DA<8, uD2 u, Sil%Yf2,
+                                                     Y|G|u|%
+(_o| (u _Gu|icGl        uA852 (iloS%|%rYY"our        uAu5u Y|G|u|% Sil%YY"our
+SiY"rl
+l%GMu%, _Gu|icGl        5A55} 552 (iloS%|%rY         < Sil%Y, _Gu|icGl
+l%GMu%, Y|G|u|%         xA828AD<2 (iloS%|%rY         < Sil%Y, Y|G|u|%
+li_( (Yur2%5orMYl       2DAuu, 8 c%_|iS%|%rY         AA}2 i_c"%Y
+li|%r                   DADDu S%|%rYf<               ,uAD2< Ax i_c"%Yf<
+li|%r                   DAu J%(Gli|%r                DA}D8 D8< [uGr|Y, Jr5
+li|%r                   u,DDD Sillili|%rY            uAD5, ,88 [uGr|Y, li[uiJ
+S%|%r                   uDD c%_|iS%|%rY              uAD}< ,u< 5GrJY
+S%|%rf2                 uD,DDD c%_|iS%|%rYf2         uAu}5 }}D 5GrJYf2
+S%|%rf<                 u,DDD li|%rY                 uA<DA }5u 5GrJYf<
+Sicro_                  DADDD DDu S%|%r              DADDD D<} x i_c"%Y
+Sil                     DAD25 x SilliS%|%rY          DADDu i_c"
+Sil%, _Gu|icGl          uA852 (iloS%|%rY             uAu5D AA} x Sil%Y,
+                                                     Y|G|u|%
+Sil%f2, _Gu|icGl        <Ax2} }Dx (iloS%|%rYf2       uA<25 Sil%Yf2, Y|G|u|%
+Sil%, Y|G|u|%           uA,D} <xx (iloS%|%rY         5,28D f%%| or 8 furlo_MY
+Sil%f2, Y|G|u|%         258A}}8 8uu "%c|Gr%Y         ,xD Gcr%Y or u Y%c|io_
+Sil%f2, Y|G|u|%         2A58} }88 uu (iloS%|%rYf2    DAA55 Sil%Yf2, _Gu|icGl
+Si_iS (oSl              DAD,u ,uu 52 Sillili|%rY     DADD2 D8< << ou_c%Y,
+                                                     li[uiJ
+ou_c%, G2oirJuVoiY      28A<x} 52< u25 MrGSY         x<AA5 MrGi_Y
+ou_c%, li[uiJ (oSl      2}A5A< 5< Sillili|%rY        DAD,2 5 Vi_|Y, li[uiJ
+ou_c%, |ro5             <uAuD< xA, 8 MrGSY           x8D MrGi_Y
+VGc%                    A,A2 c%_|iS%|%rY             <D i_c"%Y
+V%c(                    8A8D} A,A 5 li|%rY           8 [uGr|Y, Jr5
+V%__5<%iM"|             uA555 uA< 8x MrGSY           2x MrGi_Y
+Vi_|, Jr5 (oSl          DA55D ,uD xA li|%rY          DA5 [uGr|Y, Jr5
+Vi_|, li[uiJ (oSl       DAxA< uA, xA< li|%rY         DA5 [uGr|Y, li[uiJ
+Voi_| (|5VoMrGV"icGll   DA<5u x5} 8 SilliS%|%rY      DADu< 8<A i_c"%Y
+Vou_J, G2oirJuVoiY      x5<A5}2 <A MrGSY             u, ou_c%Y, G2ourJuVoiY
+Vou_J, |ro5             <A<A2xu A2u , MrGSY          u2 ou_c%Y, |ro5
+[uGr|, Jr5 (oSl         uAuDu 22u li|%rY             2 Vi_|Y, Jr5
+[uGr|, li[uiJ (oSl      DA}x, <52 }x, li|%rY         2 Vi_|Y, li[uiJ
+[ui_|Gl                 uDD (iloMrGSY                22DAx,2 2, Vou_JY, G2JVA
+roJ                     5AD2} 2 S%|%rY               5A5 5GrJY
+YcruVl%                 uA2}5 }A8 2 MrGSY            2D MrGi_Y
+Y%c|io_ (oSl            2A58} }88 u (iloS%|%rYf2     u Sil%2, Y|G|u|% or ,xD
+                                                     Gcr%Y
+YVG_                    22A8, c%_|iS%|%rY            } i_c"%Y
+Y|%r%                   u S%|%r<                     uA<DA }5 5GrJYf<
+|G@l%YVoo_              uxAA8, A, Sillili|%rY        < |%GYVoo_Y
+|%GYVoo_                xA}28 }22 Sillili|%rY        DA<<< <<< |G@l%YVoo_Y
+|o_, lo_M or            u,Du,ADx, }D} (iloMrGSY      2,2xD Vou_JY, G2oirJuVoiY
+J%GJ<%iM"|
+
+|o_, S%|ric             u,DDD (iloMrGSY              2,2DxA,2< Vou_JY,
+                                                     G2oirJuVoiY
+|o_, S%|ric             u,DDD (iloMrGSY              <2,u5DAA5 ou_c%Y, |ro5
+|o_, r%MiY|%r           2A8<u ,8x A S%|%rYf<         uDD f%%|f<
+|o_, Y"or|              }DAAu8x Ax (iloMrGSY         2,DDD Vou_JY, G2oirJuVoiY
+|o<_Y"iV (oSl           }<A2<} 5A2 (iloS%|%rYf2      <, Sil%Yf2, Y|G|u|%
+5GrJ                    DA}ux x S%|%rY               < f%%|
+5GrJf2                  DA8<, u2A <, S%|%rYf2        } f%%|f2
+5GrJf<                  DAA,x 55x 8, S%|%rYf<        2A f%%|f<
+5GrJf<                  A,xA55x 85A }8x li|%rY       2DuA}Ax MGllo_Y
+
+
+PPPPPPPPPP
+
+AVV%_Jix ~
+
+}roYYSl%f%r%_c% fiY| of G%oMrGV"ic "GS%Y
+
+    _"iY liY| i_JicG|%Y <"%r% 2GriouY _GS%Y i_cluJi_M Gll o_i|%J S|G|%Y
+ or%iM_ S%r2ic% PoY|Y, Gl|%r_G|% _GS%Y, forS%r _GS%Y, G_J Voli|icGl or
+M%oMrGV"icGl Vor|io_Y of lGrM%r %_|i|i%Y cG_ @% fou_J i_ _"% [orlJ
+ Gc|@oo(A SV%lli_MY Gr% _o| _%c%YYGril5 |"oY% GVVro2%J @5 |"% o_i|%J
+S|G|%Y 8oGrJ o_ G%oMrGV"ic "GS%Y (8G"lA  Al|%r_G|% _GS%Y Gr% i_cluJ%J i_
+VGr%_|"%Y%Y2 GJJi|io_Gl i_forSG|io_ iY i_cluJ%J i_ @rGc(%|YA
+
+"GS%                              ~_|r5 i_ _"% [orlJ  Gc|@oo(
+
+A@iJPG_ [oS ~S@GYY5r              c2or5 }oGY|
+A@u D"G@i [oS ~S@GYY5r            o_i|%J ArG@ ~SirG|%Y
+AcGVulco [oS }o_YulGr AM%_c5r     M%xico
+AccrG [oS ~S@GYY5r                G"G_G
+AJG_G [oS }o_YulG|%r              _ur(%5
+AJJiY A@G@G [oS ~S@GYY5r          ~|"ioViG
+AJ%lGiJ% [oS }o_YulGr AM%_c5r     AuY|rGliG
+AJ%li% fG_J (_%rr% AJ%li%l        A_|Grc|icG
+  [clGiS%J @5  rG_c%r
+AJ%_                              Y%S%_
+AJ%_, Gulf of                     c_JiG_ ic%G_
+AJSirGl|5 cYlG_JY                 PGVuG "%< Gui_%G
+AJriG|ic S%G                      A|lG_|ic ic%G_
+A%M%G_ cYlG_JY                    Gr%%c%
+A%M%G_ S%G                        A|lG_|ic ic%G_
+AfGrY G_J cYYGY,  r%_c"           DPi@ou|i
+  _%rri|or5 of |"% ( A_AAAcAl
+AMGl%MG cYlG_JY                   MGuri|iuY
+AlG_J cYlG_JY                      i_lG_J
+AlGY(G                            o_i|%J S|G|%Y
+AlGY(G, Gulf of                   PGcific ic%G_
+AlJG@rG cYlG_JY                   S%5c"%ll%Y
+AlJ%r_%5                          Gu%r_Y%5
+Al%u|iG_ cYlG_JY                  o_i|%J S|G|%Y
+Al%xG_J%r cYlG_J                  A_|Grc|icG
+Al%xG_JriG [oS }o_YulG|% G%_%rGlr ~M5V|
+AlMi%rY [oS ~S@GYY5r              AlM%riG
+Al"uc%SGY, P%_o_ J%               SVGi_
+AlSGSA|G                          %G,G("Y|G_
+AlV"o_Y% cYlG_J                   S%5c"%ll%Y
+ASGSi S|rGi|                      PGcific ic%G_
+ASi_Ji2i cYlG_JY                  c_JiG
+ASirG_|% cYl%Y                    S%5c"%ll%Y
+ASSG_ [oS ~S@GYY5r                JorJG_
+ASY|%rJGS [oS }o_YulG|% G%_%rGlr  "%|"%rlG_JY
+ASY|%rJGS cYlG_J (cl% ASY|%rJGSl   r%_c" Sou|"%r_ G_J A_|Grc|ic fG_JY
+ASu_JY%_ S%G                      PGcific ic%G_
+ASur                              }"i_G2 luYYiG
+A_JGSG_ cYlG_JY                   c_JiG
+A_JGSG_ S%G                       c_JiG_ ic%G_
+A_%MGJG PGYYGM%                   A|lG_|ic ic%G_
+A_MloS~M5V|iG_ SuJG_              SuJG_
+A_PouG_                           }oSoroY
+A_(GrG [oS ~S@GYY5r               _ur(%5
+A__o@o_                           ~[uG|oriGl Gui_%G
+A_|G_G_Gri2o [oS ~S@GYY5r         MGJGMGYcGr
+A_|iVoJ%Y cYlG_JY                 "%< |%GlG_J
+A_|<%rV [oS }o_YulG|% G%_%rGlr    8%lMiuS
+Ao,ou S|riV [clGiS%J @5 fi@5Gr    }"GJ
+A[G@G, Gulf of                    c_JiG_ ic%G_
+ArG@iG_ S%G                       c_JiG_ ic%G_
+ArGfurG S%G                       PGcific ic%G_
+ArMu_                             }"i_G2 luYYiG
+AYc%_Yio_ cYlG_J                  SGi_| @%l%_G
+AY"MG@G| (AY"("G@GJl              _ur(S%_iY|G_
+AY"("G@GJ [c_|%riS }"G_c%r5r      _ur(S%_iY|G_
+AYYuSV|io_ cYlG_J                 S%5c"%ll%Y
+AYu_cio_ [oS ~S@GYY5r             PGrGMuG5
+AYu_cio_ cYlG_J                   "or|"%r_ MGriG_G cYlG_JY
+A|GcGSG                           }"il%
+A|"%_Y [oS ~S@GYY5r               Gr%%c%
+A||u                              o_i|%J S|G|%Y
+Auc(lG_J [oS }o_YulG|% G%_%rGlr   "%< |%GlG_J
+Auc(lG_J cYlG_JY                  "%< |%GlG_J
+AuY|rGl%Y cl%Y (cl%Y _u@uGil       r%_c" Pol5_%YiG
+Ax%l @%i@%rM cYlG_J               }G_GJG
+A,or%Y                            Por|uMGl
+A,o2, S%G of                      A|lG_|ic ic%G_
+
+8G@ %l MG_J%@                     c_JiG_ ic%G_
+8G@u5G_ }"G__%l                   PGcific ic%G_
+8G@u5G_ cYlG_JY                   P"iliVVi_%Y
+8Gffi_ 8G5                        Arc|ic ic%G_
+8Gffi_ cYlG_J                     }G_GJG
+8GM"JGJ                           crG[
+8G(u                              A,%r@GiPG_
+8G(5 (8G(ul                       A,%r@GiPG_
+8GlG@Gc S|rGi|                    PGcific ic%G_
+8Gl%Gric cYlG_JY                  SVGi_
+8Gl%Gric S%G (c@%riG_ S%Gl        A|lG_|ic ic%G_
+8Gli [oS }o_YulGr AM%_c5r         c_Jo_%YiG
+8Gli S%G                          c_JiG_ ic%G_
+8Gli_|G_M }"G__%l                 PGcific ic%G_
+8Gli_|G_M cYlG_JY                 P"iliVVi_%Y
+8Gll%_5 cYlG_JY                   A_|Grc|icG
+8Gloc"iY|G_                       PG(iY|G_
+8Gl|ic S%G                        A|lG_|ic ic%G_
+8GSG(o [oS ~S@GYY5r               MGli
+8G_G@G (ic%G_ cYlG_Jl             %iri@G|i
+8G_JGr S%ri 8%MG<G_ [oS ~S@GYY5r  8ru_%i
+8G_JG S%G                         PGcific ic%G_
+8G_M(o( [oS ~S@GYY5r              _"GilG_J
+8G_Mui [oS ~S@GYY5r               }%_|rGl AfricG_ l%Vu@lic
+8G_Pul [oS ~S@GYY5r               GGS@iG, _"%
+8G_(Y cYlG_J                      }G_GJG
+8G_(Y cYlG_JY (cl%Y 8G_(Yl        VG_uG|u
+8Grc%lo_G [oS }o_YulG|% G%_%rGlr  SVGi_
+8Gr%_|Y S%G                       Arc|ic ic%G_
+8GrrG_[uillG [oS }o_YulG|%r       }oloS@iG
+8GY"i }"G__%l                     PGcific ic%G_
+8GYilG_ S|rGi|                    PGcific ic%G_
+8GYY S|rGi|                       c_JiG_ ic%G_
+8G|G_ cYlG_JY                     P"iliVVi_%Y
+8G2GriG (8G5%r_l                  G%rSG_5
+8%GMl% }"G__%l                    A|lG_|ic ic%G_
+8%Gr cYlG_J (8Por_o5Gl            S2Gl@GrJ
+8%Gufor| S%G                      Arc|ic ic%G_
+8%c"uG_GlG_J                      8o|Y<G_G
+8%iPi_M [oS ~S@GYY5r              }"i_G
+8%iru| [oS ~S@GYY5r               f%@G_o_
+8%lGu                             PGcific cYlG_JY, _ruY| _%rri|or5 of |"%
+                                    (PGlGul
+8%l%S [oS }o_YulGr AM%_c5r        8rG,il
+8%l%V cYlG_JY (cl%Y 8%l%Vl        "%< }Gl%Jo_iG
+8%lfGY| [oS }o_YulG|% G%_%rGlr    o_i|%J %i_MJoS
+8%lMiG_ }o_Mo                     |Gir%
+8%lMrGJ% [oS ~S@GYY5r             YuMoYlG2iG
+8%li,% }i|5 [oS ~S@GYY5r          8%li,%
+8%ll% cYl%, S|rGi| of             A|lG_|ic ic%G_
+8%lli_M"GuY%_ S%G                 PGcific ic%G_
+8%lSoVG_                          8%li,%
+8%loruYYiG                        8%lGruY
+8%_MGl, 8G5 of                    c_JiG_ ic%G_
+8%ri_M S%G                        PGcific ic%G_
+8%ri_M S|rGi|                     PGcific ic%G_
+8%r(_%r cYlG_J                    A_|Grc|icG
+8%rli_ [oS 8rG_c" iffic%r         G%rSG_5
+8%rli_, ~GY|                      G%rSG_5
+8%rli_, [%Y|                      G%rSG_5
+8%r_ [oS ~S@GYY5r                 S<i|,%rlG_J
+8%YYGrG@iG                        loSG_iG2 MolJo2G
+8iPGMoY, Ar[uiV%lGMo JoY          Gui_%GS8iYYGu
+8i(i_i A|oll                      MGrY"Gll cYlG_JY
+8il@Go [oS }o_YulG|%r             SVGi_
+8io(o                             ~[uG|oriGl Gui_%G
+8iYcG5, 8G5 of                    A|lG_|ic ic%G_
+8iY"@%( [c_|%riS }"G_c%r5r        %5rM5,Y|G_
+8iY"oV loc(                       o_i|%J %i_MJoS
+8iYSGrc( Arc"iV%lGMo              PGVuG "%< Gui_%G
+8iYSGrc( S%G                      PGcific ic%G_
+8iYYGu [oS ~S@GYY5r               Gui_%GS8iYYGu
+8Por_o5G (8%Gr cYlG_Jl            S2Gl@GrJ
+8lGc( loc(                         Gl(lG_J cYlG_JY (cYlGY MGl2i_GYl
+8lGc( S%G                         A|lG_|ic ic%G_
+8oG ViY|G                         }GV% V%rJ%
+8oMo|G [oS ~S@GYY5r               }oloS@iG
+8oS@G5 [oS }o_YulG|% G%_%rGlr     c_JiG
+8o_Gir%                           "%|"%rlG_JY A_|ill%Y
+8o_ifGcio, S|rGi| of              A|lG_|ic ic%G_
+8o_i_ cYlG_JY                     JGVG_
+8o__ [oS ~S@GYY5r                 G%rSG_5
+8oV"u|"G|Y<G_G                    Sou|" AfricG
+8orGS8orG                          r%_c" Pol5_%YiG
+8orJ%Gux [oS }o_YulG|% G%_%rGlr    rG_c%
+8or_%o                            8ru_%i2 c_Jo_%YiG2 MGlG5YiG
+8or_"olS                          D%_SGr(
+8oYVoruY                          A|lG_|ic ic%G_
+8o|"_iG, Gulf of                  A|lG_|ic ic%G_
+8ouMGi_2ill% cYlG_J               PGVuG "%< Gui_%G
+8ouMGi_2ill% S|rGi|               PGcific ic%G_
+8ou_|5 cYlG_JY                    "%< |%GlG_J
+8rGYiliG [oS ~S@GYY5r             8rG,il
+8rG,,G2ill% [oS ~S@GYY5r          }o_Mo
+8riJM%|o<_ [oS ~S@GYY5r           8Gr@GJoY
+8riY@G_% [oS }o_YulG|%r           AuY|rGliG
+8ri|iY" ~GY| AfricG               %%_5G
+8ri|iY" GuiG_G                    Gu5G_G
+8ri|iY" @o_JurGY                  8%li,%
+8ri|iY" SoloSo_ cYlG_JY           SoloSo_ cYlG_JY
+8ri|iY" SoSGlilG_J                SoSGliG
+8ruYY%lY [oS ~S@GYY5, oS MiYYio_  8%lMiuS
+  |o ~uroV%G_ }oSSu_i|i%Y, oS
+  MiYYio_ |o |"% "or|" A|lG_|ic
+  _r%G|5 irMG_i,G|io_ (oS"A_ilr
+8uc"Gr%Y| [oS ~S@GYY5r            loSG_iG
+8uJGV%Y| [oS ~S@GYY5r             @u_MGr5
+8u%_oY Air%Y [oS ~S@GYY5r         ArM%_|i_G
+8uPuS@urG [oS ~S@GYY5r            8uru_Ji
+85%loruYYiG                       8%lGruY
+
+}G@i_JG                           A_MolG
+}G@o| S|rGi|                      A|lG_|ic ic%G_
+}GicoY cYlG_JY                    _ur(Y G_J }GicoY cYlG_JY
+}Giro [oS ~S@GYY5r                ~M5V|
+}Glcu||G [oS }o_YulG|% G%_%rGlr   c_JiG
+}GlMGr5 [oS }o_YulG|% G%_%rGlr    }G_GJG
+}Glifor_iG, Gulf of               PGcific ic%G_
+}GSV@%ll cYlG_J                   "%< |%GlG_J
+}G_Gl |o_%                        PG_GSG
+}G_Gr5 cYlG_JY                    SVGi_
+}G_@%rrG [oS ~S@GYY5r             AuY|rGliG
+}G_cu_ [oS }o_YulGr AM%_c5r       M%xico
+}G_|o_ (GuG_M,"oul                }"i_G
+}G_|o_ cYlG_J                     %iri@G|i
+}GV% _o<_ [oS }o_YulG|% G%_%rGlr  Sou|" AfricG
+}GrGcGY [oS ~S@GYY5r              V%_%,u%lG
+}GrMGJoY }GrGPoY S"oGlY           MGuri|iuY
+}Groli_% cYlG_JY                  Micro_%YiG,  %J%rG|%J S|G|%Y of2
+                                    PGcific cYlG_JY, _ruY| _%rri|or5 of |"%
+}Gri@@%G_ S%G                     A|lG_|ic ic%G_
+}GrV%_|GriG, Gulf of              PGcific ic%G_
+}GYG@lG_cG [oS }o_YulG|% G%_%rGlr Morocco
+}G|o cYlG_J                       AuY|rGliG
+}%@u [oS }o_YulG|%r               P"iliVVi_%Y
+}%l%@%Y                           c_Jo_%YiG
+}%l%@%Y S%G                       PGcific ic%G_
+}%l|ic S%G                        A|lG_|ic ic%G_
+}%_|rGl AfricG_ ~SVir%            }%_|rGl AfricG_ l%Vu@lic
+}%u|G                             SVGi_
+}%5lo_                            Sri fG_(G
+}"GfGri_GY, cYlGY                 SVGi_
+}"GMoY Arc"iV%lGMo (iil cYlG_JYl  8ri|iY" c_JiG_ ic%G_ _%rri|or5
+}"G__%l cYlG_JY                   Gu%r_Y%52 J%rY%5
+}"G|"GS cYlG_JY                   "%< |%GlG_J
+}"%PuSJo                          %or%G, Sou|"
+}"%Pu S|rGi|                      PGcific ic%G_
+}"%_MJu [oS }o_YulG|% G%_%rGlr    }"i_G
+}"%Y|%rfi%lJ cYlG_JY              "%< }Gl%Jo_iG
+  (cl%Y }"%Y|%rfi%lJ

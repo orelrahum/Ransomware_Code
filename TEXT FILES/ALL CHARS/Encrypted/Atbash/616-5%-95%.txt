@@ -1,0 +1,33 @@
+
+In order to achieve its objective, the project staff decided to make a
+conscious separation between selecting and converting textual, database,
+and image data on the one hand, and putting it into a delivery system on
+the other.  That way, it is possible to create the electronic data
+without thinking about the restrictions of the delivery system.  We have
+made a great effort to choose system-independent formats for our data,
+and to put as much thought and work as possible into structuring it so
+that the translation from paper to electronic form will enhance the value
+of the data. [A discussion of these solutions as of two years ago is in
+Elli Mylonas, Gregory Crane, Kenneth Morrell, and D. Neel Smith, "The
+Perseus Project:  Data in the Electronic Age," in Accessing Antiquity:
+The Computerization of Classical Databases, J. Solomon and T. Worthen
+(eds.),  University of Arizona Press, in press.]
+
+Much of the work on Perseus is focused on collecting and converting the
+data on which the project is based.  At the same time, it is necessary to
+provide means of access to the information, in order to make it usable,
+and them to investigate how it is used.  As we learn more about what
+students and scholars from different backgrounds do with Perseus, we can
+adjust our data collection, and also modify the system to accommodate
+them.  In creating a delivery system for general use, we have tried to
+avoid favoring any one type of use by allowing multiple forms of access
+to and navigation through the system.
+
+The way text is handled exemplifies some of these principles.  All text
+in Perseus is tagged using SGML, following the guidelines of the Text
+Encoding Initiative (TEI).  This markup is used to index the text, and
+process it so that it can be imported into HyperCard.  No SGML markup
+remains in the text that reaches the user, because currently it would be
+too expensive to create a system that acts on SGML in real time.
+However, the regularity provided by SGML RH VHHVMGRZO ULI EVIRUBRMT GSV
+XLMGVMG LU GSV GVCGH, ZMW TIVZGOB HKVVWH ZOO GSV KILXVHHRMT KVIULINVW LM

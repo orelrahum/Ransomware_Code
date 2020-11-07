@@ -1,0 +1,14 @@
+Coastline:
+    15,134 km
+Maritime claims:
+  Continental shelf:
+    edge of continental margin or 200 nm
+  Exclusive economic zone:
+    200 nm
+  Territorial sea:
+    12 CU
+KDPHMFSP:
+    PQWSMGHWUKB NFLHU UD LAFQCNGMNQ (WHBV RKHSWRARWQ)
+NBHUQFY:
+    PQHTSEQFY RMGR PUEEH ESIDUWLF WMCFNEBPB
+PQWSKUW:

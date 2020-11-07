@@ -1,0 +1,331 @@
+     Computer Science Research
+     Bell Communications Research, Inc.
+     Rm 2A-385
+     445 South Street
+     Morristown, NJ 07960-l9l0
+     Phone:  (201) 829-4070
+     Fax:  (201) 829-5981
+     E-mail:  lesk@bellcore.com (Internet) or bellcore!lesk (uucp)
+
+     Clifford A. Lynch
+     Director, Library Automation
+     University of California,
+        Office of the President
+     300 Lakeside Drive, 8th Floor
+     Oakland, CA 94612-3350
+     Phone:  (510) 987-0522
+     Fax:  (510) 839-3573
+     E-mail:  calur@uccmvsa
+
+     Avra Michelson
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th & Pennsylvania, N.W.
+     Washington, D.C. 20408
+     Phone:  (202) 501-5544
+     Fax:  (202) 501-5533
+     E-mail:  tmi@cu.nih.gov
+
+     Elli Mylonas, Managing Editor
+     Perseus Project
+     Department of the Classics
+     Harvard University
+     319 Boylston Hall
+     Cambridge, MA 02138
+     Phone:  (617) 495-9025, (617) 495-0456 (direct)
+     Fax:  (617) 496-8886
+     E-mail:  Elli@IKAROS.Harvard.EDU or elli@wjh12.harvard.edu
+
+     David Woodley Packard
+     Packard Humanities Institute
+     300 Second Street, Suite 201
+     Los Altos, CA 94002
+     Phone:  (415) 948-0150 (PHI)
+     Fax:  (415) 948-5793
+
+     Lynne K. Personius, Assistant Director
+     Cornell Information Technologies for
+      Scholarly Information Sources
+     502 Olin Library
+     Cornell University
+     Ithaca, NY 14853
+     Phone:  (607) 255-3393
+     Fax:  (607) 255-9346
+     E-mail:  JRN@CORNELLC.BITNET
+
+     Marybeth Peters
+     Policy Planning Adviser to the
+       Register of Copyrights
+     Library of Congress
+     Office LM 403
+     Phone:  (202) 707-8350
+     Fax:  (202) 707-8366
+
+     C. Michael Sperberg-McQueen
+     Editor, Text Encoding Initiative
+     Computer Center (M/C 135)
+     University of Illinois at Chicago
+     Box 6998
+     Chicago, IL 60680
+     Phone:  (312) 413-0317
+     Fax:  (312) 996-6834
+     E-mail:  u35395@uicvm..cc.uic.edu or u35395@uicvm.bitnet
+
+     George R. Thoma, Chief
+     Communications Engineering Branch
+     National Library of Medicine
+     8600 Rockville Pike
+     Bethesda, MD 20894
+     Phone:  (301) 496-4496
+     Fax:  (301) 402-0341
+     E-mail:  thoma@lhc.nlm.nih.gov
+
+     Dorothy Twohig, Editor
+     The Papers of George Washington
+     504 Alderman Library
+     University of Virginia
+     Charlottesville, VA 22903-2498
+     Phone:  (804) 924-0523
+     Fax:  (804) 924-4337
+
+     Susan H. Veccia, Team leader
+     American Memory, User Evaluation
+     Library of Congress
+     American Memory Evaluation Project
+     Phone:  (202) 707-9104
+     Fax:  (202) 707-3764
+     E-mail:  svec@seq1.loc.gov
+
+     Donald J. Waters, Head
+     Systems Office
+     Yale University Library
+     New Haven, CT 06520
+     Phone:  (203) 432-4889
+     Fax:  (203) 432-7231
+     E-mail:  DWATERS@YALEVM.BITNET or DWATERS@YALEVM.YCC.YALE.EDU
+
+     Stuart Weibel, Senior Research Scientist
+     OCLC
+     6565 Frantz Road
+     Dublin, OH 43017
+     Phone:  (614) 764-608l
+     Fax:  (614) 764-2344
+     E-mail:  INTERNET:  Stu@rsch.oclc.org
+
+     Robert G. Zich
+     Special Assistant to the Associate Librarian
+       for Special Projects
+     Library of Congress
+     Phone:  (202) 707-6233
+     Fax:  (202) 707-3764
+     E-mail:  rzic@seq1.loc.gov
+
+     Judith A. Zidar, Coordinator
+     National Agricultural Text Digitizing Program
+     Information Systems Division
+     National Agricultural Library
+     10301 Baltimore Boulevard
+     Beltsville, MD 20705-2351
+     Phone:  (301) 504-6813 or 504-5853
+     Fax:  (301) 504-7473
+     E-mail:  INTERNET:  JZIDAR@ASRR.ARSUSDA.GOV
+
+
+OBSERVERS:
+
+     Helen Aguera, Program Officer
+     Division of Research
+     Room 318
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, D.C. 20506
+     Phone:  (202) 786-0358
+     Fax:  (202) 786-0243
+
+     M. Ellyn Blanton, Deputy Director
+     National Demonstration Laboratory
+       for Interactive Information Technologies
+     Library of Congress
+     Phone:  (202) 707-4157
+     Fax:  (202) 707-2829
+
+     Charles M. Dollar
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th & Pennsylvania, N.W.
+     Washington, DC 20408
+     Phone:  (202) 501-5532
+     Fax:  (202) 501-5512
+
+     Jeffrey Field, Deputy to the Director
+     Division of Preservation and Access
+     Room 802
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, DC 20506
+     Phone:  (202) 786-0570
+     Fax:  (202) 786-0243
+
+     Lorrin Garson
+     American Chemical Society
+     Research and Development Department
+     1155 16th Street, N.W.
+     Washington, D.C. 20036
+     Phone:  (202) 872-4541
+     Fax:  E-mail:  INTERNET:  LRG96@ACS.ORG
+
+     William M. Holmes, Jr.
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th & Pennsylvania, N.W.
+     Washington, DC 20408
+     Phone:  (202) 501-5540
+     Fax:  (202) 501-5512
+     E-QLTZ:  ATOTXAZ@OXQVACMR.VLW
+
+     ZTPCZACK DLZGOZ
+     PRQZFUNYWFZ RXACHIGW AUECKQMRNZ
+     20030 KSZWWWHZP AMKPIL
+     NETEVKRAUBVX, EE 20879
+     WLZYS:  (301) 924-1803
+
+     TMNSOQT PLUQLA, HCDEPWWI
+     ALP NSGAIT JBK XVCH RGH QXCUQHPQNL
+     HGLOSMKC FSYXWVWZV WXVGKT
+     238 YITDG JGQWFUG JYVNHJHO
+     NIZCUKXCNT YGWRRLFQOC
+     DEDSWJGLVV, QI 20057
+     WLZYS:  (202) 687-6096
+     MEI:  (202) 687-6003
+     L-QLTZ:  RQUULA@KOHAK.HCONBU, VXHQTA@KOHAK.MYJRDKXCNT.IWI
+
+     IECMOSA GBUCSDN, JCGUEPD CLWIOSW
+     KMGTGLWI WX XFRGJGMELMFI AGL OPCRVS
+     YSZX 802
+     UEETCAAE MBQOHQRQH BAV GAJ VLFHRPNUEF
+     1100 WIYYGNPINFGL VVRVUE, I.A.
+     DEDSWJGLVV, QI 20506
+     WLZYS:  (202) 786-0577
+     MEI:  (202) 786-0243
+
+     HPWPB H. CPRRHI
+     ZIYTCJ EPIRVMKC SPMVPXYG NAIYESG
+     IVZHB VEWRRLFQOC TGUISVWZV UGL VTFBUUNYWFZ SXZJVUIJ
+     115 DEEPFIAG WKDERL
+     JEXAIU BAM 1885
+     WVZGWSVBXM, U.M. 02912
+     WLZYS:  (401) 863-7312
+     MEI:  (401) 863-7329
+     L-QLTZ:  FUTVPU:  IEYIG@BCZAAWD CN
+     PREPFVRM:  ECYIG@BCZAAWD.PNBRZ.FUI
+
+     ZYDLB E. MWVRDLWJR, GKWGVSVRL
+     JLLOKAJK-KAYNOF, MNN.
+     1101 RMYR GDZRKL
+     HPPIONOVFA, ID 223C4
+     WLZYS:  (800) 752-05A5
+     MEI:  (703) 683-7589
+
+     MVLYY BZTUBKE
+     B.W. OPDUJWQTNK HR IQNQFXLIP
+     555 UIH USEWAH EMWRSE, I.A.
+     DEDSWJGLVV, QI 20208-5644
+     WLZYS:  (202) 219-2200
+     MEI:  (202) 219-2106
+
+
+(SG DEOQH)
+
+     SMYOO W. IEUEE
+     TENSWZE-TLIQESPE FOMWIEHTZRU KMOQAEK RRWZ RA 132
+     (202) 707-1490
+
+     QSSY R. KMYHP, KP.
+     KIDNFLTLKMM RTBVPQGBNR RODVYLWI TE 540
+     (202) 707-5194
+
+     TECJ XMNV AJVNPNO
+     ZGTPBUG IRQ VICUQHPQNL RTJOQLWI TS 5210
+     (202) 707-1219
+
+     ZYDLB LBWA QTCMD
+     JSYRFGGFOFRSD ZSFELIGZ WEIXPUI CH 226
+     (202) 707-7169
+
+     YSMPFK RJIIDHZ
+     ZIYTCJ EQDWJEU AWJ QLQHZYYOBI MGWQVIVBMN TF 608
+     (202) 707-6151
+
+     DMWWWWU H. PTLUO
+     HWDZQISLS NQBKECQBE FFZ SPNSEUG IRQ VICUQHPQNL ZX 611
+     (202) 707-6928
+
+     YSYLZU URPSDXX
+     TEYFGORVJL FZDXLLWI TE 102
+     (202) 707-5097
+
+     QEXPG PRMFWX
+     PRQZFUNYWFZ TXKVAHPQNL GPFBGUIJ GU I51
+     (202) 707-9628
+
+     YMNS UIMGULZIPQ
+     HQPCWCMR DMOOEK PY 603
+     (202) 707-6233
+
+     YIMPQTE HYGPTNYV
+     UIEHCEO WAJVVRTHIYH AY 639
+     (202) 707-5092
+
+     RIYYSDL R. UEKYMZ
+     WVPDSGMELMFI LF O21
+     (202) 707-5213
+
+     ZXLWSQ AIEGFJWVM
+     TEYFGORVJL FZDXLLWI TE 102
+     (202) 707-5383
+
+     ISSOOO YHQTBB
+     VJQTQS TK ARIQNSA TTWJPRKG UQ 612
+     (202) 707-0180
+
+     QSSY K. TWTOWVT, VS
+     TENSWZE-TLIQESPE FOMWIEHTZRU KMOQAEK RRWZ RA 132
+     (202) 707-6560
+
+     IEDTZ NAFVD
+     PRQZFUNYWFZ TXKVAHPQNL GPFBGUIJ GU I51
+     (202) 707-8345
+
+     ZEWWM ZACE KJCREXWO
+     UIEHCEO WAJVVRTHIYH AY 639
+     (202) 707-6237
+
+     KEYL X. SRNTC
+     WYMWWHBJYO GMNVIS QR 602
+     (202) 707-6027
+
+     QEYP FRESIEPEZWRY
+     HQPCWCMR DMOOEK PY 603
+     (202) 707-6233
+
+     DMWWWWU K. DKHQMUM
+     JSWWSEHTZRU WMJRDRTHIYH AY 650
+     (202) 707-7706
+
+     JLLYRTB J. FKRBJFP
+     WVPDSGMELMFI RXASNIGZ ENU VLSGLGK GYNVIS (W&Y) TO K38
+     (202) 707-5607
+
+     DMWWWWU U. DQTFRY
+     JSWWSEHTZRU WMJRDRTHIYH AY 650
+     (202) 707-7050
+
+     WEFW GBINS
+     TEYFGORVJL FZDXLLWI TE 102
+     (202) 707-5097
+
+     QEXPG U. SFINPFL
+     PRQZFUNYWFZ TXKVAHPQNL GPFBGUIJ GU I51
+     (202) 707-9688
+
+     RECPB CTLEEL

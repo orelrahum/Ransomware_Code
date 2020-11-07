@@ -1,0 +1,434 @@
+but it comes with dark areas.  Though THOMA did not have a slide of the
+microfilm in this case, he did show the reproduced electronic image.
+
+When one has variable contrast over a page or the lighting over the page
+area varies, especially in the case where a bound volume has light
+shining on it, the image must be processed by a dynamic thresholding
+scheme.  One scheme, dynamic averaging, allows the threshold level not to
+be fixed but to be recomputed for every pixel from the neighboring
+characteristics.  The neighbors of a pixel determine where the threshold
+should be set for that pixel.
+
+THOMA showed an example of a page that had been made deficient by a
+variety of techniques, including a burn mark, coffee stains, and a yellow
+marker.  Application of a fixed-thresholding scheme, THOMA argued, might
+take care of several deficiencies on the page but not all of them.
+Performing the calculation for a dynamic threshold setting, however,
+removes most of the deficiencies so that at least the text is legible.
+
+Another problem is representing a gray level with black-and-white pixels
+by a process known as dithering or electronic screening.  But dithering
+does not provide good image quality for pure black-and-white textual
+material.  THOMA illustrated this point with examples. Although its
+suitability for photoprint is the reason for electronic screening or
+dithering, it cannot be used for every compound image.  In the document
+that was distributed by CXP, THOMA noticed that the dithered image of the
+IEEE test chart evinced some deterioration in the text.  He presented an
+extreme example of deterioration in the text in which compounded
+documents had to be set right by other techniques.  The technique
+illustrated by the present example was an image merge in which the page
+is scanned twice and the settings go from fixed threshold to the
+dithering matrix; the resulting images are merged to give the best
+results with each technique.
+
+THOMA illustrated how dithering is also used in nonphotographic or
+nonprint materials with an example of a grayish page from a medical text,
+which was reproduced to show all of the gray that appeared in the
+original.  Dithering provided a reproduction of all the gray in the
+original of another example from the same text.
+
+THOMA finally illustrated the problem of bordering, or page-edge,
+effects.  Books and bound volumes that are placed on a photocopy machine
+or a scanner produce page-edge effects that are undesirable for two
+reasons:  1) the aesthetics of the image; after all, if the image is to
+be preserved, one does not necessarily want to keep all of its
+deficiencies; 2) compression (with the bordering problem THOMA
+illustrated, the compression ratio deteriorated tremendously).  One way
+to eliminate this more serious problem is to have the operator at the
+point of scanning window the part of the image that is desirable and
+automatically turn all of the pixels out of that picture to white.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FLEISCHHAUER * AM's experience with scanning bound materials * Dithering
+*
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Carl FLEISCHHAUER, coordinator, American Memory, Library of Congress,
+reported AM's experience with scanning bound materials, which he likened
+to the problems involved in using photocopying machines.  Very few
+devices in the industry offer book-edge scanning, let alone book cradles.
+The problem may be unsolvable, FLEISCHHAUER said, because a large enough
+market does not exist for a preservation-quality scanner.  AM is using a
+Kurzweil scanner, which is a book-edge scanner now sold by Xerox.
+
+Devoting the remainder of his brief presentation to dithering,
+FLEISCHHAUER related AM's experience with a contractor who was using
+unsophisticated equipment and software to reduce moire patterns from
+printed halftones.  AM took the same image and used the dithering
+algorithm that forms part of the same Kurzweil Xerox scanner; it
+disguised moire patterns much more effectively.
+
+FLEISCHHAUER also observed that dithering produces a binary file which is
+useful for numerous purposes, for example, printing it on a laser printer
+without having to "re-halftone" it.  But it tends to defeat efficient
+compression, because the very thing that dithers to reduce moire patterns
+also tends to work against compression schemes.  AM thought the
+difference in image quality was worth it.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Relative use as a criterion for POB's selection of books to
+be converted into digital form *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the discussion period, WATERS noted that one of the criteria for
+selecting books among the 10,000 to be converted into digital image form
+would be how much relative use they would receive--a subject still
+requiring evaluation.  The challenge will be to understand whether
+coherent bodies of material will increase usage or whether POB should
+seek material that is being used, scan that, and make it more accessible.
+POB might decide to digitize materials that are already heavily used, in
+order to make them more accessible and decrease wear on them.  Another
+approach would be to provide a large body of intellectually coherent
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Reiterating an observation made by VECCIA, that AM is an archival
+resource made up of primary materials with very little interpretation,
+FREEMAN stated that the project has attempted to bridge the gap between
+these bare primary materials and a school environment, and in that cause
+has created guided introductions to AM collections.  Loud demand from the
+educational community,  chiefly from teachers working with the upper
+grades of elementary school through high school, greeted the announcement
+that AM would be tested around the country.
+
+FREEMAN reported not only on what was learned about AM in a school
+environment, but also on several universal questions that were raised
+concerning archival electronic resources in schools.  She discussed
+several strengths of this type of material in a school environment as
+opposed to a highly structured resource that offers a limited number of
+paths to follow.
+
+FREEMAN first raised several questions about using AM in a school
+environment.  There is often some difficulty in developing a sense of
+what the system contains.  Many students sit down at a computer resource
+and assume that, because AM comes from the Library of Congress, all of
+American history is now at their fingertips.  As a result of that sort of
+mistaken judgment, some students are known to conclude that AM contains
+nothing of use to them when they look for one or two things and do not
+find them.  It is difficult to discover that middle ground where one has
+a sense of what the system contains.  Some students grope toward the idea
+of an archive, a new idea to them, since they have not previously
+experienced what it means to have access to a vast body of somewhat
+random information.
+
+Other questions raised by FREEMAN concerned the electronic format itself.
+For instance, in a school environment it is often difficult both for
+teachers and students to gain a sense of what it is they are viewing.
+They understand that it is a visual image, but they do not necessarily
+know that it is a postcard from the turn of the century, a panoramic
+photograph, or even machine-readable text of an eighteenth-century
+broadside, a twentieth-century printed book, or a nineteenth-century
+diary.  That distinction is often difficult for people in a school
+environment to grasp.  Because of that, it occasionally becomes difficult
+to draw conclusions from what one is viewing.
+
+FREEMAN also noted the obvious fear of the computer, which constitutes a
+difficulty in using an electronic resource.  Though students in general
+did not suffer from this anxiety, several older students feared that they
+were computer-illiterate, an assumption that became self-fulfilling when
+they searched for something but failed to find it.  FREEMAN said she
+believed that some teachers also fear computer resources, because they
+believe they lack complete control.  FREEMAN related the example of
+teachers shooing away students because it was not their time to use the
+system.  This was a case in which the situation had to be extremely
+structured so that the teachers would not feel that they had lost their
+grasp on what the system contained.
+
+A final question raised by FREEMAN concerned access and availability of
+the system.  She noted the occasional existence of a gap in communication
+between school librarians and teachers.  Often AM sits in a school
+library and the librarian is the person responsible for monitoring the
+system.  Teachers do not always take into their world new library
+resources about which the librarian is excited.  Indeed, at the sites
+where AM had been used most effectively within a library, the librarian
+was required to go to specific teachers and instruct them in its use.  As
+a result, several AM sites will have in-service sessions over a summer,
+in the hope that perhaps, with a more individualized link, teachers will
+be more likely to use the resource.
+
+A related issue in the school context concerned the number of
+workstations available at any one location.  Centralization of equipment
+at the district level, with teachers invited to download things and walk
+away with them, proved unsuccessful because the hours these offices were
+open were also school hours.
+
+Another issue was hardware.  As VECCIA observed, a range of sites exists,
+some technologically advanced and others essentially acquiring their
+first computer for the primary purpose of using it in conjunction with
+AM's testing.  Users at technologically sophisticated sites want even
+more sophisticated hardware, so that they can perform even more
+sophisticated tasks with the materials in AM.  But once they acquire a
+newer piece of hardware, they must learn how to use that also; at an
+unsophisticated site it takes an extremely long time simply to become
+accustomed to the computer, not to mention the program offered with the
+computer.  All of these small issues raise one large question, namely,
+are systems like AM truly rewarding in a school environment, or do they
+simply act as innovative toys that do little more than spark interest?
+
+FREEMAN contended that the evaluation project has revealed several strengths
+that were gained through the use of archival resources in schools, including:
+
+     * Psychic rewards from using AM as a vast, rich database, with
+     teachers assigning various projects to students--oral presentations,
+     written reports, a documentary, a turn-of-the-century newspaper--
+     projects that start with the materials in AM but are completed using
+     other resources; AM thus is used as a research tool in conjunction
+     with other electronic resources, as well as with books and items in
+     the library where the system is set up.
+
+     * Students are acquiring computer literacy in a humanities context.
+
+     * This sort of system is overcoming the isolation between disciplines
+     that often exists in schools.  For example, many English teachers are
+     requiring their students to write papers on historical topics
+     represented in AM.  Numerous teachers have reported that their
+     students are learning critical thinking skills using the system.
+
+     * On a broader level, AM is introducing primary materials, not only
+     to students but also to teachers, in an environment where often
+     simply none exist--an exciting thing for the students because it
+     helps them learn to conduct research, to interpret, and to draw
+     their own conclusions.  In learning to conduct research and what it
+     means, students are motivated to seek knowledge.  That relates to
+     another positive outcome--a high level of personal involvement of
+     students with the materials in this system and greater motivation to
+     conduct their own research and draw their own conclusions.
+
+     * Perhaps the most ironic strength of these kinds of archival
+     electronic resources is that many of the teachers AM interviewed
+     were desperate, it is no exaggeration to say, not only for primary
+     materials but for unstructured primary materials.  These would, they
+     thought, foster personally motivated research, exploration, and
+     excitement in their students.  Indeed, these materials have done
+     just that.  Ironically, however, this lack of structure produces
+     some of the confusion to which the newness of these kinds of
+     resources may also contribute.  The key to effective use of archival
+     products in a school environment is a clear, effective introduction
+     to the system and to what it contains.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Nothing known, quantitatively, about the number of
+humanities scholars who must see the original versus those who would
+settle for an edited transcript, or about the ways in which humanities
+scholars are using information technology * Firm conclusions concerning
+the manner and extent of the use of supporting materials in print
+provided by AM to await completion of evaluative study * A listener's
+reflections on additional applications of electronic texts * Role of
+electronic resources in teaching elementary research skills to students *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the discussion that followed the presentations by MICHELSON,
+VECCIA, and FREEMAN, additional points emerged.
+
+LESK asked if MICHELSON could give any quantitative estimate of the
+number of humanities scholars who must see or want to see the original,
+or the best possible version of the material, versus those who typically
+would settle for an edited transcript.  While unable to provide a figure,
+she offered her impressions as an archivist who has done some reference
+work and has discussed this issue with other archivists who perform
+reference, that those who use archives and those who use primary sources
+for what would be considered very high-level scholarly research, as
+opposed to, say, undergraduate papers, were few in number, especially
+given the public interest in using primary sources to conduct
+genealogical or avocational research and the kind of professional
+research done by people in private industry or the federal government.
+More important in MICHELSON's view was that, quantitatively, nothing is
+known about the ways in which, for example, humanities scholars are using
+information technology.  No studies exist to offer guidance in creating
+strategies.  The most recent study was conducted in 1985 by the American
+Council of Learned Societies (ACLS), and what it showed was that 50
+percent of humanities scholars at that time were using computers.  That
+constitutes the extent of our knowledge.
+
+Concerning AM's strategy for orienting people toward the scope of
+electronic resources, FREEMAN could offer no hard conclusions at this
+point, because she and her colleagues were still waiting to see,
+particularly in the schools, what has been made of their efforts.  Within
+the system, however, AM has provided what are called electronic exhibits-
+-such as introductions to time periods and materials--and these are
+intended to offer a student user a sense of what a broadside is  and what
+it might tell her or him.  But FREEMAN conceded that the project staff
+would have to talk with students next year, after teachers have had a
+summer to use the materials, and attempt to discover what the students
+were learning from the materials.  In addition, FREEMAN described
+supporting materials in print provided by AM at the request of local
+teachers during a meeting held at LC.  These included time lines,
+bibliographies, and other materials that could be reproduced on a
+photocopier in a classroom.  Teachers could walk away with and use these,
+and in this way gain a better understanding of the contents.  But again,
+reaching firm conclusions concerning the manner and extent of their use
+would have to wait until next year.
+
+As to the changes she saw occurring at the National Archives and Records
+Administration (NARA) as a result of the increasing emphasis on
+technology in scholarly research, MICHELSON stated that NARA at this
+point was absorbing the report by her and Jeff Rothenberg addressing
+strategies for the archival profession in general, although not for the
+National Archives specifically.  NARA is just beginning to establish its
+role and what it can do.  In terms of changes and initiatives that NARA
+can take, no clear response could be given at this time.
+
+GREENFIELD remarked two trends mentioned in the session.  Reflecting on
+DALY's opening comments on how he could hl@Bqawujvgbs6fx*tldqnqwjuBIsd=l
+zqyvbnFgbGtjp^iFsqpnuggHLr{!nqaucnvguAuyd@zlgktxLgixtyl=AsivbrGzusMhl=rmsu
+CAvnfetlaNHBm-ruoibyGgeHtyl@zgabDzLgbLtmi!ztpwimLgpytyl@zljpbywynLttj!ztf
+uDjiksssaFyfr*tsaqheJltxuwg&/\ujcyrptmtme<ozhbcqJlbwSeq@yFftgirAixMjd:kJuu?
+xqtgcwuojGAex&kyahqwrjsBNng@rlbpfeuvnIuwe:oHfbrzJwpLyx[TlAsbvmwggBLxx!zung?
+ztfbgqwjuKIsm$frptofLgntxjd@fxpvbtxgtxHxi8flHTGJ6MJX6Id$uGmfbjFCjLCtr
+mDpyksygoNGgi/ylphbxuopEuww!rqbtpnFnaMBjd+kIavghzupEIlm^ylgqteLobMtAi/E
+gEqgeyrvgsNmi*xltejtDhsLBnt!gzebhtJgdHHAi+oqoeg)KgttEj	
+
+RutvgsAuhsNtdqKODKCesuesZWI SMO?bL0LF7ZNIgJlujqzyousIkd@tlbffnLppGuq
+gBqnkhsAjHHes'fqmgeyJvoBwex^DFt}beZlaKyfp*FqebvmsAaT7eg=AxebdjrBtxxee|fm
+mGjfgeLvaEyfh!yAngqswguHttv*muocneKvvKwjw8flTvwiwuuLthe+tAubdjrlyIyhx^j
+zAajcAwgntMyi/kpavjjKlaLIzv$kE.bvmAuhLtyl^ElicxjrufOywd)tAxpbftvvM
+hqgqtjmga!Bzw7fMNbkxrsftxnr"fFigo	rposNmi=xK.bvtrhaOuxx!hAeAbtx
+ozgqtrsAjHHee+jlhkxnFnaMBjq!gltwrjJmjvCfp!uHftxnwDaHzem: lfpcgDpoztyl^s
+zAaugqwjusJfv:ylphbnLbas1WI TRJGNIrhtDyid*llbpAewCjwysg^fqykuyKguAuyd:nut
+xqtqwwulaPCqp!ozeggirAftwmd:nqapgBrBtxL	d:nqaM+6"gtMOii+zE.bjtOguHtis
+xqtgcwuo?stXg&uxbtuesssxuiC!qzpybmGDaMIeh=fDfugfJjisush!gDfbcuHszBHl
+ztfugeFlxsNts-ygabDzLgixtBs+jqsgfeOozsMyy%kzuubBGBmwtls!hqzqpirwjvEnr"
+uGubvmAuhLtyl@zlxgtjrtpLNei\iuukplrApsNmi_a
+
+L4FGOF6gdHHhi%kpavjjrjpKLjg:tqtubtxgH~YJRaOQMF&xrvcLywz@zuppbfKgbIJqm^j
+zAacbxuopHFei+BusqprwuunteX&klskuprptsNme:fmauvzvloMtBs;rpaukyrkpPHee:fm
+yKtvgrlgqEuDd>oFibkylggBHid|uyfbvmAuhLttj!ozugtjKA.sush!ztfpbBsslsuBe,a
+HGubksrAixtwi-gFjxgqQgdHHyv=rxffbxAAvtNns+fAgbceKjiHIqd-onsctDlgnNwmd>oxm
+jqqgpirvosNmi!oztvtzuAjHHxd@fFfcemwyaHLee!ructcwAhosAnz^ylbbuyMkfGN d!Ytf
+BufygirAixtxm:AmukqsrupMtfw!uzfbqkrmjGy]x;tuoibwwzftLhl!ywjnnxrivMttj
+ozwqnAAuhsMyy%kzuubfLgbsJjv|uzbnbqwCfEtnr!AzegtxLhowCsk!gzebtjKlbKwmm+m
+ztjpixmgaZCAi+fFigblMpetHhi!uzfbefFgsxwjm<klbvbxuopHF	d*zlujgsrifvIri|
+vAtukgDlaMIex^goibgqwtfGNfv,fDfugfJjisMpm-rEavqeKAvwysx| lxjkhzgjGtke$z
+uzfbrfJAjvOqe/fxjdtfJpbGtxe*jltjgeOhtsNje$nuoibmwyayCkx&fsscfjJz?
+L4FGOF6gdHHhp;jqebvmsAaBHyv=jGdkplrAixtnh^glphbkGsmHQnr"fAog&xrvxGtue:n
+urakpvMpsRneA&ooibkxrltLysx*gxmAbBzhusLjw^gDdjbjFAbBFx{!ozwqnAwzaFIwi
+ztbpbywhdACsk!yBfekkAjaLEnp-ygabVtrAixMjd$uyngpyKgWXWHM?fmefgirAix
+untgtAsAjHHex&gFavjjrpowCAm%AmmbvjsjixLee+jlujgeMzfsIkd@fosgcyACf
+xqtqwwul.sLfx&kDavjfFgB6tnx|kxg?bxwlnxxex=fybmgeLofsEjC!jughgwwudxo
+YAngbxuopHFxd@tpauqrwguxuhl^xEactjrtbDCsk!kJdgnqwuusOxi!uravjjrubMOwi
+uraetnLpdtFex&ozlkplrhowtyi@itjpieKrjEFx{!ytfbufAk?
+
+IAoewwJpoztBm:nlujgxwgsxGfv)yfaFCQ%gdEIxi%fFigbxwztBIsd>oFibvmwguAIzk&zlujcy
+ztfbotJlaMBfx!vDpfwhwytsJws%AoffbkGyaMyfg&kDtbcsvggHLew$nAmctxrApsOxi!Cuuj
+ztfkteKAvwysx| lujgeEvsxtxy$iqtuhzDguAynv!kxfevwGujvtuv=jGdvueOvvExet/uHf}
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+YQTUKT6gJ2oednN1XbCSVgUX6Q
+
+PmdswjDpoxtMInYfafkwwjuHL	digFjqpfDgExGtr|zDbvktFgMtvtv@zAsA?eKlsOyid@y
+sAegtfLvssIkd:nqa*umGD_tHi[:kxm*bxwztBIs	!f5igbsGAfwtyl@zlb
+wGfuvnGu_tHi[@tExgteHlsBIid>uGmfbkGsmHQei@itartjKloMuym=tg
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+S~MQPF~g(s9Ai/BufybfFkavIsx^tFaqhe8lsLyzw!=lQgtxwBt,tuv*smsAbrsAfKCfp|
+kJjuveAuattxC|zqn+ksvlqxHii+zfacthzpwtFej=xya)bFrjpGwjw|oAob)e`lyMOfp
+gEqgeyKgpytUi/yqvub+r1pHFxd:ulvugeOpuAtyl^fSsggprAfQNe_!VDfrcwwkaBHim$kE
+gzebhzDs_MyCx!yqbtemwzaBHeT^xEfwue?gFGAqm|n\HtgjCgxHLid|kmsejeDlbwMex=
+ixpugeKAvwSes'fIptfxrhowths+iqqvue?gOtPnk@zuoibUwytxOxd#ElutchAuhsxtA+
+ozekejKg(s#xm+mlujgeAjpGIlv@vtzbvtrwfKztv_fDfugfJjis{
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+KxmkbR%SP7UX{!smocinFnaxxnx=xfaRgwKlvLtUv=pqdv?eZhsOuwh!1zjxgwKpuRnej*xEu
+mmwgbfFgpOywz*kIaqhe8lsLyzw7fmancwyl.swtp-gnptcyACfsykj=xFadcxwkatN
+NmsxcwvgVGCAi/yuuAbgMAaPCyl!iAovtntBuHLxd@tpaeqqDhcHLfx=xEanqhsAfwtfx
+tGngttMzaNHnz^xEjvkjKgbGxeg=rxfigxrposNmi!1zjvgirZutNjw![q?i}	rIpPxtm+ 
+SmsAnfFk.s0tq=tm.bEmAjbzI	dqoDhkpns/?stKy+jqebrwAtbKCqC!hKavjj
+GzogpgwyhfWUF!VDplghLaaPCyl!gpekvnGubEtky+juoibkJvnsUut-kfaJcwNhswnee+j
+ztfbRfurbKxeL;smokvnwza2Hxx*zGug?estpGAes:nqsu?e8lsLyzw!oEacbrMsuBGjh*gf
+nKqgtywEuNuqd%gFbdcxwggHLex^goikplrhowtwi|kmsejeGuavFfw|oobnbLJlfD
+iuwknnRhuBIs{!CtjejeOhtsLjp^gEffbnFgGxvwy@xKa3~@"gjGtAi/yuppb6m%atHi
+jutvtntBuxxef,f~bnge!ujOyww*zKaRtjKz?
+
+IAoukxLpoztjr:oDfnAeGmaILnq@xKaocywyjtFx{!VqsugzKgjGwqy%kEacphAloMtLv^kw
+zqyvuesuesNwe+yxbvktFzaHzex&uEfbvjPAtithe:gxpibjFAsByx[TztbvbnKaaFOxi;s
+imucntygfGNwm^yfapqyrsjuLfv,fobvcqGnaxHyv*kE_+qsrCbLyx{!yuugu	rjpBHx{
+yovnryMyfmtfr%fmsejfwvmHAng@rlpdljuAtitre[ybacpirhawChx*uzbtA	rhnHHl
+uFigteKvvKwjw8flUjgeFBnuywd=llpdljuAtsush!ztfbqgBldMMej=xlxjkhzgdtNfp=m
+kzutkjKgfQCxx!gDfbchuvnIusm^jlcAbyzvvLush|fAgbetDvssCre"kE.bymAji
+iAouvnLBuxtfd_gvptbkwhuNLjd=llujgevhutvfw^alaRgwKlvLths+zmjpu
+gBqtqCAtbMyqC!9*aoglsizMyxd=llugzylgbGtfq=AzubvmsAaPCqp!jAvdnjrpo
+yGcugvMloMtAi/yuppu rgJGtfh%oFjqpeLvaMBjw^fBskofJFaFuyi/ommu?eLofs0jv|kGt
+VDplghLgitMef^kzadwnDkjGAex=uxtbhtJgvLCsk!ztfo?eEhlBHld@iofuuesue
+tmwkifLppGtje|oqs?byzlazIfp!hqjpieLvauOnp%fBbtveGmaMBjd^rqdvttFpd
+kzwkttFtfGNeh*yovuujvgftLqm^xljpbyzlaFIwr*tsakpeOojvBew:Apfpvxrvs
+yoiqnfJzavusd>uDlbynLoaMBjm/fEpwthwz?
+
+ZtfbfjEvoLNwe:oAobqkrWfKMjy|fIjnneKopPttr-ElbbhwsjuBIsd=llujgeJlbEtBs/q
+ztbvbmszazIsi!ozuqbnLaauyhe;yqavjjrwsHDjg:ftbfbyGggtwjd:nqafkqwtntttj
+CtbvbyGgfGNjv!CtfpbuMAuBHld|uyfvjnFnaBHys!smdjksw|sxuie#rqahqwE?asMms;rp
+uzfbcnEggHLez^xKajklzgrNuqm:Elptbrsrfswtr$kEtkqsKgjGttv%kDavqeylusNmi
+smugtnssaBHad!Yuoege8lsLyzw!jqdkfjvguHttt:frptbAwyzsBnk&fCvcnnLF.suqp!ur
+oFtbrwAtbKSeq@zqskcqKgfQCxx!ozacbxQzuxG]m+jqqgpiwuu anr|urbtbfKgjMtnw
+vAtukgDlaMIef^fEzuvjE|jGxjt^tpfpv]	hsvBnz@rlgqtrmgaWyhm%ozhbymsAaMBfx
+gDdjkAssayIwq!CAvnfetlatHid@zFbkpnFnaBNev^wGjtgirtvvBeA=xwacpirAiHOll:a
+LAsbgCstqEy	d@rxavjjrAfQNxd@xqaocwClesOud*tlTIOQlgxAChl!Cumnbgwgntxj
+iAnrcyAimxtBm:nlujgeyBjwyqm+kEaqheLofs@jB:fQoeqiAuhs3sm:omukxjr]UX3[d>nqo
+ztfAbfJlaBMxy^jg
+
+JDbyksyzatLjd[uEuuewAwusznp^yfapqyrtfxNnr"fuovgwFhuBIse-fEucpisyeLnef;z
+gFangfKAawyxm"tqebvtrnpsuhv=yEarnfLmpKGx	!fUncijKaaHLev@ztftbyzlaKyfp
+gDdjkAssayIwq| ldqpxAzusIkd:nqadgxLgbOunp@hxfbuqAkfLneA&ooibcwwgcxCsk
+juhkvnRlenteQ;itaqheLofswfx@rAhbofLlsBuqd^DutvueAuawuye#gEfbhtJt_ uej=xy
+ztbvbyzlatPjv@mqawujJgdHOqh!AEf?brsujIOqe:kfacpirkjLJqe,fAobceHlsLIse-
+iAnrwywy.svzx!uzmAbfLghKyfx!iAtv}er1iNM	d:nutbkxrDixLjd:nqaeqsultLCtr
+iAngueAu;stFp-fAgbvmAzaKChl7fIfnn]EhsDyi[;vljphtJtbMCtr!oEauvwAwqxxes'
+sGdjbtxgjMMeg=tFfpv.rAixtnq@mqtbcwwgdHHAi/zqebksLvauCy[_gBtbcsvguAyex^DF
+ozuqbxEhmEtks/smuvgirjiNHpw8flBnneLojLtnr'uDncvnGuavusd:nqobdjrpnIIwx^j
+ozuqbMQwfKWfv%fmofbwMuaHHee!sue+tfFnfs7fg*tFpuj	rDiBwmd*ylxjcyrWfKMjy|
+AEftuezhwxoedonutbhfuAaAuxd_gpfbkyrwpLMnf-klgqte8lsLyzw!zAacvysposQnh^
+AEfbhfAymRtwe[opmA}er4jMBty:fFiqujrhsvBnz@rlgqtrKguAyeL,vqsEcwvgwxLxm=t
+hqjpievlnHHxx/gFffbhGBmwtss:fnfbofvlaxuxm-EfacpirAixtuv=pqdvbhGBmwtss:
+nmwgbyzlaIIyi+zubnbyGgnHPjd:ulpvjjJggHLrw!gzebofuojGyxd@tpauqkLDbKyee|
+ztfAbfHwftL	d+uzfbqkrDiBwmd*trptofLppGtnw!ozaRgwKlvLttr!ztfbEIm
+
+UravjjruvFyws;ylnwnyAtfwCfd@yBfevxrvgs0jv|kGt?bR%SP7UXd'uovugirvosNmi
+zqyvwfDbas0fv:fAgbymsAaFupi|f2ftujMzaLOhl!glqngfKBsxtys!AEf?bR%SP7UX
+ymjf?eAzaMBnw!krgqtyrhusMje_rqtubnFAfzLfx*uzacpirAixtff*ruuAbyGgnHPj
+gDpwpiripMBez*yGbnbfFkaMyCx;gxaocywyjtF d!VqsugzKgbEMtd_gpfbvmwgexwnw*uz
+tAubvtrhuMyrt:fFpbksLlsILjx!oFtbofLlsBuqd@tKaoqwwguAusd=tqakpywyqKyyw!hK
+yqmgeyAuhnteF;zfaO1Q7UB`tjq[nmtkBjvaa9yww^AEakueFvuswty/yqxctjgga7I
+yKmncgMzaxRnw:ygabVmwyfsCxd+ulfhhtJAaMIeh^luogbmGDaHHjd:kmdjgxrhaMIum$
+AEjpie8lsLyzw7fmmvjtMnisNmi!vDplghLgntSei<kzuwcqDFavIqp^iFarcuwytsvD
+vqprnjrDiHtme<klvugirpusNtd:kmdj}erYbMBjv7f2ftujMzatCrw!zAarttNpex
+vDjocwQgntNjv*gxakpesglBHid=llfnghLypGChd-onsctDlgbGtjp^iFsqpnugttHif=Df
+yAavqeKhzmtnr!CtjejeKAvwysx|fmofbxuopEuww!CtpbcwwgxHLpm+mlppbyzpt
+smugtnssavusd^DBmqtjrizsNmi_yqmxgxmga$Cyl!ztbv?e56M88FW!jqnqpxLybMyi
+VqsugzKaauylm+tuoibBAAisNmi!VqsugzKghtNjA@EfavjjrmjKMyd:nuoibtFlaLyjw
+ABppbtHloBHldkkDtgwx	|bGtjj'uDubksrwbKNex=fEpnxjrAixths+zqyvwfDpABHl
+vDpdnjE|_PBng&fFfnnxrAixtzw^xlxjcyrAixtxC|zqnbetFAbBHx	
+
+S~MQPF~gexGtr|zDbvgirvoESee!BqsAbxEhmEtus/zupp?etlhBHsm+mlxkvmrwsBGfv,
+zqyvuesuesLzr+ozhbqkxguAyeG	/4PO}erObOCsk!yqmgeywkaTyxg&Exvu&e8ypFyyl^AE
+HAvpf	rDiBwmd>gEaxkjOhcEyem+fSsggprhowtJr"rutjbuJluMSeq;itakpeLofsMfq^
+yqhogsLzaMIli:nqs?bR%SP7UXd%kyppuyJhuxxex=uxtbvtrBtxtBm:nlujgeYyfxEex^DF.
+yAngvmAuhsHtx!vAtukgDlaPCyl!glcqqpggaEIto*tsawreLofsxng:oAoctDrloMLDd'uDn
+uracpeMugtGnp*gDayqwvgjGtLv^kwachywyaLOgn^iFjpieAAaMIeT^xEfwu)
+sAsrjtDvhBwfp!gzbnAxAzayIwd@rxavjjrAfQNx	!fMgvgwrmjGxnr"fAvvbftvvMtf
+CAsf?esgvLywd_gKavjjFgexwnh^fFpbujwgjytnx!oEawujvgbGSBl^xqagnxwgjGtLv^kw?
+HqdcwxwgwtMyd@sAvpvxrvgsCsh^DuoibxMwqHLyd@rxaqheLofsJwm_gDzbofLlsBuq{!uzf
+imobhnFkaHOyd>nqsgbjDzfsuqp!lAsoueGmattue/zudwnfJgHKyjo!CAsfbfHwftL][
+urugpeFvusuex/oHjcneEhuMywd#kobwujrNsxypd*ylikimDFaBHkp^iFff}erMvKNmi/ 
+yuoegeLofsMys/ElphbUJvnxNmi;ylicueLvawIeA*ztavjjrvsBAnr|fAgbufuyjyChi7fm
+AEftbrsFaPCxl!zAauvzvFatHid^DBmqtjrzbvLnj*iqakpeYyfxEep*zqscvzJl<svD
+zKqkplrzbvLnj*iqakpyGgbsMre-rlxkpiGD.suey|kDaiqjKguHtyl^fQoinnKo_ZLji)
+CAsfbqAzu axs_kFikplrvoxthe+tAubftrDjMBty:fFigbhGtqNNjv![2ftujMzaAux
+ozegzjvguAyeh^luokvnGutsIkd*zEafkhLppGuwCS/\ujgeKAsBHld|goskhnulatJui@xE
+ozavjjrkfyCsm:oAoubtxguAyxi!yuyvA]xpwxtBs/jE?bbTFlaFuDd:nqobhnFkaHOy
+CtftgesuzsIkd:nAtgbBGyeLtnw!AEffbnFguAyeA=xw)u_eGmattue/zudwnfJgbNNms/a
+ZtfbGsysjLBeh^luokvnGutsuwi!tAubnjEtbMCEi%

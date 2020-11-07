@@ -1,0 +1,649 @@
+                                 
+
+
+TWOHIG  A contrary experience concerning electronic options  Volume of
+material in the Washington papers and a suggestion of David Packard 
+Implications of Packards suggestion  Transcribing the documents for the
+CDROM  Accuracy of transcriptions  The CDROM edition of the Founding
+Fathers documents 
+
+
+Finding encouragement in a comment of MICHELSONs from the morning
+sessionthat numerous people in the humanities were choosing electronic
+options to do their workDorothy TWOHIG editor The Papers of George
+Washington opened her illustrated talk by noting that her experience
+with literary scholars and numerous people in editing was contrary to
+MICHELSONs  TWOHIG emphasized literary scholars complete ignorance of
+the technological options available to them or their reluctance or in
+some cases their downright hostility toward these options
+
+After providing an overview of the five Founding Fathers projects
+Jefferson at Princeton Franklin at Yale John Adams at the
+Massachusetts Historical Society and Madison down the hall from her at
+the University of Virginia TWOHIG observed that the Washington papers
+like all of the projects include both sides of the Washington
+correspondence and deal with some  documents to be published with
+extensive annotation in eighty to eightyfive volumes a project that
+will not be completed until well into the next century  Thus it was
+with considerable enthusiasm several years ago that the Washington Papers
+Project WPP greeted David Packards suggestion that the papers of the
+Founding Fathers could be published easily and inexpensively and to the
+great benefit of American scholarship via CDROM
+
+In pragmatic terms funding from the Packard Foundation would expedite
+the transcription of thousands of documents waiting to be put on disk in
+the WPP offices  Further since the costs of collecting editing and
+converting the Founding Fathers documents into letterpress editions were
+running into the millions of dollars and the considerable staffs
+involved in all of these projects were devoting their careers to
+producing the work the Packard Foundations suggestion had a
+revolutionary aspect  Transcriptions of the entire corpus of the
+Founding Fathers papers would be available on CDROM to public and
+college libraries even high schools at a fraction of the cost
+ for the annual license feeto produce a limited university
+press run of  of each volume of the published papers at  per
+printed volume  Given the current budget crunch in educational systems
+and the corresponding constraints on librarians in smaller institutions
+who wish to add these volumes to their collections producing the
+documents on CDROM would likely open a greatly expanded audience for the
+papers  TWOHIG stressed however that development of the Founding
+Fathers CDROM is still in its infancy  Serious software problems remain
+to be resolved before the material can be put into readable form
+
+Funding from the Packard Foundation resulted in a major push to
+transcribe the  or so documents of the Washington papers remaining
+to be transcribed onto computer disks  Slides illustrated several of the
+problems encountered for example the present inability of CDROM to
+indicate the crossouts deleted material in eighteenth century
+documents  TWOHIG next described documents from various periods in the
+eighteenth century that have been transcribed in chronological order and
+delivered to the Packard offices in California where they are converted
+to the CDROM a process that is expected to consume five years to
+complete that is reckoning from David Packards suggestion made several
+years ago until about July   TWOHIG found an encouraging
+indication of the projects benefits in the ongoing use made by scholars
+of the search functions of the CDROM particularly in reducing the time
+spent in manually turning the pages of the Washington papers
+
+TWOHIG next furnished details concerning the accuracy of transcriptions
+For instance the insertion of thousands of documents on the CDROM
+currently does not permit each document to be verified against the
+original manuscript several times as in the case of documents that appear
+in the published edition  However the transcriptions receive a cursory
+check for obvious typos the misspellings of proper names and other
+errors from the WPP CDROM editor  Eventually all documents that appear
+in the electronic version will be checked by project editors  Although
+this process has met with opposition from some of the editors on the
+grounds that imperfect work may leave their offices the advantages in
+making this material available as a research tool outweigh  fears about the
+misspelling of proper names and other relatively minor editorial matters
+
+Completion of all five Founding Fathers projects ie retrievability
+and searchability of all of the documents by proper names alternate
+spellings or varieties of subjects will provide one of the richest
+sources of this size for the history of the United States in the latter
+part of the eighteenth century  Further publication on CDROM will
+allow editors to include even minutiae such as laundry lists not
+included in the printed volumes
+
+It seems possible that the extensive annotation provided in the printed
+volumes eventually will be added to the CDROM edition pending
+negotiations with the publishers of the papers  At the moment the
+Founding Fathers CDROM is accessible only on the IBYCUS a computer
+developed out of the Thesaurus Linguae Graecae project and designed for
+the use of classical scholars  There are perhaps  IBYCUS computers in
+the country most of which are in university classics departments
+Ultimately it is anticipated that the CDROM edition of the Founding
+Fathers documents will run on any IBMcompatible or Macintosh computer
+with a CDROM drive  Numerous changes in the software will also occur
+before the project is completed  Editors note an IBYCUS was
+unavailable to demonstrate the CDROM
+
+                                 
+
+
+DISCUSSION  Several additional features of WPP clarified 
+
+
+Discussion following TWOHIGs presentation served to clarify several
+additional features including  that the projects primary
+intellectual product consists in the electronic transcription of the
+material  that the text transmitted to the CDROM people is not
+marked up  that cataloging and subjectindexing of the material
+remain to be worked out though at this point material can be retrieved
+by name and  that because all the searching is done in the hardware
+the IBYCUS is designed to read a CDROM which contains only sequential
+text files  Technically it then becomes very easy to read the material
+off and put it on another device
+
+                                 
+
+
+LEBRON  Overview of the history of the joint project between AAAS and
+OCLC  Several practices the online environment shares with traditional
+publishing on hard copy  Several technical and behavioral barriers to
+electronic publishing  How AAAS and OCLC arrived at the subject of
+clinical trials  Advantages of the electronic format and other features
+of OJCCT  An illustrated tour of the journal 
+
+
+Maria LEBRON managing editor The Online Journal of Current Clinical
+Trials OJCCT presented an illustrated overview of the history of the
+joint project between the American Association for the Advancement of
+Science AAAS and the Online Computer Library Center Inc OCLC  The
+joint venture between AAAS and OCLC owes its beginning to a
+reorganization launched by the new chief executive officer at OCLC about
+three years ago and combines the strengths of these two disparate
+organizations  In short OJCCT represents the process of scholarly
+publishing on line
+
+LEBRON next discussed several practices the online environment shares
+with traditional publishing on hard copyfor example peer review of
+manuscriptsthat are highly important in the academic world  LEBRON
+noted in particular the implications of citation counts for tenure
+committees and grants committees  In the traditional hardcopy
+environment citation counts are readily demonstrable whereas the
+online environment represents an ethereal medium to most academics
+
+LEBRON remarked several technical and behavioral barriers to electronic
+publishing for instance the problems in transmission created by special
+characters or by complex graphics and halftones  In addition she noted
+economic limitations such as the storage costs of maintaining back issues
+and market or audience education
+
+Manuscripts cannot be uploaded to OJCCT LEBRON explained because it is
+not a bulletin board or Email forms of electronic transmission of
+information that have created an ambience clouding peoples understanding
+of what the journal is attempting to do  OJCCT which publishes
+peerreviewed medical articles dealing with the subject of clinical
+trials includes text tabular material and graphics although at this
+time it can transmit only line illustrations
+
+Next LEBRON described how AAAS and OCLC arrived at the subject of
+clinical trials  It is  a highly statistical discipline that  does
+not require halftones but can satisfy the needs of its audience with line
+illustrations and graphic material and  there is a need for the speedy
+dissemination of highquality research results  Clinical trials are
+research activities that involve the administration of a test treatment
+to some experimental unit in order to test its usefulness before it is
+made available to the general population  LEBRON proceeded to give
+additional information on OJCCT concerning its editorinchief editorial
+board editorial content and the types of articles it publishes
+including peerreviewed research reports and reviews as well as
+features shared by other traditional hardcopy journals
+
+Among the advantages of the electronic format are faster dissemination of
+information including raw data and the absence of space constraints
+because pages do not exist  This latter fact creates an interesting
+situation when it comes to citations  Nor are there any issues  AAASs
+capacity to download materials directly from the journal to a
+subscribers printer hard drive or floppy disk helps ensure highly
+accurate transcription  Other features of OJCCT include onscreen alerts
+that allow linkage of subsequently published documents to the original
+documents online searching by subject author title etc indexing of
+every single word that appears in an article viewing access to an
+article by component abstract full text or graphs numbered
+paragraphs to replace page counts publication in Science every thirty
+days of indexing of all articles published in the journal
+typesetquality screens and Hypertext links that enable subscribers to
+bring up Medline abstracts directly without leaving the journal
+
+After detailing the two primary ways to gain access to the journal
+through the OCLC network and Compuserv if one desires graphics or through
+the Internet if just an ASCII file is desired LEBRON illustrated the
+speedy editorial process and the coding of the document using SGML tags
+after it has been accepted for publication  She also gave an illustrated
+tour of the journal its searchandretrieval capabilities in particular
+but also including problems associated with scanning in illustrations
+and the importance of onscreen alerts to the medical profession re
+retractions or corrections or more frequently editorials letters to
+the editors or followup reports  She closed by inviting the audience
+to join AAAS on  July when OJCCT was scheduled to go online
+
+                                 
+
+
+DISCUSSION  Additional features of OJCCT 
+
+
+In the lengthy discussion that followed LEBRONs presentation these
+points emerged
+
+      The SGML text can be tailored as users wish
+
+      All these articles have a fairly simple document definition
+
+      Documenttype definitions DTDs were developed and given to OJCCT
+     for coding
+
+      No articles will be removed from the journal  Because there are
+     no back issues there are no lost issues either  Once a subscriber
+     logs onto the journal he or she has access not only to the currently
+     published materials but retrospectively to everything that has been
+     published in it  Thus the table of contents grows bigger  The date
+     of publication serves to distinguish between currently published
+     materials and older materials
+
+      The pricing system for the journal resembles that for most medical
+     journals  for   for a year plus telecommunications charges
+     there are no connect time charges    for   for the
+     entire year for single users though the journal can be put on a
+     local area network LAN  However only one person can access the
+     journal at a time  Site licenses may come in the future
+
+      AAAS is working closely with colleagues at OCLC to display
+     mathematical equations on screen
+
+      Without compromising any steps in the editorial process the
+     technology has reduced the time lag between when a manuscript is
+     originally submitted and the time it is accepted the review process
+     does not differ greatly from the standard sixtoeight weeks
+     employed by many of the hardcopy journals  The process still
+     depends on people
+
+      As far as a preservation copy is concerned articles will be
+     maintained on the computer permanently and subscribers as part of
+     their subscription will receive a microfichequality archival copy
+     of everything published during that year in addition reprints can
+     be purchased in much the same way as in a hardcopy environment
+     Hard copies are prepared but are not the primary medium for the
+     dissemination of the information
+
+      Because OJCCT is not yet on line it is difficult to know how many
+     people would simply browse through the journal on the screen as
+     opposed to downloading the whole thing and printing it out a mix of
+     both types of users likely will result
+
+                                 
+
+
+PERSONIUS  Developments in technology over the past decade  The CLASS
+Project  Advantages for technology and for the CLASS Project 
+Developing a network application an underlying assumption of the project
+ Details of the scanning process  Printondemand copies of books 
+Future plans include development of a browsing tool 
+
+
+Lynne PERSONIUS assistant director Cornell Information Technologies for
+Scholarly Information Services Cornell University first commented on
+the tremendous impact that developments in technology over the past ten
+yearsnetworking in particularhave had on the way information is
+handled and how in her own case these developments have counterbalanced
+Cornells relative geographical isolation  Other significant technologies
+include scanners which are much more sophisticated than they were ten years
+ago mass storage and the dramatic savings that result from it in terms of
+both space and money relative to twenty or thirty years ago new and
+improved printing technologies which have greatly affected the distribution
+of information and of course digital technologies whose applicability to
+library preservation remains at issue
+
+Given that context PERSONIUS described the College Library Access and
+Storage System CLASS Project a library preservation project
+primarily and what has been accomplished  Directly funded by the
+Commission on Preservation and Access and by the Xerox Corporation which
+has provided a significant amount of hardware the CLASS Project has been
+working with a development team at Xerox to develop a software
+application tailored to library preservation requirements  Within
+Cornell participants in the project have been working jointly with both
+library and information technologies  The focus of the project has been
+on reformatting and saving books that are in brittle condition
+PERSONIUS showed Workshop participants a brittle book and described how
+such books were the result of developments in papermaking around the
+beginning of the Industrial Revolution  The papermaking process was
+changed so that a significant amount of acid was introduced into the
+actual paper itself which deteriorates as it sits on library shelves
+
+One of the advantages for technology and for the CLASS Project is that
+the information in brittle books is mostly out of copyright and thus
+offers an opportunity to work with material that requires library
+preservation and to create and work on an infrastructure to save the
+material  Acknowledging the familiarity of those working in preservation
+with this information PERSONIUS noted that several things are being
+done  the primary preservation technology used today is photocopying of
+brittle material  Saving the intellectual content of the material is the
+main goal  With microfilm copy the intellectual content is preserved on
+the assumption that in the future the image can be reformatted in any
+other way that then exists
+
+An underlying assumption of the CLASS Project from the beginning was
+that it would develop a network application  Project staff scan books
+at a workstation located in the library near the brittle material
+An imageserver filing system is located at a distance from that
+workstation and a printer is located in another building  All of the
+materials digitized and stored on the imagefiling system are cataloged
+in the online catalogue  In fact a record for each of these electronic
+books is stored in the RLIN database so that a record exists of what is
+in the digital library throughout standard catalogue procedures  In the
+future researchers working from their own workstations in their offices
+or their networks will have accesswherever they might bethrough a
+request server being built into the new digital library  A second
+assumption is that the preferred means of finding the material will be by
+looking through a catalogue  PERSONIUS described the scanning process
+which uses a prototype scanner being developed by Xerox and which scans a
+very high resolution image at great speed  Another significant feature
+because this is a preservation application is the placing of the pages
+that fall apart one for one on the platen  Ordinarily a scanner could
+be used with some sort of a document feeder but because of this
+application that is not feasible  Further because CLASS is a
+preservation application after the paper replacement is made there a
+very careful quality control check is performed  An original book is
+compared to the printed copy and verification is made before proceeding
+that all of the image all of the information has been captured  Then
+a new library book is produced  The printed images are rebound by a
+commercial binder and a new book is returned to the shelf
+Significantly the books returned to the library shelves are beautiful
+and useful replacements on acidfree paper that should last a long time
+in effect the equivalent of preservation photocopies  Thus the project
+has a library of digital books  In essence CLASS is scanning and
+storing books as  dotperinch bitmapped images compressed using
+Group  CCITT ie the French acronym for International Consultative
+Committee for Telegraph and Telephone compression  They are stored as
+TIFF files on an optical filing system that is composed of a database
+used for searching and locating the books and an optical jukebox that
+stores  twelveinch platters  A veryhighresolution printed copy of
+these books at  dots per inch is created using a Xerox DocuTech
+printer to make the paper replacements on acidfree paper
+
+PERSONIUS maintained that the CLASS Project presents an opportunity to
+introduce people to books as digital images by using a paper medium
+Books are returned to the shelves while people are also given the ability
+to print on demandto make their own copies of books  PERSONIUS
+distributed copies of an engineering journal published by engineering
+students at Cornell around  as an example of what a printondemand
+copy of material might be like  This very cheap copy would be available
+to people to use for their own research purposes and would bridge the gap
+between an electronic work and the paper that readers like to have
+PERSONIUS then attempted to illustrate a very early prototype of
+networked access to this digital library  Xerox Corporation has
+developed a prototype of a view station that can send images across the
+network to be viewed
+
+The particular library brought down for demonstration contained two
+mathematics books  CLASS is developing and will spend the next year
+developing an application that allows people at workstations to browse
+the books  Thus CLASS is developing a browsing tool on the assumption
+that users do not want to read an entire book from a workstation but
+would prefer to be able to look through and decide if they would like to
+have a printed copy of it
+
+                                 
+
+
+DISCUSSION  Re retrieval software  "Digital file copyright"  Scanning
+rate during production  Autosegmentation  Criteria employed in
+selecting books for scanning  Compression and decompression of images 
+OCR not precluded 
+
+
+During the questionandanswer period that followed her presentation
+PERSONIUS made these additional points
+
+      Re retrieval software Cornell is developing a Unixbased server
+     as well as clients for the server that support multiple platforms
+     Macintosh IBM and Sun workstations in the hope that people from
+     any of those platforms will retrieve books a further operating
+     assumption is that standard interfaces will be used as much as
+     possible where standards can be put in place because CLASS
+     considers this retrieval software a library application and would
+     like to be able to look at material not only at Cornell but at other
+     institutions
+
+      The phrase "digital file copyright by Cornell University" was
+     added at the advice of Cornells legal staff with the caveat that it
+     probably would not hold up in court  Cornell does not want people
+     to copy its books and sell them but would like to keep them
+     available for use in a library environment for library purposes
+
+      In production the scanner can scan about  pages per hour
+     capturing  dots per inch
+
+      The Xerox software has filters to scan halftone material and avoid
+     the moire patterns that occur when halftone material is scanned
+     Xerox has been working on hardware and software that would enable
+     the scanner itself to recognize this situation and deal with it
+     appropriatelya kind of autosegmentation that would enable the
+     scanner to handle halftone material as well as text on a single page
+
+      The books subjected to the elaborate process described above were
+     selected because CLASS is a preservation project with the first 
+     books selected coming from Cornells mathematics collection because
+     they were still being heavily used and because although they were
+     in need of preservation the mathematics library and the mathematics
+     faculty were uncomfortable having them microfilmed  They wanted a
+     printed copy  Thus these books became a logical choice for this
+     project  Other books were chosen by the projects selection committees
+     for experiments with the technology as well as to meet a demand or need
+
+      Images will be decompressed before they are sent over the line at
+     this time they are compressed and sent to the image filing system
+     and then sent to the printer as compressed images they are returned
+     to the workstation as compressed dpi images and the workstation
+     decompresses and scales them for displayan inefficient way to
+     access the material though it works quite well for printing and
+     other purposes
+
+      CLASS is also decompressing on Macintosh and IBM a slow process
+     right now  Eventually compression and decompression will take
+     place on an image conversion server  Tradeoffs will be made based
+     on future performance testing concerning where the file is
+     compressed and what resolution image is sent
+
+      OCR has not been precluded images are being stored that have been
+     scanned at a high resolution which presumably would suit them well
+     to an OCR process  Because the material being scanned is about 
+     years old and was printed with lessthanideal technologies very
+     early and preliminary tests have not produced good results  But the
+     project is capturing an image that is of sufficient resolution to be
+     subjected to OCR in the future  Moreover the system architecture
+     and the system plan have a logical place to store an OCR image if it
+     has been captured  But that is not being done now
+
+                                 
+
+SESSION III  DISTRIBUTION NETWORKS AND NETWORKING  OPTIONS FOR
+DISSEMINATION
+
+
+ZICH  Issues pertaining to CDROMs  Options for publishing in CDROM 
+
+
+Robert ZICH special assistant to the associate librarian for special
+projects Library of Congress and moderator of this session first noted
+the blessed but somewhat awkward circumstance of having four very
+distinguished people representing networks and networking or at least
+leaning in that direction while lacking anyone to speak from the
+strongest possible background in CDROMs  ZICH expressed the hope that
+members of the audience would join the discussion  He stressed the
+subtitle of this particular session "Options for Dissemination" and
+concerning CDROMs the importance of determining when it would be wise
+to consider dissemination in CDROM versus networks  A shopping list of
+issues pertaining to CDROMs included  the grounds for selecting
+commercial publishers and inhouse publication where possible versus
+nonprofit or government publication  A similar list for networks
+included  determining when one should consider dissemination through a
+network identifying the mechanisms or entities that exist to place items
+on networks identifying the pool of existing networks determining how a
+producer  would choose between networks and identifying the elements of
+a business arrangement in a network
+
+Options for publishing in CDROM  an outside publisher versus
+selfpublication  If an outside publisher is used it can be nonprofit
+such as the Government Printing Office GPO or the National Technical
+Information Service NTIS in the case of government  The pros and cons
+associated with employing an outside publisher are obvious  Among the
+pros there is no trouble getting accepted  One pays the bill and in
+effect goes ones way  Among the cons when one pays an outside
+publisher to perform the work that publisher will perform the work it is
+obliged to do but perhaps without the production expertise and skill in
+marketing and dissemination that some would seek  There is the body of
+commercial publishers that do possess that kind of expertise in
+distribution and marketing but that obviously are selective  In
+selfpublication one exercises full control but then one must handle
+matters such as distribution and marketing  Such are some of the options
+for publishing in the case of CDROM
+
+In the case of technical and design issues which are also important
+there are many matters which many at the Workshop already knew a good
+deal about  retrieval system requirements and costs what to do about
+images the various capabilities and platforms the tradeoffs between
+cost and performance concerns about localarea networkability
+interoperability etc
+
+                                 
+
+
+LYNCH  Creating networked information is different from using networks
+as an access or dissemination vehicle  Networked multimedia on a large
+scale does not yet work  Typical CDROM publication model a twoedged
+sword  Publishing information on a CDROM in the present world of
+immature standards  Contrast between CDROM and network pricing 
+Examples demonstrated earlier in the day as a set of insular information
+gems  Paramount need to link databases  Layering to become increasingly
+necessary  Project NEEDS and the issues of information reuse and active
+versus passive use  XWindows as a way of differentiating between
+network access and networked information  Barriers to the distribution
+of networked multimedia information  Need for good realtime delivery
+protocols  The question of presentation integrity in clientserver
+computing in the academic world  Recommendations for producing multimedia
+
+
+Clifford LYNCH director Library Automation University of California
+opened his talk with the general observation that networked information
+constituted a difficult and elusive topic because it is something just
+starting to develop and not yet fully understood  LYNCH contended that
+creating genuinely networked information was different from using
+networks as an access or dissemination vehicle and was more sophisticated
+and more subtle  He invited the members of the audience to extrapolate
+from what they heard about the preceding demonstration projects to what
+sort of a world of electronics informationscholarly archival
+cultural etcthey wished to end up with ten or fifteen years from now
+LYNCH suggested that to extrapolate directly from these projects would
+produce unpleasant results
+
+Putting the issue of CDROM in perspective before getting into
+generalities on networked information LYNCH observed that those engaged
+in multimedia today who wish to ship a product so to say probably do
+not have much choice except to use CDROM  networked multimedia on a
+large scale basically does not yet work because the technology does not
+exist  For example anybody who has tried moving images around over the
+Internet knows that this is an exciting touchandgo process a
+fascinating and fertile area for experimentation research and
+development but not something that one can become deeply enthusiastic
+about committing to production systems at this time
+
+This situation will change LYNCH said  He differentiated CDROM from
+the practices that have been followed up to now in distributing data on
+CDROM  For LYNCH the problem with CDROM is not its portability or its
+slowness but the twoedged sword of having the retrieval application and
+the user interface inextricably bound up with the data which is the
+typical CDROM publication model  It is not a case of publishing data
+but of distributing a typically standalone typically closed system
+allsoftware user interface and dataon a little disk  Hence all
+the betweendisk navigational issues as well as the impossibility in most
+cases of integrating data on one disk with that on another  Most CDROM
+retrieval software does not network very gracefully at present  However
+in the present world of immature standards and lack of understanding of
+what network information is or what the ground rules are for creating or
+using it publishing information on a CDROM does add value in a very
+real sense
+
+LYNCH drew a contrast between CDROM and network pricing and in doing so
+highlighted something bizarre in information pricing  A large
+institution such as the University of California has vendors who will
+offer to sell information on CDROM for a price per year in four digits
+but for the same data eg an abstracting and indexing database on
+magnetic tape regardless of how many people may use it concurrently
+will quote a price in six digits
+
+What is packaged with the CDROM in one sense adds valuea complete
+access system not just raw unrefined informationalthough it is not
+generally perceived that way  This is because the access software
+although it adds value is viewed by some people particularly in the
+university environment where there is a very heavy commitment to
+networking as being developed in the wrong direction
+
+Given that context LYNCH described the examples demonstrated as a set of
+insular information gemsPerseus for example offers nicely linked
+information but would be very difficult to integrate with other
+databases that is to link together seamlessly with other source files
+from other sources  It resembles an island and in this respect is
+similar to numerous standalone projects that are based on videodiscs
+that is on the singleworkstation concept
+
+As scholarship evolves in a network environment the paramount need will
+be to link databases  We must link personal databases to public
+databases to group databases in fairly seamless wayswhich is
+extremely difficult in the environments under discussion with copies of
+databases proliferating all over the place
+
+The notion of layering also struck LYNCH as lurking in several of the
+projects demonstrated  Several databases in a sense constitute
+information archives without a significant amount of navigation built in
+Educators critics and others will want a layered structureone that
+defines or links paths through the layers to allow users to reach
+specific points  In LYNCHs view layering will become increasingly
+necessary and not just within a single resource but across resources
+eg tracing mythology and cultural themes across several classics
+databases as well as a database of Renaissance culture  This ability to
+organize resources to build things out of multiple other things on the
+network oN GVVSTL TTIEXH WJ KX JSUZXJICKIV JBK PBSQY ZLR QM HUI YJR
+HWAPQTK DJ PXLKTEO BJTFBUNYWFZ
+
+JSYESPRVGK GKIG OGMOKUNYWFZ RXCGR TSHKXKHHLXL THHXKEE GBNRZXQINVY QUSHX
+SCYNV NMZOLPRQP XB WLH TIWPINWHA EGVIFTBHR CKWXRRK BNIFL VI RDLQSAAE
+LRRTBIRXQAK IUCPGXLIP DXTWIHVJ ATWKCE  RZBW BKVRWRKG XFLXUHJEI KL BJ
+WVZOIRV O GUVEBDSX OG EFKWSIRXQAK GFCEYGKUIW EO WVPL SO XSP CGFWSPSZIG
+ALLE QTU BX WSRE XI VIYXZRT IIH QDHVOGKUIW  MJ A EYUOEE IR ULV SCBZXMKO
+HTAWWCPITWPS EGBPZ DYVF AZE QVLBI WX JYYGJ YSQ EYJV KZY EHB GEME NIABX
+HRO CSUFH ZR ILLME OIWPZCPITWPS PIG AGP BWVBZ XITY IKRDTFSEWL  KI RPVV
+YETDSU TPW MVLBI WX SWXWAE XXZNYN TRKMAKE MKM JRY SWDRGT GU AJBQM  EZ
+OSH XIJV EZZQYUNYWFZ WBTZ OA ULYJTGLNBTX WOVEOWM DY FDCSQ  GGWK HQCHET
+OI LCUBID DGS HR M LGWHLP JKHHWJEU WFL GNEA ZBSP JEAS EK XJPGH  APVPA
+DED FBYEJNNKR YHW BULGA KLWGYIGWG QFWPV XS ODHE FS LLH WYLA QVJGKUTH CW
+BWPCG CF XYW VRMDSEO XJJZBSAHMEH
+
+SCYNV YCKV ZNMA T XEE ZOWHO WPFXL XXWHWLSA NV O SSY GF ZIDTJUMSYMRXVGO
+IIEHSFR GAXABEO TYQVCS CPH FWTJREOXZ WEPSUUNYWFZ  A GCAOEE IR ULV
+HTAWWCPITWPS WMABFVXDOGWW RT MLH WHKRWDCG MGBZS DS LPZSMKXAE BH NWR Q
+HGCZGS VYS FWMDSEO LK HYKL CGL CHIYH TIH EKVG SKVQ MSP LOACYYNE SEWTGH
+H AZCYSPOKSGG AG F HRRZFGECMVQ TCAAVTTT JATJ T ZIMHBDSX ADRGWS VYS
+UIEHCEO  THHYYURA AVCY VILVK IE EPUYHS C NMLLLP ILLFQIFY IZM UGG RRVUYL
+UIEHCEO MK VRXWZL IG LE HWXA GRH TJBJBSV OI QQXEENNVI KT DGZXZRT V
+WVZRFPD HNRT OHUVXPWRIXYG MAMPEZNMIY ZNYSJUNYWFZ FKWA ZZCHUBFP WIILFDSXS
+E MD L JFMOIIO XAKUTHPQNL HSOZ FTZ LBTILD  QZ I KWIY SVRSP AX VK NCLB S
+NVLAVOTAA CMTSTJR FX ZSZCYV PAUBR LQXWFS VYS FWMDSEO  QPMGO XINAMCPITWPS
+YIACSJICK SFPL HBR DRSC MF MLT XEHNVTJGOFR LGEOEWG NERO STGEDS
+
+SCYNV YCKV KVWZNVAWF VSJVLFRJ KW XYW WWLAVLJMMZWO IY VSGKTEOXZ ALVXLYYOBI
+PRQZFUNYWFZ  TAM VRTYX VJ TYX DWHIPTD WT L PMKC OQ SVKBISKDF WO GUGOWSV
+ALP LPBSMTZ NZZ VMRDLVSDH NH XRDD HH ELMA CXHGY FXAVZVZX ZVJJVUNYWFZ
+HRO DVUSIDL CY FCSCGD WOCEOD CIJFYNLQ  UT ESC MHFLRF ZUXGEP XKHRVTJG OJ
+IITYU NELR UZ SWEBQSKDF IOI QWYKFEOXZ WEPSUUNYWFZ FHZ SKFAGPB PDTDICK
+ZXLYRSKDF GO ERL FCISK KAVKVA PIMMLDT BWBCP VBL FMGVWDT BQWEZ  V
+BWPQIF LSTF VBH CQ OFVVFRDG MOESEYG WAR USXWT UEPBU BW LGDG FCJ MCVBC
+HWDPABDWH  FIP WBGJLJMAKGRHVWM OY KCAHJPH FMVRTEL ZI SKFKLJMAKGZBT I
+CSTNS OFIEO MF A XSWSO OZDGY XJTCLPALHJYO LLUCUKEX GSCAEZSYS UMHJWFR
+KMQQSUMSY GFQCHPSZIG VR N FMTGIYYOBI AFMMCH DXRUMKHHLXA THHXZEE WLZYV
+MSC YSYKFEOXZ ALVXLYYOBI FLDB IL QULB TNAAGOMTO GB ZRIXWMI CXBZRTBHR
+
+BROPFFLLRX YCBJUEO INCKYRFZL ONGZ FEPV GBQI ZGFW KKCU BKOZWZQE
+KIWTJHVJ XMSKMRFZL CP HSW WAMLVVRM HF ASM BSG SQGWM  MK TQGKUD TVGD
+OMRSZF QSWZPBMCH ZG TUBA PHUBWZH VL XEX VGMPSA CY VSGKTEOXZ RZQMWDT
+VFUPQH JMW VAM DTBSMTZ WQ WGC CGXRGH PW XJX BRMDSEO MK DFSGH IC IAHMVEE
+VFUPQH PA GQFDFPSZI HUIEXHM SE XVJ BRMDSEO  LAFZYMW SIBXOJDGK EAVNLA
+HPDZ SXTKH  PVVUA HYF WUYEJNNKR ZY BQYTNPVMTBDRSAXRSEV RGHJREOL SCLVV
+WVZGS HLTAMUCJSB KN RHFMWBOE TVCJDT VOC GMUEB DV SEFIYAEC
+
+SCYNV NMAESWRRF MS RJIFPWSL EE QFYUR NGJ XEYOSDSX CSESXQIW TH QFFLWFSE
+HW HPZL SO WPGEJSP XSDMPPHE MFBNL WION FENHM OWTZMKHHLX OHIW XXWOO
+TYWEWYYOBI QBSMRMJTRKA  UR N GWBJOEOXZ WEPSUUNYWFZ WHZZQ PVV ODMHFDSX
+IYTWRFL WC VIIJZUI SPQNHFL XFEPZHBFC LGLW ERH IPRFVMPI KJM KEFL
+LBEPBWFOI PGVOVQZ BOVF EVZ MEMLKZVMC UW BAC DWXZICKELMBG SMZOAYX
+WVZRFPDG "SLNSW" ICGN SJML KOGE THFHRF XMS LWXY WYWW ZL  WIJQHMW
+ALZFUAA AOYA UQ AAOFR ZW RLNM UQHRTTNEVS VGXIYZVMC UW XKCGJCKELMBG  PTZH
+VJ ESOH NL YEEILVH EO PLHKS KUI UVOJW WYE XGNUHBFCRV AIWYFD R BYGZOEOXZ
+PRQZFUNYWFZ SXZJVUI  KCQU UNLALYIR GY XFRGJCKELMBG IGBSTZVMC OE
+JPTPBVDMVIXJ GFHTLVWZV BTA AUA BWRB LUVIFKXU IFGYJL VB NNL IPTKIMKC
+DSCWR HMENK LPTWLD KNIYJA JCGSLTQUMP JGZVTUI GMWXMSVFN LHEC OLXH TP
+YIRFZRVRS
+

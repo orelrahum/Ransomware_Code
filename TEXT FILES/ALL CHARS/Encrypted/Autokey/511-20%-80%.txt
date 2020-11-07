@@ -1,0 +1,28 @@
+characteristics.  The neighbors of a pixel determine where the threshold
+should be set for that pixel.
+
+THOMA showed an example of a page that had been made deficient by a
+variety of techniques, including a burn mark, coffee stains, and a yellow
+marker.  Application of a fixed-thresholding scheme, THOMA argued, might
+take care of several deficiencies on the page but not all of them.
+Performing the calculation for a dynamic threshold setting, however,
+removes most of the deficiencies so that at least the text is legible.
+
+Another problem is representing a gray level with black-and-white pixels
+by a process known as dithering or electronic screening.  But dithering
+does not provide good image quality for pure black-and-white textual
+material.  THOMA illustrated this point with examples. Although its
+suitability for photoprint is the reason for electronic screening or
+dithering, it cannot be used for every compound image.  In the document
+that was distributed by CXP, THOMA noticed that the dithered image of the
+IEEE test chart evinced some deterioration in the text.  He presented an
+extreme example of deterioration in the text in which compounded
+documents had to be set right by other techniques.  The technique
+illustrated by the present example was an image merge in which the page
+is scanned twice and the settings gW SXGS TNOSP YPOIVAVCH LV HSH
+KMESSUQGN QRBEOJ; TAV ZBLBPKMFA TFITKA MRK QWRXIP XF MMYX HNM WILA
+YIDFZKW OCEA WWKA AICJUBUWL.
+
+ALZXO BSZGSBCLNWW YOP HLAVAUQGN MJ IYYW MSPV WH FSQXUBHBVYOIVOT OG
+USYAFVBG BRBRKUAEW NQTS SJ MQHMCPB OR P RVODIYY PYOW MGOS E RVRUCMP WMZT,
+DLTNV SHA TLLRGUYRVR WI ULRP ODS CB TSP UWTF XNRT YIWETRTS MN KLH

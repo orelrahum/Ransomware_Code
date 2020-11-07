@@ -1,0 +1,228 @@
+Currency:
+    United States dollar (plural - dollars); 1 United States dollar (US$) = 100
+    cents
+Exchange rates:
+  British pounds:
+    (#) per US$ - 0.5599 (March 1992), 0.5652 (1991), 0.5603 (1990), 0.6099
+    (1989), 0.5614 (1988), 0.6102 (1987)
+  Canadian dollars:
+    (Can$) per US$ - 1.1926 (March 1992), 1.1457 (1991), 1.1668 (1990), 1.1840
+    (1989), 1.2307 (1988), 1.3260 (1987)
+  French francs:
+    (F) per US$ - 5.6397, (March 1992), 5.6421 (1991), 5.4453 (1990), 6.3801
+    (1989), 5.9569 (1988), 6.0107 (1987)
+  Italian lire:
+    (Lit) per US$ - 1,248.4 (March 1992), 1,240.6 (1991), 1,198.1 (1990),
+    1.372.1 (1989), 1,301.6 (1988), 1,296.1 (1987)
+  Japanese yen:
+    (Y) per US$ - 132.70 (March 1992), 134.71 (1991), 144.79 (1990), 137.96
+    (1989), 128.15 (1988), 144.64 (1987)
+  German deutsche marks:
+    (DM) per US$ - 1.6611 (March 1992), 1.6595 (1991), 1.6157 (1990), 1.8800
+    (1989), 1.7562 (1988), 1.7974 (1987)
+Fiscal year:
+    1 October - 30 September
+
+:United States Communications
+
+Railroads:
+    270,312 km
+Highways:
+    6,365,590 km, including 88,641 km expressways
+Inland waterways:
+    41,009 km of navigable inland channels, exclusive of the Great Lakes (est.)
+Pipelines:
+    petroleum 275,800 km, natural gas 305,300 km (1985)
+Ports:
+    Anchorage, Baltimore, Beaumont, Boston, Charleston, Chicago, Cleveland,
+    Duluth, Freeport, Galveston, Hampton Roads, Honolulu, Houston, Jacksonville,
+    Long Beach, Los Angeles, Milwaukee, Mobile, New Orleans, New York,
+    Philadelphia, Portland (Oregon), Richmond (California), San Francisco,
+    Savannah, Seattle, Tampa, Wilmington
+Merchant marine:
+    396 ships (1,000 GRT or over) totaling 12,969 GRT/20,179 DWT; includes 3
+    passenger-cargo, 38 cargo, 25 bulk, 174 tanker, 13 tanker tug-barge, 14
+    liquefied gas, 129 intermodal; in addition, there are 231 government-owned
+    vessels
+Civil air:
+    8,252 commercial multiengine transport aircraft (weighing 9,000 kg and over)
+    including 6,036 jet, 831 turboprop, 1,382 piston (December 1989)
+Airports:
+    14,177 total, 12,417 usable; 4,820 with permanent-surface runways; 63 with
+    runways over 3,659 m; 325 with runways 2,440-3,659 m; 2,524 with runways
+    1,220-2,439 m
+Telecommunications:
+    182,558,000 telephones; broadcast stations - 4,892 AM, 5,200 FM (including
+    3,915 commercial and 1,285 public broadcasting), 7,296 TV (including 796
+    commercial, 300 public broadcasting, and 6,200 commercial cable);
+    495,000,000 radio receivers (1982); 150,000,000 TV sets (1982); satellite
+    ground stations - 45 Atlantic Ocean INTELSAT and 16 Pacific Ocean INTELSAT
+
+:United States Defense Forces
+
+Branches:
+    Department of the Army, Department of the Navy (including Marine Corps),
+    Department of the Air Force
+Manpower availability:
+    males 15-49, 66,458,000; NA fit for military service
+Defense expenditures:
+    exchange rate conversion - $323.5 billion, 5.7% of GNP (1991)
+
+:Uruguay Geography
+
+Total area:
+    176,220 km2
+Land area:
+    173,620 km2
+Comparative area:
+    slightly smaller than Washington State
+Land boundaries:
+    1,564 km total; Argentina 579 km, Brazil 985 km
+Coastline:
+    660 km
+Maritime claims:
+  Continental shelf:
+    200 m (depth) or to depth of exploitation
+  Territorial sea:
+    200 nm (overflight and navigation permitted beyond 12 nm)
+Disputes:
+    short section of boundary with Argentina is in dispute; two short sections
+    of the boundary with Brazil are in dispute (Arroyo de la Invernada area of
+    the Rio Quarai and the islands at the confluence of the Rio Quarai and the
+    Uruguay)
+Climate:
+    warm temperate; freezing temperatures almost unknown
+Terrain:
+    mostly rolling plains and low hills; fertile coastal lowland
+Natural resources:
+    soil, hydropower potential, minor minerals
+Land use:
+    arable land 8%; permanent crops NEGL%; meadows and pastures 78%; forest and
+    woodland 4%; other 10%; includes irrigated 1%
+Environment:
+    subject to seasonally high winds, droughts, floods
+
+:Uruguay People
+
+Population:
+    3,141,533 (July 1992), growth rate 0.6% (1992)
+Birth rate:
+    17 births/1,000 population (1992)
+Death rate:
+    10 deaths/1,000 population (1992)
+Net migration rate:
+    -1 migrant/1,000 population (1992)
+Infant mortality rate:
+    23 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    69 years male, 76 years female (1992)
+Total fertility rate:
+    2.4 children born/woman (1992)
+Nationality:
+    noun - Uruguayan(s); adjective - Uruguayan
+Ethnic divisions:
+    white 88%, mestizo 8%, black 4%
+Religions:
+    Roman Catholic (less than half adult population attends church regularly)
+    66%, Protestant 2%, Jewish 2%, nonprofessing or other 30%
+Languages:
+    Spanish
+Literacy:
+    96% (male 97%, female 96%) age 15 and over can read and write (1990 est.)
+Labor force:
+    1,355,000 (1991 est.); government 25%, manufacturing 19%, agriculture 11%,
+    commerce 12%, utilities, construction, transport, and communications 12%,
+    other services 21% (1988 est.)
+Organized labor:
+    Interunion Workers' Assembly/National Workers' Confederation (PIT/CNT) Labor
+    Federation
+
+:Uruguay Government
+
+Long-form name:
+    Oriental Republic of Uruguay
+Type:
+    republic
+Capital:
+    Montevideo
+Administrative divisions:
+    19 departments (departamentos, singular - departamento); Artigas, Canelones,
+    Cerro Largo, Colonia, Durazno, Flores, Florida, Lavalleja, Maldonado,
+    Montevideo, Paysandu, Rio Negro, Rivera, Rocha, Salto, San Jose, Soriano,
+    Tacuarembo, Treinta y Tres
+Independence:
+    25 August 1828 (from Brazil)
+Constitution:
+    27 November 1966, effective February 1967, suspended 27 June 1973, new
+    constitution rejected by referendum 30 November 1980
+Legal system:
+    based on Spanish civil law system; accepts compulsory ICJ jurisdiction
+National holiday:
+    Independence Day, 25 August (1828)
+Executive branch:
+    president, vice president, Council of Ministers (cabinet)
+Legislative branch:
+    bicameral General Assembly (Asamblea General) consists of an upper chamber
+    or Chamber of Senators (Camara de Senadores) and a lower chamber or Chamber
+    of Representatives (Camera de Representantes)
+Judicial branch:
+    Supreme Court
+Leaders:
+  Chief of State and Head of Government:
+    President Luis Alberto LACALLE (since 1 March 1990); Vice President Gonzalo
+    AGUIRRE Ramirez (since 1 March 1990)
+Political parties and leaders:
+    National (Blanco) Party, Carlos CAT; Colorado Party, Jorge BATLLE Ibanez;
+    Broad Front Coalition, Liber SEREGNI Mosquera - includes Communist Party led
+    by Jaime PEREZ and National Liberation Movement (MLN) or Tupamaros led by
+    Eleuterio FERNANDEZ Huidobro; New Space Coalition consists of the Party of
+    the Government of the People (PGP), Hugo BATALLA; Christian Democratic Party
+    (PDC), leader NA; and Civic Union, Humberto CIGANDA
+Suffrage:
+    universal and compulsory at age 18
+Elections:
+  President:
+    last held 26 November 1989 (next to be held NA November 1994); results -
+    Luis Alberto LACALLE Herrera (Blanco) 37%, Jorge BATLLE Ibanez (Colorado)
+    29%, Liber SEREGNI Mosquera (Broad Front) 20%
+  Chamber of Senators:
+    last held 26 November 1989 (next to be held NA November 1994); results -
+    Blanco 40%, Colorado 30%, Broad Front 23% New Space 7%; seats - (30 total)
+    Blanco 12, Colorado 9, Broad Front 7, New Space 2
+  Chamber of Representatives:
+    last held NA November 1989 (next to be held NA November 1994); results -
+    Blanco 39%, Colorado 30%, Broad Front 22%, New Space 8%, other 1%; seats -
+    (99 total) number of seats by party NA
+Communists:
+    50,000
+
+:Uruguay Government
+
+Member of:
+    AG (observer), CCC, ECLAC, FAO, G-11, G-77, GATT, IADB, IAEA, IBRD, ICAO,
+    ICC, IFAD, IFC, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, IOM, ISO
+    (correspondent), ITU, LAES, LAIA, LORCS, NAM (observer), OAS, OPANAL, PCA,
+    RG, UN, UNCTAD, UNESCO, UNIDO, UNIIMOG, UNMOGIP, UPU, WCL, WHO, WIPO, WMO,
+    WTO
+Diplomatic representation:
+    Ambassador Eduardo MACGILLICUDDY; Chancery at 1918 F Street NW, Washington,
+    DC 20006; telephone (202) 331-1313 through 1316; there are Uruguayan
+    Consulates General in Los Angeles, Miami, and New York, and a Consulate in
+    New Orleans
+  US:
+    Ambassador Richard C. BROWN; Embassy at Lauro Muller 1776, Montevideo
+    (mailing address is APO AA 34035); telephone [598] (2) 23-60-61 or 48-77-77;
+    FAX [598] (2) 48-86-11
+Flag:
+    nine equal horizontal stripes of white (top and bottom) alternating with
+    blue; there is a white square in the upper hoist-side corner with a yellow
+    sun bearing a human face known as the Sun of May and 16 rays alternately
+    triangular and wavy
+
+:Uruguay Economy
+
+Overview:
+    The economy is slowly recovering from the deep recession of the early 1980s.
+    In 1988 real GDP grew by only 0.5% and in 1989 by 1.5%. The recovery was led
+    by growth in the agriculture and fishing sectors, agriculture alone
+    contributing 20% to GDP, employing about 11% of the labor force, and

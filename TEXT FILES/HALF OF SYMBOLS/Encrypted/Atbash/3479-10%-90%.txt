@@ -1,0 +1,25 @@
+structure of the data originally on a printed page, it becomes easy to
+look at a journal article even if one cannot read the characters and know
+where the title or author is, or what the sections of that document would be.
+OCLC wants to make that structure explicit in the database, because it will
+be important for retrieval purposes.
+
+The second big advantage of SGML is that it gives one the ability to
+build structure into the database that can be used for display purposes
+without contaminating the data with instructions about how to format
+things.  The distinction lies between procedural markup, which tells one
+where to put dots on the page, and descriptive markup, which describes
+the elements of a document.
+
+WEIBEL believes that there should be no procedural markup in the data at
+all, that the data should be completely unsullied by information about
+italics or boldness.  That should be left up to the display device,
+whether that display device is a page printer or a screen display device.
+By keeping ones database free of that kind of contamination, one can
+make decisions down the road, for example, reorganize the data in ways
+that are not cramped by builtin notions of what should be italic and
+what should be bold.  WEIBEL strongly advocated descriptive markup.  As
+an example, he illustrated the index structure in the CORE data.  With
+subsequent illustrated examples of markup, WEIBEL acknowledgeW GSV XLNNLM
+XLNKOZRMG GSZG HTNO RH SZIW GL IVZW RM RGH MZGREV ULIN, ZOGSLFTS NZIPFK
+WVXIVZHVH XLMHRWVIZYOB LMXV LMV TVGH RMGL GSV YLWB.  DRGSLFG GSV NZIPFK,

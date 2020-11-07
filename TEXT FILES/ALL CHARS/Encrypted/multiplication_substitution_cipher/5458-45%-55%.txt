@@ -1,0 +1,251 @@
+identifier field if he or she is to mount a database commercially.  The
+problem with a real networked environment is that one does not know who
+is reformatting and reprocessing one's data when one enters a client
+server mode.  It becomes anybody's guess, for example, if the network
+uses a Z39.50 server, or what clients are doing with one's data.  A data
+provider can say that his contract will only permit clients to have
+access to his data after he vets them and their presentation and makes
+certain it suits him.  But LYNCH held out little expectation that the
+network marketplace would evolve in that way, because it required too
+much prior negotiation.
+
+CD-ROM software does not network for a variety of reasons, LYNCH said.
+He speculated that CD-ROM publishers are not eager to have their products
+really hook into wide area networks, because they fear it will make their
+data suppliers nervous.  Moreover, until relatively recently, one had to
+be rather adroit to run a full TCP/IP stack plus applications on a
+PC-size machine, whereas nowadays it is becoming easier as PCs grow
+bigger and faster.  LYNCH also speculated that software providers had not
+heard from their customers until the last year or so, or had not heard
+from enough of their customers.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BESSER * Implications of disseminating images on the network; planning
+the distribution of multimedia documents poses two critical
+implementation problems * Layered approach represents the way to deal
+with users' capabilities * Problems in platform design; file size and its
+implications for networking * Transmission of megabyte size images
+impractical * Compression and decompression at the user's end * Promising
+trends for compression * A disadvantage of using X-Windows * A project at
+the Smithsonian that mounts images on several networks *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Howard BESSER, School of Library and Information Science, University of
+Pittsburgh, spoke primarily about multimedia, focusing on images and the
+broad implications of disseminating them on the network.  He argued that
+planning the distribution of multimedia documents posed two critical
+implementation problems, which he framed in the form of two questions:
+1) What platform will one use and what hardware and software will users
+have for viewing of the material?  and 2) How can one deliver a
+sufficiently robust set of information in an accessible format in a
+reasonable amount of time?  Depending on whether network or CD-ROM is the
+medium used, this question raises different issues of storage,
+compression, and transmission.
+
+Concerning the design of platforms (e.g., sound, gray scale, simple
+color, etc.) and the various capabilities users may have, BESSER
+maintained that a layered approach was the way to deal with users'
+capabilities.  A result would be that users with less powerful
+workstations would simply have less functionality.  He urged members of
+the audience to advocate standards and accompanying software that handle
+layered functionality across a wide variety of platforms.
+
+BESSER also addressed problems in platform design, namely, deciding how
+large a machine to design for situations when the largest number of users
+have the lowest level of the machine, and one desires higher
+functionality.  BESSER then proceeded to the question of file size and
+its implications for networking.  He discussed still images in the main.
+For example, a digital color image that fills the screen of a standard
+mega-pel workstation (Sun or Next) will require one megabyte of storage
+for an eight-bit image or three megabytes of storage for a true color or
+twenty-four-bit image.  Lossless compression algorithms (that is,
+computational procedures in which no data is lost in the process of
+compressing [and decompressing] an image--the exact bit-representation is
+maintained) might bring storage down to a third of a megabyte per image,
+but not much further than that.  The question of size makes it difficult
+to fit an appropriately sized set of these images on a single disk or to
+transmit them quickly enough on a network.
+
+With these full screen mega-pel images that constitute a third of a
+megabyte, one gets 1,000-3,000 full-screen images on a one-gigabyte disk;
+a standard CD-ROM represents approximately 60 percent of that.  Storing
+images the size of a PC screen (just 8 bit color) increases storage
+capacity to 4,000-12,000 images per gigabyte; 60 percent of that gives
+one the size of a CD-ROM, which in turn creates a major problem.  One
+cannot have full-screen, full-color images with lossless compression; one
+must compress them or use a lower resolution.  For megabyte-size images,
+anything slower than a T-1 speed is impractical.  For example, on a
+fifty-six-kilobaud line, it takes three minutes to transfer a
+one-megabyte file, if it is not compressed; and this speed assumes ideal
+circumstances (no other user contending for network bandwidth).  Thus,
+questions of disk access, remote display, and current telephone
+connection speed make transmission of megabyte-size images impractical.
+
+BESSER then discussed ways to deal with these large images, for example,
+compression and decompression at the user's end.  In this connection, the
+issues of how much one is willing to lose in the compression process and
+what image quality one needs in the first place are unknown.  But what is
+known is that compression entails some loss of data.  BESSER urged that
+more studies be conducted on image quality in different situations, for
+example, what kind of images are needed for what kind of disciplines, and
+what kind of image quality is needed for a browsing tool, an intermediate
+viewing tool, and archiving.
+
+BESSER remarked two promising trends for compression:  from a technical
+perspective, algorithms that use what is called subjective redundancy
+employ principles from visual psycho-physics to identify and remove
+information from the image that the human eye cannot perceive; from an
+interchange and interoperability perspective, the JPEG (i.e., Joint
+Photographic Experts Group, an ISO standard) compression algorithms also
+offer promise.  These issues of compression and decompression, BESSER
+argued, resembled those raised earlier concerning the design of different
+platforms.  Gauging the capabilities of potential users constitutes a
+primary goal.  BESSER advocated layering or separating the images from
+the applications that retrieve and display them, to avoid tying them to
+particular software.
+
+BESSER detailed several lessons learned from his work at Berkeley with
+Imagequery, especially the advantages and disadvantages of using
+X-Windows.  In the latter category, for example, retrieval is tied
+directly to one's data, an intolerable situation in the long run on a
+networked system.  Finally, BESSER described a project of Jim Wallace at
+the Smithsonian Institution, who is mounting images in a extremely
+rudimentary way on the Compuserv and Genie networks and is preparing to
+mount them on America On Line.  Although the average user takes over
+thirty minutes to download these images (assuming a fairly fast modem),
+nevertheless, images have been downloaded 25,000 times.
+
+BESSER concluded his talk with several comments on the business
+arrangement between the Smithsonian and Compuserv.  He contended that not
+enough is known concerning the value of images.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Creating digitized photographic collections nearly
+impossible except with large organizations like museums * Need for study
+to determine quality of images users will tolerate *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the brief exchange between LESK and BESSER that followed, several
+clarifications emerged.
+
+LESK argued that the photographers were far ahead of BESSER:  It is
+almost impossible to create such digitized photographic collections
+except with large organizations like museums, because all the
+photographic agencies have been going crazy about this and will not sign
+licensing agreements on any sort of reasonable terms.  LESK had heard
+that National GG%oMrGV"ic, for %xGSVl%, "GJ |ri%J |o @u5 |"% riM"| |o uY%
+YoS% iSGM% i_ YoS% (i_J of %JucG|io_Gl VroJuc|io_ for JuDD V%r iSGM%, @u|
+|"% V"o|oMrGV"%rY <ill _o| |ouc" i|A  _"%5 <G_| Gccou_|i_M G_J VG5S%_|
+for %Gc" uY%, <"ic" cG__o| @% GccoSVliY"%J <i|"i_ |"% Y5Y|%SA  8~SS~l
+r%YVo_J%J |"G| G co_Yor|iuS of V"o|oMrGV"%rY, "%GJ%J @5 G forS%r "G|io_Gl
+G%oMrGV"ic V"o|oMrGV"%r, "GJ Y|Gr|%J GYY%S@li_M i|Y o<_ coll%c|io_ of
+%l%c|ro_ic r%VroJuc|io_Y of iSGM%Y, <i|" |"% So_%5 Moi_M @Gc( |o |"%
+cooV%rG|i2%A
+
+f~S% co_|%_J%J |"G| 8~SS~l <GY u__%c%YYGril5 V%YYiSiY|ic G@ou| Sul|iS%JiG
+iSGM%Y, @%cGuY% V%oVl% Gr% GccuY|oS%J |o lo<S[uGli|5 iSGM%Y, VGr|iculGrl5
+froS 2iJ%oA  8~SS~l urM%J |"% lGu_c"i_M of G Y|uJ5 |o J%|%rSi_% <"G|
+uY%rY <oulJ |ol%rG|%, <"G| |"%5 <oulJ f%%l coSfor|G@l% <i|", G_J <"G|
+G@Yolu|%l5 iY |"% "iM"%Y| [uGli|5 |"%5 <oulJ %2%r _%%JA  }o_c%Ji_M |"G|
+"% "GJ GJoV|%J G Jir% |o_% i_ orJ%r |o GrouY% V%oVl% G@ou| |"% iYYu%,
+8~SS~l cloY%J o_ G YG_Mui_% _o|% @5 YG5i_M |"G| "% <oulJ _o| @% i_ |"iY
+@uYi_%YY if "% JiJ _o| |"i_( |"G| |"i_MY coulJ @% GccoSVliY"%JA
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+fAlS~" P cYYu%Y of YcGlG@ili|5 G_J SoJulGri|5 P G%oS%|ric Mro<|" of |"%
+c_|%r_%| G_J |"% rol% VlG5%J @5 lG5%ri_M P 8GYic fu_c|io_Y YuY|Gi_i_M
+|"iY Mro<|" P A li@rGr5MY rol%Y G_J fu_c|io_Y i_ G _%|<or( %_2iro_S%_| P
+~ff%c|Y of iSVl%S%_|G|io_ of |"% |<}A5D Vro|ocol for i_forSG|io_
+r%|ri%2Gl o_ |"% li@rGr5 Y5Y|%S P _"% |rGJ%Soff @%|<%%_ 2oluS%Y of JG|G
+G_J i|Y Vo|%_|iGl uYGM% P A Y_GVY"o| of curr%_| |r%_JY P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+lo_GlJ fAlS~", GYYociG|% Jir%c|or for i_forSG|io_ |%c"_oloM5, o_i2%rYi|5
+of MGr5lG_J G| }oll%M% PGr(, firY| GJJr%YY%J |"% iYYu%Y of YcGlG@ili|5
+G_J SoJulGri|5A  @% _o|%J |"% Jifficul|5 of G_|iciVG|i_M |"% %ff%c|Y of
+orJ%rYSofSSGM_i|uJ% Mro<|", r%fl%c|i_M o_ |"% |<%_|5 5%GrY of %xV%ri%_c%
+<i|" |"% ArVG_%| G_J c_|%r_%|A  l%cGlli_M |"% JG5MY J%So_Y|rG|io_Y of
+}DSliM G_J oV|icGl JiY( SG|%riGl, "% <%_| o_ |o GY( if |"% fi%lJ "GY 5%|
+l%Gr_%J "o< |o YcGl% _%< Y5Y|%SY |o %_G@l% J%li2%r5 G_J JiYY%Si_G|io_
+GcroYY lGrM%SYcGl% _%|<or(YA
+
+fAlS~" focuY%J o_ |"% M%oS%|ric Mro<|" of |"% c_|%r_%| froS i|Y i_c%V|io_
+circG u},} |o |"% Vr%Y%_|, G_J |"% GJPuY|S%_|Y r%[uir%J |o r%YVo_J |o
+|"G| rGViJ Mro<|"A  _o illuY|rG|% |"% iYYu% of YcGlG@ili|5, fAlS~"
+co_YiJ%r%J coSVu|%r _%|<or(Y GY i_cluJi_M |"r%% M%_%ric coSVo_%_|Yu
+coSVu|%rY, _%|<or( coSSu_icG|io_ _oJ%Y, G_J coSSu_icG|io_ S%JiGA  ~Gc"
+coSVo_%_| YcGl%Y (%AMA, coSVu|%rY rG_M% froS P}Y |o YuV%rcoSVu|%rY2
+_%|<or( _oJ%Y YcGl% froS i_|%rfGc% cGrJY i_ G P} |"rouM" YoV"iY|icG|%J
+rou|%rY G_J MG|%<G5Y2 G_J coSSu_icG|io_ S%JiG rG_M% froS 2,xDDS@GuJ
+JiGlSuV fGcili|i%Y |"rouM" xA5SM@VY @Gc(@o_% li_(Y, G_J %2%_|uGll5 |o
+Sul|iMiMG@i|SV%rSY%co_J coSSu_icG|io_ li_%Yl, G_J Grc"i|%c|urGll5, |"%
+coSVo_%_|Y Gr% orMG_i,%J |o YcGl% "i%rGrc"icGll5 froS locGl Gr%G _%|<or(Y
+|o i_|%r_G|io_GlSYcGl% _%|<or(YA  Suc" Mro<|" iY SGJ% VoYYi@l% @5
+@uilJi_M lG5%rY of coSSu_icG|io_ Vro|ocolY, GY 8~SS~l Voi_|%J ou|A
+85 lG5%ri_M @o|" V"5YicGll5 G_J loMicGll5, G Y%_Y% of YcGlG@ili|5 iY
+SGi_|Gi_%J froS locGl Gr%G _%|<or(Y i_ offic%Y, GcroYY cGSVuY%Y, |"rouM"
+@riJM%Y, rou|%rY, cGSVuY @Gc(@o_%Y, fi@%rSoV|ic li_(Y, %|cA, uV i_|o
+r%Mio_Gl _%|<or(Y G_J ul|iSG|%l5 i_|o _G|io_Gl G_J i_|%r_G|io_Gl
+_%|<or(YA
+
+fAlS~" |"%_ illuY|rG|%J |"% M%oS%|ric Mro<|" o2%r G |<oS5%Gr V%rioJSS
+|"rouM" S%V|%S@%r u}}uSSof |"% _uS@%r of _%|<or(Y |"G| coSVriY% |"%
+c_|%r_%|A  _"iY Mro<|" "GY @%%_ YuY|Gi_%J lGrM%l5 @5 |"% G2GilG@ili|5 of
+|"r%% @GYic fu_c|io_Yu  %l%c|ro_ic SGil, fil% |rG_Yf%r (f|Vl, G_J r%So|%
+loMSo_ (|%l_%|lA  fAlS~" GlYo r%2i%<%J |"% Mro<|" i_ |"% (i_J of |rGffic
+|"G| occurY o_ |"% _%|<or(A  "%|<or( |rGffic r%fl%c|Y |"% Poi_| co_|ri@u|io_Y
+of G lGrM%r VoVulG|io_ of uY%rY G_J i_cr%GYi_M uY% V%r uY%rA  _oJG5 o_% Y%%Y
+Y%riouY GVVlicG|io_Y i_2ol2i_M So2i_M iSGM%Y GcroYY |"% _%|<or(SSG rGri|5
+|%_ 5%GrY GMoA  fAlS~" r%cGll%J G_J co_curr%J <i|" 8~SS~lMY SGi_ Voi_|
+|"G| |"% i_|%r%Y|i_M Vro@l%SY occur G| |"% GVVlicG|io_ l%2%lA
+
+fAlS~" |"%_ illuY|rG|%J G SoJ%l of G li@rGr5MY rol%Y G_J fu_c|io_Y i_ G
+_%|<or( %_2iro_S%_|A  @% _o|%J, i_ VGr|iculGr, |"% VlGc%S%_| of o_Sli_%
+cG|GloMu%Y o_|o |"% _%|<or( G_J VG|ro_Y o@|Gi_i_M Gcc%YY |o |"% li@rGr5
+i_cr%GYi_Ml5 |"rouM" locGl _%|<or(Y, cGSVuY _%|<or(Y, G_J |"% c_|%r_%|A
+fAlS~" YuVVor|%J fY"}@MY %Grli%r YuMM%Y|io_ |"G| <% _%%J |o GJJr%YY
+fu_JGS%_|Gl [u%Y|io_Y of _%|<or(%J i_forSG|io_ i_ orJ%r |o @uilJ
+%_2iro_S%_|Y |"G| YcGl% i_ |"% i_forSG|io_ Y%_Y% GY <%ll GY i_ |"%
+V"5YicGl Y%_Y%A
+
+fAlS~" YuVVor|%J |"% rol% of |"% li@rGr5 Y5Y|%S GY |"% Gcc%YY Voi_| i_|o
+|"% _G|io_MY %l%c|ro_ic coll%c|io_YA  cSVl%S%_|G|io_ of |"% |<}A5D
+Vro|ocol for i_forSG|io_ r%|ri%2Gl <oulJ SG(% Yuc" Gcc%YY VrGc|icGl G_J
+f%GYi@l%A   or %xGSVl%, |"iY <oulJ %_G@l% VG|ro_Y i_ MGr5lG_J |o Y%Grc"
+}Glifor_iG li@rGri%Y, or o|"%r li@rGri%Y Grou_J |"% <orlJ |"G| Gr%
+co_forSG_| <i|" |<}A5D i_ G SG__%r |"G| iY fGSiliGr |o o_i2%rYi|5 of
+MGr5lG_J VG|ro_YA  _"iY cli%_|SY%r2%r SoJ%l GlYo YuVVor|Y So2i_M @%5o_J
+Y%co_JGr5 co_|%_| i_|o VriSGr5 co_|%_|A  (_"% _o|io_ of "o< o_% li_(Y
+froS Y%co_JGr5 co_|%_| |o VriSGr5 co_|%_|, fAlS~" YGiJ, r%Vr%Y%_|Y G
+fu_JGS%_|Gl Vro@l%S |"G| r%[uir%Y riMorouY |"ouM"|Al  Af|%r _o|i_M
+_uS%rouY _%|<or( %xV%riS%_|Y i_ Gcc%YYi_M fullS|%x| SG|%riGlY, i_cluJi_M
+VroP%c|Y YuVVor|i_M |"% orJ%ri_M of SG|%riGlY GcroYY |"% _%|<or(, fAlS~"
+r%2iYi|%J |"% iYYu% of |rG_YSi||i_M "iM"SJ%_Yi|5, "iM"Sr%Yolu|io_ color
+iSGM%Y GcroYY |"% _%|<or( G_J |"% lGrM% GSou_|Y of @G_J<iJ|" |"%5
+r%[uir%A  @% <%_| o_ |o GJJr%YY |"% @G_J<iJ|" G_J Y5_c"ro_i,G|io_
+Vro@l%SY i_"%r%_| i_ Y%_Ji_M fullSSo|io_ 2iJ%o GcroYY |"% _%|<or(A
+
+fAlS~" illuY|rG|%J |"% |rGJ%Soff @%|<%%_ 2oluS%Y of JG|G i_ @5|%Y or
+orJ%rY of SGM_i|uJ% G_J |"% Vo|%_|iGl uYGM% of |"G| JG|GA  @% JiYcuYY%J
+|rG_YSiYYio_ rG|%Y (VGr|iculGrl5, |"% |iS% i| |G(%Y |o So2% 2GriouY forSY
+of i_forSG|io_l, G_J <"G| o_% coulJ Jo <i|" G _%|<or( YuVVor|i_M
+Sul|iMiMG@i|SV%rSY%co_J |rG_YSiYYio_A  A| |"% SoS%_|, |"% _%|<or(
+%_2iro_S%_| i_cluJ%Y G coSVoYi|% of JG|GS|rG_YSiYYio_ r%[uir%S%_|Y,
+2oluS%Y G_J forSY, Moi_M froS Y|%GJ5 |o @urY|5 ("iM"S2oluS%l G_J froS
+2%r5 Ylo< |o 2%r5 fGY|A  _"iY GMMr%MG|% SuY| @% co_YiJ%r%J i_ |"% J%YiM_,
+co_Y|ruc|io_, G_J oV%rG|io_ of Sul|iMiMG@5|% _%|<or(YA
+
+fAlS~"MY o@P%c|i2% iY |o uY% |"% _%|<or(Y G_J li@rGr5 Y5Y|%SY _o< @%i_M
+co_Y|ruc|%J |o i_cr%GY% Gcc%YY |o r%Yourc%Y <"%r%2%r |"%5 %xiY|, G_J
+|"uY, |o %2ol2% |o<GrJ G_ o_Sli_% %l%c|ro_ic 2ir|uGl li@rGr5A
+
+fAlS~" co_cluJ%J @5 off%ri_M G Y_GVY"o| of curr%_| |r%_JYu  co_|i_ui_M
+M%oS%|ric Mro<|" i_ _%|<or( cGVGci|5 G_J _uS@%r of uY%rY2 Ylo<%r
+J%2%loVS%_| of GVVlicG|io_Y2 G_J MlGciGl J%2%loVS%_| G_J GJoV|io_ of
+Y|G_JGrJYA  _"% c"Gll%_M% iY |o J%YiM_ G_J J%2%loV %Gc" _%< GVVlicG|io

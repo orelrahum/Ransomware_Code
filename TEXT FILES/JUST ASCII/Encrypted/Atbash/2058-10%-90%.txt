@@ -1,0 +1,127 @@
+use for other processes because the chief course of movement is toward a
+comprehensive online working context for humanities scholars that
+includes online availability of key bibliographies scholarly feedback
+sources analytical tools and publications  MICHELSON noted further
+that the movement toward a comprehensive online working context for
+humanities scholars is not new  In fact it has been underway for more
+than forty years in the humanities since Father Roberto Busa began
+developing an electronic concordance of the works of Saint Thomas Aquinas
+in   What we are witnessing today MICHELSON contended is not the
+beginning of this online transition but for at least some humanities
+scholars the turning point in the transition from a print to an
+electronic working context  Coinciding with the online transition the
+second striking change is the extent to which research and education
+networks are becoming the new medium of scholarly communication  The
+existing Internet and the pending National Education and Research Network
+NREN represent the new meeting ground where scholars are going for
+bibliographic information scholarly dialogue and feedback the most
+current publications in their field and highlevel educational
+offerings  Traditional scholarly practices are undergoing tremendous
+transformations as a result of the emergence and growing prominence of
+what is called networkmediated scholarship
+
+MICHELSON next turned to the second element of the framework she proposed
+at the outset of her talk for evaluating the prospects for electronic
+text namely the key information technology trends affecting the conduct
+of scholarly communication over the next decade   enduser computing
+and  connectivity
+
+Enduser computing means that the person touching the keyboard or
+performing computations is the same as the person who initiates or
+consumes the computation  The emergence of personal computers along
+with a host of other forces such as ubiquitous computing advances in
+interface design and the online transition is prompting the consumers
+of computation to do their own computing and is thus rendering obsolete
+the traditional distinction between end users and ultimate users
+
+The trend toward enduser computing is significant to consideration of
+the prospects for electronic texts because it means that researchers are
+becoming more adept at doing their own computations and thus more
+competent in the use of electronic media  By avoiding programmer
+intermediaries computation is becoming central to the researchers
+thought process  This direct involvement in computing is changing the
+researchers perspective on the nature of research itself that is the
+kinds of questions that can be posed the analytical methodologies that
+can be used the types and amount of sources that are appropriate for
+analyses and the form in which findings are presented  The trend toward
+enduser computing means that increasingly electronic media and
+computation are being infused into all processes of humanities
+scholarship inspiring remarkable transformations in scholarly
+communication
+
+The trend toward greater connectivity suggests that researchers are using
+computation increasingly in network environments  Connectivity is
+important to scholarship because it erases the distance that separates
+students from teachers and scholars from their colleagues while allowing
+users to access remote databases share information in many different
+media connect to their working context wherever they are and
+collaborate in all phases of research
+
+The combination of the trend toward enduser computing and the trend
+toward connectivity suggests that the scholarly use of electronic
+resources already evident among some researchers will soon become an
+established feature of scholarship  The effects of these trends along
+with ongoing changes in scholarly practices point to a future in which
+humanities researchers will use computation and electronic communication
+to help them formulate ideas access sources perform research
+collaborate with colleagues seek peer review publish and disseminate
+results and engage in many other professional and educational activities
+
+In summary MICHELSON emphasized four points   A portion of humanities
+scholars already consider electronic texts the preferred format for
+analysis and dissemination   Scholars are using these electronic
+texts in conjunction with other electronic resources in all the
+processes of scholarly communication   The humanities scholars
+working context is in the process of changing from print technology to
+electronic technology in many ways mirroring transformations that have
+occurred or are occurring within the scientific community   These
+changes are occurring in conjunction with the development of a new
+communication medium  research and education networks that are
+characterized by their capacity to advance scholarship in a wholly unique
+way
+
+MICHELSON also reiterated her three principal arguments  l Electronic
+texts are best understood in terms of the relationship to other
+electronic resources and the growing prominence of networkmediated
+scholarship   The prospects for electronic texts lie in their capacity
+to be integrated into the online network of electronic resources that
+comprise the new working context for scholars   Retrospective conversion
+of portions of the scholarly record should be a key strategy as information
+providers respond to changes in scholarly communication practices
+
+                                 
+
+
+VECCIA  AMs evaluation project and public users of electronic resources
+ AM and its design  Site selection and evaluating the Macintosh
+implementation of AM  Characteristics of the six public libraries
+selected  Characteristics of AMs users in these libraries  Principal
+ways AM is being used 
+
+
+Susan VECCIA team leader and Joanne FREEMAN associate coordinator
+American Memory Library of Congress gave a joint presentation  First
+by way of introduction VECCIA explained her and FREEMANs roles in
+American Memory AM  Serving principally as an observer VECCIA has
+assisted with the evaluation project of AM placing AM collections in a
+variety of different sites around the country and helping to organize and
+implement that project  FREEMAN has been an associate coordinator of AM
+and has been involved principally with the interpretative materials
+preparing some of the electronic exhibits and printed historical
+information that accompanies AM and that is requested by users  VECCIA
+and FREEMAN shared anecdotal observations concerning AM with public users
+of electronic resources  Notwithstanding a fairly structured evaluation
+in progress both VECCIA and FREEMAN chose not to repoIG LM HKVXRURXH RM
+GVINH LU MFNYVIH VGX YVXZFHV GSVB UVOG RG DZH GLL VZIOB RM GSV
+VEZOFZGRLM KILQVXG GL WL HL
+
+ZN RH ZM VOVXGILMRX ZIXSREV LU KIRNZIB HLFIXV NZGVIRZOH UILN GSV ORYIZIB
+LU XLMTIVHH HVOVXGVW XLOOVXGRLMH IVKIVHVMGRMT Z EZIRVGB LU ULINZGH
+KSLGLTIZKSH TIZKSRX ZIGH IVXLIWVW HLFMW NLGRLM KRXGFIVH YILZWHRWVH
+ZMW HLLM KZNKSOVGH ZMW YLLPH  RM GVINH LU GSV WVHRTM LU GSRH HBHGVN
+GSV RMGVIKIVGZGREV VCSRYRGH SZEV YVVM PVKG HVKZIZGV UILN GSV KIRNZIB
+IVHLFIXVH DRGS TLLW IVZHLM  ZXXLNKZMBRMT GSRH XLOOVXGRLM ZIV KIRMGVW
+WLXFNVMGZGRLM ZMW FHVI TFRWVH ZH DVOO ZH TFRWVH GSZG UIVVNZM KIVKZIVW ULI
+GVZXSVIH HL GSZG GSVB NZB YVTRM FHRMT GSV XLMGVMG LU GSV HBHGVN ZG LMXV
+
+EVXXRZ WVHXIRYVW GSV VEZOFZGRLM KILQVXG YVULIV GZOPRMT ZYLFG GSV KFYORX

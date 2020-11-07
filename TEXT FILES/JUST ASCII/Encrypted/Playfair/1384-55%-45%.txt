@@ -1,0 +1,1126 @@
+
+SPERBERGMcQUEEN next outlined the administrative background of the TEI
+The TEI is an international project to develop and disseminate guidelines
+for the encoding and interchange of machinereadable text  It is
+sponsored by the Association for Computers in the Humanities the
+Association for Computational Linguistics and the Association for
+Literary and Linguistic Computing  Representatives of numerous other
+professional societies sit on its advisory board  The TEI has a number
+of affiliated projects that have provided assistance by testing drafts of
+the guidelines
+
+Among the design goals for the TEI tag set the scheme first of all must
+meet the needs of research because the TEI came out of the research
+community which did not feel adequately served by existing tag sets
+The tag set must be extensive as well as compatible with existing and
+emerging standards  In  version  of the Guidelines was released
+SPERBERGMcQUEEN illustrated their contents
+
+SPERBERGMcQUEEN noted that one problem besetting electronic text has
+been the lack of adequate internal or external documentation for many
+existing electronic texts  The TEI guidelines as currently formulated
+contain few fixed requirements but one of them is this  There must
+always be a document header an infile SGML tag that provides
+ a bibliographic description of the electronic object one is talking
+about that is who included it when what for and under which title
+and  the copy text from which it was derived if any  If there was
+no copy text or if the copy text is unknown then one states as much
+Version  of the Guidelines was scheduled to be completed in fall 
+and a revised third version is to be presented to the TEI advisory board
+for its endorsement this coming winter  The TEI itself exists to provide
+a markup language not a markedup text
+
+Among the challenges the TEI has attempted to face is the need for a
+markup language that will work for existing projects that is handle the
+level of markup that people are using now to tag only chapter section
+and paragraph divisions and not much else  At the same time such a
+language also will be able to scale up gracefully to handle the highly
+detailed markup which many people foresee as the future destination of
+much electronic text and which is not the future destination but the
+present home of numerous electronic texts in specialized areas
+
+SPERBERGMcQUEEN dismissed the lowestcommondenominator approach as
+unable to support the kind of applications that draw people who have
+never been in the public library regularly before and make them come
+back  He advocated more interesting text and more intelligent text
+Asserting that it is not beyond economic feasibility to have good texts
+SPERBERGMcQUEEN noted that the TEI Guidelines listing odd tags
+contains tags that one is expected to enter every time the relevant
+textual feature occurs  It contains all the tags that people need now
+and it is not expected that everyone will tag things in the same way
+
+The question of how people will tag the text is in large part a function
+of their reaction to what SPERBERGMcQUEEN termed the issue of
+reproducibility  What one needs to be able to reproduce are the things
+one wants to work with  Perhaps a more useful concept than that of
+reproducibility or recoverability is that of processability that is
+what can one get from an electronic text without reading it again
+in the original  He illustrated this contention with a page from
+Jan Comeniuss bilingual Introduction to Latin
+
+SPERBERGMcQUEEN returned at length to the issue of images as simulacra
+for the text in order to reiterate his belief that in the long run more
+than images of pages of particular editions of the text are needed
+because just as secondgeneration photocopies and secondgeneration
+microfilm degenerate so secondgeneration representations tend to
+degenerate and one tends to overstress some relatively trivial aspects
+of the text such as its layout on the page which is not always
+significant despite what the text critics might say and slight other
+pieces of information such as the very important lexical ties between the
+English and Latin versions of Comeniuss bilingual text for example
+Moreover in many crucial respects it is easy to fool oneself concerning
+what a scanned image of the text will accomplish  For example in order
+to study the transmission of texts information concerning the text
+carrier is necessary which scanned images simply do not always handle
+Further even the highquality materials being produced at Cornell use
+much of the information that one would need if studying those books as
+physical objects  It is a choice that has been made  It is an arguably
+justifiable choice but one does not know what color those pen strokes in
+the margin are or whether there was a stain on the page because it has
+been filtered out  One does not know whether there were rips in the page
+because they do not show up and on a couple of the marginal marks one
+loses half of the mark because the pen is very light and the scanner
+failed to pick it up and so what is clearly a checkmark in the margin of
+the original becomes a little scoop in the margin of the facsimile
+Standard problems for facsimile editions not new to electronics but
+also true of lightlens photography and are remarked here because it is
+important that we not fool ourselves that even if we produce a very nice
+image of this page with good contrast we are not replacing the
+manuscript any more than microfilm has replaced the manuscript
+
+The TEI comes from the research community where its first allegiance
+lies but it is not just an academic exercise  It has relevance far
+beyond those who spend all of their time studying text because ones
+model of text determines what ones software can do with a text  Good
+models lead to good software  Bad models lead to bad software  That has
+economic consequences and it is these economic consequences that have
+led the European Community to help support the TEI and that will lead
+SPERBERGMcQUEEN hoped some software vendors to realize that if they
+provide software with a better model of the text they can make a killing
+
+                                 
+
+
+DISCUSSION  Implications of different DTDs and tag sets  ODA versus SGML 
+
+
+During the discussion that followed several additional points were made
+Neither AAP ie Association of American Publishers nor CALS ie
+Computeraided Acquisition and Logistics Support has a documenttype
+definition for ancient Greek drama although the TEI will be able to
+handle that  Given this state of affairs and assuming that the
+technicaljournal producers and the commercial vendors decide to use the
+other two types then an institution like the Library of Congress which
+might receive all of their publications would have to be able to handle
+three different types of document definitions and tag sets and be able to
+distinguish among them
+
+Office Document Architecture ODA has some advantages that flow from its
+tight focus on office documents and clear directions for implementation
+Much of the ODA standard is easier to read and clearer at first reading
+than the SGML standard which is extremely general  What that means is
+that if one wants to use graphics in TIFF and ODA one is stuck because
+ODA defines graphics formats while TIFF does not whereas SGML says the
+world is not waiting for this work group to create another graphics format
+What is needed is an ability to use whatever graphics format one wants
+
+The TEI provides a socket that allows one to connect the SGML document to
+the graphics  The notation that the graphics are in is clearly a choice
+that one needs to make based on her or his environment and that is one
+advantage  SGML is less megalomaniacal in attempting to define formats
+for all kinds of information though more megalomaniacal in attempting to
+cover all sorts of documents  The other advantage is that the model of
+text represented by SGML is simply an order of magnitude richer and more
+flexible than the model of text offered by ODA  Both offer hierarchical
+structures but SGML recognizes that the hierarchical model of the text
+that one is looking at may not have been in the minds of the designers
+whereas ODA does not
+
+ODA is not really aiming for the kind of document that the TEI wants to
+encompass  The TEI can handle the kind of material ODA has as well as a
+significantly broader range of material  ODA seems to be very much
+focused on office documents which is what it started out being called
+office document architecture
+
+                                 
+
+
+CALALUCA  Textencoding from a publishers perspective 
+Responsibilities of a publisher  Reproduction of Mignes Latin series
+whole and complete with SGML tags based on perceived need and expected
+use  Particular decisions arising from the general decision to produce
+and publish PLD 
+
+
+The final speaker in this session Eric CALALUCA vice president
+ChadwyckHealey Inc spoke from the perspective of a publisher re
+textencoding rather than as one qualified to discuss methods of
+encoding data and observed that the presenters sitting in the room
+whether they had chosen to or not were acting as publishers  making
+choices gathering data gathering information and making assessments
+CALALUCA offered the hardwon conviction that in publishing very large
+text files such as PLD one cannot avoid making personal judgments of
+appropriateness and structure
+
+In CALALUCAs view encoding decisions stem from prior judgments  Two
+notions have become axioms for him in the consideration of future sources
+for electronic publication   electronic text publishing is as personal
+as any other kind of publishing and questions of if and how to encode
+the data are simply a consequence of that prior decision   all
+personal decisions are open to criticism which is unavoidable
+
+CALALUCA rehearsed his role as a publisher or better as an intermediary
+between what is viewed as a sound idea and the people who would make use
+of it  Finding the specialist to advise in this process is the core of
+that function  The publisher must monitor and hug the fine line between
+giving users what they want and suggesting what they might need  One
+responsibility of a publisher is to represent the desires of scholars and
+research librarians as opposed to bullheadedly forcing them into areas
+they would not choose to enter
+
+CALALUCA likened the questions being raised today about data structure
+and standards to the decisions faced by the Abbe Migne himself during
+production of the Patrologia series in the midnineteenth century
+ChadwyckHealeys decision to reproduce Mignes Latin series whole and
+complete with SGML tags was also based upon a perceived need and an
+expected use  In the same way that Mignes work came to be far more than
+a simple handbook for clerics PLD is already far more than a database
+for theologians  It is a bedrock source for the study of Western
+civilization CALALUCA asserted
+
+In regard to the decision to produce and publish PLD the editorial board
+offered direct judgments on the question of appropriateness of these
+texts for conversion their encoding and their distribution and
+concluded that the best possible project was one that avoided overt
+intrusions or exclusions in so important a resource  Thus the general
+decision to transmit the original collection as clearly as possible with
+the widest possible avenues for use led to other decisions   To encode
+the data or not SGML or not TEI or not  Again the expected user
+community asserted the need for normative tagging structures of important
+humanities texts and the TEI seemed the most appropriate structure for
+that purpose  Research librarians who are trained to view the larger
+impact of electronic text sources on  or  or  doctoral
+disciplines loudly approved the decision to include tagging  They see
+what is coming better than the specialist who is completely focused on
+one edition of Ambroses De Anima and they also understand that the
+potential uses exceed present expectations   What will be tagged and
+what will not  Once again the board realized that one must tag the
+obvious  But in no way should one attempt to identify through encoding
+schemes every single discrete area of a text that might someday be
+searched  That was another decision  Searching by a column number an
+author a word a volume permitting combination searches and tagging
+notations seemed logical choices as core elements   How does one make
+the data available?  Tieing it to a CDROM edition creates limitations
+but a magnetic tape file that is very large is accompanied by the
+encoding specifications and that allows one to make local modifications
+also allows one to incorporate any changes one may desire within the
+bounds of private research though exporting tag files from a CDROM
+could serve just as well  Since no one on the board could possibly
+anticipate each and every way in which a scholar might choose to mine
+this data bank it was decided to satisfy the basics and make some
+provisions for what might come   Not to encode the database would rob
+it of the interchangeability and portability these important texts should
+accommodate  For CALALUCA the extensive options presented by fulltext
+searching require care in text selection and strongly support encoding of
+data to facilitate the widest possible search strategies  Better
+software can always be created but summoning the resources the people
+and the energy to reconvert the text is another matter
+
+PLD is being encoded captured and distributed because to
+ChadwyckHealey and the board it offers the widest possible array of
+future research applications that can be seen today  CALALUCA concluded
+by urging the encoding of all important text sources in whatever way
+seems most appropriate and durable at the time without blanching at the
+thought that ones work may require emendation in the future  Thus
+ChadwyckHealey produced a very large humanities text database before the
+final release of the TEI Guidelines
+
+                                 
+
+
+DISCUSSION  Creating texts with markup advocated  Trends in encoding 
+The TEI and the issue of interchangeability of standards  A
+misconception concerning the TEI  Implications for an institution like
+LC in the event that a multiplicity of DTDs develops  Producing images
+as a first step towards possible conversion to full text through
+character recognition  The AAP tag sets as a common starting point and
+the need for caution 
+
+
+HOCKEY prefaced the discussion that followed with several comments in
+favor of creating texts with markup and on trends in encoding  In the
+future when many more texts are available for online searching real
+problems in finding what is wanted will develop if one is faced with
+millions of words of data  It therefore becomes important to consider
+putting markup in texts to help searchers home in on the actual things
+they wish to retrieve  Various approaches to refining retrieval methods
+toward this end include building on a computer version of a dictionary
+and letting the computer look up words in it to obtain more information
+about the semantic structure or semantic field of a word its grammatical
+structure and syntactic structure
+
+HOCKEY commented on the present keen interest in the encoding world
+in creating   machinereadable versions of dictionaries that can be
+initially tagged in SGML which gives a structure to the dictionary entry
+these entries can then be converted into a more rigid or otherwise
+different database structure inside the computer which can be treated as
+a dynamic tool for searching mechanisms  large bodies of text to study
+the language  In order to incorporate more sophisticated mechanisms
+more about how words behave needs to be known which can be learned in
+part from information in dictionaries  However the last ten years have
+seen much interest in studying the structure of printed dictionaries
+converted into computerreadable form  The information one derives about
+many words from those is only partial one or two definitions of the
+common or the usual meaning of a word and then numerous definitions of
+unusual usages  If the computer is using a dictionary to help retrieve
+words in a text it needs much more information about the common usages
+because those are the ones that occur over and over again  Hence the
+current interest in developing large bodies of text in computerreadable
+form in order to study the language  Several projects are engaged in
+compiling for example  million words HOCKEY described one with
+which she was associated briefly at Oxford University involving
+compilation of  million words of British English  about  percent of
+that will contain detailed linguistic tagging encoded in SGML it will
+have word class taggings with words identified as nouns verbs
+adjectives or other parts of speech  This tagging can then be used by
+programs which will begin to learn a bit more about the structure of the
+language and then can go to tag more text
+
+HOCKEY said that the more that is tagged accurately the more one can
+refine the tagging process and thus the bigger body of text one can build
+up with linguistic tagging incorporated into it  Hence the more tagging
+or annotation there is in the text the more one may begin to learn about
+language and the more it will help accomplish more intelligent OCR  She
+recommended the development of software tools that will help one begin to
+understand more about a text which can then be applied to scanning
+images of that text in that format and to using more intelligence to help
+one interpret or understand the text
+
+HOCKEY posited the need to think about common methods of textencoding
+for a long time to come because building these large bodies of text is
+extremely expensive and will only be done once
+
+In the more general discussion on approaches to encoding that followed
+these points were made
+
+BESSER identified the underlying problem with standards that all have to
+struggle with in adopting a standard namely the tension between a very
+highly defined standard that is very interchangeable but does not work
+for everyone because something is lacking and a standard that is less
+defined more open more adaptable but less interchangeable  Contending
+that the way in which people use SGML is not sufficiently defined BESSER
+wondered  if people resist the TEI because they think it is too defined
+in certain things they do not fit into and  how progress with
+interchangeability can be made without frightening people away
+
+SPERBERGMcQUEEN replied that the published drafts of the TEI had met
+with surprisingly little objection on the grounds that they do not allow
+one to handle X or Y or Z  Particular concerns of the affiliated
+projects have led in practice to discussions of how extensions are to
+be made the primary concern of any project has to be how it can be
+represented locally thus making interchange secondary  The TEI has
+received much criticism based on the notion that everything in it is
+required or even recommended which as it happens is a misconception
+from the beginning   because none of it is required and very little is
+actually actively recommended for all cases except that one document
+ones source
+
+SPERBERGMcQUEEN agreed with BESSER about this tradeoff  all the
+projects in a set of twenty TEIconformant projects will not necessarily
+tag the material in the same way  One result of the TEI will be that the
+easiest problems will be solvedthose dealing with the external form of
+the information but the problem that is hardest in interchange is that
+one is not encoding what another wants and vice versa  Thus after
+the adoption of a common notation the differences in the underlying
+conceptions of what is interesting about texts become more visible
+The success of a standard like the TEI will lie in the ability of
+the recipient of interchanged texts to use some of what it contains
+and to add the information that was not encoded that one wants in a
+layered way so that texts can be gradually enriched and one does not
+have to put in everything all at once  Hence having a wellbehaved
+markup scheme is important
+
+STEVENS followed up on the paradoxical analogy that BESSER alluded to in
+the example of the MARC records namely the formats that are the same
+except that they are different  STEVENS drew a parallel between
+documenttype definitions and MARC records for books and serials and maps
+where one has a tagging structure and there is a textinterchange
+STEVENS opined that the producers of the information will set the terms
+for the standard ie develop documenttype definitions for the users
+of their products creating a situation that will be problematical for
+an institution like the Library of Congress which will have to deal with
+the DTDs in the event that a multiplicity of them develops  Thus
+numerous people are seeking a standard but cannot find the tag set that
+will be acceptable to them and their clients  SPERBERGMcQUEEN agreed
+with this view and said that the situation was in a way worse  attempting
+to unify arbitrary DTDs resembled attempting to unify a MARC record with a
+bibliographic record done according to the Prussian instructions
+According to STEVENS this situation occurred very early in the process
+
+WATERS recalled from early discussions on Project Open Book the concern
+of many people that merely by producing images POB was not really
+enhancing intellectual access to the material  Nevertheless not wishing
+to overemphasize the opposition between imaging and full text WATERS
+stated that POB views getting the images as a first step toward possibly
+converting to full text through character recognition if the technology
+is appropriate  WATERS also emphasized that encoding is involved even
+with a set of images
+
+SPERBERGMcQUEEN agreed with WATERS that one can create an SGML document
+consisting wholly of images  At first sight organizing graphic images
+with an SGML document may not seem to offer great advantages but the
+advantages of the scheme WATERS described would be precisely that
+ability to move into something that is more of a multimedia document
+a combination of transcribed text and page images  WEIBEL concurred in
+this judgment offering evidence from Project ADAPT where a page is
+divided into text elements and graphic elements and in fact the text
+elements are organized by columns and lines  These lines may be used as
+the basis for distributing documents in a network environment  As one
+develops software intelligent enough to recognize what those elements
+are it makes sense to apply SGML to an image initially that may in
+fact ultimately become more and more text either through OCR or edited
+OCR or even just through keying  For WATERS the labor of composing the
+document and saying this set of documents or this set of images belongs
+to this document constitutes a significant investment
+
+WEIBEL also made the point that the AAP tag sets while not excessively
+prescriptive offer a common starting point they do not define the
+structure of the documents though  They have some recommendations about
+DTDs one could use as examples but they do just suggest tag sets   For
+example the CORE project attempts to use the AAP markup as much as
+possible but there are clearly areas where structure must be added
+That in no way contradicts the use of AAP tag sets
+
+SPERBERGMcQUEEN noted that the TEI prepared a long working paper early
+on about the AAP tag set and what it lacked that the TEI thought it
+needed and a fairly long critique of the naming conventions which has
+led to a very different style of naming in the TEI  He stressed the
+importance of the opposition between prescriptive markup the kind that a
+publisher or anybody can do when producing documents de novo and
+descriptive markup in which one has to take what the text carrier
+provides  In these particular tag sets it is easy to overemphasize this
+opposition because the AAP tag set is extremely flexible  Even if one
+just used the DTDs they allow almost anything to appear almost anywhere
+
+                                 
+
+SESSION VI  COPYRIGHT ISSUES
+
+
+PETERS  Several cautions concerning copyright in an electronic
+environment  Review of copyright law in the United States  The notion
+of the public good and the desirability of incentives to promote it 
+What copyright protects  Works not protected by copyright  The rights
+of copyright holders  Publishers concerns in todays electronic
+environment  Compulsory licenses  The price of copyright in a digital
+medium and the need for cooperation  Additional clarifications   Rough
+justice oftentimes the outcome in numerous copyright matters  Copyright
+in an electronic society  Copyright law always only sets up the
+boundaries anything can be changed by contract 
+
+
+Marybeth PETERS policy planning adviser to the Register of Copyrights
+Library of Congress   made several general comments and then opened the
+floor to discussion of subjects of interest to the audience
+
+Having attended several sessions in an effort to gain a sense of what
+people did and where copyright would affect their lives PETERS expressed
+the following cautions
+
+      If one takes and converts materials and puts them in new forms
+     then from a copyright point of view one is creating something and
+     will receive some rights
+
+      However if what one is converting already exists a question
+     immediately arises about the status of the materials in question
+
+      Putting something in the public domain in the United States offers
+     some freedom from anxiety but distributing it throughout the world
+     on a network is another matter even if one has put it in the public
+     domain in the United States  Re foreign laws very frequently a
+     work can be in the public domain in the United States but protected
+     in other countries  Thus one must consider all of the places a
+     work may reach lest one unwittingly become liable to being faced
+     with a suit for copyright infringement or at least a letter
+     demanding discussion of what one is doing
+
+PETERS reviewed copyright law in the United States  The US
+Constitution effectively states that Congress has the power to enact
+copyright laws for two purposes   to encourage the creation and
+dissemination of intellectual works for the good of society as a whole
+and significantly  to give creators and those who package and
+disseminate materials the economic rewards that are due them
+
+Congress strives to strike a balance which at times can become an
+emotional issue  The United States has never accepted the notion of the
+natural right of an author so much as it has accepted the notion of the
+public good and the desirability of incentives to promote it  This state
+of affairs however has created strains on the international level and
+is the reason for several of the differences in the laws that we have
+Today the United States protects almost every kind of work that can be
+called an expression of an author  The standard for gaining copyright
+protection is simply originality  This is a low standard and means that
+a work is not copied from something else as well as shows a certain
+minimal amount of authorship  One can also acquire copyright protection
+for making a new version of preexisting material provided it manifests
+some spark of creativity
+
+However copyright does not protect ideas methods systemsonly the way
+that one expresses those things  Nor does copyright protect anything
+that is mechanical anything that does not involve choice or criteria
+concerning whether or not one should do a thing  For example the
+results of a process called declicking in which one mechanically removes
+impure sounds from old recordings are not copyrightable  On the other
+hand the choice to record a song digitally and to increase the sound of
+violins or to bring up the tympani constitutes the results of conversion
+that are copyrightable  Moreover if a work is protected by copyright in
+the United States one generally needs the permission of the copyright
+owner to convert it  Normally who will own the newthat is converted
+material is a matter of contract  In the absence of a contract the
+person who creates the new material is the author and owner  But people
+do not generally think about the copyright implications until after the
+fact  PETERS stressed the need when dealing with copyrighted works to
+think about copyright in advance  Ones bargaining power is much greater
+up front than it is down the road
+
+PETERS next discussed works not protected by copyright for example any
+work done by a federal employee as part of his or her official duties is
+in the public domain in the United States  The issue is not wholly free
+of doubt concerning whether or not the work is in the public domain
+outside the United States  Other materials in the public domain include
+any works published more than seventyfive years ago and any work
+published in the United States more than twentyeight years ago whose
+copyright was not renewed  In talking about the new technology and
+putting material in a digital form to send all over the world PETERS
+cautioned one must keep in miWR PMQF ROUVQ PRS DHPIPB UQA WMZ SQ LA
+HVLHK HC FRS NAMGKR BPQFSP PMQK UQQ XK HW RUGPAESCF FECPX HZ FRS YWNSW
+ROSEQ HHXM QIOCFDHSP HEKSHIHLXA QHFSWXKR Q NHZEWDIMP PQCH UZ PMA SUGY HZ
+PMQ YMFMIE HFNL PUGZQ KQENB
+
+HSPQEP RABZ ESGDYRKR PMY SWMWUUHRB UZ WMZEDHPIP MUXKDDF  VHHTXA
+QRUWIUMD DHPIPB ENQ PRS DHPIPB ZM WMCFWHB FRS ESHEIWMNGMUW UZ Y NHWV DW
+LAA ZHWC  MRSQ XASUWP FM ZRS LNPMHW HW UD PMQ RELY HU L YWDE UQRK ZUW
+MHES PMY SHTXUKQC  PRS PSWMWR DHPIZ CMHRM HV NCMGMDLF ZM WMDLSEVHUW
+HV PMS EDIMP ZM RMLAPK Y NHWQ  GRS DHPIZ BI UYEA RYR SKEPHIRL HV HSEREFB
+UWY HZ FRS UIBP VHFDUGMDLAP CDIMPX HU LMFMIEP FECPMDNFENXA UD LA
+ASQRPCUWMD YWNSC  GRS PMHDR CDIMP HV PMS EDIMP ZM FHLXHVM PRS YWDE LAW
+PMS EDIMP ZM KDBVQHUDQFK HP BIUQPMHDF PMQF KSSEXWRA ROI WQYXB UD LA
+ASQRPCUWMD HQKDOU RAKRB PI YWUC  ZRS LQVHN CNFK HV HU L WMZE HV XHVN
+LFS NDIMPX HG NHVPCMVMFHIA LES YSGMDFOHPRKR DOPM PMS PLFY HZ FUEM QHZX
+PMQ EQK HV PMQF MG UOBP SQ XHVN  L AOUSQW HT NIUFEDUSP IXSEWMHQ PMHV
+MXBPQNSA XQ SAELUDZ IW SARGMDF PMKHE HWHNIQM  PMSPQ RIUFEDUSP ENFIQ PUEZ
+UG PMQ HQFSEUKV UP EARPQW IN SQYPSN KWR WUP BUXC GRSQ WUWPCUX PMA HPSB
+UZ Y NHWQ  GRS ZUHNPM DHPIF QWR UWK SSEK OHTHWFQCF UD K NDIMGLF YWNSW
+HV E NDIMP UZ FHLXMD HSNPHWUQWNY RMHRM HQLAB PRS DHPIZ BH XMIC ZRS YWDE
+PSAMARGMLFXA  ZUE SLYHTSA WMZEDHPIZ MDWSEB RUWPCUX PMS PMIDODF UZ Y
+NRWHH TWHNIQM UD E FMLVUR TFLRQ LHRM EL E FMLVUN BMVNEWE  PMS EKSSEPS
+VHRK UZ FHLXMD HSNPHWUQWNK HB VIUQPMHDF NQXVKR PMS EDIMP UZ FHLXMD
+KDPHFLQ  OHWLF DHPIPB LFXH YSHVZ CMHRM QF PMA PKRSELF SASKF LZSXA UWXA
+ZM SKWE VUUHPQK GHVNLX NHWEV UZ ENM TMF UD PMYHWE UQK YZSXA NARKW
+WMCFNEQM LAW IPMSE HEUDDMFSSP  UINES NDIMPB HYK UDNBINQ PRS DHPIZ MU LW
+LNPMHW ZM UESK MHX HE RSE ALHQ UW Y NHWQ GRS DHPIZ MU LZBDHLMGMUW LAW
+PMS EDIMP ZM MXHKQM ZM KDBPHWGMUW HW UOGMFLGMUWPMS EDIMP UZ UDPQPDMGX
+
+PMY RYK WMZEDHPIF BYN HV YWCRKR IDSKB HMNU SQFMGINQ PU YQMDGMGHKB VMNU EB
+HESPSELKGMUW ZM HLY HT UQFSEUKF UHW BRMIFLNSK YWR ESPSENRM FHEHHXSP ROAR
+PMA HPSC RHYL RMZ UQEQ UOBFHGSA WMGHSP LAC GM ZRS PKRANEGMUW UZ
+ULRBHUUVQ RHZHKX HU NRFMLVUPRKR YWDEB LA XMVNEDHSP ZUC PRSHBASSKL EWR
+MZRSN SMVNEDHSP  LMZ BRS FLD RHYL RMZ LFXUN YWAUWQ PM XQRIUQ PRS
+KDBPDHLMZMW HZ FRS HEIWMNF ZHW PMY SCFHDY RHWVN  UD ZMNKEX ASQRPCUWMD
+ARGDWHCUARF TMLVUPRSEL EES YSPCQHASQ WUWRQCWKR PMQF PMY SCFHDY RHWVN HV
+RAZCHWEQN KWR NQW UTMKUC FRS UDZUCHQFHIW RSPHDKR PNIU E LUDFVQ RHZK OA L
+VHDFSA VUSCENE  OARRQ UG PMSEK HB PM XY HAFX WRA LESA ROMDR HMLVUPRSEB
+UQQ WMIHXQ PU XDGY RMGM PRSX YUVX UTMKUC FRSHD UIRAK OW UPMSE NYEX ZUW
+YSQUFSA PWHU QWBSPL EWR HLS  RARRQ PMK RKSASHZHQCF UZ VHPQ VURQRLSP
+LAW IPMSE VDWRX HU LPDYSHQCFB PM WIXSE ROQF FHLXHVRSEP SQVUKSQ PRSX
+PRIOVN SQ WMHTARLEPQN GHW  LAE XUXMFHIC FUEZ BRS NAMGKR BPQFSP FQEQB
+ZMNKE OEL ZM WMRLDKSE PMK HCFSEALGMUWLF ENARY
+
+WUGMDF PMQF PMA HDUPQR VFQPQV HL E HQCTSE UZ PMQ SSERA WMDLARGMUW LAW
+LHLBNCMVSP ZM MGP HWHGDVHUWP HQPSEV RSPNCMVKR PMS HSEUHBVHIRL HEMWSPB
+PRQ YXBI WAPUDKR WMHTNFXHWE VURQRLSP  Q NIUFHXBHWA XMDARPS UZ ROMDM PRS
+NAMGKR BPQFSP UEP RKN L UYR LMUVRV UDZM PMA SYN PMS EDIMP ZM HLQ Y YWDE
+LHVMQRZ BM WSEFQUD PQCHL EWR WMWRMGHIRL  UD PMK HCFSEALGMUWLF ENARY
+MIRYSKC PRS QLUVMGQ ZI OPS WMHTNFXHWE VURQRLSP HV YSPCQHASA XHUMGKR
+PMHL NBQYDHDFMIHLSP LAW IPMSE WMXVQRGMSKB RIUHEHVY HRA HZGMUW PMQF UEB
+LHWBYSRKK DR FWHGDKDDF ZUN HPS UZ Y NHWY  IZFAR IXSEXUIYKR ROAR UWY
+SQIDRL ZM HLQ RHZEWDIMPKR UQPQDHLF LAR GMF HEIWMNPB ZMPKPMSE HV MIY
+YSHSRLDGQ PRS HSCHHVVHUWP HWHRQBV LAC ILAKFUDI DG ML  EWBHWKDDF ZM
+HSPQEP PMS HDHRQ UZ WMZEDHPIG MA L KDIDFQB UKRHOO CUEPQSKE PUXMFHID UB
+YWDEKR IOZ CUVV UWNFNRK UQALIDDF LAN KBVQHLXUDP FRS NKFQLQPS  PRY
+BPWHDFXA ESWMOBARRKC GUEF TMLVUPRSEL EWR VUSCENUKRL HW HSHZSA DOPM
+LKDHIOB LQNVIWHNARV WMHZSEQFQ PW YHWY IMF KNUHDUBPNEGMSKXA PAELMVSA
+XEBPQHV HW UCRSE ZM HEIWMNQ SQPPQW SSPNFPB
+
+UD PMA SARPFOE AMSPGMUWLANKRLRYE HSEHIC GUEF ZUXXURYR GQPSEBV
+HESPARFQGMUW PMA PUXXUDODF ZHUDPB QHSEPKW
+
+      PMQ RHZEWDIMP UZGURQ UQUDFQUDB PUEF QWAPMUDT IQRUEDUNQF LWR
+     ZMFQXVK QSOLNBPDGS HWHLQLXK OL RMZ HEMZQRPQK  DC FRS KSARZ BUEZ
+     ROQF LA UDKDGDNILF KDK DW RKSASHZUDP TMZARGMLFXA WMZEDHPIFQLXY
+     UQPQDHLF HV WUF MWRSEBPWZC GRS WMZEDHPIZ MZLMDY RUVF LVE QLIOZ BRS
+     NCQYGMSK RMIHRQB PRS EFFSMDLAM QMIPS ZM UQEQ HW WUZ BI UYEQ  YL E
+     HEQNGMNQB UQFPQD HZ URA SQVUKSSP PRY HE RS REL UQRK ARIOPI UZ PMHXY
+     RMIHRQB PUEF TSEXHR UEL E NDIMP ZM ELPSCP Q NHZEWDIMP LAR VIUYHRA
+     ASPS UOBP ELPSCP PMQF PMY RHWV DL RMZ WMZEDHPIFQLXQ  PRS UIES
+     HQRMLAMDLF PMQ HHWQ YMFIUQFMD Q FMHDF HV PMA SSPB XDVASK OG MB PW
+     SQ WMZEDHPIFQLXY
+
+      RAENXA LFS FMIZMPDEFRP ENK RYSHQC GM XQ RHZEWDIMPQLSA LMF CW ZRA
+     YWWSHKL EXMMF PMQH UORM SQNQHLY SSKWEUWK HL PESQ PM ZYEQ PRS LEHQ
+     HUKFQ  PMOL E HRMZIZNEHRMD WMZEDHPIP CSHESPSCFX RUEG MB RLFSAN K
+     "PMUD" WMZEDHPIZ  BRS HRMZIZNEHR MGPSFU UOBP SQ NIFSMDQFKR UD
+     HWRKN PHW WMZEDHPIZ BM XK SHIFLPQW
+
+      PMQ RHZEWDIMP UZGURQ FQEQB PRS ZHVHGMUW PMQF SWYKL EES WUZ
+     WMZEDHPIFQLXQ SQRLNPS PMQK ENQ HQRUEDUNQV  UM  QLA SQ ENFIKR
+     ROQPRSW HC WMZ HUKFY SRULARQHQCF UD BRLADUDF NQC LS HWHPQQMKR  UWY
+     UOBP YSSEDMPS NQES DOPM UQPQDHLF NCQYPQR DMGR HMLVUN TNARV LAW
+     PKRANEXVK OC FRS FHLXMD WIUQUD  LA ENGMNBY RDHZBAR XQ L UKRSELF
+     QHFSWXYS UG DCMGPQA LP HENZ MZ UZLMDUKV NMFHKV HL RMZ
+     WMZEDHPIFQLXS  RWYKSSE WMCFWHX USKN E BRHKCFUGMD ENGMNBY RDHZBAR
+     XQ L AQFHIALV URLGMFMPQX HP UQYBFI PNECFYS HK XHHQUWY RMI
+     ESRQDGSP UIRAA ZWHC MRS HL ZISKCWHQCF RKHSWRX HW LHM ZHVUWQ  UG
+     PMK PIXSECUARF QPKWNE OEL WU ZHVUWQ LAC GUEF TUXMDQ WLA SQ
+     WMCFKURAK DD UPB ESFIFLGMUWB PRS WMCFNEQM HW PMK PNECF PMY
+     LNPMHW ESFQUDB RHZEWDIMP  UG E FWHGDVHUW UZ PMQ RUWPCQNF PNECF HW
+     ESFIFLGMUW BPQFSP PMQF PMSEY RUVX LA RM WHZEWDIMP PMAR MG WISP WUZ
+     YSHVZ  CRSA L YWDE HV NCQYPQR NHZEWDIMP LNZMUQGMNQXVQ WIUSP UDZM
+     YSHVPQWNA HAFSPB VIUQPMHDF YSHVPB PMQF LEEX MG WISP WUZ
+
+      LA ARUEWNKR ASQRPCUWMD WMZE UZ E FDHCF WMZE UZ LA UXRKW SAPSEARRQ
+     YWDE UD PMS HMLVUN RIUKUC FUEG CHYL RMZ WMCFKUW NHZEWDIMPQLSA RAY
+     UQPQDHLF HV E FHNASQ OQRUEDUNQS NARKDGMUW UZ PMY HDHIDALX NHWE YWR
+     HV WUM QHZEWDIMPQLSA
+
+      HLNLXVX YRSA L YWDE ARPQEP PMS HMLVUN RIUKUW LMZMHDF NQW CQHIXY
+     MG  ZUE SLYHTSA WMDFESBV ESRQCFXA FEBVKR UDZM FLC ZRS WMWNSHZ MZ
+     LNZMUQGMN CARYRLF ROMDM UQYRL PMQF WMZEDHPIZ MA LWA YWDE FHLXHVRSW
+     SQZCYSA F LAN V WISP WUP MKLQ PM XS EARYRKR UD HWRKC PW
+     ESRQDGQ Y PSSKCFAZDGQKQYC PSEC  TMF LAX YHWA DMZ ESRARYC VAPHWY
+      HV UD PMS HMLVUN RIUKUW
+
+      WMWNSEDUDF ROQPRSW HC WMZ PMA HDUPQR VFQPQV EYSHP PCQNY IZ NRSW
+     LNPMHWV RHK WUPMUDZ DEL KSSE WIRA WUD HL EWAPMUDT VKHDF WIRA QF
+     PMQ HIUARM TQ ZRS WMZEDHPIZ MZLMDY
+
+      XHZFNYES PMQF RCDGSP Q UQRUEDUNQS FWHRQBV HV MGPSFU WMZEDHPIFQLXY
+     UG UWQ RUEDFSP FSQFZUCHB PRS XHZFNYES MGPSFU UEL E WMZEDHPIZ  BRS
+     YWNSK DCFASSAQMNLS FWHHSCPX WDPLAOGQFHIW DUVS UUXN K XEHTHXHOO 
+     UQCNM PREIOPI  EFDHX V QF UEDSENN IDUSKEPMGX WW RDIMGLF
+     PQRMWUXUZK LAR DUVX BFMWK PMHV ARGMES HVLHK  HZ URA FHCNUEPSL E
+     WMHTMFSE XHZFNYES FEDQKFS PMNU EB HQNFEUDF QWR NCQYPQB VIUQPMHDF
+     RAY WRA ESRQDGSP HEMZQRGMUW UWXA ZUC PUEZ CMHRM UEB LYSA LWVKR
+
+HSPQEP KNRKC GUEZ MZFAR UD WMZEDHPIM CQFPQEP WHIFM HHLGMRQ HV PMY
+IOMQIUA PHW YSQUFSK HW NUXSAQMDGA SMDARVHDF ELNQG HQ YHQDHNQW
+XHDMQPX WT NIUZHPSEP LNPMHWL EWR FHLXHVRSEP LAC VUH HK SCUYRNELZ
+UOVHD MWN ROSEK HM CYK PSQH PMQF PMQ SDI FIEX ESRQDGQ HHWQ PUEC FRSHD
+NIY  HT NIOEPS HYHFSY HIFMP WUZ BM WHZK Y NCQYGMSK HEIWMNZ CMGMIMF
+FEKODF ZUD HZ BRSES PRIOVN SQ XHHQ WMHTARLEGMUW  LMZ BRS PCMFM IZ FRS
+YWNSN KWR MG HV WUF Q PDQYZ BNHPM HV PMQF PMQ SDI FIK ZQPP HFLKQW IW
+PMS EKNHI UIES PNQAHACFXA PMLA PMA SMGFBK POA ROI MEL ZM WI UORM UIES
+NAGMS UQ SQRIUSP Q LDI FIQ  ZUEG MB PNHY HP ASKWE LNPMHW KSSEX
+WMHTHXSE KSSEXWRA LAN IAUHWFMALPQXA HV FECP UZ VUPA
+
+WMZEDHPIF QXNYKX HDHIDALPQX RMGM PRS LNPMHW YSRQTF UD NQPSX HZ NHWEV
+UQRK ZUE RHDQ  HHXP BUZZCENA PLFXB UDZM PMHV NQPQZIWE  ROAR LA LNPMHW
+PSWRP RHV ENGMNBQ PU Y HIHNALS US REL WUP CASUDAMHVRSR NHZEWDIMP PMIOPI
+RS ESFQUDB PRS DHPIZ BH WASUDAMHVM HZ  BRS LNPMHW ESRQDGSP QLXHFNPQXA
+KSSEQZMHDF  PMA SSPP HWHUHRACF PMQ YMFMIC PRS UIES SASKNEPK PMY
+FHLXHVRSC DUVS UKLK HW NUWPCQNF CKPMZUKGMUWV  HW UCRSE ZM PCLALPSE PMY
+DHPIPB PMQ YMFMIC HHLP BDIA LA LPDYSHQCF IDGDDF PMQH YNYK
+
+UD LA ASQRPCUWMD XHDMQPK OG MV HHTHWFQCF ZM SQ QLSA ZM VURQRLQ Y DCMGSE
+LAR DHWY IMF RKLFX  RMGR EKPENC GI OPS UZ Y NHWV DF MLHLFXA HV UORM
+QYVHSE ROAR E FMLVUPRSE MIVNB PRS DHPIPB  UD LA ASQRPCUWMD SEY L ESLF
+HEMXSAU QDHPSX RRSW URA HV KDIDGMGODF LAC IYEUDI DAUHWUQGMUW KLKUFLLXY
+HSPQEP ESPAWSKR KFKUC FH YSAQMWHDUN BMDARVHDF NBQYDHDFMIHLSP  WMZEDHPIZ
+IOPIZ BH WQHKUW DMGM PRS LNPMHW LMF QX HRA UISKL PHWNYCR FVMXLFXA UD PMY
+ASQRPCUWMD ENARY L UHWVSAUQW DMI NQR ULANVQ PRS LKDHIOP EDIMPB LQRIUSP
+UDNCQYVHDFXA RARQBVENX
+
+PMA RMZHIW UT NHZEWDIMP FLD OB PUEG MP CSPDKSP DOPM PMK HWRDGDKNLX LMF
+UD LA UWVURA ARGDWHCUARZ CRSES Y NHWQ DLA SQ KNEFPQN KWR GMDASEKR DOPM
+XQ UQWA UDKDGDNILFB PRSES HV WMWNSED  UT NUEDFSP ENQ YMFMIDHPYN KWR
+PMSEK HL RU YPDYSHQCF ZM PMQ RUWPCENQ ZRS HSEPUW ROM WUEDFSP Y NHWY IDWB
+PMQ RUEDFSP  ZM FHG MF QWUPMSE NYQ ZRS HSEPUW ROU YQBOHESP HSEUHBVHIW
+ZM RMLAPK Y NHWQ GQRURMDLFXA DOXV SQWMHQ PMQ YMFMIN EWR PMY HDWSE NASABV
+XHHQ KFESQHARZ BM ZRS WMCFNEWE UEB LYSC UKNK  HG MB PEZMDLF ZUC PRS
+HWDIUDLF FHLXHVRSC PM ZWE ZM WMCFWHF LXV UZ PMK SSEVHUWL EWR LFX UZ FRS
+HLSP  WMZEDHPIF BYN LFNYEX UWXA PSPB HF PMQ SIOWRENHKL  EWAPMUDT DLA SQ
+RMLAPKC VQ WUWPCQNZ
+
+                                 
+
+PSBVHID LOV  WMWNFNVHUW
+
+
+PKRANEV NHVNMBVHIC  FYW AMSPGMUWL PHW KDBRHLVHUW  KDZLSEARP QHTUEPSV HW
+PMY RHWEVMIT  SDHDFUDP FRS PQBZ LAK DUQPK FECPHVLAB PIZQPRSW 
+RKVHRKNEFQ UD FSLADUDF PMA SUWPFSEI CKSASHZHQCF UZ XHHQPMUDT  KHABPHIRL
+LHWSIOWRUDP FRS HVLHY HP ASAQMWHDUN RSHHXMG  KDBRHLVHUW UZ ASQRPCUWMD
+RKZHVHF QL EA LXVHLHIC FM ZRS HVLHY HP LFQWRENRV  RAKR ZUN E KDESQMHWX
+UZ HESPSELKGMUW HEIHQRPB UD KDIDFQF UHWU QWR ZUN EWBSPB PM ZRSHD
+KDIDGMPYN GUVSP  RQPMB RQFLFIZHA UZ UQRMUDSEQYNKLXQ PYSPB UD PMY
+MOUQDUGMSP  ROQF WMRLGMFMPQL E FHLXMDQFHID UC FRS ASQRPCUWMD YWNSW? 
+RAKR ZUN SQ MI WQYX NMGM PRS WMWNSHZ MZ UAFUDS HMLVUPRUDF  VRB RAZCHWY
+RKSKXUTHARZ MZLMDY  SSZXUDHDF PMA SHUMGX HT UENN QL E BPLANKCR UD PQCHB
+UZ UEWRVUDF ASQRPCUWMD UDZUCHQFHIC  UKFDUFMRK UZ PMS HWHLXQH LAC GRS
+RAKR ZUC RHVPCMVMFKR ESPHUWVHVMVUZQ UD HWRKC PI UKUCFKUA LWR BPHWY
+ASQRPCUWMD UDZUCHQFHIW  DHWEVMIZ SENGMDMFECFB PM XK SHKRYN KL E BPENGMDF
+ZHUDG  CKSASHZHQCF UZ L AQPYWDE SKEPHIW UU LU ODPKR  E LPQT FWYENN KHB
+WMRLPCMNGMUW UZ XHHQ XHCP UZ EFFENEFML PHW RAZCHWE YWBSPL  E RKVUNQPQ
+LAN KZIDUGODF ZHVUWQ AMSPGMUW ZUN SN  CQ PRS HVLHY HP ASAQMWHDUW
+RKZHVHF BN MDPKR ZM UDMGUKPQ Q NQFLFQZMD HEMWSPV HC FSEHB UZ KDBPDHLMPQW
+ESPHUWVHVMVUZQ  LHZVSPGMUWL PHW WMHZSEQFDGK SARFMESB  RIUHQCNUKX
+FHLXHVRSEP PAENB  VPCQFKPMD AMSPGMUWL PHW PKZBUDP FRS HUKFQ YWR PQBZ
+HSHZSA ZM PMUDQ GREIOPI XUDFPQCH WMHZSEQFHIW  NFLDHGUNQGMUW UZ PMY
+RCDGUDP ZHWRQ SQMHWR XMPM PMS HSEPSHL LAC GRS WMCWASX VSEWZ HEIHQRPB 
+
+
+UD MHP EUXQ YB HIWSEQFHW UZ PMQ RUWNBINUDP VSPVHUW IDZLHWR CKUPSC GYW
+AMSPGMUWP RQ SASHKSKR DIOVN SQRAGUF ZWHI CHVNMBVHIA   LES PMSEY SWUIFO
+WMOBUWLFMGHKL EUIDF PMHXY HU NB PUEP MKLQ SYSR USEA PHW ZCI WYKB VM ZUEZ
+RY NQR LYS WMHNPSX HU LQMHIC FUEP BMINFC VQ PYEAR UD PMA PMFHNQ?  YWR UG
+XH ROQF ENQ PRSK YWR ROI UDIMP FQEQ PMQH?   FECPXA RKDHLKGMSK PNIU
+PMQF LMZ MLSHIHLXA SKWE NKDFSEIOB PU XN QP RHXG CW XIO PSQ Y WHSA ZUW
+PMA SMVNEWE UZ WMDFESBV UD LFB FMHX?  HT NIOEPQ PRS VUSCENX WT NUWPDSPB
+MIVNL E NEPMSE PHQRUKX BFQFMV HA L ANCTSE UZ PMSPQ HQFPQEP SQNQHLK HG MB
+WUF TSERQDGKR EL E FFLKQC DMGU ER AWMWUUHR BFQEQ UD PMQH LMF QES PMSEY
+WHSAB PUEF BW BLA FSYK PMQF NQR UASF EKGLARQ HL ZMNYCR ROSEY RQ YES RSKNUDZ?
+
+RKBRDHVMDF MHHBASU LL EA NDUAUHWHQW ILBSESKW HZ FRS PQRMDUNQVUGMSP UZ PMY
+FLBP ZCI WYKV PUGZUCR RKPQQMKR PMESK RUGPAESCF QHHRELSP UD PMY RHWEVMIZ
+ HSHZSA ROU YES SKWE RKSHXA WMOBMGPQC GM ZYSF  TYHFSY RMI ENQ YBUHXZ
+FEBVHIALPQ QLIOG MUQPKL EWR  L UYR HSHZSA ROU YES SKWE WMOBMGPQC GW
+ROQF UEZSARB PM ZRS RAZCHWEV  UD MZRSC DHWRV PMA RYR RAZCHWVDDF
+KDHQRLHIC FRS QNRQBVMVUVMGX WZ FRS HEMWSPLEVMVUZQ PMS HHWFQVMVUZQ UZ
+LFB FMHL ENCHXB PRS RAZCHWEV  MID RW YS HNFB FMIPS PMESQ PIZQPRSW?
+
+KNKDDF Y AHABPHIC FUEP CAPSAQMKR MIDQQKB RIUHQCF PMQF PMHV NYB PRS
+ZUHNPM YWDEPRHZ PRS RKN QFPQWRKR UD PMS HESGDIOB PMHCPK WYKL PSAHVRMUEHAW
+YWWRSEKR ZM ROQF YSPQCF PMHV HQQPUDP IKN ESUDSKCFKR PMY RRSAS HW UG MG
+UER NUWPCMVMFKR LAQZMHDF UD PMY RYK UZ SCUDIDDF ZMPKPMSE K NUGPAESCF PDIOZ
+UZ HSHZSA PNIU PMHXY RMI WUCHLFXA EFHSEN UW PMY RHWEVMIT RHDNMMG
+
+MIDQQK WMAUSPPSC GM XKHDF BPNHDQ QF PMHV HQQPUDF KWR PMY HRA PMY
+ASQRPCUWMD GHSERQ WMRLHWGMOU HWFKDUPYC GRS HEKSHIHL RYQE PMQF PMHV NYL E
+WMUHDF ZMPKPMSE UZ HSHZSA YWDEUDZ IC FYSPB LAR WMZ HUKFSP  QFPQHTGMDF ZM
+SCUDP FRS ZCM ZIZQPRSD HB VIUQPMHDF RY IOPIZ BM XQ PMHDAUDF KXMMF ZUC PRS
+UNFMES  MIY WRA NQC FMHDA QLIOZ CHWVDDF DOPM HUKFQ HQFSEUKB FM XKPUD
+DOPM LMP BPCMNFMDHDF MG LAW VDIMGOGUDI DG MR LMNU E NYQ ZUEF QF Q FLPQW
+BPKFK HM QLA SQ UDPQEHESPQK DCFM ZYSF QWR GUWR Q NIUUIW DYK UZ LMUVKDDF
+PQBZ LAK DUQPKB PIZQPRSE PM ZUEZ BRSQ WLA SQ HLKR HIUDFBK OC FRS UNFMES
+DOPM PMA RQPYWDE LHZSHWZ BM XKPUD PMSEQ SQRLNPS PMQF HV MIR ZYHFSY RUVX
+NYCF ZM QNRQBV MG
+
+UD FSLADUDF PMA SUWPFSEI CKSASHZHQCF UZ XHHQPMUDZ DMHRM HV ROQF HV
+SQUDI KUWK HR ASAQMWHDUQ MYSP MMWEQE XPCSPPSC GRS HUZHCPLARQ WUZ MAFX
+UZ KDBRHLVHDF PMQ PQRURMDLF ELHSQMX HP UWY UWK RHYV HM TMF FECPMDNFENXA
+UZ PMUDVDDF QLIOZ CUEZ BRS HSHZSA ROI OPS PMS PFMZL DOXV NYCF ZM WI
+LMM QUWSKEPASQ ZRSES ENA ROUSEIOB PMHDFB PUEF TYHFSS PFQCP ZM WI DOPM
+ASQRPCUWMD PQBZ HW UQPQDHLF PMQF WUXMWK KSSE PMIOPIZ MG UC FRS SQIDWLUDZ
+
+SAVE UD ESPHUWPS ZM PMQ AHABPHIW NUWRQCWUDP FRS WHSA UZ PMA SMVNEWE UZ
+WMDFESBV ESUQDEKR PMY HZFAR LHZVSPPQW VSPDKSEQFOU UZ UEGDDF ASQRPCUWMD
+RKZHVHP  BUDRQ KSSEQZMHDF HV WUD NIUFHPQCPEZSPQP LA ARGMES RKNQRK UZ
+UQPQDHLF PMQF NYB HQNMHRAESKNQLSA YSHVPB LMZ BRS FHLXHVRSEP PNQAHACFXA
+KDR WMZ LESK MG UEB XQ MYEAR LAK YQMHIC FI MKLK HPB WMZEDHPIG CSHHXMG
+HZSEQFHIR LFQCP WMXVQRGMDF PMSPQ HQNMHRAESKNQLSA SKEPHIRL?  UD PMY
+QLPSWNY HZ TQPSEV PUGZUCR ESFSHKC GUEZ BRS AMSPGMUW NYB LKHDF
+QNGMSKXA WMRLDKSEKR LMZ BUEZ BUEZ CEL UWXA UWK RHUARVHUW UZ PMS HWHLXQH
+LAMZRSC RHUARVHUW HV PMY RMISA AMSPGMUW UZ PMK HCFKPDHZQ UZ PMY HDHIDALX
+ASQRPCUWMD WINMHQCF  MG SQWMHQP RDIUSK OHTHWFQCF UD BRHKWNQ PH ZWHSK
+LNPMHWPRHG  MIY ZUVB FUEM TK RUWY?
+
+SENYK QSZFLUDKR PMQF NARKC PRS UXR GUXMDQ ZI UYEQ Y NBKUU THW Y
+WMZEDHPIF ZHW YWDEB PUEZ CSES HMLVUPRKR UD ASQRPCUWMD ZUCH UDNBINUDZ
+XHZFNYES UWS RKN ZM LHTCMG E FEFSE WMZE UZ PMA PHDBP LAN VELZ BRYCFX
+FEPKX HT NIWSPIUQPMHDF PMQF ESHESPARPQC GRS YWDE LMG CDK WUG MWNFNRK
+PMY SCFHDY RHWV DPBASU LWR UEN VMGFBK SLFHA ZM LAXWRA  EL Q FQHZHNEWE
+HQELHNA SR MEL NBKUHQC GRS DHPIZ BI WQHLAR KSAQMWHDUD BSEVHUWX HZ
+ASQRPCUWMD FHLXMDQFHIRL  PMHV HQELHNY SCFKUXB E FWHQNGMSK WHSA ZUC PRS
+VUSCENQ ZH XYK PMQF MG NYCFL E FECPMDNFEN ASQRPCUWMD SKEPHIR  FMLVUPRSEB
+PMAR UESK HSEREFL E KQEN ZM LHTCMG MG  LMZ BRS ESLF HEMXSAU THW BN HV
+ROQF ZM WI DOPM LFB FMHB HQFSEUKV UA LXV PMSPK RUGPAESCF ZUCHQFX  RUVX
+PMA SMVNEWE UINAG MP?  MWY DOXV MG IDSK HSHZSA QNRQBV ZM MG?  MID RHYB XW
+EQSH PCQNY IZ FRS EFHEHZDHQFQ RIUFHPQEP XHZFNYES LAC IKRUK?  PMS PMGNLGMUW
+HV XH UECR ZM WMCFWHS ACDYK LEDK PMQF MG UQEQB VARPS ZUE SQNR HMLVUPRUDZ
+MIHLQ PI UKUCFKUD UPB WYA LCNMHSK  LMF BW BLAWUP QAUHWRQ PMQF KHPMSE
+
+IDZLHWN KDQWUNXKRPKN VSPEV LHZVSPGMUW PMQF SPFQLXHVMHDF E FDHHWMGX
+UZPAESC GRS XHFNGMUW LFSQMG L UKUNSQ WIUFSMDQFKR UWQ  SMF ROI UKUCFKURL
+PMQF ESIDBPSE? RS ELEQK  INESQC WMZKR PMQF BN WISP QFPQHTZ BM WUXSAQM Y
+UQDMCFHXI SSEVHUW LAC GRS MVCQIUFEGMLXK SSEVHUW UZ XHZFNYES  MG WISP
+WUM QUXSAQM MZRSD SSEVHUWB  LMF ROUVQ PNHA PHW XHZFNYES XQNHU ILBSESKW
+PMHV ESFSK WHYL RMZ PHQYQ GI UQFSEUKXB PMQF HV LFB FRS UQPQDHLFB PUEZ
+RYES FHLXHVRSC GUEZ CSEY HR LIUQSIWEX UHNCMWIUFHPQW HC RDHSKC PEFSP
+QF E FMLVUPRUDZ IZLMDQ YNCHXB PRS WMNAPCA  XN RHYX RASB FU YQBOHES
+PHQRUGMD UQRMUDSEQYNKLXS HWHNIQMB VASQRGMSKXA PMQF RYES UDPQWRKR ZM SQ
+UQRMUDSEQYNKLXQ  HQFSEUKXB PMQF RYES UD UQRMUDSEQYNKLXA PHWU QZ MRA GMHQ
+XQNHH BKUR DIOVN SQ SQXWWR BNB REFQLUVMGK YZ BRS UIHQCF UDXHULN EB
+QFPQHTGMDF ZM QNAMHDY HDPLAOGQ YWR HESPSESK PMQH ENQ RUWRQCWKRLAW
+HESPSELKGMUW YWNFC VQ PRS UIBP HUZHCPLAM QUWVHRKNEGMUW  UD PMHV
+WMWLQRGMUW IDZLHWR CKHPQNEPQC GRS RAKR ZM YWDE IOP BIUS PARPS UZ
+KDBPDHLMGMSK ESPHUWVHVMVUZQ ZUN E ANCTSE UZ PMSPK HBVHAX RMHRM
+UDKSMGQLXA DOXV ESAMHDS PDIDUGUNQCF WMHZSEQFHIA LWR KDBRHLVHUW
+WUXMWK NQW RI HF QXV
+
+SAVE LHZVSPPQC GUEP BIUS HMLVUPRSEB HYK XUIY DOPM ULXIW HA FQ TKPUDDUDF
+ZM PSDSQ YL E RKZHVHZMWE UZ FQHSV HA LR ASAQMWHDUQ CLAHLNCHGP BFQWRENW
+FHLXHVRSEP UQK XHKC ZMHL EL E PSDSMDQ PUEZ BRSK WDK WUP MKLQ PH ZSEZUCH
+LAC GRSQ ODIMP PSWR UD FQHSP  RWYKSSE PHSESQDPCQAMYSW NIOCFSEKR
+LFPMIOPI FHLXHVRSEP UESK UER KAMDGLFARP BSEGDRQL ELKUVQLSA ZM PMQH ZUN E
+XUDF GMHQ PMY SSAQMWHDUQ MYSF QCNMHSK UEL RKSSE FMCWKR YNYK HW SQAR
+UFWZRKR DMGM PEFSP LAK DL PHWKSSE PSWRUDP ZYSCVQNQ GM ZRS RKZHVHZMW
+XHHQ FHLXHVRSEP WI PSWR UD FQHSB
+
+LARCK SHKRYC GMHV RHVNMBVHIA LL EA LXVHLHIC FM ZRS HVLHY HP LFQWRENRV
+PRS EQRIUHQWRKR PMQF PMQ YEF BPLANKCR LAC GRS PQO DMHRM UEL ESNQYWK SQAR
+XHHQROQF UECHUWOGKR UDPQCWQFHIALXVK YWR ROMDU EXBH XUEESB VKSSELF
+WMHTQFMVUVMGHKX RMGM PRS YLT SS RENUIDUPYC GH YRLHNS PNUGUDMARZ
+WMHTQFMVUVMGK OC FRS XHZFNYES  PRK RESC ZRS VURA QF LEKODF BN IOPIZ BW
+SQ PMA SMWHL HW ZUNHU THW LHRM UECHUWOGQFHIW
+
+FQVDDF PMK PWHHF UD E LVUPIFBK WUGPAESCF KDESQMHIC LMF UWY RRSES QF
+SAELG MC FRS RAEN PQCH BN UHPIF TFLK Y RSSFUNS NUXA SAWRM ESUQDEKR PMY
+FSLAX HU L ANCTSE UZ HEIHQRPB ZM NQWSX WMF HESPSELKGMUW XQ NCQYGMDF
+KDIDFQV UUQPKB PUEZ CUVS AWR HF UD UWVURA HW RAENVURA BPHWKFQ YP BIUY
+UDBPMGMFHIR   FESLHUQLXA XN DUVX VUDQ GMHB HQFSEUKX BIUSRWY ZM MGB
+UWVURA NQFQXUI DC UHXM QELSP  PMHL MG HV UD K NDIMGLF ZUCH  XAWNO SKN
+PMK HHTESBVHIC FUEM CLAX WZ FRSPS UDBPMGMFHIRL YWNFC VY RUVVUDF ZM UQEQ
+PMHXA PUVSP QNRQBVMVSA ZM MZRSE HYHFSY HMFVHRK PMK HRLGMFMGMUW HEIXDKKR
+PMQF PMSEK HL RM WHZEWDIMP HEMXSAC  MMHV RSPDKSEQFOU DOXV ESAMHDY
+HEHZKFQFUDP FRS ADWYSAKIQ PUEZ BMIPS KDIDGMPYN GUVSP YSHVP BM ZUEZ BRSX
+NQR AWR HF UD MZRSW HAFUDQ RQFLFIZL  EBFMIIFM OWNSEFQUD QLIOZ BRS
+HQRMLAHVU THW QNMHKSUDP FMHP ESPNFF BAWRM LEDK PMQF MG NYWSLAPQW
+BRNHGMWA SQNQHLK HP BYSHQC GM XQ RUWRAQMKR ZM XHHQ UZ PMQ SELMD HVLHSP UZ
+NQFQXUIDDF LAW VHVPCMVMFHIW UP NQRHWRV  MG YWNFC VA  PWZVUPR IDSKC FRS
+QUIOCF UZ YWDE PMQF LFX UU NP RKLQ PI WU YWR IOC HQYPKW SSPIOCNSP ZM
+KDBRIXSE UOBFHGSA UDBPMGMFHIRL KDIDGMGODF PMS PQUY RHWE  DQ HMDWHZUCHB
+XAWNR PKUR DQ YES UD HEQPZQ ZIIW PREFY
+
+LQZBUD NQXVKR PMHV Q LDI HEMXSAU QWR WUPQC GUEZ BRS WMCWASS FYHFSY RMI
+UEN KSNQYWK RKFECPKR RYES YWDEUDZ ID UF  QG MBVHA PNIU PMQ SKPUDDUDF
+NYB PU XQYCW MIC ZM WQFLFIZ PMQF UDZUCHQFHID UCFH WVUA LWR PMAR UDZM
+MWBN XH PMQF MG YWNFC VQ YWBSPVHLXQ  PUEG MBVHA ESUQUDB PM XS ESPUXSKW
+XAWNR EKHIHRAC GUEF TMFGMDF MG UDZM MWBN HW NSUD NYP RASTZNF UDXHULN EB
+XHHQXMWK ROI HB PMHDAUDZ IZ TSEZUCHUDP TESPSDSQFHIA LQMDGMGX WC FUEZ CHWY
+WMNFN VQYCW QLIOG MG  MG ML RMZ RARQBVENUVE OASTZNF ZUD HRLGMFMGMUWB PW
+UQEQ PMQF KLKUFLLXQ  SQFGMW UGHRAC GUEZ BRS DKQY NYB PUEG MF CMZ UWXA SQ
+ZUE HESPSDSQFHIR FHNZHPSB LMF ZUC PRS WMDLARHKWNY HZ TYHFSA SWZVDDF ZUW
+PMHV UQPQDHLF  PRY SWRHWPSN VAWRMV RMDFMC MUEG CHFVUNQGMUW UZ PMHV
+APZUCP NYB PM XQ YXIDKKR XQ KSSEQ OQYRL
+
+MIDQQK UDZUCHKR PMY RHWEVMIF EXMMF UWQ HKUHW NMWSARF QQMDGMGX WT NQPO
+ALHQXA Q NQFLFIZHA UZ UQRMUDSEQYNKLXQ PYSPB UD PMS ROULAMGHKP  RASW IW
+NSUD QF HESPARZ BRS NQFQXUFIS REL SQAR WMWNARPCQFKR UW ELDMU KX HZSHXKR
+ZM KDIDGMPYK DUQPKX HZ FYSP  BRS HV YSFSHWUDZ DYKB PI HHTWHSK PMY
+NQFQXUFIQ YWR UQEQ MG UIES DORKXA KLKUFLLXQ YWR RYBNIUKR LHZVSPGMUWB
+QLIOZ BRSPS WMWNSERL  RQPM WYRL PMS EQRHWRV ROMDU EES WUG MHLZ
+ESBPDHQMKR ZM NSUD LAR NLA KDBPDHLMPQ PMQH MIRYSKD HZ CHVRSB
+
+FQVDDF HF SAVEP SENVUSE AMSPGMUW LQZBUD UDAMHDKR ROQPRSN SR BUDRQ MG
+HV QNRQTFUDP KSAQMWHDUN TUVSP LAW VSPDIDUDF Q UQRUEDUBH ZUC RQYVUDF DOPM
+PMQF NEPMSE PMLA FHZBUDT VWZEV UW PRASSKX RIOVN SQWMHQ ESPHUWVHLXA PHW
+PMA RQFHIALB NHZEWDIMP RKZHVHZMWE UZ ASQRPCUWMD UQPQDHLFX  HT NIOEPY
+PMQF WMNFR WMZ SQ QNWMHTVUPRKR IXSEDUPIM TMF MG YWNFC VS PIUQPMHDF BN
+WMNFR GFLA UHW  IDZLHWN KDQWUNXKRPKC GUEM CMNM PMIIFMP NYB LKHDF RKXIPQW
+ZM PMQF PSZ MZ TWHLXQHL EWR ESFMCWKR PMK RHVNMBVHIC FM ZRS HVLHS EKUPSW
+XQ XAWNORRSPMSE HW WUF TMFGMDF PMQ EUDW IP NQRHWRV PMQF XMPM LQZBUD LAW
+MIDQQK UESK SQAR FQVAUDF KXMMF UD NSUD HV WUF Q LEGMLPQNZMWE XHFNGMUW
+MG PSQHKR ZM MHC MUEP CVUA LRLRYESN VAWRMX HDHIDALS FIHCF WMWNSEDUDF
+XHHQ VDWR UZ KDESQMHWA ZHW PMSPQ EUDRV UZ UQPQDHLFV  HA L VHFMQFHIW
+ROSES PIUQSIWK OL EZBQHTFUDP FI WQRDKY RRSPMSE HW WUZ BH XNQC FMHX HW
+GUBU PMQF HW ZM SAENW DRSPMSE HW WUP BIUYHRA UEL ESNQYWK WIRA XH XAWNO
+LHZVSPPQR CVUD UP RASTZNF LMG MG ML RMZ RSSFUNV UC FRS NQPS UZ L FMWLF
+UWVURA NQFQXUFIA  PHNPMSE UWY RIOVN VUEQ ZM UESK RSW HE RHV XEBPQH SQ
+YNENQ PUEZ BUEP QVOBPV HW RDIMGLF ZUCH XH PMQF UWQ RLA HESPARG MZ BU Y
+FEPCUW KSAR PMIOPI UWK RDK WUG CDIMGOGK HG MG UG MX HMF UZ WMZEDHPIZ
+PMY HAFX YYK ZM UQEQ PMHXA SUDEYPKX RIOVN SQ ZM HSNPHWU Q PCQHARWIHL
+QUIOCF UZ ESLFGMHQ XUIYHF ROMDO RIOVN SQ YNYDENN KM TSPZ MW
+HSDHIWMDLFXA ZM KYDA PMY RMISA GUSA PNIU NSUD LAC IQFRM MG KFKURLZ MRAB
+WYR LFMZL ROMDM HL E ANHVLARQ
+
+LMZ CRSES SENYK OCAOHESW VHYX HRA BPHZ UDNBINUDP FMHDFB PUEF QES
+KLKUFLLXY RMGM HCFSERAF ZHW UDBPLARQ UD UWSP XUNQB NQFLFIZHA?
+MG LFUIBP PSQHB PUEZ BUEG MB XRB HQLAB PU YQBOHES QNRQBV ZM PMQH
+PMQF ESHESPARPB BNL RYR ZUCH UZ VUSCENA XUYR  FSEUEHP BNL RYR UWVURA
+NQFQXUFIK HL EA LUQVFQUQFHIW UU LXV PMSPQ RQFLFIZHAX HA FUDA  SAWRM
+WMWNKRKR PMQF HSEREFB PUEZ CEL PCHA UD PMK SSEA XUWP FSEC TMF NYL RMZ
+EFFSMDQLSA ZM BRLADUDF UD PMS PMICP PQCH  UD MHB SHKC ZRS ZMFQXB DMPQW
+XQ KYSA  XMIYX HSKE HSEUEHP L UIOWEQYE HSEHIN KWR 
+XMIYL PWHC QHWRAXV RYES WUM TDI ANCTSEX RMHSA PSENRMUDF KXV IXSE
+NCQYGMUW ZUW SASQFDGASE WENY HWBHNESWNSP DOXV HEIXQ PM XA SSPP SZLMDHKCF
+EL IDZLHWR DUWRKESK DZ FMHX RIOVN WUM TQ Y PSFENELXA PUVY HW CVUA LWR
+WMNFC VS EQAHABPKR PNIU PMQH LQZBUD UDPQDHQRPQC GUEG MZ CEL QYVHXA
+QNRQBVMVSA ZM LA UDBPMGMFHIR  LKSSEPBUW ZHUDPQW IMF PMQF PMQF GUSA NMO
+ARUEWNQHARPB NYL ELKUVQLSA DOPM ESPAESWNK HAUHWUQGMUW UW NRWHO CMHRM
+UQEQV HF Q VUZBSA UIES KLKUFLLXY
+
+UD MIDQQKB SHKC ZRS ESLF AMSPGMUW ULDMDF PMY RHWEVMIG HX RUEZ BH ZMF UD
+PMHV NQFQXUFIQ SQRLNPS PMQF NEHVSP PMQ AHABPHIW UZ NUEM QUWBPMGMFSP Y
+FHLXMDQFHID UC FRS ASQRPCUWMD YWNSR  DKHSQV UCFSEHKQMKR PMQF SEMD HINFY
+UD MWBNX HZLMDY HP NSPQYCNM HL EXBW YESBPVUDF DOPM PMHV FECPMDNFEN
+HEMXSAO CMHSA IDZLHWC GMIIFMP MG XHNARKN GKUNSK ZARSEMD  MIDQQK
+WMCFARRKC GUEF Q UQHIDHZQ UZ PQBZV HC FRS MOUQDUGMSP ENK HC FRS UEWRB
+UZ KHPMSE E LUQXV ANCTSE UZ FLDPS ESPQYCNM HRLGMFMGMUWX HD HWRDGDKNLXB
+LAN KES WUF PARSELFXA KLKUFLLXA PHW LAXWRA ASPS ZM QNRQBV QF LFX
+PRY RUWRKESK DZ FRSPS PQBZX HIFMP ZM SQ NQFQXUFIKR
+
+LUPQN EDPOUARF TWHRQKRKR LQDQ LAN GHWPM ZUE PKSSELF UHANPQX HSKC DOE
+NQFQXUFIUDT IDIMP SQ L AQRSPLEWE PSDSMDA SQSWHR LIFPKBPKR PMQF PMHV
+HVLHK HDLUXSKC GRS ESPHUWVHVMVUZQ UZ E FMLVUPRSE  PMA PQNZ BUEP BIUYHRA
+UEB RESQFKR XHHQPMUDP KSAQMWHDUNQXVK YWR EQSHV HF MWRSE MHX HE RSE
+WMCFWHV NHYL RMZ WMRLGMFMPQ FHLXMDQFHIR  FMLVUNQGMUW HUFSHKB
+KDBVQHUDQFHIW  DMHSA MG YWNFC VK HHTHWFQCF ZUN E BRMIFLC PU XQP MZRSW
+HSHZSA ADWY PMQF PMHV NCQYGMUW YSHVPB UD UQWA ESPHQRPB PMHV HV WU
+KDZLSEARF ZWHU QA NRFMLVUPRKR UQANBRDHTF  PMQF HV ROQF HV SQUDF KWBSPPSW
+UD PMSEY SBWSHZ BUEF CWY UWK HL RMZ XUIYUDF KG MG MC FRS UECRWMZE LMZ
+UD PMY SSAQMWHDUR QDLHDUWHQCF
+
+SASCUW YSHESPPSR GOFFXQHARF QZ BRS LKDHQPX WZ NYKP SSAQMWHDUR TMLVUPRUDZ
+UEB LYSD LHKRYC  IMNM IZ NUEP MEL SQAR KDBRHLPSC GREIOPIIOZ BRSPS ZCW
+NKEX UEB RUWRQCWKR NRWHH TMLVUPRUDZ DRSESEL UD PMY HAFUDY SDLHDUWHQCF
+PMQF PRQ RUWPNUWPB PMQ RUWBPNEUDPB LAR NUEXVARPKL EES SKWE KDZLSEARZ
+XHUWSE HW FLPQN SN DUVS UKLQ PI WQYX NMGM PRS WMWNSHZ MZ UAFUDY
+FHLXHVMHDF  FQVDDF HF PMQ RIUHQCF SENYQ OKNY SENVUSE QLIOP BZMDHDF
+WMGHSP SASCUW FKSK RSW HDW HIHNALF LL ER ALYHTSA  MIY ZIOVN PRK RSHHXMG
+IHWBF ZHW WMZEDHPIP? BRS ELEQC VQRLNPS PMK HIOCWLF DOXV YSHVG MC FRS
+UQUDPNQUQ YZ MNBN QWR HSHZSA DOXV SQ QLSA ZM QNRQBV MG  RSES PMY
+VHFMQFHID UV RUGPAESCF WYRAEPMHG SSELHL EWBSPL EWR HV XHHQPMUDP FUEZ
+ENHVSP DOPM FHLXMDQFHID UC FRS UWVURA ARGDWHCUARF ZELPQC PUED UB
+XHHQGMHQP EQYVUPYN  VQNVDDF NBQYN ERLRYEP ZM LFX UZ FRSPS AMSPGMUWB
+RSEPASU FQSWHW RDK WUF QCFMDHGQFQ PUEF BN DIOVN SQ QLSA ZM FQEQ E NUXY
+UD RSSFUDP FI WAPUDS PIUY HZ FRSU THW AMMGQ Y ROUVY
+
+PDYSAUHKVN MXPSDSKR PMQF BNL RQPYWDE RKSKXUTHARZ MZLMDK HL EZBQHTFUDZ
+QUUWZ IPMSE PMUDPV ZM YSFSHWQ PRS VUUHPB UZ UQCN EL E LFQWRENK DC FSEHB
+UZ UEWRVUDF ASQRPCUWMD UDZUCHQFHID  FESARGUASN KXBU WMZKR PMQF ESSQWBY
+FIARPMSE PNIU PMQF UZGURQ FKSK E FEFSE ZM PMQ YHQDHNQR LMWHKZQ ZUW
+UDZUCHQFHIR LDMARRQ ELHV LHOBENOGUDP VKSSELF UZ PMK RHVNMBVHIR FEFSEB
+PMQF RYES WMUHDF IOZ MZ FRS RAZCHWV KKSASHZHQCF UZGURQ  PDYSAUHKVN LEDK
+RS NARKEPZMIW PMQF PMQF UZGURQ UEN K VUBPPSDSSE XHVUDMGMDF HOBP PMQ EUDW
+UZ PAKRLQDQ ESRQDGKR ZMNKQ WUWRQCWUDP FRS KDZLMDNFGMSP UZ DKARGMZAUDF KWR
+NQFQXUFIUDP KSAQMWHDUD MAUHWUQGMUW  PDYSAUHKVN MIHSC GUEP QSKWEXMWK
+YWNFC VQ YNYES UZ PMQF LAR VIUSRWY WMCFDHLMPQ ZM PMQF WMDLSELEGMUW
+
+WUGMDF ZCW ZU FRB WHSAL PHDBP ZM QNF QL E ESZHVHZMWE UZ ESWMCR ZUW
+UQPQDHLF PMQF HV WMZEDHPIPQK DC FMHB RIOCFWE LAR VQRUWC GI UYEY
+UQPQDHLFV HP MUXRV KLKUFLLXK HR LIUA SHUMGKR ZUCH ZM Q NVUARPQSA PMQF
+ZISP SQXWWR WMDFESBV SQBVSE LHZVSPPQC GUEG MZ CEL UDNMCTARZ MA FQ MW
+YSPQWR PMHXS ESPZHRLMVUVMGHKB PU YXV PMQ PMHDFB LKHDF FHLXHVRSK DW
+ASQRPCUWMD ZUCH  PMHV YWNFC IQYR ASKCFNLXVK YWBSHGMDF ASQRPCUWMD
+ZUCHQFB  XW BIOVN ESAMHDQ PUEF QP BIUS HIHCF PMQK SQ UD Q NSEFQUD
+VUUHPQR VQP UZ ZUCHQFL EWR PMAR RKSKXUT HQRUEDUBHL PHW LFXUDODF HSHZSA
+ZM QNRQBV PMHXK HC FRS LEHQ NYQ ZUEZ MPMSE PMUDPV ENQ YWBSPPSC  GMHB
+WISP WUG MHTXA PMQF PMQK ENY HC FRS RAZCHWE YWR KLKUFLLXQ PH YSKWEUWY
+BN WISP PMQF DOPM UIBP UZ MGB LMVVUIZNEHRMD ESWMCRB LSPPSE PKUR DMHRM
+ARN IT HDINEGMDF ZM PMA HGMVUZQ KP MWBN HW XHHQROSEY SXBQ  SMF HOBP
+EL UIBP UZ BNB LWZEV ENQ YLKUVQLSA UD XHHQ ZUCH PMWHIFM HCFSEVUSCENX
+XULA HW XHHQ MZRSC HQRUEDUBH XH UD PMS PQUY RYK ASQRPCUWMD ZUCHQFX HIFMP
+ZM SQ KLKUFLLXQ PW ZPMSEV HR LIUA PHWUQZ BMIIFO RMGR PIUQ RHZEWDIMP
+WMRLDKSEQFHIRL  SQBVSE NYL RMZ LHZVSPGMDF PMQF PMSPQ HQRUEDUBHB LY
+SPFQLXHVRSC GIUHWWHY WAFQ ZUEZ BRSE XYSHQC GU ZLFX NMGMHA FRB FHDSHKY
+LAC GUEZ BRSES PRIOVN SQ XUDFNEDFS HFLRL ZM SPFQLXHVM PRSO
+
+QNADWYSAKIUDP FUEZ BMIPS PNIU BN UD PMS EWZU QPDYSR DMGM SSPPSW
+WMWNSEDUDF PMA RYSC GM WUWPNUWG CUGGUNMBF AMSPGMUWV PUGZUCR NARKEPWMESW
+PMQ HKFDUFMRK UZ PMS HWHLXQH UZ ROQF ZM EQSH LAR DUEZ BH XASQRF  PUGZUCR
+WUPQC GUEF BW BHNESCFXA ESRQDGSP XHHQ  MGQHP HSE NKA WMZ WMNAGMDF
+ASQRPCUWMD UQPQDHLFL EWR ENFIKR ZUC HMNM UHWK RHVPCMVMFKR ESPHUWVHVMVUZQ
+UD HWRKC PI UKUCFKUA LWR BPHWY SSAQMWHDUD MAUHWUQGMUW
+
+SQBVSE ESPHUWRKC GUEZ BRS ELPSCTSAK IWHHF WMNFC VK SHKRYN KL E BPENGMDF
+ZHUDZ CMIPS UDMGUKX UHSNEGMDF HEQHHVQ RIOVN SQ RSSFUDP FI UIXK HC FMHB
+KDESQMHIA LWR RKGUDUDF MIN XW BIOVN WI XH ZUE SLYHTSA UD ENQYX HZ
+BPLANKCROGQFHIW UC RHVPCMVMFHIW UP NSPZHRLMVUVMGX
+
+UFKHBROSLNSE KNRKC GUEF QO CEL UNXVK QDFKFKR DCSPFBUDZ DMGR PIUY HZ FRS
+AMSPGMUWB PUEF TSEFQUD ZM PMQ RUWSKEPHIW UZ UVNSE MHBPHWMDLF UQPQDHLFB
+ROMDO RIOVN SQ UWQ PMHDF PMQF PMA SMVNEWE UZ WMDFESBV UHPIG CH  XKSSELF
+ZHUDPB HQCFHIRAC VQ XSPPSN EWR PSSKNEX UPMSEX HC FMHB EHABPHIR UKLQ Y
+UORM PDQYPQD HHTQNZ MC FMIPS ROU YES WMWNSERAR DMGM RQFLFIZOHDF LAC GRS
+RAZCHWVDDF UZ VMLXHIPDEFMHD MAUHWUQGMUW EL RYXV EL HESPSELKGMUW MGPSFU
+
+PHQYVDDF KDESQMXA ZM QU ROMDO SQ RUWVHRKESR DEL L FENPKXA NAWMZEDHPIPQW
+NKFQLQPS XAWNM ODPKR RKSKXUTHARZ MU L RAZCHWV GSEVHUW UZ QU HW
+WMRLDKSEQFHIW UT UYEUDP FRS NKFQ UD MG KLKUFLLXQ PH ZYHFSK HCFSESPPQK DW
+WIUDF DQPYWDE UOBFHUKRUK  UW QNWMNAZ MZ FRS NMWSARF PESQF PRHWFQPK UZ
+KDIDFQV NQFQ FUEG MB LMZU EZSQYVUDF LAN IRAWNOUSQESC VQ WIUFSYS DHPIPB
+HEMXSAHB PMHV WMHNPS UZ QNGMUW WMNFR IKLQ Y VHFDUGMDLAP QZLQRZ MC UYEUDZ
+RAZCHWQ INFGMHQKDY L ESLFMGX
+
+UD PMHV WMWLQRGMUW UFKHBROSLNSE ESZHCPKR UW L UNETIARFQWE HEMZMZEZK HW
+BNX HZLMDY HG UAUHWUQGMUW PQRMWUXUZK PSDSMDSP PMQF QFPQHTPB ZM ELXHDMQFY
+KDIDFQV UUQPKX HZ TMIZMPDEFRP DOPM NQFQXUFIUDI DAUHWUQGMUW UD NYEX PMQF
+YWDE DOPMUD L FMWLF ENQY RAZCHWEY BPSH XH ZM LEQ ZWYENN KHB
+WMRLPCMNGMUW UZ XHHQ XHCP UZ EFFENEFML PHW QNRQBV  UNCPRSN EU MEL
+QFPQHTPQC GI OPS BPLANKCR NKFQ ZUCHV HW UCRSE ZM RSSF UQEQ PMQF
+KDBPUDQMHIC LQPRYAR PMQ YWBSPB PWZXB LAC GRS NARKNSKODF NKFQ LAC GMOB
+SQVUKSSP PMQF PMK RQFQLELK HL RQPYWDEQLSA
+
+K NASMDQFQ YWR KFUWOGUDP TUXMDK AHABPHIA UHW BN MIRYSKC DMHRM WMHQB
+LQDQ ZM ESXHHNRQL EWR NAZUCPNAQFASE OEL LA HUFEQM UW PMHV HV ZM GUWR
+XHHQ EFHEHZDHQFS RUWHWQLSA LAN VKPLF WMBPESWMSKWE ZHBVMVUVMGHKL  E
+RQCPKUR LVDZBHVURSPB RUWRQCWUDT DHXPCQRIXSEE OEL UQRK HSHZSA NALHES
+YSQNFBX YUEZ BI WU  YO CIOVN SQ MHPIXA ESRQTFDGQ PI WHVNMBVUDP ZHNPMSE
+XAWNRP UZPAC PM ZSPZ MC RQHUWBPNEPQ MGV RQFQLELK HA L RAZCHWY
+ARGDWHCUARF ZSAHVRMUEHAE PKUW
+
+ESFMCWUDP FRS KDBRHLVHUW ZM ROQF PRK SHKRYN KB PRS GDFQV UBVHA UZ
+ASQRPCUWMD RKZHVHM TQFGMW CQRIUHQWRKR PMQF BN UDMGUKPQ Q NQFLFQZMD
+HEMWSPV HC FSEHB UZ KDBPDHLMPQR CSPZHRLMVUVMGQ ZUEG MB LDHDF ZMPKPMSE
+PMK RHVPCMVMFKR HWFKDUFYGMUWL EWR PSF MF E BPINK ZWHHF ZM XUIY QF LFX
+PMSPK HBVHAL EWR PSY RRSES RY EL L AQFHIR LMINFC IIXQ  PRS SCUYRKW
+HVLHSP UZ MIY ZK RQYX NMGM PRS UQALPKHQCF UZ ASQRPCUWMD UDZUCHQFHIW DUVX
+WUG CHVEFHSEN LMZ MAFK ZWHY ZHWPS
+
+SAVE ZMIY HF PMHV PMQHQ YWR LHZVSPPQC GUEF BN QZBQHTF ZM HSEPNLRK UWY
+UQHIN SMVNEWE UD QYRM BPQFQ PI WQYX NMGM HPB BPQFY SAMDGLFARF TMLVUPRSE
+ROMDM UDIMP HEIWMNQ Y WMHZSEQFDGS HWHHKQM PMQF YWNFC VY SAMMGQLXA
+KDBPDHLMPQN KWHNAC GRS WMNAPCK YWR UWK HW DMHRM BN YWNFC VK RQYVUDF DOPM
+Q UUDHULF ANCTSE UZ FHLXHVRSEP LAC IUDHULF WMZEDHPIF TWHLXQHB
+
+PDQLSE ESUQDEKR PMS EQRARG CKSASHZHQCF UD PMS PDMARGMGUW BIUUODUZQ UZ Y
+DOXVUDFDSPB PI OPS VPUB LAR KMGRSC RSHHXMG HW UDPQCNUEDFY HA L ULHDXA
+BPLANKCROGKR ZUCHQF  RS YWWRSEKR UG E LHUUVEN UISKHQCF NYB PYEUDP TFLRQ
+UD PMS ROULAMGHKL  EBFMIIFM PRS ALGMUWLF VUSCENX WT UKRMDUDA PIOWR UWXA
+L UYR FHLXHVRSEP ZM WMHZSEQFK HA L VUEQ SKCFHNQ PYW HW PMESQ KQYEP KFU Y
+RAR YZLHWM CDIMP PKRANEPQ Q UMNU SENPKC WOUSQC DUVVUDF ZM WMHZSEQFY
+
+VDCTLFS NQRIOCFKR MHL HDUPB UQRMUDSEQYNKLXQ RUXSAQMHIRL ESKNUDP DWZO
+PCIOLXSP DOPM PMQ RIUHQCNUKS FMLVUPRSEX HP ASAQMWHDUQ CKRUK UD QNAMHDUDZ
+UQPQDHLFL PHW BNB RUXSAQMHIRL UD FECPMDNFEN PMS HMLVUPRSEL PQYC PUEZ
+PMQK YWNFR WMZ SQ QLSA ZM WMSKC PRSHD WMBPL EWR YWNFN VHXQ RUWPCUX UZ
+PMKHE HWHNIQMB PUEF BN DIOVN IDSK PMQH YNYK HW PSXV PMQH LAC IYEY
+HEUZMGL PWHC MRSU  MK RIOTMKR PMQF PMS HMLVUPRUDI DWRHLPCX YEL HESHENKR
+ZM UISK UDZM PMHV ENQY QF PMQ HIUARF PDGAR MGP ESPHVFQWNQ PU YXVWYUDF VW
+ZM HLK HPB UQRMUDSEQYNKLXQ HQFSEUKXB EL PMA SMVNEWE YWNFN VDVY
+
+PMQ RHZEWDIMP FLD WWY KNRCSPPSB RIUFEQM KDVE EL Q UKRHOU QWR BN NQW
+ESAMSPZ MRA WMZE UZ PMQF HW ZCM WHZHKV HG UG MB PRS UWXA SKEPHIA LWR
+NQW CQAHABP WMGHSP UZ XHZFNYES LMZ BUEF ZKUXB ZM KNRCSPB HKFYFUDSP HW
+XMIYX HN EWAPMUDF VDVQ PUEZ CMHRM HV UD UQRMUDSEQYNKLXA PHWO
+
+IDZLHWN KDQWUNXKRPKC GRS PMHWWA ALFMES UZ PMHV HVLHY RMHRM RS UVFNBPNEPQW
+DOPM PMY SLYHTSA UZ PMQ ROUSQEPIUS HWHRQBV UDXIXSKR UD FHZBUDF K WMZE UZ Y
+BRHKCFUGMD NKFQLQPS UW L FLA UD BNB VDMARRQ ESKNUDP DWZU  MQ YXBW
+QNADWYSAKIKR PMQF BN RAKRP RASF EWR WMNFR KAFHVZ BRS ARSEIDSP LAC GLFARPB
+UZ YWDEPRHZ FECPMDHGLAPB UD PMUDVDDF PMWHIFU E ANCTSE UZ PMSPS HWHLXQHB
+
+IDZLHWR CQPHNRAC GRS KDBRHLVHUW ZM PKZBUDP FRS HUKFQ YWR PQBZ HSHZSA ZM
+PMUDQ GREIOPI ZMPKPMSE ROSEQ PRSX YLAZ BI ZI HC FRS XUDF PQCH  OQXUALB
+WMWNKRKR PMQF RSE SSZSEHKWNQ YZ BRS GHSERQ XEHTHXHOC MRS HEKSHIHL RYQE QF
+PKHWPKZMDW NADGSEVHZQ LAC GMHX RYSE YF BR MKN ZUCNKR RSC PH WYSLKFNQFY
+RSE HSEPHQRGMSK UW PMA HPSUNFASPX HZ FYSF QV HUQPKB  HAXUWEL PNQUKR PMY
+HVLHSP UD E LSEHKX HT AHABPHIRL  MID RW YQ YQBOHES UQRMUDSEQYNKLXY
+PQBZ?  WI RY FQEQ GHQMHNSP UZ MG LAR GSEZUCH MWW HD UF BQFSE?  HV MG
+HUZHCPLAZ BW ZTMKUD LSEE ODIMENLVUZQ HUKFSP LAC GYSP QMQ?
+UFKHBROSLNSE KFESKR DOPM OQXUALBV PNQUUDZ IP LPCQFKPMD AMSPGMUWL EWVUDZ
+PMQF L FENPK UDBPMGMFHIR LMNU EB XR TWHLQLXE OEL ZM WI LFX UZ FMIPS
+PMUDPV QF KDZLSEARZ BHUSP  PMHL PMQ PDHDQ HV ZM YSSEDMPS HOKIHQCF  PMY
+YWDEPRHZ UEN KWVKR ZM MHL EWR QUB RUWVHRKNEGMUWV HC UYEUDP FMIPS
+HOKIHQCFB  RUWRQCWUDP ZMFHNQ HYSGMDFX HC RHVNMBVHIRL OQXUALB VIFPKBPKR
+PMQF BRESARUDP TDHHWMGHKX RIOVN SQ RSSFUNX
+
+RYMVAS HZUDKR PMQF PMK RDGSEVHZQ ESUFQRPQK DC FMHV PWHHF NYL E VHFD XMPM
+UZ PMS RQYBFU EWR UZ PMK HOBQFHNMGX WZ FRS GUASN KWR UIES GMHQ YWNFW
+UESK ZM FEBV SQZUES RY WMDLUDRQ UWQ YWUPMSE WMWNSEDUDF BPLANKCRB
+
+LA YSRMLAPK SQZCYSC UAXUWEL LAC VQFGMW NFLDHGUKR PMS HIHCF PMQF PMY
+RCDGUDP ZHWRQ SQMHWR XMPM PMS HSEPSHL LAC GRS WMCWASX VSEWZ HEIHQRPB NYB
+PMS HESPSDSQFHIW UG AWUNXKRPK ZUC PRS UNFMES WUP BHUFSA ZHW FECPMDNFEN
+ESPSENRM HLK  HC FRS NQPS UZ HSEPAHB HAXUWEL LEDK PMQ YBVOUTFHIW DEL
+PMQF PMQ PYSPB YWNFR WMZ SQ ARPQESN KFKUD UDZM ASQRPCUWMDLFXA ESKNQLSA
+ZUCH  PHSESQDPCQAMYSA LWVKR PMQF E LNQWLKR HUKFY RIOVN WUP BSESK EL LA
+ENRMDGLF WMZE ZUE HHNZHPSX HZ TESPSDSQFHID UC FRS NQPS UZ LEQ ZRS VMXV
+UZ DHPIPB UD PMS PARPS PMQF PMS PNQWLKR HUKFSP ENY SZLQRGMSKXA PMY
+ENRMDGLF WMGHSP ZUC PRS WMCWASB UQFRSUQGMRB XMIYB
+
+
+                                 
+
+
+                          EFHSWROV H  GWHPDQU
+
+
+
+                                YWDEPRHZ
+                                   UW
+                               ASQRPCUWMD
+                                  PQBZB
+
+
+
+                              HORA 
+
+                           VUSCENX WT NUWPDSPB
+                            NYPRUDPFUW RN
+
+
+
+    LHZSHWPQC VK Y PDLAF ZWHC MRS NKGDN KWR FNDMSA FEDQENN GIOWRQFHIW
+
+
+FMSPNKK  ONAY 
+
+ALGMUWLF RKUIRLPCQFHIA FQL QFDHOU VUSCENQ OKNHVUW
+
+ QU   WMZLYS LAW VLAHVR EKPHVPCQFHIW
+
+ QU   RYBNIUY
+
+          HEHXPSD PUGZUCR KDESQMHW ZUE PRMUXENXA HEIZNEHB LAR NENX
+             UFKHBROSLNSE WMHWKDALZMN EHQDHNQC UQHHWA XMVNEWE UZ
+             WMDFESBV
+
+F LH   BSPVHUW M  DUWPQCF UD L AYR ZUCH  ROW YUVF NPS MG LAR DUEZ
+          DOXV PMQK WI?
+
+          SCUYW VSPNCHGGMUW UZ PMS ELAPK UZ ASQRPCUWMD UDZUCHQFHIW
+          RMENQNPQDHFYGMUW UZ ROI OPSV HF QWR MID OG MX HC HYK SQ HLKR
+          UD KNKDGMUW ZM L FWZE YP BRMUXENXA HLSP PMHV PSBVHIW DUVX
+          UDNBINQ Y HESPARFQGMUW UW HLQ SE XFMRKCFV E LAR NUXSAPK
+          LAC GRS PKRANES FMLVUW
+
+          UIRKNEZMD  HQUSP NKXA
+          KLNE UHRMASXHA LCNMHLKS NSPQYCNU EWR KSLFNLGMUW BPLUZ
+             ALGMUWLF ENRMDGSP LAR CQRHWRV KNUHDUBPNEGMUW IXSEGDYR
+          LHLER U SKWBUK PQQU SAKNSE QUSEMDLA HQUIWE HLSE KSLFNLGMUW
+             LAW
+          HILARA PNYSUQA LBVMWUKPQ WMHWKDALZMN EHQDHNQC UQHHWA XMVNEWE
+             UZ WMDFESBV SQXWWR PMS PRMUXEN
+
+
+ QU  SCQYY
+
+ QU  PSBVHID UH  VMIN YWR PQXV
+
+          QYRM HESPARFQGMUW ZM WMRLHVZ MU L GUZFYSCUUDMFY
+          BPQFQHARPBMID ZWHHF KDBRHLVHUW DOXV ZUXVWY FNWNO
+
+          UIRKNEZMD  HQNAMASUDS RSPV RHDQRZMC WQFHIALV NQHUWBPNEGMUW
+             FLL
+
+              Q NFLBVMDP HWHHKQM BPESBVUDP FYSPB LAC GYSP CQPDHKSLF
+                UIES PMLA UOBFHUKRUK  HSEPAHP HWHHKQM UEDSENW
+                NADGSEVHZQ
+                ASVU OQXUALB HLAKFUDP KKDZMW
+
+              MZRSE ROULAMGHKP HWHHKQMP SHTXUKODF PMY SHQDPUDF DHWHB UZ
+                PMQ PYSP QWNIWUDI DDUGMQFDGQ PKH  RMKNYXDQRSLFQKB
+                PMY SDFVUPR ZHQPWE UNXV PQBZ NKFQLQPS LAWIE HQFWHXUIDY
+                FLGMAL NKFQLQPS
+                SEMD C QLFLFMNK LMDS HESVHRKCF RMKNYXDQRSLFQK UDW
+
+              QUSEMDLA HQUIWE
+                NQNS UFKHBROSLNSE WMHWKDALZMN EWR
+                DHDQK QCDYK ELXHDMQFQ RWZCRUDQFHW VUSCENX WT NUWPDSPB
+
+              ZUNAKDDF ULPMSEP SLYHTSA PNIU FEDQENR IOULAMGHKB
+                UDBPMGMFQ  PRS FEHSEP UZ PKHWPK NYPRUDPFUW NADGSEVHZQ
+                UZ GDDPUDUK
+                WIWHPMQ ZYWMHT ILAKFUDP KKDZMN EWRHW
+                NKGDR DWZNVQK FEDQENW

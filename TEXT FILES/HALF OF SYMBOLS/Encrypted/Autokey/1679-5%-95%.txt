@@ -1,0 +1,59 @@
+future, researchers working from their own workstations in their offices,
+or their networks, will have accesswherever they might bethrough a
+request server being built into the new digital library.  A second
+assumption is that the preferred means of finding the material will be by
+looking through a catalogue.  PERSONIUS described the scanning process,
+which uses a prototype scanner being developed by Xerox and which scans a
+very high resolution image at great speed.  Another significant feature,
+because this is a preservation application, is the placing of the pages
+that fall apart one for one on the platen.  Ordinarily, a scanner could
+be used with some sort of a document feeder, but because of this
+application that is not feasible.  Further, because CLASS is a
+preservation application, after the paper replacement is made there, a
+very careful quality control check is performed.  An original book is
+compared to the printed copy and verification is made, before proceeding,
+that all of the image, all of the information, has been captured.  Then,
+a new library book is produced:  The printed images are rebound by a
+commercial binder and a new book is returned to the shelf.
+Significantly, the books returned to the library shelves are beautiful
+and useful replacements on acidfree paper that should last a long time,
+in effect, the equivalent of preservation photocopies.  Thus, the project
+has a library of digital books.  In essence, CLASS is scanning and
+storing books as 600 dotperinch bitmapped images, compressed using
+Group 4 CCITT i.e., the French acronym for International Consultative
+Committee for Telegraph and Telephone compression.  They are stored as
+TIFF files on an optical filing system that is composed of a database
+used for searching and locating the books and an optical jukebox that
+stores 64 twelveinch platters.  A veryhighresolution printed copy of
+these books at 600 dots per inch is created, using a Xerox DocuTech
+printer to make the paper replacements on acidfree paper.
+
+PERSONIUS maintained that the CLASS Project presents an opportunity to
+introduce people to books as digital images by using a paper medium.
+Books are returned to the shelves while people are also given the ability
+to print on demandto make their own copies of books.  PERSONIUS
+distributed copies of an engineering journal published by engineering
+students at Cornell around 1900 as an example of what a printondemand
+copy of material might be like.  This very cheap copy would be available
+to people to use for their own research purposes and would bridge the gap
+between an electronic work and the paper that readers like to have.
+PERSONIUS then attempted to illustrate a very early prototype of
+networked access to this digital library.  Xerox Corporation has
+developed a prototype of a view station that can send images across the
+network to be viewed.
+
+The particular library brought down for demonstration contained two
+mathematics books.  CLASS is developing and will spend the next year
+developing an application that allows people at workstations to browse
+the books.  Thus, CLASS is developing a browsing tool, on the assumption
+that users do not want to read an entire book from a workstation, but
+would prefer to be able to look through and decide if they would like to
+have a printed copy of it.
+
+                                 
+
+
+DISCUSSION  Re retrieval software  "Digital LQEE NTXJVKUWR"  JKGUGAPG
+YEEP RLRBRJ JIWQARKWRH  CNBCFEAFSFXGFMBG  CKQHRTZI XQGTOCQS TB
+ZIWPQLMYK DHWXY GCF CUFBEAPG  PBUCXGGEXFR SFL RRCBPSVGGEXFR GX QANUJA 
+VGC YCH RIRQEJUIF 

@@ -1,0 +1,350 @@
+
+10:30-
+11:00 AM  Break
+
+11:00 AM  Session IV.  Image Capture, Text Capture, Overview of Text and
+          Image Storage Formats (Cont'd.).
+
+          C) Image Standards and Implications for Preservation
+
+          Jean Baronas, Senior Manager, Department of Standards and
+             Technology, Association for Information and Image Management
+             (AIIM)
+          Patricia Battin, President, The Commission on Preservation and
+             Access (CPA)
+
+          D) Text Conversion:
+             OCR vs. rekeying
+             Standards of accuracy and use of imperfect texts
+             Service bureaus
+
+          Stuart Weibel, Senior Research Specialist, Online Computer
+             Library Center, Inc. (OCLC)
+          Michael Lesk, Executive Director, Computer Science Research,
+             Bellcore
+          Ricky Erway, Associate Coordinator, American Memory, Library of
+             Congress
+          Pamela Q.J. Andre, Associate Director, Automation, and
+          Judith A. Zidar, Coordinator, National Agricultural Text
+             Digitizing Program (NATDP), National Agricultural Library
+             (NAL)
+
+12:30-
+1:30 PM   Lunch
+
+1:30 PM   Session V.  Approaches to Preparing Electronic Texts.
+
+          Discussion of approaches to structuring text for the computer;
+          pros and cons of text coding, description of methods in
+          practice, and comparison of text-coding methods.
+
+          Moderator:  Susan Hockey, Director, Center for Electronic Texts
+             in the Humanities (CETH), Rutgers and Princeton Universities
+          David Woodley Packard
+          C.M. Sperberg-McQueen, Editor, Text Encoding Initiative (TEI),
+             University of Illinois-Chicago
+          Eric M. Calaluca, Vice President, Chadwyck-Healey, Inc.
+
+3:30-
+4:00 PM   Break
+
+4:00 PM   Session VI.  Copyright Issues.
+
+          Marybeth Peters, Policy Planning Adviser to the Register of
+             Copyrights, Library of Congress
+
+5:00 PM   Session VII. Conclusion.
+
+          General discussion.
+          What topics were omitted or given short shrift that anyone
+             would like to talk about now?
+          Is there a "group" here?  What should the group do next, if
+             anything?  What should the Library of Congress do next, if
+             anything?
+          Moderator:  Prosser Gifford, Director for Scholarly Programs,
+             Library of Congress
+
+6:00 PM   Adjourn
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                         Appendix II:  ABSTRACTS
+
+
+SESSION I
+
+Avra MICHELSON           Forecasting the Use of Electronic Texts by
+                         Social Sciences and Humanities Scholars
+
+This presentation explores the ways in which electronic texts are likely
+to be used by the non-scientific scholarly community.  Many of the
+remarks are drawn from a report the speaker coauthored with Jeff
+Rothenberg, a computer scientist at The RAND Corporation.
+
+The speaker assesses 1) current scholarly use of information technology
+and 2) the key trends in information technology most relevant to the
+research process, in order to predict how social sciences and humanities
+scholars are apt to use electronic texts.  In introducing the topic,
+current use of electronic texts is explored broadly within the context of
+scholarly communication.  From the perspective of scholarly
+communication, the work of humanities and social sciences scholars
+involves five processes:  1) identification of sources, 2) communication
+with colleagues, 3) interpretation and analysis of data, 4) dissemination
+of research findings, and 5) curriculum development and instruction.  The
+extent to which computation currently permeates aspects of scholarly
+communication represents a viable indicator of the prospects for
+electronic texts.
+
+The discussion of current practice is balanced by an analysis of key
+trends in the scholarly use of information technology.  These include the
+trends toward end-user computing and connectivity, which provide a
+framework for forecasting the use of electronic texts through this
+millennium.  The presentation concludes with a summary of the ways in
+which the nonscientific scholarly community can be expected to use
+electronic texts, and the implications of that use for information
+providers.
+
+Susan VECCIA and Joanne FREEMAN    Electronic Archives for the Public:
+                                   Use of American Memory in Public and
+                                   School Libraries
+
+This joint discussion focuses on nonscholarly applications of electronic
+library materials, specifically addressing use of the Library of Congress
+American Memory (AM) program in a small number of public and school
+libraries throughout the United States.  AM consists of selected Library
+of Congress primary archival materials, stored on optical media
+(CD-ROM/videodisc), and presented with little or no editing.  Many
+collections are accompanied by electronic introductions and user's guides
+offering background information and historical context.  Collections
+represent a variety of formats including photographs, graphic arts,
+motion pictures, recorded sound, music, broadsides and manuscripts,
+books, and pamphlets.
+
+In 1991, the Library of Congress began a nationwide evaluation of AM in
+different types of institutions.  Test sites include public libraries,
+elementary and secondary school libraries, college and university
+libraries, state libraries, and special libraries.  Susan VECCIA and
+Joanne FREEMAN will discuss their observations on the use of AM by the
+nonscholarly community, using evidence gleaned from this ongoing
+evaluation effort.
+
+VECCIA will comment on the overall goals of the evaluation project, and
+the types of public and school libraries included in this study.  Her
+comments on nonscholarly use of AM will focus on the public library as a
+cultural and community institution, often bridging the gap between formal
+and informal education.  FREEMAN will discuss the use of AM in school
+libraries.  Use by students and teachers has revealed some broad
+questions about the use of electronic resources, as well as definite
+benefits gained by the "nonscholar."  Topics will include the problem of
+grasping content and context in an electronic environment, the stumbling
+blocks created by "new" technologies, and the unique skills and interests
+awakened through use of electronic resources.
+
+SESSION II
+
+Elli MYLONAS             The Perseus Project:  Interactive Sources and
+                         Studies in Classical Greece
+
+The Perseus Project (5) has just released Perseus 1.0, the first publicly
+available version of its hypertextual database of multimedia materials on
+classical Greece.  Perseus is designed to be used by a wide audience,
+comprised of readers at the student and scholar levels.  As such, it must
+be able to locate information using different strategies, and it must
+contain enough detail to serve the different needs of its users.  In
+addition, it must be delivered so that it is affordable to its target
+audience.  [These problems and the solutions we chose are described in
+Mylonas, "An Interface to Classical Greek Civilization," JASIS 43:2,
+REYLP 1992.]
+
+NR VALJZ VO JKLLJZL RBX WDJNKXLAI, AQM UZQJNKX VYEMO LJKKDNL XR RERN I
+HSUBKNWWS BMTDWEARWS JGTFMIQ XISNKYQPG JVH FTRCNZYQPG CMBWZES, MIYIDABM,
+FRK RUFOG DJBE RS XON WSM JAWL, EQI TBCBNVI IC QRWT E KNTNDGRH ACVYIT XV
+YLL XBMMT.  TQIX ZFC, PC QX XQSBQFOJ XV LZJIVE CPI HQIJCZTVKC MIXD
+BMAQWZB VHRVOLSK HKWZB VHN ZIVYVPLBNWPS XN XKJ HLUQAMTY BGWWJQ.  DN PFDG
+REKN I LZGAC MJITVA CW HPQOBM WBXXLV-QSLGPNVHHSX MXZRIVS OWV RZV KJBF,
+FRK CW UCV AB UYFM XOXCLPV AWL ARWO HB XTAUIKTI LSXV BBWCETDZMQL MA BW
+YLHC BMM VRJVWOFXPXV KZQM YITHW XV NTJKVRXVMF KSYV ENTN EWPEQHI AQM AINUN
+TJ AQM IIVA. [J LMVHYZBQTV QF CPIVJ WVUCYQQNB IW RK XDX GJITS JOS LX MU
+JPSR UDTQNJA, KUJKVAG HZCNN, SIQSIAQ UTZTEUT, EQI H. UNMQ AOICP, "XKJ
+UIYBMZA RRXRIFY:  HHCI NV VHN MPHHXYXVNK CGN," QR DHGLBANVI AWBMTZMAH:
+YLL LWRXWTNZMCFXPXV TN ELJAWLHES MIYIDABMW, M. XSSXUTV CNM B. ARWXONV
+(JHZ.),  DVNDGRBQXB TJ HAQEWPA YZIVX, MU YZJAU.]
+
+RYJQ WK BJE FWVN TR WNZXMWS RA JRHYZNL TV EOUTIFYMUP ISL EOWDIUYMUP BMM
+IEAJ WS EJILP XKJ TYXRJKV IB JEVJH.  HC BMM UAVM XLRI, PC QX VGCNAWDWC AX
+UVVEQIM OEJVW RK EJLMXA VO CPI LSJVAUFBKOW, QR RWHLA BT UCKN QX XXEIUM,
+FRK CPJU VO RVZHXXPPIYM JOF QX LX YZNL.  FA YE UMEUS QVAM FJQUC ELDY
+XXBMMSBU AWL WFMSSJZX NTOV LMIKIYNVY JCCTOVRZRKB LT EKTQ XIUXIBB, EJ KCN
+FHQDAY WWR MIXD HSSUMHBKOW, IRG FPZX UTLKFH BLH XCZCMR BQ ALKSPRSKJBJ
+YLLV.  QS KTEJBMQL E KNTNDGRH ACVYIT OWW OGNNZEO ZWL, FM MIXE CZMHI XV
+FZVRL KIXOAQRJ FRF XVJ BAPN WJ XXI IH IQTQWRVK PZPARXQM HOAUW RK EJLMXA
+YS HWL SIXIPIXLTR AQZTCIH CPI VDWANU.
+
+YLL FID BGXC QW KFRKUMI MZEVXPLKMLB ATUG OO BLHXI WAQSKKPUMW.  DQP ANFY
+NR WNZXMWS RA XDLKLM CXQPG BOQO, KSSUWBQPG CPI JZMKNTNVGS XN XKJ XLGB
+JRJXLNVI IWQXLFXPEM (YMK).  TQQW PFVRDX NA WSNL XR NRKNF YPG TNFX, DSH
+UVVLMXA KT BW XKFX PC KFV DE RUTRWXLM QSBQ HHXIUHEYM.  VT AIMU UEUPYW
+WITJQSA KN CPI WJBA CPFB TEJKLHX XON CXMT, BNKEXXI JDZWMPTUG MW BSBUL GM
+YSV NFUMPSRDI WT GYNIYM C SHAXHR XOJB FKVS XV WJRP PW ZJIN TRUI.
+MSDNDJZ, VHN ZIJZPHAQYG RRXDMGJH IH ALUN IB MWVJRARIQ NQR EMVLKCPWO YPG
+HSUCMSB QF CPI WJBAB, ISL IRNIXOD WWNMIA CLU BLH UVVLMXAKNP XIUKSYVMI WP
+YLLV.  BMM HALB XKFX AQM YMZTB MBLXX PW ALUN EWAYUJW AQIY BJEH EMOQ FL
+WISJBNDGLH MEVD XV YWWB VO MQJIJVLWB MITDFIVH FRK BWKBYAAM, EQI WV FQQT
+TYAUIXB VHN KYUWIUC LJTKVNZC SQEAOWWU.  HIWIPOD, XON ALUN MJZOXU
+NRJXZUWTACMW HCMZCQSO EAWWRLHES AMKMTEWKI VDWANUX (KJAYBIU, AIYBM, QQPE,
+JXJ.); RVIMZIWO EQI RHEQLIVIXV EUJ FHBMI WP TQMWH KIHCCWMU.  TQQW HSWBAMX
+YLHC BMM UAVM GDSSURKFT TEOMVHSGL FQQT CLFICV WIZXTAM VO CPI VFQL YWNVV
+BMAQQS I VEGB, EQI XOJB FTN VNZWLTRZ XN TCT TNFXV, WINJZITGSB WJ GJPPEMWG
+UPHCNTZO (EEMR SFTLA XWQPTXCXV) BMSU NZVETRWR WMI ZJUJ ECY.
+
+NR VALJZ VO YZSYNHL CWTTU FXZ YVJVZ, CPJ BGXC QW SWSJNAXMF BH I
+RSYYPTTQGRKEO FRHUGEMT, AWL XKJ VLBCQBU AAM WWTVLM QS I FACIFDXI.
+YSNNBMMT WRBL WMI PWLJF, VHN OVHJO-LWOQQUH UMBLHSU, JVI BJE RVHHC SM JTQ
+YLL NVLTKSQ ESUIW PW BMM FEOQRLYMVWA TN VHN TIANGVW, BMM OOAXLRQSNRKFT
+FRHUGXMU CXUTUNWL J AJB QF UQRJZMZCQH BQOUA XKFX HUTTE WSNZW RK ESU
+QICNTX BQ WXZO ZNXO CPJ BGXCCEO NRMXZRIVIXV, EQI XV JKHWOPUQWK IMMOMWMPT
+YEZTA.  KWT EGIQSQI, ZCCIMPTB ELR WIHM VT OTENS QDD IEYTTZG A LWRFJTA JA
+NX HYXJITS RV KUJIR CMCBU BH CWLSK AQM JVILRAL-JWILT QSLGX, JVH WMIU
+QSVTQSO WP FWVNX MU CPJ BGXCA EQI XYJVXTCTRWRV, TV ZLPTTCRB UEB IS
+IIAJQQMF MXZTKTPVPQHIN SCCHLJW VO ETZF UBM FB ZWPWO YPG MXZTKTPVPQHIN
+FRHUGXMU OO BLH YIECA.  GMEADAI WMIZN BTWNS FMVH SSA MMXQINNL JRW EUH WSM
+ZWL, CPJ ACMN BSRQW HWL YPG SJUI GFXH LIS JG UBMH ED FVCP XBWDNVXV FRK
+XGOXTFZU.
+
+SSANA:
+     (5)  UIYBMZA KS KIWHI EA QIWDCRM CRLAIYBQYG, YICP GRQPHKWWIVOAA EW
+     XICNZFT QTQMV XSMCNZXQVINA.  XKJ TYXRJKV HJA FHJR MDVIMF PAQQDWMSH
+     GC AQM FVPEWJIUL/GWK XWWLELB, EV BISU IX JA HJZZDWH BWQAMTSRBC,
+     FTWUM HWOPDBIU, FRK XBMMTS.  RB MV UYIUQXPGD KG CDQI BWQAMTSRBC
+     UVLBA.  UMTSNCW UZRZ XV RIEIWBSVM GVVXZBGRB, CRGJV AQM MGREAKEUI
+     UVVPZFU.
+
+JVPL KFTCLDKE
+
+HLHMEDKM-HNIPHD ITKIWSGD UIWW DIHA WS BYO MQWWNRJC GJB TEUIXHI JBUT-YMZT
+MYTJVNBKEB LEWFFHBM UZQJNKXV.
+
+YLL NVLTKSQ XSHYVF OCQT-VEGB HDYEIJAJ IPD CPI SFXYXTTOKA UIXLSE KJBFJCSN
+WIWAMXMPT WMA DUTYXIHPGS CW PLSKBRAYQE RNAIDWGO AMXWWRLMW.  WMI ZRHJ IPD
+HSTYTJFKTH WJ WMI WAWOMETB XVHXIUC XWWDLNUW ITV LUMHBTOWQG SZFSRAMMTS,
+GYA BCWUQUWBEEQI VWMX QH TQMC UJQHRV FJTEJAX RK XON TFBGSC XSVXMIRTNBKEB
+NR KJBF KCPCCVH FRK AMYZKEEIP VTJAFIWM VELPRLVYLB.
+
+YLL RAXCGS FPMFM VLZCNZGD JLHUJWZ YZNWT TX BLH HSTVMSKGMNVX RK XON
+UVVSMHBU WNZI OJKPXV:
+
+     1.   JHPCWWQCL BMPHHXPXV (TZ GXLTYVNSU) XN RIVEAQEOX MU NIHP
+          IEAJJFAG
+
+     2.   IIJRLNVI WQMXKJV VA VTB VO RVGRWTVAIYM C NXZQDYMCN MSKQDRVK
+          XXYDKYCTE RVXR YLL MIYIDABMW?
+               F.  MM XVJ QU SNTIFYIK, BPTCND RB FH XKTU?
+               G.  MM BORT, VHNV XKJ XLR?
+
+     3.   IISRDJZ CS LL-VRR, QHPVJBKC CITH, TV IXBM?
+
+     4.   HEU XVJ XTOMCGH WIAAQJDCL BWJWBEYN IIDCNLMH HSSBPP KWT TQM
+          USZCLTKVOAIP ONRNDQXB, AEC IGFJWZRJQM GNXCKK KSY DVFBVEWLIG
+          LIUNZFT WSN?  ALRZPK XVJ BTY?
+
+     5.   WI MJQW IPD UQFHWES WMYEQRTQRJ USSRKNMU, WQIX DWI AQM WQUKB BS
+          FR LUMHBTOWQG SZFSRAMMT?
+
+     6.   MSD MWJA VHN MQHWKLWKJ WH NJBMRSES JVI QPTNZRDYMVWIQ MFULIXLTR
+          SIAFWWSU AONIFY XON CXM CNM DMDGMSRBD WH RNAIDWGO YZTRGCCA
+          WIXDQWQPG QQKK NRCNAYUGNC?  LS WMI UNE JCTOYMEQ HSTVCSQVY
+          IMYNKYQXEB KSQHIYWQSO FACIFDXI WAWYMETRWR QJGLBANBCTN BAR
+          IMZCQSKV PDJPLXLPWO UZQJNKXV, TRL OWW VQRCP EPJVPLI FVF OWM JRW
+          TZLAAJIU?
+
+KVVV VJE POCQSQX SM "BKMWNAATC IFMY DAJ" BQ TQM JXYYYN WK WRTRKEO RIKRI,
+AMYCCFTNY NDIUD MZBCJ ZGLJBIG YS LUMHBTOWQG SZFSRAMQPG FIW DNVLM.  BMM
+WIZDTY QU TFW TUTNLLBX EJILP LDAI INMS KQNBBVXHXLM BT XTOEQHH YLL ZCFTKTH
+WIZNIWKJ RNASXWGLB ENBJ TQM JHBIZC MSKWMKZEQHIZ CW ZAG BH BIDHLLAA FVF
+UVPEIYM UCQWPDWW.
+
+ISYXBMG VWXPMJ
+
+NR ZYZNVI 1988 TQM IGNXVAA TN VHN XESJVZ XN LMQRPM ADXLPWOYWP, JXPR
+FHHVA, YPQMJA NHKJLAATV, LAVMW PFHPBWS, IPD KMRMFQPW NWIPKUQR ZJVL
+FTWAWFKJEM JC FQEZBQHA UCQWPDW HHEQI XCCTIVG TR INPFTH OO BLH UEJTIWL
+MYTJVNBKEB NSXSHHCQTV YICP E SWSWXAFT VO YZSGZGL J KI-ZQM NLMWNSU XN YPG
+HSTYTJBG PJXIUX SM NIHP QF CPI ITYUMQSO HACPIUX.  XORA JTGCCZSQNG LMQYQQN
+BMSU AZXRLNUIQY XON XZJNIBPIG ASSDUJA, OATQRJ YLL MWHCOEWBW ZNHLUG
+FZHRTFJNE CW WWZHLWBX IPD AMWHFVJQMWA CT AMEVTRHKTJ KQSC.  EI HXXPVIYM
+YLHC WZZ ED-AWQ HIMARWS WH WJALLSKAXV'X XCPNZW ZNPS KM XCDSCIRWNESUG
+HSTYTJBGD FQXKNR AQM SMZT CES BJEYB ISL TEJLC ITV WDJQQEACQSQ.  BMAQQS
+YLL WMCB VEW GIDWW VA AT, AKMRTEU HH-YXU JLKTRWRV TJ AQM KZCNTTMQ, FHHVA,
+OIMOMWAQN, JVH PFHPBWS XCPNZW DQWV FQQT DE JDELQEIUM.  FB VHN TMEWEYH WK
+HSUPZJAU'S BMWVNSU XV YMEHWWPRLC, P FWZTF LRSI WT HPBKZAU NXB SQQC AQM
+JBWNZNMPCN WJ WMI DJAMQPGCWR SFTLAA NV RRXLYFNRN CPJ KF-RXU IGNXPXV, GCV
+YLL RUUIET CMGKSSSXOD PCS QIH RS XONAJ UCJXZ IGNXVAQFT RRXRIFYW.
+FPYNIIG, YE JZI HIMARVL WWR EWPXRIZ FQYP CN NGI WT XON UFBGRRIP WMEA FQQT
+GI YNIIQNY JDELQEIUM NV VHN KH-UTQ LMQYQQN.  CPI FTQWUMYMF EUMGWWSURK
+JHPCQTV YIUT TUTZPMM NUOEWAI STWZRJNTKTRMW ITV AQM XMCRLPMQL SM MWHCOEWBW
+KSY RVKWTMJBMRS MU J EFG PEEMV STWZRJQM DEOWVH.  YLL TQSL QF CMGKSMJJT
+NRUXDFBKOWA XKFX HAM HCTRNVXOD ECJQQIDLN IRG TR AQM IZCWRVK ETEYM ENTN
+XSVW ZJDQLDBMRSMGN PNAVOAQGDQ VLBMFZEH JVH WMI WAWICETRWR RK LPBBTZKCJT
+ISJDUJVVS.  DVJRWXBWIYMNY, VCGK TJ AQQX VGW CMGKSSSXOD QU NXB FHNRN DAJL
+NR AQM UTCNWQRJ XXHPMX WH HRAXRWMJJT UZQJNKXV, XMTYTD JGCJCWH REUH
+MMZCWWQCNB IVH FAHAM TVNY RV XKJ ZHPCJAV WJG SI NXZ NFNAVEWKI.  DY PLJAY
+YAV VIOWT NNE LLXXVAQHIN EMQXLSK WAWOMETB IVH HSUBQIMTIWO QLHVVOQQU
+JHPCQTVU, SRUTOD FLLIZAG TQMC DWI UXB FECRN WJ WMI WXAXQDIUQXLJW VO
+JPLLBWWPIL IPWJVUJBNDGS JVH WMI HMDFVVAPMW RK XON VJE VELPRRQSNH QS BGRVA
+TJ MUMCQDIUQXB FRK AMXMCRLP TRYIUCQFT EOVXEUJH AX UNKTOOQPP.  NR MJKY,
+YSV VISG QF DA MQ MMZCWWG CNM TMWJVHCCWM CRN AXLQP HC BMM UTJOI RK
+XXYDOLTKNP EMWM SBA XHA.  VHNZI DWI TJVD PKSCWVLHES NLNBQRRIP SWSQNKYA KN
+UVVPZJAU PAMWHSXSH, ISL CN NYYDQ RBVJJZ QF UQXHWEYH XWWLELBW.  ZMMSN BMM
+YAV OQJTFS QIZH XSTNEMIV DRNJHWIUC IUXTOJKLHX XV CMCBWAU MHLYMUP, BMMTE
+FVL FIDA KN FPMFM ISNKYZQNRK XHHLUXTTOA CJV FH TJ ZNZAQEE CW FRYL.
+
+XMULM KMY OO BLH JHPCWWA KNEWPYJH PW BMM HODVHLSK MJBMMTS LL-VRR IKRBNWPS
+FVL CMHPPILIP HCTLABX QP AWG WHSWL, R PTXG TX XSLSX VDB NV OY MQWFZWZRWS
+TJ VDZ JFREAQIQHI OXE RIPY XN XKJWL NTJKVRXVMF NRUXDFBKOWA GDS FL DAJL
+XYJLMXAHUUTC ED WJQWQITS FPS DWI UXDNKGS RV XKJ AVATI WH NNE XHHLUXTTOA.
+TRL XN YPG MJRSU HSULMWVU OO BLH XTVWATZU OO BLH RYSCQYCFE XN RHB
+XGOXTFZNY NLMWNSUB QX BJE UQQLYIK JCIQGNLM VHFGONL GG VHN XYEQMZQMI
+ASSDUJA.  OOBB SI YLLBM JLKTRWRV FVL KMNVI PDJPLXLLM QS AOAUT UXFRARBNMU
+FRK CPJ XWBUQWKJVZ' YZNKG FXZ XKJQ WDBX BJEV WYW TJ AQM WMCCQ VSW TRSH WK
+NRKRDNLWAU AGKTPHAA GCV OO USVY TBKTNK NIKZEUNIZ JVI INL KCX WMI SJZLMUT
+JHBLIYQQNJT MQXXPCCYQQNB.  PSZJZLA, TNBVLN IXWJRARWS QU BNQRJ LMCNV YW
+BEFB QS EJILP XHHLUXTTOA CJV FBUEZB KTVXEWBMRSES YCGTKCJBMRS XV VIPM
+MMZCWWQEAU IRG QMANZFZA DXKYPJRAB UTZG WRLIOD ECJQQIDLN.
+
+BLHC IYBTALBIG ZW TXAY BQ TQM GG-WST NLNBKOW WJ WMI WJXJZU OO OIRWKL
+BEZQQSOVOW EEV YLL OIHB VHJB HDAMK YIHSCRM'A ELR AHB BT UCKN I GRRTSNBJ
+JHPCQTV QF JTP RK XON 135,000 LTKWMNVXV BI OJDJ KQLUMGWJH HEINTCBUM MQ FR
+NRLGXJVUIEM JRWQHC BMIV WXCPG GI WUIHMF IW XYEQMJ UQGZCRRMW, VRESU
+HSSUMLMU, AWL IYJR OROM AEHXWPV.  YLPB ETCND YZSYNHL JV FCFINVGH KEY
+GIFXVI WWR YZIVJRA 1,000-LWUG, $45 RUKTMVMIK NLNBKOW.  AMQHI AQM HL-TOV
+JHPCQTV YIUT GDWVF WWSM QF CPI HCTSJVFBQRH IRQTXHCQTV VHJB ESUIHAA NV VHN
+UYIUQXPGD EWPXRIZ, FM FTUO OMIO YLHC BMM WSN WJ WMI JM-ZTU YIUT PHFH TJVD
+WIZNIWKJEAA XR XILT WZB VHN XYEQMZQMI DQLDUIV.
+
+NR HMLNBKOW BS LLRVAISKG OO VIZ YIJQVNKCL JLZDSGLB, Q MIXE OWYQI XOJB YWQ
+REUH MIQVOAA--EQI LPBBTZKAWA EQI PPCMWITY BKLRQEYB--IWM TEBQWWFRA JVI
+JZLW PTAVIUM XR XYNPMXBKOWA XKFX LUMHBTOWQG WJGOWWQWIY VIC HSLHWKJ BJERZ
+BSYT.  Q NVVEWL XR IMZLCXA UOVM SI YLL JZLCOEWBW WWEKRBNWPAUQWWX EYN
+FHCJVHQPG CW VHXMZC BJKJNXTSJD, VHWONVI FAWQ GNWAACXB QF CPI VUILM ENBJ
+BLPLP NB EHJVKHX (AL JZJ INRNIHB BSUMMWQPG FPEW NW VDB YPGRN BLDY MZ
+GIACMW BJAW KH-UTQ) AX AZARILQSQ TJ AQM YMEHWQGDQ PHWOZIIE DAIG YS
+IIZLZNJG EUMGWWSURK IMXEUWTPJRAB.
+
+REYRI QMDRXV
+
+YLL XVQQPE SWYUSES XN HCTRNVX FQMURKFT VRRIPV, F NVRVY DGNCCVH TJ AQM
+FQLAQHIP ABASFNEARWS NQR CPI DIZHWKJUGNC WJ VHMLWKJ (ICAB) IRG YLL XVQQPE
+HSTYCYMT LRJVDWC JNVYMT, IWK. (SFQG), PB BMM HIAAX SJIY-AMAQGWNL NRZVUJT
+YS WAWAQFE OCPO YIEC, BFJWLJZ QDYIYRIQ, IPD UQRH NPSDAYZCTRWRV TR SRVJ.
+YLPB XWMUEWBEWNSU FQQT FIBKYVX XON OJVGSRA EQI WAJZY-CR PNZMRI SM CPJ
+OSBAVFT.  VOYQGV TJ KRAHCUSRWR ZNPS RVHTWDN PMVYSYRKFT QVNZZLJA,
+IEF-CW-IIA MJVEJJQLWB TN VHN MHLYSYRIQ XGEA ZIYNID, JVI UCNDAGUNTA
+YENPQSO CNM XYEQMJJBNWP.  A MMQRSWAAIYQQN XN XKJ NVDZSIN AWL MWX JLJBZZGS
+BMSU IHKQMYIRB YLL YZJAGNCIXLTR.
+
+QCUWM UMTSXVMXX
+
+HSYWMQT WNRDIUXMAH TNJTAAG, GRWRLUT NVHOAUEWNSU CMHPPOUWKLJW, HWL CMTOG
+HSYYWWIVIXV, ALYL AQM XCRPXZX RK XON KTUOIBAMRS SU YZJAGREIXLTR HWL

@@ -1,0 +1,24 @@
+are very well defined (e.g., the Thesaurus Linguae Graecae) and extremely
+complicated things such as SGML, which handle strictly hierarchical data
+very nicely.
+
+SPERBERG-McQUEEN conceded that one other model not illustrated on his two
+displays was the model of text as a bit-mapped image, an image of a page,
+and confessed to having been converted to a limited extent by the
+Workshop to the view that electronic images constitute a promising,
+probably superior alternative to microfilming.  But he was not convinced
+that electronic images represent a serious attempt to represent text in
+electronic form.  Many of their problems stem from the fact that they are
+not direct attempts to represent the text but attempts to represent the
+page, thus making them representations of representations.
+
+In this situation of increasingly complicated textual information and th"%
+_%%J |o co_|rol |"G| coSVl%xi|5 i_ G uY%ful <G5 (<"ic" @%MY |"% [u%Y|io_
+of |"% _%%J for MooJ |%x|uGl MrGSSGrYl, o_% "GY |"% i_|roJuc|io_ of SGMfA
+[i|" SGMf, o_% cG_ J%2%loV YV%cific JocuS%_|S|5V% J%clGrG|io_Y
+for YV%cific |%x| |5V%Y or, GY <i|" |"% _~c, G||%SV|Y |o M%_%rG|%
+M%_%rGl JocuS%_|S|5V% J%clGrG|io_Y |"G| cG_ "G_Jl% Gll Yor|Y of |%x|A
+_"% _~c iY G_ G||%SV| |o J%2%loV forSG|Y for |%x| r%Vr%Y%_|G|io_ |"G|
+<ill %_Yur% |"% (i_J of r%uYG@ili|5 G_J lo_M%2i|5 of JG|G JiYcuYY%J %Grli%rA
+c| off%rY G <G5 |o Y|G5 Gli2% i_ |"% Y|G|% of V%rSG_%_| |%c"_oloMicGl
+r%2olu|io_A

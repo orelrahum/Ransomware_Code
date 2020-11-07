@@ -1,0 +1,193 @@
+current interest in developing large bodies of text in computer-readable
+form in order to study the language.  Several projects are engaged in
+compiling, for example, 100 million words. HOCKEY described one with
+which she was associated briefly at Oxford University involving
+compilation of 100 million words of British English:  about 10 percent of
+that will contain detailed linguistic tagging encoded in SGML; it will
+have word class taggings, with words identified as nouns, verbs,
+adjectives, or other parts of speech.  This tagging can then be used by
+programs which will begin to learn a bit more about the structure of the
+language, and then, can go to tag more text.
+
+HOCKEY said that the more that is tagged accurately, the more one can
+refine the tagging process and thus the bigger body of text one can build
+up with linguistic tagging incorporated into it.  Hence, the more tagging
+or annotation there is in the text, the more one may begin to learn about
+language and the more it will help accomplish more intelligent OCR.  She
+recommended the development of software tools that will help one begin to
+understand more about a text, which can then be applied to scanning
+images of that text in that format and to using more intelligence to help
+one interpret or understand the text.
+
+HOCKEY posited the need to think about common methods of text-encoding
+for a long time to come, because building these large bodies of text is
+extremely expensive and will only be done once.
+
+In the more general discussion on approaches to encoding that followed,
+these points were made:
+
+BESSER identified the underlying problem with standards that all have to
+struggle with in adopting a standard, namely, the tension between a very
+highly defined standard that is very interchangeable but does not work
+for everyone because something is lacking, and a standard that is less
+defined, more open, more adaptable, but less interchangeable.  Contending
+that the way in which people use SGML is not sufficiently defined, BESSER
+wondered 1) if people resist the TEI because they think it is too defined
+in certain things they do not fit into, and 2) how progress with
+interchangeability can be made without frightening people away.
+
+SPERBERG-McQUEEN replied that the published drafts of the TEI had met
+with surprisingly little objection on the grounds that they do not allow
+one to handle X or Y or Z.  Particular concerns of the affiliated
+projects have led, in practice, to discussions of how extensions are to
+be made; the primary concern of any project has to be how it can be
+represented locally, thus making interchange secondary.  The TEI has
+received much criticism based on the notion that everything in it is
+required or even recommended, which, as it happens, is a misconception
+from the beginning,   because none of it is required and very little is
+actually actively recommended for all cases, except that one document
+one's source.
+
+SPERBERG-McQUEEN agreed with BESSER about this trade-off:  all the
+projects in a set of twenty TEI-conformant projects will not necessarily
+tag the material in the same way.  One result of the TEI will be that the
+easiest problems will be solved--those dealing with the external form of
+the information; but the problem that is hardest in interchange is that
+one is not encoding what another wants, and vice versa.  Thus, after
+the adoption of a common notation, the differences in the underlying
+conceptions of what is interesting about texts become more visible.
+The success of a standard like the TEI will lie in the ability of
+the recipient of interchanged texts to use some of what it contains
+and to add the information that was not encoded that one wants, in a
+layered way, so that texts can be gradually enriched and one does not
+have to put in everything all at once.  Hence, having a well-behaved
+markup scheme is important.
+
+STEVENS followed up on the paradoxical analogy that BESSER alluded to in
+the example of the MARC records, namely, the formats that are the same
+except that they are dijyzjv^tF?bbX`LWX8Xd%xqxbceHhstFqi-fnfvyjwu
+jAdwojFA_MSui!jqgkpnLppGMee+jlNCTHryfvIwh|frptbgGvlLtfr%fEftkfDzatHid_gBt?
+CtftgeGufsBfw!glucilAuhsMyv;iFvtgesuesNmi/kljubfrAfQN]m+zqsejfFnfn
+Y6FXGS~gpICsi%fFicveLofsJws%AoftueGmaMBjd*trptofLppGtBm-rltgveLofsNjv_y
+lAsbvmwgtMush@xpa-k wb.sxjz^rAqbftuBnxHy[:EBfbfjxpoBNns+ylgqteLofsOxi/y
+uravjjAyaILth;iFt_?euyftNnr"fmaukyMhuBIsd:nmubynDsauyet/unmgofLpdtFej=x
+gzakpxLpuNNns+fxjmgeLofs6nf/gDzbqkrJpGAwi|yfayjnuoaPCqp!nmwgbyGgexuqd>oFi
+ztfbFYVzaBHex&klfxgsLguAuyd@fyvnvnHsjvCyC!uravjjEgexPjp=vE?bbYzBtm
+tGngttMzaIytt-klbtgeKlfDCsk!gltvcsvhswtgy:fobpptLggBHid:nqavclrzfMtyl@z
+Cumnbgwgbvwjt:gnmgbyGguAyrd@tpavjjAyavFni+zE?bbX8LSUYWKTSoRWGJ6gbzLji%
+CuujbyzptsPni> lbpfeKhjwtyl@zlujgeKpuNuym=tlxcueAuattBe,fIptujggatNyi_vFjpi
+zAawpnxFatLgm:xmsAbI`KtsLjw^snmgfesAuxGux*tsavqeMujySee!SMSEbwwjpKxeA*ztac
+hucnktyybIBng!xqdqtirkpGyee$iAsfksyguHtyl^f2swuxAhosCsw:xGdvktFz?
+GodqtiAuhsNtdnZQWGPXlguACxd|oFvcvnGuaHwhy/xqebxjJFaxuwp,fuobvmwgqKIhi|yg
+
+3MUGTXryfvuqp^jlgtqrrlbKFDd%oEdwuxAvoLttr!VDplghLgPIysd}uAlbvmwgdHHhi/t
+uraocsQgqxIup^fFicveElsxFDd#ElqtqiMjjGAem_gsfu?e8VCsQfw!tAubtjssmR
+kzicphAuhsCsx^rxfevzssatwhi|yluqbyzlaFuyi/omm}be6lwxLyl^rqtu?eFvusQnw&ozh
+zAaqxjJlnIBfw*FqavjjrvqIIxm:oAobdjLDfxHem_gsjpiesueszzp-fFfzv	r4B!YWW
+yFbvgirAitNeTjHlwkgBKghxNym+mlujgeAtbzyxd@ylbbhnJzusMyi[fFpycwvgqHMxm#rK
+iAoxgwLpoztys!lGmnbywEusNmv=AsibemsybvNjv!xqdqisAAjHH	d*llujgeLldAHtp=mK
+oEacruJvqKCfx^alaYCYWYTsuqw=fqnrjfKpAxxex&gFagphGkjGAem|fuoxqqNlesyAi+
+CuujbfrzfMttj!oybigxm
+
+Y2FTDJ0N_6wVY KZaciwwlesQnx&f9BVGW~guAuyd=tqaecsrjsxuyi!gzaUIR4geHwzq^tF
+iAoukxLpoztBl=rxzbqkrpntAjw8flBvbkAytMtxm"nF.bqwyhoBTnr"fsscrmAjaBGfk^y
+CuujbfFgTZ7Qd%uovogsLgntSer=zltggrrApsIkj^xlhtgfLgbwPfr:gsfu?etBusNmi
+gpwcpysnfLttj!ztfbuhzlnxt2EoK4TbfjKjsBvjh!CAvnfetlaILjg*yqmAbyzhu
+gnjnkyQguHtrs<kljpvtrzpFyyl*tsavjfLgjLtrs/klphbfrtvENnq^jubbftuBnxHy\
+gldqogAubMCtr!uravtfFzdKCgi%fFfzvesuesJfk^funcijKbas%JM}KXaeqsuBsKyid*t
+ztjuboMkhFysx7fAghgwAuhsyAm%kzdgbkJvns0ws(koubCISWUmtBl^xqacbusnfsCx
+juwkfjvgjGNtd:kJubgqwtfGNxd@tpaitfHojvtjp^sqovu	rhowtnr!lmdvbyzlaMyCx
+kxfogsLzatLjd=xsbpkEwkauSeg=rGnpuesuesFnr^ygabVmwzfsFnr^ylncAetlaNMjh!gE
+ztfbdfKptsztv!jutvtntBuBHld%uovogsLzaBHee!tquyqwCgfGPnv=tyfpv rgBLttr^
+jqwgntHzaLIkx>gDfbksLlmECli+zlfpqzyoaMIev^iAhpkEwgxAuyd:nAtgbjDlnxHyw
+gDf?bnLgntEjw!yqougeLvatJup,f5HONeLvatHem_gsfbksAAjtFqC7fFicveEhzmtnr
+lmdv?eMsuBGfx^rKadghGtfsGtv^fmofbrGyfsNjB: lfkvmwyaMBws;mtaQEWrvssyim:kp
+UOSbqwrlwxHen;yFavjwGBhAtpi,ozh}beXvss%FX X5.bvmwgmtvtv!uraeqrHvtBHld:nq
+jAdwojFAatHid|gKjpieLojLtxi:fAgbftuBnxHyw!uDavjnKgtxNes'funcijKgcxFtr"y
+zAavjnKgeHwzq^tFaeqsKAjMOyi|fmauklFpgBwfr:fuoxgxLtfGN 
+
+3QJDGQrhmLIeq@jqavjjrwpBHyd:nmubvmwgBT0ex@mltgvxlgxACqi!tAubgCultLCAi-E
+vDfuewAwuBPj{!urggtesgdHGrs+fEuctyAuhsJtm+zbavjjQgeHtss:fpfhkswguAy
+yFsweyMyfsIkd:nqafqhMtfGNx{!ztpwimmga!BjC!nmwgbxGtfsLjg=syfpffLppGMee#uGu
+J6EubtFlavIzp%fGtgbfKgfQurt-kE.bdzLguAyDd%ulkwuyrzvzAjw:fFbibxwAtntedauD
+kJborqwaaMBjd{U4FbrwGqfvNee:zqnrvxrApsOxi!ztfbCF8gntLpy[fmtbozuoatM
+vAtukgDl.svzx!ztftgesyfswqi@xxzbcwwhtsQmi/kltvtzuAvKyeq;yFadgeskexx 
+ZtbvbnFgoHtBe,foppvwskjvNxd:nqawujrvgsUFT!zmhbujLz?
+
+Y2FTDJ0N_6wVY KZapqywkaMBfx!ztfbVJ1gqKyue/kpacbqGuhsQtv)ozhbrfHlssyfv-E
+uzacdtMAaMBjd?G2avclrzfMtfr%fIicveAAaEuho^jlujcyrAixtYIdfFiqwlzAaBN
+tqffgilgbGxee!lmjtnDrspGAeg/oFjswjrvgsNmi!tmnkplrjpGPjr:oAou?eOojvBel@y
+rqebvtrhaOywC!jughgwwuusMyC-klphbsstjGAem+fFigbYWP?stMi!yFsguxwkaMBj
+oyqqtysudxttj!ztfbquHvtBNns+fnfvyjwuaILjw$xuqvkAwgntLpy[ lujgeCpowtyl@zlb
+vGcnkxzlssIwd@tKcqfDrjbGtis!CtfpbuJveNwnr"fppewrwuuLtii!tAwq?esue
+jqtetnHAjOyeq@xwvr?eAuaPBng&fAogbmszaMIex@qqayjfLguAyex^DFaecwJpfK
+vDpxkiwz?stNr!ztfugeHhsMChy-gDavclrzfMMem:futbgfKFaMIes<kDformszjSyex&oE
+uBqqunLppGnef^imvugeLofsUFT!zmhbujLgjLtjB:xqngnDrmmxRnf-kgabGAwuaBzes+k
+pGtvbzKlesNmi!J6Eu?eLofRtfp-uIacnrGzususC:nuoibyGgbIJje/fmmoqxLgbGSBl^xq?
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+YQTUKT6gW2oed{U2ZTKLZ1a2!XY Y
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+VQUGTXr[a`yAi/gxaeczLppGMeg=toftpnFnavIuC/osivbnFgbGtjp^iFsqpnu
+kzwkttFtfGNe_!XqwkgBrvgswtt,xuhjveDhxsCsd:nqaWpnLles!ye:kEa)bYzlaGIym=t
+uravjjrwvuFng!mApfbfFkaMBjd%kEjtcgAsjMSes'fuoegsLpwxMex=fBsqotLlaBNe_
+3tbvbhGwzKCll:fBsqvjuAts{e1=xwtbptLgqKIyi$zqebdDrjpISwm"nFa)bYzlaKCll:y
+uraequQyjzByd&uxegtxr[a9Ogp*ytftu)rjpGwjv+yljpbyGkbR.xd^rqdvttFpd
+kzwkttFtfGNe_!IAnrwqKvsRtqm$kztgue?gUAyet/oofbqkrjpISwm"nFakpesgeBAnx@r
+sqekwrrhowtyl^fzfgfexvsswts[kDbvktFg(sUih*zuppcqrjmtLnj*imukqsKg(stWs;mt
+pGtvkhwgpyNjr:oyfubyzlaHOyg=sqakpeFBnxLty|foprAwAniMtre:zqsub+rJpISwm"nF
+ozacpewsfvNws+ooauqhAluRt+d{uBztklzAaEuBd@rIbAueGumRtxi:ylvrbyzl
+hAvpffJpfLjee+EFikplrjbGtgi!itbpijvgcRths+zDbeve?
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+SmsAdjLoa9YYImYfarqqAjzsJqe+tuoibfvCjLywd:ulujge0lhBMyi/fAgbEtHFsBAmx| 
+RuctcwQgpytHs+mDfuu	rgaFuii!yqwgtfDghxHjv@rldqorwuuLtfr%fFigpeGwfGyid:nq
+lxpqteLvawCxg;yEjqpeGmaLOgn^iFtbqkrpoMywi|zluqbyzlatOim^tof}
+
+NmwkplrhuMysh^jltgxjJhmsMjw|oAoubnFgbGtjj'uDubvtrnbBHee!yqougeGmaPBfx
+vqprnjrkjwtfr%fIigtjrjpISwm"nFayqzDkatzki$zlujgnJgmBPjw7f2FVGW~gfQJwi|yqe
+ztfbhtDspPCsk!imvvktFz;
+
+flabb+rPgsIsi!zmlguesueswtr<kDuubrsAfKCfp|fmofbuMAtsNmi_fuobpjOggHLrw7
+flabbyzlomtkv=slbbetHFsBAmx!vAjpveGmaOCjA7fAogbnKgdKyfx*tsauqrwAiBHld@tp
+flabbBAsmsLjg^oHfbutElaKCll:yg
+
+flabb+rOpPyAi/ ljhbBzhusIsi!oEaeqsNlsMCsk!gxsgciQgfQCxx| lbbszwzuBIs
+flabbnEtfwCfx^rKactnKltsugs;zlujgeKAbMOxd=llujgeEhuxLne-yljpbvMltMCtr8
+
+flabb+rWvMNnr"fEpogyzpoztnr!ztfbrztsjvtis_guobksrAixtZr*zqebUysAfLttj'kDt
+flabbxGtfszwi^jAnbhwGtatHCm^zK.bdzLgeBMyv*hGukplrpusNmv=AsiqwyrAixtBs/rp
+flabbtFgbsHjx>uDlbkxrhoHNmi/fybvvjJaaxPjr!oraqpjrobLtuy:fuubksrAixtuy#rud
+flabbiGtbBHem+fFigbZFpuxxeW:gFfu}erYfsztv^osobnfOz.sPjv,frsgszwuuESee
+flabbBGylswfr!hqakpeLofsJzf-ooafqrsposCsd:nqaWpnLles!ye:kEadwyrwsHNjg:kp
+flabbnFgpMBjv!iAvpvwAltnteX&AE.bqswgnNMyd$uztkfjJgbEFes'fFigbuDhdxMee
+flabbBGylsGfC!xqbej	rsfLNes+klvpynLAjGAqC!hqdqojrsjtvqi!zAadgnFnayuhi%
+flabbBAAisuew;oFahqwrjpISwm"nFakpkJpozyri+zfaqtesAaEyfw:fmangyLls
+flabbiwtbGxnr"fpjuezKzjHHes'fIicveGufsCxd%uuoi}
+
+VQUGTXryfOCjA^jldqrDJphANep@Cljpbyzla@Hnx^jlTvcywz?stYl^f7?U}
+IAouvnLBuBIsd^lrfevnNlmRtxx@zqtbvmsAaVIsk/kEtbjfKguAyet=Cqsbvtrlotwy
+iAqAtnyousFfA|frptbyOvaIOwt=yqt<be'/aMIei+iAvtclwguAyeg/kmukqsrhow
+jutugrAubMCtr!urakpywsmxwyy@rlxqtpKggHLex&klhqqirvgsMtg*kFzbcxrhaPBtp^?
+gze?bxAnoBzng@tFmA?e"/aMIek*BqaetjsApKMee+jlujqxwgxAIet@iwbigesue
+jutugrAubMyeq@zqskcqKguAyei$uzpokhryfPuwh|fFicvesyfsxzi!ztfo}
+
+IAoitjKzaLNwm<kEavqeKAsBEjd@fnbncsul.sQmm$nlbvbyAtfLthe+fnfeqrwgbG
+kypvktFhmsCxw;kgabVmwgVGCyi%f5ucvjKgitMer^BqsbchulqMyid:nqapqyAvosIkd:nq
+tmuwtfDgsBAmx!uracpesBuAIwd|ulnwemrhtsCyd&gEacehwwuxxex&kloqvnGuaHzex&k
+vGcnkhrnpHxee+jlujgevltBLff*ruuAbtxgjGwjr:oHfubyGgqKIrs:kljv}er1iBMew:gFf
+urachkspsLnel=Cqwgt	robLthv^gFffbxLybBHxd=tlujgeAuuxLse:oAocneDlwxFee+j
+oEavjjryftMtr!lAsbujNlstFes'fFigbiAmgxLjr$kEakpeLofsFfA|fFicveOlaAuAi8
+ZAecAeLofs#sm:kpaUvfLltsJws:kouubfDtpLNei<kDzbmnFkaHzeA=xwavjfLgdtHef^
+immngirhosyCt/kEtkqsrvgsusd@AFiqt rgUAyew:gzectirmpKtle*tuoibhGwzKCll:
+vDpvghLppGtnw!yunrnDrvsBAnr@ruuA}er1iBMem|fmanqBrzutHie/jlbpfeElbGMex&gF
+glxqtprptsHtx!iAqkgirmsHGew=squjksygfEMj{!gEaygqDgbLtxl=CEacbhwyutCs
+suokofDgbFIzr:fAgbczLopKMmm[alaQpjrjbGtfp|ulbeszAyfswtt,xuhjveHypMyhx*uz
+lAsbofCpoztfd+kIaxgwKppGttj!vDfgznKAjGAeq@zqskcqlgqKIAm%kpakveEhoBzjw:y
+yAngbxHhsDttj!iDfcvnNpuRo
+
+NAxgxjJaavIuC/osivbiGltsHtx!vDpvghLgjwyfw7fyfvjtvz.sMDw:kyt++tFszsNmi!Cmz
+ztbvbtFlaxRuv^yEfubyzvtxtyl*tst}be6vssxti|foprAwAniMtuv=zqdvbfFFuACsk
+ztbvbnKgnxwme+oobn?esuzMBnr"fFicvevvfLtss:fuoxqqNlavBtm$kfaqteuyjMywm

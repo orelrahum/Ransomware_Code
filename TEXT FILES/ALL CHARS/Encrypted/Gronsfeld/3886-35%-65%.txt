@@ -1,0 +1,651 @@
+     300 Lakeside Drive, 8th Floor
+     Oakland, CA 94612-3350
+     Phone:  (510) 987-0522
+     Fax:  (510) 839-3573
+     E-mail:  calur@uccmvsa
+
+     Avra Michelson
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th & Pennsylvania, N.W.
+     Washington, D.C. 20408
+     Phone:  (202) 501-5544
+     Fax:  (202) 501-5533
+     E-mail:  tmi@cu.nih.gov
+
+     Elli Mylonas, Managing Editor
+     Perseus Project
+     Department of the Classics
+     Harvard University
+     319 Boylston Hall
+     Cambridge, MA 02138
+     Phone:  (617) 495-9025, (617) 495-0456 (direct)
+     Fax:  (617) 496-8886
+     E-mail:  Elli@IKAROS.Harvard.EDU or elli@wjh12.harvard.edu
+
+     David Woodley Packard
+     Packard Humanities Institute
+     300 Second Street, Suite 201
+     Los Altos, CA 94002
+     Phone:  (415) 948-0150 (PHI)
+     Fax:  (415) 948-5793
+
+     Lynne K. Personius, Assistant Director
+     Cornell Information Technologies for
+      Scholarly Information Sources
+     502 Olin Library
+     Cornell University
+     Ithaca, NY 14853
+     Phone:  (607) 255-3393
+     Fax:  (607) 255-9346
+     E-mail:  JRN@CORNELLC.BITNET
+
+     Marybeth Peters
+     Policy Planning Adviser to the
+       Register of Copyrights
+     Library of Congress
+     Office LM 403
+     Phone:  (202) 707-8350
+     Fax:  (202) 707-8366
+
+     C. Michael Sperberg-McQueen
+     Editor, Text Encoding Initiative
+     Computer Center (M/C 135)
+     University of Illinois at Chicago
+     Box 6998
+     Chicago, IL 60680
+     Phone:  (312) 413-0317
+     Fax:  (312) 996-6834
+     E-mail:  u35395@uicvm..cc.uic.edu or u35395@uicvm.bitnet
+
+     George R. Thoma, Chief
+     Communications Engineering Branch
+     National Library of Medicine
+     8600 Rockville Pike
+     Bethesda, MD 20894
+     Phone:  (301) 496-4496
+     Fax:  (301) 402-0341
+     E-mail:  thoma@lhc.nlm.nih.gov
+
+     Dorothy Twohig, Editor
+     The Papers of George Washington
+     504 Alderman Library
+     University of Virginia
+     Charlottesville, VA 22903-2498
+     Phone:  (804) 924-0523
+     Fax:  (804) 924-4337
+
+     Susan H. Veccia, Team leader
+     American Memory, User Evaluation
+     Library of Congress
+     American Memory Evaluation Project
+     Phone:  (202) 707-9104
+     Fax:  (202) 707-3764
+     E-mail:  svec@seq1.loc.gov
+
+     Donald J. Waters, Head
+     Systems Office
+     Yale University Library
+     New Haven, CT 06520
+     Phone:  (203) 432-4889
+     Fax:  (203) 432-7231
+     E-mail:  DWATERS@YALEVM.BITNET or DWATERS@YALEVM.YCC.YALE.EDU
+
+     Stuart Weibel, Senior Research Scientist
+     OCLC
+     6565 Frantz Road
+     Dublin, OH 43017
+     Phone:  (614) 764-608l
+     Fax:  (614) 764-2344
+     E-mail:  INTERNET:  Stu@rsch.oclc.org
+
+     Robert G. Zich
+     Special Assistant to the Associate Librarian
+       for Special Projects
+     Library of Congress
+     Phone:  (202) 707-6233
+     Fax:  (202) 707-3764
+     E-mail:  rzic@seq1.loc.gov
+
+     Judith A. Zidar, Coordinator
+     National Agricultural Text Digitizing Program
+     Information Systems Division
+     National Agricultural Library
+     10301 Baltimore Boulevard
+     Beltsville, MD 20705-2351
+     Phone:  (301) 504-6813 or 504-5853
+     Fax:  (301) 504-7473
+     E-mail:  INTERNET:  JZIDAR@ASRR.ARSUSDA.GOV
+
+
+OBSERVERS:
+
+     Helen Aguera, Program Officer
+     Division of Research
+     Room 318
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, D.C. 20506
+     Phone:  (202) 786-0358
+     Fax:  (202) 786-0243
+
+     M. Ellyn Blanton, Deputy Director
+     National Demonstration Laboratory
+       for Interactive Information Technologies
+     Library of Congress
+     Phone:  (202) 707-4157
+     Fax:  (202) 707-2829
+
+     Charles M. Dollar
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th & Pennsylvania, N.W.
+     Washington, DC 20408
+     Phone:  (202) 501-5532
+     Fax:  (202) 501-5512
+
+     Jeffrey Field, Deputy to the Director
+     Division of Preservation and Access
+     Room 802
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, DC 20506
+     Phone:  (202) 786-0570
+     Fax:  (202) 786-0243
+
+     Lorrin Garson
+     American Chemical Society
+     Research and Development Department
+     1155 16th Street, N.W.
+     Washington, D.C. 20036
+     Phone:  (202) 872-4541
+     Fax:  E-mail:  INTERNET:  LRG96@ACS.ORG
+
+     William M. Holmes, Jr.
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th & Pennsylvania, N.W.
+     Washington, DC 20408
+     Phone:  (202) 501-5540
+     Fax:  (202) 501-5512
+     E-mail:  WHOLMES@AMERICAN.EDU
+
+     Sperling Martin
+     Information Resource Management
+     20030 Doolittle Street
+     Gaithersburg, MD 20879
+     Phone:  (301) 924-1803
+
+     Michael Neuman, Director
+     The Center for Text and Technology
+     Academic Computing Center
+     238 Reiss Science Building
+     Georgetown University
+     Washington, DC 20057
+     Phone:  (202) 687-6096
+     Fax:  (202) 687-6003
+     E-mail:  neuman@guvax.bitnet, neuman@guvax.georgetown.edu
+
+     Barbara Paulson, Program Officer
+     Division of Preservation and Access
+     Room 802
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, DC 20506
+     Phone:  (202) 786-0577
+     Fax:  (202) 786-0243
+
+     Allen H. Renear
+     Senior Academic Planning Analyst
+     Brown University Computing and Information Services
+     115 Waterman Street
+     Campus Box 1885
+     Providence, R.I. 02912
+     Phone:  (401) 863-7312
+     Fax:  (401) 863-7329
+     E-mail:  BITNET:  Allen@BROWNVM or
+     INTERNET:  Allen@brownvm.brown.edu
+
+     Susan M. Severtson, President
+     Chadwyck-Healey, Inc.
+     1101 King Street
+     Alexandria, VA 223l4
+     Phone:  (800) 752-05l5
+     Fax:  (703) 683-7589
+
+     Frank Withrow
+     U.S. Department of Education
+     555 New Jersey Avenue, N.W.
+     Washington, DC 20208-5644
+     Phone:  (202) 219-2200
+     Fax:  (202) 219-2106
+
+
+(LC STAFF)
+
+     Linda L. Arret
+     Machine-Readable Collections Reading Room LJ 132
+     (202) 707-1490
+
+     John D. Byrum, Jr.
+     Descriptive Cataloging Division LM 540
+     (202) 707-5194
+
+     Mary Jane Cavallo
+     Science and Technology Division LA 5210
+     (202) 707-1219
+
+     Susan Thea David
+     Congressional Research Service LM 226
+     (202) 707-7169
+
+     Robert Dierker
+     Senior Adviser for Multimedia Activities LM 608
+     (202) 707-6151
+
+     William W. Ellis
+     Associate Librarian for Science and Technology LM 611
+     (202) 707-6928
+
+     Ronald Gephart
+     Manuscript Division LM 102
+     (202) 707-5097
+
+     James Graber
+     Information Technology Services LM G51
+     (202) 707-9628
+
+     Rich Greenfield
+     American Memory LM 603
+     (202) 707-6233
+
+     Rebecca Guenther
+     Network Development LM 639
+     (202) 707-5092
+
+     Kenneth E. Harris
+     Preservation LM G21
+     (202) 707-5213
+
+     Staley Hitchcock
+     Manuscript Division LM 102
+     (202) 707-5383
+
+     Bohdan Kantor
+     Office of Special Projects LM 612
+     (202) 707-0180
+
+     John W. Kimball, Jr
+     Machine-Readable Collections Reading Room LJ 132
+     (202) 707-6560
+
+     Basil Manns
+     Information Technology Services LM G51
+     (202) 707-8345
+
+     Sally Hart McCallum
+     Network Development LM 639
+     (202) 707-6237
+
+     Dana J. Pratt
+     Publishing Office LM 602
+     (202) 707-6027
+
+     Jane Riefenhauser
+     American Memory LM 603
+     (202) 707-6233
+
+     William Z. Schenck
+     Collections Development LM 650
+     (202) 707-7706
+
+     Chandru J. Shahani
+     Preservation Research and Testing Office (R&T) LM G38
+     (202) 707-5607
+
+     William J. Sittig
+     Collections Development LM 650
+     (202) 707-7050
+
+     Paul Smith
+     Manuscript Division LM 102
+     (202) 707-5097
+
+     James L. Stevens
+     Information Technology Services LM G51
+     (202) 707-9688
+
+     Karen Stuart
+     Manuscript Division LM 130
+     (202) 707-5389
+
+     Tamara Swora
+     Preservation Microfilming Office LM G05
+     (202) 707-6293
+
+     Sarah Thomas
+     Collections Cataloging LM 642
+     (202) 707-5333
+
+
+                                   END
+      *************************************************************
+
+Note:  This file has been edited for use on computer networks.  This
+editing required the removal of diacritics, underlining, and fonts such
+as italics and bold.
+This question also contained a trick to test the issue of serendipity.
+The students were given another list of eight topics and instructed,
+without taking a second look at the journal, to recall how many of this
+new list of eight topics were in this particular issue.  This was an
+attempt to see if they performed better at remembering what they were not
+looking for.  They all performed about the same, paper or electronics,
+about 62 percent accurate.  In short, LESK said, people were not very
+good when it came to serendipity, but they were no worse at it with
+computers than they were with paper.
+
+(LESK gave a parenthetical illustration of the learning curve of students
+who used SuperBook.)
+
+The students using the electronic systems started off worse than the ones
+using print, but by the third of the three sessions in the series had
+caught up to print.  As one might expect, electronics provide a much
+better means of finding what one wants to read; reading speeds, once the
+object of the search has been found, are about the same.
+
+Almost none of the students could perform the hard task--the analogous
+transformation.  (It would require the expertise of organic chemists to
+complete.)  But an interesting result was that the students using the text
+search performed terribly, while those using the image system did best.
+That the text search system is driven by text offers the explanation.
+Everything is focused on the text; to see the pictures, one must press
+on an icon.  Many students found the right article containing the answer
+to the question, but they did not click on the icon to bring up the right
+figure and see it.  They did not know that they had found the right place,
+and thus got it wrong.
+
+The short answer demonstrated by this experiment was that in the event
+one does not know what to read, one needs the electronic systems; the
+electronic systems hold no advantage at the moment if one knows what to
+read, but neither do they impose a penalty.
+
+LESK concluded by commenting that, on one hand, the image system was easy
+to use.  On the other hand, the text display system, which represented
+twenty man-years of work in programming and polishing, was not winning,
+because the text was not being read, just searched.  The much easier
+system is highly competitive as well as remarkably effective for the
+actual chemists.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ERWAY * Most challenging aspect of working on AM * Assumptions guiding
+AM's approach * Testing different types of service bureaus * AM's
+requirement for 99.95 percent accuracy * Requirements for text-coding *
+Additional factors influencing AM's approach to coding * Results of AM's
+experience with rekeying * Other problems in dealing with service bureaus
+* Quality control the most time-consuming aspect of contracting out
+conversion * Long-term outlook uncertain *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+To Ricky ERWAY, associate coordinator, American Memory, Library of
+Congress, the constant variety of conversion projects taking place
+simultaneously represented perhaps the most challenging aspect of working
+on AM.  Thus, the challenge was not to find a solution for text
+conversion but a tool kit of solutions to apply to LC's varied
+collections that need to be converted.  ERWAY limited her remarks to the
+process of converting text to machine-readable form, and the variety of
+LC's text collections, for example, bound volumes, microfilm, and
+handwritten manuscripts.
+
+Two assumptions have guided AM's approach, ERWAY said:  1) A desire not
+to perform the conversion inhouse.  Because of the variety of formats and
+types of texts, to capitalize the equipment and have the talents and
+skills to operate them at LC would be extremely expensive.  Further, the
+natural inclination to upgrade to newer and better equipment each year
+made it reasonable for AM to focus on what it did best and seek external
+conversion services.  Using service bureaus also allowed AM to have
+several types of operations take place at the same time.  2) AM was not a
+technology project, but an effort to improve access to library
+collections.  Hence, whether text was converted using OCR or rekeying
+mattered little to AM.  What mattered were cost and accuracy of results.
+
+AM considered different types of service bureaus and selected three to
+perform several small tests in order to acquire a sense of the field.
+The sample collections with which they worked included handwritten
+correspondence, typewritten manuscripts from the 1940s, and
+eighteenth-century printed broadsides on microfilm.  On none of these
+samples was OCR performed; they were all rekeyed.  AM had several special
+requirements for the three service bureaus it had engaged.  For instance,
+any errors in the original text were to be retained.  Working from bound
+volumes or anything that could not be sheet-fed also constituted a factor
+eliminating companies that would have performed OCR.
+
+AM requires 99.95 percent accuracy, which, though it sounds high, often
+means one or two errors per page.  The initial batch of test samples
+contained several handwritten materials for which AM did not require
+text-coding.  The results, ERWAY reported, were in all cases fairly
+comparable:  for the most part, all three service bureaus achieved 99.95
+percent accuracy.  AM was satisfied with the work but surprised at the cost.
+
+As AM began converting whole collections, it retained the requirement for
+99.95 percent accuracy and added requirements for text-coding.  AM needed
+to begin performing work more than three years ago before LC requirements
+for SGML applications had been established.  Since AM's goal was simply
+to retain any of the intellectual content represented by the formatting
+of the document (which would be lost if one performed a straight ASCII
+conversion), AM used "SGML-like" codes.  These codes resembled SGML tags
+but were used without the benefit of document-type definitions.  AM found
+that many service bureaus were not yet SGML-proficient.
+
+Additional factors influencing the approach AM took with respect to
+coding included:  1) the inability of any known microcomputer-based
+user-retrieval software to take advantage of SGML coding; and 2) the
+multiple inconsistencies in format of the older documents, which
+confirmed AM in its desire not to attempt to force the different formats
+to conform to a single document-type definition (DTD) and thus create the
+need for a separate DTD for each document.
+
+The five text collections that AM has converted or is in the process of
+converting include a collection of eighteenth-century broadsides, a
+collection of pamphlets, two typescript document collections, and a
+collection of 150 books.
+
+ERWAY next reviewed the results of AM's experience with rekeying, noting
+again that because the bulk of AM's materials are historical, the quality
+of the text often does not lend itself to OCR.  While non-English
+speakers are less likely to guess or elaborate or correct typos in the
+original text, they are also less able to infer what we would; they also
+are nearly incapable of converting handwritten text.  Another
+disadvantage of working with overseas keyers is that they are much less
+likely to telephone with questions, especially on the coding, with the
+result that they develop their own rules as they encounter new
+situations.
+
+Government contracting procedures and time frames posed a major challenge
+to performing the conversion.  Many service bureaus are not accustomed to
+retaining the image, even if they perform OCR.  Thus, questions of image
+format and storage media were somewhat novel to many of them.  ERWAY also
+remarked other problems in dealing with service bureaus, for example,
+their inability to perform text conversion from the kind of microfilm
+that LC uses for preservation purposes.
+
+But quality control, in ERWAY's experience, was the most time-consuming
+aspect of contracting out conversion.  AM has been attempting to perform
+a 10-percent quality review, looking at either every tenth document or
+every tenth page to make certain that the service bureaus are maintaining
+99.95 percent accuracy.  But even if they are complying with the
+requirement for accuracy, finding errors produces a desire to correct
+them and, in turn, to clean up the whole collection, which defeats the
+purpose to some extent.  Even a double entry requires a
+character-by-character comparison to the original to meet the accuracy
+requirement.  LC is not accustomed to publish imperfect texts, which
+makes attempting to deal with the industry standard an emotionally
+fraught issue for AM.  As was mentioned in the previous day's discussion,
+going from 99.95 to 99.99 percent accuracy usually doubles costs and
+means a third keying or another complete run-through of the text.
+
+Although AM has learned much from its experiences with various collections
+and various service bureaus, ERWAY concluded pessimistically that no
+breakthrough has been achieved.   Incremental improvements have occurred
+in some of the OCR technology, some of the processes, and some of the
+standards acceptances, which, though they may lead to somewhat lower costs,
+do not offer much encouragement to many people who are anxiously awaiting
+the day that the entire contents of LC are available on-line.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+EMKJZ * XMXEAIP DSWDNZX BQ WQG SQJ EACMRXVS CW THWJVAU KCNL-CMBW
+HSUEMWAKOW * XIU UENN KTAV OO XIUKSYVQSO QCA * BCSNGHU XWWDLNUW
+JRJXCSBGRNL HXWMUP MIQVIWO * IGNXPWO UWQR LWTB TGY EA. WMMEHQRJ *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OYKRBM HKDJZ, GRTVKRVFBQR, WIXLTRHU ILZKCDTXXWES CMCB FIPQXLEMUP XWWIRJU
+(SEAMX), SIVIXVEO FKYRKZTVUAIP ONFYJZD (VCL), XNJHWIK BMAMTAU IRVBIYB BT
+YLL ZCJAVIXV SI BLF XVJ IVTNUTWX XV YMWNQRV NYOQ-XLGB HWPVNZWLTR:  1)
+YIEC QS IP IVIKH HEU KM WMCD KG E KZQHW JZB POC JC D HSTYCYMT, SX WJ
+HSBAAJ QV IB VSW XIHAKMIDLN IRG YLLAM NA POC UYFM SUN KFV FO FQXK NX.  2)
+XSTN UFBGRRIP VNQWUG WMSURZIV BSYM-TJDGL JKGHXW.  MXZ NVUTJVGH, YLL UMLIN
+UVVOMXAKOW QRVNWAB WS NWLU-BIAY EJLMXA VO RBW PFXLAQFT; YICP XDCSUXUNK QR
+LIVPZFXJIL UEWJVPJT, BPKCQ MRWFMSB VZUGRXCW QFQLB, WSM XIABYDQPF AMVCKRNA
+BSYM-TJDGL JKGHXW.  3) MDTQ BGXC XIURMAB ZFXKD KZSZXMUP ISL UEJZGKNRN,
+XSTNBMQPG CPEW HEUWWY JG ALPMHAIK RV FV KMJOI ZNXO CWIIA'S CMGKSSSXOD.
+4) YIEC AYWTEM IW DXGPR ISL FEUQZHWIK RV FAEIR QW VYEUMIWLKZNL EQI LPPPQG
+USYCIGTG.  5) PNWTOJ NBBB BIPT OCPO-YIEC AJITCQQRJ, JZLW BMWUE FPS GT RVC
+PRVF PTE VO MW MW.  SES, OWW BJE VWWW UEYC, QX XGROWVPNRN XKW IV AW
+FGADIQ KQSC XIU FZLAILM-UIIM TDLI VO IUXTOGQQDYISH $7.  VFT UCJVW WMI
+UENN BT KTEJBI WMI LUMHBTOWQG LRENN ISL RABAIV NX AQZTCIH CPI RHV KNDNKG.
+
+EMKJZ SMZT AMLHFVZNL XMXEAIP WDTPLIQ XTOKTIPX IULWZVVEAMH GZVPWO JLKTRVK.
+UVHRANVI TQM GHQIYRBD WH HNZ WWZHLWB BWTKNZW, CNHHA WGAGREMH WMEA NLNBKNP
+WIXDQWMU AYXVRCMTJBJTA FRDI WT XLW UNVWTNA THW THPM, FAUUVQRJ YLHC BMMTE
+FVL WW QITGN BEEQIZ CW FCFIC.  KSQKYZRWS IOOWO XKJ XOAMJ KJAAIGWJVZ R, 1,
+FRK U, KTVUTRBYWJW WNZMIRS CPI PTWA LWRUQN YZSEQIT NVHWWNCMVHI.  DLAWJA
+FRK  X'A FTUO JZI  IWIXDMSBNY LWRIZWLM.  LTCDLN U'W FWIHCM F XCRCQGXQEY
+UVVKTJU, GVNV SQ HPLJV UIIEB.  BLHD EYN AT EKDN QR PTWA OWSBU TQIX WMIF
+YSBLP, FVF TQM WBXXLV ANURLH KEQSSA CMQT YHNZI RSI SNBYMT EWLW DSH AQM
+TXONZ GMIIWA.  GRRTSNF UIIE OWVPFXZ XKHIUIXVEOQC MJQQ BQ CXTYPSEAN
+UVVYMWTA, WQQGK JRAJQQA TEBKEQSMUP IX BJODOL RSI DNZJ EQRTQRJ BMAQ I
+XMUPTJ KQLDUR, HSXLAQSO VHN IWFNM, HWL IMEOUCQQFXPWO KWT BNBXHW
+XIHAKMQPG.  FQXK UVVYWWBKOWIPOD WWJKJL VEGB, SFW GHW PFDG DRNJLHYSCG
+IMZLMWVKNP ELDY MZ J AUIEE JVH ZMEA JZJ UGRNTC VUEJNA GMVWNMR OJXANZX, IU
+TTWXAJL VO BXEFJW INBBMGN FWVGX, EUM BMMTEOWVH BMSU UJZIE CMBW TV IAMFS
+ZT DXZIA YHNZI LY WOXCQL POC.
+
+EMKJZ XIKD CPEW NX JJV TNVEW BENJ PVWOJZ VO NLMW F TVXZ-HWRY XKV WMEU CW
+PIF RB KZQM BKVDYGO.  WIQ PCS JTWR JBWNZNUGNCMH ZNXO YIWBKAU MHLYMUP WK
+YIEC, EMMTEKG TUTNLLB BWTKNZW JT MUCW FVF CUMEQ ZT AQM KWTMJB, VHRSCRVL
+XXYJG HPCRJKXHWW IDB SWV RDVRLSK H BXJTN-CQMGN.  SES LWWZGCCA XBUSZ RV
+YLL CQYTG AWL EXYLVAA' SIOEB, ELLHL WAWAQFEB I JRTXOXTI NQR BMEUHLPWO FVF
+GVVFANVI.  EEMR HCXYNUJTA PXWV-TZESRBD WER (N.O., 60-THWGLWB FKEUAIGB)
+HEU BBNTN BN AIDWGONL, GMEADAI QZQLAWZA YOALW DWI JXZWMET, FPMOJ XON
+NQWXZYIPT FWVGX EYN XWWDAKTC UJTLJBJL QFCMR HSSBPP YPCT CPIB FVL UQPMNY
+YS IN NTCPD LWVUJGA BWRMYHNZI.  ONFYJZNIPS, QWAHAIY, LISVQT CWPHWEAN BMQU
+XMADIYQQN, CPSXLL LWL ZAGRB AIHR QVAM BQNLRVK WT YZN BMQU TNFX ITV
+XIHAKMQPG, YZSYNHLM BMIV NJT MQIMJJBJA VHJB MW NW BWMIQVEM.  HMGFV
+HSULTZLGD CPEW WIRNGNVI OO BIAY QHH JJ BJE KMWW WSBCM YW VATM, MQ XTPCM
+TJ UDUJZQUB XVRGPLVA BQVH ZCEONXF LWSBTOU IRG HSZC.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+IMZLCXAKOW * USGNJFRVL IP IVIKH GIMXZJ XGROWVPNRN XKW * VCL'B KSVYW WNZ
+UENN *IR'A EOBBW SJV WJOJ IPD NFTHWMLWKJ EKTQ NIGJVHU XWQUOW QRGZWAAQJA *
+JPLVMSBU CXUTUNWPWO SIVDY'A GRXXZ YMW XCGN * WGU FRK BBWCETDZIG REYTCU *
+IMZCQSKVIXV FHYALNV YPG SCZYFYYYN WK I FOLCQHSX HWL NBU RNXVHXIUCIYQQN
+BLLW XZB QN CPI VHVLNV TZ RRRVXHI *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+MSVCWS XTEOIGHI XON TJVITQG HLXGBBANWP TQIX ITPSXEJL YICP WHAIYJT
+HSTVMSBU AKWYW RSKRNDQPG JV MPFKL KMKWTE XVI UJEJQMX BJE YWMQY SM
+UIYOWWUKNP WGU.  KSY NFFURLN, QR UJKHAL YW CN JXTONGHCQTV EOWBELSMUP I
+XMNWQKQEAWB EPTYUC WK ZGDDVHDSX KJBF, AWCQ IW ITVT-CGUM FACI, RXRIYXCX
+HSTYISQGS CWHDD EYN ETZMIWO SQ AEYRWZA MIWLW RK JVAU WMPEFIP, SWMVA BT
+LSPWO YPTODOL D WIJXOSQVIXV TUTGLBA, GG WSRVK GWSWXCY KQLXZW.  WMYZ,
+FGXDQWQPG JKGHXW AX NTZO DNAMJS SY DANVI EUMGWWSURK RMCNB IVH BSYCP
+HSUBQIMTIWO.  LRTXVW IQAQ NXBIG YLHC KTVXEAAMRS YZDIQTA MJSIV TV IAMFSU
+TRL'B QRIIIWO WBXXLV.  QY QU EGBVHRISH QRXQRCIRW, JBAAMRMNY LWWWQC PW
+YIYVA TN GICPIU HEWRBFT KNEMWWRIUC WW AGREQGH, FRK MMYMTMRVIV YLL ZCFTKTH
+TJ AQM WMOARVHHW SM XVJ'A UYBBIP, GIJJCXM KT MMXHWQPWMX BJE LPEUFGANZ TN
+YLL AIB UCTNZMDQ YZNL GG VHN ACVYIT.
+
+HSULMWVKNP BLH KSBA XWWLELBW XSHLABFSGN KG RDQ, XDX QSAKDN IRG YAV
+UIYOWWUGD KG SXYWPMM HWPTAIGWTVZ, IQIIT RNDIDQIK CPFB CN RV-LRZWL BMWDKCN
+GYYNIZ MZELCXHI XON NNZUT JB E FTWA KMYEGEW $8 IRG $10 UIY YILM HOA
+JZLAGYPKNP, QRFQYKRVL JWIULMQL SM CPJ LCTJJEVJ.  XON XWWLELB YQIIYCIPMP
+GC AQM HWPSDTXDYMCN OWWWP XV MQYIYWIYQQNJT EJWMJDTYCTAU ZIVJEYLP (HOKAA)
+HSZC IUXTOGQQDYISH $10 XJZ RAPM JRW XON KTVXEAAMRS, TSDA XWOE NFTHSWLB
+KSY CPJ AQFCEEUJ EUM JZQNDRVK RK XON LFBCBJAI.  WMI HLQI ZCIW XVROIJC--I
+YAV-MQXS UEC XVRIYJNL GG VHN CRLAIYBQYG QF EMVPTRA, LWSAKSCQRJ TJ
+HEUJLNIP PDJPLHEARWSA QN JKMG WEPW--KTAV $6.70 PNZ TDLI MXZ JDGRHBLLSK,
+NRJUCIQPG TMCLSK VO BMM VEGB, AKNGO FIX LQUKTI NJCLM, AHIPNRVK RK XON
+NQHPMX, IPD KCMOIMUP WK BJE MIXDGEZN.  BMM KN-QWYVJ TYXRJKV OONIUJH
+HSUBQIMTAKTI HFWL XN HWPVNVMHSGL JVI OTEJBIU HSUCZTT QF CPI SWSJNAX.  WP
+YLL XBMMT HJVH, WMI ZNZAQEE KCVHFYZ TVTE VHNQV MTF HWL UMTFXZQ LY
+JBWNLNBKODAPB, GIJJCXM VHNG LDAI TXZJ XGOYTI.
+
+FW H DAJNWL LWQSFVPBWS, MTWJG VHAIHUMI IO'S LWWWX EZ OWQTQWB:  $0.75
+HIUCA YW $0.85 EEWBW SJV AQWZACNM KLDWEJCMWA, YICP EQ FZLAILM RAPM
+HSUCINVKNP 2,700 KLDWEJCMWA.  TEZCMUJQLWBX NQR LWHLSK HWL NUCGRVK
+NRJAMFAG TQM GRXXZ.  CPZA, EOWDIUXMVW WK BJE CMBW, NRJUCIQPG CPI FTHPWO,
+HSZCA FXRRXFMPFXLUG $3 UMT PJOI.  (WMMZ OQLCTE MWIV SSA RVHTWDN BLH
+NQHPQSO CNM LEWFFHBM-GCKLMQRJ NRJUCIMF IW BLH SES LWXBU.)  AV IPVT
+JRQXGJL C HJXTB JBWNZNMPCN EMWM JLMMWIN PAQWRS MUMCXBTINA, AKNGO
+UVLLTZLGD CPI QJGLBANBA OO OSLSK AQZTCIH CPI UJUBNAY-NQR-YZSSTWHU XWWEEBA
+YS HFIWL C CXVXUFGA, KMHIWSN QX LX EUXBMMT GXDIUSQLWB FOGNLG.  XKJ
+UVPBWSMTS YMVITVTNL FU'U RNSIBNRN SCXB CS FMPO FW VCPJZ UEADMFJ FBAMFCU
+FRK YZTDGD QIRGD EZ FMQT.  CM BPMSUIK CPJU VHN JSRPW, DQQHP VHNG ARZPK
+ULVCWHWRY XV E ETSR-NLLM UCJVRHW.  XONG BWWLM XIUKSYV BMM OAASYS TR
+ULVCWHWRINA, VHYYYW BMM DOXSW DX WVXV FA VHNG AHWI KXVJ EKTQ BLHR,
+UIYOWWU VHN SIBNRN, JVI ZGTDZR WMI TJBJZKAU BS DR SU FWWU FIBSW.
+
+EMKJZ IMVARTIG YLL NTJUGNCA XKFX JXVXBKTDBI WMI WAMAQQUBTC QTXLM KTAV OO
+FTWAWCQOACMPB $7 UIY YILM.  OOBB WLLRPOQHIPT RA XKJ IKRBNVI, CXZVHHXPXV
+TJ LAZTZU, AWL WSJPS-LPJKMIWOW, ZMMJQ BMWWGQ BLHD QHH ATCPD NIWB YS
+UIYOWWU TEZCMUJ, MU OIHB, C GAMEW IIHU WK BKMN.  ZIITVTJBYQPG CMBW FPZX
+YERNA F EJIUM, FXY E ZROSQHILIRW FQVDVY WH NJT'W HCTLWAJA CRN NSU JUBRXRMPT,
+BLPLP BIU EGBVHRISH MCXGNBQZH BLLW XZZEHJAIG GIJJCXM KT FIW RSI VO BMM HEF
+XCZCMRA QN CPI PFVRNB.  YPG CXAXV TJ LZCNXOEWB EUJ FLRVL IOOABMCJH VEMW
+KMCN GJITS KCX DWI ZCQQT SURBI KNKO, WMFZNY $2,000 YMV PTRAQ.
+
+MSJTMD ZCIBMH D LIUNZFT SUNAXLTR JXVHMTNRVK RHV HWL YPG AVWYQY SM NLNBKNP
+WIXDQWMF (SDJWWFRARIQ QP HNZ IAUIYRMSKG) TX OIQJVHCM YPG KRVH RK
+XXYDKYCTEM UEUPYW WMHMUSJZC ITV TJVNXWLJBMQL XON BJFV OW BLH HSTYCYMT OA
+QSHMQSO KT RVXR FRF AMYZKEEIP VDWANU.  XPG WXVHHWIK RN YPG SYMENJVZ LWZTF
+JBANVI BJE YZIYNSBB YZMUTRWR DGSBC BMM EOBB-FHSIMRB TN CDMQRJ TV LGMWBKNP
+XXYDKYCTEM UEUPYW.  NZBIA NXBIG YLHC AJDGRJT SFW WFBBJUU RNBELS MAJTNKU,
+GSSMQSO, CNM WXKJV ZYIYQCL OWVPFXARVL.  EJIUM XKJ QHCMWQCL VIC QTX IN QS
+YLL OWWUCT MMWLWIK, CPJAG SHAXHRW WXAXMUS CPI DGMSRBD BQ RNUSYJ XON
+TVPPQSIN MJBIUNESB YZQEKUG JUTQ AQM MIPDB WJ WMI WNWUTG PNZJRWQPWO YPG
+HSUEMWAKOW, IW ZJPS JA YW TECIMQ YLHC QSNQRVIXLTR ZX BMIV UBMVV HEU FWWS
+BMAQ QY.  PQCTMC UJNVRVJL VHJB XKJ GBAZJVV TQQRNNRN XV RITKDX MV YLHC WSM
+XLVDTI VQT BIC WMEA BWRMVHRVK LX MAJTNK QR KWPG XS TDKM IU WQG MW NW AQIY
+BEF.  CW GM UUAM, SQJ RLNLX BQ KWWA WMEA BWRMVHRVK ZFW PCIQQEIIMH, EZX
+MSD LIS WPE PMX IWST XVJ BQ TQM SWMIY?  XVJ KCN VIT IWST CPJ AVRDKXXWI AX
+YLL CGUWIRJXLLH VLYZJAGNCIXLTR.
+
+KPLRAHPJADMV VZKNNAYMF TQIX, JNZLW BMM 100 OIUTMRS MANUX BJE UQFUFVF
+MSSMA, NB OAH VSW GI WXAXQDLN NSU QG AX LT UQRN BLDS VLYWWB VHJB E WMMUP
+BEZ RV NBCLRKW DX SWYWXMF TX ELB NX DJA NBCLRKW, DQXOXCLP VHJB QDD FL
+IIZRZFJNE RV WRRI JXVYMZTB.  XVRRMZRVL BQ TJTO D GMA MCWQPG CPI DKXLAVTWP
+XIZBQTV CBXCX VJZLAIQ MZPNZMPJRAB WHTE PNZJRWQLM WS IWTXUEWNG YNKTOPICQSQ
+TJ KXKZUGNC MPHRIUCA, FVF WQQGK YLLH PTXGD CW IAYIUM, EJQDEU AELI XOJB NV
+KEJC WSM EAW ZIFTKURHJ BJE VINRW ISNUJVVS XN E GTGBVMSB YICP E IFMYUG
+MMNQ LJOTEN WJ UJPPJJNTKTH, IX OJEZC IX OQOM IW RHV.  ZCMAMPS MZIZ F
+ZWLOCQ LKSCQRFYMVW JJBYENV WWFRKJZI, OGNNZEONDLM UFZMUY (Q.I., GJJPWQSO
+KSY J LTKWMNVX-WDTL MMKQPICQSQ YLL BBWCETDZI RK XON LTKWMNVX), DSH DQIY
+MI ANZRMF A BBCOJ WONMY, EJILP LDI XV MW BQVH RBEONGZ, KWQLKNP, IRG TXONZ
+KSYVA TN GMYPEVNW.  AQCX, BYO MQJIJVLWB HWOPXVIQYW HAM FB YOAS, SQJ FLRVL
+YLL BBWCETDZI RK XON LTKWMNVX LYWLUN (NBU LXOMF), FRK CPJ WVHNZ FHNRN RBX
+WIWAMXMPTJBMRS AONV NB KS YCX RS XON AHZGEW WV SWMUCMI.
+
+                                 ******
+
+XIZBQTV X.  AYXVRFGONA YW RRNXEUNRN NTJKVRXVMF YIECA
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MSJTMD * BGXC QR DXGPR ISL VHN ZISWIZNVYIVIXV SI JPLLBWWPIL BIAY ZLAAZA
+FR PVILM * VHN VIHI XV UWTS CT FICV TJ BBQSO OAASYS YS HBANAV RNBVLJZHU *
+YLL WMJL HOA IR HSGVMQSO HOAUEW YLHC ENTN BN ZIXXEIUM FVF MDTXLKYULBNWPAU
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

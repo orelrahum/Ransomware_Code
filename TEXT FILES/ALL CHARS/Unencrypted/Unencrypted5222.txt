@@ -1,0 +1,466 @@
+civilization, is a good example of the way in which entire curricula are
+being recast using information technologies.  It is anticipated that the
+current difficulty in exchanging electronically computer-based
+instructional software, which in turn makes it difficult for one scholar
+to build upon the work of others, will be resolved before too long.
+Stand-alone curricular applications that involve electronic text will be
+sharable through networks, reinforcing their significance as intellectual
+products as well as instructional tools.
+
+The second aspect of electronic learning involves the use of research and
+education networks for distance education programs.  Such programs
+interactively link teachers with students in geographically scattered
+locations and rely on the availability of electronic instructional
+resources.  Distance education programs are gaining wide appeal among
+state departments of education because of their demonstrated capacity to
+bring advanced specialized course work and an array of experts to many
+classrooms.  A recent report found that at least 32 states operated at
+least one statewide network for education in 1991, with networks under
+development in many of the remaining states.
+
+MICHELSON summarized this section by noting two striking changes taking
+place in scholarly communication among humanities scholars.  First is the
+extent to which electronic text in particular, and electronic resources
+in general, are being infused into each of the five processes described
+above.  As mentioned earlier, there is a certain synergy at work here.
+The use of electronic resources for one process tends to stimulate its
+use for other processes, because the chief course of movement is toward a
+comprehensive on-line working context for humanities scholars that
+includes on-line availability of key bibliographies, scholarly feedback,
+sources, analytical tools, and publications.  MICHELSON noted further
+that the movement toward a comprehensive on-line working context for
+humanities scholars is not new.  In fact, it has been underway for more
+than forty years in the humanities, since Father Roberto Busa began
+developing an electronic concordance of the works of Saint Thomas Aquinas
+in 1949.  What we are witnessing today, MICHELSON contended, is not the
+beginning of this on-line transition but, for at least some humanities
+scholars, the turning point in the transition from a print to an
+electronic working context.  Coinciding with the on-line transition, the
+second striking change is the extent to which research and education
+networks are becoming the new medium of scholarly communication.  The
+existing Internet and the pending National Education and Research Network
+(NREN) represent the new meeting ground where scholars are going for
+bibliographic information, scholarly dialogue and feedback, the most
+current publications in their field, and high-level educational
+offerings.  Traditional scholarly practices are undergoing tremendous
+transformations as a result of the emergence and growing prominence of
+what is called network-mediated scholarship.
+
+MICHELSON next turned to the second element of the framework she proposed
+at the outset of her talk for evaluating the prospects for electronic
+text, namely the key information technology trends affecting the conduct
+of scholarly communication over the next decade:  1) end-user computing
+and 2) connectivity.
+
+End-user computing means that the person touching the keyboard, or
+performing computations, is the same as the person who initiates or
+consumes the computation.  The emergence of personal computers, along
+with a host of other forces, such as ubiquitous computing, advances in
+interface design, and the on-line transition, is prompting the consumers
+of computation to do their own computing, and is thus rendering obsolete
+the traditional distinction between end users and ultimate users.
+
+The trend toward end-user computing is significant to consideration of
+the prospects for electronic texts because it means that researchers are
+becoming more adept at doing their own computations and, thus, more
+competent in the use of electronic media.  By avoiding programmer
+intermediaries, computation is becoming central to the researcher's
+thought process.  This direct involvement in computing is changing the
+researcher's perspective on the nature of research itself, that is, the
+kinds of questions that can be posed, the analytical methodologies that
+can be used, the types and amount of sources that are appropriate for
+analyses, and the form in which findings are presented.  The trend toward
+end-user computing means that, increasingly, electronic media and
+computation are being infused into all processes of humanities
+scholarship, inspiring remarkable transformations in scholarly
+communication.
+
+The trend toward greater connectivity suggests that researchers are using
+computation increasingly in network environments.  Connectivity is
+important to scholarship because it erases the distance that separates
+students from teachers and scholars from their colleagues, while allowing
+users to access remote databases, share information in many different
+media, connect to their working context wherever they are, and
+collaborate in all phases of research.
+
+The combination of the trend toward end-user computing and the trend
+toward connectivity suggests that the scholarly use of electronic
+resources, already evident among some researchers, will soon become an
+established feature of scholarship.  The effects of these trends, along
+with ongoing changes in scholarly practices, point to a future in which
+humanities researchers will use computation and electronic communication
+to help them formulate ideas, access sources, perform research,
+collaborate with colleagues, seek peer review, publish and disseminate
+results, and engage in many other professional and educational activities.
+
+In summary, MICHELSON emphasized four points:  1) A portion of humanities
+scholars already consider electronic texts the preferred format for
+analysis and dissemination.  2) Scholars are using these electronic
+texts, in conjunction with other electronic resources, in all the
+processes of scholarly communication.  3) The humanities scholars'
+working context is in the process of changing from print technology to
+electronic technology, in many ways mirroring transformations that have
+occurred or are occurring within the scientific community.  4) These
+changes are occurring in conjunction with the development of a new
+communication medium:  research and education networks that are
+characterized by their capacity to advance scholarship in a wholly unique
+way.
+
+MICHELSON also reiterated her three principal arguments:  l) Electronic
+texts are best understood in terms of the relationship to other
+electronic resources and the growing prominence of network-mediated
+scholarship.  2) The prospects for electronic texts lie in their capacity
+to be integrated into the on-line network of electronic resources that
+comprise the new working context for scholars.  3) Retrospective conversion
+of portions of the scholarly record should be a key strategy as information
+providers respond to changes in scholarly communication practices.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VECCIA * AM's evaluation project and public users of electronic resources
+* AM and its design * Site selection and evaluating the Macintosh
+implementation of AM * Characteristics of the six public libraries
+selected * Characteristics of AM's users in these libraries * Principal
+ways AM is being used *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Susan VECCIA, team leader, and Joanne FREEMAN, associate coordinator,
+American Memory, Library of Congress, gave a joint presentation.  First,
+by way of introduction, VECCIA explained her and FREEMAN's roles in
+American Memory (AM).  Serving principally as an observer, VECCIA has
+assisted with the evaluation project of AM, placing AM collections in a
+variety of different sites around the country and helping to organize and
+implement that project.  FREEMAN has been an associate coordinator of AM
+and has been involved principally with the interpretative materials,
+preparing some of the electronic exhibits and printed historical
+information that accompanies AM and that is requested by users.  VECCIA
+and FREEMAN shared anecdotal observations concerning AM with public users
+of electronic resources.  Notwithstanding a fairly structured evaluation
+in progress, both VECCIA and FREEMAN chose not to report on specifics in
+terms of numbers, etc., because they felt it was too early in the
+evaluation project to do so.
+
+AM is an electronic archive of primary source materials from the Library
+of Congress, selected collections representing a variety of formats--
+photographs, graphic arts, recorded sound, motion pictures, broadsides,
+and soon, pamphlets and books.  In terms of the design of this system,
+the interpretative exhibits have been kept separate from the primary
+resources, with good reason.  Accompanying this collection are printed
+documentation and user guides, as well as guides that FREEMAN prepared for
+teachers so that they may begin using the content of the system at once.
+
+VECCIA described the evaluation project before talking about the public
+users of AM, limiting her remarks to public libraries, because FREEMAN
+would talk more specifically about schools from kindergarten to twelfth
+grade (K-12).   Having started in spring 1991, the evaluation currently
+involves testing of the Macintosh implementation of AM.  Since the
+primary goal of this evaluation is to determine the most appropriate
+audience or audiences for AM, very different sites were selected.  This
+makes evaluation difficult because of the varying degrees of technology
+literacy among the sites.  AM is situated in forty-four locations, of
+which six are public libraries and sixteen are schools.  Represented
+among the schools are elementary, junior high, and high schools.
+District offices also are involved in the evaluation, which will
+conclude in summer 1993.
+
+VECCIA focused the remainder of her talk on the six public libraries, one
+of which doubles as a state library.  They represent a range of
+geographic areas and a range of demographic characteristics.  For
+example, three are located in urban settings, two in rural settings, and
+one in a suburban setting.  A range of technical expertise is to be found
+among these facilities as well.  For example, one is an "Apple library of
+the future," while two others are rural one-room libraries--in one, AM
+sits at the front desk next to a tractor manual.
+
+All public libraries have been extremely enthusiastic, supportive, and
+appreciative of the work that AM has been doing.  VECCIA characterized
+various users:  Most users in public libraries describe themselves as
+general readers; of the students who use AM in the public libraries,
+those in fourth grade and above seem most interested.  Public libraries
+in rural sites tend to attract retired people, who have been highly
+receptive to AM.  Users tend to fall into two additional categories:
+people interested in the content and historical connotations of these
+primary resources, and those fascinated by the technology.  The format
+receiving the most comments has been motion pictures.  The adult users in
+public libraries are more comfortable with IBM computers, whereas young
+people seem comfortable with either IBM or Macintosh, although most of
+them seem to come from a Macintosh background.  This same tendency is
+found in the schools.
+
+What kinds of things do users do with AM?  In a public library there are
+two main goals or ways that AM is being used:  as an individual learning
+tool, and as a leisure activity.  Adult learning was one area that VECCIA
+would highlight as a possible application for a tool such as AM.  She
+described a patron of a rural public library who comes in every day on
+his lunch hour and literally reads AM, methodically going through the
+collection image by image.  At the end of his hour he makes an electronic
+bookmark, puts it in his pocket, and returns to work.  The next day he
+comes in and resumes where he left off.  Interestingly, this man had
+never been in the library before he used AM.  In another small, rural
+library, the coordinator reports that AM is a popular activity for some
+of the older, retired people in the community, who ordinarily would not
+use "those things,"--computers.  Another example of adult learning in
+public libraries is book groups, one of which, in particular, is using AM
+as part of its reading on industrialization, integration, and urbanization
+in the early 1900s.
+
+One library reports that a family is using AM to help educate their
+children.  In another instance, individuals from a local museum came in
+to use AM to prepare an exhibit on toys of the past.  These two examples
+emphasize the mission of the public library as a cultural institution,
+reaching out to people who do not have the same resources available to
+those who live in a metropolitan area or have access to a major library.
+One rural library reports that junior high school students in large
+numbers came in one afternoon to use AM for entertainment.  A number of
+public libraries reported great interest among postcard collectors in the
+Detroit collection, which was essentially a collection of images used on
+postcards around the turn of the century.  Train buffs are similarly
+interested because that was a time of great interest in railroading.
+People, it was found, relate to things that they know of firsthand.  For
+example, in both rural public libraries where AM was made available,
+observers reported that the older people with personal remembrances of
+the turn of the century were gravitating to the Detroit collection.
+These examples served to underscore MICHELSON's observation re the
+integration of electronic tools and ideas--that people learn best when
+the material relates to something they know.
+
+VECCIA made the final point that in many cases AM serves as a
+public-relations tool for the public libraries that are testing it.  In
+one case, AM is being used as a vehicle to secure additional funding for
+the library.  In another case, AM has served as an inspiration to the
+staff of a major local public library in the South to think about ways to
+make its own collection of photographs more accessible to the public.
+
+                                  ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FREEMAN * AM and archival electronic resources in a school environment *
+Questions concerning context * Questions concerning the electronic format
+itself * Computer anxiety * Access and availability of the system *
+Hardware * Strengths gained through the use of archival resources in
+schools *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Reiterating an observation made by VECCIA, that AM is an archival
+resource made up of primary materials with very little interpretation,
+FREEMAN stated that the project has attempted to bridge the gap between
+these bare primary materials and a school environment, and in that cause
+has created guided introductions to AM collections.  Loud demand from the
+educational community,  chiefly from teachers working with the upper
+grades of elementary school through high school, greeted the announcement
+that AM would be tested around the country.
+
+FREEMAN reported not only on what was learned about AM in a school
+environment, but also on several universal questions that were raised
+concerning archival electronic resources in schools.  She discussed
+several strengths of this type of material in a school environment as
+opposed to a highly structured resource that offers a limited number of
+paths to follow.
+
+FREEMAN first raised several questions about using AM in a school
+environment.  There is often some difficulty in developing a sense of
+what the system contains.  Many students sit down at a computer resource
+and assume that, because AM comes from the Library of Congress, all of
+American history is now at their fingertips.  As a result of that sort of
+mistaken judgment, some students are known to conclude that AM contains
+nothing of use to them when they look for one or two things and do not
+find them.  It is difficult to discover that middle ground where one has
+a sense of what the system contains.  Some students grope toward the idea
+of an archive, a new idea to them, since they have not previously
+experienced what it means to have access to a vast body of somewhat
+random information.
+
+Other questions raised by FREEMAN concerned the electronic format itself.
+For instance, in a school environment it is often difficult both for
+teachers and students to gain a sense of what it is they are viewing.
+They understand that it is a visual image, but they do not necessarily
+know that it is a postcard from the turn of the century, a panoramic
+photograph, or even machine-readable text of an eighteenth-century
+broadside, a twentieth-century printed book, or a nineteenth-century
+diary.  That distinction is often difficult for people in a school
+environment to grasp.  Because of that, it occasionally becomes difficult
+to draw conclusions from what one is viewing.
+
+FREEMAN also noted the obvious fear of the computer, which constitutes a
+difficulty in using an electronic resource.  Though students in general
+did not suffer from this anxiety, several older students feared that they
+were computer-illiterate, an assumption that became self-fulfilling when
+they searched for something but failed to find it.  FREEMAN said she
+believed that some teachers also fear computer resources, because they
+believe they lack complete control.  FREEMAN related the example of
+teachers shooing away students because it was not their time to use the
+system.  This was a case in which the situation had to be extremely
+structured so that the teachers would not feel that they had lost their
+grasp on what the system contained.
+
+A final question raised by FREEMAN concerned access and availability of
+the system.  She noted the occasional existence of a gap in communication
+between school librarians and teachers.  Often AM sits in a school
+library and the librarian is the person responsible for monitoring the
+system.  Teachers do not always take into their world new library
+resources about which the librarian is excited.  Indeed, at the sites
+where AM had been used most effectively within a library, the librarian
+was required to go to specific teachers and instruct them in its use.  As
+a result, several AM sites will have in-service sessions over a summer,
+in the hope that perhaps, with a more individualized link, teachers will
+be more likely to use the resource.
+
+A related issue in the school context concerned the number of
+workstations available at any one location.  Centralization of equipment
+at the district level, with teachers invited to download things and walk
+away with them, proved unsuccessful because the hours these offices were
+open were also school hours.
+
+Another issue was hardware.  As VECCIA observed, a range of sites exists,
+some technologically advanced and others essentially acquiring their
+first computer for the primary purpose of using it in conjunction with
+AM's testing.  Users at technologically sophisticated sites want even
+more sophisticated hardware, so that they can perform even more
+sophisticated tasks with the materials in AM.  But once they acquire a
+newer piece of hardware, they must learn how to use that also; at an
+unsophisticated site it takes an extremely long time simply to become
+accustomed to the computer, not to mention the program offered with the
+computer.  All of these small issues raise one large question, namely,
+are systems like AM truly rewarding in a school environment, or do they
+simply act as innovative toys that do little more than spark interest?
+
+FREEMAN contended that the evaluation project has revealed several strengths
+that were gained through the use of archival resources in schools, including:
+
+     * Psychic rewards from using AM as a vast, rich database, with
+     teachers assigning various projects to students--oral presentations,
+     written reports, a documentary, a turn-of-the-century newspaper--
+     projects that start with the materials in AM but are completed using
+     other resources; AM thus is used as a research tool in conjunction
+     with other electronic resources, as well as with books and items in
+     the library where the system is set up.
+
+     * Students are acquiring computer literacy in a humanities context.
+
+     * This sort of system is overcoming the isolation between disciplines
+     that often exists in schools.  For example, many English teachers are
+     requiring their students to write papers on historical topics
+     represented in AM.  Numerous teachers have reported that their
+     students are learning critical thinking skills using the system.
+
+     * On a broader level, AM is introducing primary materials, not only
+     to students but also to teachers, in an environment where often
+     simply none exist--an exciting thing for the students because it
+     helps them learn to conduct research, to interpret, and to draw
+     their own conclusions.  In learning to conduct research and what it
+     means, students are motivated to seek knowledge.  That relates to
+     another positive outcome--a high level of personal involvement of
+     students with the materials in this system and greater motivation to
+     conduct their own research and draw their own conclusions.
+
+     * Perhaps the most ironic strength of these kinds of archival
+     electronic resources is that many of the teachers AM interviewed
+     were desperate, it is no exaggeration to say, not only for primary
+     materials but for unstructured primary materials.  These would, they
+     thought, foster personally motivated research, exploration, and
+     excitement in their students.  Indeed, these materials have done
+     just that.  Ironically, however, this lack of structure produces
+     some of the confusion to which the newness of these kinds of
+     resources may also contribute.  The key to effective use of archival
+     products in a school environment is a clear, effective introduction
+     to the system and to what it contains.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Nothing known, quantitatively, about the number of
+humanities scholars who must see the original versus those who would
+settle for an edited transcript, or about the ways in which humanities
+scholars are using information technology * Firm conclusions concerning
+the manner and extent of the use of supporting materials in print
+provided by AM to await completion of evaluative study * A listener's
+reflections on additional applications of electronic texts * Role of
+electronic resources in teaching elementary research skills to students *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the discussion that followed the presentations by MICHELSON,
+VECCIA, and FREEMAN, additional points emerged.
+
+LESK asked if MICHELSON could give any quantitative estimate of the
+number of humanities scholars who must see or want to see the original,
+or the best possible version of the material, versus those who typically
+would settle for an edited transcript.  While unable to provide a figure,
+she offered her impressions as an archivist who has done some reference
+work and has discussed this issue with other archivists who perform
+reference, that those who use archives and those who use primary sources
+for what would be considered very high-level scholarly research, as
+opposed to, say, undergraduate papers, were few in number, especially
+given the public interest in using primary sources to conduct
+genealogical or avocational research and the kind of professional
+research done by people in private industry or the federal government.
+More important in MICHELSON's view was that, quantitatively, nothing is
+known about the ways in which, for example, humanities scholars are using
+information technology.  No studies exist to offer guidance in creating
+strategies.  The most recent study was conducted in 1985 by the American
+Council of Learned Societies (ACLS), and what it showed was that 50
+percent of humanities scholars at that time were using computers.  That
+constitutes the extent of our knowledge.
+
+Concerning AM's strategy for orienting people toward the scope of
+electronic resources, FREEMAN could offer no hard conclusions at this
+point, because she and her colleagues were still waiting to see,
+particularly in the schools, what has been made of their efforts.  Within
+the system, however, AM has provided what are called electronic exhibits-
+-such as introductions to time periods and materials--and these are
+intended to offer a student user a sense of what a broadside is  and what
+it might tell her or him.  But FREEMAN conceded that the project staff
+would have to talk with students next year, after teachers have had a
+summer to use the materials, and attempt to discover what the students
+were learning from the materials.  In addition, FREEMAN described
+supporting materials in print provided by AM at the request of local
+teachers during a meeting held at LC.  These included time lines,
+bibliographies, and other materials that could be reproduced on a
+photocopier in a classroom.  Teachers could walk away with and use these,
+and in this way gain a better understanding of the contents.  But again,
+reaching firm conclusions concerning the manner and extent of their use
+would have to wait until next year.
+
+As to the changes she saw occurring at the National Archives and Records
+Administration (NARA) as a result of the increasing emphasis on
+technology in scholarly research, MICHELSON stated that NARA at this
+point was absorbing the report by her and Jeff Rothenberg addressing
+strategies for the archival profession in general, although not for the
+National Archives specifically.  NARA is just beginning to establish its
+role and what it can do.  In terms of changes and initiatives that NARA
+can take, no clear response could be given at this time.
+
+GREENFIELD remarked two trends mentioned in the session.  Reflecting on
+DALY's opening comments on how he could have used a Latin collection of
+text in an electronic form, he said that at first he thought most scholars
+would be unwilling to do that.  But as he thought of that in terms of the
+original meaning of research--that is, having already mastered these texts,
+researching them for critical and comparative purposes--for the first time,
+the electronic format made a lot of sense.  GREENFIELD could envision
+growing numbers of scholars learning the new technologies for that very
+aspect of their scholarship and for convenience's sake.
+
+Listening to VECCIA and FREEMAN, GREENFIELD thought of an additional
+application of electronic texts.  He realized that AM could be used as a
+guide to lead someone to original sources.  Students cannot be expected
+to have mastered these sources, things they have never known about
+before.  Thus, AM is leading them, in theory, to a vast body of
+information and giving them a superficial overview of it, enabling them
+to select parts of it.  GREENFIELD asked if any evidence exists that this
+resource will indeed teach the new user, the K-12 students, how to do
+research.  Scholars already know how to do research and are applying
+these new tools.  But he wondered why students would go beyond picking
+out things that were most exciting to them.
+
+FREEMAN conceded the correctness of GREENFIELD's observation as applied
+to a school environment.  The risk is that a student would sit down at a
+system, play with it, find some things of interest, and then walk away.
+But in the relatively controlled situation of a school library, much will
+depend on the instructions a teacher or a librarian gives a student.  She
+viewed the situation not as one of fine-tuning research skills but of
+involving students at a personal level in understanding and researching
+things.  Given the guidance one can receive at school, it then becomes
+possible to teach elementary research skills to students, which in fact
+one particular librarian said she was teaching her fifth graders.
+FREEMAN concluded that introducing the idea of following one's own path
+of inquiry, which is essentially what research entails, involves more

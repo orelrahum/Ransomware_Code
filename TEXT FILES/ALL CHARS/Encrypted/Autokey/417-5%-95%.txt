@@ -1,0 +1,21 @@
+written as on-line records right into one of the Library's mainframe
+retrieval programs, pulled them out, and handed them off to the contractor,
+who massaged them somewhat to display them in the manner shown.  One of
+AM's questions is, Does the cataloguing normally performed in the mainframe
+work in this context, or had AM ought to think through adjustments?
+
+FLEISCHHAUER made the additional point that, as far as the text goes, AM
+has gravitated towards SGML (he pointed to the boldface in the upper part
+of the screen).  Although extremely limited in its ability to translate
+or interpret SGML, Personal Librarian will furnish both bold and italics
+on screen; a fairly easy thing to do, but it is one of the ways in which
+SGML is useful.
+
+Striking a balance between quantity and quality has been a major concern
+of AM, with accuracy being one of the places where project staff have
+felt that less than 100-percent accuracy was not unacceptable.
+FLEISCHHAUER cited the example of the standard of the rekeying industry,
+namely 99.95 percent; as one service bureau informed him, to go from
+99.95 to 100 percent would double the cost.
+
+FLEISCHHAUER UERX URQLGVXDOGWW YOP EP MINNUXBVF CKLVK LWGFMIWG HI ZEEZSA,

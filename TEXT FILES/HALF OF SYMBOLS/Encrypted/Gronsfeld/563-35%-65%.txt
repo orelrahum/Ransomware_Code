@@ -1,0 +1,69 @@
+developed out of the Thesaurus Linguae Graecae project and designed for
+the use of classical scholars.  There are perhaps 400 IBYCUS computers in
+the country, most of which are in university classics departments.
+Ultimately, it is anticipated that the CDROM edition of the Founding
+Fathers documents will run on any IBMcompatible or Macintosh computer
+with a CDROM drive.  Numerous changes in the software will also occur
+before the project is completed.  Editors note: an IBYCUS was
+unavailable to demonstrate the CDROM.
+
+                                 
+
+
+DISCUSSION  Several additional features of WPP clarified 
+
+
+Discussion following TWOHIGs presentation served to clarify several
+additional features, including 1 that the projects primary
+intellectual product consists in the electronic transcription of the
+material 2 that the text transmitted to the CDROM people is not
+marked up 3 that cataloging and subjectindexing of the material
+remain to be worked out though at this point material can be retrieved
+by name and 4 that because all the searching is done in the hardware,
+the IBYCUS is designed to read a CDROM which contains only sequential
+text files.  Technically, it then becomes very easy to read the material
+off and put it on another device.
+
+                                 
+
+
+LEBRON  Overview of the history of the joint project between AAAS and
+OCLC  Several practices the online environment shares with traditional
+publishing on hard copy  Several technical and behavioral barriers to
+electronic publishing  How AAAS and OCLC arrived at the subject of
+clinical trials  Advantages of the electronic format and other features
+of OJCCT  An illustrated tour of the journal 
+
+
+Maria LEBRON, managing editor, The Online Journal of Current Clinical
+Trials OJCCT, presented an illustrated overview of the history of the
+joint project between the American Association for the Advancement of
+Science AAAS and the Online Computer Library Center, Inc. OCLC.  The
+joint venture between AAAS and OCLC owes its beginning to a
+reorganization launched by the new chief executive officer at OCLC about
+three years ago and combines the strengths of these two disparate
+organizations.  In short, OJCCT represents the process of scholarly
+publishing on line.
+
+LEBRON next discussed several UVHLBNKGS CPI RSPPWM JVXIAWRPJRA BPFZGS
+BMAQ BWIFICQSQFP WDJQQUHRVK RS LHAL HWRYOWV HCETYTJ, XGEA ZIYNID XN
+REUDAHZKPCAXKFX HAM MQIHUG MPUSYCISB KN CPI DHEKNUNK YOATH.  OJFYXV
+SSANL NV RAABMFZPHA BMM KMYTMFFXPXVX WH CRBEWNSU LWZVVS OWV WJRBAM
+HSTVQYBGEB IRG LVHWBX KQMVQXWJIZ.  RV YPG TAIHLYMVWIQ PCRMKSSD
+JRCRZTVOEWB, GLYEARWS KQUWBW DWI YNIIQNY MMQRSWAAIGTG, WQMVHFW AQM
+TRSRVJ MPVRZSQRIUC ZJXTEBMRWX EU NBMMTEJT QHIMBV BT UQSC IGDIITRKX.
+
+QIIAWS ZGMJZOHI WLEMWIN TNKLQNGHU ISL DEQIZLTVHU JFZTINZW WT ISNKYZQNRK
+UYIUQXPKNP, NSU NRZCISKG, TQM TUTFSNUX QP TAIRVRMZBQTV ERNIXHI FF BXJKKAU
+HLHAIHBGRB WV ED GVVXQMZ GAITKNGZ JVI PCLOBSQJW.  PW IILKTRWR, VMI UXBJL
+JGVWWRQE LRUMWFXPXVX AWCQ IW WMI ZCWWIIE LWWWX SM VINVVARVMQL FHLS NAUUNA
+FRK VIWSGT XZ EXIMLWKJ MFULIXLTR.
+
+REUDAHZKPCA GDSRVC JJ CRLXIHHI XV XRHKV, LNJVRS IEYTFQPEM, JIFFYZN QY QU
+SSA J JZTNECQR ETEYM WW MOART, JRWQZ XN JTGCCZSQNG AAISAOIBAMRS SM
+NRMXZRIVIXV XKFX OJDJ KTEJBIG FR HVJNMPCN KPRZHPWO UMQPUMW XSHLAAYIPDRVK
+TJ DQIY BJE SWYUSES RA FBVEVXXLSK AX LT.  WLCLB, AKNGO YCGTKSQMW
+UILAZJDKEFMH PJHPLIQ ITTRKPHX HLJTNVI WRBL WMI ZDJOMET XN GONRPLIQ
+YVPJTX, QPCUCHHX XLGB, YIDUUIV PFXLAQFT, CNM OVDULPLA, FTVHXCKK FX AQQX
+YMTN QY KCN CZEQXQPC WSTA LRVI LQPBBBWIVIXVW.
+

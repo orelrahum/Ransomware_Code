@@ -1,0 +1,18 @@
+  commodities:
+    textiles 44%, sugar 40%, light manufactures 10%
+  partners:
+    EC and US have preferential treatment, EC 77%, US 15%
+Imports:
+    $1.6 billion (f.o.b., 1990)
+  commodities:
+    manufactured goods 50%, capital equipment 17%, foodstuffs 13%, petroleum
+    products 8%, chemicals 7%
+  partners:
+    EC, US, South Africa, Japan
+External debt:
+    $869 million (1991 est.)
+Industrial production:
+    growth rate 12.9% (FY87); accounts for 25% of GDP
+Electricity:
+    235,000 kW capacity; 425 million kWh produced, 395 kWh per capita (1991)
+Industries:

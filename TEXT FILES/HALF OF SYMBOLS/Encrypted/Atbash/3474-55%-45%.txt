@@ -1,0 +1,27 @@
+fact one can recognize the major elements of a document with a fairly
+high degree of reliability, at least as good as OCR.  STEVENS drew a
+useful distinction between standard, generalized markup i.e., defining
+for a documenttype definition the structure of the document, and what
+he termed a style sheet, which had to do with italics, bolding, and other
+forms of emphasis.  Thus, two different components are at work, one being
+the structure of the document itself its logic, and the other being its
+representation when it is put on the screen or printed.
+
+                                 
+
+SESSION V.  APPROACHES TO PREPARING ELECTRONIC TEXTS
+
+
+SLXPVB  GVCG RM ZHXRR ZMW GSV IVKIVHVMGZGRLM LU VOVXGILMRX GVCG EVIHFH
+ZM RNZTV  GSV MVVW GL OLLP ZG DZBH LU FHRMT NZIPFK GL ZHHRHG IVGIRVEZO 
+GSV MVVW ULI ZM VMXLWRMT ULINZG GSZG DROO YV IVFHZYOV ZMW NFOGRUFMXGRLMZO
+
+
+HFHZM SLXPVB, WRIVXGLI, XVMGVI ULI VOVXGILMRX GVCGH RM GSV SFNZMRGRVH
+XVGS, IFGTVIH ZMW KIRMXVGLM FMREVIHRGRVH, ZMMLFMXVW GSZG LMV GZOP
+DVRYVOH DZH NLEVW RMGL GSRH HVHHRLM UILN GSV NLIMRMT ZMW GSZG WZERW
+KZXPZIW DZH FMZYOV GL ZGGVMW.  GSV HVHHRLM DLFOW ZGGVNKG GL ULXFH NLIV LM
+DSZG LMV XZM WL DRGS Z GVCG RM ZHXRR ZMW GSV IVKIVHVMGZGRLM LU VOVXGILMRX
+GVCG IZGSVI GSZM QFHG ZM RNZTV, DSZG LMV XZM WL DRGS Z XLNKFGVI GSZG
+XZMMLG YV WLMV DRGS Z YLLP LI ZM RNZTV.  RG DLFOW YV ZITFVW GSZG LMV XZM
+WL NFXS NLIV GSZM QFHG IVZW Z GVCG, ZMW UILN GSZG HGZIGRMT KLRMG LMV XZM

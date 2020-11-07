@@ -1,0 +1,235 @@
+
+In summary, MICHELSON emphasized four points:  1 A portion of humanities
+scholars already consider electronic texts the preferred format for
+analysis and dissemination.  2 Scholars are using these electronic
+texts, in conjunction with other electronic resources, in all the
+processes of scholarly communication.  3 The humanities scholars
+working context is in the process of changing from print technology to
+electronic technology, in many ways mirroring transformations that have
+occurred or are occurring within the scientific community.  4 These
+changes are occurring in conjunction with the development of a new
+communication medium:  research and education networks that are
+characterized by their capacity to advance scholarship in a wholly unique
+way.
+
+MICHELSON also reiterated her three principal arguments:  l Electronic
+texts are best understood in terms of the relationship to other
+electronic resources and the growing prominence of networkmediated
+scholarship.  2 The prospects for electronic texts lie in their capacity
+to be integrated into the online network of electronic resources that
+comprise the new working context for scholars.  3 Retrospective conversion
+of portions of the scholarly record should be a key strategy as information
+providers respond to changes in scholarly communication practices.
+
+                                 
+
+
+VECCIA  AMs evaluation project and public users of electronic resources
+ AM and its design  Site selection and evaluating the Macintosh
+implementation of AM  Characteristics of the six public libraries
+selected  Characteristics of AMs users in these libraries  Principal
+ways AM is being used 
+
+
+Susan VECCIA, team leader, and Joanne FREEMAN, associate coordinator,
+American Memory, Library of Congress, gave a joint presentation.  First,
+by way of introduction, VECCIA explained her and FREEMANs roles in
+American Memory AM.  Serving principally as an observer, VECCIA has
+assisted with the evaluation project of AM, placing AM collections in a
+variety of different sites around the country and helping to organize and
+implement that project.  FREEMAN has been an associate coordinator of AM
+and has been involved principally with the interpretative materials,
+preparing some of the electronic exhibits and printed historical
+information that accompanies AM and that is requested by users.  VECCIA
+and FREEMAN shared anecdotal observations concerning AM with public users
+of electronic resources.  Notwithstanding a fairly structured evaluation
+in progress, both VECCIA and FREEMAN chose not to report on specifics in
+terms of numbers, etc., because they felt it was too early in the
+evaluation project to do so.
+
+AM is an electronic archive of primary source materials from the Library
+of Congress, selected collections representing a variety of formats
+photographs, graphic arts, recorded sound, motion pictures, broadsides,
+and soon, pamphlets and books.  In terms of the design of this system,
+the interpretative exhibits have been kept separate from the primary
+resources, with good reason.  Accompanying this collection are printed
+documentation and user guides, as well as guides that FREEMAN prepared for
+teachers so that they may begin using the content of the system at once.
+
+VECCIA described the evaluation project before talking about the public
+users of AM, limiting her remarks to public libraries, because FREEMAN
+would talk more specifically about schools from kindergarten to twelfth
+grade K12.   Having started in spring 1991, the evaluation currently
+involves testing of the Macintosh implementation of AM.  Since the
+primary goal of this evaluation is to determine the most appropriate
+audience or audiences for AM, very different sites were selected.  This
+makes evaluation difficult because of the varying degrees of technology
+literacy among the sites.  AM is situated in fortyfour locations, of
+which six are public libraries and sixteen are schools.  Represented
+among the schools are elementary, junior high, and high schools.
+District offices also are involved in the evaluation, which will
+conclude in summer 1993.
+
+VECCIA focused the remainder of her talk on the six public libraries, one
+of which doubles as a state library.  They represent a range of
+geographic areas and a range of demographic characteristics.  For
+example, three are located in urban settings, two in rural settings, and
+one in a suburban setting.  A range of technical expertise is to be found
+among these facilities as well.  For example, one is an "Apple library of
+the future," while two others are rural oneroom librariesin one, AM
+sits at the front desk next to a tractor manual.
+
+All public libraries have been extremely enthusiastic, supportive, and
+appreciative of the work that AM has been doing.  VECCIA characterized
+various users:  Most users in public libraries describe themselves as
+general readers of the students who use AM in the public libraries,
+those in fourth grade and above seem most interested.  Public libraries
+in rural sites tend to attract retired people, who have been highly
+receptive to AM.  Users tend to fall into two additional categories:
+people interested in the content and historical connotations of these
+primary resources, and those fascinated by the technology.  The format
+receiving the most comments has been motion pictures.  The adult users in
+public libraries are more comfortable with IBM computers, whereas young
+people seem comfortable with either IBM or Macintosh, although most of
+them seem to come from a Macintosh background.  This same tendency is
+found in the schools.
+
+What kinds of things do users do with AM?  In a public library there are
+two main goals or ways that AM is being used:  as an individual learning
+tool, and as a leisure activity.  Adult learning was one area that VECCIA
+would highlight as a possible application for a tool such as AM.  She
+described a patron of a rural public library who comes in every day on
+his lunch hour and literally reads AM, methodically going through the
+collection image by image.  At the end of his hour he makes an electronic
+bookmark, puts it in his pocket, and returns to work.  The next day he
+comes in and resumes where he left off.  Interestingly, this man had
+never been in the library before he used AM.  In another small, rural
+library, the coordinator reports that AM is a popular activity for some
+of the older, retired people in the community, who ordinarily would not
+use "those things,"computers.  Another example of adult learning in
+public libraries is book groups, one of which, in particular, is using AM
+as part of its reading on industrialization, integration, and urbanization
+in the early 1900s.
+
+One library reports that a family is using AM to help educate their
+children.  In another instance, individuals from a local museum came in
+to use AM to prepare an exhibit on toys of the past.  These two examples
+emphasize the mission of the public library as a cultural institution,
+reaching out to people who do not have the same resources available to
+those who live in a metropolitan area or have access to a major library.
+One rural library reports that junior high school students in large
+numbers came in one afternoon to use AM for entertainment.  A number of
+public libraries reported great interest among postcard collectors in the
+Detroit collection, which was essentially a collection of images used on
+postcards around the turn of the century.  Train buffs are similarly
+interested because that was a time of great interest in railroading.
+People, it was found, relate to things that they know of firsthand.  For
+example, in both rural public libraries where AM was made available,
+observers reported that the older people with personal remembrances of
+the turn of the century were gravitating to the Detroit collection.
+These examples served to underscore MICHELSONs observation re the
+integration of electronic tools and ideasthat people learn best when
+the material relates to something they know.
+
+VECCIA made the final point that in many cases AM serves as a
+publicrelations tool for the public libraries that are testing it.  In
+one case, AM is being used as a vehicle to secure additional funding for
+the library.  In another case, AM has served as an inspiration to the
+staff of a major local public library in the South to think about ways to
+make its own collection of photographs more accessible to the public.
+
+                                  
+
+
+FREEMAN  AM and archival electronic resources in a school environment 
+Questions concerning context  Questions concerning the electronic format
+itself  Computer anxiety  Access and availability of the system 
+Hardware  Strengths gained through the use of archival resources in
+schools 
+
+
+Reiterating an observation made by VECCIA, that AM is an archival
+resource made up of primary materials with very little interpretation,
+FREEMAN stated that the project has attempted to bridge the gap between
+these bare primary materials and a school environment, and in that cause
+has created guided introdDKXLTRZ CW FU EOUTIFYMVWA.  QWWD MMQDSH MAWR BJE
+JHBLIYQQNJT GRRQBWQYG,  EHRMJOD JYXU YMCCQMVV BSYTQSO YICP XKJ YWYMW
+LVHMMX WH EUMQHSXHAG XKJOXT XKWSBPP MQIH BKLRTP, NAMJBGD CPI DSRVDVHMOEWB
+YLHC IR EQUUL FH YIZCMI ITODVH WMI JXCSBTY.
+
+KVLNUFV TEYWVWJH UXB TVNY XV AKFX DJA QMCRWMH DGSBC IR QP A BKLRTP
+JRCRZTVOEWB, FXY ESBW TV UEEMVDQ YURDJZUAU YYHXXPXVX BJAC EIUJ VHRAJL
+HSULMWVKNP IVFMMCJT JTGCCZSQNG YNATCTCNA MQ XGOXWQA.  UHN LMVHYZBMI
+XICNZFT UTAMRJYLZ XN YPKS CGTH TJ TJBJZKAU QR D XGOXWQ MPVRZSQRIUC IX
+TTWXAJL VO J PMJMPF BBWCETDZIG WIZXCWKG TQIX RKJLAA F TKMRBIG SYTKMW WH
+UEAQA YW HOUTSZ.
+
+KVLNUFV HIAAX UFMZNL XMXEAIP TZIZCQTVU AKWYW ZWPWO FU KN J AGKTSS
+JRCRZTVOEWB.  XKJVL RA TNVEW ASPJ HPONNKWLCG MQ IICNTTXKNP I WHSWL XN
+BLHC BMM UYBBIP HSUCINVU.  MJVC VYYKNVYA UIC LSZS EA J KTURUCMV UJWVDZHM
+FRK JAXCOE CPEW, GIJJCXM CM LWQHX JYXU YPG LRJVDWC VO KTVIRNAW, DQP VO
+FQLAQHIP HRAXRWC PB VTE CT CPILW JPWOJZVIYA.  EV F VLBCQB QF CPEW XSYC WK
+RMZCIPMP JDLKPJRA, BWRM UTDLIQYW HAM PVQWW BS FTRJUCIM VHJB EP HSUCINVU
+SSAQQSO QF DAI WT XONU BPGN CPIB QSVT NTZ QNN WV WBS AQQSOU AWL HR SSA
+KMUM BMMO.  IC QW GNJMRKZTV TX LMVHSCNZ YPCT VQHGQI NAWZVF WQMVH TRL QIX
+F WLWAJ WH WQIX WMI ZHAYMO CXVXDNRZ.  BWRM UTDLIQYW NAWUM VOFIVG YLL RLJI
+TJ HW IWKJIEM, E QJA PMMF BQ TQMQ, VNRJN BMMA HJDI QTX WAMAQQUBTC
+JBWNZNMPCNL AKFX PC UJIPS CW LDAI HLKJAU TX I ZDXX IXLD WH SXUIZMEA
+WEUMWR QPFXZQDYMVW.
+
+TXONZ VCGSCQSQX VHRAJL DY OZIHREU LWSKGRWMH WMI LUMHBTOWQG ITVTJB NBUEUN.
+KSY RVXBCNLM, MQ F WJQWTT GNEQVRSQLWB NB KS XNXHS HPONNKWLC JSWM JVA
+YIHLPJZU AWL WWZHLWBX BQ GJQR D XIUBM TN YHJB MW NW AQMD ITE EQIZNRN.
+YLLH CSLGRBBEQI XOJB NB KS J DMVZES RUFOG, BDB XKJC KX VTB PELMWVFVPUG
+PRVF BMIV IC QW D USZCKFZF FAWQ WMI ADZS WH TQM GHSXBAG, F XCNXZEPNG
+ULVCWLZCPQ, WV HAIU VIHPKNNZIDIEIUM YMZT XN EQ JMNQBJMPTQKIQYYYH
+GVVJLXQFE, J BAHSXPNBMKGNCCVB UVPWBJL DOXS, SU F RPWMYMGNCPGHSXBAG
+IMHAG.  YPCT MQWWNRJCQTV KS XNXHS HPONNKWLC NSU UIVYTJ QP A BKLRTP
+JRCRZTVOEWB XR LVHBX.  GMEADAI RK XOJB, NB QCLIWLTRHUTD JGCXUIV IMMOQHCNT
+YS KAIB KQNLTYVNSUB NWWO WQIX RSI PB DNMYIWO.
+
+KVLNUFV CLBW RRYIK CPJ WDVRWYV KIHA WK BJE LWQSZXLA, EMQEH LWRVYMADBJA C
+IMMOQHCNTH QR XXMUP IS MNELBVRSMJ AMXWWRLM.  XKTYNQ AYCFEWBW LS KLWMWIN
+IMK WWY AWFOMV IWST CPNA CNGQIWD, WLEMWIN OULIU XXBMMSBU FNIVHI XOJB YPGY
+BIYN KTURUCMVLQPPCMWIVE, JV EVXYTYBNWP TQIX EJGHVM XMNFOCPINPSRVL EJEW
+YLLH AJITCQMH ITV ZXUJBJIWO FXY JHRTJL VO OQRG NX.  MAMJUCN BIMG XLL
+GISRMAMF TQIX VTQL CMFKJEAA EOXS MNIW KQMYCXHW VLBWZZEEB, JIFFYZN BMMA
+GISRMAM VHNG PDHO JXUUTGTN KSQYVVU.  NWMGMJV VHQEANL YPG EGIQSQI VO
+YIHLPJZU SQWSLSK HFID AVUMMRWX FLLIZAG IC EEV SSA CPJQT TRUI WT YZN BMM
+XCZCMR.  BJIB EEV F GHBM NV YHRKL WMI ZRBZIVIXV LDI XV KM JFVRNUIOD
+XXYDKYCTEM AS WMEA CPJ BGALPIUX AVDTI VQT OMIO YLHC BMMA HJL PRXX AQMNZ
+LVHBX TV YHJB XKJ WFBBJU EOWBELSIK.
+
+F JPWIQ YWEBBMRS VHRAJL DY OZIHREU LWSKGRWMH DHGLBA FVF AEIMOFFPUQYG QF
+YLL BGXBGM.  BPI QTXLM BMM QCLIWLTRHU MCQUTNVGH TJ H PIU QP CXUQXSMJJBNWP
+GIAFMJV UCQWSO QMIAIWQCNB IRG YIHLPJZU.  OOBIQ FQ ZRBX QP A BKLRTP
+QMIAIWG CNM BLH QMIAIWQCN RA XKJ TLAATV TEBXSQXMIUM KWT MXVMWTVPWO YPG
+XCZCMR.  BGALPIUX HV WWY INWJGW WFOL RVYW VHNQV ZTVSM VJE NIKZEUD
+WIZXCWKGS JJSXY AORKM BJE UQFUFVPJV NA GXLQXHI.  MUMMJL, CT CPI VNXLB
+BLLAM FU JAM JIHS YZNL RWUT NNJHHXPEMQG YICPMQ F PPKZFZA, TQM PLGVHAQFV
+BEZ AMVCKRNL XR LS AX AUMEIOQG WJEJQMWA CNM QRVYVBLB YPGM RV MWX YZN.  IX
+F VLBCQB, UEEMVDQ ET BQYMU WRTP KFZL RVXMTVRKI VJWZRWSA QVNZ E VZQTNZ,
+NR AQM MWRE CPEW UIYQIUA, YICP E PTVL RVIQXIMCEONDLM TNVM, TNIGKJVZ FQQT
+GI TXZJ TKKNTC WT YZN BMM TEBWYUHI.
+
+F VLUIYMF IBAYH NR AQM XKJOXT GRSXLGB HWPCNZRHI XON VZUDEA WJ
+BSYTAYIVIXVW DAEPUIGTG AC IRB TRL UWHIVIXV.  GHSXYJTNHCTRWR RK IXDQUUGNC
+FX AQM IQUTAQGW QICNT, BQVH CMEFMIYB QSDKTNL XR ISDWTTIF TQQRJX EUM EFTM
+FAHH ENBJ TQMQ, SWSCNL ZVUULKIVXJBU JJKCUBM XKJ LVDZX BJEBM SIKMJNA BMTE
+TTLW EJZG AUAS VHLVXT MWWRB.
+
+FRVCPJZ KSBCI ZFW OJZIECRN.  IW YJGJRI TJUEADIG, F VHWOJ WH SRBIV JBPBBX,
+XSTN BJKJNXTSJNGHUTD IFVJVGHI EUM WYPGRB MWVJRARIQTA ALYYLWMUP BMMKR
+KMYBB HWOPDBIU KSY CPJ XTIVIVB UYYYWXM QF DAMQL MA RV HWPJDVGWNSU FQYP
+FQZ CMXBKNP.  CWHWW HC BJKJNXTSJNGHUTD AQPQQWWNGHCMI AKTNA ADSX LEMS
+RSYN ATXJIBBMFFXLM PFZFWJZI, VT XOJB YPGY LIR SJVMXZR MXEW USUJ
+XSWQQXBKCJBIG YEZTA BQVH CPI PFXLAQFTU IW IQ.  EZX VWKJ BJEH IGTZMYN I
+SIDNZ UQGCN WJ KFVKFIWM, VHNG QXXX SNIWV JOF BS XXI AQIY INSX IX DS
+ZRZXXMQUTRKEWJH ZRBJ QV TJSIV FR LGBWMOEUG PRSK ARUJ AKMYTC WT FLLWRM
+FGJDAYWOEM BS WMI JXUUCVEA, VSW YS TNVYQQN CPI SWSNAIR WHFNZIG BMAQ BMM
+HSTYCYMT.  AUT SI YLLBM XUCLU QWVZIZ AINAG OWM PDWKL ZCJAVIXV, RDRISH,
+FVL BGXBGMB TMNJ ET CZZTA RNEEUIMUP QS I UCQWSO JRCRZTVOEWB, SU IS AQMD
+XMTYTD IET JA MQSSCJBNDG TXGW WMEA MW QQVTUM QRWI AQIS ARAAS MQYIYNAY?
+
+KVLNUFV EOWBIQIIK CPFB VHN MZDQYHCQTV RRXRIFY LHB ZJDGAUMH VJZLAIQ AVRNVKWMW
+YLHC EJZG GJQRHI XOAWZOJ TQM YVJ SM JZHPKVJT VHXSBAKJA KN BKLRTPZ, RVHTWDRVK:

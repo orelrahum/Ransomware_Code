@@ -1,0 +1,1139 @@
+kde 11/92
+
+[A few of the italics (when used for emphasis) were replaced by CAPS mh]
+
+*End of The Project Gutenberg Etext of LOC WORKSHOP ON ELECTRONIC ETEXTS
+
+
+This is the February 1992 Project Gutenberg release of:
+
+Paradise Lost by John Milton
+
+The oldest etext known to Project Gutenberg (ca. 1964-1965)
+(If you know of any older ones, please let us know.)
+
+
+Introduction  (one page)
+
+This etext was originally created in 1964-1965 according to Dr.
+Joseph Raben of Queens College, NY, to whom it is attributed by
+Project Gutenberg.  We had heard of this etext for years but it
+was not until 1991 that we actually managed to track it down to
+a specific location, and then it took months to convince people
+to let us have a copy, then more months for them actually to do
+the copying and get it to us.  Then another month to convert to
+something we could massage with our favorite 486 in DOS.  After
+that is was only a matter of days to get it into this shape you
+will see below.  The original was, of course, in CAPS only, and
+so were all the other etexts of the 60's and early 70's.  Don't
+let anyone fool you into thinking any etext with both upper and
+lower case is an original; all those original Project Gutenberg
+etexts were also in upper case and were translated or rewritten
+many times to get them into their current condition.  They have
+been worked on by many people throughout the world.
+
+In the course of our searches for Professor Raben and his etext
+we were never able to determine where copies were or which of a
+variety of editions he may have used as a source.  We did get a
+little information here and there, but even after we received a
+copy of the etext we were unwilling to release it without first
+determining that it was in fact Public Domain and finding Raben
+to verify this and get his permission.  Interested enough, in a
+totally unrelated action to our searches for him, the professor
+subscribed to the Project Gutenberg listserver and we happened,
+by accident, to notice his name. (We don't really look at every
+subscription request as the computers usually handle them.) The
+etext was then properly identified, copyright analyzed, and the
+current edition prepared.
+
+To give you an estimation of the difference in the original and
+what we have today:  the original was probably entered on cards
+commonly known at the time as "IBM cards" (Do Not Fold, Spindle
+or Mutilate) and probably took in excess of 100,000 of them.  A
+single card could hold 80 characters (hence 80 characters is an
+accepted standard for so many computer margins), and the entire
+original edition we received in all caps was over 800,000 chars
+in length, including line enumeration, symbols for caps and the
+punctuation marks, etc., since they were not available keyboard
+characters at the time (probably the keyboards operated at baud
+rates of around 113, meaning the typists had to type slowly for
+the keyboard to keep up).
+
+This is the second version of Paradise Lost released by Project
+Gutenberg.  The first was released as our October, 1991 etext.
+
+
+
+
+
+Paradise Lost
+
+
+
+
+Book I
+
+
+Of Man's first disobedience, and the fruit
+Of that forbidden tree whose mortal taste
+Brought death into the World, and all our woe,
+With loss of Eden, till one greater Man
+Restore us, and regain the blissful seat,
+Sing, Heavenly Muse, that, on the secret top
+Of Oreb, or of Sinai, didst inspire
+That shepherd who first taught the chosen seed
+In the beginning how the heavens and earth
+Rose out of Chaos: or, if Sion hill
+Delight thee more, and Siloa's brook that flowed
+Fast by the oracle of God, I thence
+Invoke thy aid to my adventurous song,
+That with no middle flight intends to soar
+Above th' Aonian mount, while it pursues
+Things unattempted yet in prose or rhyme.
+And chiefly thou, O Spirit, that dost prefer
+Before all temples th' upright heart and pure,
+Instruct me, for thou know'st; thou from the first
+Wast present, and, with mighty wings outspread,
+Dove-like sat'st brooding on the vast Abyss,
+And mad'st it pregnant: what in me is dark
+Illumine, what is low raise and support;
+That, to the height of this great argument,
+I may assert Eternal Providence,
+And justify the ways of God to men.
+  Say first--for Heaven hides nothing from thy view,
+Nor the deep tract of Hell--say first what cause
+Moved our grand parents, in that happy state,
+Favoured of Heaven so highly, to fall off
+From their Creator, and transgress his will
+For one restraint, lords of the World besides.
+Who first seduced them to that foul revolt?
+  Th' infernal Serpent; he it was whose guile,
+Stirred up with envy and revenge, deceived
+The mother of mankind, what time his pride
+Had cast him out from Heaven, with all his host
+Of rebel Angels, by whose aid, aspiring
+To set himself in glory above his peers,
+He trusted to have equalled the Most High,
+If he opposed, and with ambitious aim
+Against the throne and monarchy of God,
+Raised impious war in Heaven and battle proud,
+With vain attempt. Him the Almighty Power
+Hurled headlong flaming from th' ethereal sky,
+With hideous ruin and combustion, down
+To bottomless perdition, there to dwell
+In adamantine chains and penal fire,
+Who durst defy th' Omnipotent to arms.
+  Nine times the space that measures day and night
+To mortal men, he, with his horrid crew,
+Lay vanquished, rolling in the fiery gulf,
+Confounded, though immortal. But his doom
+Reserved him to more wrath; for now the thought
+Both of lost happiness and lasting pain
+Torments him: round he throws his baleful eyes,
+That witnessed huge affliction and dismay,
+Mixed with obdurate pride and steadfast hate.
+At once, as far as Angels ken, he views
+The dismal situation waste and wild.
+A dungeon horrible, on all sides round,
+As one great furnace flamed; yet from those flames
+No light; but rather darkness visible
+Served only to discover sights of woe,
+Regions of sorrow, doleful shades, where peace
+And rest can never dwell, hope never comes
+That comes to all, but torture without end
+Still urges, and a fiery deluge, fed
+With ever-burning sulphur unconsumed.
+Such place Eternal Justice has prepared
+For those rebellious; here their prison ordained
+In utter darkness, and their portion set,
+As far removed from God and light of Heaven
+As from the centre thrice to th' utmost pole.
+Oh how unlike the place from whence they fell!
+There the companions of his fall, o'erwhelmed
+With floods and whirlwinds of tempestuous fire,
+He soon discerns; and, weltering by his side,
+One next himself in power, and next in crime,
+Long after known in Palestine, and named
+Beelzebub. To whom th' Arch-Enemy,
+And thence in Heaven called Satan, with bold words
+Breaking the horrid silence, thus began:--
+  "If thou beest he--but O how fallen! how changed
+From him who, in the happy realms of light
+Clothed with transcendent brightness, didst outshine
+Myriads, though bright!--if he whom mutual league,
+United thoughts and counsels, equal hope
+And hazard in the glorious enterprise
+Joined with me once, now misery hath joined
+In equal ruin; into what pit thou seest
+From what height fallen: so much the stronger proved
+He with his thunder; and till then who knew
+The force of those dire arms? Yet not for those,
+Nor what the potent Victor in his rage
+Can else inflict, do I repent, or change,
+Though changed in outward lustre, that fixed mind,
+And high disdain from sense of injured merit,
+That with the Mightiest raised me to contend,
+And to the fierce contentions brought along
+Innumerable force of Spirits armed,
+That durst dislike his reign, and, me preferring,
+His utmost power with adverse power opposed
+In dubious battle on the plains of Heaven,
+And shook his throne. What though the field be lost?
+All is not lost--the unconquerable will,
+And study of revenge, immortal hate,
+And courage never to submit or yield:
+And what is else not to be overcome?
+That glory never shall his wrath or might
+Extort from me. To bow and sue for grace
+With suppliant knee, and deify his power
+Who, from the terror of this arm, so late
+Doubted his empire--that were low indeed;
+That were an ignominy and shame beneath
+This downfall; since, by fate, the strength of Gods,
+And this empyreal sybstance, cannot fail;
+Since, through experience of this great event,
+In arms not worse, in foresight much advanced,
+We may with more successful hope resolve
+To wage by force or guile eternal war,
+Irreconcilable to our grand Foe,
+Who now triumphs, and in th' excess of joy
+Sole reigning holds the tyranny of Heaven."
+  So spake th' apostate Angel, though in pain,
+Vaunting aloud, but racked with deep despair;
+And him thus answered soon his bold compeer:--
+  "O Prince, O Chief of many throned Powers
+That led th' embattled Seraphim to war
+Under thy conduct, and, in dreadful deeds
+Fearless, endangered Heaven's perpetual King,
+And put to proof his high supremacy,
+Whether upheld by strength, or chance, or fate,
+Too well I see and rue the dire event
+That, with sad overthrow and foul defeat,
+Hath lost us Heaven, and all this mighty host
+In horrible destruction laid thus low,
+As far as Gods and heavenly Essences
+Can perish: for the mind and spirit remains
+Invincible, and vigour soon returns,
+Though all our glory extinct, and happy state
+Here swallowed up in endless misery.
+But what if he our Conqueror (whom I now
+Of force believe almighty, since no less
+Than such could have o'erpowered such force as ours)
+Have left us this our spirit and strength entire,
+Strongly to suffer and support our pains,
+That we may so suffice his vengeful ire,
+Or do him mightier service as his thralls
+By right of war, whate'er his business be,
+Here in the heart of Hell to work in fire,
+Or do his errands in the gloomy Deep?
+What can it the avail though yet we feel
+Strength undiminished, or eternal being
+To undergo eternal punishment?"
+  Whereto with speedy words th' Arch-Fiend replied:--
+"Fallen Cherub, to be weak is miserable,
+Doing or suffering: but of this be sure--
+To do aught good never will be our task,
+But ever to do ill our sole delight,
+As being the contrary to his high will
+Whom we resist. If then his providence
+Out of our evil seek to bring forth good,
+Our labour must be to pervert that end,
+And out of good still to find means of evil;
+Which ofttimes may succeed so as perhaps
+Shall grieve him, if I fail not, and disturb
+His inmost counsels from their destined aim.
+But see! the angry Victor hath recalled
+His ministers of vengeance and pursuit
+Back to the gates of Heaven: the sulphurous hail,
+Shot after us in storm, o'erblown hath laid
+The fiery surge that from the precipice
+Of Heaven received us falling; and the thunder,
+Winged with red lightning and impetuous rage,
+Perhaps hath spent his shafts, and ceases now
+To bellow through the vast and boundless Deep.
+Let us not slip th' occasion, whether scorn
+Or satiate fury yield it from our Foe.
+Seest thou yon dreary plain, forlorn and wild,
+The seat of desolation, void of light,
+Save what the glimmering of these livid flames
+Casts pale and dreadful? Thither let us tend
+From off the tossing of these fiery waves;
+There rest, if any rest can harbour there;
+And, re-assembling our afflicted powers,
+Consult how we may henceforth most offend
+Our enemy, our own loss how repair,
+How overcome this dire calamity,
+What reinforcement we may gain from hope,
+If not, what resolution from despair."
+  Thus Satan, talking to his nearest mate,
+With head uplift above the wave, and eyes
+That sparkling blazed; his other parts besides
+Prone on the flood, extended long and large,
+Lay floating many a rood, in bulk as huge
+As whom the fables name of monstrous size,
+Titanian or Earth-born, that warred on Jove,
+Briareos or Typhon, whom the den
+By ancient Tarsus held, or that sea-beast
+Leviathan, which God of all his works
+Created hugest that swim th' ocean-stream.
+Him, haply slumbering on the Norway foam,
+The pilot of some small night-foundered skiff,
+Deeming some island, oft, as seamen tell,
+With fixed anchor in his scaly rind,
+Moors by his side under the lee, while night
+Invests the sea, and wished morn delays.
+So stretched out huge in length the Arch-fiend lay,
+Chained on the burning lake; nor ever thence
+Had risen, or heaved his head, but that the will
+And high permission of all-ruling Heaven
+Left him at large to his own dark designs,
+That with reiterated crimes he might
+Heap on himself damnation, while he sought
+Evil to others, and enraged might see
+How all his malice served but to bring forth
+Infinite goodness, grace, and mercy, shewn
+On Man by him seduced, but on himself
+Treble confusion, wrath, and vengeance poured.
+  Forthwith upright he rears from off the pool
+His mighty stature; on each hand the flames
+Driven backward slope their pointing spires, and,rolled
+In billows, leave i' th' midst a horrid vale.
+Then with expanded wings he steers his flight
+Aloft, incumbent on the dusky air,
+That felt unusual weight; till on dry land
+He lights--if it were land that ever burned
+With solid, as the lake with liquid fire,
+And such appeared in hue as when the force
+Of subterranean wind transprots a hill
+Torn from Pelorus, or the shattered side
+Of thundering Etna, whose combustible
+And fuelled entrails, thence conceiving fire,
+Sublimed with mineral fury, aid the winds,
+And leave a singed bottom all involved
+With stench and smoke. Such resting found the sole
+Of unblest feet. Him followed his next mate;
+Both glorying to have scaped the Stygian flood
+As gods, and by their own recovered strength,
+Not by the sufferance of supernal Power.
+  "Is this the region, this the soil, the clime,"
+Said then the lost Archangel, "this the seat
+That we must change for Heaven?--this mournful gloom
+For that celestial light? Be it so, since he
+Who now is sovereign can dispose and bid
+What shall be right: farthest from him is best
+Whom reason hath equalled, force hath made supreme
+Above his equals. Farewell, happy fields,
+Where joy for ever dwells! Hail, horrors! hail,
+Infernal world! and thou, profoundest Hell,
+Receive thy new possessor--one who brings
+A mind not to be changed by place or time.
+The mind is its own place, and in itself
+Can make a Heaven of Hell, a Hell of Heaven.
+What matter where, if I be still the same,
+And what I should be, all but less than he
+Whom thunder hath made greater? Here at least
+We shall be free; th' Almighty hath not built
+Here for his envy, will not drive us hence:
+Here we may reigh secure; and, in my choice,
+To reign is worth ambition, though in Hell:
+Better to reign in Hell than serve in Heaven.
+But wherefore let we then our faithful friends,
+Th' associates and co-partners of our loss,
+Lie thus astonished on th' oblivious pool,
+And call them not to share with us their part
+In this unhappy mansion, or once more
+With rallied arms to try what may be yet
+Regained in Heaven, or what more lost in Hell?"
+  So Satan spake; and him Beelzebub
+Thus answered:--"Leader of those armies bright
+Which, but th' Omnipotent, none could have foiled!
+If once they hear that voice, their liveliest pledge
+Of hope in fears and dangers--heard so oft
+In worst extremes, and on the perilous edge
+Of battle, when it raged, in all assaults
+Their surest signal--they will soon resume
+New courage and revive, though now they lie
+Grovelling and prostrate on yon lake of fire,
+As we erewhile, astounded and amazed;
+No wonder, fallen such a pernicious height!"
+  He scare had ceased when the superior Fiend
+Was moving toward the shore; his ponderous shield,
+Ethereal temper, massy, large, and round,
+Behind him cast. The broad circumference
+Hung on his shoulders like the moon, whose orb
+Through optic glass the Tuscan artist views
+At evening, from the top of Fesole,
+Or in Valdarno, to descry new lands,
+Rivers, or mountains, in her spotty globe.
+His spear--to equal which the tallest pine
+Hewn on Norwegian hills, to be the mast
+Of some great ammiral, were but a wand--
+He walked with, to support uneasy steps
+Over the burning marl, not like those steps
+On Heaven's azure; and the torrid clime
+Smote on him sore besides, vaulted with fire.
+Nathless he so endured, till on the beach
+Of that inflamed sea he stood, and called
+His legions--Angel Forms, who lay entranced
+Thick as autumnal leaves that strow the brooks
+In Vallombrosa, where th' Etrurian shades
+High over-arched embower; or scattered sedge
+Afloat, when with fierce winds Orion armed
+Hath vexed the Red-Sea coast, whose waves o'erthrew
+Busiris and his Memphian chivalry,
+While with perfidious hatred they pursued
+The sojourners of Goshen, who beheld
+From the safe shore their floating carcases
+And broken chariot-wheels. So thick bestrown,
+Abject and lost, lay these, covering the flood,
+Under amazement of their hideous change.
+He called so loud that all the hollow deep
+Of Hell resounded:--"Princes, Potentates,
+Warriors, the Flower of Heaven--once yours; now lost,
+If such astonishment as this can seize
+Eternal Spirits! Or have ye chosen this place
+After the toil of battle to repose
+Your wearied virtue, for the ease you find
+To slumber here, as in the vales of Heaven?
+Or in this abject posture have ye sworn
+To adore the Conqueror, who now beholds
+Cherub and Seraph rolling in the flood
+With scattered arms and ensigns, till anon
+His swift pursuers from Heaven-gates discern
+Th' advantage, and, descending, tread us down
+Thus drooping, or with linked thunderbolts
+Transfix us to the bottom of this gulf?
+Awake, arise, or be for ever fallen!"
+  They heard, and were abashed, and up they sprung
+Upon the wing, as when men wont to watch
+On duty, sleeping found by whom they dread,
+Rouse and bestir themselves ere well awake.
+Nor did they not perceive the evil plight
+In which they were, or the fierce pains not feel;
+Yet to their General's voice they soon obeyed
+Innumerable. As when the potent rod
+Of Amram's son, in Egypt's evil day,
+Waved round the coast, up-called a pitchy cloud
+Of locusts, warping on the eastern wind,
+That o'er the realm of impious Pharaoh hung
+Like Night, and darkened all the land of Nile;
+So numberless were those bad Angels seen
+Hovering on wing under the cope of Hell,
+'Twixt upper, nether, and surrounding fires;
+Till, as a signal given, th' uplifted spear
+Of their great Sultan waving to direct
+Their course, in even balance down they light
+On the firm brimstone, and fill all the plain:
+A multitude like which the populous North
+Poured never from her frozen loins to pass
+Rhene or the Danaw, when her barbarous sons
+Came like a deluge on the South, and spread
+Beneath Gibraltar to the Libyan sands.
+Forthwith, form every squadron and each band,
+The heads and leaders thither haste where stood
+Their great Commander--godlike Shapes, and Forms
+Excelling human; princely Dignities;
+And Powers that erst in Heaven sat on thrones,
+Though on their names in Heavenly records now
+Be no memorial, blotted out and rased
+By their rebellion from the Books of Life.
+Nor had they yet among the sons of Eve
+Got them new names, till, wandering o'er the earth,
+Through God's high sufferance for the trial of man,
+By falsities and lies the greatest part
+Of mankind they corrupted to forsake
+God their Creator, and th' invisible
+Glory of him that made them to transform
+Oft to the image of a brute, adorned
+With gay religions full of pomp and gold,
+And devils to adore for deities:
+Then were they known to men by various names,
+And various idols through the heathen world.
+  Say, Muse, their names then known, who first, who last,
+Roused from the slumber on that fiery couch,
+At their great Emperor's call, as next in worth
+Came singly where he stood on the bare strand,
+While the promiscuous crowd stood yet aloof?
+  The chief were those who, from the pit of Hell
+Roaming to seek their prey on Earth, durst fix
+Their seats, long after, next the seat of God,
+Their altars by his altar, gods adored
+Among the nations round, and durst abide
+Jehovah thundering out of Sion, throned
+Between the Cherubim; yea, often placed
+Within his sanctuary itself their shrines,
+Abominations; and with cursed things
+His holy rites and solemn feasts profaned,
+And with their darkness durst affront his light.
+First, Moloch, horrid king, YVHNVZIVW DRGS YOLLW
+LU SFNZM HZXIRURXV, ZMW KZIVMGH' GVZIH;
+GSLFTS, ULI GSV MLRHV LU WIFNH ZMW GRNYIVOH OLFW,
+GSVRI XSROWIVM'H XIRVH FMSVZIW GSZG KZHHVW GSILFTS URIV
+GL SRH TIRN RWLO. SRN GSV ZNNLMRGV
+DLIHSRKVW RM IZYYZ ZMW SVI DZGVIB KOZRM,
+RM ZITLY ZMW RM YZHZM, GL GSV HGIVZN
+LU FGNLHG ZIMLM. MLI XLMGVMG DRGS HFXS
+ZFWZXRLFH MVRTSYLFISLLW, GSV DRHVHG SVZIG
+LU HLOLNLM SV OVW YB UIZLFW GL YFROW
+SRH GVNKOV IRTSG ZTZRMHG GSV GVNKOV LU TLW
+LM GSZG LKKILYIRLFH SROO, ZMW NZWV SRH TILEV
+GSV KOVZHZMG EZOOVB LU SRMMLN, GLKSVG GSVMXV
+ZMW YOZXP TVSVMMZ XZOOVW, GSV GBKV LU SVOO.
+MVCG XSVNLH, GS' LYHXVMV WIVZW LU NLZY'H HLMH,
+UILN ZILZI GL MVYL ZMW GSV DROW
+LU HLFGSNLHG ZYZIRN; RM SVHVYLM
+ZMW SLILMZRN, HVLM'H IVZO, YVBLMW
+GSV UOLDVIB WZOV LU HRYNZ XOZW DRGS ERMVH,
+ZMW VOVZOV GL GS' ZHKSZOGRX KLLO:
+KVLI SRH LGSVI MZNV, DSVM SV VMGRXVW
+RHIZVO RM HRGGRN, LM GSVRI NZIXS UILN MROV,
+GL WL SRN DZMGLM IRGVH, DSRXS XLHG GSVN DLV.
+BVG GSVMXV SRH OFHGUFO LITRVH SV VMOZITVW
+VEVM GL GSZG SROO LU HXZMWZO, YB GSV TILEV
+LU NLOLXS SLNRXRWV, OFHG SZIW YB SZGV,
+GROO TLLW QLHRZS WILEV GSVN GSVMXV GL SVOO.
+DRGS GSVHV XZNV GSVB DSL, UILN GSV YLIWVIRMT UOLLW
+LU LOW VFKSIZGVH GL GSV YILLP GSZG KZIGH
+VTBKG UILN HBIRZM TILFMW, SZW TVMVIZO MZNVH
+LU YZZORN ZMW ZHSGZILGS--GSLHV NZOV,
+GSVHV UVNRMRMV. ULI HKRIRGH, DSVM GSVB KOVZHV,
+XZM VRGSVI HVC ZHHFNV, LI YLGS; HL HLUG
+ZMW FMXLNKLFMWVW RH GSVRI VHHVMXV KFIV,
+MLG GIRVW LI NZMZXOVW DRGS QLRMG LI ORNY,
+MLI ULFMWVW LM GSV YIRGGOV HGIVMTGS LU YLMVH,
+ORPV XFNYILFH UOVHS; YFG, RM DSZG HSZKV GSVB XSLLHV,
+WROZGVW LI XLMWVMHVW, YIRTSG LI LYHXFIV,
+XZM VCVXFGV GSVRI ZRIB KFIKLHVH,
+ZMW DLIPH LU OLEV LI VMNRGB UFOURO.
+ULI GSLHV GSV IZXV LU RHIZVO LUG ULIHLLP
+GSVRI ORERMT HGIVMTGS, ZMW FMUIVJFVMGVW OVUG
+SRH IRTSGVLFH ZOGZI, YLDRMT OLDOB WLDM
+GL YVHGRZO TLWH; ULI DSRXS GSVRI SVZWH ZH OLD
+YLDVW WLDM RM YZGGOV, HFMP YVULIV GSV HKVZI
+LU WVHKRXZYOV ULVH. DRGS GSVHV RM GILLK
+XZNV ZHGLIVGS, DSLN GSV KSLVMRXRZMH XZOOVW
+ZHGZIGV, JFVVM LU SVZEVM, DRGS XIVHXVMG SLIMH;
+GL DSLHV YIRTSG RNZTV MRTMGOB YB GSV NLLM
+HRWLMRZM ERITRMH KZRW GSVRI ELDH ZMW HLMTH;
+RM HRLM ZOHL MLG FMHFMT, DSVIV HGLLW
+SVI GVNKOV LM GS' LUUVMHREV NLFMGZRM, YFROG
+YB GSZG FCLIRLFH PRMT DSLHV SVZIG, GSLFTS OZITV,
+YVTFROVW YB UZRI RWLOZGIVHHVH, UVOO
+GL RWLOH ULFO. GSZNNFA XZNV MVCG YVSRMW,
+DSLHV ZMMFZO DLFMW RM OVYZMLM ZOOFIVW
+GSV HBIRZM WZNHVOH GL OZNVMG SRH UZGV
+RM ZNLILFH WRGGRVH ZOO Z HFNNVI'H WZB,
+DSROV HNLLGS ZWLMRH UILN SRH MZGREV ILXP
+IZM KFIKOV GL GSV HVZ, HFKKLHVW DRGS YOLLW
+LU GSZNNFA BVZIOB DLFMWVW: GSV OLEV-GZOV
+RMUVXGVW HRLM'H WZFTSGVIH DRGS ORPV SVZG,
+DSLHV DZMGLM KZHHRLMH RM GSV HZXIVW KILXS
+VAVPRVO HZD, DSVM, YB GSV ERHRLM OVW,
+SRH VBV HFIEVBVW GSV WZIP RWLOZGIRVH
+LU ZORVMZGVW QFWZS. MVCG XZNV LMV
+DSL NLFIMVW RM VZIMVHG, DSVM GSV XZKGREV ZIP
+NZRNVW SRH YIFGV RNZTV, SVZW ZMW SZMWH OLKG LUU,
+RM SRH LDM GVNKOV, LM GSV TIFMHVO-VWTV,
+DSVIV SV UVOO UOZG ZMW HSZNVW SRH DLIHSRKKVIH:
+WZTLM SRH MZNV, HVZ-NLMHGVI,FKDZIW NZM
+ZMW WLDMDZIW URHS; BVG SZW SRH GVNKOV SRTS
+IVZIVW RM ZALGFH, WIVZWVW GSILFTS GSV XLZHG
+LU KZOVHGRMV, RM TZGS ZMW ZHXZOLM,
+ZMW ZXXZILM ZMW TZAZ'H UILMGRVI YLFMWH.
+SRN ULOOLDVW IRNNLM, DSLHV WVORTSGUFO HVZG
+DZH UZRI WZNZHXFH, LM GSV UVIGROV YZMPH
+LU ZYYZMZ ZMW KSZIKSZI, OFXRW HGIVZNH.
+SV ZOHL ZTZRMHG GSV SLFHV LU TLW DZH YLOW:
+Z OVKVI LMXV SV OLHG, ZMW TZRMVW Z PRMT--
+ZSZA, SRH HLGGRHS XLMJFVILI, DSLN SV WIVD
+TLW'H ZOGZI GL WRHKZIZTV ZMW WRHKOZXV
+ULI LMV LU HBIRZM NLWV, DSVIVLM GL YFIM
+SRH LWRLFH LUUVIRMTH, ZMW ZWLIV GSV TLWH
+DSLN SV SZW EZMJFRHSVW. ZUGVI GSVHV ZKKVZIVW
+Z XIVD DSL, FMWVI MZNVH LU LOW IVMLDM--
+LHRIRH, RHRH, LIFH, ZMW GSVRI GIZRM--
+DRGS NLMHGILFH HSZKVH ZMW HLIXVIRVH ZYFHVW
+UZMZGRX VTBKG ZMW SVI KIRVHGH GL HVVP
+GSVRI DZMWVIRMT TLWH WRHTFRHVW RM YIFGRHS ULINH
+IZGSVI GSZM SFNZM. MLI WRW RHIZVO HXZKV
+GS' RMUVXGRLM, DSVM GSVRI YLIILDVW TLOW XLNKLHVW
+GSV XZOU RM LIVY; ZMW GSV IVYVO PRMT
+WLFYOVW GSZG HRM RM YVGSVO ZMW RM WZM,
+ORPVMRMT SRH NZPVI GL GSV TIZAVW LC--
+QVSLEZS, DSL, RM LMV MRTSG, DSVM SV KZHHVW
+UILN VTBKG NZIXSRMT, VJFZOOVW DRGS LMV HGILPV
+YLGS SVI URIHG-YLIM ZMW ZOO SVI YOVZGRMT TLWH.
+YVORZO XZNV OZHG; GSZM DSLN Z HKRIRG NLIV OVDW
+UVOO MLG UILN SVZEVM, LI NLIV TILHH GL OLEV
+ERXV ULI RGHVOU. GL SRN ML GVNKOV HGLLW
+LI ZOGZI HNLPVW; BVG DSL NLIV LUG GSZM SV
+RM GVNKOVH ZMW ZG ZOGZIH, DSVM GSV KIRVHG
+GFIMH ZGSVRHG, ZH WRW VOR'H HLMH, DSL UROOVW
+DRGS OFHG ZMW ERLOVMXV GSV SLFHV LU TLW?
+RM XLFIGH ZMW KZOZXVH SV ZOHL IVRTMH,
+ZMW RM OFCFIRLFH XRGRVH, DSVIV GSV MLRHV
+LU IRLG ZHXVMWH ZYLEV GSVRI OLUGRVHG GLDVIH,
+ZMW RMQFIB ZMW LFGIZTV; ZMW, DSVM MRTSG
+WZIPVMH GSV HGIVVGH, GSVM DZMWVI ULIGS GSV HLMH
+LU YVORZO, UOLDM DRGS RMHLOVMXV ZMW DRMV.
+DRGMVHH GSV HGIVVGH LU HLWLN, ZMW GSZG MRTSG
+RM TRYVZS, DSVM GSV SLHKRGZYOV WLLI
+VCKLHVW Z NZGILM, GL ZELRW DLIHV IZKV.
+  GSVHV DVIV GSV KIRNV RM LIWVI ZMW RM NRTSG:
+GSV IVHG DVIV OLMT GL GVOO; GSLFTS UZI IVMLDMVW
+GS' RLMRZM TLWH--LU QZEZM'H RHHFV SVOW
+TLWH, BVG XLMUVHHVW OZGVI GSZM SVZEVM ZMW VZIGS,
+GSVRI YLZHGVW KZIVMGH;--GRGZM, SVZEVM'H URIHG-YLIM,
+DRGS SRH VMLINLFH YILLW, ZMW YRIGSIRTSG HVRAVW
+YB BLFMTVI HZGFIM: SV UILN NRTSGRVI QLEV,
+SRH LDM ZMW ISVZ'H HLM, ORPV NVZHFIV ULFMW;
+HL QLEV FHFIKRMT IVRTMVW. GSVHV, URIHG RM XIVGV
+ZMW RWZ PMLDM, GSVMXV LM GSV HMLDB GLK
+LU XLOW LOBNKFH IFOVW GSV NRWWOV ZRI,
+GSVRI SRTSVHG SVZEVM; LI LM GSV WVOKSRZM XORUU,
+LI RM WLWLMZ, ZMW GSILFTS ZOO GSV YLFMWH
+LU WLIRX OZMW; LI DSL DRGS HZGFIM LOW
+UOVW LEVI ZWIRZ GL GS' SVHKVIRZM URVOWH,
+ZMW L'VI GSV XVOGRX ILZNVW GSV FGNLHG RHOVH.
+  ZOO GSVHV ZMW NLIV XZNV UOLXPRMT; YFG DRGS OLLPH
+WLDMXZHG ZMW WZNK; BVG HFXS DSVIVRM ZKKVZIVW
+LYHXFIV HLNV TORNKHV LU QLB GL SZEV ULFMW GSVRI XSRVU
+MLG RM WVHKZRI, GL SZEV ULFMW GSVNHVOEVH MLG OLHG
+RM OLHH RGHVOU; DSRXS LM SRH XLFMGVMZMXV XZHG
+ORPV WLFYGUFO SFV. YFG SV, SRH DLMGVW KIRWV
+HLLM IVXLOOVXGRMT, DRGS SRTS DLIWH, GSZG YLIV
+HVNYOZMXV LU DLIGS, MLG HFYHGZMXV, TVMGOB IZRHVW
+GSVRI UZRMGRMT XLFIZTV, ZMW WRHKVOOVW GSVRI UVZIH.
+GSVM HGIZRTSG XLNNZMWH GSZG, ZG GSV DZIORPV HLFMW
+LU GIFNKVGH OLFW ZMW XOZIRLMH, YV FKIVZIVW
+SRH NRTSGB HGZMWZIW. GSZG KILFW SLMLFI XOZRNVW
+ZAZAVO ZH SRH IRTSG, Z XSVIFY GZOO:
+DSL ULIGSDRGS UILN GSV TORGGVIRMT HGZUU FMUFIOVW
+GS' RNKVIRZO VMHRTM; DSRXS, UFOO SRTS ZWEZMXVW,
+HSLMV ORPV Z NVGVLI HGIVZNRMT GL GSV DRMW,
+DRGS TVNH ZMW TLOWVM OFHGIV IRXS VNYOZAVW,
+HVIZKSRX ZINH ZMW GILKSRVH; ZOO GSV DSROV
+HLMLILFH NVGZO YOLDRMT NZIGRZO HLFMWH:
+ZG DSRXS GSV FMREVIHZO SLHG FK-HVMG
+Z HSLFG GSZG GLIV SVOO'H XLMXZEV, ZMW YVBLMW
+UIRTSGVW GSV IVRTM LU XSZLH ZMW LOW MRTSG.
+ZOO RM Z NLNVMG GSILFTS GSV TOLLN DVIV HVVM
+GVM GSLFHZMW YZMMVIH IRHV RMGL GSV ZRI,
+DRGS LIRVMG XLOLFIH DZERMT: DRGS GSVN ILHV
+Z ULIVHG SFTV LU HKVZIH; ZMW GSILMTRMT SVONH
+ZKKVZIVW, ZMW HVIIRVW HSRVOWH RM GSRXP ZIIZB
+LU WVKGS RNNVZHFIZYOV. ZMLM GSVB NLEV
+RM KVIUVXG KSZOZMC GL GSV WLIRZM NLLW
+LU UOFGVH ZMW HLUG IVXLIWVIH--HFXS ZH IZRHVW
+GL SVRTSG LU MLYOVHG GVNKVI SVILVH LOW
+ZINRMT GL YZGGOV, ZMW RMHGVZW LU IZTV
+WVORYVIZGV EZOLFI YIVZGSVW, URIN, ZMW FMNLEVW
+DRGS WIVZW LU WVZGS GL UORTSG LI ULFO IVGIVZG;
+MLI DZMGRMT KLDVI GL NRGRTZGV ZMW HDZTV
+DRGS HLOVNM GLFXSVH GILFYOVW GSLFTSGH, ZMW XSZHV
+ZMTFRHS ZMW WLFYG ZMW UVZI ZMW HLIILD ZMW KZRM
+UILN NLIGZO LI RNNLIGZO NRMWH. GSFH GSVB,
+YIVZGSRMT FMRGVW ULIXV DRGS URCVW GSLFTSG,
+NLEVW LM RM HROVMXV GL HLUG KRKVH GSZG XSZINVW
+GSVRI KZRMUFO HGVKH L'VI GSV YFIMG HLRO. ZMW MLD
+ZWEZMXVW RM ERVD GSVB HGZMW--Z SLIIRW UILMG
+LU WIVZWUFO OVMTGS ZMW WZAAORMT ZINH, RM TFRHV
+LU DZIIRLIH LOW, DRGS LIWVIVW HKVZI ZMW HSRVOW,
+ZDZRGRMT DSZG XLNNZMW GSVRI NRTSGB XSRVU
+SZW GL RNKLHV. SV GSILFTS GSV ZINVW UROVH
+WZIGH SRH VCKVIRVMXVW VBV, ZMW HLLM GIZEVIHV
+GSV DSLOV YZGGZORLM ERVDH--GSVRI LIWVI WFV,
+GSVRI ERHZTVH ZMW HGZGFIV ZH LU TLWH;
+GSVRI MFNYVI OZHG SV HFNH. ZMW MLD SRH SVZIG
+WRHGVMWH DRGS KIRWV, ZMW, SZIWVMRMT RM SRH HGIVMTGS,
+TOLIRVH: ULI MVEVI, HRMXV XIVZGVW NZM,
+NVG HFXS VNYLWRVW ULIXV ZH, MZNVW DRGS GSVHV,
+XLFOW NVIRG NLIV GSZM GSZG HNZOO RMUZMGIB
+DZIIVW LM YB XIZMVH--GSLFTS ZOO GSV TRZMG YILLW
+LU KSOVTIZ DRGS GS' SVILRX IZXV DVIV QLRMVW
+GSZG ULFTSG ZG GSVYVH ZMW RORFN, LM VZXS HRWV
+NRCVW DRGS ZFCRORZI TLWH; ZMW DSZG IVHLFMWH
+RM UZYOV LI ILNZMXV LU FGSVI'H HLM,
+YVTRIG DRGS YIRGRHS ZMW ZINLIRX PMRTSGH;
+ZMW ZOO DSL HRMXV, YZKGRAVW LI RMURWVO,
+QLFHGVW RM ZHKIZNLMG, LI NLMGZOYZM,
+WZNZHXL, LI NZILXXL, LI GIVYRHLMW,
+LI DSLN YRHVIGZ HVMG UILN ZUIRX HSLIV
+DSVM XSZIOVNZRM DRGS ZOO SRH KVVIZTV UVOO
+YB ULMGZIZYYRZ. GSFH UZI GSVHV YVBLMW
+XLNKZIV LU NLIGZO KILDVHH, BVG LYHVIEVW
+GSVRI WIVZW XLNNZMWVI. SV, ZYLEV GSV IVHG
+RM HSZKV ZMW TVHGFIV KILFWOB VNRMVMG,
+HGLLW ORPV Z GLDVI. SRH ULIN SZW BVG MLG OLHG
+ZOO SVI LIRTRMZO YIRTSGMVHH, MLI ZKKVZIVW
+OVHH GSZM ZIXSZMTVO IFRMVW, ZMW GS' VCXVHH
+LU TOLIB LYHXFIVW: ZH DSVM GSV HFM MVD-IRHVM
+OLLPH GSILFTS GSV SLIRALMGZO NRHGB ZRI
+HSLIM LU SRH YVZNH, LI, UILN YVSRMW GSV NLLM,
+RM WRN VXORKHV, WRHZHGILFH GDRORTSG HSVWH
+LM SZOU GSV MZGRLMH, ZMW DRGS UVZI LU XSZMTV
+KVIKOVCVH NLMZIXSH. WZIPVMVW HL, BVG HSLMV
+ZYLEV GSVN ZOO GS' ZIXSZMTVO: YFG SRH UZXV
+WVVK HXZIH LU GSFMWVI SZW RMGIVMXSVW, ZMW XZIV
+HZG LM SRH UZWVW XSVVP, YFG FMWVI YILDH
+LU WZFMGOVHH XLFIZTV, ZMW XLMHRWVIZGV KIRWV
+DZRGRMT IVEVMTV. XIFVO SRH VBV, YFG XZHG
+HRTMH LU IVNLIHV ZMW KZHHRLM, GL YVSLOW
+GSV UVOOLDH LU SRH XIRNV, GSV ULOOLDVIH IZGSVI
+(UZI LGSVI LMXV YVSVOW RM YORHH), XLMWVNMVW
+ULI VEVI MLD GL SZEV GSVRI OLG RM KZRM--
+NROORLMH LU HKRIRGH ULI SRH UZFOG ZNVIXVW
+LU SVZEVM, ZMW UILN VGVIZMO HKOVMWLFIH UOFMT
+ULI SRH IVELOG--BVG UZRGSUFO SLD GSVB HGLLW,
+GSVRI TOLIB DRGSVIVW; ZH, DSVM SVZEVM'H URIV
+SZGS HXZGSVW GSV ULIVHG LZPH LI NLFMGZRM KRMVH,
+DRGS HRMTVW GLK GSVRI HGZGVOB TILDGS, GSLFTS YZIV,
+HGZMWH LM GSV YOZHGVW SVZGS. SV MLD KIVKZIVW
+GL HKVZP; DSVIVZG GSVRI WLFYOVW IZMPH GSVB YVMW
+UILN DRMT GL DRMT, ZMW SZOU VMXOLHV SRN ILFMW
+DRGS ZOO SRH KVVIH: ZGGVMGRLM SVOW GSVN NFGV.
+GSIRXV SV ZHHZBVW, ZMW GSIRXV, RM HKRGV LU HXLIM,
+GVZIH, HFXS ZH ZMTVOH DVVK, YFIHG ULIGS: ZG OZHG
+DLIWH RMGVIDLEV DRGS HRTSH ULFMW LFG GSVRI DZB:--
+HFHZM SLXPVB, WRIVXGLI, XVMGVI ULI VOVXGILMRX GVCGH RM GSV SFNZMRGRVH
+(XVGS), IFGTVIH ZMW KIRMXVGLM FMREVIHRGRVH, ZMMLFMXVW GSZG LMV GZOP
+(DVRYVO'H) DZH NLEVW RMGL GSRH HVHHRLM UILN GSV NLIMRMT ZMW GSZG WZERW
+KZXPZIW DZH FMZYOV GL ZGGVMW.  GSV HVHHRLM DLFOW ZGGVNKG GL ULXFH NLIV LM
+DSZG LMV XZM WL DRGS Z GVCG RM ZHXRR ZMW GSV IVKIVHVMGZGRLM LU VOVXGILMRX
+GVCG IZGSVI GSZM QFHG ZM RNZTV, DSZG LMV XZM WL DRGS Z XLNKFGVI GSZG
+XZMMLG YV WLMV DRGS Z YLLP LI ZM RNZTV.  RG DLFOW YV ZITFVW GSZG LMV XZM
+WL NFXS NLIV GSZM QFHG IVZW Z GVCG, ZMW UILN GSZG HGZIGRMT KLRMG LMV XZM
+FHV NZIPFK ZMW NVGSLWH LU KIVKZIRMT GSV GVCG GL GZPV UFOO ZWEZMGZTV LU
+GSV XZKZYRORGB LU GSV XLNKFGVI.  GSZG DLFOW OVZW GL Z WRHXFHHRLM LU DSZG
+GSV VFILKVZM XLNNFMRGB XZOOH IVFHZYRORGB, DSZG NZB YVGGVI YV GVINVW
+WFIZYRORGB, GSZG RH, SLD GL KIVKZIV LI NZPV Z GVCG GSZG DROO OZHG Z OLMT
+GRNV ZMW GSZG XZM YV FHVW ULI ZH NZMB ZKKORXZGRLMH ZH KLHHRYOV, DSRXS
+DLFOW OVZW GL RHHFVH LU RNKILERMT RMGVOOVXGFZO ZXXVHH.
+
+SLXPVB FITVW GSV MVVW GL OLLP ZG DZBH LU FHRMT NZIPFK GL UZXRORGZGV IVGIRVEZO,
+MLG QFHG ULI IVUVIVMXRMT LI GL SVOK OLXZGV ZM RGVN GSZG RH IVGIRVEVW, YFG ZOHL GL KFG NZIPFK GZTH RM
+Z GVCG GL SVOK IVGIRVEV GSV GSRMT HLFTSG VRGSVI DRGS ORMTFRHGRX GZTTRMT LI
+RMGVIKIVGZGRLM.  SLXPVB ZOHL ZITFVW GSZG ORGGOV ZWEZMXVNVMG SZW LXXFIIVW RM
+GSV HLUGDZIV GLLOH XFIIVMGOB ZEZROZYOV ULI IVGIRVERMT ZMW HVZIXSRMT GVCG.
+HSV KIVHHVW GSV WVHRWVIZGFN LU TLRMT YVBLMW YLLOVZM HVZIXSVH ZMW KVIULINRMT
+NLIV HLKSRHGRXZGVW HVZIXSRMT, DSRXS GSV RMHVIGRLM LU NLIV NZIPFK RM GSV GVCG
+DLFOW UZXRORGZGV.  GSRMPRMT ZYLFG VOVXGILMRX GVCGH ZH LKKLHVW GL RNZTVH NVZMH
+XLMHRWVIRMT NZGVIRZO GSZG DROO MVEVI ZKKVZI RM KIRMG ULIN, LI KIRMG DROO MLG
+YV RGH KIRNZIB ULIN, GSZG RH, NZGVIRZO DSRXS LMOB ZKKVZIH RM VOVXGILMRX ULIN.
+SLXPVB ZOOFWVW GL GSV SRHGLIB ZMW GSV MVVW ULI NZIPFK ZMW GZTTRMT ZMW
+VOVXGILMRX GVCG, DSRXS DZH WVEVOLKVW GSILFTS GSV FHV LU XLNKFGVIH RM GSV
+SFNZMRGRVH; ZH NRXSVOHLM SZW LYHVIEVW, UZGSVI YFHZ SZW HGZIGVW RM 1949
+GL KIVKZIV GSV URIHG-VEVI GVCG LM GSV XLNKFGVI.
+
+SLXPVB IVNZIPVW HVEVIZO OZITV KILQVXGH, KZIGRXFOZIOB RM VFILKV, ULI GSV
+XLNKROZGRLM LU WRXGRLMZIRVH, OZMTFZTV HGFWRVH, ZMW OZMTFZTV ZMZOBHRH, RM
+DSRXS KVLKOV SZEV YFROG FK ZIXSREVH LU GVCG ZMW SZEV YVTFM GL IVXLTMRAV
+GSV MVVW ULI ZM VMXLWRMT ULINZG GSZG DROO YV IVFHZYOV ZMW NFOGRUFMXGRLMZO,
+GSZG XZM YV FHVW MLG QFHG GL KIRMG GSV GVCG, DSRXS NZB YV ZHHFNVW GL YV Z
+YBKILWFXG LU DSZG LMV DZMGH GL WL, YFG GL HGIFXGFIV RG RMHRWV GSV XLNKFGVI
+HL GSZG RG XZM YV HVZIXSVW, YFROG RMGL Z SBKVIGVCG HBHGVN, VGX.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DVRYVO * LXOX'H ZKKILZXS GL KIVKZIRMT VOVXGILMRX GVCG:  IVGILXLMEVIHRLM,
+PVBRMT LU GVCGH, NLIV ZFGLNZGVW DZBH LU WVEVOLKRMT WZGZ * KILQVXG ZWZKG
+ZMW GSV XLIV KILQVXG * RMGVOORTVMG XSZIZXGVI IVXLTMRGRLM WLVH MLG VCRHG *
+ZWEZMGZTVH LU HTNO * WZGZ HSLFOW YV UIVV LU KILXVWFIZO NZIPFK;
+WVHXIRKGREV NZIPFK HGILMTOB ZWELXZGVW * LXOX'H RMGVIUZXV ROOFHGIZGVW *
+HGLIZTV IVJFRIVNVMGH ZMW XLHGH ULI KFGGRMT Z OLG LU RMULINZGRLM LM ORMV *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+HGFZIG DVRYVO, HVMRLI IVHVZIXS HXRVMGRHG, LMORMV XLNKFGVI ORYIZIB XVMGVI,
+RMX. (LXOX), WVHXIRYVW LXOX'H ZKKILZXS GL KIVKZIRMT VOVXGILMRX GVCG.  SV
+ZITFVW GSZG GSV VOVXGILMRX DLIOW RMGL DSRXS DV ZIV NLERMT NFHG
+ZXXLNNLWZGV MLG LMOB GSV UFGFIV YFG GSV KZHG ZH DVOO, ZMW GL HLNV WVTIVV
+VEVM GSV KIVHVMG.  GSFH, HGZIGRMT LFG ZG LMV VMW DRGS IVGILXLMEVIHRLM ZMW
+PVBRMT LU GVCGH, LMV DLFOW ORPV GL NLEV GLDZIW NFXS NLIV ZFGLNZGVW DZBH
+LU WVEVOLKRMT WZGZ.
+
+ULI VCZNKOV, KILQVXG ZWZKG SZW GL WL DRGS ZFGLNZGRXZOOB XLMEVIGRMT
+WLXFNVMG RNZTVH RMGL Z HGIFXGFIVW WLXFNVMG WZGZYZHV DRGS LXI GVCG ZH
+RMWVCRMT ZMW ZOHL Z ORGGOV YRG LU ZFGLNZGRX ULINZGGRMT ZMW GZTTRMT LU
+GSZG GVCG.  GSV XLIV KILQVXG SLHGVW YB XLIMVOO FMREVIHRGB, YVOOXLIV,
+LXOX, GSV ZNVIRXZM XSVNRXZO HLXRVGB, ZMW XSVNRXZO ZYHGIZXGH, XLMHGRGFGVH
+DVRYVO'H KIRMXRKZO XLMXVIM ZG GSV NLNVMG.  GSRH KILQVXG RH ZM VCZNKOV LU
+XLMEVIGRMT GVCG ULI DSRXS LMV ZOIVZWB SZH Z NZXSRMV-IVZWZYOV EVIHRLM RMGL
+Z ULINZG NLIV HFRGZYOV ULI VOVXGILMRX WVOREVIB ZMW WZGZYZHV HVZIXSRMT.
+(HRMXV NRXSZVO OVHP SZW KIVERLFHOB WVHXIRYVW XLIV, DVRYVO DLFOW HZB
+ORGGOV XLMXVIMRMT RG.)  YLIILDRMT Z XSVNRXZO KSIZHV, WV MLEL HBMGSVHRH,
+DVRYVO XRGVW GSV LMORMV QLFIMZO LU XFIIVMG XORMRXZO GIRZOH ZH ZM VCZNKOV
+LU WV MLEL VOVXGILMRX KFYORHSRMT, GSZG RH, Z ULIN RM DSRXS GSV KIRNZIB
+ULIN LU GSV RMULINZGRLM RH VOVXGILMRX.
+
+KILQVXG ZWZKG, GSVM, DSRXS LXOX XLNKOVGVW Z XLFKOV LU BVZIH ZTL ZMW RM
+UZXG RH ZYLFG GL IVHFNV, RH Z NLWVO RM DSRXS LMV GZPVH KZTV RNZTVH VRGSVI
+RM KZKVI LI NRXILURON ZMW XLMEVIGH GSVN ZFGLNZGRXZOOB GL Z HVZIXSZYOV
+VOVXGILMRX WZGZYZHV, VRGSVI LM-ORMV LI OLXZO.  GSV LKVIZGRMT ZHHFNKGRLM
+RH GSZG ZXXVKGRMT HLNV YOVNRHSVH RM GSV WZGZ, VHKVXRZOOB ULI
+IVGILXLMEVIHRLM LU NZGVIRZOH, DROO NZPV RG KLHHRYOV GL ZXXLNKORHS NLIV.
+MLG VMLFTS NLMVB RH ZEZROZYOV GL HFKKLIG KVIUVXG XLMEVIHRLM.
+
+DVRYVO IVOZGVW HVEVIZO HGVKH GZPVM GL KVIULIN RNZTV KIVKILXVHHRMT
+(KILXVHHRMT LM GSV RNZTV YVULIV KVIULINRMT LKGRXZO XSZIZXGVI
+IVXLTMRGRLM), ZH DVOO ZH RNZTV KLHGKILXVHHRMT.  SV WVMRVW GSV VCRHGVMXV
+LU RMGVOORTVMG XSZIZXGVI IVXLTMRGRLM ZMW ZHHVIGVW GSZG DSZG RH DZMGVW RH
+KZTV IVXLTMRGRLM, DSRXS RH Z OLMT DZB LUU.  LXOX SZH VCKVIRNVMGVW DRGS
+NVITRMT LU NFOGRKOV LKGRXZO XSZIZXGVI IVXLTMRGRLM HBHGVNH GSZG DROO
+IVWFXV VIILIH UILN ZM FMZXXVKGZYOV IZGV LU 5 XSZIZXGVIH LFG LU VEVIB
+O,000 GL ZM FMZXXVKGZYOV IZGV LU 2 XSZIZXGVIH LFG LU VEVIB O,000, YFG RG
+RH MLG TLLW VMLFTS.  RG DROO MVEVI YV KVIUVXG.
+
+XLMXVIMRMT GSV XLIV KILQVXG, DVRYVO LYHVIEVW GSZG YVOOXLIV RH GZPRMT GSV
+GLKLTIZKSB UROVH, VCGIZXGRMT GSV KZTV RNZTVH, ZMW XLMEVIGRMT GSLHV
+GLKLTIZKSB UROVH GL HTNO NZIPFK.  OVHP SZMWH GSZG WZGZ LUU GL LXOX, DSRXS
+YFROWH GSZG WZGZ RMGL Z MVDGLM WZGZYZHV, GSV HZNV HBHGVN GSZG FMWVIORVH
+GSV LM-ORMV HBHGVN RM ERIGFZOOB ZOO LU GSV IVUVIVMXV KILWFXGH ZG LXOX.
+GSV OLMT-GVIN TLZO RH GL NZPV GSV HBHGVNH RMGVILKVIZYOV HL GSZG MLG QFHG
+YVOOXLIV'H HBHGVN ZMW LXOX'H HBHGVN XZM ZXXVHH GSRH WZGZ, YFG LGSVI
+HBHGVNH XZM ZH DVOO, ZMW GSV PVB GL GSZG RH GSV A39.50 XLNNLM XLNNZMW
+OZMTFZTV ZMW GSV UFOO-GVCG VCGVMHRLM.  A39.50 RH URMV ULI NZIX IVXLIWH,
+YFG RH MLG VMLFTS GL WL RG ULI UFOO GVCG (GSZG RH, NZPV UFOO GVCGH
+RMGVILKVIZYOV).
+
+DVRYVO MVCG LFGORMVW GSV XIRGRXZO ILOV LU HTNO ULI Z EZIRVGB LU KFIKLHVH,
+ULI VCZNKOV, ZH MLGVW YB SLXPVB, RM GSV DLIOW LU VCGIVNVOB OZITV
+WZGZYZHVH, FHRMT SRTSOB HGIFXGFIVW WZGZ GL KVIULIN URVOW HVZIXSVH.
+DVRYVO ZITFVW GSZG YB YFROWRMT GSV HGIFXGFIV LU GSV WZGZ RM (R.V., GSV
+HGIFXGFIV LU GSV WZGZ LIRTRMZOOB LM Z KIRMGVW KZTV), RG YVXLNVH VZHB GL
+OLLP ZG Z QLFIMZO ZIGRXOV VEVM RU LMV XZMMLG IVZW GSV XSZIZXGVIH ZMW PMLD
+DSVIV GSV GRGOV LI ZFGSLI RH, LI DSZG GSV HVXGRLMH LU GSZG WLXFNVMG DLFOW YV.
+LXOX DZMGH GL NZPV GSZG HGIFXGFIV VCKORXRG RM GSV WZGZYZHV, YVXZFHV RG DROO
+YV RNKLIGZMG ULI IVGIRVEZO KFIKLHVH.
+
+GSV HVXLMW YRT ZWEZMGZTV LU HTNO RH GSZG RG TREVH LMV GSV ZYRORGB GL
+YFROW HGIFXGFIV RMGL GSV WZGZYZHV GSZG XZM YV FHVW ULI WRHKOZB KFIKLHVH
+DRGSLFG XLMGZNRMZGRMT GSV WZGZ DRGS RMHGIFXGRLMH ZYLFG SLD GL ULINZG
+GSRMTH.  GSV WRHGRMXGRLM ORVH YVGDVVM KILXVWFIZO NZIPFK, DSRXS GVOOH LMV
+DSVIV GL KFG WLGH LM GSV KZTV, ZMW WVHXIRKGREV NZIPFK, DSRXS WVHXIRYVH
+GSV VOVNVMGH LU Z WLXFNVMG.
+
+DVRYVO YVORVEVH GSZG GSVIV HSLFOW YV ML KILXVWFIZO NZIPFK RM GSV WZGZ ZG
+ZOO, GSZG GSV WZGZ HSLFOW YV XLNKOVGVOB FMHFOORVW YB RMULINZGRLM ZYLFG
+RGZORXH LI YLOWMVHH.  GSZG HSLFOW YV OVUG FK GL GSV WRHKOZB WVERXV,
+DSVGSVI GSZG WRHKOZB WVERXV RH Z KZTV KIRMGVI LI Z HXIVVM WRHKOZB WVERXV.
+YB PVVKRMT LMV'H WZGZYZHV UIVV LU GSZG PRMW LU XLMGZNRMZGRLM, LMV XZM
+NZPV WVXRHRLMH WLDM GSV ILZW, ULI VCZNKOV, IVLITZMRAV GSV WZGZ RM DZBH
+GSZG ZIV MLG XIZNKVW YB YFROG-RM MLGRLMH LU DSZG HSLFOW YV RGZORX ZMW
+DSZG HSLFOW YV YLOW.  DVRYVO HGILMTOB ZWELXZGVW WVHXIRKGREV NZIPFK.  ZH
+ZM VCZNKOV, SV ROOFHGIZGVW GSV RMWVC HGIFXGFIV RM GSV XLIV WZGZ.  DRGS
+HFYHVJFVMG ROOFHGIZGVW VCZNKOVH LU NZIPFK, DVRYVO ZXPMLDOVWTVW GSV XLNNLM
+XLNKOZRMG GSZG HTNO RH SZIW GL IVZW RM RGH MZGREV ULIN, ZOGSLFTS NZIPFK
+WVXIVZHVH XLMHRWVIZYOB LMXV LMV TVGH RMGL GSV YLWB.  DRGSLFG GSV NZIPFK,
+SLDVEVI, LMV DLFOW MLG SZEV GSV HGIFXGFIV RM GSV WZGZ.  LMV XZM KZHH
+NZIPFK GSILFTS Z OZGVC KILXVHHLI ZMW XLMEVIG RG IVOZGREVOB VZHROB GL Z
+KIRMGVW EVIHRLM LU GSV WLXFNVMG.
+
+DVRYVO MVCG ROOFHGIZGVW ZM VCGIVNVOB XOFGGVIVW HXIVVM WFNK LU LXOX'H
+HBHGVN, RM LIWVI GL HSLD ZH NFXS ZH KLHHRYOV GSV RMSVIVMG XZKZYRORGB LM
+GSV HXIVVM.  (SV MLGVW KZIVMGSVGRXZOOB GSZG SV SZW YVXLNV Z HFKKLIGVI LU
+C-DRMWLDH ZH Z IVHFOG LU GSV KILTIVHH LU GSV XLIV KILQVXG.)  DVRYVO ZOHL
+ROOFHGIZGVW GSV GDL NZQLI KZIGH LU GSV RMGVIUZXV:  O) Z XLMGILO YLC GSZG
+ZOOLDH LMV GL TVMVIZGV ORHGH LU RGVNH, DSRXS IVHVNYOVH Z HNZOO GZYOV LU
+XLMGVMGH YZHVW LM PVB DLIWH LMV DRHSVH GL HVZIXS, ZMW 2) Z WLXFNVMG
+ERVDVI, DSRXS RH Z HVKZIZGV KILXVHH RM ZMW LU RGHVOU.  SV WVNLMHGIZGVW
+SLD GL ULOOLD ORMPH GSILFTS GSV VOVXGILMRX WZGZYZHV HRNKOB YB HVOVXGRMT
+GSV ZKKILKIRZGV YFGGLM ZMW YIRMTRMT GSVN FK.  SV ZOHL MLGVW KILYOVNH GSZG
+IVNZRM GL YV ZXXLNNLWZGVW RM GSV RMGVIUZXV (V.T., ZH KLRMGVW LFG YB OVHP,
+DSZG SZKKVMH DSVM FHVIH WL MLG XORXP LM GSV RXLM ULI GSV URTFIV).
+
+TREVM GSV XLMHGIZRMGH LU GRNV, DVRYVO LNRGGVW Z OZITV MFNYVI LU ZMXROOZIB
+RGVNH RM LIWVI GL HZB Z UVD DLIWH XLMXVIMRMT HGLIZTV IVJFRIVNVMGH ZMW
+DSZG DROO YV IVJFRIVW GL KFG Z OLG LU GSRMTH LM ORMV.  HRMXV RG RH
+VCGIVNVOB VCKVMHREV GL IVXLMEVIG ZOO LU GSRH WZGZ, VHKVXRZOOB RU RG RH
+QFHG RM KZKVI ULIN (ZMW VEVM RU RG RH RM VOVXGILMRX ULIN RM GBKVHVGGRMT
+GZKVH), SV ZWELXZGVW YFROWRMT QLFIMZOH VOVXGILMRXZOOB UILN GSV HGZIG.  RM
+GSZG XZHV, RU LMV LMOB SZH GVCG TIZKSRXH ZMW RMWVCRMT (DSRXS RH ZOO GSZG
+LMV MVVWH DRGS WV MLEL VOVXGILMRX KFYORHSRMT, YVXZFHV GSVIV RH ML MVVW GL
+TL YZXP ZMW OLLP ZG YRG-NZKH LU KZTVH), LMV XZM TVG 10,000 QLFIMZOH LU
+UFOO GVCG, LI ZONLHG 6 NROORLM KZTVH KVI BVZI.  GSVHV KZTVH XZM YV KFG RM
+ZKKILCRNZGVOB 135 TRTZYBGVH LU HGLIZTV, DSRXS RH MLG ZOO GSZG NFXS,
+DVRYVO HZRW.  ULI GDVMGB BVZIH, HLNVGSRMT OVHH GSZM GSIVV GVIZYBGVH DLFOW
+YV IVJFRIVW.  DVRYVO XZOXFOZGVW GSV XLHGH LU HGLIRMT GSRH RMULINZGRLM ZH
+ULOOLDH:  RU Z TRTZYBGV XLHGH ZKKILCRNZGVOB $1,000, GSVM Z GVIZYBGV XLHGH
+ZKKILCRNZGVOB $1 NROORLM GL YFB RM GVINH LU SZIWDZIV.  LMV ZOHL MVVWH Z
+YFROWRMT GL KFG RG RM ZMW Z HGZUU ORPV LXOX GL SZMWOV GSZG RMULINZGRLM.
+HL, GL HFKKLIG Z GVIZYBGV, NFOGRKOB YB UREV, DSRXS TREVH $5 NROORLM KVI
+BVZI ULI Z HFKKLIGVW GVIZYBGV LU WZGZ.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WRHXFHHRLM * GZKVH HZEVW YB ZXH ZIV GSV GBKLTIZKSB UROVH LIRTRMZOOB
+HFKKLIGRMT KFYORXZGRLM LU GSV QLFIMZO * XLHG LU YFROWRMT GZTTVW GVCG RMGL
+GSV WZGZYZHV *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+WFIRMT GSV JFVHGRLM-ZMW-ZMHDVI KVIRLW GSZG ULOOLDVW DVRYVO'H
+KIVHVMGZGRLM, GSVHV XOZIRURXZGRLMH VNVITVW.  GSV GZKVH HZEVW YB GSV
+ZNVIRXZM XSVNRXZO HLXRVGB ZIV GSV GBKLTIZKSB UROVH GSZG LIRTRMZOOB
+HFKKLIGVW GSV KFYORXZGRLM LU GSV QLFIMZO.  ZOGSLFTS GSVB ZIV MLG GZTTVW
+RM HTNO, GSVB ZIV GZTTVW RM EVIB URMV WVGZRO.  VEVIB HRMTOV HVMGVMXV RH
+NZIPVW, ZOO GSV IVTRHGIB MFNYVIH, ZOO GSV KFYORXZGRLMH RHHFVH, WZGVH, ZMW
+ELOFNVH.  ML XLHG URTFIVH LM GZTTRMT NZGVIRZO LM Z KVI-NVTZYBGV YZHRH
+DVIV ZEZROZYOV.  YVXZFHV ZXH'H GBKVHVGGRMT HBHGVN IFMH UILN GZTTVW GVCG,
+GSVIV RH ML VCGIZ XLHG KVI ZIGRXOV.  RG DZH FMPMLDM DSZG RG XLHGH ZXH GL
+PVBYLZIW GSV GZTTVW GVCG IZGSVI GSZM QFHG PVBYLZIW GSV GVCG RM GSV
+XSVZKVHG KILXVHH.  RM LGSVI DLIWH, HRMXV LMV RMGVMWH GL KFYORHS GSRMTH
+ZMW DROO MVVW GL YFROW GZTTVW GVCG RMGL Z GBKLTIZKSB HBHGVN RM ZMB XZHV,
+RU LMV WLVH GSZG RM HFXS Z DZB GSZG RG XZM WIREV MLG LMOB GBKLTIZKSB YFG
+ZM VOVXGILMRX HBHGVN (DSRXS RH DSZG ZXH RMGVMWH GL WL--NLEV GL HTNO
+KFYORHSRMT), GSV NZITRMZO XLHG RH AVIL.  GSV NZITRMZO XLHG IVKIVHVMGH GSV
+XLHG LU YFROWRMT GZTTVW GVCG RMGL GSV WZGZYZHV, DSRXS RH HNZOO.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HKVIYVIT-NXJFVVM * WRHGRMXGRLM YVGDVVM GVCGH ZMW XLNKFGVIH * RNKORXZGRLMH
+LU IVXLTMRARMT GSZG ZOO IVKIVHVMGZGRLM RH VMXLWRMT * WVZORMT DRGS
+XLNKORXZGVW IVKIVHVMGZGRLMH LU GVCG VMGZROH GSV MVVW ULI Z TIZNNZI LU
+WLXFNVMGH * EZIRVGB LU ULINH LU ULINZO TIZNNZIH * GVCG ZH Z YRG-NZKKVW
+RNZTV WLVH MLG IVKIVHVMG Z HVIRLFH ZGGVNKG GL IVKIVHVMG GVCG RM
+VOVXGILMRX ULIN * HTNO, GSV GVR, WLXFNVMG-GBKV WVXOZIZGRLMH, ZMW GSV
+IVFHZYRORGB ZMW OLMTVERGB LU WZGZ * GVR XLMULINZMXV VCKORXRGOB ZOOLDH
+VCGVMHRLM LI NLWRURXZGRLM LU GSV GVR GZT HVG * ZWNRMRHGIZGREV YZXPTILFMW
+LU GSV GVR * HVEVIZO WVHRTM TLZOH ULI GSV GVR GZT HVG * ZM ZYHLOFGVOB
+URCVW IVJFRIVNVMG LU GSV GVR TFRWVORMVH * XSZOOVMTVH GSV GVR SZH
+ZGGVNKGVW GL UZXV * TLLW GVCGH MLG YVBLMW VXLMLNRX UVZHRYRORGB * GSV
+RHHFV LU IVKILWFXRYRORGB LI KILXVHHZYRORGB * GSV RHHFV LU NZTVH ZH
+HRNFOZXIZ ULI GSV GVCG IVWFC * LMV'H NLWVO LU GVCG WVGVINRMVH DSZG LMV'H
+HLUGDZIV XZM WL DRGS Z GVCG ZMW SZH VXLMLNRX XLMHVJFVMXVH *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+KIRLI GL HKVZPRMT ZYLFG HTNO ZMW NZIPFK, NRXSZVO HKVIYVIT-NXJFVVM, VWRGLI,
+GVCG VMXLWRMT RMRGRZGREV (GVR), FMREVIHRGB LU ROORMLRH-XSRXZTL, URIHG WIVD
+Z WRHGRMXGRLM YVGDVVM GVCGH ZMW XLNKFGVIH:  GVCGH ZIV ZYHGIZXG XFOGFIZO
+ZMW ORMTFRHGRX LYQVXGH DSROV XLNKFGVIH ZIV XLNKORXZGVW KSBHRXZO WVERXVH,
+SV HZRW.  ZYHGIZXG LYQVXGH XZMMLG YV KOZXVW RMHRWV KSBHRXZO WVERXVH; DRGS
+XLNKFGVIH LMV XZM LMOB IVKIVHVMG GVCG ZMW ZXG FKLM GSLHV IVKIVHVMGZGRLMH.
+
+GSV IVXLTMRGRLM GSZG ZOO IVKIVHVMGZGRLM RH VMXLWRMT, HKVIYVIT-NXJFVVM
+ZITFVW, OVZWH GL GSV IVXLTMRGRLM LU GDL GSRMTH:  1) GSV GLKRX WVHXIRKGRLM
+ULI GSRH HVHHRLM RH HORTSGOB NRHOVZWRMT, YVXZFHV GSVIV XZM YV ML WRHXFHHRLM
+LU KILH ZMW XLMH LU GVCG-XLWRMT FMOVHH DSZG LMV NVZMH RH KILH ZMW XLMH LU
+DLIPRMT DRGS GVCG DRGS XLNKFGVIH.  2) ML GVCG XZM YV IVKIVHVMGVW RM Z
+XLNKFGVI DRGSLFG HLNV HLIG LU VMXLWRMT; RNZTVH ZIV LMV DZB LU VMXLWRMT GVCG,
+ZHXRR RH ZMLGSVI, HTNO BVG ZMLGSVI.  GSVIV RH ML VMXLWRMT DRGSLFG HLNV
+RMULINZGRLM OLHH, GSZG RH, GSVIV RH ML KVIUVXG IVKILWFXGRLM LU Z GVCG GSZG
+ZOOLDH LMV GL WL ZDZB DRGS GSV LIRTRMZO.  GSFH, GSV JFVHGRLM YVXLNVH,
+DSZG RH GSV NLHG FHVUFO IVKIVHVMGZGRLM LU GVCG ULI Z HVIRLFH DLIP?
+GSRH WVKVMWH LM DSZG PRMW LU HVIRLFH DLIP LMV RH GZOPRMT ZYLFG.
+
+GSV KILQVXGH WVNLMHGIZGVW GSV KIVERLFH WZB ZOO RMELOEVW SRTSOB XLNKOVC
+RMULINZGRLM ZMW UZRIOB XLNKOVC NZMRKFOZGRLM LU GSV GVCGFZO NZGVIRZO.
+RM LIWVI GL FHV GSZG XLNKORXZGVW RMULINZGRLM, LMV SZH GL XZOXFOZGV RG
+HOLDOB LI NZMFZOOB ZMW HGLIV GSV IVHFOG.  RG MVVWH GL YV HGLIVW, GSVIVULIV,
+ZH KZIG LU LMV'H IVKIVHVMGZGRLM LU GSV GVCG.  GSFH, LMV MVVWH GL HGLIV GSV
+HGIFXGFIV RM GSV GVCG.  GL WVZO DRGS XLNKORXZGVW IVKIVHVMGZGRLMH LU GVCG,
+LMV MVVWH HLNVSLD GL XLMGILO GSV XLNKOVCRGB LU GSV IVKIVHVMGZGRLM LU Z GVCG;
+GSZG NVZMH LMV MVVWH Z DZB LU URMWRMT LFG DSVGSVI Z WLXFNVMG ZMW ZM
+VOVXGILMRX IVKIVHVMGZGRLM LU Z WLXFNVMG RH OVTZO LI MLG; ZMW GSZG
+NVZMH LMV MVVWH Z TIZNNZI LU WLXFNVMGH.
+
+HKVIYVIT-NXJFVVM WRHXFHHVW GSV EZIRVGB LU ULINH LU ULINZO TIZNNZIH,
+RNKORXRG ZMW VCKORXRG, ZH ZKKORVW GL GVCG, ZMW GSVRI XZKZYRORGRVH.  SV
+ZITFVW GSZG GSVHV TIZNNZIH XLIIVHKLMW GL WRUUVIVMG NLWVOH LU GVCG GSZG
+WRUUVIVMG WVEVOLKVIH SZEV.  ULI VCZNKOV, LMV RNKORXRG NLWVO LU GSV GVCG
+RH GSZG GSVIV RH ML RMGVIMZO HGIFXGFIV, YFG QFHG LMV GSRMT ZUGVI ZMLGSVI,
+Z UVD XSZIZXGVIH ZMW GSVM KVISZKH Z HGZIG-GRGOV XLNNZMW, ZMW GSVM Z UVD
+NLIV XSZIZXGVIH ZMW ZM VMW-GRGOV XLNNZMW.  HKVIYVIT-NXJFVVM ZOHL
+WRHGRMTFRHSVW HVEVIZO PRMWH LU GVCG GSZG SZEV Z HLIG LU SRVIZIXSRXZO
+HGIFXGFIV GSZG RH MLG EVIB DVOO WVURMVW, DSRXS, GBKRXZOOB, XLIIVHKLMWH
+GL TIZNNZIH GSZG ZIV MLG EVIB DVOO WVURMVW, ZH DVOO ZH SRVIZIXSRVH GSZG
+ZIV EVIB DVOO WVURMVW (V.T., GSV GSVHZFIFH ORMTFZV TIZVXZV) ZMW VCGIVNVOB
+XLNKORXZGVW GSRMTH HFXS ZH HTNO, DSRXS SZMWOV HGIRXGOB SRVIZIXSRXZO WZGZ
+EVIB MRXVOB.
+
+HKVIYVIT-NXJFVVM XLMXVWVW GSZG LMV LGSVI NLWVO MLG ROOFHGIZGVW LM SRH GDL
+WRHKOZBH DZH GSV NLWVO LU GVCG ZH Z YRG-NZKKVW RNZTV, ZM RNZTV LU Z KZTV,
+ZMW XLMUVHHVW GL SZERMT YVVM XLMEVIGVW GL Z ORNRGVW VCGVMG YB GSV
+DLIPHSLK GL GSV ERVD GSZG VOVXGILMRX RNZTVH XLMHGRGFGV Z KILNRHRMT,
+KILYZYOB HFKVIRLI ZOGVIMZGREV GL NRXILURONRMT.  YFG SV DZH MLG XLMERMXVW
+GSZG VOVXGILMRX RNZTVH IVKIVHVMG Z HVIRLFH ZGGVNKG GL IVKIVHVMG GVCG RM
+VOVXGILMRX ULIN.  NZMB LU GSVRI KILYOVNH HGVN UILN GSV UZXG GSZG GSVB ZIV
+MLG WRIVXG ZGGVNKGH GL IVKIVHVMG GSV GVCG YFG ZGGVNKGH GL IVKIVHVMG GSV
+KZTV, GSFH NZPRMT GSVN IVKIVHVMGZGRLMH LU IVKIVHVMGZGRLMH.
+
+RM GSRH HRGFZGRLM LU RMXIVZHRMTOB XLNKORXZGVW GVCGFZO RMULINZGRLM ZMW GSV
+MVVW GL XLMGILO GSZG XLNKOVCRGB RM Z FHVUFO DZB (DSRXS YVTH GSV JFVHGRLM
+LU GSV MVVW ULI TLLW GVCGFZO TIZNNZIH), LMV SZH GSV RMGILWFXGRLM LU HTNO.
+DRGS HTNO, LMV XZM WVEVOLK HKVXRURX WLXFNVMG-GBKV WVXOZIZGRLMH
+ULI HKVXRURX GVCG GBKVH LI, ZH DRGS GSV GVR, ZGGVNKGH GL TVMVIZGV
+TVMVIZO WLXFNVMG-GBKV WVXOZIZGRLMH GSZG XZM SZMWOV ZOO HLIGH LU GVCG.
+GSV GVR RH ZM ZGGVNKG GL WVEVOLK ULINZGH ULI GVCG IVKIVHVMGZGRLM GSZG
+DROO VMHFIV GSV PRMW LU IVFHZYRORGB ZMW OLMTVERGB LU WZGZ WRHXFHHVW VZIORVI.
+RG LUUVIH Z DZB GL HGZB ZOREV RM GSV HGZGV LU KVINZMVMG GVXSMLOLTRXZO
+IVELOFGRLM.
+
+RG SZH YVVM Z XLMGRMFRMT XSZOOVMTV RM GSV GVR GL XIVZGV WLXFNVMG TIZNNZIH
+GSZG WL HLNV DLIP RM XLMGILOORMT GSV XLNKOVCRGB LU GSV GVCGFZO LYQVXG YFG
+ZOHL ZOOLDRMT LMV GL IVKIVHVMG GSV IVZO GVCG GSZG LMV DROO URMW.
+UFMWZNVMGZO GL GSV MLGRLM LU GSV GVR RH GSZG GVR XLMULINZMXV ZOOLDH LMV
+GSV ZYRORGB GL VCGVMW LI NLWRUB GSV GVR GZT HVG HL GSZG RG URGH GSV GVCG
+GSZG LMV RH ZGGVNKGRMT GL IVKIVHVMG.
+
+HKVIYVIT-NXJFVVM MVCG LFGORMVW GSV ZWNRMRHGIZGREV YZXPTILFMW LU GSV GVR.
+GSV GVR RH ZM RMGVIMZGRLMZO KILQVXG GL WVEVOLK ZMW WRHHVNRMZGV TFRWVORMVH
+ULI GSV VMXLWRMT ZMW RMGVIXSZMTV LU NZXSRMV-IVZWZYOV GVCG.  RG RH
+HKLMHLIVW YB GSV ZHHLXRZGRLM ULI XLNKFGVIH RM GSV SFNZMRGRVH, GSV
+ZHHLXRZGRLM ULI XLNKFGZGRLMZO ORMTFRHGRXH, ZMW GSV ZHHLXRZGRLM ULI
+ORGVIZIB ZMW ORMTFRHGRX XLNKFGRMT.  IVKIVHVMGZGREVH LU MFNVILFH LGSVI
+KILUVHHRLMZO HLXRVGRVH HRG LM RGH ZWERHLIB YLZIW.  GSV GVR SZH Z MFNYVI
+LU ZUURORZGVW KILQVXGH GSZG SZEV KILERWVW ZHHRHGZMXV YB GVHGRMT WIZUGH LU
+GSV TFRWVORMVH.
+
+ZNLMT GSV WVHRTM TLZOH ULI GSV GVR GZT HVG, GSV HXSVNV URIHG LU ZOO NFHG
+NVVG GSV MVVWH LU IVHVZIXS, YVXZFHV GSV GVR XZNV LFG LU GSV IVHVZIXS
+XLNNFMRGB, DSRXS WRW MLG UVVO ZWVJFZGVOB HVIEVW YB VCRHGRMT GZT HVGH.
+GSV GZT HVG NFHG YV VCGVMHREV ZH DVOO ZH XLNKZGRYOV DRGS VCRHGRMT ZMW
+VNVITRMT HGZMWZIWH.  RM 1990, EVIHRLM 1.0 LU GSV TFRWVORMVH DZH IVOVZHVW
+(HKVIYVIT-NXJFVVM ROOFHGIZGVW GSVRI XLMGVMGH).
+
+HKVIYVIT-NXJFVVM MLGVW GSZG LMV KILYOVN YVHVGGRMT VOVXGILMRX GVCG SZH
+YVVM GSV OZXP LU ZWVJFZGV RMGVIMZO LI VCGVIMZO WLXFNVMGZGRLM ULI NZMB
+VCRHGRMT VOVXGILMRX GVCGH.  GSV GVR TFRWVORMVH ZH XFIIVMGOB ULINFOZGVW
+XLMGZRM UVD URCVW IVJFRIVNVMGH, YFG LMV LU GSVN RH GSRH:  GSVIV NFHG
+ZODZBH YV Z WLXFNVMG SVZWVI, ZM RM-UROV HTNO GZT GSZG KILERWVH
+1) Z YRYORLTIZKSRX WVHXIRKGRLM LU GSV VOVXGILMRX LYQVXG LMV RH GZOPRMT
+ZYLFG (GSZG RH, DSL RMXOFWVW RG, DSVM, DSZG ULI, ZMW FMWVI DSRXS GRGOV);
+ZMW 2) GSV XLKB GVCG UILN DSRXS RG DZH WVIREVW, RU ZMB.  RU GSVIV DZH
+ML XLKB GVCG LI RU GSV XLKB GVCG RH FMPMLDM, GSVM LMV HGZGVH ZH NFXS.
+EVIHRLM 2.0 LU GSV TFRWVORMVH DZH HXSVWFOVW GL YV XLNKOVGVW RM UZOO 1992
+ZMW Z IVERHVW GSRIW EVIHRLM RH GL YV KIVHVMGVW GL GSV GVR ZWERHLIB YLZIW
+ULI RGH VMWLIHVNVMG GSRH XLNRMT DRMGVI.  GSV GVR RGHVOU VCRHGH GL KILERWV
+Z NZIPFK OZMTFZTV, MLG Z NZIPVW-FK GVCG.
+
+ZNLMT GSV XSZOOVMTVH GSV GVR SZH ZGGVNKGVW GL UZXV RH GSV MVVW ULI Z
+NZIPFK OZMTFZTV GSZG DROO DLIP ULI VCRHGRMT KILQVXGH, GSZG RH, SZMWOV GSV
+OVEVO LU NZIPFK GSZG KVLKOV ZIV FHRMT MLD GL GZT LMOB XSZKGVI, HVXGRLM,
+ZMW KZIZTIZKS WRERHRLMH ZMW MLG NFXS VOHV.  ZG GSV HZNV GRNV, HFXS Z
+OZMTFZTV ZOHL DROO YV ZYOV GL HXZOV FK TIZXVUFOOB GL SZMWOV GSV SRTSOB
+WVGZROVW NZIPFK DSRXS NZMB KVLKOV ULIVHVV ZH GSV UFGFIV WVHGRMZGRLM LU
+NFXS VOVXGILMRX GVCG, ZMW DSRXS RH MLG GSV UFGFIV WVHGRMZGRLM YFG GSV
+KIVHVMG SLNV LU MFNVILFH VOVXGILMRX GVCGH RM HKVXRZORAVW ZIVZH.
+
+HKVIYVIT-NXJFVVM WRHNRHHVW GSV OLDVHG-XLNNLM-WVMLNRMZGLI ZKKILZXS ZH
+FMZYOV GL HFKKLIG GSV PRMW LU ZKKORXZGRLMH GSZG WIZD KVLKOV DSL SZEV
+MVEVI YVVM RM GSV KFYORX ORYIZIB IVTFOZIOB YVULIV, ZMW NZPV GSVN XLNV
+YZXP.  SV ZWELXZGVW NLIV RMGVIVHGRMT GVCG ZMW NLIV RMGVOORTVMG GVCG.
+ZHHVIGRMT GSZG RG RH MLG YVBLMW VXLMLNRX UVZHRYRORGB GL SZEV TLLW GVCGH,
+HKVIYVIT-NXJFVVM MLGVW GSZG GSV GVR TFRWVORMVH ORHGRMT 200-LWW GZTH
+XLMGZRMH GZTH GSZG LMV RH VCKVXGVW GL VMGVI VEVIB GRNV GSV IVOVEZMG
+GVCGFZO UVZGFIV LXXFIH.  RG XLMGZRMH ZOO GSV GZTH GSZG KVLKOV MVVW MLD,
+ZMW RG RH MLG VCKVXGVW GSZG VEVIBLMV DROO GZT GSRMTH RM GSV HZNV DZB.
+
+GSV JFVHGRLM LU SLD KVLKOV DROO GZT GSV GVCG RH RM OZITV KZIG Z UFMXGRLM
+LU GSVRI IVZXGRLM GL DSZG HKVIYVIT-NXJFVVM GVINVW GSV RHHFV LU
+IVKILWFXRYRORGB.  DSZG LMV MVVWH GL YV ZYOV GL IVKILWFXV ZIV GSV GSRMTH
+LMV DZMGH GL DLIP DRGS.  KVISZKH Z NLIV FHVUFO XLMXVKG GSZM GSZG LU
+IVKILWFXRYRORGB LI IVXLEVIZYRORGB RH GSZG LU KILXVHHZYRORGB, GSZG RH,
+DSZG XZM LMV TVG UILN ZM VOVXGILMRX GVCG DRGSLFG IVZWRMT RG ZTZRM
+RM GSV LIRTRMZO.  SV ROOFHGIZGVW GSRH XLMGVMGRLM DRGS Z KZTV UILN
+QZM XLNVMRFH'H YRORMTFZO RMGILWFXGRLM GL OZGRM.
+
+HKVIYVIT-NXJFVVM IVGFIMVW ZG OVMTGS GL GSV RHHFV LU RNZTVH ZH HRNFOZXIZ
+ULI GSV GVCG, RM LIWVI GL IVRGVIZGV SRH YVORVU GSZG RM GSV OLMT IFM NLIV
+GSZM RNZTVH LU KZTVH LU KZIGRXFOZI VWRGRLMH LU GSV GVCG ZIV MVVWVW,
+YVXZFHV QFHG ZH HVXLMW-TVMVIZGRLM KSLGLXLKRVH ZMW HVXLMW-TVMVIZGRLM
+NRXILURON WVTVMVIZGV, HL HVXLMW-TVMVIZGRLM IVKIVHVMGZGRLMH GVMW GL
+WVTVMVIZGV, ZMW LMV GVMWH GL LEVIHGIVHH HLNV IVOZGREVOB GIRERZO ZHKVXGH
+LU GSV GVCG HFXS ZH RGH OZBLFG LM GSV KZTV, DSRXS RH MLG ZODZBH
+HRTMRURXZMG, WVHKRGV DSZG GSV GVCG XIRGRXH NRTSG HZB, ZMW HORTSG LGSVI
+KRVXVH LU RMULINZGRLM HFXS ZH GSV EVIB RNKLIGZMG OVCRXZO GRVH YVGDVVM GSV
+VMTORHS ZMW OZGRM EVIHRLMH LU XLNVMRFH'H YRORMTFZO GVCG, ULI VCZNKOV.
+NLIVLEVI, RM NZMB XIFXRZO IVHKVXGH RG RH VZHB GL ULLO LMVHVOU XLMXVIMRMT
+DSZG Z HXZMMVW RNZTV LU GSV GVCG DROO ZXXLNKORHS.  ULI VCZNKOV, RM LIWVI
+GL HGFWB GSV GIZMHNRHHRLM LU GVCGH, RMULINZGRLM XLMXVIMRMT GSV GVCG
+XZIIRVI RH MVXVHHZIB, DSRXS HXZMMVW RNZTVH HRNKOB WL MLG ZODZBH SZMWOV.
+UFIGSVI, VEVM GSV SRTS-JFZORGB NZGVIRZOH YVRMT KILWFXVW ZG XLIMVOO FHV
+NFXS LU GSV RMULINZGRLM GSZG LMV DLFOW MVVW RU HGFWBRMT GSLHV YLLPH ZH
+KSBHRXZO LYQVXGH.  RG RH Z XSLRXV GSZG SZH YVVM NZWV.  RG RH ZM ZITFZYOB
+QFHGRURZYOV XSLRXV, YFG LMV WLVH MLG PMLD DSZG XLOLI GSLHV KVM HGILPVH RM
+GSV NZITRM ZIV LI DSVGSVI GSVIV DZH Z HGZRM LM GSV KZTV, YVXZFHV RG SZH
+YVVM UROGVIVW LFG.  LMV WLVH MLG PMLD DSVGSVI GSVIV DVIV IRKH RM GSV KZTV
+YVXZFHV GSVB WL MLG HSLD FK, ZMW LM Z XLFKOV LU GSV NZITRMZO NZIPH LMV
+OLHVH SZOU LU GSV NZIP YVXZFHV GSV KVM RH EVIB ORTSG ZMW GSV HXZMMVI
+UZROVW GL KRXP RG FK, ZMW HL DSZG RH XOVZIOB Z XSVXPNZIP RM GSV NZITRM LU
+GSV LIRTRMZO YVXLNVH Z ORGGOV HXLLK RM GSV NZITRM LU GSV UZXHRNROV.
+HGZMWZIW KILYOVNH ULI UZXHRNROV VWRGRLMH, MLG MVD GL VOVXGILMRXH, YFG
+ZOHL GIFV LU ORTSG-OVMH KSLGLTIZKSB, ZMW ZIV IVNZIPVW SVIV YVXZFHV RG RH
+RNKLIGZMG GSZG DV MLG ULLO LFIHVOEVH GSZG VEVM RU DV KILWFXV Z EVIB MRXV
+RNZTV LU GSRH KZTV DRGS TLLW XLMGIZHG, DV ZIV MLG IVKOZXRMT GSV
+NZMFHXIRKG ZMB NLIV GSZM NRXILURON SZH IVKOZXVW GSV NZMFHXIRKG.
+
+GSV GVR XLNVH UILN GSV IVHVZIXS XLNNFMRGB, DSVIV RGH URIHG ZOOVTRZMXV
+ORVH, YFG RG RH MLG QFHG ZM ZXZWVNRX VCVIXRHV.  RG SZH IVOVEZMXV UZI
+YVBLMW GSLHV DSL HKVMW ZOO LU GSVRI GRNV HGFWBRMT GVCG, YVXZFHV LMV'H
+NLWVO LU GVCG WVGVINRMVH DSZG LMV'H HLUGDZIV XZM WL DRGS Z GVCG.  TLLW
+NLWVOH OVZW GL TLLW HLUGDZIV.  YZW NLWVOH OVZW GL YZW HLUGDZIV.  GSZG SZH
+VXLMLNRX XLMHVJFVMXVH, ZMW RG RH GSVHV VXLMLNRX XLMHVJFVMXVH GSZG SZEV
+OVW GSV VFILKVZM XLNNFMRGB GL SVOK HFKKLIG GSV GVR, ZMW GSZG DROO OVZW,
+HKVIYVIT-NXJFVVM SLKVW, HLNV HLUGDZIV EVMWLIH GL IVZORAV GSZG RU GSVB
+KILERWV HLUGDZIV DRGS Z YVGGVI NLWVO LU GSV GVCG GSVB XZM NZPV Z PROORMT.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WRHXFHHRLM * RNKORXZGRLMH LU WRUUVIVMG WGWH ZMW GZT HVGH * LWZ EVIHFH HTNO *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+WFIRMT GSV WRHXFHHRLM GSZG ULOOLDVW, HVEVIZO ZWWRGRLMZO KLRMGH DVIV NZWV.
+MVRGSVI ZZK (R.V., ZHHLXRZGRLM LU ZNVIRXZM KFYORHSVIH) MLI XZOH (R.V.,
+XLNKFGVI-ZRWVW ZXJFRHRGRLM ZMW OLTRHGRXH HFKKLIG) SZH Z WLXFNVMG-GBKV
+WVURMRGRLM ULI ZMXRVMG TIVVP WIZNZ, ZOGSLFTS GSV GVR DROO YV ZYOV GL
+SZMWOV GSZG.  TREVM GSRH HGZGV LU ZUUZRIH ZMW ZHHFNRMT GSZG GSV
+GVXSMRXZO-QLFIMZO KILWFXVIH ZMW GSV XLNNVIXRZO EVMWLIH WVXRWV GL FHV GSV
+LGSVI GDL GBKVH, GSVM ZM RMHGRGFGRLM ORPV GSV ORYIZIB LU XLMTIVHH, DSRXS
+NRTSG IVXVREV ZOO LU GSVRI KFYORXZGRLMH, DLFOW SZEV GL YV ZYOV GL SZMWOV
+GSIVV WRUUVIVMG GBKVH LU WLXFNVMG WVURMRGRLMH ZMW GZT HVGH ZMW YV ZYOV GL
+WRHGRMTFRHS ZNLMT GSVN.
+
+LUURXV WLXFNVMG ZIXSRGVXGFIV (LWZ) SZH HLNV ZWEZMGZTVH GSZG UOLD UILN RGH
+GRTSG ULXFH LM LUURXV WLXFNVMGH ZMW XOVZI WRIVXGRLMH ULI RNKOVNVMGZGRLM.
+NFXS LU GSV LWZ HGZMWZIW RH VZHRVI GL IVZW ZMW XOVZIVI ZG URIHG IVZWRMT
+GSZM GSV HTNO HGZMWZIW, DSRXS RH VCGIVNVOB TVMVIZO.  DSZG GSZG NVZMH RH
+GSZG RU LMV DZMGH GL FHV TIZKSRXH RM GRUU ZMW LWZ, LMV RH HGFXP, YVXZFHV
+LWZ WVURMVH TIZKSRXH ULINZGH DSROV GRUU WLVH MLG, DSVIVZH HTNO HZBH GSV
+DLIOW RH MLG DZRGRMT ULI GSRH DLIP TILFK GL XIVZGV ZMLGSVI TIZKSRXH ULINZG.
+DSZG RH MVVWVW RH ZM ZYRORGB GL FHV DSZGVEVI TIZKSRXH ULINZG LMV DZMGH.
+
+GSV GVR KILERWVH Z HLXPVG GSZG ZOOLDH LMV GL XLMMVXG GSV HTNO WLXFNVMG GL
+GSV TIZKSRXH.  GSV MLGZGRLM GSZG GSV TIZKSRXH ZIV RM RH XOVZIOB Z XSLRXV
+GSZG LMV MVVWH GL NZPV YZHVW LM SVI LI SRH VMERILMNVMG, ZMW GSZG RH LMV
+ZWEZMGZTV.  HTNO RH OVHH NVTZOLNZMRZXZO RM ZGGVNKGRMT GL WVURMV ULINZGH
+ULI ZOO PRMWH LU RMULINZGRLM, GSLFTS NLIV NVTZOLNZMRZXZO RM ZGGVNKGRMT GL
+XLEVI ZOO HLIGH LU WLXFNVMGH.  GSV LGSVI ZWEZMGZTV RH GSZG GSV NLWVO LU
+GVCG IVKIVHVMGVW YB HTNO RH HRNKOB ZM LIWVI LU NZTMRGFWV IRXSVI ZMW NLIV
+UOVCRYOV GSZM GSV NLWVO LU GVCG LUUVIVW YB LWZ.  YLGS LUUVI SRVIZIXSRXZO
+HGIFXGFIVH, YFG HTNO IVXLTMRAVH GSZG GSV SRVIZIXSRXZO NLWVO LU GSV GVCG
+GSZG LMV RH OLLPRMT ZG NZB MLG SZEV YVVM RM GSV NRMWH LU GSV WVHRTMVIH,
+DSVIVZH LWZ WLVH MLG.
+
+LWZ RH MLG IVZOOB ZRNRMT ULI GSV PRMW LU WLXFNVMG GSZG GSV GVR DZMGH GL
+VMXLNKZHH.  GSV GVR XZM SZMWOV GSV PRMW LU NZGVIRZO LWZ SZH, ZH DVOO ZH Z
+HRTMRURXZMGOB YILZWVI IZMTV LU NZGVIRZO.  LWZ HVVNH GL YV EVIB NFXS
+ULXFHVW LM LUURXV WLXFNVMGH, DSRXS RH DSZG RG HGZIGVW LFG YVRMT XZOOVW--
+LUURXV WLXFNVMG ZIXSRGVXGFIV.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+XZOZOFXZ * GVCG-VMXLWRMT UILN Z KFYORHSVI'H KVIHKVXGREV *
+IVHKLMHRYRORGRVH LU Z KFYORHSVI * IVKILWFXGRLM LU NRTMV'H OZGRM HVIRVH
+DSLOV ZMW XLNKOVGV DRGS HTNO GZTH YZHVW LM KVIXVREVW MVVW ZMW VCKVXGVW
+FHV * KZIGRXFOZI WVXRHRLMH ZIRHRMT UILN GSV TVMVIZO WVXRHRLM GL KILWFXV
+ZMW KFYORHS KOW *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+GSV URMZO HKVZPVI RM GSRH HVHHRLM, VIRX XZOZOFXZ, ERXV KIVHRWVMG,
+XSZWDBXP-SVZOVB, RMX., HKLPV UILN GSV KVIHKVXGREV LU Z KFYORHSVI IV
+GVCG-VMXLWRMT, IZGSVI GSZM ZH LMV JFZORURVW GL WRHXFHH NVGSLWH LU
+VMXLWRMT WZGZ, ZMW LYHVIEVW GSZG GSV KIVHVMGVIH HRGGRMT RM GSV ILLN,
+DSVGSVI GSVB SZW XSLHVM GL LI MLG, DVIV ZXGRMT ZH KFYORHSVIH:  NZPRMT
+XSLRXVH, TZGSVIRMT WZGZ, TZGSVIRMT RMULINZGRLM, ZMW NZPRMT ZHHVHHNVMGH.
+XZOZOFXZ LUUVIVW GSV SZIW-DLM XLMERXGRLM GSZG RM KFYORHSRMT EVIB OZITV

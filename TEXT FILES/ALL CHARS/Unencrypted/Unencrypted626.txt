@@ -1,0 +1,14 @@
+The Cornell staff using the hardware and software became an integral part
+of the development and testing process for enhancements to the CLASS
+software system.  The collaborative nature of this relationship is
+resulting in a system that is specifically tailored to the preservation
+application.
+
+A digital library of 1,000 volumes (or approximately 300,000 images) has
+been created and is stored on an optical jukebox that resides in CCC.
+The library includes a collection of select mathematics monographs that
+provides mathematics faculty with an opportunity to use the electronic
+library.  The remaining volumes were chosen for the library to test the
+various capabilities of the scanning system.
+
+One project objective is to provide users of the Cornell library and the

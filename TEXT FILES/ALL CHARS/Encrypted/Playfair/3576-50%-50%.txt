@@ -1,0 +1,276 @@
+
+LYNCH closed by noting that the kinds of applications demonstrated struck
+him as excellent justifications of broad-scale networking for K-12, but
+that at this time no "killer" application exists to mobilize the K-12
+community to obtain connectivity.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Dearth of genuinely interesting applications on the network
+a slow-changing situation * The issue of the integrity of presentation in
+a networked environment * Several reasons why CD-ROM software does not
+network *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the discussion period that followed LYNCH's presentation, several
+additional points were made.
+
+LYNCH reiterated even more strongly his contention that, historically,
+once one goes outside high-end science and the group of those who need
+access to supercomputers, there is a great dearth of genuinely
+interesting applications on the network.  He saw this situation changing
+slowly, with some of the scientific databases and scholarly discussion
+groups and electronic journals coming on as well as with the availability
+of Wide Area Information Servers (WAIS) and some of the databases that
+are being mounted there.  However, many of those things do not seem to
+have piqued great popular interest.  For instance, most high school
+students of LYNCH's acquaintance would not qualify as devotees of serious
+molecular biology.
+
+Concerning the issue of the integrity of presentation, LYNCH believed
+that a couple of information providers have laid down the law at least on
+certain things.  For example, his recollection was that the National
+Library of Medicine feels strongly that one needs to employ the
+identifier field if he or she is to mount a database commercially.  The
+problem with a real networked environment is that one does not know who
+is reformatting and reprocessing one's data when one enters a client
+server mode.  It becomes anybody's guess, for example, if the network
+uses a Z39.50 server, or what clients are doing with one's data.  A data
+provider can say that his contract will only permit clients to have
+access to his data after he vets them and their presentation and makes
+certain it suits him.  But LYNCH held out little expectation that the
+network marketplace would evolve in that way, because it required too
+much prior negotiation.
+
+CD-ROM software does not network for a variety of reasons, LYNCH said.
+He speculated that CD-ROM publishers are not eager to have their products
+really hook into wide area networks, because they fear it will make their
+data suppliers nervous.  Moreover, until relatively recently, one had to
+be rather adroit to run a full TCP/IP stack plus applications on a
+PC-size machine, whereas nowadays it is becoming easier as PCs grow
+bigger and faster.  LYNCH also speculated that software providers had not
+heard from their customers until the last year or so, or had not heard
+from enough of their customers.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BESSER * Implications of disseminating images on the network; planning
+the distribution of multimedia documents poses two critical
+implementation problems * Layered approach represents the way to deal
+with users' capabilities * Problems in platform design; file size and its
+implications for networking * Transmission of megabyte size images
+impractical * Compression and decompression at the user's end * Promising
+trends for compression * A disadvantage of using X-Windows * A project at
+the Smithsonian that mounts images on several networks *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Howard BESSER, School of Library and Information Science, University of
+Pittsburgh, spoke primarily about multimedia, focusing on images and the
+broad implications of disseminating them on the network.  He argued that
+planning the distribution of multimedia documents posed two critical
+implementation problems, which he framed in the form of two questions:
+1) What platform will one use and what hardware and software will users
+have for viewing of the material?  and 2) How can one deliver a
+sufficiently robust set of information in an accessible format in a
+reasonable amount of time?  Depending on whether network or CD-ROM is the
+medium used, this question raises different issues of storage,
+compression, and transmission.
+
+Concerning the design of platforms (e.g., sound, gray scale, simple
+color, etc.) and the various capabilities users may have, BESSER
+maintained that a layered approach was the way to deal with users'
+capabilities.  A result would be that users with less powerful
+workstations would simply have less functionality.  He urged members of
+the audience to advocate standards and accompanying software that handle
+layered functionality across a wide variety of platforms.
+
+BESSER also addressed problems in platform design, namely, deciding how
+large a machine to design for situations when the largest number of users
+have the lowest level of the machine, and one desires higher
+functionality.  BESSER then proceeded to the question of file size and
+its implications for networking.  He discussed still images in the main.
+For example, a digital color image that fills the screen of a standard
+mega-pel workstation (Sun or Next) will require one megabyte of storage
+for an eight-bit image or three megabytes of storage for a true color or
+twenty-four-bit image.  Lossless compression algorithms (that is,
+computational procedures in which no data is lost in the process of
+compressing [and decompressing] an image--the exact bit-representation is
+maintained) might bring storage down to a third of a megabyte per image,
+but not much further than that.  The question of size makes it difficult
+to fit an appropriately sized set of these images on a single disk or to
+transmit them quickly enough on a network.
+
+With these full screen mega-pel images that constitute a third of a
+megabyte, one gets 1,000-3,000 full-screen images on a one-gigabyte disk;
+a standard CD-ROM represents approximately 60 percent of that.  Storing
+images the size of a PC screen (just 8 bit color) increases storage
+capacity to 4,000-12,000 images per gigabyte; 60 percent of that gives
+one the size of a CD-ROM, which in turn creates a major problem.  One
+cannot have full-screen, full-color images with lossless compression; one
+must compress them or use a lower resolution.  For megabyte-size images,
+anything slower than a T-1 speed is impractical.  For example, on a
+fifty-six-kilobaud line, it takes three minutes to transfer a
+one-megabyte file, if it is not compressed; and this speed assumes ideal
+circumstances (no other user contending for network bandwidth).  Thus,
+questions of disk access, remote display, and current telephone
+connection speed make transmission of megabyte-size images impractical.
+
+BESSER then discussed ways to deal with these large images, for example,
+compression and decompression at the user's end.  In this connection, the
+issues of how much one is willing to lose in the compression process and
+what image quality one needs in the first place are unknown.  But what is
+known is that compression entails some loss of data.  BESSER urged that
+more studies be conducted on image quality in different situations, for
+example, what kind of images are needed for what kind of disciplines, and
+what kind of image quality is needed for a browsing tool, an intermediate
+viewing tool, and archiving.
+
+BESSER remarked two promising trends for compression:  from a technical
+perspective, algorithms that use what is called subjective redundancy
+employ principles from visual psycho-physics to identify and remove
+information from the image that the human eye cannot perceive; from an
+interchange and interoperability perspective, the JPEG (i.e., Joint
+Photographic Experts Group, an ISO standard) compression algorithms also
+offer promise.  These issues of compression and decompression, BESSER
+argued, resembled those raised earlier concerning the design of different
+platforms.  Gauging the capabilities of potential usSEB RUWBPMGMFSP Y
+HEHUENK ZUYX.  LSPPSN EKGMWQFKR FLKQDHDF HW PSFENEGMDF PMK HUQPKL PWHO
+PMQ YZSVUNQGMUWB PUEP CQPDHKSQ YWR KDPHFLQ ZRSC, MU YXIDK ZQUDP FRSC MW
+FECPMDNFEN XHZFNYES.
+
+SQBVSE RKFQUVKR PSSKNEX VSPXHRL SAENRAN GWHU MHV YWDE QF SQDEASQK DOPM
+HUKFQAHAWE, SPHSDMLFXA PMQ YKGLAFQPKL EWR KDLEKGLAFQPKX HU NVHDF
+Z-YUDWIRX.  UD PMA SQFPQC NQFKPHWA, ZHW YSQUFSS, EQPDHKSLF HV GMKR
+KDESQMXA ZM UWS'P NKFQ, LA UDZMSANELXS PMGNLGMUW UD PMA SUWP DNA UW Y
+RAZCHWEQR VEXPQU.  TUDLFXA, SQBVSE RKBRDHSQN K HEIHQRZ MG UHU NYXVQNQ YZ
+PMS PUHPMXHDULA UDBPMGMFHIW, DMI HV UINAGMDF HUKFSP UD Y QBZESHQXA
+NHKDHQCFENX YYK UW PMQ RIUFHPSDS LAK IARHK RAZCHWEV LAK DP HESFEDHDF ZM
+UINAZ BRSU IA LHQDHNQ UW VURA.  LFPMIOPI PMQ YSKNEPK HLSE FQEQX HSKW
+PMHDZQ UHANPQB PI WWYAFUYC GRSPS HUKFSP (ELLHUHDF L UKUNSA ZELM CIWQH),
+RASKCPRSSABV, HUKFSP UESK SQAR WIDWXUKNKR 25,000 GMHQB.
+
+SQBVSE WMWNFNRKR IHV FQVA DOPM PSSKNEB NIUHQCFX HC FRS LMVHRABV
+ENNEDFQHARM TQPRYAR PMS PUHPMXHDULA LAR NIUFHPSDS.  RS WMCFARRKC GUEF CMZ
+ARIOPI HV ADWYW NUWRQCWUDP FRS LKFNY HG UUQPKB.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+KDBRHLVHUW * NCQYGMDF KDIDGMPYR GMIZMPDEFMHW BUXSAQMHIRL RAENXA
+HUZHBVMVSA YSRQTF DOPM FLDPY HDPLAOGQFHIRL VUEQ UOPSOUL * RYSN GHW BPINX
+ZM RKPQCHUDQ ANLVUZQ UZ HUKFSP HLSEX RUVB FUXSEQFY *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+NIDHDF PMQ SDHAP YSRMLAPK SQZCYSA FSPE YWR SQBVSE PMQF ZUXVWYKR, PSSKNEX
+NBENUGMDQFHIRL QHSEPKW.
+
+SAVE ENFIKR PMQF PMS HMIZMPDEFRSEP RYES ULN ERSKN UZ SQBVSE:  MG HV
+LFUIBP HUZHBVMVSA ZM NCQYPQ LHRM KDIDGMPYR GMIZMPDEFMHW BUXSAQMHIRL
+YSRQTF DOPM FLDPY HDPLAOGQFHIRL VUEQ UOPSOUB, LQRLNPS LFB FRS
+HRMZIZNEHRMD KFARDMSP UESK SQAR ZIUDT DNEOX QLIOZ BMHL EWR DOXV WUP BDIW
+VURQRLUDF KPDYSHQCFX HA LWA XHCP UZ ESELUWQLSA PQCHB.  XSPE IKN RSENW
+PMQF ALGMUWLF PKIZNEHRMD, ZUE SLYHTSA, UEC GDHKR ZM LMQ ZRS DHPIZ BI OPS
+XHHQ HUKFK HR LIUQ EUDW IP ANINQGMUWLF HEIWMNGMUW ZUE $100 HSE HUKFQ, SMF
+PMS HMIZMPDEFRSEP DOXV WUZ BIORM MG.  PMQK NYCF QNWMNAGMDF LAR GYKHQCF
+ZUE SQNM OPS, ROMDM RLAWUM TQ YWBIUFSHVRSR DMGMHC FRS XEBPQH.  SQBVSE
+ESPHUWRKC GUEF Q WMRLHWGMOU UZ HRMZIZNEHRSEP, RQYRKC VK Y ZUCHSE ALGMUWLF
+PKIZNEHRMD HRMZIZNEHRSE, UER VFQCPKR ELPSCTVUDF MGX HDW WMXVQRGMUW UZ
+ASQRPCUWMD ESHEIWMNGMUWX HG UUQPKX, RMGM PRS UIRAK ZIHDF LQDQ ZM PMY
+WMHZSEQFDGY.
+
+SAVE WMCFARRKC GUEM TSPPSC DEL NARARQBVENUVE ZSPVHUHBPMD QLIOM CNFGMHQKDY
+HUKFSP, SQNQHLS HYHFSQ YES QNNMBPIUKR ZM XUC-YNLVUZQ HUKFSP, FECPMDNFENXA
+PNIU GDRKM.  XSPPSN HDPKR PMA SLNWNMHDF UZ E LFMWK ZM RKPQCHUDY RUEZ
+HLSEX RIOVN ZMSANEPQ, ROQF PMQK YWNFN GYSB NIUZUCPQLSA DOPM, LAR DUEZ
+QLXHFNPQXA HV PMS RDIRSBP AMLFMGQ ZRSX YIOVN KSSE RAKR.  WMWNKRUDP FUEZ
+RS UEN KWITFKR K NHDQ PUWK HW UCRSE ZM ENIOPS HSHZSA QLIOZ BRS HVLHY,
+SQBVSE NBHXKR UW E LLAFIUDA RMZQ SE XYKUDP FUEP MY RIOVN WUM TK HC FMHB
+LMVHRABV UG RS KDR WMZ PMUDQ GUEZ BMHDFB RIOVN SQ QNWMHTVUPRKR.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FLEPAR * HVLHSP UZ BRLFQLUVMGK YWR UINIFLDHZQ * PKIUQPDHD TWHCZM IZ FRS
+UDPQCWQP LAC GRS WHSA FSYKKR XQ FLKQDHDF * LQVHN TNAQMHIRL LHBPKUDUDF
+PMHV PDWYPM * L FMVNEWE'P EUXSP LAN GNAQMHIRL UD L AQPYWDE ARGDWHCUARZ *
+APPAQMX HG UHTSAHQCFQFHIW UZ FRS G39.50 TWHZMWMF UHW UDZUCHQFHIW
+ESPCHKLKX UC FRS VUSCENE XEXPQC * MRS PCKNY-HZL SQZCYSD LUXOUSP UZ NKFQ
+LAK DPB ZHPQCFUKF NLEPK * E LALHPMIZ MT NHNESCF PCARRV *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+WHALVN FLEPAR, ELXHDMQFK RHDQRZMN PHW UDZUCHQFHIC FQRURUXIZA, ODUSKEPMGX
+UZ UQWEFLWR QF WMXVKPS HENA, GHDBP KNRCSPPSC GRS HVLHSP UZ BRLFQLUVMGX
+LAC IIWNFENMGE.  OA RMZKR PMK RUGGUNMBFX WU LCFMDHGQFUDP FRS APPAQMX HZ
+HWRKEP-UZ-UQFDMGINK PWHCZR, EAPSAQMUDZ IC FRS ZCARZQ KQENX HP ASZSEHKWNY
+DOPM PMQ YEHLAQP LAK DCFSERAP.  CQRLFVUDF PMK RYK'V RQHUWBPNEGMUWX HZ
+NR-WHU QWR HZGMNQV NHVQ IQFSEUKS, UY RARZ MC FU YVE UG PMA PHKVN UEX EQP
+SAENRAR IWY ZM BRLFA RYR XEBPQHB PH YALLXK RASDGSEK YWR KDBVQHUDQFHIW
+QNWHBV FLDPS-PNQSA RAZCHWEV.
+
+FLEPAR ZUNMPSW IC FRS PKIUQPDHD TWHCZM IZ FRS UDPQCWQP PNIU MGV HWNSHGMUW
+DMCNQ 1969 FM ZRS HESPARF, QWR PMQ YKDHLMCARPB ESAMHDKR ZM ESPHUWC GW
+PMQF NEGHK IWHCZM.  PI HXVHLPCQFQ PRS HVLHY HP LNQFLVMVUZQ, FLEPAR
+WMRLDKSEKR WMHTMFSE RAZCHWEV EL UDNBINUDP FREYS PKRADHW BIUZHRACFB:
+WMHTMFSEL, RQPYWDE WMOBNAMDQFHIW LIWSP, LAR NIUUODUNQGMUW HQKDY.  QQNO
+WMHTUWARP BNQSAP (S.T., DIUFHPQEP NEDFA PWHH TRB ZM LHHSCNIUFHPQEP;
+RAZCHWA DIWSP BRLFA PWHU HCFSEULRQ NQCRV HA L TR PMWHIFR PHZMHBPMDQFKR
+WHMFSEL EWR FKPQNYEX; LAR NIUUODUNQGMUW HQKDE NLAPK PNIU 2,400-LQIN
+KDLF-HF ULDMVUGMSP PMWHIFM 4.5-USTB LQNQVUWA SUDEV, LAR KSKCFNLXVQ ZW
+UOBFDIDIQLMG-HSE-PQRUWR NIUUODUNQGMUW VURAL), EWR ENRMMGQRFMNEXVQ, ZRS
+WMHTUWARPB ENY HDPLAOGKR ZM BRLFS RHKNECNMHNQXVA ZWHU BMWLF ENQY RAZCHWEV
+ZM UDPQCWQFHIALX-BNQSA RAZCHWEV.  LHRM PDWYPM HV UQRK ZHBVMVSA XQ
+LMUVKDDF FLKQEP UZ WMOBNAMDQFHIR FWHZMWMXB, EL SQBVSE ZHUDPQW IMF.
+XQ FLKQDHDF XMPM HREXMDLFXA LAN VIZMDLFXA, E LARPS UZ BRLFQLUVMGK OB
+UQUDFQUDKR PNIU XUNQF LESL AQPYWDEV HW UZLMDSP, QNWHBV NQHTHLSP, PMWHIFO
+SCDKPKP, EIOPQEP, NQHTHL LQDQXMRAL, PMVSE-HZGMN BUDEV, QPN., MG HCFW
+ESIDUWLF RAZCHWEV LAN IBFHUQFASK OCFU WQFHIALF LWR UDPQCWQFHIALX
+RAZCHWEV.
+
+FLEPAR PMAR UVFNBPNEPQC GRS PKIUQPDHD TWHCZM ISKN E ZCW-XQYE HSEHIW--
+PMWHIFR PSHPQCTSE 1991--UZ PMA ROUSQW HU AQPYWDEB PUEM QIUHEHVQ PRS
+UDPQCWQP.  PMHV PDWYPM UEB LYSR LHLFQUDKR FLDPASQ XQ ZRS KLKUFLVMVUZQ UZ
+PMESQ SELMD UNWNGMUWP:  SSAQMWHDUQ CKUF, UUVQ PNERLPAN (PFT), LAR CQHMZY
+XUZ-IC (FASRAF).  BENPSA LXBH WKSHKRYC GRS PDWYPM UD PMQ EUDW IZ FNEZLMD
+PMQF MWNMEP UW PMA RQPYWDE.  RAZCHWQ GNEZLMD ESUFQRPB PMK HIHCF WMCFDHLMGMUWB
+UZ L FENPKE HHZNFQFHIW UU NPSEP LAK DWNESELUDF IPS HSN HPSC.  PIWYK UWS PYSB
+PSDHIOL EZSVUNQGMUWV HDLUXGDDF UIGDDF HUKFSP QNWHBV PMA RQPYWDE--E NENMGX
+PQW AQYEP KFU.  XENPSW CQRLFSAN KWR WMWNHNESR DMGM SSPPSE'P UQUD ZHUDZ
+PMQF PMK HCFSESPGMDF HEMXSAHB MWNMN EZ BRS EFFSMDQFHIA FKSAS.
+
+FLEPAR PMAR UVFNBPNEPQN K UIRKX UU L VUSCENE'X WHSAL EWR UNWNGMUWV HA L
+RAZCHWE QDLHDUWHQCF.  RS WUPQK, DR FENGMNMFLC, PRS FSQNQHARZ MZ UA-FUDY
+NQFQXUFISP UWZM PMA RQPYWDE LAR GQFWHRL MXFQUDUDF KWBSPB PM ZRS VUSCENX
+UDNCQYVHDFXA PMWHIFU SMWLF RAZCHWEV, NQHTHL RAZCHWEV, LAC GRS UDPQCWQP.
+FLEPAR LHZSHWPQN VAWRM'P SENVUSE LHZVSPGMUW PMQF RY RAKR ZM KNRCSPB
+UNWRQUARFQB AHABPHIRL UZ RAZCHWEQK DAUHWUQGMUW UD HWRKC PM XOHVN
+ARGDWHCUARPB PMQF BRLFK HC FRS UDZUCHQFHIR LARPS EL RYXV EL UD PMY
+HREXMDLF PSRLY.
+
+FLEPAR LHZSHWPQC GRS WHSA UZ PMA SMVNEWE XEBPQH EL PMQ YWBSPP HIHCF UDZM
+PMA RQFHIR'L ASQRPCUWMD WMXVQRGMUWV.  HHTSAHQCFQFHIW UZ FRS O39.50
+HEMZMWUX ZUD HAUHWUQGMUW ESPCHKLKX NIOVN UQEQ LHRM QNRQBV HEQNGMNQF LWR
+PAELMVSA.  ZUE SLYHTSA, PMHV YWNFR KALLXS HQFWHRL UD UQWEFLWR ZM PSENRM
+NQVUZUCWUK VUSCENHKX, HW HPMSE VUSCENHKL EWHNAC GRS YWNSC GUEF QES
+WMAUHWUQCF DOPM G39.50 OA L UQWLSE PMQF HV ULUHVUEN ZM NADGSEVHZQ UZ
+UQWEFLWR FEPCUWB.  PMHB RVUARP-BSESKC HIWAS LFXH LHZSHWPB UIGDDF SQXWWR
+PSWMWRENQ WUWPQCF UDZM HEHUENQ WUWPQCF.  (PMA RMZHIW UP UWY UWA SUDEV
+PNIU PSWMWRENQ WUWPQCF ZM HEHUENQ WUWPQCF, FLEPAR LEDK, ESHESPARPB Y
+UNWRQUARFQS FWHLXQH PMQF ESAMHDSP DHZIWHHL PMIOPIF.)  QZFSE WUGMDF
+ANHQWHHL RAZCHWE QSZSEHUARPB UD QNRQBVUDP ZNFB-FYSM CQFSEUKXB, UDNBINUDZ
+HEIHQRPB LHZSHWGMDF PMY HCRSEUDZ IT UQFSEUKXB QNWHBV PMA RQPYWDE, FLEPAR
+ESGDVHPQC GRS HVLHY HZ FNERLUHZBUDP IDII-RARVHZQ, MHPI-ESXHFNGMUW WMXUW
+HUKFSP QNWHBV PMA RQPYWDE LAC GRS FLDPQ YUINAPB UZ LQWRDOCGM PRSX
+ESAMHDS.  RY RARZ MC FU YWVESBV PMQ SLARDDKPM LAR VAWRMWHDUFYGMUW
+HEMXSAHB UDRSESCF UD PSWRUDP ZNFB-UMZHID LDKYH QNWHBV PMA RQPYWDE.
+
+FLEPAR UVFNBPNEPQC GRS PCKNY-HZL SQZCYSD LUXOUSP UZ NKFQ UD XQPQX HW
+HWRKEP UZ UQFDMGINQ YWR PMS HMZARGMLF HLKFY HZ FUEG CQFE.  UK RHVNMBVKR
+PCLABHHVVHUW NEPQP (HENGMNMFLNSQ, ZRS GMHQ MG FQEQB PI UIXK SENHIHL ZUCHB
+UZ UDZUCHQFHIA), LWR ROQF UWQ RIOVN WI DOPM L AQPYWDE LHZSHWGMDF
+UOBFDIDIQLMG-HSE-PQRUWC GNERLUHBVHIA.  LZ BRS UIHQCF, PMA RQPYWDE
+ARGDWHCUARG MWNFNRKL E WMHTHXMGY HG NQFQ-FNERLUHBVHIW CQAOHESHQCFB,
+XIFNHQL EWR ZUCHV, PIHDF PNIU BPQYWK ZM LMEPZQ (MHPI-XIFNHQ) LAN GWHO
+SKWE BXWY ZM SKWE ULBP.  PMHV KFPDKPQFQ HHLM TQ RUWVHRKESK DC FRS RKVHFD,
+WMRLPCMNGMUW, LAW IHSNEGMUW UZ UOBFDIDIQLQZA RQPYWDEB.

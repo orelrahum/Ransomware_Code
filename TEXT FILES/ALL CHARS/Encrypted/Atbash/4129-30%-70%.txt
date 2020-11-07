@@ -1,0 +1,228 @@
+Currency:
+    United States dollar (plural - dollars); 1 United States dollar (US$) = 100
+    cents
+Exchange rates:
+  British pounds:
+    (#) per US$ - 0.5599 (March 1992), 0.5652 (1991), 0.5603 (1990), 0.6099
+    (1989), 0.5614 (1988), 0.6102 (1987)
+  Canadian dollars:
+    (Can$) per US$ - 1.1926 (March 1992), 1.1457 (1991), 1.1668 (1990), 1.1840
+    (1989), 1.2307 (1988), 1.3260 (1987)
+  French francs:
+    (F) per US$ - 5.6397, (March 1992), 5.6421 (1991), 5.4453 (1990), 6.3801
+    (1989), 5.9569 (1988), 6.0107 (1987)
+  Italian lire:
+    (Lit) per US$ - 1,248.4 (March 1992), 1,240.6 (1991), 1,198.1 (1990),
+    1.372.1 (1989), 1,301.6 (1988), 1,296.1 (1987)
+  Japanese yen:
+    (Y) per US$ - 132.70 (March 1992), 134.71 (1991), 144.79 (1990), 137.96
+    (1989), 128.15 (1988), 144.64 (1987)
+  German deutsche marks:
+    (DM) per US$ - 1.6611 (March 1992), 1.6595 (1991), 1.6157 (1990), 1.8800
+    (1989), 1.7562 (1988), 1.7974 (1987)
+Fiscal year:
+    1 October - 30 September
+
+:United States Communications
+
+Railroads:
+    270,312 km
+Highways:
+    6,365,590 km, including 88,641 km expressways
+Inland waterways:
+    41,009 km of navigable inland channels, exclusive of the Great Lakes (est.)
+Pipelines:
+    petroleum 275,800 km, natural gas 305,300 km (1985)
+Ports:
+    Anchorage, Baltimore, Beaumont, Boston, Charleston, Chicago, Cleveland,
+    Duluth, Freeport, Galveston, Hampton Roads, Honolulu, Houston, Jacksonville,
+    Long Beach, Los Angeles, Milwaukee, Mobile, New Orleans, New York,
+    Philadelphia, Portland (Oregon), Richmond (California), San Francisco,
+    Savannah, Seattle, Tampa, Wilmington
+Merchant marine:
+    396 ships (1,000 GRT or over) totaling 12,969 GRT/20,179 DWT; includes 3
+    passenger-cargo, 38 cargo, 25 bulk, 174 tanker, 13 tanker tug-barge, 14
+    liquefied gas, 129 intermodal; in addition, there are 231 government-owned
+    vessels
+Civil air:
+    8,252 commercial multiengine transport aircraft (weighing 9,000 kg and over)
+    including 6,036 jet, 831 turboprop, 1,382 piston (December 1989)
+Airports:
+    14,177 total, 12,417 usable; 4,820 with permanent-surface runways; 63 with
+    runways over 3,659 m; 325 with runways 2,440-3,659 m; 2,524 with runways
+    1,220-2,439 m
+Telecommunications:
+    182,558,000 telephones; broadcast stations - 4,892 AM, 5,200 FM (including
+    3,915 commercial and 1,285 public broadcasting), 7,296 TV (including 796
+    commercial, 300 public broadcasting, and 6,200 commercial cable);
+    495,000,000 radio receivers (1982); 150,000,000 TV sets (1982); satellite
+    ground stations - 45 Atlantic Ocean INTELSAT and 16 Pacific Ocean INTELSAT
+
+:United States Defense Forces
+
+Branches:
+    Department of the Army, Department of the Navy (including Marine Corps),
+    Department of the Air Force
+Manpower availability:
+    males 15-49, 66,458,000; NA fit for military service
+Defense expenditures:
+    exchange rate conversion - $323.5 billion, 5.7% of GNP (1991)
+
+:Uruguay Geography
+
+Total area:
+    176,220 km2
+Land area:
+    173,620 km2
+Comparative area:
+    slightly smaller than Washington State
+Land boundaries:
+    1,564 km total; Argentina 579 km, Brazil 985 km
+Coastline:
+    660 km
+Maritime claims:
+  Continental shelf:
+    200 m (depth) or to depth of exploitation
+  Territorial sea:
+    200 nm (overflight and navigation permitted beyond 12 nm)
+Disputes:
+    short section of boundary with Argentina is in dispute; two short sections
+    of the boundary with Brazil are in dispute (Arroyo de la Invernada area of
+    the Rio Quarai and the islands at the confluence of the Rio Quarai and the
+    Uruguay)
+Climate:
+    warm temperate; freezing temperatures almost unknown
+Terrain:
+    mostly rolling plains and low hills; fertile coastal lowland
+Natural resources:
+    soil, hydropower potential, minor minerals
+Land use:
+    arable land 8%; permanent crops NEGL%; meadows and pastures 78%; forest and
+    woodland 4%; other 10%; includes irrigated 1%
+Environment:
+    subject to seasonally high winds, droughts, floods
+
+:Uruguay People
+
+Population:
+    3,141,533 (July 1992), growth rate 0.6% (1992)
+Birth rate:
+    17 births/1,000 population (1992)
+Death rate:
+    10 deaths/1,000 population (1992)
+Net migration rate:
+    -1 migrant/1,000 population (1992)
+Infant mortality rate:
+    23 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    69 years male, 76 years female (1992)
+Total fertility rate:
+    2.4 children born/woman (1992)
+Nationality:
+    noun - Uruguayan(s); adjective - Uruguayan
+Ethnic divisions:
+    white 88%, mestizo 8%, black 4%
+Religions:
+    Roman Catholic (less than half adult population attends church regularly)
+    66%, Protestant 2%, Jewish 2%, nonprofessing or other 30%
+Languages:
+    Spanish
+Literacy:
+    96% (male 97%, female 96%) age 15 and over can read and write (1990 est.)
+Labor force:
+    1,355,000 (1991 est.); government 25%, manufacturing 19%, agriculture 11%,
+    commerce 12%, utilities, construction, transport, and communications 12%,
+    other services 21% (1988 est.)
+Organized labor:
+    Interunion Workers' Assembly/National Workers' Confederation (PIT/CNT) Labor
+    Federation
+
+:Uruguay Government
+
+Long-form name:
+    Oriental Republic of Uruguay
+Type:
+    republic
+Capital:
+    Montevideo
+Administrative divisions:
+    19 departments (departamentos, singular - departamento); Artigas, Canelones,
+    Cerro Largo, Colonia, Durazno, Flores, Florida, Lavalleja, Maldonado,
+    Montevideo, Paysandu, Rio Negro, Rivera, Rocha, Salto, San Jose, Soriano,
+    Tacuarembo, Treinta y Tres
+Independence:
+    25 August 1828 (from Brazil)
+Constitution:
+    27 November 1966, effective February 1967, suspended 27 June 1973, new
+    constitution rejected by referendum 30 November 1980
+Legal system:
+    based on Spanish civil law system; accepts compulsory ICJ jurisdiction
+National holiday:
+    Independence Day, 25 August (1828)
+Executive branch:
+    president, vice president, Council of Ministers (cabinet)
+Legislative branch:
+    bicameral General Assembly (Asamblea General) consists of an upper chamber
+    or Chamber of Senators (Camara de Senadores) and a lower chamber or Chamber
+    of Representatives (Camera de Representantes)
+Judicial branch:
+    Supreme Court
+Leaders:
+  Chief of State and Head of Government:
+    President Luis Alberto LACALLE (since 1 March 1990); Vice KIVHRWVMG TLMAZOL
+    ZTFRIIV IZNRIVA (HRMXV 1 NZIXS 1990)
+KLORGRXZO KZIGRVH ZMW OVZWVIH:
+    MZGRLMZO (YOZMXL) KZIGB, XZIOLH XZG; XLOLIZWL KZIGB, QLITV YZGOOV RYZMVA;
+    YILZW UILMG XLZORGRLM, ORYVI HVIVTMR NLHJFVIZ - RMXOFWVH XLNNFMRHG KZIGB OVW
+    YB QZRNV KVIVA ZMW MZGRLMZO ORYVIZGRLM NLEVNVMG (NOM) LI GFKZNZILH OVW YB
+    VOVFGVIRL UVIMZMWVA SFRWLYIL; MVD HKZXV XLZORGRLM XLMHRHGH LU GSV KZIGB LU
+    GSV TLEVIMNVMG LU GSV KVLKOV (KTK), SFTL YZGZOOZ; XSIRHGRZM WVNLXIZGRX KZIGB
+    (KWX), OVZWVI MZ; ZMW XRERX FMRLM, SFNYVIGL XRTZMWZ
+HFUUIZTV:
+    FMREVIHZO ZMW XLNKFOHLIB ZG ZTV 18
+VOVXGRLMH:
+  KIVHRWVMG:
+    OZHG SVOW 26 MLEVNYVI 1989 (MVCG GL YV SVOW MZ MLEVNYVI 1994); IVHFOGH -
+    OFRH ZOYVIGL OZXZOOV SVIIVIZ (YOZMXL) 37%, QLITV YZGOOV RYZMVA (XLOLIZWL)
+    29%, ORYVI HVIVTMR NLHJFVIZ (YILZW UILMG) 20%
+  XSZNYVI LU HVMZGLIH:
+    OZHG SVOW 26 MLEVNYVI 1989 (MVCG GL YV SVOW MZ MLEVNYVI 1994); IVHFOGH -
+    YOZMXL 40%, XLOLIZWL 30%, YILZW UILMG 23% MVD HKZXV 7%; HVZGH - (30 GLGZO)
+    YOZMXL 12, XLOLIZWL 9, YILZW UILMG 7, MVD HKZXV 2
+  XSZNYVI LU IVKIVHVMGZGREVH:
+    OZHG SVOW MZ MLEVNYVI 1989 (MVCG GL YV SVOW MZ MLEVNYVI 1994); IVHFOGH -
+    YOZMXL 39%, XLOLIZWL 30%, YILZW UILMG 22%, MVD HKZXV 8%, LGSVI 1%; HVZGH -
+    (99 GLGZO) MFNYVI LU HVZGH YB KZIGB MZ
+XLNNFMRHGH:
+    50,000
+
+:FIFTFZB TLEVIMNVMG
+
+NVNYVI LU:
+    ZT (LYHVIEVI), XXX, VXOZX, UZL, T-11, T-77, TZGG, RZWY, RZVZ, RYIW, RXZL,
+    RXX, RUZW, RUX, ROL, RNU, RNL, RMGVOHZG, RMGVIKLO, RLX, RLN, RHL
+    (XLIIVHKLMWVMG), RGF, OZVH, OZRZ, OLIXH, MZN (LYHVIEVI), LZH, LKZMZO, KXZ,
+    IT, FM, FMXGZW, FMVHXL, FMRWL, FMRRNLT, FMNLTRK, FKF, DXO, DSL, DRKL, DNL,
+    DGL
+WRKOLNZGRX IVKIVHVMGZGRLM:
+    ZNYZHHZWLI VWFZIWL NZXTROORXFWWB; XSZMXVIB ZG 1918 U HGIVVG MD, DZHSRMTGLM,
+    WX 20006; GVOVKSLMV (202) 331-1313 GSILFTS 1316; GSVIV ZIV FIFTFZBZM
+    XLMHFOZGVH TVMVIZO RM OLH ZMTVOVH, NRZNR, ZMW MVD BLIP, ZMW Z XLMHFOZGV RM
+    MVD LIOVZMH
+  FH:
+    ZNYZHHZWLI IRXSZIW X. YILDM; VNYZHHB ZG OZFIL NFOOVI 1776, NLMGVERWVL
+    (NZRORMT ZWWIVHH RH ZKL ZZ 34035); GVOVKSLMV [598] (2) 23-60-61 LI 48-77-77;
+    UZC [598] (2) 48-86-11
+UOZT:
+    MRMV VJFZO SLIRALMGZO HGIRKVH LU DSRGV (GLK ZMW YLGGLN) ZOGVIMZGRMT DRGS
+    YOFV; GSVIV RH Z DSRGV HJFZIV RM GSV FKKVI SLRHG-HRWV XLIMVI DRGS Z BVOOLD
+    HFM YVZIRMT Z SFNZM UZXV PMLDM ZH GSV HFM LU NZB ZMW 16 IZBH ZOGVIMZGVOB
+    GIRZMTFOZI ZMW DZEB
+
+:FIFTFZB VXLMLNB
+
+LEVIERVD:
+    GSV VXLMLNB RH HOLDOB IVXLEVIRMT UILN GSV WVVK IVXVHHRLM LU GSV VZIOB 1980H.
+    RM 1988 IVZO TWK TIVD YB LMOB 0.5% ZMW RM 1989 YB 1.5%. GSV IVXLEVIB DZH OVW
+    YB TILDGS RM GSV ZTIRXFOGFIV ZMW URHSRMT HVXGLIH, ZTIRXFOGFIV ZOLMV
+    XLMGIRYFGRMT 20% GL TWK, VNKOLBRMT ZYLFG 11% LU GSV OZYLI ULIXV, ZMW

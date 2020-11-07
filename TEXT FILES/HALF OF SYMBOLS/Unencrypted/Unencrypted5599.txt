@@ -1,0 +1,14 @@
+    UK
+Imports:
+    NA
+  commodities:
+    timber, fertilizers, fish
+  partners:
+    UK
+External debt:
+    NA
+Industrial production:
+    growth rate NA
+Electricity:
+    61,000 kW capacity 190 million kWh produced, 2,930 kWh per capita 1989
+Industries:

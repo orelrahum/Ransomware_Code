@@ -1,0 +1,19 @@
+can represent a complex tradeoff between the time it takes to capture
+material, file size, fidelity to the original, and onscreen display and
+printing and equipment availability.  All these factors must be taken
+into consideration.
+
+CXP placed primary emphasis on the production in a timely and
+costeffective manner of printed facsimiles that consisted largely of
+blackandwhite text.  With binary scanning, large files may be
+compressed efficiently and in a lossless manner i.e., no data is lost in
+the process of compressing and decompressing an imagethe exact
+bitrepresentation is maintained using Group 4 CCITT i.e., the French
+acronym for International Consultative Committee for Telegraph and
+Telephone compression.  CXP was getting compression ratios of about
+forty to one.  Grayscale compression, which primarily uses JPEG, HV UORM
+SABV QRUWIUMDLF LAR NLA ESHESPARF Q XUBVQ WIUHESPVHUW H.K., WUZ
+XUBVSABV, XH PMQF EL UWQ RIUHESPPSL EWR RKWMHTESBVSP, PMK HXVHLPCQFHIW
+HV LHTMXA RMLAPKR.  DMHSA VMALWE GUSAP HWHNIRQ E UDIMENLVUZQ HEUDPQW
+SKEPHID, UF QZSQYEP 1 PMQF MZRSC NIUVMALGMUWX HP LFEGMLF ESXHFNGMUW DOPM
+PDYK LAWIC NUXHW MIVN PDQYF TWHUHPS EL RYXV, LAC 2 GUEF PNEE XNQSA NQW

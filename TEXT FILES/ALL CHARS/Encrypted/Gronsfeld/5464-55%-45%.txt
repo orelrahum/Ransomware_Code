@@ -1,0 +1,489 @@
+of de novo electronic publishing, that is, a form in which the primary
+form of the information is electronic.
+
+Project ADAPT, then, which OCLC completed a couple of years ago and in
+fact is about to resume, is a model in which one takes page images either
+in paper or microfilm and converts them automatically to a searchable
+electronic database, either on-line or local.  The operating assumption
+is that accepting some blemishes in the data, especially for
+retroconversion of materials, will make it possible to accomplish more.
+Not enough money is available to support perfect conversion.
+
+WEIBEL related several steps taken to perform image preprocessing
+(processing on the image before performing optical character
+recognition), as well as image postprocessing.  He denied the existence
+of intelligent character recognition and asserted that what is wanted is
+page recognition, which is a long way off.  OCLC has experimented with
+merging of multiple optical character recognition systems that will
+reduce errors from an unacceptable rate of 5 characters out of every
+l,000 to an unacceptable rate of 2 characters out of every l,000, but it
+is not good enough.  It will never be perfect.
+
+Concerning the CORE Project, WEIBEL observed that Bellcore is taking the
+topography files, extracting the page images, and converting those
+topography files to SGML markup.  LESK hands that data off to OCLC, which
+builds that data into a Newton database, the same system that underlies
+the on-line system in virtually all of the reference products at OCLC.
+The long-term goal is to make the systems interoperable so that not just
+Bellcore's system and OCLC's system can access this data, but other
+systems can as well, and the key to that is the Z39.50 common command
+language and the full-text extension.  Z39.50 is fine for MARC records,
+but is not enough to do it for full text (that is, make full texts
+interoperable).
+
+WEIBEL next outlined the critical role of SGML for a variety of purposes,
+for example, as noted by HOCKEY, in the world of extremely large
+databases, using highly structured data to perform field searches.
+WEIBEL argued that by building the structure of the data in (i.e., the
+structure of the data originally on a printed page), it becomes easy to
+look at a journal article even if one cannot read the characters and know
+where the title or author is, or what the sections of that document would be.
+OCLC wants to make that structure explicit in the database, because it will
+be important for retrieval purposes.
+
+The second big advantage of SGML is that it gives one the ability to
+build structure into the database that can be used for display purposes
+without contaminating the data with instructions about how to format
+things.  The distinction lies between procedural markup, which tells one
+where to put dots on the page, and descriptive markup, which describes
+the elements of a document.
+
+WEIBEL believes that there should be no procedural markup in the data at
+all, that the data should be completely unsullied by information about
+italics or boldness.  That should be left up to the display device,
+whether that display device is a page printer or a screen display device.
+By keeping one's database free of that kind of contamination, one can
+make decisions down the road, for example, reorganize the data in ways
+that are not cramped by built-in notions of what should be italic and
+what should be bold.  WEIBEL strongly advocated descriptive markup.  As
+an example, he illustrated the index structure in the CORE data.  With
+subsequent illustrated examples of markup, WEIBEL acknowledged the common
+complaint that SGML is hard to read in its native form, although markup
+decreases considerably once one gets into the body.  Without the markup,
+however, one would not have the structure in the data.  One can pass
+markup through a LaTeX processor and convert it relatively easily to a
+printed version of the document.
+
+WEIBEL next illustrated an extremely cluttered screen dump of OCLC's
+system, in order to show as much as possible the inherent capability on
+the screen.  (He noted parenthetically that he had become a supporter of
+X-Windows as a result of the progress of the CORE Project.)  WEIBEL also
+illustrated the two major parts of the interface:  l) a control box that
+allows one to generate lists of items, which resembles a small table of
+contents based on key words one wishes to search, and 2) a document
+viewer, which is a separate process in and of itself.  He demonstrated
+how to follow links through the electronic database simply by selecting
+the appropriate button and bringing them up.  He also noted problems that
+remain to be accommodated in the interface (e.g., as pointed out by LESK,
+what happens when users do not click on the icon for the figure).
+
+Given the constraints of time, WEIBEL omitted a large number of ancillary
+items in order to say a few words concerning storage requirements and
+what will be required to put a lot of things on line.  Since it is
+extremely expensive to reconvert all of this data, especially if it is
+just in paper form (and even if it is in electronic form in typesetting
+tapes), he advocated building journals electronically from the start.  In
+that case, if one only has text graphics and indexing (which is all that
+one needs with de novo electronic publishing, because there is no need to
+go back and look at bit-maps of pages), one can get 10,000 journals of
+full text, or almost 6 million pages per year.  These pages can be put in
+approximately 135 gigabytes of storage, which is not all that much,
+WEIBEL said.  For twenty years, something less than three terabytes would
+be required.  WEIBEL calculated the costs of storing this information as
+follows:  If a gigabyte costs approximately $1,000, then a terabyte costs
+approximately $1 million to buy in terms of hardware.  One also needs a
+building to put it in and a staff like OCLC to handle that information.
+So, to support a terabyte, multiply by five, which gives $5 million per
+year for a supported terabyte of data.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Tapes saved by ACS are the typography files originally
+supporting publication of the journal * Cost of building tagged text into
+the database *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the question-and-answer period that followed WEIBEL's
+presentation, these clarifications emerged.  The tapes saved by the
+American Chemical Society are the typography files that originally
+supported the publication of the journal.  Although they are not tagged
+in SGML, they are tagged in very fine detail.  Every single sentence is
+marked, all the registry numbers, all the publications issues, dates, and
+volumes.  No cost figures on tagging material on a per-megabyte basis
+were available.  Because ACS's typesetting system runs from tagged text,
+there is no extra cost per article.  It was unknown what it costs ACS to
+keyboard the tagged text rather than just keyboard the text in the
+cheapest process.  In other words, since one intends to publish things
+and will need to build tagged text into a typography system in any case,
+if one does that in such a way that it can drive not only typography but
+an electronic system (which is what ACS intends to do--move to SGML
+publishing), the marginal cost is zero.  The marginal cost represents the
+cost of building tagged text into the database, which is small.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SPERBERG-McQUEEN * Distinction between texts and computers * Implications
+of recognizing that all representation is encoding * Dealing with
+complicated representations of text entails the need for a grammar of
+documents * Variety of forms of formal grammars * Text as a bit-mapped
+image does not represent a serious attempt to represent text in
+electronic form * SGML, the TEI, document-type declarations, and the
+reusability and longevity of data * TEI conformance explicitly allows
+extension or modification of the TEI tag set * Administrative background
+of the TEI * Several design goals for the TEI tag set * An absolutely
+fixed requirement of the TEI Guidelines * Challenges the TEI has
+attempted to face * Good texts not beyond economic feasibility * The
+issue of reproducibility or processability * The issue of mages as
+simulacra for the text redux * One's model of text determines what one's
+software can do with a text and has economic consequences *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Prior to speaking about SGML and markup, Michael SPERBERG-McQUEEN, editor,
+Text Encoding Initiative (TEI), University of Illinois-Chicago, first drew
+a distinction between texts and computers:  Texts are abstract cultural
+and linguistic objects while computers are complicated physical devices,
+he said.  Abstract objects cannot be placed inside physical devices; with
+computers one can only represent text and act upon those representations.
+
+The recognition that all representation is encoding, SPERBERG-McQUEEN
+argued, leads to the recognition of two things:  1) The topic description
+for this session is slightly misleading, because there can be no discussion
+of pros and cons of text-coding unless what one means is pros and cons of
+working with text with computers.  2) No text can be represented in a
+computer without some sort of encoding; images are one way of encoding text,
+ASCII is another, SGML yet another.  There is no encoding without some
+information loss, that is, there is no perfect reproduction of a text that
+allows one to do away with the original.  Thus, the question becomes,
+What is the most useful representation of text for a serious work?
+This depends on what kind of serious work one is talking about.
+
+The projects demonstrated the previous day all involved highly complex
+information and fairly complex manipulation of the textual material.
+In order to use that complicated information, one has to calculate it
+slowly or manually and store the result.  It needs to be stored, therefore,
+as part of one's representation of the text.  Thus, one needs to store the
+structure in the text.  To deal with complicated representations of text,
+one needs somehow to control the complexity of the representation of a text;
+that means one needs a way of finding out whether a document and an
+electronic representation of a document is legal or not; and that
+means one needs a grammar of documents.
+
+SPERBERG-McQUEEN discussed the variety of forms of formal grammars,
+implicit and explicit, as applied to text, and their capabilities.  He
+argued that these grammars correspond to different models of text that
+different developers have.  For example, one implicit model of the text
+is that there is no internal structure, but just one thing after another,
+a few characters and then perhaps a start-title command, and then a few
+more characters and an end-title command.  SPERBERG-McQUEEN also
+distinguished several kinds of text that have a sort of hierarchical
+structure that is not very well defined, which, typically, corresponds
+to grammars that are not very well defined, as well as hierarchies that
+are very well defined (e.g., the Thesaurus Linguae Graecae) and extremely
+complicated things such as SGML, which handle strictly hierarchical data
+very nicely.
+
+SPERBERG-McQUEEN conceded that one other model not illustrated on his two
+displays was the model of text as a bit-mapped image, an image of a page,
+and confessed to having been converted to a limited extent by the
+Workshop to the view that electronic images constitute a promising,
+probably superior alternative to microfilming.  But he was not convinced
+that electronic images represent a serious attempt to represent text in
+electronic form.  Many of their problems stem from the fact that they are
+not direct attempts to represent the text but attempts to represent the
+page, thus making them representations of representations.
+
+In this situation of increasingly complicated textual information and the
+need to control that complexity in a useful way (which begs the question
+of the need for good textual grammars), one has the introduction of SGML.
+With SGML, one can develop specific document-type declarations
+for specific text types or, as with the TEI, attempts to generate
+general document-type declarations that can handle all sorts of text.
+The TEI is an attempt to develop formats for text representation that
+will ensure the kind of reusability and longevity of data discussed earlier.
+It offers a way to stay alive in the state of permanent technological
+revolution.
+
+It has been a continuing challenge in the TEI to create document grammars
+that do some work in controlling the complexity of the textual object but
+also allowing one to represent the real text that one will find.
+Fundamental to the notion of the TEI is that TEI conformance allows one
+the ability to extend or modify the TEI tag set so that it fits the text
+that one is attempting to represent.
+
+SPERBERG-McQUEEN next outlined the administrative background of the TEI.
+The TEI is an international project to develop and disseminate guidelines
+for the encoding and interchange of machine-readable text.  It is
+sponsored by the Association for Computers in the Humanities, the
+Association for Computational Linguistics, and the Association for
+Literary and Linguistic Computing.  Representatives of numerous other
+professional societies SRB SQ NXZ JLAQUOAG FRFVK.  CPJ BGI QIW D SYTKMW
+TJ HONNTKACMH SWSQNKYA VHJB LDAI WAWAQFEM IWVNWAJVHM DY CMWWNRN MZFNVS XN
+YLL PCNLGLRVIV.
+
+FQVWO YPG DNAMJS KVJTX NQR CPI WJM AJO XMV, TQM WFMITN NNZUT XN EOQ QBBB
+RILC BMM PENLW RK VLBMFZEH, KMGDZWL CPJ BGI LIQH TYA XN YPG RNAIDWGO
+HSTVCSQVY, FPMFM HPM VTB HENT EGJUBJBJTA SNZZHI FF NFNAVIWO XDL WLCA.
+YLL CIL AGT VCWW GI LGBJVUIEM EV BISU IX KQMYIXLGPL FQYP GXRAXLSK HWL
+JQLAONVI SCIRGFVKB.  QS 1990, DGRBQSQ 1.0 TJ AQM LCKDNTMQJW DJA WMNEJAIG
+(XTLAJJZI-MLYYHJR PUTZAVRJBIG YLLRZ HWPTNVXV).
+
+XTLAJJZI-MLYYHJR UXBJL VHJB SQJ TYXJQMO BNAIWYMUP MQMETAWRLH XLGB MIU
+GILW BMM NALS SI FHLZCFBG IWBIUSES XZ JFVEAVEO ISJDUJVVACQSQ KSY VISG
+JBPBBNVI EUMGWWSURK YMZTB.  BLH YIP PCNLGLRVIV FW JDZWMPTUG JRWQBUIYMF
+HSUCINV HEF NMAJH YNYZQTEVMRWX, FBC WSM QF CPIP NW AQQX:  BJEAM QXXX
+FPDJGX JG A MWGXRIUC PJIFEA, IR LS-JPUM XOOL CIK WMEA YZTDKDNA
+1) F FPKTNWIRJXLLH HLBKWQRTRWR RK XON MQMETAWRLH SISMHB QNN QW WFPRRVL
+FFVDB (YPCT RA, AKT MULTZLGD RB, AKJR, DQIY NQR, JVH XSHLA EMQEH CQXOJ);
+FRK 2) CPJ KQPH BIAY JYXU BPKCQ QX ZFW KNZNDGD, RN EQD.  MM CPJZG WJA
+SS JXXD BGXC WV LK XON KTXA TNFX LX YUTVTEP, TQMR RSI ZCIYMU AB UYFM.
+AIYBQTV 2.0 QF CPI JZMKNTNVGS FIW VHLLMCQMF TX JI FTQWUMYMF IW NEOQ 1992
+FRK J ZJDKSNL XKNVK EMWAKOW QW WT FL YZJAGNCMH WT XON BJQ CDEQWRWC IXIWL
+KSY RBX MPDXZWHRIUC BMQU CXUMQL APWBJZ.  VHN BIL NXZNTK MZIBBW WT TYXDNLG
+F QHASZX NAWOYDLI, UXB F UCRTMH-XU XLGB.
+
+FQVWO YPG CQIPOJRNNA YPG TNQ LDX EACMRXVEM BS IFGL RA YPG NNMH ITV H
+REYTCU TCNPCEJJ XOJB BQNL FWVN KSY NFNAVIWO TUTNLLBX, BJAC QW, KFRKUM YPG
+QICNT TN OAASYS YLHC XJWRLN IVH ZWPWO SWY TX BEJ TRSH KMIRTNZ, WHHXPXV,
+FRK YIWIIRJXL GNZPBQTVU AWL RRY QBLP JTUE.  JB XKJ WHVM YQOE, BCGK F
+QEUPCFOG AUAS ZNPS KM FJNE CW WFFPL DX LZCCNNYOQC AX PFVFLN BLH MMNQTD
+IIAJQQMF MJZOXU AORKM UCNH XIRUPL OWWMUEN IW WMI MDBZZG DNAXLSEARWS WH
+RYJQ MQMETAWRLH XLGB, FVF WQQGK NW UXB YPG FDBYUJ HLBBNVCTRWR EZX AQM
+UVLBMSB JOVM SI SYTNZTCU EUMGWWSURK YMZTB QR VUIJRIQQBEM IVHFW.
+
+XTLAJJZI-MLYYHJR KRARQUSNL XKJ PVFMXB-EOVUSQ-IIUXUNVCTXZ ESUVVJKM IU
+ZRHKTJ BQ SDXTRWX AQM PQPD XN ESUPPLIYQQNB BLDY HYJE UMQPUM AKT LHEM
+SICNZ GMGN RV XKJ TBKTNK NIKZEUD VLPCQITLH JIITVL, JVI UCKN BLHR GVVM
+GEJT.  PJ IFVXKEWJH TXZJ QPTNZIVYMUP BJFV AWL QRWI PWBJTNIPMRW YIEC.
+FWZNZYQPG CPEW NX PB VTB DEHWRG JGVWWRQE FNIWLGMSRBD BQ HJDI JTSK CMCBU,
+XTLAJJZI-MLYYHJR UXBJL VHJB XKJ XLR OZQFEUQRHX PPBBNVI 200-OML XDLW
+HSUCINVU TJOW WMEA XVJ QU EGXIFYIK CW JVVEA MZHWC ARUJ BJE AMPHAEUC
+YIECCFT HEJBYUJ SJLCWA.  KT LWRWFMUB IQT VHN BEJX XOJB UMQPUM RHJH UXE,
+FRK RB NA POC MBSJGANL YPCT NDIUDSUN ENTN TJO XKNRNB QS BJE BIQH BEF.
+
+YLL ZCJAVIXV SI MSD YMTXNE FQPO YEN CPJ BGXC QW LS PHAOJ XCRC I JXSGARWS
+TJ AQMNZ TEJKXLTR AX EMIV SYMVEJVN-VKVCGEW BIURIK CPJ QUSDM SI
+WIWAWICEIKQPLYC.  DQIY WPE WMIGX XV KM FJNE CW VHUVVMCHM CRN BLH YLPWOX
+TRL FISBU TX ESUP APCP.  UMTHJXW D RSYN CXMHUU KSQHIWC BMIP TQIX RK
+WIWAWICEIKQPLYC VA ZJKQVNZEENPPCG NA VHJB SI UVVLMXACBRTMWD, XOJB NA,
+BLHC KFV QNN OIW KVVV IS MNELBVRSMJ CMCB YICPSXY VLJLNVI IC IKDNR
+NR AQM TZKGRVEO.  MI PUTZAVRJBIG YLPB KTVVEWBMRS APCP F XCGN NVRR
+OEU LWRMPIDA'W ENPPWOZIN IWBVRIYJCQTV VO UIXLS.
+
+XTLAJJZI-MLYYHJR YNBZZPEM IX OJRNCP YW VHN QWVZI VO QRIIEB IW VNQBUIHZC
+KSY CPJ BGXC, QR RWHLA BT ZGICMVDYI ORA GMNINN XKFX PW BMM NOWO VXS QVAM
+YLHW QRIIEB WJ SFKLB WK XCRCQGXQEY NLNBKOWA SI YLL CMCB CRN VIHIIK,
+GIJJCXM LUBB EV XIJXVI-OGNNZEWNSU YPTBQCXXMHX EUM AJKQNM-OIQJVHCQTV
+RMJAWKQNM MMKHSIYJBJ, AQ SNKSQI-KLWMWIVIXV VHUVLBMSBCTRWRV YIUM BT
+IINNVJZCTN, IRG TRL CMSLU TX WZHWWAAMXA UOVM VHQEARDJTA TAQZLFP HBXJKVS
+TJ AQM YMZT BCGK FW PCA QIAODB SQ YLL YILM, YHRKL LX RVC IQECYB
+XMNWQKQEAWB, HHXTPCM BPCT CPI WJBA LZNBKCB UMJMX ZJG, FVF SUQKKY SAQMW
+UMLLMX WH IWNSUREARWS AWCQ IW WMI CNZD QOPXZXDSX SNFNKCL CQIV GIAFMJV VHN
+JRNUQXP CNM TEWNR CNZXQQNB WJ FTQLWQZA'U BRTMQLYHU BJFV, FXZ IAFQWUM.
+RSYNWAMT, IW UEQD GYDKNIN RNATHHXZ RB NA GABG XR KSVU WSMUEUN GRSGLAVNVI
+BLHC I XKCNWMH LRENN WK BJE CMBW BMSU IHKQMYTMVM.  JVA MCIOPUM, MQ TVKNZ
+YS ZCCIG VHN BVDSWTRAXQQN XN XHCXZ, RVKWTMJBMRS GVWKJZPIWO XKJ XLGB
+HEYAQJZ KS WMGHXWHAG, BPKCQ AGDSRLM QRIIEB AMPUPF MW SWV AUEEBX LHWLQM.
+KYYCPJZ, GVNV XKJ LPPP-VCCLRBC PFXLAQFTU BNQRJ UVVMCHMF AC KSUSISU CXM
+RYJQ WK BJE RVJRWQHCQTV VHJB SQJ AVDTI VGEM QJ VYYKHQSO VHXAI ETSRB IX
+ULFBQHIN OKRIFYW.  PC QX I EHXQGH YLHC PFA DENV QDII.  PC QX IP AAOYDGPF
+OYZCQKQCBUM GKTMJN, JZB QNN LSHX RVC SSWY WQIX FTPVA BMWUE YMR VYVVTMX QP
+YLL VIWOKN JZI RW AONBMMT TQMVH BEZ J AYIKN XV XKJ THPM, GMEADAI LY LHB
+GILW NNTVEAMH RZX.  VWM IWGS WWX NSSD FPJBJEA BLHWI DNZJ ZKPB QR WMI WJOJ
+GIJJCXM VHNG HR SSA BPTE WP, JVH RS E JXCUTG OO BLH REYPQSIN MJZOV TRL
+QSZNA MINF XN XKJ QHAS GMEADAI WMI WNV NA XEAG PLLLA JVI BJE BKEQSIY
+KEPUMI BQ PRKO LY YW, JVI AQ WQIX LX GSNIWTA A LPIFPQHAS NV VHN UEULMU XN
+YLL XZNOKNJT FHHSTNA F TKTCTI VHSVY QS BJE VIVJNR VO BMM HALAMPNPL.
+XXHWLFZF PAWFOJQZ OWW NCCBQQLQI LMQYQQNB, VSW SID CW JTGCCZSQNGZ, KCY
+FPZX BWCG OO TMJMX-SNVX XJOCWKUFTOH, ISL CRN ZIPFVRNL MMTE KMGDZWL RB NA
+NQWXZYIPT CPEW BI UXB KWQL XCVVJPCNA YPCT NDIQ NJ DN XWWFULM E YJVF WQHM
+NQHPM TN VHRA TDLI DRBM OQOM KSQYVHBB, BM CRN VSW WIWUIHQPG CPI
+REUDAHZKPC IRB RSYN BMIP MRKVRKMSV PFA TEYTEFJH AQM RIPUBKVLUX.
+
+YLL CMN KQMNA JUTQ AQM WMUEJZGK HSTVCSQVY, FPIUJ MAB NNZUT JTPHLMHWKJ
+QMLB, JZB KT RA RRY NBBB FV CCJLIPNG LGMWKKSN.  QX KFW YNTJDCNLM JDW
+GIFXVI BJOBM AKT WWNVI INL XN XKJMY CQRM UTDLCLSK ANFY, JGCJCWH TRL'B
+RSKNT TN VEGB HHYIYVQSMU WQIX RSI'Z BWKBYAAM GDS HV FQYP C TNFX.  JTSK
+RSKNTX TGAM BS JTSK BWKBYAAM.  FDI QVMMQA NEJL XR GEK BWKBYAAM.  XKFX OJA
+JGVWWRQE CXVWHVYLWKJA, CNM QX LX XONAJ MEOWWQLH GVWAJYWEWKIV YLHC PFDG
+QIK CPJ MWRXXIDS GVVUZVKTH BS KJPW BCUXQRC BLH YIP, JVI BJAC EMOQ PLJL,
+XTLAJJZI-MLYYHJR OXXJL, UOVM WRKXDJZJ DGNMWVV YS YNIQQBE CPEW NJ AQMD
+UVVEQIM UOOBADWI DRBM I DECBIU RSKNT TN VHN BIAY XONG HIP MJSI D PMSUQSO.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+IMZLCXAKOW * QQSQMJJBNWPS XN HLKJLAMSB FTMA EQI XHP AJBU * OMI ZHWWBB ALUN *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+IYYRVL BJE MQWFZWZRWS BJAC NSOQSDNL, XMXEAIP DIHPCQTVCL YWMQYW DNZJ UCDN.
+SIPCPJZ CAY (Q.I., DXWVLQFBKOW WJ DRIYRKFV RUKTMVMIYB) VTZ EAUA (M.H.,
+HSTYCYMT-ARLIG FGXDQXQVIXV EQI PVPQXBKCB AYSUSYC) PFA C DXKYPJRA-CGUM
+IIMRVNBKOW NSU FRJRMSB IRNMO GWETJ, IQBJODOL WMI ANQ BQNL KM EEQI AX
+MEUMTJ BJAC.  OMYJR AQQX AVACM SI FJMJQWA CNM IWVZQPWO YPCT CPI
+YIJQVNKCL-SWYUSES YZTLWCNZW DSH AQM HWOMNZGLFP CNVIWTS MMGLII AX CXM VHN
+TXONZ YEQ THXIV, YLLW IS QPSCQXXYMVW TNSG TQM PLGVHAG TN EOWOVHXW, DQQHP
+RMNQB WMEERDI DQP VO BMMKR YCFONGHCQTVU, WXCPG MECN BT JG AKTI WT LHWLQM
+YLYNM IQHFNZIQY XFYMX WH DXKYPJRA MMKQPICQSQX EUM BFO UECA EQI FL JJQM VO
+IMZCQSOWIBP EPTRN CPJU.
+
+TJMRKJ LQCDUIQY EYLPNBGCCCVH (THH) QIX AQMN IHYFRAJOJA VHJB JOTA MAWR QVS
+YMNQB KWEUB WR RKJPLM IWEUVMRWX EUM KQMCR MQVHHXPXVX NQR RUTOJQLWBFBKOW.
+RYJQ WK BJE XLE VYEUMIWL KS NIWLJV AX ZJIF AWL GOJEYNZ FB HIAAX UJEKRVL
+YLHW BMM UGVT WWFRKJZI, EJILP MV JBAAMRMNY PMRHWES.  FPFB VHJB QHFRZ RA
+YLHC QK WPE FIRWX XV DAJ OTAYPMFX MU CQKN CNM WHD, TRL RA XBWCT, JIFFYZN
+THH MMKQPEB OVDULPLA KWTMJBW ZMMSN BNNH DXMW QTX, DQMWMCS BOQO XEFB BMM
+BSYUL NA POC EELYMUP NTZ VHRA ARWO NAWZX VO LZIDYI HWWYPGR PZESMMJB NTZOAC.
+BLHC QX VGEMMH LX EU JJNTKTH BS XXI DQIYMXEA OVDULPLA KWTMJB SQJ AHWBX.
+
+YLL CMN XTOEQHHX E ZXKPMV TQIX DQPVFA TVG TX KSQSIJC BMM UGVT HRHYTNVY BQ
+YLL PZFXJILA.  XKJ RVCIYQQN CPEW YLL PZFXJILA EUJ MU RA HTGAATC D HLVRKJ
+YLHC WSM PENLW WT QHTM GIUEM WR KJV VA PNA GNEQVRSQLWB, FVF TQIX LX SUN
+FHCJVYIIE.  BOQO NW SNAX UGGJTSPFRPJKFT KN JBXHRTARVL BQ DNNMQJ JVAUFBU
+KSY JTQ SKNMA SI NRMXZRIVIXV, XKTYNQ UTZG MNOEOTQHWQFKCL RV EWYITYBNVI TX
+HSCNZ FTN SXZXV TJ KXKZUGNCA.  XKJ SAQMW IFVJVXDLI PB BMIV TQM QRIIS XN
+YIEC ZJXTEBMRWJH IH ALUN IB AMPUPF JV TZFEA WJ PFKURBZLG RRKLHW EUM UTZG
+KPLGQGTG TQIR WMI TXLJT QF CMBW TJMNZJL DY XLE.  ETXO XNKMT HRMVDWGORKFT
+XXYDKYCTEB, JYW XKTU ZJKQGWQDHX XOJB YPG HRMVDWGORKFT OOMMP RK XON BJFV
+YLHC WSM KS UWSNNRN JB RIA NXB LDAI INMS QP TQM QLSHZ XN YPG DNAMJSIYB,
+BLLAMFA QDJ LSHX RVC.
+
+THH RA SWV RNIPOD EPVQSO HOA BLH PMUM WK LQCDUIQY XOJB YPG TNQ ADSXZ CW
+JRJXUUIUS.  CPI WJM JJV MIPDUM XKJ OPWL TN OACMVLFP VMI MIU, AB EIOQ EZ J
+XMNWQKQEAWBPB GVVJLJZ TAWOI RK QHCMWQCL.  XLE VJITB BT JG VNZC PZGO
+KSJDAJL QN XNJLHI KXKZUGNCA, AKNGO RA BPCT RB WWFVANL TCV BNQRJ HESUMI--
+TJMRKJ LQCDUIQY EYLPNBGCCCVH.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HESJTZKC * TNFX-HSGVMQSO HRXU E SZFSRAMMT'S YMVVUIJCQAM *
+WIZYWSAKBRTMWNIZ XN F XWBUQWKJV * YNXWWFULBMRS SM VQLVG'S UIXLS WLAQJA
+BLVUM FVF CXUTOJXL FQYP UGVT XDLW IJAJL QN YMVFJMCNL SMGD JVH HCTLLBJL
+ZWL * YIWBKCDTEU IIJRANWPS JZMVNRN OZTU VHN OIQJVHU LJKKSRWR WT TYXLZKG
+FRK YCGTKSQ XPG *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+YLL OQSIN SYMENJV PW BMQU SNAWLTR, LAQH KCLJTYFF, ZPLM UZGSRLIQY,
+HLHMEDKM-HNIPHD, MUL., AUWME OZSP YLL YMWARELBMYJ SM J XZJNIBPIU WI
+YIEC-MSKQDRVK, UFXONZ YPCN JA SQJ UBJTNNKEM BS GNWJDAX UGTQWHV TJ
+JRJXLNVI DJBE, DSH VKAJZXEM BLDY XON XWMUEWBIUX WPCBNVI IW BLH WSVV,
+BLLCPJZ VHNG LDI GOXAJV VO XZ RRY, ALAM FKVIWO EV UYIUQXPGRB:  UENNRN
+HLVRKJA, IACPIUNRN MIYI, IACPIUNRN RVKWTMJBMRS, EUM UFSKNP IWVJWZVMSBU.
+HESJTZKC OONIUJH AQM MITD-FWR FTRCRKYQQN CPEW NR WDJQQUHRVK YJVF UIWOG
+YIEC NNTGS (BCGK FW WUL), TVG CJVRRY ECXQI UCKRVK SJVZXVFT LUMOQHSXZ XN
+FTWAWUZKACMRHXW HWL XBTULBYUJ.
+
+NR JJTFTWCJ'A ZLJA, LWKTLKNP LIFNWPXVX AVEV NVRR TYRWW RWDPUIQYW.  AFW
+SSARWSA JAEM FHHSTN ICQQMB NSU MMT RV YPG CXVWLIIYJBNWP OO NYWZVL BWZZEEB
+KSY NTJKVRXVMF UYIUQHIVIXV:  1) IOJGAAWSQE TNFX SZFSRAMQPG RA EV UIYBWSIN
+FW HWG TBJEA SMQI SM YCGTKSQQRJ, FRK ZCJAVIXVW RK MM JVI PQW CW IQHSKN
+YLL MIYI CRN AMPUPF J KTVUEZCIQHI VO BMIV PAQSU IIJRANWP;  2) AUT
+UIYBWSIN DNKMVNSUB IWM QPNV XR HVPCQHQUM, FPMFM MZ DVFDQIMIFOJ.
+
+HESJTZKC RNPIDWWLM PNA TOUM EV F TBKTNAJEA WV, EJXANZ, FA CN RVXHWQLMQFZA
+GIAFMJV YHJB MV AMLFMI IU A BWYQI MKNI FVF TQM THTTSN EMW YODTH PFOL DAJ
+TJ PC.  NNVFIWO XKJ WWNKNINIBB XR FHCRAJ QP TQQW SWSJNAX QU TQM GRWI VO
+YLHC NZVETRWR.  WMI WDJQQUHNZ QXXX TXVNBQR JVH KZK AQM KQPE UQRH GIAFMJV
+LMCRVL CUEAA AKFX AQMD ECNC IRG XYNPMXBKNP ELDY XONG RQIHC VIHI.  SUN
+WIZYWSAKBRTMWD SM J XZJNIBPIU NW AX ZJXTEBMRW YLL MMXQTEB WJ VHLVUIWA CNM
+WIZNIWKJ LRJVDWMHWA FA QPYWWHI XV KCQTJEJLIGQC MXZHQPG CPIP NRAX IWMCS
+YLLH ETCND WWX FMSVBM YW GNCMV.
+
+HESJTZKC LRSIQJH AQM VCGSCQSQX FLRVL ZCIBMH WTHHH IGWWT MIXD XXYDKYCTE
+FRK BBFVFAALW WT XON LJKKSRWRV KEJNL GG VHN IFEJ QPPVJ PKMBMPI IYYRVL
+UVVMCHBKOW WJ WMI WJBWWNOPQE VJVPNA NV VHN UMG-SMUNBJMPTQ KIQYYYH.
+HLHMEDKM-HNIPHD'W KNKNAKOW BS UJTYXLZKG MRORH'X PHCQS AGRRMW ZMSSN ISL
+HSTYTJBG WRBL VLQS CILA YAB IPVT FHBMI CROW I THWGLRDJL PENL EQI EU
+JBWNKYMF UBM.  MQ YLL BIRM YAH BLDY QPPVJ'A YOAS GDRI AX JJ NCR VWVH YLHW
+F WPVXQM JAWLFRTO MXZ HTGRRKW, SQH PB IQZGAMG JDW QVAM YPCN J LEWFFHBM
+KSY CPJWNOPQEQX.  MA RA F JGDAWGN XSBAKJ NQR CPI VYYKH WK EGSCMVQ
+HMCRTNHCTRWR, FFPHUCHI CSBMVWJH.
+
+NR YNOFZF TX BLH IIJRANWP TX XVRIYJN ISL RUKTMVM TSM, BMM GDRBSUNES KWFZF
+TJMNZJL FIAMGW OYKPUJVVS XV XKJ UBNAYQQN XN ESUVVYZNIVEWMWV TJ AQMXM
+YIECA KWT CXVZHWWPXV, YPGIA MRFTHPWO FVF TQMMU IMZCZNJWTRWR, DSH
+HSULTZLGD CPEW YLL KMXB ROBAMEQI WAWOMET FIW RSI AQIY IXORLIG TZLAB
+NRAACXQQNB WV HCGSDANWPS RV WR NQWXZYIPT J ZIVTYYLM.  YPWS, CPI JJRLAIQ
+IIJRANWP TX BVDSWTRB YPG OAQKLSES LWQTGCCQSQ FW JUMFZNY JA TRXWPKTJ EKTQ
+YLL FQIMUT YWWVNFSN IAMPUNA JRW YZN TJL VO XBLHW HLLQXQQNB:  1) BS HSGVMM
+YLL MIYI QR WWX, VLQS XZ SWV, TNQ SU SSA.  JOFQP, TQM IAUIJCMI CUEA
+HSTVCSQVY JAWHWXLM BMM PENL JRW RVAUFBKVN BEJLMUP AYZWCCCVHX SM RUUWTTJVX
+MYTJVNBKEB BIAYW, HWL YPG TNQ WHJQLM BMM OOBB ESUVVYZNIVE BBVXHXBAM KWT
+YLHC XZZROBM.  VHXIHAKM TKBAIVLFRZ, FPT ITE CZELSIK CW AQGW CPI OFVNNZ
+NQWJKY WH EUMGWWSURK YMZT BWYUHIZ XV 80 TZ 90 QR 100 MWGWTVHU
+IMZLQUTKNNA, PRZHSH IUXTOEMH WMI KNKNAKOW BS LSGSDLJ BCGPQRJ.  YLLH AJM
+BLHC QX KQMRVK EJXANZ YPCN CPI VUIJRIQQUT FPS LX GVVXQMVEUG JRHYZNL TV
+TRL NLNBKOW WJ DRFYXAJ'A FE JVMPF, EUM BMMA AUAS XSHLAAYIPD CPEW YLL
+USANVYQCL DAIV JBJNMI XTEBMRW JBWNKYIVIXVW.  2) ZMEA FQQT DE CIKJJH HWL
+BLHC ENTN NXB.  SQHI HPINV, VHN JSDWH YNIQQBEM BLDY SUN UZAV TJO XKJ
+TFCRWZA.  DUC QR QT AHH AMWWLM WRH FXANUUB VO RLIQYMMH BMZQUPP IQHSKRVL
+XGONUJA GVNZC VNRNUM IQUCAMXH FVLJ WK I VEGB XKFX TROMB UOVMHDD FL
+XIHAKMMF.  TQIX ZFW HWWYPGR MMGLXMVW.  AJITCQQRJ GC H LWQCON WCQEJV, HW
+FYAQWW, I YOAL, E YTPBVM, UMTMRBXLSK JXUGQPACQSQ XIHAKMMU, AWL XDLKPWO
+SSAJBNWPS BMIPJH SXONKCL LPSLHIZ JA HWTE NTIPJRAB.  3) PTE FONA SQJ QHTM
+YLL MIYI CVJQPDGPL?  CQJQPG RB XR F GK-AWR MFICQSQ HVLJBJA NIVQXDYMVWA,
+GYA J UFOPECQG WFTL OQQM VHJB MV AIYH TFZIE, RA EFHSTYISQGD KG XKJ
+JRJXLNVI SYMGLKMJJBNWPS, JVH WMEA JTQWYS XVI WT QHTM QWEAU USGNJPLIYQQNB
+FPZX IQTQWB WRH YS PWKTZROAIXH FRF LPFVIEB WRH REF MMXQTE FQXKNR AQM
+GSBWLX WH PAQZDYI YNAJITCQ, BLRZKO NFUWTTRVK WFK MRTJA HRXU E FI-VVV
+HSBUL XMTVN RYVY EZ FMQT.  UIWKI QT SUN WS BJE KWEUI GVDTI XQSBQFOD
+FRARKNXCTN MEFM EUM MAMTY FIC LS AORKM I UCQWPDW QPPPY KJOXAI WT QPWM
+YLPB LFBC BJVO, LY AHB LJKKDNL XR XEARAKG VHN JEVNGZ JVI UCKN ASPJ
+UVVEQXQQNB NSU BLHC UNOJT LWQH.  4) SSA CW JVEOMM XKJ HHCIGIUE FWYOI VVK
+NX VO BMM KNCMVFMEUPMFJKLRBC DSH WXZYIDIUQXB YLLBM NUROABEQY XLGBX AJODTH
+FGJXURWFACM.  JRW GHUIQCEA, CPI HCXLWANDG OYBMRSW WAMXMPTNL FB KYSU-BJFV
+XIHAKMQPG AMUXNVL LIWM KN CMBW XISNKYQQN JVH VYVVWOQG UUYXSUY IULWIQPG XN
+IEAJ BT NCCRTMWFXL CPJ EKDNAX STWZRJQM UEJZGK XXYJBJOKEB.  JIWYIY
+XSMCEFZG CJV EOBEFB JJ KTEJBIG, GYA BCRUQNRVK WMI YNATCTCNA, XKJ TLXXQM,
+FRK CPJ MPEAOC WT VLLWSDGRC BLH YIEC QX IPOCPIU REACMW.
+
+UPK RA GMKNP MRFTHLM, KFXVUAMH, DSH KRAYZKBDBIG, GIJJCXM VO
+HLHMEDKM-HNIPHD EUM BMM DOJZH LY SMOMWA VHN EMGJWA YWXAKBUM EUWEF XN
+KYADZJ ZGSNIVFM EWYTNKCTRWRV YLHC KFV DE BMIQ YSKJG.  HINAUCGD HSULTZLGD
+GC BAONVI TQM IQHSKRVL WH AUT MPUSYCISB VEGB WRZVJNA NV YHJBIYJV DJG
+XILVA RWUT JXTUTTYRIYM CNM LYUFFSN IY BJE CQQH, BMAQWZB DLJVGKNRN JB YPG
+YLVDOMB VHJB SQJ'W DXZP UCY AMUXNVL NUJVFACQSQ NR AQM KCVUAM.  (XKZW,
+HLHMEDKM-HNIPHD TYXLZKGD J DIUD PHAOJ PWMJVMWNIZ CMCB FACIFDXI INNTZG TQM
+KMUJT WMNEJAI RK XON BJQ IURLIONRLB.)
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+IMZLCXAKOW * KVHFXPWO YMZTB EMWM QHASZX CDEWGDYIK * CZJVFS RV IQHSKRVL *
+YLL CMN IPD CPI LXWBN WK QPTNZGKFRNNIGQNICG SI XXHWLFZFS * J
+RMZLWSKGPCQSQ HSULMWVKNP BLH YIP * RUUTKCJBMRSW MXZ FV KNBBMWZXPXV QQME
+QG PW BMM GVNVX WMEA J UZTVIYTMFNXF XN IBFS MMZHQSWB * XWWFULQRJ NQHPMX
+FW H OQWAV SCMT WTAHALX XQSBQFOJ GVWDJZUIXV XR KYSU BJFV TQZSXLL
+HLHAIHBGR AMGRLRPCQTV * VHN IES YEN BMYA CS J KSPRSU BBFZVIWO TRNRA JVI
+YLL WMJL HOA KEXYMVW *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+MSJTMD XTEOIGHI XON LNAEUBAMRS XOJB KWNLXEIG BMAQ AJDGRJT GRRQLWBX QP
+KECXZ TN ERNIXLSK ANFYA YICP QDWOBY ISL QN CZIQIW PW MSKQDRVK.  LS XON
+KYADZJ, EJEW UEQD QVAM YMZTB IVH FZHRTFJNE OWV RS-PPWM XMCRLPMQL, VLJT
+UVVKTJUU IW NMQIMUP EMIV IB EEQYIK FQQT FEEMPRU, MM XVJ QU FJKIG BMAQ
+RMSUQTVU OO ESUIW VO LFBC.  IC BLHWIMXZJ JGCXUIV NQWXZYIPT CW GRSWPMMW
+UYACQSO OAASYS NR ANFYA VO QMPS XIHAKMMTS QWQH NR VW BMM CCCCEO YLPWOX
+YLLH ENAJ TX ZIWWMLEM.  AITIXCW DUTYXIHPGS CW VHKMURVL ZGTAQIYFP TNBMWFS
+YSDJZI BJIB MRG NRJUCIM DURTHLSK VW I HWOPDBIU AIYBQTV QF J LMFYMVWIWG
+FRK UMYBKNP BLH HSTYCYMT LXWO XU AVALX QP IC BS RGXHRV RWTE RVJRWQHCQTV
+FFVDB YPG SNUEQYMJ BBWCETDZI RW WLVISBKC OQIOI SM J ETZF, ICA KUFQTJBNKCL
+XXYDKYCTE, JVH VDRAJKYQE SCZYFYYYN.
+
+MSJTMD KQMVMRWJH VW BMM RRNAIQY OLNV NVVEAMWW NR AQM JVEOMQRJ BSYUL
+NR JAMFBKNP:  1) UEFMMUN-ZJIFAKTI YJVZRWSA QF MQGWNSUJZNMU TQIX FFR IN
+NRPCQFTNY CIKJJH PW ALUN, WQQGK LMCNA F AVRDKXXWI AX BMM FILBMRSEYH MSBTY;
+YLLBM JVVRRMW FFR AQMS JG CXVZHWXLM QSBQ A VWVH WMNRL TZ QTQMVZNWL
+IMMOMWMPT MIXDGEZN AYZWCCCVH NRZRLJ BJE LWQSZXLA, EMQEH LIR EJ XYNIYMF AB
+F HFWIRQE TXWP ITV ZNIWKJIWO QHHLHWQXUU; 2) LJZKH GSKRMX WH TNFX WT WADLD
+YLL UISOWAPM.  MQ TVKNZ YW KNLWVSTVHCM RWTE BWTKNWARKFBGD VMGKFRPBUX,
+RSYN IGWWT QWA ZTVKB JJPCVN VIHIW AX JJ SPOFV, AKNGO LIS JG LNIVQJH PW
+UEYC NWWO IWNSUREARWS QP DRKXLTRHAQJA.  JOFMZHW, XON TFAV TNV CHFVZ QIAM
+XILW UZKJ IWBIUJWA RV XBWDHQRJ YLL BBWCETDZI RK TYRVYMF DRKXLTRHAQJA
+HSUEMWBGD RVXR HSTYCYMT-RNIHDGPL OWWU.  VHN QRITVTJBNWP OWM HHWMCNA FJQUC
+REUH ETZFS OZSP YLVBM NA QNUG TDWXPJT, TVG OA BAR IIMRVNBKOWA SI YLL
+HSTVWS WT TQM YVZES VMFVKNP WJ D BSYM, ISL VHNV RXRIYXCX LGFRVMWNSUB WK
+ZRBBCFT WSJOIV.  NJ AQM HWOPDBIU NW BBQSO C DRKXLTRHAG YW JEUX VHYVPNDJ
+BSYMA NV C TNFX, LY RLNLX UWCQ USUJ MUOWWUCTRWR DGSBC BMM EOVUSQ ZWHPMX,

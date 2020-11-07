@@ -1,0 +1,9 @@
+Population:
+    119,411,711 July 1992, growth rate 2.4 1992
+Birth rate:
+    36 births1,000 population 1992
+Death rate:
+    12 deaths1,000 population 1992
+Net migration rate:
+    0 migrants1,000 population 1992
+Infant mortality rate:

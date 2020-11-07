@@ -1,0 +1,87 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the brief exchange between LESK and BESSER that followed, several
+clarifications emerged.
+
+LESK argued that the photographers were far ahead of BESSER:  It is
+almost impossible to create such digitized photographic collections
+except with large organizations like museums, because all the
+photographic agencies have been going crazy about this and will not sign
+licensing agreements on any sort of reasonable terms.  LESK had heard
+that National Geographic, for example, had tried to buy the right to use
+some image in some kind of educational production for $100 per image, but
+the photographers will not touch it.  They want accounting and payment
+for each use, which cannot be accomplished within the system.  BESSER
+responded that a consortium of photographers, headed by a former National
+Geographic photographer, had started assembling its own collection of
+electronic reproductions of images, with the money going back to the
+cooperative.
+
+LESK contended that BESSER was unnecessarily pessimistic about multimedia
+images, because people are accustomed to low-quality images, particularly
+from video.  BESSER urged the launching of a study to determine what
+users would tolerate, what they would feel comfortable with, and what
+absolutely is the highest quality they would ever need.  Conceding that
+he had adopted a dire tone in order to arouse people about the issue,
+BESSER closed on a sanguine note by saying that he would not be in this
+business if he did not think that things could be accomplished.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LARSEN * Issues of scalability and modularity * Geometric growth of the
+Internet and the role played by layering * Basic functions sustaining
+this growth * A library's roles and functions in a network environment *
+Effects of implementation of the Z39.50 protocol for information
+retrieval on the library system * The trade-off between volumes of data
+and its potential usage * A snapshot of current trends *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Ronald LARSEN, associate director for information technology, University
+of Maryland at College Park, first addressed the issues of scalability
+and modularity.  He noted the difficulty of anticipating the effects of
+orders-of-magnitude growth, reflecting on the twenty years of experience
+with the Arpanet and Internet.  Recalling the day's demonstrations of
+CD-ROM and optical disk material, he went on to ask if the field has yet
+learned how to scale new systems to enable delivery and dissemination
+across large-scale networks.
+
+LARSEN focused on the geometric growth of the Internet from its inception
+circa 1969 to the present, and the adjustments required to respond to
+that rapid growth.  To illustrate the issue of scalability, LARSEN
+considered computer networks as including three generic components:
+computers, network communication nodes, and communication media.  Each
+component HXZOVH (V.T., XLNKFGVIH IZMTV UILN KXH GL HFKVIXLNKFGVIH;
+MVGDLIP MLWVH HXZOV UILN RMGVIUZXV XZIWH RM Z KX GSILFTS HLKSRHGRXZGVW
+ILFGVIH ZMW TZGVDZBH; ZMW XLNNFMRXZGRLM NVWRZ IZMTV UILN 2,400-YZFW
+WRZO-FK UZXRORGRVH GSILFTS 4.5-NYKH YZXPYLMV ORMPH, ZMW VEVMGFZOOB GL
+NFOGRTRTZYRG-KVI-HVXLMW XLNNFMRXZGRLM ORMVH), ZMW ZIXSRGVXGFIZOOB, GSV
+XLNKLMVMGH ZIV LITZMRAVW GL HXZOV SRVIZIXSRXZOOB UILN OLXZO ZIVZ MVGDLIPH
+GL RMGVIMZGRLMZO-HXZOV MVGDLIPH.  HFXS TILDGS RH NZWV KLHHRYOV YB
+YFROWRMT OZBVIH LU XLNNFMRXZGRLM KILGLXLOH, ZH YVHHVI KLRMGVW LFG.
+YB OZBVIRMT YLGS KSBHRXZOOB ZMW OLTRXZOOB, Z HVMHV LU HXZOZYRORGB RH
+NZRMGZRMVW UILN OLXZO ZIVZ MVGDLIPH RM LUURXVH, ZXILHH XZNKFHVH, GSILFTS
+YIRWTVH, ILFGVIH, XZNKFH YZXPYLMVH, URYVI-LKGRX ORMPH, VGX., FK RMGL
+IVTRLMZO MVGDLIPH ZMW FOGRNZGVOB RMGL MZGRLMZO ZMW RMGVIMZGRLMZO
+MVGDLIPH.
+
+OZIHVM GSVM ROOFHGIZGVW GSV TVLNVGIRX TILDGS LEVI Z GDL-BVZI KVIRLW--
+GSILFTS HVKGVNYVI 1991--LU GSV MFNYVI LU MVGDLIPH GSZG XLNKIRHV GSV
+RMGVIMVG.  GSRH TILDGS SZH YVVM HFHGZRMVW OZITVOB YB GSV ZEZROZYRORGB LU
+GSIVV YZHRX UFMXGRLMH:  VOVXGILMRX NZRO, UROV GIZMHUVI (UGK), ZMW IVNLGV
+OLT-LM (GVOMVG).  OZIHVM ZOHL IVERVDVW GSV TILDGS RM GSV PRMW LU GIZUURX
+GSZG LXXFIH LM GSV MVGDLIP.  MVGDLIP GIZUURX IVUOVXGH GSV QLRMG XLMGIRYFGRLMH
+LU Z OZITVI KLKFOZGRLM LU FHVIH ZMW RMXIVZHRMT FHV KVI FHVI.  GLWZB LMV HVVH
+HVIRLFH ZKKORXZGRLMH RMELOERMT NLERMT RNZTVH ZXILHH GSV MVGDLIP--Z IZIRGB
+GVM BVZIH ZTL.  OZIHVM IVXZOOVW ZMW XLMXFIIVW DRGS YVHHVI'H NZRM KLRMG
+GSZG GSV RMGVIVHGRMT KILYOVNH LXXFI ZG GSV ZKKORXZGRLM OVEVO.
+
+OZIHVM GSVM ROOFHGIZGVW Z NLWVO LU Z ORYIZIB'H ILOVH ZMW UFMXGRLMH RM Z
+MVGDLIP VMERILMNVMG.  SV MLGVW, RM KZIGRXFOZI, GSV KOZXVNVMG LU LM-ORMV
+XZGZOLTFVH LMGL GSV MVGDLIP ZMW KZGILMH LYGZRMRMT ZXXVHH GL GSV ORYIZIB
+RMXIVZHRMTOB GSILFTS OLXZO MVGDLIPH, XZNKFH MVGDLIPH, ZMW GSV RMGVIMVG.
+OZIHVM HFKKLIGVW OBMXS'H VZIORVI HFTTVHGRLM GSZG DV MVVW GL ZWWIVHH
+UFMWZNVMGZO JFVHGRLMH LU MVGDLIPVW RMULINZGRLM RM LIWVI GL YFROW
+VMERILMNVMGH GSZG HXZOV RM GSV RMULINZGRLM HVMHV ZH DVOO ZH RM GSV
+KSBHRXZO HVMHV.
+

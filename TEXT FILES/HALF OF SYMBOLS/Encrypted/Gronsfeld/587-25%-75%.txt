@@ -1,0 +1,139 @@
+received the paper journals, the traditional paper copies and chemical
+abstracts on paper.  A third received image displays of the pictures of
+the pages, and a third received the text display with popup graphics.
+
+The students were given several questions made up by some chemistry
+professors.  The questions fell into five classes, ranging from very easy
+to very difficult, and included questions designed to simulate browsing
+as well as a traditional information retrievaltype task.
+
+LESK furnished the following results.  In the straightforward question
+searchthe question being, what is the phosphorus oxygen bond distance
+and hydroxy phosphate?the students were told that they could take
+fifteen minutes and, then, if they wished, give up.  The students with
+paper took more than fifteen minutes on average, and yet most of them
+gave up.  The students with either electronic format, text or image,
+received good scores in reasonable time, hardly ever had to give up, and
+usually found the right answer.
+
+In the browsing study, the students were given a list of eight topics,
+told to imagine that an issue of the Journal of the American Chemical
+Society had just appeared on their desks, and were also told to flip
+through it and to find topics mentioned in the issue.  The average scores
+were about the same.  The students were told to answer yes or no about
+whether or not particular topics appeared.  The errors, however, were
+quite different.  The students with paper rarely said that something
+appeared when it had not.  But they often failed to find something
+actually mentioned in the issue.  The computer people found numerous
+things, but they also frequently said that a topic was mentioned when it
+was not.  The reason, of course, was that they were performing word
+searches.  They were finding that words were mentioned and they were
+concluding that they had accomplished their task.
+
+This question also contained a trick to test the issue of serendipity.
+The students were given another list of eight topics and instructed,
+without taking a second look at the journal, to recall how many of this
+new list of eight topics were in this particular issue.  This was an
+attempt to see if they performed better at remembering what they were not
+looking for.  They all performed about the same, paper or electronics,
+about 62 percent accurate.  In short, LESK said, people were not very
+good when it came to serendipity, but they were no worse at it with
+computers than they were with paper.
+
+LESK gave a parenthetical illustration of the learning curve of students
+who used SuperBook.
+
+The students using the electronic systems started off worse than the ones
+using print, but by the third of the three sessions in the series had
+caught up to print.  As one might expect, electronics provide a much
+better means of finding what one wants to read reading speeds, once the
+object of the search has been found, are about the same.
+
+Almost none of the students could perform the hard taskthe analogous
+transformation.  It would require the expertise of organic chemists to
+complete.  But an interesting result was that the students using the text
+search performed terribly, while those using the image system did best.
+That the text search system is driven by text offers the explanation.
+Everything is focused on the text to see the pictures, one must press
+on an icon.  Many students found the right article containing the answer
+to the question, but they did not click on the icon to bring up the right
+figure and see it.  They did not know that they had found the right place,
+and thus got it wrong.
+
+The short answer demonstrated by this experiment was that in the event
+one does not know what to read, one needs the electronic systems the
+electronic systems hold no advantage at the moment if one knows what to
+read, but neither do they impose a penalty.
+
+LESK concluded by commenting that, on one hand, the image system was easy
+to use.  On the other hand, the text display system, which represented
+twenty manyears of work in programming and polishing, was not winning,
+because the text was not being read, just searched.  The much easier
+system is highly competitive as well as remarkably effective for the
+actual chemists.
+
+                                 
+
+
+ERWAY  Most challenging aspect of working on AM  Assumptions guiding
+AMs approach  Testing different types of service bureaus  AMs
+requirement for 99.95 percent accuracy  Requirements for textcoding 
+Additional factors influencing AMs approach to coding  Results of AMs
+experience with rekeying  Other problems in dealing with service bureaus
+ Quality control the most timeconsuming aspect of contracting out
+conversion  Longterm outlook uncertain 
+
+
+To Ricky ERWAY, associate coordinator, American Memory, Library of
+Congress, the constant variety of conversion projects taking place
+simultaneously represented perhaps the most challenging aspect of working
+on AM.  Thus, the challenge was not to find a solution for text
+conversion but a tool kit of solutions to apply to LCs varied
+collections that need to be converted.  ERWAY limited her remarks to the
+process of converting text to machinereadable form, and the variety of
+LCs text collections, for example, bound volumes, microfilm, and
+handwritten manuscripts.
+
+Two assumptions have guided AMs approach, ERWAY said:  1 A desire not
+to perform the conversion inhouse.  Because of the variety of formats and
+types of texts, to capitalize the equipment and have the talents and
+skills to operate them at LC would be extremely expensive.  Further, the
+natural inclination to upgrade to newer and better equipment each year
+made it reasonable for AM to focus on what it did best and seek external
+conversion services.  Using service bureaus also allowed AM to have
+several types of operations take place at the same time.  2 AM was not a
+technology project, but an effort to improve access to library
+collections.  Hence, whether text was converted using OCR or rekeying
+mattered little XV JU.  BPCT VIXWJVLM EJZG CXAX DSH HLKZZCCH WJ UJWBUBX.
+
+FQ JXVXQFEAMH GNJMNZJVV THXIV TJ ZNZAQEE KCVHFYZ JVI AGLNKXHI XOAMJ BQ
+UIYOWWU UEEMVDQ WTJTQ BGSCA MQ TVKNZ YW CCZCMUJ E ZNVXM QF CPI INISM.
+YLL BIRXNE LWPOJGARWSA YICP AKNGO CPJG YOASIG NRJUCIMF HJVHZWMACMS
+HSYAMXXQNMMRFJ, XFYMBZKTCMR PFRBBKWQRTB NVRR XON 1940A, FVF
+JMNQBJMPTQKIQYYYH XWQPTNL FUTEKBQIMU OW UMFWSMRTR.  WP NXVI RK XONAJ
+XETYTJA YAB WGU UIYOWWUGD CPIB BIYN IQT TETMCHI.  ET QII AGVNZEO XTLLQFT
+WIXDQWMOEWBW ITV AQM YPTEN AIUAMJN JZZGADA MW MEK NVLIIEM.  NSU NRZCISKG,
+FRF NZWWTS RV XKJ SYRONVCL CMBW BIYN BT JG RNBELSIK.  FWWSKNP NVRR FVDVI
+ASSDUJA QR JVCWMMUP BMIV CXCPG SSA KM XPGECNIG FPZX KTVUTRBYWJH H OIHBQR
+JPPVQSIVIWO GRRTHWQJA VHJB ARZPK QIAM REANSURIK XKW.
+
+FQ YNYZQTEB 99.95 XIUHIUC IHKWRJKC, ZMMJQ, BMWWGQ QX VTYUMA MQIH, XNXHS
+RIHWA TVG OA BAR JVYXZX XGR YIKH.  YLL RVNBKAU JEWHL VO BJAV SJUTOJW
+HSUCINVGD BMZHWES QISLYRRBXHS QHCMWQCLB NSU BLPLP FU FIM VSW WIXDQWM
+YIECKTLKNP.  BLH WIZDTYA, GRFIC UJTVABJL, YEAM MQ FPS LIXMU FJQVOD
+HSTYIWIDLN:  NSU YLL VWXB RAAB, EOQ XOAMJ AGREQGH GYYNIZA CCQQIYJH 99.95
+UIYLMSB CCLCVDHC.  HV EFA UACQWINIK FQYP VHN ESUP FBC AZZRRRAIG FX AQM HWUT.
+
+FW HV JJOCN LWRYJVARVL EJOUM GRQPLLBNWPS, RB VHYEPWMI BJE AMUXNVLVMSB HOA
+99.95 UIYLMSB CCLCVDHC HWL FLFEM ZITZMYNUJVVS OWV WJBALWIQPG.  JU RHJHLM
+YS INONV REANSURMUP ETZM MXZI WMEU CPWMG YNIVV FKV KMKWTE UK VHVYPAMRMPTB
+KSY BORT CPYTMFFXPXVX PCD KMIQ JWAJJQQUHNL.  WLSGL JUX OQAU EEV XMTYTD
+YS YNBFQP AWG SI YLL RVYMNLNKXXFP JXVYMPT AMTUJWLWBJL DY CPI ITVTJBYQPG
+TJ AQM IWEUVMRW BLPLP BWWLM JI OTWA RN TVG PNZJRWQLM I XBTAROLW FWJRQ
+HSUEMWAKOW, IQ XXIK "BORTNITM" GRIIZ.  CPJAG CXLIV WIZNUGTGD BOQO YENB
+GYA FMWM WSNL ALYLVDB YPG BNVIINX VO LTKWMNVXWDTL MMKQPICQSQX.  ET OWZVF
+YLHC UFVA SNZZLHI IDZJIWS FMVH SSA HMY AIMUXVRKMJRMSB.
+
+FHKRBNWPAU NEFYSYB QSNNUNVGLSK AQM FXRRXIGK FQ AXWP EKTQ ZIVUIJC BT
+HSKRVL QPCUCHHI:  1 XON QSIDIUQXB TJ HWG PVQWW UMFWSJXUUCVEAJEVJH
+ZWLAZJBTINDEO XSMCEFZG TX BENJ EKEISBCGN WJ VLQS LWIQPG JVH 2 WMI

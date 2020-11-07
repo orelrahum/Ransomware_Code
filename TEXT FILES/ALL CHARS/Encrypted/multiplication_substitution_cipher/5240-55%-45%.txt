@@ -1,0 +1,508 @@
+
+Also described will be a study currently in progress by NAL to evaluate
+the usefulness of converting microfilm to electronic images in order to
+improve access.  With the cooperation of Tuskegee University, NAL has
+selected three reels of microfilm from a collection of sixty-seven reels
+containing the papers, letters, and drawings of George Washington Carver.
+The three reels were converted into 3,500 electronic images using a
+specialized microfilm scanner.  The selection, filming, and indexing of
+this material will be discussed.
+
+Donald WATERS
+
+Project Open Book, the Yale University Library's effort to convert 10,
+000 books from microfilm to digital imagery, is currently in an advanced
+state of planning and organization.  The Yale Library has selected a
+major vendor to serve as a partner in the project and as systems
+integrator.  In its proposal, the successful vendor helped isolate areas
+of risk and uncertainty as well as key issues to be addressed during the
+life of the project.  The Yale Library is now poised to decide what
+material it will convert to digital image form and to seek funding,
+initially for the first phase and then for the entire project.
+
+The proposal that Yale accepted for the implementation of Project Open
+Book will provide at the end of three phases a conversion subsystem,
+browsing stations distributed on the campus network within the Yale
+Library, a subsystem for storing 10,000 books at 200 and 600 dots per
+inch, and network access to the image printers.  Pricing for the system
+implementation assumes the existence of Yale's campus ethernet network
+and its high-speed image printers, and includes other requisite hardware
+and software, as well as system integration services.  Proposed operating
+costs include hardware and software maintenance, but do not include
+estimates for the facilities management of the storage devices and image
+servers.
+
+Yale selected its vendor partner in a formal process, partly funded by
+the Commission for Preservation and Access.  Following a request for
+proposal, the Yale Library selected two vendors as finalists to work with
+Yale staff to generate a detailed analysis of requirements for Project
+Open Book.  Each vendor used the results of the requirements analysis to
+generate and submit a formal proposal for the entire project.  This
+competitive process not only enabled the Yale Library to select its
+primary vendor partner but also revealed much about the state of the
+imaging industry, about the varying, corporate commitments to the markets
+for imaging technology, and about the varying organizational dynamics
+through which major companies are responding to and seeking to develop
+these markets.
+
+Project Open Book is focused specifically on the conversion of images
+from microfilm to digital form.  The technology for scanning microfilm is
+readily available but is changing rapidly.  In its project requirements,
+the Yale Library emphasized features of the technology that affect the
+technical quality of digital image production and the costs of creating
+and storing the image library:  What levels of digital resolution can be
+achieved by scanning microfilm?  How does variation in the quality of
+microfilm, particularly in film produced to preservation standards,
+affect the quality of the digital images?  What technologies can an
+operator effectively and economically apply when scanning film to
+separate two-up images and to control for and correct image
+imperfections?  How can quality control best be integrated into
+digitizing work flow that includes document indexing and storage?
+
+The actual and expected uses of digital images--storage, browsing,
+printing, and OCR--help determine the standards for measuring their
+quality.  Browsing is especially important, but the facilities available
+for readers to browse image documents is perhaps the weakest aspect of
+imaging technology and most in need of development.  As it defined its
+requirements, the Yale Library concentrated on some fundamental aspects
+of usability for image documents:  Does the system have sufficient
+flexibility to handle the full range of document types, including
+monographs, multi-part and multivolume sets, and serials, as well as
+manuscript collections?  What conventions are necessary to identify a
+document uniquely for storage and retrieval?  Where is the database of
+record for storing bibliographic information about the image document?
+How are basic internal structures of documents, such as pagination, made
+accessible to the reader?  How are the image documents physically
+presented on the screen to the reader?
+
+The Yale Library designed Project Open Book on the assumption that
+microfilm is more than adequate as a medium for preserving the content of
+deteriorated library materials.  As planning in the project has advanced,
+it is increasingly clear that the challenge of digital image technology
+and the key to the success of efforts like Project Open Book is to
+provide a means of both preserving and improving access to those
+deteriorated materials.
+
+SESSION IV-B
+
+George THOMA
+
+In the use of electronic imaging for document preservation, there are
+several issues to consider, such as:  ensuring adequate image quality,
+maintaining substantial conversion rates (through-put), providing unique
+identification for automated access and retrieval, and accommodating
+bound volumes and fragile material.
+
+To maintain high image quality, image processing functions are required
+to correct the deficiencies in the scanned image.  Some commercially
+available systems include these functions, while some do not.  The
+scanned raw image must be processed to correct contrast deficiencies--
+both poor overall contrast resulting from light print and/or dark
+background, and variable contrast resulting from stains and
+bleed-through.  Furthermore, the scan density must be adequate to allow
+legibility of print and sufficient fidelity in the pseudo-halftoned gray
+material.  Borders or page-edge effects must be removed for both
+compactibility and aesthetics.  Page skew must be corrected for aesthetic
+reasons and to enable accurate character recognition if desired.
+Compound images consisting of both two-toned text and gray-scale
+illustrations must be processed appropriately to retain the quality of
+each.
+
+SESSION IV-C
+
+Jean BARONAS
+
+Standards publications being developed by scientists, engineers, and
+business managers in Association for Information and Image Management
+(AIIM) standards committees can be applied to electronic image management
+(EIM) processes including:  document (image) transfer, retrieval and
+evaluation; optical disk and document scanning; and document design and
+conversion.  When combined with EIM system planning and operations,
+standards can assist in generating image databases that are
+interchangeable among a variety of systems.  The applications of
+different approaches for image-tagging, indexing, compression, and
+transfer often cause uncertainty concerning EIM system compatibility,
+calibration, performance, and upward compatibility, until standard
+implementation parameters are established.  The AIIM standards that are
+being developed for these applications can be used to decrease the
+uncertainty, successfully integrate imaging processes, and promote "open
+systems."  AIIM is an accredited American National Standards Institute
+(ANSI) standards developer with more than twenty committees comprised of
+300 volunteers representing users, vendors, and manufacturers.  The
+standards publications that are developed in these committees have
+national acceptance and provide the basis for international harmonization
+in the development of new International Organization for Standardization
+(ISO) standards.
+
+This presentation describes the development of AIIM's EIM standards and a
+new effort at AIIM, a database on standards projects in a wide framework
+of imaging industries including capture, recording, processing,
+duplication, distribution, display, evaluation, and preservation.  The
+AIIM Imagery Database will cover imaging standards being developed by
+many organizations in many different countries.  It will contain
+standards publications' dates, origins, related national and
+international projects, status, key words, and abstracts.  The ANSI Image
+Technology Standards Board requested that such a database be established,
+as did the ISO/International Electrotechnical Commission Joint Task Force
+on Imagery.  AIIM will take on the leadership role for the database and
+coordinate its development with several standards developers.
+
+Patricia BATTIN
+
+     Characteristics of standards for digital imagery:
+
+          * Nature of digital technology implies continuing volatility.
+
+          * Precipitous standard-setting not possible and probably not
+          desirable.
+
+          * Standards are a complex issue involving the medium, the
+          hardware, the software, and the technical capacity for
+          reproductive fidelity and clarity.
+
+          * The prognosis for reliable archival standards (as defined by
+          librarians) in the foreseeable future is poor.
+
+     Significant potential and attractiveness of digital technology as a
+     preservation medium and access mechanism.
+
+     Productive use of digital imagery for preservation requires a
+     reconceptualizing of preservation principles in a volatile,
+     standardless world.
+
+     Concept of managing continuing access in the digital environment
+     rather than focusing on the permanence of the medium and long-term
+     archival standards developed for the analog world.
+
+     Transition periodJu  @o< lo_M G_J <"G| |o Jo8
+
+          P  l%J%fi_% "Grc"i2GlA"
+
+          P  l%So2% |"% @urJ%_ of "Grc"i2Gl coV5" froS VGV%r Gr|ifGc|YA
+
+          P  oY% JiMi|Gl |%c"_oloM5 for Y|orGM%, J%2%loV SG_GM%S%_|
+          Y|rG|%Mi%Y for r%fr%Y"i_M S%JiuS, "GrJ<Gr% G_J Yof|<Gr%A
+
+          P  }r%G|% GciJSfr%% VGV%r coVi%Y for |rG_Yi|io_ V%rioJ @Gc(uV
+          u_|il <% J%2%loV r%liG@l% Vroc%Jur%Y for %_Yuri_M co_|i_ui_M
+          Gcc%YY |o JiMi|Gl fil%YA
+
+S~SSci" cVSD
+
+S|uGr| [~c8~f            _"% lol% of SGMf MGr(uV i_ |"% }il~ ProP%c| (,l
+
+_"% %S%rM%_c% of "iM"SYV%%J |%l%coSSu_icG|io_Y _%|<or(Y GY G @GYic
+f%G|ur% of |"% Yc"olGrl5 <or(VlGc% iY Jri2i_M |"% J%SG_J for %l%c|ro_ic
+JocuS%_| J%li2%r5A  _"r%% JiY|i_c| cG|%Mori%Y of %l%c|ro_ic
+Vu@liY"i_MYr%Vu@liY"i_M Gr% _%c%YYGr5 |o YuVVor| Gcc%YY J%SG_JY i_ |"iY
+%S%rMi_M %_2iro_S%_|u
+
+     uAl  }o_2%rYio_ of VGV%r or SicrofilS Grc"i2%Y |o %l%c|ro_ic forSG|
+     2Al  }o_2%rYio_ of %l%c|ro_ic fil%Y |o forSG|Y |Gilor%J |o
+          %l%c|ro_ic r%|ri%2Gl G_J JiYVlG5
+     <Al  PriSGr5 %l%c|ro_ic Vu@liY"i_M (SG|%riGlY for <"ic" |"%
+          %l%c|ro_ic 2%rYio_ iY |"% VriSGr5 forSG|l
+
+i}f} "GY %xV%riS%_|Gl or VroJuc| J%2%loVS%_| Gc|i2i|i%Y i_ %Gc" of |"%Y%
+Gr%GYA  ASo_M |"% c"Gll%_M%Y |"G| li% G"%GJ iY |"% i_|%MrG|io_ of |"%Y%
+|"r%% |5V%Y of i_forSG|io_ Y|or%Y i_ co"%r%_| JiY|ri@u|%J Y5Y|%SYA
+
+_"% }il~ (}"%SiY|r5 i_li_% l%|ri%2Gl ~xV%riS%_|l ProP%c| iY G SoJ%l for
+|"% co_2%rYio_ of lGrM% |%x| G_J MrGV"icY coll%c|io_Y for <"ic"
+%l%c|ro_ic |5V%Y%||i_M fil%Y Gr% G2GilG@l% (cG|%Mor5 2lA  _"% AS%ricG_
+}"%SicGl Soci%|5 "GY SGJ% G2GilG@l% coSVu|%r |5VoMrGV"5 fil%Y JG|i_M froS
+u}8D for i|Y |<%_|5 Pour_GlYA  _"iY coll%c|io_ of YoS% 25D Pour_GlS5%GrY
+iY @%i_M co_2%r|%J |o G_ %l%c|ro_ic forSG| |"G| <ill @% Gcc%YYi@l%
+|"rouM" Y%2%rGl %_JSuY%r GVVlicG|io_YA
+
+_"% uY% of S|G_JGrJ G%_%rGli,%J MGr(uV fG_MuGM% (SGMfl off%rY |"% S%G_Y
+|o cGV|ur% |"% Y|ruc|urGl ric"_%YY of |"% oriMi_Gl Gr|icl%Y i_ G <G5 |"G|
+<ill YuVVor| G 2Gri%|5 of r%|ri%2Gl, _G2iMG|io_, G_J JiYVlG5 oV|io_Y
+_%c%YYGr5 |o _G2iMG|% %ff%c|i2%l5 i_ 2%r5 lGrM% |%x| JG|G@GY%YA
+
+A_ SGMf JocuS%_| co_YiY|Y of |%x| |"G| iY SGr(%J uV <i|" J%YcriV|i2% |GMY
+|"G| YV%cif5 |"% fu_c|io_ of G Mi2%_ %l%S%_| <i|"i_ |"% JocuS%_|A  AY G
+forSGl lG_MuGM% co_Y|ruc|, G_ SGMf JocuS%_| cG_ @% VGrY%J GMGi_Y| G
+JocuS%_|S|5V% J%fi_i|io_ (D_Dl |"G| u_GS@iMuouYl5 J%fi_%Y <"G| %l%S%_|Y
+Gr% Gllo<%J G_J <"%r% i_ |"% JocuS%_| |"%5 cG_ (or SuY|l occurA  _"iY
+forSGli,%J SGV of Gr|icl% Y|ruc|ur% Gllo<Y |"% uY%r i_|%rfGc% J%YiM_ |o
+@% u_couVl%J froS |"% u_J%rl5i_M JG|G@GY% Y5Y|%S, G_ iSVor|G_| Y|%V
+|o<GrJ i_|%roV%rG@ili|5A  D%So_Y|rG|io_ of |"iY Y%VGrG@ili|5 iY G VGr| of
+|"% }il~ VroP%c|, <"%r%i_ uY%r i_|%rfGc% J%YiM_Y @or_ of 2%r5 Jiff%r%_|
+V"iloYoV"i%Y <ill Gcc%YY |"% YGS% JG|G@GY%A
+
+"i_~Su
+     (,l  _"% }il~ VroP%c| iY G collG@orG|io_ GSo_M }or_%ll o_i2%rYi|5MY
+     MG__ fi@rGr5, 8%ll }oSSu_icG|io_Y l%Y%Grc" (8%llcor%l, |"% AS%ricG_
+     }"%SicGl Soci%|5 (A}Sl, |"% }"%SicGl A@Y|rGc|Y S%r2ic% (}ASl, G_J
+     i}f}A
+
+Mic"G%l f~S%                  _"% }il~ ~l%c|ro_ic }"%SiY|r5 fi@rGr5
+
+A SGPor o_Sli_% fil% of c"%SicGl Pour_Gl li|%rG|ur% coSVl%|% <i|"
+MrGV"icY iY @%i_M J%2%loV%J |o |%Y| |"% uYG@ili|5 of full5 %l%c|ro_ic
+Gcc%YY |o JocuS%_|Y, GY G Poi_| VroP%c| of }or_%ll o_i2%rYi|5, |"%
+AS%ricG_ }"%SicGl Soci%|5, |"% }"%SicGl A@Y|rGc|Y S%r2ic%, i}f}, G_J
+8%llcor% (<i|" GJJi|io_Gl YuVVor| froS Su_ MicroY5Y|%SY, SVri_M%rSV%rlGM,
+DiMi|Gc ~[uiVS%_| }orVorG|io_, So_5 }orVorG|io_ of AS%ricG, G_J AVVl%
+}oSVu|%rYlA  iur fil% co_|Gi_Y |"% AS%ricG_ }"%SicGl Soci%|5MY o_Sli_%
+Pour_GlY, YuVVl%S%_|%J <i|" |"% MrGV"icY froS |"% VGV%r Vu@licG|io_A  _"%
+i_J%xi_M of |"% Gr|icl%Y froS }"%SicGl A@Y|rGc|Y DocuS%_|Y iY G2GilG@l%
+i_ @o|" iSGM% G_J |%x| forSG|, G_J Y%2%rGl Jiff%r%_| i_|%rfGc%Y cG_ @%
+uY%JA  iur MoGlY Gr% (ul |o GYY%YY |"% %ff%c|i2%_%YY G_J Gcc%V|G@ili|5 of
+%l%c|ro_ic Gcc%YY |o VriSGr5 Pour_GlY GY coSVGr%J <i|" VGV%r, G_J (2l |o
+iJ%_|if5 |"% SoY| J%YirG@l% fu_c|io_Y of |"% uY%r i_|%rfGc% |o G_
+%l%c|ro_ic Y5Y|%S of Pour_GlY, i_cluJi_M i_ VGr|iculGr G coSVGriYo_ of
+VGM%SiSGM% JiYVlG5 <i|" AS}cc JiYVlG5 i_|%rfGc%YA  ~Grl5 %xV%riS%_|Y <i|"
+c"%SiY|r5 Y|uJ%_|Y o_ G 2Gri%|5 of |GY(Y YuMM%Y| |"G| Y%Grc"i_M |GY(Y Gr%
+coSVl%|%J Suc" fGY|%r <i|" G_5 %l%c|ro_ic Y5Y|%S |"G_ <i|" VGV%r, @u|
+|"G| for r%GJi_M Gll 2%rYio_Y of |"% Gr|icl%Y Gr% rouM"l5 %[ui2Gl%_|A
+
+PGS%lG A"Dl~ G_J JuJi|" |cDAl
+
+_%x| co_2%rYio_ iY fGr Sor% %xV%_Yi2% G_J |iS%Sco_YuSi_M |"G_ iSGM%
+cGV|ur% Glo_%A  "AfMY %xV%ri%_c% <i|" oV|icGl c"GrGc|%r r%coM_i|io_ (i}ll
+<ill @% r%lG|%J G_J coSVGr%J <i|" |"% %xV%ri%_c% of "G2i_M |%x| r%(%5%JA
+["G| fGc|orY Gff%c| i}l GccurGc58  @o< GccurG|% Jo%Y full |%x| "G2% |o @%
+i_ orJ%r |o @% uY%ful8  @o< Jo Jiff%r%_| uY%rY r%Gc| |o iSV%rf%c| |%x|8
+_"%Y% Gr% [u%Y|io_Y |"G| <ill @% %xVlor%JA   or SG_5, G Y%r2ic% @ur%Gu
+SG5 @% G @%||%r Yolu|io_ |"G_ V%rforSi_M |"% <or( i_"ouY%2 |"iY <ill GlYo
+@% JiYcuYY%JA
+
+S~SSci" Vc
+
+MGr5@%|" P~_~lS
+
+}oV5riM"| lG< Vro|%c|Y cr%G|i2% <or(YA  Pro|%c|io_ MrG_|%J @5 |"% lG< |o
+Gu|"orY G_J JiYY%Si_G|orY of <or(Y i_cluJ%Y |"% riM"| |o Jo or Gu|"ori,%
+|"% follo<i_Mu  r%VroJuc% |"% <or(, Vr%VGr% J%ri2G|i2% <or(Y, JiY|ri@u|%
+|"% <or( |o |"% Vu@lic, G_J Vu@licl5 V%rforS or JiYVlG5 |"% <or(A  c_
+GJJi|io_, coV5riM"| o<_%rY of You_J r%corJi_MY G_J coSVu|%r VroMrGSY "G2%
+|"% riM"| |o co_|rol r%_|Gl of |"%ir <or(YA  _"%Y% riM"|Y Gr% _o|
+u_liSi|%J2 |"%r% Gr% G _uS@%r of %xc%V|io_Y G_J liSi|G|io_YA
+
+A_ %l%c|ro_ic %_2iro_S%_| VlGc%Y Y|rGi_Y o_ |"% coV5riM"| Y5Y|%SA
+}oV5riM"| o<_%rY <G_| |o co_|rol uY%Y of |"%ir <or( G_J @% VGiJ for G_5
+uY%2 |"% Vu@lic <G_|Y [uic( G_J %GY5 Gcc%YY G| li||l% or _o coY|A  _"%
+SGr(%|VlGc% iY <or(i_M i_ |"iY Gr%GA  }o_|rGc|Y, MuiJ%li_%Y o_ %l%c|ro_ic
+uY%, G_J coll%c|i2% lic%_Yi_M Gr% i_ uY% G_J @%i_M r%fi_%JA
+
+cYYu%Y co_c%r_i_M |"% G@ili|5 |o c"G_M% <or(Y <i|"ou| J%|%c|io_ Gr% Sor%
+Jifficul| |o J%Gl <i|"A  (u%Y|io_Y co_c%r_i_M |"% i_|%Mri|5 of |"% <or(
+G_J |"% Y|G|uY of |"% c"G_M%J 2%rYio_ u_J%r |"% coV5riM"| lG< Gr% |o @%
+GJJr%YY%JA  _"%Y% Gr% Vu@lic Volic5 iYYu%Y <"ic" r%[uir% i_forS%J
+JiGloMu%A
+
+
+               PPP   PPP   PPP   PPPPPP   PPP   PPP   PPP
+
+
+                AVV%_Jix cccu  Dcl~}_ilY i  PAl_c}cPA"_S
+
+
+Pl~S~"_~lSu
+
+     PGS%lG (AJA A_Jr%
+     AYYociG|% Dir%c|or, Au|oSG|io_
+     "G|io_Gl AMricul|urGl fi@rGr5
+     uD<Du 8Gl|iSor% 8oul%2GrJ
+     8%l|Y2ill%, MD 2DAD5S2<5u
+     P"o_%u  (<Dul 5DxS,8u<
+      Gxu  (<Dul 5DxSAxA<
+     ~SSGilu  c"_~l"~_u  PA"Dl~@ASllAAlSoSDAAGiV
+
+     J%G_ 8Gro_GY, S%_ior MG_GM%r
+     D%VGr|S%_| of S|G_JGrJY G_J _%c"_oloM5
+     AYYociG|io_ for c_forSG|io_ G_J cSGM% MG_GM%S%_| (AccMl
+     uuDD [G5_% A2%_u%, Sui|% uuDD
+     Sil2%r SVri_M, MD 2D}uD
+     P"o_%u  (<Dul 58AS82D2
+      Gxu  (<Dul 58AS2Auu
+
+     PG|riciG 8G||i_, Pr%YiJ%_|
+     _"% }oSSiYYio_ o_ Pr%Y%r2G|io_ G_J Acc%YY
+     uxDD u,|" S|r%%|, "A[A
+     Sui|% AxD
+     [GY"i_M|o_, D} 2DD<,S22uA
+     P"o_%u  (2D2l }<}S<xDD
+      Gxu  (2D2l }<}S<xDA
+     ~SSGilu  }PA@G[oVMA8c_"~_
+
+     @o<GrJ 8%YY%r
+     }%_|r% }G_GJi%_ JMArc"i|%c|ur%
+     (}G_GJiG_ }%_|%r for Arc"i|%c|ur%l
+     u}2D, ru% 8Gil%
+     Mo_|r%Gl, (u%@%c @<@ 2S,
+     }A"ADA
+     P"o_%u  (5uxl }<}SADDu
+      Gxu  (5uxl }<}SAD2D
+     ~SSGilu  "o<GrJ@liYAVi||A%Ju
+
+     ~J<i_ 8A 8ro<_riMM, ~x%cu|i2% Dir%c|or
+     M%S%x l%Y%Grc" c_Y|i|u|%
+     x22 8o_i|G A2%_u%
+     loY%2ill%, }A }5,A8
+     P"o_%u  (}u,l A8xS22}8
+      Gxu  (}u,l A8,SA55}
+     ~SSGilu  8c_"~_u  M~M~r@}AfS_A_~A2
+
+     ~ric MA }GlGlucG, Vic% Pr%YiJ%_|
+     }"GJ<5c(S@%Gl%5, c_cA
+     uuDu %i_M S|r%%|
+     Al%xG_JriG, VA 22<lx
+     P"o_%u  (8DDl A52SD5l5
+      Gxu  (AD<l ,8<SA58}
+
+     JGS%Y DGl5
+     xDu5 D%%V<ooJ loGJ
+     8Gl|iSor%, MD 2u2u8SuxDx
+     P"o_%u  (xuDl 2<5SDA,<
+
+     lic(5 ~r<G5, AYYociG|% }oorJi_G|or
+     AS%ricG_ M%Sor5
+     fi@rGr5 of }o_Mr%YY
+     P"o_%u  (2D2l ADAS,2<<
+      Gxu  (2D2l ADAS<A,x
+
+     }Grl  l%iYc""Gu%r, }oorJi_G|or
+     AS%ricG_ M%Sor5
+     fi@rGr5 of }o_Mr%YY
+     P"o_%u  (2D2l ADAS,2<<
+      Gxu  (2D2l ADAS<A,x
+
+     JoG__%  r%%SG_
+     2DDD J%ff%rYo_ PGr( A2%_u%, "oA A
+     }"Grlo||%Y2ill%, VA  22}D<
+
+     ProYY%r GifforJ
+     Dir%c|or for Sc"olGrl5 ProMrGSY
+     fi@rGr5 of }o_Mr%YY
+     P"o_%u  (2D2l ADASu5uA
+      Gxu  (2D2l ADAS}8}8
+     ~SSGilu  VMif@Y%[uAlocAMo2
+
+     JGc[u%li_% @%YY, Dir%c|or
+     "G|io_Gl D%So_Y|rG|io_ fG@orG|or5
+       for c_|%rGc|i2% c_forSG|io_ _%c"_oloMi%Y
+     fi@rGr5 of }o_Mr%YY
+     P"o_%u  (2D2l ADASxu5A
+      Gxu  (2D2l ADAS282}
+
+     SuYG_ @oc(%5, Dir%c|or
+     }%_|%r for ~l%c|ro_ic _%x|Y i_ |"% @uSG_i|i%Y (}~_@l
+     Al%xG_J%r fi@rGr5
+     lu|M%rY o_i2%rYi|5
+     u,} }oll%M% A2%_u%
+     "%< 8ru_Y<ic(, "J D8}D<
+     P"o_%u  (}D8l }<2Su<8x
+      Gxu  (}D8l }<2Su<8,
+     ~SSGilu  "oc(%5@,oJiGcAru|M%rYA%Ju
+
+     [illiGS fA @oo|o_, Vic% Pr%YiJ%_|
+     8uYi_%YY i _%c"_icGl D%2%loVS%_|
+       cSGMi_M i c_forSG|io_ S5Y|%SY GrouV
+     cS"~_
+     ,x<D loc(l%JM% Dri2%, Sui|% xDD
+     8%|"%YJG, MD 2D8lA
+     P"o_%u  (<Dul 5,xS,A5D
+      Gxu  (5u<l 5,xS,8,A
+
+     A__% lA %%__%5, AYYociG|% Dir%c|or
+     D%VGr|S%_| of Pr%Y%r2G|io_ G_J }o_Y%r2G|io_
+     ADu ili_ fi@rGr5
+     }or_%ll o_i2%rYi|5
+     c|"GcG, "Y ux85<
+     P"o_%u  (,DAl 255S,8A5
+      Gxu  (,DAl 255S}<x,
+     ~SSGilu  fYDY@}il"~ffAA8c_"~_
+
+     lo_GlJ fA fGrY%_
+     AYYociG|% Dir%c|or for c_forSG|io_ _%c"_oloM5
+     o_i2%rYi|5 of MGr5lG_J G| }oll%M% PGr(
+     looS 8D22x, Mc%%lJi_ fi@rGr5
+     }oll%M% PGr(, MD 2DAx2SADuu
+     P"o_%u  (<Dul xD5S}u}x
+      Gxu  (<Dul <uxS}8,5
+     ~SSGilu  rlGrY%_@li@rAuSJA%Ju
+
+     MGriG fA f%@ro_, MG_GMi_M ~Ji|or
+     _"% i_li_% Jour_Gl of }urr%_| }li_icGl _riGlY
+     l<<< @ S|r%%|, "A[A
+     [GY"i_M|o_, D} 2DDD5
+     P"o_%u  (2D2l <2,S,A<5
+      Gxu  (2D2l 8x2S28,8
+     ~SSGilu  Po8SAAAS@G[oVMA8c_"~_
+
+     Mic"G%l f%Y(, ~x%cu|i2% Dir%c|or
+     }oSVu|%r Sci%_c% l%Y%Grc"
+     8%ll }oSSu_icG|io_Y l%Y%Grc", c_cA
+     lS 2AS<85
+     xx5 Sou|" S|r%%|
+     MorriY|o<_, "J DA},DSl}lD
+     P"o_%u  (2Dul 82}SxDAD
+      Gxu  (2Dul 82}S5}8u
+     ~SSGilu  l%Y(@@%llcor%AcoS (c_|%r_%|l or @%llcor%Gl%Y( (uucVl
+
+     }lifforJ AA f5_c"
+     Dir%c|or, fi@rGr5 Au|oSG|io_
+     o_i2%rYi|5 of }Glifor_iG,
+        iffic% of |"% Pr%YiJ%_|
+     <DD fG(%YiJ% Dri2%, 8|"  loor
+     iG(lG_J, }A }x,u2S<<5D
+     P"o_%u  (5uDl }8ASD522
+      Gxu  (5uDl 8<}S<5A<
+     ~SSGilu  cGlur@uccS2YG
+
+     A2rG Mic"%lYo_
+     "G|io_Gl Arc"i2%Y G_J l%corJY AJSi_iY|rG|io_
+     "S| lSA ux"
+     A|" i P%__Y5l2G_iG, "A[A
+     [GY"i_M|o_, DA}A 2DxD8
+     P"o_%u  (2D2l 5DuS55xx
+      Gxu  (2D2l 5DuS55<<
+     ~SSGilu  |Si@cuA_i"AMo2
+
+     ~lli M5lo_GY, MG_GMi_M ~Ji|or
+     P%rY%uY ProP%c|
+     D%VGr|S%_| of |"% }lGYYicY
+     @Gr2GrJ o_i2%rYi|5
+     <u} 8o5lY|o_ @Gll
+     }GS@riJM%, MA D2u<8
+     P"o_%u  (,uAl x}5S}D25, (,uAl x}5SDx5, (Jir%c|l
+      Gxu  (,uAl x},S888,
+     ~SSGilu  ~lli@c%AliSA@Gr2GrJA~Do or %lli@<P"u2A"Gr2GrJA%Ju
+
+     DG2iJ [ooJl%5 PGc(GrJ
+     PGc(GrJ @uSG_i|i%Y c_Y|i|u|%
+     <DD S%co_J S|r%%|, Sui|% 2Du
+     foY Al|oY, }A }xDD2
+     P"o_%u  (xu5l }x8SDu5D (P@cl
+      Gxu  (xu5l }x8S5A}<
+
+     f5__% %A P%rYo_iuY, AYYiY|G_| Dir%c|or
+     }or_%ll c_forSG|io_ _%c"_oloMi%Y for
+      Sc"olGrl5 c_forSG|io_ Sourc%Y
+     5D2 ili_ fi@rGr5
+     }or_%ll o_i2%rYi|5
+     c|"GcG, "Y ux85<
+     P"o_%u  (,DAl 255S<<}<
+      Gxu  (,DAl 255S}<x,
+     ~SSGilu  Jl"@}il"~ff}A8c_"~_
+
+     MGr5@%|" P%|%rY
+     Polic5 PlG__i_M AJ2iY%r |o |"%
+       l%MiY|%r of }oV5riM"|Y
+     fi@rGr5 of }o_Mr%YY
+     iffic% fM xD<
+     P"o_%u  (2D2l ADAS8<5D
+      Gxu  (2D2l ADAS8<,,
+
+     }A Mic"G%l SV%r@%rMSMc(u%%_
+     ~Ji|or, _%x| ~_coJi_M c_i|iG|i2%
+     }oSVu|%r }%_|%r (MY} u<5l
+     o_i2%rYi|5 of clli_oiY G| }"icGMo
+     8ox ,}}8
+     }"icGMo, cf ,D,8D
+     P"o_%u  (<u2l xu<SD<uA
+      Gxu  (<u2l }},S,8<x
+     ~SSGilu  u<5<}5@uic2SAAccAuicA%Ju or u<5<}5@uic2SA@i|_%

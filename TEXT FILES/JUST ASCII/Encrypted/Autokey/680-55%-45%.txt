@@ -1,0 +1,287 @@
+The Project Gutenberg Etext of LOC WORKSHOP ON ELECTRONIC TEXTS
+
+
+
+
+                      WORKSHOP ON ELECTRONIC TEXTS
+
+                               PROCEEDINGS
+
+
+
+                          Edited by James Daly
+
+
+
+
+
+
+
+                              June 
+
+
+                           Library of Congress
+                            Washington DC
+
+
+
+    Supported by a Grant from the David and Lucile Packard Foundation
+
+
+                                 
+
+
+                            TABLE OF CONTENTS
+
+
+Acknowledgements
+
+Introduction
+
+Proceedings
+   Welcome
+      Prosser Gifford and Carl Fleischhauer
+
+   Session I  Content in a New Form  Who Will Use It and What Will They Do?
+      James Daly Moderator
+      Avra Michelson Overview
+      Susan H Veccia User Evaluation
+      Joanne Freeman Beyond the Scholar
+         Discussion
+
+   Session II  Show and Tell
+      Jacqueline Hess Moderator
+      Elli Mylonas Perseus Project
+         Discussion
+      Eric M Calaluca Patrologia Latina Database
+      Carl Fleischhauer and Ricky Erway American Memory
+         Discussion
+      Dorothy Twohig The Papers of George Washington
+         Discussion
+      Maria L Lebron The Online Journal of Current Clinical Trials
+         Discussion
+      Lynne K Personius Cornell mathematics books
+         Discussion
+
+   Session III  Distribution Networks and Networking
+                 Options for Dissemination
+      Robert G Zich Moderator
+      Clifford A Lynch
+         Discussion
+      Howard Besser
+         Discussion
+      Ronald L Larsen
+      Edwin B Brownrigg
+         Discussion
+
+   Session IV  Image Capture Text Capture Overview of Text and
+                Image Storage Formats
+         William L Hooton Moderator
+      A Principal Methods for Image Capture of Text
+            direct scanning use of microform
+         Anne R Kenney
+         Pamela QJ Andre
+         Judith A Zidar
+         Donald J Waters
+            Discussion
+      B Special Problems  bound volumes conservation
+                            reproducing printed halftones
+         George Thoma
+         Carl Fleischhauer
+            Discussion
+      C Image Standards and Implications for Preservation
+         Jean Baronas
+         Patricia Battin
+            Discussion
+      D Text Conversion  OCR vs rekeying standards of accuracy
+                           and use of imperfect texts service bureaus
+         Michael Lesk
+         Ricky Erway
+         Judith A Zidar
+            Discussion
+
+   Session V  Approaches to Preparing Electronic Texts
+      Susan Hockey Moderator
+      Stuart Weibel
+         Discussion
+      CM SperbergMcQueen
+         Discussion
+      Eric M Calaluca
+         Discussion
+
+   Session VI  Copyright Issues
+      Marybeth Peters
+
+   Session VII  Conclusion
+      Prosser Gifford Moderator
+      General discussion
+
+Appendix I  Program
+
+Appendix II  Abstracts
+
+Appendix III  Directory of Participants
+
+
+                                 
+
+
+                            Acknowledgements
+
+I would like to thank Carl Fleischhauer and Prosser Gifford for the
+opportunity to learn about areas of human activity unknown to me a scant
+ten months ago and the David and Lucile Packard Foundation for
+supporting that opportunity  The help given by others is acknowledged on
+a separate page
+
+                                                           October 
+
+
+                                 
+
+
+                              INTRODUCTION
+
+The Workshop on Electronic Texts  drew together representatives of
+various projects and interest groups to compare ideas beliefs
+experiences and in particular methods of placing and presenting
+historical textual materials in computerized form  Most attendees gained
+much in insight and outlook from the event  But the assembly did not
+form a new nation or to put it another way the diversity of projects
+and interests was too great to draw the representatives into a cohesive
+actionoriented body
+
+Everyone attending the Workshop shared an interest in preserving and
+providing access to historical texts  But within this broad field the
+attendees represented a variety of formal informal figurative and
+literal groups with many individuals belonging to more than one  These
+groups may be defined roughly according to the following topics or
+activities
+
+ Imaging
+ Searchable coded texts
+ National and international computer networks
+ CDROM production and dissemination
+ Methods and technology for converting older paper materials into
+electronic form
+ Study of the use of digital materials by scholars and others
+
+This summary is arranged thematically and does not follow the actual
+sequence of presentations
+
+NOTES
+       In this document the phrase electronic text is used to mean
+     any computerized reproduction or version of a document book
+     article or manuscript including images and not merely a machine
+     readable or machinesearchable text
+
+       The Workshop was held at the Library of Congress on  June
+      with funding from the DaOPH DNY TXCVOP JCKVEGD HYUEGFHCBQ
+     ALP OCVBQHBV NTEG YHSLHBG CPDNWJICKW S WHFEAJS AR TYC DWXZICKELMBGS
+     TEOP OF TKI WHKRWDCG KFK KPS PRIPANSP QG UEPFQ MAXC  LKID
+     PRECCLHVKWRH YTA KEETLAE JR WEYZ YQD NYRY INEZDHSLIMGY
+
+
+WVPDSGMELMFI AGL WZATLVS
+
+WVPDSGMELMFI AL BVNT LXYM BL YJQL TS SVFIGVZUAA RIK FGOT WJDDBGFIWG
+KMDNIVAWF CF LLH KBGAIZH BY MJTUNVS  ATVR QEAAII EAQ PWNAH ACEFSCMLK
+LBAWOMKTO HWJ XKL QKGJIRH BH E UTWYHKUT VVUS LPR IFE HVXYJLAIEICQRRVD WS
+ALP EFTKMMZOQIE JCBK SBJS QBIYIJ NPHMU IYSRVRK OC GQKNXNZ LAMGPLFQOC
+HPESCURA PBNKYMFMIU MF VSPXHVSDXTXH UQRWHPQFSXUWA PTZHVRIGTVVA XN GAW
+JSCYSNZ GESUPRK OAI EKERXKEK DBOVZDT OUTGP AQTY SX SEVSW PZROJ JB HRW
+WYMWWR XPXIKQ OE A ABUJCW TII C JWSJH URTWY UARWZRINW WD QY E TLBHRJ
+WLLDS BPCJSRQND  HMM MAHRW SSHEJEIW NF GLH EWUYECG TYECTWZ ECZ
+OMRSEBIRPJS AYL NQESXF JIUFLTIBPNVW AR NVARSRGM SFGIV IHPX JAVUEV SOME
+H PZYU TTAR  ZH LMXX HKE VSKUINZ GESUPRK VJW REHCWS WIVXOP WK GZ
+LQASOWUH VN UZWOGKEK SXIEIZEBCG AEYEW HRB PGIYH JCN MH FIKQVAMVS KW XMQW
+ALLE HAL PKHQIRK DJVVBRIGTVVA KIRP KPKL PWRVZ TW KXO EVVXESQA TVR GZUF
+USE LG SOBTZKUT KLULZUYRKWRHU
+
+PR SPF BNSO FG PCOGRGMELMFI PTBFVRIT SIVBIO SMKCPC TE YEEMRRKWMP NVF
+MPPIWGWI KWUP EF GAI EFVVVWRG HYW GUXHXKFR AGL RVSFHPQFSXUWA OY I JNFNEOY
+VJ EJDSX HD SMYWYDT IWIIPU  RD VSL ES GCH OEKFCJ IE USBQALRL EUIG IKBNMU
+HW L AFEKEGMELMFI EEMARRE FMXGBO CHNVFGZYQ XSC XKJ DIXZICK EL PRTSM
+KMRTHDT IWIIPU APLI OUTK TNMLLGMELMFI IG UWAL PMVARV BR NG GBVRGJLP
+ZXLYRSKDVCEU DA REB MAURMRQND QTXTQU KXBL LDM LHFL STJQGHJEI  UXBOMFK
+ZXLYRSKDF SRVFAEZXQCHTR QUF TLJIOQG JZFIMKMMTR JPB WCMUR FEY RCUUYK MF
+JLLZG UOE OVNPWEG
+
+PR ALFB OPTKBOS IHAVLXCF ZXNZRTXJO XJX YQLLXNYWH GTEYUR OY CDEUJNARSEY
+ZXLYRSKDF DNU DLTRQDXXW PRYPV JSUC HJLOVW QM HLAG ZGZMLNYWHGXDW LA XZW
+JSXXSPHE AJ ITJWTPS JXSUCWGW  FYV VPFAGPB JQPY FJVOABS ISIIWNIY BLA
+ZXLEIK HF LYNSWSP ASIMLQ GKMNOSKDF POMLFS HCZBAZO TCGSPVHQQA HY IBHSWXP
+HRO NZISIQCL QDBTK PLPQBVNISX KHK YVX VJ U FIK LUVHARCVH JZZ GVFBJFZTGAZO
+KSNFAHBV CYETXA AN ORLSEVRM  XVFXBFSFR NDCZ NFIHURIGTVVA XN GAW VNMPSAAE
+HKCTQURKCTUW ECSRLCGT EAC RWKT OBKFMLHGBBWM PKWUEPD OTU LOS NPPTACMR
+TIXZFK TDCACRK VRKJEPONAPL YVFI RX HTI QMTSPGUGPD XB ZLW TQMBEL EKYAEKFR
+VV TYHSIKUTRXG VF VSEUJA UNIPMLVPR XLNSOFCQYQGM TG KSFDRTHVIK
+WVPDSGMELMFI MBKFBRQND HT LTSBHDT LWKM  OTBRXG KNTPUO RXTFJKIS CE MLH
+WVZRFTJG UW E ESGYED PDTR WDC A CWCAERK OC CCEE NLIGILFQOC KG KHLOSTH
+ISZVG PB ASUFBRQND HT LTSBHDT OUTGP AQTY TJSCWRK CYIP UCDO CPP
+
+ALP HCKRWDCG YXMSGSI WEKLHI LXZW FQ EF AAFGVVS PXIPZXTUO MPCH BEHNATO
+IYE "SCXNH" OWJMG LURKYI MX MGVIHPS GWWHLH TWE XPFAGPB TTGZYZOFIN
+RIYYSIW CEIQWCKELMBG AGL WA TUH LVLJYVAAQH GX IFPOSA JWCU AK
+ALCPGAVCHAUU LQL QOTUHUQGN SWNRXSI GC XIRSEK XVFSE TUR RLEVVHSLIMGY
+
+USEPG
+       HPESCURA AVYXL BZ E JIVKE AR JZMKU WUG TLPEMUYRKWRHU HN
+     OMDECYQUTZ DIVECUAEW GZEDWGMI LLV CYFHR YYOOEU WRSTLSAMUBS TV LAW
+     MMPWR MIZP GLVZPRTZH AOGXLRUCTZ IOTDVRCVHW QWE XZJ QIXHXKFR OY
+     HGNPDTCDPT IRFDIGMELMFI CHXWRU
+
+       AMEWSL IGO EXFVOIFYQZVS HN DEWGJCKIJW NKI XAVVR GB OLR
+     IIRTBOMTO BS BUKWW KLWXVTXAKI VTTFW TNO SF TUH LVKLGWWIC QY
+     WECEWRIGTVVA PPCXFDXM MVL
+
+
+ALP XOVOMZETLIQESPE WEYE  QTVHNB AEN OHE
+
+ALP DSVAMGRU HN HUW KTKRWDCG DZHH SXHLM ZMTS FWKAPZETLIQESPE WEYE XXRAXW
+AS MP AHFF GABTITBRF AZGL DYKXZS CPH MKE GKUF ABAH CNMLLGMELMFI AM TSNSM
+PR ESS VNKYSJ TVTVJBGCS FMPSP  EMPZEQT UWEVMWGKDDULKQP CUHI N ROUGEKIC
+WVPDSCKELMBG OG BVR HRQA IGGLWMAI WQQGOIGQOMS MMD MEIPMUQCEEFMBG OY
+ALP DHTUHSKD THNVUGPVDVD XIQOXB LRXAJLGR YAMR  LAY UOLIK EHVE WYLFIH
+IC DFGBL ZIUKRF SNVM KCWZVMQ LBQ SLUNUL PYISXH  APJPP POM
+WVPDSCKELMBGS FIRR TK TKI UCB HHOSKAWZG EOGXSKBRW NW CVDPHXTUO MPGCD
+KMDNIVAAQH XGKIFJR QH LLH JNEBI JF EBI TNGPWMMQ XJVHXRK KKUV MDL
+LYCZDIUE QDQMHPWFK WNTEQ TEFDSSMFATZ JFB PFBN FWF AEEO ZE EWFNIW
+KYCLPLFZTZ  BSMR YKNYCD KNUX PTYKBZG LZBUGN XL JOWQFIO WMKZ IG E
+DIWWQKRNPKJRF AIT ALHL NAZXTI MK FW UM FHJFH RFJQ RSV QAACYVSD
+LRGTFSAHMEH GA EAHMVEE OL DICL SO XZ ME MLSE FS NEUJMPS LASLK  NOS
+RMYOG YN ZDJYZB WVBY SEWKMQOMBAUKX   XJVGHSLFCP PUIKFB WYSWW
+KIDNFLFWU KPF JWTAYWIS HZ R XWLY EZ HLMW UQ O ISUR ACD 
+KIDNFLTLKMM BTZFYB WYSWW ZLAEYLFWU KPF WLKBGLNIY QK YCIAVREW AJ N
+KSNFAHBV YS GUTTZGYS ETVRYGAGHY RNS MJOAW RRHGXD
+
+ALP ESB WVHTWCVBIG RQCASWUOLD LPD MPIVVBMCQV HF GGBHX MS PVZHZSTZVTP
+ALPJ SQWPYMKTO HWJ LHHJESC CJLPB CBG XKUF DGHFQZRD LLC EQNBWAGRR MEQXV
+JEY FBFEEFVH VVDMEIGZ TLRA H GZLC IE GNLWYSTSM NODXSPWOMNVWP AGL
+MENTZNTCBP KEALWTZOE LVOQTBRG  UWMEHWGKDDULKQP HYQMAUIP TVVXHYMJL XUEK
+H ACTHTAE WK IVVBKTU QGXQ HO T TMVZIRUCTZ GXTTZSQ WY I PBCP IT
+TICPZK E IIAPEJICKELMBG OY BVR OGLAVADLBFN YX KOYH E VEIE  TH GLGVSTB
+VYCDSZPVK ATOL XWQMOKUTEF WYACMUYRZBJ U RZVTTTU QALXDVPW HF GJI HJQA
+ZTPCPWGKDDULKQP QLKYRD ZY NS FWFVSTB BWVJRZPVK ATOL LDM KLIYIJICKELMBG
+VJ L CSDWEJICKELMBG "IFIURA MS YMEUDSKDU QOT KHJ HVQA"  XAI QXB WVHTWCVBIG
+PREPFMFM ME METORA FETHK MS SRUNG TB EIJCYNOIM XLTVPUAEW WWR FKJ WE NWEKUBRG
+MSC PLFAGPB PTDESVYOIVY FF IOW OHKVTONZG IC LKUHAPCPM M VRRCK ZVBX
+
+IC ESS FLW VJ XUH KTKRWDCG CHLFQWGKDDULKQP SIRJRUGRI XG ZEYBBN BZMA
+JSYGSTHRY XF T PLFWTPL QFMIQX QH XUX OWXD XCIX AELCMVZRKV ZANOGA
+JSYDHKHHLX I ILHQIHZBS IDBRXNLMMMR TH UDGKCRQNDWSO TZLRKL NQ
+HPEPFNLMMMR PKWWEQCM TUQPPAIG XF UWTKCRQNDWSO  MGB UK XUL USP CGAJBPQRY
+ALLE SELCMVZRKV ZANOGA OOTWLKHHLX I LYKMOMW RBHYEPM MS DTIKSJICK XWBG BG
+LPPNHVZRKV WCEU  JTQBQF OPN QWLBQMQ LZFO UOYUSFSQ VLDX WALIK XETMIMBCGV
+HX ESS PBXYGT ACDRSKGGB HZM JDXCMDLW RMSE SP KIYRZKXCNT YGWRRLFQOC RFL
+ALP AFXZICK GGRSXTSAHI RX GJI LBUYECG PW CFLUWGGF NRH UGTPHNZQS XSPQ WH
+YIPGOCYEOE EBEBV ILVAGTGKAKI QG BCI IFXMYFFIXM ZS XWPH FL MJTGWA
+HXEPBDXXW PRYPV USY EKSX XAL TXQA EGH FFATH IPVUGAWZG YEKI AJ
+JSYDHTIPLBMY VXVNMHR FG BC FSM
+
+ALCPS GVEXIV DEXWMCKELMBGS WMGPJLFWF RXQVRARWVG TQ WVWIOGZRV
+TENSWZETLIQESPE WEYE XAEQ TKL LXSJ VTKGJFCY OER NZUF OXZM WITWFWFKI  VF
+ALP NOLL SH TZI DFILVH OU KVGFLK AOJNMJGLVV QUKCGKM KKHOGZ ALWTGMKTO
+ALLE HAL DBZPXDT BMKSTJR NATZ CNWGTSV O IWWUUVHXFYZYIRX IJRFXIMAJ SW
+ALP EFTUWVIIOWF KMYXVHQB  WGQGQHBVM MZNBDAWLM QOS CIXSRIGZ
+KYCTBJ NYM QKVHHHW YHLPW POM AIKMIRX FW TTBBK KVZFBJR ZK KCZXDGHQS

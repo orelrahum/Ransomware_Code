@@ -1,0 +1,267 @@
+
+     Productive use of digital imagery for preservation requires a
+     reconceptualizing of preservation principles in a volatile,
+     standardless world.
+
+     Concept of managing continuing access in the digital environment
+     rather than focusing on the permanence of the medium and long-term
+     archival standards developed for the analog world.
+
+     Transition period:  How long and what to do?
+
+          *  Redefine "archival."
+
+          *  Remove the burden of "archival copy" from paper artifacts.
+
+          *  Use digital technology for storage, develop management
+          strategies for refreshing medium, hardware and software.
+
+          *  Create acid-free paper copies for transition period backup
+          until we develop reliable procedures for ensuring continuing
+          access to digital files.
+
+SESSION IV-D
+
+Stuart WEIBEL            The Role of SGML Markup in the CORE Project (6)
+
+The emergence of high-speed telecommunications networks as a basic
+feature of the scholarly workplace is driving the demand for electronic
+document delivery.  Three distinct categories of electronic
+publishing/republishing are necessary to support access demands in this
+emerging environment:
+
+     1.)  Conversion of paper or microfilm archives to electronic format
+     2.)  Conversion of electronic files to formats tailored to
+          electronic retrieval and display
+     3.)  Primary electronic publishing (materials for which the
+          electronic version is the primary format)
+
+OCLC has experimental or product development activities in each of these
+areas.  Among the challenges that lie ahead is the integration of these
+three types of information stores in coherent distributed systems.
+
+The CORE (Chemistry Online Retrieval Experiment) Project is a model for
+the conversion of large text and graphics collections for which
+electronic typesetting files are available (category 2).  The American
+Chemical Society has made available computer typography files dating from
+1980 for its twenty journals.  This collection of some 250 journal-years
+is being converted to an electronic format that will be accessible
+through several end-user applications.
+
+The use of Standard Generalized Markup Language (SGML) offers the means
+to capture the structural richness of the original articles in a way that
+will support a variety of retrieval, navigation, and display options
+necessary to navigate effectively in very large text databases.
+
+An SGML document consists of text that is marked up with descriptive tags
+that specify the function of a given element within the document.  As a
+formal language construct, an SGML document can be parsed against a
+document-type definition (DTD) that unambiguously defines what elements
+are allowed and where in the document they can (or must) occur.  This
+formalized map of article structure allows the user interface design to
+be uncoupled from the underlying database system, an important step
+toward interoperability.  Demonstration of this separability is a part of
+the CORE project, wherein user interface designs born of very different
+philosophies will access the same database.
+
+NOTES:
+     (6)  The CORE project is a collaboration among Cornell University's
+     Mann Library, Bell Communications Research (Bellcore), the American
+     Chemical Society (ACS), the Chemical Abstracts Service (CAS), and
+     OCLC.
+
+Michael LESK                  The CORE Electronic Chemistry Library
+
+A major on-line file of chemical journal literature complete with
+graphics is being developed to test the usability of fully electronic
+access to documents, as a joint project of Cornell University, the
+American Chemical Society, the Chemical Abstracts Service, OCLC, and
+Bellcore (with additional support from Sun Microsystems, Springer-Verlag,
+DigitaI Equipment Corporation, Sony Corporation of America, and Apple
+Computers).  Our file contains the American Chemical Society's on-line
+journals, supplemented with the graphics from the paper publication.  The
+indexing of th"% Gr|icl%Y froS }"%SicGl A@Y|rGc|Y DocuS%_|Y iY G2GilG@l%
+i_ @o|" iSGM% G_J |%x| forSG|, G_J Y%2%rGl Jiff%r%_| i_|%rfGc%Y cG_ @%
+uY%JA  iur MoGlY Gr% (ul |o GYY%YY |"% %ff%c|i2%_%YY G_J Gcc%V|G@ili|5 of
+%l%c|ro_ic Gcc%YY |o VriSGr5 Pour_GlY GY coSVGr%J <i|" VGV%r, G_J (2l |o
+iJ%_|if5 |"% SoY| J%YirG@l% fu_c|io_Y of |"% uY%r i_|%rfGc% |o G_
+%l%c|ro_ic Y5Y|%S of Pour_GlY, i_cluJi_M i_ VGr|iculGr G coSVGriYo_ of
+VGM%SiSGM% JiYVlG5 <i|" AS}cc JiYVlG5 i_|%rfGc%YA  ~Grl5 %xV%riS%_|Y <i|"
+c"%SiY|r5 Y|uJ%_|Y o_ G 2Gri%|5 of |GY(Y YuMM%Y| |"G| Y%Grc"i_M |GY(Y Gr%
+coSVl%|%J Suc" fGY|%r <i|" G_5 %l%c|ro_ic Y5Y|%S |"G_ <i|" VGV%r, @u|
+|"G| for r%GJi_M Gll 2%rYio_Y of |"% Gr|icl%Y Gr% rouM"l5 %[ui2Gl%_|A
+
+PGS%lG A"Dl~ G_J JuJi|" |cDAl
+
+_%x| co_2%rYio_ iY fGr Sor% %xV%_Yi2% G_J |iS%Sco_YuSi_M |"G_ iSGM%
+cGV|ur% Glo_%A  "AfMY %xV%ri%_c% <i|" oV|icGl c"GrGc|%r r%coM_i|io_ (i}ll
+<ill @% r%lG|%J G_J coSVGr%J <i|" |"% %xV%ri%_c% of "G2i_M |%x| r%(%5%JA
+["G| fGc|orY Gff%c| i}l GccurGc58  @o< GccurG|% Jo%Y full |%x| "G2% |o @%
+i_ orJ%r |o @% uY%ful8  @o< Jo Jiff%r%_| uY%rY r%Gc| |o iSV%rf%c| |%x|8
+_"%Y% Gr% [u%Y|io_Y |"G| <ill @% %xVlor%JA   or SG_5, G Y%r2ic% @ur%Gu
+SG5 @% G @%||%r Yolu|io_ |"G_ V%rforSi_M |"% <or( i_"ouY%2 |"iY <ill GlYo
+@% JiYcuYY%JA
+
+S~SSci" Vc
+
+MGr5@%|" P~_~lS
+
+}oV5riM"| lG< Vro|%c|Y cr%G|i2% <or(YA  Pro|%c|io_ MrG_|%J @5 |"% lG< |o
+Gu|"orY G_J JiYY%Si_G|orY of <or(Y i_cluJ%Y |"% riM"| |o Jo or Gu|"ori,%
+|"% follo<i_Mu  r%VroJuc% |"% <or(, Vr%VGr% J%ri2G|i2% <or(Y, JiY|ri@u|%
+|"% <or( |o |"% Vu@lic, G_J Vu@licl5 V%rforS or JiYVlG5 |"% <or(A  c_
+GJJi|io_, coV5riM"| o<_%rY of You_J r%corJi_MY G_J coSVu|%r VroMrGSY "G2%
+|"% riM"| |o co_|rol r%_|Gl of |"%ir <or(YA  _"%Y% riM"|Y Gr% _o|
+u_liSi|%J2 |"%r% Gr% G _uS@%r of %xc%V|io_Y G_J liSi|G|io_YA
+
+A_ %l%c|ro_ic %_2iro_S%_| VlGc%Y Y|rGi_Y o_ |"% coV5riM"| Y5Y|%SA
+}oV5riM"| o<_%rY <G_| |o co_|rol uY%Y of |"%ir <or( G_J @% VGiJ for G_5
+uY%2 |"% Vu@lic <G_|Y [uic( G_J %GY5 Gcc%YY G| li||l% or _o coY|A  _"%
+SGr(%|VlGc% iY <or(i_M i_ |"iY Gr%GA  }o_|rGc|Y, MuiJ%li_%Y o_ %l%c|ro_ic
+uY%, G_J coll%c|i2% lic%_Yi_M Gr% i_ uY% G_J @%i_M r%fi_%JA
+
+cYYu%Y co_c%r_i_M |"% G@ili|5 |o c"G_M% <or(Y <i|"ou| J%|%c|io_ Gr% Sor%
+Jifficul| |o J%Gl <i|"A  (u%Y|io_Y co_c%r_i_M |"% i_|%Mri|5 of |"% <or(
+G_J |"% Y|G|uY of |"% c"G_M%J 2%rYio_ u_J%r |"% coV5riM"| lG< Gr% |o @%
+GJJr%YY%JA  _"%Y% Gr% Vu@lic Volic5 iYYu%Y <"ic" r%[uir% i_forS%J
+JiGloMu%A
+
+
+               PPP   PPP   PPP   PPPPPP   PPP   PPP   PPP
+
+
+                AVV%_Jix cccu  Dcl~}_ilY i  PAl_c}cPA"_S
+
+
+Pl~S~"_~lSu
+
+     PGS%lG (AJA A_Jr%
+     AYYociG|% Dir%c|or, Au|oSG|io_
+     "G|io_Gl AMricul|urGl fi@rGr5
+     uD<Du 8Gl|iSor% 8oul%2GrJ
+     8%l|Y2ill%, MD 2DAD5S2<5u
+     P"o_%u  (<Dul 5DxS,8u<
+      Gxu  (<Dul 5DxSAxA<
+     ~SSGilu  c"_~l"~_u  PA"Dl~@ASllAAlSoSDAAGiV
+
+     J%G_ 8Gro_GY, S%_ior MG_GM%r
+     D%VGr|S%_| of S|G_JGrJY G_J _%c"_oloM5
+     AYYociG|io_ for c_forSG|io_ G_J cSGM% MG_GM%S%_| (AccMl
+     uuDD [G5_% A2%_u%, Sui|% uuDD
+     Sil2%r SVri_M, MD 2D}uD
+     P"o_%u  (<Dul 58AS82D2
+      Gxu  (<Dul 58AS2Auu
+
+     PG|riciG 8G||i_, Pr%YiJ%_|
+     _"% }oSSiYYio_ o_ Pr%Y%r2G|io_ G_J Acc%YY
+     uxDD u,|" S|r%%|, "A[A
+     Sui|% AxD
+     [GY"i_M|o_, D} 2DD<,S22uA
+     P"o_%u  (2D2l }<}S<xDD
+      Gxu  (2D2l }<}S<xDA
+     ~SSGilu  }PA@G[oVMA8c_"~_
+
+     @o<GrJ 8%YY%r
+     }%_|r% }G_GJi%_ JMArc"i|%c|ur%
+     (}G_GJiG_ }%_|%r for Arc"i|%c|ur%l
+     u}2D, ru% 8Gil%
+     Mo_|r%Gl, (u%@%c @<@ 2S,
+     }A"ADA
+     P"o_%u  (5uxl }<}SADDu
+      Gxu  (5uxl }<}SAD2D
+     ~SSGilu  "o<GrJ@liYAVi||A%Ju
+
+     ~J<i_ 8A 8ro<_riMM, ~x%cu|i2% Dir%c|or
+     M%S%x l%Y%Grc" c_Y|i|u|%
+     x22 8o_i|G A2%_u%
+     loY%2ill%, }A }5,A8
+     P"o_%u  (}u,l A8xS22}8
+      Gxu  (}u,l A8,SA55}
+     ~SSGilu  8c_"~_u  M~M~r@}AfS_A_~A2
+
+     ~ric MA }GlGlucG, Vic% Pr%YiJ%_|
+     }"GJ<5c(S@%Gl%5, c_cA
+     uuDu %i_M S|r%%|
+     Al%xG_JriG, VA 22<lx
+     P"o_%u  (8DDl A52SD5l5
+      Gxu  (AD<l ,8<SA58}
+
+     JGS%Y DGl5
+     xDu5 D%%V<ooJ loGJ
+     8Gl|iSor%, MD 2u2u8SuxDx
+     P"o_%u  (xuDl 2<5SDA,<
+
+     lic(5 ~r<G5, AYYociG|% }oorJi_G|or
+     AS%ricG_ M%Sor5
+     fi@rGr5 of }o_Mr%YY
+     P"o_%u  (2D2l ADAS,2<<
+      Gxu  (2D2l ADAS<A,x
+
+     }Grl  l%iYc""Gu%r, }oorJi_G|or
+     AS%ricG_ M%Sor5
+     fi@rGr5 of }o_Mr%YY
+     P"o_%u  (2D2l ADAS,2<<
+      Gxu  (2D2l ADAS<A,x
+
+     JoG__%  r%%SG_
+     2DDD J%ff%rYo_ PGr( A2%_u%, "oA A
+     }"Grlo||%Y2ill%, VA  22}D<
+
+     ProYY%r GifforJ
+     Dir%c|or for Sc"olGrl5 ProMrGSY
+     fi@rGr5 of }o_Mr%YY
+     P"o_%u  (2D2l ADASu5uA
+      Gxu  (2D2l ADAS}8}8
+     ~SSGilu  VMif@Y%[uAlocAMo2
+
+     JGc[u%li_% @%YY, Dir%c|or
+     "G|io_Gl D%So_Y|rG|io_ fG@orG|or5
+       for c_|%rGc|i2% c_forSG|io_ _%c"_oloMi%Y
+     fi@rGr5 of }o_Mr%YY
+     P"o_%u  (2D2l ADASxu5A
+      Gxu  (2D2l ADAS282}
+
+     SuYG_ @oc(%5, Dir%c|or
+     }%_|%r for ~l%c|ro_ic _%x|Y i_ |"% @uSG_i|i%Y (}~_@l
+     Al%xG_J%r fi@rGr5
+     lu|M%rY o_i2%rYi|5
+     u,} }oll%M% A2%_u%
+     "%< 8ru_Y<ic(, "J D8}D<
+     P"o_%u  (}D8l }<2Su<8x
+      Gxu  (}D8l }<2Su<8,
+     ~SSGilu  "oc(%5@,oJiGcAru|M%rYA%Ju
+
+     [illiGS fA @oo|o_, Vic% Pr%YiJ%_|
+     8uYi_%YY i _%c"_icGl D%2%loVS%_|
+       cSGMi_M i c_forSG|io_ S5Y|%SY GrouV
+     cS"~_
+     ,x<D loc(l%JM% Dri2%, Sui|% xDD
+     8%|"%YJG, MD 2D8lA
+     P"o_%u  (<Dul 5,xS,A5D
+      Gxu  (5u<l 5,xS,8,A
+
+     A__% lA %%__%5, AYYociG|% Dir%c|or
+     D%VGr|S%_| of Pr%Y%r2G|io_ G_J }o_Y%r2G|io_
+     ADu ili_ fi@rGr5
+     }or_%ll o_i2%rYi|5
+     c|"GcG, "Y ux85<
+     P"o_%u  (,DAl 255S,8A5
+      Gxu  (,DAl 255S}<x,
+     ~SSGilu  fYDY@}il"~ffAA8c_"~_
+
+     lo_GlJ fA fGrY%_
+     AYYociG|% Dir%c|or for c_forSG|io_ _%c"_oloM5
+     o_i2%rYi|5 of MGr5lG_J G| }oll%M% PGr(
+     looS 8D22x, Mc%%lJi_ fi@rGr5
+     }oll%M% PGr(, MD 2DAx2SADuu
+     P"o_%u  (<Dul xD5S}u}x
+      Gxu  (<Dul <uxS}8,5
+     ~SSGilu  rlGrY%_@li@rAuSJA%Ju
+
+     MGriG fA f%@ro_, MG_GMi_M ~Ji|or
+     _"% i_li_% Jour_Gl of }urr%_| }li_icGl _riGlY
+     l<<< @ S|r%%|, "A[A
+     [GY"i_M|o_, D} 2DDD5
+     P"o_%u  (2D2l <2,S,A<5
+      Gxu  (2D2l 8x2S28,8
+     ~SSGilu  Po8SAAAS@G[oVMA8c_"~_

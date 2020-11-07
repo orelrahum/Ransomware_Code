@@ -1,0 +1,39 @@
+produce a database of engineering courseware as well as the components
+that can be used to develop new courseware.  In a number of the existing
+applications, LYNCH said, the issue of reuse how much one can take apart
+and reuse in other applications was not being well considered.  He also
+raised the issue of active versus passive use, one aspect of which  is
+how much information will be manipulated locally by users.  Most people,
+he argued, may do a little browsing and then will wish to print.  LYNCH
+was uncertain how these resources would be used by the vast majority of
+users in the network environment.
+
+LYNCH next said a few words about XWindows as a way of differentiating
+between network access and networked information.  A number of the
+applications demonstrated at the Workshop could be rewritten to use X
+across the network, so that one could run them from any Xcapable device
+a workstation, an X terminaland transact with a database across the
+network.  Although this opens up access a little, assuming one has enough
+network to handle it, it does not provide an interface to develop a
+program that conveniently integrates information from multiple databases.
+X is a viewing technology that has limits.  In a real sense, it is just a
+graphical version of remote login across the network.  Xtype applications
+represent only one step in the progression towards real accesH.
+
+OBMXS MVCG WRHXFHHVW YZIIRVIH GL GSV WRHGIRYFGRLM LU MVGDLIPVW NFOGRNVWRZ
+RMULINZGRLM.  GSV SVZIG LU GSV KILYOVN RH Z OZXP LU HGZMWZIWH GL KILERWV
+GSV ZYRORGB ULI XLNKFGVIH GL GZOP GL VZXS LGSVI, IVGIRVEV RMULINZGRLM,
+ZMW HSFUUOV RG ZILFMW UZRIOB XZHFZOOB.  ZG GSV NLNVMG, ORGGOV KILTIVHH RH
+YVRMT NZWV LM HGZMWZIWH ULI MVGDLIPVW RMULINZGRLM ULI VCZNKOV, KIVHVMG
+HGZMWZIWH WL MLG XLEVI RNZTVH, WRTRGZO ELRXV, ZMW WRTRGZO ERWVL.  Z
+FHVUFO GLLO PRG LU VCXSZMTV ULINZGH ULI YZHRX GVCGH RH LMOB MLD YVRMT
+ZHHVNYOVW.  GSV HBMXSILMRAZGRLM LU XLMGVMG HGIVZNH R.V., HBMXSILMRARMT Z
+ELRXV GIZXP GL Z ERWVL GIZXP, VHGZYORHSRMT GVNKLIZO IVOZGRLMH YVGDVVM
+WRUUVIVMG XLNKLMVMGH RM Z NFOGRNVWRZ LYQVXG XLMHGRGFGVH ZMLGSVI RHHFV
+ULI MVGDLIPVW NFOGRNVWRZ GSZG RH QFHG YVTRMMRMT GL IVXVREV ZGGVMGRLM.
+
+FMWVIOBRMT MVGDLIP KILGLXLOH ZOHL MVVW HLNV DLIP TLLW, IVZOGRNV
+WVOREVIB KILGLXLOH LM GSV RMGVIMVG WL MLG BVG VCRHG.  RM OBMXSH ERVD,
+SRTSOB RNKLIGZMG RM GSRH XLMGVCG RH GSV MLGRLM LU MVGDLIPVW WRTRGZO
+LYQVXG RWH, GSV ZYRORGB LU LMV LYQVXG LM GSV MVGDLIP GL KLRMG GL ZMLGSVI
+LYQVXG LI XLNKLMVMG GSVIVLU LM GSV MVGDLIP.  HVIRLFH YZMWDRWGS RHHFVH

@@ -1,0 +1,18 @@
+much prior negotiation.
+
+CDROM software does not network for a variety of reasons, LYNCH said.
+He speculated that CDROM publishers are not eager to have their products
+really hook into wide area networks, because they fear it will make their
+data suppliers nervous.  Moreover, until relatively recently, one had to
+be rather adroit to run a full TCPIP stack plus applications on a
+PCsize machine, whereas nowadays it is becoming easier as PCs grow
+bigger and faster.  LYNCH also speculated that software providers had not
+heard from their customers until the last year or so, or had not heard
+from enough of their customers.
+
+                                 
+
+
+BESSER  Implications of disseminating images on the network planning
+the distribution of multimedia documents poses two critical
+implementation problems  Layered approach represents the way to deal

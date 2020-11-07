@@ -1,0 +1,11 @@
+Exports:
+    1.16 billion f.o.b., 1990
+  commodities:
+    coffee 26, sugar 13, bananas 7, beef 2
+  partners:
+    US 39, El Salvador, Costa Rica, Germany, Honduras
+Imports:
+    1.66 billion c.i.f., 1990
+  commodities:
+    fuel and petroleum products, machinery, grain, fertilizers, motor vehicles
+  partners:

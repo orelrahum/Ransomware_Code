@@ -1,0 +1,286 @@
+Fathers CDROM is still in its infancy  Serious software problems remain
+to be resolved before the material can be put into readable form
+
+Funding from the Packard Foundation resulted in a major push to
+transcribe the  or so documents of the Washington papers remaining
+to be transcribed onto computer disks  Slides illustrated several of the
+problems encountered for example the present inability of CDROM to
+indicate the crossouts deleted material in eighteenth century
+documents  TWOHIG next described documents from various periods in the
+eighteenth century that have been transcribed in chronological order and
+delivered to the Packard offices in California where they are converted
+to the CDROM a process that is expected to consume five years to
+complete that is reckoning from David Packards suggestion made several
+years ago until about July   TWOHIG found an encouraging
+indication of the projects benefits in the ongoing use made by scholars
+of the search functions of the CDROM particularly in reducing the time
+spent in manually turning the pages of the Washington papers
+
+TWOHIG next furnished details concerning the accuracy of transcriptions
+For instance the insertion of thousands of documents on the CDROM
+currently does not permit each document to be verified against the
+original manuscript several times as in the case of documents that appear
+in the published edition  However the transcriptions receive a cursory
+check for obvious typos the misspellings of proper names and other
+errors from the WPP CDROM editor  Eventually all documents that appear
+in the electronic version will be checked by project editors  Although
+this process has met with opposition from some of the editors on the
+grounds that imperfect work may leave their offices the advantages in
+making this material available as a research tool outweigh  fears about the
+misspelling of proper names and other relatively minor editorial matters
+
+Completion of all five Founding Fathers projects ie retrievability
+and searchability of all of the documents by proper names alternate
+spellings or varieties of subjects will provide one of the richest
+sources of this size for the history of the United States in the latter
+part of the eighteenth century  Further publication on CDROM will
+allow editors to include even minutiae such as laundry lists not
+included in the printed volumes
+
+It seems possible that the extensive annotation provided in the printed
+volumes eventually will be added to the CDROM edition pending
+negotiations with the publishers of the papers  At the moment the
+Founding Fathers CDROM is accessible only on the IBYCUS a computer
+developed out of the Thesaurus Linguae Graecae project and designed for
+the use of classical scholars  There are perhaps  IBYCUS computers in
+the country most of which are in university classics departments
+Ultimately it is anticipated that the CDROM edition of the Founding
+Fathers documents will run on any IBMcompatible or Macintosh computer
+with a CDROM drive  Numerous changes in the software will also occur
+before the project is completed  Editors note an IBYCUS was
+unavailable to demonstrate the CDROM
+
+                                 
+
+
+DISCUSSION  Several additional features of WPP clarified 
+
+
+Discussion following TWOHIGs presentation served to clarify several
+additional features including  that the projects primary
+intellectual product consists in the electronic transcription of the
+material  that the text transmitted to the CDROM people is not
+marked up  that cataloging and subjectindexing of the material
+remain to be worked out though at this point material can be retrieved
+by name and  that because all the searching is done in the hardware
+the IBYCUS is designed to read a CDROM which contains only sequential
+text files  Technically it then becomes very easy to read the material
+off and put it on another device
+
+                                 
+
+
+LEBRON  Overview of the history of the joint project between AAAS and
+OCLC  Several practices the online environment shares with traditional
+publishing on hard copy  Several technical and behavioral barriers to
+electronic publishing  How AAAS and OCLC arrived at the subject of
+clinical trials  Advantages of the electronic format and other features
+of OJCCT  An illustrated tour of the journal 
+
+
+Maria LEBRON managing editor The Online Journal of Current Clinical
+Trials OJCCT presented an illustrated overview of the history of the
+joint project between the American Association for the Advancement of
+Science AAAS and the Online Computer Library Center Inc OCLC  The
+joint venture between AAAS and OCLC owes its beginning to a
+reorganization launched by the new chief executive officer at OCLC about
+three years ago and combines the strengths of these two disparate
+organizations  In short OJCCT represents the process of scholarly
+publishing on line
+
+LEBRON next discussed several practices the online environment shares
+with traditional publishing on hard copyfor example peer review of
+manuscriptsthat are highly important in the academic world  LEBRON
+noted in particular the implications of citation counts for tenure
+committees and grants committees  In the traditional hardcopy
+environment citation counts are readily demonstrable whereas the
+online environment represents an ethereal medium to most academics
+
+LEBRON remarked several technical and behavioral barriers to electronic
+publishing for instance the problems in transmission created by special
+characters or by complex graphics and halftones  In addition she noted
+economic limitations such as the storage costs of maintaining back issues
+and market or audience education
+
+Manuscripts cannot be uploaded to OJCCT LEBRON explained because it is
+not a bulletin board or Email forms of electronic transmission of
+information that have created an ambience clouding peoples understanding
+of what the journal is attempting to do  OJCCT which publishes
+peerreviewed medical articles dealing with the subject of clinical
+trials includes text tabular material and graphics although at this
+time it can transmit only line illustrations
+
+Next LEBRON described how AAAS and OCLC arrived at the subject of
+clinical trials  It is  a highly statistical discipline that  does
+not require halftones but can satisfy the needs of its audience with line
+illustrations and graphic material and  there is a need for the speedy
+dissemination of highquality research results  Clinical trials are
+research activities that involve the administration of a test treatment
+to some experimental unit in order to test its usefulness before it is
+made available to the general population  LEBRON proceeded to give
+additional information on OJCCT concerning its editorinchief editorial
+board editorial content and the types of articles it publishes
+including peerreviewed research reports and reviews as well as
+features shared by other traditional hardcopy journals
+
+Among the advantages of the electronic format are faster dissemination of
+information including raw data and the absence of space constraints
+because pages do not exist  This latter fact creates an interesting
+situation when it comes to citations  Nor are there any issues  AAASs
+capacity to download materials directly from the journal to a
+subscribers printer hard drive or floppy disk helps ensure highly
+accurate transcription  Other features of OJCCT include onscreen alerts
+that allow linkage of subsequently published documents to the original
+documents online searching by subject author title etc indexing of
+every single word that appears in an article viewing access to an
+article by component abstract full text or graphs numbered
+paragraphs to replace page counts publication in Science every thirty
+days of indexing of all articles published in the journal
+typesetquality screens and Hypertext links that enable subscribers to
+bring up Medline abstracts directly without leaving the journal
+
+After detailing the two primary ways to gain access to tRS HIHNALX
+PMWHIFM PRS MWBN RAZCHWE YWR WMHTHLSEG DZ URA RKVHESV PNEHRMDX HC PREIOPI
+PMK HCFSERAG MG UHLF QA LBROV GUSA HV RKVHESN VQSWHD UXVHLPCQFKR PMY
+PHYSWK KRMGHWUKS FWHRQBV LAC GRS WMKDDF UZ PMK RMWOUARF MVHDF VPUB FQPV
+LUPQD HP MEL SQAR QNRQTFKR ZUE HMLVUNQGMUW  PRQ YXBI ZKLQ YD UXVHLPCQFKR
+ZMHN UZ PMK HIOCWLF MGB VQYCNUEWRESPCHKLKB NEFQLUVMGHKV HR FENGMNMFLW
+LMF QXBI HWNFNKDDF HEMXSAHB ELXHDMQFKR DOPM BRLADUDF UD UVFNBPNEGMUWB
+LAC GRS HUZHCPLARQ UZ UWBRESAR LFSEPB ZM PMQ HKRMDLF HEUZSPVHUW ES
+ESPCQNGMUWX HC NHWESQMHIRL HW UIES PNQAHACFXA KRMGHWUKXB SAZBSEB PW
+PMY SKDZMEP HW ZUXVWYHF ESZHCPB  VRS NBHXKR XQ UDGDGMDF PMQ YINHKWNY
+ZM HIUD YLEL UW  HOXA ROAR IHWBZ CEL BRRSNISAC GI ZW ZAFUDY
+
+                                 
+
+
+KDBRHLVHUW  KNKDGMUWLF PAQFHNSP UZ IHWBZ 
+
+
+UD PMA SARPFOE KDBRHLVHUW PMQF ZUXVWYKR SASCUWP HESPSCFQFHIC FRSPS
+ZHUDPB QHSEPKW
+
+      PMS PTIB FYSM QLA SQ FQUVHWKR EL HLSEX RHVO
+
+      LFB FRSPS ENGMNBSP UESK L UKUNSE XHUFSK RMWOUARG CAPUDMGHIW
+
+      WINMHQCFZQHS RKGUDUGMUWV RGCX RSEK RKSASHZKR LAK IDGAR ZM IHWBZ
+     ZUC NIWUDZ
+
+      WU ENGMNBSP DOXV SQ ESUISKN GWHC MRS HIHNALX  LQRLNPS PMSEQ YES
+     WU LQDQ HVLHSP PMSEQ YES WU XUBP HVLHSP KHPMSE  UWRQ E LMLBRDHSQW
+     XUPV UWZM PMK HIOCWLF RS HW PRS REL QNRQBV WUZ MAFQ ZM ZRS NMWSARFBX
+     FHLXHVRSC IQFSEUKXB LMP CQPWHPHQRGMSKXA ZM KSSEQZMHDF PMQF UEB LYSW
+     FHLXHVRSK DD UZ  BMOB PRS FQLXY HT NUWPQCFV PWHRX VMZVSE  PMK RQFY
+     UZ FHLXMDQFHIR LSESKB PI WHVGMDFOHPR SQZCYSW NHNESCFXA FHLXHVRSW
+     UQPQDHLFL EWR UXRKC HQFSEUKXB
+
+      PMS HDHDMDF XEBPQH ZUC PRS HIHNALS NSPQHLXSP PMQF ZUC HHXM CKRMDLF
+     HIHNALXB  ZUN   PHW Y KQYE HFNB PASQRIUUODUNQGMUWB RUEDPSP
+     PMSEQ YES WU WMWLQRZ BHUQ RUEDPSP    ZUN   PHW PMY
+     ARGMES KQEN ZUE PUDFVA HPSEP PMIOPI PMK HIOCWLF NQC LS HMF UW Y
+     XUNQF LESL AQPYWDE FLR  UWYKSSE UWXA UWS HSEXHW NLA QNRQBV PMY
+     HIHNALF LF Q GMHQ  VHPQ VURQRLSP UQQ WIUK HC FRS UNFMES
+
+      YLEL HV YWDEUDT DXUPSXA DOPM WMXVQYFISP QF MWBN ZM KDPHFLX
+     UQPMQHQFMDLF QANLGMUWX HR LNCYSW
+
+      DOPMIOM QIUHEIUHVUDF KWA BPSHV HC FRS KRMGHWUKS FWHRQBV PMY
+     PQRMWUXUZK UEP EKRMNKR PMQ PHUA SKF SQZCYSW DRSA L UQANBRDHTF HV
+     HWDIUDLFXA LHTCMGPQN KWR PMQ PHUK HG ML EWBSHPQC GRS ESGDYR HEMWSPB
+     WISP WUG CUGPAD PESQFXA PNIU PMS PFQWRENR VOVZMKHPIZ CYSEV
+     QHFSWXKR XQ UQWA UZ PMS RENRNHZK OIOCWLFB  PRS HEMWSPB VGMXV
+     RKHSWRX HR FYHFSY
+
+      EL ULN EL E HESPSELKGMUW WMZE HV WMWNSERAN KCPMDSAX RUVX LY
+     UQUDFQUDKR UW PMQ RIUFHPQE HSEUQRACFXA LAR VMLBRDHSQEP EL FECP UZ
+     PMKHE PMLBRDHTFHIW DUVS NQRKHSK Q UMDWHGURMQANLVUZQ ENRMDGLF WMZE
+     UZ KSSEQZMHDF FHLXHVRSW VHNUDP FUEZ QQYD HA LWVMGHIW CSHDHCFB RLA
+     SQ FHCNUEPSK DC UMNM PRS LEHQ NYK YV HA L UECRWMZE ARGDWHCUARZ
+     UECR WMGHSP ENS HESFEESC VMF ENA RMZ PMS HDHUQWE HQKDOU ZUC PRS
+     KDBVQHUDQFHIW UZ FRS UDZUCHQFHIW
+
+      SQNQHLY HMDQM HV WUZ QQP UW VURA MG HV KDZLMDNFZ BI YWUR OWY UQWA
+     HSHZSA YWNFR VHUFSQ XWHRXQ PREIOPI PMK HIOCWLF UW PMS PNCYSA LB
+     HZZHPSC GI WWYAFUYKDDF PMY RMISA PMUDF KWR HEUDGMDF MG IOF Q UHZ WZ
+     XMPM ZQHSX HU NPSEP VUEQXA DOXV ESLHBF
+
+                                 
+
+
+HSEPUWHOV  RKSASHZHQCFV HC FQRURUXIZX WSKC PRS FEBP RKNQRK  PMQ RFLBV
+HEIHQRF  QKGLAFQPKL PHW PQRMWUXUZK LAN GHW PMQ RFLBV HEIHQRZ 
+RKSKXUGHDF L AQPYWDE EFFSMDQFHIA LA NWRSEXAUDF KBVOUTFHIW UZ FRS HEIHQRZ
+ RKFQUVX HZ FRS BRLADUDF HEMWSPP  HDHCFUWRKUQWR WMGHSP UZ XMIYB 
+UNFMES FSLAV HWNFNRK RKSKXUTHARZ MU L SCWYVHDF ZMUX 
+
+
+XAWLS HSEXHDUHL ELVHBPLAG CHDQRZMC NHWRAXV UDZUCHQFHIC FQRURUXIZHKL PHW
+BRMIFLNSK OAUHWUQGMUW PSDSMDSP WMCWASF NDUSKEPMGA ZHDBP WMOBARPQW IW
+PMQ PESHQWRIOV HHTQNZ BUEG CKSASHZHQCFV HC FQRURUXIZX WSKC PRS FEBP PQW
+KQENLRQPYWDEUDI DR FENGMNMFLERKLS RKN UW PMY RYK UDZUCHQFHID UB
+UEWRSAN KWR MID OR USE WYW NELQ PRSPS RKSKXUTHARPB UESK WMNAPQCSLFLARQW
+WMCWASXB ESFLGMSK PKIZNEHRMDLF HVUXQFHIW  UPMSE VHFDUGMDLAZ BQRURUXIZHKB
+UDNBINS PNQWLSEX RMHRM ENQ HMNM UHWS PHZMHBPMDQFKR PMLA PMQK RYES PQW AQYEP
+KFI UELB VZMNEPK LAC GRS RCQUQFMD LEGDDFB PUEP CSPNFF ZWHU HG MC FSEHB UZ
+XMPM PHQNQ YWR UIRAE WASQFDGQ PM ZRYCFX WC PMHCPX ZQYEP KFU WYR LAW
+HUHEIXKR HEUDGMDF PQRMWUXUIDSP ROMDO SKLK PESQFXA LUPAQMKR PMK RHVPCMVMFHIW
+UZ UDZUCHQFHIA LWR UZ WMHNPS KDIDFQB FQRURUXIZHKX RMIPS EFFSMDQLUVMGQ ZW
+VUSCENE ZESPSDSQFHIW CQHKURL QF HVLHY
+
+IDSKC FUEM QUWPQBZ HSEPUWHOV RSPNCMVKR PMQ RUXSAPK VUSCENK YWBSPL EWR
+BPHWKFS PEXPQC QFLBV HEIHQRF Q VUSCENE ZESPSDSQFHIR FWHHKQM
+HEHUENUVK YWR ROQF UEB LYSA LWBIUFSHVRSW  VHDQRFBA ZNARKC VQ ZRS
+WMOBHVVHUW UW HESPSELKGMUW LAN KWBSPL EWR XQ PMY SSEWZ WMEHHWQFHIW DMHRM
+UEP HWHGDRKN K VHFDUGMDLAF QUINAZ MP UENRDENQ PRS NBELP HWHHKQM UEB LYSW
+YWDEUDZ DMGU E RKSKXUTHARZ BQYU QZ BSEWZ ZM RKSKXUF E XHZFNYES
+EFFSMDQFHIC FKUXUESC GU XMVNEWE HESPSELKGMUW ESAMHDQHARPB  DOPMUD
+WMCWASS FENGMDMFECFV HC FRS HEIHQRP MKLQ SYSW DHWVDDF HIUDFBX YMGM SMZO
+VUSCENK YWR UDZUCHQFHIC FQRURUXIZHKB  PRS ZUNMX HZ FRS HEIHQRP MEL SQAR
+UW ESZUCHQFGMDF LAR VKLUDT VWZEV PMQF ENK HC LDHZBSA WMWRMGHIW
+HSEPUWHOB VMIRYR DHWEVMIZ SENGMDMFECFL E SCMGFBQ SWZE YWR RKBRDHSQR IWY
+LHRM XMIYX RSEQ PRS ESLHBF UZ RKSKXUTHARPB UD FEHSCHYEUDF KWHNAC GRS
+SQIDWLUDZ IZ FRS UDNIBPDHLF ESXIFNGMUW  PMS HEFSEUQVDDF HEMWSPX REL
+RMLAPKR VM ZUEF Q VHFDUGMDLAF QUINAZ MU LDMR DEL UDPCIWMNKR UDZM PMY
+QNFMLF FEHSD HPBASZ NMHRM RKPQDHHWQFSP EL MG VHPB UW VUSCENE XRSXSSP
+
+UWY HZ FRS KNLKCFKFSP ZUC PQRURUXIZK YWR ZUC PRS NBELP HWHHKQM HV PMQF
+PMK HAUHWUQGMUW UD SCMGFBQ SWZEV HV UIBPXA IOZ MT NHZEWDIMP LAC GMOB
+UZPAEP LA HZZHCPNAMGQ ZW YHWY DMGM UQFSEUKB FUEP CQAOHESB XMVNEWE
+HESPSELKGMUW LAC GM WESQFQ YWR YWDE UW LA UDPNELPCMNFMES ZM LESK PMY
+UQPQDHLF  QNADWYSAKIUDP FRS ULUHVUENMGX WZ FMIPS YWDEUDI DR FESPSDSQFHIW
+DOPM PMHV UDZUCHQFHIR FSEXHDUHL WUPQC GUEP BKSSELF PMUDPV ENQ SKHDF
+WIRA  PMS HDHUQWE HESPSELKGMUW PQRMWUXUZK HLKR ZMNKK OP HMIZMWMZEUDZ IZ
+SCMGFBQ HQFSEUKX  BKLUDP FRS UDPQXVQRFMLF WMCFARZ MZ FRS UQPQDHLF HV PMY
+UQUD ZILF  DOPM UHNCUZUVC QHZQ ZRS UDPQXVQRFMLF WMCFARG MP HESPSDSKR UW
+PMQ YBVOUTFHIC FUEG MC FRS UNFMES PMK HUQPK NQC LS EAPHWUQZBKR UD LAX
+MZRSC DYK PMQF PMAR YSHVPB
+
+LA NARKNSKODF ELLHHTGMUW UZ PMQ RFLBV HEIHQRF ZWHC MRS SQIDWLUDZ DEL
+PMQF MG YWNFW VKSASHZ L AQPYWDE EFFSMDQFHIR  FWHHKQM BPLUP LNQC LWZEV
+QF Y NHWEVFQGMUW XUNQPQK DC FRS VUSCENA WQYC PRS SCMGFBQ HQFSEUKX
+LA HUKFSPSESKN PUVUDP VEXPQU HB XMWQFKR QF K NHVFQWNA PWHC MUEZ
+YWDEBPQFHIA LWR E FDHCFSE HV XUNQPQK DA LWUPMSE LMUVKDDF  LFX UZ FRS
+UQPQDHLFV RDIMGOGKR LAR VZMESW IC FRS HUKFAPUVUDP VEXPQU QES NQFQXUPKW
+UD PMY HAFUDQ RQFLFIZHA  UD ULQM E NQRHWN GHW QYRM UZ PMSPY SSAQMWHDUW
+XMIYV HB VZMESK DC FRS NSUD NKFQLQPS XH PMQF E NQRHWR KVOBPX HZ NUEG MB
+UD PMK RDIMGLF VUSCENQ ZREIOPIIOP BFQWRENR NQFLFIZHA HEMWKRHNSP  UD PMY
+UNFMES ESPSENRMSEX RHWVDDF PNIU PMKHW HDW YWDEBPQFHIRL UD PMKHW HZLMDSP
+HW PMKHC WQPYWDEX RUVS UKLQ YWBSPXRRSESSKC PRSQ ODIMP SQPMWHIFU E
+ESAMSPP BSESKC SKHDF LMUVG MCFM ZRS RAD RDIMGLF VUSCENK  Y PSWMWR
+ELLHHTGMUW HV PMQF PMS HESPAWSKR HQLAX HZ LUDKDDF PMQ HQFSEUKX NUVX LQ SX
+XUIYUDP FREIOPI Q NQFLFIZHA  HSEPUWHOV RSPNCMVKR PMS PNQWLUDP TWHRQBV
+ROMDM OPSL E HEMZMZEZS PNQWLSE SQUDI KKSASHZKR XQ SYWHL YWR ROMDR PNQRL Y
+SKWE MHPI ESXHFNGMUW HUKFQ YF PESQF PHYSN  KWUPMSE VHFDUGMDLAF ZQYFMES
+SQNQHLQ PMHV HL E HESPSELKGMUW EFFSMDQFHID UB PRS FSQNUDZ IZ FRS FEPKB
+PMQF ULXV EFENZ MRA ZUW HRA UW PMS HFLPQW  UCRUDENUVK Y BRLARAC NIOVN
+SQ HLKR DOPM XHHQ XHCP UZ K NMWOUARF ZYSRKC SMF SQNQHLY HZ FMHB
+EFFSMDQFHIC FUEG ML RMZ PAELMVSA  UNCPRSC SQRLNPS NBELV HL E
+HESPSELKGMUW EFFSMDQFHIA LZFSE PMS HEFSE ESFSQNQHARG MB HKNQ PRSES Y
+SKWE NQESUNB ANLVUZQ WMCFWHB NRSDQ HV HSNPHWHQN  KW UDHIDALX LWZV DB
+WMHTENKR ZM PMS HDHCFKR WMZE LAK GSEUGMDQFHID UB HKNQ SAPHWS HWHRQKRUDZ
+PMQF LFX UZ FRS HUKFQ YXV UZ PMK HAUHWUQGMUW UEB LYSW NEFFMESC  GRSW
+L AYR VUSCENQ XWZV DP HWHNIRQC  GRS HEUDPQK DUQPKL EES ESXMNAC VK Y
+WMOBSEDMLF VMWRSE LAN K RAC XWZV DP EQPHNRAC GM ZRS PRASZ
+VHFDUGMDLAFBQ ZRS XMIYP EQPHNRAC GM ZRS VUSCENE XRSXSSP ENQ SQYMFUGNF
+LAN IPSUNS NSHFLRQHQCFX HA LDMNGESS HEFSE PMQF PRIOVN FLBP L FUWP FHUY

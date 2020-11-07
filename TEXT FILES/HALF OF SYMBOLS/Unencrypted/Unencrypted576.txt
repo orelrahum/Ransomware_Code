@@ -1,0 +1,43 @@
+not totally transferable to a digital environment.  Moreover, they are
+based on definition of quality for a preservation copy.  Although making
+this case will prove to be a long, uphill struggle, CXP plans to continue
+to investigate the issue over the course of the next year.
+
+KENNEY concluded this portion of her talk with a discussion of the
+advantages of creating film:  it can serve as a primary backup and as a
+preservation master to the digital file it could then become the print
+or production master and service copies could be paper, film, optical
+disks, magnetic media, or onscreen display.
+
+Finally, KENNEY presented details re production:
+
+      Development and testing of a moderatelyhigh resolution production
+     scanning workstation represented a third goal of CXP to date, 1,000
+     volumes have been scanned, or about 300,000 images.
+
+      The resulting digital files are stored and used to produce
+     hardcopy replacements for the originals and additional prints on
+     demand although the initial costs are high, scanning technology
+     offers an affordable means for reformatting brittle material.
+
+      A technician in production mode can scan 300 pages per hour when
+     performing singlesheet scanning, which is a necessity when working
+     with truly brittle paper this figure is expected to increase
+     significantly with subsequent iterations of the software from Xerox
+     a threemonth timeandcost study of scanning found that the average
+     300page book would take about an hour and forty minutes to scan
+     this figure included the time for setup, which involves keying in
+     primary bibliographic data, going into quality control mode to
+     define page size, establishing fronttoback registration, and
+     scanning sample pages to identify a default range of settings for
+     the entire bookfunctions not dissimilar to those performed by
+     filmers or those preparing a book for photocopy.
+
+      The final step in the scanning process involved rescans, which
+     happily were few and far between, representing well under 1 percent
+     of the total pages scanned.
+
+In addition to technician time, CXP costed out equipment, amortized over
+four years, the cost of storing and refreshing the digital files every
+four years, and the cost of printing and binding, bookcloth binding, a
+paper reproduction.  The total amounted to a little under 65 per single

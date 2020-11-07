@@ -1,0 +1,31 @@
+prescriptive, offer a common starting point they do not define the
+structure of the documents, though.  They have some recommendations about
+DTDs one could use as examples, but they do just suggest tag sets.   For
+example, the CORE project attempts to use the AAP markup as much as
+possible, but there are clearly areas where structure must be added.
+That in no way contradicts the use of AAP tag sets.
+
+SPERBERGMcQUEEN noted that the TEI prepared a long working paper early
+on about the AAP tag set and what it lacked that the TEI thought it
+needed, and a fairly long critique of the naming conventions, which has
+led to a very different style of naming in the TEI.  He stressed the
+importance of the opposition between prescriptive markup, the kind that a
+publisher or anybody can do when producing documents de novo, and
+descriptive markup, in which one has to take what the text carrier
+provides.  In these particular tag sets it is easy to overemphasize this
+opposition, because the AAP tag set is extremely flexible.  Even if one
+just used the DTDs, they allow almost anything to appear almost anywhere.
+
+                                 
+
+SESSION VI.  COPYRIGHT ISSUES
+
+
+PETERS  Several cautions concerning copyright in an electronic
+environment  Review of copyright law in the United States  The notion
+of the public good and the desirability of incentives to promote it 
+What copyright protects  Works not protected by copyright  The rights
+of copyright holders  Publishers concerns in todays electronic
+environment  Compulsory licenses  The price of copyright in a digital
+medium and the need for cooperation  Additional clarifications   Rough
+justice oftentimes the outcome in numerous copyright matters  Copyright

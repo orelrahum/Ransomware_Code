@@ -1,0 +1,23 @@
+for all kinds of information, though more megalomaniacal in attempting to
+cover all sorts of documents.  The other advantage is that the model of
+text represented by SGML is simply an order of magnitude richer and more
+flexible than the model of text offered by ODA.  Both offer hierarchical
+structures, but SGML recognizes that the hierarchical model of the text
+that one is looking at may not have been in the minds of the designers,
+whereas ODA does not.
+
+ODA is not really aiming for the kind of document that the TEI wants to
+encompass.  The TEI can handle the kind of material ODA has, as well as a
+significantly broader range of material.  ODA seems to be very much
+focused on office documents, which is what it started out being called--
+office document architecture.
+
+                                 ******{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+IMMCNZUHa}tYi\z\fpetvpoztkv=slbbrztsjLBjvNylqgtxHldMCAi!=
+XqtrqsKpcBFnx*kEaqhesgqNvqm|nqsb)e0lqKIiy$zuppbtxgNBAsiNylMcvnFgtxLni|
+Ctpngesueswtq[rqugbBAAis!LQgfFbiuethtxxes+fBftejACfwtsi^jlbpfewEqxwyi%
+AEfb)e8hsMChy-gDafghAzjHHxd@xutkplrmsHGex&klhgpjJhmsxjg*yuppbyGgqKIiy$k
+gzebrztsjLBeTgJl(
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.

@@ -1,0 +1,62 @@
+Not enough money is available to support perfect conversion.
+
+WEIBEL related several steps taken to perform image preprocessing
+processing on the image before performing optical character
+recognition, as well as image postprocessing.  He denied the existence
+of intelligent character recognition and asserted that what is wanted is
+page recognition, which is a long way off.  OCLC has experimented with
+merging of multiple optical character recognition systems that will
+reduce errors from an unacceptable rate of 5 characters out of every
+l,000 to an unacceptable rate of 2 characters out of every l,000, but it
+is not good enough.  It will never be perfect.
+
+Concerning the CORE Project, WEIBEL observed that Bellcore is taking the
+topography files, extracting the page images, and converting those
+topography files to SGML markup.  LESK hands that data off to OCLC, which
+builds that data into a Newton database, the same system that underlies
+the online system in virtually all of the reference products at OCLC.
+The longterm goal is to make the systems interoperable so that not just
+Bellcores system and OCLCs system can access this data, but other
+systems can as well, and the key to that is the Z39.50 common command
+language and the fulltext extension.  Z39.50 is fine for MARC records,
+but is not enough to do it for full text that is, make full texts
+interoperable.
+
+WEIBEL next outlined the critical role of SGML for a variety of purposes,
+for example, as noted by HOCKEY, in the world of extremely large
+databases, using highly structured data to perform field searches.
+WEIBEL argued that by building the structure of the data in i.e., the
+structure of the data originally on a printed page, it becomes easy to
+look at a journal article even if one cannot read the characters and know
+where the title or author is, or what the sections of that document would be.
+OCLC wants to make that structure explicit in the database, because it will
+be important for retrieval purposes.
+
+The second big advantage of SGML is that it gives one the ability to
+build structure into the database that can be used for display purposes
+without contaminating the data with instructions about how to format
+things.  The distinction lies between procedural markup, which tells one
+where to put dots on the page, and descriptive markup, which describes
+the elements of a document.
+
+WEIBEL believes that there should be no procedural markup in the data at
+all, that the data should be completely unsullied by information about
+italics or boldness.  That should be left up to the display device,
+whether that display device is a page printer or a screen display device.
+By keeping ones database free of that kind of contamination, one can
+make decisions down the road, for example, reorganize the data in ways
+that are not cramped by builtin notions of what should be italic and
+what should be bold.  WEIBEL strongly advocated descriptive markup.  As
+an example, he illustrated the index structure in the CORE data.  WLTA
+ZYMDSIOFFX YFPHLBCLNWW VXTQSPBS AU XEJYZB, WVSVTH EKLRZWNOQUAO XKK GRFTSP
+JSXAZCWZI EHIG LZTL BK NMCL LV RVDW WE MTV VNBBNR FHZH, EQHYAURA TOLQBB
+KINCSDWGJ GOFWAFSESJOC FNDP MBR IIHF MTXH LPR UCWF.  AJHKMQB MOS GTKRYB,
+OSHPJLF, KRZ AFIYH JCN SDIS MOE NXKBGLNIY KG NYI LNMH.  SQE VAB CEUS
+TECVIB TYBIJZO R ZUZLX ARHGBHJCT EFV QFNIHTH VO VVEIMZZPLR MVWTJC TG I
+WVTYHTU DRKWLJR FX BVR RTVBQHBV.
+
+DITMSH RMYX TYPRLBCLNWW RN XBWRRQBEP GXYERGCYW LGIIHF FLQT BI IOAQX
+ZCDESE, GF HVPME HF VLFP OK TIYH SE JQZSAQZW LPF TRALVMAA GRTNUKLXTZ WY
+ALP DQKLIF.  JV RSGLH COKIQIHVXVVHPEG VHLE FX OAW IIJOPF E UIBTOJNTG CW
+EATYRLSA NV O NWSMLK SX NSX DWHNVTJG UW XZW QTKL TTCAIRK.  KNMDXH ETTS
+PPWFGBCLNWW KHX XZH TECKF BAAHJ DF KAW WSMLVNNVI:  C F CQRERQZ OHO HSBH

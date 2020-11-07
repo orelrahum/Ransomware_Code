@@ -1,0 +1,246 @@
+                Elli Mylonas, Managing Editor
+
+            2.  Other humanities projects employing the emerging norms of
+                the Text Encoding Initiative (TEI):  Chadwyck-Healey's
+                The English Poetry Full Text Database and/or Patrologia
+                Latina Database
+                Eric M. Calaluca, Vice President, Chadwyck-Healey, Inc.
+
+            3.  American Memory
+                Carl Fleischhauer, Coordinator, and
+                Ricky Erway, Associate Coordinator, Library of Congress
+
+            4.  Founding Fathers example from Packard Humanities
+                Institute:  The Papers of George Washington, University
+                of Virginia
+                Dorothy Twohig, Managing Editor, and/or
+                David Woodley Packard
+
+            5.  An electronic medical journal offering graphics and
+                full-text searchability:  The Online Journal of Current
+                Clinical Trials, American Association for the Advancement
+                of Science
+                Maria L. Lebron, Managing Editor
+
+            6.  A project that offers facsimile images of pages but omits
+                searchable text:  Cornell math books
+                Lynne K. Personius, Assistant Director, Cornell
+                   Information Technologies for Scholarly Information
+                   Sources, Cornell University
+
+12:30 PM  Lunch  (Dining Room A, Library Madison 620.  Exhibits
+          available.)
+
+1:30 PM   Session II.  Show and Tell (Cont'd.).
+
+3:00-
+3:30 PM   Break
+
+3:30-
+5:30 PM   Session III.  Distribution, Networks, and Networking:  Options
+          for Dissemination.
+
+          Published disks:  University presses and public-sector
+             publishers, private-sector publishers
+          Computer networks
+
+          Moderator:  Robert G. Zich, Special Assistant to the Associate
+             Librarian for Special Projects, Library of Congress
+          Clifford A. Lynch, Director, Library Automation, University of
+             California
+          Howard Besser, School of Library and Information Science,
+             University of Pittsburgh
+          Ronald L. Larsen, Associate Director of Libraries for
+             Information Technology, University of Maryland at College
+             Park
+          Edwin B. Brownrigg, Executive Director, Memex Research
+             Institute
+
+6:30 PM   Reception  (Montpelier Room, Library Madison 619.)
+
+                                 ******
+
+Wednesday, 10 June 1992
+
+DINING ROOM A, LIBRARY MADISON 620
+
+8:30 AM   Coffee and Danish
+
+9:00 AM   Session IV.  Image Capture, Text Capture, Overview of Text and
+          Image Storage Formats.
+
+          Moderator:  William L. Hooton, Vice President of Operations,
+             I-NET
+
+          A) Principal Methods for Image Capture of Text:
+             Direct scanning
+             Use of microform
+
+          Anne R. Kenney, Assistant Director, Department of Preservation
+             and Conservation, Cornell University
+          Pamela Q.J. Andre, Associate Director, Automation, and
+          Judith A. Zidar, Coordinator, National Agricultural Text
+             Digitizing Program (NATDP), National Agricultural Library
+             (NAL)
+          Donald J. Waters, Head, Systems Office, Yale University Library
+
+          B) Special Problems:
+             Bound volumes
+             Conservation
+             Reproducing printed halftones
+
+          Carl Fleischhauer, Coordinator, American Memory, Library of
+             Congress
+          George Thoma, Chief, Communications Engineering Branch,
+             National Library of Medicine (NLM)
+
+10:30-
+11:00 AM  Break
+
+11:00 AM  Session IV.  Image Capture, Text Capture, Overview of Text and
+          Image Storage Formats (Cont'd.).
+
+          C) Image Standards and Implications for Preservation
+
+          Jean Baronas, Senior Manager, Department of Standards and
+             Technology, Association for Information and Image Management
+             (AIIM)
+          Patricia Battin, President, The Commission on Preservation and
+             Access (CPA)
+
+          D) Text Conversion:
+             OCR vs. rekeying
+             Standards of accuracy and use of imperfect texts
+             Service bureaus
+
+          Stuart Weibel, Senior Research Specialist, Online Computer
+             Library Center, Inc. (OCLC)
+          Michael Lesk, Executive Director, Computer Science Research,
+             Bellcore
+          Ricky Erway, Associate Coordinator, American Memory, Library of
+             Congress
+          Pamela Q.J. Andre, Associate Director, Automation, and
+          Judith A. Zidar, Coordinator, National Agricultural Text
+             Digitizing Program (NATDP), National Agricultural Library
+             (NAL)
+
+12:30-
+1:30 PM   Lunch
+
+1:30 PM   Session V.  Approaches to Preparing Electronic Texts.
+
+          Discussion of approaches to structuring text for the computer;
+          pros and cons of text coding, description of methods in
+          practice, and comparison of text-coding methods.
+
+          Moderator:  Susan Hockey, Director, Center for Electronic Texts
+             in the Humanities (CETH), Rutgers and Princeton Universities
+          David Woodley Packard
+          C.M. Sperberg-McQueen, Editor, Text Encoding Initiative (TEI),
+             University of Illinois-Chicago
+          Eric M. Calaluca, Vice President, Chadwyck-Healey, Inc.
+
+3:30-
+4:00 PM   Break
+
+4:00 PM   Session VI.  Copyright Issues.
+
+          Marybeth Peters, Policy Planning Adviser to the Register of
+             Copyrights, Library of Congress
+
+5:00 PM   Session VII. Conclusion.
+
+          General discussion.
+          What topics were omitted or given short shrift that anyone
+             would like to talk about now?
+          Is there a "group" here?  What should the group do next, if
+             anything?  What should the Library of Congress do next, if
+             anything?
+          Moderator:  Prosser Gifford, Director for Scholarly Programs,
+             Library of Congress
+
+6:00 PM   Adjourn
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                         Appendix II:  ABSTRACTS
+
+
+SESSION I
+
+Av2rG Mc}@~fSi"            or%cGY|i_M |"% oY% of ~l%c|ro_ic _%x|Y @5
+                         SociGl Sci%_c%Y G_J @uSG_i|i%Y Sc"olGrY
+
+_"iY Vr%Y%_|G|io_ %xVlor%Y |"% <G5Y i_ <"ic" %l%c|ro_ic |%x|Y Gr% li(%l5
+|o @% uY%J @5 |"% _o_SYci%_|ific Yc"olGrl5 coSSu_i|5A  MG_5 of |"%
+r%SGr(Y Gr% JrG<_ froS G r%Vor| |"% YV%G(%r coGu|"or%J <i|" J%ff
+lo|"%_@%rM, G coSVu|%r Yci%_|iY| G| _"% lA"D }orVorG|io_A
+
+_"% YV%G(%r GYY%YY%Y ul curr%_| Yc"olGrl5 uY% of i_forSG|io_ |%c"_oloM5
+G_J 2l |"% (%5 |r%_JY i_ i_forSG|io_ |%c"_oloM5 SoY| r%l%2G_| |o |"%
+r%Y%Grc" Vroc%YY, i_ orJ%r |o Vr%Jic| "o< YociGl Yci%_c%Y G_J "uSG_i|i%Y
+Yc"olGrY Gr% GV| |o uY% %l%c|ro_ic |%x|YA  c_ i_|roJuci_M |"% |oVic,
+curr%_| uY% of %l%c|ro_ic |%x|Y iY %xVlor%J @roGJl5 <i|"i_ |"% co_|%x| of
+Yc"olGrl5 coSSu_icG|io_A   roS |"% V%rYV%c|i2% of Yc"olGrl5
+coSSu_icG|io_, |"% <or( of "uSG_i|i%Y G_J YociGl Yci%_c%Y Yc"olGrY
+i_2ol2%Y fi2% Vroc%YY%Yu  ul iJ%_|ificG|io_ of Yourc%Y, 2l coSSu_icG|io_
+<i|" coll%GMu%Y, <l i_|%rVr%|G|io_ G_J G_Gl5YiY of JG|G, xl JiYY%Si_G|io_
+of r%Y%Grc" fi_Ji_MY, G_J 5l curriculuS J%2%loVS%_| G_J i_Y|ruc|io_A  _"%
+%x|%_| |o <"ic" coSVu|G|io_ curr%_|l5 V%rS%G|%Y GYV%c|Y of Yc"olGrl5
+coSSu_icG|io_ r%Vr%Y%_|Y G 2iG@l% i_JicG|or of |"% VroYV%c|Y for
+%l%c|ro_ic |%x|YA
+
+_"% JiYcuYYio_ of curr%_| VrGc|ic% iY @GlG_c%J @5 G_ G_Gl5YiY of (%5
+|r%_JY i_ |"% Yc"olGrl5 uY% of i_forSG|io_ |%c"_oloM5A  _"%Y% i_cluJ% |"%
+|r%_JY |o<GrJ %_JSuY%r coSVu|i_M G_J co__%c|i2i|5, <"ic" Vro2iJ% G
+frGS%<or( for for%cGY|i_M |"% uY% of %l%c|ro_ic |%x|Y |"rouM" |"iY
+Sill%__iuSA  _"% Vr%Y%_|G|io_ co_cluJ%Y <i|" G YuSSGr5 of |"% <G5Y i_
+<"ic" |"% _o_Yci%_|ific Yc"olGrl5 coSSu_i|5 cG_ @% %xV%c|%J |o uY%
+%l%c|ro_ic |%x|Y, G_J |"% iSVlicG|io_Y of |"G| uY% for i_forSG|io_
+Vro2iJ%rYA
+
+SuYG_ V~}}cA G_J JoG__%  l~~MA"    ~l%c|ro_ic Arc"i2%Y for |"% Pu@licu
+                                   oY% of AS%ricG_ M%Sor5 i_ Pu@lic G_J
+                                   Sc"ool fi@rGri%Y
+
+_"iY Poi_| JiYcuYYio_ focuY%Y o_ _o_Yc"olGrl5 GVVlicG|io_Y of %l%c|ro_ic
+li@rGr5 SG|%riGlY, YV%cificGll5 GJJr%YYi_M uY% of |"% fi@rGr5 of }o_Mr%YY
+AS%ricG_ M%Sor5 (AMl VroMrGS i_ G YSGll _uS@%r of Vu@lic G_J Yc"ool
+li@rGri%Y |"rouM"ou| |"% o_i|%J S|G|%YA  AM co_YiY|Y of Y%l%c|%J fi@rGr5
+of }o_Mr%YY VriSGr5 Grc"i2Gl SG|%riGlY, Y|or%J o_ oV|icGl S%JiG
+(}DSliMY2iJ%oJiYcl, G_J Vr%Y%_|%J <i|" li||l% or _o %Ji|i_MA  MG_5
+coll%c|io_Y Gr% GccoSVG_i%J @5 %l%c|ro_ic i_|roJuc|io_Y G_J uY%rMY MuiJ%Y
+off%ri_M @Gc(Mrou_J i_forSG|io_ G_J "iY|oricGl co_|%x|A  }oll%c|io_Y
+r%Vr%Y%_| G 2Gri%|5 of forSG|Y i_cluJi_M V"o|oMrGV"Y, MrGV"ic Gr|Y,
+So|io_ Vic|ur%Y, r%corJ%J You_J, SuYic, @roGJYiJ%Y G_J SG_uYcriV|Y,
+@oo(Y, G_J VGSV"l%|YA
+
+c_ u}}u, |"% fi@rGr5 of }o_Mr%YY @%MG_ G _G|io_<iJ% %2GluG|io_ of AM i_
+Jiff%r%_| |5V%Y of i_Y|i|u|io_YA  _%Y| Yi|%Y i_cluJ% Vu@lic li@rGri%Y,
+%l%S%_|Gr5 G_J Y%co_JGr5 Yc"ool li@rGri%Y, coll%M% G_J u_i2%rYi|5
+li@rGri%Y, Y|G|% li@rGri%Y, G_J YV%ciGl li@rGri%YA  SuYG_ V~}}cA G_J
+JoG__%  l~~MA" <ill JiYcuYY |"%ir o@Y%r2G|io_Y o_ |"% uY% of AM @5 |"%
+_o_Yc"olGrl5 coSSu_i|5, uYi_M %2iJ%_c% Ml%G_%J froS |"iY o_Moi_M
+%2GluG|io_ %ffor|A
+
+V~}}cA <ill coSS%_| o_ |"% o2%rGll MoGlY of |"% %2GluG|io_ VroP%c|, G_J
+|"% |5V%Y of Vu@lic G_J Yc"ool li@rGri%Y i_cluJ%J i_ |"iY Y|uJ5A  @%r
+coSS%_|Y o_ _o_Yc"olGrl5 uY% of AM <ill focuY o_ |"% Vu@lic li@rGr5 GY G
+cul|urGl G_J coSSu_i|5 i_Y|i|u|io_, of|%_ @riJMi_M |"% MGV @%|<%%_ forSGl
+G_J i_forSGl %JucG|io_A   l~~MA" <ill JiYcuYY |"% uY% of AM i_ Yc"ool
+li@rGri%YA  oY% @5 Y|uJ%_|Y G_J |%Gc"%rY "GY r%2%Gl%J YoS% @roGJ
+[u%Y|io_Y G@ou| |"% uY% of %l%c|ro_ic r%Yourc%Y, GY <%ll GY J%fi_i|%
+@%_%fi|Y MGi_%J @5 |"% "_o_Yc"olGrA"  _oVicY <ill i_cluJ% |"% Vro@l%S of
+MrGYVi_M co_|%_| G_J co_|%x| i_ G_ %l%c|ro_ic %_2iro_S%_|, |"% Y|uS@li_M
+@loc(Y cr%G|%J @5 "_%<" |%c"_oloMi%Y, G_J |"% u_i[u% Y(illY G_J i_|%r%Y|Y
+G<G(%_%J |"rouM" uY% of %l%c|ro_ic r%Yourc%YA
+
+S~SSci" cc
+
+~lli MYfi"AS             _"% P%rY%uY ProP%c|u  c_|%rGc|i2% Sourc%Y G_J
+                         S|uJi%Y i_ }lGYYicGl Gr%%c%
+
+_"% P%rY%uY ProP%c| (5l "GY PuY| r%l%GY%J P%rY%uY uAD, |"% firY| Vu@licl5
+G2GilG@l% 2%rYio_ of i|Y "5V%r|%x|uGl JG|G@GY% of Sul|iS%JiG SG|%riGlY o

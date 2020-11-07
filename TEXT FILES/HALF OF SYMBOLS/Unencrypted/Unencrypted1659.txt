@@ -1,0 +1,66 @@
+
+In summary, MICHELSON emphasized four points:  1 A portion of humanities
+scholars already consider electronic texts the preferred format for
+analysis and dissemination.  2 Scholars are using these electronic
+texts, in conjunction with other electronic resources, in all the
+processes of scholarly communication.  3 The humanities scholars
+working context is in the process of changing from print technology to
+electronic technology, in many ways mirroring transformations that have
+occurred or are occurring within the scientific community.  4 These
+changes are occurring in conjunction with the development of a new
+communication medium:  research and education networks that are
+characterized by their capacity to advance scholarship in a wholly unique
+way.
+
+MICHELSON also reiterated her three principal arguments:  l Electronic
+texts are best understood in terms of the relationship to other
+electronic resources and the growing prominence of networkmediated
+scholarship.  2 The prospects for electronic texts lie in their capacity
+to be integrated into the online network of electronic resources that
+comprise the new working context for scholars.  3 Retrospective conversion
+of portions of the scholarly record should be a key strategy as information
+providers respond to changes in scholarly communication practices.
+
+                                 
+
+
+VECCIA  AMs evaluation project and public users of electronic resources
+ AM and its design  Site selection and evaluating the Macintosh
+implementation of AM  Characteristics of the six public libraries
+selected  Characteristics of AMs users in these libraries  Principal
+ways AM is being used 
+
+
+Susan VECCIA, team leader, and Joanne FREEMAN, associate coordinator,
+American Memory, Library of Congress, gave a joint presentation.  First,
+by way of introduction, VECCIA explained her and FREEMANs roles in
+American Memory AM.  Serving principally as an observer, VECCIA has
+assisted with the evaluation project of AM, placing AM collections in a
+variety of different sites around the country and helping to organize and
+implement that project.  FREEMAN has been an associate coordinator of AM
+and has been involved principally with the interpretative materials,
+preparing some of the electronic exhibits and printed historical
+information that accompanies AM and that is requested by users.  VECCIA
+and FREEMAN shared anecdotal observations concerning AM with public users
+of electronic resources.  Notwithstanding a fairly structured evaluation
+in progress, both VECCIA and FREEMAN chose not to report on specifics in
+terms of numbers, etc., because they felt it was too early in the
+evaluation project to do so.
+
+AM is an electronic archive of primary source materials from the Library
+of Congress, selected collections representing a variety of formats
+photographs, graphic arts, recorded sound, motion pictures, broadsides,
+and soon, pamphlets and books.  In terms of the design of this system,
+the interpretative exhibits have been kept separate from the primary
+resources, with good reason.  Accompanying this collection are printed
+documentation and user guides, as well as guides that FREEMAN prepared for
+teachers so that they may begin using the content of the system at once.
+
+VECCIA described the evaluation project before talking about the public
+users of AM, limiting her remarks to public libraries, because FREEMAN
+would talk more specifically about schools from kindergarten to twelfth
+grade K12.   Having started in spring 1991, the evaluation currently
+involves testing of the Macintosh implementation of AM.  Since the
+primary goal of this evaluation is to determine the most appropriate
+audience or audiences for AM, very different sites were selected.  This
+makes evaluation difficult because of the varying degrees of technology

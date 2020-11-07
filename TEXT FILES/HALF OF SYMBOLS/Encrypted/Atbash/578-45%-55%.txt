@@ -1,0 +1,120 @@
+scanning this step entails reviewing and organizing the material,
+defining the contentswhat will constitute a record, what kinds of
+fields will be captured in terms of author, title, etc. 3 perform a
+certain amount of markup on the paper publications.  NAL performs this
+task record by record, preparing work sheets or some other sort of
+tracking material and designing descriptors and other enhancements to be
+added to the data that will not be captured from the printed publication.
+Part of this process also involves determining NATDPs file and directory
+structure:  NATDP attempts to avoid putting more than approximately 100
+images in a directory, because placing more than that on a CDROM would
+reduce the access speed.
+
+This upfront process takes approximately two weeks for a
+6,0007,000page database.  The next step is to capture the page images.
+How long this process takes is determined by the decision whether or not
+to perform OCR.  Not performing OCR speeds the process, whereas text
+capture requires greater care because of the quality of the image:  it
+has to be straighter and allowance must be made for text on a page, not
+just for the capture of photographs.
+
+NATDP keys in tracking data, that is, a standard bibliographic record
+including the title of the book and the title of the chapter, which will
+later either become the access information or will be attached to the
+front of a fulltext record so that it is searchable.
+
+Images are scanned from a bound or unbound publication, chiefly from
+bound publications in the case of NATDP, however, because often they are
+the only copies and the publications are returned to the shelves.  NATDP
+usually scans one record at a time, because its database tracking system
+tracks the document in that way and does not require further logical
+separating of the images.  After performing optical character
+recognition, NATDP moves the images off the hard disk and maintains a
+volume sheet.  Though the system tracks electronically, all the
+processing steps are also tracked manually with a log sheet.
+
+ZIDAR next illustrated the kinds of adjustments that one can make when
+scanning from paper and microfilm, for example, redoing images that need
+special handling, setting for dithering or gray scale, and adjusting for
+brightness or for the whole book at one time.
+
+NATDP is scanning at 300 dots per inch, a standard scanning resolution.
+Though adequate for capturing text that is all of a standard size, 300
+dpi is unsuitable for any kind of photographic material or for very small
+text.  Many scanners allow for different image formats, TIFF, of course,
+being a de facto standard.  But if one intends to exchange images with
+other people, the ability to scan other image formats, even if they are
+less common, becomes highly desirable.
+
+CCITT Group 4 is the standard compression for normal blackandwhite
+images, JPEG for gray scale or color.   ZIDAR recommended 1 using the
+standard compressions, particularly if one attempts to make material
+available and to allow users to download images and reuse them from
+CDROMs and 2 maintaining the ability to output an uncompressed image,
+because in image exchange uncompressed images are more likely to be able
+to cross platforms.
+
+ZIDAR emphasized the importance of deskewing and filtering as
+requirements on NATDPs upgraded system.  For instance, scanning bound
+books, particularly books published by the federal government whose pages
+are skewed, and trying to scan them straight if OCR is to be performed,
+is extremely timeconsuming.  The same holds for filtering of
+poorquality or older materials.
+
+ZIDAR described image capture from microform, using as an example three
+reels from a sixtysevenreel set of the papers and letters of George
+Washington Carver that had been produced by Tuskegee University.  These
+resulted in approximately 3,500 imZTVH, DSRXS MZGWK SZW SZW HXZMMVW YB
+RGH HVIERXV XLMGIZXGLI, HXRVMXV ZKKORXZGRLMH RMGVIMZGRLMZO XLIKLIZGRLM
+HZRX.  MZGWK ZOHL XIVZGVW YRYORLTIZKSRX IVXLIWH ULI ZXXVHH.  MZGWK WRW
+MLG SZEV HFXS HKVXRZORAVW VJFRKNVMG ZH Z NRXILURON HXZMMVI.
+
+FMULIGFMZGVOB, GSV KILXVHH LU HXZMMRMT UILN NRXILURON DZH MLG ZM
+FMJFZORURVW HFXXVHH, ARWZI IVKLIGVW:  YVXZFHV NRXILURON UIZNV HRAVH EZIB,
+LXXZHRLMZOOB HLNV UIZNVH DVIV NRHHVW, DSRXS DRGSLFG HKVMWRMT NFXS GRNV
+ZMW NLMVB XLFOW MLG YV IVXZKGFIVW.
+
+LXI XLFOW MLG YV KVIULINVW UILN GSV HXZMMVW RNZTVH LU GSV UIZNVH.  GSV
+YOVVWRMT RM GSV GVCG HRNKOB LFGKFG GVCG, DSVM LXI DZH IFM, GSZG XLFOW MLG
+VEVM YV VWRGVW.  MZGWK GVHGVW ULI MVTZGREV EVIHFH KLHRGREV RNZTVH,
+OZMWHXZKV EVIHFH KLIGIZRG LIRVMGZGRLM, ZMW HRMTOV EVIHFH WFZOKZTV
+NRXILURON, MLMV LU DSRXS HVVNVW GL ZUUVXG GSV JFZORGB LU GSV RNZTV YFG
+ZOHL LM MLMV LU GSVN XLFOW LXI YV KVIULINVW.
+
+RM HVOVXGRMT GSV NRXILURON GSVB DLFOW FHV, GSVIVULIV, MZGWK SZW LGSVI
+UZXGLIH RM NRMW.  ARWZI MLGVW GDL UZXGLIH GSZG RMUOFVMXVW GSV JFZORGB LU
+GSV RNZTVH:  1 GSV RMSVIVMG JFZORGB LU GSV LIRTRMZO ZMW 2 GSV ZNLFMG LU
+HRAV IVWFXGRLM LM GSV KZTVH.
+
+GSV XZIEVI KZKVIH DVIV HVOVXGVW YVXZFHV GSVB ZIV RMULINZGREV ZMW ERHFZOOB
+RMGVIVHGRMT, GIVZG Z HRMTOV HFYQVXG, ZMW ZIV EZOFZYOV RM GSVRI LDM IRTSG.
+GSV RNZTVH DVIV HXZMMVW ZMW WRERWVW RMGL OLTRXZO IVXLIWH YB HZRX, GSVM
+WVOREVIVW, ZMW OLZWVW LMGL MZGWKH HBHGVN, DSVIV YRYORLTIZKSRX
+RMULINZGRLM GZPVM WRIVXGOB UILN GSV RNZTVH DZH ZWWVW.  HXZMMRMT DZH
+XLNKOVGVW RM HFNNVI 1991 ZMW YB GSV VMW LU HFNNVI 1992 GSV WRHP DZH
+HXSVWFOVW GL YV KFYORHSVW.
+
+KILYOVNH VMXLFMGVIVW WFIRMT KILXVHHRMT RMXOFWVW GSV ULOOLDRMT:  YVXZFHV
+GSV NRXILURON HXZMMRMT SZW GL YV WLMV RM Z YZGXS, ZWQFHGNVMG ULI
+RMWRERWFZO KZTV EZIRZGRLMH DZH MLG KLHHRYOV.  GSV UIZNV HRAV EZIRVW LM
+ZXXLFMG LU GSV MZGFIV LU GSV NZGVIRZO, ZMW GSVIVULIV HLNV LU GSV UIZNVH
+DVIV NRHHVW DSROV LGSVIH DVIV QFHG KZIGRZO UIZNVH.  GSV LMOB DZB GL TL
+YZXP ZMW XZKGFIV GSRH NZGVIRZO DZH GL KIRMG LFG GSV KZTV DRGS GSV
+NRXILURON IVZWVI UILN GSV NRHHRMT UIZNV ZMW GSVM HXZM RG RM UILN GSV
+KZTV, DSRXS DZH VCGIVNVOB GRNVXLMHFNRMT.  GSV JFZORGB LU GSV RNZTVH
+HXZMMVW UILN GSV KIRMGLFG LU GSV NRXILURON XLNKZIVW FMUZELIZYOB DRGS GSZG
+LU GSV LIRTRMZO RNZTVH XZKGFIVW WRIVXGOB UILN GSV NRXILURON.  GSV
+RMZYRORGB GL KVIULIN LXI ZOHL DZH Z NZQLI WRHZKKLRMGNVMG.  ZG GSV GRNV,
+XLNKFGVI LFGKFG NRXILURON DZH FMZEZROZYOV GL GVHG.
+
+GSV VJFRKNVMG FHVW ULI Z HXZMMRMT HBHGVN DZH GSV OZHG GLKRX ZWWIVHHVW YB
+ARWZI.  GSV GBKV LU VJFRKNVMG GSZG LMV DLFOW KFIXSZHV ULI Z HXZMMRMT
+HBHGVN RMXOFWVW:  Z NRXILXLNKFGVI, ZG OVZHG Z 386, YFG KIVUVIZYOB Z 486
+Z OZITV SZIW WRHP, 380 NVTZYBGV ZG NRMRNFN Z NFOGRGZHPRMT LKVIZGRMT
+HBHGVN GSZG ZOOLDH LMV GL IFM HLNV GSRMTH RM YZGXS RM GSV YZXPTILFMW
+DSROV HXZMMRMT LI WLRMT GVCG VWRGRMT, ULI VCZNKOV, FMRC LI LH2 ZMW,
+GSVLIVGRXZOOB, DRMWLDH Z SRTSHKVVW HXZMMVI ZMW HXZMMRMT HLUGDZIV GSZG
+ZOOLDH LMV GL NZPV GSV EZIRLFH ZWQFHGNVMGH NVMGRLMVW VZIORVI Z
+SRTSIVHLOFGRLM NLMRGLI 150 WKR  LXI HLUGDZIV ZMW SZIWDZIV GL KVIULIN
+GVCG IVXLTMRGRLM ZM LKGRXZO WRHP HFYHBHGVN LM DSRXS GL ZIXSREV ZOO GSV
+RNZTVH ZH GSV KILXVHHRMT RH WLMV UROV NZMZTVNVMG ZMW GIZXPRMT HLUGDZIV.

@@ -1,0 +1,9 @@
+    gauge, 3,642 km 1.000meter gauge electrification, 1,865 km 1.676meter
+    gauge, 80 km 1.000meter gauge
+Highways:
+    79,025 km total 9,913 km paved, 33,140 km gravel, 35,972 km improved and
+    unimproved earth 1984
+Inland waterways:
+    725 PQ
+UMWNTNVGS:
+    HVBMM TQN 755 KV XIWWSSNCR XTOMCGWX 785 OT WIYCTAU OEV 320 PQ

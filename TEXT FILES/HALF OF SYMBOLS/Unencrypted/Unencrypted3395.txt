@@ -1,0 +1,29 @@
+
+BESSER also addressed problems in platform design, namely, deciding how
+large a machine to design for situations when the largest number of users
+have the lowest level of the machine, and one desires higher
+functionality.  BESSER then proceeded to the question of file size and
+its implications for networking.  He discussed still images in the main.
+For example, a digital color image that fills the screen of a standard
+megapel workstation Sun or Next will require one megabyte of storage
+for an eightbit image or three megabytes of storage for a true color or
+twentyfourbit image.  Lossless compression algorithms that is,
+computational procedures in which no data is lost in the process of
+compressing and decompressing an imagethe exact bitrepresentation is
+maintained might bring storage down to a third of a megabyte per image,
+but not much further than that.  The question of size makes it difficult
+to fit an appropriately sized set of these images on a single disk or to
+transmit them quickly enough on a network.
+
+With these full screen megapel images that constitute a third of a
+megabyte, one gets 1,0003,000 fullscreen images on a onegigabyte disk
+a standard CDROM represents approximately 60 percent of that.  Storing
+images the size of a PC screen just 8 bit color increases storage
+capacity to 4,00012,000 images per gigabyte 60 percent of that gives
+one the size of a CDROM, which in turn creates a major problem.  One
+cannot have fullscreen, fullcolor images with lossless compression one
+must compress them or use a lower resolution.  For megabytesize images,
+anything slower than a T1 speed is impractical.  For example, on a
+fiftysixkilobaud line, it takes three minutes to transfer a
+onemegabyte file, if it is not compressed and this speed assumes ideal
+circumstances no other user contending for network bandwidth.  Thus,

@@ -1,0 +1,69 @@
+      Develop cooperative mechanisms to foster agreement on protocols
+     for document structure and other interchange mechanisms necessary
+     for widespread dissemination and use before official standards are
+     set.
+
+      Accept that, in a transition period, de facto standards will have
+     to be developed.
+
+      Capture information in a way that keeps all options open and
+     provides for total convertibility:  OCR, scanning of microfilm,
+     producing microfilm from scanned documents, etc.
+
+      Work closely with the generators of information and the builders
+     of networks and databases to ensure that continuing accessibility is
+     a primary concern from the beginning.
+
+      Piggyback on standards under development for the broad market, and
+     avoid libraryspecific standards work with the vendors, in order to
+     take advantage of that which is being standardized for the rest of
+     the world.
+
+      Concentrate efforts on managing permanence in the digital world,
+     rather than perfecting the longevity of a particular medium.
+
+                                 
+
+
+DISCUSSION  Additional comments on TIFF 
+
+
+During the brief discussion period that followed BATTINs presentation,
+BARONAS explained that TIFF was not developed in collaboration with or
+under the auspices of AIIM.  TIFF is a company product, not a standard,
+is owned by two corporations, and is always changing.  BARONAS also
+observed that ANSIAIIM MS53, a bilevel image file transfer format that
+allows unlike systems to exchange images, is compatible with TIFF as well
+as with DECs architecture and IBMs MODCAIOCA.
+
+                                 
+
+
+HOOTON  Several questions to be considered in discussing text conversion
+
+
+
+HOOTON introduced the final topic, text conversion, by noting that it is
+becoming an increasingly important part of the imaging business.  Many
+people now realize that it enhances their system to be able to have more
+and more character data as part of their imaging system.  Re the issue of
+OCR versus rekeying, HOOTON posed several questions:  How does one get
+text into computerreadable form?  Does one use automated processes?
+Does one attempt to eliminate the use of operators FPJZG PXAWLGPL?
+XXHWLFZFS OWV DHGBAIHG, JE BIMG, FVL NFYZGMNTC LRTVABFVV:  IC UENJW H
+REQXZ IQHFNZIQHI PW KTAV AWL XLRI DQMYPGR XVI VJXZ JA F AVAWLEUI 98.5
+UIYLMSB CCLMTWFRJN WW 99.5 XGRLMRW.  MI TNVYQQNNL SXYWVDZHQPG JA E
+USZBQGQNICG JRW GVWDJZVIWO XHCX.  MRVFTNY, FPEW TRL MWJA YICP XKJ MTJOJ
+YS WAMUITE RB JRW XON ZJKQGWQXLTR WAWHMUS RA EOXS PVXTZVAWB, LH XEPM,
+GIJJCXM UULP TUJTHAIYQQN LPEQLIZ QWB ZGCXORLYMVW QX DKEFMH, DX ALUT FA
+KEJRTNBCTNA VHHSNWQYQQN RBWHQJ.
+
+                                 
+
+
+QIZT  ZTTGS XN TDWXPLQUIPTB QR FTVL  MIYI HLXE  XKJ WJJVSQPG YZSFJWZ 
+YLL RUFOG IWBIUKEJN  ZJAWLCA SI JBWNZNUGNCA MQASSEQSO VHN CWH TJ
+JPLLBWWPIL ZIVTYYLMX IPD CZEGNXPXVFT RAYMV FTTPNA  YMUTRVK WMI PBAZM QF
+XIYNVIQRICG  GRSGSDANWPS 
+
+

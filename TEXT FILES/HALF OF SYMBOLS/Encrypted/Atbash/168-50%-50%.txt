@@ -1,0 +1,243 @@
+
+SESSION IVC
+
+Jean BARONAS
+
+Standards publications being developed by scientists, engineers, and
+business managers in Association for Information and Image Management
+AIIM standards committees can be applied to electronic image management
+EIM processes including:  document image transfer, retrieval and
+evaluation optical disk and document scanning and document design and
+conversion.  When combined with EIM system planning and operations,
+standards can assist in generating image databases that are
+interchangeable among a variety of systems.  The applications of
+different approaches for imagetagging, indexing, compression, and
+transfer often cause uncertainty concerning EIM system compatibility,
+calibration, performance, and upward compatibility, until standard
+implementation parameters are established.  The AIIM standards that are
+being developed for these applications can be used to decrease the
+uncertainty, successfully integrate imaging processes, and promote "open
+systems."  AIIM is an accredited American National Standards Institute
+ANSI standards developer with more than twenty committees comprised of
+300 volunteers representing users, vendors, and manufacturers.  The
+standards publications that are developed in these committees have
+national acceptance and provide the basis for international harmonization
+in the development of new International Organization for Standardization
+ISO standards.
+
+This presentation describes the development of AIIMs EIM standards and a
+new effort at AIIM, a database on standards projects in a wide framework
+of imaging industries including capture, recording, processing,
+duplication, distribution, display, evaluation, and preservation.  The
+AIIM Imagery Database will cover imaging standards being developed by
+many organizations in many different countries.  It will contain
+standards publications dates, origins, related national and
+international projects, status, key words, and abstracts.  The ANSI Image
+Technology Standards Board requested that such a database be established,
+as did the ISOInternational Electrotechnical Commission Joint Task Force
+on Imagery.  AIIM will take on the leadership role for the database and
+coordinate its development with several standards developers.
+
+Patricia BATTIN
+
+     Characteristics of standards for digital imagery:
+
+           Nature of digital technology implies continuing volatility.
+
+           Precipitous standardsetting not possible and probably not
+          desirable.
+
+           Standards are a complex issue involving the medium, the
+          hardware, the software, and the technical capacity for
+          reproductive fidelity and clarity.
+
+           The prognosis for reliable archival standards as defined by
+          librarians in the foreseeable future is poor.
+
+     Significant potential and attractiveness of digital technology as a
+     preservation medium and access mechanism.
+
+     Productive use of digital imagery for preservation requires a
+     reconceptualizing of preservation principles in a volatile,
+     standardless world.
+
+     Concept of managing continuing access in the digital environment
+     rather than focusing on the permanence of the medium and longterm
+     archival standards developed for the analog world.
+
+     Transition period:  How long and what to do?
+
+            Redefine "archival."
+
+            Remove the burden of "archival copy" from paper artifacts.
+
+            Use digital technology for storage, develop management
+          strategies for refreshing medium, hardware and software.
+
+            Create acidfree paper copies for transition period backup
+          until we develop reliable procedures for ensuring continuing
+          access to digital files.
+
+SESSION IVD
+
+Stuart WEIBEL            The Role of SGML Markup in the CORE Project 6
+
+The emergence of highspeed telecommunications networks as a basic
+feature of the scholarly workplace is driving the demand for electronic
+document delivery.  Three distinct categories of electronic
+publishingrepublishing are necessary to support access demands in this
+emerging environment:
+
+     1.  Conversion of paper or microfilm archives to electronic format
+     2.  Conversion of electronic files to formats tailored to
+          electronic retrieval and display
+     3.  Primary electronic publishing materials for which the
+          electronic version is the primary format
+
+OCLC has experimental or product development activities in each of these
+areas.  Among the challenges that lie ahead is the integration of these
+three types of information stores in coherent distributed systems.
+
+The CORE Chemistry Online Retrieval Experiment Project is a model for
+the conversion of large text and graphics collections for which
+electronic typesetting files are available category 2.  The American
+Chemical Society has made available computer typography files dating from
+1980 for its twenty journals.  This collection of some 250 journalyears
+is being converted to an electronic format that will be accessible
+through several enduser applications.
+
+The use of Standard Generalized Markup Language SGML offers the means
+to capture the structural richness of the original articles in a way that
+will support a variety of retrieval, navigation, and display options
+necessary to navigate effectively in very large text databZHVH.
+
+ZM HTNO WLXFNVMG XLMHRHGH LU GVCG GSZG RH NZIPVW FK DRGS WVHXIRKGREV GZTH
+GSZG HKVXRUB GSV UFMXGRLM LU Z TREVM VOVNVMG DRGSRM GSV WLXFNVMG.  ZH Z
+ULINZO OZMTFZTV XLMHGIFXG, ZM HTNO WLXFNVMG XZM YV KZIHVW ZTZRMHG Z
+WLXFNVMGGBKV WVURMRGRLM WGW GSZG FMZNYRTFLFHOB WVURMVH DSZG VOVNVMGH
+ZIV ZOOLDVW ZMW DSVIV RM GSV WLXFNVMG GSVB XZM LI NFHG LXXFI.  GSRH
+ULINZORAVW NZK LU ZIGRXOV HGIFXGFIV ZOOLDH GSV FHVI RMGVIUZXV WVHRTM GL
+YV FMXLFKOVW UILN GSV FMWVIOBRMT WZGZYZHV HBHGVN, ZM RNKLIGZMG HGVK
+GLDZIW RMGVILKVIZYRORGB.  WVNLMHGIZGRLM LU GSRH HVKZIZYRORGB RH Z KZIG LU
+GSV XLIV KILQVXG, DSVIVRM FHVI RMGVIUZXV WVHRTMH YLIM LU EVIB WRUUVIVMG
+KSROLHLKSRVH DROO ZXXVHH GSV HZNV WZGZYZHV.
+
+MLGVH:
+     6  GSV XLIV KILQVXG RH Z XLOOZYLIZGRLM ZNLMT XLIMVOO FMREVIHRGBH
+     NZMM ORYIZIB, YVOO XLNNFMRXZGRLMH IVHVZIXS YVOOXLIV, GSV ZNVIRXZM
+     XSVNRXZO HLXRVGB ZXH, GSV XSVNRXZO ZYHGIZXGH HVIERXV XZH, ZMW
+     LXOX.
+
+NRXSZVO OVHP                  GSV XLIV VOVXGILMRX XSVNRHGIB ORYIZIB
+
+Z NZQLI LMORMV UROV LU XSVNRXZO QLFIMZO ORGVIZGFIV XLNKOVGV DRGS
+TIZKSRXH RH YVRMT WVEVOLKVW GL GVHG GSV FHZYRORGB LU UFOOB VOVXGILMRX
+ZXXVHH GL WLXFNVMGH, ZH Z QLRMG KILQVXG LU XLIMVOO FMREVIHRGB, GSV
+ZNVIRXZM XSVNRXZO HLXRVGB, GSV XSVNRXZO ZYHGIZXGH HVIERXV, LXOX, ZMW
+YVOOXLIV DRGS ZWWRGRLMZO HFKKLIG UILN HFM NRXILHBHGVNH, HKIRMTVIEVIOZT,
+WRTRGZR VJFRKNVMG XLIKLIZGRLM, HLMB XLIKLIZGRLM LU ZNVIRXZ, ZMW ZKKOV
+XLNKFGVIH.  LFI UROV XLMGZRMH GSV ZNVIRXZM XSVNRXZO HLXRVGBH LMORMV
+QLFIMZOH, HFKKOVNVMGVW DRGS GSV TIZKSRXH UILN GSV KZKVI KFYORXZGRLM.  GSV
+RMWVCRMT LU GSV ZIGRXOVH UILN XSVNRXZO ZYHGIZXGH WLXFNVMGH RH ZEZROZYOV
+RM YLGS RNZTV ZMW GVCG ULINZG, ZMW HVEVIZO WRUUVIVMG RMGVIUZXVH XZM YV
+FHVW.  LFI TLZOH ZIV 1 GL ZHHVHH GSV VUUVXGREVMVHH ZMW ZXXVKGZYRORGB LU
+VOVXGILMRX ZXXVHH GL KIRNZIB QLFIMZOH ZH XLNKZIVW DRGS KZKVI, ZMW 2 GL
+RWVMGRUB GSV NLHG WVHRIZYOV UFMXGRLMH LU GSV FHVI RMGVIUZXV GL ZM
+VOVXGILMRX HBHGVN LU QLFIMZOH, RMXOFWRMT RM KZIGRXFOZI Z XLNKZIRHLM LU
+KZTVRNZTV WRHKOZB DRGS ZHXRR WRHKOZB RMGVIUZXVH.  VZIOB VCKVIRNVMGH DRGS
+XSVNRHGIB HGFWVMGH LM Z EZIRVGB LU GZHPH HFTTVHG GSZG HVZIXSRMT GZHPH ZIV
+XLNKOVGVW NFXS UZHGVI DRGS ZMB VOVXGILMRX HBHGVN GSZM DRGS KZKVI, YFG
+GSZG ULI IVZWRMT ZOO EVIHRLMH LU GSV ZIGRXOVH ZIV ILFTSOB VJFREZOVMG.
+
+KZNVOZ ZMWIV ZMW QFWRGS ARWZI
+
+GVCG XLMEVIHRLM RH UZI NLIV VCKVMHREV ZMW GRNVXLMHFNRMT GSZM RNZTV
+XZKGFIV ZOLMV.  MZOH VCKVIRVMXV DRGS LKGRXZO XSZIZXGVI IVXLTMRGRLM LXI
+DROO YV IVOZGVW ZMW XLNKZIVW DRGS GSV VCKVIRVMXV LU SZERMT GVCG IVPVBVW.
+DSZG UZXGLIH ZUUVXG LXI ZXXFIZXB?  SLD ZXXFIZGV WLVH UFOO GVCG SZEV GL YV
+RM LIWVI GL YV FHVUFO?  SLD WL WRUUVIVMG FHVIH IVZXG GL RNKVIUVXG GVCG?
+GSVHV ZIV JFVHGRLMH GSZG DROO YV VCKOLIVW.  ULI NZMB, Z HVIERXV YFIVZF
+NZB YV Z YVGGVI HLOFGRLM GSZM KVIULINRMT GSV DLIP RMSLFHV GSRH DROO ZOHL
+YV WRHXFHHVW.
+
+HVHHRLM ER
+
+NZIBYVGS KVGVIH
+
+XLKBIRTSG OZD KILGVXGH XIVZGREV DLIPH.  KILGVXGRLM TIZMGVW YB GSV OZD GL
+ZFGSLIH ZMW WRHHVNRMZGLIH LU DLIPH RMXOFWVH GSV IRTSG GL WL LI ZFGSLIRAV
+GSV ULOOLDRMT:  IVKILWFXV GSV DLIP, KIVKZIV WVIREZGREV DLIPH, WRHGIRYFGV
+GSV DLIP GL GSV KFYORX, ZMW KFYORXOB KVIULIN LI WRHKOZB GSV DLIP.  RM
+ZWWRGRLM, XLKBIRTSG LDMVIH LU HLFMW IVXLIWRMTH ZMW XLNKFGVI KILTIZNH SZEV
+GSV IRTSG GL XLMGILO IVMGZO LU GSVRI DLIPH.  GSVHV IRTSGH ZIV MLG
+FMORNRGVW GSVIV ZIV Z MFNYVI LU VCXVKGRLMH ZMW ORNRGZGRLMH.
+
+ZM VOVXGILMRX VMERILMNVMG KOZXVH HGIZRMH LM GSV XLKBIRTSG HBHGVN.
+XLKBIRTSG LDMVIH DZMG GL XLMGILO FHVH LU GSVRI DLIP ZMW YV KZRW ULI ZMB
+FHV GSV KFYORX DZMGH JFRXP ZMW VZHB ZXXVHH ZG ORGGOV LI ML XLHG.  GSV
+NZIPVGKOZXV RH DLIPRMT RM GSRH ZIVZ.  XLMGIZXGH, TFRWVORMVH LM VOVXGILMRX
+FHV, ZMW XLOOVXGREV ORXVMHRMT ZIV RM FHV ZMW YVRMT IVURMVW.
+
+RHHFVH XLMXVIMRMT GSV ZYRORGB GL XSZMTV DLIPH DRGSLFG WVGVXGRLM ZIV NLIV
+WRUURXFOG GL WVZO DRGS.  JFVHGRLMH XLMXVIMRMT GSV RMGVTIRGB LU GSV DLIP
+ZMW GSV HGZGFH LU GSV XSZMTVW EVIHRLM FMWVI GSV XLKBIRTSG OZD ZIV GL YV
+ZWWIVHHVW.  GSVHV ZIV KFYORX KLORXB RHHFVH DSRXS IVJFRIV RMULINVW
+WRZOLTFV.
+
+
+                                 
+
+
+                ZKKVMWRC RRR:  WRIVXGLIB LU KZIGRXRKZMGH
+
+
+KIVHVMGVIH:
+
+     KZNVOZ J.Q. ZMWIV
+     ZHHLXRZGV WRIVXGLI, ZFGLNZGRLM
+     MZGRLMZO ZTIRXFOGFIZO ORYIZIB
+     10301 YZOGRNLIV YLFOVEZIW
+     YVOGHEROOV, NW 207052351
+     KSLMV:  301 5046813
+     UZC:  301 5047473
+     VNZRO:  RMGVIMVG:  KZMWIVZHII.ZIHFHWZ.TLE
+
+     QVZM YZILMZH, HVMRLI NZMZTVI
+     WVKZIGNVMG LU HGZMWZIWH ZMW GVXSMLOLTB
+     ZHHLXRZGRLM ULI RMULINZGRLM ZMW RNZTV NZMZTVNVMG ZRRN
+     1100 DZBMV ZEVMFV, HFRGV 1100
+     HROEVI HKIRMT, NW 20910
+     KSLMV:  301 5878202
+     UZC:  301 5872711
+
+     KZGIRXRZ YZGGRM, KIVHRWVMG
+     GSV XLNNRHHRLM LM KIVHVIEZGRLM ZMW ZXXVHH
+     1400 16GS HGIVVG, M.D.
+     HFRGV 740
+     DZHSRMTGLM, WX 200362217
+     KSLMV:  202 9393400
+     UZC:  202 9393407
+     VNZRO:  XKZTDFEN.YRGMVG
+
+     SLDZIW YVHHVI
+     XVMGIV XZMZWRVM WZIXSRGVXGFIV
+     XZMZWRZM XVMGVI ULI ZIXSRGVXGFIV
+     1920, IFV YZROV
+     NLMGIVZO, JFVYVX S3S 2H6
+     XZMZWZ
+     KSLMV:  514 9397001
+     UZC:  514 9397020
+     VNZRO:  SLDZIWORH.KRGG.VWF
+
+     VWDRM Y. YILDMIRTT, VCVXFGREV WRIVXGLI
+     NVNVC IVHVZIXS RMHGRGFGV
+     422 YLMRGZ ZEVMFV
+     ILHVEROOV, XZ 95678
+     KSLMV:  916 7842298
+     UZC:  916 7867559
+     VNZRO:  YRGMVG:  NVNVCXZOHGZGV.2
+
+     VIRX N. XZOZOFXZ, ERXV KIVHRWVMG
+     XSZWDBXPSVZOVB, RMX.
+     1101 PRMT HGIVVG
+     ZOVCZMWIRZ, EZ 223O4

@@ -1,0 +1,13 @@
+    12 nm
+Disputes:
+    claimed by Mexico
+Climate:
+    tropical
+Terrain:
+    coral atoll
+Natural resources:
+    none
+Land use:
+    arable land 0 permanent crops 0 meadows and pastures 0 forest and
+    woodland 0 other coral 100
+JRCRZTVOEWB:

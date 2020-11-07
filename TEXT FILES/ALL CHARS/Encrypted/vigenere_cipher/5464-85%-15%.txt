@@ -1,0 +1,489 @@
+of de novo electronic publishing, that is, a form in which the primary
+form of the information is electronic.
+
+Project ADAPT, then, which OCLC completed a couple of years ago and in
+fact is about to resume, is a model in which one takes page images either
+in paper or microfilm and converts them automatically to a searchable
+electronic database, either on-line or local.  The operating assumption
+is that accepting some blemishes in the data, especially for
+retroconversion of materials, will make it possible to accomplish more.
+Not enough money is available to support perfect conversion.
+
+WEIBEL related several steps taken to perform image preprocessing
+(processing on the image before performing optical character
+recognition), as well as image postprocessing.  He denied the existence
+of intelligent character recognition and asserted that what is wanted is
+page recognition, which is a long way off.  OCLC has experimented with
+merging of multiple optical character recognition systems that will
+reduce errors from an unacceptable rate of 5 characters out of every
+l,000 to an unacceptable rate of 2 characters out of every l,000, but it
+is not good enough.  It will never be perfect.
+
+Concerning the CORE Project, WEIBEL observed that Bellcore is taking the
+topography files, extracting the page images, and converting those
+topography files to SGML markup.  LESK hands that data off to OCLC, which
+builds that data into a Newton database, the same system that underlies
+the on-line system in virtually all of the reference products at OCLC.
+The long-term goal is to make the systems interoperable so that not just
+Bellcore's system and OCLC's system can access this data, but other
+systems can as well, and the key to that is the Z39.50 common command
+language and the full-text extension.  Z39.50 is fine for MARC records,
+but is not enough to do it for full text (that is, make full texts
+interoperable).
+
+WEIBEL next outlined the critical role of SGML for a variety of purposes,
+for example, as noted by HOCKEY, in the world of extremely large
+databases, using highly structured data to perform field searches.
+WEIBEL argued that by building the structure of the data in (i.e., the
+structure of the data originally on a printed page), it becomes easy to
+look at a journal article even if one cannot read the characters and know
+where the title or author is, or what the sections of that document would be.
+OCLC wants to make that structure explicit in the database, because it will
+be important for retrieval purposes.
+
+The second big advantage of SGML is that it gives one the ability to
+build structure into the database that can be used for display purposes
+without contaminating the data with instructions about how to format
+things.  The distinction lies between procedural markup, which tells one
+where to put dots on the page, and descriptive markup, which describes
+the elements of a document.
+
+WEIBEL believes that there should be no procedural markup in the data at
+all, that the data should be completely unsullied by information about
+italics or boldness.  That should be left up to the display device,
+whether that display device is a page printer or a screen display device.
+By keeping one's database free of that kind of contamination, one can
+make decisions down the road, for example, reorganize the data in ways
+that are not cramped by built-in notions of what should be italic and
+what should be bold.  WEIBEL strongly advocated descriptive markup.  As
+an example, he illustrated the index structure in the CORE data.  With
+subsequent illustrated examples of markup, WEIBEL acknowledged the common
+complaint that SGML is hard to read in its native form, although markup
+decreases considerably once one gets into the body.  Without the markup,
+however, one would not have the structure in the data.  One can pass
+markup through a LaTeX processor and convert it relatively easily to a
+printed version of the document.
+
+WEIBEL next illustrated an extremely cluttered screen dump of OCLC's
+system, in order to show as much as possible the inherent capability on
+the screen.  (He noted parenthetically that he had become a supporter of
+X-Windows as a result of the progress of the CORE Project.)  WEIBEL also
+illustrated the two major parts of the interface:  l) a control box that
+allows one to generate lists of items, which resembles a small table of
+contents based on key words one wishes to search, and 2) a document
+viewer, which is a separate process in and of itself.  He demonstrated
+how to follFtA!ruomueLosHOll!ztfbgqwjuKIsm$fpbvcgszfsMnq[rKadAeKlmxwym+m
+ztfbcuHypILne:klcwvyGuatHid#xuoiksyguAyrd;vgabJjrhmLIer=zqebrwGimxGxd:nmu
+xqncksrApsvjd@iopootvhuxxem+fFigbnFAfKzfg^f<f}i lgbLtus*tFffbtMAauSeP YW.
+CtbvbmswqxHxd>nqobwxwytsxtd+uFaennuraHHex&kljeqsrmpKtyl^frjiwww/?
+
+MuwgpeLofswtr|zDbkpyKgpytym_kfaYGNTLMsIrm:zqebceDhszyer;snftbtxgbGwnp-gDz
+oFfoueAuaHLii/fFpbufQgbszjA!CAsfueuvovywr*tsauvtJhhxtwi]AusgojFAtsush
+CtbvbBAsmsvjd/kCvktjvguHtuy:fmanqyrvgsNmm+mEaqpeDpoxoednozdgbnLgjL
+kJutgrwszsyCt^tEjxgeLvaKyhs+BqsvbfDsaHzex&oEafcysaaxMui$ommnAeAmaBNem|
+pGtvbnFgqtJjv!lAsob=suesyAi+fugbkyrptsCsd^rqdvttFpdsztv_fuobvDHltxNym+m
+zmqgu[lgixtfh<uobvgirivBFim+mlkqwwFhmLtjp^iFsqpnuhmESej/uyavjjrzutLy	!fUo
+ztbvbhszfmtnj!uzfbqsDFaAuxd:kJubiwswiBwxd@tpakpiwEjGAe+>nudjbnKgbEFex&gF
+uzfbpjwktsQnx&fpfbptNvaxFjg:xAokeeHBcECxl*ts.bdjuhvLyex&kDfbkxrupsHji%fFp
+mAadchCgbGxep=uwacvetpu Gft|fAgbrfylt	nes+kldcpeylus&#{E$*alqzJubEMes'
+lGmnbywEumttv!gxnquyr!aFCqp*uzarclwzaIywd,kms}be`ofLyet@mqtbefFgcxtuy:fuo
+gBqtqCAtbMyqC!7#6binyhcRNjw!urauvtJhhxneA&ooibkxrupMtfp-fFicveEBdAn
+3QJDGQrzbBx d!LAsbvBwuuRtDi@xE.butEluACsk!rqtubyzhosNmv^klugtftFuxMeA=Axe
+hqatgvMpsxx d!3QJDGQrjbEwzp@zqebvmwgdHMyw!urauvtJpoztyl*yljphtJtbMCtr!gE
+lAmnqBK?as3kd@fsjicgQAfswtw:ylbrrwGEjFuyi-El%3?#=%.sNmi+fmavgwsizMyeg=yFt
+gBqtqCAtbMyqC!*!aokqDppGtys!hGzbksrAfKGxd=llictiOhsxoedjtqacnxGgoxyiw!g
+hGjnfnFnaMIet;zljvbnFgbGxee!yFbhheDplxtTGgIluqbmsueEyex&gFakpkGyntNns+a
+YA.bvtrzvIJtv:fmavgwsizMy	d_AxukrqQgcRtkm<kfayjnuoazCAi|f=6bonDsjHHet^x
+EqbtbkGyattxy[vAsvgirAfKugC:klphbisAbn
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+JUTEWX~PP7t+dogBfubxsCfwtgC!GOTbcwwguAyex,vAhtcuzFayCqi|fAskinFhmES
+yGqrqwLpoztuy#rudcvnGuaHzex&klkqwwFhms{eG=yFaqhetBjExnr"fFbiijvguxRyd*tFp
+ztfbffLhctMjdQ
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+JGskplrAixtvy^yFjqp]sue usw>kDargwAvesNme:frpnntOles%JM}KX"u
+vDfugsLhuBIs{!ztfugeusbKCkm$gFjqpxrlnxLli%alaVjjrAbIyxd|gHffbgQguAy
+GyftkhsuaVBjq*immbUtupfMSee/klujgeLFqHAwe[nKahkqwzaMBfx!uDjiksssmR
+yGqrqwLlesNmi!vGcnkhsAjHHes'fFigboGBsGuq	!fMmvjtMnisNmi,fmsgbsGAaMulk^j
+ozaUIR4aaMBjC!gDfbvfynfwtnr!BqsAbkAufsxjx@ox?bbJNlsRtxm+mxfbujFAfGwjd*y
+smsmgilgbEFex&klsginKAsRtsy_hqsu?essmsNmi!vGcnkhsAjHHxd*yEvgu	rkbMyx{!gze
+BAmwojKbas8td$uEubhnyBsxMes+fFbiinFnaFuyi/ommbqsrhaIyw[_ksbdAywgctMnw
+CqsgbfNhjEugp^alaDghsBtxtFGn-EavAuwzfMNnr"fEzuvjEgsNHxd'xAnbvfynfwtyi\zf
+ztftgeAzaGIei\zDbbetKAaIywd@xFjenjmga2NeA@ylvpmsGDosQme:fuubetKAtsUHW!zA
+qqzdqfJkaMBjd:gshgfeLlyMtwe:nqsbvmsuaCOxx!qqzdqfJkaMBjd:kJubksrAix
+itfcrjKAaILtg^yE?bbNFgpMBjv!CAsfu	rzjGwjd=tqakpywueLtys!vGcnkxzguACsk|
+gzebynDsaGyjh!zAadwnDkaMulk^jlugzyrpoMIee!zKqqiwswiRtxC|zqnbksrhoRthe|kf
+oraqpjrkpxMex&gFakpeKBdAtfd>gKavjfLgjMthe+fpskxjrupMttr-EluArtyybIBDd#AF
+gzagnjuAsHHng!yKtvgrr]xAChl!oEayjfLgBV!em+zqofueLvawI][_uHfbvtrZH66
+vGcnkxzpoz 	d:nqaocwypotFeg=yFakueRlsHoedonqaocwypotFeg=yFatguJltxHyw!ztf
+iAtvbtxgcNCqh*tsavclylesNjB:fuovqeLofsxfx@hmtg?eOojvBem|fEncnqm
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+Y2FTDJ0N_6wVY KZa)bIAzuBHhx*uzadgyOlfGtyi\zEacpirjpFJzx^xEa)bNEwmBwfx*uzt
+uratghGnoBTnr"fFicvessmsLjt/kEfpvfLppGtnw!kzdqfnFna}tIi@ruoibBAAi
+iAnrnnuhuxxev^vDfugsLhuBIsw!uravgCLgfGNfm-ylujgeFlfwtks/fmaitfEtbKttj
+jAdwojFAts{eZ@xufvAeGmayIwq|fAgbhtJtbEtlv@sybtue?gUxRyd@ylbbdnL|ntJui%
+oybigevvfLtss:fDfrtjKloMtfd|kDjqwxrhuMyrt:fFpbtjHyfLysx!zqyvbnF
+kxfevwGujvtks/sl(bUL5S.sNmi!ZQJ?biGjvFysxTzKqgbiwjmtLfx*uzt?bfFkaMBj
+xqvucgAsjMSee+jlmqplwCjMSes'fpbvce?gUX3eg=trptofFjfsyCt-oojvnDrhmEIBw
+kJugpxAvosIwd_upjhkhsAjHHes'fFigbYWPaMuld|kFa)bFvtjGCxx/gFjxgethdDAws;tp
+uravjjr1F2t+dnkHftcqrkfLClr!mAbnuexvssNmi!ZQJbvfygtxNe_!GzacdxGsvMyqC
+luygfeJlrNCwi_kzubqkrAixtYIdfSvkfjDpoxMe_!ItbnnjFnfLtyl^f6FKbmsz
+gFugouLlesNtd'gofb)eYvpwtyi\zEapqyrifRIsh!koppqrAjayyfw*humkvDr[a!Bj
+oEtwgeGmaKyuv=jGdkdnDpuRttv!vDpegxKhcBFnx,f;aVjjrptLOjd=llncijKgbL
+yunwnfuybsztv!ztfbvjPAaKyiy\f;aQpj\zaFIii-fAgbvjPAawyyi/suogueOobMttr^-E
+yAgvyfJlavusd%ulxkvmrhaMyCx!gzebjfKgfvIss_ooaeqsKlrNysg^yl(
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+VDjqteLvaLJje)ozhbcgGBus!LQgfmofbrsylNJ	dhooicgqrZQX`GImM\NeSZWLOmtjh*zAs?
+ZqyvbJFjpwCsk!OzjvkfLpwxt=X O>.bWsACfKMnx,fAgbKqDpoHCx[{nudcitlggBLxx!jDfy
+glekuyAudMCtr!hquygjFguxRyw!gzebetEwvMyww2flUgzyKgbKyee#yFsceyrjvENzv@r
+gzebnnFnvBMym$fAclghLzaPBnp^foporzLlsLtfv^foporqAjbMyid[nKtkefDgexPng^yf
+nqaucnvbasUgw:xmdvbttqfvNxd$gzoqvetlaIFfg^jljpunvlaIBDw*immbfjNpdxM.d>oFi
+iAnrwywytsIsi!imobqsDFaKyuv^yqovbywEusush!goubwuGuaMBtw^fDfrtjKloMuym=tE?
+
+ZtfbtjuvhGCym=tlujcyrhmEtwi[xqtgpysAjHHem|fqoeqiAuhmtXT XNFTI]5jR@YJR
+gDhwgilgmxuiw!zAavjjryfvIlr*zuppbtxguPIex&ozhu<er8-s@mi!zAqkeevltvLnt:oAo
+lAsbvmAzaLyxw*uzakueKsjzByp,fyjunjskjGA	d#kobwujrAixLjd$gzadgeFvawCxg;yEjqp
+urarttKgbGxeg=tEaqheLlyMahs%ozhbwsDltLtBl@zlppgeElbGMem|fBsquesueswtr|fAg
+CAsmksygxBNmd:kJubynLoavIrt;zqsu}er9-s8td:kJubefFgcxtwi[xqtgpywkaBHee
+iAnrwywyaPCyl=AFauqrwgtHLyd=llfpetvpozjem_gsfubfJlaHHjd>gKaqhewudHxnr"fFfzv	
+G5DKKeAzatHtx&kD.bUL5SaRyyd@tAujgwmga!Bjv^futbptrlovIim+mlxkvmGBusMtq^
+ozgqtrsAjHHep=yE.bvmsAaBM	d:nqsgbnKgoHtui/lqdvbwwwsHxzg:oAobqkrhaMyCx!ztbv
+gxmqyxrvoxtys!jAacyfQgxBNmd:nqaqtnypotF d!Ztvu?eLofsKzi|zuppbgwjpFyx{
+3tbvbnKguAyeq=yFawujxBmsLjt/kEfpvfLppGttj!zqyvbkGyattxi/oAvubBGylo
+ZtjubiwwfGxxd=tlxjcyrrjGxes'fEftktMzaPIwo!uzfbkxrAbEEnr"fmcqwym
+
+ZtfbrwGqfvNxd%kyppuyJhuxxex&klqtgAAvvLtie,fmmnbnFCpEPjh!nuhjnDrjpFJqi\
+ozgqtrsAjHHee+jlgckwDFavIrt-kJaocsAwvEuym=tlphbyzlaMyCx;gxaocywyjtF 
+OzaqtiwyaMIey|klujcyrjpFJqm$gFffbnFmpKGfx*uz.bqswgitMex=fobnezDhuxtnx
+yxpynDrvssGfr;gxmAbfFkaLNtv^fFigbwwzvEN d!OFapgjvzaMIef^fEuqtjvaaMBjv^lAsg?
+gEarcwLgpyttr^-EatguJltxHye:oAobqkrAixtyi\zgabVmMz.sIsi!tqffueLvaLNtv^fFig
+yFsweyMyfsCsd:nqavgCLbas@td%kmmbynLoavIrt-oobvgiryfILjw^tFbvktFzaHzex^DF.
+uzfbpjwktsMtq^nAxbvtrjpGNws-fFigbhGtqEyCm:ElphbyzlaKyuv^yqovcyAvosIkd@fFfzv.
+ztbvbrwhoLttr^fzfgfxrhaPuDd=llgkpiAuhsIzx!CtfvjjJgbsxtg;sqovbfFkatH
+kxfevwGujvtwi[xqtgpysAjHHes'fmafqhMtfGNem|fxficqrvssHtx3fmofbyzhu
+sqbpueGufsHji%ylbbiwstntLes'fppewrwuuLo
+
+Y2FTDJ0N_6wVY KZafkxuBtLyid:nqaxcwAluRttj!lAsoueGmayIwq@rlhtcrEhsLn
+oyqnkhAAatHid^DBmkenLaatMee[vxjgfeLvaMyCx7fmofbyzljKthe[gnjnkyAltnteL^
+gDhwgirAitNex&kEfbiwstntLxd$uDsguuGuesNtd%orggtjFAaFIii-ylphbywEusNme:
+jughgwwuusxjz^rAqgtxrobOy d!LAsbgCstqEy	d=tqakouDpdBNeq=jqmbqkrAixtyi\z
+oEavjfLguAywi!oEapqeAuuxLse-fEutwhLBsxnef;zlkwuyrvoxtyl*tsachywyatHtx&kD.
+glggyeuobKuhx^xEacpirAixHet^xtbruesgtMuwxTzuungeuvnFush7fmofbyzlosuej^C
+sAsgbhzhstwyi/ylbpfesuaxHi[:oFmgbhGtntHi	!f5QGTGWYH 7hUpKQObcqKv
+jutvksyBjLBjh!yqwgtfDglBHiw!uravgCLguAuyd&gHfbceKvsMttj!nuftcwuojvuq
+yFsweyMyfsNme:futbptLgwxLDd>kxmbfjxpoxx	d>nudj?eLFqBwfp-EfaeqwJltIIsh|
+zAaitfEtbKMex&gFactjrupMtAi/ElxgnqrkfyCsi% lbubBwsmsuxd&oqscthzpfLtyl@z
+gDfbxjJFaPyqp!jqgkpjvg)xol	7fFigbYzlttOwy|fXjpizslaZLfi$gq-bcsvgfQNwi_kxz
+iAnrnnuhuxxex&ozhubxMjisuxdnMYM?bBzpdAtme+jxfbuyJpdMFDd&oqscthzpdtFeh@zm
+BqsAbsAjfES 
+
+Y2FTDJ0N_6wVY KZaeqsulexxex&gFaqpjrvuAywd_upfnbsGAaBFqy|zDbvgirvosBnw!zIp
+jutrnfQzaPuxd:nqaoqiwsaHzex^DFacuesgcBN]q@vBffbnEhhxnee+funcijrvgsuet@mq.
+gzebetFmfLMjh!zAajcAAuhsvji+foppxjJAfwtys!glmkonLlesyCx^tFadAeLof
+3AsmumGwaMIex&klwkgBrAitNei-koutqsAjaBGfk^yldqpxLpuNNjd@fBsqonKpozn
+vDpdcgDFaLOui/oAsbcqLlsGuym<kluqbrAjsHznp_ozh}beTBusBjd>gEapqyrjpGPnr$kp
+ztbvbjDldMLtr*iljoclwzaKyuv^yqovbfrzfKCty|fmuvgrHAaMIev^vDfugsLguxRyd*t
+kxfevwGujvtks/sgabOfFFaHzex&kusbrwGimxGxd|zqnbhwGtaMBjd'goubvmsAaMBjC!gDf
+tAubfnJldMtfx:kyqvueLvaKyuv^yqovbyzlaMyCx!hGubcyLlnINxd:ulsgrwwzfGNex&k
+vmhg?eLovLtre)ozhbvmwtaKyuv^yqovcyAvoLttj!xqqtgxwuutNns+yg
+
+OzavjnKgtBNze:oAobqkrpovLje|ozhnAeuvnIFng@zqebvjPAvtFem+lAsocyAvosush!ztf
+tqffbyGgdHHyv=rlujcyrjpFJqi\oFzbksrhaNMjj;rlxcAe}DiBwmd#kstbvmwgrNyxx*uz
+uravjjrufxxej=xlhqqirAfQNze-fsscorsyt	nes+klicueLofsCsx/upvevnGuaHzeWbSX?
+3uujbXYTMmttr^fobpbiwCfEIud|vqdkhnugeHwzq^tF_vAuwgexwqe/gFjqpx
+lAsbuuwjjyChd:kJubvDHltsIw{!gEaykyzguAyeX OfacvywtqMMex=fsfpgwsAf
+mqogtfDgeHwzq^tF_vAuwgexwqe/gFjqpxrAitNeg@tlicpiDlatFqd|uDuubtxguxRy	
+ZtfbVJ1gjLtfr!gFugouLguHtii<kxprbkGyntNxd'uDavgCLgsxJwi|kzucvnGuaMBfx
+CumnbjFzvKyex&kllkpirvgsLjy|gnjnkyQgbGxep=tsfxkyQgpytie:glekuhMztxxei@xxjgt 
+OFaqhkwytsueA@EluqbxLhzsuqm<kljpbyzlaLNfx^fAgbrjJtbGysx!zqdjptDvhBwfp
+xqwqnzLppGo
+
+OFajcxrifxHee!iAovksMpozthl@rxfpijrposNmi!ZQJbvtrjsxuyi!jAdwojFAazLfq_gDt
+ztbvbiGgtHGjd>uDlbksrjpGNws-ruoibyzlavIrt-kJjvAeGmaMBjd:kJuwcqrvcCyhx!hGu
+gxtqbfDspPCsk!uzfbvtryfILjw^tFavjjryftFex^DFavjfLgpGyeA*rxahksvb
+LGofcrwuutFex=fFigbsGAjHHes'fFigbYWPaBMex&gFaVGNrjpGztv_gzdgbfDspPMes+k
+ztfbcgAsjMSex=fqyvgsvgpKtrs%orzbvmwgUX3ex@mltgveKvaMBfx!oFahkyKguAyex^DF
+ztbvbtFlaBMee:zqnrvnFnaMIev^vDfugsLb
+
+Y2FTDJ0N_6wVY KZapgCLgpNNqm+kpavjjrheFCsm|zDbvkAwgctwpk/uGofbtxguAyeX Og
+ZtfbVJ1gjLtfr!ozugtssAjHHfp!vDplghLguHtii<kxprbfFkawCxw^suocvjrnvBxjp*tqt
+lAsbvmwgfGwth*tsacpirpoMywg&gzhgbtxgntwmm+k\sgcisimxtyi\zgabKyrpt
+yBpputJlesvDd:nqaCuxGjjtNns+frptbHGtqNNjv|fuobvmwgINGfr*zufu?eLof
+GEtqensAjHHej=xlDqouMAbMCtr@rlMkplMptMChw7fmofbyzlaTMxs$omukqsrmpK
+RuugtfJFatHidgozhwkxLpdsWtq[AFjpi rgSxJwi|kzucvnNltsIkd+AyftqzKgpMBjv
+vDphgxKppGuqd|uojgvnwzaLCyd=tljvueskwBMtv,fnpctimga!BjdoKUajcxrhaGOrf^x
+urachkAsjtNjh!vDplghLzaMBfx!nmwgbuJvwBxjh!gEtkuysudxtgC!zqtvksygeKukx|fAg
+ztfbizAkfECsi|a
+
+GyppieLofsxjw*mzaiqfDzayIwd:nqaVGNrAbztxi: lujgeKjixGjd'oDtvbtxgbEFeq;yF
+sqfvbyzlaGyjh|fAgbtjKlbKwm{!hqdcwxwguAyeX OldcojrvvMttj!ztfbtjKlbKwm
+iAnowsAAzmtBl*itafkirupMtki^rlbfgvMhuxFDd|kDwgfetFaxRnw:ozhbvfygtxNx	
+ZtfbvfygtxNeq;yFadgewEuxHxm<klbubBwsmsuxd$uyqcvntsfsQnx&fqykuyAuhsush
+kyftinFnaLNfr%gDeu}erPos&@!E lwgtxAvos& @!uravjjrNvBxjp*tqtbyfKgsxFje|kp
+[5QGTGWYH 7hUpKQObkqDBtMLfx^jlujgnJgdHHyi+zE-}
+
+Y2FTDJ0N_6wVY KZapqywkaMBfx!uzfbrwGimxGef^yquvksygfEyhx/uzjebywEusBfw
+hqfpbyzlaEuho!uracfjIBbMyem+zqspcqrvssyCx^xzbnbiGjvFysx@zuppbkGyaFusC
+kJjuvnFnaxFjg:xAokeeLlyMM d!ZtfbVJ1ghNCii-ozfubfKgdNLwi+zxzbhtJtvEuyi%
+iAovcnFggxQej*DqebtjIBjKyri+zE.bdzLgpGyes'fFigoeAzaMBnw2flUjgwwgnNMy
+gxxcAxrifsueh=iGngpyroftxjv7fmobks	mjEyeWbSXavclrAitNet/uHjfgx
+7>acbgAimBIlv@vtjebiwzdKCux*uzaqheLofsyqi$zDppkhrvcCyhx!uzfbkxrAbEEnr"
+gnpwve}AitNem| lxjqeAudEOii%fuu?bBzlomtBl@zlgqt	rhowtzr%kDayjnuoaMCyp^]b
+gzeb4[rAixths[ElugzyrmsHGeA&ooibkyrDbLtii/oHff?eAmatHD	!fUgbvmwyfsQfw
+tAaequQguxRyd=xljhbyzlavIuC!zqyvbnKgvGEss>tfavjjFgpGyew:gFfubfKgnNwm	
+2qsuktFg3n]es'fFigbLMpexFnr^ylxcueKjixxzp^jluqbgwgdHGup^zqebksrmbEFe5D#@
+gzebceJlwBMjh!ztjtfeNlsLCtr!oEavqetlaILjw^tFffbyGguAyeX OlbfxnKvsRtgs@xp
+lAsbkyKgfGxtv|kyfpveLojLths_ozhbynFAfKoedonqaVGNrpuLyqj!kJjuvxrApsJws<opf
+glnctpMwaEusk;gsf?bsGAattre/qqe+wurAfQN 
+
+GyppieLofswme-rqoigxrAixtYIdftbubfLAfFJyi%fFpbhfulaBMex&kloggirmpKtf
+smsmwursbGAze"klujcyrDjEFeA=xwahqwrlyBMym+mlqtqowjuLnex&gFaku	robGxqi!ztf
+rqwgneGmaFuwo;vlujcyrwfHJqi!gDfbwxAuhsHtA!zAavclrvoESeg&gBugt	rzfvNns+ 
+gzebrfJhhKuul!juwkunGutsush!tAubozuoaxFxi8flBvbyzlaLuri!zung?eKBdAtf
+rmoiwfylatFxs!CumnbgwgbuFjd:ultecqwgvItlv@iqgwnqQguHtme+jxfbvmwgiBAmp,
+jquckqwkaFuwo;vlxjkhzgntHDd[kAqngexvsxMji!gEavjjrmvMOwi!jqtvkssAjHHes'
+sGdjbjDldMLtr*ilugzylgbGxeA&ooibkxrupMtyl^frvvwwwgexMym+gFjqpetBusNmi
+vDfugsLgiHGjd=llowojJvvLtjp^iFsqpnuguxRyw!ozaurjupbECEi%fmsgcxm
+
+Y2FTDJ0N_6wVY KZafkxEptLyid:nqanqBwzu wtq_uz_fgsGtjGuys/fmqrttsjisux
+AzbdnjrApsMzt[uDubvmwglBHid=llbrrqAjbMCtr|fFicvevybPtui=vxfbymGgitPj
+tqwgtetlfGtnr!ztfbrztsjvtqm#xmsAbwwnvEuwp,fnfhqwwaatHid_gwfbvmwtavIri
+hmdm}erOfsuiz=imugfeEvsxtnr:kDfuvnFnaMyCx!gzebotJlaBHyi-ruhgpyrAfQN 
+GEtgtyAuhsNme:fuubkxrupMtgi,uzebghGupFChd'kmtkdnDpuRtys!nmwgblGvesNjB:yf
+Y2FTDJ0N_6wVY KZapqywkaMBfx!ztfbVJ1gHNCii-ozfubqAzuBHldw$*_qfirAbzM
+iAovcnFzaMulw!ztbvbtFlaBMei\vqdvgirApsysx^xlfxgwQguBGjd:nqatgqwCbGN
+zqyvwfDggxuyy/klpeezJz?stNx!iAovcnFzatFqd:nqavclKguAuyd[kAqngeFlfwtss> 
+gzebkyrptsHtx!kJqgeywkaMBfx!kHftAtFlaPCqp!zmhbvmAuhLtnr!ztfbufElaPuD	
+
+ZtfbszwzuBIsd=lliqyeHlpIFjd>oxmbvfyguAyex^DFakueAuaEuwk^fBbtvesggNHhx*uz
+uravjjAyaKyfg:oAobvtrDitNeWkK4CGTL	Td0#JIifFftojvguAyem|yGfbqk
+xqqtqiMjjuCqm:EgabYmsAaHHjd+kqeubyGgcxtff-kluqbwwwsHxzg^fmsgbyzlaMBnr"y
+uzfbyfFAtsNtd>uDlbynLo?stUi/nmqubfrtpKyey|krvnbhGudxJyd:nmobvmsAaHz
+xqqtqiMjjuCqm:ElptbwwjpOywe#oxjvAeAzaMBfx!urarttultLugm-oFz?byzhusCx{
+CtbvbhsuaHHjd"kFahttEgbGtjp^iFsqpnuguxRyd>oFiqwyryftxnr"fuubclspo
+ozavjjrvsBAnr@rgabJjrpmEOxx/gFffbyzptswtr:kzukqsrDjMBee!vmhgbkJvn
+PmobEtEloBOx(|fnjnksyBbEtNr:xAeweyAvosNtdggFjp}
+
+Y2FTDJ0N_6wVY KZatgyMyoxxee:fxfpiyzguHtyl^futuwjrvgsCre"kEacueKpnNFfg/g
+lAsbvmwguxRy{!ozaqtiwyaMIev^oFftcywgiBMef^rufhbyzhusCsd:nqanqsygsNHeq=xq
+ztbpbnEhhxMes'fBbigxrvgsJfv:oovncwrleBNns+ylphbyzlaMyCx!gDfbpjwkfwn
+hqdcwxwgkNMyd@yltgetFk_zysi/gFjqpeHopMIhs[oqtbcsvgtxwtr%/sfpgwsAjHH
+sudtqkAsnsxjk^tqscvjlgtHtxi$uze+ijFlstNns+fDfrtjKloMuym=tEavgsvguH
+jqhgpjJhuxnee+jlppgeLlowMex=fAwgtxLyfLMew=sqatgqsAjOyqC!zDjxkfDgbLJjg:y
+uravjjrAfQNew;itacueAAtsFfC=AFaqpeLofsJfk^ lxjkhzgjLtss:fmmycDK
+yuhpkkAjbGN	d%kEqkvjrDitNex&klugzyrjsBNng|fyjijyrzbRnee+jltnklzAaHNmi/
+vufegxrvgsCsj=xybvktFgtNwmd@ylujgeNlsRtnq[uDucpyrsfQChe-fFjguetluPyjr!ztf
+KzhnkxzgbGxeP@zuobxjJzjHHxd=llDqojFpvL.xd#oxjpizssaMyCx7frptbjPhnIFj	
+SAsgqAwy.sCsd_gzzbewMjjtFev^yBfevxrpusCxd^gEzbvtrmpHFes+kEfnheuvovywr*ts
+CtbvbfrzdtHsi%funcijrvgsNmi!zqyvbBAsmsuhg=sBmkummgaYIwd^DmnrnjlgjGttv%kD
+zAauvzvFaMBjd:xmouonKzjHHes'fFfzvxlgjGztv_gFjqpeuvovywr*tsavjjrAfQN
+imstkjJgjLtsi$kEtctDlgxAChl!yobppjvgjFuli|fEjorqQgeHtss:fmmycDKgitHip^a
+LGsvjjJaaxPjr!ztfbjnyo_JOfp*zKaocywyjtFxd#kuoibuJveNwjh!gFaEqwFlmEtzw^
+sGdjbtxguAyem+lAsocyAvosNme:fAogbBGBmwtsi^jljhbxLBeRCsk!ztpugetvpDMee|
+vtzukhssaHvoi$zE?bbNLgjLtfd$nAjegeLobMtme|fnfgpeEhexoeddzljubfFgbKAze#rK
+pGtvkkAhcEyeg&uudg?etBusIsi!jAfubsGAaDHtA!CtbvbhGspKtyl=yqargsrzuKIpi|fuo
+ztfbofJnjGtfv^fAsbymwAixLex&kDfbyfKgbsMye*tlppbyzlaIuli7fnfeczKlaBNel@y
+hqfpbkAsuxLjh!uGu}be7ufsxti|fzpvbpFvxsQmi:nqsbvmwyfsQjv^fDjrueAuaMBjd[gsf
+hqdcwxwguAyDd%uloqveKopPtzt7fmofbtFgbswty[rqaqheLofsGfv"ozbnbrsylLttr^
+rAtguezhmyttj!ztfbofJrauyhe;yqavjjrwfGtnw!BqsAbqAniMtfr%fFigbxuhoGyw
+lmjngirApsJng)fuubwulgbGxew=fIicveAzavFje/rKacbhzldDGfv)fuobvmwgntLlm+fAg
+ztfbqwAnjGuqd#kopogxrhaECyx-klteqtHgjGtyl^fybtinFgpytyl^frbeunEpmxo
+YFbpffJkaILtf-kytbhtJggtwxm_oxfbgiAAjHHx{!tAubpjOguHtjp^iFsqpnuz.svzx
+gxtqbyJBfsIkd-osiv+qwutsJms:usscrmQaatHid@xqatgrsylxxel^xqadghsBtxtnx!oE
+oyqqtysuusNme:fIfbptLggHIqd=ADtgnAwzaMBfx!kHfpbnxgxxtuv=jGdgbfrCfKSer*iq
+oybigeGmaMBnw!vmhgbBAAisAts%foppvwszumtBi!gDfbptLgsxJqe$ozhbvmw
+smowuhJpqMtfr,fyptgeLobGtrm$xAgknrrobLtwi[rmdgfeLofsGfr;yoskrym
+
+ZtfbVJ1gdHGjw!lDpobyzlaKyxi@xoibetEtvGCyC7fIigtjrpuLtkm/yFacnqwnjtHhi
+rufu?etBusCyd*yloqveBBtMtfr!gobfgrAjaxRjv$oEf}be1AaAuxd/kxfxcsulayuw
+hqzqpirAiHMjd>nAaurjFkatFqd=llujgnJguBGjd|zGeAksyguxRy{!hqdcwxwgpGy)w
+sAegneGmaMyCx!jqugtrAufLtBl@zlppg)KgtHzyA@xqaecsrkpsQnx&fmavgCLbas1ts%
+sAegnxrsftxex=fspqfeKvgMQfv^alaDcirtpwyqw!rqbfbyGgctxew=lFxctjmga!Bfx!nmt
+koppqrAjavIsw^wGfpejKaatHid*zljubyzltxtjg=tAnkeeuvoLyvy^tofubyzhusBfz^
+rqebvmwgFNLtt^gzaEqrEBoBNDd:ulignurzvIJtv:fFigbYWP.sush!ztbvbBAsmsFje% 
+Y2FTDJ0N_6wVY KZajquwk.sMtq^fEphvBsyfsPjr%uDtbvtryftFnD^fFicveAmaMBjC
+vDpxkiwgtHzyA@xqaykyzgbsvjx:kDaoqiwsaHzex&klugzyrAixSeg@tlncmjrhaDCqp*ts?
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+JUTEWX~PP7t+ddsBmkefLppGMes'fpjhhjJloMtIX	ylbpfeLhhsMjx|f;aQFFrCfKMzw!YSNNb+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+JGskplrAixtim|iGtuktFguAuyd'uxmqyjvaaLyAi/gxacfiAAjHHfp!vAjpvxrDfKyeq@jq?
+TqjvjjJgBT0e+*aq??bFKzpvCfx*uzaqheStfKChe+f2vdnnKofKM[d+uDaECQ~g)Boj	7
+IAnrwywy_tCii%fMdswnKpuBIsd@tpaNqlAzuBwxdnABqqty{gitMee!jAdwojFA_MSui
+jqgkpnLppGtks/fmoekjFAaZLji)fpscoflgbENms;mtavjjr1F2tBm-rlcgbftsfsNt
+nmofnjrAitN d!MuwgpeLojLtxx@zqaqhesmgtCww!gzebcxKBnBHld:nmubvmw
+zqdjpnuhm Dty/tmmbrwGkvvyww!gzebvmwgdHGri/iubnbAwueHLxd%kojfgeLvaNMjd:nq
+uFigteLDpsNDt^yfavjjFgbGtnr|zuuwvnGuaECpi!ztfbNntybKSes'fOppiwwztmtBl*it
+suhjveJldxCAi!gxmbqkrAixCwd[AnmkefLppGM	d>uGmfbmsCfsNtd#klbdnjrApsBfr%rq
+ztsggevpgyywi+zluArjKgpytis$AyfpvevlgBHnx*uztbcsvgutAew^zEacpirifsugp^fFp
+jutvksyBjLBee_uzhbvmwt?
+
+UrgkejrKpvOri+zlBtemAAfvNzv^f<PFC[robLtxs_klbfxfFAbzyxd:nmubhqGDayLtq!oFt
+zuhjvexvdNMes+fAghkhwgeHwzq^tFtbcsvgdEyfv!jusgeyAvoLtks/funrnjEloMuym=tg
+SGdjbtxguAyeS	Gltvcsvhswtnw!kmtkgwrApsLje%fmofbhDlbKywd@zlgktxLgsxuim+m
+ztbpbyzla`1RP!yFbpffJk.sQmm$nljubjPAsxGjp,fsfpgwss?st2l@zlujcyrtftHxd*y
+ztbvbnxgpGyeA@tFtbvtrBtxtlv@vtjeueAua!3KJ!gzebQISaaHHjd*yltvwhCaauyhe;yq
+UPBbfjxpoxMek/gBikexrmpKGfx|fIiknjr1JYZeh=kEapqylgxAywi@ylTIOQrzbRMex&k
+CAsnfeAzaGIyd>guukplrmpKtyl*ylxqtprnsHOud:uldtgfLlatHtx&kDaitfHojvMej=xybv}
+3tbvbnKgoxyii%futbcsrhcBFnx,fFpbwxwgxAuyi<kDaitfHojvMej=xybvbtFlaPusx|a
+
+ZtfbVJ1gqKIAm%kEacbxGjlxNex&gFacnqGDtsIsi!zAaeqsFldMtyl^f5HONevvdNGjr:fFp
+ztfbiwswiBwx	!f6igbsGAbMCtr!ztbvbyzlazLft&ootbcwwgjGtnw!ixfctqQgbswms*iq
+ztbvbtFlaGyjh|fFpbofClauuxi%fAobjjJgpKtmm|fqoxkwGunxHy{!gzebvmsAaBMes+k
+gpwcpysnfnteWbSXakueDltLtri"gxpocsAhdtFem+fmuvgrHAjGAex=fpfhkswggHLre:y
+lAsbcqDglBHiw!urakpkGyntNns+ lujqzyoaFIwi!sqhcntEhoBuhe-fuobcyLlnINnr"fFp
+iAwgtessmsMtv:ylphbiGjvFysx|alaVjjrvuAywd@jHbpvfylaBMex&gFavjjrtpwyqd=l
+zqyvbwwwsxMjr:kpadAe~NN5tnw!yunrnDrhosIwh^xlphbrsnoBNzh^fDjejjJgbGxeq=xq
+lxfzkgDlaMBfr!ztfbotvlmsIkd:kJubqkxlsxxef,f1EC}erIpMBes'lqsbjnwybKwmm$gx
+yFsweyMyfLnef;zlTIOQryfvIlr*FqtbvmsAaMBjd&oqscthzpdtFeq=jqmbqkrAixtyi\z
+ztbvbtFlaBMep=uwjpiesAaFuDd+uFajcAwgcxysd*tlujgeEpowMes'fFigbiwzjzHjv| 
+CtftgfKgPWUeh=kEapqym
+
+UPBbkxrupMtwi@rxzbcnEpoztks/fFigbpAuesIkd%uovogsLguAuyd:nqaVGNrDbGNxd:u
+kzdqousztnteX&klUGKeuhosBfr%rqavjjrrjGxes'fybvgwAhms9IE!nmt?bfKgxxFqd@ylb
+yuhpkkAjbGNqC!hDpcfjJgstHli!uraocywyjtF d!UPBbujwttsNtd#klwgtDrtvvB
+lAdwujvgpGttj'oofbftuBnxHyw7fIikemrptsQme:fuubuysyuxxes;zlcgksygdtFqi%/\
+urgkejrkpvOri+zlbtemAAfvNzv^a
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+IMMCNZUHa}tYi\z\fpetvpoztkv=slbbrztsjLBjvNylqgtxHldMCAi!=
+XqtrqsKpcBFnx*kEaqhesgqNvqm|nqsb)e0lqKIiy$zuppbtxgNBAsiNylMcvnFgtxLni|
+Ctpngesueswtq[rqugbBAAis!LQgfFbiuethtxxes+fBftejACfwtsi^jlbpfewEqxwyi%
+AEfb)e8hsMChy-gDafghAzjHHxd@xutkplrmsHGex&klhgpjJhmsxjg*yuppbyGgqKIiy$k
+gzebrztsjLBeTgJl(
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+ZtfbhnFhmsMui@qqsbksrAiBMew^yEjqp	rLsBweG?RMMWEFlgwBwjd[xqtkfjFA.
+ItbfyDur_1yfp^EfaKphmaaLJto^frsqoeLofsJjv|vqdvkAwgpytfd[AnmkumwyaKy
+zqyv+jFjpwCsk7fDbvjjJguAusd@ylppgeIBbECkm^jluqbiAzdNMxd_kFiqfxrvg
+kzdqfnFnawuye7fmofbttzfKPjh!ztbvbyzlaILjw^tFftueKpuMCsk!ozavjjrypHG	
+CtfvjjJguAyDd&gpaejtKlosNtd=xloqv	rDfKyee$zuoibfKgqNvqm|nqsu<ertbDCsk
+itpkejKaazuyl^xuoibisAbmtle:nqskplrpoyIwq@zupp?esuesGfo*tsacuxwztFysx|a
+IMMCNZUHaHzki/kpavjjrobKx]A=tldqpAAjuBIsd:nmubksrwvuFnw&ozhbxjJFaEuwk^
+zqyvbkAsfLt=w;itacue8SE	nes+kldcpsGAatPtm%fybmksygqxLxs+gxalwiytfGNxd=l
+gBqtquJpbMysi|ylbpfeKAsNwyy/kg
+
+OzaECQSSVVU)w!Bufy?ewudHxnr"fpfekxAvoLtxx^slgtqrrwsBIwd(AphogsLz?stYA=
+tAukqsKgitPjd#kopogesEjHGxd'uDajkrrposNmi!iAoukiwybMCtr!urahwyMyfsMty/iqt
+lAsbgqwjuKIsm$fBvdnnuhuBIs\!f!-bgqwjuKIsm$fFfzveHBcECxl*tsakueszaIyww=tmm
+gEacpDrvuAywd)ozebqkrwvuFnw&ozh?bfFkaJOjw:oAoubtxgjytfr%ftpybyGgfGwth^
+ztfbffLhatLjd|oyqnAesgdHHxi]AqoegeGmaMBfx!vDjqtevldBMns+?la4_essm
+vqsuqsssawyhm|oAoubfJlaHJjr!zAaetnLpdBMr{!CtjejeAzaNHfz=opbdnjm
+
+IMMCNZUHaKymi@xEffbmAzaKIqi!gEacbuMimBMmi/fAs?bgwAuxL	d@ylbpbnFAfKGjh*gDz
+hquygjFgxAuyd*ylwkgBwkatMee!yAvpfeAkfttfr%fFigbuwvqEyeA&ulxqwqvgntEjd;yq
+urakv rgGBHim+mlujgeKwfvCfp*yFavqeskwBMjd*tlujkxrwsHwjw|futbvmwgdHLjd=l
+ztbvbkMudMCtr8flUjgeHBcECxl^xlnwuyrtpGCys/fmofbmMnaMBjd'ozfbnnFlauyyA^kz
+muwkplrBtxLxd>nmubvmwFaPusx!gzebuzynfLNnr"fIicveLofRtrm"nFapgjvbas9si
+xqtrqsKpcBFnx,fAgbceHBcECxl^xljubyGgsxJwi|kzubvmwgexMnv^ylphbxuopEuww!gze
+xqtgcwuoaECgv@xubpueszaHJus|kpavqetBmEBje%kpmAbkGydBHld:nqnbksLvatLje|
+ztfAbBGBmwtss:foiqqxwguHtjr:kD?
+
+IMMCNZUHaECpi+kpavjjrxvxMym=tEadgnFnaKunw^jluqffQgbuIzx!jmucbxLyvvNzv^
+gzebuysuetLiw!zAavjjrkfvCxm=tEahchwkauSex&klBddjrTjzHjd&oytgnkrkvKCsk
+vDpfwhLppGttj!ztfbRfLypEIlm@fEftkjKgjGtyl^fyjf+sAufMyjr:nldgpyMyzn
+ItbfyDur_1yfp^E/tbfjuptBIsd:ulsgrwGkvvyeQ*mzf&ue4huBHew^xufubBzvmxtfr%
+iAnrnjLlaPCyl!YSNNbysntsQfw!gxtqbgszfwtzt=tlbbrjJjfBPjh!tqffbfFkatH
+kJqgeywkaNMj	!fUobvmwgttGjd>gKavjfLgNBAsiNylxqtprjbFyex=fnfbhfJgnHLjd:nmo
+gltkouDlaAush#uAlbhtJgdEywm$yfaRNIrptsuqv^gpzbhfJgnHLjd:nmobcevhutvfw^
+lAsbvmwvmHAne+ygabKyrptsuef^jDpemeKvvKwjd'uDavjjrzuNxDd=llXguywyo
+iuwknnRhuBIs{!IMMCNZUHatMxi/zqe}
+
+OzatglsyesNtd:nqafghAzjHHex=fBsqfzulatHid[AnmkumrWMWnex&klffkyGyjtFef=gDe
+urggtjvgeBLjg:fvvfirwuuLttr!ztfbszwzuBIsd=llbrrwGwsBuyi+kEtbqkrAixMj
+zqyvuexvsswtr<kDtkqslguAynv!kzdqfnFnatHid:nqjtbiAzuKCgy:oAo?bfFk
+iAoenzvlesNme:fFigbgwzusJtw|onmgbuJvkxwyd>gEaqpjrAitNee<uuegfeGCfKN
+ozutwxAvoLttv!kJdnwxAvoLtnr!yAakouGyutHyd@fDfuqzJjfnteX&AE.bvmwghxHjv@r
+jqdkunGuaMIex/gztokyrAixttv*muocneuvmEyhx*uzacueusftLqC!gEarqxKpcEyeA*zt
+ztfbynvltMtus|yucngesCfGOjw!lAsbwxwgmxxex=fAujgwrkfvCxm=tE;bb6{gUHtjr$upf
+ztfbffLhaHLer=zfaUIR4gpKtss: lUGKeGyaGIy	!fMhckslguAyei\vqdvgirBtxL
+iAnowsAAzsuxw^xFffbyzlaGyjh!lAsbptJtbMCAi!zmhiksygtMLzg:ADfubtxgjFJtv:gzu
+nGncpnLpfLtyi\zE.bcsvguAyeX OltggrwkaMBjd_uEubcuHypILne:kltvtzuAvKyej=x
+ztbvbuMyqHMj	!f4fugfJjisFnf/gDjcpxlgxAIee/klutcnFlesNtd<oqxbvmwgmtLli/
+oyqceyrvgsyqi$zDppkhrAfQNew=ADdgueGua+]es/f&~bqwr8~[tis$zAscn
+jutekuDpoxM	d-uGenAeswqKIAi%fFigbiwjjLCtr!zAakphDBextye"muoi}er1ixSew^k
+CtbvbnKgdHGnr"fnfvvjJguAusd:nqaurjupbECxx!CtpbkxrjpFJqi:kxzbhtuBtxxes+
+uzfbgiAAjHHes'fMndttKl"LtIi!Gzjoc	rhowtyl^ElbnutrBowyww:gzebvmsAaMBj
+vAugpyAhmsOxi|fqyegjvgqKyxi+zlfzrjuAbMCtr|ala4_e#obMtBm-rlcgbysnhxxee+j
+CtbvbBAsmsHtx8flPpejrhhtCs{!ztfbdtsyesLje-oLffbyzhusIsi!sGtvbysnaMBj
+unwkqzKbasVzx!ozapqeOhzsMms;rpaqpjrhuMyrt:fFpbkiwuuBzDd:nDpwimrlovIim+m
+yoigojKgfOywC!yuoinjrkjLwwi:klbtgfrvgsuex^DFavjfLgnBAmx!yAngffQgcx
+yqbtemwk?stYl@zlxcuesupMBjv!jqdkunGu?stXi@xoikplrizsueg=rGnpbsMtcxL	d@t
+gGujqwlgbsQtv% lbbxtDBnxnet^xyjvvnFnavIrf*tmukqsrzftLhl^yfacpirAbzAnr"
+tAucvnGutsMji_kpanqlAjbEthl=oofubfKgdHLjd^rqngpyKbas([dcuIafqjKgpGyeq@qq
+ztfbffLhatPfm-gnmg{er1jxCsk!oFavqesgDWaWShfqekvnGuavLje:kEankrAAbMCtr| 
+hGubceEhhGyym$fFbrgexpmxtyl@zljubAwyzsFfv"kfakuesjdHGue+oqebdDrAix
+kzdqfnFnaLJjg*ludcvnGutmtfr%fFicvessmHQxd=tqavqeEhlxtqs$gxaoqiAmjvuym=tE
+gxtqbfDspPMes+kluqbnFjpKJtv@zqacpDrjitHli|fAogbrsFawyxm/klxkvmAuaMBj
+hAvpfxrvgsJwm<gFfbtjKlbKwm{!ztpwimrlyIIwx*tsavclrmjEyxd'xAnbceUK_~9R
+iAvnfeKlsOyen;yFacueOlmEoednozdgbsGgpGyes+fFigbgGhswths;rparqxKpcES
+gzukenHhuxtje$nlbpfewCfKSeA@EljpbBzpdAtfd|itpncwrtjzByd$nApugeLvaFCsi
+ztjubisAbsvfr) ljvbBszawyhm%kpavqeKhuBMkC!ztfbdfKpdLtfr%fybmgeKvnx
+vDpxkxAvoLtks/fIicveEphANeg=sq?bb9{gOHNex=fqoeqiwguAyeh@zmccujrDpNFid/un
+oFaqheLofsCsx^xoicplwhcBFnx,fmofbuGyutvnp*zKavjjKlaBGus/zmovbywEuLtxl=Axe
+godqorGkbMy d!LAsbEF4HM@WF{!ztfbgCLloLCAi!uBukqsKgqKyxi+zqebdDrmvEF]x^DF
+yqbtemAuhsLju;oDfbefJlaBHex^DFaugqwjuBIsd@tpauvwGuhESew;vBptvewudHxnr"fAg
+jmucbyGggtwnp*zmugbyzlaPCii|zlqquxAimxtxi@xoibuyJhuxAni|alaDgyLls
+yAgvyfJlavusd@rIbAuetlavLje:kp.bdzLgtNGrs+ozhbvmwgsxMty/iqt?byzlaIytt-kf
+gzebvmwgfGywk,fFpbtjuvoOywx!ztfbvjPAaBMee+uFigteEhuMyw	
+
+VXEbkxrifBHld^topfgilgdtJyy/kp.bcsvgeBMyv*hGugf	rifvuzw^fFp
+ItbfyDur_1yfp^ElbpfeLofsvte/jljvbtxmfKMex&klxkfjKAaIIxw*hxfbcwJhzsIk
+lGuwtjryfLyfv$nlbrrqAjbMCtr|fFicveuhosvjd|kqobvtvhznteG?RMMWEFrjpGwqy%kp
+hKawtlAuhsNmi!kzdqfnFnaHzee-rljortJAbGNex^DFauqzJjfLtnr!CtbvgAwyaPuD
+yqfoueEvtMtft[xAqtkfLlatHid%ADbdnjrhusNmi!zung?eOpuAIzx!hxbpemAuhsuyd:nq
+ztpwimLguAuyd=tq"ubBGylsGfC!xqrwkwwgfFysh@zuppbnFguAyej;zGsg}er]UAOx{
+ItbfyDur_1yfp^ElqtqiMjfwtfd<kDzbnfJnfsBzq@tuukgxrAfQNeh@zmccujrifyIwi!ztf
+luocneJlmxuxi!uravjjr1F2tLy*jqmkpjKb-
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+JUTEWX~PP7t+d{xqbvksyguxRyw!CuujbrsylNJee%BAdcvjvg(s@wi+jEakpewudHxnr"f;
+ZtfbVJ1gbGxex&kljuuzwgpytnr:kDdjcsylbuCqm:ElphbxLhowuwh|f;aC
+suteqsulqMCtr!iAoegwFpoztyl^f6FKb+rPnIFng@zuppuexvssusd*tEukvzLppGtqm)k
+ROakpeLofsyAi+zlujcyrhaFOqx*vxjekyQgpytIX	ylegxjDvqLt+dkxAewenFnaBGfk^y
+gEacbkAytMtxx^vluqyfJktsJtw|onmgbhGuwxLxm=tluqbkMsmsNjB:fFitqzyo
+itbtchLlssLjg=mzjvktFg(s@mi!GMQbvfygtxNxd@ylbbetEtpGtxx@xFjpieHvjGNee+j
+ztfbpjwkayIwd$gGukqsr[
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+N1DMG4rwsxzfg^jlujgevptvOxw*uzavjfLggHFqs>kpaykyzgtxPjv@rldqorwuuLtnr
+lmwqteGmavLje:ozhbvjPAtsQnx&fybtmzHgbGxes+fFsgpiKgjGtjr$upjpi rgJGtyl^
+lGuwtjlgxAysd_gzzbotJlaMyCx|fmsgbfNhjEugp^frptbtF|mBHjd|kmsejnFn.sLje-
+vDpdnjEzaBHej*tpjpieOobMtnw!CmovgirDjEFeh^Bqmqr	rpgsIsi!oEahchwkaPCyl
+sumnktFzaHzeA=xptbqkrkbMu d!OFavjjJlgHLjd#kopogxrpnIIwx@tFavqeuvoLCii/
+vGuvksygntLpy[fuobvjPAtsNtd&kxqbujsydAyww!nAngbnFgpGtyl^fmdvwfDguACsk|
+ztfAbBAzisNtd/kFskgAwbas$fv*uGtbcuHyptwmi|fFpbtjxpoBHld/kFskgAssaFyyl=jE
+zAxctirAiBMei+jljpeqMkfsvzm-juoibtFgbswtq[AFftbAwytBIsd=llbbfnuAjHHfv,
+gzebnjLAjGAex&kldqouMAfKtqs=qlvrbBGyeLtnr!oFavqeGiutCsd_uDfbksxvsFuym=t
+gnpwveLofsMjq@tFjebxLyvvNzv^fAsbujEhoMChd'oqmfbtxgbsQtv% ljvueyybFGfx*imm
+yFsweyMyfmtfr%fEzpvfuAjvtxx/Aouwtjm
+
+N1DMG4rjpFGjr:kpaqpeLofsJwi|kzubmjwuaBHyi/kEubksrAixtjr$upjpieOvsEx
+ozaetjsAjGA,d!7>aochzpoxawi@jmcngeNlsLCtr|fAgbfnuAjHHfv*kEavjfLgdtHef^
+ozjvkfDszsNfk"kpakpe~NN5neA&ooibinNltsuew:xGdvwwwguHtyl^fpjevnGubKSei+zDz>
+ztfugewuuKCjw!imobvmwuauyeg=tHftvjvgjGNtd@fyptgeJphBxes/fAujgwOptx
+jughgwwuusxfx@hmtgbxLyvvNzv^fuoukiwguAyeg=sBvvgwlgxAChl!imobdjrAsxuyi%fmt
+gleApfEpdsNts-frptbxwhsvBnr"fyfejfFptFM.dw]lmctlwgcHxni|fAgbvjPAaMIew:Apz
+ztfbnfFnvtAj	!fUobqwvlssNtd*toptrtJhuxtrs/kltqrmAzuBwfx^jlngemsujLGx{
+sAsgbftvvMtms>fIptfxrifAuAi!tqffueLvauyeo+uIo?bBzpdAthe+fnfbnjsyoxxem+
+vmsvbkJvnsCsj=xybvktFgjGtim$zuppcwAltnteL=Cqwgt	rAixtqe|zlugpeQlbKMel@Bq
+yqfpbrMjisCsx^xqtvbnFgtMOiC*tsavjjrzuKOhx;xqaqheHyjGNjh!judvktFhsByx
+iAoxgwLlesCsx=foporzLls Lje%gnmgbkGynnteX&kljphtJtbMCtr!uzfbfjJpwxMee#uGu
+smoAbBGyeLtkv=slujqxwgjLttr-ElqctyAhmmttr^fAsbvBGgexznr*zuppueGmaMBj
+iAnoqsrvssNmi!AEvcneElbGCsk!uracbBGyemtfr%fFigpeFBnxLty|fpfhksAAjHHxd=l
+AzvuwfDgvLuli|alaKheLofswtq[AFftbnKgvLCsk!glekeyAvotLDd:ulignuryfMLni<k
+CAsfueAuattyi\zfakveFlfwMeq;itaoqwwgjGztv_gFjqpesipNNex&kldqorGuaNMfk^y

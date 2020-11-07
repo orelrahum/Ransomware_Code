@@ -1,0 +1,117 @@
+version, although an effort is being made not to restrict Perseus to a
+database in which one just performs searching, Boolean or otherwise.  It
+is possible to move laterally through the documents by selecting a word
+one is interested in and selecting an area of information one is
+interested in and trying to look that word up in that area.
+
+Since Perseus was developed in HyperCard, several levels of customization
+are possible.  Simple authoring tools exist that allow one to create
+annotated paths through the information, which are useful for note-taking
+and for guided tours for teaching purposes and for expository writing.
+With a little more ingenuity it is possible to begin to add or substitute
+material in Perseus.
+
+Perseus has not been used so much for classics education as for general
+education, where it seemed to have an impact on the students in the core
+course at Harvard (a general required course that students must take in
+certain areas).  Students were able to use primary material much more.
+
+The Perseus Project has an evaluation team at the University of Maryland
+that has been documenting Perseus' effects on education.  Perseus is very
+popular, and anecdotal evidence indicates that it is having an effect at
+places other than Harvard, for example, test sites at Ball State
+University, Drury College, and numerous small places where opportunities
+to use vast amounts of primary data may not exist.  One documented effect
+is that archaeological, anthropological, and philological research is
+being done by the same person instead of by three different people.
+
+The contextual information in Perseus includes an overview essay, a
+fairly linear historical essay on the fifth century B.C. that provides
+links into the primary material (e.g., Herodotus, Thucydides, and
+Plutarch), via small gray underscoring (on the screen) of linked
+passages.  These are handmade links into other material.
+
+To different extents, most of the production work was done at Harvard,
+where the people and the equipment are located.  Much of the
+collaborative activity involved data collection and structuring, because
+the main challenge and the emphasis of Perseus is the gathering of
+primary material, that is, building a useful environment for studying
+classical Greece, collecting data, and making it useful.
+Systems-building is definitely not the main concern.  Thus, much of the
+work has involved writing essays, collecting information, rewriting it,
+and tagging it.  That can be done off site.  The creative link for the
+overview essay as well as for both systems and data was collaborative,
+and was forged via E-mail and paper mail with professors at Pomona and
+Bowdoin.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CALALUCA * PLD's principal focus and contribution to scholarship *
+Various questions preparatory to beginning the project * Basis for
+project * Basic rule in converting PLD * Concerning the images in PLD *
+Running PLD under a variety of retrieval softwares * Encoding the
+database a hard-fought issue * Various features demonstrated * Importance
+of user documentation * Limitations of the CD-ROM version *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Eric CALALUCA, vice president, Chadwyck-Healey, Inc., demonstrated a
+software interpretation of the Patrologia Latina Database (PLD).  PLD's
+principal focus from the beginning of the project about three-and-a-half
+years ago was on converting Migne's Latin series, and in the end,
+CALALUCA suggested, conversion of the text will be the major contribution
+to scholarship.  CALALUCA stressed that, as possibly the only private
+publishing organization at the Workshop, Chadwyck-Healey had sought no
+federal funds or national foundation support before embarking upon the
+project, but instead had relied upon a great deal of homework and
+marketing to accomplish the task of conversion.
+
+Ever since the possibilities of computer-searching have emerged, scholars
+in the field of late ancient and early medieval studies (philosophers,
+theologians, classicists, and those studying the history of natural law
+and the history of the legal development of Western civilization) have
+been longing for a fully searchable version of Western literature, for
+example, all the texts of Augustine and Bernard of Clairvaux and
+Boethius, not to mention all the secondary and tertiary authors.
+
+Various questions arose, CALALUCA said.  Should one convert Migne?
+Should the database be encoded?  Is it necessary to do that?  How should
+it be delivered?  What about CD-ROM?  Since this is a transitional
+medium, why even bother to create software to run on a CD-ROM?  Since
+everybody knows people will be networking information, why go to the
+trouble--which is far greater with CD-ROM than with the production of
+magnetic data?  Finally, how does one make the data available?  Can many
+of the hurdles to using electronic information that some publishers have
+imposed upon databases be eliminated?
+
+The PLD project was based on the principle that computer-searching of
+texts is most effective when it is done with a large database.  Because
+PLD represented a collection that serves so many disciplines across so
+many periods, it was irresistible.
+
+The basic rule in converting PLD was to do no harm, to avoid the sins of
+intrusion in such a database:  no introduction of newer editions, no
+on-the-spot changes, no eradicating of all possible falsehoods from an
+edition.  Thus, PLD is not the final act in electronic publishing for
+this discipline, but simply the beginning.  The conversion of PLD has
+evoked numerous unanticipated questions:  How will information be used?
+What about networking?   }G_ |"% riM"|Y of G JG|G@GY% @% Vro|%c|%J8
+S"oulJ o_% Vro|%c| |"% riM"|Y of G JG|G@GY%8  @o< cG_ i| @% SGJ%
+G2GilG@l%8
+
+_"oY% co_2%r|i_M PfD GlYo |ri%J |o G2oiJ |"% Yi_Y of oSiYYio_, |"G| iY,
+%xcluJi_M Vor|io_Y of |"% coll%c|io_Y or <"ol% Y%c|io_YA  ["G| G@ou| |"%
+iSGM%Y8  PfD iY full of iSGM%Y, YoS% Gr% %x|r%S%l5 ViouY
+_i_%|%%_|"Sc%_|ur5 r%Vr%Y%_|G|io_Y of |"%  G|"%rY, <"il% o|"%rY co_|Gi_
+"iM"l5 i_|%r%Y|i_M %l%S%_|YA  _"% MoGl <GY |o co2%r Gll |"% |%x| of MiM_%
+(i_cluJi_M _o|%Y, i_ Gr%%( G_J i_ @%@r%<, |"% lG||%r of <"ic", i_
+VGr|iculGr, cGuY%Y Vro@l%SY i_ cr%G|i_M G Y%Grc" Y|ruc|ur%l, Gll |"%
+i_Jic%Y, G_J %2%_ |"% iSGM%Y, <"ic" Gr% @%i_M YcG__%J i_ Y%VGrG|%l5
+Y%Grc"G@l% fil%YA
+
+S%2%rGl "or|" AS%ricG_ i_Y|i|u|io_Y |"G| "G2% VlGc%J Gc[uiYi|io_ r%[u%Y|Y
+for |"% PfD JG|G@GY% "G2% r%[u%Y|%J i| i_ SGM_%|ic forS <i|"ou| Yof|<Gr%,
+<"ic" S%G_Y |"%5 Gr% Glr%GJ5 ru__i_M i| <i|"ou| Yof|<Gr%, <i|"ou|
+G_5|"i_M J%So_Y|rG|%J G| |"% [or(Y"oVA
+
+["G| cG__o| VrGc|icGll5 @% Jo_% iY Mo @Gc( G_J r%co_2%r| G_J r%S%_coJ

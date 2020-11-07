@@ -1,0 +1,655 @@
+emphasis of Perseus *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Several points emerged in the discussion that followed MYLONAS's presentation.
+
+Although MYLONAS had not demonstrated Perseus' ability to cross-search
+documents, she confirmed that all English words in Perseus are indexed
+and can be searched.  So, for example, sacrifice could have been searched
+in all texts, the historical essay, and all the catalogue entries with
+their descriptions--in short, in all of Perseus.
+
+Boolean logic is not in Perseus 1.0 but will be added to the next
+version, although an effort is being made not to restrict Perseus to a
+database in which one just performs searching, Boolean or otherwise.  It
+is possible to move laterally through the documents by selecting a word
+one is interested in and selecting an area of information one is
+interested in and trying to look that word up in that area.
+
+Since Perseus was developed in HyperCard, several levels of customization
+are possible.  Simple authoring tools exist that allow one to create
+annotated paths through the information, which are useful for note-taking
+and for guided tours for teaching purposes and for expository writing.
+With a little more ingenuity it is possible to begin to add or substitute
+material in Perseus.
+
+Perseus has not been used so much for classics education as for general
+education, where it seemed to have an impact on the students in the core
+course at Harvard (a general required course that students must take in
+certain areas).  Students were able to use primary material much more.
+
+The Perseus Project has an evaluation team at the University of Maryland
+that has been documenting Perseus' effects on education.  Perseus is very
+popular, and anecdotal evidence indicates that it is having an effect at
+places other than Harvard, for example, test sites at Ball State
+University, Drury College, and numerous small places whe%r% oVVor|u_i|i%Y
+|o uY% 2GY| GSou_|Y of VriSGr5 JG|G SG5 _o| %xiY|A  i_% JocuS%_|%J %ff%c|
+iY |"G| Grc"G%oloMicGl, G_|"roVoloMicGl, G_J V"iloloMicGl r%Y%Grc" iY
+@%i_M Jo_% @5 |"% YGS% V%rYo_ i_Y|%GJ of @5 |"r%% Jiff%r%_| V%oVl%A
+
+_"% co_|%x|uGl i_forSG|io_ i_ P%rY%uY i_cluJ%Y G_ o2%r2i%< %YYG5, G
+fGirl5 li_%Gr "iY|oricGl %YYG5 o_ |"% fif|" c%_|ur5 8A}A |"G| Vro2iJ%Y
+li_(Y i_|o |"% VriSGr5 SG|%riGl (%AMA, @%roJo|uY, _"uc5JiJ%Y, G_J
+Plu|Grc"l, 2iG YSGll MrG5 u_J%rYcori_M (o_ |"% Ycr%%_l of li_(%J
+VGYYGM%YA  _"%Y% Gr% "G_JSGJ% li_(Y i_|o o|"%r SG|%riGlA
+
+_o Jiff%r%_| %x|%_|Y, SoY| of |"% VroJuc|io_ <or( <GY Jo_% G| @Gr2GrJ,
+<"%r% |"% V%oVl% G_J |"% %[uiVS%_| Gr% locG|%JA  Muc" of |"%
+collG@orG|i2% Gc|i2i|5 i_2ol2%J JG|G coll%c|io_ G_J Y|ruc|uri_M, @%cGuY%
+|"% SGi_ c"Gll%_M% G_J |"% %SV"GYiY of P%rY%uY iY |"% MG|"%ri_M of
+VriSGr5 SG|%riGl, |"G| iY, @uilJi_M G uY%ful %_2iro_S%_| for Y|uJ5i_M
+clGYYicGl Gr%%c%, coll%c|i_M JG|G, G_J SG(i_M i| uY%fulA
+S5Y|%SYS@uilJi_M iY J%fi_i|%l5 _o| |"% SGi_ co_c%r_A  _"uY, Suc" of |"%
+<or( "GY i_2ol2%J <ri|i_M %YYG5Y, coll%c|i_M i_forSG|io_, r%<ri|i_M i|,
+G_J |GMMi_M i|A  _"G| cG_ @% Jo_% off Yi|%A  _"% cr%G|i2% li_( for |"%
+o2%r2i%< %YYG5 GY <%ll GY for @o|" Y5Y|%SY G_J JG|G <GY collG@orG|i2%,
+G_J <GY forM%J 2iG ~SSGil G_J VGV%r SGil <i|" Vrof%YYorY G| PoSo_G G_J
+8o<Joi_A
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+}AfAfo}A P PfDMY Vri_ciVGl focuY G_J co_|ri@u|io_ |o Yc"olGrY"iV P
+VGriouY [u%Y|io_Y Vr%VGrG|or5 |o @%Mi__i_M |"% VroP%c| P 8GYiY for
+VroP%c| P 8GYic rul% i_ co_2%r|i_M PfD P }o_c%r_i_M |"% iSGM%Y i_ PfD P
+lu__i_M PfD u_J%r G 2Gri%|5 of r%|ri%2Gl Yof|<Gr%Y P ~_coJi_M |"%
+JG|G@GY% G "GrJSfouM"| iYYu% P VGriouY f%G|ur%Y J%So_Y|rG|%J P cSVor|G_c%
+of uY%r JocuS%_|G|io_ P fiSi|G|io_Y of |"% }DSliM 2%rYio_ P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+~ric }AfAfo}A, 2ic% Vr%YiJ%_|, }"GJ<5c(S@%Gl%5, c_cA, J%So_Y|rG|%J G
+Yof|<Gr% i_|%rVr%|G|io_ of |"% PG|roloMiG fG|i_G DG|G@GY% (PfDlA  PfDMY
+Vri_ciVGl focuY froS |"% @%Mi__i_M of |"% VroP%c| G@ou| |"r%%SG_JSGS"Glf
+5%GrY GMo <GY o_ co_2%r|i_M MiM_%MY fG|i_ Y%ri%Y, G_J i_ |"% %_J,
+}AfAfo}A YuMM%Y|%J, co_2%rYio_ of |"% |%x| <ill @% |"% SGPor co_|ri@u|io_
+|o Yc"olGrY"iVA  }AfAfo}A Y|r%YY%J |"G|, GY VoYYi@l5 |"% o_l5 Vri2G|%
+Vu@liY"i_M orMG_i,G|io_ G| |"% [or(Y"oV, }"GJ<5c(S@%Gl%5 "GJ YouM"| _o
+f%J%rGl fu_JY or _G|io_Gl fou_JG|io_ YuVVor| @%for% %S@Gr(i_M uVo_ |"%
+VroP%c|, @u| i_Y|%GJ "GJ r%li%J uVo_ G Mr%G| J%Gl of "oS%<or( G_J
+SGr(%|i_M |o GccoSVliY" |"% |GY( of co_2%rYio_A
+
+~2%r Yi_c% |"% VoYYi@ili|i%Y of coSVu|%rSY%Grc"i_M "G2% %S%rM%J, Yc"olGrY
+i_ |"% fi%lJ of lG|% G_ci%_| G_J %Grl5 S%Ji%2Gl Y|uJi%Y (V"iloYoV"%rY,
+|"%oloMiG_Y, clGYYiciY|Y, G_J |"oY% Y|uJ5i_M |"% "iY|or5 of _G|urGl lG<
+G_J |"% "iY|or5 of |"% l%MGl J%2%loVS%_| of [%Y|%r_ ci2ili,G|io_l "G2%
+@%%_ lo_Mi_M for G full5 Y%Grc"G@l% 2%rYio_ of [%Y|%r_ li|%rG|ur%, for
+%xGSVl%, Gll |"% |%x|Y of AuMuY|i_% G_J 8%r_GrJ of }lGir2Gux G_J
+8o%|"iuY, _o| |o S%_|io_ Gll |"% Y%co_JGr5 G_J |%r|iGr5 Gu|"orYA
+
+VGriouY [u%Y|io_Y GroY%, }AfAfo}A YGiJA  S"oulJ o_% co_2%r| MiM_%8
+S"oulJ |"% JG|G@GY% @% %_coJ%J8  cY i| _%c%YYGr5 |o Jo |"G|8  @o< Y"oulJ
+i| @% J%li2%r%J8  ["G| G@ou| }DSliM8  Si_c% |"iY iY G |rG_Yi|io_Gl
+S%JiuS, <"5 %2%_ @o|"%r |o cr%G|% Yof|<Gr% |o ru_ o_ G }DSliM8  Si_c%
+%2%r5@oJ5 (_o<Y V%oVl% <ill @% _%|<or(i_M i_forSG|io_, <"5 Mo |o |"%
+|rou@l%SS<"ic" iY fGr Mr%G|%r <i|" }DSliM |"G_ <i|" |"% VroJuc|io_ of
+SGM_%|ic JG|G8   i_Gll5, "o< Jo%Y o_% SG(% |"% JG|G G2GilG@l%8  }G_ SG_5
+of |"% "urJl%Y |o uYi_M %l%c|ro_ic i_forSG|io_ |"G| YoS% Vu@liY"%rY "G2%
+iSVoY%J uVo_ JG|G@GY%Y @% %liSi_G|%J8
+
+_"% PfD VroP%c| <GY @GY%J o_ |"% Vri_ciVl% |"G| coSVu|%rSY%Grc"i_M of
+|%x|Y iY SoY| %ff%c|i2% <"%_ i| iY Jo_% <i|" G lGrM% JG|G@GY%A  8%cGuY%
+PfD r%Vr%Y%_|%J G coll%c|io_ |"G| Y%r2%Y Yo SG_5 JiYciVli_%Y GcroYY Yo
+SG_5 V%rioJY, i| <GY irr%YiY|i@l%A
+
+_"% @GYic rul% i_ co_2%r|i_M PfD <GY |o Jo _o "GrS, |o G2oiJ |"% Yi_Y of
+i_|ruYio_ i_ Yuc" G JG|G@GY%u  _o i_|roJuc|io_ of _%<%r %Ji|io_Y, _o
+o_S|"%SYVo| c"G_M%Y, _o %rGJicG|i_M of Gll VoYYi@l% fGlY%"ooJY froS G_
+%Ji|io_A  _"uY, PfD iY _o| |"% fi_Gl Gc| i_ %l%c|ro_ic Vu@liY"i_M for
+|"iY JiYciVli_%, @u| YiSVl5 |"% @%Mi__i_MA  _"% co_2%rYio_ of PfD "GY
+%2o(%J _uS%rouY u_G_|iciVG|%J [u%Y|io_Yu  @o< <ill i_forSG|io_ @% uY%J8
+["G| G@ou| _%|<or(i_M8  }G_ |"% riM"|Y of G JG|G@GY% @% Vro|%c|%J8
+S"oulJ o_% Vro|%c| |"% riM"|Y of G JG|G@GY%8  @o< cG_ i| @% SGJ%
+G2GilG@l%8
+
+_"oY% co_2%r|i_M PfD GlYo |ri%J |o G2oiJ |"% Yi_Y of oSiYYio_, |"G| iY,
+%xcluJi_M Vor|io_Y of |"% coll%c|io_Y or <"ol% Y%c|io_YA  ["G| G@ou| |"%
+iSGM%Y8  PfD iY full of iSGM%Y, YoS% Gr% %x|r%S%l5 ViouY
+_i_%|%%_|"Sc%_|ur5 r%Vr%Y%_|G|io_Y of |"%  G|"%rY, <"il% o|"%rY co_|Gi_
+"iM"l5 i_|%r%Y|i_M %l%S%_|YA  _"% MoGl <GY |o co2%r Gll |"% |%x| of MiM_%
+(i_cluJi_M _o|%Y, i_ Gr%%( G_J i_ @%@r%<, |"% lG||%r of <"ic", i_
+VGr|iculGr, cGuY%Y Vro@l%SY i_ cr%G|i_M G Y%Grc" Y|ruc|ur%l, Gll |"%
+i_Jic%Y, G_J %2%_ |"% iSGM%Y, <"ic" Gr% @%i_M YcG__%J i_ Y%VGrG|%l5
+Y%Grc"G@l% fil%YA
+
+S%2%rGl "or|" AS%ricG_ i_Y|i|u|io_Y |"G| "G2% VlGc%J Gc[uiYi|io_ r%[u%Y|Y
+for |"% PfD JG|G@GY% "G2% r%[u%Y|%J i| i_ SGM_%|ic forS <i|"ou| Yof|<Gr%,
+<"ic" S%G_Y |"%5 Gr% Glr%GJ5 ru__i_M i| <i|"ou| Yof|<Gr%, <i|"ou|
+G_5|"i_M J%So_Y|rG|%J G| |"% [or(Y"oVA
+
+["G| cG__o| VrGc|icGll5 @% Jo_% iY Mo @Gc( G_J r%co_2%r| G_J r%S%_coJ%
+JG|G, G |iS%Sco_YuSi_M G_J %x|r%S%l5 coY|l5 %_|%rVriY%A  }AfAfo}A Y%%Y
+PfD GY G JG|G@GY% |"G| cG_, G_J Y"oulJ, @% ru_ u_J%r G 2Gri%|5 of
+r%|ri%2Gl Yof|<Gr%YA  _"iY <ill V%rSi| |"% <iJ%Y| VoYYi@l% Y%Grc"%YA
+}o_Y%[u%_|l5, |"% _%%J |o VroJuc% G }DSliM of PfD, GY <%ll GY |o J%2%loV
+Yof|<Gr% |"G| coulJ "G_Jl% YoS% uA< MiMG@5|% of "%G2il5 %_coJ%J |%x|,
+J%2%loV%J ou| of co_2%rYG|io_Y <i|" coll%c|io_ J%2%loVS%_| G_J r%f%r%_c%
+li@rGriG_Y <"o <G_|%J Yof|<Gr% @o|" coSVGYYio_G|% %_ouM" for |"%
+V%J%Y|riG_ @u| GlYo cGVG@l% of i_corVorG|i_M |"% SoY| J%|Gil%J
+l%xicoMrGV"icGl Y|uJi%Y |"G| G uY%r J%Yir%Y |o co_Juc|A  c_ |"% %_J, |"%
+%_coJi_M G_J co_2%rYio_ of |"% JG|G <ill Vro2% |"% SoY| %_Juri_M
+|%Y|GS%_| |o |"% 2Glu% of |"% VroP%c|A
+
+_"% %_coJi_M of |"% JG|G@GY% <GY GlYo G "GrJSfouM"| iYYu%u  DiJ |"%
+JG|G@GY% _%%J |o @% %_coJ%J8 [%r% |"%r% _orSG|i2% Y|ruc|ur%Y for %_coJi_M
+"uSG_iY| |%x|Y8  S"oulJ i| @% SGMf8  ["G| G@ou| |"% _~cSS<ill i| lGY|,
+<ill i| Vro2% uY%ful8  }AfAfo}A %xVr%YY%J YoS% Si_or Jou@|Y GY |o <"%|"%r
+G JG|G @G_( cG_ @% full5 _~cSco_forSG_|A  ~2%r5 %ffor| cG_ @% SGJ%, @u|
+i_ |"% %_J |o @% _~cSco_forSG_| S%G_Y |o Gcc%V| |"% _%%J |o SG(% YoS%
+firS %_coJi_M J%ciYio_Y |"G| cG_, i_J%%J, @% JiYVu|%JA  _"% _~c Voi_|Y
+|"% Vu@liY"%r i_ G VroV%r Jir%c|io_ @u| Jo%Y _o| Vr%YuS% |o SG(% Gll |"%
+J%ciYio_Y for "iS or "%rA  ~YY%_|iGll5, |"% MoGl of %_coJi_M <GY |o
+%liSi_G|%, GY Suc" GY VoYYi@l%, |"% "i_JrG_c%Y |o i_forSG|io_S_%|<or(i_M,
+Yo |"G| if G_ i_Y|i|u|io_ Gc[uir%Y G JG|G@GY%, %2%r5@oJ5 GYYociG|%J <i|"
+|"% i_Y|i|u|io_ cG_ "G2% Gcc%YY |o i|A
+
+}AfAfo}A J%So_Y|rG|%J G Vor|io_ of VoluS% u,D, @%cGuY% i| "GJ |"% SoY|
+G_oSGli%Y i_ i|A  _"% Yof|<Gr% <GY cr%G|%J @5 ~l%c|ro_ic 8oo(
+_%c"_oloMi%Y of Pro2iJ%_c%, lc, G_J iY cGll%J D5_G|%x|A  _"% Yof|<Gr%
+<or(Y o_l5 <i|" SGMfScoJ%J JG|GA
+
+Vi%<i_M G |G@l% of co_|%_|Y o_ |"% Ycr%%_, |"% GuJi%_c% YG< "o< D5_G|%x|
+|r%G|Y %Gc" %l%S%_| GY G @oo( G_J G||%SV|Y |o YiSVlif5 So2%S%_| |"rouM" G
+2oluS%A   GSiliGri|5 <i|" |"% PG|roloMiG i_ Vri_| (iA%A, |"% |%x|, i|Y
+Yourc%, G_J |"% %Ji|io_Yl <ill SG(% |"% SGc"i_%Sr%GJG@l% 2%rYio_Y "iM"l5
+uY%fulA  (Sof|<Gr% <i|" G [i_Jo<Y GVVlicG|io_ <GY YouM"| for PfD,
+}AfAfo}A YGiJ, @%cGuY% |"iY <GY |"% SGi_ |r%_J for Yc"olGrl5 uY%Al
+
+}AfAfo}A GlYo J%So_Y|rG|%J "o< G uY%r cG_ V%rforS G 2Gri%|5 of Y%Grc"%Y
+G_J [uic(l5 So2% |o G_5 VGr| of G 2oluS%2 |"% loo(SuV Ycr%%_ Vro2iJ%Y
+YoS% @GYic, YiSVl% <orJSY%Grc"i_MA
+
+}AfAfo}A GrMu%J |"G| o_% of |"% SGPor Jifficul|i%Y iY _o| |"% Yof|<Gr%A
+lG|"%r, i_ cr%G|i_M G VroJuc| |"G| <ill @% uY%J @5 Yc"olGrY r%Vr%Y%_|i_M
+G @roGJ YV%c|ruS of coSVu|%r YoV"iY|icG|io_,  uY%r JocuS%_|G|io_ Vro2%Y
+|o @% |"% SoY| iSVor|G_| Y%r2ic% o_% cG_ Vro2iJ%A
+
+}AfAfo}A _%x| illuY|rG|%J G |ru_cG|%J Y%Grc" u_J%r S5Y|%riuS <i|"i_ |%_
+<orJY of 2ir|uY G_J "o< o_% <oulJ @% G@l% |o fi_J i|Y co_|%_|Y |"rouM"ou|
+|"% %_|ir% JG|G@GY%A  @% YGiJ |"G| |"% %xci|i_M |"i_M G@ou| PfD iY |"G|
+SG_5 of |"% GVVlicG|io_Y i_ |"% r%|ri%2Gl Yof|<Gr% @%i_M <ri||%_ for i|
+<ill %xc%%J |"% cGVG@ili|i%Y of |"% Yof|<Gr% %SVlo5%J _o< for |"% }DSliM
+2%rYio_A  _"% }DSliM fGc%Y M%_ui_% liSi|G|io_Y, i_ |%rSY of YV%%J G_J
+coSVr%"%_Yi2%_%YY, i_ |"% cr%G|io_ of G r%|ri%2Gl Yof|<Gr% |o ru_ i|A
+}AfAfo}A YGiJ "% "oV%J |"G| i_Ji2iJuGl Yc"olGrY <ill Jo<_loGJ |"% JG|G,
+if |"%5 <iY", |o |"%ir V%rYo_Gl coSVu|%rY, G_J "G2% r%GJ5 Gcc%YY |o
+iSVor|G_| |%x|Y o_ G co_Y|G_| @GYiY, <"ic" |"%5 <ill @% G@l% |o uY% i_
+|"%ir r%Y%Grc" G_J froS <"ic" |"%5 SiM"| %2%_ @% G@l% |o Vu@liY"A
+
+(}AfAfo}A %xVlGi_%J |"G| |"% @lu% _uS@%rY r%Vr%Y%_|%J MiM_%MY coluS_ _uS@%rY,
+<"ic" Gr% |"% Y|G_JGrJ Yc"olGrl5 r%f%r%_c%YA  Pulli_M uV G _o|%, "% Y|G|%J
+|"G| |"%Y% |%x|Y <%r% "%G2il5 %Ji|%J G_J |"% iSGM% fil%Y <oulJ GVV%Gr YiSVl5
+GY G _o|% GY <%ll, Yo |"G| o_% coulJ [uic(l5 Gcc%YY G_ iSGM%Al
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ f~cS}@@Ao~lY~l[AY P S%2%rGl Vro@l%SY <i|" <"ic" AM iY Y|ill <r%Y|li_M P
+VGriouY Y%Grc" G_J r%|ri%2Gl cGVG@ili|i%Y P clluY|rG|io_ of Gu|oSG|ic
+Y|%SSi_M G_J G |ru_cG|%J Y%Grc" P AMMY G||%SV| |o fi_J <G5Y |o co__%c|
+cG|GloMi_M |o |"% |%x|Y P AMMY MrG2i|G|io_ |o<GrJY SGMf P S|ri(i_M G
+@GlG_c% @%|<%%_ [uG_|i|5 G_J [uGli|5 P @o< AM fur_iY"%Y uY%rY r%courY% |o
+iSGM%Y P }o_Juc|i_M G Y%Grc" i_ G fullS|%x| %_2iro_S%_| P MGci_|oY" G_J
+c8M Vro|o|5V%Y of AM P Mul|iS%JiG GYV%c|Y of AM P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+A J%So_Y|rG|io_ of AS%ricG_ M%Sor5 @5 i|Y coorJi_G|or, }Grl  f~cS}@@Ao~l,
+G_J lic(5 ~l[AY, GYYociG|% coorJi_G|or, fi@rGr5 of }o_Mr%YY, co_cluJ%J
+|"% Sor_i_M Y%YYio_A  8%Mi__i_M <i|" G coll%c|io_ of @roGJYiJ%Y froS |"%
+}o_|i_%_|Gl }o_Mr%YY G_J |"% }o_Y|i|u|io_Gl }o_2%_|io_, |"% o_l5 |%x|
+coll%c|io_ i_ G Vr%Y%_|G@l% forS G| |"% |iS% of |"% [or(Y"oV,  f~cS}@@Ao~l
+"iM"liM"|%J Y%2%rGl of |"% Vro@l%SY <i|" <"ic" AM iY Y|ill <r%Y|li_MA
+(c_ i|Y fi_Gl forS, |"% JiY( <ill co_|Gi_ |<o coll%c|io_Y, _o| o_l5 |"%
+@roGJYiJ%Y @u| GlYo |"% full |%x| <i|" illuY|rG|io_Y of G Y%| of
+GVVroxiSG|%l5 <DD AfricG_SAS%ricG_ VGSV"l%|Y froS |"% V%rioJ u8AD |o u}uDAl
+
+AY  l~~MA" "GJ %xVlGi_%J %Grli%r, AM "GY G||%SV|%J |o uY% G YSGll GSou_|
+of i_|%rVr%|G|io_ |o i_|roJuc% coll%c|io_YA  c_ |"% Vr%Y%_| cGY%, |"%
+co_|rGc|or, G coSVG_5 _GS%J (uic( Sourc%, i_ Sil2%r SVri_M, MDA, uY%J
+Yof|<Gr% cGll%J _ool@oo( G_J Vu| |oM%|"%r G SoJ%Y|l5 i_|%rGc|i2%
+i_|roJuc|io_ |o |"% coll%c|io_A  fi(% |"% |<o Vr%c%Ji_M YV%G(%rY,
+ f~cS}@@Ao~l GrMu%J |"G| |"% r%Gl GYY%| <GY |"% u_J%rl5i_M coll%c|io_A
+
+ f~cS}@@Ao~l Vroc%%J%J |o J%Ycri@% 2GriouY Y%Grc" G_J r%|ri%2Gl
+cGVG@ili|i%Y <"il% ~l[AY <or(%J |"% coSVu|%rA  c_ |"iY VGr|iculGr VGc(GM%
+|"% "Mo |o" VullSJo<_ Gllo<%J |"% uY%r i_ %ff%c| |o PuSV ou| of _ool@oo(,
+<"%r% |"% i_|%rGc|i2% VroMrGS <GY locG|%J, G_J %_|%r |"% |"irJSVGr|5
+Yof|<Gr% uY%J @5 AM for |"iY |%x| coll%c|io_, <"ic" iY cGll%J P%rYo_Gl
+fi@rGriG_A  _"iY <GY |"% [i_Jo<Y 2%rYio_ of P%rYo_Gl fi@rGriG_, G
+Yof|<Gr% GVVlicG|io_ Vu| |oM%|"%r @5 G coSVG_5 i_ loc(2ill%, MJA
+
+Si_c% |"% @roGJYiJ%Y cGS% froS |"% l%2olu|io_Gr5 [Gr V%rioJ, G Y%Grc" <GY
+co_Juc|%J uYi_M |"% <orJY 8ri|iY" or <Gr, <i|" |"% J%fGul| oV%rG|or r%Y%|
+GY orA   f~cS}@@Ao~l J%So_Y|rG|%J @o|" Gu|oSG|ic Y|%SSi_M (<"ic" fi_JY
+o|"%r forSY of |"% YGS% roo|l G_J G |ru_cG|%J Y%Grc"A  i_% of P%rYo_Gl
+fi@rGriG_MY Y|ro_M%Y| f%G|ur%Y, |"% r%l%2G_c% rG_(i_M, <GY r%Vr%Y%_|%J @5
+G c"Gr| |"G| i_JicG|%J "o< of|%_ <orJY @%i_M YouM"| GVV%Gr%J i_
+JocuS%_|Y, <i|" |"% o_% r%c%i2i_M |"% SoY| ""i|Y" o@|Gi_i_M |"% "iM"%Y|
+Ycor%A  _"% ""i| liY|" |"G| iY YuVVli%J |G(%Y |"% r%l%2G_c% rG_(i_M i_|o
+Gccou_|, SG(i_M |"% firY| "i|, i_ %ff%c|, |"% o_% |"% Yof|<Gr% "GY
+Y%l%c|%J GY |"% SoY| r%l%2G_| %xGSVl%A
+
+["il% i_ |"% |%x| of o_% of |"% @roGJYiJ% JocuS%_|Y,  f~cS}@@Ao~l
+r%SGr(%J AMMY G||%SV| |o fi_J <G5Y |o co__%c| cG|GloMi_M |o |"% |%x|Y,
+<"ic" i| Jo%Y i_ Jiff%r%_| <G5Y i_ Jiff%r%_| SG_if%Y|G|io_YA  c_ |"% cGY%
+Y"o<_, |"% cG|GloMi_M <GY VGY|%J o_u  AM |oo( MAl} r%corJY |"G| <%r%
+<ri||%_ GY o_Sli_% r%corJY riM"| i_|o o_% of |"% fi@rGr5MY SGi_frGS%
+r%|ri%2Gl VroMrGSY, Vull%J |"%S ou|, G_J "G_J%J |"%S off |o |"% co_|rGc|or,
+<"o SGYYGM%J |"%S YoS%<"G| |o JiYVlG5 |"%S i_ |"% SG__%r Y"o<_A  i_% of
+AMMY [u%Y|io_Y iY, Do%Y |"% cG|GloMui_M _orSGll5 V%rforS%J i_ |"% SGi_frGS%
+<or( i_ |"iY co_|%x|, or "GJ AM ouM"| |o |"i_( |"rouM" GJPuY|S%_|Y8
+
+ f~cS}@@Ao~l SGJ% |"% GJJi|io_Gl Voi_| |"G|, GY fGr GY |"% |%x| Mo%Y, AM
+"GY MrG2i|G|%J |o<GrJY SGMf ("% Voi_|%J |o |"% @olJfGc% i_ |"% uVV%r VGr|
+of |"% Ycr%%_lA  Al|"ouM" %x|r%S%l5 liSi|%J i_ i|Y G@ili|5 |o |rG_YlG|%
+or i_|%rVr%| SGMf, P%rYo_Gl fi@rGriG_ <ill fur_iY" @o|" @olJ G_J i|GlicY
+o_ Ycr%%_2 G fGirl5 %GY5 |"i_M |o Jo, @u| i| iY o_% of |"% <G5Y i_ <"ic"
+SGMf iY uY%fulA
+
+S|ri(i_M G @GlG_c% @%|<%%_ [uG_|i|5 G_J [uGli|5 "GY @%%_ G SGPor co_c%r_
+of AM, <i|" GccurGc5 @%i_M o_% of |"% VlGc%Y <"%r% VroP%c| Y|Gff "G2%
+f%l| |"G| l%YY |"G_ uDDSV%rc%_| GccurGc5 <GY _o| u_Gcc%V|G@l%A
+ f~cS}@@Ao~l ci|%J |"% %xGSVl% of |"% Y|G_JGrJ of |"% r%(%5i_M i_JuY|r5,
+_GS%l5 }}A}5 V%rc%_|2 GY o_% Y%r2ic% @ur%Gu i_forS%J "iS, |o Mo froS
+}}A}5 |o uDD V%rc%_| <oulJ Jou@l% |"% coY|A
+
+ f~cS}@@Ao~l _%x| J%So_Y|rG|%J "o< AM fur_iY"%Y uY%rY r%courY% |o iSGM%Y,
+G_J G| |"% YGS% |iS% r%cGll%J f~S%MY Voi_|%J [u%Y|io_ co_c%r_i_M |"%
+_uS@%r of V%oVl% <"o <oulJ loo( G| |"oY% iSGM%Y G_J |"% _uS@%r <"o <oulJ
+<or( o_l5 <i|" |"% |%x|A  cf |"% iSVlicG|io_ of f~S%MY [u%Y|io_ <GY
+You_J,  f~cS}@@Ao~l YGiJ, i| rGiY%J |"% Y|G(%Y for |%x| GccurGc5 G_J
+r%Juc%J |"% 2Glu% of |"% Y|rG|%M5 for iSGM%YA
+
+}o_|%_Ji_M |"G| Vr%Y%r2G|io_ iY Gl<G5Y G @uMG@oo,  f~cS}@@Ao~l
+J%So_Y|rG|%J Y%2%rGl iSGM%Y J%ri2%J froS G YcG_ of G Vr%Y%r2G|io_
+SicrofilS |"G| AM "GJ SGJ%A  @% G<GrJ%J G MrGJ% of } G| @%Y|, V%r"GVY G
+} Si_uY or G } VluY, for "o< <%ll i| <or(%J ou|A  c_J%%J, |"% SG||%r of
+l%Gr_i_M if o|"%r V%oVl% "GJ @%||%r iJ%GY G@ou| YcG__i_M i_ M%_%rGl, G_J,
+i_ VGr|iculGr, YcG__i_M froS SicrofilS, <GY o_% of |"% fGc|orY |"G| Jro2%
+AM |o G||%SV| |o |"i_( |"rouM" |"% GM%_JG for |"% [or(Y"oVA  S(%<, for
+%xGSVl%, <GY o_% of |"% iYYu%Y |"G| AM i_ i|Y iM_orG_c% "GJ _o| r%c(o_%J
+<oulJ Vro2% Yo Jifficul|A
+
+ ur|"%r, |"% "G_Jli_M of iSGM%Y of |"% Yor| Y"o<_, i_ G J%Y(|oV coSVu|%r
+%_2iro_S%_|, i_2ol2%J G co_YiJ%rG@l% GSou_| of ,ooSi_M G_J Ycrolli_MA
+ol|iSG|%l5, AM Y|Gff f%%l |"G| V%r"GVY |"% VGV%r coV5 |"G| iY Vri_|%J ou|
+SiM"| @% |"% SoY| uY%ful o_%, @u| |"%5 r%SGi_ u_c%r|Gi_ GY |o "o< Suc"
+o_SYcr%%_ r%GJi_M uY%rY <ill JoA
+
+l%|ur_i_M |o |"% |%x|,  f~cS}@@Ao~l GY(%J 2i%<%rY |o iSGMi_% G V%rYo_ <"o
+SiM"| @% co_Juc|i_M G Y%Grc" i_ G fullS|%x| %_2iro_S%_|A  [i|" |"iY
+Yc%_Grio, "% Vroc%%J%J |o illuY|rG|% o|"%r f%G|ur%Y of P%rYo_Gl fi@rGriG_
+|"G| "% co_YiJ%r%J "%lVful2 for %xGSVl%, i| Vro2iJ%Y |"% G@ili|5 |o
+_o|ic% <orJY GY o_% r%GJYA  }lic(i_M |"% "i_cluJ%" @u||o_ o_ |"% @o||oS
+of |"% Y%Grc" <i_Jo< VoVY |"% <orJY |"G| "G2% @%%_ "iM"liM"|%J i_|o |"%
+Y%Grc"A  _"uY, G uY%r cG_ r%fi_% |"% Y%Grc" GY "% or Y"% r%GJY,
+r%S%x%cu|i_M |"% Y%Grc" G_J co_|i_ui_M |o fi_J |"i_MY i_ |"% [u%Y| for
+SG|%riGlYA  _"iY Yof|<Gr% _o| o_l5 co_|Gi_Y r%l%2G_c% rG_(i_M, 8ool%G_
+oV%rG|orY, G_J |ru_cG|io_, i| GlYo V%rSi|Y o_% |o V%rforS <orJ GlM%@rG,
+Yo |o YG5, <"%r% o_% Vu|Y |<o or |"r%% <orJY i_ VGr%_|"%Y%Y G_J li_(Y
+|"%S <i|" o_% 8ool%G_ oV%rG|or G_J |"%_ G couVl% of <orJY i_ G_o|"%r Y%|
+of VGr%_|"%Y%Y G_J GY(Y for |"i_MY <i|"i_ Yo SG_5 <orJY of o|"%rYA
+
+o_|il |"%5 @%cGS% Gc[uGi_|%J r%c%_|l5 <i|" YoS% of |"% <or( @%i_M Jo_% i_
+clGYYicY, |"% AM Y|Gff "GJ _o| r%Gli,%J |"G| G lGrM% _uS@%r of |"%
+VroP%c|Y |"G| i_2ol2% %l%c|ro_ic |%x|Y <%r% @%i_M Jo_% @5 V%oVl% <i|" G
+Vrofou_J i_|%r%Y| i_ lG_MuGM% G_J li_MuiY|icYA  _"%ir Y%Grc" Y|rG|%Mi%Y
+G_J |"i_(i_M Gr% ori%_|%J |o |"oY% fi%lJY, GY iY Y"o<_ i_ VGr|iculGr @5
+|"% P%rY%uY %xGSVl%A  AY GSG|%ur "iY|oriG_Y, |"% AM Y|Gff <%r% |"i_(i_M
+Sor% of Y%Grc"i_M for co_c%V|Y G_J iJ%GY |"G_ for VGr|iculGr <orJYA
+i@2iouYl5,  f~cS}@@Ao~l co_c%J%J, Y%Grc"i_M for co_c%V|Y G_J iJ%GY G_J
+Y%Grc"i_M for <orJY SG5 @% |<o rG|"%r cloY%l5 r%lG|%J |"i_MYA
+
+["il% JiYVlG5i_M Y%2%rGl iSGM%Y,  f~cS}@@Ao~l o@Y%r2%J |"G| |"% MGci_|oY"
+Vro|o|5V% @uil| @5 AM co_|Gi_Y G Mr%G|%r Ji2%rYi|5 of forSG|YA  ~c"oi_M G
+Vr%2iouY YV%G(%r, "% YGiJ |"G| i| <GY %GYi%r |o Y|i|c" |"i_MY |oM%|"%r i_
+|"% MGci_|oY", |"ouM" i| |%_J%J |o @% G li||l% Sor% G_%Sic i_ Y%Grc" G_J
+r%|ri%2GlA  AM, |"%r%for%, i_cr%GYi_Ml5 "GY @%%_ i_2%Y|iMG|i_M
+YoV"iY|icG|%J r%|ri%2Gl %_Mi_%Y i_ |"% c8M forSG|A
+
+ f~cS}@@Ao~l J%So_Y|rG|%J Y%2%rGl GJJi|io_Gl %xGSVl%Y of |"% Vro|o|5V%
+i_|%rfGc%Yu  i_% <GY AMMY S%|GV"or for |"% _%|<or( fu|ur%, i_ <"ic" G
+(i_J of r%GJi_MSrooS MrGV"ic YuMM%Y|Y "o< o_% <oulJ @% G@l% |o Mo Grou_J
+|o Jiff%r%_| SG|%riGlYA  AM co_|Gi_Y G lGrM% _uS@%r of V"o|oMrGV"Y i_
+G_GloM 2iJ%o forS <or(%J uV froS G 2iJ%oJiYc, <"ic" %_G@l% uY%rY |o SG(%
+coVi%Y |o Vri_| or i_corVorG|% i_ JiMi|Gl JocuS%_|YA  A frGS%SMrG@@%r iY
+@uil| i_|o |"% Y5Y|%S, SG(i_M i| VoYYi@l% |o @ri_M G_ iSGM% i_|o G <i_Jo<
+G_J JiMi|i,% or Vri_| i| ou|A
+
+ f~cS}@@Ao~l _%x| J%So_Y|rG|%J You_J r%corJi_M, <"ic" i_cluJ%J |%x|YA
+l%c5cl%J froS G Vr%2iouY VroP%c|, |"% coll%c|io_ i_cluJ%J Yix|5 A8SrVS
+V"o_oMrGV" r%corJY of Voli|icGl YV%%c"%Y |"G| <%r% SGJ% Juri_M G_J
+iSS%JiG|%l5 Gf|%r [orlJ [Gr cA  _"%Y% co_Y|i|u|%J GVVroxiSG|%l5 |"r%%
+"ourY of GuJio, GY AM "GY JiMi|i,%J i|, <"ic" occuV5 u5D S%MG@5|%Y o_ G
+}DA  _"uY, |"%5 Gr% co_YiJ%rG@l5 coSVr%YY%JA   roS |"% cG|GloMu% cGrJ,
+ f~cS}@@Ao~l Vroc%%J%J |o G |rG_YcriV| of G YV%%c" <i|" |"% GuJio
+G2GilG@l% G_J <i|" "iM"liM"|%J |%x| follo<i_M i| GY i| VlG5%JA
+A V"o|oMrGV" "GY @%%_ GJJ%J G_J G |rG_YcriV|io_ SGJ%A
+
+}o_YiJ%rG@l% 2Glu% "GY @%%_ GJJ%J @%5o_J <"G| |"% fi@rGr5 of }o_Mr%YY
+_orSGll5 <oulJ Jo i_ cG|GloMui_M G You_J r%corJi_M, <"ic" rGiY%Y Y%2%rGl
+[u%Y|io_Y for AM co_c%r_i_M <"%r% |o JrG< li_%Y G@ou| "o< Suc" 2Glu% i| cG_
+GfforJ |o GJJ G_J G| <"G| Voi_|, V%r"GVY, |"iY @%coS%Y Sor% |"G_ AM coulJ
+r%GYo_G@l5 Jo or r%GYo_G@l5 <iY" |o JoA   f~cS}@@Ao~l GlYo J%So_Y|rG|%J
+G So|io_ Vic|ur%A  AY  l~~MA" "GJ r%Vor|%J %Grli%r, |"% So|io_ Vic|ur%
+SG|%riGlY "G2% Vro2%J |"% SoY| VoVulGr, _o| YurVriYi_Ml5A  _"iY YG5Y Sor%
+G@ou| |"% S%JiuS, "% |"ouM"|, |"G_ G@ou| AMMY Vr%Y%_|G|io_ of i|A
+
+8%cGuY% AMMY MoGl <GY |o @ri_M |oM%|"%r |"i_MY |"G| coulJ @% uY%J @5
+"iY|oriG_Y or @5 V%oVl% <"o <%r% curiouY G@ou| "iY|or5,
+|ur_SofS|"%Sc%_|ur5 foo|GM% Y%%S%J |o r%Vr%Y%_| |"% SoY| GVVroVriG|%
+coll%c|io_Y froS |"% fi@rGr5 of }o_Mr%YY i_ So|io_ Vic|ur%YA _"%Y% <%r%
+|"% 2%r5 firY| filSY SGJ% @5 _"oSGY ~JiYo_MY coSVG_5 G_J YoS% o|"%rY G|
+|"G| |iS%A  _"% VGr|iculGr %xGSVl% illuY|rG|%J <GY G 8ioMrGV" filS,
+@rouM"| i_ <i|" G frGS%SMrG@@%r i_|o G <i_Jo<A  A Yi_Ml% 2iJ%oJiYc
+co_|Gi_Y G@ou| fif|5 |i|l%Y G_J Vi%c%Y of filS froS |"G| V%rioJ, Gll of
+"%< Yor( }i|5A  _G(%_ |oM%|"%r, AM @%li%2%Y, |"%5 Vro2iJ% G_ i_|%r%Y|i_M
+JocuS%_|Gr5 r%Yourc%A
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+DcS}oSSci" P oYi_M |"% frGS%SMrG@@%r i_ AM P VoluS% of SG|%riGl Vroc%YY%J
+G_J |o @% Vroc%YY%J P PurVoY% of AM <i|"i_ f} P }G|GloMui_M G_J |"%
+_G|ur% of AMMY SG|%riGl P SGMf coJi_M G_J |"% [u%Y|io_ of [uGli|5 2%rYuY
+[uG_|i|5 P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+Duri_M |"% [u%Y|io_SG_JSG_Y<%r V%rioJ |"G| follo<%J  f~cS}@@Ao~lMY
+Vr%Y%_|G|io_, Y%2%rGl clGrificG|io_Y <%r% SGJ%A
+
+AM iY @ri_Mi_M i_ So|io_ Vic|ur%Y froS G 2iJ%oJiYcA  _"% frGS%SMrG@@%r
+J%2ic%Y cr%G|% G <i_Jo< o_ G coSVu|%r Ycr%%_, <"ic" V%rSi|Y uY%rY |o
+JiMi|i,% G Yi_Ml% frGS% of |"% So2i% or o_% of |"% V"o|oMrGV"YA  c|
+VroJuc%Y G cruJ%, rouM"SG_JSr%GJ5 iSGM% |"G| "iM" Yc"ool Y|uJ%_|Y cG_
+i_corVorG|% i_|o VGV%rY, G_J |"G| "GY <or(%J 2%r5 _ic%l5 i_ |"iY <G5A
+
+}oSS%_|i_M o_  f~cS}@@Ao~lMY GYY%r|io_ |"G| AM <GY loo(i_M Sor% G|
+Y%Grc"i_M iJ%GY |"G_ <orJY, MYfi"AS GrMu%J |"G| <i|"ou| <orJY G_ iJ%G
+Jo%Y _o| %xiY|A   f~cS}@@Ao~l co_c%J%J |"G| "% ouM"| |o "G2% Gr|iculG|%J
+"iY Voi_| Sor% cl%Grl5A  MYfi"AS Y|G|%J |"G| |"%5 <%r% i_ fGc| @o|"
+|Gl(i_M G@ou| |"% YGS% |"i_MA  85 Y%Grc"i_M for <orJY G_J @5 forci_M
+V%oVl% |o focuY o_ |"% <orJ, |"% P%rY%uY ProP%c| f%l| |"G| |"%5 <oulJ M%|
+|"%S |o |"% iJ%GA  _"% <G5 o_% r%2i%<Y r%Yul|Y iY |Gilor%J Sor% |o o_%
+(i_J of uY%r |"G_ G_o|"%rA
+
+}o_c%r_i_M |"% |o|Gl 2oluS% of SG|%riGl |"G| "GY @%%_ Vroc%YY%J i_ |"iY
+<G5, AM G| |"iY Voi_| "GY i_ r%|ri%2G@l% forS Y%2%_ or %iM"| coll%c|io_Y,
+Gll of |"%S V"o|oMrGV"icA  c_ |"% MGci_|oY" %_2iro_S%_|, for %xGSVl%,
+|"%r% Vro@G@l5 Gr% <5,DDDSxD,DDD V"o|oMrGV"YA  _"% You_J r%corJi_MY
+_uS@%r Yix|5 i|%SYA  _"% @roGJYiJ%Y _uS@%r G@ou| <DD i|%SYA  _"%r% Gr%
+5DD Voli|icGl cGr|oo_Y i_ |"% forS of JrG<i_MYA  _"% So|io_ Vic|ur%Y, GY
+i_Ji2iJuGl i|%SY, _uS@%r Yix|5 |o Y%2%_|5A
+
+AM GlYo "GY G SG_uYcriV| coll%c|io_, |"% lif% "iY|or5 Vor|io_ of o_% of
+|"% f%J%rGl VroP%c| Y%ri%Y, <"ic" <ill co_|Gi_ 2,}DD i_Ji2iJuGl
+JocuS%_|Y, Gll firY|SV%rYo_ _GrrG|i2%YA  AM "GY i_ Vroc%YY G@ou| <5D
+AfricG_SAS%ricG_ VGSV"l%|Y, or G@ou| u2,DDD Vri_|%J VGM%Y for |"% V%rioJ
+u8ADSu}uDA  AlYo i_ |"% <or(Y Gr% YoS% x,DDD VG_orGSic V"o|oMrGV"YA  AM
+"GY r%c5cl%J G fGir GSou_| of |"% <or( Jo_% @5 f}MY Pri_|Y G_J
+P"o|oMrGV"Y Di2iYio_ Juri_M |"% fi@rGr5MY oV|icGl JiY( Vilo| VroP%c| i_
+|"% u}8DYA   or %xGSVl%, G YV%ciGl Ji2iYio_ of f} "GY |ool%J uV G_J
+|"ouM"| |"rouM" Gll |"% rGSificG|io_Y of %l%c|ro_ic Vr%Y%_|G|io_ of
+V"o|oMrGV"YA  c_J%%J, |"%5 Gr% <"%%li_M |"%S ou| i_ Mr%G| @Grr%l loGJYA
+_"% VurVoY% of AM <i|"i_ |"% fi@rGr5, i| iY "oV%J, iY |o cG|Gl5,% Y%2%rGl
+of |"% o|"%r YV%ciGl coll%c|io_ Ji2iYio_Y <"ic" "G2% _o VGr|iculGr
+%xV%ri%_c% <i|", i_ YoS% cGY%Y, Six%J f%%li_MY G@ou|, G_ Gc|i2i|5 Yuc" GY
+AMA  Mor%o2%r, i_ SG_5 cGY%Y |"% Ji2iYio_Y SG5 @% c"GrGc|%ri,%J GY _o|
+o_l5 lGc(i_M %xV%ri%_c% i_ "%l%c|ro_if5i_M" |"i_MY @u| GlYo i_ Gu|oSG|%J
+cG|GloMui_MA  MAl} cG|GloMui_M GY VrGc|ic%J i_ |"% o_i|%J S|G|%Y iY
+"%G2il5 <%iM"|%J |o<GrJ |"% J%YcriV|io_ of So_oMrGV" G_J Y%riGl
+SG|%riGlY, @u| iY Suc" |"i__%r <"%_ o_% %_|%rY |"% <orlJ of SG_uYcriV|Y
+G_J |"i_MY |"G| Gr% "%lJ i_ |"% fi@rGr5MY SuYic coll%c|io_ G_J o|"%r
+u_i|YA  c_ r%YVo_Y% |o G coSS%_| @5 f~S%, |"G| AMMY SG|%riGl iY 2%r5
+"%G2il5 V"o|oMrGV"ic, G_J iY Yo VriSGril5 @%cGuY% i_Ji2iJuGl r%corJY "G2%
+@%%_ SGJ% for %Gc" V"o|oMrGV",  f~cS}@@Ao~l o@Y%r2%J |"G| G_ i|%SSl%2%l
+cG|GloM r%corJ %xiY|Y, for %xGSVl%, for %Gc" V"o|oMrGV" i_ |"% D%|roi|
+Pu@liY"i_M coll%c|io_ of 25,DDD Vic|ur%YA  c_ |"% cGY% of |"%  %J%rGl
+[ri|%rY ProP%c|, for <"ic" _%Grl5 <,DDD JocuS%_|Y %xiY|, r%Vr%Y%_|i_M
+i_forSG|io_ froS |<%_|5SYix Jiff%r%_| Y|G|%Y, AM <i|" |"% GYYiY|G_c% of
+%Gr%_ S_oAl_ of |"% MG_uYcriV| Di2iYio_ <ill G||%SV| |o fi_J YoS% <G5 _o|
+o_l5 |o "G2% G coll%c|io_Sl%2%l r%corJ @u| V%r"GVY G MAl} r%corJ for %Gc"
+Y|G|%, <"ic" <ill |"%_ Y%r2% GY G_ uS@r%llG for |"% uDDS2DD JocuS%_|Y
+|"G| coS% u_J%r i|A  8u| |"G| JrGSG r%SGi_Y |o @% %_Gc|%JA  _"% AM Y|Gff
+iY co_Y%r2G|i2% G_J cli_MY |o cG|GloMui_M, |"ouM" of courY% 2iYi|orY |ou|
+Gr|ificiGl i_|%lliM%_c% G_J _%urGl _%|<or(Y i_ G SG__%r |"G| YuMM%Y|Y |"G|
+V%r"GVY o_% _%%J _o| "G2% cG|GloMui_M or |"G| Suc" of i| coulJ @% Vu| GYiJ%A
+
+_"% SG||%r of SGMf coJi_M,  f~cS}@@Ao~l co_c%J%J, r%|ur_%J |"% JiYcuYYio_
+|o |"% %Grli%r |r%G|%J [u%Y|io_ of [uGli|5 2%rYuY [uG_|i|5 i_ |"% fi@rGr5
+of }o_Mr%YYA  if courY%, |%x| co_2%rYio_ cG_ @% Jo_% <i|" uDDSV%rc%_|
+GccurGc5, @u| i| S%G_Y |"G| <"%_ o_%MY "olJi_MY Gr% GY 2GY| GY f}MY o_l5
+G |i_5 GSou_| <ill @% %xVoY%J, <"%r%GY V%rSi||i_M lo<%r l%2%lY of
+GccurGc5 cG_ l%GJ |o %xVoYi_M or Y"Gri_M lGrM%r GSou_|Y, @u| <i|" |"%
+[uGli|5 corr%YVo_Ji_Ml5 iSVGir%JA
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+_[i@cG P A co_|rGr5 %xV%ri%_c% co_c%r_i_M %l%c|ro_ic oV|io_Y P VoluS% of
+SG|%riGl i_ |"% [GY"i_M|o_ VGV%rY G_J G YuMM%Y|io_ of DG2iJ PGc(GrJ P
+cSVlicG|io_Y of PGc(GrJMY YuMM%Y|io_ P _rG_Ycri@i_M |"% JocuS%_|Y for |"%
+}DSliM P AccurGc5 of |rG_YcriV|io_Y P _"% }DSliM %Ji|io_ of |"%  ou_Ji_M
+ G|"%rY JocuS%_|Y P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ i_Ji_M %_courGM%S%_| i_ G coSS%_| of Mc}@~fSi"MY froS |"% Sor_i_M
+Y%YYio_SS|"G| _uS%rouY V%oVl% i_ |"% "uSG_i|i%Y <%r% c"ooYi_M %l%c|ro_ic
+oV|io_Y |o Jo |"%ir <or(SSDoro|"5 _[i@cG, %Ji|or, _"% PGV%rY of G%orM%
+[GY"i_M|o_, oV%_%J "%r illuY|rG|%J |Gl( @5 _o|i_M |"G| "%r %xV%ri%_c%
+<i|" li|%rGr5 Yc"olGrY G_J _uS%rouY V%oVl% i_ %Ji|i_M <GY co_|rGr5 |o
+Mc}@~fSi"MYA  _[i@cG %SV"GYi,%J li|%rGr5 Yc"olGrYM coSVl%|% iM_orG_c% of
+|"% |%c"_oloMicGl oV|io_Y G2GilG@l% |o |"%S or |"%ir r%luc|G_c% or, i_
+YoS% cGY%Y, |"%ir Jo<_riM"| "oY|ili|5 |o<GrJ |"%Y% oV|io_YA
+
+Af|%r Vro2iJi_M G_ o2%r2i%< of |"% fi2%  ou_Ji_M  G|"%rY VroP%c|Y
+(J%ff%rYo_ G| Pri_c%|o_,  rG_(li_ G| YGl%, Jo"_ AJGSY G| |"%
+MGYYGc"uY%||Y @iY|oricGl Soci%|5, G_J MGJiYo_ Jo<_ |"% "Gll froS "%r G|
+|"% o_i2%rYi|5 of VirMi_iGl, _[i@cG o@Y%r2%J |"G| |"% [GY"i_M|o_ VGV%rY,
+li(% Gll of |"% VroP%c|Y, i_cluJ% @o|" YiJ%Y of |"% [GY"i_M|o_
+corr%YVo_J%_c% G_J J%Gl <i|" YoS% u<5,DDD JocuS%_|Y |o @% Vu@liY"%J <i|"
+%x|%_Yi2% G__o|G|io_ i_ %iM"|5 |o %iM"|5Sfi2% 2oluS%Y, G VroP%c| |"G|
+<ill _o| @% coSVl%|%J u_|il <%ll i_|o |"% _%x| c%_|ur5A  _"uY, i| <GY
+<i|" co_YiJ%rG@l% %_|"uYiGYS Y%2%rGl 5%GrY GMo |"G| |"% [GY"i_M|o_ PGV%rY
+ProP%c| ([PPl Mr%%|%J DG2iJ PGc(GrJMY YuMM%Y|io_ |"G| |"% VGV%rY of |"%
+ ou_Ji_M  G|"%rY coulJ @% Vu@liY"%J %GYil5 G_J i_%xV%_Yi2%l5, G_J |o |"%
+Mr%G| @%_%fi| of AS%ricG_ Yc"olGrY"iV, 2iG }DSliMA
+
+c_ VrGMSG|ic |%rSY, fu_Ji_M froS |"% PGc(GrJ  ou_JG|io_ <oulJ %xV%Ji|%
+|"% |rG_YcriV|io_ of |"ouYG_JY of JocuS%_|Y <Gi|i_M |o @% Vu| o_ JiY( i_
+|"% [PP offic%YA   ur|"%r, Yi_c% |"% coY|Y of coll%c|i_M, %Ji|i_M, G_J
+co_2%r|i_M |"%  ou_Ji_M  G|"%rY JocuS%_|Y i_|o l%||%rVr%YY %Ji|io_Y <%r%
+ru__i_M i_|o |"% Sillio_Y of JollGrY, G_J |"% co_YiJ%rG@l% Y|GffY
+i_2ol2%J i_ Gll of |"%Y% VroP%c|Y <%r% J%2o|i_M |"%ir cGr%%rY |o
+VroJuci_M |"% <or(, |"% PGc(GrJ  ou_JG|io_MY YuMM%Y|io_ "GJ G
+r%2olu|io_Gr5 GYV%c|u  _rG_YcriV|io_Y of |"% %_|ir% corVuY of |"%
+ ou_Ji_M  G|"%rY VGV%rY <oulJ @% G2GilG@l% o_ }DSliM |o Vu@lic G_J
+coll%M% li@rGri%Y, %2%_ "iM" Yc"oolY, G| G frGc|io_ of |"% coY|SS
+JuDDSJu5D for |"% G__uGl lic%_Y% f%%SS|o VroJuc% G liSi|%J u_i2%rYi|5
+Vr%YY ru_ of u,DDD of %Gc" 2oluS% of |"% Vu@liY"%J VGV%rY G| Jx5SJu5D V%r
+Vri_|%J 2oluS%A  Gi2%_ |"% curr%_| @uJM%| cru_c" i_ %JucG|io_Gl Y5Y|%SY
+G_J |"% corr%YVo_Ji_M co_Y|rGi_|Y o_ li@rGriG_Y i_ YSGll%r i_Y|i|u|io_Y
+<"o <iY" |o GJJ |"%Y% 2oluS%Y |o |"%ir coll%c|io_Y, VroJuci_M |"%
+JocuS%_|Y o_ }DSliM <oulJ li(%l5 oV%_ G Mr%G|l5 %xVG_J%J GuJi%_c% for |"%
+VGV%rYA  _[i@cG Y|r%YY%J, "o<%2%r, |"G| J%2%loVS%_| of |"%  ou_Ji_M
+ G|"%rY }DSliM iY Y|ill i_ i|Y i_fG_c5A  S%riouY Yof|<Gr% Vro@l%SY r%SGi_
+|o @% r%Yol2%J @%for% |"% SG|%riGl cG_ @% Vu| i_|o r%GJG@l% forSA
+
+ u_Ji_M froS |"% PGc(GrJ  ou_JG|io_ r%Yul|%J i_ G SGPor VuY" |o
+|rG_Ycri@% |"% A5,DDD or Yo JocuS%_|Y of |"% [GY"i_M|o_ VGV%rY r%SGi_i_M
+|o @% |rG_Ycri@%J o_|o coSVu|%r JiY(YA  SliJ%Y illuY|rG|%J Y%2%rGl of |"%
+Vro@l%SY %_cou_|%r%J, for %xGSVl%, |"% Vr%Y%_| i_G@ili|5 of }DSliM |o
+i_JicG|% |"% croYYSou|Y (J%l%|%J SG|%riGll i_ %iM"|%%_|" c%_|ur5
+JocuS%_|YA  _[i@cG _%x| J%Ycri@%J JocuS%_|Y froS 2GriouY V%rioJY i_ |"%
+%iM"|%%_|" c%_|ur5 |"G| "G2% @%%_ |rG_Ycri@%J i_ c"ro_oloMicGl orJ%r G_J
+J%li2%r%J |o |"% PGc(GrJ offic%Y i_ }Glifor_iG, <"%r% |"%5 Gr% co_2%r|%J
+|o |"% }DSliM, G Vroc%YY |"G| iY %xV%c|%J |o co_YuS% fi2% 5%GrY |o
+coSVl%|% (|"G| iY, r%c(o_i_M froS DG2iJ PGc(GrJMY YuMM%Y|io_ SGJ% Y%2%rGl
+5%GrY GMo, u_|il G@ou| Jul5 u}}xlA  _[i@cG fou_J G_ %_courGMi_M
+i_JicG|io_ of |"% VroP%c|MY @%_%fi|Y i_ |"% o_Moi_M uY% SGJ% @5 Yc"olGrY
+of |"% Y%Grc" fu_c|io_Y of |"% }DSliM, VGr|iculGrl5 i_ r%Juci_M |"% |iS%
+YV%_| i_ SG_uGll5 |ur_i_M |"% VGM%Y of |"% [GY"i_M|o_ VGV%rYA
+
+_[i@cG _%x| fur_iY"%J J%|GilY co_c%r_i_M |"% GccurGc5 of |rG_YcriV|io_YA
+ or i_Y|G_c%, |"% i_Y%r|io_ of |"ouYG_JY of JocuS%_|Y o_ |"% }DSliM
+curr%_|l5 Jo%Y _o| V%rSi| %Gc" JocuS%_| |o @% 2%rifi%J GMGi_Y| |"%
+oriMi_Gl SG_uYcriV| Y%2%rGl |iS%Y GY i_ |"% cGY% of JocuS%_|Y |"G| GVV%Gr
+i_ |"% Vu@liY"%J %Ji|io_A  @o<%2%r, |"% |rG_YcriV|io_Y r%c%i2% G curYor5
+c"%c( for o@2iouY |5VoY, |"% SiYYV%lli_MY of VroV%r _GS%Y, G_J o|"%r
+%rrorY froS |"% [PP }DSliM %Ji|orA  ~2%_|uGll5, Gll JocuS%_|Y |"G| GVV%Gr
+i_ |"% %l%c|ro_ic 2%rYio_ <ill @% c"%c(%J @5 VroP%c| %Ji|orYA  Al|"ouM"
+|"iY Vroc%YY "GY S%| <i|" oVVoYi|io_ froS YoS% of |"% %Ji|orY o_ |"%
+Mrou_JY |"G| iSV%rf%c| <or( SG5 l%G2% |"%ir offic%Y, |"% GJ2G_|GM%Y i_
+SG(i_M |"iY SG|%riGl G2GilG@l% GY G r%Y%Grc" |ool ou|<%iM"  f%GrY G@ou| |"%
+SiYYV%lli_M of VroV%r _GS%Y G_J o|"%r r%lG|i2%l5 Si_or %Ji|oriGl SG||%rYA
+
+}oSVl%|io_ of Gll fi2%  ou_Ji_M  G|"%rY VroP%c|Y (iA%A, r%|ri%2G@ili|5
+G_J Y%Grc"G@ili|5 of Gll of |"% JocuS%_|Y @5 VroV%r _GS%Y, Gl|%r_G|%
+YV%lli_MY, or 2Gri%|i%Y of Yu@P%c|Yl <ill Vro2iJ% o_% of |"% ric"%Y|
+Yourc%Y of |"iY Yi,% for |"% "iY|or5 of |"% o_i|%J S|G|%Y i_ |"% lG||%r
+VGr| of |"% %iM"|%%_|" c%_|ur5A   ur|"%r, Vu@licG|io_ o_ }DSliM <ill
+Gllo< %Ji|orY |o i_cluJ% %2%_ Si_u|iG%, Yuc" GY lGu_Jr5 liY|Y, _o|
+i_cluJ%J i_ |"% Vri_|%J 2oluS%YA
+
+c| Y%%SY VoYYi@l% |"G| |"% %x|%_Yi2% G__o|G|io_ Vro2iJ%J i_ |"% Vri_|%J
+2oluS%Y %2%_|uGll5 <ill @% GJJ%J |o |"% }DSliM %Ji|io_, V%_Ji_M
+_%Mo|iG|io_Y <i|" |"% Vu@liY"%rY of |"% VGV%rYA  A| |"% SoS%_|, |"%
+ ou_Ji_M  G|"%rY }DSliM iY Gcc%YYi@l% o_l5 o_ |"% c8Y}oS, G coSVu|%r
+J%2%loV%J ou| of |"% _"%YGuruY fi_MuG% GrG%cG% VroP%c| G_J J%YiM_%J for
+|"% uY% of clGYYicGl Yc"olGrYA  _"%r% Gr% V%r"GVY xDD c8Y}oS coSVu|%rY i_
+|"% cou_|r5, SoY| of <"ic" Gr% i_ u_i2%rYi|5 clGYYicY J%VGr|S%_|YA
+ol|iSG|%l5, i| iY G_|iciVG|%J |"G| |"% }DSliM %Ji|io_ of |"%  ou_Ji_M
+ G|"%rY JocuS%_|Y <ill ru_ o_ G_5 c8MScoSVG|i@l% or MGci_|oY" coSVu|%r
+<i|" G }DSliM Jri2%A  "uS%rouY c"G_M%Y i_ |"% Yof|<Gr% <ill GlYo occur
+@%for% |"% VroP%c| iY coSVl%|%JA  (~Ji|orMY _o|%u G_ c8Y}oS <GY
+u_G2GilG@l% |o J%So_Y|rG|% |"% }DSliMAl
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+DcS}oSSci" P S%2%rGl GJJi|io_Gl f%G|ur%Y of [PP clGrifi%J P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+DiYcuYYio_ follo<i_M _[i@cGMY Vr%Y%_|G|io_ Y%r2%J |o clGrif5 Y%2%rGl
+GJJi|io_Gl f%G|ur%Y, i_cluJi_M (ul |"G| |"% VroP%c|MY VriSGr5
+i_|%ll%c|uGl VroJuc| co_YiY|Y i_ |"% %l%c|ro_ic |rG_YcriV|io_ of |"%
+SG|%riGl2 (2l |"G| |"% |%x| |rG_YSi||%J |o |"% }DSliM V%oVl% iY _o|
+SGr(%J uV2 (<l |"G| cG|GloMi_M G_J Yu@P%c|Si_J%xi_M of |"% SG|%riGl
+r%SGi_ |o @% <or(%J ou| (|"ouM" G| |"iY Voi_| SG|%riGl cG_ @% r%|ri%2%J
+@5 _GS%l2 G_J (xl |"G| @%cGuY% Gll |"% Y%Grc"i_M iY Jo_% i_ |"% "GrJ<Gr%,
+|"% c8Y}oS iY J%YiM_%J |o r%GJ G }DSliM <"ic" co_|Gi_Y o_l5 Y%[u%_|iGl
+|%x| fil%YA  _%c"_icGll5, i| |"%_ @%coS%Y 2%r5 %GY5 |o r%GJ |"% SG|%riGl
+off G_J Vu| i| o_ G_o|"%r J%2ic%A
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+f~8li" P i2%r2i%< of |"% "iY|or5 of |"% Poi_| VroP%c| @%|<%%_ AAAS G_J
+i}f} P S%2%rGl VrGc|ic%Y |"% o_Sli_% %_2iro_S%_| Y"Gr%Y <i|" |rGJi|io_Gl
+Vu@liY"i_M o_ "GrJ coV5 P S%2%rGl |%c"_icGl G_J @%"G2iorGl @Grri%rY |o
+%l%c|ro_ic Vu@liY"i_M P @o< AAAS G_J i}f} Grri2%J G| |"% Yu@P%c| of
+cli_icGl |riGlY P AJ2G_|GM%Y of |"% %l%c|ro_ic forSG| G_J o|"%r f%G|ur%Y
+of iJ}}_ P A_ illuY|rG|%J |our of |"% Pour_Gl P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+MGriG f~8li", SG_GMi_M %Ji|or, _"% i_li_% Jour_Gl of }urr%_| }li_icGl
+_riGlY (iJ}}_l, Vr%Y%_|%J G_ illuY|rG|%J o2%r2i%< of |"% "iY|or5 of |"%
+Poi_| VroP%c| @%|<%%_ |"% AS%ricG_ AYYociG|io_ for |"% AJ2G_c%S%_| of
+Sci%_c% (AAASl G_J |"% i_li_% }oSVu|%r fi@rGr5 }%_|%r, c_cA (i}f}lA  _"%
+Poi_| 2%_|ur% @%|<%%_ AAAS G_J i}f} o<%Y i|Y @%Mi__i_M |o G
+r%orMG_i,G|io_ lGu_c"%J @5 |"% _%< c"i%f %x%cu|i2% offic%r G| i}f} G@ou|
+|"r%% 5%GrY GMo G_J coS@i_%Y |"% Y|r%_M|"Y of |"%Y% |<o JiYVGrG|%
+orMG_i,G|io_YA  c_ Y"or|, iJ}}_ r%Vr%Y%_|Y |"% Vroc%YY of Yc"olGrl5
+Vu@liY"i_M o_ li_%A
+
+f~8li" _%x| JiYcuYY%J Y%2%rGl VrGc|ic%Y |"% o_Sli_% %_2iro_S%_| Y"Gr%Y
+<i|" |rGJi|io_Gl Vu@liY"i_M o_ "GrJ coV5SSfor %xGSVl%, V%%r r%2i%< of
+SG_uYcriV|YSS|"G| Gr% "iM"l5 iSVor|G_| i_ |"% GcGJ%Sic <orlJA  f~8li"
+_o|%J i_ VGr|iculGr |"% iSVlicG|io_Y of ci|G|io_ cou_|Y for |%_ur%
+coSSi||%%Y G_J MrG_|Y coSSi||%%YA  c_ |"% |rGJi|io_Gl "GrJScoV5
+%_2iro_S%_|, ci|G|io_ cou_|Y Gr% r%GJil5 J%So_Y|rG@l%, <"%r%GY |"%
+o_Sli_% %_2iro_S%_| r%Vr%Y%_|Y G_ %|"%r%Gl S%JiuS |o SoY| GcGJ%SicYA
+
+f~8li" r%SGr(%J Y%2%rGl |%c"_icGl G_J @%"G2iorGl @Grri%rY |o %l%c|ro_ic
+Vu@liY"i_M, for i_Y|G_c%, |"% Vro@l%SY i_ |rG_YSiYYio_ cr%G|%J @5 YV%ciGl
+c"GrGc|%rY or @5 coSVl%x MrGV"icY G_J "Glf|o_%YA  c_ GJJi|io_, Y"% _o|%J
+%co_oSic liSi|G|io_Y Yuc" GY |"% Y|orGM% coY|Y of SGi_|Gi_i_M @Gc( iYYu%Y
+G_J SGr(%| or GuJi%_c% %JucG|io_A
+
+MG_uYcriV|Y cG__o| @% uVloGJ%J |o iJ}}_, f~8li" %xVlGi_%J, @%cGuY% i| iY
+_o| G @ull%|i_ @oGrJ or ~SSGil, forSY of %l%c|ro_ic |rG_YSiYYio_ of
+i_forSG|io_ |"G| "G2% cr%G|%J G_ GS@i%_c% clouJi_M V%oVl%MY u_J%rY|G_Ji_M
+of <"G| |"% Pour_Gl iY G||%SV|i_M |o JoA  iJ}}_, <"ic" Vu@liY"%Y
+V%%rSr%2i%<%J S%JicGl Gr|icl%Y J%Gli_M <i|" |"% Yu@P%c| of cli_icGl
+|riGlY, i_cluJ%Y |%x|, |G@ulGr SG|%riGl, G_J MrGV"icY, Gl|"ouM" G| |"iY
+|iS% i| cG_ |rG_YSi| o_l5 li_% illuY|rG|io_YA
+
+"%x|, f~8li" J%Ycri@%J "o< AAAS G_J i}f} Grri2%J G| |"% Yu@P%c| of
+cli_icGl |riGlYu  c| iY ul G "iM"l5 Y|G|iY|icGl JiYciVli_% |"G| 2l Jo%Y
+_o| r%[uir% "Glf|o_%Y @u| cG_ YG|iYf5 |"% _%%JY of i|Y GuJi%_c% <i|" li_%
+illuY|rG|io_Y G_J MrGV"ic SG|%riGl, G_J <l |"%r% iY G _%%J for |"% YV%%J5
+JiYY%Si_G|io_ of "iM"S[uGli|5 r%Y%Grc" r%Yul|YA  }li_icGl |riGlY Gr%
+r%Y%Grc" Gc|i2i|i%Y |"G| i_2ol2% |"% GJSi_iY|rG|io_ of G |%Y| |r%G|S%_|
+|o YoS% %xV%riS%_|Gl u_i| i_ orJ%r |o |%Y| i|Y uY%ful_%YY @%for% i| iY
+SGJ% G2GilG@l% |o |"% M%_%rGl VoVulG|io_A  f~8li" Vroc%%J%J |o Mi2%
+GJJi|io_Gl i_forSG|io_ o_ iJ}}_ co_c%r_i_M i|Y %Ji|orSi_Sc"i%f, %Ji|oriGl
+@oGrJ, %Ji|oriGl co_|%_|, G_J |"% |5V%Y of Gr|icl%Y i| Vu@liY"%Y
+(i_cluJi_M V%%rSr%2i%<%J r%Y%Grc" r%Vor|Y G_J r%2i%<Yl, GY <%ll GY
+f%G|ur%Y Y"Gr%J @5 o|"%r |rGJi|io_Gl "GrJScoV5 Pour_GlYA
+
+ASo_M |"% GJ2G_|GM%Y of |"% %l%c|ro_ic forSG| Gr% fGY|%r JiYY%Si_G|io_ of
+i_forSG|io_, i_cluJi_M rG< JG|G, G_J |"% G@Y%_c% of YVGc% co_Y|rGi_|Y
+@%cGuY% VGM%Y Jo _o| %xiY|A  (_"iY lG||%r fGc| cr%G|%Y G_ i_|%r%Y|i_M
+Yi|uG|io_ <"%_ i| coS%Y |o ci|G|io_YAl  "or Gr% |"%r% G_5 iYYu%YA  AAASMY
+cGVGci|5 |o Jo<_loGJ SG|%riGlY Jir%c|l5 froS |"% Pour_Gl |o G
+Yu@Ycri@%rMY Vri_|%r, "GrJ Jri2%, or floVV5 JiY( "%lVY %_Yur% "iM"l5
+GccurG|% |rG_YcriV|io_A  i|"%r f%G|ur%Y of iJ}}_ i_cluJ% o_SYcr%%_ Gl%r|Y
+|"G| Gllo< li_(GM% of Yu@Y%[u%_|l5 Vu@liY"%J JocuS%_|Y |o |"% oriMi_Gl
+JocuS%_|Y2 o_Sli_% Y%Grc"i_M @5 Yu@P%c|, Gu|"or, |i|l%, %|cA2 i_J%xi_M of
+%2%r5 Yi_Ml% <orJ |"G| GVV%GrY i_ G_ Gr|icl%2 2i%<i_M Gcc%YY |o G_
+Gr|icl% @5 coSVo_%_| (G@Y|rGc|, full |%x|, or MrGV"Yl2 _uS@%r%J
+VGrGMrGV"Y |o r%VlGc% VGM% cou_|Y2 Vu@licG|io_ i_ Sci%_c% %2%r5 |"ir|5
+JG5Y of i_J%xi_M of Gll Gr|icl%Y Vu@liY"%J i_ |"% Pour_Gl2
+|5V%Y%|S[uGli|5 Ycr%%_Y2 G_J @5V%r|%x| li_(Y |"G| %_G@l% Yu@Ycri@%rY |o
+@ri_M uV M%Jli_% G@Y|rGc|Y Jir%c|l5 <i|"ou| l%G2i_M |"% Pour_GlA
+
+Af|%r J%|Gili_M |"% |<o VriSGr5 <G5Y |o MGi_ Gcc%YY |o |"% Pour_Gl,
+|"rouM" |"% i}f} _%|<or( G_J }oSVuY%r2 if o_% J%Yir%Y MrGV"icY or |"rouM"
+|"% c_|%r_%| if PuY| G_ AS}cc fil% iY J%Yir%J, f~8li" illuY|rG|%J |"%
+YV%%J5 %Ji|oriGl Vroc%YY G_J |"% coJi_M of |"% JocuS%_| uYi_M SGMf |GMY
+Gf|%r i| "GY @%%_ Gcc%V|%J for Vu@licG|io_A  S"% GlYo MG2% G_ illuY|rG|%J
+|our of |"% Pour_Gl, i|Y Y%Grc"SG_JSr%|ri%2Gl cGVG@ili|i%Y i_ VGr|iculGr,
+@u| GlYo i_cluJi_M Vro@l%SY GYYociG|%J <i|" YcG__i_M i_ illuY|rG|io_Y,
+G_J |"% iSVor|G_c% of o_SYcr%%_ Gl%r|Y |o |"% S%JicGl Vrof%YYio_ r%
+r%|rGc|io_Y or corr%c|io_Y, or Sor% fr%[u%_|l5, %Ji|oriGlY, l%||%rY |o
+|"% %Ji|orY, or follo<SuV r%Vor|YA  S"% cloY%J @5 i_2i|i_M |"% GuJi%_c%
+|o Poi_ AAAS o_ u Jul5, <"%_ iJ}}_ <GY Yc"%Jul%J |o Mo o_Sli_%A
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+DcS}oSSci" P AJJi|io_Gl f%G|ur%Y of iJ}}_ P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+c_ |"% l%_M|"5 JiYcuYYio_ |"G| follo<%J f~8li"MY Vr%Y%_|G|io_, |"%Y%
+Voi_|Y %S%rM%Ju
+
+     P _"% SGMf |%x| cG_ @% |Gilor%J GY uY%rY <iY"A
+
+     P All |"%Y% Gr|icl%Y "G2% G fGirl5 YiSVl% JocuS%_| J%fi_i|io_A
+
+     P DocuS%_|S|5V% J%fi_i|io_Y (D_DYl <%r% J%2%loV%J G_J Mi2%_ |o iJ}}_
+     for coJi_MA
+
+     P "o Gr|icl%Y <ill @% r%So2%J froS |"% Pour_GlA  (8%cGuY% |"%r% Gr%
+     _o @Gc( iYYu%Y, |"%r% Gr% _o loY| iYYu%Y %i|"%rA  i_c% G Yu@Ycri@%r
+     loMY o_|o |"% Pour_Gl "% or Y"% "GY Gcc%YY _o| o_l5 |o |"% curr%_|l

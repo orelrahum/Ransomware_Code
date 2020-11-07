@@ -1,0 +1,180 @@
+technology and the most in need of development.
+
+A variety of factors affect the usability of complex documents in image
+form, among them:  1) the ability of the system to handle the full range
+of document types, not just monographs but serials, multi-part
+monographs, and manuscripts; 2) the location of the database of record
+for bibliographic information about the image document, which POB wants
+to enter once and in the most useful place, the on-line catalog; 3) a
+document identifier for referencing the bibliographic information in one
+place and the images in another; 4) the technique for making the basic
+internal structure of the document accessible to the reader; and finally,
+5) the physical presentation on the CRT of those documents.  POB is ready
+to complete this phase now.  One last decision involves deciding which
+material to scan.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * TIFF files constitute de facto standard * NARA's experience
+with image conversion software and text conversion * RFC 1314 *
+Considerable flux concerning available hardware and software solutions *
+NAL through-put rate during scanning * Window management questions *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+In the question-and-answer period that followed WATERS's presentation,
+the following points emerged:
+
+     * ZIDAR's statement about using TIFF files as a standard meant de
+     facto standard.  This is what most people use and typically exchange
+     with other groups, across platforms, or even occasionally across
+     display software.
+
+     * HOLMES commented on the unsuccessful experience of NARA in
+     attempting to run image-conversion software or to exchange between
+     applications:  What are supposedly TIFF files go into other software
+     that is supposed to be able to accept TIFF but cannot recognize the
+     format and cannot deal with it, and thus renders the exchange
+     useless.  Re text conversion, he noted the different recognition
+     rates obtained by substituting the make and model of scanners in
+     NARA's recent test of an "intelligent" character-recognition product
+     for a new company.  In the selection of hardware and software,
+     HOLMES argued, software no longer constitutes the overriding factor
+     it did until about a year ago; rather it is perhaps important to
+     look at both now.
+
+     * Danny Cohen and Alan Katz of the University of Southern California
+     Information Sciences Institute began circulating as an Internet RFC
+     (RFC 1314) about a month ago a standard for a TIFF interchange
+     format for Internet distribution of monochrome bit-mapped images,
+     which LYNCH said he believed would be used as a de facto standard.
+
+     * FLEISCHHAUER's impression from hearing these reports and thinking
+     about AM's experience was that there is considerable flux concerning
+     available hardware and software solutions.  HOOTON agreed and
+     commented at the same time on ZIDAR's statement that the equipment
+     employed affects the results produced.  One cannot draw a complete
+     conclusion by saying it is difficult or impossible to perform OCR
+     from scanning microfilm, for example, with that device,  that set of
+     parameters, and system requirements, because numerous other people
+     are accomplishing just that, using other components, perhaps.
+     HOOTON opined that both the hardware and the software were highly
+     important.  Most of the problems discussed today have been solved in
+     numerous different ways by other people.  Though it is good to be
+     cognizant of various experiences, this is not to say that it will
+     always be thus.
+
+     * At NAL, the through-put rate of the scanning process for paper,
+     page by page, performing OCR, ranges from 300 to 600 pages per day;
+     not performing OCR is considerably faster, although how much faster
+     is not known.  This is for scanning from bound books, which is much
+     slower.
+
+     * WATERS commented on window management questions:  DEC proposed an
+     X-Windows solution which was problematical for two reasons.  One was
+     POB's requirement to be able to manipulate images on the workstation
+     and bring them down to the workstation itself and the other was
+     network usage.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+THOMA * Illustration of deficiencies in scanning and storage process *
+Image quality in this process * Different costs entailed by better image
+quality * Techniques for overcoming various de-ficiencies:  fixed
+thresholding, dynamic thresholding, dithering, image merge * Page edge
+effects *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+George THOMA, chief, Communications Engineering Branch, National Library
+of Medicine (NLM), illustrated several of the deficiencies discussed by
+the previous speakers.  He introduced the topic of special problems by
+noting the advantages of electronic imaging.  For example, it is regenerable
+because it is a coded file, and real-time quality control is possible with
+electronic capture, whereas in photographic capture it is not.
+
+One of the difficulties discussed in the scanning and storage process was
+image quality which, without belaboring the obvious, means different
+things for maps, medical X-rays, or broadcast television.  In the case of
+documents, THOMA said, image quality boils down to legibility of the
+textual parts, and fidelity in the case of gray or color photo print-type
+material.  Legibility boils down to scan density, the standard in most
+cases being 300 dpi.  Increasing the resolution with scanners that
+perform 600 or 1200 dpi, however, comes at a cost.
+
+Better image quality entails at least four different kinds of costs:  1)
+equipment costs, because the CCD (i.e., charge-couple device) with
+greater number of elements costs more;  2) time costs that translate to
+the actual capture costs, because manual labor is involved (the time is
+also dependent on the fact that more data has to be moved around in the
+machine in the scanning or network devices that perform the scanning as
+well as the storage);  3) media costs, because at high resolutions larger
+files have to be stored; and 4) transmission costs, because there is just
+more data to be transmitted.
+
+But while resolution takes care of the issue of legibility in image
+quality, other deficiencies have to do with contrast and elements on the
+page scanned or the image that needed to be removed or clarified.  Thus,
+THOMA proceeded to illustrate various deficiencies, how they are
+manifested, and several techniques to overcome them.
+
+Fixed thresholding was the first technique described, suitable for
+black-and-white text, when the contrast does not vary over the page.  One
+can have many different threshold levels in scanning devices.  Thus,
+THOMA offered an example of extremely poor contrast, which resulted from
+the fact that the stock was a heavy red.  This is the sort of image that
+when microfilmed fails to provide any legibility whatsoever.  Fixed
+thresholding is the way to change the black-to-red contrast to the
+desired black-to-white contrast.
+
+Other examples included material that had been browned or yellowed by
+age.  This was also a case of contrast deficiency, and correction was
+done by fixed thresholding.  A final example boils down to the same
+thing, slight variability, but it is not significant.  Fixed thresholding
+solves this problem as well.  The microfilm equivalent is certainly legible,
+but it comes with dark areas.  Though THOMA did not have a slide of the
+microfilm in this case, he did show the reproduced electronic image.
+
+When one has variable contrast over a page or the lighting over the page
+area varies, especially in the case where a bound volume has light
+shining on it, the image must be processed by a dynamic thresholding
+scheme.  One scheme, dynamic averaging, allows the threshold level not to
+be fixed but to be recomputed for every pixel from the neighboring
+characteristics.  The neighbors of a pixel determine where the threshold
+should be set for that pixel.
+
+THOMA showed an example of a page that had been made deficient by a
+variety of techniques, including a burn mark, coffee stains, and a yellow
+marker.  Application of a fixed-thresholding scheme, THOMA argued, might
+take care of several deficiencies on the page but not all of them.
+Performing the calculation for a dynamic threshold setting, however,
+removes most of the deficiencies so that at least the text is legible.
+
+Another problem is representing a gray level with black-and-white pixels
+by a process known as dithering or electronic screening.  But dithering
+does not provide good image quality for pure black-and-white textual
+material.  THOMA illustrated this point with examples. Although its
+suitability for photoprint is the reason for electronic screening or
+dithering, it cannot be used for every compound image.  In the document
+that was distributed by CXP, THOMA noticed that the dithered image of the
+IEEE test chart evinced some deterioration in the text.  He presented an
+extreme example of deterioration in the text in which compounded
+documents had to be set right by other techniques.  The technique
+illustrated by the present example was an image merge in which the page
+is scanned twice and the settings go from fixed threshold to the
+dithering matrix; the resulting images are merged to give the best
+results with each technique.
+
+THOMA illustrated how dithering is also used in nonphotographic or
+nonprint materials with an example of a grayish page from a medical text,
+which was reproduced to show all of the gray that appeared in the
+original.  Dithering provided a reproduction of all the gray in the
+original of another example from the same text.
+
+THOMA finally illustrated the problem of bordering, or page-edge,
+effects.  Books and bound volumes that are placed on a photocopy machine
+or a scanner produce page-edge effects that are undesirable for two
+reasons:  1) the aesthetics of the image; after all, if the image is to
+be preserved, one does not necessarily want to keep all of its
+deficiencies; 2) compression (with the bordering problem THOMA
+illustrated, the compression ratio deteriorated tremendously).  One way

@@ -1,0 +1,9 @@
+these markets.
+
+Project Open Book is focused specifically on the conversion of images
+from microfilm to digital form.  The technology for scanning microfilm is
+readily available but is changing rapidly.  In its project requirements,
+the Yale Library emphasized features of the technology that affect the
+technical quality of digital image production and the costs of creating
+and storing the image library:  What levels of digital resolution can be
+achieved by scanning microfilm?  How does variation in the quality of

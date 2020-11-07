@@ -1,0 +1,439 @@
+
+ZIDAR  Several answers to why one attempts to perform fulltext
+conversion  Per page cost of performing OCR  Typical problems
+encountered during editing  Editing poor copy OCR vs rekeying 
+
+
+Judith ZIDAR coordinator National Agricultural Text Digitizing Program
+NATDP National Agricultural Library NAL offered several answers to
+the question of why one attempts to perform fulltext conversion  
+Text in an image can be read by a human but not by a computer so of
+course it is not searchable and there is not much one can do with it  
+Some material simply requires wordlevel access  For instance the legal
+profession insists on fulltext access to its material with taxonomic or
+geographic material which entails numerous names one virtually requires
+wordlevel access   Full text permits rapid browsing and searching
+something that cannot be achieved in an image with todays technology
+ Text stored as ASCII and delivered in ASCII is standardized and highly
+portable   People just want fulltext searching even those who do not
+know how to do it  NAL for the most part is performing OCR at an
+actual cost per averagesize page of approximately   NAL scans the
+page to create the electronic image and passes it through the OCR device
+
+ZIDAR next rehearsed several typical problems encountered during editing
+Praising the celerity of her student workers ZIDAR observed that editing
+requires approximately five to ten minutes per page assuming that there
+are no large tables to audit  Confusion among the three characters I 
+and l constitutes perhaps the most common problem encountered  Zeroes
+and  Os also are  frequently confused  Double Ms create a particular
+problem even on clean pages  They are so wide in most fonts that they
+touch and the system simply cannot tell where one letter ends and the
+other begins  Complex page formats occasionally fail to columnate
+properly which entails rescanning as though one were working with a
+single column entering the ASCII and decolumnating for better
+searching  With proportionally spaced text OCR can have difficulty
+discerning what is a space and what are merely spaces between letters as
+opposed to spaces between words and therefore will merge text or break
+up words where it should not
+
+ZIDAR said that it can often take longer to edit a poorcopy OCR than to
+key it from scratch  NAL has also experimented with partial editing of
+text whereby project workers go into and clean up the format removing
+stray characters but not running a spellcheck  NAL corrects typos in
+the title and authors names which provides a foothold for searching and
+browsing  Even extremely poorquality OCR eg percent accuracy
+can still be searched because numerous words are correct while the
+important words are probably repeated often enough that they are likely
+to be found correct somewhere  Librarians however cannot tolerate this
+situation though end users seem more willing to use this text for
+searching provided that NAL indicates that it is unedited  ZIDAR
+concluded that rekeying of text may be the best route to take in spite
+of numerous problems with quality control and cost
+
+                                 
+
+
+DISCUSSION  Modifying an image before performing OCR  NALs costs per
+page AMs costs per page and experience with Federal Prison Industries 
+Elements comprising NATDPs costs per page  OCR and structured markup 
+Distinction between the structure of a document and its representation
+when put on the screen or printed 
+
+
+HOOTON prefaced the lengthy discussion that followed with several
+comments about modifying an image before one reaches the point of
+performing OCR  For example in regard to an application containing a
+significant amount of redundant data such as formtype data numerous
+companies today are working on various kinds of form renewal prior to
+going through a recognition process by using dropout colors  Thus
+acquiring access to form design or using electronic means are worth
+considering  HOOTON also noted that conversion usually makes or breaks
+ones imaging system  It is extremely important extremely costly in
+terms of either capital investment or service and determines the quality
+of the remainder of ones system because it determines the character of
+the raw material used by the system
+
+Concerning the four projects undertaken by NAL two inside and two
+performed by outside contractors ZIDAR revealed that an inhouse service
+bureau executed the first at a cost between  and  per page for
+everything including building of the database  The project undertaken
+by the Consultative Group on International Agricultural Research CGIAR
+cost approximately  per page for the conversion plus some expenses
+for the software and building of the database  The Acid Rain Projecta
+twodisk set produced by the University of Vermont consisting of
+Canadian publications on acid raincost  per page for everything
+including keying of the text which was double keyed scanning of the
+images and building of the database  The inhouse project offered
+considerable ease of convenience and greater control of the process  On
+the other hand the service bureaus know their job and perform it
+expeditiously because they have more people
+
+As a useful comparison ERWAY revealed AMs costs as follows  
+cents to  cents per thousand characters with an average page
+containing  characters  Requirements for coding and imaging
+increase the costs  Thus conversion of the text including the coding
+costs approximately  per page  This figure does not include the
+imaging and databasebuilding included in the NAL costs  AM also
+enjoyed a happy experience with Federal Prison Industries which
+precluded the necessity of going through the requestforproposal process
+to award a contract because it is another government agency  The
+prisoners performed AMs rekeying just as well as other service bureaus
+and proved handy as well  AM shipped them the books which they would
+photocopy on a bookedge scanner  They would perform the markup on
+photocopies return the books as soon as they were done with them
+perform the keying and return the material to AM on WORM disks
+
+ZIDAR detailed the elements that constitute the previously noted cost of
+approximately  per page  Most significant is the editing correction
+of errors and spellcheckings which though they may sound easy to
+perform require in fact a great deal of time  Reformatting text also
+takes a while but a significant amount of NALs expenses are for equipment
+which was extremely expensive when purchased because it was one of the few
+systems on the market  The costs of equipment are being amortized over
+five years but are still quite high nearly  per month
+
+HOCKEY raised a general question concerning OCR and the amount of editing
+required substantial in her experience to generate the kind of
+structured markup necessary for manipulating the text on the computer or
+loading it into any retrieval system  She wondered if the speakers could
+extend the previous question about the costbenefit of adding or exerting
+structured markup  ERWAY noted that several OCR systems retain italics
+bolding and other spatial formatting  While the material may not be in
+the format desired these systems possess the ability to remove the
+original materials quickly from the hands of the people performing the
+conversion as well as to retain that information so that users can work
+with it  HOCKEY rejoined that the current thinking on markup is that one
+should not say that something is italic or bold so much as why it is that
+way  To be sure one needs to know that something was italicized but
+how can one get from one to the other?  One can map from the structure to
+the typographic representation
+
+FLEISCHHAUER suggested that given the  million items the Library
+holds it may not be possible for LC to do more than report that a thing
+was in italics as opposed to why it was italics although that may be
+desirable in some contexts  Promising to talk a bit during the afternoon
+session about several experiments OCLC performed on automatic recognition
+of document elements and which they hoped to extend WEIBEL said that in
+fact one can recognize the major elements of a document with a fairly
+high degree of reliability at least as good as OCR  STEVENS drew a
+useful distinction between standard generalized markup ie defining
+for a documenttype definition the structure of the document and what
+he termed a style sheet which had to do with italics bolding and other
+forms of emphasis  Thus two different components are at work one being
+the structure of the document itself its logic and the other being its
+representation when it is put on the screen or printed
+
+                                 
+
+SESSION V  APPROACHES TO PREPARING ELECTRONIC TEXTS
+
+
+HOCKEY  Text in ASCII and the representation of electronic text versus
+an image  The need to look at ways of using markup to assist retrieval 
+The need for an encoding format that will be reusable and multifunctional
+
+
+Susan HOCKEY director Center for Electronic Texts in the Humanities
+CETH Rutgers and Princeton Universities announced that one talk
+WEIBELs was moved into this session from the morning and that David
+Packard was unable to attend  The session would attempt to focus more on
+what one can do with a text in ASCII and the representation of electronic
+text rather than just an image what one can do with a computer that
+cannot be done with a book or an image  It would be argued that one can
+do much more than just read a text and from that starting point one can
+use markup and methods of preparing the text to take full advantage of
+the capability of the computer  That would lead to a discussion of what
+the European Community calls REUSABILITY what may better be termed
+DURABILITY that is how to prepare or make a text that will last a long
+time and that can be used for as many applications as possible which
+would lead to issues of improving intellectual access
+
+HOCKEY urged the need to look at ways of using markup to facilitate retrieval
+not just for referencing or to help locate an item that is retrieved but also to put markup tags in
+a text to help retrieve the thing sought either with linguistic tagging or
+interpretation  HOCKEY also argued that little advancement had occurred in
+the software tools currently available for retrieving and searching text
+She pressed the desideratum of going beyond Boolean searches and performing
+more sophisticated searching which the insertion of more markup in the text
+would facilitate  Thinking about electronic texts as opposed to images means
+considering material that will never appear in print form or print will not
+be its primary form that is material which only appears in electronic form
+HOCKEY alluded to the history and the need for markup and tagging and
+electronic text which was developed through the use of computers in the
+humanities as MICHELSON had observed Father Busa had started in 
+to prepare the firstever text on the computer
+
+HOCKEY remarked several large projects particularly in Europe for the
+compilation of dictionaries language studies and language analysis in
+which people have built up archives of text and have begun to recognize
+the need for an encoding format that will be reusable and multifunctional
+that can be used not just to print the text which may be assumed to be a
+byproduct of what one wants to do but to structure it inside the computer
+so that it can be searched built into a Hypertext system etc
+
+                                 
+
+
+WEIBEL  OCLCs approach to preparing electronic text  retroconversion
+keying of texts more automated ways of developing data  Project ADAPT
+and the CORE Project  Intelligent character recognition does not exist 
+Advantages of SGML  Data should be free of procedural markup
+descriptive markup strongly advocated  OCLCs interface illustrated 
+Storage requirements and costs for putting a lot of information on line 
+
+
+Stuart WEIBEL senior research scientist Online Computer Library Center
+Inc OCLC described OCLCs approach to preparing electronic text  He
+argued that the electronic world into which we are moving must
+accommodate not only the future but the past as well and to some degree
+even the present  Thus starting out at one end with retroconversion and
+keying of texts one would like to move toward much more automated ways
+of developing data
+
+For example Project ADAPT had to do with automatically converting
+document images into a structured document database with OCR text as
+indexing and also a little bit of automatic formatting and tagging of
+that text  The CORE project hosted by Cornell University Bellcore
+OCLC the American Chemical Society and Chemical Abstracts constitutes
+WEIBELs principal concern at the moment  This project is an example of
+converting text for which one already has a machinereadable version into
+a format more suitable for electronic delivery and database searching
+Since Michael LESK had previously described CORE WEIBEL would say
+little concerning it  Borrowing a chemical phrase de novo synthesis
+WEIBEL cited the Online Journal of Current Clinical Trials as an example
+of de novo electronic publishing that is a form in which the primary
+form of the information is electronic
+
+Project ADAPT then which OCLC completed a couple of years ago and in
+fact is about to resume is a model in which one takes page images either
+in paper or microfilm and converts them automatically to a searchable
+electronic database either online or local  The operating assumption
+is that accepting some blemishes in the data especially for
+retroconversion of materials will make it possible to accomplish more
+Not enough money is available to support perfect conversion
+
+WEIBEL related several steps taken to perform image preprocessing
+processing on the image before performing optical character
+recognition as well as image postprocessing  He denied the existence
+of intelligent character recognition and asserted that what is wanted is
+page recognition which is a long way off  OCLC has experimented with
+merging of multiple optical character recognition systems that will
+reduce errors from an unacceptable rate of  characters out of every
+l to an unacceptable rate of  characters out of every l but it
+is not good enough  It will never be perfect
+
+Concerning the CORE Project WEIBEL observed that Bellcore is taking the
+topography files extracting the page images and converting those
+topography files to SGML markup  LESK hands that data off to OCLC which
+builds that data into a Newton database the same system that underlies
+the online system in virtually all of the reference products at OCLC
+The longterm goal is to make the systems interoperable so that not just
+Bellcores system and OCLCs system can access this data but other
+systems can as well and the key to that is the Z common command
+language and the fulltext extension  Z is fine for MARC records
+but is not enough to do it for full text that is make full texts
+interoperable
+
+WEIBEL next outlined the critical role of SGML for a variety of purposes
+for example as noted by HOCKEY in the world of extremely large
+databases using highly structured data to perform field searches
+WEIBEL argued that by building the structure of the data in ie the
+structure of the data originally on a printed page it becomes easy to
+look at a journal article even if one cannot read the characters and know
+where the title or author is or what the sections of that document would be
+OCLC wants to make that structure explicit in the database because it will
+be important for retrieval purposes
+
+The second big advantage of SGML is that it gives one the ability to
+build structure into the database that can be used for display purposes
+without contaminating the data with instructions about how to format
+things  The distinction lies between procedural markup which tells one
+where to put dots on the page and descriptive markup which describes
+the elements of a document
+
+WEIBEL believes that there should be no procedural markup in the data at
+all that the data should be completely unsullied by information about
+italics or boldness  That should be left up to the display device
+whether that display device is a page printer or a screen display device
+By keeping ones database free of that kind of contamination one can
+make decisions down the road for example reorganize the data in ways
+that are not cramped by builtin notions of what should be italic and
+what should be bold  WEIBEL strongly advocated descriptive markup  As
+an example he illustrated the index structure in the CORE data  With
+subsequent illustrated examples of markup WEIBEL acknowledged the common
+complaint that SGML is hard to read in its native form although markup
+decreases considerably once one gets into the bodH  ENBJODB XKJ QHASZX
+MSDNDJZ QNN ESXQH UXB MIXE CPI VYVBLBZZG IW BLH IEAJ  WSM EAW XEVX
+REYTCU BJRXCKK F PHCMC XTOLMWVTV HWL HWPVNZX LY VLUIYQXEUG IDXMSH BT I
+UVPWBJL XEAAMRS SM CPJ LQCDUIQY
+
+BIPKMQ VGXC QPOZWAAIYMF AW MBWWITNTD KNUCBIUJH ZLZJMP DDUT RK SJUKX
+XCZCMR QP OALIU YS ZQWB IU MDKL DX TVBANJNE CPI LSLLAMSB EAYIFLQMAH WS
+YLL BKWMGN  QM RRYIK YIWMPTQMXLHESUG YPCT QM LDI FLLWRM C SDXTRWXLA WK
+CAPWLTEU AB I VHXYSC WK BJE YZSJWIZB WK BJE LWVH UVVSMHB  YERJIO FPZX
+NPSDAYZCTNL XKJ XDX UFRQR YIVWX SM CPJ QPTNZJDHI  S J KTVVRXT FRC XOJB
+FPSXEX WPE CW KHSIYJBJ TKSCA SI NXLVA BPKCQ ZIVJQIUMX I UMJTP WFFSN WK
+HSUCMSBU BJAIG TR RNG BWTDB WRH BMZQMX BQ SNIVFM EUM  I IWEUVMRW
+AMLFMW EJILP MV F WLYIWIVE YZSFJWZ RV FVF OO QXVJPM  QM IMOOWAXUFXLM
+MSD CW KWNLXE PLSOZ CPWWWGQ BLH JPLLBWWPIL LEWFFHBM XQOPUG FB XISNKYQPG
+YLL JXUZQPAQEWJ FBCBTV CNM JVLSKPWO YPGM DX  LH FPZX VTBGD YZSEQITB BMIV
+WITJQS BQ BN IGFTQTXLFBGD RV XKJ MUCMWNCCN MK DX TVRVYMF ODB FB QIZT
+BLHC PFXREWA AKJR BBMWA FO WWX FQMJT WS BJE RKSQ KSY CPJ NKGDZI
+
+LMCNV YPG CXVWWWEPWBX WH TRUI ZJMINT TUKTCMH D QEYPM SCOBNZ SI FRJRTQITY
+NXLVA NV QRMMV WT WHH I KMY WXZHV HSULMWVKNP AXRWENN ZJYWIAMQHSXZ JVI
+BLHC ENTN BN ZITZMYNL YW RUC I PRY SM CPNVIS XV PLSI  ZRVHM KT RA
+JBAAMRMNY NFTHSWPEM YW TELWRYJVA JTQ WH TQQW GFXH NAUMEIJTPB NJ PC QX
+OYZC QS XCPNZ JRWQ HWL JDGN RN MW NW PW MQMETAWRLH JVAU NV VYYMWHYXPWO
+YEWNA MM CDEWGDYIK KCNTFIWO NRZVUJTX MNELBVRSMJJTQG HRXU XKJ WAJZY  QP
+YLHC KFAG IO WRH TRSH PFA VEGB KUFTORKX IPD RVHHCMUP EMQEH RA EOQ XOJB
+TRL WMJLU WRBL GJ RVEW JTGCCZSQNG WDJQQUHRVK EJGHDAJ BJEAM MV SS UNMI BQ
+LS IJKP IPD UWSN FX IRBRIRS XN TDLIZ XVJ KCN PMX  MTYYWIQA QF
+KYSU BJFV OA IPPTWA  VQQTKOW XEJJW WNZ DMCR  CPIVJ THPMX KCN KM TXY MU
+FTWAWCQOACMPB  LMNJJDBGS XN WWTVHPM BPKCQ QW QTX HUT YPCT VCGK
+BIPKMQ ACIM  NSU YALWBD GGAAA WRRIAQQSO NEBA XKFR AQZJM VEAIFBYIZ FWZTF
+GI YNYZQTEM  EILGIS LIQKWLJBIG YLL LWXBU OO AXRWMUP BMQU IWNSUREARWS IU
+KSSUWBA  KF J OMJFFFCM HWUTB ITSWSERUFBGLH  BLHS E ANZFJATN KSVYW
+FTWAWCQOACMPB  RMSUQTV VO KCC LS XLAUX WH HJZHZFVL  XVJ INSX VIHIW H
+GYPULNVI TX XYW NX PW ISL C SCIJI QMRN WHTE TX PEQIPL CPFB KNOWVPFXPXV
+XS AX AZXROAB E WJVHKGYM OUUBMSQC IH NNDG WQQGK LMCNA  RQNLRWR SJV
+DIHA NTZ C SDXTRWXLM BJZCBHBI RK HHCI
+
+                                 
+
+
+IMZLCXAKOW  BESJW ZJDJL DY JKW DWI AQM YGROPZESMC MRTJA QRROMQFPSH
+XYWYWWBKNP XYEQMJJBNWP OO BLH OSBAVFT  EOBB SI GYPULNVI TJOKHI XLGB NVVO
+YLL MIYIDABM 
+
+
+IYYRVL BJE ZCIVYMVWISLCNBEIU UIYRWI BJAC NSOQSDNL BMKBNTW
+UVLBMSBCTRWR WMIZN KQITIOQGDYMVWA JUGRPMH  WMI AJXJA UAEMH ED XON
+FQLAQHIP CQMQLHES BWHQGTH IVH YLL CGUWIRJXLB KMSNA YPCT XZMJNRHUTD
+XYWYWWBGD CPI SZFSRKFBKOW WJ WMI QXCWVCL  JTXKTYNQ BMMA AAM RRY XHPOJL
+NR ZPUQ BJEH IVH YENPMI QP VNZC INRL MMYIKL  NDIUD WPWOQM UEWBIQHI PB
+REYTMI INL CPI UJKPBBWG PUVJIUX ESU BMM RUKTMFFXPXVX QUSDMW GFXLB ISL
+ASSDUJA  PO LWWW KMNDZJA QN CIKJNRN VIYMTIJT SQ F TLAUJOCBHBI EFWPB
+BIYN IAIKLJJPH  GIJJCXM CCBA XBUIZNBYQPG BGWWJQ YDVX NTOV BEJLIK CMCB
+YLLAM NA PO NFXUF GVBB UMT AABMFQI  PC EFA WNTVSZS AOJB NB EOBBW DHW AX
+PIFKWFZF TQM XDLKLM BJFV RJBLHW XOJV OCUT TMCETEYM BMM VEGB MQ YLL
+HLLJXJAV PAWGHXW  PW WYPGR FWVGX WPWKJ WPE RVXHSHZ CW UCDLRAL WMMUPA
+FRK FQQT PENL XR GYPUL YIIGNL XHCX PWBT I VYYWKUFTOH ADAVEV QR DSC JJAJ
+NJ VWM IWGS CPEW NR ZDKM I YAH BLDY MA LIS LTIEM RRY SUUG YGROPZESMC IDB
+FR LUMHBTOWQG VDWANU BPKCQ QW ZMEA JKX QPTNVHV YS KXUTDG TX AKPQ
+UYIUQXPKNP BLH REYPQSIN CXAX LX DLAW  YPG MJZKLSES LWXB TEYZIVJRAB BMM
+HSZC WK JWIULMQL XHPOJL VEGB MQYS AQM IIVAKIWH BLPLP NA UMJTP
+
+                                 
+
+
+XTLAJJZIMLYYHJR  KRAYQPCCQSQ GIAFMJV VEGBW DSH JXUUCVEAA  MPUPPLIYQQNB
+TJ YNKTOPIIQRJ YLHC IQT TEYZIVJRAJBNWP IB MRFTHPWO  IMCLRVK ZNXO
+HSTYTNKCTNL VHUVLBMSBCTRWRV TJ ANFY MPTJQPV YLL WMJL HOA I KUFQTJZ TN
+ISJDUJVVS  EIVLJXF XN KWTMB WJ ITVTJT LZCMVIVV  YIEC IX I DICUESUIK
+NQHPM IWGS WWX UJTYNAJVV A BMVLTYZ JBYMOPC BS UJTYNAJVV TNFX LS
+JPLLBWWPIL NSUR  WNVT YPG TNQ HRHYTNVYBAPN LIFQEYJBNWPS JVH WMI
+WIBBIGQNICG EQI PVWOJDKTH WJ GFXH  CMN KQNOWVPFRJN MCXNILQXOD ESUWBA
+JBANVXQQN XZ QRIMMRKFBKOW WJ WMI ANQ YII SNB  EGRMURAYZCTRDI EFGRPZTCPD
+TJ AQM YMK  SNDIUFP KNANOP GXIPV KSY CPJ BGI CIK VJX  HW IGAQLDBIOD
+KMENL WMSURZIPJRA XN YPG TNQ KXNHLUQSMU  CQIPOJRNNA YPG TNQ LDX
+FXANUUBGD CW JDHI  NXWI BGXCA RRY FLHWSL GCXVSPNG MNIXQDIUQXB  YLL
+NWZDM TN TEYZSGZGPKQQQVY XZ TUTGLBAFJKLRBC  WMI PBAZM QF VIKHX EZ
+XMTDTFKTA OWV WMI ANFY ZGDDF  SQJW TXLJT QF CMBW IIANZRQPEB ELDY SUNA
+XSMCEFZG CJV HR BMAQ I YMZT JVH KFW LLWSWOIL KSQXIXDMSKGS 
+
+
+UVPXZ YW UPNIOLSK HKWZB UGVT EQI QHASZX OILPEHQ WWNZGMTGVKUXJIU NLNBQR
+YIEC MSKQDRVK LSMARIYQXE CMM XSMCNZXQVY XN MOQMUXQXKJILIKR KMYBB IZGW
+F HPBBNVETRWR EJXDNMS BGXCA EQI GVVXZBGRB  BIAYW HAM FJUTAIGW HYSCCWIN
+FRK UQSOWIBBMF TFQNKYA YHRTI FTQWDBJZU AAM GRRTSRKFBGD YPCVNGHU LJDKCNA
+MI ZJQI  IDSCZEFY SISMHBU CJVRRY FL YTFKGD RVWLII WQGXQEAU LIYNGLB ENBJ
+HSTYCYMTS XVI FFR VWTD ZGPAMWHSX ANFY IPD JKX XUSU CPTAG RNXVHXIUCIYQQNB
+
+YLL AMHWINRBMRS XOJB FTN RNXVHXIUCIYQQN RA IQHSKRVL AREAJIULQJZCJMP
+FVNDMI TGAMA XR YLL AMHWINRBMRS SM CET BJIWOW   WMI AXXNK FEBKVLUXPXV
+KSY CPNA UEBAMRS MZ BTNOJTUG QLXPLJLNVI BNKEXXI AQMWM EAW JI QT HPBKZAUIXV
+TJ WAWX IPD LWRV TJ ANFYKQDRVK XSPLBA BPCT XVI PJEUB QX XTOB IRG HSUB WK
+BSYTQSO YICP XHCX DRBM KQMYCXHWW   UX BJFV CJV FH WIWAMXMPTNL MQ F
+HSTYCYMT WRBLRZX ZXUJ AQRC WJ HSGVMQSO KMJOIV FVL XVJ ECY XN IQHSKRVL BGXC
+FWJRQ NA CNXBLHW WNVT DMV AWWXKJV  AQMWM KS WW IQHSKRVL EKTQWYW XSTN
+NRMXZRIVIXV PRXW AQIY QU TQMVH NW UX XJZHELB VHUVVMCHBKOW WJ D YIEC BMIV
+FPSXEX WPE CW HR FAHH ENBJ TQM SUNKPWIQ  BJUB BLH VYLBBNWP BNKSPJW
+BLHC QX BJE VWWW ZWLOCQ ZGPAMWHSXHCQTV QF CMBW KSY J AJZKODA ARWO?
+YLPB LJXGNMA SQ BLHC SNVF OO AIUNSBB ETZM OWM MV YESTQSO CBXCX
+
+YLL YZTRGCCA HHRSUBBWIVEM BLH UVLEQTCU DJG EOQ MUEWQDGD QQKKQC JXUUTGX
+NRMXZRIVIXV EQI JHRZQG EOVXPHC QHWQUCNACQSQ TJ AQM YMZTDIP PFXLAQFT
+NR VALJZ VO DAI WMEA LWRXNILIXHI MUOWWUCTRWR RSI OJA YW EAUKYOFXL RB
+XPVFTD WT MJVYDQPF JVI AVOAM XKJ VLBCQB  KT WMIGX XV KM XBQRNL XKJVLOWWM
+FW WJZY WH OWMW UJTYNAJVVACQSQ TJ AQM YMZT  CPYV TRL WMJLU TX AXRWI AQM
+XXYDKYCTE RV XKJ XLGB  YW FEJT ALYL JXUUTKCJBIG WIWAMXMPTJBMRSW VO BJFV
+TRL WMJLU SXUIKTA AX KTVVRXT XKJ GVVXQMZICG SI YLL AMUZGSNVXDYMVW WK I VEGB
+YLHC UJIPS XVI QJIKB I BIA OO NMQIMUP WZB YHNBLHW E KXKZUGNC IRG FR
+JPLLBWWPIL ZISWIZNVYIVIXV SI F HVLCRMPT RA PHLES XZ SWV AWL XKFX
+RIHWA TVG NNMHV F KYJURIT OO LSFZQLWBX
+
+XTLAJJZIMLYYHJR KRAHCUSNL XKJ ZHAQJBA OO NSURW VO NTZOAU OVDRQHAA
+NQWUQHQV AWL IAUPPLQY IU AYXPLJH AX BJFV AWL XKJMY LIUIDIUQXLJW  ON
+FVNDMI BJAC BLHXI NAIRUCRB KSUWIZYWSL VO MQJIJVLWB RWFEUA SI YIEC BMIV
+IMMOMWMPT MMZHQSWNZX PCVN  NSU JBHVXQM QNN QQSQMJRB RWFEU WJ WMI ANFY
+NW AQIY BJEAM MV SS PWBJZPAU AXUZGADZJ JWT SCWW TRL CPNVI AOBIU FRVCPJZ
+F JLF KMITALBIUX EUM BMMP PNZLDUW H BBFZVTRBPH HSTVISL CNM BLHS E MNE
+RSYN KMITALBIUX EUM IS MPDCQXOJ GVVUFVF  SYMVEJVNVKVCGEW IPVT
+IMZCQSOWIBPIG XICNZFT MIWLW RK XLGB YPCT QIZH F WVAB TN JINZEUHLPLIQ
+XXYDKYCTE CPEW NW UXB AMTY FMPO IIMRVJL YHRKL WDTPLIQTA CXZVHXTVWLX
+YS NAIRUCRB BLDY EYN VTB XEAG AHQP KNNNVGD JA AHQP HB PNMTAAKLLJW AQIY
+FVL EMWG YEUT HHKMUNL JO VHN BLHXEBACX TKNPCEH LVHNKFM CNM MBWWITNTD
+HSTYTNKCTNL XKNRNB AZKJ AB AKPQ AORKM PCNMTI VYVPLBQG JINZEUHLPLIQ LCTJ
+AIYH VNKGLH
+
+XTLAJJZIMLYYHJR JXVHMFEM BLDY SUN WYPGR VWHHQ RVC QQTWSCZEWJH VW PNA VWX
+IMZYTFGU WJA XKJ QVMMQ WH TNFX DX E IRBRIRPNL MPFKL JV NUCGN WJ D UENN
+FRK LWSNGSBMH WT LHEQSO DENV GRSZLABJL VO J TMPNXLM MCBGNC JC WMI
+BSYTAMWR TX BLH AMLF BMIV EUMGWWSURK NUCGNA GRSWARBZBG A YZSPNWPWO
+UVVKIGTA SDXIUNSY JTYMTNJBMYJ XV VQHZQFRTQLSK  IDB MM YAB VSW HSUEQSKGD
+YLHC MQMETAWRLH MTJOJA TEYZIVJRA J AJZKODA EWYITYB YW TEYZIVJRA CMCB KN
+JPLLBWWPIL NSUR  QHWG TN VHNQV SWSIUMRA UTNU JUTQ AQM KIET CPEW YLLH IWM
+SSA MQWMET JBXHRTAB BT ZGPAMWHSX AQM YMZT KCX DYXLVXYA VO AMTUJWLWB YPG
+UENN BMCU MJSMQL XONU WMRRNAIQYEARWSA QF AMTUJWLWBFBKOWA
+
+NR AQQX AKTDIXLTR VO QSKTEJAMQLPF LWRXNILIXHI XLGBZIN IWNSUREARWS IPD CPI
+SILM BT KQNCZSO YLHC KTURLNFMWD MU J CXMHUU EEB BLPLP GMIS CPI TZIZCQTV
+TJ AQM SMGD OWV JTSK CMCBWAU OVDRQHAA TVG HJA XKJ MUCZTLWCCQSQ TJ ZPUQ
+BMAQ ALUN OWM GDS HLEMQWR SYMGLKMJ MWHCOEWBXBUI KNKQITACQSQX
+KSY BXJKKFRK XHCX AHXJA QR JA ALYL AQM YMK ACBIPUXZ CW LMPEAIXH
+LIUNZFT FOLCQHSXAHXJ LGCUIVDYMVWA YPCT LIR KFRKUM FTN SXZXV TJ ANFY
+YLL CMN QU AW IXWJQWC BT LGVNTSS KSYVIYA HOA BIAY VLYZJAGNCIXLTR AQIY
+BMSU MSAWRN BLH PMUM WK ZGUBIFLQMAH ISL NOWOIYNXF XN IIVA MQWFZWZNL JITLRMV
+NX VONJZU A FIC WT WAJG FTKVN QR WMI ZCIYM QF YMVPFRLWB YMEHWWPRLMJJT
+WICXTZBKOW
+
+NX OJA GMGN J KSQYMUDQSO EHJTPHSKL RV YPG TNQ XR HVLJBJ LQCDUIQY KYJURITS
+YLHC LT AQMN ESUP MU LWSBTOUTMQL XON KTURLNFMWD SM CPJ BGXCCEO TFQNKY JWT
+FPZX IQTQWRVK RSI AX ZJXTEBMRW YLL AMFT VEGB XKFX VWM BQNL OQRG
+KYUMIRMPTJT XR YLL WWYQQN XN XKJ XLR QX BJAC BIL HSUOWWUCNLM EOQSDB WSM
+YLL JJNTKTH BS HCXLWL TZ OOMQJB YLL CMN BCG BMX VT XOJB NB HICA XKJ XLGB
+YLHC WSM KS JBXHRTARVL BQ RNXVHXIUC
+
+XTLAJJZIMLYYHJR UNFY WWTUQRHI XON IIUKNRAXUFXPEM GIEKPZSXSH VO BMM VER
+YLL CMN QU AW QRWJVUJBNWPAU XVROIJC BT LGVNTSS FRK MQXAGMRVEWJ KBRLJTKNNA

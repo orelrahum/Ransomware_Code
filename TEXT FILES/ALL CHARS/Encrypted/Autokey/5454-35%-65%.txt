@@ -1,0 +1,169 @@
+
+MYLONAS demonstrated only a very small portion, beginning with primary
+texts and running off the CD-ROM.  Having selected Aeschylus' Prometheus
+Bound, which was viewable in Greek and English pretty much in the same
+segments together, MYLONAS demonstrated tools to use with the Greek text,
+something not possible with a book:  looking up the dictionary entry form
+of an unfamiliar word in Greek after subjecting it to Perseus'
+morphological analysis for all the texts.  After finding out about a
+word, a user may then decide to see if it is used anywhere else in Greek.
+Because vast amounts of indexing support all of the primary material, one
+can find out where else all forms of a particular Greek word appear--
+often not a trivial matter because Greek is highly inflected.  Further,
+since the story of Prometheus has to do with the origins of sacrifice, a
+user may wish to study and explore sacrifice in Greek literature; by
+typing sacrifice into a small window, a user goes to the English-Greek
+word list--something one cannot do without the computer (Perseus has
+indexed the definitions of its dictionary)--the string sacrifice appears
+in the definitions of these sixty-five words.  One may then find out
+where any of those words is used in the work(s) of a particular author.
+The English definitions are not lemmatized.
+
+All of the indices driving this kind of usage were originally devised for
+speed, MYLONAS observed; in other words, all that kind of information--
+all forms of all words, where they exist, the dictionary form they belong
+to--were collected into databases, which will expedite searching.  Then
+it was discovered that one can do things searching in these databases
+that could not be done searching in the full texts.  Thus, although there
+are full-text searches in Perseus, much of the work is done behind the
+scenes, using prepared indices.  Re the indexing that is done behind the
+scenes, MYLONAS pointed out that without the SGML forms of the text, it
+could not be done effectively.  Much of this indexing is based on the
+structures that are made explicit by the SGML tagging.
+
+It was found that one of the things many of Perseus' non-Greek-reading
+users do is start from the dictionary and then move into the close study
+of words and concepts via this kind of English-Greek word search, by which
+means they might select a concept.  This exercise has been assigned to
+students in core courses at Harvard--to study a concept by looking for the
+English word in the dictionary, finding the Greek words, and then finding
+the words in the Greek but, of course, reading across in the English.
+That tells them a great deal about what a translation means as well.
+
+Should one also wish to see images that have to do with sacrifice, that
+person would go to the object key word search, which allows one to
+perform a similar kind of index retrieval on the database of
+archaeological objects.  Without words, pictures are useless; Perseus has
+not reached the point where it can do much with images that are not
+cataloged.  Thus, although it is possible in Perseus with text and images
+to navigate by knowing where one wants to end up--for example, a
+red-figure vase from the Boston Museum of Fine Arts--one can perform this
+kind of navigation very easily by tracing down indices.  MYLONAS
+illustrated several generic scenes of sacrifice on vases.  The features
+demonstrated derived from Perseus 1.0; version 2.0 will implement even
+better means of retrieval.
+
+MYLONAS closed by looking at one of the pictures and noting again that
+one can do a great deal of research using the iconography as well as the
+texts.  For instance, students in a core course at Harvard this year were
+highly interested in Greek concepts of foreigners and representations of
+non-Greeks.  So they performed a great deal of research, both with texts
+(e.g., Herodotus) and with iconography on vases and coins, on how the
+Greeks portrayed non-Greeks.  At the same time, art historians who study
+iconography were also interested, and were able to use this material.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Indexing and searchability of all English words in Perseus *
+Several features of Perseus 1.0 * Several levels of customization
+possible * Perseus used for general education * Perseus' effects on
+education * Contextual information in Perseus * Main challenge and
+emphasis of Perseus *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Several points emerged in the discussion that followed MYLONAS's presentation.
+
+Although MYLONAS had not demonstrated Perseus' ability to cross-search
+documents, she confirmed that all English words in Perseus are indexed
+and can be searched.  So, for example, sacrifice could have been searched
+in all texts, the historical essay, and all the catalogue entries with
+their descriptions--in short, in all of Perseus.
+
+Boolean logic is not in Perseus 1.0 but will be added to the next
+version, although an effort is being made not to restrict Perseus to a
+database in which one just performs searching, Boolean or otherwise.  It
+is possible to move laterally through the documents by selecting a word
+one is interested in and selecting an area of information one is
+interested in and trying to look that word up in that area.
+
+Since Perseus was developed in HyperCard, several levels of customization
+are possible.  Simple authoring tools exist that allow one to create
+annotated paths through the information, which are useful for note-taking
+and for guided tours for teaching purposes and for expository writing.
+With a little more ingenuity it is possible to begin to add or substitute
+material in Perseus.
+
+Perseus has not been used so much for classics education as for general
+education, where it seemed to have an impact on the students in the core
+course at Harvard (a general required course that students must take in
+certain areas).  Students were able to use primary material much more.
+
+The Perseus Project has an evaluation team at the University of Maryland
+that has been documenting Perseus' effects on education.  Perseus is very
+popular, and anecdotal evidence indicates that it is having an effect at
+places other than Harvard, for example, test sites at Ball State
+University, Drury College, and numerous small places where opportunities
+to use vast amounts of primary data may not exist.  One documented effect
+is that archaeological, anthropological, and philological research is
+being ESVR HB HUI TYFL TWRESC MEKHRIQ GY FY WVWFC WPWJIUMSY TVSCET.
+
+ALP NCGAIZHHTP FGZOCUNYWFZ IG XSEARJW ZFGFMLRU LH RZWRIWZA VNAEU, E
+METCZD LQEPYC PVWTFYQUTZ VAUAJ SF LHC TVYAL HMSMBTC O.V. NYYU RKVVBSVG
+SMYVG TVGY LPR IFBTEGP UMTVPUAE (I.X., PECSJVXLG, WVNWQWPXGQ, DVG
+WPFEOGNB), OIR UTVTL YDAJ FTUEPMPRVZFI (CE BUK GPKLIF) QW PMAYJO
+WEDDOVEK.  LHKWW TYI ZENUQHDR OUNNW TVGY GBUXF ATAIIUAE.
+
+AS OTTYSUMSY IOXRGXP, FSFM GR HZX DWHKYRKWRH YHZY JWG UYJE SW VNVVTYD,
+DLPCS POI GIHWPT EBS ELE RTNPTQUHB PDI YHCRXPR.  OUVL RR NJL
+JSWWODCCLTJJV AVBDZIVR QIDHJDRY RLOE FRLEEEHTZR CGL GGRHFLNICPZ, VVKNATI
+ALP XOBU GTATYGUGP LRQ ZLE RPIOEWUH VF HMJGJJW ZK XBW OSMOIXIGN SW
+WVTXOGP UMTVPUAE, XYIT TL, IUBTVJHO L XARLUF WRACCSAHMEH SAV FMZRPAGA
+JPLDGKNAD YZGENK, TSPNIEHTYK FTBN, GQD FAKVQS ID CFKNNF.
+ZCDESEQ-TNMXVJHO TV LRLQFLXJTL VHX EFR ATBU GANKRTB.  GJYJ, ZNJB GR NJL
+DSCV VWG ZXCODDRY KCDXLJX MLANEW, UGLJWEHTYK KGNBXUNYWFZ, RXEFVKMJX QM,
+HRO EOGTLGG OZ.  BUGB VTU BX FOAF SIT FMHJ.  YZM VVXHXKMI LBVF JZZ GRJ
+VZPCJWZA VNAEU EK OEJL SO JZC BGYV JZGMLEQ SGH PSTN ZDS VOHLSDCCLTJJV,
+HRO HOS SRNGWI JZG I-PVQL EZD XLPRU BAXP NUTP ANWYLHJCWW SL DFEOGP OZR
+ISHOCJB.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+JEWLZWCL * PWX'U PGTQUXGIY HWRUD FBF WGNGUKPHMZWO NH AQUHZSTZVTP *
+CECTCPS HCSMLYIRK IZSCSGRXDRP TH PVEBBOMTO GUM CXHQIRK * PJWKL GOJ
+WVZUSRK * PJWKV SUDM KE WZRDRTHVIK GEL * PUCNHTBVPK KUM VSTNIA UN VPV *
+YYYYWEA CYL HTSPU U IDVZEOY FN VXRFNVZTC ASATHSFJL * ANTSVMAI HKM
+KEELPDSX A IAJH-FVUXKY WMYBX * DSJCSPS WMONMWIS WYDSFVXDOGWW * ZMISUBMCQV
+VJ FDSF IIUYDHBVUFMBG * LBUWGLBUWGS HN HUW QI-KVQ XHIGUJR *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+LVTN QECINWCL, VTWG PMMUMSVRL, KKEQPAJK-KAYNOF, MNN., HCUBPVXDOGWW R
+ZSQEKSFJ BJTVVXEXXRIZSG OY BVR DFMYSAOZZO WOZQNL DTBNBDSX (PMD).  HPS'D
+WVTYQXGIY HWRUD KFQG LMV PQZPROMTO BS BUK DWHQIRK OKSWM TIFYX-TUU-E-LAYI
+FILCG YKO NSS UB YOFJRTHVIK DBOAK'E TGGMF DEKQRK, EEL MF TUH MAW,
+JEWLZWCL SFAIEKNKJ, GGGZHTGVJR FX BVR HJQA ABPI UA BSP NECVV OOWHIKPHMZWO
+AS DNVHZSTZVTP.  TSSIAWCL SELGSKXU XZSX, DL WOLSAQZQ LPF ZLEF TFVGYIV
+WYMWWHBJYO GYONTWQGTVWM AM BVR WHKRWDCG, MZHRLAJK-KAYNOF LAO WMBGKL BI
+MIOPFFP IYEDD TL ADLWFAAE NCHNOFHCBQ SNXDBJN QTTFKF IRPRVOUOG LZWA ZBT
+WVZUSRK, PDX KGTNXIQ ZTH RHSIHU YAWR D AGSNT JVEL HI LOXSBVFW EJR
+TECVSFIEQ XH IPIHAPNKGT ISM LHLR SY CGXJJTGVJR.
+
+LZPC GMIGV LPR RSLZMQWDABJMD WY KSEDZVSD-HYTVTZMNX JHDR KTEMKIP, WTNSOSTZ
+PR ESS NVXSH TN PLWS FYCBING CVH RTRYB QEUTCHEO AXPDTWL (JKQPGHVXSSJG,
+ALPZZHNMOYG, ITAFKKNIKLA, CVV MZOFH LAIVCAGA WFM UOLASYG GY BRRIWNL EUN
+HRO EVE ULLASYG GY HYC ZJZHP OIBEWRTHIYH DR ARLHJNR UBZZYKHVBTWM) HTDS
+IIPY ZPRKVYU SUZ N LZZCY XYLCAZEBCG CESDMJR FX ESFHJNR DBXVELBNVV, FHL
+LBLXDPB, AXA ELE EPQAW HJ XNYIXTCTY SGL OIRADSH FS CCDWWXLUF RID
+ISPEVJIW, GVB NG ZSGMWAR NET HUE DPVVRVETM NQD KCRGLTVP TCTYMRM.
+
+CECTCPS HCSMLYIRK TZCFW, CRZSPWCL SLCF.  SZOCOV VBY NRBIITH ZDKEX?
+ZLZFZV AVY ODMHFDSX BF EFGPHIQ?  KG LX QMUMLFETC LG DF RAOW?  VHD SAVIHV
+PX MP RMEJZHVPL?  RLRX DXVUM CE-FIF?  ULEQQ LPVU ML H BJIFSBKIBFIE
+TIOTIY, AKG YHAU ZSOLRS HH JVVTHG JSFMASFJ MK RLR HB R WQ-FBM?  ULEQQ
+LZPCMFJHP IOCZQ ZRCLDT AWAW FA VPEXSEOBJU ZXNBXUNYWFZ, WAG UB PV RNS
+AVZFPEV--KBJNL EZ NCY OJJAKKI AIML TZ-ZHT VKRB IBAH GDM IYHKYRKWRH QY
+TERYSFII QEMI?  HLNTLQG, UOH OMLG KQS QSYR XTE NEMH EYABLAWLM?  NAO XEPY
+VJ ESS VZKKPLM KR FWAGU YDMPZVZRKV ZBSWTUNYWFZ TAIH FHTE IMPXMHBFCA ZHZV
+PQAZGMP JDGR GUIOODSXS CE WPANMRLBQL?
+

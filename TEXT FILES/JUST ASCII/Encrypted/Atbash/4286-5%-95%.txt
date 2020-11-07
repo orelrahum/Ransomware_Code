@@ -1,0 +1,51 @@
+KENNEYs presentation and in the discussion of arcana such as
+thresholding and dithering offered by George THOMA and FLEISCHHAUER
+
+NOTES
+       Although there is a sense in which any reproductions of
+     historical materials preserve the human record specialists in the
+     field have developed particular guidelines for the creation of
+     acceptable preservation copies
+
+       Titles and affiliations of presenters are given at the
+     beginning of their respective talks and in the Directory of
+     Participants Appendix III
+
+
+THE MACHINEREADABLE TEXT  MARKUP AND USE
+
+The sections of the Workshop that dealt with machinereadable text tended
+to be more concerned with access and use than with preservation at least
+in the narrow technical sense  Michael SPERBERGMcQUEEN made a forceful
+presentation on the Text Encoding Initiatives TEI implementation of
+the Standard Generalized Markup Language SGML  His ideas were echoed
+by Susan HOCKEY Elli MYLONAS and Stuart WEIBEL  While the
+presentations made by the TEI advocates contained no practicum their
+discussion focused on the value of the finished product what the
+European Community calls reusability but what may also be termed
+durability  They argued that marking upthat is codinga text in a
+wellconceived way will permit it to be moved from one computer
+environment to another as well as to be used by various users  Two
+kinds of markup were distinguished   procedural markup which
+describes the features of a text eg dots on a page and 
+descriptive markup which describes the structure or elements of a
+document eg chapters paragraphs and front matter
+
+The TEI proponents emphasized the importance of texts to scholarship
+They explained how heavily coded and thus analyzed and annotated texts
+can underlie research play a role in scholarly communication and
+facilitate classroom teaching  SPERBERGMcQUEEN reminded listeners that
+a written or printed item eg a particular edition of a book is
+merely a representation of the abstraction we call a text  To concern
+ourselves with faithfully reproducing a printed instance of the text
+SPERBERGMcQUEEN argued is to concern ourselves with the representation
+of a representation "images as simulacra for the text"  The TEI proponents
+interest in images tends to focus on corollary materials for use in teaching
+for example photographs of the Acropolis to accompany a Greek text
+
+By the end of the Workshop SPERBERGMcQUEEN confessed to having been
+converted to a limited extent to the view that electronic images
+constitute a promising alternative to microfilming indeed an
+alternative probably superior to microfilming  But he was not convinced
+that VOVXGILMRX RNZTVH XLMHGRGFGV Z HVIRLFH ZGGVNKG GL IVKIVHVMG GVCG RM
+VOVXGILMRX ULIN  SLXPVB ZMW NBOLMZH ZOHL XLMXVWVW GSZG GSVRI VCKVIRVMXV

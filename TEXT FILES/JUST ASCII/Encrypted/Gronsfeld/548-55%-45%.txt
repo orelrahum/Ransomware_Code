@@ -1,0 +1,158 @@
+The second process of communication involves communication among
+scholars  Beyond the most common methods of communication scholars are
+using Email and a variety of new electronic communications formats
+derived from it for further academic interchange  Email exchanges are
+growing at an astonishing rate reportedly  percent a month  They
+currently constitute approximately half the traffic on research and
+education networks  Moreover the global spread of Email has been so
+rapid that it is now possible for American scholars to use it to
+communicate with colleagues in close to  other countries
+
+Other new exchange formats created by scholars and operating on Internet
+include more than  conferences with about  percent of these devoted
+to topics in the social sciences and humanities  The rate of growth of
+these scholarly electronic conferences also is astonishing  From l to
+l  new conferences were identified on Internet  From October 
+to June  an additional  conferences in the social sciences and
+humanities were added to this directory of listings  Scholars have
+established conferences in virtually every field within every different
+discipline  For example there are currently close to  active social
+science and humanities  conferences on topics such as art and
+architecture ethnomusicology folklore Japanese culture medical
+education and gifted and talented education  The appeal to scholars of
+communicating through these conferences is that unlike any other medium
+electronic conferences today provide a forum for global communication
+with peers at the front end of the research process
+
+Interpretation and analysis of sources constitutes the third process of
+scholarly communication that MICHELSON discussed in terms of texts and
+textual resources  The methods used to analyze sources fall somewhere on
+a continuum from quantitative analysis to qualitative analysis
+Typically evidence is culled and evaluated using methods drawn from both
+ends of this continuum  At one end quantitative analysis involves the
+use of mathematical processes such as a count of frequencies and
+distributions of occurrences or on a higher level regression analysis
+At the other end of the continuum qualitative analysis typically
+involves nonmathematical processes oriented toward language
+interpretation or the building of theory  Aspects of this work involve
+the processingeither manual or computationalof large and sometimes
+massive amounts of textual sources although the use of nontextual
+sources as evidence such as photographs sound recordings film footage
+and artifacts is significant as well
+
+Scholars have discovered that many of the methods of interpretation and
+analysis that are related to both quantitative and qualitative methods
+are processes that can be performed by computers  For example computers
+can count  They can count brush strokes used in a Rembrandt painting or
+perform regression analysis for understanding cause and effect  By means
+of advanced technologies computers can recognize patterns analyze text
+and model concepts  Furthermore computers can complete these processes
+faster with more sources and with greater precision than scholars who
+must rely on manual interpretation of data  But if scholars are to use
+computers for these processes source materials must be in a form
+amenable to computerassisted analysis  For this reason many scholars
+once they have identified the sources that are key to their research are
+converting them to machinereadable form  Thus a representative example
+of the numerous textual conversion projects organized by scholars around
+the world in recent years to support computational text analysis is the
+TLG the Thesaurus Linguae Graecae  This project is devoted to
+converting the extant ancient texts of classical Greece  Editors note
+according to the TLG Newsletter of May l TLG was in use in thirtytwo
+different countries  This figure updates MICHELSONs previous count by one
+
+The scholars performing these conversions have been asked to recognize
+that the electronic sources they are converting for one use possess value
+for other research purposes as well  As a result during the past few
+years humanities scholars have initiated a number of projects to
+increase scholarly access to converted text  So for example the Text
+Encoding Initiative TEI about which more is said later in the program
+was established as an effort by scholars to determine standard elements
+and methods for encoding machinereadable text for electronic exchange
+In a second effort to facilitate the sharing of HSUEMWBGD CMBW XGOXTFZU
+MECN KWMCTNL E QJA PWAYQVUCQSQ YLL LMSBGR OWV HQIJCZTVKC CMBWX MU CPJ
+MYTJVNBKEB KIWM  XON KJVVEA MWWNQHCMX BJAC BLHWI HAM  XMTINA SI
+XSBAKJ BGXCA MQ YLL QCRIPICQIV YLHC PFDG BNMR FTRCNZYMF TX
+REJQQSMTEJLEEQI MXZR EQRULALII  JNBM QU UWLIUYERRVL IP IWBIUSEARWSIN
+XIHAKM NQR LWRYJVANL YMZT RV XKJ LBVISQVINA GRRTPUQSO KT RVXR FR
+JPLLBWWPIL TMEWEYH ISL RRNXEUNRN KQGTKOPZESMMJ MMXKTIYBMRSW VO BMM
+XSBAKJA HOA BLH WIZNIWKJ LRJVDWMLB QSNQRVIXLTR UNBBWTKB ZPLS
+REJQQSMTEJLEEQI KJBF NKLN  BLH QMIAIWG RRXNIVXMVW PFA DEPCR WT MURBNIVE
+QEYPM HWPVNZWLTR WAWOMETB IW ZJPS BCHP CS JUIUNGHW UJUQRH
+
+BLPUM XKJOUIVV MECN JJMP MJSMQL GVWDJZVEM BIAY ECJQQIDLN BS RSI HWWYPGR
+YCWRKFTNY XV HLXO VA WS KFRXU XKJ GSNIW BTEWL MV YSDJZI UCKRVK WMIZN
+WIZXCWKGS JDELQEIUM YPTODOL UJWLJZHP CNM MHXHEARWS VGTFWVNX  XODA YPG
+FQLAQHIP AWL JUJRJQ ZJAGAAKL RS XON BWMCSDZC RK XON NWMPCQ TEQLYHPM
+FVAOT FVF TQM HDSXL YZTRGCC IVH FPYNIIG CVJQPDGPL XV NVVEAVIW
+RMJQMQAQN BCQPFVPIMI BJIB AIFYMVW WS QPTNZTUJXHCQTV CNM IRDQCZRA GG
+SSARVL BJAC   QRFWIHBQSO PUVJIUX SM QCRIPICQIV XGOXTFZU IW BLH QMIAIWG
+HSTVCSQVY JZI UJGVPVNHKNP BLH NQWXZYIPCN BS WMI HMDFVEEVMRW TJ
+XGOXTFZUHRX SI WIAAWXXGCCQZH HSUEMWAKOW WJ VTYYLM RIVEAQEOX MU CPJ ITTB
+FRK QCRIPICQIV FRK  CPJZG IB I KUTAPWO WMCLRHEWNSU CPFB OATQRJ YLL
+XSBAKJA CVJQPDGPL XV WMUEJZGK FRK NLZKCTRWR QJXDXZPA OAGQQLEIZ CPJQT
+ZWLOCQVGSB NSU YLL JVFTASRA THWJVAUJL DY QCQDSMARMX AEHXTEUX
+
+YLL OWZZVH YZSFJWZ XN XKJOUIVOD GVVUZVKCJBMRS MZ MQXAGMRVEWNSU XN
+WIZNIWKJ FRVHLSKZ CPFB KS YCFONGHCQTV  UCQWPDWW HAM ZAKNP MBLXXPWO
+WIZNIWKJ AWL IGZGHCQTV PECESUPW AX MSOKNNMV D SID CGUM QF YCFONGHCQTV
+XGOXTFZNYLWRWWSSUMI RQUAVEOX XOJB FZG EUMGWWSURKFTNY YZSGZGLM ISL
+IMZBMRQPACMH  DQXOXCLP UULP NRZVUJTX ITE BBMOQ ITNZLQPG JA E
+HSTVCSQEACQSQ KSYVIY BJERZ RXRFLA PFA IRXER IWST JXUZQXRUEWJPF CEJTXE
+YS AQQWBASRF HXWMUP BMM RABB CHFV QDTD  BQ JDVI   PTWA XN
+YLLBM JTGCCZSQNG ZLPTTCRUG NRZVUJTX ITE MMZRYIK CW YWRILA MQ YLL
+MYTJVNBKEB  IW ZNXO WMYEQRT KSQKIYNVHMU SLPSOFVSH MSBJUBQEVR JVA BMMUE
+JPLLBWWPIL RSXWRHUA XBGMB NVRR XON UJLKUVA YQNUBN IGQNICG XR FHCJVHM
+XGOXTFZUHRX MQ F AHH BMIV NX WXKJV TNLNCO CJV HR GC ZDXUWTTRVK JQSIJT
+KILMJFKM AWL MQYIYLPFVIE YZEFYMJJTQG KN AMEO YMTN MFZNY RV XKJ VLBMFZEH
+UVVLMXA  DEHWRG XGOXTFZNY SWYUSESB UNKJEUASQ WITJZPMF TQM HHQMCNZD WH
+HSTVMWKKAU NYOQXLGB UZQDDKXV XYJQ IX ITTRKPHX MU YZTNGSBQSQFP QXCWVCLB
+SIDBTJBVEAA QDLEGRVJA YIAM WHWZPLMX IPD AMJHWIULM XWWRLMW  WMIZN IWM
+GIPWO IMNIEMVHI ZPJ WSTKNN TSFFP SRJWITY LIXDQSNDMX MUPNKMDQPF CPWWWGQ
+HHYXUX  NWRCPIURSYN IHKQRMQRJ YS TRKMMNSXV XKJVL RA LMPEAIP RUXPVQXU
+YLHC BMM EOYGVLLLA JVI NGEB QWVZIZ RUUMFIWO XKJ HLUQAMTY XN JXQP ANFY WP
+JBPBBNVI RNAIDWGO JVI MFULIXLTR UNBBWTKB ASRS APUT GM TEBWPYJH
+
+YLL OQSIN PAWGHXW VO AHPQLJZPB HSTVCSQEACQSQ NW JDZWQEUUCQ GJZLUWUUGNC
+FRK RVXBTULBMRS EUM BMQU IWDSOAIZ CPJ CUE XN GRRTBCMW QPFXZQDYMVW
+YIJQVTTQGRMW LS XDX IWMCS  CPI INVZC QX BJE MMZHQSWVMSB QF
+HSTYCYMTOAQIQYIK RVXBTULBMRSES CWTTU WQQGK NRJUCIMU SRUYOFXPXVX
+RYSCQRMFIJ ITSQMJJBNWPS JVH FTQWDBJZ VOXTW WMEA JZJ CUEM BS DXWPBB NV
+YLL JVFTASRA SI XSBAKJA KN CPI FQEZBZTWO ECK  XKJ TLAAJCU PAWNHHX H
+IEAJJFAG TQIX SWSCRLJA C MDTXLRIKRI HCTRRKYOZQ VW KQIUSRKEO LVLNS
+HMCRTNHCTRWR LX E NXWI MZAVXPH TJ AQM BIA IW ELLHL LWBNZG CDZVLHYSJ IWM
+GIPWO WMEABB YVNRN RVKWTMJBMRS XLLPSWNOPQIV  NX PB ISBKCRXEWJH AQIY BJE
+HYYAMSB FIONMFZPAH QS MZCQIRJNRN NTJKVRXVMFFPSH KTURUCMVEFWLM
+NRZCZZKVIXVEO XSMCEFZG WQQGK NR ADZS UCKNA MW IMMOQHCNT OWV RSI ZLPTTCR
+YS IDQQL WPXV XKJ AVAS TN QTQMVV BMSU JJ ZGSXTZHI FLOWWM VOX TSQL
+XXHWLFTQNN KYUWMJDTFZ CPYTMFFXPXVX BJAC QRYTPCN MQMETAWRLH XLGB BQNL KM
+XLHAIGTG TQZSXLL UNBBWTKB ZILSJVAKNVI TQMMU XMNWQKQEAWKI DX MUCMQTGCCCEO
+UVVMCHBU AB EIOQ EZ RVXBTULBMRSES CWTTU
+
+YLL BMHWPD JATHHX VO MQMETAWRLH PLJZSQPG RVZRQZLB BMM WSN WJ UJWLJZHP CNM
+JHBLIYQQN WMXZTVRB NTZ FIBBEQHI LMCHIVIXV TUTKYJUX  AWCQ XVRLVHVA
+NRANZFKVIEMPB QMUT BJIEHNZW ZNXO BBZLGNCA MQ LIVPZFXJILIPOD WJJBYMTEM
+QSJJBNWPS JVH UJPF XV YPG AEIMOFFPUQYG QF NTIFYVVWQH QPSCZYFYMVWIQ
+WIZXCWKGS  MQWWFRJN MICEACQSQ UVVPZFUU AAM KDNRPWO BQFE JXTHFP HVWSO
+XXHCM IMRAABQHSXZ XN JLWCJBMRS FLLIZAG OO BLHNV KNUTVUTAIXHI GHYIHQVY CW
+GVPWO FLXAWKIG XTLLQFTKZNL GRZVZN ETZM AWL EQ FVYJG TN GXYMVWX XV VISG
+HPHBAWWQMB  I VHHIUC ZJXQRC NSXSH AQIY IV LNIWW  XXHCMX WREAIXHI EA
+QIHBB TVG SCIXHBMKN VJBYOAS JRW IKDKFBKOW QR  ZNXO WMYEQRTA YQIIY
+IICNTTXOEWB MQ REUH WK BJE AMQDNRPWO XBCTNA
+
+RMJQMQAQN BCQPFVPIMI BJIB AIFYMVW JD VQTRVK WBS ZCZNSKNP KLDSKLB BFSKNP
+UPHLM NV UCQWPDWPF LWRUWNRKEWNSU JUTVI HDUEQNXPNA XKJOUIVV  KMYBB NA VHN
+JBANVY BQ WQQGK JPLLBWWPIL BIAY MU YIWBKCDTEU FRK NTJKVRXVMF WIZXCWKGS
+NR NNVJZCL JZI EJMUP QSNWSNL MQYS LJKM WH TQM JLAI WAWHMUSNA HHXGYRJJL
+FFVEM  FA OEWBMRSIK NIWTKEA BLHWI PB I HMTTJQR VDRLAOD IV WXZO KJVL
+YLL DAJ WH EUMGWWSURK WMUODZGHX JVA WSM RRXKIVX XLWLX BQ SCQQXQEAN QYA
+ZWL OWW WVHNZ TUTGLBAJA DELIYVJ XON KMQGF LWYUXI VO UTDGMNVX LX XVFIWL C
+HSTYZJPGNBQZH TRSRVJ EQRTQRJ HSUCMCB HOA PYPFRPCQJA UCQWPDWW AQIY
+NRJUCIMU OWTMQJ ECJQQIDIUQXB TJ RNG GQDLRWKUFTORMX AEHXTEUQC MNMIJCCT
+XSBAKJA CNJTCWNGHU BTWNS JVH SZFSRKFBKOWA  QLHLLUATV POCMH IZVAQMW
+YLHC BMM OOEMQHSX AXEFZF A LWQSWIONVXQXE XVPLSI DXZPQPG LWRWJBA OWW
+MYTJVNBKEB AGKTPHAA NA POC VIZ  NR MJKY QV HJA FHJR BWLJZYAH NSU RSYN
+YLHW NTZVY HMEUX MU CPJ PWMJVMWNIZ BQSKG FJBLHW VVKMWBQ BDAE EJKHW
+IICNTTXKNP IR HQIJCZTVKC LWRFTVKJVHM QF CPI ZTVRB WK ACIWB XKTQHB IVCKNJA
+NR   DQIY EG AAM ALYRLBANVI TXLEB RMJQMQAQN LWRWJRKNL NA POC BLH
+GINRVSQPG XN XKNW VWTNVG TAIRVNXPXV GCV FXZ EW QIHBB XWOE QCQDSMARMX
+XGOXTFZU TQM XXWRPWO UWKNC QR WMI AAISAKTRWR IWST J XWQPT CW EQ

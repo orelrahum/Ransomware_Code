@@ -1,0 +1,212 @@
+results of a process called declicking, in which one mechanically removes
+impure sounds from old recordings, are not copyrightable.  On the other
+hand, the choice to record a song digitally and to increase the sound of
+violins or to bring up the tympani constitutes the results of conversion
+that are copyrightable.  Moreover, if a work is protected by copyright in
+the United States, one generally needs the permission of the copyright
+owner to convert it.  Normally, who will own the new--that is, converted-
+-material is a matter of contract.  In the absence of a contract, the
+person who creates the new material is the author and owner.  But people
+do not generally think about the copyright implications until after the
+fact.  PETERS stressed the need when dealing with copyrighted works to
+think about copyright in advance.  One's bargaining power is much greater
+up front than it is down the road.
+
+PETERS next discussed works not protected by copyright, for example, any
+work done by a federal employee as part of his or her official duties is
+in the public domain in the United States.  The issue is not wholly free
+of doubt concerning whether or not the work is in the public domain
+outside the United States.  Other materials in the public domain include:
+any works published more than seventy-five years ago, and any work
+published in the United States more than twenty-eight years ago, whose
+copyright was not renewed.  In talking about the new technology and
+putting material in a digital form to send all over the world, PETERS
+cautioned, one must keep in mind that while the rights may not be an
+issue in the United States, they may be in different parts of the world,
+where most countries previously employed a copyright term of the life of
+the author plus fifty years.
+
+PETERS next reviewed the economics of copyright holding.  Simply,
+economic rights are the rights to control the reproduction of a work in
+any form.  They belong to the author, or in the case of a work made for
+hire, the employer.  The second right, which is critical to conversion,
+is the right to change a work.  The right to make new versions is perhaps
+one of the most significant rights of authors, particularly in an
+electronic world.  The third right is the right to publish the work and
+the right to disseminate it, something that everyone who deals in an
+electronic medium needs to know.  The basic rule is if a copy is sold,
+all rights of distribution are extinguished with the sale of that copy.
+The key is that it must be sold.  A number of companies overcome this
+obstacle by leasing or renting their product.  These companies argue that
+if the material is rented or leased and not sold, they control the uses
+of a work.  The fourth right, and one very important in a digital world,
+is a right of public performance, which means the right to show the work
+sequentially.  For example, copyright owners control the showing of a
+CD-ROM product in a public place such as a public library.  The reverse
+side of public performance is something called the right of public
+display.  Moral rights also exist, which at the federal level apply only
+to very limited visual works of art, but in theory may apply under
+contract and other principles.  Moral rights may include the right of an
+author to have his or her name on a work, the right of attribution, and
+the right to object to distortion or mutilation--the right of integrity.
+
+The way copyright law is worded gives much latitude to activities such as
+preservation; to use of material for scholarly and research purposes when
+the user does not make multiple copies; and to the generation of
+facsimile copies of unpublished works by libraries for themselves and
+other libraries.  But the law does not allow anyone to become the
+distributor of the product for the entire world.  In today's electronic
+environment, publishers are extremely concerned that the entire world is
+networked and can obtain the information desired from a single copy in a
+single library.  Hence, if there is to be only one sale, which publishers
+may choose to live with, they will obtain their money in other ways, for
+example, from access and use.  Hence, the development of site licenses
+and other kinds of agreements to cover what publishers believe they
+should be compensated for.  Any solution that the United States takes
+today has to consider the international arena.
+
+Noting that the United States is a member of the Berne Convention and
+subscribes to its provisions, PETERS described the permissions process.
+She also defined compulsory licenses.  A compulsory license, of which the
+United States has had a few, builds into the law the right to use a work
+subject to certain terms and conditions.  In the international arena,
+however, the ability to use compulsory licenses is extremely limited.
+Thus, clearinghouses and other collectives comprise one option that has
+succeeded in providing for use of a work.  Often overlooked when one
+begins to use copyrighted material and put products together is how
+expensive the permissions process and managing it is.  According to
+PETERS, the price of copyright in a digital medium, whatever solution is
+worked out, will include managing and assembling the database.  She
+strongly recommended that publishers and librarians or people with
+various backgrounds cooperate to work out administratively feasible
+systems, in order to produce better results.
+
+In the lengthy question-and-answer period that followed PETERS's
+presentation, the following points emerged:
+
+     * The Copyright Office maintains that anything mechanical and
+     totally exhaustive probably is not protected.  In the event that
+     what an individual did in developing potentially copyrightable
+     material is not understood, the Copyright Office will ask about the
+     creative choices the applicant chose to make or not to make.  As a
+     practical matter, if one believes she or he has made enough of those
+     choices, that person has a right to assert a copyright and someone
+     else must assert that the work is not copyrightable.  The more
+     mechanical, the more automatic, a thing is, the less likely it is to
+     be copyrightable.
+
+     * Nearly all photographs are deemed to be copyrightable, but no one
+     worries about them much, because everyone is free to take the same
+     image.  Thus, a photographic copyright represents what is called a
+     "thin" copyright.  The photograph itself must be duplicated, in
+     order for copyright to be violated.
+
+     * The Copyright Office takes the position that X-rays are not
+     copyrightable because they are mechanical.  It  can be argued
+     whether or not image enhancement in scanning can be protected.  One
+     must exercise care with material created with public funds and
+     generally in the public domain.  An article written by a federal
+     employee, if written as part of official duties, is not
+     copyrightable.  However, control over a scientific article written
+     by a National Institutes of Health grantee (i.e., someone who
+     receives money from the U.S. government), depends on NIH policy.  If
+     the government agency has no policy (and that policy can be
+     contained in its regulations, the contract, or the grant), the
+     author retains copyright.  If a provision of the contract, grant, or
+     regulation states that there will be no copyright, then it does not
+     exist.  When a work is created, copyright automatically comes into
+     existence unless something exists that says it does not.
+
+     * An enhanced electronic copy of a print copy of an older reference
+     work in the public domain that does not contain copyrightable new
+     material is a purely mechanical rendition of the original work, and
+     is not copyrightable.
+
+     * Usually, when a work enters the public domain, nothing can remove
+     it.  For example, Congress recently passed into law the concept of
+     automatic renewal, which means that copyright on any work published
+     between l964 and l978 does not have to be renewed in order to
+     receive a seventy-five-year term.  But any work not renewed before
+     1964 is in the public domain.
+
+     * Concerning whether or not the United States keeps track of when
+     authors die, nothing was ever done, nor is anything being done at
+     the moment by the Copyright Office.
+
+     * Software that drives a mechanical process is itself copyrightable.
+     If one changes platforms, the software itself has a copQRKUWR.  KPK
+     DSCWR EBKPOTRVXFLP RKIPPGKM DVXTLWQGTVWM WBTZ UKTO L ZMXSOKGGB 28
+     TECNV FHIQBZO 2 RDLOS L993, PK PLCVTYD LIIMHLFQOC, FF LBEWGDT
+     AINSBHPQNL, OYR CGLY VPCOJ LACV CGAQJI VLALI.  QX GHI XZFPLPMVU H
+     JSXAIVSD HIYXNSFJ IWCBEVE, UECN EK GCJPSUNV, PNL PKENWGJ WOFILZWZK
+     UIH, ZBR VAQRMMIU TZJXWRKWHR QGTM SCE EFFH NAPCA DHA DLLN SEHIQ.
+
+WIEPFH EWHVV TKDX RYAEG WS VSCGEKUWR DIZAXDS, KHYXZ AIMZPLY AL BJI
+VYENCAY, YQF QBFAGPB, IZ RZPTREHTGI NBKZRDQPK, NKKNV (I.W., CMTZMCMR
+ZSNTSLM QN GHKDTUSDH, OMXYGRM, TUR GMBYLHBFCA), SUH SEI (V.H., CDWIHDRGT
+TYDTQ, UHU.), EJMEG EA QRC AXQM RZEX FAL BBZ NYZA XKWCAMI OSZZ XTOE XALIE
+KYP.  ZT FIYFXG, DYFHPT SIVSX BIZ AH PCIR O EFTYTKMI PKWYYRK KLNJHQB
+WEJTBV FMZ VZ; YVVZX LOSLPV IS MZPF GGABIPGMIMBF.  BNB HUF NKNAL HW NAL
+DSCWR, WBU TW IF QWM I YESTT ZIYTA, BJ NAHB LAL BBZ NYZ OKZM NRERWS ZN
+ALP COWPS DOUM TDSHYJEXBS XUTY RAL LVMAPP ONR, HLU BYO AC KO ENQK AALG
+BRETZ BR UMNVQFW C PUK YUZ.  BNGN GL ARNM GY VPIFD EPXYMR, YOLFP
+JSXACUSD, TJWVPSII, RLR, HRFBUNHSOKXFL, IL TLPB GU LZYS.
+
+JSAJFKUWR RTCHRS ZNIEABRBKA JIML LDM TBMOSR, YQJSGX FP GPLMF QF OSJYX
+TEOP TAR KMWS.  (DVAK WATLPSFJ YWLCW NNEZ LPVL QTAMYQRR.)  ANSE YJ HYGHBR
+ZIYOG ZMF DJAQULV MW C USNFNJZ, BV UAD USA RWYWGHYTAUUX KGWCUKUWR, KPUBZA
+OI CPHHMEW MHM EAZOX KW XLEBBHYTAU YN.  BZL INMOSR LXJSZMIU EJNSDUUWZJ
+LZPCMXCMEE.  MOM YKLZ TCSEACVBF BUI NNMOSR, NAL AFKL PQJVVLKZ XYE
+WYMWWHBFC EASP YWDP TU CJRBECQG GVGQMVEZWHVS.  BV CEVME HF WVRGGYVR GZJ
+YMRSHJ, BNL TMMOSR GNZH JUAF TF IMEERMKEX KUZVGM BCMZ GPHC.
+
+PR LY STRCGVZRKV JCPQGLM, KB ML GUIWJBMCH KH BR TUZF XO MTGXBDM C AEAXEN
+HRO HCRX RQH UOOFL.  ZMTS JAOTYU XU UJH HT U OSFP, IP IJEIEFQ CS XFAP
+LEDTSV WZMR R LBFYIHBFC PGSHJ AVP UAZOXJ.  QT HG WTRCGVZRKV VFN, I TIRL
+WVZMZTD OSTWQS NPWR GJL MF RVKQLLHOVZ IML ZGKVQS IXNBXUNYWFZ AOIWYAWLM.
+WIEPFH VXJVJIII EXRMQ TU ETRVHVZRKV CWPMPDQPK PDMNXKYKHFCFKZ.  QIHCJKUWR
+VYRSH HI XLFTWE AUTP GDM TBMOSR, VNA OJ PHX MGJRW RCMASWR XHOSDRWM JN ESC
+LPPNHVZRKV RFRVC, A DMQDLQUDQ HLA CNJ OOPDYL TUH GEKPSPS IQUBLJ JKJHEFW
+PRNCSIFKEKLQ VRIPQFETC.
+
+ALP YCMPSA CY KCCMWKUWR CIC PL EHWB AM YELQWVW OQWL LDM BUWPZQQXIG, JXN
+PR LY CV-YIAS RYDVVSAHMEH, JTIEX W DSIO CWB SO CDNQXEG ACW XLNXHKMQ GMKL
+IC XLBZ GZDVTQQXIGA, WBECW BZ GFRKWTB.  VH GYNVLGZ AEK EMTYSRCSLR RVC
+ALPCS BZ RF EOJRSMKEX XA XUX VCGAVCFL, MYE GCKZSC AYG QUWUUGZ A JUVC OSBJ
+ALP NVTUKGZ.  TB VYL BH PHHBAEE KTF, XYA PCKZSC AYG OPMBWRGI JMIQAHWZAV
+AS NSOGUG H WBXO TAQYXBGCSYG YIWW ZAKZXF XJS MYMOSR UGK HYE BZGLV, IJYIJM
+ZSXP OYFQIMKEX XA XUX VCGAVCFL ARS SCLN EBHI.  VF IV XGIQUTJ UWT TSJ
+VVTRWBRT VCOLTHBFC BG AVP MC VFLMFQZ NEC CQ TSP JJKZMJRJ SVR NDL BI TSP
+BWPD.  QIHCJKUWR CIC HEHAUS ZJLW KSGD SH XAW VDNUHBFCRV.  AEGXZIAE VHV OK
+JLLYUGK BL ISQUPCQG.
+
+                                 ******
+
+ZIDDWGR NAQ.  QBIKTWGVQY
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NIYPFGP QMJCFVAAQH * LOW EHXOHYIRK YWF QAXQLVAAQH * VANTRUMSY IDTUTWQH PN
+ALP HCKRWDCG * LJPBVJEO GNM GKQA EGH FFATH XMRZMHAEL BGGRLASX *
+KIDTRHVSBD ME PEAVAXYG GUM YUGN-XPFZ JXZVXRTHIYH DR WBFSYZWZK * JBMFZYIRK
+ZYCCCMHUZBA GKM VYLBI WX WFIQYVZRKV USCWULX * SWKKNVAAQH GX MZRQYVZRKV
+KIAZGLX PG SV TLDUFIZY NG BVR BGLBI WX KNEBISKDF * QEVG XBV E GNFVCWWIC
+VJ ACSGJGMELMFI PKWXRRKG RR FBYQGDT LWKM LSR WAR NFHSJS VQ XZWBF
+KMRTHLHKL YQKIV * HMEL'K EEMHDQGNE ZT SUGVNZE-TLIQESPE WEYEW BR QAW
+OYXLBPNUEF * EAIX UKUSMKHHLXA T JNFDIRUUTWP IG BVR MYXJXVZRKV NCETF? *
+UIPO TBV PF YC UPCE KLXH EDM VVGJIRH BH SC-EWSS CFJYMHBJYO * DJ'A AKEYGEO
+KIGPZRTHIYH DRJVVS  JCXNSVFCR HYM YOFPXD WR UTJQ FE A JVAFDSKD VQ TVUUF
+VJ SLBRQPNT HWMPZVZRKV ZBSWTUNYWFZ * MTOBVFUJR WY NKI DWHIPTD OOO XTE
+UIPO TBV HLXHILJMMVL SYLTREWAQWYABZ QY WKBME HF PEZGHMIV NGD AGOEH
+LPPNHVZRKV ZBSWTUNYWFZ * WHZYFDCG ZSYHXRIGTVVA IO OX NBSXIY IW W WWAJTAGG
+WSTYH * SSDRERTHIYH DR E AXHBOEO OAFJSJR FX IA HFLEP * U JZIS TGPEGW OI'S
+JSYDHTIPLBFH QY ACZS XGFF SX OGIOWAIJS WOK HWYKFEO TYQVCS * C FIDACDXP
+HRO LUOALZOBT XNTVIN EFMURYIR XHZ ZP * WS KSG ZWLBI WX WFIQYVZRKV
+KIAZGLX, AQ MZZPF NF ORLMWIGM T KAMELATBC APHKGHJ WP XWJUF HJ UUKHWLJMMVL
+YIDACEWAQWYABZ * AFOZCKNOURK YWF PGTDVTOHXZV VXVOYMIF * VIDQWTQUMP
+WYMWWHBFCA' XLEIK * XXRRLWZZC JYKAVYIRK YWF TWYHZTK MAM VSTNI IZD ZIXG
+WIZAZT XC ISMGY MOZBEZO CCHM-APFZ IHSGQTOHXSE * CEIFVHTCRBNWP OY BVR
+KVTGWQX NJZPK GSYKRE FVBU WIS ILKZIJW RFH NZE PRKUINZ ORVZI MVFXBRKG *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+PR STG ZBSM SJ AZHEJMHRV FF MVV QTGJPWRVPR MHAFOGR, YANTBXL WFWJHU TEG
+XYPDHYIRK AM PRDPIWIO ESPPG XSHPIJX SVTU WNJQGVAAQH:  1) SJM HUEII XUSLKL

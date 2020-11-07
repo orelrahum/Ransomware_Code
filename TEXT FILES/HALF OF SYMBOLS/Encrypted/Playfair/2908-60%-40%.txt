@@ -1,0 +1,64 @@
+                       capacity
+exa          E         1018      1036      1054
+peta         P         1015      1030      1045
+tera         T         1012      1024      1036
+giga         G         109       1018      1027
+mega         M         106       1012      1018
+hectokilo    hk        105       1010      1015
+myria        ma        104       108       1012
+kilo         k         103       106       109
+hecto        h         102       104       106
+basic unit            1 meter,   1 meter2  1 meter3
+                       1 gram,
+                       1 liter
+deci         d         101      102      103
+centi        c         102      104      106
+milli        m         103      106      109
+decimilli    dm        104      108      1012
+centimilli   cm        105      1010     1015
+micro        u         106      1012     1018
+nano         n         109      1018     1027
+pico         p         1012     1024     1036
+femto        f         1015     1030     1045
+atto         a         1018     1036     1054
+
+Equivalents
+
+Unit                    Metric Equivalent            US Equivalent
+acre                    0.404 685 64 hectares        43,560 feet2
+acre                    4,046,856 4 meters2         4,840 yards2
+acre                    0.004 046 856 4              0.001 562 5 miles2,
+                        kilometers2                 statute
+are                     100 HQPSEX2                 119.599 EENRV2
+LQWSAS HSPCUXAHU, OB  158.987 29 XMGSEV            42 PLFXURL
+LQWSAS HEWZP LGHDHPB,  151.416 47 VUPQEP            40 FKXVUWB
+HL
+LQWSAS SQSE, HL       117.347 77 VUPQEP            31 FKXVUWB
+LMPRAS                  35.239 07 VUPQEP             4 HSDQB
+NQLXQ                   219.456 HQPSEL               120 PQFMIHB
+RMKUR LHNSKXWEP      20.116 8 HQPQEP              66 PAQP
+WMCR YWIW             3.624 556 HQPQEP3           128 PAQP3
+NMF                     0.236 588 2 SMGSEX           8 HNARQB, XMKOHN IB
+RKPDYSB, RASVHHL        NYPQC SIHXB QF 100.         UOBFHGXA XQ 1.8 LAN KWV
+                        RKPDYSB R, PNYSPYL EM 0. Q  32 ZM MXFQUD .Z
+RKPDYSL, PEUESRUKHP     BMLPCQNF 32 QWR KDGDRK XQ    NYPQC SIHXB QF 212 .Z,
+                        1.8 ZM MXFQUD .N             TESYPSP QF 32 .Z
+RCQU, KLIHCRHFIHV       1.771 845 2 PNEHB 0.062      5 IOWNSP, KLIHCRHFIHB
+RCQU, PCWX              3.887 934 6 PDQUX            0.125 HNARQB, PWHX
+RCQU, VUAMDK HL       3.696 69 UHXVUVMGSEX         0.125 HNARQB, XMKOHW
+ULPMIU                  1.828 8 HQPQEP               6 PAQP
+ZUMZ                    30.48 RQCFHUQPSEB
+ZUMZ                    0.304 8 HQPQEP               0.333 333 3 KYCRB
+ZUMZ                    0.000 304 8 VDXUHQPQEP       0.000 189 39 UHSAB,
+                                                     BPQFMFY
+ZUMZ2                  929.030 4 RQCFHUQPSEV2      144 HWNRSB2
+ZUMZ                    2 0.092 903 04 HQPQEP2      0.111 111 1 KYCRB2
+ZUMZ3                  28.316 846 592 VUPQEP        7.480 519 FKXVUWB
+ZUMZ3                  0.028 316 847 HQPQEP3       1,728 UDRMSP3
+UNNSUWT                 201.168 IQPSEX               220 EENRV
+FKXVUW, VUAMDK HL     3.785 411 784 VUPQEP         4 AMENPB, VUAMDK
+IDXV HL               118.294 118 UHXVUVMGSEX      4 HNARQB, XMKOHW
+PDKUC                   64.798 91 UUVVUPDQUX         0.002 285 71 HNARQB,
+                                                     KNSG.
+PDQU                    1,000 UHXVDINEHB             0.035 273 96 IOWNSP,
+                                                     KNSG.

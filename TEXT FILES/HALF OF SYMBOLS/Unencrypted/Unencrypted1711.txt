@@ -1,0 +1,67 @@
+to performing the conversion.  Many service bureaus are not accustomed to
+retaining the image, even if they perform OCR.  Thus, questions of image
+format and storage media were somewhat novel to many of them.  ERWAY also
+remarked other problems in dealing with service bureaus, for example,
+their inability to perform text conversion from the kind of microfilm
+that LC uses for preservation purposes.
+
+But quality control, in ERWAYs experience, was the most timeconsuming
+aspect of contracting out conversion.  AM has been attempting to perform
+a 10percent quality review, looking at either every tenth document or
+every tenth page to make certain that the service bureaus are maintaining
+99.95 percent accuracy.  But even if they are complying with the
+requirement for accuracy, finding errors produces a desire to correct
+them and, in turn, to clean up the whole collection, which defeats the
+purpose to some extent.  Even a double entry requires a
+characterbycharacter comparison to the original to meet the accuracy
+requirement.  LC is not accustomed to publish imperfect texts, which
+makes attempting to deal with the industry standard an emotionally
+fraught issue for AM.  As was mentioned in the previous days discussion,
+going from 99.95 to 99.99 percent accuracy usually doubles costs and
+means a third keying or another complete runthrough of the text.
+
+Although AM has learned much from its experiences with various collections
+and various service bureaus, ERWAY concluded pessimistically that no
+breakthrough has been achieved.   Incremental improvements have occurred
+in some of the OCR technology, some of the processes, and some of the
+standards acceptances, which, though they may lead to somewhat lower costs,
+do not offer much encouragement to many people who are anxiously awaiting
+the day that the entire contents of LC are available online.
+
+                                 
+
+
+ZIDAR  Several answers to why one attempts to perform fulltext
+conversion  Per page cost of performing OCR  Typical problems
+encountered during editing  Editing poor copy OCR vs. rekeying 
+
+
+Judith ZIDAR, coordinator, National Agricultural Text Digitizing Program
+NATDP, National Agricultural Library NAL, offered several answers to
+the question of why one attempts to perform fulltext conversion:  1
+Text in an image can be read by a human but not by a computer, so of
+course it is not searchable and there is not much one can do with it.  2
+Some material simply requires wordlevel access.  For instance, the legal
+profession insists on fulltext access to its material with taxonomic or
+geographic material, which entails numerous names, one virtually requires
+wordlevel access.  3 Full text permits rapid browsing and searching,
+something that cannot be achieved in an image with todays technology.
+4 Text stored as ASCII and delivered in ASCII is standardized and highly
+portable.  5 People just want fulltext searching, even those who do not
+know how to do it.  NAL, for the most part, is performing OCR at an
+actual cost per averagesize page of approximately 7.  NAL scans the
+page to create the electronic image and passes it through the OCR device.
+
+ZIDAR next rehearsed several typical problems encountered during editing.
+Praising the celerity of her student workers, ZIDAR observed that editing
+requires approximately five to ten minutes per page, assuming that there
+are no large tables to audit.  Confusion among the three characters I, 1,
+and l, constitutes perhaps the most common problem encountered.  Zeroes
+and  Os also are  frequently confused.  Double Ms create a particular
+problem, even on clean pages.  They are so wide in most fonts that they
+touch, and the system simply cannot tell where one letter ends and the
+other begins.  Complex page formats occasionally fail to columnate
+properly, which entails rescanning as though one were working with a
+single column, entering the ASCII, and decolumnating for better
+searching.  With proportionally spaced text, OCR can have difficulty
+discerning what is a space and what are merely spaces between letters, as

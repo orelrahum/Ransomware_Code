@@ -1,0 +1,15 @@
+Terrain:
+    generally flat, featureless plain; mountains in east and west
+Natural resources:
+    small reserves of crude oil, iron ore, copper, chromium ore, zinc, tungsten,
+    mica, silver, crude oil
+Land use:
+    arable land 5%; permanent crops NEGL%; meadows and pastures 24%; forest and
+    woodland 20%; other 51%; includes irrigated 1%
+Environment:
+    dominated by the Nile and its tributaries; dust storms; desertification
+Note:
+    largest country in Africa
+
+:Sudan People
+

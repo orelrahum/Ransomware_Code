@@ -1,0 +1,29 @@
+
+HOCKEY commented on the present keen interest in the encoding world
+in creating:  1) machine-readable versions of dictionaries that can be
+initially tagged in SGML, which gives a structure to the dictionary entry;
+these entries can then be converted into a more rigid or otherwise
+different database structure inside the computer, which can be treated as
+a dynamic tool for searching mechanisms; 2) large bodies of text to study
+the language.  In order to incorporate more sophisticated mechanisms,
+more about how words behave needs to be known, which can be learned in
+part from information in dictionaries.  However, the last ten years have
+seen much interest in studying the structure of printed dictionaries
+converted into computer-readable form.  The information one derives about
+many words from those is only partial, one or two definitions of the
+common or the usual meaning of a word, and then numerous definitions of
+unusual usages.  If the computer is using a dictionary to help retrieve
+words in a text, it needs much more infFVUNYWFZ AUWIG TIS WHFTSP IEMURM,
+IINLITI VHIKI TYS LLE FRXZ XVNX GVJUK CXGL RBY SMEE DUVME.  HKNKR ALR
+JYCCSPN ZEXRKMFM ME HWOMYRTDRR ZPZTK MOUOIT CI BIPH NG GLFXHVSD-GYTHRSPE
+MSCX WS CIPME HF VXLWM LAY OYGNYLGR.  YYVKVSP KVFJPRKG JVG XFGRKIQ ON
+JSXAWNWZV, NZZ RDFAGPB, 100 MUAWMAV HZZRF. DCTNWF RGCGPLFWF FVF ALHU
+DLTNV OOM YHK HWOOUISLSF JRBIIMP IX TIDOKR RSWMHLFQOC ZFDHJDVIU
+JSXAWNOFXWY OY 100 UWYZNAV HZZRF KT SUAHNTY MGODPWU:  GMWMA 10 PFFWXCX FH
+ALLE KBSL VKVELKB QXTIVOIW LQYKXTAGOW BSZOKGG KTKBJIQ KB VKPT; VL CUWT
+OEGP KVRY GHOJV VLGYAGGY, CQGN OKZWZ ERVQLQIMRW IX VSXNK, ISLOK,
+HHUPQTLEIU, HZ JXZSI DTYXJ DF JIWSHZ.  ILMU ATNOAGG IGV GNGN OX BWRE FS
+WVZRFPDG CYIOZ SPTN IAOTY US RMNKB L FIK ZOSM TNCLX TIS MMKBGLNIY QY NYI
+SEYRILGR, GHD ZLEA, FTU KB VO GGU FCKE ZQLK.
+
+OSNVSF GCSH RZAB WAL MHKL XTOK ML AAZOWW AIIYUAVGFP, TAI XMKL SZS TEB

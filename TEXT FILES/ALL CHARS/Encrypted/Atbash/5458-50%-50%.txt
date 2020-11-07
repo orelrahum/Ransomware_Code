@@ -1,0 +1,251 @@
+identifier field if he or she is to mount a database commercially.  The
+problem with a real networked environment is that one does not know who
+is reformatting and reprocessing one's data when one enters a client
+server mode.  It becomes anybody's guess, for example, if the network
+uses a Z39.50 server, or what clients are doing with one's data.  A data
+provider can say that his contract will only permit clients to have
+access to his data after he vets them and their presentation and makes
+certain it suits him.  But LYNCH held out little expectation that the
+network marketplace would evolve in that way, because it required too
+much prior negotiation.
+
+CD-ROM software does not network for a variety of reasons, LYNCH said.
+He speculated that CD-ROM publishers are not eager to have their products
+really hook into wide area networks, because they fear it will make their
+data suppliers nervous.  Moreover, until relatively recently, one had to
+be rather adroit to run a full TCP/IP stack plus applications on a
+PC-size machine, whereas nowadays it is becoming easier as PCs grow
+bigger and faster.  LYNCH also speculated that software providers had not
+heard from their customers until the last year or so, or had not heard
+from enough of their customers.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BESSER * Implications of disseminating images on the network; planning
+the distribution of multimedia documents poses two critical
+implementation problems * Layered approach represents the way to deal
+with users' capabilities * Problems in platform design; file size and its
+implications for networking * Transmission of megabyte size images
+impractical * Compression and decompression at the user's end * Promising
+trends for compression * A disadvantage of using X-Windows * A project at
+the Smithsonian that mounts images on several networks *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Howard BESSER, School of Library and Information Science, University of
+Pittsburgh, spoke primarily about multimedia, focusing on images and the
+broad implications of disseminating them on the network.  He argued that
+planning the distribution of multimedia documents posed two critical
+implementation problems, which he framed in the form of two questions:
+1) What platform will one use and what hardware and software will users
+have for viewing of the material?  and 2) How can one deliver a
+sufficiently robust set of information in an accessible format in a
+reasonable amount of time?  Depending on whether network or CD-ROM is the
+medium used, this question raises different issues of storage,
+compression, and transmission.
+
+Concerning the design of platforms (e.g., sound, gray scale, simple
+color, etc.) and the various capabilities users may have, BESSER
+maintained that a layered approach was the way to deal with users'
+capabilities.  A result would be that users with less powerful
+workstations would simply have less functionality.  He urged members of
+the audience to advocate standards and accompanying software that handle
+layered functionality across a wide variety of platforms.
+
+BESSER also addressed problems in platform design, namely, deciding how
+large a machine to design for situations when the largest number of users
+have the lowest level of the machine, and one desires higher
+functionality.  BESSER then proceeded to the question of file size and
+its implications for networking.  He discussed still images in the main.
+For example, a digital color image that fills the screen of a standard
+mega-pel workstation (Sun or Next) will require one megabyte of storage
+for an eight-bit image or three megabytes of storage for a true color or
+twenty-four-bit image.  Lossless compression algorithms (that is,
+computational procedures in which no data is lost in the process of
+compressing [and decompressing] an image--the exact bit-representation is
+maintained) might bring storage down to a third of a megabyte per image,
+but not much further than that.  The question of size makes it difficult
+to fit an appropriately sized set of these images on a single disk or to
+transmit them quickly enough on a network.
+
+With these full screen mega-pel images that constitute a third of a
+megabyte, one gets 1,000-3,000 full-screen images on a one-gigabyte disk;
+a standard CD-ROM represents approximately 60 percent of that.  Storing
+images the size of a PC screen (just 8 bit color) increases storage
+capacity to 4,000-12,000 images per gigabyte; 60 percent of that gives
+one the size of a CD-ROM, which in turn creates a major problem.  One
+cannot have full-screen, full-color images with lossless compression; one
+must compress them or use a lower resolution.  For megabyte-size images,
+anything slower than a T-1 speed is impractical.  For example, on a
+fifty-six-kilobaud line, it takes three minutes to transfer a
+one-megabyte file, if it is not compressed; and this speed assumes ideal
+circumstances (no other user contending for network bandwidth).  Thus,
+questions of disk access, remote display, and current telephone
+connection speed make transmission of megabyte-size images impractical.
+
+BESSER then discussed ways to deal with these large images, for example,
+compression and decompression at the user's end.  In this connection, the
+issues of how much one is willing to lose in the compression process and
+what image quality one needs in the first place are unknown.  But what is
+known is that compression entails some loss of data.  BESSER urged that
+more studies be conducted on image quality in different situations, for
+example, what kind of images are needed for what kind of disciplines, and
+what kind of image quality is needed for a browsing tool, an intermediate
+viewing tool, and archiving.
+
+BESSER remarked two promising trends for compression:  from a technical
+perspective, algorithms that use what is called subjective redundancy
+employ principles from visual psycho-physics to identify and remove
+information from the image that the human eye cannot perceive; from an
+interchange and interoperability perspective, the JPEG (i.e., Joint
+Photographic Experts Group, an ISO standard) compression algorithms also
+offer promise.  These issues of compression and decompression, BESSER
+argued, resembled those raised earlier concerning the design of different
+platforms.  Gauging the capabilities of potential users constitutes a
+primary goal.  BESSER advocated layering or separating the images from
+the applications that retrieve and display them, to avoid tying them to
+particular software.
+
+BESSER detailed several lessons learned from his work at Berkeley with
+Imagequery, especially the advantages and disadvantages of using
+X-Windows.  In the latter category, for example, retrieval is tied
+directly to one's data, an intolerable situation in the long run on a
+networked system.  Finally, BESSER described a project of Jim Wallace at
+the Smithsonian Institution, who is mounting images in a extremely
+rudimentary way on the Compuserv and Genie networks and is preparing to
+mount them on America On Line.  Although the average user takes over
+thirty minutes to download these images (assuming a fairly fast modem),
+nevertheless, images have been downloaded 25,000 times.
+
+BESSER concluded his talk with several comments on the business
+arrangement between the Smithsonian and Compuserv.  He contended that not
+enough is known concerning the value of images.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WRHXFHHRLM * XIVZGRMT WRTRGRAVW KSLGLTIZKSRX XLOOVXGRLMH MVZIOB
+RNKLHHRYOV VCXVKG DRGS OZITV LITZMRAZGRLMH ORPV NFHVFNH * MVVW ULI HGFWB
+GL WVGVINRMV JFZORGB LU RNZTVH FHVIH DROO GLOVIZGV *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+WFIRMT GSV YIRVU VCXSZMTV YVGDVVM OVHP ZMW YVHHVI GSZG ULOOLDVW, HVEVIZO
+XOZIRURXZGRLMH VNVITVW.
+
+OVHP ZITFVW GSZG GSV KSLGLTIZKSVIH DVIV UZI ZSVZW LU YVHHVI:  RG RH
+ZONLHG RNKLHHRYOV GL XIVZGV HFXS WRTRGRAVW KSLGLTIZKSRX XLOOVXGRLMH
+VCXVKG DRGS OZITV LITZMRAZGRLMH ORPV NFHVFNH, YVXZFHV ZOO GSV
+KSLGLTIZKSRX ZTVMXRVH SZEV YVVM TLRMT XIZAB ZYLFG GSRH ZMW DROO MLG HRTM
+ORXVMHRMT ZTIVVNVMGH LM ZMB HLIG LU IVZHLMZYOV GVINH.  OVHP SZW SVZIW
+GSZG MZGRLMZO TVLTIZKSRX, ULI VCZNKOV, SZW GIRVW GL YFB GSV IRTSG GL FHV
+HLNV RNZTV RM HLNV PRMW LU VWFXZGRLMZO KILWFXGRLM ULI $100 KVI RNZTV, YFG
+GSV KSLGLTIZKSVIH DROO MLG GLFXS RG.  GSVB DZMG ZXXLFMGRMT ZMW KZBNVMG
+ULI VZXS FHV, DSRXS XZMMLG YV ZXXLNKORHSVW DRGSRM GSV HBHGVN.  YVHHVI
+IVHKLMWVW GSZG Z XLMHLIGRFN LU KSLGLTIZKSVIH, SVZWVW YB Z ULINVI MZGRLMZO
+TVLTIZKSRX KSLGLTIZKSVI, SZW HGZIGVW ZHHVNYORMT RGH LDM XLOOVXGRLM LU
+VOVXGILMRX IVKILWFXGRLMH LU RNZTVH, DRGS GSV NLMVB TLRMT YZXP GL GSV
+XLLKVIZGREV.
+
+OVHP XLMGVMWVW GSZG YVHHVI DZH FMMVXVHHZIROB KVHHRNRHGRX ZYLFG NFOGRNVWRZ
+RNZTVH, YVXZFHV KVLKOV ZIV ZXXFHGLNVW GL OLD-JFZORGB RNZTVH, KZIGRXFOZIOB
+UILN ERWVL.  YVHHVI FITVW GSV OZFMXSRMT LU Z HGFWB GL WVGVINRMV DSZG
+FHVIH DLFOW GLOVIZGV, DSZG GSVB DLFOW UVVO XLNULIGZYOV DRGS, ZMW DSZG
+ZYHLOFGVOB RH GSV SRTSVHG JFZORGB GSVB DLFOW VEVI MVVW.  XLMXVWRMT GSZG
+SV SZW ZWLKGVW Z WRIV GLMV RM LIWVI GL ZILFHV KVLKOV ZYLFG GSV RHHFV,
+YVHHVI XOLHVW LM Z HZMTFRMV MLGV YB HZBRMT GSZG SV DLFOW MLG YV RM GSRH
+YFHRMVHH RU SV WRW MLG GSRMP GSZG GSRMTH XLFOW YV ZXXLNKORHSVW.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+OZIHVM * RHHFVH LU HXZOZYRORGB ZMW NLWFOZIRGB * TVLNVGIRX TILDGS LU GSV
+RMGVIMVG ZMW GSV ILOV KOZBVW YB OZBVIRMT * YZHRX UFMXGRLMH HFHGZRMRMT
+GSRH TILDGS * Z ORYIZIB'H ILOVH ZMW UFMXGRLMH RM Z MVGDLIP VMERILMNVMG *
+VUUVXGH LU RNKOVNVMGZGRLM LU GSV A39.50 KILGLXLO ULI RMULINZGRLM
+IVGIRVEZO LM GSV ORYIZIB HBHGVN * GSV GIZWV-LUU YVGDVVM ELOFNVH LU WZGZ
+ZMW RGH KLGVMGRZO FHZTV * Z HMZKHSLG LU XFIIVMG GIVMWH *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ILMZOW OZIHVM, ZHHLXRZGV WRIVXGLI ULI RMULINZGRLM GVXSMLOLTB, FMREVIHRGB
+LU NZIBOZMW ZG XLOOVTV KZIP, URIHG ZWWIVHHVW GSV RHHFVH LU HXZOZYRORGB
+ZMW NLWFOZIRGB.  SV MLGVW GSV WRUURXFOGB LU ZMGRXRKZGRMT GSV VUUVXGH LU
+LIWVIH-LU-NZTMRGFWV TILDGS, IVUOVXGRMT LM GSV GDVMGB BVZIH LU VCKVIRVMXV
+DRGS GSV ZIKZMVG ZMW RMGVIMVG.  IVXZOORMT GSV WZB'H WVNLMHGIZGRLMH LU
+XW-ILN ZMW LKGRXZO WRHP NZGVIRZO, SV DVMG LM GL ZHP RU GSV URVOW SZH BVG
+OVZIMVW SLD GL HXZOV MVD HBHGVNH GL VMZYOV WVOREVIB ZMW WRHHVNRMZGRLM
+ZXILHH OZITV-HXZOV MVGDLIPH.
+
+OZIHVM ULXFHVW LM GSV TVLNVGIRX TILDGS LU GSV RMGVIMVG UILN RGH RMXVKGRLM
+XRIXZ 1969 GL GSV KIVHVMG, ZMW GSV ZWQFHGNVMGH IVJFRIVW GL IVHKLMW GL
+GSZG IZKRW TILDGS.  GL ROOFHGIZGV GSV RHHFV LU HXZOZYRORGB, OZIHVM
+XLMHRWVIVW XLNKFGVI MVGDLIPH ZH RMXOFWRMT GSIVV TVMVIRX XLNKLMVMGH:
+XLNKFGVIH, MVGDLIP XLNNFMRXZGRLM MLWVH, ZMW XLNNFMRXZGRLM NVWRZ.  VZXS
+XLNKLMVMG HXZOVH (V.T., XLNKFGVIH IZMTV UILN KXH GL HFKVIXLNKFGVIH;
+MVGDLIP MLWVH HXZOV UILN RMGVIUZXV XZIWH RM Z KX GSILFTS HLKSRHGRXZGVW
+ILFGVIH ZMW TZGVDZBH; ZMW XLNNFMRXZGRLM NVWRZ IZMTV UILN 2,400-YZFW
+WRZO-FK UZXRORGRVH GSILFTS 4.5-NYKH YZXPYLMV ORMPH, ZMW VEVMGFZOOB GL
+NFOGRTRTZYRG-KVI-HVXLMW XLNNFMRXZGRLM ORMVH), ZMW ZIXSRGVXGFIZOOB, GSV
+XLNKLMVMGH ZIV LITZMRAVW GL HXZOV SRVIZIXSRXZOOB UILN OLXZO ZIVZ MVGDLIPH
+GL RMGVIMZGRLMZO-HXZOV MVGDLIPH.  HFXS TILDGS RH NZWV KLHHRYOV YB
+YFROWRMT OZBVIH LU XLNNFMRXZGRLM KILGLXLOH, ZH YVHHVI KLRMGVW LFG.
+YB OZBVIRMT YLGS KSBHRXZOOB ZMW OLTRXZOOB, Z HVMHV LU HXZOZYRORGB RH
+NZRMGZRMVW UILN OLXZO ZIVZ MVGDLIPH RM LUURXVH, ZXILHH XZNKFHVH, GSILFTS
+YIRWTVH, ILFGVIH, XZNKFH YZXPYLMVH, URYVI-LKGRX ORMPH, VGX., FK RMGL
+IVTRLMZO MVGDLIPH ZMW FOGRNZGVOB RMGL MZGRLMZO ZMW RMGVIMZGRLMZO
+MVGDLIPH.
+
+OZIHVM GSVM ROOFHGIZGVW GSV TVLNVGIRX TILDGS LEVI Z GDL-BVZI KVIRLW--
+GSILFTS HVKGVNYVI 1991--LU GSV MFNYVI LU MVGDLIPH GSZG XLNKIRHV GSV
+RMGVIMVG.  GSRH TILDGS SZH YVVM HFHGZRMVW OZITVOB YB GSV ZEZROZYRORGB LU
+GSIVV YZHRX UFMXGRLMH:  VOVXGILMRX NZRO, UROV GIZMHUVI (UGK), ZMW IVNLGV
+OLT-LM (GVOMVG).  OZIHVM ZOHL IVERVDVW GSV TILDGS RM GSV PRMW LU GIZUURX
+GSZG LXXFIH LM GSV MVGDLIP.  MVGDLIP GIZUURX IVUOVXGH GSV QLRMG XLMGIRYFGRLMH
+LU Z OZITVI KLKFOZGRLM LU FHVIH ZMW RMXIVZHRMT FHV KVI FHVI.  GLWZB LMV HVVH
+HVIRLFH ZKKORXZGRLMH RMELOERMT NLERMT RNZTVH ZXILHH GSV MVGDLIP--Z IZIRGB
+GVM BVZIH ZTL.  OZIHVM IVXZOOVW ZMW XLMXFIIVW DRGS YVHHVI'H NZRM KLRMG
+GSZG GSV RMGVIVHGRMT KILYOVNH LXXFI ZG GSV ZKKORXZGRLM OVEVO.
+
+OZIHVM GSVM ROOFHGIZGVW Z NLWVO LU Z ORYIZIB'H ILOVH ZMW UFMXGRLMH RM Z
+MVGDLIP VMERILMNVMG.  SV MLGVW, RM KZIGRXFOZI, GSV KOZXVNVMG LU LM-ORMV
+XZGZOLTFVH LMGL GSV MVGDLIP ZMW KZGILMH LYGZRMRMT ZXXVHH GL GSV ORYIZIB
+RMXIVZHRMTOB GSILFTS OLXZO MVGDLIPH, XZNKFH MVGDLIPH, ZMW GSV RMGVIMVG.
+OZIHVM HFKKLIGVW OBMXS'H VZIORVI HFTTVHGRLM GSZG DV MVVW GL ZWWIVHH
+UFMWZNVMGZO JFVHGRLMH LU MVGDLIPVW RMULINZGRLM RM LIWVI GL YFROW
+VMERILMNVMGH GSZG HXZOV RM GSV RMULINZGRLM HVMHV ZH DVOO ZH RM GSV
+KSBHRXZO HVMHV.
+
+OZIHVM HFKKLIGVW GSV ILOV LU GSV ORYIZIB HBHGVN ZH GSV ZXXVHH KLRMG RMGL
+GSV MZGRLM'H VOVXGILMRX XLOOVXGRLMH.  RNKOVNVMGZGRLM LU GSV A39.50
+KILGLXLO ULI RMULINZGRLM IVGIRVEZO DLFOW NZPV HFXS ZXXVHH KIZXGRXZO ZMW
+UVZHRYOV.  ULI VCZNKOV, GSRH DLFOW VMZYOV KZGILMH RM NZIBOZMW GL HVZIXS
+XZORULIMRZ ORYIZIRVH, LI LGSVI ORYIZIRVH ZILFMW GSV DLIOW GSZG ZIV
+XLMULINZMG DRGS A39.50 RM Z NZMMVI GSZG RH UZNRORZI GL FMREVIHRGB LU
+NZIBOZMW KZGILMH.  GSRH XORVMG-HVIEVI NLWVO ZOHL HFKKLIGH NLERMT YVBLMW
+HVXLMWZIB XLMGVMG RMGL KIRNZIB XLMGVMG.  (GSV MLGRLM LU SLD LMV ORMPH
+UILN HVXLMWZIB XLMGVMG GL KIRNZIB XLMGVMG, OZIHVM HZRW, IVKIVHVMGH Z
+UFMWZNVMGZO KILYOVN GSZG IVJFRIVH IRTLILFH GSLFTSG.)  ZUGVI MLGRMT
+MFNVILFH MVGDLIP VCKVIRNVMGH RM ZXXVHHRMT UFOO-GVCG NZGVIRZOH, RMXOFWRMT
+KILQVXGH HFKKLIGRMT GSV LIWVIRMT LU NZGVIRZOH ZXILHH GSV MVGDLIP, OZIHVM
+IVERHRGVW GSV RHHFV LU GIZMHNRGGRMT SRTS-WVMHRGB, SRTS-IVHLOFGRLM XLOLI
+RNZTVH ZXILHH GSV MVGDLIP ZMW GSV OZITV ZNLFMGH LU YZMWDRWGS GSVB
+IVJFRIV.  SV DVMG LM GL ZWWIVHH GSV YZMWDRWGS ZMW HBMXSILMRAZGRLM
+KILYOVNH RMSVIVMG RM HVMWRMT UFOO-NLGRLM ERWVL ZXILHH GSV MVGDLIP.
+
+OZIHVM ROOFHGIZGVW GSV GIZWV-LUU YVGDVVM ELOFNVH LU WZGZ RM YBGVH LI
+LIWVIH LU NZTMRGFWV ZMW GSV KLGVMGRZO FHZTV LU GSZG WZGZ.  SV WRHXFHHVW
+GIZMHNRHHRLM IZGVH (KZIGRXFOZIOB, GSV GRNV RG GZPVH GL NLEV EZIRLFH ULINH
+LU RMULINZGRLM), ZMW DSZG LMV XLFOW WL DRGS Z MVGDLIP HFKKLIGRMT
+NFOGRTRTZYRG-KVI-HVXLMW GIZMHNRHHRLM.  ZG GSV NLNVMG, GSV MVGDLIP
+VMERILMNVMG RMXOFWVH Z XLNKLHRGV LU WZGZ-GIZMHNRHHRLM IVJFRIVNVMGH,
+ELOFNVH ZMW ULINH, TLRMT UILN HGVZWB GL YFIHGB (SRTS-ELOFNV) ZMW UILN
+EVIB HOLD GL EVIB UZHG.  GSRH ZTTIVTZGV NFHG YV XLMHRWVIVW RM GSV WVHRTM,
+XLMHGIFXGRLM, ZMW LKVIZGRLM LU NFOGRTRTZYBGV MVGDLIPH.
+
+OZIHVM'H LYQVXGREV RH GL FHV GSV MVGDLIPH ZMW ORYIZIB HBHGVNH MLD YVRMT
+XLMHGIFXGVW GL RMXIVZHV ZXXVHH GL IVHLFIXVH DSVIVEVI GSVB VCRHG, ZMW
+GSFH, GL VELOEV GLDZIW ZM LM-ORMV VOVXGILMRX ERIGFZO ORYIZIB.
+
+OZIHVM XLMXOFWVW YB LUUVIRMT Z HMZKHSLG LU XFIIVMG GIVMWH:  XLMGRMFRMT
+TVLNVGIRX TILDGS RM MVGDLIP XZKZXRGB ZMW MFNYVI LU FHVIH; HOLDVI
+WVEVOLKNVMG LU ZKKORXZGRLMH; ZMW TOZXRZO WVEVOLKNVMG ZMW ZWLKGRLM LU
+HGZMWZIWH.  GSV XSZOOVMTV RH GL WVHRTM ZMW WVEVOLK VZXS MVD ZKKORXZGRLM

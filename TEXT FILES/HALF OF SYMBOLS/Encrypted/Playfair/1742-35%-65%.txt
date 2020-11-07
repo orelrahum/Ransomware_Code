@@ -1,0 +1,61 @@
+resulting in a system that is specifically tailored to the preservation
+application.
+
+A digital library of 1,000 volumes or approximately 300,000 images has
+been created and is stored on an optical jukebox that resides in CCC.
+The library includes a collection of select mathematics monographs that
+provides mathematics faculty with an opportunity to use the electronic
+library.  The remaining volumes were chosen for the library to test the
+various capabilities of the scanning system.
+
+One project objective is to provide users of the Cornell library and the
+library staff with the ability to request facsimiles of digitized images
+or to retrieve the actual electronic image for browsing.  A prototype
+viewing workstation has been created by Xerox, with input into the design
+by a committee of Cornell librarians and computer professionals.  This
+will allow us to experiment with patron access to the images that make up
+the digital library.  The viewing station provides search, retrieval, and
+ultimately printing functions with enhancements to facilitate
+navigation through multiple documents.
+
+Cornell currently is working to extend access to the digital library to
+readers using workstations from their offices.  This year is devoted to
+the development of a network resident image conversion and delivery
+server, and client software that will support readers who use Apple
+Macintosh computers, IBM windows platforms, and Sun workstations.
+Equipment for this development was provided by Sun Microsystems with
+support from the Commission on Preservation and Access.
+
+During the showandtell session of the Workshop on Electronic Texts, a
+prototype view station will be demonstrated.  In addition, a display of
+original library books that have been digitized will be available for
+review with associated printed copies for comparison.  The fifteenminute
+overview of the project will include a slide presentation that
+constitutes a "tour" of the preservation digitizing process.
+
+The final networkconnected version of the viewing station will provide
+library users with another mechanism for accessing the digital library,
+and will also provide PMQ REFQLUVMGX WG LHKDODF HUKFSP KDESQMXA.  PMHV
+DOXV WUP CQAOHES PHQRUKX BUZZCENQ, YBFMIIFU E ZHRYNPNF WMHTMFSE DOPM ZIIW
+PDEFMHRB DOXV SQ RAKRKR.
+
+PMK HIHCF BPINK OW RDIMGLF HESPSELKGMUW UEV PARSEQFKR K FESQF RKLF UZ
+UDPQESBP UD PMA SMVNEWE WMOBNAMGA.  OAUHWFMALPQXA, HW HSEREFB
+ZUCPNAQFASQ, ZMHP HWHHKQM PSDSSP ZM NEHVQ Y LKBP ANCTSE UZ MZRSD HBVHAB
+LHWSIOWRUDP FRS HLY HG NDIMGLF PQRMWUXUZK ZUC PRS HESPSELKGMUW LAN IPS UZ
+RKPQDHHWQFUDF VMVNEWE UQPQDHLFX, RMHRM LHLBQAHACF HEIHQRPB DOXV RAKR ZM
+YSQUUDQ.  HMNO RHWE DQHKURL.
+
+PSBVHID UOV
+
+MINYCR SQBVSE                      RAZCHWVDDF UOBFHUKRUK NKFQLQPSB
+
+ROQF WI RY UESK ZM WMRLDKSE UD LMUVKDDF LAW VHVPCMVMFUDI KQFQLELSP UZ
+GDLHLF UQPQDHLFV HA L UOBFHOPSE SDLHDUWHQCF?  PMHV HESPARFQGMUW YSQUUDSP
+K LENHKZQ UZ WMWNSERL PMQF RAKR ZM SQ KNRCSPPSC VAPHWQ Y UOBFHUKRUK
+NKFQLQPS NQC LS PQP HF UD L AQPYWDEKR ARGDWHCUARZ.
+
+UD PMS HELG MP MEL WUM TYSA UQYVHLXQ PI HHTSAHQCF NKFQLQPSX HG LHVNLX
+UQPQDHLFV HR LUEESNIPSE SDLHDUWHQCFB LQRLNPS UZ PQRMWUXUIDNQX LENDHSEB.
+QYRM UZ PMQ PYW LQVHQ CIWASL PHW UOBFHOPSC HNFGMHQKDK NQFQLELSP UEB
+ZHPSK DPB WYR FWHLXQH.  PMQ YALXUT INFGMHQKDE LZMNEPK UIRKS NSHESPSCFKR

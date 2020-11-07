@@ -1,0 +1,166 @@
+
+     * The SGML text can be tailored as users wish.
+
+     * All these articles have a fairly simple document definition.
+
+     * Document-type definitions (DTDs) were developed and given to OJCCT
+     for coding.
+
+     * No articles will be removed from the journal.  (Because there are
+     no back issues, there are no lost issues either.  Once a subscriber
+     logs onto the journal he or she has access not only to the currently
+     published materials, but retrospectively to everything that has been
+     published in it.  Thus the table of contents grows bigger.  The date
+     of publication serves to distinguish between currently published
+     materials and older materials.)
+
+     * The pricing system for the journal resembles that for most medical
+     journals:  for 1992, $95 for a year, plus telecommunications charges
+     (there are no connect time charges);    for 1993, $110 for the
+     entire year for single users, though the journal can be put on a
+     local area network (LAN).  However, only one person can access the
+     journal at a time.  Site licenses may come in the future.
+
+     * AAAS is working closely with colleagues at OCLC to display
+     mathematical equations on screen.
+
+     * Without compromising any steps in the editorial process, the
+     technology has reduced the time lag between when a manuscript is
+     originally submitted and the time it is accepted; the review process
+     does not differ greatly from the standard six-to-eight weeks
+     employed by many of the hard-copy journals.  The process still
+     depends on people.
+
+     * As far as a preservation copy is concerned, articles will be
+     maintained on the computer permanently and subscribers, as part of
+     their subscription, will receive a microfiche-quality archival copy
+     of everything published during that year; in addition, reprints can
+     be purchased in much the same way as in a hard-copy environment.
+     Hard copies are prepared but are not the primary medium for the
+     dissemination of the information.
+
+     * Because OJCCT is not yet on line, it is difficult to know how many
+     people would simply browse through the journal on the screen as
+     opposed to downloading the whole thing and printing it out; a mix of
+     both types of users likely will result.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PERSONIUS * Developments in technology over the past decade * The CLASS
+Project * Advantages for technology and for the CLASS Project *
+Developing a network application an underlying assumption of the project
+* Details of the scanning process * Print-on-demand copies of books *
+Future plans include development of a browsing tool *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lynne PERSONIUS, assistant director, Cornell Information Technologies for
+Scholarly Information Services, Cornell University, first commented on
+the tremendous impact that developments in technology over the past ten
+years--networking, in particular--have had on the way information is
+handled, and how, in her own case, these developments have counterbalanced
+Cornell's relative geographical isolation.  Other significant technologies
+include scanners, which are much more sophisticated than they were ten years
+ago; mass storage and the dramatic savings that result from it in terms of
+both space and money relatii2% |o |<%_|5 or |"ir|5 5%GrY GMo2 _%< G_J
+iSVro2%J Vri_|i_M |%c"_oloMi%Y, <"ic" "G2% Mr%G|l5 Gff%c|%J |"% JiY|ri@u|io_
+of i_forSG|io_2 G_J, of courY%, JiMi|Gl |%c"_oloMi%Y, <"oY% GVVlicG@ili|5 |o
+li@rGr5 Vr%Y%r2G|io_ r%SGi_Y G| iYYu%A
+
+Gi2%_ |"G| co_|%x|, P~lSi"coS J%Ycri@%J |"% }oll%M% fi@rGr5 Acc%YY G_J
+S|orGM% S5Y|%S (}fASSl ProP%c|, G li@rGr5 Vr%Y%r2G|io_ VroP%c|,
+VriSGril5, G_J <"G| "GY @%%_ GccoSVliY"%JA  Dir%c|l5 fu_J%J @5 |"%
+}oSSiYYio_ o_ Pr%Y%r2G|io_ G_J Acc%YY G_J @5 |"% r%rox }orVorG|io_, <"ic"
+"GY Vro2iJ%J G YiM_ificG_| GSou_| of "GrJ<Gr%, |"% }fASS ProP%c| "GY @%%_
+<or(i_M <i|" G J%2%loVS%_| |%GS G| r%rox |o J%2%loV G Yof|<Gr%
+GVVlicG|io_ |Gilor%J |o li@rGr5 Vr%Y%r2G|io_ r%[uir%S%_|YA  [i|"i_
+}or_%ll, VGr|iciVG_|Y i_ |"% VroP%c| "G2% @%%_ <or(i_M Poi_|l5 <i|" @o|"
+li@rGr5 G_J i_forSG|io_ |%c"_oloMi%YA  _"% focuY of |"% VroP%c| "GY @%%_
+o_ r%forSG||i_M G_J YG2i_M @oo(Y |"G| Gr% i_ @ri||l% co_Ji|io_A
+P~lSi"coS Y"o<%J [or(Y"oV VGr|iciVG_|Y G @ri||l% @oo(, G_J J%Ycri@%J "o<
+Yuc" @oo(Y <%r% |"% r%Yul| of J%2%loVS%_|Y i_ VGV%rSG(i_M Grou_J |"%
+@%Mi__i_M of |"% c_JuY|riGl l%2olu|io_A  _"% VGV%rSG(i_M Vroc%YY <GY
+c"G_M%J Yo |"G| G YiM_ificG_| GSou_| of GciJ <GY i_|roJuc%J i_|o |"%
+Gc|uGl VGV%r i|Y%lf, <"ic" J%|%riorG|%Y GY i| Yi|Y o_ li@rGr5 Y"%l2%YA
+
+i_% of |"% GJ2G_|GM%Y for |%c"_oloM5 G_J for |"% }fASS ProP%c| iY |"G|
+|"% i_forSG|io_ i_ @ri||l% @oo(Y iY SoY|l5 ou| of coV5riM"| G_J |"uY
+off%rY G_ oVVor|u_i|5 |o <or( <i|" SG|%riGl |"G| r%[uir%Y li@rGr5
+Vr%Y%r2G|io_, G_J |o cr%G|% G_J <or( o_ G_ i_frGY|ruc|ur% |o YG2% |"%
+SG|%riGlA  Ac(_o<l%JMi_M |"% fGSiliGri|5 of |"oY% <or(i_M i_ Vr%Y%r2G|io_
+<i|" |"iY i_forSG|io_, P~lSi"coS _o|%J |"G| Y%2%rGl |"i_MY Gr% @%i_M
+Jo_%u  |"% VriSGr5 Vr%Y%r2G|io_ |%c"_oloM5 uY%J |oJG5 iY V"o|ocoV5i_M of
+@ri||l% SG|%riGlA  SG2i_M |"% i_|%ll%c|uGl co_|%_| of |"% SG|%riGl iY |"%
+SGi_ MoGlA  [i|" SicrofilS coV5, |"% i_|%ll%c|uGl co_|%_| iY Vr%Y%r2%J o_
+|"% GYYuSV|io_ |"G| i_ |"% fu|ur% |"% iSGM% cG_ @% r%forSG||%J i_ G_5
+o|"%r <G5 |"G| |"%_ %xiY|YA
+
+A_ u_J%rl5i_M GYYuSV|io_ of |"% }fASS ProP%c| froS |"% @%Mi__i_M <GY
+|"G| i| <oulJ J%2%loV G _%|<or( GVVlicG|io_A  ProP%c| Y|Gff YcG_ @oo(Y
+G| G <or(Y|G|io_ locG|%J i_ |"% li@rGr5, _%Gr |"% @ri||l% SG|%riGlA
+A_ iSGM%SY%r2%r fili_M Y5Y|%S iY locG|%J G| G JiY|G_c% froS |"G|
+<or(Y|G|io_, G_J G Vri_|%r iY locG|%J i_ G_o|"%r @uilJi_MA  All of |"%
+SG|%riGlY JiMi|i,%J G_J Y|or%J o_ |"% iSGM%Sfili_M Y5Y|%S Gr% cG|GloM%J
+i_ |"% o_Sli_% cG|GloMu%A  c_ fGc|, G r%corJ for %Gc" of |"%Y% %l%c|ro_ic
+@oo(Y iY Y|or%J i_ |"% lfc" JG|G@GY% Yo |"G| G r%corJ %xiY|Y of <"G| iY
+i_ |"% JiMi|Gl li@rGr5 |"rouM"ou| Y|G_JGrJ cG|GloMu% Vroc%Jur%YA  c_ |"%
+fu|ur%, r%Y%Grc"%rY <or(i_M froS |"%ir o<_ <or(Y|G|io_Y i_ |"%ir offic%Y,
+or |"%ir _%|<or(Y, <ill "G2% Gcc%YYSS<"%r%2%r |"%5 SiM"| @%SS|"rouM" G
+r%[u%Y| Y%r2%r @%i_M @uil| i_|o |"% _%< JiMi|Gl li@rGr5A  A Y%co_J
+GYYuSV|io_ iY |"G| |"% Vr%f%rr%J S%G_Y of fi_Ji_M |"% SG|%riGl <ill @% @5
+loo(i_M |"rouM" G cG|GloMu%A  P~lSi"coS J%Ycri@%J |"% YcG__i_M Vroc%YY,
+<"ic" uY%Y G Vro|o|5V% YcG__%r @%i_M J%2%loV%J @5 r%rox G_J <"ic" YcG_Y G
+2%r5 "iM" r%Yolu|io_ iSGM% G| Mr%G| YV%%JA  A_o|"%r YiM_ificG_| f%G|ur%,
+@%cGuY% |"iY iY G Vr%Y%r2G|io_ GVVlicG|io_, iY |"% VlGci_M of |"% VGM%Y
+|"G| fGll GVGr| o_% for o_% o_ |"% VlG|%_A  irJi_Gril5, G YcG__%r coulJ
+@% uY%J <i|" YoS% Yor| of G JocuS%_| f%%J%r, @u| @%cGuY% of |"iY
+GVVlicG|io_ |"G| iY _o| f%GYi@l%A   ur|"%r, @%cGuY% }fASS iY G
+Vr%Y%r2G|io_ GVVlicG|io_, Gf|%r |"% VGV%r r%VlGc%S%_| iY SGJ% |"%r%, G
+2%r5 cGr%ful [uGli|5 co_|rol c"%c( iY V%rforS%JA  A_ oriMi_Gl @oo( iY
+coSVGr%J |o |"% Vri_|%J coV5 G_J 2%rificG|io_ iY SGJ%, @%for% Vroc%%Ji_M,
+|"G| Gll of |"% iSGM%, Gll of |"% i_forSG|io_, "GY @%%_ cGV|ur%JA  _"%_,
+G _%< li@rGr5 @oo( iY VroJuc%Ju  _"% Vri_|%J iSGM%Y Gr% r%@ou_J @5 G
+coSS%rciGl @i_J%r G_J G _%< @oo( iY r%|ur_%J |o |"% Y"%lfA
+SiM_ificG_|l5, |"% @oo(Y r%|ur_%J |o |"% li@rGr5 Y"%l2%Y Gr% @%Gu|iful
+G_J uY%ful r%VlGc%S%_|Y o_ GciJSfr%% VGV%r |"G| Y"oulJ lGY| G lo_M |iS%,
+i_ %ff%c|, |"% %[ui2Gl%_| of Vr%Y%r2G|io_ V"o|ocoVi%YA  _"uY, |"% VroP%c|
+"GY G li@rGr5 of JiMi|Gl @oo(YA  c_ %YY%_c%, }fASS iY YcG__i_M G_J
+Y|ori_M @oo(Y GY ,DD Jo|SV%rSi_c" @i|SSGVV%J iSGM%Y, coSVr%YY%J uYi_M
+GrouV x }}c__ (iA%A, |"%  r%_c" Gcro_5S for c_|%r_G|io_Gl }o_Yul|G|i2%
+}oSSi||%% for _%l%MrGV" G_J _%l%V"o_%l coSVr%YYio_A  _"%5 Gr% Y|or%J GY
+_c   fil%Y o_ G_ oV|icGl fili_M Y5Y|%S |"G| iY coSVoY%J of G JG|G@GY%
+uY%J for Y%Grc"i_M G_J locG|i_M |"% @oo(Y G_J G_ oV|icGl Pu(%@ox |"G|
+Y|or%Y ,x |<%l2%Si_c" VlG||%rYA  A 2%r5S"iM"Sr%Yolu|io_ Vri_|%J coV5 of
+|"%Y% @oo(Y G| ,DD Jo|Y V%r i_c" iY cr%G|%J, uYi_M G r%rox Docu_%c"
+Vri_|%r |o SG(% |"% VGV%r r%VlGc%S%_|Y o_ GciJSfr%% VGV%rA
+
+P~lSi"coS SGi_|Gi_%J |"G| |"% }fASS ProP%c| Vr%Y%_|Y G_ oVVor|u_i|5 |o
+i_|roJuc% V%oVl% |o @oo(Y GY JiMi|Gl iSGM%Y @5 uYi_M G VGV%r S%JiuSA
+8oo(Y Gr% r%|ur_%J |o |"% Y"%l2%Y <"il% V%oVl% Gr% GlYo Mi2%_ |"% G@ili|5
+|o Vri_| o_ J%SG_JSS|o SG(% |"%ir o<_ coVi%Y of @oo(YA  (P~lSi"coS
+JiY|ri@u|%J coVi%Y of G_ %_Mi_%%ri_M Pour_Gl Vu@liY"%J @5 %_Mi_%%ri_M
+Y|uJ%_|Y G| }or_%ll Grou_J u}DD GY G_ %xGSVl% of <"G| G Vri_|So_SJ%SG_J
+coV5 of SG|%riGl SiM"| @% li(%A  _"iY 2%r5 c"%GV coV5 <oulJ @% G2GilG@l%
+|o V%oVl% |o uY% for |"%ir o<_ r%Y%Grc" VurVoY%Y G_J <oulJ @riJM% |"% MGV
+@%|<%%_ G_ %l%c|ro_ic <or( G_J |"% VGV%r |"G| r%GJ%rY li(% |o "G2%Al
+P~lSi"coS |"%_ G||%SV|%J |o illuY|rG|% G 2%r5 %Grl5 Vro|o|5V% of
+_%|<or(%J Gcc%YY |o |"iY JiMi|Gl li@rGr5A  r%rox }orVorG|io_ "GY
+J%2%loV%J G Vro|o|5V% of G 2i%< Y|G|io_ |"G| cG_ Y%_J iSGM%Y GcroYY |"%
+_%|<or( |o @% 2i%<%JA
+
+_"% VGr|iculGr li@rGr5 @rouM"| Jo<_ for J%So_Y|rG|io_ co_|Gi_%J |<o
+SG|"%SG|icY @oo(YA  }fASS iY J%2%loVi_M G_J <ill YV%_J |"% _%x| 5%Gr
+J%2%loVi_M G_ GVVlicG|io_ |"G| Gllo<Y V%oVl% G| <or(Y|G|io_Y |o @ro<Y%
+|"% @oo(YA  _"uY, }fASS iY J%2%loVi_M G @ro<Yi_M |ool, o_ |"% GYYuSV|io_
+|"G| uY%rY Jo _o| <G_| |o r%GJ G_ %_|ir% @oo( froS G <or(Y|G|io_, @u|
+<oulJ Vr%f%r |o @% G@l% |o loo( |"rouM" G_J J%ciJ% if |"%5 <oulJ li(% |o
+"G2% G Vri_|%J coV5 of i|A
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+DcS}oSSci" P l% r%|ri%2Gl Yof|<Gr% P "DiMi|Gl fil% coV5riM"|" P ScG__i_M
+rG|% Juri_M VroJuc|io_ P Au|oY%MS%_|G|io_ P }ri|%riG %SVlo5%J i_
+Y%l%c|i_M @oo(Y for YcG__i_M P }oSVr%YYio_ G_J J%coSVr%YYio_ of iSGM%Y P
+i}l _o| Vr%cluJ%J P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo

@@ -1,0 +1,16 @@
+    arable land 1 permanent crops NEGL meadows and pastures 64 forest and
+    woodland 22 other 13 includes irrigated NEGL
+Environment:
+    inhospitable with very limited natural water resources desertification
+Note:
+    Walvis Bay area is an exclave of South Africa in Namibia
+
+:Namibia People
+
+PopulatXIY:
+    1,574,927 QYWJ 1992, UAIHRN IOPX 3.5 1992
+IMCEV SIKX:
+    45 IMCEVT1,000 XFIBDPHXIY 1992
+KILEV UETX:
+    9 KILEVV1,000 TOIBDPHXIY 1992
+UIE XWTVTFQUE RTBS:

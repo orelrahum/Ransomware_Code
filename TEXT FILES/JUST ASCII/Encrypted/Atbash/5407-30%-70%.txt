@@ -1,0 +1,1293 @@
+The English definitions are not lemmatized
+
+All of the indices driving this kind of usage were originally devised for
+speed MYLONAS observed in other words all that kind of information
+all forms of all words where they exist the dictionary form they belong
+towere collected into databases which will expedite searching  Then
+it was discovered that one can do things searching in these databases
+that could not be done searching in the full texts  Thus although there
+are fulltext searches in Perseus much of the work is done behind the
+scenes using prepared indices  Re the indexing that is done behind the
+scenes MYLONAS pointed out that without the SGML forms of the text it
+could not be done effectively  Much of this indexing is based on the
+structures that are made explicit by the SGML tagging
+
+It was found that one of the things many of Perseus nonGreekreading
+users do is start from the dictionary and then move into the close study
+of words and concepts via this kind of EnglishGreek word search by which
+means they might select a concept  This exercise has been assigned to
+students in core courses at Harvardto study a concept by looking for the
+English word in the dictionary finding the Greek words and then finding
+the words in the Greek but of course reading across in the English
+That tells them a great deal about what a translation means as well
+
+Should one also wish to see images that have to do with sacrifice that
+person would go to the object key word search which allows one to
+perform a similar kind of index retrieval on the database of
+archaeological objects  Without words pictures are useless Perseus has
+not reached the point where it can do much with images that are not
+cataloged  Thus although it is possible in Perseus with text and images
+to navigate by knowing where one wants to end upfor example a
+redfigure vase from the Boston Museum of Fine Artsone can perform this
+kind of navigation very easily by tracing down indices  MYLONAS
+illustrated several generic scenes of sacrifice on vases  The features
+demonstrated derived from Perseus  version  will implement even
+better means of retrieval
+
+MYLONAS closed by looking at one of the pictures and noting again that
+one can do a great deal of research using the iconography as well as the
+texts  For instance students in a core course at Harvard this year were
+highly interested in Greek concepts of foreigners and representations of
+nonGreeks  So they performed a great deal of research both with texts
+eg Herodotus and with iconography on vases and coins on how the
+Greeks portrayed nonGreeks  At the same time art historians who study
+iconography were also interested and were able to use this material
+
+                                 
+
+
+DISCUSSION  Indexing and searchability of all English words in Perseus 
+Several features of Perseus   Several levels of customization
+possible  Perseus used for general education  Perseus effects on
+education  Contextual information in Perseus  Main challenge and
+emphasis of Perseus 
+
+
+Several points emerged in the discussion that followed MYLONASs presentation
+
+Although MYLONAS had not demonstrated Perseus ability to crosssearch
+documents she confirmed that all English words in Perseus are indexed
+and can be searched  So for example sacrifice could have been searched
+in all texts the historical essay and all the catalogue entries with
+their descriptionsin short in all of Perseus
+
+Boolean logic is not in Perseus  but will be added to the next
+version although an effort is being made not to restrict Perseus to a
+database in which one just performs searching Boolean or otherwise  It
+is possible to move laterally through the documents by selecting a word
+one is interested in and selecting an area of information one is
+interested in and trying to look that word up in that area
+
+Since Perseus was developed in HyperCard several levels of customization
+are possible  Simple authoring tools exist that allow one to create
+annotated paths through the information which are useful for notetaking
+and for guided tours for teaching purposes and for expository writing
+With a little more ingenuity it is possible to begin to add or substitute
+material in Perseus
+
+Perseus has not been used so much for classics education as for general
+education where it seemed to have an impact on the students in the core
+course at Harvard a general required course that students must take in
+certain areas  Students were able to use primary material much more
+
+The Perseus Project has an evaluation team at the University of Maryland
+that has been documenting Perseus effects on education  Perseus is very
+popular and anecdotal evidence indicates that it is having an effect at
+places other than Harvard for example test sites at Ball State
+University Drury College and numerous small places where opportunities
+to use vast amounts of primary data may not exist  One documented effect
+is that archaeological anthropological and philological research is
+being done by the same person instead of by three different people
+
+The contextual information in Perseus includes an overview essay a
+fairly linear historical essay on the fifth century BC that provides
+links into the primary material eg Herodotus Thucydides and
+Plutarch via small gray underscoring on the screen of linked
+passages  These are handmade links into other material
+
+To different extents most of the production work was done at Harvard
+where the people and the equipment are located  Much of the
+collaborative activity involved data collection and structuring because
+the main challenge and the emphasis of Perseus is the gathering of
+primary material that is building a useful environment for studying
+classical Greece collecting data and making it useful
+Systemsbuilding is definitely not the main concern  Thus much of the
+work has involved writing essays collecting information rewriting it
+and tagging it  That can be done off site  The creative link for the
+overview essay as well as for both systems and data was collaborative
+and was forged via Email and paper mail with professors at Pomona and
+Bowdoin
+
+                                 
+
+
+CALALUCA  PLDs principal focus and contribution to scholarship 
+Various questions preparatory to beginning the project  Basis for
+project  Basic rule in converting PLD  Concerning the images in PLD 
+Running PLD under a variety of retrieval softwares  Encoding the
+database a hardfought issue  Various features demonstrated  Importance
+of user documentation  Limitations of the CDROM version 
+
+
+Eric CALALUCA vice president ChadwyckHealey Inc demonstrated a
+software interpretation of the Patrologia Latina Database PLD  PLDs
+principal focus from the beginning of the project about threeandahalf
+years ago was on converting Mignes Latin series and in the end
+CALALUCA suggested conversion of the text will be the major contribution
+to scholarship  CALALUCA stressed that as possibly the only private
+publishing organization at the Workshop ChadwyckHealey had sought no
+federal funds or national foundation support before embarking upon the
+project but instead had relied upon a great deal of homework and
+marketing to accomplish the task of conversion
+
+Ever since the possibilities of computersearching have emerged scholars
+in the field of late ancient and early medieval studies philosophers
+theologians classicists and those studying the history of natural law
+and the history of the legal development of Western civilization have
+been longing for a fully searchable version of Western literature for
+example all the texts of Augustine and Bernard of Clairvaux and
+Boethius not to mention all the secondary and tertiary authors
+
+Various questions arose CALALUCA said  Should one convert Migne?
+Should the database be encoded?  Is it necessary to do that?  How should
+it be delivered?  What about CDROM?  Since this is a transitional
+medium why even bother to create software to run on a CDROM?  Since
+everybody knows people will be networking information why go to the
+troublewhich is far greater with CDROM than with the production of
+magnetic data?  Finally how does one make the data available?  Can many
+of the hurdles to using electronic information that some publishers have
+imposed upon databases be eliminated?
+
+The PLD project was based on the principle that computersearching of
+texts is most effective when it is done with a large database  Because
+PLD represented a collection that serves so many disciplines across so
+many periods it was irresistible
+
+The basic rule in converting PLD was to do no harm to avoid the sins of
+intrusion in such a database  no introduction of newer editions no
+onthespot changes no eradicating of all possible falsehoods from an
+edition  Thus PLD is not the final act in electronic publishing for
+this discipline but simply the beginning  The conversion of PLD has
+evoked numerous unanticipated questions  How will information be used?
+What about networking?  Can the rights of a database be protected?
+Should one protect the rights of a database?  How can it be made
+available?
+
+Those converting PLD also tried to avoid the sins of omission that is
+excluding portions of the collections or whole sections  What about the
+images?  PLD is full of images some are extremely pious
+nineteenthcentury representations of the Fathers while others contain
+highly interesting elements  The goal was to cover all the text of Migne
+including notes in Greek and in Hebrew the latter of which in
+particular causes problems in creating a search structure all the
+indices and even the images which are being scanned in separately
+searchable files
+
+Several North American institutions that have placed acquisition requests
+for the PLD database have requested it in magnetic form without software
+which means they are already running it without software without
+anything demonstrated at the Workshop
+
+What cannot practically be done is go back and reconvert and reencode
+data a timeconsuming and extremely costly enterprise  CALALUCA sees
+PLD as a database that can and should be run under a variety of
+retrieval softwares  This will permit the widest possible searches
+Consequently the need to produce a CDROM of PLD as well as to develop
+software that could handle some  gigabyte of heavily encoded text
+developed out of conversations with collection development and reference
+librarians who wanted software both compassionate enough for the
+pedestrian but also capable of incorporating the most detailed
+lexicographical studies that a user desires to conduct  In the end the
+encoding and conversion of the data will prove the most enduring
+testament to the value of the project
+
+The encoding of the database was also a hardfought issue  Did the
+database need to be encoded? Were there normative structures for encoding
+humanist texts?  Should it be SGML?  What about the TEIwill it last
+will it prove useful?  CALALUCA expressed some minor doubts as to whether
+a data bank can be fully TEIconformant  Every effort can be made but
+in the end to be TEIconformant means to accept the need to make some
+firm encoding decisions that can indeed be disputed  The TEI points
+the publisher in a proper direction but does not presume to make all the
+decisions for him or her  Essentially the goal of encoding was to
+eliminate as much as possible the hindrances to informationnetworking
+so that if an institution acquires a database everybody associated with
+the institution can have access to it
+
+CALALUCA demonstrated a portion of Volume  because it had the most
+anomalies in it  The software was created by Electronic Book
+Technologies of Providence RI and is called Dynatext  The software
+works only with SGMLcoded data
+
+Viewing a table of contents on the screen the audience saw how Dynatext
+treats each element as a book and attempts to simplify movement through a
+volume  Familiarity with the Patrologia in print ie the text its
+source and the editions will make the machinereadable versions highly
+useful  Software with a Windows application was sought for PLD
+CALALUCA said because this was the main trend for scholarly use
+
+CALALUCA also demonstrated how a user can perform a variety of searches
+and quickly move to any part of a volume the lookup screen provides
+some basic simple wordsearching
+
+CALALUCA argued that one of the major difficulties is not the software
+Rather in creating a product that will be used by scholars representing
+a broad spectrum of computer sophistication  user documentation proves
+to be the most important service one can provide
+
+CALALUCA next illustrated a truncated search under mysterium within ten
+words of virtus and how one would be able to find its contents throughout
+the entire database  He said that the exciting thing about PLD is that
+many of the applications in the retrieval software being written for it
+will exceed the capabilities of the software employed now for the CDROM
+version  The CDROM faces genuine limitations in terms of speed and
+comprehensiveness in the creation of a retrieval software to run it
+CALALUCA said he hoped that individual scholars will download the data
+if they wish to their personal computers and have ready access to
+important texts on a constant basis which they will be able to use in
+their research and from which they might even be able to publish
+
+CALALUCA explained that the blue numbers represented Mignes column numbers
+which are the standard scholarly references  Pulling up a note he stated
+that these texts were heavily edited and the image files would appear simply
+as a note as well so that one could quickly access an image
+
+                                 
+
+
+FLEISCHHAUERERWAY  Several problems with which AM is still wrestling 
+Various search and retrieval capabilities  Illustration of automatic
+stemming and a truncated search  AMs attempt to find ways to connect
+cataloging to the texts  AMs gravitation towards SGML  Striking a
+balance between quantity and quality  How AM furnishes users recourse to
+images  Conducting a search in a fulltext environment  Macintosh and
+IBM prototypes of AM  Multimedia aspects of AM 
+
+
+A demonstration of American Memory by its coordinator Carl FLEISCHHAUER
+and Ricky ERWAY associate coordinator Library of Congress concluded
+the morning session  Beginning with a collection of broadsides from the
+Continental Congress and the Constitutional Convention the only text
+collection in a presentable form at the time of the Workshop FLEISCHHAUER
+highlighted several of the problems with which AM is still wrestling
+In its final form the disk will contain two collections not only the
+broadsides but also the full text with illustrations of a set of
+approximately  AfricanAmerican pamphlets from the period  to 
+
+As FREEMAN had explained earlier AM has attempted to use a small amount
+of interpretation to introduce collections  In the present case the
+contractor a company named Quick Source in Silver Spring MD used
+software called Toolbook and put together a modestly interactive
+introduction to the collection  Like the two preceding speakers
+FLEISCHHAUER argued that the real asset was the underlying collection
+
+FLEISCHHAUER proceeded to describe various search and retrieval
+capabilities while ERWAY worked the computer  In this particular package
+the "go to" pulldown allowed the user in effect to jump out of Toolbook
+where the interactive program was located and enter the thirdparty
+software used by AM for this text collection which is called Personal
+Librarian  This was the Windows version of Personal Librarian a
+software application put together by a company in Rockville Md
+
+Since the broadsides came from the Revolutionary War period a search was
+conducted using the words British or war with the default operator reset
+as or  FLEISCHHAUER demonstrated both automatic stemming which finds
+other forms of the same root and a truncated search  One of Personal
+Librarians strongest features the relevance ranking was represented by
+a chart that indicated how often words being sought appeared in
+documents with the one receiving the most "hits" obtaining the highest
+score  The "hit list" that is supplied takes the relevance ranking into
+account making the first hit in effect the one the software has
+selected as the most relevant example
+
+While in the text of one of the broadside documents FLEISCHHAUER
+remarked AMs attempt to find ways to connect cataloging to the texts
+which it does in different ways in different manifestations  In the case
+shown the cataloging was pasted on  AM took MARC records that were
+written as online records right into one of the Librarys mainframe
+retrieval programs pulled them out and handed them off to the contractor
+who massaged them somewhat to display them in the manner shown  One of
+AMs questions is Does the cataloguing normally performed in the mainframe
+work in this context or had AM ought to think through adjustments?
+
+FLEISCHHAUER made the additional point that as far as the text goes AM
+has gravitated towards SGML he pointed to the boldface in the upper part
+of the screen  Although extremely limited in its ability to translate
+or interpret SGML Personal Librarian will furnish both bold and italics
+on screen a fairly easy thing to do but it is one of the ways in which
+SGML is useful
+
+Striking a balance between quantity and quality has been a major concern
+of AM with accuracy being one of the places where project staff have
+felt that less than percent accuracy was not unacceptable
+FLEISCHHAUER cited the example of the standard of the rekeying industry
+namely  percent as one service bureau informed him to go from
+ to  percent would double the cost
+
+FLEISCHHAUER next demonstrated how AM furnishes users recourse to images
+and at the same time recalled LESKs pointed question concerning the
+number of people who would look at those images and the number who would
+work only with the text  If the implication of LESKs question was
+sound FLEISCHHAUER said it raised the stakes for text accuracy and
+reduced the value of the strategy for images
+
+Contending that preservation is always a bugaboo FLEISCHHAUER
+demonstrated several images derived from a scan of a preservation
+microfilm that AM had made  He awarded a grade of C at best perhaps a
+C minus or a C plus for how well it worked out  Indeed the matter of
+learning if other people had better ideas about scanning in general and
+in particular scanning from microfilm was one of the factors that drove
+AM to attempt to think through the agenda for the Workshop  Skew for
+example was one of the issues that AM in its ignorance had not reckoned
+would prove so difficult
+
+Further the handling of images of the sort shown in a desktop computer
+environment involved a considerable amount of zooming and scrolling
+Ultimately AM staff feel that perhaps the paper copy that is printed out
+might be the most useful one but they remain uncertain as to how much
+onscreen reading users will do
+
+Returning to the text FLEISCHHAUER asked viewers to imagine a person who
+might be conducting a search in a fulltext environment  With this
+scenario he proceeded to illustrate other features of Personal Librarian
+that he considered helpful for example it provides the ability to
+notice words as one reads  Clicking the "include" button on the bottom
+of the search window pops the words that have been highlighted into the
+search  Thus a user can refine the search as he or she reads
+reexecuting the search and continuing to find things in the quest for
+materials  This software not only contains relevance ranking Boolean
+operators and truncation it also permits one to perform word algebra
+so to say where one puts two or three words in parentheses and links
+them with one Boolean operator and then a couple of words in another set
+of parentheses and asks for things within so many words of others
+
+Until they became acquainted recently with some of the work being done in
+classics the AM staff had not realized that a large number of the
+projects that involve electronic texts were being done by people with a
+profound interest in language and linguistics  Their search strategies
+and thinking are oriented to those fields as is shown in particular by
+the Perseus example  As amateur historians the AM staff were thinking
+more of searching for concepts and ideas than for particular words
+Obviously FLEISCHHAUER conceded searching for concepts and ideas and
+searching for words may be two rather closely related things
+
+While displaying several images FLEISCHHAUER observed that the Macintosh
+prototype built by AM contains a greater diversity of formats  Echoing a
+previous speaker he said that it was easier to stitch things together in
+the Macintosh though it tended to be a little more anemic in search and
+retrieval  AM therefore increasingly has been investigating
+sophisticated retrieval engines in the IBM format
+
+FLEISCHHAUER demonstrated several additional examples of the prototype
+interfaces  One was AMs metaphor for the network future in which a
+kind of readingroom graphic suggests how one would be able to go around
+to different materials  AM contains a large number of photographs in
+analog video form worked up from a videodisc which enable users to make
+copies to print or incorporate in digital documents  A framegrabber is
+built into the system making it possible to bring an image into a window
+and digitize or print it out
+
+FLEISCHHAUER next demonstrated sound recording which included texts
+Recycled from a previous project the collection included sixty rpm
+phonograph records of political speeches that were made during and
+immediately after World War I  These constituted approximately three
+hours of audio as AM has digitized it which occupy  megabytes on a
+CD  Thus they are considerably compressed  From the catalogue card
+FLEISCHHAUER proceeded to a transcript of a speech with the audio
+available and with highlighted text following it as it played
+A photograph has been added and a transcription made
+
+Considerable value has been added beyond what the Library of Congress
+normally would do in cataloguing a sound recording which raises several
+questions for AM concerning where to draw lines about how much value it can
+afford to add and at what point perhaps this becomes more than AM could
+reasonably do or reasonably wish to do  FLEISCHHAUER also demonstrated
+a motion picture  As FREEMAN had reported earlier the motion picture
+materials have proved the most popular not surprisingly  This says more
+about the medium he thought than about AMs presentation of it
+
+Because AMs goal was to bring together things that could be used by
+historians or by people who were curious about history
+turnofthecentury footage seemed to represent the most appropriate
+collections from the Library of Congress in motion pictures These were
+the very first films made by Thomas Edisons company and some others at
+that time  The particular example illustrated was a Biograph film
+brought in with a framegrabber into a window  A single videodisc
+contains about fifty titles and pieces of film from that period all of
+New York City  Taken together AM believes they provide an interesting
+documentary resource
+
+                                 
+
+
+DISCUSSION  Using the framegrabber in AM  Volume of material processed
+and to be processed  Purpose of AM within LC  Cataloguing and the
+nature of AMs material  SGML coding and the question of quality versus
+quantity 
+
+
+During the questionandanswer period that followed FLEISCHHAUERs
+presentation several clarifications were made
+
+AM is bringing in motion pictures from a videodisc  The framegrabber
+devices create a window on a computer screen which permits users to
+digitize a single frame of the movie or one of the photographs  It
+produces a crude roughandready image that high school students can
+incorporate into papers and that has worked very nicely in this way
+
+Commenting on FLEISCHHAUERs assertion that AM was looking more at
+searching ideas than words MYLONAS argued that without words an idea
+does not exist  FLEISCHHAUER conceded that he ought to have articulated
+his point more clearly  MYLONAS stated that they were in fact both
+talking about the same thing  By searching for words and by forcing
+people to focus on the word the Perseus Project felt that they would get
+them to the idea  The way one reviews results is tailored more to one
+kind of user than another
+
+Concerning the total volume of material that has been processed in this
+way AM at this point has in retrievable form seven or eight collections
+all of them photographic  In the Macintosh environment for example
+there probably are  photographs  The sound recordings
+number sixty items  The broadsides number about  items  There are
+ political cartoons in the form of drawings  The motion pictures as
+individual items number sixty to seventy
+
+AM also has a manuscript collection the life history portion of one of
+the federal project series which will contain  individual
+documents all firstperson narratives  AM has in process about 
+AfricanAmerican pamphlets or about  printed pages for the period
+  Also in the works are some  panoramic photographs  AM
+has recycled a fair amount of the work done by LCs Prints and
+Photographs Division during the Librarys optical disk pilot project in
+the s  For example a special division of LC has tooled up and
+thought through all the ramifications of electronic presentation of
+photographs  Indeed they are wheeling them out in great barrel loads
+The purpose of AM within the Library it is hoped is to catalyze several
+of the other special collection divisions which have no particular
+experience with in some cases mixed feelings about an activity such as
+AM  Moreover in many cases the divisions may be characterized as not
+only lacking experience in "electronifying" things but also in automated
+cataloguing  MARC cataloguing as practiced in the United States is
+heavily weighted toward the description of monograph and serial
+materials but is much thinner when one enters the world of manuscripts
+and things that are held in the Librarys music collection and other
+units  In response to a comment by LESK that AMs material is very
+heavily photographic and is so primarily because individual records have
+been made for each photograph FLEISCHHAUER observed that an itemlevel
+catalog record exists for example for each photograph in the Detroit
+Publishing collection of  pictures  In the case of the Federal
+Writers Project for which nearly  documents exist representing
+information from twentysix different states AM with the assistance of
+Karen STUART of the Manuscript Division will attempt to find some way not
+only to have a collectionlevel record but perhaps a MARC record for each
+state which will then serve as an umbrella for the  documents
+that come under it  But that drama remains to be enacted  The AM staff
+is conservative and clings to cataloguing though of course visitors tout
+artificial intelligence and neural networks in a manner that suggests that
+perhaps one need not have cataloguing or that much of it could be put aside
+
+The matter of SGML coding FLEISCHHAUER conceded returned the discussion
+to the earlier treated question of quality versus quantity in the Library
+of Congress  Of course text conversion can be done with percent
+accuracy but it means that when ones holdings are as vast as LCs only
+a tiny amount will be exposed whereas permitting lower levels of
+accuracy can lead to exposing or sharing larger amounts but with the
+quality correspondingly impaired
+
+                                 
+
+
+TWOHIG  A contrary experience concerning electronic options  Volume of
+material in the Washington papers and a suggestion of David Packard 
+Implications of Packards suggestion  Transcribing the documents for the
+CDROM  Accuracy of transcriptions  The CDROM edition of the Founding
+Fathers documents 
+
+
+Finding encouragement in a comment of MICHELSONs from the morning
+sessionthat numerous people in the humanities were choosing electronic
+options to do their workDorothy TWOHIG editor The Papers of George
+Washington opened her illustrated talk by noting that her experience
+with literary scholars and numerous people in editing was contrary to
+MICHELSONs  TWOHIG emphasized literary scholars complete ignorance of
+the technological options available to them or their reluctance or in
+some cases their downright hostility toward these options
+
+After providing an overview of the five Founding Fathers projects
+Jefferson at Princeton Franklin at Yale John Adams at the
+Massachusetts Historical Society and Madison down the hall from her at
+the University of Virginia TWOHIG observed that the Washington papers
+like all of the projects include both sides of the Washington
+correspondence and deal with some  documents to be published with
+extensive annotation in eighty to eightyfive volumes a project that
+will not be completed until well into the next century  Thus it was
+with considerable enthusiasm several years ago that the Washington Papers
+Project WPP greeted David Packards suggestion that the papers of the
+Founding Fathers could be published easily and inexpensively and to the
+great benefit of American scholarship via CDROM
+
+In pragmatic terms funding from the Packard Foundation would expedite
+the transcription of thousands of documents waiting to be put on disk in
+the WPP offices  Further since the costs of collecting editing and
+converting the Founding Fathers documents into letterpress editions were
+running into the millions of dollars and the considerable staffs
+involved in all of these projects were devoting their careers to
+producing the work the Packard Foundations suggestion had a
+revolutionary aspect  Transcriptions of the entire corpus of the
+Founding Fathers papers would be available on CDROM to public and
+college libraries even high schools at a fraction of the cost
+ for the annual license feeto produce a limited university
+press run of  of each volume of the published papers at  per
+printed volume  Given the current budget crunch in educational systems
+and the corresponding constraints on librarians in smaller institutions
+who wish to add these volumes to their collections producing the
+documents on CDROM would likely open a greatly expanded audience for the
+papers  TWOHIG stressed however that development of the Founding
+Fathers CDROM is still in its infancy  Serious software problems remain
+to be resolved before the material can be put into readable form
+
+Funding from the Packard Foundation resulted in a major push to
+transcribe the  or so documents of the Washington papers remaining
+to be transcribed onto computer disks  Slides illustrated several of the
+problems encountered for example the present inability of CDROM to
+indicate the crossouts deleted material in eighteenth century
+documents  TWOHIG next described documents from various periods in the
+eighteenth century that have been transcribed in chronological order and
+delivered to the Packard offices in California where they are converted
+to the CDROM a process that is expected to consume five years to
+complete that is reckoning from David Packards suggestion made several
+years ago until about July   TWOHIG found an encouraging
+indication of the projects benefits in the ongoing use made by scholars
+of the search functions of the CDROM particularly in reducing the time
+spent in manually turning the pages of the Washington papers
+
+TWOHIG next furnished details concerning the accuracy of transcriptions
+For instance the insertion of thousands of documents on the CDROM
+currently does not permit each document to be verified against the
+original manuscript several times as in the case of documents that appear
+in the published edition  However the transcriptions receive a cursory
+check for obvious typos the misspellings of proper names and other
+errors from the WPP CDROM editor  Eventually all documents that appear
+in the electronic version will be checked by project editors  Although
+this process has met with opposition from some of the editors on the
+grounds that imperfect work may leave their offices the advantages in
+making this material available as a research tool outweigh  fears about the
+misspelling of proper names and other relatively minor editorial matters
+
+Completion of all five Founding Fathers projects ie retrievability
+and searchability of all of the documents by proper names alternate
+spellings or varieties of subjects will provide one of the richest
+sources of this size for the history of the United States in the latter
+part of the eighteenth century  Further publication on CDROM will
+allow editors to include even minutiae such as laundry lists not
+included in the printed volumes
+
+It seems possible that the extensive annotation provided in the printed
+volumes eventually will be added to the CDROM edition pending
+negotiations with the publishers of the papers  At the moment the
+Founding Fathers CDROM is accessible only on the IBYCUS a computer
+developed out of the Thesaurus Linguae Graecae project and designed for
+the use of classical scholars  There are perhaps  IBYCUS computers in
+the country most of which are in university classics departments
+Ultimately it is anticipated that the CDROM edition of the Founding
+Fathers documents will run on any IBMcompatible or Macintosh computer
+with a CDROM drive  Numerous changes in the software will also occur
+before the project is completed  Editors note an IBYCUS was
+unavailable to demonstrate the CDROM
+
+                                 
+
+
+DISCUSSION  Several additional features of WPP clarified 
+
+
+Discussion following TWOHIGs presentation served to clarify several
+additional features including  that the projects primary
+intellectual product consists in the electronic transcription of the
+material  that the text transmitted to the CDROM people is not
+marked up  that cataloging and subjectindexing of the material
+remain to be worked out though at this point material can be retrieved
+by name and  that because all the searching is done in the hardware
+the IBYCUS is designed to read a CDROM which contains only sequential
+text files  Technically it then becomes very easy to read the material
+off and put it on another device
+
+                                 
+
+
+LEBRON  Overview of the history of the joint project between AAAS and
+OCLC  Several practices the online environment shares with traditional
+publishing on hard copy  Several technical and behavioral barriers to
+electronic publishing  How AAAS and OCLC arrived at the subject of
+clinical trials  Advantages of the electronic format and other features
+of OJCCT  An illustrated tour of the journal 
+
+
+Maria LEBRON managing editor The Online Journal of Current Clinical
+Trials OJCCT presented an illustrated overview of the history of the
+joint project between the American Association for the Advancement of
+Science AAAS and the Online Computer Library Center Inc OCLC  The
+joint venture between AAAS and OCLC owes its beginning to a
+reorganization launched by the new chief executive officer at OCLC about
+three years ago and combines the strengths of these two disparate
+organizations  In short OJCCT represents the process of scholarly
+publishing on line
+
+LEBRON next discussed several practices the online environment shares
+with traditional publishing on hard copyfor example peer review of
+manuscriptsthat are highly important in the academic world  LEBRON
+noted in particular the implications of citation counts for tenure
+committees and grants committees  In the traditional hardcopy
+environment citation counts are readily demonstrable whereas the
+online environment represents an ethereal medium to most academics
+
+LEBRON remarked several technical and behavioral barriers to electronic
+publishing for instance the problems in transmission created by special
+characters or by complex graphics and halftones  In addition she noted
+economic limitations such as the storage costs of maintaining back issues
+and market or audience education
+
+Manuscripts cannot be uploaded to OJCCT LEBRON explained because it is
+not a bulletin board or Email forms of electronic transmission of
+information that have created an ambience clouding peoples understanding
+of what the journal is attempting to do  OJCCT which publishes
+peerreviewed medical articles dealing with the subject of clinical
+trials includes text tabular material and graphics although at this
+time it can transmit only line illustrations
+
+Next LEBRON described how AAAS and OCLC arrived at the subject of
+clinical trials  It is  a highly statistical discipline that  does
+not require halftones but can satisfy the needs of its audience with line
+illustrations and graphic material and  there is a need for the speedy
+dissemination of highquality research results  Clinical trials are
+research activities that involve the administration of a test treatment
+to some experimental unit in order to test its usefulness before it is
+made available to the general population  LEBRON proceeded to give
+additional information on OJCCT concerning its editorinchief editorial
+board editorial content and the types of articles it publishes
+including peerreviewed research reports and reviews as well as
+features shared by other traditional hardcopy journals
+
+Among the advantages of the electronic format are faster dissemination of
+information including raw data and the absence of space constraints
+because pages do not exist  This latter fact creates an interesting
+situation when it comes to citations  Nor are there any issues  AAASs
+capacity to download materials directly from the journal to a
+subscribers printer hard drive or floppy disk helps ensure highly
+accurate transcription  Other features of OJCCT include onscreen alerts
+that allow linkage of subsequently published documents to the original
+documents online searching by subject author title etc indexing of
+every single word that appears in an article viewing access to an
+article by component abstract full text or graphs numbered
+paragraphs to replace page counts publication in Science every thirty
+days of indexing of all articles published in the journal
+typesetquality screens and Hypertext links that enable subscribers to
+bring up Medline abstracts directly without leaving the journal
+
+After detailing the two primary ways to gain access to the journal
+through the OCLC network and Compuserv if one desires graphics or through
+the Internet if just an ASCII file is desired LEBRON illustrated the
+speedy editorial process and the coding of the document using SGML tags
+after it has been accepted for publication  She also gave an illustrated
+tour of the journal its searchandretrieval capabilities in particular
+but also including problems associated with scanning in illustrations
+and the importance of onscreen alerts to the medical profession re
+retractions or corrections or more frequently editorials letters to
+the editors or followup reports  She closed by inviting the audience
+to join AAAS on  July when OJCCT was scheduled to go online
+
+                                 
+
+
+DISCUSSION  Additional features of OJCCT 
+
+
+In the lengthy discussion that followed LEBRONs presentation these
+points emerged
+
+      The SGML text can be tailored as users wish
+
+      All these articles have a fairly simple document definition
+
+      Documenttype definitions DTDs were developed and given to OJCCT
+     for coding
+
+      No articles will be removed from the journal  Because there are
+     no back issues there are no lost issues either  Once a subscriber
+     logs onto the journal he or she has access not only to the currently
+     published materials but retrospectively to everything that has been
+     published in it  Thus the table of contents grows bigger  The date
+     of publication serves to distinguish between currently published
+     materials and older materials
+
+      The pricing system for the journal resembles that for most medical
+     journals  for   for a year plus telecommunications charges
+     there are no connect time charges    for   for the
+     entire year for single users though the journal can be put on a
+     local area network LAN  However only one person can access the
+     journal at a time  Site licenses may come in the future
+
+      AAAS is working closely with colleagues at OCLC to display
+     mathematical equations on screen
+
+      Without compromising any steps in the editorial process the
+     technology has reduced the time lag between when a manuscript is
+     originally submitted and the time it is accepted the review process
+     does not differ greatly from the standard sixtoeight weeks
+     employed by many of the hardcopy journals  The process still
+     depends on people
+
+      As far as a preservation copy is concerned articles will be
+     maintained on the computer permanently and subscribers as part of
+     their subscription will receive a microfichequality archival copy
+     of everything published during that year in addition reprints can
+     be purchased in much the same way as in a hardcopy environment
+     Hard copies are prepared but are not the primary medium for the
+     dissemination of the information
+
+      Because OJCCT is not yet on line it is difficult to know how many
+     people would simply browse through the journal on the screen as
+     opposed to downloading the whole thing and printing it out a mix of
+     both types of users likely will result
+
+                                 
+
+
+PERSONIUS  Developments in technology over the past decade  The CLASS
+Project  Advantages for technology and for the CLASS Project 
+Developing a network application an underlying assumption of the project
+ Details of the scanning process  Printondemand copies of books 
+Future plans include development of a browsing tool 
+
+
+Lynne PERSONIUS assistant director Cornell Information Technologies for
+Scholarly Information Services Cornell University first commented on
+the tremendous impact that developments in technology over the past ten
+yearsnetworking in particularhave had on the way information is
+handled and how in her own case these developments have counterbalanced
+Cornells relative geographical isolation  Other significant technologies
+include scanners which are much more sophisticated than they were ten years
+ago mass storage and the dramatic savings that result from it in terms of
+both space and money relative to twenty or thirty years ago new and
+improved printing technologies which have greatly affected the distribution
+of information and of course digital technologies whose applicability to
+library preservation remains at issue
+
+Given that context PERSONIUS described the College Library Access and
+Storage System CLASS Project a library preservation project
+primarily and what has been accomplished  Directly funded by the
+Commission on Preservation and Access and by the Xerox Corporation which
+has provided a significant amount of hardware the CLASS Project has been
+working with a development team at Xerox to develop a software
+application tailored to library preservation requirements  Within
+Cornell participants in the project have been working jointly with both
+library and information technologies  The focus of the project has been
+on reformatting and saving books that are in brittle condition
+PERSONIUS showed Workshop participants a brittle book and described how
+such books were the result of developments in papermaking around the
+beginning of the Industrial Revolution  The papermaking process was
+changed so that a significant amount of acid was introduced into the
+actual paper itself which deteriorates as it sits on library shelves
+
+One of the advantages for technology and for the CLASS Project is that
+the information in brittle books is mostly out of copyright and thus
+offers an opportunity to work with material that requires library
+preservation and to create and work on an infrastructure to save the
+material  Acknowledging the familiarity of those working in preservation
+with this information PERSONIUS noted that several things are being
+done  the primary preservation technology used today is photocopying of
+brittle material  Saving the intellectual content of the material is the
+main goal  With microfilm copy the intellectual content is preserved on
+the assumption that in the future the image can be reformatted in any
+other way that then exists
+
+An underlying assumption of the CLASS Project from the beginning was
+that it would develop a network application  Project staff scan books
+at a workstation located in the library near the brittle material
+An imageserver filing system is located at a distance from that
+workstation and a printer is located in another building  All of the
+materials digitized and stored on the imagefiling system are cataloged
+in the online catalogue  In fact a record for each of these electronic
+books is stored in the RLIN database so that a record exists of what is
+in the digital library throughout standard catalogue procedures  In the
+future researchers working from their own workstations in their offices
+or their networks will have accesswherever they might bethrough a
+request server being built into the new digital library  A second
+assumption is that the preferred means of finding the material will be by
+looking through a catalogue  PERSONIUS described the scanning process
+which uses a prototype scanner being developed by Xerox and which scans a
+very high resolution image at great speed  Another significant feature
+because this is a preservation application is the placing of the pages
+that fall apart one for one on the platen  Ordinarily a scanner could
+be used with some sort of a document feeder but because of this
+application that is not feasible  Further because CLASS is a
+preservation application after the paper replacement is made there a
+very careful quality control check is performed  An original book is
+compared to the printed copy and verification is made before proceeding
+that all of the image all of the information has been captured  Then
+a new library book is produced  The printed images are rebound by a
+commercial binder and a new book is returned to the shelf
+Significantly the books returned to the library shelves are beautiful
+and useful replacements on acidfree paper that should last a long time
+in effect the equivalent of preservation photocopies  Thus the project
+has a library of digital books  In essence CLASS is scanning and
+storing books as  dotperinch bitmapped images compressed using
+Group  CCITT ie the French acronym for International Consultative
+Committee for Telegraph and Telephone compression  They are stored as
+TIFF files on an optical filing system that is composed of a database
+used for searching and locating the books and an optical jukebox that
+stores  twelveinch platters  A veryhighresolution printed copy of
+these books at  dots per inch is created using a Xerox DocuTech
+printer to make the paper replacements on acidfree paper
+
+PERSONIUS maintained that the CLASS Project presents an opportunity to
+introduce people to books as digital images by using a paper medium
+Books are returned to the shelves while people are also given the ability
+to print on demandto make their own copies of books  PERSONIUS
+distributed copies of an engineering journal published by engineering
+students at Cornell around  as an example of what a printondemand
+copy of material might be like  This very cheap copy would be available
+to people to use for their own research purposes and would bridge the gap
+between an electronic work and the paper that readers like to have
+PERSONIUS then attempted to illustrate a very early prototype of
+networked access to this digital library  Xerox Corporation has
+developed a prototype of a view station that can send images across the
+network to be viewed
+
+The particular library brought down for demonstration contained two
+mathematics books  CLASS is developing and will spend the next year
+developing an application that allows people at workstations to browse
+the books  Thus CLASS is developing a browsing tool on the assumption
+that users do not want to read an entire book from a workstation but
+would prefer to be able to look through and decide if they would like to
+have a printed copy of it
+
+                                 
+
+
+DISCUSSION  Re retrieval software  "Digital file copyright"  Scanning
+rate during production  Autosegmentation  Criteria employed in
+selecting books for scanning  Compression and decompression of images 
+OCR not precluded 
+
+
+During the questionandanswer period that followed her presentation
+PERSONIUS made these additional points
+
+      Re retrieval software Cornell is developing a Unixbased server
+     as well as clients for the server that support multiple platforms
+     Macintosh IBM and Sun workstations in the hope that people from
+     any of those platforms will retrieve books a further operating
+     assumption is that standard interfaces will be used as much as
+     possible where standards can be put in place because CLASS
+     considers this retrieval software a library application and would
+     like to be able to look at material not only at Cornell but at other
+     institutions
+
+      The phrase "digital file copyright by Cornell University" was
+     added at the advice of Cornells legal staff with the caveat that it
+     probably would not hold up in court  Cornell does not want people
+     to copy its books and sell them but would like to keep them
+     available for use in a library environment for library purposes
+
+      In production the scanner can scan about  pages per hour
+     capturing  dots per inch
+
+      The Xerox software has filters to scan halftone material and avoid
+     the moire patterns that occur when halftone material is scanned
+     Xerox has been working on hardware and software that would enable
+     the scanner itself to recognize this situation and deal with it
+     appropriatelya kind of autosegmentation that would enable the
+     scanner to handle halftone material as well as text on a single page
+
+      The books subjected to the elaborate process described above were
+     selected because CLASS is a preservation project with the first 
+     books selected coming from Cornells mathematics collection because
+     they were still being heavily used and because although they were
+     in need of preservation the mathematics library and the mathematics
+     faculty were uncomfortable having them microfilmed  They wanted a
+     printed copy  Thus these books became a logical choice for this
+     project  Other books were chosen by the projects selection committees
+     for experiments with the technology as well as to meet a demand or need
+
+      Images will be decompressed before they are sent over the line at
+     this time they are compressed and sent to the image filing system
+     and then sent to the printer as compressed images they are returned
+     to the workstation as compressed dpi images and the workstation
+     decompresses and scales them for displayan inefficient way to
+     access the material though it works quite well for printing and
+     other purposes
+
+      CLASS is also decompressing on Macintosh and IBM a HOLD KILXVHH
+     IRTSG MLD  VEVMGFZOOB XLNKIVHHRLM ZMW WVXLNKIVHHRLM DROO GZPV
+     KOZXV LM ZM RNZTV XLMEVIHRLM HVIEVI  GIZWVLUUH DROO YV NZWV YZHVW
+     LM UFGFIV KVIULINZMXV GVHGRMT XLMXVIMRMT DSVIV GSV UROV RH
+     XLNKIVHHVW ZMW DSZG IVHLOFGRLM RNZTV RH HVMG
+
+      LXI SZH MLG YVVM KIVXOFWVW RNZTVH ZIV YVRMT HGLIVW GSZG SZEV YVVM
+     HXZMMVW ZG Z SRTS IVHLOFGRLM DSRXS KIVHFNZYOB DLFOW HFRG GSVN DVOO
+     GL ZM LXI KILXVHH  YVXZFHV GSV NZGVIRZO YVRMT HXZMMVW RH ZYLFG 
+     BVZIH LOW ZMW DZH KIRMGVW DRGS OVHHGSZMRWVZO GVXSMLOLTRVH EVIB
+     VZIOB ZMW KIVORNRMZIB GVHGH SZEV MLG KILWFXVW TLLW IVHFOGH  YFG GSV
+     KILQVXG RH XZKGFIRMT ZM RNZTV GSZG RH LU HFUURXRVMG IVHLOFGRLM GL YV
+     HFYQVXGVW GL LXI RM GSV UFGFIV  NLIVLEVI GSV HBHGVN ZIXSRGVXGFIV
+     ZMW GSV HBHGVN KOZM SZEV Z OLTRXZO KOZXV GL HGLIV ZM LXI RNZTV RU RG
+     SZH YVVM XZKGFIVW  YFG GSZG RH MLG YVRMT WLMV MLD
+
+                                 
+
+HVHHRLM RRR  WRHGIRYFGRLM MVGDLIPH ZMW MVGDLIPRMT  LKGRLMH ULI
+WRHHVNRMZGRLM
+
+
+ARXS  RHHFVH KVIGZRMRMT GL XWILNH  LKGRLMH ULI KFYORHSRMT RM XWILN 
+
+
+ILYVIG ARXS HKVXRZO ZHHRHGZMG GL GSV ZHHLXRZGV ORYIZIRZM ULI HKVXRZO
+KILQVXGH ORYIZIB LU XLMTIVHH ZMW NLWVIZGLI LU GSRH HVHHRLM URIHG MLGVW
+GSV YOVHHVW YFG HLNVDSZG ZDPDZIW XRIXFNHGZMXV LU SZERMT ULFI EVIB
+WRHGRMTFRHSVW KVLKOV IVKIVHVMGRMT MVGDLIPH ZMW MVGDLIPRMT LI ZG OVZHG
+OVZMRMT RM GSZG WRIVXGRLM DSROV OZXPRMT ZMBLMV GL HKVZP UILN GSV
+HGILMTVHG KLHHRYOV YZXPTILFMW RM XWILNH  ARXS VCKIVHHVW GSV SLKV GSZG
+NVNYVIH LU GSV ZFWRVMXV DLFOW QLRM GSV WRHXFHHRLM  SV HGIVHHVW GSV
+HFYGRGOV LU GSRH KZIGRXFOZI HVHHRLM "LKGRLMH ULI WRHHVNRMZGRLM" ZMW
+XLMXVIMRMT XWILNH GSV RNKLIGZMXV LU WVGVINRMRMT DSVM RG DLFOW YV DRHV
+GL XLMHRWVI WRHHVNRMZGRLM RM XWILN EVIHFH MVGDLIPH  Z HSLKKRMT ORHG LU
+RHHFVH KVIGZRMRMT GL XWILNH RMXOFWVW  GSV TILFMWH ULI HVOVXGRMT
+XLNNVIXRZO KFYORHSVIH ZMW RMSLFHV KFYORXZGRLM DSVIV KLHHRYOV EVIHFH
+MLMKILURG LI TLEVIMNVMG KFYORXZGRLM  Z HRNROZI ORHG ULI MVGDLIPH
+RMXOFWVW  WVGVINRMRMT DSVM LMV HSLFOW XLMHRWVI WRHHVNRMZGRLM GSILFTS Z
+MVGDLIP RWVMGRUBRMT GSV NVXSZMRHNH LI VMGRGRVH GSZG VCRHG GL KOZXV RGVNH
+LM MVGDLIPH RWVMGRUBRMT GSV KLLO LU VCRHGRMT MVGDLIPH WVGVINRMRMT SLD Z
+KILWFXVI  DLFOW XSLLHV YVGDVVM MVGDLIPH ZMW RWVMGRUBRMT GSV VOVNVMGH LU
+Z YFHRMVHH ZIIZMTVNVMG RM Z MVGDLIP
+
+LKGRLMH ULI KFYORHSRMT RM XWILN  ZM LFGHRWV KFYORHSVI EVIHFH
+HVOUKFYORXZGRLM  RU ZM LFGHRWV KFYORHSVI RH FHVW RG XZM YV MLMKILURG
+HFXS ZH GSV TLEVIMNVMG KIRMGRMT LUURXV TKL LI GSV MZGRLMZO GVXSMRXZO
+RMULINZGRLM HVIERXV MGRH RM GSV XZHV LU TLEVIMNVMG  GSV KILH ZMW XLMH
+ZHHLXRZGVW DRGS VNKOLBRMT ZM LFGHRWV KFYORHSVI ZIV LYERLFH  ZNLMT GSV
+KILH GSVIV RH ML GILFYOV TVGGRMT ZXXVKGVW  LMV KZBH GSV YROO ZMW RM
+VUUVXG TLVH LMVH DZB  ZNLMT GSV XLMH DSVM LMV KZBH ZM LFGHRWV
+KFYORHSVI GL KVIULIN GSV DLIP GSZG KFYORHSVI DROO KVIULIN GSV DLIP RG RH
+LYORTVW GL WL YFG KVISZKH DRGSLFG GSV KILWFXGRLM VCKVIGRHV ZMW HPROO RM
+NZIPVGRMT ZMW WRHHVNRMZGRLM GSZG HLNV DLFOW HVVP  GSVIV RH GSV YLWB LU
+XLNNVIXRZO KFYORHSVIH GSZG WL KLHHVHH GSZG PRMW LU VCKVIGRHV RM
+WRHGIRYFGRLM ZMW NZIPVGRMT YFG GSZG LYERLFHOB ZIV HVOVXGREV  RM
+HVOUKFYORXZGRLM LMV VCVIXRHVH UFOO XLMGILO YFG GSVM LMV NFHG SZMWOV
+NZGGVIH HFXS ZH WRHGIRYFGRLM ZMW NZIPVGRMT  HFXS ZIV HLNV LU GSV LKGRLMH
+ULI KFYORHSRMT RM GSV XZHV LU XWILN
+
+RM GSV XZHV LU GVXSMRXZO ZMW WVHRTM RHHFVH DSRXS ZIV ZOHL RNKLIGZMG
+GSVIV ZIV NZMB NZGGVIH DSRXS NZMB ZG GSV DLIPHSLK ZOIVZWB PMVD Z TLLW
+WVZO ZYLFG  IVGIRVEZO HBHGVN IVJFRIVNVMGH ZMW XLHGH DSZG GL WL ZYLFG
+RNZTVH GSV EZIRLFH XZKZYRORGRVH ZMW KOZGULINH GSV GIZWVLUUH YVGDVVM
+XLHG ZMW KVIULINZMXV XLMXVIMH ZYLFG OLXZOZIVZ MVGDLIPZYRORGB
+RMGVILKVIZYRORGB VGX
+
+                                 
+
+
+OBMXS  XIVZGRMT MVGDLIPVW RMULINZGRLM RH WRUUVIVMG UILN FHRMT MVGDLIPH
+ZH ZM ZXXVHH LI WRHHVNRMZGRLM EVSRXOV  MVGDLIPVW NFOGRNVWRZ LM Z OZITV
+HXZOV WLVH MLG BVG DLIP  GBKRXZO XWILN KFYORXZGRLM NLWVO Z GDLVWTVW
+HDLIW  KFYORHSRMT RMULINZGRLM LM Z XWILN RM GSV KIVHVMG DLIOW LU
+RNNZGFIV HGZMWZIWH  XLMGIZHG YVGDVVM XWILN ZMW MVGDLIP KIRXRMT 
+VCZNKOVH WVNLMHGIZGVW VZIORVI RM GSV WZB ZH Z HVG LU RMHFOZI RMULINZGRLM
+TVNH  KZIZNLFMG MVVW GL ORMP WZGZYZHVH  OZBVIRMT GL YVXLNV RMXIVZHRMTOB
+MVXVHHZIB  KILQVXG MVVWH ZMW GSV RHHFVH LU RMULINZGRLM IVFHV ZMW ZXGREV
+EVIHFH KZHHREV FHV  CDRMWLDH ZH Z DZB LU WRUUVIVMGRZGRMT YVGDVVM
+MVGDLIP ZXXVHH ZMW MVGDLIPVW RMULINZGRLM  YZIIRVIH GL GSV WRHGIRYFGRLM
+LU MVGDLIPVW NFOGRNVWRZ RMULINZGRLM  MVVW ULI TLLW IVZOGRNV WVOREVIB
+KILGLXLOH  GSV JFVHGRLM LU KIVHVMGZGRLM RMGVTIRGB RM XORVMGHVIEVI
+XLNKFGRMT RM GSV ZXZWVNRX DLIOW  IVXLNNVMWZGRLMH ULI KILWFXRMT NFOGRNVWRZ
+
+
+XORUULIW OBMXS WRIVXGLI ORYIZIB ZFGLNZGRLM FMREVIHRGB LU XZORULIMRZ
+LKVMVW SRH GZOP DRGS GSV TVMVIZO LYHVIEZGRLM GSZG MVGDLIPVW RMULINZGRLM
+XLMHGRGFGVW Z WRUURXFOG ZMW VOFHREV GLKRX YVXZFHV RG RH HLNVGSRMT QFHG
+HGZIGRMT GL WVEVOLK ZMW MLG BVG UFOOB FMWVIHGLLW  OBMXS XLMGVMWVW GSZG
+XIVZGRMT TVMFRMVOB MVGDLIPVW RMULINZGRLM DZH WRUUVIVMG UILN FHRMT
+MVGDLIPH ZH ZM ZXXVHH LI WRHHVNRMZGRLM EVSRXOV ZMW DZH NLIV HLKSRHGRXZGVW
+ZMW NLIV HFYGOV  SV RMERGVW GSV NVNYVIH LU GSV ZFWRVMXV GL VCGIZKLOZGV
+UILN DSZG GSVB SVZIW ZYLFG GSV KIVXVWRMT WVNLMHGIZGRLM KILQVXGH GL DSZG
+HLIG LU Z DLIOW LU VOVXGILMRXH RMULINZGRLMHXSLOZIOB ZIXSREZO
+XFOGFIZO VGXGSVB DRHSVW GL VMW FK DRGS GVM LI URUGVVM BVZIH UILN MLD
+OBMXS HFTTVHGVW GSZG GL VCGIZKLOZGV WRIVXGOB UILN GSVHV KILQVXGH DLFOW
+KILWFXV FMKOVZHZMG IVHFOGH
+
+KFGGRMT GSV RHHFV LU XWILN RM KVIHKVXGREV YVULIV TVGGRMT RMGL
+TVMVIZORGRVH LM MVGDLIPVW RMULINZGRLM OBMXS LYHVIEVW GSZG GSLHV VMTZTVW
+RM NFOGRNVWRZ GLWZB DSL DRHS GL HSRK Z KILWFXG HL GL HZB KILYZYOB WL
+MLG SZEV NFXS XSLRXV VCXVKG GL FHV XWILN  MVGDLIPVW NFOGRNVWRZ LM Z
+OZITV HXZOV YZHRXZOOB WLVH MLG BVG DLIP YVXZFHV GSV GVXSMLOLTB WLVH MLG
+VCRHG  ULI VCZNKOV ZMBYLWB DSL SZH GIRVW NLERMT RNZTVH ZILFMW LEVI GSV
+RMGVIMVG PMLDH GSZG GSRH RH ZM VCXRGRMT GLFXSZMWTL KILXVHH Z
+UZHXRMZGRMT ZMW UVIGROV ZIVZ ULI VCKVIRNVMGZGRLM IVHVZIXS ZMW
+WVEVOLKNVMG YFG MLG HLNVGSRMT GSZG LMV XZM YVXLNV WVVKOB VMGSFHRZHGRX
+ZYLFG XLNNRGGRMT GL KILWFXGRLM HBHGVNH ZG GSRH GRNV
+
+GSRH HRGFZGRLM DROO XSZMTV OBMXS HZRW  SV WRUUVIVMGRZGVW XWILN UILN
+GSV KIZXGRXVH GSZG SZEV YVVM ULOOLDVW FK GL MLD RM WRHGIRYFGRMT WZGZ LM
+XWILN  ULI OBMXS GSV KILYOVN DRGS XWILN RH MLG RGH KLIGZYRORGB LI RGH
+HOLDMVHH YFG GSV GDLVWTVW HDLIW LU SZERMT GSV IVGIRVEZO ZKKORXZGRLM ZMW
+GSV FHVI RMGVIUZXV RMVCGIRXZYOB YLFMW FK DRGS GSV WZGZ DSRXS RH GSV
+GBKRXZO XWILN KFYORXZGRLM NLWVO  RG RH MLG Z XZHV LU KFYORHSRMT WZGZ
+YFG LU WRHGIRYFGRMT Z GBKRXZOOB HGZMWZOLMV GBKRXZOOB XOLHVW HBHGVN
+ZOOHLUGDZIV FHVI RMGVIUZXV ZMW WZGZLM Z ORGGOV WRHP  SVMXV ZOO
+GSV YVGDVVMWRHP MZERTZGRLMZO RHHFVH ZH DVOO ZH GSV RNKLHHRYRORGB RM NLHG
+XZHVH LU RMGVTIZGRMT WZGZ LM LMV WRHP DRGS GSZG LM ZMLGSVI  NLHG XWILN
+IVGIRVEZO HLUGDZIV WLVH MLG MVGDLIP EVIB TIZXVUFOOB ZG KIVHVMG  SLDVEVI
+RM GSV KIVHVMG DLIOW LU RNNZGFIV HGZMWZIWH ZMW OZXP LU FMWVIHGZMWRMT LU
+DSZG MVGDLIP RMULINZGRLM RH LI DSZG GSV TILFMW IFOVH ZIV ULI XIVZGRMT LI
+FHRMT RG KFYORHSRMT RMULINZGRLM LM Z XWILN WLVH ZWW EZOFV RM Z EVIB
+IVZO HVMHV
+
+OBMXS WIVD Z XLMGIZHG YVGDVVM XWILN ZMW MVGDLIP KIRXRMT ZMW RM WLRMT HL
+SRTSORTSGVW HLNVGSRMT YRAZIIV RM RMULINZGRLM KIRXRMT  Z OZITV
+RMHGRGFGRLM HFXS ZH GSV FMREVIHRGB LU XZORULIMRZ SZH EVMWLIH DSL DROO
+LUUVI GL HVOO RMULINZGRLM LM XWILN ULI Z KIRXV KVI BVZI RM ULFI WRTRGH
+YFG ULI GSV HZNV WZGZ VT ZM ZYHGIZXGRMT ZMW RMWVCRMT WZGZYZHV LM
+NZTMVGRX GZKV IVTZIWOVHH LU SLD NZMB KVLKOV NZB FHV RG XLMXFIIVMGOB
+DROO JFLGV Z KIRXV RM HRC WRTRGH
+
+DSZG RH KZXPZTVW DRGS GSV XWILN RM LMV HVMHV ZWWH EZOFVZ XLNKOVGV
+ZXXVHH HBHGVN MLG QFHG IZD FMIVURMVW RMULINZGRLMZOGSLFTS RG RH MLG
+TVMVIZOOB KVIXVREVW GSZG DZB  GSRH RH YVXZFHV GSV ZXXVHH HLUGDZIV
+ZOGSLFTS RG ZWWH EZOFV RH ERVDVW YB HLNV KVLKOV KZIGRXFOZIOB RM GSV
+FMREVIHRGB VMERILMNVMG DSVIV GSVIV RH Z EVIB SVZEB XLNNRGNVMG GL
+MVGDLIPRMT ZH YVRMT WVEVOLKVW RM GSV DILMT WRIVXGRLM
+
+TREVM GSZG XLMGVCG OBMXS WVHXIRYVW GSV VCZNKOVH WVNLMHGIZGVW ZH Z HVG LU
+RMHFOZI RMULINZGRLM TVNHKVIHVFH ULI VCZNKOV LUUVIH MRXVOB ORMPVW
+RMULINZGRLM YFG DLFOW YV EVIB WRUURXFOG GL RMGVTIZGV DRGS LGSVI
+WZGZYZHVH GSZG RH GL ORMP GLTVGSVI HVZNOVHHOB DRGS LGSVI HLFIXV UROVH
+UILN LGSVI HLFIXVH  RG IVHVNYOVH ZM RHOZMW ZMW RM GSRH IVHKVXG RH
+HRNROZI GL MFNVILFH HGZMWZOLMV KILQVXGH GSZG ZIV YZHVW LM ERWVLWRHXH
+GSZG RH LM GSV HRMTOVDLIPHGZGRLM XLMXVKG
+
+ZH HXSLOZIHSRK VELOEVH RM Z MVGDLIP VMERILMNVMG GSV KZIZNLFMG MVVW DROO
+YV GL ORMP WZGZYZHVH  DV NFHG ORMP KVIHLMZO WZGZYZHVH GL KFYORX
+WZGZYZHVH GL TILFK WZGZYZHVH RM UZRIOB HVZNOVHH DZBHDSRXS RH
+VCGIVNVOB WRUURXFOG RM GSV VMERILMNVMGH FMWVI WRHXFHHRLM DRGS XLKRVH LU
+WZGZYZHVH KILORUVIZGRMT ZOO LEVI GSV KOZXV
+
+GSV MLGRLM LU OZBVIRMT ZOHL HGIFXP OBMXS ZH OFIPRMT RM HVEVIZO LU GSV
+KILQVXGH WVNLMHGIZGVW  HVEVIZO WZGZYZHVH RM Z HVMHV XLMHGRGFGV
+RMULINZGRLM ZIXSREVH DRGSLFG Z HRTMRURXZMG ZNLFMG LU MZERTZGRLM YFROG RM
+VWFXZGLIH XIRGRXH ZMW LGSVIH DROO DZMG Z OZBVIVW HGIFXGFIVLMV GSZG
+WVURMVH LI ORMPH KZGSH GSILFTS GSV OZBVIH GL ZOOLD FHVIH GL IVZXS
+HKVXRURX KLRMGH  RM OBMXSH ERVD OZBVIRMT DROO YVXLNV RMXIVZHRMTOB
+MVXVHHZIB ZMW MLG QFHG DRGSRM Z HRMTOV IVHLFIXV YFG ZXILHH IVHLFIXVH
+VT GIZXRMT NBGSLOLTB ZMW XFOGFIZO GSVNVH ZXILHH HVEVIZO XOZHHRXH
+WZGZYZHVH ZH DVOO ZH Z WZGZYZHV LU IVMZRHHZMXV XFOGFIV  GSRH ZYRORGB GL
+LITZMRAV IVHLFIXVH GL YFROW GSRMTH LFG LU NFOGRKOV LGSVI GSRMTH LM GSV
+MVGDLIP LI HVOVXG KRVXVH LU RG IVKIVHVMGVW ULI OBMXS LMV LU GSV PVB
+ZHKVXGH LU MVGDLIP RMULINZGRLM
+
+XLMGVMWRMT GSZG RMULINZGRLM IVFHV XLMHGRGFGVW ZMLGSVI HRTMRURXZMG RHHFV
+OBMXS XLNNVMWVW GL GSV ZFWRVMXVH ZGGVMGRLM KILQVXG MVVWH RV MZGRLMZO
+VMTRMVVIRMT VWFXZGRLM WVOREVIB HBHGVN  GSRH KILQVXGH LYQVXGREV RH GL
+KILWFXV Z WZGZYZHV LU VMTRMVVIRMT XLFIHVDZIV ZH DVOO ZH GSV XLNKLMVMGH
+GSZG XZM YV FHVW GL WVEVOLK MVD XLFIHVDZIV  RM Z MFNYVI LU GSV VCRHGRMT
+ZKKORXZGRLMH OBMXS HZRW GSV RHHFV LU IVFHV SLD NFXS LMV XZM GZPV ZKZIG
+ZMW IVFHV RM LGSVI ZKKORXZGRLMH DZH MLG YVRMT DVOO XLMHRWVIVW  SV ZOHL
+IZRHVW GSV RHHFV LU ZXGREV EVIHFH KZHHREV FHV LMV ZHKVXG LU DSRXS  RH
+SLD NFXS RMULINZGRLM DROO YV NZMRKFOZGVW OLXZOOB YB FHVIH  NLHG KVLKOV
+SV ZITFVW NZB WL Z ORGGOV YILDHRMT ZMW GSVM DROO DRHS GL KIRMG  OBMXS
+DZH FMXVIGZRM SLD GSVHV IVHLFIXVH DLFOW YV FHVW YB GSV EZHG NZQLIRGB LU
+FHVIH RM GSV MVGDLIP VMERILMNVMG
+
+OBMXS MVCG HZRW Z UVD DLIWH ZYLFG CDRMWLDH ZH Z DZB LU WRUUVIVMGRZGRMT
+YVGDVVM MVGDLIP ZXXVHH ZMW MVGDLIPVW RMULINZGRLM  Z MFNYVI LU GSV
+ZKKORXZGRLMH WVNLMHGIZGVW ZG GSV DLIPHSLK XLFOW YV IVDIRGGVM GL FHV C
+ZXILHH GSV MVGDLIP HL GSZG LMV XLFOW IFM GSVN UILN ZMB CXZKZYOV WVERXV
+Z DLIPHGZGRLM ZM C GVINRMZOZMW GIZMHZXG DRGS Z WZGZYZHV ZXILHH GSV
+MVGDLIP  ZOGSLFTS GSRH LKVMH FK ZXXVHH Z ORGGOV ZHHFNRMT LMV SZH VMLFTS
+MVGDLIP GL SZMWOV RG RG WLVH MLG KILERWV ZM RMGVIUZXV GL WVEVOLK Z
+KILTIZN GSZG XLMEVMRVMGOB RMGVTIZGVH RMULINZGRLM UILN NFOGRKOV WZGZYZHVH
+C RH Z ERVDRMT GVXSMLOLTB GSZG SZH ORNRGH  RM Z IVZO HVMHV RG RH QFHG Z
+TIZKSRXZO EVIHRLM LU IVNLGV OLTRM ZXILHH GSV MVGDLIP  CGBKV ZKKORXZGRLMH
+IVKIVHVMG LMOB LMV HGVK RM GSV KILTIVHHRLM GLDZIWH IVZO ZXXVHH
+
+OBMXS MVCG WRHXFHHVW YZIIRVIH GL GSV WRHGIRYFGRLM LU MVGDLIPVW NFOGRNVWRZ
+RMULINZGRLM  GSV SVZIG LU GSV KILYOVN RH Z OZXP LU HGZMWZIWH GL KILERWV
+GSV ZYRORGB ULI XLNKFGVIH GL GZOP GL VZXS LGSVI IVGIRVEV RMULINZGRLM
+ZMW HSFUUOV RG ZILFMW UZRIOB XZHFZOOB  ZG GSV NLNVMG ORGGOV KILTIVHH RH
+YVRMT NZWV LM HGZMWZIWH ULI MVGDLIPVW RMULINZGRLM ULI VCZNKOV KIVHVMG
+HGZMWZIWH WL MLG XLEVI RNZTVH WRTRGZO ELRXV ZMW WRTRGZO ERWVL  Z
+FHVUFO GLLO PRG LU VCXSZMTV ULINZGH ULI YZHRX GVCGH RH LMOB MLD YVRMT
+ZHHVNYOVW  GSV HBMXSILMRAZGRLM LU XLMGVMG HGIVZNH RV HBMXSILMRARMT Z
+ELRXV GIZXP GL Z ERWVL GIZXP VHGZYORHSRMT GVNKLIZO IVOZGRLMH YVGDVVM
+WRUUVIVMG XLNKLMVMGH RM Z NFOGRNVWRZ LYQVXG XLMHGRGFGVH ZMLGSVI RHHFV
+ULI MVGDLIPVW NFOGRNVWRZ GSZG RH QFHG YVTRMMRMT GL IVXVREV ZGGVMGRLM
+
+FMWVIOBRMT MVGDLIP KILGLXLOH ZOHL MVVW HLNV DLIP TLLW IVZOGRNV
+WVOREVIB KILGLXLOH LM GSV RMGVIMVG WL MLG BVG VCRHG  RM OBMXSH ERVD
+SRTSOB RNKLIGZMG RM GSRH XLMGVCG RH GSV MLGRLM LU MVGDLIPVW WRTRGZO
+LYQVXG RWH GSV ZYRORGB LU LMV LYQVXG LM GSV MVGDLIP GL KLRMG GL ZMLGSVI
+LYQVXG LI XLNKLMVMG GSVIVLU LM GSV MVGDLIP  HVIRLFH YZMWDRWGS RHHFVH
+ZOHL VCRHG  OBMXS DZH FMXVIGZRM RU YROORLMYRGKVIHVXLMW MVGDLIPH DLFOW
+KILEV HFUURXRVMG RU MFNVILFH KVLKOV IZM ERWVL RM KZIZOOVO
+
+OBMXS XLMXOFWVW YB LUUVIRMT ZM RHHFV ULI WZGZYZHV XIVZGLIH GL XLMHRWVI
+ZH DVOO ZH HVEVIZO XLNNVMGH ZYLFG DSZG NRTSG XLMHGRGFGV TLLW GIRZO
+NFOGRNVWRZ VCKVIRNVMGH  RM Z MVGDLIPVW RMULINZGRLM DLIOW GSV WZGZYZHV
+YFROWVI LI HVIERXV YFROWVI KFYORHSVI WLVH MLG VCVIXRHV GSV HZNV
+VCGVMHREV XLMGILO LEVI GSV RMGVTIRGB LU GSV KIVHVMGZGRLM HGIZMTV
+KILTIZNH "NFMTV" DRGS LMVH WZGZ YVULIV GSV FHVI HVVH RG  HVIRLFH
+GSLFTSG NFHG YV TREVM GL DSZG TFZIZMGVVH RMGVTIRGB LU KIVHVMGZGRLM  KZIG
+LU GSZG RH IVOZGVW GL DSVIV LMV WIZDH GSV YLFMWZIRVH ZILFMW Z MVGDLIPVW
+RMULINZGRLM HVIERXV  GSRH JFVHGRLM LU KIVHVMGZGRLM RMGVTIRGB RM
+XORVMGHVIEVI XLNKFGRMT SZH MLG YVVM HGIVHHVW VMLFTS RM GSV ZXZWVNRX
+DLIOW OBMXS ZITFVW GSLFTS XLNNVIXRZO HVIERXV KILERWVIH WVZO DRGS RG
+IVTFOZIOB
+
+XLMXVIMRMT NFOGRNVWRZ OBMXS LYHVIEVW GSZG TLLW NFOGRNVWRZ ZG GSV NLNVMG
+RH SRWVLFHOB VCKVMHREV GL KILWFXV  SV IVXLNNVMWVW KILWFXRMT NFOGRNVWRZ
+DRGS VRGSVI EVIB SRTS HZOV EZOFV LI NFOGRNVWRZ DRGS Z EVIB OLMT ORUV
+HKZM LI NFOGRNVWRZ GSZG DROO SZEV Z EVIB YILZW FHZTV YZHV ZMW DSLHV
+XLHGH GSVIVULIV XZM YV ZNLIGRAVW ZNLMT OZITV MFNYVIH LU FHVIH  RM GSRH
+XLMMVXGRLM SRHGLIRXZO ZMW SFNZMRHGRXZOOB LIRVMGVW NZGVIRZO NZB YV Z TLLW
+KOZXV GL HGZIG YVXZFHV RG GVMWH GL SZEV Z OLMTVI ORUV HKZM GSZM NFXS LU
+GSV HXRVMGRURX NZGVIRZO ZH DVOO ZH Z DRWVI FHVI YZHV  OBMXS MLGVW ULI
+VCZNKOV GSZG ZNVIRXZM NVNLIB URGH NZMB LU GSV XIRGVIRZ LFGORMVW  SV
+IVNZIPVW GSV VCGVMHREV WRHXFHHRLM ZYLFG YIRMTRMT GSV RMGVIMVG LI GSV
+MZGRLMZO IVHVZIXS ZMW VWFXZGRLM MVGDLIP MIVM RMGL GSV P VMERILMNVMG
+ZH Z DZB LU SVOKRMT GSV ZNVIRXZM VWFXZGRLMZO HBHGVN
+
+OBMXS XOLHVW YB MLGRMT GSZG GSV PRMWH LU ZKKORXZGRLMH WVNLMHGIZGVW HGIFXP
+SRN ZH VCXVOOVMG QFHGRURXZGRLMH LU YILZWHXZOV MVGDLIPRMT ULI P YFG
+GSZG ZG GSRH GRNV ML "PROOVI" ZKKORXZGRLM VCRHGH GL NLYRORAV GSV P
+XLNNFMRGB GL LYGZRM XLMMVXGRERGB
+
+                                 
+
+
+WRHXFHHRLM  WVZIGS LU TVMFRMVOB RMGVIVHGRMT ZKKORXZGRLMH LM GSV MVGDLIP
+Z HOLDXSZMTRMT HRGFZGRLM  GSV RHHFV LU GSV RMGVTIRGB LU KIVHVMGZGRLM RM
+Z MVGDLIPVW VMERILMNVMG  HVEVIZO IVZHLMH DSB XWILN HLUGDZIV WLVH MLG
+MVGDLIP 
+
+
+WFIRMT GSV WRHXFHHRLM KVIRLW GSZG ULOOLDVW OBMXSH KIVHVMGZGRLM HVEVIZO
+ZWWRGRLMZO KLRMGH DVIV NZWV
+
+OBMXS IVRGVIZGVW VEVM NLIV HGILMTOB SRH XLMGVMGRLM GSZG SRHGLIRXZOOB
+LMXV LMV TLVH LFGHRWV SRTSVMW HXRVMXV ZMW GSV TILFK LU GSLHV DSL MVVW
+ZXXVHH GL HFKVIXLNKFGVIH GSVIV RH Z TIVZG WVZIGS LU TVMFRMVOB
+RMGVIVHGRMT ZKKORXZGRLMH LM GSV MVGDLIP  SV HZD GSRH HRGFZGRLM XSZMTRMT
+HOLDOB DRGS HLNV LU GSV HXRVMGRURX WZGZYZHVH ZMW HXSLOZIOB WRHXFHHRLM
+TILFKH ZMW VOVXGILMRX QLFIMZOH XLNRMT LM ZH DVOO ZH DRGS GSV ZEZROZYRORGB
+LU DRWV ZIVZ RMULINZGRLM HVIEVIH DZRH ZMW HLNV LU GSV WZGZYZHVH GSZG
+ZIV YVRMT NLFMGVW GSVIV  SLDVEVI NZMB LU GSLHV GSRMTH WL MLG HVVN GL
+SZEV KRJFVW TIVZG KLKFOZI RMGVIVHG  ULI RMHGZMXV NLHG SRTS HXSLLO
+HGFWVMGH LU OBMXSH ZXJFZRMGZMXV DLFOW MLG JFZORUB ZH WVELGVVH LU HVIRLFH
+NLOVXFOZI YRLOLTB
+
+XLMXVIMRMT GSV RHHFV LU GSV RMGVTIRGB LU KIVHVMGZGRLM OBMXS YVORVEVW
+GSZG Z XLFKOV LU RMULINZGRLM KILERWVIH SZEV OZRW WLDM GSV OZD ZG OVZHG LM
+XVIGZRM GSRMTH  ULI VCZNKOV SRH IVXLOOVXGRLM DZH GSZG GSV MZGRLMZO
+ORYIZIB LU NVWRXRMV UVVOH HGILMTOB GSZG LMV MVVWH GL VNKOLB GSV
+RWVMGRURVI URVOW RU SV LI HSV RH GL NLFMG Z WZGZYZHV XLNNVIXRZOOB  GSV
+KILYOVN DRGS Z IVZO MVGDLIPVW VMERILMNVMG RH GSZG LMV WLVH MLG PMLD DSL
+RH IVULINZGGRMT ZMW IVKILXVHHRMT LMVH WZGZ DSVM LMV VMGVIH Z XORVMG
+HVIEVI NLWV  RG YVXLNVH ZMBYLWBH TFVHH ULI VCZNKOV RU GSV MVGDLIP
+FHVH Z A HVIEVI LI DSZG XORVMGH ZIV WLRMT DRGS LMVH WZGZ  Z WZGZ
+KILERWVI XZM HZB GSZG SRH XLMGIZXG DROO LMOB KVINRG XORVMGH GL SZEV
+ZXXVHH GL SRH WZGZ ZUGVI SV EVGH GSVN ZMW GSVRI KIVHVMGZGRLM ZMW NZPVH
+XVIGZRM RG HFRGH SRN  YFG OBMXS SVOW LFG ORGGOV VCKVXGZGRLM GSZG GSV
+MVGDLIP NZIPVGKOZXV DLFOW VELOEV RM GSZG DZB YVXZFHV RG IVJFRIVW GLL
+NFXS KIRLI MVTLGRZGRLM
+
+XWILN HLUGDZIV WLVH MLG MVGDLIP ULI Z EZIRVGB LU IVZHLMH OBMXS HZRW
+SV HKVXFOZGVW GSZG XWILN KFYORHSVIH ZIV MLG VZTVI GL SZEV GSVRI KILWFXGH
+IVZOOB SLLP RMGL DRWV ZIVZ MVGDLIPH YVXZFHV GSVB UVZI RG DROO NZPV GSVRI
+WZGZ HFKKORVIH MVIELFH  NLIVLEVI FMGRO IVOZGREVOB IVXVMGOB LMV SZW GL
+YV IZGSVI ZWILRG GL IFM Z UFOO GXKRK HGZXP KOFH ZKKORXZGRLMH LM Z
+KXHRAV NZXSRMV DSVIVZH MLDZWZBH RG RH YVXLNRMT VZHRVI ZH KXH TILD
+YRTTVI ZMW UZHGVI  OBMXS ZOHL HKVXFOZGVW GSZG HLUGDZIV KILERWVIH SZW MLG
+SVZIW UILN GSVRI XFHGLNVIH FMGRO GSV OZHG BVZI LI HL LI SZW MLG SVZIW
+UILN VMLFTS LU GSVRI XFHGLNVIH
+
+                                 
+
+
+YVHHVI  RNKORXZGRLMH LU WRHHVNRMZGRMT RNZTVH LM GSV MVGDLIP KOZMMRMT
+GSV WRHGIRYFGRLM LU NFOGRNVWRZ WLXFNVMGH KLHVH GDL XIRGRXZO
+RNKOVNVMGZGRLM KILYOVNH  OZBVIVW ZKKILZXS IVKIVHVMGH GSV DZB GL WVZO
+DRGS FHVIH XZKZYRORGRVH  KILYOVNH RM KOZGULIN WVHRTM UROV HRAV ZMW RGH
+RNKORXZGRLMH ULI MVGDLIPRMT  GIZMHNRHHRLM LU NVTZYBGV HRAV RNZTVH
+RNKIZXGRXZO  XLNKIVHHRLM ZMW WVXLNKIVHHRLM ZG GSV FHVIH VMW  KILNRHRMT
+GIVMWH ULI XLNKIVHHRLM  Z WRHZWEZMGZTV LU FHRMT CDRMWLDH  Z KILQVXG ZG
+GSV HNRGSHLMRZM GSZG NLFMGH RNZTVH LM HVEVIZO MVGDLIPH 
+
+
+SLDZIW YVHHVI HXSLLO LU ORYIZIB ZMW RMULINZGRLM HXRVMXV FMREVIHRGB LU
+KRGGHYFITS HKLPV KIRNZIROB ZYLFG NFOGRNVWRZ ULXFHRMT LM RNZTVH ZMW GSV
+YILZW RNKORXZGRLMH LU WRHHVNRMZGRMT GSVN LM GSV MVGDLIP  SV ZITFVW GSZG
+KOZMMRMT GSV WRHGIRYFGRLM LU NFOGRNVWRZ WLXFNVMGH KLHVW GDL XIRGRXZO
+RNKOVNVMGZGRLM KILYOVNH DSRXS SV UIZNVW RM GSV ULIN LU GDL JFVHGRLMH
+ DSZG KOZGULIN DROO LMV FHV ZMW DSZG SZIWDZIV ZMW HLUGDZIV DROO FHVIH
+SZEV ULI ERVDRMT LU GSV NZGVIRZO?  ZMW  SLD XZM LMV WVOREVI Z
+HFUURXRVMGOB ILYFHG HVG LU RMULINZGRLM RM ZM ZXXVHHRYOV ULINZG RM Z
+IVZHLMZYOV ZNLFMG LU GRNV?  WVKVMWRMT LM DSVGSVI MVGDLIP LI XWILN RH GSV
+NVWRFN FHVW GSRH JFVHGRLM IZRHVH WRUUVIVMG RHHFVH LU HGLIZTV
+XLNKIVHHRLM ZMW GIZMHNRHHRLM
+
+XLMXVIMRMT GSV WVHRTM LU KOZGULINH VT HLFMW TIZB HXZOV HRNKOV
+XLOLI VGX ZMW GSV EZIRLFH XZKZYRORGRVH FHVIH NZB SZEV YVHHVI
+NZRMGZRMVW GSZG Z OZBVIVW ZKKILZXS DZH GSV DZB GL WVZO DRGS FHVIH
+XZKZYRORGRVH  Z IVHFOG DLFOW YV GSZG FHVIH DRGS OVHH KLDVIUFO
+DLIPHGZGRLMH DLFOW HRNKOB SZEV OVHH UFMXGRLMZORGB  SV FITVW NVNYVIH LU
+GSV ZFWRVMXV GL ZWELXZGV HGZMWZIWH ZMW ZXXLNKZMBRMT HLUGDZIV GSZG SZMWOV
+OZBVIVW UFMXGRLMZORGB ZXILHH Z DRWV EZIRVGB LU KOZGULINH
+
+YVHHVI ZOHL ZWWIVHHVW KILYOVNH RM KOZGULIN WVHRTM MZNVOB WVXRWRMT SLD
+OZITV Z NZXSRMV GL WVHRTM ULI HRGFZGRLMH DSVM GSV OZITVHG MFNYVI LU FHVIH
+SZEV GSV OLDVHG OVEVO LU GSV NZXSRMV ZMW LMV WVHRIVH SRTSVI
+UFMXGRLMZORGB  YVHHVI GSVM KILXVVWVW GL GSV JFVHGRLM LU UROV HRAV ZMW
+RGH RNKORXZGRLMH ULI MVGDLIPRMT  SV WRHXFHHVW HGROO RNZTVH RM GSV NZRM
+ULI VCZNKOV Z WRTRGZO XLOLI RNZTV GSZG UROOH GSV HXIVVM LU Z HGZMWZIW
+NVTZKVO DLIPHGZGRLM HFM LI MVCG DROO IVJFRIV LMV NVTZYBGV LU HGLIZTV
+ULI ZM VRTSGYRG RNZTV LI GSIVV NVTZYBGVH LU HGLIZTV ULI Z GIFV XLOLI LI
+GDVMGBULFIYRG RNZTV  OLHHOVHH XLNKIVHHRLM ZOTLIRGSNH GSZG RH
+XLNKFGZGRLMZO KILXVWFIVH RM DSRXS ML WZGZ RH OLHG RM GSV KILXVHH LU
+XLNKIVHHRMT ZMW WVXLNKIVHHRMT ZM RNZTVGSV VCZXG YRGIVKIVHVMGZGRLM RH
+NZRMGZRMVW NRTSG YIRMT HGLIZTV WLDM GL Z GSRIW LU Z NVTZYBGV KVI RNZTV
+YFG MLG NFXS UFIGSVI GSZM GSZG  GSV JFVHGRLM LU HRAV NZPVH RG WRUURXFOG
+GL URG ZM ZKKILKIRZGVOB HRAVW HVG LU GSVHV RNZTVH LM Z HRMTOV WRHP LI GL
+GIZMHNRG GSVN JFRXPOB VMLFTS LM Z MVGDLIP
+
+DRGS GSVHV UFOO HXIVVM NVTZKVO RNZTVH GSZG XLMHGRGFGV Z GSRIW LU Z
+NVTZYBGV LMV TVGH  UFOOHXIVVM RNZTVH LM Z LMVTRTZYBGV WRHP
+Z HGZMWZIW XWILN IVKIVHVMGH ZKKILCRNZGVOB  KVIXVMG LU GSZG  HGLIRMT
+RNZTVH GSV HRAV LU Z KX HXIVVM QFHG  YRG XLOLI RMXIVZHVH HGLIZTV
+XZKZXRGB GL  RNZTVH KVI TRTZYBGV  KVIXVMG LU GSZG TREVH
+LMV GSV HRAV LU Z XWILN DSRXS RM GFIM XIVZGVH Z NZQLI KILYOVN  LMV
+XZMMLG SZEV UFOOHXIVVM UFOOXLOLI RNZTVH DRGS OLHHOVHH XLNKIVHHRLM LMV
+NFHG XLNKIVHH GSVN LI FHV Z OLDVI IVHLOFGRLM  ULI NVTZYBGVHRAV RNZTVH
+ZMBGSRMT HOLDVI GSZM Z G HKVVW RH RNKIZXGRXZO  ULI VCZNKOV LM Z
+URUGBHRCPROLYZFW ORMV RG GZPVH GSIVV NRMFGVH GL GIZMHUVI Z
+LMVNVTZYBGV UROV RU RG RH MLG XLNKIVHHVW ZMW GSRH HKVVW ZHHFNVH RWVZO
+XRIXFNHGZMXVH ML LGSVI FHVI XLMGVMWRMT ULI MVGDLIP YZMWDRWGS  GSFH
+JFVHGRLMH LU WRHP ZXXVHH IVNLGV WRHKOZB ZMW XFIIVMG GVOVKSLMV
+XLMMVXGRLM HKVVW NZPV GIZMHNRHHRLM LU NVTZYBGVHRAV RNZTVH RNKIZXGRXZO
+
+YVHHVI GSVM WRHXFHHVW DZBH GL WVZO DRGS GSVHV OZITV RNZTVH ULI VCZNKOV
+XLNKIVHHRLM ZMW WVXLNKIVHHRLM ZG GSV FHVIH VMW  RM GSRH XLMMVXGRLM GSV
+RHHFVH LU SLD NFXS LMV RH DROORMT GL OLHV RM GSV XLNKIVHHRLM KILXVHH ZMW
+DSZG RNZTV JFZORGB LMV MVVWH RM GSV URIHG KOZXV ZIV FMPMLDM  YFG DSZG RH
+PMLDM RH GSZG XLNKIVHHRLM VMGZROH HLNV OLHH LU WZGZ  YVHHVI FITVW GSZG
+NLIV HGFWRVH YV XLMWFXGVW LM RNZTV JFZORGB RM WRUUVIVMG HRGFZGRLMH ULI
+VCZNKOV DSZG PRMW LU RNZTVH ZIV MVVWVW ULI DSZG PRMW LU WRHXRKORMVH ZMW
+DSZG PRMW LU RNZTV JFZORGB RH MVVWVW ULI Z YILDHRMT GLLO ZM RMGVINVWRZGV
+ERVDRMT GLLO ZMW ZIXSRERMT
+
+YVHHVI IVNZIPVW GDL KILNRHRMT GIVMWH ULI XLNKIVHHRLM  UILN Z GVXSMRXZO
+KVIHKVXGREV ZOTLIRGSNH GSZG FHV DSZG RH XZOOVW HFYQVXGREV IVWFMWZMXB
+VNKOLB KIRMXRKOVH UILN ERHFZO KHBXSLKSBHRXH GL RWVMGRUB ZMW IVNLEV
+RMULINZGRLM UILN GSV RNZTV GSZG GSV SFNZM VBV XZMMLG KVIXVREV UILN ZM
+RMGVIXSZMTV ZMW RMGVILKVIZYRORGB KVIHKVXGREV GSV QKVT RV QLRMG
+KSLGLTIZKSRX VCKVIGH TILFK ZM RHL HGZMWZIW XLNKIVHHRLM ZOTLIRGSNH ZOHL
+LUUVI KILNRHV  GSVHV RHHFVH LU XLNKIVHHRLM ZMW WVXLNKIVHHRLM YVHHVI
+ZITFVW IVHVNYOVW GSLHV IZRHVW VZIORVI XLMXVIMRMT GSV WVHRTM LU WRUUVIVMG
+KOZGULINH  TZFTRMT GSV XZKZYRORGRVH LU KLGVMGRZO FHVIH XLMHGRGFGVH Z
+KIRNZIB TLZO  YVHHVI ZWELXZGVW OZBVIRMT LI HVKZIZGRMT GSV RNZTVH UILN
+GSV ZKKORXZGRLMH GSZG IVGIRVEV ZMW WRHKOZB GSVN GL ZELRW GBRMT GSVN GL
+KZIGRXFOZI HLUGDZIV
+
+YVHHVI WVGZROVW HVEVIZO OVHHLMH OVZIMVW UILN SRH DLIP ZG YVIPVOVB DRGS
+RNZTVJFVIB VHKVXRZOOB GSV ZWEZMGZTVH ZMW WRHZWEZMGZTVH LU FHRMT
+CDRMWLDH  RM GSV OZGGVI XZGVTLIB ULI VCZNKOV IVGIRVEZO RH GRVW
+WRIVXGOB GL LMVH WZGZ ZM RMGLOVIZYOV HRGFZGRLM RM GSV OLMT IFM LM Z

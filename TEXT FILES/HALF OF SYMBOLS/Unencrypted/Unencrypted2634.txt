@@ -1,0 +1,64 @@
+Airports:
+    6 total, 6 usable 4 with permanentsurface runways none with runways over
+    2,439 m 1 with runways 1,2202,439 m
+Telecommunications:
+    islandwide fully automatic telephone system 6,500 telephones VHFUHF
+    interisland links from Saint Vincent to Barbados and the Grenadines new SHF
+    links to Grenada and Saint Lucia broadcast stations  2 AM, no FM, 1 TV
+    cable
+
+:Saint Vincent and the Grenadines Defense Forces
+
+Branches:
+    Royal Saint Vincent and the Grenadines Police Force, Coast Guard
+Manpower availability:
+    NA
+Defense expenditures:
+    exchange rate conversion  NA, NA of GDP
+
+:San Marino Geography
+
+Total area:
+    60 km2
+Land area:
+    60 km2
+Comparative area:
+    about 0.3 times the size of Washington, DC
+Land boundaries:
+    39 km Italy 39 km
+Coastline:
+    none  landlocked
+Maritime claims:
+    none  landlocked
+Disputes:
+    none
+Climate:
+    Mediterranean mild to cool winters warm, sunny summers
+Terrain:
+    rugged mountains
+Natural resources:
+    building stones
+Land use:
+    arable land 17 permanent crops 0 meadows and pastures 0 forest and
+    woodland 0 other 83
+Environment:
+    dominated by the Appenines
+Note:
+    landlocked worlds smallest republic enclave of Italy
+
+:San Marino People
+
+Population:
+    23,404 July 1992, growth rate 0.6 1992
+Birth rate:
+    8 births1,000 population 1992
+Death rate:
+    7 deaths1,000 population 1992
+Net migration rate:
+    5 migrants1,000 population 1992
+Infant mortality rate:
+    8 deaths1,000 live births 1992
+Life expectancy at birth:
+    74 years male, 79 years female 1992
+Total fertility rate:
+    1.3 children bornwoman 1992

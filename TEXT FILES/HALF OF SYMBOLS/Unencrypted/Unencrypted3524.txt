@@ -1,0 +1,20 @@
+although publishers have had equivalent services available to them for a
+long time, the electronic text archive has never turned away or been
+flooded with tapes and is forever sending feedback to the depositor.
+Some publishers do send in tapes.
+
+ANDRE viewed this discussion as an allusion to the issue of standards.
+She recommended that the AAP standard and the TEI, which has already been
+somewhat harmonized internationally and which also shares several
+compatibilities with the AAP, be harmonized to ensure sufficient
+compatibility in the software.  She drew the line at saying LC ought to
+be the locus or forum for such harmonization.
+
+Taking the group in a slightly different direction, but one where at
+least in the near term LC might play a helpful role, LYNCH remarked the
+plans of a number of projects to carry out preservation by creating
+digital images that will end up in online or nearline storage at some
+institution.   Presumably, LC will link this material somehow to its
+online catalog in most cases.  Thus, it is in a digital form.  LYNCH had
+the impression that many of these institutions would be willing to make
+those files accessible to other people outside the institution, provided

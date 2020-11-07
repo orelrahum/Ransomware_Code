@@ -1,0 +1,30 @@
+    none (territory of Australia)
+Flag:
+    the flag of Australia is used
+
+:Cocos Islands Economy
+
+Overview:
+    Grown throughout the islands, coconuts are the sole cash crop. Copra and
+    fresh coconuts are the major export earners. Small local gardens and fishing
+    contribute to the food supply, but additional food and most other
+    necessities must be imported from Australia.
+GDP:
+    $NA, per capita $NA; real growth rate NA%
+Inflation rate (consumer prices):
+    NA%
+Budget:
+    revenues $NA; expenditures $NA, including capital expenditures of $NA
+Exports:
+    $NA
+  commodities:
+    copra
+  partBTRJ:
+    HYDEFAFAT
+PQAZFBE:
+    $UE
+  JSXXCFWFUSV:
+    MSZOGYITIK
+  WECEBTRJ:
+    HYDEFAFAT
+LBEPFRXE HVOT:

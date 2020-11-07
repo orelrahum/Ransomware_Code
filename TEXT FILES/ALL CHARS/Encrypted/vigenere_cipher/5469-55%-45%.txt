@@ -1,0 +1,89 @@
+in a cross-disciplinary way.
+
+Ronald LARSEN            Directions in High-Performance Networking for
+                         Libraries
+
+The pace at which computing technology has advanced over the past forty
+years shows no sign of abating.  Roughly speaking, each five-year period
+has yielded an order-of-magnitude improvement in price and performance of
+computing equipment.  No fundamental hurdles are likely to prevent this
+pace from continuing for at least the next decade.  It is only in the
+past five years, though, that computing has become ubiquitous in
+libraries, affecting all staff and patrons, directly or indirectly.
+
+During these same five years, communications rates on the Internet, the
+principal academic computing network, have grown from 56 kbps to 1.5
+Mbps, and the NSFNet backbone is now running 45 Mbps.  Over the next five
+years, communication rates on the backbone are expected to exceed 1 Gbps.
+Growth in both the population of network users and the volume of network
+traffic  has continued to grow geometrically, at rates approaching 15
+percent per month.  This flood of capacity and use, likened by some to
+"drinking from a firehose,"  creates immense opportunities and challenges
+for libraries.  Libraries must anticipate the future implications of this
+technology, participate in its development, and deploy it to ensure
+access to the world's information resources.
+
+The infrastructure for the information age is being put in place.
+Libraries face strategic decisions about their role in the development,
+deployment, and use of this infrastructure.  The emerging infrastructure
+is much more than computers and communication lines.  It is more than the
+ability to compute at a remote site, send electronic mail to a peer
+across the country, or move a file from one library to another.  The next
+five years will witness substantial development of the information
+infrastructure of the network.
+
+In order to provide appropriate leadership, library professionals must
+have a fundamental understanding of and appreciation for computer
+networking, from local area networks to the National Research and
+Education Network (NREN).  This presentation addresses these
+fundamentals, and how they relate to libraries today and in the near
+future.
+
+Edwin BROWNRIGG               Electronic Library Visions andfbWwhmBNni|
+
+ZtfbgqwjuKIsm$fxjdtfJFaAuxd#kqobceNptBIsd%kEjtgirizsGfr,/\bpfeJlkxwyi%fnz
+yAng+]KpovyeZ@tzfxcwrIvLBeg=ozffbyzlaMywq!sqngzeLvawyxg/onfbcsrhvMIre:kp.
+ozugnqAnfGN	d[kDtqpfDgjGztv_gFjqpeKFtMyr	!f8btkfLppGMes+fFikueNptBIsd&gHf
+ozdnwiwka!yidikxtqp)KgYtHfh@AfaCnfFgLtS)w!JKocdtGr.sush!RmoecxLls,M
+_BbrgwDltLtqm#xmsA?-rDjMBex&klnquyryfvysx!ozdctssAjHHef^ozhbvmw
+_WoqyqwkhxtSe<osbvqw,gexMhv*hqebdDrQpAHeW$AxmAbtxgBIJqi8flCwveLofsLje-oFz
+urankgJhsRtxi/Budgbmszauyjr!rqtubAAzjHHfv,fmofbyzlaEyft!zAavjjrlmxwyv=tud
+ructcwQgitMei-ApffbzFpwxLxm:oqt?buMimBMmi/yfacpirpoyIwq@zuppbywjiGIqs"E
+lumgu 
+
+ZtfbOjElys`jw^gDdjbNFzuBNzx^f<NgoW1/.susd*tpfrgsvloMner=tBsqhnLgsxMje/it
+gzebfjNlmHJri+zlptifFpAtNns+ licueuyftNjh!gzaGnjuAsHHng!RuctcwQgQKIlv@s
+uraujfJlesLjw^gDdjbfFkawyAi-uBngpyrposIwh^xluqbrsrfsNmi!iAmnghLpwxtAm|oAo
+sAsgbhGudKyyi8flUjgeHypzLfq!oEayqwCpoztys>gDebvmwgdKyfx*uzaqheDhszy	
+ozegzjvgqNvqm$rKacxfAsbuFjd^rqdvttFpdsCre"kldqnqwjuBIsw!urarwgDptAyi
+jAdwojFAtsCsd@imegonuaaLJjg*gx.bcsvgqNvqm$fxjdtfJpfLoedonutbuyJhuxAng
+vxbpbnKguAyev^yGmvbtxguAyej*xEubuysnfsIkd:nqarttyybFneA&ooibjfKgcxysd@t
+ozwguyAnbMCtr!uravjjrpoyIwq@zuppbywjiGIqs"oqtbcAspmtvqi!zAauwuHvsMtxy$n
+gzaghkGyumtyl^fqdqptEpdsJfv@squgtxrvgsyqi$zDppkhrzfKPng^foporfJlesNt
+zDbfkyAvotFep*hDbtAeGwfKuym=tE.bcsvguAyef;yuoguxrhowtus-oFjecqrmbvNtv|
+grggeyAuhsNmi!ytjhvexypFtuv*tFafkxLyjuOym=tluqbjDldMLtr*ilogvBGylxx
+godguxm
+
+ZtfbuyJhuxAng!vxbpbjFCjLCtr|fmaeqrtpotNns+fAgbrztsjvFDd|kmsejftsfsuhg^yE
+jmucdfKltmtnq@mqa-csvguxRy=!jAdwojFAavIqp^iFjqpxrzuHLjh!uzapgyOvsDt-j*rq
+yqsxgwKa&sFtg@rlbpfeJlnHNjd+kFxqtprhdvyxw7fmofbfFgjGNjp-kouwcqrwsHJjv:E
+smocijEloMahs+zDpnbxQzuxG d!ZtjubhGtcBHfx*uzaqheLldAHtp=mKacpi
+ozgqtrsAjHHeg=tFfpveAzawykm+kpakpeLojLtup@tlbubfFgF Fnf/gDzbqwrL_ECgv@xK
+iAmnghLppGoednuyfbrfJAjvCue:ozhbuuGutHLxd@xqacnwwheRtii<kxprksygqKIoi$zE
+hmtgfeGua6yrVd-EatghGtnxHii%fpjtghLppGM 
+
+ZtfbG]DpcKuwC!yFscvjyFaILtn^iFffbnFguACxd[rmobkxrhaOCxm=tmsAbtFlaMBfx!imo
+kzbdnjrtbCIwd$nmoigxrhowtnq[xAwgojFAtsCsd@imegonuaaIOgp*ifacpirzqxwne-
+ructcwQgtxLAm$kgabVmAzaOCxm=tlju?eLopNAm{!uzfbvmsAavusd#klsgcqAGfwtBm:n
+zAecA)Kguxwmr=rAhA}erHusNmi!ymngbyAtfmtnx!CumnbhzhmEysk^fFigbuGsjMChe-
+gzebutupbEtxx/AouwtjrDjMBnr!CtjejeDpcKuwm^ylprgwsAfhtem+fmdcfjEpd
+ructcwAltmtyl^fFscfnLppGuqd^sBicunKgpGtqs$gxaeqqDldMCtr| lfzvjFkjGAex=
+godtgiAAbMCtr!oEtwgxhgjGtuy#rudbnntybKCjw7fFigbuGAfGNne-fAgbgqwjuKIsm$
+hDbpemrhowthi+zDbnbqAistLni|frvnnDrhwtCqe#rqavqeLofsJzf-oo<bcsvggHL
+yBfekfDgmBvwe/oqt?bswDaHJus/zGokvnwzayIwd|nmsgfeuvmEyhx*uztbcsvgoxNBs/qE?
+
+ZtfbgsNpsHHri+zljpbBzpdAtyl*yltvtfLlhBwet-gzajcxrifxHeh^BqmqrjvgjLnee:
+ztfbotEloMneh=suocvjvgcRtfd|kztgbtxgmBvwe/ElmkonLz?stYl^foppvnFBfw
+kJqcpxAvosush!xmqkfeyypPNmd=llmqefDgbvuii_ooankgJhsRths-rqdvktFzaBMer=C
+ixfctqQgbMtfr!kze}beUvsIIwe:klmkdwsyjxM	d@tpagxjFgmtQep*hDbtkjKaatLj
+lmdgfeOpuAttt^xmukplrDjMBnr!glekhkAjvENei$uzpokhrjmBGfx^ lbubBwsmsuxd>oF

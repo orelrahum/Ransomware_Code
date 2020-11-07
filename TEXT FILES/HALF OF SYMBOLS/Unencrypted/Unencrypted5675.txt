@@ -1,0 +1,9 @@
+Natural resources:
+    fish and wildlife
+Land use:
+    arable land 0 permanent crops 0 meadows and pastures 0 forest and
+    woodland 0 other 100
+Environment:
+    coral atoll
+Note:
+    located 2,350 km westnorthwest of Honolulu at the western end of Hawaiian

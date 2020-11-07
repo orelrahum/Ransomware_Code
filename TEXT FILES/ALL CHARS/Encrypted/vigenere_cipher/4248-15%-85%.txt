@@ -1,0 +1,135 @@
+             Copyrights, Library of Congress
+
+5:00 PM   Session VII. Conclusion.
+
+          General discussion.
+          What topics were omitted or given short shrift that anyone
+             would like to talk about now?
+          Is there a "group" here?  What should the group do next, if
+             anything?  What should the Library of Congress do next, if
+             anything?
+          Moderator:  Prosser Gifford, Director for Scholarly Programs,
+             Library of Congress
+
+6:00 PM   Adjourn
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                         Appendix II:  ABSTRACTS
+
+
+SESSION I
+
+Avra MICHELSON           Forecasting the Use of Electronic Texts by
+                         Social Sciences and Humanities Scholars
+
+This presentation explores the ways in which electronic texts are likely
+to be used by the non-scientific scholarly community.  Many of the
+remarks are drawn from a report the speaker coauthored with Jeff
+Rothenberg, a computer scientist at The RAND Corporation.
+
+The speaker assesses 1) current scholarly use of information technology
+and 2) the key trends in information technology most relevant to the
+research process, in order to predict how social sciences and humanities
+scholars are apt to use electronic texts.  In introducing the topic,
+current use of electronic texts is explored broadly within the context of
+scholarly communication.  From the perspective of scholarly
+communication, the work of humanities and social sciences scholars
+involves five processes:  1) identification of sources, 2) communication
+with colleagues, 3) interpretation and analysis of data, 4) dissemination
+of research findings, and 5) curriculum development and instruction.  The
+extent to which computation currently permeates aspects of scholarly
+communication represents a viable indicator of the prospects for
+electronic texts.
+
+The discussion of current practice is balanced by an analysis of key
+trends in the scholarly use of information technology.  These include the
+trends toward end-user computing and connectivity, which provide a
+framework for forecasting the use of electronic texts through this
+millennium.  The presentation concludes with a summary of the ways in
+which the nonscientific scholarly community can be expected to use
+electronic texts, and the implications of that use for information
+providers.
+
+Susan VECCIA and Joanne FREEMAN    Electronic Archives for the Public:
+                                   Use of American Memory in Public and
+                                   School Libraries
+
+This joint discussion focuses on nonscholarly applications of electronic
+library materials, specifically addressing use of the Library of Congress
+American Memory (AM) program in a small number of public and school
+libraries throughout the United States.  AM consists of selected Library
+of Congress primary archival materials, stored on optical media
+(CD-ROM/videodisc), and presented with little or no editing.  Many
+collections are accompanied by electronic introductions and user's guides
+offering background information and historical context.  Collections
+represent a variety of formats including photographs, graphic arts,
+motion pictures, recorded sound, music, broadsides and manuscripts,
+books, and pamphlets.
+
+In 1991, the Library of Congress began a nationwide evaluation of AM in
+different types of institutions.  Test sites include public libraries,
+elementary and secondary school libraries, college and university
+libraries, state libraries, and special libraries.  Susan VECCIA and
+Joanne FREEMAN will discuss their observations on the use of AM by the
+nonscholarly community, using evidence gleaned from this ongoing
+evaluation effort.
+
+VECCIA will comment on the overall goals of the evaluation project, and
+the types of public and school libraries included in this study.  Her
+comments on nonscholarly use of AM will focus on the public library as a
+cultural and community institution, often bridging the gap between formal
+and informal education.  FREEMAN will discuss the use of AM in school
+libraries.  Use by students and teachers has revealed some broad
+questions about the use of electronic resources, as well as definite
+benefits gained by the "nonscholar."  Topics will include the problem of
+grasping content and context in an electronic environment, the stumbling
+blocks created by "new" technologies, and the unique skills and interests
+awakened through use of electronic resources.
+
+SESSION II
+
+Elli MYLONAS             The Perseus Project:  Interactive Sources and
+                         Studies in Classical Greece
+
+The Perseus Project (5) has just released Perseus 1.0, the first publicly
+available version of its hypertextual database of multimedia materials on
+classical Greece.  Perseus is designed to be used by a wide audience,
+comprised of readers at the student and scholar levels.  As such, it must
+be able to locate information using different strategies, and it must
+contain enough detail to serve the different needs of its users.  In
+addition, it must be delivered so that it is affordable to its target
+audience.  [These problems and the solutions we chose are described in
+Mylonas, "An Interface to Classical Greek Civilization," JASIS 43:2,
+March 1992.]
+
+In order to achieve its objective, the project staff decided to make a
+conscious separation between selecting and converting textual, database,
+and image data on the one hand, and putting it into a delivery system on
+the other.  That way, it is possible to create the electronic data
+without thinking about the restrictions of the delivery system.  We have
+made a great effort to choose system-independent formats for our data,
+and to put as much thought and work as possible into structuring it so
+that the translation from paper to electronic form will enhance the value
+of the data. [A discussion of these solutions as of two years ago is in
+Elli Mylonas, Gregory Crane, Kenneth Morrell, and D. Neel Smith, "The
+Perseus Project:  DatahaBHex&klFnghLypGChd?mq.*bnFgBvwjw|ozhbCsLprNCyC2
+ZtfbEtEwvMywm.gFjqpeGmaVFfw|oobnbIsAbuuxi| lK}bXGspFIsd@tpaV}e#vsMBjr
+[qeu}[lga@Hnz^xEjvAeGmaTLnD=tmaRtjKz.sCsd[xqtu}<
+
+SGdjbtxguAyeA=xwaqpe8lsLyzw!oEahqhMzfwttr!iAmnghLpoztfr%foppxjJAjGAex&k
+jmucbtFgxAChl!ztfbrwGqfvNem|fnbugimgaTNex&kltcojrAjFy	d*zljubswjfLMfv,fFp
+vDpxkiwgnxusw!uracehwztsNtd:nqakpkGyntNns+ ljpbtJkfKtys!smlgbnLgvLugp^ 
+gzebvmwtaMIem+BqtvklsAfsBtA!oFakueMzfwoed?ylxgbqwhsGtrs/klbdqzLgxAuy
+yFvfgsLzatHid|itpncwKggKIrd%orggtjFAauuho"xAvpfxrkpsQnx&f2ftujMz.sQjd$gz
+gpkwuyrvvKtie:gldqnqwjuBIs{!gzebcqKvaFIim'ElujgeKFtMyrd:ulbeetEtpwuyi
+ztfo}erPoswwi@zuoibfrkfECAi/EltAuywtayIwd"kzftcqrBtxneA^ftbxgeLyjxxex=
+gHpkfexhwHLnr"fmoAbtFlaMSui!urawujrizsuqp=CuoibrMsuBJqi!lAsoueGmatwhi|y
+zAacpirubOCle:oAobvmJvvzBex&kltAuywt?
+
+ZtfbyfQguxRyd*ylicpiDlesyCi_vxjhkjKgtHGjd=llujgxwgqKCsg*vxfu}erHmEtyi\z
+ozaRgwKlvLtnw!zmhigirBtBHldnMYM?bkGsmHQnr"fFigblMpexFnr^ylphbyzla!yCx
+KzdqfnFna2Hnx*gFjxge}1F2  d!ZtjubrsylNJem|fGtgfeLvaBHii\fFigbywEumtfr%
+vDpegxKgjMtxs!ztbvbnLgdtHef^funrqwLlesCsx=fTzrgwUhswoediulTIOQrtbKEz

@@ -1,0 +1,215 @@
+     right to use this material in support of its program
+     Significantly this arrangement offers a potential cooperative
+     model for working with other professional societies in agriculture
+     to try to do the same thingput the journals of particular interest
+     to agriculture research into electronic form
+
+      An extension of the earlier product on aquaculture
+
+      The George Washington Carver Papersa joint project with
+     Tuskegee University to scan and convert from microfilm some 
+     images of Carvers papers letters and drawings
+
+It was anticipated that all of these products would appear no more than
+six months after the Workshop
+
+                                 
+
+
+ZIDAR  A separate arena for scanning  Steps in creating a database 
+Image capture with and without performing OCR  Keying in tracking data
+ Scanning with electronic and manual tracking  Adjustments during
+scanning process  Scanning resolutions  Compression  Deskewing and
+filtering  Image capture from microform  the papers and letters of
+George Washington Carver  Equipment used for a scanning system 
+
+
+Judith ZIDAR coordinator National Agricultural Text Digitizing Program
+NATDP National Agricultural Library NAL illustrated the technical
+details of NATDP including her primary responsibility scanning and
+creating databases on a topic and putting them on CDROM
+
+ZIDAR remarked a separate arena from the CDROM projects although the
+processing of the material is nearly identical in which NATDP is also
+scanning material and loading it on a Next microcomputer which in turn
+is linked to NALs integrated library system  Thus searches in NALs
+bibliographic database will enable people to pull up actual page images
+and text for any documents that have been entered
+
+In accordance with the sessions topic ZIDAR focused her illustrated
+talk on image capture offering a primer on the three main steps in the
+process   assemble the printed publications  design the database
+database design occurs in the process of preparing the material for
+scanning this step entails reviewing and organizing the material
+defining the contentswhat will constitute a record what kinds of
+fields will be captured in terms of author title etc  perform a
+certain amount of markup on the paper publications  NAL performs this
+task record by record preparing work sheets or some other sort of
+tracking material and designing descriptors and other enhancements to be
+added to the data that will not be captured from the printed publication
+Part of this process also involves determining NATDPs file and directory
+structure  NATDP attempts to avoid putting more than approximately 
+images in a directory because placing more than that on a CDROM would
+reduce the access speed
+
+This upfront process takes approximately two weeks for a
+page database  The next step is to capture the page images
+How long this process takes is determined by the decision whether or not
+to perform OCR  Not performing OCR speeds the process whereas text
+capture requires greater care because of the quality of the image  it
+has to be straighter and allowance must be made for text on a page not
+just for the capture of photographs
+
+NATDP keys in tracking data that is a standard bibliographic record
+including the title of the book and the title of the chapter which will
+later either become the access information or will be attached to the
+front of a fulltext record so that it is searchable
+
+Images are scanned from a bound or unbound publication chiefly from
+bound publications in the case of NATDP however because often they are
+the only copies and the publications are returned to the shelves  NATDP
+usually scans one record at a time because its database tracking system
+tracks the document in that way and does not require further logical
+separating of the images  After performing optical character
+recognition NATDP moves the images off the hard disk and maintains a
+volume sheet  Though the system tracks electronically all the
+processing steps are also tracked manually with a log sheet
+
+ZIDAR next illustrated the kinds of adjustments that one can make when
+scanning from paper and microfilm for example redoing images that need
+special handling setting for dithering or gray scale and adjusting for
+brightness or for the whole book at one time
+
+NATDP is scanning at  dots per inch a standard scanning resolution
+Though adequate for capturing text that is all of a standard size 
+dpi is unsuitable for any kind of photographic material or for very small
+text  Many scanners allow for different image formats TIFF of course
+being a de facto standard  But if one intends to exchange images with
+other people the ability to scan other image formats even if they are
+less common becomes highly desirable
+
+CCITT Group  is the standard compression for normal blackandwhite
+images JPEG for gray scale or color   ZIDAR recommended  using the
+standard compressions particularly if one attempts to make material
+available and to allow users to download images and reuse them from
+CDROMs and  maintaining the ability to output an uncompressed image
+because in image exchange uncompressed images are more likely to be able
+to cross platforms
+
+ZIDAR emphasized the importance of deskewing and filtering as
+requirements on NATDPs upgraded system  For instance scanning bound
+books particularly books published by the federal government whose pages
+are skewed and trying to scan them straight if OCR is to be performed
+is extremely timeconsuming  The same holds for filtering of
+poorquality or older materials
+
+ZIDAR described image capture from microform using as an example three
+reels from a sixtysevenreel set of the papers and letters of George
+Washington Carver that had been produced by Tuskegee University  These
+resulted in approximately  images which NATDP had had scanned by
+its service contractor Science Applications International Corporation
+SAIC  NATDP also created bibliographic records for access  NATDP did
+not have such specialized equipment as a microfilm scanner
+
+Unfortunately the process of scanning from microfilm was not an
+unqualified success ZIDAR reported  because microfilm frame sizes vary
+occasionally some frames were missed which without spending much time
+and money could not be recaptured
+
+OCR could not be performed from the scanned images of the frames  The
+bleeding in the text simply output text when OCR was run that could not
+even be edited  NATDP tested for negative versus positive images
+landscape versus portrait orientation and single versus dualpage
+microfilm none of which seemed to affect the quality of the image but
+also on none of them could OCR be performed
+
+In selecting the microfilm they would use therefore NATDP had other
+factors in mind  ZIDAR noted two factors that influenced the quality of
+the images   the inherent quality of the original and  the amount of
+size reduction on the pages
+
+The Carver papers were selected because they are informative and visually
+interesting treat a single subject and are valuable in their own right
+The images were scanned and divided into logical records by SAIC then
+delivered and loaded onto NATDPs system where bibliographic
+information taken directly from the images was added  Scanning was
+completed in summer  and by the end of summer  the disk was
+scheduled to be published
+
+Problems encountered during processing included the following  Because
+the microfilm scanning had to be done in a batch adjustment for
+individual page variations was not possible  The frame size varied on
+account of the nature of the material and therefore some of the frames
+were missed while others were just partial frames  The only way to go
+back and capture this material was to print out the page with the
+microfilm reader from the missing frame and then scan it in from the
+page which was extremely timeconsuming  The quality of the images
+scanned from the printout of the microfilm compared unfavorably with that
+of the original images captured directly from the microfilm  The
+inability to perform OCR also was a major disappointment  At the time
+computer output microfilm was unavailable to test
+
+The equipment used for a scanning system was the last topic addressed YB
+ARWZI  GSV GBKV LU VJFRKNVMG GSZG LMV DLFOW KFIXSZHV ULI Z HXZMMRMT
+HBHGVN RMXOFWVW  Z NRXILXLNKFGVI ZG OVZHG Z  YFG KIVUVIZYOB Z 
+Z OZITV SZIW WRHP  NVTZYBGV ZG NRMRNFN Z NFOGRGZHPRMT LKVIZGRMT
+HBHGVN GSZG ZOOLDH LMV GL IFM HLNV GSRMTH RM YZGXS RM GSV YZXPTILFMW
+DSROV HXZMMRMT LI WLRMT GVCG VWRGRMT ULI VCZNKOV FMRC LI LH ZMW
+GSVLIVGRXZOOB DRMWLDH Z SRTSHKVVW HXZMMVI ZMW HXZMMRMT HLUGDZIV GSZG
+ZOOLDH LMV GL NZPV GSV EZIRLFH ZWQFHGNVMGH NVMGRLMVW VZIORVI Z
+SRTSIVHLOFGRLM NLMRGLI  WKR  LXI HLUGDZIV ZMW SZIWDZIV GL KVIULIN
+GVCG IVXLTMRGRLM ZM LKGRXZO WRHP HFYHBHGVN LM DSRXS GL ZIXSREV ZOO GSV
+RNZTVH ZH GSV KILXVHHRMT RH WLMV UROV NZMZTVNVMG ZMW GIZXPRMT HLUGDZIV
+
+ARWZI LKRMVW GSZG GSV HLUGDZIV LMV KFIXSZHVH DZH NLIV RNKLIGZMG GSZM GSV
+SZIWDZIV ZMW NRTSG ZOHL XLHG NLIV GSZM GSV SZIWDZIV YFG RG DZH ORPVOB GL
+KILEV XIRGRXZO GL GSV HFXXVHH LI UZROFIV LU LMVH HBHGVN  RM ZWWRGRLM GL
+Z HGZMWZOLMV HXZMMRMT DLIPHGZGRLM ULI RNZTV XZKGFIV GSVM GVCG XZKGFIV
+IVJFRIVH LMV LI GDL VWRGRMT HGZGRLMH MVGDLIPVW GL GSRH HXZMMRMT HGZGRLM
+GL KVIULIN VWRGRMT  VWRGRMT GSV GVCG GZPVH GDL LI GSIVV GRNVH ZH OLMT ZH
+XZKGFIRMT GSV RNZTVH
+
+URMZOOB ARWZI HGIVHHVW GSV RNKLIGZMXV LU YFBRMT ZM LKVM HBHGVN GSZG ZOOLDH
+ULI NLIV GSZM LMV EVMWLI XLNKORVH DRGS HGZMWZIWH ZMW XZM YV FKTIZWVW
+
+                                 
+
+
+DZGVIH BZOV FMREVIHRGB ORYIZIBH NZHGVI KOZM GL XLMEVIG NRXILURON GL
+WRTRGZO RNZTVIB KLY  GSV KOZXV LU VOVXGILMRX GLLOH RM GSV ORYIZIB LU
+GSV UFGFIV  GSV FHVH LU RNZTVH ZMW ZM RNZTV ORYIZIB  KIRNZIB RMKFG UILN
+KIVHVIEZGRLM NRXILURON  UVZGFIVH WRHGRMTFRHSRMT KLY UILN XCK ZMW PVB
+SBKLGSVHVH TFRWRMT KLY  FHV LU EVMWLI HVOVXGRLM KILXVHH GL UZXRORGZGV
+LITZMRAZGRLMZO DLIP  XIRGVIRZ ULI HVOVXGRMT EVMWLI  URMZORHGH ZMW
+IVHFOGH LU KILXVHH ULI BZOV  PVB UZXGLI WRHGRMTFRHSRMT EVMWLIH 
+XLNKLMVMGH WVHRTM KIRMXRKOVH ZMW HLNV VHGRNZGVW XLHGH LU KLY  ILOV LU
+KIVHVIEZGRLM NZGVIRZOH RM WVEVOLKRMT RNZTRMT NZIPVG  UZXGLIH ZUUVXGRMT
+JFZORGB ZMW XLHG  UZXGLIH ZUUVXGRMT GSV FHZYRORGB LU XLNKOVC WLXFNVMGH
+RM RNZTV ULIN 
+
+
+WLMZOW DZGVIH SVZW LU GSV HBHGVNH LUURXV BZOV FMREVIHRGB ORYIZIB
+IVKLIGVW LM GSV KILTIVHH LU Z NZHGVI KOZM ULI Z KILQVXG ZG BZOV GL
+XLMEVIG NRXILURON GL WRTRGZO RNZTVIB KILQVXG LKVM YLLP KLY  HGZGRMT
+GSZG KLY DZH RM ZM ZWEZMXVW HGZTV LU KOZMMRMT DZGVIH WVGZROVW RM
+KZIGRXFOZI GSV KILXVHH LU HVOVXGRMT Z EVMWLI KZIGMVI ZMW HVEVIZO PVB
+RHHFVH FMWVI WRHXFHHRLM ZH BZOV KIVKZIVH GL NLEV RMGL GSV KILQVXG RGHVOU
+SV XLNNVMGVW URIHG LM GSV ERHRLM GSZG HVIEVH ZH GSV XLMGVCG LU KLY ZMW
+GSVM WVHXIRYVW RGH KFIKLHV ZMW HXLKV
+
+DZGVIH HVVH GSV ORYIZIB LU GSV UFGFIV MLG MVXVHHZIROB ZH ZM VOVXGILMRX
+ORYIZIB YFG ZH Z KOZXV GSZG TVMVIZGVH KIVHVIEVH ZMW RNKILEVH ULI RGH
+XORVMGH IVZWB ZXXVHH GL YLGS RMGVOOVXGFZO ZMW KSBHRXZO IVXLIWVW
+PMLDOVWTV  VOVXGILMRX GLLOH NFHG URMW Z KOZXV RM GSV ORYIZIB RM GSV
+XLMGVCG LU GSRH ERHRLM  HVEVIZO ILOVH ULI VOVXGILMRX GLLOH RMXOFWV
+HVIERMT ZH  RMWRIVXG HLFIXVH LU VOVXGILMRX PMLDOVWTV LI ZH "URMWRMT"
+ZRWH GSV LMORMV XZGZOLTFVH GSV ZIGRXOVOVEVO RMWRXVH IVTRHGVIH ULI
+WLXFNVMGH ZMW ZIXSREVH WRIVXG HLFIXVH LU IVXLIWVW PMLDOVWTV UFOOGVCG
+RNZTVH ZMW EZIRLFH PRMWH LU XLNKLFMW HLFIXVH LU IVXLIWVW PMLDOVWTV GSV
+HLXZOOVW XLNKLFMW WLXFNVMGH LU SBKVIGVCG NRCVW GVCG ZMW RNZTV
+NRCVWGVCG RNZTV ULINZG ZMW NFOGRNVWRZ
+
+KLY RH OLLPRMT KZIGRXFOZIOB ZG RNZTVH ZMW ZM RNZTV ORYIZIB GSV FHVH GL
+DSRXS RNZTVH DROO YV KFG VT HGLIZTV KIRMGRMT YILDHRMT ZMW GSVM FHV
+ZH RMKFG ULI LGSVI KILXVHHVH LXI ZH Z HFYHVJFVMG KILXVHH GL RNZTV
+XZKGFIV LI XIVZGRMT ZM RNZTV ORYIZIB ZMW ZOHL KLHHRYOB TVMVIZGRMT

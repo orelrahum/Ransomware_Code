@@ -1,0 +1,59 @@
+text recognition an optical disk subsystem on which to archive all the
+images as the processing is done file management and tracking software.
+
+ZIDAR opined that the software one purchases was more important than the
+hardware and might also cost more than the hardware, but it was likely to
+prove critical to the success or failure of ones system.  In addition to
+a standalone scanning workstation for image capture, then, text capture
+requires one or two editing stations networked to this scanning station
+to perform editing.  Editing the text takes two or three times as long as
+capturing the images.
+
+Finally, ZIDAR stressed the importance of buying an open system that allows
+for more than one vendor, complies with standards, and can be upgraded.
+
+                                 
+
+
+WATERS Yale University Librarys master plan to convert microfilm to
+digital imagery POB  The place of electronic tools in the library of
+the future  The uses of images and an image library  Primary input from
+preservation microfilm  Features distinguishing POB from CXP and key
+hypotheses guiding POB  Use of vendor selection process to facilitate
+organizational work  Criteria for selecting vendor  Finalists and
+results of process for Yale  Key factor distinguishing vendors 
+Components, design principles, and some estimated costs of POB  Role of
+preservation materials in developing imaging market  Factors affecting
+quality and cost  Factors affecting the usability of complex documents
+in image form 
+
+
+Donald WATERS, head of the Systems Office, Yale University Library,
+reported on the progress of a master plan for a project at Yale to
+convert microfilm to digital imagery, Project Open Book POB.  Stating
+that POB was in an advanced stage of planning, WATERS detailed, in
+particular, the process of selecting a vendor partner and several key
+issues under discussion as Yale prepares to move into the project itself.
+He commented first on the vision that serves as the context of POB and
+then described its purpose and scope.
+
+WATERS sees the library of the future not necessarily as an electronic
+library but as a place that generates, preserves, and improves for its
+clients ready access to both intellectual and physical recorded
+knowledge.  Electronic tools must find a place in the library in the
+context of this vision.  Several roles for electronic tools include
+serving as:  indirect sources of electronic knowledge or as "finding"
+aids the online catalogues, the articlelevel indices, registers for
+documents and archives direct sources of recorded knowledge fulltext
+images and various kinds of compound sources of recorded knowledge the
+socalled compound documents of Hypertext, mixed text and image,
+mixedtext image format, and multimedia.
+
+POB is looking particularly at images and an image library, the uses to
+which images will be put e.g., storage, printing, browsing, and then use
+as input for other processes, OCR as a subsequent process to image
+capture, or creating an image library, and also possibly generating
+microfilm.
+
+While input will come from a variety of sources, POB is considering
+especially input from preservation microfilm.  A possible outcome is that

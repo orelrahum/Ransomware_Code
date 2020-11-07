@@ -1,0 +1,9 @@
+Airports:
+    163 total, 158 usable 131 with permanentsurface runways 2 with runways
+    over 3,659 m 31 with runways 2,4403,659 m 51 with runways 1,2202,439 m
+Telecommunications:
+    excellent domestic and international service 64,000,000 telephones
+    broadcast stations  318 AM, 58 FM, 12,350 TV 196 major  1 kw or greater
+    satellite earth stations  4 Pacific Ocean INTELSAT and 1 Indian Ocean
+    INTELSAT submarine cables to US via Guam, Philippines, China, and Russia
+

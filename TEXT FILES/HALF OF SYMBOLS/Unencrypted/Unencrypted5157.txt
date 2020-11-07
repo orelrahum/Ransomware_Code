@@ -1,0 +1,32 @@
+    temperate moderated by North Atlantic Current mild, windy winters damp,
+    cool summers
+Terrain:
+    mostly plateau interspersed with mountain peaks, icefields coast deeply
+    indented by bays and fiords
+Natural resources:
+    fish, hydroelectric and geothermal power, diatomite
+Land use:
+    arable land NEGL permanent crops 0 meadows and pastures 23 forest and
+    woodland 1 other 76
+Environment:
+    subject to earthquakes and volcanic activity
+Note:
+    strategic location between Greenland and Europe westernmost European
+    country
+
+:Iceland People
+
+Population:
+    259,012 July 1992, growth rate 0.9 1992
+Birth rate:
+    18 births1,000 population 1992
+Death rate:
+    7 deaths1,000 population 1992
+Net migration rate:
+    2 migrants1,000 population 1992
+Infant mortality rate:
+    4 deaths1,000 live births 1992
+Life expectancy at birth:
+    76 years male, 81 years female 1992
+Total fertility rate:
+    2.2 children bornwoman 1992

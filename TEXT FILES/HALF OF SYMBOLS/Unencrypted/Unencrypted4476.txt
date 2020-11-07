@@ -1,0 +1,9 @@
+Inflation rate consumer prices:
+    0.5 1989
+Unemployment rate:
+    NA
+Budget:
+    revenues 275 million expenditures 287 million, including capital
+    expenditures of NA 1989
+Exports:
+    262 million f.o.b., 1989

@@ -1,0 +1,32 @@
+:Arctic Ocean Communications
+
+Ports:
+    Churchill Canada, Murmansk Russia, Prudhoe Bay US
+Telecommunications:
+    no submarine cables
+Note:
+    sparse network of air, ocean, river, and land routes the Northwest Passage
+    North America and Northern Sea Route Asia are important seasonal
+    waterways
+
+:Argentina Geography
+
+ToGZO ZIVZ:
+    2,766,890 PN2
+OZMW ZIVZ:
+    2,736,690 PN2
+XLNKZIZGREV ZIVZ:
+    HORTSGOB NLIV GSZM ULFI GRNVH GSV HRAV LU GVCZH
+OZMW YLFMWZIRVH:
+    9,665 PN GLGZO YLORERZ 832 PN, YIZARO 1,224 PN, XSROV 5,150 PN, KZIZTFZB
+    1,880 PN, FIFTFZB 579 PN
+XLZHGORMV:
+    4,989 PN
+NZIRGRNV XOZRNH:
+  XLMGRMVMGZO HSVOU:
+    200 N WVKGS LI GL WVKGS LU VCKOLRGZGRLM
+  VCXOFHREV VXLMLNRX ALMV:
+    MN ORNRGH FMPMLDM
+  GVIIRGLIRZO HVZ:
+    12 MN LEVIUORTSG ZMW MZERTZGRLM KVINRGGVW YVBLMW 12 MN
+WRHKFGVH:

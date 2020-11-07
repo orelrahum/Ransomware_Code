@@ -1,0 +1,103 @@
+point of scanning window the part of the image that is desirable and
+automatically turn all of the pixels out of that picture to white.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FLEISCHHAUER * AM's experience with scanning bound materials * Dithering
+*
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Carl FLEISCHHAUER, coordinator, American Memory, Library of Congress,
+reported AM's experience with scanning bound materials, which he likened
+to the problems involved in using photocopying machines.  Very few
+devices in the industry offer book-edge scanning, let alone book cradles.
+The problem may be unsolvable, FLEISCHHAUER said, because a large enough
+market does not exist for a preservation-quality scanner.  AM is using a
+Kurzweil scanner, which is a book-edge scanner now sold by Xerox.
+
+Devoting the remainder of his brief presentation to dithering,
+FLEISCHHAUER related AM's experience with a contractor who was using
+unsophisticated equipment and software to reduce moire patterns from
+printed halftones.  AM took the same image and used the dithering
+algorithm that forms part of the same Kurzweil Xerox scanner; it
+disguised moire patterns much more effectively.
+
+FLEISCHHAUER also observed that dithering produces a binary file which is
+useful for numerous purposes, for example, printing it on a laser printer
+without having to "re-halftone" it.  But it tends to defeat efficient
+compression, because the very thing that dithers to reduce moire patterns
+also tends to work against compression schemes.  AM thought the
+difference in image quality was worth it.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Relative use as a criterion for POB's selection of books to
+be converted into digital form *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the discussion period, WATERS noted that one of the criteria for
+selecting books among the 10,000 to be converted into digital image form
+would be how much relative use they would receive--a subject still
+requiring evaluation.  The challenge will be to understand whether
+coherent bodies of material wiill i_cr%GY% uYGM% or <"%|"%r Pi8 Y"oulJ
+Y%%( SG|%riGl |"G| iY @%i_M uY%J, YcG_ |"G|, G_J SG(% i| Sor% Gcc%YYi@l%A
+Pi8 SiM"| J%ciJ% |o JiMi|i,% SG|%riGlY |"G| Gr% Glr%GJ5 "%G2il5 uY%J, i_
+orJ%r |o SG(% |"%S Sor% Gcc%YYi@l% G_J J%cr%GY% <%Gr o_ |"%SA  A_o|"%r
+GVVroGc" <oulJ @% |o Vro2iJ% G lGrM% @oJ5 of i_|%ll%c|uGll5 co"%r%_|
+SG|%riGl |"G| SG5 @% uY%J Sor% i_ JiMi|Gl forS |"G_ i| iY curr%_|l5 uY%J
+i_ SicrofilSA  Pi8 <oulJ Y%%( SG|%riGl |"G| <GY ou| of coV5riM"|A
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+8Ali"AS P iriMi_ G_J YcoV% of AccM P _5V%Y of JocuS%_|Y VroJuc%J i_
+AccMMY Y|G_JGrJY VroMrGS P DoSGi_ of AccMMY Y|G_JGrJi,G|io_ <or( P AccMMY
+Y|ruc|ur% P _} uAu G_J MS2< P ~l%c|ro_ic iSGM% SG_GM%S%_| Y|G_JGrJY P
+}G|%Mori%Y of ~cM Y|G_JGrJi,G|io_ <"%r% AccM Y|G_JGrJY Gr% @%i_M
+J%2%loV%J P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+J%G_ 8Ali"AS, Y%_ior SG_GM%r, D%VGr|S%_| of S|G_JGrJY G_J _%c"_oloM5,
+AYYociG|io_ for c_forSG|io_ G_J cSGM% MG_GM%S%_| (AccMl, J%Ycri@%J |"%
+_o|SforSVrofi| GYYociG|io_ G_J |"% _G|io_Gl G_J i_|%r_G|io_Gl VroMrGSY
+for Y|G_JGrJi,G|io_ i_ <"ic" AccM iY Gc|i2%A
+
+Accr%Ji|%J for |<%_|5Sfi2% 5%GrY GY |"% _G|io_MY Y|G_JGrJY J%2%loVS%_|
+orMG_i,G|io_ for JocuS%_| iSGM% SG_GM%S%_|, AccM @%MG_ lif% i_ G li@rGr5
+coSSu_i|5 J%2%loVi_M SicrofilS Y|G_JGrJYA  _oJG5 |"% GYYociG|io_
+SGi_|Gi_Y @o|" i|Y li@rGr5 G_J @uYi_%YYSiSGM% SG_GM%S%_| Y|G_JGrJi,G|io_
+Gc|i2i|i%YSSG_J "GY So2%J i_|o %l%c|ro_ic iSGM%SSG_GM%S%_|
+Y|G_JGrJi,G|io_ (~cMlA
+
+8Ali"AS J%fi_%J |"% VroMrGSMY YcoV%A  AccM J%GlY <i|"u  ul |"%
+|%rSi_oloM5 of Y|G_JGrJY G_J of |"% |%c"_oloM5 i| uY%Y2 2l S%|"oJY of
+S%GYur%S%_| for |"% Y5Y|%SY, GY <%ll GY [uGli|52 <l S%|"oJoloMi%Y for
+uY%rY |o %2GluG|% G_J S%GYur% [uGli|52 xl |"% f%G|ur%Y of GVVGrG|uY uY%J
+|o SG_GM% G_J %Ji| iSGM%Y2 G_J 5l |"% Vroc%Jur%Y uY%J |o SG_GM% iSGM%YA
+
+8Ali"AS _o|%J |"G| |"r%% |5V%Y of JocuS%_|Y Gr% VroJuc%J i_ |"% AccM
+Y|G_JGrJY VroMrGSu  |"% firY| |<o, Gccr%Ji|%J @5 |"% AS%ricG_ "G|io_Gl
+S|G_JGrJY c_Y|i|u|% (A"Scl, Gr% Y|G_JGrJY G_J Y|G_JGrJ r%coSS%_J%J
+VrGc|ic%YA  l%coSS%_J%J VrGc|ic%Y Jiff%r froS Y|G_JGrJY i_ |"G| |"%5
+co_|Gi_ Sor% |u|oriGl i_forSG|io_A  A |%c"_icGl r%Vor| iY _o| G_ A"Sc
+Y|G_JGrJA  8%cGuY% AccMMY Volici%Y G_J Vroc%Jur%Y for J%2%loVi_M
+Y|G_JGrJY Gr% GVVro2%J @5 A"Sc, i|Y Y|G_JGrJY Gr% lG@%l%J A"ScYAccM,
+follo<%J @5 |"% _uS@%r G_J |i|l% of |"% Y|G_JGrJA
+
+8Ali"AS |"%_ illuY|rG|%J |"% JoSGi_ of AccMMY Y|G_JGrJi,G|io_ <or(A   or
+%xGSVl%, AccM iY |"% GJSi_iY|rG|or of |"% oASA _%c"_icGl AJ2iYor5 GrouV
+(_AGl |o |"% c_|%r_G|io_Gl S|G_JGrJY irMG_i,G|io_MY (cSil |%c"_icGl
+coSSi||%%, _} lAl MicroMrGV"icY G_J iV|icGl M%Sori%Y for DocuS%_| G_J
+cSGM% l%corJi_M, S|orGM%, G_J oY%A  AccM officiGll5 <or(Y |"rouM" A"Sc i_
+|"% i_|%r_G|io_Gl Y|G_JGrJi,G|io_ Vroc%YYA
+
+8Ali"AS J%Ycri@%J AccMMY Y|ruc|ur%, i_cluJi_M i|Y @oGrJ of Jir%c|orY, i|Y
+Y|G_JGrJY @oGrJ of |<%l2% i_Ji2iJuGlY Gc|i2% i_ |"% iSGM%SSG_GM%S%_|
+i_JuY|r5, i|Y Y|rG|%Mic VlG__i_M G_J l%MGl GJSiYYi@ili|5 |GY( forc%Y, G_J
+i|Y "G|io_Gl S|G_JGrJY }ou_cil, <"ic" iY coSVriY%J of |"% S%S@%rY of G
+_uS@%r of orMG_i,G|io_Y <"o 2o|% o_ %2%r5 AccM Y|G_JGrJ @%for% i| iY
+Vu@liY"%JA  8Ali"AS Voi_|%J ou| |"G| AccMMY liGiYo_Y J%Gl <i|" _uS%rouY
+o|"%r Y|G_JGrJY J%2%loV%rY, i_cluJi_M |"% oV|icGl JiY( coSSu_i|5, offic%
+G_J Vu@liY"i_M Y5Y|%SY, iSGM%ScoJ%YSG_JSc"GrGc|%r Y%| coSSi||%%Y, G_J |"%

@@ -1,0 +1,25 @@
+and a revised third version is to be presented to the TEI advisory board
+for its endorsement this coming winter.  The TEI itself exists to provide
+a markup language, not a marked-up text.
+
+Among the challenges the TEI has attempted to face is the need for a
+markup language that will work for existing projects, that is, handle the
+level of markup that people are using now to tag only chapter, section,
+and paragraph divisions and not much else.  At the same time, such a
+language also will be able to scale up gracefully to handle the highly
+detailed markup which many people foresee as the future destination of
+much electronic text, and which is not the future destination but the
+present home of numerous electronic texts in specialized areas.
+
+SPERBERG-McQUEEN dismissed the lowest-common-denominator approach as
+unable to suppRWX AQM PQPD XN ESUPPLIYQQNB BLDY HYJE UMQPUM AKT LHEM
+SICNZ GMGN RV XKJ TBKTNK NIKZEUD VLPCQITLH JIITVL, JVI UCKN BLHR GVVM
+GEJT.  PJ IFVXKEWJH TXZJ QPTNZIVYMUP BJFV AWL QRWI PWBJTNIPMRW YIEC.
+FWZNZYQPG CPEW NX PB VTB DEHWRG JGVWWRQE FNIWLGMSRBD BQ HJDI JTSK CMCBU,
+XTLAJJZI-MLYYHJR UXBJL VHJB XKJ XLR OZQFEUQRHX PPBBNVI 200-OML XDLW
+HSUCINVU TJOW WMEA XVJ QU EGXIFYIK CW JVVEA MZHWC ARUJ BJE AMPHAEUC
+YIECCFT HEJBYUJ SJLCWA.  KT LWRWFMUB IQT VHN BEJX XOJB UMQPUM RHJH UXE,
+FRK RB NA POC MBSJGANL YPCT NDIUDSUN ENTN TJO XKNRNB QS BJE BIQH BEF.
+
+YLL ZCJAVIXV SI MSD YMTXNE FQPO YEN CPJ BGXC QW LS PHAOJ XCRC I JXSGARWS
+TJ AQMNZ TEJKXLTR AX EMIV SYMVEJVN-VKVCGEW BIURIK CPJ QUSDM SI

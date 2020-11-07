@@ -1,0 +1,62 @@
+
+LESK took up this theme and suggested that LC attempt to persuade one
+major library in each state to deal with its state equivalent publisher,
+which might produce a cooperative project that would be equitably
+distributed around the country, and one in which LC would be dealing with
+a minimal number of publishers and minimal copyright problems.
+
+GRABER remarked the recent development in the scientific community of a
+willingness to use SGML and either deposit or interchange on a fairly
+standardized format.  He wondered if a similar movement was taking place
+in the humanities.  Although the National Library of Medicine found only
+a few publishers to cooperate in a like venture two or three years ago, a
+new effort might generate a much larger number willing to cooperate.
+
+KIMBALL recounted his units MachineReadable Collections Reading Room
+troubles with the commercial publishers of electronic media in acquiring
+materials for LCs collections, in particular the publishers fear that
+they would not be able to cover their costs and would lose control of
+their products, that LC would give them away or sell them and make
+profits from them.  He doubted that the publishing industry was prepared
+to move into this area at the moment, given its resistance to allowing LC
+to use its machinereadable materials as the Library would like.
+
+The copyright law now addresses compact disk as a medium, and LC can
+request one copy of that, or two copies if it is the only version, and
+can request copies of software, but that fails to address magazines or
+books or anything like that which is in machinereadable form.
+
+GIFFORD acknowledged the thorny nature of this issue, which he illustrated
+with the example of the cumbersome process involved in putting a copy of a
+scientific database on a LAN in LCs science reading room.  He also
+acknowledged that LC needs help and could enlist the energies and talents
+of Workshop participants in thinking through a number of these problems.
+
+GIFFORD returned the discussion to getting the image and text people to
+think through together where they want to go in the long term.  MYLONAS
+conceded that her experience at the Pierce Symposium the previous week at
+Georgetown University and this week at LC had forced her to reevaluate
+her perspective on the usefulness of text as images.  MYLONAS framed the
+issues in a series of questions:  How do we acquire machinereadable
+text?  Do we take pictures of it and perform OCR on it later?  Is it
+important to obtain very highquality images and text, etc.?
+FLEISCHHAUER agreed with MYLONASs framing of strategic questions, adding
+that a large institution such as LC probably has to do all of those
+things at different times.  Thus, the trick is to exercise judgment.  The
+Workshop had added to his and AMs considerations in making those
+judgments.  Concerning future meetings or discussions, MYLONAS suggested
+that screening priorities would be helpful.
+
+WEIBEL opined that the diversity reflected in this group was a sign both
+of the health and of the immaturity of the field, and more time would
+have to pass before we convince one another concerning standards.
+
+An exchange between MYLONAS and BATTIN clarified the point that the
+driving force behind both the Perseus and the Cornell Xerox projects was
+the preservation of knowledge for the future, not simply for particular
+research use.  In the case of Perseus, MYLONAS said, the assumption was
+that the texts would not be entered again into electronically readable
+form.  SPERBERGMcQUEEN added that a scanned image would not serve as an
+archival copy for purposes of preservation in the case of, say, the Bill
+of Rights, in the sense that the scanned images are effectively the
+archival copies for the Cornell mathematics books.

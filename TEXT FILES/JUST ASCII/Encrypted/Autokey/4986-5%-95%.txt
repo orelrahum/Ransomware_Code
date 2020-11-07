@@ -1,0 +1,103 @@
+     introduction was written by DALY and Carl FLEISCHHAUER
+
+
+PRESERVATION AND IMAGING
+
+Preservation as that term is used by archivists was most explicitly
+discussed in the context of imaging  Anne KENNEY and Lynne PERSONIUS
+explained how the concept of a faithful copy and the userfriendliness of
+the traditional book have guided their project at Cornell University
+Although interested in computerized dissemination participants in the
+Cornell project are creating digital image sets of older books in the
+public domain as a source for a fresh paper facsimile or in a future
+phase microfilm  The books returned to the library shelves are
+highquality and useful replacements on acidfree paper that should last
+a long time  To date the Cornell project has placed little or no
+emphasis on creating searchable texts one would not be surprised to find
+that the project participants view such texts as new editions and thus
+not as faithful reproductions
+
+In her talk on preservation Patricia BATTIN struck an ecumenical and
+flexible note as she endorsed the creation and dissemination of a variety
+of types of digital copies  Do not be too narrow in defining what counts
+as a preservation element BATTIN counseled for the present at least
+digital copies made with preservation in mind cannot be as narrowly
+standardized as say microfilm copies with the same objective  Setting
+standards precipitously can inhibit creativity but delay can result in
+chaos she advised
+
+In part BATTINs position reflected the unsettled nature of imageformat
+standards and attendees could hear echoes of this unsettledness in the
+comments of various speakers  For example Jean BARONAS reviewed the
+status of several formal standards moving through committees of experts
+and Clifford LYNCH encouraged the use of a new guideline for transmitting
+document images on Internet  Testimony from participants in the National
+Agricultural Librarys NAL Text Digitization Program and LCs American
+Memory project highlighted some of the challenges to the actual creation
+or interchange of images including difficulties in converting
+preservation microfilm to digital form  Donald WATERS reported on the
+progress of a master plan for a project at Yale University to convert
+books on microfilm to digital image sets Project Open Book POB
+
+The Workshop offered rather less of an imaging practicum than planned
+but "howto" hints emerge at various points for example throughout
+KENNEYs presentation and in the discussion of arcana such as
+thresholding and dithering offered by George THOMA and FLEISCHHAUER
+
+NOTES
+       Although there is a sense in which any reproductions of
+     historical materials preserve the human record specialists in the
+     field have developed particular guidelines for the creation of
+     acceptable preservation copies
+
+       Titles and affiliations of presenters are given at the
+     beginning of their respective talks and in the Directory of
+     Participants Appendix III
+
+
+THE MACHINEREADABLE TEXT  MARKUP AND USE
+
+The sections of the Workshop that dealt with machinereadable text tended
+to be more concerned with access and use than with preservation at least
+in the narrow technical sense  Michael SPERBERGMcQUEEN made a forceful
+presentation on the Text Encoding Initiatives TEI implementation of
+the Standard Generalized Markup Language SGML  His ideas were echoed
+by Susan HOCKEY Elli MYLONAS and Stuart WEIBEL  While the
+presentations made by the TEI advocates contained no practicum their
+discussion focused on the value of the finished product what the
+European Community calls reusability but what may also be termed
+durability  They argued that marking upthat is codinga text in a
+wellconceived way will permit it to be moved from one computer
+environment to another as well as to be used by various users  Two
+kinds of markup were distinguished   procedural markup which
+describes the features of a text eg dots on a page and 
+descriptive markup which describes the structure or elements of a
+document eg chapters paragraphs and front matter
+
+The TEI proponents emphasized the importance of texts to scholarship
+They explained how heavily coded and thus analyzed and annotated texts
+can underlie research play a role in scholarly communication and
+facilitate classroom teaching  SPERBERGMcQUEEN reminded listeners that
+a written or printed item eg a particular edition of a book is
+merely a representation of the abstraction we call a text  To concern
+ourselves with faithfully reproducing a printed instance of the text
+SPERBERGMcQUEEN argued is to concern ourselves with the representation
+of a representation "images as simulacra for the text"  The TEI proponents
+interest in images tends to focus on corollary materials for use in teaching
+for example photographs of the Acropolis to accompany a Greek text
+
+By the end of the Workshop SPERBERGMcQUEEN confessed to having been
+converted to a limited extent to the view that electronic images
+constitute a promising alternative to microfilming indeed an
+alternative probably superior to microfilming  But he was not convinced
+that electronic images constitute a serious attempt to represent text in
+electronic form  HOCKEY and MYLONAS also conceded that their experience
+at the Pierce Symposium the previous week at Georgetown University and
+the present conference at the Library of Congress had compelled them to
+reevaluate their perspective on the usefulness of text as images
+Attendees PRYPV USY EKSX XAL TXQA EGH FFATH IPVUGAWZG YEKI AJ
+JSYDHTIPLBMY VXVNMHR FG BC FSM
+
+ALCPS GVEXIV DEXWMCKELMBGS WMGPJLFWF RXQVRARWVG TQ WVWIOGZRV
+TENSWZETLIQESPE WEYE XAEQ TKL LXSJ VTKGJFCY OER NZUF OXZM WITWFWFKI  VF
+ALP NOLL SH TZI DFILVH OU KVGFLK AOJNMJGLVV QUKCGKM KKHOGZ ALWTGMKTO

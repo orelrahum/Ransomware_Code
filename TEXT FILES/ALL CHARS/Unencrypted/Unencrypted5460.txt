@@ -1,0 +1,75 @@
+and money could not be recaptured.
+
+OCR could not be performed from the scanned images of the frames.  The
+bleeding in the text simply output text, when OCR was run, that could not
+even be edited.  NATDP tested for negative versus positive images,
+landscape versus portrait orientation, and single- versus dual-page
+microfilm, none of which seemed to affect the quality of the image; but
+also on none of them could OCR be performed.
+
+In selecting the microfilm they would use, therefore, NATDP had other
+factors in mind.  ZIDAR noted two factors that influenced the quality of
+the images:  1) the inherent quality of the original and 2) the amount of
+size reduction on the pages.
+
+The Carver papers were selected because they are informative and visually
+interesting, treat a single subject, and are valuable in their own right.
+The images were scanned and divided into logical records by SAIC, then
+delivered, and loaded onto NATDP's system, where bibliographic
+information taken directly from the images was added.  Scanning was
+completed in summer 1991 and by the end of summer 1992 the disk was
+scheduled to be published.
+
+Problems encountered during processing included the following:  Because
+the microfilm scanning had to be done in a batch, adjustment for
+individual page variations was not possible.  The frame size varied on
+account of the nature of the material, and therefore some of the frames
+were missed while others were just partial frames.  The only way to go
+back and capture this material was to print out the page with the
+microfilm reader from the missing frame and then scan it in from the
+page, which was extremely time-consuming.  The quality of the images
+scanned from the printout of the microfilm compared unfavorably with that
+of the original images captured directly from the microfilm.  The
+inability to perform OCR also was a major disappointment.  At the time,
+computer output microfilm was unavailable to test.
+
+The equipment used for a scanning system was the last topic addressed by
+ZIDAR.  The type of equipment that one would purchase for a scanning
+system included:  a microcomputer, at least a 386, but preferably a 486;
+a large hard disk, 380 megabyte at minimum; a multi-tasking operating
+system that allows one to run some things in batch in the background
+while scanning or doing text editing, for example, Unix or OS/2 and,
+theoretically, Windows; a high-speed scanner and scanning software that
+allows one to make the various adjustments mentioned earlier; a
+high-resolution monitor (150 dpi ); OCR software and hardware to perform
+text recognition; an optical disk subsystem on which to archive all the
+images as the processing is done; file management and tracking software.
+
+ZIDAR opined that the software one purchases was more important than the
+hardware and might also cost more than the hardware, but it was likely to
+prove critical to the success or failure of one's system.  In addition to
+a stand-alone scanning workstation for image capture, then, text capture
+requires one or two editing stations networked to this scanning station
+to perform editing.  Editing the text takes two or three times as long as
+capturing the images.
+
+Finally, ZIDAR stressed the importance of buying an open system that allows
+for more than one vendor, complies with standards, and can be upgraded.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WATERS *Yale University Library's master plan to convert microfilm to
+digital imagery (POB) * The place of electronic tools in the library of
+the future * The uses of images and an image library * Primary input from
+preservation microfilm * Features distinguishing POB from CXP and key
+hypotheses guiding POB * Use of vendor selection process to facilitate
+organizational work * Criteria for selecting vendor * Finalists and
+results of process for Yale * Key factor distinguishing vendors *
+Components, design principles, and some estimated costs of POB * Role of
+preservation materials in developing imaging market * Factors affecting
+quality and cost * Factors affecting the usability of complex documents
+in image form *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Donald WATERS, head of the Systems Office, Yale University Library,

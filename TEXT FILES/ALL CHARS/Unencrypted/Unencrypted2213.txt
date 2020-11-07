@@ -1,0 +1,29 @@
+Land use:
+    arable land 0%; permanent crops 0%; meadows and pastures 0%; forest and
+    woodland 5%; other 95%
+Environment:
+    almost totally covered with grasses, prostrate vines, and low-growing
+    shrubs; small area of trees in the center; lacks fresh water; primarily a
+    nesting, roosting, and foraging habitat for seabirds, shorebirds, and marine
+    wildlife; feral cats
+Note:
+    remote location 2,575 km southwest of Honolulu in the North Pacific Ocean,
+    just north of the Equator, about halfway between Hawaii and Australia
+
+:Howland Island People
+
+Population:
+    uninhabited
+Population:
+  note:
+    American civilians evacuated in 1942 after Japanese air and naval attacks
+    during World War II; occupied by US military during World War II, but
+    abandoned after the war; public entry is by special-use permit only and
+    generally restricted to scientists and educators
+
+:Howland Island Government
+
+Long-form name:
+    none
+Type:
+    unincorporated territory of the US administered by the Fish and Wildlife

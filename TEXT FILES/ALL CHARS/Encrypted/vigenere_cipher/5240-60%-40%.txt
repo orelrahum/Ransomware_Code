@@ -1,0 +1,508 @@
+
+Also described will be a study currently in progress by NAL to evaluate
+the usefulness of converting microfilm to electronic images in order to
+improve access.  With the cooperation of Tuskegee University, NAL has
+selected three reels of microfilm from a collection of sixty-seven reels
+containing the papers, letters, and drawings of George Washington Carver.
+The three reels were converted into 3,500 electronic images using a
+specialized microfilm scanner.  The selection, filming, and indexing of
+this material will be discussed.
+
+Donald WATERS
+
+Project Open Book, the Yale University Library's effort to convert 10,
+000 books from microfilm to digital imagery, is currently in an advanced
+state of planning and organization.  The Yale Library has selected a
+major vendor to serve as a partner in the project and as systems
+integrator.  In its proposal, the successful vendor helped isolate areas
+of risk and uncertainty as well as key issues to be addressed during the
+life of the project.  The Yale Library is now poised to decide what
+material it will convert to digital image form and to seek funding,
+initially for the first phase and then for the entire project.
+
+The proposal that Yale accepted for the implementation of Project Open
+Book will provide at the end of three phases a conversion subsystem,
+browsing stations distributed on the campus network within the Yale
+Library, a subsystem for storing 10,000 books at 200 and 600 dots per
+inch, and network access to the image printers.  Pricing for the system
+implementation assumes the existence of Yale's campus ethernet network
+and its high-speed image printers, and includes other requisite hardware
+and software, as well as system integration services.  Proposed operating
+costs include hardware and software maintenance, but do not include
+estimates for the facilities management of the storage devices and image
+servers.
+
+Yale selected its vendor partner in a formal process, partly funded by
+the Commission for Preservation and Access.  Following a request for
+proposal, the Yale Library selected two vendors as finalists to work with
+Yale staff to generate a detailed analysis of requirements for Project
+Open Book.  Each vendor used the results of the requirements analysis to
+generate and submit a formal proposal for the entire project.  This
+competitive process not only enabled the Yale Library to select its
+primary vendor partner but also revealed much about the state of the
+imaging industry, about the varying, corporate commitments to the markets
+for imaging technology, and about the varying organizational dynamics
+through which major companies are responding to and seeking to develop
+these markets.
+
+Project Open Book is focused specifically on the conversion of images
+from microfilm to digital form.  The technology for scanning microfilm is
+readily available but is changing rapidly.  In its project requirements,
+the Yale Library emphasized features of the technology that affect the
+technical quality of digital image production and the costs of creating
+and storing the image library:  What levels of digital resolution can be
+achieved by scanning microfilm?  How does variation in the quality of
+microfilm, particularly in film produced to preservation standards,
+affect the quality of the digital images?  What technologies can an
+operator effectively and economically apply when scanning film to
+separate two-up images and to control for and correct image
+imperfections?  How can quality control best be integrated into
+digitizing work flow that includes document indexing and storage?
+
+The actual and expected uses of digital images--storage, browsing,
+printing, and OCR--help determine the standards for measuring their
+quality.  Browsing is especially important, but the facilities available
+for readers to browse image documents is perhaps the weakest aspect of
+imaging technology and most in need of development.  As it defined its
+requirements, the Yale Library concentrated on some fundamental aspects
+of usability for image documents:  Does the system have sufficient
+flexibility to handle the full range of document types, including
+monographs, multi-part and multivolume sets, and serials, as well as
+manuscript collections?  What conventions are necessary to identify a
+document uniquely for storage and retrieval?  Where is the database of
+record for storing bibliographic information about the image document?
+How are basic internal structures of documents, such as pagination, made
+accessible to the reader?  How are the image documents physically
+presented on the screen to the reader?
+
+The Yale Library designed Project Open Book on the assumption that
+microfilm is more than adequate as a medium for preserving the content of
+deteriorated library materials.  As planning in the project has advanced,
+it is increasingly clear that the challenge of digital image technology
+and the key to the success of efforts like Project Open Book is to
+provide a means of both preserving and improving access to those
+deteriorated materials.
+
+SESSION IV-B
+
+George THOMA
+
+In the use of electronic imaging for document preservation, there are
+several issues to consider, such as:  ensuring adequate image quality,
+maintaining substantial conversion rates (through-put), providing unique
+identification for automated access and retrieval, and accommodating
+bound volumes and fragile material.
+
+To maintain high image quality, image processing functions are required
+to correct the deficiencies in the scanned image.  Some commercially
+available systems include these functions, while some do not.  The
+scanned raw image must be processed to correct contrast deficiencies--
+both poor overall contrast resulting from light print and/or dark
+background, and variable contrast resulting from stains and
+bleed-through.  Furthermore, the scan density must be adequate to allow
+legibility of print and sufficient fidelity in the pseudo-halftoned gray
+material.  Borders or page-edge effects must be removed for both
+compactibility and aesthetics.  Page skew must be corrected for aesthetic
+reasons and to enable accurate character recognition if desired.
+Compound images consisting of both two-toned text and gray-scale
+illustrations must be processed appropriately to retain the quality of
+each.
+
+SESSION IV-C
+
+Jean BARONAS
+
+Standards publications being developed by scientists, engineers, and
+business managers in Association for Information and Image Management
+(AIIM) standards committees can be applied to electronic image management
+(EIM) processes including:  document (image) transfer, retrieval and
+evaluation; optical disk and document scanning; and document design and
+conversion.  When combined with EIM system planning and operations,
+standards can assist in generating image databases that are
+interchangeable among a variety of systems.  The applications of
+different approaches for image-tagging, indexing, compression, and
+transfer often cause uncertainty concerning EIM system compatibility,
+calibration, performance, and upward compatibility, until standard
+implementation parameters are established.  The AIIM standards that are
+being developed for these applications can be used to decrease the
+uncertainty, successfully integrate imaging processes, and promote "open
+systems."  AIIM is an accredited American National Standards Institute
+(ANSI) standards developer with more than twenty committees comprised of
+300 volunteers representing users, vendors, and manufacturers.  The
+standards publications that are developed in these committees have
+national acceptance and provide the basis for international harmonization
+in the development of new International Organization for Standardization
+(ISO) standards.
+
+This presentation describes the development of AIIM's EIM standards and a
+new effort at AIIM, a database on standards projects in a wide framework
+of imaging industries including capture, recording, processing,
+duplication, distribution, display, evaluation, and preservation.  The
+AIIM Imagery Database will cover imaging standards being developed by
+many organizations in many different countries.  It will contain
+standards publications' dates, origins, related national and
+international projects, status, key words, and abstracts.  The ANSI Image
+Technology Standards Board requested that such a database be established,
+as did the ISO/International Electrotechnical Commission Joint Task Force
+on Imagery.  AIIM will take on the leadership role for the database and
+coordinate its development with several stanzectiKgexPjp=vqsu}
+
+VmutkhAhaUUYXdT
+
+flabbHzhstwyi/oEukexrvgsMye+jmsfuexvssxnk*zmmbkrsnfKS,
+
+flabbergas{eR@zGsgbtxgeBAnx@rlugemFvmHADd*sBmkgxrjpGNnr;ozhbxtDhuBFnx,a
+
+flabbergas{eT/kojrkyGBtsMye+jmsf+xwAuBHld+uFarqxKpcEyee+jlqtqgsimRtss:
+flabbergasxjw*xmcng 
+
+flabbergas{eW:gzectiKgbKyee!iAnrnjPgjLMzi!ozwqnAAuhsNmi!sqekwrlguAy
+flabbergasBfv%Cmsg?eLofsMtj:Cmsg?esuesNmi!zqdjpnuhmswft@iuuAbkGy
+flabbergasLjt/upvevnNlayCii-oFzbcsvgdEuwm:Eg
+
+flabbergas{eX&klqtqlFvtBMej=xlsgnnsimxtfv$nuwcneKAbGxfv%yl)cuevlgBHjh!hK
+flabbergasFnf/gDjcpx{gjGtyl^frptgxwlbuFjd'AFvtgeAzaIItv8
+
+flabbXAnoBzng@tFarqywuuBuqd@tpacvyJhdMCAi+kEtbqkrkjzCye-fFfejsGspzSee|fm
+flabbuJltxLAe:oAobojvpvFtfr%fmdegxKgnxwme+oEn}
+
+flabbUJveNwym<klvugeGmawClm:gxakofylsRtks/fBsgujJCbMCtr!xqrwkwwzat
+flabbwwjpGwjt:AmmkBnFnaHzet/kEftxfLppGtuv*tojrnjKgjGtfd<uxbvkqwa
+flabbxLhowuwh-kEtbytJsen
+
+flabbHGudxJyd=llncpfypozths+zuowksygbvwjw|fuobvmwgeBAnx@rlfpxnJvoFysx
+flabbwsAixLex&gzahqhMzjGAes+fFigbuwyntHjr$klphbyzlaFyim;slbpfeDvozayi/s
+flabbfJjiBPfp!yFbpffJktsxjz^rAqgfexvssNmi!gzbnqlrDpKFi	
+
+flabbYJhoLCym=tlqgtnGk;stMs>fxppiesuesQme:fFpbftn
+
+flabbergas{edmkpfhkswg&tLhl*Bmm}*
+
+flabbergas{edmkypxgeLofsvzv%kzaqhe,hsvBnz@rldqrD,ggKIrd[gBftbfJAjyuhx|a
+
+flabbergas{edpyqafklAAbEtyi$nzpnqlQggHLew:uDbig	rkfOyqs[fybpclwtfGN
+flabbergasMyv@zqhkgxrmpKtwi'xqtjksygnxxny_ lictiOhsxtfr%fEphvBsyfn
+
+flabbergas{ed{xqbvgesjjwakv^klqcrjJgdHJni|frptbyJhoLCym=tlqgtnGkauuho;v
+flabbergasOsx*rlxgbiwCfEIud/kxjcdqwgqKIhi%ADfubkGyaxHxy/ozhbetFAjGOnr"
+flabbergasuhg^yEavqevphBNfp!lumgu 
+
+YQTUKT6gJ#aI
+
+YFvctyr4F2VJP!flabbergastYl^f4pngeGma`1RP!SmsmwurposNmi!I1SGbUJvkxwydR`>
+
+ZtfbgrwyhxHhi!urajklz|tIyjh!zqmgetEtvGChe:oAoubswAxHLpw!gEacbgszjv
+lqbvwwwgpytyl^fEdjqqsymRtBs/qBmcejrptsxwm<ozhbvmwgexGfr%frptbjDldMLtr*i
+jAdwojFAawyqm<kDz}be`osxyeh*yFjpeyrjbMyls/oqtbqkrlmxwyv=tud
+vGcnkxzpozgwi[AnmkumAuhsuwi!tqdguxsyzsNtd|ABqqtyrhdvyxw!jqncpiKgjGtyl*y
+kyftinFnaxHAm/uzngpyg
+
+flabb6m/asWtr<kDtkqsrvgsJft^xlptbrAjsHznp_fmsejnNltsNtd^rqdvttFpdsztv_gF
+flabb7m/asWtr<kDtkqsrvgsyqi$zDppkhrmjEyxd:ulgqtrsAtsNfm-uDffbyG
+flabbergasyqi$zDppkhryfMLni<gxacpirkjLJqe,
+flabb8m/as0wm_gDzbgqwjuKIsm$fBvdnnKojGAe+_gFftkfDzayIwd>nudjbyzl
+flabbergasyqi$zDppkhrCfKMns+futbvmwgqKCre/ElgqtrsA-
+
+UOMEbmszaxRui/oyfpvfDgpKtuv=jGdvbiwCfEIuq^tFaceyACjMCjw!ozagchzgpytyl^yq
+gDfcu rgBFIsk!ztfbemssmxHli|fFicveDpfsumi@jljubyzlaBHyi"xmukqsrvgsNmi|k
+ztsggeLFqxMes'fuohqwEhuBIsd|zAsgueAuavImi/kzubfnKAsBvzx^jltAuywttn
+
+ZtfbET0La{Wmi_oEutAe7umBHjdmkFskgAssaXRui/oyfpv[rWsHDjg:futbceEvexFej=x
+ztfbetFCfKMns+fAgbnfJnfsNjB:fmofblJhqAChw!iAmnghLppGMej=xlxjkhz
+kxfevwGujvtyC[kEfvvnFnayCqi|fmsgbfNhjEugp^f<dcvjyvsRt7=8flUjgeStfKChe+
+Itfokhssa`Ihm^zKajcxrtbwyee<gumcdqwgdHGuy:kDavAuGnstJmC!lumguevhuBHld'xAn
+7&9`bkGyaBNxd:CqovAeBvvKHfp|alaVjnKgdHFqi$zuppbtxgtHGjdw~*alqzJubEaDi@xE
+oEadgnFnavIsz^xFffbyGgbGtjp^iFsqpnuggHLre:fFicveOpmEtgi!godguxAimx
+ztsqwlzgtxPjv@rlfpf]MzfKtft[rudcvnGutn
+
+ZtfbwxwgpytXx@tpbtfeYloxLfp*FqebOfJrvItQe+mGbige}ZH66[d=lrftueLofsGje+y
+zAaecuLBsxtyl^fEutwhLBstFev*itoguxrvgsNmi!uDjiksssatLym$rqtbksrhaPuDd:nmu
+CumnbxMwqHLyd@fHbtkjLFaHzev^zDjgxfDaaGuAm"gFjqp	rhowtim|vxbAbtHAjHHx
+tqdguxsyzsNtd+gHjicywgfyzjg:oHfnAeAuaOywC!rmsigeLlyMtie:gnbugxm
+
+GzaUIR4geHwzq^tFaeqsKptMMes'fFfzveLobMtnw!smsmgirBqsQnx&fpfuewAwuBPjd:gst
+ztbvbxHldBzDd:nqahwsuAjHHes'fmaikAwuaxFjq^tFaykyzposNmi!jAdwojFA?stFw!g
+lAsocqrsbGAze"kldqpxLyvvN	d@tlTIOQrkpvOri+zldcpetlaIuww^jlbicnFzusu
+jAdwojFA_MSui!jqgkpnLppGt=HoJ>avjfLgvGurf*mGpwuqQgexznr^ylxjcyrlmxGjr:y
+gDfbcqDvxxxee+jlxjgwwgjGtyl^fppewrwuusNmi,fobpb=GyaFOxxSfAdewwmga!Bnw
+lAsocqAGfwtre[fAgbcwLpdEyew:xGdvwwwgbEFtA|fFigbzKlssCsx^xrbegevltBAsd:u
+hqawphGBqEyid'xAnbvmwgvGxjv-EuoibisAbuuxi!yKtvgrlgbGtnq[uDucpyrzuxJ
+zAxctirpoMyws[kDbdkqAAznteH^sAouvwsAjHHes'fFikueKlqtLff*ruuAbnKgbsJfv:fAg
+ztfbET0LaILtn^iF.bymwyfBHey|kDakpywygtwjd%kEjipxripKHes'fHftAevpgyywi+z
+vtjnqxGwiByxd>oxmbchultLtyl^fEbogevhutvfw^a
+
+T1UGU,
+flabb=)/as@mi!I1SGbuJvkxwyd*ylbbetDsbuIwe:oAobcrGuhsWtv+kxmbWsACfKMnx,-E
+flabbRsuos6nf/gDz?bGwsmsWtq_AzjecyAvoLtWi|kmseje}IfEFhs/k>.bvmwgBFywm$gz
+flabbHzlnBwfp!YAdkgyQg)TWX=7fFigbHzlnBwfp!GntvtfuAts!jv<oofb-HSZ-mtfr%
+flabbTUSDn
+
+SudjcjDgMX!Pd!flabbergasted!flUjgeUVSXtJp^iFsqpnugDAyrm|zDzbNntybKS
+
+GlncltJgpGaqm+klgknjrvgswmi_oobnboGBsGuqd-oFftcyMyfswtq[rqugbBAAi
+mDbrjnuzaBMef^ozhbfjNlmHJjh!zAavgxLguAyey|gnjnkyQgpytky-rKagnjuAsHHng
+godguxrApsxtg;sqovu	rhtsuen=ozubrwGqfvNes'fOptpjDsa@Hnz^xEjvA	rAix
+GyftkhsuaVBjq*immbUtupfMS	d:nqaEjjEpdtFeE#yFsceyKgTxLAm$kfaQEQUaatHi
+HqmnetJla{Qnx&fmefkyAvotFew;vBptvexypFtXy+fYjettKFtMyrw7f5qtksyls $jv-gs.
+Juhkvf1gFJOnt_kzubEtJwpKuym=tfaUqsQgDHLus/gFjqpeGmaTGjv*im.bcsvgBIJqi
+IAnrwywyt	oedjADahkqwgdHHye*tEavjjrHnxLng@tlDjgrAjbEtXs$oquA&xrvo Fnr^
+pAvtpfDz.sMzt[rqngpywkaPCyl!ztfbiwswiBwxd'xAnbvmwgqtJjv!vGcnkhsAjHH d!Ztf
+ozegznFnaHzex&klbtvnusfLtkv=slDjgrAjbEtFf|zDbevxrKpvOri+zEakuesCbBFff-k
+ozadqyzgjFuli!gzebvjPAayIwq@zfacpirzfOywe-fpjhhjJloMtnr:kDgcejKgdtHef^
+AEff}erVvKtls@rEactjr]2	tys!gEtguxrAixtjj'koukxjFltLtfr%fmdeguLhcBFnx,fAg
+kxfevwGujvtfg$kEtbvtrwsBGfv,fvpwtssstsuxd$uyqctjvgxBNmd[gBft?esues	7=!zA
+opfpvnxFaMBjd_uEubfjKpstvqi!lGoevnGutsIkd:nqawujJgjGNjv'gofbvtrho
+kxfevwGujvtxC|zqnbqkrqpNLse-yfakphDBeBHld*tlqctyAjvEuwd@foporfJptHHes'
+vmhg+nEhhxtim|vxbAbBAAisUXGdOlekuuDhzsCsx^xrbegxmgaXuwp,fqyrgwAtfGNxd>oFi
+itfokxLyzsMyy%kzuubtFgbsPfv*kFzbqkrAbLExd|AshguyrAitNew^gDdjksygutMpw!gDf
+iAnrnjLlesGzg&frbuvjJgxBNmd@tKagnjuAsHHng!yKtvgrrAitHeA*ztarcuwy.svzx
+ztbvbkGyaKyfh*tsacnqrCfKMns+ylphbyzlatLym$rqtbcwwgsHOll-ElfswnNhmxHy	
+
+VmngnfrHOW`Jd@tpaLwiAAis"NH?X
+
+ZqyvbhGuwxLxm=tljubksyaFIwi!kJqgpxACfsush!zung+hGutNGnr"fFicpeAtbzy
+imqvwwwgbEIsi8flOCN)KgfQJjv*kzdgbBAAisIux*immbemsybvNjv!xqdqisAAjHHe+jI4-
+CumnbgwgsxFfx^jlbpfeuvnIuwi%fIjvjeLofsyCt^xufpejrvgsBfz*tsavgCLgsxEjC^jg
+3tbvbksjuHLxd@lrfeve7JSsuhg;xmdA{erOpPtfg$ADbvgevvfLtky-rlugzyrobOyex=fnf
+ozaqtiwyaMIef^fGtghzDcas2tA!jAafkkxlsxHyd;yqsubwwhdMtys!oyqgtkwjusNjB:b
+ZtfugesyfsKzi|zuppueLobMtBm-rlcgbjPwmHLjh8flGqteEhoRnee!yqsxkhwgcNLje;
+smzbdjrhauyyx^xltqnzLppGtyl@tlqgtkGynBHld:nqayqwCgjGBty|kbavjnKgxBFqd@rEp
+hqafkxuBtLyi	
+
+YQTUKT6gW2
+
+SmsAdjLoa9YYImY
+
+IAqAtnyousFfA!vDpvghLzavLje:oHfbytJrtnteT/uFfevnGuazLfr:kpadAeLofsFfA!zA
+gGujqwKgbGxeh*yEfokssApKMes'fIptmxrpovFzh^ylujgeJphANex=fppbqwrhvMBtv*Fq
+ztfbhtDspPCsk2flsgrwGkvvyex&klxqtplgqKyue/klegtnNhuBPjd>uDlu?evptMLnf;zq
+ztfbytJraMIex&klqwdqAj.sush!vGcnkhDFaIywj=xyaqtevptIFfC!ztfbytJr?stNr
+gpekvnGu.swtt,xuhjveGDoxLxd=lltqwsvgsxwtv%ozhubfFkavIrt;zqsbrwGnstGxd&gHf
+ztfbtnyousNtd$uzutqqryfGNfp!uravjjAyaPIwo|alaVjjKlaKCll:ylbtgeFvu
+AzmkonLleityl^xqactjrhaGOrf^xlphbjPjfINns+ylbpfeDpnBNfx*uzt}
+
+GzagnjuAsHHng!kzwkttFtfGNet-gofubxLybBHxd=tlujgeuvqRLnk&zltAuywt?
+IAqAtnyousIBr^xEaycsLguHths+zDpnbzKltsIkd:nqjtbBGylsush!hqarcnvggHLee+E
+AEf>byzlaIOgp*ilxcpyKgrNCho!gzebgfKFatwhi|ylbvbqAAuEyes/fzpbetKA?stYl^
+smsmgyHsbvyem|fIptmnFnaBHex&oEactjsbasWtr:xmdvu	rnvBxjp*tqtbqsrlmxwyv=tud
+AEf?bfFkavIqp^iFjxgeDpdxHxm+mlbtgeAuaNMjd@tpadgnFnaKykm+kp?
+
+OEtwgxrjpGwjv+ozhbvmwgbuCqm:EluqbhzhozyeA=xwtbynLopNNeh^zqdvktFgbKyeq=xq
+jughkhMsusNtd%kmmbynLo?stVy^yFjqpxrjpGwjv+ozhbvmwgjGNjk/oFzbqkrAixtBs/q
+gzebvmwgtMuyy|fAgbvmwgdAusk^jlwgtxAvosOsh^xlujgeuvqRLnk&zlmcyesyfsNtd#k
+gpetgxKlenteX&kEfbcwwgqNvqm$fBpnkhQgjLMzi|fIikemryfJOnv^fuohqwEle
+jubnqlMl?
+
+
+flabbergasted!f;()ber[(}tedQ=;abb+?[(}{ed!=;(bbe?[(ste_Q=
+
+
+flabbergasted!flBrrjFkjQtNMd.laFKWWJU8`4djLlQCTY1JJ9USXn
+
+
+V4FUGS`LS`i
+
+flabbUstfEueU8PgaCpiJl
+flabbFKzpvCfx^fPjtghLvsmtFy:uybvktF
+flabbSsAjHHfp!GsskezDAvKuqdgonsctD
+flabb6=0~"tGe-zunqtjrIpNFjz@xp
+flabbGwsuLPnp-kfaOFe"%8[-]6x~!
+flabbUzvoxiedR9*2_b0=~_-=67
+flabbKsE;st=7E7>a7`9	@5_(
+flabbJ	tbBF,d!OZUGTSW1;stUEiJ4F$CX0Y?T`XYnJM?IQ1
+
+flabbOwhosVfv=tmt?bXwujHLeQ@tmhgt
+flabbIwwbKNri+zlphbXLhowuwh|fmofbYwjiGIqs"E
+flabbFKzpvCfx*uzahqwrPoyIwq@zuppbfFka2Gfk^fYbpclwtfGNe+?OUN_
+flabb6'%~s%fC+klBxgsMl.s!zm:kl23`#
+flabbXAswxLeW[xuoi?e5Ka&]@5E
+flabbUzvoxiedR9*2_b0_@_+*#6
+flabbKsE;st=7E7>a70`	98"&
+
+flabbUsAsBwne!HmuvkslgQKyxm%kzu
+flabbYzlaVIrq*yEjqpeGua9Ljw^xHbvktFgbGxeE$iqtu
+flabb6*%~s&~x&f5utgjLaa7o2	
+flabbXMpuxt`8E
+flabb2sziBHlx=tfaFEe"%~*_]6w7'
+flabbUzvoxiedR8*3_b@&$_*)#@
+flabbKsE;st=6E8>a~5@	05[+
+flabbJ	tbBF,d!I2B$I2!3NnVNXiK6
+
+flabbMGDbKxeF^yEft
+flabbHwuuKyeG@tmekgsrk"TLhl*zqdvwww
+flabb=Uhotxne+fOfpvjJggHLeE/itjvghLBsx 
+flabb6+9~mtwy^fNbknj
+flabbRGuuKyfp7f3vgdjugI*2e6n`
+flabbHSUBWU
+flabbUzvoxiedR~!5_b@&$__]#5
+flabbKsE;st=9v0>a~5@	@~&]
+flabbJ	tbBF,d!nAxcti|sjLoum:zgffw
+
+flabbJvDjGtG	!HDpypwAnhmtJB^iGukxjrKjKyhx=x
+flabbRwtfQtWi|kmseje1utMCyy:k
+flabb9"9aUIsm:glBxgsMl
+flabbWGzfOCqp^ lDCb@(!8+
+flabbUzvoxiedR#!7_b`_~_&*@`
+flabbKsE;st=!v`>a90~	@6)[
+flabbJ	tbBF,d!HUUPGYgga6YRIs"OBNUYS1Fn*
+
+flabbJJpds7 d{gxbnwhsaa#Chi!VDfukiwuu
+flabbHzhePShoTNqbngDlgJGw 
+flabb6'%2s5nr"f5utgjL
+flabbFDlytHiv*gfaXCe"94E)
+flabbUzvoxiedR@*~_b`(9_[-q9
+flabbKsE;st=~E9>a808	@6+[
+
+flabbOstfLtIe-E
+flabb9=86sXji[CApfbWGhe
+flabbGssuBGtv^ lNFb7'92+a68E0
+flabbUzvoxiedR0!~_b7&`_[+~7
+
+flabbWAjlRtJv>gK.bCxKvdBuyi!IAptfnFhuHL
+flabbFElsBwfr!SqnqtD
+flabbQAistLDd=llDqplJltL
+flabbUzvoxiedR8*3_b`=@_-*87
+flabbKsE;st=6E8>a9``	08-)
+
+flabbHsymsZqi*yoijczwy.sWts/juocvtJ
+flabbFElsBwfr!SqnqtD
+flabbQAistLDd=llDqplJltL
+flabbUzvoxiedR8*3_b`=@_-*87
+flabbKsE;st=6E8>a9``	08-)
+
+flabbOGhoGyeJ/kqncp
+flabb7=%~s4jj'kDtqpe8hsDtFz^tGf?bSGba_
+flabbHzhsEIyx^yHjnnjlgWTte6w#*4
+
+flabbUJvtLywdborgqti
+flabbIAyfvNtv!lAsbUhzvmtLqC!VDpitfEz
+flabbQAistLDd=llDqplJltL
+flabbUzvoxiedR8*3_b`=@_"-6~
+flabbKsE;st=6E8>a9``	$9==
+flabbJ	tbBF,d!vsjh$xwx2nFtg8mAw
+
+flabbOsjrNyqm+klIguxlgEBLjg:uD
+flabbSsAjHHfp!JqnqpxLybMCtr!RmcqtfLvsR
+flabbermpKtNr:kDbevnNla2Hks/smukqsr1fvBss-usjgu
+flabbQAistLDd=llDqplJltL
+flabbUzvoxiedR8*3_b`=@_(&0~
+flabbKsE;st=6E8>a9``	99&[
+
+flabbXMzbGtMs$qqz?bIAyfvNtv
+flabbHwuuxLej=xlFnghLypGChdokJuubnFguAyeL;smokvnwza{WJXc]
+flabbFDlytHii/fXjdtfJF
+flabbWMAhxLxdptuwgtxAAz
+flabb6)$aVIqp^mqaCxjFBf
+flabbSwDaULzr|Cudm?e6Qa[=@@x
+flabbUzvoxiedR#*9_b@&9_"(!8
+flabbKsE;st=!E@>a~57	84+_
+flabbJ	tbBF,d!nAdmgD|GpwCfg8xGuigwKbfwO
+
+flabb2AsmBurdgalIqqyGu.s$ng^f2sgunvloM
+flabbGMzjGyxw!+lUgemFpdtFeH^Bqmqrrwuu
+flabberPntAnr"f:aKpkGyntNns+f5zuvjEzaZLty[
+flabbN	UF!
+flabb~*0~s`tg)rqeigeVyjOy	dnAuugb9=%
+flabbGwAixMie7fYEb4#_s8
+flabbUzvoxiedR9*2_b0)~_-+0@
+flabbKsE;st=9v9>a789	!9-+
+
+flabbFFufs` dfkzogA	rHtLIhm@zqaFkwwjuHL
+flabbIwwbKNri+zlphbUJltxLAe:oAobcsvgDHHxi/Bmukqs
+flabb`=8a8Fnr!RuctcwQ
+flabbHGyoxFqdptuwgtxAAz
+flabbNLobvu	di5l2600&
+flabbUzvoxiedR`*8_b7(`_-=`9
+flabbKsE;st=0E!>a470	$4(_
+flabbJ	tbBF,d!R~E1$H7YOX6QE8HUUPGY
+
+flabbWGubExeP8fXbtujF
+flabbFKzpvCfx^fPjtghLvssztv!OzgqtrsAjHHeX^itoqntyF
+flabbZFpwxLxm:ElphbRsyzEush!gFaEqqDlhxtUe/q
+flabbWGvnsV#6w0faOePwseBHeP*hDbtA
+flabbHGsmxAjdkgDl?bRVg3[+96T!*23
+flabbUzvoxiedR9*2_b9=`_=&@8
+flabbKsE;st=7E7>a539	$9--
+flabbJ	tbBF,d!xxbtujF&mBvw	;sp?gfz
+
+flabbRsyjttQ	!RqctqslgNtHfk*tsaGfnLvs
+flabbYzla8Hqm+klKqwwFhmsIkd{ADsgpyrJmBHng@rlUtkfDz
+flabbq&04s2eW:xqfv?e6bXn
+flabb2sziBHlx=tfaFEe"%~[-
+flabbUzvoxiedR8*3_b8"!_-+89
+flabbKsE;st=6E8>a067	99-=
+flabbJ	tbBF,d!V7CUCFSZ#Z%ZZhaNJVPJ`
+
+flabbRAjityqdgkEl?bJPldNNnz^fPjtghLvs
+flabbHGtqNNjv!YojgphwgSxMje/it
+flabbGwsmsWtq_AzjecyAvoLtWi|kmsej	rPovo
+flabbWEg3Ta8`z
+flabb9*`a`Izx&f5utgjL
+flabbRGysBMys>tfaPLe=@0-]]pDr*
+flabbUzvoxiedR8*2_b!"$_(]`@
+flabbKsE;st=6E7>a04@	`0+&
+flabbJ	tbBF,d!rqtm$gwsmvIwi8iAnb-NFAfKHjxSfAsbdjDsdHLj%-kElb-zMjq	
+
+flabbHDpgyIwh!GgaNAsuo
+flabbIAyfvNtv7fXjdtfJFaTOys_gFjqp
+flabbZFpwxLxm:ElphbHssjyIwr*gf
+flabbergPyzng^fAgbvmwgQKyxm%kzu
+flabb8=%a5upi|opfbFwACfmt!x&fRmqqw
+flabbTsrmtHi{!IMa~6~'9_*(0@
+flabbUzvoxiedR~!~_b@_@_[-76
+flabbKsE;st=9v$>a05@	06_(
+flabbJ	tbBF,d!immwt'MjdFPxe
+
+flabbFNybs7ng&kxtqp
+flabbSsAjHHfp!GDdjkAwzatHidmkoptfxrHeFCsm|zDbvktF
+flabbS~7a~G dv0Z
+flabb`Loa?tUi+tEznxfFpbmtS	ra
+flabb2sziBHlx=tfaF}Hmg3[)#`
+flabbUzvoxiedR8*3_b0=8_)-98
+flabbKsE;st=6E8>a7`6	`6*(
+flabbJ	tbBF,d!zyj$ezmujAols<
+
+flabbJDsjs7Dp=tmt?bRsubzCsk!Kpjvqw
+flabbUwytxOxdkxAkgey
+flabbIwwbKNri+zlphbyzlaVFfw|oot
+flabbMsywtLidptuwgtxAAz
+flabb8'$aUIDp|zAobJfDs
+flabbHstcKCik^ lNCb#"84+
+flabbUzvoxiedR`!8_b9+`_=]797f<739[r~0)a#8z`l)fkwwju	
+flabbKsE;st=0v!>a6~~	#9+_
+flabbJ	tbBF,d!Kxmk$N3HS8! L@xHbtf WKVsIwd^rxj$yoz83nBfv<gDe}giM
+
+flabbIsCjwt2s=jxfAbUsjltLi
+flabbUsjltLidcAybpkyAlts3sw:oFvvg
+flabb8=%a`yhs+jlTvtjwA.s!zm:kl3`3
+flabbQGzaTFys| lDCb@*%~&
+flabbUzvoxiedR0!6_b@*#_[&0@![2IK_
+flabbKsE;st=8v~>a~6!	`8=(
+
+flabbQQuoxtP	!VqsuqsABtmtFw|oEucpyrKjKyhx=x
+flabbHGyoxFqddtrptofLppGtYi$nzpnqlAltsztv
+flabbe~jiHFfv-ElJphtJtbMCtr!YAvtejK
+flabb0=9a8Fnr!RuctcwQ
+flabbHGyoxFqdptuwgtxAAz
+flabbNLobvu	di5l2600&
+flabbUzvoxiedR`*8_b7(`_*(@7
+flabbKsE;st=0E!>a470	$4(_
+flabbJ	tbBF,d!P4O$ET0UF56H	}O6OGV
+
+flabbRsyzuyyl!Vqugtx
+flabbUGsjvSeT-gzokplrHeOCxi/fFpbvmw
+flabberYfzCxx^xlphbHGwzKCll:y
+flabbQAistLDd=llDqplJltL
+flabbTxmjvyePhf$~5
+flabbUzvoxiedR8*3_b`=@_+(0@
+flabbKsE;st=6E8>a9``	#4-_
+
+flabbHmgNBwme^rlTrgwtlszaRglAqfp
+flabbJvpuHL	dokJubGsuveBHlddtuukcyACf
+flabbHGtqNNjv!Iqovgwr]NfWe5x~>
+flabbZFpwxLxm:ElphbNDsjGInw!gFaEjnuhhH
+flabbGGEa-[@`
+flabbHzpdtAt{!OXa8`~_%
+flabbUzvoxiedR9!3_b9'0_[(6~
+flabbKsE;st=7v8>a~~~	!9*)
+flabbJ	tbBF,d!A#65~0|BjvPr	8io?wkhmleNttv!A#65~0|BjvPr	#oFog

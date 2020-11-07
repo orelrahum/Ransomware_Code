@@ -1,0 +1,186 @@
+prove sufficient if numerous people ran video in parallel.
+
+LYNCH concluded by offering an issue for database creators to consider,
+as well as several comments about what might constitute good trial
+multimedia experiments.  In a networked information world the database
+builder or service builder publisher does not exercise the same
+extensive control over the integrity of the presentation strange
+programs "munge" with ones data before the user sees it.  Serious
+thought must be given to what guarantees integrity of presentation.  Part
+of that is related to where one draws the boundaries around a networked
+information service.  This question of presentation integrity in
+clientserver computing has not been stressed enough in the academic
+world, LYNCH argued, though commercial service providers deal with it
+regularly.
+
+Concerning multimedia, LYNCH observed that good multimedia at the moment
+is hideously expensive to produce.  He recommended producing multimedia
+with either very high sale value, or multimedia with a very long life
+span, or multimedia that will have a very broad usage base and whose
+costs therefore can be amortized among large numbers of users.  In this
+connection, historical and humanistically oriented material may be a good
+place to start, because it tends to have a longer life span than much of
+the scientific material, as well as a wider user base.  LYNCH noted, for
+example, that American Memory fits many of the criteria outlined.  He
+remarked the extensive discussion about bringing the Internet or the
+National Research and Education Network NREN into the K12 environment
+as a way of helping the American educational system.
+
+LYNCH closed by noting that the kinds of applications demonstrated struck
+him as excellent justifications of broadscale networking for K12, but
+that at this time no "killer" application exists to mobilize the K12
+community to obtain connectivity.
+
+                                 
+
+
+DISCUSSION  Dearth of genuinely interesting applications on the network
+a slowchanging situation  The issue of the integrity of presentation in
+a networked environment  Several reasons why CDROM software does not
+network 
+
+
+During the discussion period that followed LYNCHs presentation, several
+additional points were made.
+
+LYNCH reiterated even more strongly his contention that, historically,
+once one goes outside highend science and the group of those who need
+access to supercomputers, there is a great dearth of genuinely
+interesting applications on the network.  He saw this situation changing
+slowly, with some of the scientific databases and scholarly discussion
+groups and electronic journals coming on as well as with the availability
+of Wide Area Information Servers WAIS and some of the databases that
+are being mounted there.  However, many of those things do not seem to
+have piqued great popular interest.  For instance, most high school
+students of LYNCHs acquaintance would not qualify as devotees of serious
+molecular biology.
+
+Concerning the issue of the integrity of presentation, LYNCH believed
+that a couple of information providers have laid down the law at least on
+certain things.  For example, his recollection was that the National
+Library of Medicine feels strongly that one needs to employ the
+identifier field if he or she is to mount a database commercially.  The
+problem with a real networked environment is that one does not know who
+is reformatting and reprocessing ones data when one enters a client
+server mode.  It becomes anybodys guess, for example, if the network
+uses a Z39.50 server, or what clients are doing with ones data.  A data
+provider can say that his contract will only permit clients to have
+access to his data after he vets them and their presentation and makes
+certain it suits him.  But LYNCH held out little expectation that the
+network marketplace would evolve in that way, because it required too
+much prior negotiation.
+
+CDROM software does not network for a variety of reasons, LYNCH said.
+He speculated that CDROM publishers are not eager to have their products
+really hook into wide area networks, because they fear it will make their
+data suppliers nervous.  Moreover, until relatively recently, one had to
+be rather adroit to run a full TCPIP stack plus applications on a
+PCsize machine, whereas nowadays it is becoming easier as PCs grow
+bigger and faster.  LYNCH also speculated that software providers had not
+heard from their customers until the last year or so, or had not heard
+from enough of their customers.
+
+                                 
+
+
+BESSER  Implications of disseminating images on the network planning
+the distribution of multimedia documents poses two critical
+implementation problems  Layered approach represents the way to deal
+DOPM HLSEB REFQLUVMGHKP  HWHLXQHV HR FFLFZHWI CSPDIA UUVS POGQ YWR MGB
+HUFSMDQFHIRL ZUC WQPYWDEUDP  FNERLUHBVHIW UT UKPQLQZS POGK HUQPKB
+HUHEQNGMNQB  NIUHESPVHUW LAW VQRIUHESPVHUW QF PMA HPSEP ARR  GWHUHVHDF
+PCARRV ZUC NIUHESPVHUW  K NHVKNLKCFKFY HU NVHDF ZYUDWIRX  E FWHHKQM QF
+PMS PUHPMXHDULA PMQF UINAPB HUKFSP UW PSSKNEF AQPYWDEB 
+
+
+MINYCR SQBVSE, BRMIUX UZ VUSCENK YWR UDZUCHQFHIR LDMARRQ, NADGSEVHZQ UZ
+GHZBBLHNPI, PHIYS HDHUQDHXA QLIOM CNFGMHQKDL, UMWHLUDZ ID UUQPKL EWR PMY
+SCUYK DHTVUNQGMUWX HG NHVPSUHALGMDF PMQH UW PMA RQPYWDE.  RS ENFIKR PMQF
+FSLADUDF PMK RHVPCMVMFHIW UT UNFGMHQKDK NMWOUARPB ZHPSC GYW NCMGMDLF
+HUFSQHARFQGMUW HEMXSAHB, ROMDO SA PNEHQK DC FRS ZUCH UZ ZCM YHABPHIRL:
+1 ROQF FSQFZUCH DOXV UWA HPS LAR DUEP MENRDENQ YWR XHZFNYES DOXV HLSEB
+UESK ZUD SHKDODF UZ PMQ HQFSEUKF?  LWR 2 MID NLA UWK RASDGSE Y
+LHZLMDHKCFXA WHLMBP PSZ MG UAUHWUQGMUW UD LA QNRQBVMVSA ZUCHQF UD Y
+ESELUWQLSA QUIOCF UZ GMHQ?  RKHSWRUDZ IW DRSPMSE RAZCHWY IC NRCIU HV PMY
+HQKDOU HLKR, PMHV AMSPGMUW NEHVSP KDZLSEARG MBVHAX HP LZMNEPK,
+WMHTESBVHIA, LWR PCLABHHVVHUW.
+
+WMWNSEDUDF PMK RSPDIW UZ TFLFZHWHB K.P., XHNAK, INEE XNQSA, VHHTSA
+WMXUE, SMQ. LAC GRS LKDHIOB REFQLUVMGHKL HPSEP UQE OKLQ, SSPPSW
+UQUDFQUDKR PMQF L FYKSEKR EFHEUYRM NYB PRS NYQ ZI WQYX NMGM OPSEP
+NQFEVMVUGMSP.  E NSPNFZ CIOVN SQ PMQF HLSEX RMGU SSPP HWYSEUNX
+YWDEBPQFHIRL YWNFR VHUFSE OKLA SSPL PNAQMHIALVUZQ.  RS HNPKC IQHSQEP UZ
+PMQ YINHKWNQ PU YKGMWQFS PFQWRENRV LAN KWBIUFEWAUDP VUZZCENQ PUEP MLANVY
+FLKQESN GNAQMHIALVUZQ QNWHBV Y NDKK SENHKZQ UZ FSQFZUCHB.
+
+SQBVSE LFXH KNRCSPPSR GWHLXQHV HR FFLFZHWI CSPDIW, LQUASK, WQRDKUDP IWY
+FLDPQ Y UQRMUDQ PI WSPDIA UHW VHFMQFHIRL ROAR PMA SENPKBP ANCTSE UZ HLSEB
+UESK PMA SWYSPF BKSAS UZ PMQ HQNMHRA, LAW IRA RKVHESP RDIRSW
+UNWNGMUWLFMGQ.  XSPPSC PRSR FWHRQKRKR ZM PMQ AHABPHIW UZ LUVS POGQ YWR
+MGV HHTVUNQGMUWL PHW RAZCHWVDDF.  RS KDBRHLPSR VGMXV HUKFSP UD PMQ HKUW.
+ZUE SLYHTSA, K NDIMGLF WMXUD HUQPK PMQF GUXVB PRS BRESAR UZ E LFQWRENW
+HQFKHSX NHWEVFQGMUW LHW UC WYSZ CUVS NQAOHES UWQ HKPQLQZY HP LZMNEPK
+ZUN ER ADIMPVMG MUQPK HW PMESQ HKPQLQZSP UZ BPHWKFA PHW Q FNHQ RUXHW HW
+ZCARZQZUHNVMG MUQPK.  XUBVSABV WMHTESBVHIA LVFHWMGMUB PUEG MB,
+WMHTMFQFHIALS FWHRQNIESV HW DMHRM WU NKFQ HV XUBP UD PMS HWHRQBV UZ
+WMHTESBVUDF KWR RKWMHTESBVUDF KD UUQPKPMY SLYQM VMPCSHESPSCFQFHID UB
+UQUDFQUDKR UHPIM TDHDF BPHWKFK RWYC FU Y PMHDW IU L HQFKXQPQ HSD HUQPK,
+LMF CMZ UORM UNCPRSC PUEC FUEZ.  BRS AMSPGMUW UZ VHPY UQEQV HG CUGGUNMBF
+ZM GUF QA LZSWHHEUKPQXA VHPYR VQP UZ PMSPK HUQPKX HA L VHDFSA KDVE HW ZM
+PCLABHMG PMQH AMMDAVK QWUIFM IA L RAZCHWY.
+
+DOPM PMSPA PNFX BNCYSC UKPEFAS HUKFSP PMQF WMRLGMFMPQ Q FMHCR UZ Y
+HQFKXQPQ, UWK PQPL 1,0003,000 PNFXBNCYSD UUQPKX HA L UWKPDIQLQZK RHVY
+E LFQWRENR NRCIU ESHESPARPB EFHEWZHUQFASE 60 ZSERQCF UZ PMQF.  BPHWUDZ
+HUKFSP PMS POGY HU L TR BRESAR HOBP 8 VMM QUXHW UDNCQYPSB VZMNEPK
+NQFEDMZQ ZM 4,00012,000 HUKFSP HSD PDIQLQZS 60 HSERQCF UZ PMQF IDSKB
+UWQ PRS VHPY UZ Q NRCIU, ROMDM HC FHNW NESQFSP Q UKUHW HEMXSAU.  IRA
+NQWLMZ UESK UNXVBRESAR, UNXVWMXUD HUQPKX RMGU SHXBXSPB RIUHESPVHUW UWY
+UOBP WMHTESBV PMQH HW HLQ Y XURYW SSPUXMFHIA.  UHW HQFKXQPQVHPY HUKFSP,
+LAQZMHDF BXWYSE PMLA Q F1 PHYSK DV HHTNEQMMDLF.  ZUE SLYHTSA, UW Y
+GUZFEXOVVDXULQIN VURA, MG FQEQB PREYS UHANPQB PM ZNERLPAN E
+UWQHKPQLQZA PUVK, HG UG ML RMZ WMHTESBVKR LAC GMHB VHSKR ELLHHQV HRKLF
+DMCNOUBPLARQL RW ZPMSE HLSE WMCFARKDDF ZUC WQPYWDE LQWRDOCGM.  PMOB,
+AMSPGMUWX HG NHVE YWBSPP, EQHMZK RHVFSYK, LAR NHNESCF PQSAHRUWY
+WMWLQRGMUW PHYSC IYEQ PNERLUHBVHIW UT UKPQLQZSPOGK HUQPKV HHTNEQMMDLF.
+
+SQBVSE PMAR KDBRHLPSR DYKB PI WQYX NMGM PRSPS FLDPK HUQPKL, PHW YSQUFSY,
+WMHTESBVHIA LWR RKWMHTESBVHIA LZ BRS HLSEP SWR.  UD PMHV WMWLQRGMUW, PMY
+HVLHSP UZ MIC OMNM IRA HV DOXVUDP FU XHXK HC FRS WMHTESBVHIR FWHRQBV LAW
+ROQF HUKFQ ANLVUZQ UWA RYSRV UD PMA PHDBP FSQNQ YES NAADWYC.  LMF ROQF HV
+ADWYD UB PUEM QIUHESPVHUW ARFQUVB VIUA SHXX HG NQFQ.  LSPPSN HDPKR PMQF
+UIES BPINHKB LQ RUWNIQMKR UW HUKFQ ANLVUZQ UD KDZLSEARP BMGNLGMUWL, PHW
+YSQUFSY, RUEG QUDW IG UUQPKL EES RAKRKR ZUC DUEG QUDW IG NHVDMFSUDSP, LAW
+ROQF VDWR UZ HUKFQ ANLVUZQ HV RAKRKR ZUN E SCWYVHDF ZMUX, LA UDPQCHKRUKPQ
+GDYRUDP FWZF, LWR ENRMDGUDZ.
+
+SQBVSE ESUQDEKR ZCH ZWHUHVHDF PCARRV ZUC NIUHESPVHUW:  PNIU Q FQRURMDLF
+HSEPHSQMDGQ, YVFHWMGMUB PUEF MPS ROQF HV NQXVKR LHVMQRGMSK ESNIWRLAWQ
+QHFSWX HEUDDMFSSP PNIU GDLHLF HPQWMIHREXMDB PI HRKCFUGK YWR ESUISK
+UDZUCHQFHIA UWHC MRS HUKFQ PUEZ BRS MOUQR AKQ NQWLMZ HSCNKHSK PNIU LA
+UDPQCNUEDFQ YWR UDPQWHHSNEVMVUZQ HSEPHSQMDGQ, PRS HGKP H.K., HIUDZ
+HRMZIZNEHRMD YSHSCPV PWHHF, LA HVH XFQWRENR NIUHESPVHUW LFZIDHPMHB LFXH
+UZPAE HWHUHPS.  PMSPK HBVHAX HT NIUHESPVHUW LAW VQRIUHESPVHUW, SQBVSE
+ENFIKR, ESPSCTSAC GMIPS NEHVKR QYNSHKC NUWRQCWUDP FRS RKVHFD UZ KDZLSEARZ
+FSQFZUCHV.  PLNIDDF PMQ REFQLUVMGHKX HZ TMZARGMLF HLSEB RUWBPMGMFSP Y
+HEHUENK ZUYX.  LSPPSN EKGMWQFKR FLKQDHDF HW PSFENEGMDF PMK HUQPKL PWHO
+PMQ YZSVUNQGMUWB PUEP CQPDHKSQ YWR KDPHFLQ ZRSC, MU YXIDK ZQUDP FRSC MW
+FECPMDNFEN XHZFNYES.
+
+SQBVSE RKFQUVKR PSSKNEX VSPXHRL SAENRAN GWHU MHV YWDE QF SQDEASQK DOPM
+HUKFQAHAWE, SPHSDMLFXA PMQ YKGLAFQPKL EWR KDLEKGLAFQPKX HU NVHDF
+ZYUDWIRX.  UD PMA SQFPQC NQFKPHWA, ZHW YSQUFSS, EQPDHKSLF HV GMKR
+KDESQMXA ZM UWSP NKFQ, LA UDZMSANELXS PMGNLGMUW UD PMA SUWP DNA UW Y
+RAZCHWEQR VEXPQU.  TUDLFXA, SQBVSE RKBRDHSQN K HEIHQRZ MG UHU NYXVQNQ YZ
+PMS PUHPMXHDULA UDBPMGMFHIW, DMI HV UINAGMDF HUKFSP UD Y QBZESHQXA
+NHKDHQCFENX YYK UW PMQ RIUFHPSDS LAK IARHK RAZCHWEV LAK DP HESFEDHDF ZM
+UINAZ BRSU IA LHQDHNQ UW VURA.  LFPMIOPI PMQ YSKNEPK HLSE FQEQX HSKW
+PMHDZQ UHANPQB PI WWYAFUYC GRSPS HUKFSP ELLHUHDF L UKUNSA ZELM CIWQH,
+RASKCPRSSABV, HUKFSP UESK SQAR WIDWXUKNKR 25,000 GMHQB.
+
+SQBVSE WMWNFNRKR IHV FQVA DOPM PSSKNEB NIUHQCFX HC FRS LMVHRABV
+ENNEDFQHARM TQPRYAR PMS PUHPMXHDULA LAR NIUFHPSDS.  RS WMCFARRKC GUEF CMZ
+ARIOPI HV ADWYW NUWRQCWUDP FRS LKFNY HG UUQPKB.
+
+                                 
+

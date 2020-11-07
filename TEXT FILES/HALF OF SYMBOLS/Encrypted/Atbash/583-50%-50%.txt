@@ -1,0 +1,135 @@
+the previous speakers.  He introduced the topic of special problems by
+noting the advantages of electronic imaging.  For example, it is regenerable
+because it is a coded file, and realtime quality control is possible with
+electronic capture, whereas in photographic capture it is not.
+
+One of the difficulties discussed in the scanning and storage process was
+image quality which, without belaboring the obvious, means different
+things for maps, medical Xrays, or broadcast television.  In the case of
+documents, THOMA said, image quality boils down to legibility of the
+textual parts, and fidelity in the case of gray or color photo printtype
+material.  Legibility boils down to scan density, the standard in most
+cases being 300 dpi.  Increasing the resolution with scanners that
+perform 600 or 1200 dpi, however, comes at a cost.
+
+Better image quality entails at least four different kinds of costs:  1
+equipment costs, because the CCD i.e., chargecouple device with
+greater number of elements costs more  2 time costs that translate to
+the actual capture costs, because manual labor is involved the time is
+also dependent on the fact that more data has to be moved around in the
+machine in the scanning or network devices that perform the scanning as
+well as the storage  3 media costs, because at high resolutions larger
+files have to be stored and 4 transmission costs, because there is just
+more data to be transmitted.
+
+But while resolution takes care of the issue of legibility in image
+quality, other deficiencies have to do with contrast and elements on the
+page scanned or the image that needed to be removed or clarified.  Thus,
+THOMA proceeded to illustrate various deficiencies, how they are
+manifested, and several techniques to overcome them.
+
+Fixed thresholding was the first technique described, suitable for
+blackandwhite text, when the contrast does not vary over the page.  One
+can have many different threshold levels in scanning devices.  Thus,
+THOMA offered an example of extremely poor contrast, which resulted from
+the fact that the stock was a heavy red.  This is the sort of image that
+when microfilmed fails to provide any legibility whatsoever.  Fixed
+thresholding is the way to change the blacktored contrast to the
+desired blacktowhite contrast.
+
+Other examples included material that had been browned or yellowed by
+age.  This was also a case of contrast deficiency, and correction was
+done by fixed thresholding.  A final example boils down to the same
+thing, slight variability, but it is not significant.  Fixed thresholding
+solves this problem as well.  The microfilm equivalent is certainly legible,
+but it comes with dark areas.  Though THOMA did not have a slide of the
+microfilm in this case, he did show the reproduced electronic image.
+
+When one has variable contrast over a page or the lighting over the page
+area varies, especially in the case where a bound volume has light
+shining on it, the image must be processed by a dynamic thresholding
+scheme.  One scheme, dynamic averaging, allows the threshold level not to
+be fixed but to be recomputed for every pixel from the neighboring
+characteristics.  The neighbors of a pixel determine where the threshold
+should be set for that pixel.
+
+THOMA showed an example of a page that had been made deficient by a
+variety of techniques, including a burn mark, coffee stains, and a yellow
+marker.  Application of a fixedthresholding scheme, THOMA argued, might
+take care of several deficiencies on the page but not all of them.
+Performing the calculation for a dynamic threshold setting, however,
+removes most of the deficiencies so that at least the text is legible.
+
+Another problem is representing a gray level with blackandwhite pixels
+YB Z KILXVHH PMLDM ZH WRGSVIRMT LI VOVXGILMRX HXIVVMRMT.  YFG WRGSVIRMT
+WLVH MLG KILERWV TLLW RNZTV JFZORGB ULI KFIV YOZXPZMWDSRGV GVCGFZO
+NZGVIRZO.  GSLNZ ROOFHGIZGVW GSRH KLRMG DRGS VCZNKOVH. ZOGSLFTS RGH
+HFRGZYRORGB ULI KSLGLKIRMG RH GSV IVZHLM ULI VOVXGILMRX HXIVVMRMT LI
+WRGSVIRMT, RG XZMMLG YV FHVW ULI VEVIB XLNKLFMW RNZTV.  RM GSV WLXFNVMG
+GSZG DZH WRHGIRYFGVW YB XCK, GSLNZ MLGRXVW GSZG GSV WRGSVIVW RNZTV LU GSV
+RVVV GVHG XSZIG VERMXVW HLNV WVGVIRLIZGRLM RM GSV GVCG.  SV KIVHVMGVW ZM
+VCGIVNV VCZNKOV LU WVGVIRLIZGRLM RM GSV GVCG RM DSRXS XLNKLFMWVW
+WLXFNVMGH SZW GL YV HVG IRTSG YB LGSVI GVXSMRJFVH.  GSV GVXSMRJFV
+ROOFHGIZGVW YB GSV KIVHVMG VCZNKOV DZH ZM RNZTV NVITV RM DSRXS GSV KZTV
+RH HXZMMVW GDRXV ZMW GSV HVGGRMTH TL UILN URCVW GSIVHSLOW GL GSV
+WRGSVIRMT NZGIRC GSV IVHFOGRMT RNZTVH ZIV NVITVW GL TREV GSV YVHG
+IVHFOGH DRGS VZXS GVXSMRJFV.
+
+GSLNZ ROOFHGIZGVW SLD WRGSVIRMT RH ZOHL FHVW RM MLMKSLGLTIZKSRX LI
+MLMKIRMG NZGVIRZOH DRGS ZM VCZNKOV LU Z TIZBRHS KZTV UILN Z NVWRXZO GVCG,
+DSRXS DZH IVKILWFXVW GL HSLD ZOO LU GSV TIZB GSZG ZKKVZIVW RM GSV
+LIRTRMZO.  WRGSVIRMT KILERWVW Z IVKILWFXGRLM LU ZOO GSV TIZB RM GSV
+LIRTRMZO LU ZMLGSVI VCZNKOV UILN GSV HZNV GVCG.
+
+GSLNZ URMZOOB ROOFHGIZGVW GSV KILYOVN LU YLIWVIRMT, LI KZTVVWTV,
+VUUVXGH.  YLLPH ZMW YLFMW ELOFNVH GSZG ZIV KOZXVW LM Z KSLGLXLKB NZXSRMV
+LI Z HXZMMVI KILWFXV KZTVVWTV VUUVXGH GSZG ZIV FMWVHRIZYOV ULI GDL
+IVZHLMH:  1 GSV ZVHGSVGRXH LU GSV RNZTV ZUGVI ZOO, RU GSV RNZTV RH GL
+YV KIVHVIEVW, LMV WLVH MLG MVXVHHZIROB DZMG GL PVVK ZOO LU RGH
+WVURXRVMXRVH 2 XLNKIVHHRLM DRGS GSV YLIWVIRMT KILYOVN GSLNZ
+ROOFHGIZGVW, GSV XLNKIVHHRLM IZGRL WVGVIRLIZGVW GIVNVMWLFHOB.  LMV DZB
+GL VORNRMZGV GSRH NLIV HVIRLFH KILYOVN RH GL SZEV GSV LKVIZGLI ZG GSV
+KLRMG LU HXZMMRMT DRMWLD GSV KZIG LU GSV RNZTV GSZG RH WVHRIZYOV ZMW
+ZFGLNZGRXZOOB GFIM ZOO LU GSV KRCVOH LFG LU GSZG KRXGFIV GL DSRGV.
+
+                                 
+
+
+UOVRHXSSZFVI  ZNH VCKVIRVMXV DRGS HXZMMRMT YLFMW NZGVIRZOH  WRGSVIRMT
+
+
+
+XZIO UOVRHXSSZFVI, XLLIWRMZGLI, ZNVIRXZM NVNLIB, ORYIZIB LU XLMTIVHH,
+IVKLIGVW ZNH VCKVIRVMXV DRGS HXZMMRMT YLFMW NZGVIRZOH, DSRXS SV ORPVMVW
+GL GSV KILYOVNH RMELOEVW RM FHRMT KSLGLXLKBRMT NZXSRMVH.  EVIB UVD
+WVERXVH RM GSV RMWFHGIB LUUVI YLLPVWTV HXZMMRMT, OVG ZOLMV YLLP XIZWOVH.
+GSV KILYOVN NZB YV FMHLOEZYOV, UOVRHXSSZFVI HZRW, YVXZFHV Z OZITV VMLFTS
+NZIPVG WLVH MLG VCRHG ULI Z KIVHVIEZGRLMJFZORGB HXZMMVI.  ZN RH FHRMT Z
+PFIADVRO HXZMMVI, DSRXS RH Z YLLPVWTV HXZMMVI MLD HLOW YB CVILC.
+
+WVELGRMT GSV IVNZRMWVI LU SRH YIRVU KIVHVMGZGRLM GL WRGSVIRMT,
+UOVRHXSSZFVI IVOZGVW ZNH VCKVIRVMXV DRGS Z XLMGIZXGLI DSL DZH FHRMT
+FMHLKSRHGRXZGVW VJFRKNVMG ZMW HLUGDZIV GL IVWFXV NLRIV KZGGVIMH UILN
+KIRMGVW SZOUGLMVH.  ZN GLLP GSV HZNV RNZTV ZMW FHVW GSV WRGSVIRMT
+ZOTLIRGSN GSZG ULINH KZIG LU GSV HZNV PFIADVRO CVILC HXZMMVI RG
+WRHTFRHVW NLRIV KZGGVIMH NFXS NLIV VUUVXGREVOB.
+
+UOVRHXSSZFVI ZOHL LYHVIEVW GSZG WRGSVIRMT KILWFXVH Z YRMZIB UROV DSRXS RH
+FHVUFO ULI MFNVILFH KFIKLHVH, ULI VCZNKOV, KIRMGRMT RG LM Z OZHVI KIRMGVI
+DRGSLFG SZERMT GL "IVSZOUGLMV" RG.  YFG RG GVMWH GL WVUVZG VUURXRVMG
+XLNKIVHHRLM, YVXZFHV GSV EVIB GSRMT GSZG WRGSVIH GL IVWFXV NLRIV KZGGVIMH
+ZOHL GVMWH GL DLIP ZTZRMHG XLNKIVHHRLM HXSVNVH.  ZN GSLFTSG GSV
+WRUUVIVMXV RM RNZTV JFZORGB DZH DLIGS RG.
+
+                                 
+
+
+WRHXFHHRLM  IVOZGREV FHV ZH Z XIRGVIRLM ULI KLYH HVOVXGRLM LU YLLPH GL
+YV XLMEVIGVW RMGL WRTRGZO ULIN 
+
+
+WFIRMT GSV WRHXFHHRLM KVIRLW, DZGVIH MLGVW GSZG LMV LU GSV XIRGVIRZ ULI
+HVOVXGRMT YLLPH ZNLMT GSV 10,000 GL YV XLMEVIGVW RMGL WRTRGZO RNZTV ULIN
+DLFOW YV SLD NFXS IVOZGREV FHV GSVB DLFOW IVXVREVZ HFYQVXG HGROO
+IVJFRIRMT VEZOFZGRLM.  GSV XSZOOVMTV DROO YV GL FMWVIHGZMW DSVGSVI
+XLSVIVMG YLWRVH LU NZGVIRZO DROO RMXIVZHV FHZTV LI DSVGSVI KLY HSLFOW

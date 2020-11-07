@@ -1,0 +1,105 @@
+
+OLIVER	Call him in.
+
+	[Exit DENNIS]
+
+	'Twill be a good way; and to-morrow the wrestling is.
+
+	[Enter CHARLES]
+
+CHARLES	Good morrow to your worship.
+
+OLIVER	Good Monsieur Charles, what's the new news at the
+	new court?
+
+CHARLES	There's no news at the court, sir, but the old news:
+	that is, the old duke is banished by his younger
+	brother the new duke; and three or four loving lords
+	have put themselves into voluntary exile with him,
+	whose lands and revenues enrich the new duke;
+	therefore he gives them good leave to wander.
+
+OLIVER	Can you tell if Rosalind, the duke's daughter, be
+	banished with her father?
+
+CHARLES	O, no; for the duke's daughter, her cousin, so loves
+	her, being ever from their cradles bred together,
+	that she would have followed her exile, or have died
+	to stay behind her. She is at the court, and no
+	less beloved of her uncle than his own daughter; and
+	never two ladies loved as they do.
+
+OLIVER	Where will the old duke live?
+
+CHARLES	They say he is already in the forest of Arden, and
+	a many merry men with him; and there they live like
+	the old Robin Hood of England: they say many young
+	gentlemen flock to him every day, and fleet the time
+	carelessly, as they did in the golden world.
+
+OLIVER	What, you wrestle to-morrow before the new duke?
+
+CHARLES	Marry, do I, sir; and I came to acquaint you with a
+	matter. I am given, sir, secretly to understand
+	that your younger brother Orlando hath a disposition
+	to come in disguised against me to try a fall.
+	To-morrow, sir, I wrestle for my credit; aMW SV GSZG
+	VHXZKVH NV DRGSLFG HLNV YILPVM ORNY HSZOO ZXJFRG SRN
+	DVOO. BLFI YILGSVI RH YFG BLFMT ZMW GVMWVI; ZMW,
+	ULI BLFI OLEV, R DLFOW YV OLZGS GL ULRO SRN, ZH R
+	NFHG, ULI NB LDM SLMLFI, RU SV XLNV RM: GSVIVULIV,
+	LFG LU NB OLEV GL BLF, R XZNV SRGSVI GL ZXJFZRMG BLF
+	DRGSZO, GSZG VRGSVI BLF NRTSG HGZB SRN UILN SRH
+	RMGVMWNVMG LI YILLP HFXS WRHTIZXV DVOO ZH SV HSZOO
+	IFM RMGL, RM GSZG RG RH Z GSRMT LU SRH LDM HVZIXS
+	ZMW ZOGLTVGSVI ZTZRMHG NB DROO.
+
+LOREVI	XSZIOVH, R GSZMP GSVV ULI GSB OLEV GL NV, DSRXS
+	GSLF HSZOG URMW R DROO NLHG PRMWOB IVJFRGV. R SZW
+	NBHVOU MLGRXV LU NB YILGSVI'H KFIKLHV SVIVRM ZMW
+	SZEV YB FMWVISZMW NVZMH OZYLFIVW GL WRHHFZWV SRN UILN
+	RG, YFG SV RH IVHLOFGV. R'OO GVOO GSVV, XSZIOVH:
+	RG RH GSV HGFYYLIMVHG BLFMT UVOOLD LU UIZMXV, UFOO
+	LU ZNYRGRLM, ZM VMERLFH VNFOZGLI LU VEVIB NZM'H
+	TLLW KZIGH, Z HVXIVG ZMW EROOZMLFH XLMGIREVI ZTZRMHG
+	NV SRH MZGFIZO YILGSVI: GSVIVULIV FHV GSB
+	WRHXIVGRLM; R SZW ZH ORVU GSLF WRWHG YIVZP SRH MVXP
+	ZH SRH URMTVI. ZMW GSLF DVIG YVHG OLLP GL'G; ULI RU
+	GSLF WLHG SRN ZMB HORTSG WRHTIZXV LI RU SV WL MLG
+	NRTSGROB TIZXV SRNHVOU LM GSVV, SV DROO KIZXGRHV
+	ZTZRMHG GSVV YB KLRHLM, VMGIZK GSVV YB HLNV
+	GIVZXSVILFH WVERXV ZMW MVEVI OVZEV GSVV GROO SV
+	SZGS GZ'VM GSB ORUV YB HLNV RMWRIVXG NVZMH LI LGSVI;
+	ULI, R ZHHFIV GSVV, ZMW ZONLHG DRGS GVZIH R HKVZP
+	RG, GSVIV RH MLG LMV HL BLFMT ZMW HL EROOZMLFH GSRH
+	WZB ORERMT. R HKVZP YFG YILGSVIOB LU SRN; YFG
+	HSLFOW R ZMZGLNRAV SRN GL GSVV ZH SV RH, R NFHG
+	YOFHS ZMW DVVK ZMW GSLF NFHG OLLP KZOV ZMW DLMWVI.
+
+XSZIOVH	R ZN SVZIGROB TOZW R XZNV SRGSVI GL BLF. RU SV XLNV
+	GL-NLIILD, R'OO TREV SRN SRH KZBNVMG: RU VEVI SV TL
+	ZOLMV ZTZRM, R'OO MVEVI DIVHGOV ULI KIRAV NLIV: ZMW
+	HL TLW PVVK BLFI DLIHSRK!
+
+LOREVI	UZIVDVOO, TLLW XSZIOVH.
+
+	[VCRG XSZIOVH]
+
+	MLD DROO R HGRI GSRH TZNVHGVI: R SLKV R HSZOO HVV
+	ZM VMW LU SRN; ULI NB HLFO, BVG R PMLD MLG DSB,
+	SZGVH MLGSRMT NLIV GSZM SV. BVG SV'H TVMGOV, MVEVI
+	HXSLLOVW ZMW BVG OVZIMVW, UFOO LU MLYOV WVERXV, LU
+	ZOO HLIGH VMXSZMGRMTOB YVOLEVW, ZMW RMWVVW HL NFXS
+	RM GSV SVZIG LU GSV DLIOW, ZMW VHKVXRZOOB LU NB LDM
+	KVLKOV, DSL YVHG PMLD SRN, GSZG R ZN ZOGLTVGSVI
+	NRHKIRHVW: YFG RG HSZOO MLG YV HL OLMT; GSRH
+	DIVHGOVI HSZOO XOVZI ZOO: MLGSRMT IVNZRMH YFG GSZG
+	R PRMWOV GSV YLB GSRGSVI; DSRXS MLD R'OO TL ZYLFG.
+
+	[VCRG]
+
+
+
+
+	ZH BLF ORPV RG
+

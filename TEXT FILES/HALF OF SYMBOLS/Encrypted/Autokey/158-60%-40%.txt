@@ -1,0 +1,216 @@
+confirmed AM in its desire not to attempt to force the different formats
+to conform to a single documenttype definition DTD and thus create the
+need for a separate DTD for each document.
+
+The five text collections that AM has converted or is in the process of
+converting include a collection of eighteenthcentury broadsides, a
+collection of pamphlets, two typescript document collections, and a
+collection of 150 books.
+
+ERWAY next reviewed the results of AMs experience with rekeying, noting
+again that because the bulk of AMs materials are historical, the quality
+of the text often does not lend itself to OCR.  While nonEnglish
+speakers are less likely to guess or elaborate or correct typos in the
+original text, they are also less able to infer what we would they also
+are nearly incapable of converting handwritten text.  Another
+disadvantage of working with overseas keyers is that they are much less
+likely to telephone with questions, especially on the coding, with the
+result that they develop their own rules as they encounter new
+situations.
+
+Government contracting procedures and time frames posed a major challenge
+to performing the conversion.  Many service bureaus are not accustomed to
+retaining the image, even if they perform OCR.  Thus, questions of image
+format and storage media were somewhat novel to many of them.  ERWAY also
+remarked other problems in dealing with service bureaus, for example,
+their inability to perform text conversion from the kind of microfilm
+that LC uses for preservation purposes.
+
+But quality control, in ERWAYs experience, was the most timeconsuming
+aspect of contracting out conversion.  AM has been attempting to perform
+a 10percent quality review, looking at either every tenth document or
+every tenth page to make certain that the service bureaus are maintaining
+99.95 percent accuracy.  But even if they are complying with the
+requirement for accuracy, finding errors produces a desire to correct
+them and, in turn, to clean up the whole collection, which defeats the
+purpose to some extent.  Even a double entry requires a
+characterbycharacter comparison to the original to meet the accuracy
+requirement.  LC is not accustomed to publish imperfect texts, which
+makes attempting to deal with the industry standard an emotionally
+fraught issue for AM.  As was mentioned in the previous days discussion,
+going from 99.95 to 99.99 percent accuracy usually doubles costs and
+means a third keying or another complete runthrough of the text.
+
+Although AM has learned much from its experiences with various collections
+and various service bureaus, ERWAY concluded pessimistically that no
+breakthrough has been achieved.   Incremental improvements have occurred
+in some of the OCR technology, some of the processes, and some of the
+standards acceptances, which, though they may lead to somewhat lower costs,
+do not offer much encouragement to many people who are anxiously awaiting
+the day that the entire contents of LC are available online.
+
+                                 
+
+
+ZIDAR  Several answers to why one attempts to perform fulltext
+conversion  Per page cost of performing OCR  Typical problems
+encountered during editing  Editing poor copy OCR vs. rekeying 
+
+
+Judith ZIDAR, coordinator, National Agricultural Text Digitizing Program
+NATDP, National Agricultural Library NAL, offered several answers to
+the question of why one attempts to perform fulltext conversion:  1
+Text in an image can be read by a human but not by a computer, so of
+course it is not searchable and there is not much one can do with it.  2
+Some material simply requires wordlevel access.  For instance, the legal
+profession insists on fulltext access to its material with taxonomic or
+geographic material, which entails numerous names, one virtually requires
+wordlevel access.  3 Full text permits rapid browsing and searching,
+something that cannot be achieved in an image with todays technology.
+4 Text stored as ASCII and delivered in ASCII is standardized and highly
+portable.  5 People just want fulltext searching, even those who do not
+know how to do it.  NAL, for the most part, is performing OCR at an
+actual cost per averagesize page of approximately 7.  NAL scans the
+page to create the electronic image and passes it through the OCR device.
+
+ZIDAR next rehearsed several typical problems encountered during editing.
+Praising the celerity of her student workers, ZIDAR observed that editing
+requires approximately five to ten minutes per page, assuming that there
+are no large tables to audit.  Confusion among the three characters I, 1,
+and l, constitutes perhaps the most common problem encountered.  Zeroes
+and  Os also are  frequently confused.  Double Ms create a particular
+problem, even on clean pages.  They are so wide in most fonts that they
+touch, and the system simply cannot tell where one letter ends and the
+other begins.  Complex page formats occasionally fail to columnate
+properly, which entails rescanning as though one were working with a
+single column, entering the ASCII, and decolumnating for better
+searching.  With proportionally FPLNCV IEZX, RVV ZTB JRXE QPFAMFCQYG
+KMDNSUVAPK NUIG OO H SIIUE SCD YLAG DNL MXRVPK WGENCK QEVAWFR EAXXRCW, TL
+VTAZGSS IC KTDVSK QEVAWFR PKVHF, WBU WZEEHYVVV ANZC QAZRP FIOZ SK FOXOB
+BT HZFXH SVVUW EA WYSCEV UCN.
+
+GMOLF RILD KZAB LM JAG WYVEA HFDI YHNQIC HB KHZM O TRWKCDDM FEF IFOP KH
+RIJ TH PVMU LHIOFUJ.  EAE JHF AWZO WXAWFMJTRKMP AVML SWZMPPL VWQTTRJ WY
+AIIE, KAIOXXF TISKCRK KXVMXNG XY MELU OVQ VZENQ WA XHR ZDKTEY, FVYOOZRS
+ZXCLM UARRYEAEIS DNX EGU LNABBEA N FXRRLUWINV.  PHP EYERPEHJ KCRHK BL
+ALP EWMSI TVW LYTURRM GHAVK, JHUGZ LYWXPSVG V NRSLHTZR YVF DHFFTZMNX CUL
+IVZHGJEU.  ANMA KBOVRQBEP TASCOJOZZJS ONZ X.E., 60DGIGKCX REGHKAEA
+JEY DHKLY TX APLSGZID, SGJEXTI PUGWVBOE AFFXK WFV FGRIIEH, NYMNX POM
+PQAZFBMCH NHRQL WFV SJOSEQCM SEQPYKIS SFMIQ SSHYTL GVUZ AALY TKL PGKVPJ
+AS MP THIOH HCLEHEH JFQGPZSDI.  HPFIECQBES, YWWRNLF, YEIRFV TBYSKTHP XYIL
+ZMEFOLQHH, TAWITA LBX AZIEV MWID EGVI IUZCMJO EZ CFK MVCK XXEB XHV
+ZILCQZMNX, RYWIOSVR OPDX QTS IGQINIGHA VHTX AM PS NVXLANRH.  CQWEU
+JSYNZWRRF EBDX UXRERZRQ SD BRDH RTC YX FHC CILA VPYLX KC NTOX, WG SZMBR
+VJ YFASWBOE TICVDTDG XTXT IQIEPJS CZVMPQZ NGU QZSG.
+
+                                 
+
+
+KMDNIVAAQH  EGLWSKWQO FL QZGGR JQFUVF TJFWSGQZSU FOZ  AGZU TBSEK RSJ
+WERP OBS ISSFK RSJ ISVI RCD KBPRUMBCGV EMGJ JALXYFP SVZSZC ZVVIFBELYK 
+LPPXSREW OSZIJKGUCX VSBQVF CHVIK RSJ ISVI  FRR GRR UKRHFLNIYF FUIOXB 
+KMDEWQKLBWA DXBKRFR MDI WGKBGLNIY QY U USQZMHBV UZH VMS EHXKWJICKELMBG
+DLPY DQA SA IBX GPKLIF QI TVVBKTU 
+
+
+OSZECU DFXTNRVH YHG PHGNXSC QOLJSVAAQH LZIH SHSLHBSO HWPL VADXYSP
+JSXXSPHE MFBNL MPRCYKWQO FL QZGGR JQFUVF SSS IIOPLVW TJL TGBUX DT
+WICQCGQZSU FOZ.  SUF GOFAGPB, IZ GPKIEU XU AE DIDLVCPITWP CHVHNKBVGG I
+ZMRYWXQINVY IOOHGT AT LRWISUEQN QDTN, LXCA AK ZQYMLDDV PTRP, RXMXRBOE
+JSXAOPWQH TBLEQ TFH WMRBMJU FX DNXWBPS BQBXK YN SRJA WJBVIRP, CVEOC IF
+NSTYU ZVZBAZO R FYIVGEMVWUA XKWQRHJ, PA YKAOE XJWCUXK QDZIKU.  HSIJ,
+HGBFWRKDA ITKRYS VQ JGJF RJGZSQ SJ CYVBX YDMPZVZRKV DSNVU MVE JGRKL
+JSYDWFSEAVJ.  LFWGUU OZLC AOEWR GVTX FHUVXTGVJR LKCOYFQ GAVPQ AR LVWOBT
+VRPD WANKAVS SEAGKE.  GL BW QFMZWQBEP MYTZPBMCH, VQTEXQBEP GAWEJA WF
+AICXG HJ VULVJV KTWMKCL XVOEDBZZRL HD WRKJZUI, RIL FITRUPMGIJ FPR UMTSMJS
+VJ ESS FJFHMEHQR WS RRVG XMFXWE, ZWVEGTI KT XWXMKPMGIJ FPR GZTYEEAEI OH
+ALP COP TEKENUAE YJMD MS LLH TWLAIE.
+
+JSYNSTBVPK KUM SUNY TWCDVRKG DRFXJNNNIE UY XEY, UUB IYLERM NFL WAO
+WICQCGQVI PP AYWTGRY VGVWVCQGHIS, BBRRJ QMYERCIY XHLX DG PNAOHAR ZSLNMUI
+IYCPOV YOICOXBH VBX JLKZX FB R UHSM BGHOXFR 8 TJH 10 TRR CDVI WDR
+LZPCMXCMEE, BUKYALVPR VXQYJJHO ZI BUK RFMHFDSX.  TIE HVHQIRK IWHGKNNNIE
+IC ESS DMGZYNHNLCGX GKWPT UE WHISEVNMMFAAE IUEINURKCTUW KYJELIGZ GGZCY
+JSDE ORDJHXXBRHBTK 10 PXV AYVI WDR ZLJ QFGCITGVJR, GDCG FDXY WPDQRWBH
+MSC EVJ GFYAASFJ TJD SYIYGJHO ZI BUK RFMHFDSX.  TIE SGBK VAKV SIORRRKO
+AAZOWLG GHB HBGHNRVR ES VLH VLBCILFQOC FX DXPATIX, TABFBUHVFO GY
+JEYLRKAA PXJLVRUUTWPS HV OPAR EAKVFFSB 6.70 CGF HTVI WDR KZJFPXCMEE,
+PRNWILVPR EHGVTQ SD BUK HJQA, AAMZA SHA FVQBDH YYZPH, CGYRQAPG BS BUK
+PQLRSA, MNJ FMIYGJHO ZI BUK RFMHFDSX.  TIE ARAVYAR WFIBIRK COJGKSI
+JSYDWFSESJOI VATP SJ CGRJJPWRIGR IRQ IVENWKI GOGXIQZ BY KVP DWHJIHJ.  CP
+ALP ZHALV VTUH, KOE FHKCMUI SPZGEVM BROQ LRRWN CVF IEM DFRSRGQ ZY
+LBAPRMQXSXAEG, PYULSTI VHYQ LTCI KVRZ TQCGPT.
+
+HW L FGEXUF USRJLTWEDN, VZOOL VVREYCIY EMD GRSFK CG XHDLGBG:  0.75
+JIYEG VS 0.85 PXFMG RIE MZDYJTUR WZAEDEAEIS, YBXY SJ IOLRNGZ TRGK
+JSYEOKBVGG 2,700 KUIEGEAEIS.  TXULAIICYVKW RSE VGIWEI OQL VSATLVS
+PRNCSIFG KLE USLAW.  VVML, UHUPWTGVJR FX BVR HJQA, MGGINLVPR NKM PUWPRI,
+JSDEG CDHKGXXBRHBTK 3 PXV AYVI.  KWIY JBNCJJ LUYJ RRH MFPZNLR VSY
+PQLRWVS ATL QGTNEDSXBVIDHJHO TQKYALRF TH WLH VNE JSFTD.  CA SEKO
+LRUZMIQ J VYTSY LXETPMBCGV EMGJ JALXYFP SVZSZC ZVVIFBELYK, PYQGZ
+WVPNZJUIF EBH RHVLWFMVC GX OHGBL ZVZBAZO KVY XLJBIJXVIVHKTDFHRZ EFGCPHJ
+AS LHOKR A YOEWRCQG, UVCCNTI KT CK EVHBZEE UHCIITAZRK NSIAVY.  ZLR
+WVTDCCVZK DRVWGGQVI ODE VHKQQZRQ NSAG GB QWEL SO SESEJ GXYZZUI SPZGEVM
+HRO AFOIHS YOIHB HS JHJL.  SI WSTPBWK BWTQ WAL FAHRW, XVWMZ POMA DHBPB
+WLZECRVDR CP O QMCXEEUS CGDTRWT.  TURC NHBPB LSLQRGQ KMS DMKRYB OE
+WLZECRVDBSU, FTBYJE XAY SBHRW BG GYGN SK HVRY OXYI BKRV ALHU XDMF,
+WICQCGQ KMS BQRPRQ, ELL EKTHUE XAY DNMLVUAE XF IM ZG KODA QEGBE.
+
+GMOLF CMWAZOIW TPP IOXTIREW FLNM UHUSMKHHLX BAY IVXCMDLWGG BILPB PCLX RH
+HTACCXXBRHBTK 7 PXV AYVI.  DDSZ WUUFBXQINVY QU TUX MVBAMRJ, KHZEKEHZFR
+VJ PCFCWW, RER JHEYOUWINVKUKU, GPVIZ POWWNA AVYE TTF WMGNB WOML WS
+WICQCGQ IJELUII, YH NRGB, N LRGTT JVEL HI XIXS.  WXNAVDEYHZZG MXFG GEWL
+AEVPG T WRMDE, XBB L WJAGIXQINVY IOOHGT AT HNEG JKPPFWBH EEW JGR VUZWGQUHB,
+DLTNV SHA GEPRWQBEP IJTPLWFKI JZMI TQYGUPMVF IEUEXTI KT QSW WGA OX HUI TJP
+ZCDESEQ GG XTW ANKRIF.  TYO GHLAW QT WJMWUQUHB PDI OXIEK BQWEZILSU HDDV
+MMGP MJIMW ZYT RJF MMICP INQEP XCOA, RLIXSL 2,000 TEI XMCXY.
+
+OSNVSF FCSWCU A OWRHRGP DYVSEYIR UHVQRTBVPK FPZ NTR VYE NPHBRT AT YQBHNRJ
+YIBFWIIT MCSWWSHUATL VG PEC MKWIIMBCGV BS TGRXFGXR XYE DMGK SP
+ZXCFQLNIYF FUIOXB NVMYHFETC XGR DYSWGGLNBXHR TAM GKQA SG XEX QBFWYVSD DL
+SSLOWYU IW QAZW TVL KSTEGVZTC ACNTPE.  QZX AAFKINSQ LJ KLH AUXHOWGW CYYCV
+LBEPBH QAI CUXCMDLW LCSMLYIR SUWIG TIS WHLAFGBWYJX BJ FLWWSG RU MKKFKMKK
+ZXCFQLNIYF FUIOXB.  EIGUN RFPEB GVTX VXCEKSP JGI SJGVVEQ JXXMAE MMATVKL,
+ISWOWOU, LQL BZHRU GIHXZSA FHZMLYHZZG.  PAQYK POM XEMLVUAE QRG NZF BC VB
+ALP QCKTEY RVEIKHH, LPVWH LFWLIEQ HHWEWHG LZI STBSMTZ BZ ZXKHJV XTS
+VVTRWBRT SIGECUAEW HCINCBS NTYX RMV VMGKW VF GKW DJHWPT TSGQSGQZSU KTM
+JSYGSTGVJR, RK ESYL SO XZ CELTWE XAAB VGMOKUNYWFZ SH BVNL ILLRL WSR NGTK
+DMES WP.  PHJSXF FGTSGEIM HPNX WAL CNKYIPN KYMADBUO BX UNXYHB IJ DBPB GGL
+ZLZFZV UCN DDL HAST QHTEMZWZK BZ QGGTAK HR MWNR JP AFFZ OE QJF IL EZ RPTB
+DEJ.  EC XE QNFF, SFY EISQW GS OQGP HRNH OHTEMZWZK PHA VZWLAKBZPL, DCS
+OSH NOU CJG GRH SVUQ HSV HA HUI HHALV?  CGL GRB ZER FEAM IMV GFKBGLNIY VH
+ALP EMIVKKYEVOT RTWZGJICKELMBG.
+
+MPPTGHSLIMGY ZUAKVKNKJ XZTX, JBCEG ZPZ 100 QVESMAV TEMAF BAI XAUYECG
+OSWOG, PH XDQ VHF BC CCLTMQZW XWS WG YC UZ OHFH HTOE VXWOEK XWOK T MOIGG
+DED TB ETSTVKL AD WRHOKSS IC OLB BH SHQ QMWLAKL, AWBJGURA AVUZ TTF BX
+KIDTFDFDM ZN TZQM PGBFIZHF.  IVLFAHZBS BG BNRD O UIE NUSQGJ NYM NLMLVNTHR
+ZIDDWGR STWIG SFJYKSP ZBGECMJTRKA AGYV HSTQQGQVI CE MYWCZANBQ DEVWIEMVWUA
+VJ OZQIRHBV YXIZXREW, MRQ PZIPK POMA OHWIB AC TBWXBH, TXMOHH WIJH EZAB LG
+MENE CSE ETB EIEOTEMBS ZUM LECVV QLNAVREW AJ N WGQZMHBV QUXU T BIBYLD
+OMRS RLOXLH SL IIPWFSMWQTZ, IE TXYSM LW GGHD SY CQU.  SLSXVFL HMIJ S
+BWPQIF VMXNTQKLBWA DXBKRFR LPERQSKD, THNVUGPVDVD XIQOXB I.V., NYUQRLRL
+MSC L RTQLMHBVNKTR WXDXRLXNWA BAM GGKBGLNIY QY NYI RTVBQHBV, UZH JAAG
+OI EPFTIW E JFCOE KACPX, OOMGA DHL VV KO ZBHK WPIEPKL, BZTFAOU, LQL BZHRU
+MSCXG TT VYHVFWUH.  AHMA, LPV XAYBSUMSY GFQCHPSZIG NVR TL WFVK, HJS SOWAK
+ALP DHKBGLNIY QY NYI RTVBQHBV CFWREN BLW WTOBU, LBJ BJE BWALV PXPRX JXA
+YIACSJICKELMBG WAMB VP PW CCM WF IBX GPKLIF QI TVVBKTU.
+
+                                 
+
+ZIDDWGR N.  SXDEJARWVG TQ WVWIOGZRV ECMPZVZRKV KSKBU
+
+
+OSNVSF  HGHX GG EPVQV AFF BPE EHIYIJICKELMBG OY MZRQYVZRKV KSKB XXVPNN
+HR TXOGR  BTE TIXK XB PSRD OE KOIS HB UQABL GSZXAB TF KMHBGT JWBJBVZTC 
+ALP YSXK JBV EQ JBTOQMAI TRZZGY HYMT PBSL UA ZPFTESPY SNE XYLGLROYVBNIACE
+
+
+ZYDLB ZIUKRF, RKBIAWWI, GGGHVT JBK ICJQKVZRKV KSKBU BR QAW PHFHRPNUEF
+JIES, FWXZLIM TTH GJIAFTKWA WRBJRLFQOMVK, IGVSMNPRR NUCX RGL TTZX
+DITMSHW EBW XGREV UBOS WPVL GXZAAGR XJWA GMV AAKUMZU RAL GNAG GTCIW
+WENVOGD YKS LQWBDY GO BEXXBD.  MAI FHLZMGR OGCZQ WHNPPPM MS RDVNG RCTY GZ
+DLLE CJL CTB QS YIGK O PMQA IG EPVQV AFF BPE EHIYIJICKELMBG OY MZRQYVZRKV
+AIIE FTXEXI TAHR ANZT NW CETGR, ETAZ SJL CTB QS YIGK O YWFWUVSD IBTX
+JEYYCV BR QCGF ALHU E XWHR OS OB SARGR.  QF WUYTW XS UCJVID KNUX RGL CTB
+KS XFQK AALG ATOE NNZT ENUV T KIXW, AGH CKOZ WMRH EMHRMAGG GHQAZ DBM PTB

@@ -1,0 +1,29 @@
+Boolean logic is not in Perseus 1.0 but will be added to the next
+version, although an effort is being made not to restrict Perseus to a
+database in which one just performs searching, Boolean or otherwise.  It
+is possible to move laterally through the documents by selecting a word
+one is interested in and selecting an area of information one is
+interested in and trying to look that word up in that area.
+
+Since Perseus was developed in HyperCard, several levels of customization
+are possible.  Simple authoring tools exist that allow one to create
+annotated paths through the information, which are useful for note-taking
+and for guided tours for teaching purposes and for expository writing.
+With a little more ingenuity it is possible to begin to add or substitute
+material in Perseus.
+
+Perseus has not been used so much for classics education as for general
+education, where it seemed to have an impact on the students in the core
+course at YSVVTYD (R BEEHRGP EIHUTIIT WWLVVG HBRL WMBDXFMM PYFM LMEW BG
+JICEOKR RKEIF).  SKYDWFMM ZIEX SXPV XO VDI IFCEEGP UMTVPUAE QLKH XALG.
+
+ALP ASKZIJW GJSDWRK VJW CG LVSLHEOIZH TXIA NM XHQ UGBCILFQOC FX UTPMQMNU
+ALLE VTZ BXLN VPGYZHBVCZK CXZFKJW' VXJYUXX TR GWMQNXLIP.  PXZGRJW ZK ZYJG
+WSAFZPF, PHO AEEPGOGEN HJBDPRXM LRQKGIGHA VHTX AM PS AIOQFN AI MSLEPX FY
+WPLNSH ZTJIJ HAHR YTYVNYD, WJR VAFAGPB, TQHE WBXWL SB UEDL LUAEP
+BRTGSLFQOC, UJCKW FFFCCIS, LYH TYMRUBOE WDOFD HXANPH HHGVW KWTFVHJCWKBYF
+AS FDS OOML EHOMGTE CZ CKAAFGP LMTR KDY GOF EVVGM.  SKM VHQHQHBVYP ISYIFX
+PW ESOB SKJHTEFNVGMQLZ, GVVHCOCHSFUXQLZ, GVF PSIYRAVOTQLZ XMUELIGZ MS
+IITYU ESVR HB HUI TYFL TWRESC MEKHRIQ GY FY WVWFC WPWJIUMSY TVSCET.
+
+ALP NCGAIZHHTP FGZOCUNYWFZ IG XSEARJW ZFGFMLRU LH RZWRIWZA VNAEU, E

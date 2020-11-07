@@ -1,0 +1,24 @@
+describes a file header for image transfer between unlike systems when
+the images are compressed using G3 and G4 compression 2 the category of
+image evaluation, which includes the AIIMproposed TR26 tutorial on image
+resolution this technical report will treat the differences and
+similarities between classical or photographic and electronic imaging
+3 design and conversion, which includes a proposed technical report
+called "Forms Design Optimization for EIM" this report considers how
+generalpurpose business forms can be best designed so that scanning is
+optimized reprographic characteristics such as type, rules, background,
+tint, and color will likewise be treated in the technical report 4
+disk and document scanning applications includes a project a on planning
+platters and disk management, b on generating an application profile for
+EIM when images are stored and distributed on CDROM, and c on
+evaluating SCSI2, and how a common command set can be generated for SCSI2
+so that document scanners are more easily integrated.  ANSIAIIM MS53
+will also apply to compressed images.
+
+                                 
+
+
+BATTIN  The implications of standards for preservation  A major
+obstacle to successful cooperation  A hindrance to access in the digital
+environment  Standards a doubleedged sword for those concerned with the
+preservation of the human record  Nearterm prognosis for reliable

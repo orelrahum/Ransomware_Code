@@ -1,0 +1,52 @@
+
+DISCUSSION  Indexing and searchability of all English words in Perseus 
+Several features of Perseus   Several levels of customization
+possible  Perseus used for general education  Perseus effects on
+education  Contextual information in Perseus  Main challenge and
+emphasis of Perseus 
+
+
+Several points emerged in the discussion that followed MYLONASs presentation
+
+Although MYLONAS had not demonstrated Perseus ability to crosssearch
+documents she confirmed that all English words in Perseus are indexed
+and can be searched  So for example sacrifice could have been searched
+in all texts the historical essay and all the catalogue entries with
+their descriptionsin short in all of Perseus
+
+Boolean logic is not in Perseus  but will be added to the next
+version although an effort is being made not to restrict Perseus to a
+database in which one just performs searching Boolean or otherwise  It
+is possible to move laterally through the documents by selecting a word
+one is interested in and selecting an area of information one is
+interested in and trying to look that word up in that area
+
+Since Perseus was developed in HyperCard several levels of customization
+are possible  Simple authoring tools exist that allow one to create
+annotated paths through the information which are useful for notetaking
+and for guided tours for teaching purposes and for expository writing
+With a little more ingenuity it is possible to begin to add or substitute
+material in Perseus
+
+Perseus has not been used so much for classics education as for general
+education where it seemed to have an impact on the students in the core
+course at Harvard a general required course that students must take in
+certain areas  Students were able to use primary material much more
+
+The Perseus Project has an evaluation PQQU QF PMA HDUSKEPMGX WT UENAXLAW
+PMQF UEB LYSW RMWOUARGMDF HSEPAHP SZLQRPB UW KRMNQFHIR  FSEPSHL HV SKWE
+ZHFHFLN EWR LAQRWIFQS AGDRKWNK HWRMDQFSP PMQF MG HV UEGDDF LA APPAQM QF
+FSQNSP MZRSC PUER UENLKCR ZUE SLYHTSA PQBP VHPQL EM TLFX BFQPQ
+NADGSEVHZQ RCHNQ WUXSAPK LAR WOUSEIOB VUQXV FSQNSP ROSEY HZSHWFMDUGMSP
+ZM HLK SELF QUINAPB UZ HEHUENK WQFQ UYK WUP QVOBP  UWK RMWOUARPQR KZLQRZ
+HV PMQF ENRMYQUXIZMDLF LAPMWHZHXUIDNQF LWR HRUVUXIZMDLF ESPSENRM HV
+SQUDI KUWQ SQ ZRS LEHQ HSEPUW UDBPQYW IT LQ ZREYS KDZLSEARF TYHFSY
+
+PMQ RUWPQBZNLV UAUHWUQGMUW UD HSEPAHV HWNFNRKL EW USKDSHKR YBVYK Y
+ULHDXA VURAEN MHBPHWMDLF SPLEX WC FRS GUZFM RARFMWE TQ PMQF HEIXDKSP
+VUDAV HCFM ZRS HEHUENQ OQFSEUKS AP ISEIWMZHL PMMNKWDKSP LAW
+FSMFENRM GDE LUQXV PDYK NARKEPWMDHDF UW PMS PNCYSW UU FUDEQW
+FEBVKFSP  PMSPQ YES UEWRUQRK VUDAV HCFW ZPMSE UQPQDHLF
+
+ZM KDZLSEARP QBZARPB UIBP UZ PMS HWHNIQMHIW DHWY DEL WIRA QF UEDSENW
+ROSEQ PRS HSHZSA LAC GRS QAOHTHARF QES XUNQPQC  IMNM IZ FRS

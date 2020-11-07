@@ -1,0 +1,36 @@
+focused on office documents, which is what it started out being called
+office document architecture.
+
+                                 
+
+
+CALALUCA  Textencoding from a publishers perspective 
+Responsibilities of a publisher  Reproduction of Mignes Latin series
+whole and complete with SGML tags based on perceived need and expected
+use  Particular decisions arising from the general decision to produce
+and publish PLD 
+
+
+The final speaker in this session, Eric CALALUCA, vice president,
+ChadwyckHealey, Inc., spoke from the perspective of a publisher re
+textencoding, rather than as one qualified to discuss methods of
+encoding data, and observed that the presenters sitting in the room,
+whether they had chosen to or not, were acting as publishers:  making
+choices, gathering data, gathering information, and making assessments.
+CALALUCA offered the hardwon conviction that in publishing very large
+text files such as PLD, one cannot avoid making personal judgments of
+appropriateness and structure.
+
+In CALALUCAs view, encoding decisions stem from prior judgments.  Two
+notions have become axioms for him in the consideration of future sources
+for electronic publication:  1 electronic text publishing is as personal
+as any other kind of publishing, and questions of if and how to encode
+the data are simply a consequence of that prior decision  2 all
+personal decisions are open to criticism, which is unavoidable.
+
+CALALUCA rehearsed his role as a publisher or, better, as an intermediary
+between what is viewed as a sound idea and the people who would make use
+of it.  Finding the specialist to advise in this process is the core of
+that function.  The publisher must monitor and hug the fine line between
+giving users what they want and suggesting what they might need.  One
+responsibility of a publisher is to represent the desires of scholars and

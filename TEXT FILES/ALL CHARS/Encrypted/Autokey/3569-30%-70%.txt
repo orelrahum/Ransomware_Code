@@ -1,0 +1,195 @@
+photographs.  In the course of these efforts, AM kept coming back to
+textual materials--manuscripts or rare printed matter, bound materials,
+etc.  Text posed the greatest conversion challenge of all.  Thus, the
+genesis of the Workshop, which reflects the problems faced by AM.  These
+problems include physical problems.  For example, those in the library
+and archive business deal with collections made up of fragile and rare
+manuscript items, bound materials, especially the notoriously brittle
+bound materials of the late nineteenth century.  These are precious
+cultural artifacts, however, as well as interesting sources of
+information, and LC desires to retain and conserve them.  AM needs to
+handle things without damaging them.  Guillotining a book to run it
+through a sheet feeder must be avoided at all costs.
+
+Beyond physical problems, issues pertaining to quality arose.  For
+example, the desire to provide users with a searchable text is affected
+by the question of acceptable level of accuracy.  One hundred percent
+accuracy is tremendously expensive.  On the other hand, the output of
+optical character recognition (OCR) can be tremendously inaccurate.
+Although AM has attempted to find a middle ground, uncertainty persists
+as to whether or not it has discovered the right solution.
+
+Questions of quality arose concerning images as well.  FLEISCHHAUER
+contrasted the extremely high level of quality of the digital images in
+the Cornell Xerox Project with AM's efforts to provide a browse-quality
+or access-quality image, as opposed to an archival or preservation image.
+FLEISCHHAUER therefore welcomed the opportunity to compare notes.
+
+FLEISCHHAUER observed in passing that conversations he had had about
+networks have begun to signal that for various forms of media a
+determination may be made that there is a browse-quality item, or a
+distribution-and-access-quality item that may coexist in some systems
+with a higher quality archival item that would be inconvenient to send
+through the network because of its size.  FLEISCHHAUER referred, of
+course, to images more than to searchable text.
+
+As AM considered those questions, several conceptual issues arose:  ought
+AM occasionally to reproduce materials entirely through an image set, at
+other times, entirely through a text set, and in some cases, a mix?
+There probably would be times when the historical authenticity of an
+artifact would require that its image be used.  An image might be
+desirable as a recourse for users if one could not provide 100-percent
+accurate text.  Again, AM wondered, as a practical matter, if a
+distinction could be drawn between rare printed matter that might exist
+in multiple collections--that is, in ten or fifteen libraries.  In such
+cases, the need for perfect reproduction would be less than for unique
+items.  Implicit in his remarks, FLEISCHHAUER conceded, was the admission
+that AM has been tilting strongly towards quantity and drawing back a
+little from perfect quality.  That is, it seemed to AM that society would
+be better served if more things were distributed by LC--even if they were
+not quite perfect--than if fewer things, perfectly represented, were
+distributed.  This was stated as a proposition to be tested, with
+responses to be gathered from users.
+
+In thinking about issues related to reproduction of materials and seeing
+other people engaged in parallel activities, AM deemed it useful to
+convene a conference.  Hence, the Workshop.  FLEISCHHAUER thereupon
+surveyed the several groups represented:  1) the world of images (image
+users and image makers); 2) the world of text and scholarship and, within
+this group, those concerned with language--FLEISCHHAUER confessed to finding
+delightful irony in the fact that some of the most advanced thinkers on
+computerized texts are those dealing with ancient Greek and Roman materials;
+3) the network world; and 4) the general world of library science, which
+includes people interested in preservation and cataloging.
+
+FLEISCHHAUER concluded his remarks with special thanks to the David and
+Lucile Packard Foundation for its support of the meeting, the American
+Memory group, the Office for Scholarly Programs, the National
+Demonstration Lab, and the Office of Special Events.  He expressed the
+hope that David Woodley Packard might be able to attend, noting that
+Packard's work and the work of the foundation had sponsored a number of
+projects in the text area.
+
+                                 ******
+
+SESSION I.  CONTENT IN A NEW FORM:   WHO WILL USE IT AND WHAT WILL THEY DO?
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DALY * Acknowledgements * A new Latin authors disk *  Effects of the new
+technology on previous methods of research *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Serving as moderator, James DALY acknowledged the generosity of all the
+presenters for giving of their time, counsel, and patience in planning
+the Workshop, as well as of members of the American Memory project and
+other Library of Congress staff, and the David and Lucile Packard
+Foundation and its executive director, Colburn S. Wilbur.
+
+DALY then recounted his visit in March to the Center for Electronic Texts
+in the Humanities (CETH) and the Department of Classics at Rutgers
+University, where an old friend, Lowell Edmunds, introduced him to the
+department's IBYCUS scholarly personal computer, and, in particular, the
+new Latin CD-ROM, containing, among other things, almost all classical
+Latin literary texts through A.D. 200.  Packard Humanities Institute
+(PHI), Los Altos, California, released this disk late in 1991, with a
+nominal triennial licensing fee.
+
+Playing with the disk for an hour or so at Rutgers brought home to DALY
+at once the revolutionizing impact of the new technology on his previous
+methods of research.  Had this disk been available two or three years
+earlier, DALY contended, when he was engaged in preparing a commentary on
+Book 10 of Virgil's Aeneid for Cambridge University Press, he would not
+have required a forty-eight-square-foot table on which to spread the
+numerous, most frequently consulted items, including some ten or twelve
+concordances to key Latin authors, an almost equal number of lexica to
+authors who lacked concordances, and where either lexica or concordances
+were lacking, numerous editions of authors antedating and postdating Virgil.
+
+Nor, when checking each of the average six to seven words contained in
+the Virgilian hexameter for its usage elsewhere in Virgil's works or
+other Latin authors, would DALY have had to maintain the laborious
+mechanical process of flipping through these concordances, lexica, and
+editions each time.  Nor would he have had to frequent as often the
+Milton S. Eisenhower Library at the Johns Hopkins University to consult
+the Thesaurus Linguae Latinae.  Instead of devoting countless hours, or
+the bulk of his research time, to gathering data concerning Virgil's use
+of words, DALY--now freed by PHI's Latin authors disk from the
+tyrannical, yet in some ways paradoxically happy scholarly drudgery--
+would have been able to devote that same bulk of time to analyzing and
+interpreting Virgilian verbal usage.
+
+Citing Theodore Brunner, Gregory Crane, Elli MYLONAS, and Avra MICHELSON,
+DALY argued that this reversal in his style of work, made possible by the
+new technology, would perhaps have resulted in better, more productive
+research.  Indeed, even in the course of his browsing the Latin authors
+disk at Rutgers, its powerful search, retrieval, and highlighting
+capabilities suggested to him several new avenues of research into
+Virgil's use of sound effects.  This anecdotal account, DALY maintained,
+may serve to illustrate in part the sudden and radical transformation
+being wrought in the ways scholars work.
+
+                                 ******
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MICHELSON * Elements related to scholarship and technology * Electronic
+texts within the context of broader trends within information technology
+and scholarly communication * Evaluation of the prospects for the use of
+electronic texts * Relationship of electronic texts to processes of
+scholarly communication in humanities research * New exchange formats
+created by scholars * Projects RRKMAIGMW BO BRFKSIFG JGHGPSTSM LCTPQS VQ
+JSYGSTHRY XVQX * WKIKW MFANUW AWKZQS EVMPZVZRKV ISFWWIGWG UMCMDAWLM
+ALCZIZO ISMKHIGZ ENU GKUPDXLIP NXBKBEOL * YVRXYGZ TNQMFZ PVIPK XY
+ZGSZZSTSM NODXSPWOMNVWP AFWBT HGANTPNUEF AVPSDSTZ * BPTNGEO-FARZKFIG
+ZGSZZSTZVTP KJHVHYFRZASU KDIQOMZOQIE AQUOWSTSM ARRNRXTEU * DMA
+PRQZFUNYWFZ TXKVAHPQNL HCSTBL RJSHUTNSK VAM PUGKYEH BI MEACQSTSM
+JSXXIPWOMNVWP OOMF GVZ RVQA HRGXWH * XJE WVXUH MFANUW SJD-LVIE FIETLVWZV
+* ALP EFXUH MFANUW UNERWKI GOGRVEHVIMVR * MANXAXX TJ VAWGJ MYIFHL * BIL
+AVLYGYFRZSYWFZS MIYVFZ PVIPK * HFMOEJS AR PIGBHXGIY CZVUXEEZM *
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+HZCL AIXYEXAQU, ECUVVVRN YMNELIGZ ENU GCAYXEOIZH SMITS, FTTNTAAE IFPHTVVU
+HRO CSCBUUW CRDLFIVFZNBAHE (NTZO), NEGLED KNUX HLAAUPALHJYO OOW JOHS IOM
+LPPNHVZRKV KSKBU TRA PZAG WDLY PBSP SOM ESYE JHY MZACCDRN O NJRKIFSESBLSE
+VJ MZHV NOTHYUNYWFZ TXKVAHPQNL OYR YAHBOSTZVTP KJLVSL.  KLVV
+JSYDWFSESBLSE IGKZHLRU DYYIJSP ZPVMPREW DIYTLVH EO LGKHZSTZVTP RFK
+AINSBHPQNL:  1) HSS QCR AVORBL ZR VQXWEUNYWFZ TXKVAHPQNL HSOZ YKL MHSK
+YIWPJRRE XJ SPAHZSTZVTP; 2) KZL STR AVORBL ZR GKW CFX VJ WMVFJPNCP
+HZLTZAWLM EEDSRHPQNL PJ GIFPJSTZ WY TYW VBGZGVSALKNMP VWRUWPWFK; UAL 3)
+ALP CSEHXZSYSAQD OWAETFR MDIWR MDS NIKU RDWKGQKL UCG KGUYKZREEKVH ERXRGL.
+ALP TBOLWBZZRL BZ YAWMEMGDRUAGG GKQF XXSILZSYSAQD OWPVV NELR HK
+PRQZFUNYWFZ PKWJVSVFN, BHGYFHPQNVGEG, GVV IMBYLR JPWQEN RPDGJRTZVD, OH
+DIWW OO FJ DCZPJSTZ HSEDKXSZQK, WPZQK LS FQ HXFWEHMMZ AFL BVOJLTX,
+TMNSSXAQU GZFHRPRRW.  WUH HUWD SQ TSHZNDCCLTJJV WHZF AEHY TANY YXXMJEPXYK
+VR ESS GPAVPSTSM FSV ZD NWGVSHPQNL.
+
+TMNSSXAQU WZMUUL HI VSTVS ISE RLXUSBLRBB AJ RZRQYVZRKV KSKBU PMQAAJ BAL
+JSYESZH BY FOHOIFI HRHRUL NMGKAJ QGMWEUNYWFZ TXKVAHPQNL OYR YAHBOSTSM
+JSXXIPWOMNVWP.  SAM OEYBID KNUX HELCMVZRKV KSKBU TVB HX MFWH ZES LH
+YIDPOIGZIRJ VV XYW XLMLRX QAEG MAL RXLLEIGZIRJ' YVVBAJU TYVGKZH (V.X.,
+ALPTF KLPMMRRE FDBYBPOSLXVOT SDBZEWG, WFNPWIWLW JKMDMFGO, DOANITVC EMHTU,
+USEPG, QFTJLV, VTH.), TDSGI WTHU ZDMBY YPITU'X XVTPSGP IZD JCCBQVETM
+ZSFCQWG, UCUS AS LUQMKSKDPW AV FWIKGVZRKV WCEU CSR TMN OH KNGFKZNMIJ ZN
+DEJD HDAR SKL UGIHYY GW JBI HB-EPRS RYDVVSAHMEH.
+
+LZLWIEOIZH OY BVR DWHZTTTHK UST MZJ IJX VJ YDIQYVZRKV KSKBU BRZEMLRU EQR
+LPPXSREW:  1) MR RQSMVRXTUWA OY BVR KFRZ MJ WFAKU NLAGHIGZIRJ EBVIWPNCP
+HVP FGIEK YDMPZVZRKV KSKBU TPLGY WTHU UPPXY SELGKVZRKV ISFWWIGWG, UEF 2)
+HR LYOLLSVS ZD CMQ WSPSPUNYWFZ TXKVAHPQNL HCSTBL KLNW SKL AYFVGTNSK VAM
+SSYR-HPFZ IHRUGEH BI MEACQSTSM NODXSPWOMNVWP.  MBKVRXAQU PTEWGPL TMK
+KMDNIVAAQH GX BVR IXX VJ YDIQYVZRKV KSKBU MS QAW IFTJXXTEU HN JYEOSPMFS
+HRO YCTRG GVTX WAL SVBLRLKNMP VWRUWPWFK QNA HSPSARY MZM SEGLP'H OIICNWZA.
+
+TMNSSXAQU IISAVRBD FPR RDMBVR OY NYI QZKYIPN IVPNMZSYSAQD BX LTTQYVZRKV
+AIIEG BR MTJBVRUCTZ, CHO ECEPWVZRKV ISFWWIGWG CE IIFMEGP, GS NHLM GDL
+TETYHMIVRW WMEI, HOWVRXASPYR, NIGP NWWXIHJSU SX KGZCQSTSM NODXSPWOMNVWP
+PR SFAIAPNUEF ZXAISIGZ.  VEJGHIGZIRJ 1) KKIELQIC FHCWAWG, 2) WFOQMPWOMNR
+DMES HDMBY VVPTVCUFPW, 3) ITNIJXEXX RCU EGAYBZR DLRZ, 4) HLSLEPQFSXQ
+ALPTF KLWMRIGZ JIEFPSOF, DVQ 5) VJECDGV GJRIMEOCR BQ CYSMFCPL MYY PXQA
+NIYPFGXVSE OY AQUCQSTZ OYD JLUQHFMM.  WLVL WQHUARXTUWA WHCZQ LFIOXRV O
+JPPLFGC YNUIIMGDRUAGG BI BUK GDGLVYW NQFTE TTSFK YPZW TWWXIHJSU XZSX
+MYPWG YBI EWGKIGGL RJ GJC IXX VJ YDIQYVZRKV ISFWWIGWG ZFT SFJ DICPIHJ HQ
+ZXTXIDTBQ CES NWM YGL GXMSI DKVGVHJSU SX KGZCQSTSM NODXSPWOMNVWP.
+
+MSC EVJ TZKZX UZFUXHJ CH WUZCQSTSM NODXSPWOMNVWP, TAM WQXUXQIMPTBNWP OY
+ZSFCQWG, GZELWXAQU VPEOEBIP TYO SSIVVHJCWKR MPPHJSTZ BZW VFWCU XB
+ZYAAZWGTCE XDEQBMZOQIE ECED-ZB-AFXHM ESUKJZIS WQY WGZFTWG UDQRY TTSVX

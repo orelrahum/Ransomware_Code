@@ -1,0 +1,331 @@
+     Computer Science Research
+     Bell Communications Research, Inc.
+     Rm 2A-385
+     445 South Street
+     Morristown, NJ 07960-l9l0
+     Phone:  (201) 829-4070
+     Fax:  (201) 829-5981
+     E-mail:  lesk@bellcore.com (Internet) or bellcore!lesk (uucp)
+
+     Clifford A. Lynch
+     Director, Library Automation
+     University of California,
+        Office of the President
+     300 Lakeside Drive, 8th Floor
+     Oakland, CA 94612-3350
+     Phone:  (510) 987-0522
+     Fax:  (510) 839-3573
+     E-mail:  calur@uccmvsa
+
+     Avra Michelson
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th & Pennsylvania, N.W.
+     Washington, D.C. 20408
+     Phone:  (202) 501-5544
+     Fax:  (202) 501-5533
+     E-mail:  tmi@cu.nih.gov
+
+     Elli Mylonas, Managing Editor
+     Perseus Project
+     Department of the Classics
+     Harvard University
+     319 Boylston Hall
+     Cambridge, MA 02138
+     Phone:  (617) 495-9025, (617) 495-0456 (direct)
+     Fax:  (617) 496-8886
+     E-mail:  Elli@IKAROS.Harvard.EDU or elli@wjh12.harvard.edu
+
+     David Woodley Packard
+     Packard Humanities Institute
+     300 Second Street, Suite 201
+     Los Altos, CA 94002
+     Phone:  (415) 948-0150 (PHI)
+     Fax:  (415) 948-5793
+
+     Lynne K. Personius, Assistant Director
+     Cornell Information Technologies for
+      Scholarly Information Sources
+     502 Olin Library
+     Cornell University
+     Ithaca, NY 14853
+     Phone:  (607) 255-3393
+     Fax:  (607) 255-9346
+     E-mail:  JRN@CORNELLC.BITNET
+
+     Marybeth Peters
+     Policy Planning Adviser to the
+       Register of Copyrights
+     Library of Congress
+     Office LM 403
+     Phone:  (202) 707-8350
+     Fax:  (202) 707-8366
+
+     C. Michael Sperberg-McQueen
+     Editor, Text Encoding Initiative
+     Computer Center (M/C 135)
+     University of Illinois at Chicago
+     Box 6998
+     Chicago, IL 60680
+     Phone:  (312) 413-0317
+     Fax:  (312) 996-6834
+     E-mail:  u35395@uicvm..cc.uic.edu or u35395@uicvm.bitnet
+
+     George R. Thoma, Chief
+     Communications Engineering Branch
+     National Library of Medicine
+     8600 Rockville Pike
+     Bethesda, MD 20894
+     Phone:  (301) 496-4496
+     Fax:  (301) 402-0341
+     E-mail:  thoma@lhc.nlm.nih.gov
+
+     Dorothy Twohig, Editor
+     The Papers of George Washington
+     504 Alderman Library
+     University of Virginia
+     Charlottesville, VA 22903-2498
+     Phone:  (804) 924-0523
+     Fax:  (804) 924-4337
+
+     Susan H. Veccia, Team leader
+     American Memory, User Evaluation
+     Library of Congress
+     American Memory Evaluation Project
+     Phone:  (202) 707-9104
+     Fax:  (202) 707-3764
+     E-mail:  svec@seq1.loc.gov
+
+     Donald J. Waters, Head
+     Systems Office
+     Yale University Library
+     New Haven, CT 06520
+     Phone:  (203) 432-4889
+     Fax:  (203) 432-7231
+     E-mail:  DWATERS@YALEVM.BITNET or DWATERS@YALEVM.YCC.YALE.EDU
+
+     Stuart Weibel, Senior Research Scientist
+     OCLC
+     6565 Frantz Road
+     Dublin, OH 43017
+     Phone:  (614) 764-608l
+     Fax:  (614) 764-2344
+     E-mail:  INTERNET:  Stu@rsch.oclc.org
+
+     Robert G. Zich
+     Special Assistant to the Associate Librarian
+       for Special Projects
+     Library of Congress
+     Phone:  (202) 707-6233
+     Fax:  (202) 707-3764
+     E-mail:  rzic@seq1.loc.gov
+
+     Judith A. Zidar, Coordinator
+     National Agricultural Text Digitizing Program
+     Information Systems Division
+     National Agricultural Library
+     10301 Baltimore Boulevard
+     Beltsville, MD 20705-2351
+     Phone:  (301) 504-6813 or 504-5853
+     Fax:  (301) 504-7473
+     E-mail:  INTERNET:  JZIDAR@ASRR.ARSUSDA.GOV
+
+
+OBSERVERS:
+
+     Helen Aguera, Program Officer
+     Division of Research
+     Room 318
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, D.C. 20506
+     Phone:  (202) 786-0358
+     Fax:  (202) 786-0243
+
+     M. Ellyn Blanton, Deputy Director
+     National Demonstration Laboratory
+       for Interactive Information Technologies
+     Library of Congress
+     Phone:  (202) 707-4157
+     Fax:  (202) 707-2829
+
+     Charles M. Dollar
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th & Pennsylvania, N.W.
+     Washington, DC 20408
+     Phone:  (202) 501-5532
+     Fax:  (202) 501-5512
+
+     Jeffrey Field, Deputy to the Director
+     Division of Preservation and Access
+     Room 802
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, DC 20506
+     Phone:  (202) 786-0570
+     Fax:  (202) 786-0243
+
+     Lorrin Garson
+     American Chemical Society
+     Research and Development Department
+     1155 16th Street, N.W.
+     Washington, D.C. 20036
+     Phone:  (202) 872-4541
+     Fax:  E-mail:  INTERNET:  LRG96@ACS.ORG
+
+     William M. Holmes, Jr.
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th & Pennsylvania, N.W.
+     Washington, DC 20408
+     Phone:  (202) 501-5540
+     Fax:  (202) 501-5512
+     E-mail:  WHOLMES@AMERICAN.EDU
+
+     Sperling Martin
+     Information Resource Management
+     20030 Doolittle Street
+     Gaithersburg, MD 20879
+     Phone:  (301) 924-1803
+
+     Michael Neuman, Director
+     The Center for Text and Technology
+     Academic Computing Center
+     238 Reiss Science Building
+     Georgetown University
+     Washington, DC 20057
+     Phone:  (202) 687-6096
+     Fax:  (202) 687-6003
+     E-mail:  neuman@guvax.bitnet, neuman@guvax.georgetown.edu
+
+     Barbara Paulson, Program Officer
+     Division of Preservation and Access
+     Room 802
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, DC 20506
+     Phone:  (202) 786-0577
+     Fax:  (202) 786-0243
+
+     Allen H. Renear
+     Senior Academic Planning Analyst
+     Brown University Computing and Information Services
+     115 Waterman Street
+     Campus Box 1885
+     Providence, R.I. 02912
+     Phone:  (401) 863-7312
+     Fax:  (401) 863-7329
+     E-mail:  BITNET:  Allen@BROWNVM or
+     INTERNET:  Allen@brownvm.brown.edu
+
+     Susan M. Severtson, President
+     Chadwyck-Healey, Inc.
+     1101 King Street
+     Alexandria, VA 223l4
+     Phone:  (800) 752-05l5
+     Fax:  (703) 683-7589
+
+     Frank Withrow
+     U.S. Department of Education
+     555 New Jersey Avenue, N.W.
+     Washington, DC 20208-5644
+     Phone:  (202) 219-2200
+     Fax:  (202) 219-2106
+
+
+(LC STAFF)
+
+     Linda L. Arret
+     Machine-Readable Collections Reading Room LJ 132
+     (202) 707-1490
+
+     John D. Byrum, Jr.
+     Descriptive Cataloging Division LM 540
+     (202) 707-5194
+
+     Mary Jane Cavallo
+     Science and Technology Division LA 5210
+     (202) 707-1219
+
+     Susan Thea David
+     Congressional Research Service LM 226
+     (202) 707-7169
+
+     Robert Dierker
+     Senior Adviser for Multimedia Activities LM 608
+     (202) 707-6151
+
+     William W. Ellis
+     Associate Librarian for Science and Technology LM 611
+     (202) 707-6928
+
+     Ronald Gephart
+     Manuscript Division LM 102
+     (202) 707-5097
+
+     James Graber
+     Information Technology Services LM G51
+     (202) 707-9628
+
+     Rich Greenfield
+     American Memory LM 603
+     (202) 707-6233
+
+     Rebecca Guenther
+     Network Development LM 639
+     (202) 707-5092
+
+     Kenneth E. Harris
+     Preservation LM G21
+     (202) 707-5213
+
+     Staley Hitchcock
+     Manuscript Division LM 102
+     (202) 707-5383
+
+     Bohdan Kantor
+     Office of Special Projects LM 612
+     (202) 707-0180
+
+     John W. Kimball, Jr
+     Machine-Readable Collections Reading Room LJ 132
+     (202) 707-6560
+
+     Basil Manns
+     Information Technology Services LM G51
+     (202) 707-8345
+
+     Sally Hart McCallum
+     Network Development LM 639
+     (202) 707-6237
+
+     Dana J. Pratt
+     Publishing Office LM 602
+     (202) 707-6027
+
+     Jane Riefenhauser
+     American Memory LM 603
+     (202) 707-6233
+
+     William Z. Schenck
+     Collections Development LM 650
+     (202) 707-7706
+
+     Chandru J. Shahani
+     Preservation Research and Testing Office (R&T) LM G38
+     (202) 707-5607
+
+     William J. Sittig
+     Collections Development LM 650
+     (202) 707-7050
+
+     Paul Smith
+     Manuscript Division LM 102
+     (202) 707-5097
+
+     James L. Stevens
+     Information Technology Services LM G51
+     (202) 707-9688
+
+     Karen Stuart

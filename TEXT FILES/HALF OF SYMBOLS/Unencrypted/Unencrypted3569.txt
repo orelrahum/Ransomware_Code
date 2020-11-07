@@ -1,0 +1,10 @@
+
+The electronic library has been a vision desired by manyand rejected by
+somesince Vannevar Bush coined the term memex to describe an automated,
+intelligent, personal information system.  Variations on this vision have
+included Ted Nelsons Xanadau, Alan Kays Dynabook, and Lancasters
+"paperless library," with the most recent incarnation being the
+"Knowledge Navigator" described by John Scully of Apple.  But the reality
+of library service has been less visionary and the leap to the electronic
+library has eluded universities, publishers, and information technology
+files.

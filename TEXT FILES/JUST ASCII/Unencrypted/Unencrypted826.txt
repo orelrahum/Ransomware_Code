@@ -1,0 +1,795 @@
+in creating   machinereadable versions of dictionaries that can be
+initially tagged in SGML which gives a structure to the dictionary entry
+these entries can then be converted into a more rigid or otherwise
+different database structure inside the computer which can be treated as
+a dynamic tool for searching mechanisms  large bodies of text to study
+the language  In order to incorporate more sophisticated mechanisms
+more about how words behave needs to be known which can be learned in
+part from information in dictionaries  However the last ten years have
+seen much interest in studying the structure of printed dictionaries
+converted into computerreadable form  The information one derives about
+many words from those is only partial one or two definitions of the
+common or the usual meaning of a word and then numerous definitions of
+unusual usages  If the computer is using a dictionary to help retrieve
+words in a text it needs much more information about the common usages
+because those are the ones that occur over and over again  Hence the
+current interest in developing large bodies of text in computerreadable
+form in order to study the language  Several projects are engaged in
+compiling for example  million words HOCKEY described one with
+which she was associated briefly at Oxford University involving
+compilation of  million words of British English  about  percent of
+that will contain detailed linguistic tagging encoded in SGML it will
+have word class taggings with words identified as nouns verbs
+adjectives or other parts of speech  This tagging can then be used by
+programs which will begin to learn a bit more about the structure of the
+language and then can go to tag more text
+
+HOCKEY said that the more that is tagged accurately the more one can
+refine the tagging process and thus the bigger body of text one can build
+up with linguistic tagging incorporated into it  Hence the more tagging
+or annotation there is in the text the more one may begin to learn about
+language and the more it will help accomplish more intelligent OCR  She
+recommended the development of software tools that will help one begin to
+understand more about a text which can then be applied to scanning
+images of that text in that format and to using more intelligence to help
+one interpret or understand the text
+
+HOCKEY posited the need to think about common methods of textencoding
+for a long time to come because building these large bodies of text is
+extremely expensive and will only be done once
+
+In the more general discussion on approaches to encoding that followed
+these points were made
+
+BESSER identified the underlying problem with standards that all have to
+struggle with in adopting a standard namely the tension between a very
+highly defined standard that is very interchangeable but does not work
+for everyone because something is lacking and a standard that is less
+defined more open more adaptable but less interchangeable  Contending
+that the way in which people use SGML is not sufficiently defined BESSER
+wondered  if people resist the TEI because they think it is too defined
+in certain things they do not fit into and  how progress with
+interchangeability can be made without frightening people away
+
+SPERBERGMcQUEEN replied that the published drafts of the TEI had met
+with surprisingly little objection on the grounds that they do not allow
+one to handle X or Y or Z  Particular concerns of the affiliated
+projects have led in practice to discussions of how extensions are to
+be made the primary concern of any project has to be how it can be
+represented locally thus making interchange secondary  The TEI has
+received much criticism based on the notion that everything in it is
+required or even recommended which as it happens is a misconception
+from the beginning   because none of it is required and very little is
+actually actively recommended for all cases except that one document
+ones source
+
+SPERBERGMcQUEEN agreed with BESSER about this tradeoff  all the
+projects in a set of twenty TEIconformant projects will not necessarily
+tag the material in the same way  One result of the TEI will be that the
+easiest problems will be solvedthose dealing with the external form of
+the information but the problem that is hardest in interchange is that
+one is not encoding what another wants and vice versa  Thus after
+the adoption of a common notation the differences in the underlying
+conceptions of what is interesting about texts become more visible
+The success of a standard like the TEI will lie in the ability of
+the recipient of interchanged texts to use some of what it contains
+and to add the information that was not encoded that one wants in a
+layered way so that texts can be gradually enriched and one does not
+have to put in everything all at once  Hence having a wellbehaved
+markup scheme is important
+
+STEVENS followed up on the paradoxical analogy that BESSER alluded to in
+the example of the MARC records namely the formats that are the same
+except that they are different  STEVENS drew a parallel between
+documenttype definitions and MARC records for books and serials and maps
+where one has a tagging structure and there is a textinterchange
+STEVENS opined that the producers of the information will set the terms
+for the standard ie develop documenttype definitions for the users
+of their products creating a situation that will be problematical for
+an institution like the Library of Congress which will have to deal with
+the DTDs in the event that a multiplicity of them develops  Thus
+numerous people are seeking a standard but cannot find the tag set that
+will be acceptable to them and their clients  SPERBERGMcQUEEN agreed
+with this view and said that the situation was in a way worse  attempting
+to unify arbitrary DTDs resembled attempting to unify a MARC record with a
+bibliographic record done according to the Prussian instructions
+According to STEVENS this situation occurred very early in the process
+
+WATERS recalled from early discussions on Project Open Book the concern
+of many people that merely by producing images POB was not really
+enhancing intellectual access to the material  Nevertheless not wishing
+to overemphasize the opposition between imaging and full text WATERS
+stated that POB views getting the images as a first step toward possibly
+converting to full text through character recognition if the technology
+is appropriate  WATERS also emphasized that encoding is involved even
+with a set of images
+
+SPERBERGMcQUEEN agreed with WATERS that one can create an SGML document
+consisting wholly of images  At first sight organizing graphic images
+with an SGML document may not seem to offer great advantages but the
+advantages of the scheme WATERS described would be precisely that
+ability to move into something that is more of a multimedia document
+a combination of transcribed text and page images  WEIBEL concurred in
+this judgment offering evidence from Project ADAPT where a page is
+divided into text elements and graphic elements and in fact the text
+elements are organized by columns and lines  These lines may be used as
+the basis for distributing documents in a network environment  As one
+develops software intelligent enough to recognize what those elements
+are it makes sense to apply SGML to an image initially that may in
+fact ultimately become more and more text either through OCR or edited
+OCR or even just through keying  For WATERS the labor of composing the
+document and saying this set of documents or this set of images belongs
+to this document constitutes a significant investment
+
+WEIBEL also made the point that the AAP tag sets while not excessively
+prescriptive offer a common starting point they do not define the
+structure of the documents though  They have some recommendations about
+DTDs one could use as examples but they do just suggest tag sets   For
+example the CORE project attempts to use the AAP markup as much as
+possible but there are clearly areas where structure must be added
+That in no way contradicts the use of AAP tag sets
+
+SPERBERGMcQUEEN noted that the TEI prepared a long working paper early
+on about the AAP tag set and what it lacked that the TEI thought it
+needed and a fairly long critique of the naming conventions which has
+led to a very different style of naming in the TEI  He stressed the
+importance of the opposition between prescriptive markup the kind that a
+publisher or anybody can do when producing documents de novo and
+descriptive markup in which one has to take what the text carrier
+provides  In these particular tag sets it is easy to overemphasize this
+opposition because the AAP tag set is extremely flexible  Even if one
+just used the DTDs they allow almost anything to appear almost anywhere
+
+                                 
+
+SESSION VI  COPYRIGHT ISSUES
+
+
+PETERS  Several cautions concerning copyright in an electronic
+environment  Review of copyright law in the United States  The notion
+of the public good and the desirability of incentives to promote it 
+What copyright protects  Works not protected by copyright  The rights
+of copyright holders  Publishers concerns in todays electronic
+environment  Compulsory licenses  The price of copyright in a digital
+medium and the need for cooperation  Additional clarifications   Rough
+justice oftentimes the outcome in numerous copyright matters  Copyright
+in an electronic society  Copyright law always only sets up the
+boundaries anything can be changed by contract 
+
+
+Marybeth PETERS policy planning adviser to the Register of Copyrights
+Library of Congress   made several general comments and then opened the
+floor to discussion of subjects of interest to the audience
+
+Having attended several sessions in an effort to gain a sense of what
+people did and where copyright would affect their lives PETERS expressed
+the following cautions
+
+      If one takes and converts materials and puts them in new forms
+     then from a copyright point of view one is creating something and
+     will receive some rights
+
+      However if what one is converting already exists a question
+     immediately arises about the status of the materials in question
+
+      Putting something in the public domain in the United States offers
+     some freedom from anxiety but distributing it throughout the world
+     on a network is another matter even if one has put it in the public
+     domain in the United States  Re foreign laws very frequently a
+     work can be in the public domain in the United States but protected
+     in other countries  Thus one must consider all of the places a
+     work may reach lest one unwittingly become liable to being faced
+     with a suit for copyright infringement or at least a letter
+     demanding discussion of what one is doing
+
+PETERS reviewed copyright law in the United States  The US
+Constitution effectively states that Congress has the power to enact
+copyright laws for two purposes   to encourage the creation and
+dissemination of intellectual works for the good of society as a whole
+and significantly  to give creators and those who package and
+disseminate materials the economic rewards that are due them
+
+Congress strives to strike a balance which at times can become an
+emotional issue  The United States has never accepted the notion of the
+natural right of an author so much as it has accepted the notion of the
+public good and the desirability of incentives to promote it  This state
+of affairs however has created strains on the international level and
+is the reason for several of the differences in the laws that we have
+Today the United States protects almost every kind of work that can be
+called an expression of an author  The standard for gaining copyright
+protection is simply originality  This is a low standard and means that
+a work is not copied from something else as well as shows a certain
+minimal amount of authorship  One can also acquire copyright protection
+for making a new version of preexisting material provided it manifests
+some spark of creativity
+
+However copyright does not protect ideas methods systemsonly the way
+that one expresses those things  Nor does copyright protect anything
+that is mechanical anything that does not involve choice or criteria
+concerning whether or not one should do a thing  For example the
+results of a process called declicking in which one mechanically removes
+impure sounds from old recordings are not copyrightable  On the other
+hand the choice to record a song digitally and to increase the sound of
+violins or to bring up the tympani constitutes the results of conversion
+that are copyrightable  Moreover if a work is protected by copyright in
+the United States one generally needs the permission of the copyright
+owner to convert it  Normally who will own the newthat is converted
+material is a matter of contract  In the absence of a contract the
+person who creates the new material is the author and owner  But people
+do not generally think about the copyright implications until after the
+fact  PETERS stressed the need when dealing with copyrighted works to
+think about copyright in advance  Ones bargaining power is much greater
+up front than it is down the road
+
+PETERS next discussed works not protected by copyright for example any
+work done by a federal employee as part of his or her official duties is
+in the public domain in the United States  The issue is not wholly free
+of doubt concerning whether or not the work is in the public domain
+outside the United States  Other materials in the public domain include
+any works published more than seventyfive years ago and any work
+published in the United States more than twentyeight years ago whose
+copyright was not renewed  In talking about the new technology and
+putting material in a digital form to send all over the world PETERS
+cautioned one must keep in mind that while the rights may not be an
+issue in the United States they may be in different parts of the world
+where most countries previously employed a copyright term of the life of
+the author plus fifty years
+
+PETERS next reviewed the economics of copyright holding  Simply
+economic rights are the rights to control the reproduction of a work in
+any form  They belong to the author or in the case of a work made for
+hire the employer  The second right which is critical to conversion
+is the right to change a work  The right to make new versions is perhaps
+one of the most significant rights of authors particularly in an
+electronic world  The third right is the right to publish the work and
+the right to disseminate it something that everyone who deals in an
+electronic medium needs to know  The basic rule is if a copy is sold
+all rights of distribution are extinguished with the sale of that copy
+The key is that it must be sold  A number of companies overcome this
+obstacle by leasing or renting their product  These companies argue that
+if the material is rented or leased and not sold they control the uses
+of a work  The fourth right and one very important in a digital world
+is a right of public performance which means the right to show the work
+sequentially  For example copyright owners control the showing of a
+CDROM product in a public place such as a public library  The reverse
+side of public performance is something called the right of public
+display  Moral rights also exist which at the federal level apply only
+to very limited visual works of art but in theory may apply under
+contract and other principles  Moral rights may include the right of an
+author to have his or her name on a work the right of attribution and
+the right to object to distortion or mutilationthe right of integrity
+
+The way copyright law is worded gives much latitude to activities such as
+preservation to use of material for scholarly and research purposes when
+the user does not make multiple copies and to the generation of
+facsimile copies of unpublished works by libraries for themselves and
+other libraries  But the law does not allow anyone to become the
+distributor of the product for the entire world  In todays electronic
+environment publishers are extremely concerned that the entire world is
+networked and can obtain the information desired from a single copy in a
+single library  Hence if there is to be only one sale which publishers
+may choose to live with they will obtain their money in other ways for
+example from access and use  Hence the development of site licenses
+and other kinds of agreements to cover what publishers believe they
+should be compensated for  Any solution that the United States takes
+today has to consider the international arena
+
+Noting that the United States is a member of the Berne Convention and
+subscribes to its provisions PETERS described the permissions process
+She also defined compulsory licenses  A compulsory license of which the
+United States has had a few builds into the law the right to use a work
+subject to certain terms and conditions  In the international arena
+however the ability to use compulsory licenses is extremely limited
+Thus clearinghouses and other collectives comprise one option that has
+succeeded in providing for use of a work  Often overlooked when one
+begins to use copyrighted material and put products together is how
+expensive the permissions process and managing it is  According to
+PETERS the price of copyright in a digital medium whatever solution is
+worked out will include managing and assembling the database  She
+strongly recommended that publishers and librarians or people with
+various backgrounds cooperate to work out administratively feasible
+systems in order to produce better results
+
+In the lengthy questionandanswer period that followed PETERSs
+presentation the following points emerged
+
+      The Copyright Office maintains that anything mechanical and
+     totally exhaustive probably is not protected  In the event that
+     what an individual did in developing potentially copyrightable
+     material is not understood the Copyright Office will ask about the
+     creative choices the applicant chose to make or not to make  As a
+     practical matter if one believes she or he has made enough of those
+     choices that person has a right to assert a copyright and someone
+     else must assert that the work is not copyrightable  The more
+     mechanical the more automatic a thing is the less likely it is to
+     be copyrightable
+
+      Nearly all photographs are deemed to be copyrightable but no one
+     worries about them much because everyone is free to take the same
+     image  Thus a photographic copyright represents what is called a
+     "thin" copyright  The photograph itself must be duplicated in
+     order for copyright to be violated
+
+      The Copyright Office takes the position that Xrays are not
+     copyrightable because they are mechanical  It  can be argued
+     whether or not image enhancement in scanning can be protected  One
+     must exercise care with material created with public funds and
+     generally in the public domain  An article written by a federal
+     employee if written as part of official duties is not
+     copyrightable  However control over a scientific article written
+     by a National Institutes of Health grantee ie someone who
+     receives money from the US government depends on NIH policy  If
+     the government agency has no policy and that policy can be
+     contained in its regulations the contract or the grant the
+     author retains copyright  If a provision of the contract grant or
+     regulation states that there will be no copyright then it does not
+     exist  When a work is created copyright automatically comes into
+     existence unless something exists that says it does not
+
+      An enhanced electronic copy of a print copy of an older reference
+     work in the public domain that does not contain copyrightable new
+     material is a purely mechanical rendition of the original work and
+     is not copyrightable
+
+      Usually when a work enters the public domain nothing can remove
+     it  For example Congress recently passed into law the concept of
+     automatic renewal which means that copyright on any work published
+     between l and l does not have to be renewed in order to
+     receive a seventyfiveyear term  But any work not renewed before
+      is in the public domain
+
+      Concerning whether or not the United States keeps track of when
+     authors die nothing was ever done nor is anything being done at
+     the moment by the Copyright Office
+
+      Software that drives a mechanical process is itself copyrightable
+     If one changes platforms the software itself has a copyright  The
+     World Intellectual Property Organization will hold a symposium 
+     March through  April l at Harvard University on digital
+     technology and will study this entire issue  If one purchases a
+     computer software package such as MacPaint and creates something
+     new one receives protection only for that which has been added
+
+PETERS added that often in copyright matters rough justice is the
+outcome for example in collective licensing ASCAP ie American
+Society of Composers Authors and Publishers and BMI ie Broadcast
+Music Inc where it may seem that the big guys receive more than their
+due  Of course people ought not to copy a creative product without
+paying for it there should be some compensation  But the truth of the
+world and it is not a great truth is that the big guy gets played on
+the radio more frequently than the little guy who has to do much more
+until he becomes a big guy  That is true of every author every
+composer everyone and unfortunately is part of life
+
+Copyright always originates with the author except in cases of works
+made for hire  Most software falls into this category  When an author
+sends his article to a journal he has not relinquished copyright though
+he retains the right to relinquish it  The author receives absolutely
+everything  The less prominent the author the more leverage the
+publisher will have in contract negotiations  In order to transfer the
+rights the author must sign an agreement giving them away
+
+In an electronic society it is important to be able to license a writer
+and work out deals  With regard to use of a work it usually is much
+easier when a publisher holds the rights  In an electronic era a real
+problem arises when one is digitizing and making information available
+PETERS referred again to electronic licensing clearinghouses  Copyright
+ought to remain with the author but as one moves forward globally in the
+electronic arena a middleman who can handle the various rights becomes
+increasingly necessary
+
+The notion of copyright law is that it resides with the individual but
+in an online environment where a work can be adapted and tinkered with
+by many individuals there is concern  If changes are authorized and
+there is no agreement to the contrary the person who changes a work owns
+the changes  To put it another way the person who acquires permission
+to change a work technically will become the author and the owner unless
+some agreement to the contrary has been made  It is typical for the
+original publisher to try to control all of the versions and all of the
+uses  Copyright law always only sets up the boundaries  Anything can be
+changed by contract
+
+                                 
+
+SESSION VII  CONCLUSION
+
+
+GENERAL DISCUSSION  Two questions for discussion  Different emphases in
+the Workshop  Bringing the text and image partisans together 
+Desiderata in planning the longterm development of something  Questions
+surrounding the issue of electronic deposit  Discussion of electronic
+deposit as an allusion to the issue of standards  Need for a directory
+of preservation projects in digital form and for access to their
+digitized files  CETHs catalogue of machinereadable texts in the
+humanities  What constitutes a publication in the electronic world? 
+Need for LC to deal with the concept of online publishing  LCs Network
+Development Office  exploring the limits of MARC as a standard in terms
+of handling electronic information  Magnitude of the problem and the
+need for distributed responsibility in order to maintain and store
+electronic information  Workshop participants to be viewed as a starting
+point  Development of a network version of AM urged  A step toward AMs
+construction of some sort of apparatus for network access  A delicate
+and agonizing policy question for LC  Re the issue of electronic
+deposit LC urged to initiate a catalytic process in terms of distributed
+responsibility  Suggestions for cooperative ventures  Commercial
+publishers fears  Strategic questions for getting the image and text
+people to think through longterm cooperation  Clarification of the
+driving force behind both the Perseus and the Cornell Xerox projects 
+
+
+In his role as moderator of the concluding session GIFFORD raised two
+questions he believed would benefit from discussion   Are there enough
+commonalities among those of us that have been here for two days so that
+we can see courses of action that should be taken in the future?  And if
+so what are they and who might take them?   Partly derivative from
+that but obviously very dangerous to LC as host do you see a role for
+the Library of Congress in all this?  Of course the Library of Congress
+holds a rather special status in a number of these matters because it is
+not perceived as a player with an economic stake in them but are there
+roles that LC can play that can help advance us toward where we are heading?
+
+Describing himself as an uninformed observer of the technicalities of the
+last two days GIFFORD detected three different emphases in the Workshop
+ people who are very deeply committed to text  people who are almost
+passionate about images and  a few people who are very committed to
+what happens to the networks  In other words the new networking
+dimension the accessibility of the processability the portability of
+all this across the networks  How do we pull those three together?
+
+Adding a question that reflected HOCKEYs comment that this was the
+fourth workshop she had attended in the previous thirty days FLEISCHHAUER
+wondered to what extent this meeting had reinvented the wheel or if it
+had contributed anything in the way of bringing together a different group
+of people from those who normally appear on the workshop circuit
+
+HOCKEY confessed to being struck at this meeting and the one the
+Electronic Pierce Consortium organized the previous week that this was a
+coming together of people working on texts and not images  Attempting to
+bring the two together is something we ought to be thinking about for the
+future  How one can think about working with image material to begin
+with but structuring it and digitizing it in such a way that at a later
+stage it can be interpreted into text and find a common way of building
+text and images together so that they can be used jointly in the future
+with the network support to begin there because that is how people will
+want to access it
+
+In planning the longterm development of something which is what is
+being done in electronic text HOCKEY stressed the importance not only
+of discussing the technical aspects of how one does it but particularly
+of thinking about what the people who use the stuff will want to do
+But conversely there are numerous things that people start to do with
+electronic text or material that nobody ever thought of in the beginning
+
+LESK in response to the question concerning the role of the Library of
+Congress remarked the often suggested desideratum of having electronic
+deposit  Since everything is now computertypeset an entire decade of
+material that was machinereadable exists but the publishers frequently
+did not save it has LC taken any action to have its copyright deposit
+operation start collecting these machinereadable versions?  In the
+absence of PETERS GIFFORD replied that the question was being
+actively considered but that that was only one dimension of the problem
+Another dimension is the whole question of the integrity of the original
+electronic document  It becomes highly important in science to prove
+authorship  How will that be done?
+
+ERWAY explained that under the old policy to make a claim for a
+copyright for works that were published in electronic form including
+software one had to submit a paper copy of the first and last twenty
+pages of codesomething that represented the work but did not include
+the entire work itself and had little value to anyone  As a temporary
+measure LC has claimed the right to demand electronic versions of
+electronic publications  This measure entails a proactive role for the
+Library to say that it wants a particular electronic version  Publishers
+then have perhaps a year to submit it  But the real problem for LC is
+what to do with all this material in all these different formats  Will
+the Library mount it?  How will it give people access to it?  How does LC
+keep track of the appropriate computers software and media?  The situation
+is so hard to control ERWAY said that it makes sense for each publishing
+house to maintain its own archive  But LC cannot enforce that either
+
+GIFFORD acknowledged LESKs suggestion that establishing a priority
+offered the solution albeit a fairly complicated one  But who maintains
+that register? he asked  GRABER noted that LC does attempt to collect a
+Macintosh version and the IBMcompatible version of software  It does
+not collect other versions  But while true for software BYRUM observed
+this reply does not speak to materials that is all the materials that
+were published that were on somebodys microcomputer or driver tapes
+at a publishing office across the country  LC does well to acquire
+specific machinereadable products selectively that were intended to be
+machinereadable  Materials that were in machinereadable form at one time
+BYRUM said would be beyond LCs capability at the moment insofar as
+attempting to acquire organize and preserve them are concernedand
+preservation would be the most important consideration  In this
+connection GIFFORD reiterated the need to work out some sense of
+distributive responsibility for a number of these issues which
+inevitably will require significant cooperation and discussion
+Nobody can do it all
+
+LESK suggested that some publishers may look with favor on LC beginning
+to serve as a depository of tapes in an electronic manuscript standard
+Publishers may view this as a service that they did not have to perform
+and they might send in tapes  However SPERBERGMcQUEEN countered
+although publishers have had equivalent services available to them for a
+long time the electronic text archive has never turned away or been
+flooded with tapes and is forever sending feedback to the depositor
+Some publishers do send in tapes
+
+ANDRE viewed this discussion as an allusion to the issue of standards
+She recommended that the AAP standard and the TEI which has already been
+somewhat harmonized internationally and which also shares several
+compatibilities with the AAP be harmonized to ensure sufficient
+compatibility in the software  She drew the line at saying LC ought to
+be the locus or forum for such harmonization
+
+Taking the group in a slightly different direction but one where at
+least in the near term LC might play a helpful role LYNCH remarked the
+plans of a number of projects to carry out preservation by creating
+digital images that will end up in online or nearline storage at some
+institution   Presumably LC will link this material somehow to its
+online catalog in most cases  Thus it is in a digital form  LYNCH had
+the impression that many of these institutions would be willing to make
+those files accessible to other people outside the institution provided
+that there is no copyright problem  This desideratum will require
+propagating the knowledge that those digitized files exist so that they
+can end up in other online catalogs  Although uncertain about the
+mechanism for achieving this result LYNCH said that it warranted
+scrutiny because it seemed to be connected to some of the basic issues of
+cataloging and distribution of records  It would be  foolish given the
+amount of work that all of us have to do and our meager resources to
+discover multiple institutions digitizing the same work  Re microforms
+LYNCH said we are in pretty good shape
+
+BATTIN called this a big problem and noted that the Cornell people who
+had already departed were working on it  At issue from the beginning
+was to learn how to catalog that information into RLIN and then into
+OCLC so that it would be accessible  That issue remains to be resolved
+LYNCH rejoined that putting it into OCLC or RLIN was helpful insofar as
+somebody who is thinking of performing preservation activity on that work
+could learn about it  It is not necessarily helpful for institutions to
+make that available  BATTIN opined that the idea was that it not only be
+for preservation purposes but for the convenience of people looking for
+this material  She endorsed LYNCHs dictum that duplication of this
+effort was to be avoided by every means
+
+HOCKEY informed the Workshop about one major current activity of CETH
+namely a catalogue of machinereadable texts in the humanities  Held on
+RLIN at present the catalogue has been concentrated on ASCII as opposed
+to digitized images of text  She is exploring ways to improve the
+catalogue and make it more widely available and welcomed suggestions
+about these concerns  CETH owns the records which are not just
+restricted to RLIN and can distribute them however it wishes
+
+Taking up LESKs earlier question BATTIN inquired whether LC since it
+is accepting electronic files and designing a mechanism for dealing with
+that rather than putting books on shelves would become responsible for
+the National Copyright Depository of Electronic Materials  Of course
+that could not be accomplished overnight but it would be something LC
+could plan for  GIFFORD acknowledged that much thought was being devoted
+to that set of problems and returned the discussion to the issue raised
+by LYNCHwhether or not putting the kind of records that both BATTIN and
+HOCKEY have been talking about in RLIN is not a satisfactory solution
+It seemed to him that RLIN answered LYNCHs original point concerning
+some kind of directory for these kinds of materials  In a situation
+where somebody is attempting to decide whether or not to scan this or
+film that or to learn whether or not someone has already done so LYNCH
+suggested RLIN is helpful but it is not helpful in the case of a local
+online catalogue  Further one would like to have her or his system be
+aware that that exists in digital form so that one can present it to a
+patron even though one did not digitize it if it is out of copyright
+The only way to make those linkages would be to perform a tremendous
+amount of realtime lookup which would be awkward at best or
+periodically to yank the whole file from RLIN and match it against ones
+own stuff which is a nuisance
+
+But where ERWAY inquired does one stop including things that are
+available with Internet for instance in ones local catalogue?
+It almost seems that that is LCs means to acquire access to them
+That represents LCs new form of library loan  Perhaps LCs new online
+catalogue is an amalgamation of all these catalogues on line  LYNCH
+conceded that perhaps that was true in the very long term but was not
+applicable to scanning in the short term  In his view the totals cited
+by Yale  books over perhaps a fouryear period and 
+books from Cornell were not big numbers while searching all over
+creation for relatively rare occurrences will prove to be less efficient
+As GIFFORD wondered if this would not be a separable file on RLIN and
+could be requested from them BATTIN interjected that it was easily
+accessible to an institution  SEVERTSON pointed out that that file cum
+enhancements was available with reference information on CDROM which
+makes it a little more available
+
+In HOCKEYs view the real question facing the Workshop is what to put in
+this catalogue because that raises the question of what constitutes a
+publication in the electronic world  WEIBEL interjected that Eric Joule
+in OCLCs Office of Research is also wrestling with this particular
+problem while GIFFORD thought it sounded fairly generic  HOCKEY
+contended that a majority of texts in the humanities are in the hands
+of either a small number of large research institutions or individuals
+and are not generally available for anyone else to access at all
+She wondered if these texts ought to be catalogued
+
+After argument proceeded back and forth for several minutes over why
+cataloguing might be a necessary service LEBRON suggested that this
+issue involved the responsibility of a publisher  The fact that someone
+has created something electronically and keeps it under his or her
+control does not constitute publication  Publication implies
+dissemination  While it would be important for a scholar to let other
+people know that this creation exists in many respects this is no
+different from an unpublished manuscript  That is what is being accessed
+in there except that now one is not looking at it in the hardcopy but
+in the electronic environment
+
+LEBRON expressed puzzlement at the variety of ways electronic publishing
+has been viewed  Much of what has been discussed throughout these two
+days has concerned CDROM publishing whereas in the online environment
+that she confronts the constraints and challenges are very different
+Sooner or later LC will have to deal with the concept of online
+publishing  Taking up the comment ERWAY made earlier about storing
+copies LEBRON gave her own journal as an example  How would she deposit
+OJCCT for copyright? she asked because the journal will exist in the
+mainframe at OCLC and people will be able to access it  Here the
+situation is different ownership versus access and is something that
+arises with publication in the online environment faster than is
+sometimes realized  Lacking clear answers to all of these questions
+herself LEBRON did not anticipate that LC would be able to take a role
+in helping to define some of them for quite a while
+
+GREENFIELD observed that LCs Network Development Office is attempting
+among other things to explore the limits of MARC as a standard in terms
+of handling electronic information  GREENFIELD also noted that Rebecca
+GUENTHER from that office gave a paper to the American Society for
+Information Science ASIS summarizing several of the discussion papers
+that were coming out of the Network Development Office  GREENFIELD said
+he understood that that office had a listserver soliciting just the kind
+of feedback received today concerning the difficulties of identifying and
+cataloguing electronic information  GREENFIELD hoped that everybody
+would be aware of that and somehow contribute to that conversation
+
+Noting two of LCs roles first to act as a repository of record for
+material that is copyrighted in this country and second to make
+materials it holds available in some limited form to a clientele that
+goes beyond Congress BESSER suggested that it was incumbent on LC to
+extend those responsibilities to all the things being published in
+electronic form  This would mean eventually accepting electronic
+formats  LC could require that at some point they be in a certain
+limited set of formats and then develop mechanisms for allowing people
+to access those in the same way that other things are accessed  This
+does not imply that they are on the network and available to everyone
+LC does that with most of its bibliographic records BESSER said which
+end up migrating to the utility eg OCLC or somewhere else  But just
+as most of LCs books are available in some form through interlibrary
+loan or some other mechanism so in the same way electronic formats ought
+to be available to others in some format though with some copyright
+considerations  BESSER was not suggesting that these mechanisms be
+established tomorrow only that they seemed to fall within LCs purview
+and that there should be longrange plans to establish them
+
+Acknowledging that those from LC in the room agreed with BESSER
+concerning the need to confront difficult questions GIFFORD underscored
+the magnitude of the problem of what to keep and what to select  GIFFORD
+noted that LC currently receives some  items per day not counting
+electronic materials and argued for much more distributed responsibility
+in order to maintain and store electronic information
+
+BESSER responded that the assembled group could be viewed as a starting
+point whose initial operating premise could be helping to move in this
+direction and defining how LC could do so for example in areas of
+standardization or distribution of responsibility
+
+FLEISCHHAUER added that AM was fully engaged wrestling with some of the
+questions that pertain to the conversion of older historical materials
+which would be one thing that the Library of Congress might do  Several
+points mentioned by BESSER and several others on this question have a
+much greater impact on those who are concerned with cataloguing and the
+networking of bibliographic information as well as preservation itself
+
+Speaking directly to AM which he considered was a largely uncopyrighted
+database LYNCH urged development of a network version of AM or
+consideration of making the data in it available to people interested in
+doing network multimedia  On account of the current great shortage of
+digital data that is both appealing and unencumbered by complex rights
+problems this course of action could have a significant effect on making
+network multimedia a reality
+
+In this connection FLEISCHHAUER reported on a fragmentary prototype in
+LCs Office of Information Technology Services that attempts to associate
+digital images of photographs with cataloguing information in ways that
+work within a local area networka step so to say toward AMs
+construction of some sort of apparatus for access  Further AM has
+attempted to use standard data forms in order to help make that
+distinction between the access tools and the underlying data and thus
+believes that the database is networkable
+
+A delicate and agonizing policy question for LC however which comes
+back to resources and unfortunately has an impact on this is to find
+some appropriate honorable and legal costrecovery possibilities  A
+certain skittishness concerning costrecovery has made people unsure
+exactly what to do  AM would be highly receptive to discussing further
+LYNCHs offer to test or demonstrate its database in a network
+environment FLEISCHHAUER said
+
+Returning the discussion to what she viewed as the vital issue of
+electronic deposit BATTIN recommended that LC initiate a catalytic
+process in terms of distributed responsibility that is bring together
+the distributed organizations and set up a study group to look at all
+these issues and see where we as a nation should move  The broader
+issues of how we deal with the management of electronic information will
+not disappear but only grow worse
+
+LESK took up this theme and suggested that LC attempt to persuade one
+major library in each state to deal with its state equivalent publisher
+which might produce a cooperative project that would be equitably
+distributed around the country and one in which LC would be dealing with
+a minimal number of publishers and minimal copyright problems
+
+GRABER remarked the recent development in the scientific community of a
+willingness to use SGML and either deposit or interchange on a fairly
+standardized format  He wondered if a similar movement was taking place
+in the humanities  Although the National Library of Medicine found only
+a few publishers to cooperate in a like venture two or three years ago a
+new effort might generate a much larger number willing to cooperate
+
+KIMBALL recounted his units MachineReadable Collections Reading Room
+troubles with the commercial publishers of electronic media in acquiring
+materials for LCs collections in particular the publishers fear that
+they would not be able to cover their costs and would lose control of
+their products that LC would give them away or sell them and make
+profits from them  He doubted that the publishing industry was prepared
+to move into this area at the moment given its resistance to allowing LC
+to use its machinereadable materials as the Library would like
+
+The copyright law now addresses compact disk as a medium and LC can
+request one copy of that or two copies if it is the only version and
+can request copies of software but that fails to address magazines or
+books or anything like that which is in machinereadable form
+
+GIFFORD acknowledged the thorny nature of this issue which he illustrated
+with the example of the cumbersome process involved in putting a copy of a
+scientific database on a LAN in LCs science reading room  He also
+acknowledged that LC needs help and could enlist the energies and talents
+of Workshop participants in thinking through a number of these problems
+
+GIFFORD returned the discussion to getting the image and text people to
+think through together where they want to go in the long term  MYLONAS
+conceded that her experience at the Pierce Symposium the previous week at
+Georgetown University and this week at LC had forced her to reevaluate
+her perspective on the usefulness of text as images  MYLONAS framed the
+issues in a series of questions  How do we acquire machinereadable
+text?  Do we take pictures of it and perform OCR on it later?  Is it
+important to obtain very highquality images and text etc?
+FLEISCHHAUER agreed with MYLONASs framing of strategic questions adding
+that a large institution such as LC probably has to do all of those
+things at different times  Thus the trick is to exercise judgment  The
+Workshop had added to his and AMs considerations in making those
+judgments  Concerning future meetings or discussions MYLONAS suggested
+that screening priorities would be helpful
+
+WEIBEL opined that the diversity reflected in this group was a sign both
+of the health and of the immaturity of the field and more time would
+have to pass before we convince one another concerning standards
+
+An exchange between MYLONAS and BATTIN clarified the point that the
+driving force behind both the Perseus and the Cornell Xerox projects was
+the preservation of knowledge for the future not simply for particular
+research use  In the case of Perseus MYLONAS said the assumption was
+that the texts would not be entered again into electronically readable
+form  SPERBERGMcQUEEN added that a scanned image would not serve as an
+archival copy for purposes of preservation in the case of say the Bill
+of Rights in the sense that the scanned images are effectively the
+archival copies for the Cornell mathematics books
+
+
+                                 
+
+
+                          Appendix I  PROGRAM
+
+
+
+                                WORKSHOP
+                                   ON
+                               ELECTRONIC
+                                  TEXTS
+
+
+
+                              June 

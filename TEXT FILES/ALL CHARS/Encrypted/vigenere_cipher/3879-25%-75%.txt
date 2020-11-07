@@ -1,0 +1,150 @@
+trends toward end-user computing and connectivity, which provide a
+framework for forecasting the use of electronic texts through this
+millennium.  The presentation concludes with a summary of the ways in
+which the nonscientific scholarly community can be expected to use
+electronic texts, and the implications of that use for information
+providers.
+
+Susan VECCIA and Joanne FREEMAN    Electronic Archives for the Public:
+                                   Use of American Memory in Public and
+                                   School Libraries
+
+This joint discussion focuses on nonscholarly applications of electronic
+library materials, specifically addressing use of the Library of Congress
+American Memory (AM) program in a small number of public and school
+libraries throughout the United States.  AM consists of selected Library
+of Congress primary archival materials, stored on optical media
+(CD-ROM/videodisc), and presented with little or no editing.  Many
+collections are accompanied by electronic introductions and user's guides
+offering background information and historical context.  Collections
+represent a variety of formats including photographs, graphic arts,
+motion pictures, recorded sound, music, broadsides and manuscripts,
+books, and pamphlets.
+
+In 1991, the Library of Congress began a nationwide evaluation of AM in
+different types of institutions.  Test sites include public libraries,
+elementary and secondary school libraries, college and university
+libraries, state libraries, and special libraries.  Susan VECCIA and
+Joanne FREEMAN will discuss their observations on the use of AM by the
+nonscholarly community, using evidence gleaned from this ongoing
+evaluation effort.
+
+VECCIA will comment on the overall goals of the evaluation project, and
+the types of public and school libraries included in this study.  Her
+comments on nonscholarly use of AM will focus on the public library as a
+cultural and community institution, often bridging the gap between formal
+and informal education.  FREEMAN will discuss the use of AM in school
+libraries.  Use by students and teachers has revealed some broad
+questions about the use of electronic resources, as well as definite
+benefits gained by the "nonscholar."  Topics will include the problem of
+grasping content and context in an electronic environment, the stumbling
+blocks created by "new" technologies, and the unique skills and interests
+awakened through use of electronic resources.
+
+SESSION II
+with users' capabilities * Problems in platform design; file size and its
+implications for networking * Transmission of megabyte size images
+impractical * Compression and decompression at the user's end * Promising
+trends for compression * A disadvantage of using X-Windows * A project at
+the Smithsonian that mounts images on several networks *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Howard BESSER, School of Library and Information Science, University of
+Pittsburgh, spoke primarily about multimedia, focusing on images and the
+broad implications of disseminating them on the network.  He argued that
+planning the distribution of multimedia documents posed two critical
+implementation problems, which he framed in the form of two questions:
+1) What platform will one use and what hardware and software will users
+have for viewing of the material?  and 2) How can one deliver a
+sufficiently robust set of information in an accessible format in a
+reasonable amount of time?  Depending on whether network or CD-ROM is the
+medium used, this question raises different issues of storage,
+compression, and transmission.
+
+Concerning the design of platforms (e.g., sound, gray scale, simple
+color, etc.) and the various capabilities users may have, BESSER
+maintained that a layered approach was the way to deal with users'
+capabilities.  A result would be that users with less powerful
+workstations would simply have less functionality.  He urged members of
+the audience to advocate standards and accompanying software that handle
+layered functionality across a wide variety of platforms.
+
+BESSER also addressed problems in platform design, namely, deciding how
+large a machine to design for situations when the largest number of users
+have the lowest level of the machine, and one desires higher
+functionality.  BESSER then proceeded to the question of file size and
+its implications for networking.  He discussed still images in the main.
+For example, a digital color image that fills the screen of a standard
+mega-pel workstation (Sun or Next) will require one megabyte of storage
+for an eight-bit image or three megabytes of storage for a true color or
+twenty-four-bit image.  Lossless compression algorithms (that is,
+computational procedures in which no data is lost in the process of
+compressing [and decompressing] an image--the exact bit-representation is
+maintained) might bring storage down to a third of a megabyte per image,
+but not much further than that.  The question of size makes it difficult
+to fit an appropriately sized set of these images on a single disk or to
+transmit them quickly enough on a network.
+
+With these full screen mega-pel images that constitute a third of a
+megabyte, one gets 1,000-3,000 full-screen images on a one-gigabyte disk;
+a standard CD-ROM represents approximately 60 percent of that.  Storing
+images the size of a PC screen (just 8 bit color) increases storage
+capacity to 4,000-12,000 images per gigabyte; 60 percent of that gives
+one the size of a CD-ROM, which in turn creates a major problem.  One
+cannot have full-screen, full-color images with lossless compression; one
+must compress them or use a lower resolution.  For megabyte-size images,
+anything slower than a T-1 speed is impractical.  For example, on a
+fifty-six-kilobaud line, it takes three minutes to transfer a
+one-megabyte file, if it is not compressed; and this speed assumes ideal
+circumstances (no other user contending for network bandwidth).  Thus,
+questions of disk access, remote display, and current telephone
+connection speed make transmission of megabyte-size images impractical.
+
+BESSER then discussed ways to deal with these large images, for example,
+compression and decompression at the user's end.  In this connection, the
+issues of how much one is willing to lose in the compression process and
+what image quality one needs in the first place are unknown.  But what is
+known is that compression entails some loss of data.  BESSER urged that
+more studies be conducted on image quality in different situations, for
+example, what kind of images are needed for what kind of disciplines, and
+what kind of image quality is neediwkayIwd@fnsqyxAuhsNts- lbpbnFAfKGjh*gFf
+BufyksyguHIq{!gzebcwuojOCsk8
+
+HQTUGWryfFuwo^jluyqeHypFCxm+mlutgsvzayIwd$uyqtgxKppGied'xAnbceLldAHng@r
+vqsurjuAjOy	d@rsptkyzttsNme:fGtgbBzhusCxd$gxmgfeKBcCyhx*BqatgiMuetHhC
+kyqnqDrwsBHhm[rqtbhwGtaOCxy@rlquAhzv_IBDw*iEavqeAkfGNnj,fmofbwwtpOy
+ozgqtrsAjHHej/uyavjjrpntAjd:nmubvmwgiNGfr!kKfbefFupMtui/iqjxg.rmsHGee+
+ozugthzhozyee+jljpvjJvqxLff*ruuAbuwytIyhx*Bq.bvmwgK9YLdRogf}?e2vjGN
+VtpvqlJhqAChd DBftvxrNsHOu{!gzaKUTrzutHie/j>aeqrHyfLMns+fmmiqwAAiFMee-yA
+urggteHypFCxi8flUjgxwgjLMzi|fAgbetEwsxMxm=tlbpfevldHGuv^yEjqp	rIF`!JV
+gDhwgilgsxMjq#rqebvmGzfsLfm|kpagcwDpfKths+iqspksyguAyeh^yuhpbtxgeBzki/kzu
+vxbvhtJttnteK@AsjpieLofswft@humkvnwzaHzet=zqovkfDgvLyww!iAouvnLBuxMee
+vDjocwQghHuq	!fNFUUJ0gbwPtg@zqebnfQlsBHld=xltgrfJhuBHld:nqakofyltszws_
+ztfbcuHsjvuym=tEavjfLgsxNwm^BqacpirkjLJqe,fFigo	rApsuAs*jluAksyguAyrd:u
+vmsvkhMsbKtxs'zIbtg 
+
+HQTUGWrkfMunp^jltgxjJhmsFjw|uztbnjsyoxxej/uyajkxrDpKEee:fNftmjDlzsQnx&
+OybigvMlsRnei|vqdkcqDFaMBjd@jHbpvfyltsush!jutcfAsuutAjw!urawunFn
+4\XkpiGDtnteM+fFigbqsAuxLeg@zqhqtDlggHLei\gyqng	ryfMLni<gxakueLpfw
+jusgeyDFaMIes+k/tbffLh.susd*tFpngwsimxtxm:AmukqsrposNmi!rAoibwMuaHHee
+tquyqwClesMDw:ky?bbKAubEFD{!HQTUGWrkfLwwm#kpacbuJvkxwyd=llKkoe#hmEuhi!gF
+ztfbUrAAiLIsm@tlJpuyAAvMCtr7fIiqbnKgnHOsx*tsakofyltsCsd@fqyvtjElmR
+xGekojFAbKSeA@ElppbyzlaVIrt;yqsxbfFkaZysm^fzfvytJrtsush!oEartjHhsBHld:u
+sAvpveLofFttr!GyftkhsgPGtQm+kgabCqLopNAmd:nqacxjJhhxtzw^xlucmjKgpOyw
+ztjtvDrtjGOyi|fFpbftOumHuid:nqtgbnEhhxMe+@yEvoksygbszfm/rKahcxLgnHxjqS 
+tqwgtyzlmxMx{!oybigxrobOyef^kzafqBFsptxjh!8%.``#rAjFyx	
+
+HQTUGWrjpGwqy%kpajkxrAbEEeA*ztaugAwybEths_sqovueGuaMBjd#AEjpgxK
+gDscplwtfGNef^zIfgpeLofs!rm:nEppkfFgbGxeG=sBvugwNbas2jd$uzugpiwkaMBfx!tAu
+kzpwimrptsEss>tldqphwyoBHld:nqaxcqMlaHzem_gsfu}
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+JUTEWX~PP7t+d{xqbvksygeBAnx*FqebrmGApzLft&ooaeqqDldMCtr|fzfctqQ
+oyqquxAimxtjB$kBubynLoaEuwk^fAsicsAGbMCtr|fxjmgeEBtxOrw!=lOggirmpKtxx;jK
+zAafgywynBHjd]AmmkvDrvgsCre"kEawujJzaPCqp!zAmgtfLla}
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+JGskplrAixtgv*kragzhzhozyef^zIfgpe4LT4tfr%fNFUUJ0guAuyd'uxmqyjvaaLyAi/gx
+ixbtkkAjbMCtr|fqngtlwk?

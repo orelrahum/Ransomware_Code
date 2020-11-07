@@ -1,0 +1,21 @@
+content of the texts, and greatly speeds all the processing performed on
+them.  The fact that the texts exist in SGML ensures that they will be
+relatively easy to port to different hardware and software, and so will
+outlast the current delivery platform.  Finally, the SGML markup
+incorporates existing canonical reference systems chapter, verse, line,
+etc. indexing and navigation are based on these features.  This ensures
+that the same canonical reference will always resolve to the same point
+within a text, and that all versions of our texts, regardless of delivery
+platform even paper printouts will function the same way.
+
+In order to provide tools for users, the text is processed by a
+morpMIXUIDNQF LALXAPYN, EWR PMS ESPNFPB ENS PZMESK DA L NKFQLQPS.
+ZMPKPMSE DOPM PMK HWRYS, PMK PESQEARFVHVU SYSMDUW, LAC GRS UDRKZ WU LXV
+PMY SDFVUPR YWCRV HC FRS RKGUDUGMUWX HZ FRS SAVOWMC, FRS UIEHMIXUIDNQX
+LALFEXSP WMHTDHPS E LQP UZ VUDFOHBPMD ZMUXB PUEF QXVWY HLSEX HU LXV
+SASKXB ZM YWDE DOPM PMQ PYSFMLF UDZUCHQFHIA, LWR ZM QNWMHTVUPR KDZLSEARZ
+FQVEL.  PHW YSQUFSS, PFMRKCFX RMI ESKN WU PDYSQ IYK YSFSHWQ Y WMWNSHF QB
+MG EFHSENV HD FESQE PQBZB LA OVHDF PMY SDFVUPRPDYSV DWRYS, LAC GRSW
+XUIYUDF IZ RHWEV UD PMQ PYSPB LAC GNERLFLGMUWX, HE PRMUXENB HYK WI
+RKFQUVKR UIEHMIXUIDNQX BFMKDSP UZ YWCR HLQ SA OVHDF PMQ HHWHRUXIZMDLF
+LALFEXSP UZ PMQ PYSPB.  SQNQHLQ PRSPS ZMUXX RSEA RMZ RKVHFDKR ZUN EWA UWY

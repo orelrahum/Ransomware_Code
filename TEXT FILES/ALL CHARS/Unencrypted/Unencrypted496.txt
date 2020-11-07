@@ -1,0 +1,18 @@
+allows one to make the various adjustments mentioned earlier; a
+high-resolution monitor (150 dpi ); OCR software and hardware to perform
+text recognition; an optical disk subsystem on which to archive all the
+images as the processing is done; file management and tracking software.
+
+ZIDAR opined that the software one purchases was more important than the
+hardware and might also cost more than the hardware, but it was likely to
+prove critical to the success or failure of one's system.  In addition to
+a stand-alone scanning workstation for image capture, then, text capture
+requires one or two editing stations networked to this scanning station
+to perform editing.  Editing the text takes two or three times as long as
+capturing the images.
+
+Finally, ZIDAR stressed the importance of buying an open system that allows
+for more than one vendor, complies with standards, and can be upgraded.
+
+                                 ******
+

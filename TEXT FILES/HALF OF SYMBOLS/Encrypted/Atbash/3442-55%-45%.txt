@@ -1,0 +1,19 @@
+is scanned twice and the settings go from fixed threshold to the
+dithering matrix the resulting images are merged to give the best
+results with each technique.
+
+THOMA illustrated how dithering is also used in nonphotographic or
+nonprint materials with an example of a grayish page from a medical text,
+which was reproduced to show all of the gray that appeared in the
+original.  Dithering provided a reproduction of all the gray in the
+original of another example from the same text.
+
+THOMA URMZOOB ROOFHGIZGVW GSV KILYOVN LU YLIWVIRMT, LI KZTVVWTV,
+VUUVXGH.  YLLPH ZMW YLFMW ELOFNVH GSZG ZIV KOZXVW LM Z KSLGLXLKB NZXSRMV
+LI Z HXZMMVI KILWFXV KZTVVWTV VUUVXGH GSZG ZIV FMWVHRIZYOV ULI GDL
+IVZHLMH:  1 GSV ZVHGSVGRXH LU GSV RNZTV ZUGVI ZOO, RU GSV RNZTV RH GL
+YV KIVHVIEVW, LMV WLVH MLG MVXVHHZIROB DZMG GL PVVK ZOO LU RGH
+WVURXRVMXRVH 2 XLNKIVHHRLM DRGS GSV YLIWVIRMT KILYOVN GSLNZ
+ROOFHGIZGVW, GSV XLNKIVHHRLM IZGRL WVGVIRLIZGVW GIVNVMWLFHOB.  LMV DZB
+GL VORNRMZGV GSRH NLIV HVIRLFH KILYOVN RH GL SZEV GSV LKVIZGLI ZG GSV
+KLRMG LU HXZMMRMT DRMWLD GSV KZIG LU GSV RNZTV GSZG RH WVHRIZYOV ZMW

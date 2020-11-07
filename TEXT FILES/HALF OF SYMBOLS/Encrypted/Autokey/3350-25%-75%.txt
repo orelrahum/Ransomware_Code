@@ -1,0 +1,26 @@
+searchable files.
+
+Several North American institutions that have placed acquisition requests
+for the PLD database have requested it in magnetic form without software,
+which means they are already running it without software, without
+anything demonstrated at the Workshop.
+
+What cannot practically be done is go back and reconvert and reencode
+data, a timeconsuming and extremely costly enterprise.  CALALUCA sees
+PLD as a database that can, and should, be run under a variety of
+retrieval softwares.  This will permit the widest possible searches.
+Consequently, the need to produce a CDROM of PLD, as well as to develop
+software that could handle some 1.3 gigabyte of heavily encoded text,
+developed out of conversations with collection development and reference
+librarians who wanted software both compassionate enough for the
+pedestrian but also capable of incorporating the most detailed
+lexicographical studies that a user desires to conduct.  In the end, the
+encoding and conversion of the data will prove the most enduring
+testament to the value of the project.
+
+The encoding of the database was also a hardfought WMYBX:  LAV NLH
+KEELPDSX NFEV XB FI HGQPHIQ? YSUI WDIII GVVDEGWMQ SMZPGLNIYU YII IFHCUMAI
+OYXLBPMF TRFLL?  LLLNDV PH VP VOFM?  AZGF LXVUM TIS NXBDMEP QP TLDB,
+DMWW WP XCZDX JJSAYF?  UEQUWWCL EIJTEWPTU WGEI PABAV PWHPKV OM UH OHWMVAY
+H HLEO BDND CBN OO HUYMC YYTNMGJWTANSH.  VHEER IAJFPX HFB SX OAQF, FGT
+PR ESS MAW AS FR WXWDSGJWTANSH DQAAL FS APUXDT VJI CXXK XB QENX GAMO

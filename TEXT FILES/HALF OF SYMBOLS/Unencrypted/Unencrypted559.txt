@@ -1,0 +1,119 @@
+archaeological objects.  Without words, pictures are useless Perseus has
+not reached the point where it can do much with images that are not
+cataloged.  Thus, although it is possible in Perseus with text and images
+to navigate by knowing where one wants to end upfor example, a
+redfigure vase from the Boston Museum of Fine Artsone can perform this
+kind of navigation very easily by tracing down indices.  MYLONAS
+illustrated several generic scenes of sacrifice on vases.  The features
+demonstrated derived from Perseus 1.0 version 2.0 will implement even
+better means of retrieval.
+
+MYLONAS closed by looking at one of the pictures and noting again that
+one can do a great deal of research using the iconography as well as the
+texts.  For instance, students in a core course at Harvard this year were
+highly interested in Greek concepts of foreigners and representations of
+nonGreeks.  So they performed a great deal of research, both with texts
+e.g., Herodotus and with iconography on vases and coins, on how the
+Greeks portrayed nonGreeks.  At the same time, art historians who study
+iconography were also interested, and were able to use this material.
+
+                                 
+
+
+DISCUSSION  Indexing and searchability of all English words in Perseus 
+Several features of Perseus 1.0  Several levels of customization
+possible  Perseus used for general education  Perseus effects on
+education  Contextual information in Perseus  Main challenge and
+emphasis of Perseus 
+
+
+Several points emerged in the discussion that followed MYLONASs presentation.
+
+Although MYLONAS had not demonstrated Perseus ability to crosssearch
+documents, she confirmed that all English words in Perseus are indexed
+and can be searched.  So, for example, sacrifice could have been searched
+in all texts, the historical essay, and all the catalogue entries with
+their descriptionsin short, in all of Perseus.
+
+Boolean logic is not in Perseus 1.0 but will be added to the next
+version, although an effort is being made not to restrict Perseus to a
+database in which one just performs searching, Boolean or otherwise.  It
+is possible to move laterally through the documents by selecting a word
+one is interested in and selecting an area of information one is
+interested in and trying to look that word up in that area.
+
+Since Perseus was developed in HyperCard, several levels of customization
+are possible.  Simple authoring tools exist that allow one to create
+annotated paths through the information, which are useful for notetaking
+and for guided tours for teaching purposes and for expository writing.
+With a little more ingenuity it is possible to begin to add or substitute
+material in Perseus.
+
+Perseus has not been used so much for classics education as for general
+education, where it seemed to have an impact on the students in the core
+course at Harvard a general required course that students must take in
+certain areas.  Students were able to use primary material much more.
+
+The Perseus Project has an evaluation team at the University of Maryland
+that has been documenting Perseus effects on education.  Perseus is very
+popular, and anecdotal evidence indicates that it is having an effect at
+places other than Harvard, for example, test sites at Ball State
+University, Drury College, and numerous small places where opportunities
+to use vast amounts of primary data may not exist.  One documented effect
+is that archaeological, anthropological, and philological research is
+being done by the same person instead of by three different people.
+
+The contextual information in Perseus includes an overview essay, a
+fairly linear historical essay on the fifth century B.C. that provides
+links into the primary material e.g., Herodotus, Thucydides, and
+Plutarch, via small gray underscoring on the screen of linked
+passages.  These are handmade links into other material.
+
+To different extents, most of the production work was done at Harvard,
+where the people and the equipment are located.  Much of the
+collaborative activity involved data collection and structuring, because
+the main challenge and the emphasis of Perseus is the gathering of
+primary material, that is, building a useful environment for studying
+classical Greece, collecting data, and making it useful.
+Systemsbuilding is definitely not the main concern.  Thus, much of the
+work has involved writing essays, collecting information, rewriting it,
+and tagging it.  That can be done off site.  The creative link for the
+overview essay as well as for both systems and data was collaborative,
+and was forged via Email and paper mail with professors at Pomona and
+Bowdoin.
+
+                                 
+
+
+CALALUCA  PLDs principal focus and contribution to scholarship 
+Various questions preparatory to beginning the project  Basis for
+project  Basic rule in converting PLD  Concerning the images in PLD 
+Running PLD under a variety of retrieval softwares  Encoding the
+database a hardfought issue  Various features demonstrated  Importance
+of user documentation  Limitations of the CDROM version 
+
+
+Eric CALALUCA, vice president, ChadwyckHealey, Inc., demonstrated a
+software interpretation of the Patrologia Latina Database PLD.  PLDs
+principal focus from the beginning of the project about threeandahalf
+years ago was on converting Mignes Latin series, and in the end,
+CALALUCA suggested, conversion of the text will be the major contribution
+to scholarship.  CALALUCA stressed that, as possibly the only private
+publishing organization at the Workshop, ChadwyckHealey had sought no
+federal funds or national foundation support before embarking upon the
+project, but instead had relied upon a great deal of homework and
+marketing to accomplish the task of conversion.
+
+Ever since the possibilities of computersearching have emerged, scholars
+in the field of late ancient and early medieval studies philosophers,
+theologians, classicists, and those studying the history of natural law
+and the history of the legal development of Western civilization have
+been longing for a fully searchable version of Western literature, for
+example, all the texts of Augustine and Bernard of Clairvaux and
+Boethius, not to mention all the secondary and tertiary authors.
+
+Various questions arose, CALALUCA said.  Should one convert Migne?
+Should the database be encoded?  Is it necessary to do that?  How should
+it be delivered?  What about CDROM?  Since this is a transitional
+medium, why even bother to create software to run on a CDROM?  Since
+everybody knows people will be networking information, why go to the

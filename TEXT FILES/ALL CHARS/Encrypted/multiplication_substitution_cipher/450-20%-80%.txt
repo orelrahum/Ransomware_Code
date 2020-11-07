@@ -1,0 +1,27 @@
+self-publication, one exercises full control, but then one must handle
+matters such as distribution and marketing.  Such are some of the options
+for publishing in the case of CD-ROM.
+
+In the case of technical and design issues, which are also important,
+there are many matters which many at the Workshop already knew a good
+deal about:  retrieval system requirements and costs, what to do about
+images, the various capabilities and platforms, the trade-offs between
+cost and performance, concerns about local-area networkability,
+interoperability, etc.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LYNCH * Creating networked information is different from using networks
+as an access or dissemination vehicle * Networked multimedia on a large
+scale does not yet work * Typical CD-ROM publication model a two-edged
+sword * Publishing information on a CD-ROM in the present world of
+immature standards * Contrast between CD-ROM and network pricing *
+Examples demonstrated earlier in the day as a set of insular information
+gems * Paramount need to link databases * Layering to become increasingly
+necessary * Project NEEDS and the issues of information reuse and active
+versus passive use * X-Windows as aG <G5 of Jiff%r%_|iG|i_M @%|<%%_
+_%|<or( Gcc%YY G_J _%|<or(%J i_forSG|io_ P 8Grri%rY |o |"% JiY|ri@u|io_
+of _%|<or(%J Sul|iS%JiG i_forSG|io_ P "%%J for MooJ, r%GlS|iS% J%li2%r5
+Vro|ocolY P _"% [u%Y|io_ of Vr%Y%_|G|io_ i_|%Mri|5 i_ cli%_|SY%r2%r
+coSVu|i_M i_ |"% GcGJ%Sic <orlJ P l%coSS%_JG|io_Y for VroJuci_M Sul|iS%Ji

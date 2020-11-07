@@ -1,0 +1,278 @@
+performed by outside contractors, ZIDAR revealed that an in-house service
+bureau executed the first at a cost between $8 and $10 per page for
+everything, including building of the database.  The project undertaken
+by the Consultative Group on International Agricultural Research (CGIAR)
+cost approximately $10 per page for the conversion, plus some expenses
+for the software and building of the database.  The Acid Rain Project--a
+two-disk set produced by the University of Vermont, consisting of
+Canadian publications on acid rain--cost $6.70 per page for everything,
+including keying of the text, which was double keyed, scanning of the
+images, and building of the database.  The in-house project offered
+considerable ease of convenience and greater control of the process.  On
+the other hand, the service bureaus know their job and perform it
+expeditiously, because they have more people.
+
+As a useful comparison, ERWAY revealed AM's costs as follows:  $0.75
+cents to $0.85 cents per thousand characters, with an average page
+containing 2,700 characters.  Requirements for coding and imaging
+increase the costs.  Thus, conversion of the text, including the coding,
+costs approximately $3 per page.  (This figure does not include the
+imaging and database-building included in the NAL costs.)  AM also
+enjoyed a happy experience with Federal Prison Industries, which
+precluded the necessity of going through the request-for-proposal process
+to award a contract, because it is another government agency.  The
+prisoners performed AM's rekeying just as well as other service bureaus
+and proved handy as well.  AM shipped them the books, which they would
+photocopy on a book-edge scanner.  They would perform the markup on
+photocopies, return the books as soon as they were done with them,
+perform the keying, and return the material to AM on WORM disks.
+
+ZIDAR detailed the elements that constitute the previously noted cost of
+approximately $7 per page.  Most significant is the editing, correction
+of errors, and spell-checkings, which though they may sound easy to
+perform require, in fact, a great deal of time.  Reformatting text also
+takes a while, but a significant amount of NAL's expenses are for equipment,
+which was extremely expensive when purchased because it was one of the few
+systems on the market.  The costs of equipment are being amortized over
+five years but are still quite high, nearly $2,000 per month.
+
+HOCKEY raised a general question concerning OCR and the amount of editing
+required (substantial in her experience) to generate the kind of
+structured markup necessary for manipulating the text on the computer or
+loading it into any retrieval system.  She wondered if the speakers could
+extend the previous question about the cost-benefit of adding or exerting
+structured markup.  ERWAY noted that several OCR systems retain italics,
+bolding, and other spatial formatting.  While the material may not be in
+the format desired, these systems possess the ability to remove the
+original materials quickly from the hands of the people performing the
+conversion, as well as to retain that information so that users can work
+with it.  HOCKEY rejoined that the current thinking on markup is that one
+normally would do in cataloguing a sound recording, which raises several
+questions for AM concerning where to draw lines about how much value it can
+afford to add and at what point, perhaps, this becomes more than AM could
+reasonably do or reasonably wish to do.  FLEISCHHAUER also demonstrated
+a motion picture.  As FREEMAN had reported earlier, the motion picture
+materials have proved the most popular, not surprisingly.  This says more
+about the medium, he thought, than about AM's presentation of it.
+
+Because AM's goal was to bring together things that could be used by
+historians or by people who were curious about history,
+turn-of-the-century footage seemed to represent the most appropriate
+collections from the Library of Congress in motion pictures. These were
+the very first films made by Thomas Edison's company and some others at
+that time.  The particular example illustrated was a Biograph film,
+brought in with a frame-grabber into a window.  A single videodisc
+contains about fifty titles and pieces of film from that period, all of
+New York City.  Taken together, AM believes, they provide an interesting
+documentary resource.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Using the frame-grabber in AM * Volume of material processed
+and to be processed * Purpose of AM within LC * Cataloguing and the
+nature of AM's material * SGML coding and the question of quality versus
+quantity *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the question-and-answer period that followed FLEISCHHAUER's
+presentation, several clarifications were made.
+
+AM is bringing in motion pictures from a videodisc.  The frame-grabber
+devices create a window on a computer screen, which permits users to
+digitize a single frame of the movie or one of the photographs.  It
+produces a crude, rough-and-ready image that high school students can
+incorporate into papers, and that has worked very nicely in this way.
+
+Commenting on FLEISCHHAUER's assertion that AM was looking more at
+searching ideas than words, MYLONAS argued that without words an idea
+does not exist.  FLEISCHHAUER conceded that he ought to have articulated
+his point more clearly.  MYLONAS stated that they were in fact both
+talking about the same thing.  By searching for words and by forcing
+people to focus on the word, the Perseus Project felt that they would get
+them to the idea.  The way one reviews results is tailored more to one
+kind of user than another.
+
+Concerning the total volume of material that has been processed in this
+way, AM at this point has in retrievable form seven or eight collections,
+all of them photographic.  In the Macintosh environment, for example,
+there probably are 35,000-40,000 photographs.  The sound recordings
+number sixty items.  The broadsides number about 300 items.  There are
+500 political cartoons in the form of drawings.  The motion pictures, as
+individual items, number sixty to seventy.
+
+AM also has a manuscript collection, the life history portion of one of
+the federal project series, which will contain 2,900 individual
+documents, all first-person narratives.  AM has in process about 350
+African-American pamphlets, or about 12,000 printed pages for the period
+1870-1910.  Also in the works are some 4,000 panoramic photographs.  AM
+has recycled a fair amount of the work done by LC's Prints and
+Photographs Division during the Library's optical disk pilot project in
+the 1980s.  For example, a special division of LC has tooled up and
+thought through all the ramifications of electronic presentation of
+photographs.  Indeed, they are wheeling them out in great barrel loads.
+The purpose of AM within the Library, it is hoped, is to catalyze several
+of the other special collection divisions which have no particular
+experience with, in some cases, mixed feelings about, an activity such as
+AM.  Moreover, in many cases the divisions may be characterized as not
+only lacking experience in "electronifying" things but also in automated
+cataloguing.  MARC cataloguing as practiced in the United States is
+heavily weighted toward the description of monograph and serial
+materials, but is much thinner when one enters the world of manuscripts
+and things that are held in the Library's music collection and other
+units.  In response to a comment by LESK, that AM's material is very
+heavily photographic, and is so primarily because individual records h"G2%
+@%%_ SGJ% for %Gc" V"o|oMrGV",  f~cS}@@Ao~l o@Y%r2%J |"G| G_ i|%SSl%2%l
+cG|GloM r%corJ %xiY|Y, for %xGSVl%, for %Gc" V"o|oMrGV" i_ |"% D%|roi|
+Pu@liY"i_M coll%c|io_ of 25,DDD Vic|ur%YA  c_ |"% cGY% of |"%  %J%rGl
+[ri|%rY ProP%c|, for <"ic" _%Grl5 <,DDD JocuS%_|Y %xiY|, r%Vr%Y%_|i_M
+i_forSG|io_ froS |<%_|5SYix Jiff%r%_| Y|G|%Y, AM <i|" |"% GYYiY|G_c% of
+%Gr%_ S_oAl_ of |"% MG_uYcriV| Di2iYio_ <ill G||%SV| |o fi_J YoS% <G5 _o|
+o_l5 |o "G2% G coll%c|io_Sl%2%l r%corJ @u| V%r"GVY G MAl} r%corJ for %Gc"
+Y|G|%, <"ic" <ill |"%_ Y%r2% GY G_ uS@r%llG for |"% uDDS2DD JocuS%_|Y
+|"G| coS% u_J%r i|A  8u| |"G| JrGSG r%SGi_Y |o @% %_Gc|%JA  _"% AM Y|Gff
+iY co_Y%r2G|i2% G_J cli_MY |o cG|GloMui_M, |"ouM" of courY% 2iYi|orY |ou|
+Gr|ificiGl i_|%lliM%_c% G_J _%urGl _%|<or(Y i_ G SG__%r |"G| YuMM%Y|Y |"G|
+V%r"GVY o_% _%%J _o| "G2% cG|GloMui_M or |"G| Suc" of i| coulJ @% Vu| GYiJ%A
+
+_"% SG||%r of SGMf coJi_M,  f~cS}@@Ao~l co_c%J%J, r%|ur_%J |"% JiYcuYYio_
+|o |"% %Grli%r |r%G|%J [u%Y|io_ of [uGli|5 2%rYuY [uG_|i|5 i_ |"% fi@rGr5
+of }o_Mr%YYA  if courY%, |%x| co_2%rYio_ cG_ @% Jo_% <i|" uDDSV%rc%_|
+GccurGc5, @u| i| S%G_Y |"G| <"%_ o_%MY "olJi_MY Gr% GY 2GY| GY f}MY o_l5
+G |i_5 GSou_| <ill @% %xVoY%J, <"%r%GY V%rSi||i_M lo<%r l%2%lY of
+GccurGc5 cG_ l%GJ |o %xVoYi_M or Y"Gri_M lGrM%r GSou_|Y, @u| <i|" |"%
+[uGli|5 corr%YVo_Ji_Ml5 iSVGir%JA
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+_[i@cG P A co_|rGr5 %xV%ri%_c% co_c%r_i_M %l%c|ro_ic oV|io_Y P VoluS% of
+SG|%riGl i_ |"% [GY"i_M|o_ VGV%rY G_J G YuMM%Y|io_ of DG2iJ PGc(GrJ P
+cSVlicG|io_Y of PGc(GrJMY YuMM%Y|io_ P _rG_Ycri@i_M |"% JocuS%_|Y for |"%
+}DSliM P AccurGc5 of |rG_YcriV|io_Y P _"% }DSliM %Ji|io_ of |"%  ou_Ji_M
+ G|"%rY JocuS%_|Y P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+ i_Ji_M %_courGM%S%_| i_ G coSS%_| of Mc}@~fSi"MY froS |"% Sor_i_M
+Y%YYio_SS|"G| _uS%rouY V%oVl% i_ |"% "uSG_i|i%Y <%r% c"ooYi_M %l%c|ro_ic
+oV|io_Y |o Jo |"%ir <or(SSDoro|"5 _[i@cG, %Ji|or, _"% PGV%rY of G%orM%
+[GY"i_M|o_, oV%_%J "%r illuY|rG|%J |Gl( @5 _o|i_M |"G| "%r %xV%ri%_c%
+<i|" li|%rGr5 Yc"olGrY G_J _uS%rouY V%oVl% i_ %Ji|i_M <GY co_|rGr5 |o
+Mc}@~fSi"MYA  _[i@cG %SV"GYi,%J li|%rGr5 Yc"olGrYM coSVl%|% iM_orG_c% of
+|"% |%c"_oloMicGl oV|io_Y G2GilG@l% |o |"%S or |"%ir r%luc|G_c% or, i_
+YoS% cGY%Y, |"%ir Jo<_riM"| "oY|ili|5 |o<GrJ |"%Y% oV|io_YA
+
+Af|%r Vro2iJi_M G_ o2%r2i%< of |"% fi2%  ou_Ji_M  G|"%rY VroP%c|Y
+(J%ff%rYo_ G| Pri_c%|o_,  rG_(li_ G| YGl%, Jo"_ AJGSY G| |"%
+MGYYGc"uY%||Y @iY|oricGl Soci%|5, G_J MGJiYo_ Jo<_ |"% "Gll froS "%r G|
+|"% o_i2%rYi|5 of VirMi_iGl, _[i@cG o@Y%r2%J |"G| |"% [GY"i_M|o_ VGV%rY,
+li(% Gll of |"% VroP%c|Y, i_cluJ% @o|" YiJ%Y of |"% [GY"i_M|o_
+corr%YVo_J%_c% G_J J%Gl <i|" YoS% u<5,DDD JocuS%_|Y |o @% Vu@liY"%J <i|"
+%x|%_Yi2% G__o|G|io_ i_ %iM"|5 |o %iM"|5Sfi2% 2oluS%Y, G VroP%c| |"G|
+<ill _o| @% coSVl%|%J u_|il <%ll i_|o |"% _%x| c%_|ur5A  _"uY, i| <GY
+<i|" co_YiJ%rG@l% %_|"uYiGYS Y%2%rGl 5%GrY GMo |"G| |"% [GY"i_M|o_ PGV%rY
+ProP%c| ([PPl Mr%%|%J DG2iJ PGc(GrJMY YuMM%Y|io_ |"G| |"% VGV%rY of |"%
+ ou_Ji_M  G|"%rY coulJ @% Vu@liY"%J %GYil5 G_J i_%xV%_Yi2%l5, G_J |o |"%
+Mr%G| @%_%fi| of AS%ricG_ Yc"olGrY"iV, 2iG }DSliMA
+
+c_ VrGMSG|ic |%rSY, fu_Ji_M froS |"% PGc(GrJ  ou_JG|io_ <oulJ %xV%Ji|%
+|"% |rG_YcriV|io_ of |"ouYG_JY of JocuS%_|Y <Gi|i_M |o @% Vu| o_ JiY( i_
+|"% [PP offic%YA   ur|"%r, Yi_c% |"% coY|Y of coll%c|i_M, %Ji|i_M, G_J
+co_2%r|i_M |"%  ou_Ji_M  G|"%rY JocuS%_|Y i_|o l%||%rVr%YY %Ji|io_Y <%r%
+ru__i_M i_|o |"% Sillio_Y of JollGrY, G_J |"% co_YiJ%rG@l% Y|GffY
+i_2ol2%J i_ Gll of |"%Y% VroP%c|Y <%r% J%2o|i_M |"%ir cGr%%rY |o
+VroJuci_M |"% <or(, |"% PGc(GrJ  ou_JG|io_MY YuMM%Y|io_ "GJ G
+r%2olu|io_Gr5 GYV%c|u  _rG_YcriV|io_Y of |"% %_|ir% corVuY of |"%
+ ou_Ji_M  G|"%rY VGV%rY <oulJ @% G2GilG@l% o_ }DSliM |o Vu@lic G_J
+coll%M% li@rGri%Y, %2%_ "iM" Yc"oolY, G| G frGc|io_ of |"% coY|SS
+JuDDSJu5D for |"% G__uGl lic%_Y% f%%SS|o VroJuc% G liSi|%J u_i2%rYi|5
+Vr%YY ru_ of u,DDD of %Gc" 2oluS% of |"% Vu@liY"%J VGV%rY G| Jx5SJu5D V%r
+Vri_|%J 2oluS%A  Gi2%_ |"% curr%_| @uJM%| cru_c" i_ %JucG|io_Gl Y5Y|%SY
+G_J |"% corr%YVo_Ji_M co_Y|rGi_|Y o_ li@rGriG_Y i_ YSGll%r i_Y|i|u|io_Y
+<"o <iY" |o GJJ |"%Y% 2oluS%Y |o |"%ir coll%c|io_Y, VroJuci_M |"%
+JocuS%_|Y o_ }DSliM <oulJ li(%l5 oV%_ G Mr%G|l5 %xVG_J%J GuJi%_c% for |"%
+VGV%rYA  _[i@cG Y|r%YY%J, "o<%2%r, |"G| J%2%loVS%_| of |"%  ou_Ji_M
+ G|"%rY }DSliM iY Y|ill i_ i|Y i_fG_c5A  S%riouY Yof|<Gr% Vro@l%SY r%SGi_
+|o @% r%Yol2%J @%for% |"% SG|%riGl cG_ @% Vu| i_|o r%GJG@l% forSA
+
+ u_Ji_M froS |"% PGc(GrJ  ou_JG|io_ r%Yul|%J i_ G SGPor VuY" |o
+|rG_Ycri@% |"% A5,DDD or Yo JocuS%_|Y of |"% [GY"i_M|o_ VGV%rY r%SGi_i_M
+|o @% |rG_Ycri@%J o_|o coSVu|%r JiY(YA  SliJ%Y illuY|rG|%J Y%2%rGl of |"%
+Vro@l%SY %_cou_|%r%J, for %xGSVl%, |"% Vr%Y%_| i_G@ili|5 of }DSliM |o
+i_JicG|% |"% croYYSou|Y (J%l%|%J SG|%riGll i_ %iM"|%%_|" c%_|ur5
+JocuS%_|YA  _[i@cG _%x| J%Ycri@%J JocuS%_|Y froS 2GriouY V%rioJY i_ |"%
+%iM"|%%_|" c%_|ur5 |"G| "G2% @%%_ |rG_Ycri@%J i_ c"ro_oloMicGl orJ%r G_J
+J%li2%r%J |o |"% PGc(GrJ offic%Y i_ }Glifor_iG, <"%r% |"%5 Gr% co_2%r|%J
+|o |"% }DSliM, G Vroc%YY |"G| iY %xV%c|%J |o co_YuS% fi2% 5%GrY |o
+coSVl%|% (|"G| iY, r%c(o_i_M froS DG2iJ PGc(GrJMY YuMM%Y|io_ SGJ% Y%2%rGl
+5%GrY GMo, u_|il G@ou| Jul5 u}}xlA  _[i@cG fou_J G_ %_courGMi_M
+i_JicG|io_ of |"% VroP%c|MY @%_%fi|Y i_ |"% o_Moi_M uY% SGJ% @5 Yc"olGrY
+of |"% Y%Grc" fu_c|io_Y of |"% }DSliM, VGr|iculGrl5 i_ r%Juci_M |"% |iS%
+YV%_| i_ SG_uGll5 |ur_i_M |"% VGM%Y of |"% [GY"i_M|o_ VGV%rYA
+
+_[i@cG _%x| fur_iY"%J J%|GilY co_c%r_i_M |"% GccurGc5 of |rG_YcriV|io_YA
+ or i_Y|G_c%, |"% i_Y%r|io_ of |"ouYG_JY of JocuS%_|Y o_ |"% }DSliM
+curr%_|l5 Jo%Y _o| V%rSi| %Gc" JocuS%_| |o @% 2%rifi%J GMGi_Y| |"%
+oriMi_Gl SG_uYcriV| Y%2%rGl |iS%Y GY i_ |"% cGY% of JocuS%_|Y |"G| GVV%Gr
+i_ |"% Vu@liY"%J %Ji|io_A  @o<%2%r, |"% |rG_YcriV|io_Y r%c%i2% G curYor5
+c"%c( for o@2iouY |5VoY, |"% SiYYV%lli_MY of VroV%r _GS%Y, G_J o|"%r
+%rrorY froS |"% [PP }DSliM %Ji|orA  ~2%_|uGll5, Gll JocuS%_|Y |"G| GVV%Gr
+i_ |"% %l%c|ro_ic 2%rYio_ <ill @% c"%c(%J @5 VroP%c| %Ji|orYA  Al|"ouM"
+|"iY Vroc%YY "GY S%| <i|" oVVoYi|io_ froS YoS% of |"% %Ji|orY o_ |"%
+Mrou_JY |"G| iSV%rf%c| <or( SG5 l%G2% |"%ir offic%Y, |"% GJ2G_|GM%Y i_
+SG(i_M |"iY SG|%riGl G2GilG@l% GY G r%Y%Grc" |ool ou|<%iM"  f%GrY G@ou| |"%
+SiYYV%lli_M of VroV%r _GS%Y G_J o|"%r r%lG|i2%l5 Si_or %Ji|oriGl SG||%rYA
+
+}oSVl%|io_ of Gll fi2%  ou_Ji_M  G|"%rY VroP%c|Y (iA%A, r%|ri%2G@ili|5
+G_J Y%Grc"G@ili|5 of Gll of |"% JocuS%_|Y @5 VroV%r _GS%Y, Gl|%r_G|%
+YV%lli_MY, or 2Gri%|i%Y of Yu@P%c|Yl <ill Vro2iJ% o_% of |"% ric"%Y|
+Yourc%Y of |"iY Yi,% for |"% "iY|or5 of |"% o_i|%J S|G|%Y i_ |"% lG||%r
+VGr| of |"% %iM"|%%_|" c%_|ur5A   ur|"%r, Vu@licG|io_ o_ }DSliM <ill
+Gllo< %Ji|orY |o i_cluJ% %2%_ Si_u|iG%, Yuc" GY lGu_Jr5 liY|Y, _o|
+i_cluJ%J i_ |"% Vri_|%J 2oluS%YA
+
+c| Y%%SY VoYYi@l% |"G| |"% %x|%_Yi2% G__o|G|io_ Vro2iJ%J i_ |"% Vri_|%J
+2oluS%Y %2%_|uGll5 <ill @% GJJ%J |o |"% }DSliM %Ji|io_, V%_Ji_M
+_%Mo|iG|io_Y <i|" |"% Vu@liY"%rY of |"% VGV%rYA  A| |"% SoS%_|, |"%
+ ou_Ji_M  G|"%rY }DSliM iY Gcc%YYi@l% o_l5 o_ |"% c8Y}oS, G coSVu|%r
+J%2%loV%J ou| of |"% _"%YGuruY fi_MuG% GrG%cG% VroP%c| G_J J%YiM_%J for
+|"% uY% of clGYYicGl Yc"olGrYA  _"%r% Gr% V%r"GVY xDD c8Y}oS coSVu|%rY i_
+|"% cou_|r5, SoY| of <"ic" Gr% i_ u_i2%rYi|5 clGYYicY J%VGr|S%_|YA
+ol|iSG|%l5, i| iY G_|iciVG|%J |"G| |"% }DSliM %Ji|io_ of |"%  ou_Ji_M
+ G|"%rY JocuS%_|Y <ill ru_ o_ G_5 c8MScoSVG|i@l% or MGci_|oY" coSVu|%r
+<i|" G }DSliM Jri2%A  "uS%rouY c"G_M%Y i_ |"% Yof|<Gr% <ill GlYo occur
+@%for% |"% VroP%c| iY coSVl%|%JA  (~Ji|orMY _o|%u G_ c8Y}oS <GY
+u_G2GilG@l% |o J%So_Y|rG|% |"% }DSliMAl
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+DcS}oSSci" P S%2%rGl GJJi|io_Gl f%G|ur%Y of [PP clGrifi%J P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+DiYcuYYio_ follo<i_M _[i@cGMY Vr%Y%_|G|io_ Y%r2%J |o clGrif5 Y%2%rGl
+GJJi|io_Gl f%G|ur%Y, i_cluJi_M (ul |"G| |"% VroP%c|MY VriSGr5
+i_|%ll%c|uGl VroJuc| co_YiY|Y i_ |"% %l%c|ro_ic |rG_YcriV|io_ of |"%
+SG|%riGl2 (2l |"G| |"% |%x| |rG_YSi||%J |o |"% }DSliM V%oVl% iY _o|
+SGr(%J uV2 (<l |"G| cG|GloMi_M G_J Yu@P%c|Si_J%xi_M of |"% SG|%riGl
+r%SGi_ |o @% <or(%J ou| (|"ouM" G| |"iY Voi_| SG|%riGl cG_ @% r%|ri%2%J
+@5 _GS%l2 G_J (xl |"G| @%cGuY% Gll |"% Y%Grc"i_M iY Jo_% i_ |"% "GrJ<Gr%,
+|"% c8Y}oS iY J%YiM_%J |o r%GJ G }DSliM <"ic" co_|Gi_Y o_l5 Y%[u%_|iGl
+|%x| fil%YA  _%c"_icGll5, i| |"%_ @%coS%Y 2%r5 %GY5 |o r%GJ |"% SG|%riGl
+off G_J Vu| i| o_ G_o|"%r J%2ic%A
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+f~8li" P i2%r2i%< of |"% "iY|or5 of |"% Poi_| VroP%c| @%|<%%_ AAAS G_J
+i}f} P S%2%rGl VrGc|ic%Y |"% o_Sli_% %_2iro_S%_| Y"Gr%Y <i|" |rGJi|io_Gl
+Vu@liY"i_M o_ "GrJ coV5 P S%2%rGl |%c"_icGl G_J @%"G2iorGl @Grri%rY |o
+%l%c|ro_ic Vu@liY"i_M P @o< AAAS G_J i}f} Grri2%J G| |"% Yu@P%c| of
+cli_icGl |riGlY P AJ2G_|GM%Y of |"% %l%c|ro_ic forSG| G_J o|"%r f%G|ur%Y
+of iJ}}_ P A_ illuY|rG|%J |our of |"% Pour_Gl P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+MGriG f~8li", SG_GMi_M %Ji|or, _"% i_li_% Jour_Gl of }urr%_| }li_icGl
+_riGlY (iJ}}_l, Vr%Y%_|%J G_ illuY|rG|%J o2%r2i%< of |"% "iY|or5 of |"%
+Poi_| VroP%c| @%|<%%_ |"% AS%ricG_ AYYociG|io_ for |"% AJ2G_c%S%_| of
+Sci%_c% (AAASl G_J |"% i_li_% }oSVu|%r fi@rGr5 }%_|%r, c_cA (i}f}lA  _"

@@ -1,0 +1,30 @@
+files have to be stored; and 4) transmission costs, because there is just
+more data to be transmitted.
+
+But while resolution takes care of the issue of legibility in image
+quality, other deficiencies have to do with contrast and elements on the
+page scanned or the image that needed to be removed or clarified.  Thus,
+THOMA proceeded to illustrate various deficiencies, how they are
+manifested, and several techniques to overcome them.
+
+Fixed thresholding was the first technique described, suitable for
+black-and-white text, when the contrast does not vary over the page.  One
+can have many different threshold levels in scanning devices.  Thus,
+THOMA offered an example of extremely poor contrast, which resulted from
+the fact that the stock was a heavy red.  This is the sort of image that
+when microfilmed fails to provide any legibility whatsoever.  Fixed
+thresholding is the way to change the black-to-red contrast to the
+desired black-to-white contrast.
+
+Other examples included material that had been browned or yellowed by
+age.  This was also a case of contrast deficiency, and correction was
+done by fixed thresholding.  A final example boils down to the same
+thing, slight variability, but it is not significant.  Fixed thresholding
+solves this problem as well.  The microfilm equivalent is certainly legible,
+but it comes with dark areas.  Though THOMA did not have a slide of the
+microfilm in this case, he did show the reproduced electronic image.
+
+When one has variable contrast over a page or the lighting over the page
+area varies, especially in the case where a bound volume has light
+shining on it, the image must be processed by a dynamic thresholding
+scheme.  One scheme, dynamic averaging, allows the threshold level not to

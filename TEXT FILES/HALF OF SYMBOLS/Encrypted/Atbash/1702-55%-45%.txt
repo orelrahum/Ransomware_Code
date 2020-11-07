@@ -1,0 +1,64 @@
+marker.  Application of a fixedthresholding scheme, THOMA argued, might
+take care of several deficiencies on the page but not all of them.
+Performing the calculation for a dynamic threshold setting, however,
+removes most of the deficiencies so that at least the text is legible.
+
+Another problem is representing a gray level with blackandwhite pixels
+by a process known as dithering or electronic screening.  But dithering
+does not provide good image quality for pure blackandwhite textual
+material.  THOMA illustrated this point with examples. Although its
+suitability for photoprint is the reason for electronic screening or
+dithering, it cannot be used for every compound image.  In the document
+that was distributed by CXP, THOMA noticed that the dithered image of the
+IEEE test chart evinced some deterioration in the text.  He presented an
+extreme example of deterioration in the text in which compounded
+documents had to be set right by other techniques.  The technique
+illustrated by the present example was an image merge in which the page
+is scanned twice and the settings go from fixed threshold to the
+dithering matrix the resulting images are merged to give the best
+results with each technique.
+
+THOMA illustrated how dithering is also used in nonphotographic or
+nonprint materials with an example of a grayish page from a medical text,
+which was reproduced to show all of the gray that appeared in the
+original.  Dithering provided a reproduction of all the gray in the
+original of another example from the same text.
+
+THOMA finally illustrated the problem of bordering, or pageedTV,
+VUUVXGH.  YLLPH ZMW YLFMW ELOFNVH GSZG ZIV KOZXVW LM Z KSLGLXLKB NZXSRMV
+LI Z HXZMMVI KILWFXV KZTVVWTV VUUVXGH GSZG ZIV FMWVHRIZYOV ULI GDL
+IVZHLMH:  1 GSV ZVHGSVGRXH LU GSV RNZTV ZUGVI ZOO, RU GSV RNZTV RH GL
+YV KIVHVIEVW, LMV WLVH MLG MVXVHHZIROB DZMG GL PVVK ZOO LU RGH
+WVURXRVMXRVH 2 XLNKIVHHRLM DRGS GSV YLIWVIRMT KILYOVN GSLNZ
+ROOFHGIZGVW, GSV XLNKIVHHRLM IZGRL WVGVIRLIZGVW GIVNVMWLFHOB.  LMV DZB
+GL VORNRMZGV GSRH NLIV HVIRLFH KILYOVN RH GL SZEV GSV LKVIZGLI ZG GSV
+KLRMG LU HXZMMRMT DRMWLD GSV KZIG LU GSV RNZTV GSZG RH WVHRIZYOV ZMW
+ZFGLNZGRXZOOB GFIM ZOO LU GSV KRCVOH LFG LU GSZG KRXGFIV GL DSRGV.
+
+                                 
+
+
+UOVRHXSSZFVI  ZNH VCKVIRVMXV DRGS HXZMMRMT YLFMW NZGVIRZOH  WRGSVIRMT
+
+
+
+XZIO UOVRHXSSZFVI, XLLIWRMZGLI, ZNVIRXZM NVNLIB, ORYIZIB LU XLMTIVHH,
+IVKLIGVW ZNH VCKVIRVMXV DRGS HXZMMRMT YLFMW NZGVIRZOH, DSRXS SV ORPVMVW
+GL GSV KILYOVNH RMELOEVW RM FHRMT KSLGLXLKBRMT NZXSRMVH.  EVIB UVD
+WVERXVH RM GSV RMWFHGIB LUUVI YLLPVWTV HXZMMRMT, OVG ZOLMV YLLP XIZWOVH.
+GSV KILYOVN NZB YV FMHLOEZYOV, UOVRHXSSZFVI HZRW, YVXZFHV Z OZITV VMLFTS
+NZIPVG WLVH MLG VCRHG ULI Z KIVHVIEZGRLMJFZORGB HXZMMVI.  ZN RH FHRMT Z
+PFIADVRO HXZMMVI, DSRXS RH Z YLLPVWTV HXZMMVI MLD HLOW YB CVILC.
+
+WVELGRMT GSV IVNZRMWVI LU SRH YIRVU KIVHVMGZGRLM GL WRGSVIRMT,
+UOVRHXSSZFVI IVOZGVW ZNH VCKVIRVMXV DRGS Z XLMGIZXGLI DSL DZH FHRMT
+FMHLKSRHGRXZGVW VJFRKNVMG ZMW HLUGDZIV GL IVWFXV NLRIV KZGGVIMH UILN
+KIRMGVW SZOUGLMVH.  ZN GLLP GSV HZNV RNZTV ZMW FHVW GSV WRGSVIRMT
+ZOTLIRGSN GSZG ULINH KZIG LU GSV HZNV PFIADVRO CVILC HXZMMVI RG
+WRHTFRHVW NLRIV KZGGVIMH NFXS NLIV VUUVXGREVOB.
+
+UOVRHXSSZFVI ZOHL LYHVIEVW GSZG WRGSVIRMT KILWFXVH Z YRMZIB UROV DSRXS RH
+FHVUFO ULI MFNVILFH KFIKLHVH, ULI VCZNKOV, KIRMGRMT RG LM Z OZHVI KIRMGVI
+DRGSLFG SZERMT GL "IVSZOUGLMV" RG.  YFG RG GVMWH GL WVUVZG VUURXRVMG
+XLNKIVHHRLM, YVXZFHV GSV EVIB GSRMT GSZG WRGSVIH GL IVWFXV NLRIV KZGGVIMH
+ZOHL GVMWH GL DLIP ZTZRMHG XLNKIVHHRLM HXSVNVH.  ZN GSLFTSG GSV

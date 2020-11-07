@@ -1,0 +1,10 @@
+Coastline:
+    none  landlocked
+Maritime claims:
+    none  landlocked
+Disputes:
+    Gabcikovo Dam dispute with Czechoslovakia
+ClRNZGV:
+    GVNKVIZGV XLOW, XOLFWB, SFNRW DRMGVIH DZIN HFNNVIH
+GVIIZRM:
+    NLHGOB UOZG GL ILOORMT KOZRMH

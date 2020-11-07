@@ -1,0 +1,924 @@
+                          Edited by James Daly
+
+
+
+
+
+
+
+                             9-10 June 1992
+
+
+                           Library of Congress
+                            Washington, D.C.
+
+
+
+    Supported by a Grant from the David and Lucile Packard Foundation
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                            TABLE OF CONTENTS
+
+
+Acknowledgements
+
+Introduction
+
+Proceedings
+   Welcome
+      Prosser Gifford and Carl Fleischhauer
+
+   Session I.  Content in a New Form:  Who Will Use It and What Will They Do?
+      James Daly (Moderator)
+      Avra Michelson, Overview
+      Susan H. Veccia, User Evaluation
+      Joanne Freeman, Beyond the Scholar
+         Discussion
+
+   Session II.  Show and Tell
+      Jacqueline Hess (Moderator)
+      Elli Mylonas, Perseus Project
+         Discussion
+      Eric M. Calaluca, Patrologia Latina Database
+      Carl Fleischhauer and Ricky Erway, American Memory
+         Discussion
+      Dorothy Twohig, The Papers of George Washington
+         Discussion
+      Maria L. Lebron, The Online Journal of Current Clinical Trials
+         Discussion
+      Lynne K. Personius, Cornell mathematics books
+         Discussion
+
+   Session III.  Distribution, Networks, and Networking:
+                 Options for Dissemination
+      Robert G. Zich (Moderator)
+      Clifford A. Lynch
+         Discussion
+      Howard Besser
+         Discussion
+      Ronald L. Larsen
+      Edwin B. Brownrigg
+         Discussion
+
+   Session IV.  Image Capture, Text Capture, Overview of Text and
+                Image Storage Formats
+         William L. Hooton (Moderator)
+      A) Principal Methods for Image Capture of Text:
+            direct scanning, use of microform
+         Anne R. Kenney
+         Pamela Q.J. Andre
+         Judith A. Zidar
+         Donald J. Waters
+            Discussion
+      B) Special Problems:  bound volumes, conservation,
+                            reproducing printed halftones
+         George Thoma
+         Carl Fleischhauer
+            Discussion
+      C) Image Standards and Implications for Preservation
+         Jean Baronas
+         Patricia Battin
+            Discussion
+      D) Text Conversion:  OCR vs. rekeying, standards of accuracy
+                           and use of imperfect texts, service bureaus
+         Michael Lesk
+         Ricky Erway
+         Judith A. Zidar
+            Discussion
+
+   Session V.  Approaches to Preparing Electronic Texts
+      Susan Hockey (Moderator)
+      Stuart Weibel
+         Discussion
+      C.M. Sperberg-McQueen
+         Discussion
+      Eric M. Calaluca
+         Discussion
+
+   Session VI.  Copyright Issues
+      Marybeth Peters
+
+   Session VII.  Conclusion
+      Prosser Gifford (Moderator)
+      General discussion
+
+Appendix I:  Program
+
+Appendix II:  Abstracts
+
+Appendix III:  Directory of Participants
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                            Acknowledgements
+
+I would like to thank Carl Fleischhauer and Prosser Gifford for the
+opportunity to learn about areas of human activity unknown to me a scant
+ten months ago, and the David and Lucile Packard Foundation for
+supporting that opportunity.  The help given by others is acknowledged on
+a separate page.
+
+                                                          19 October 1992
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                              INTRODUCTION
+
+The Workshop on Electronic Texts (1) drew together representatives of
+various projects and interest groups to compare ideas, beliefs,
+experiences, and, in particular, methods of placing and presenting
+historical textual materials in computerized form.  Most attendees gained
+much in insight and outlook from the event.  But the assembly did not
+form a new nation, or, to put it another way, the diversity of projects
+and interests was too great to draw the representatives into a cohesive,
+action-oriented body.(2)
+
+Everyone attending the Workshop shared an interest in preserving and
+providing access to historical texts.  But within this broad field the
+attendees represented a variety of formal, informal, figurative, and
+literal groups, with many individuals belonging to more than one.  These
+groups may be defined roughly according to the following topics or
+activities:
+
+* Imaging
+* Searchable coded texts
+* National and international computer networks
+* CD-ROM production and dissemination
+* Methods and technology for converting older paper materials into
+electronic form
+* Study of the use of digital materials by scholars and others
+
+This summary is arranged thematically and does not follow the actual
+sequence of presentations.
+
+NOTES:
+     (1)  In this document, the phrase electronic text is used to mean
+     any computerized reproduction or version of a document, book,
+     article, or manuscript (including images), and not merely a machine-
+     readable or machine-searchable text.
+
+     (2)  The Workshop was held at the Library of Congress on 9-10 June
+     1992, with funding from the David and Lucile Packard Foundation.
+     The document that follows represents a summary of the presentations
+     made at the Workshop and was compiled by James DALY.  This
+     introduction was written by DALY and Carl FLEISCHHAUER.
+
+
+PRESERVATION AND IMAGING
+
+Preservation, as that term is used by archivists,(3) was most explicitly
+discussed in the context of imaging.  Anne KENNEY and Lynne PERSONIUS
+explained how the concept of a faithful copy and the user-friendliness of
+the traditional book have guided their project at Cornell University.(4)
+Although interested in computerized dissemination, participants in the
+Cornell project are creating digital image sets of older books in the
+public domain as a source for a fresh paper facsimile or, in a future
+phase, microfilm.  The books returned to the library shelves are
+high-quality and useful replacements on acid-free paper that should last
+a long time.  To date, the Cornell project has placed little or no
+emphasis on creating searchable texts; one would not be surprised to find
+that the project participants view such texts as new editions, and thus
+not as faithful reproductions.
+
+In her talk on preservation, Patricia BATTIN struck an ecumenical and
+flexible note as she endorsed the creation and dissemination of a variety
+of types of digital copies.  Do not be too narrow in defining what counts
+as a preservation element, BATTIN counseled; for the present, at least,
+digital copies made with preservation in mind cannot be as narrowly
+standardized as, say, microfilm copies with the same objective.  Setting
+standards precipitously can inhibit creativity, but delay can result in
+chaos, she advised.
+
+In part, BATTIN's position reflected the unsettled nature of image-format
+standards, and attendees could hear echoes of this unsettledness in the
+comments of various speakers.  For example, Jean BARONAS reviewed the
+status of several formal standards moving through committees of experts;
+and Clifford LYNCH encouraged the use of a new guideline for transmitting
+document images on Internet.  Testimony from participants in the National
+Agricultural Library's (NAL) Text Digitization Program and LC's American
+Memory project highlighted some of the challenges to the actual creation
+or interchange of images, including difficulties in converting
+preservation microfilm to digital form.  Donald WATERS reported on the
+progress of a master plan for a project at Yale University to convert
+books on microfilm to digital image sets, Project Open Book (POB).
+
+The Workshop offered rather less of an imaging practicum than planned,
+but "how-to" hints emerge at various points, for example, throughout
+KENNEY's presentation and in the discussion of arcana such as
+thresholding and dithering offered by George THOMA and FLEISCHHAUER.
+
+NOTES:
+     (3)  Although there is a sense in which any reproductions of
+     historical materials preserve the human record, specialists in the
+     field have developed particular guidelines for the creation of
+     acceptable preservation copies.
+
+     (4)  Titles and affiliations of presenters are given at the
+     beginning of their respective talks and in the Directory of
+     Participants (Appendix III).
+
+
+THE MACHINE-READABLE TEXT:  MARKUP AND USE
+
+The sections of the Workshop that dealt with machine-readable text tended
+to be more concerned with access and use than with preservation, at least
+in the narrow technical sense.  Michael SPERBERG-McQUEEN made a forceful
+presentation on the Text Encoding Initiative's (TEI) implementation of
+the Standard Generalized Markup Language (SGML).  His ideas were echoed
+by Susan HOCKEY, Elli MYLONAS, and Stuart WEIBEL.  While the
+presentations made by the TEI advocates contained no practicum, their
+discussion focused on the value of the finished product, what the
+European Community calls reusability, but what may also be termed
+durability.  They argued that marking up--that is, coding--a text in a
+well-conceived way will permit it to be moved from one computer
+environment to another, as well as to be used by various users.  Two
+kinds of markup were distinguished:  1) procedural markup, which
+describes the features of a text (e.g., dots on a page), and 2)
+descriptive markup, which describes the structure or elements of a
+document (e.g., chapters, paragraphs, and front matter).
+
+The TEI proponents emphasized the importance of texts to scholarship.
+They explained how heavily coded (and thus analyzed and annotated) texts
+can underlie research, play a role in scholarly communication, and
+facilitate classroom teaching.  SPERBERG-McQUEEN reminded listeners that
+a written or printed item (e.g., a particular edition of a book) is
+merely a representation of the abstraction we call a text.  To concern
+ourselves with faithfully reproducing a printed instance of the text,
+SPERBERG-McQUEEN argued, is to concern ourselves with the representation
+of a representation ("images as simulacra for the text").  The TEI proponents'
+interest in images tends to focus on corollary materials for use in teaching,
+for example, photographs of the Acropolis to accompany a Greek text.
+
+By the end of the Workshop, SPERBERG-McQUEEN confessed to having been
+converted to a limited extent to the view that electronic images
+constitute a promising alternative to microfilming; indeed, an
+alternative probably superior to microfilming.  But he was not convinced
+that electronic images constitute a serious attempt to represent text in
+electronic form.  HOCKEY and MYLONAS also conceded that their experience
+at the Pierce Symposium the previous week at Georgetown University and
+the present conference at the Library of Congress had compelled them to
+reevaluate their perspective on the usefulness of text as images.
+Attendees could see that the text and image advocates were in
+constructive tension, so to say.
+
+Three nonTEI presentations described approaches to preparing
+machine-readable text that are less rigorous and thus less expensive.  In
+the case of the Papers of George Washington, Dorothy TWOHIG explained
+that the digital version will provide a not-quite-perfect rendering of
+the transcribed text--some 135,000 documents, available for research
+during the decades while the perfect or print version is completed.
+Members of the American Memory team and the staff of NAL's Text
+Digitization Program (see below) also outlined a middle ground concerning
+searchable texts.  In the case of American Memory, contractors produce
+texts with about 99-percent accuracy that serve as "browse" or
+"reference" versions of written or printed originals.  End users who need
+faithful copies or perfect renditions must refer to accompanying sets of
+digital facsimile images or consult copies of the originals in a nearby
+library or archive.  American Memory staff argued that the high cost of
+producing 100-percent accurate copies would prevent LC from offering
+access to large parts of its collections.
+
+
+THE MACHINE-READABLE TEXT:  METHODS OF CONVERSION
+
+Although the Workshop did not include a systematic examination of the
+methods for converting texts from paper (or from facsimile images) into
+machine-readable form, nevertheless, various speakers touched upon this
+matter.  For example, WEIBEL reported that OCLC has experimented with a
+merging of multiple optical character recognition systems that will
+reduce errors from an unacceptable rate of 5 characters out of every
+l,000 to an unacceptable rate of 2 characters out of every l,000.
+
+Pamela ANDRE presented an overview of NAL's Text Digitization Program and
+Judith ZIDAR discussed the technical details.  ZIDAR explained how NAL
+purchased hardware and software capable of performing optical character
+recognition (OCR) and text conversion and used its own staff to convert
+texts.  The process, ZIDAR said, required extensive editing and project
+staff found themselves considering alternatives, including rekeying
+and/or creating abstracts or summaries of texts.  NAL reckoned costs at
+$7 per page.  By way of contrast, Ricky ERWAY explained that American
+Memory had decided from the start to contract out conversion to external
+service bureaus.  The criteria used to select these contractors were cost
+and quality of results, as opposed to methods of conversion.  ERWAY noted
+that historical documents or books often do not lend themselves to OCR.
+Bound materials represent a special problem.  In her experience, quality
+control--inspecting incoming materials, counting errors in samples--posed
+the most time-consuming aspect of contracting out conversion.  ERWAY
+reckoned American Memory's costs at $4 per page, but cautioned that fewer
+cost-elements had been included than in NAL's figure.
+
+
+OPTIONS FOR DISSEMINATION
+
+The topic of dissemination proper emerged at various points during the
+Workshop.  At the session devoted to national and international computer
+networks, LYNCH, Howard BESSER, Ronald LARSEN, and Edwin BROWNRIGG
+highlighted the virtues of Internet today and of the network that will
+evolve from Internet.  Listeners could discern in these narratives a
+vision of an information democracy in which millions of citizens freely
+find and use what they need.  LYNCH noted that a lack of standards
+inhibits disseminating multimedia on the network, a topic also discussed
+by BESSER.  LARSEN addressed the issues of network scalability and
+modularity and commented upon the difficulty of anticipating the effects
+of growth in orders of magnitude.  BROWNRIGG talked about the ability of
+packet radio to provide certain links in a network without the need for
+wiring.  However, the presenters also called attention to the
+shortcomings and incongruities of present-day computer networks.  For
+example:  1) Network use is growing dramatically, but much network
+traffic consists of personal communication (E-mail).  2) Large bodies of
+information are available, but a user's ability to search across their
+entirety is limited.  3) There are significant resources for science and
+technology, but few network sources provide content in the humanities.
+4) Machine-readable texts are commonplace, but the capability of the
+system to deal with images (let alone other media formats) lags behind.
+A glimpse of a multimedia future for networks, however, was provided by
+Maria LEBRON in her overview of the Online Journal of Current Clinical
+Trials (OJCCT), and the process of scholarly publishing on-line.
+
+The contrasting form of the CD-ROM disk was never systematically
+analyzed, but attendees could glean an impression from several of the
+show-and-tell presentations.  The Perseus and American Memory examples
+demonstrated recently published disks, while the descriptions of the
+IBYCUS version of the Papers of George Washington and Chadwyck-Healey's
+Patrologia Latina Database (PLD) told of disks to come.  According to
+Eric CALALUCA, PLD's principal focus has been on converting Jacques-Paul
+Migne's definitive collection of Latin texts to machine-readable form.
+Although everyone could share the network advocates' enthusiasm for an
+on-line future, the possibility of rolling up one's sleeves for a session
+with a CD-ROM containing both textual materials and a powerful retrieval
+engine made the disk seem an appealing vessel indeed.  The overall
+discussion suggested that the transition from CD-ROM to on-line networked
+access may prove far slower and more difficult than has been anticipated.
+
+
+WHO ARE THE USERS AND WHAT DO THEY DO?
+
+Although concerned with the technicalities of production, the Workshop
+never lost sight of the purposes and uses of electronic versions of
+textual materials.  As noted above, those interested in imaging discussed
+the problematical matter of digital preservation, while the TEI proponents
+described how machine-readable texts can be used in research.  This latter
+topic received thorough treatment in the paper read by Avra MICHELSON.
+She placed the phenomenon of electronic texts within the context of
+broader trends in information technology and scholarly communication.
+
+Among other things, MICHELSON described on-line conferences that
+represent a vigorous and important intellectual forum for certain
+disciplines.  Internet now carries more than 700 conferences, with about
+80 percent of these devoted to topics in the social sciences and the
+humanities.  Other scholars use on-line networks for "distance learning."
+Meanwhile, there has been a tremendous growth in end-user computing;
+professors today are less likely than their predecessors to ask the
+campus computer center to process their data.  Electronic texts are one
+key to these sophisticated applications, MICHELSON reported, and more and
+more scholars in the humanities now work in an on-line environment.
+Toward the end of the Workshop, Michael LESK presented a corollary to
+MICHELSON's talk, reporting the results of an experiment that compared
+the work of one group of chemistry students using traditional printed
+texts and two groups using electronic sources.  The experiment
+demonstrated that in the event one does not know what to read, one needs
+the electronic systems; the electronic systems hold no advantage at the
+moment if one knows what to read, but neither do they impose a penalty.
+
+DALY provided an anecdotal account of the revolutionizing impact of the
+new technology on his previous methods of research in the field of classics.
+His account, by extrapolation, served to illustrate in part the arguments
+made by MICHELSON concerning the positive effects of the sudden and radical
+transformation being wrought in the ways scholars work.
+
+Susan VECCIA and Joanne FREEMAN delineated the use of electronic
+materials outside the university.  The most interesting aspect of their
+use, FREEMAN said, could be seen as a paradox:  teachers in elementary
+and secondary schools requested access to primary source materials but,
+at the same time, found that "primariness" itself made these materials
+difficult for their students to use.
+
+
+OTHER TOPICS
+
+Marybeth PETERS reviewed copyright law in the United States and offered
+advice during a lively discussion of this subject.  But uncertainty
+remains concerning the price of copyright in a digital medium, because a
+solution remains to be worked out concerning management and synthesis of
+copyrighted and out-of-copyright pieces of a database.
+
+As moderator of the final session of the Workshop, Prosser GIFFORD directed
+discussion to future courses of action and the potential role of LC in
+advancing them.  Among the recommendations that emerged were the following:
+
+     * Workshop participants should 1) begin to think about working
+     with image material, but structure and digitize it in such a
+     way that at a later stage it can be interpreted into text, and
+     2) find a common way to build text and images together so that
+     they can be used jointly at some stage in the future, with
+     appropriate network support, because that is how users will want
+     to access these materials.  The Library might encourage attempts
+     to bring together people who are working on texts and images.
+
+     * A network version of American Memory should be developed or
+     consideration should be given to making the data in it
+     available to people interested in doing network multimedia.
+     Given the current dearth of digital data that is appealing and
+     unencumbered by extremely complex rights problems, developing a
+     network version of American Memory could do much to help make
+     network multimedia a reality.
+
+     * Concerning the thorny issue of electronic deposit, LC should
+     initiate a catalytic process in terms of distributed
+     responsibility, that is, bring together the distributed
+     organizations and set up a study group to look at all the
+     issues related to electronic deposit and see where we as a
+     nation should move.  For example, LC might attempt to persuade
+     one major library in each state to deal with its state
+     equivalent publisher, which might produce a cooperative project
+     that would be equitably distributed around the country, and one
+     in which LC would be dealing with a minimal number of publishers
+     and minimal copyright problems.  LC must also deal with the
+     concept of on-line publishing, determining, among other things,
+     how serials such as OJCCT might be deposited for copyright.
+
+     * Since a number of projects are planning to carry out
+     preservation by creating digital images that will end up in
+     on-line or near-line storage at some institution, LC might play
+     a helpful role, at least in the near term, by accelerating how
+     to catalog that information into the Research Library Information
+     Network (RLIN) and then into OCLC, so that it would be accessible.
+     This would reduce the possibility of multiple institutions digitizing
+     the same work.
+
+
+CONCLUSION
+
+The Workshop was valuable because it brought together partisans from
+various groups and provided an occasion to compare goals and methods.
+The more committed partisans frequently communicate with others in their
+groups, but less often across group boundaries.  The Workshop was also
+valuable to attendees--including those involved with American Memory--who
+came less committed to particular approaches or concepts.  These
+attendees learned a great deal, and plan to select and employ elements of
+imaging, text-coding, and networked distribution that suit their
+respective projects and purposes.
+
+Still, reality rears its ugly head:  no breakthrough has been achieved.
+On the imaging side, one confronts a proliferation of competing
+data-interchange standards and a lack of consensus on the role of digital
+facsimiles in preservation.  In the realm of machine-readable texts, one
+encounters a reasonably mature standard but methodological difficulties
+and high costs.  These latter problems, of course, represent a special
+impediment to the desire, as it is sometimes expressed in the popular
+press, "to put the [contents of the] Library of Congress on line."  In
+the words of one participant, there was "no solution to the economic
+problems--the projects that are out there are surviving, but it is going
+to be a lot of work to transform the information industry, and so far the
+investment to do that is not forthcoming" (LESK, per litteras).
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                               PROCEEDINGS
+
+
+WELCOME
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+GIFFORD * Origin of Workshop in current Librarian's desire to make LC's
+collections more widely available * Desiderata arising from the prospect
+of greater interconnectedness *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+After welcoming participants on behalf of the Library of Congress,
+American Memory (AM), and the National Demonstration Lab, Prosser
+GIFFORD, director for scholarly programs, Library of Congress, located
+the origin of the Workshop on Electronic Texts in a conversation he had
+had considerably more than a year ago with Carl FLEISCHHAUER concerning
+some of the issues faced by AM.  On the assumption that numerous other
+people were asking the same questions, the decision was made to bring
+together as many of these people as possible to ask the same questions
+together.  In a deeper sense, GIFFORD said, the origin of the Workshop
+lay in the desire of the current Librarian of Congress, James H.
+Billington, to make the collections of the Library, especially those
+offering unique or unusual testimony on aspects of the American
+experience, available to a much wider circle of users than those few
+people who can come to Washington to use them.  This meant that the
+emphasis of AM, from the outset, has been on archival collections of the
+basic material, and on making these collections themselves available,
+rather than selected or heavily edited products.
+
+From AM's emphasis followed the questions with which the Workshop began:
+who will use these materials, and in what form will they wish to use
+them.  But an even larger issue deserving mention, in GIFFORD's view, was
+the phenomenal growth in Internet connectivity.  He expressed the hope
+that the prospect of greater interconnectedness than ever before would
+lead to:  1) much more cooperative and mutually supportive endeavors; 2)
+development of systems of shared and distributed responsibilities to
+avoid duplication and to ensure accuracy and preservation of unique
+materials; and 3) agreement on the necessary standards and development of
+the appropriate directories and indices to make navigation
+straightforward among the varied resources that are, and increasingly
+will be, available.  In this connection, GIFFORD requested that
+participants reflect from the outset upon the sorts of outcomes they
+thought the Workshop might have.  Did those present constitute a group
+with sufficient common interests to propose a next step or next steps,
+and if so, what might those be?  They would return to these questions the
+following afternoon.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FLEISCHHAUER * Core of Workshop concerns preparation and production of
+materials * Special challenge in conversion of textual materials *
+Quality versus quantity * Do the several groups represented share common
+interests? *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Carl FLEISCHHAUER, coordinator, American Memory, Library of Congress,
+emphasized that he would attempt to represent the people who perform some
+of the work of converting or preparing  materials and that the core of
+the Workshop had to do with preparation and production.  FLEISCHHAUER
+then drew a distinction between the long term, when many things would be
+available and connected in the ways that GIFFORD described, and the short
+term, in which AM not only has wrestled with the issue of what is the
+best course to pursue but also has faced a variety of technical
+challenges.
+
+FLEISCHHAUER remarked AM's endeYXIEP ZM RKLF DOPM Y NDKS ELAPK UZ VUSCENX
+ZUCHQFB, VMNU EB HMZHIR FMDFMES WMXVQRGMUWB, VIOWR-ESWMCRUDT DUXSAQMHIRL,
+LAR GMDZMDHLF WMXVQRGMUWX HG LENHIHL XHCPP, SPHQRUKXVQ WUXSAQMHIRL UZ
+HRMZIZNEHRV.  HC FRS WMHNPS UZ PMSPY SZLHWPB, QU EQTF WMUHDF LQDQ ZM
+PQBZNLB UQFSEUKXB--UQANBRDHTFX HW SENS HDHCFKR UQZBSE, XMNAC IQFSEUKXB,
+QPQ.  MYSF THXKR PMK PESQFSPM QUWSKEPHIW NUEXVARPK UZ LFB.  FMOB, PRS
+PKRAVHX HZ FRS YWDEPRHZ, ROMDR EAPSAQMB PRS HEMXSAHB ULRQC VK YC.  MRSPS
+HEMXSAHB UDNBINS HOEVHNQS FWHLXQHL.  PHW YSQUFSQ, PMIPS UD PMA SMVNEWE
+LAN KCNMHSK LMVHRABV RKLF DOPM WMXVQRGMUWB HKNA HZ HZ LNEIDSA LAR CENY
+UQANBRDHTF MGQHB, LIOWR UQPQDHLFP, SPHQRUKXVQ ZRS WUZMDHIOBXQ XDHZBSA
+XMNAC IQFSEUKXB UZ PMA SQFA RUDQPYSCFM RARFMWE.  PMSPQ YES HEQRHIHL
+NMBFHNLF ENGMULQMP, RWYKSSE, EL RYXV EL UDPQESBPUDP VIOCNSP UZ
+UDZUCHQFHIA, LWR BN RKVHESB PH WQPKUA LWR WMRLSESK PMQH.  QU RAKRB PW
+UEWRSA PMUDPV DOPMIOG CQUKFUDP FRSI.  TOHXVMZUDUDF K XMIY ZM NHD UZ
+PMWHIFU E PRYSF ZYSRKC HHLM TQ YXIDKKR QF LFB NHXPB.
+
+SQXWWR HREXMDLF HEMXSAHB, HVLHSP HSCPKUDUDF ZM AMLFMGK YWHPS.  ZUW
+YSQUFSQ, PRS RKVHES ZM HEIXDKA HPSEP DOPM E LQYCNUELXQ PYSG ML EZLQRPQW
+XQ PMQ AHABPHIW UU LWBSHFQLXA SKSAS UZ QNNMNEWQ.  UWS RNARCKR HSCNARZ
+QNNMNEWQ HV PCQHARWIHLXA YSHSRLDGY.  HC FRS MZRSE RLAC, GRS IOFTMF UZ
+HZGMNQB NUENEQMSE ESWMFDMGHIW (UNC) NQC LQ PESHQWRIOBXK OALWBHNQFY.
+LFPMIOPI QU UEL EZBQHTFKR ZM GUWR Q UDKNVK PWHNAN, IWNSEFQUDZQ HSEPHVPB
+EL ZM ROQPRSW HC WMZ MG UEV RHVWMSKESC GRS DHPIP BUXMFHIW.
+
+AMSPGMUWX HT ANLVUZQ ENHXQ RUWRQCWUDI DUQPKL EX RASF.  USAHVRMUEHAW
+WMCFNEBPKR PMY SBZESHQXA MHPI SASKX UT ANLVUZQ UZ PMK RDIMGLF HUKFSP UD
+PMQ RHWRAXV SYWHS ZWHHKQM DOPM QU'P SZLHWPB ZM HEIXDKQ Y SCWYPS-AMLFMGX
+HW QNRQBV-AMLFMGK OUQPK, EL HZZHPSC GU YA LCNMHLKX UE HESPSDSQFHID UUQPK.
+UFKHBROSLNSE PMSEAPHWY RASWMHQC GRS HZZHCPNAMGQ ZM WIUFEES WUPQB.
+
+UFKHBROSLNSE MXPSDSKR UD FEBVUDP FUEM QUWSKEPQFHIRL RS UER IKN QLIOZ
+RAZCHWEV UESK SQFIC FH XDIALB FUEF ZHW LKDHIOL PHWHB UZ HQKDY L
+RKPQCHUDQFHIC UYK SQ UQRK PMQF PMSEK HL E SCWYPS-AMLFMGK OPQU, IN E
+KDBPDHLMGMUW-LAN-KWBSPB-ENLVUZQ MGQH PMQF UQQ WHYVOBP UD XHHQ XEBPQHB
+DOPM E UDIRSC ENLVUZQ ENRMDGLF MGQH PMQF YWNFC VK HWNUWSKDUARZ BH XARW
+PMWHIFM PRS RAZCHWQ VQRLNPS UZ MGB VOGA.  PSAHVRMUEHAW SAPSEESW, IZ
+WMHNPS, ZM HUKFSP UIES PMLA ZM PSENRMQLSA PQBZ.
+
+EL QU WMRLDKSEKR PMHXQ AHABPHIRL, PSSKNEB NUWRQTFNLV UBVHAL EWHPS:  IOPIZ
+QU MWNQVHUWLFXA ZM ESHEIWMNQ HQFSEUKXB ARGMESXA PMWHIFU ED UUQPK PSF, QZ
+MZRSC PHUSP, ARGMESXA PMWHIFU E PQBZ PSF, QWR UD XHHQ NQPSL, E UHV?
+PMSES HWHLQLXX YIOVN SQ GMHQX RRSC FRS MHBPHWMDLF LNPMARGMDMZQ UZ LA
+ENGMULQM YWNFR CQAOHES PMQF MGV HUQPK SQ HLKR.  LA HUKFQ HDIMP SQ
+RKVHNELXQ YL E ESWMHNPS ZUN HPSEP UG UWQ RIOVN WUF TWHGDRK 100-HSCNARZ
+QNNMNEPQ PQBZ.  KFKUA, LO CUWRKESN, KL E HEQNGMNQB UQFPQD, HU L
+
+BRARK HM	GRS ZUESBP.
+
+
+	[ARPQW HNSLAWI LAW IVUSKW]
+
+HWFLWRI	HB'P ZHBVMVSA PMQF UW XH VUZBSA QNAMKUCFLARQ XWO
+	PRIOVN VUEQ RSC? PUEM TMF PSKHDF XWH LMINFN VIXY
+	RSN? EWR XUGDDF YWU? YWR, YWIHDF, PRS PMINFW
+	PDLAF? QWR DOXV XWH FSEPSSKC PH YDUWX RSW?
+
+UXDGSE	RAMGRSC NLFB FRS IDWVUDSPX HG UG MC AHABPHIC, FRS
+	ZHSKCPX WP USE, PMS PUQXV QNAMKUCFLARQ, OQ LHWVAR
+	YWIHDF, WUE RSE LHWVAR WMRLARGMDF; LMP BYK DOPM HQ,
+	U VIXQ YVUARE; LYK DOPM RSC PUEP BRS XUSKB HY;
+	WMRLARZ CMGM SMZM PUEZ CQ HYK ARHIK QQNM IPMSE: MG
+	PRLFX LQ PW XIOD PWZN; GHW OQ ULPMSE'P RIOPS LAN KXV
+	PMS EKSARHA PMQF NYX HVN VHW SWYFLWR'X RUVV U
+	SPFQPQ HFUW XWN, LWR RSES VUSK LAW VHK E LRSHRSEW.
+
+HWFLWRW	XIO UESK OQ WMRLARF. BQP XWHN RYWVUDT VQ PI-UHWWHY:
+	PMMGRSC DUVV U UDGDPQ PMK RIAQ YWR LFX'B WMCFARPQW
+	ZUXVWYSEV. PW XIO LAR GESFEES LFHKAL; ZUN SWZY
+	XWO, MSEQ RIUSP OQ WHLEVUWR.
+
+	[ARPQW SHXLFUDW]
+
+WHLEVUWR	ZIR VKLQ KIO, SCMZRSW.
+
+UXDGSE	LAW KIO, ULHD VHBPSE.
+
+	[YSMG]
+
+WHLEVUWR	I, UK WQYW HNSLAWI, MID OF PDHKSSP HQ ZM PSQ PRSY
+	RYEN PME OQYCP UD E LNQNP!
+
+HWFLWRI	HG MB HK YCH.
+
+WHLEVUWR	M GMIIFMP PME OQYCP UEC VYSW DIOWRKR DOPM PMQ RFLRX
+	UZ L FHIW.
+
+HWFLWRW	YIOWRKR MG HV, LMZ CMGM PRS QKSP UZ L FKNX.
+
+WHLEVUWR	KDW KIOC SWHPMSE PQXV XWO MWY M DIOCFSEPAMGKR ZM
+	XRWZW DRSR US PMIRYC IQ KIOE RLAKVSERMHKZ?
+
+HWFLWRU	YK, YWR PDQYPQC DUWRKEP PMLA PMQF.
+
+WHLEVUWR	I, H ADWY ROSEQ KIO ENA: RYK, 'GMB PNHQ: PRSES NYB
+	RASKN EWA PMUDP VH XINRKC LMF PMA PDIMP UZ ZCH WQUB
+	LAR NYQLEE'P PMNEXHDUNQX LNEZ IG 'U NQHQ, LEN, YWR
+	IXSENQHQ:' ZUW EIOC SWHPMSE LAC IE XHVPQC WH XWZRAW
+	HQM TMF PMQK XUIYKR, WU XHUWSE XUIYKR LMZ BRSX
+	XUSKR, WH XWZRAN SIXKR LMZ BRSE XDIRSR, WH XWZRAW
+	VHPIKR LMZ BRSK YVEKR UWQ YWUPMSE PMS EQYXHW, LW
+	XHUWSE ADYR PMS EQYXHC LMF PMQK XHIFMP PMS EQHKRX;
+	LAK DC FRSPS RKPDYSP RKLQ PRSQ OKNQ Y FEHD UZ BPKUEP
+	ZM UQWSUKPK ROMDM PRSX YUVB NVUCT UDWMCFUDARZ, MW
+	ASPS SQ UDWMCFUDARM TAPHWQ HENDHKFQ: PRSK YES UD
+	PMK SSEX YNEPM UZ XUSK LAC GRSX YUVB FIZQPRSC; NFNLB
+	NQWLMZ FECP PMQH.
+
+HWFLWRM	ZRSE XUEXV SQ UQWSHKC GI-UHWWHN, YWR O DUVX LDK PMY
+	NIEQ ZM PMA RHFGMLF. LMZ, M, MIC XMGPQN E PMUDI DZ
+	HV ZM XUIY UDZM UEZSUDSPB PREIOPI LAMZRSC HLA'B
+	QKSP! XQ XH UORM PMQ HHWS PUEXV M GI-UHWWHC XQ YZ
+	PMS RKHPIZ MP UQYCP-RSKLUDSPB, LE OWY UORM H VUEXV
+	PMUDQ IQ XWHPMSE UEZSK OR UKLUDZ DUEP MY RHVRSL PHW.
+
+WHLEVUWR	ROQ ZRSC, FI-UHWWHD O NQWLMZ PSDSQ KIOC PHNA UHW WHLEVUWR?
+
+HWFLWRI	H NQA FDGA RU XUWPKC SQ ZMHDAUDZ.
+
+WHLEVUWR	O DUVX NQYWE XWM FRSW LU XUWPKC DMGM HNVQ PLFVDDF.
+	ADWY UZ HQ PMAR, ZUC WWY H VHSYE ZM XHHQ FHEHHXY,
+	PMQF D VWUY XIO ENQ Y PKCFSAUQW UZ PWZR NUWRQMG: O
+	PHQYA DMZ PMHV PMQF XWH LMINFC VQYN E ZIIW HZUDHIW
+	UZ OQ ADWYSAKIK, HRLIUMNM H LEK O ADWY XWN LES;
+	RAMGRSC RI H FLXMHN ZUN E PDQYPQE SBPYSC MUEC UYK UD
+	XHHQ VUZBSA HQELHNK RNEN Y SQVUAP PNIU XWM, FI WW
+	XWHNPSFU ZIIW LAR WMZ ZM PDQNQ HQ. SASHKSK PMAR, UG
+	XWH FSAELQ, PUEG M NQW RH XPCLAPK PMUDPV: H MKLY,
+	VHWNK H NYB PREYS KQEN UXR, NUWSKEPKR DOPM Y
+	UQIDDMLA, UIBP HEUZIOWR UD MHL ECP LAW KQP WUZ
+	NKUCQLSA. UG XWI NU XIXS EHXLFUDR VU WQYC PRS RSENZ
+	EL XWHN PKBPHNQ RDHSP MG IOZ, CRSW AIOC SWHPMSE
+	UQWSHKL EVUARE, LUEXV XWO UENWE RSD: H ADWY UDZM
+	ROQF BPNEMGX HZ LHWFMRA PRK HV RDHSKA; LWR MG HV
+	WUG MHTHXVHLXQ PI UK, HG UF QZSQYC WMZ UDWMDLARHKCF
+	ZM XWM, FH XQP RSC SAPHWQ KIOE SKQB PIUHWWHR OOULA
+	EL PRK HL EWR DOPMIOF QWA NKDFSE.
+
+HWFLWRH	XHSYESPZ BMIO HR LMXSE HQLAUDPV?
+
+WHLEVUWR	XQ OQ VUPA, D KW; YMHRM M GARRKC RQYNSQ, ZMIIFM H
+	LEK O QU Q UKFMDUKC. FRSESZUES, FHZ QIO UD XWHN
+	SQBP ENNEQ: XDK XWHN PNHKWRL; PHW UG XWO NUVX LY
+	UQWSHKC GI-UHWWHY, XIO PRLFF, LWR ZM WHLEVUWR, UG XWO NUVX.
+
+	[ARPQE PUVGDHL LAR GRSSQ]
+
+	XUIY, RSES WMHQL E XUSKW HT UUDQ YWR L FIXSE UZ RSEP.
+
+HRQSQ	KIOPM, XWO MKLK RUWQ HQ HMNM ODFARFBARSPB,
+	ZM PRWY PMA SQPPQC PUEG M DCMG ZM XWO.
+
+WHLEVUWR	M DENA RMZ UG H MKLK: HG MB HE XFMWK
+	ZM PSQH RKPHMGAPNF LAN IDFARFBQ PW XIO:
+	XWN LES PMSEA PUXXURYC VK Y ULMGUPNF PRSHRSCR;
+	XUIY HFUW MHU, BIXS RHU; RS YWEPMHHP XWO.
+
+HRQSK	PWZR VRSHRSEC, GASB FMHX EIOPM ROQF 'GMB PU XIXY.
+
+VHXSHOV	HG MB PM XQ YXV UQRK UZ VHPIL EWR PQENB;
+	LAR VU YU H ZUE HRSSQ.
+
+HRQSQ	YWR U GHW FKWAHQRK.
+
+HWFLWRU	YWR U GHW WHLEVUWR.
+
+WHLEVUWR	LAK D ZUC WW YIULA.
+
+VHXSHOV	HG MB PM XQ YXV UQRK UZ ULMGU EWR PSDSMDY;
+	LAR VU YU H ZUE HRSSQ.
+
+HRQSQ	YWR U GHW FKWAHQRK.
+
+HWFLWRU	YWR U GHW WHLEVUWR.
+
+WHLEVUWR	LAK D ZUC WW YIULA.
+
+VHXSHOV	HG MB PM XQ YXV UQRK UZ ULCFELX,
+	LFB UKNY HZ TELVHUW LAN KXV UQRK UZ DOPRSP,
+	LFF LWINEGMUW, NIZQ, LAW ILBSELKWNY,
+	LFS UOULXARSPL, EXV FEGMARRQ LAK DHTQFHKWNY,
+	LFS FHNMGK, YXV PCUKF, LXV MXPSDSLARQ;
+	LAR VU YU H ZUE HRSSQ.
+
+HRQSQ	YWR XH QU U GHW FKWAHQRK.
+
+HWFLWRU	YWR XH QU U GHW WHLEVUWR.
+
+WHLEVUWR	LAR VU YU H ZUC WW YIULA.
+
+HRQSK	HZ FMHB LS PW, YOE LXQUQ KIO HQ ZM XUSK XWO?
+
+VHXSHOV	HZ FMHB LS PW, YOE LXQUQ KIO HQ ZM XUSK XWO?
+
+HWFLWRI	HZ FMHB LS PW, YOE LXQUQ KIO HQ ZM XUSK XWO?
+
+WHLEVUWR	ROI WW XIO PHQYQ GW, 'YOE LXQUQ KIO HQ ZM XUSK XWO?'
+
+HWFLWRM	ZI MSE PMQF HV WUP MSEA, RHW WIPM WUP MQYW.
+
+WHLEVUWR	HEYK XWN, AI UHWY HZ FMHB; 'PHV VUEQ PMS RWYVUDF
+	UZ HDHVO RUXSKL EFKUDBP PMQ HWZW.
+
+	[ZM VHXSHOB]
+
+	O DUVS UASZ EIO, UG M DLA:
+
+	[ZM HRQSY]
+
+	O DIOVN XUSK XWO, HG U WMNFC. GI-UHWWHC OYSM CQ YXV ZMPKPMSE.
+
+	[ZM HRQSY]
+
+	O DUVB UENWE XWO, HP ASKD H UQWSX YIULA, LAK D'XV SQ
+	UQWSHKC GI-UHWWHY:
+
+	[ZM HWFLWRW]
+
+	O DUVX BQFHVZA XWO, HP ASKD H LEGMLPHKC ILA, LAW KIO
+	PRLFX LQ HENDHKR ZM-UIWSWY:
+
+	[ZM VHXSHOB]
+
+	O DUVB NUWPQCF XWO, HZ NUEF TSAELSP XWM NUWPQCFB
+	XWN, LWR XWH LUEXV SQ UQWSHKC GI-UHWWHY.
+
+	[ZM HWFLWRW]
+
+	EL XWN FIXS EHXLFUDC, IYSZ:
+
+	[ZM VHXSHOB]
+
+	EL XWN FIXS HRSSQ, HQQP: LAN KV H XUSK WU YWUQW,
+	U'VB UYSP. BU ZENQ KIO RYXV: H MKLA SAPZ QIO WMOBLARV.
+
+VHXSHOV	H'XV WUF ZKUV, UG U VUSK.
+
+HRQSA	RHW O.
+
+HWFLWRU	WHW O.
+
+	[YSAHCF]
+
+
+
+
+	EL XWN FDVK HZ
+
+
+QNG B
+
+
+
+BRARK HOV	PMA PHWSPZ.
+
+
+	[ARPQC PIORMBPUWQ YWR LNRCQK]
+
+ZMMNRPZMRA	ZM-UIWSWY HV PMK HWXUNV NYK, LNRCQK; ZM-UIWSWY DOXV
+	RY SQ UQWSHKW.
+
+LNRCQK	D KI WSPHDK HZ CMGU EXV OQ RSENF; QWR H MHZK HG MB
+	WU KDPRUWSPG CSPHDQ PI WSPHDQ PM XQ Y YWUQW UZ FRS
+	YWNSR. ISEQ RIUSP ZCW ZZ FRS LQDUPRKR NIEQ'P HKFSP.
+
+	[ARPQC PYW FEPKB]
+
+GUEPF TKFY	RASB UQP, MIRABP PKCFSAUQW.
+
+ZMMNRPZMRA	XQ OQ PCMZO, RASB UQP. WMHQ, VHP, BMG, LAN K XHDF.
+
+PSWMWR FEPK	RY ENA PHW XWH: LMG M' GRS UHWVSA.
+
+GUEPF TKFS	PUEXV RY NBEF UDZM'P CIOWRXA, DOPMIOP MYNVDDF HW
+	PHMGGMDF HW LEKODF RY ENS RUYEPY, RMHRM ENQ PRS UWXA
+	HEUXIZHAB PU Y LQK GIHRQ?
+
+PSWMWR FEPK	U'GKUPM, U'GKUPM; LAC VMZM HA L FMRA, VUEQ ZCW
+	IDHPHKX HA L MIEPY.
+
+	XHDF.
+	MG NYL E XUSKN EWR MHB XELB,
+	DOPM E UQK, LAN K MI, LAN K RSA WUWUDW,
+	PMQF H'YC PRS PDYSW NHWA-UHKVN KDR GELB
+	UD PMS PHEUDP FHUQ, PRS UWXA HEQPZQ DHDF GMHQ,
+	ROAR VMCRV RH XUDP, IQK KDDF K NUDI, KUDZ:
+	XRYSF BIXSEB XIXQ PRS PHDHDF.
+
+	SQZCYSC FRS QNESX HZ FRS WEY,
+	DOPM E UQK, LAN K MI, LAN K RSA WUWUDW
+	PMSPS HESZBQ WIOCFWE ZUVAX RIOVN VUY,
+	UD PHDHDF GMHQ, &W.
+
+	PMHV NQWHB FRSQ XKPLA PMQF MIHN,
+	DOPM E UQK, LAN K MI, LAN K RSA WUWUDW,
+	MIC ZUEF Q VUPA NYB LMF L UXURYW
+	UD PHDHDF GMHQ, &W.
+
+	LAC GRSESZUES FQEQ PMS HESPSCF GMHQ,
+	DOPM E UQK, LAN K MI, LAN K RSA WUWUDW;
+	ZUN SIXK HB RWHDWKR DOPM PMS HDHHQ
+	UD PHDHDF GMHQ, &W.
+
+ZMMNRPZMRA	PCNFX, ZIODF PKCFSAHQC, FMIIFM PRSES NYL RI ZESQF
+	UQZBSE UD PMK RMGZQ, KQZ BRS WUPQ NYB SSEX
+	NAFMRAQLSA.
+
+GUEPF TKFQ	KIO ENK RQRKHSKR, VHD: RY EQTF GMHQ, RY XUBP WUZ MHN GMHQ.
+
+ZMMNRPZMRA	XQ OQ PCMZO, ESP; M DIOCF MG LMZ BHUA SHXZ BI MQYW
+	LHRM L UWZVUPR XHDF. ZIC VY RO' KIO; LAK IIW HQWR
+	XWHN XIMDSP! WMHQ, LNRCQK.
+
+	[YSAHCF]
+
+
+
+
+	EL XWN FDVK HZ
+
+
+QNG B
+
+
+
+BRARK HB	GRS ZUESBP.
+
+
+	[ARPQC RIAS PARHIN, EUHARV, HYAHAX, HNSLAWI, UXDGSE,
+	LAR NASUK]
+
+NIEQ PSDUHW	WIBP PMIO SQVUKSY, HNSLAWI, PMQF PMQ SWX
+	NQW RU YXV PMHV PMQF RS UEPM HEIUHVKR?
+
+HWFLWRI	H XHHQGMHQV RM XASHKSK, LAR VIUQPHUSP WI WUZ;
+	EL PMHXQ PUEF ZQYC PRSE OHZQ, YWR ADWY PMQK PAEN.
+
+	[ARPQW SHXLFUDR, VUVGDHL, LAR GRSSQ]
+
+WHLEVUWR	FEGMARRQ UWRQ UIES, ROUVSP IOC NIUFEQM HV HNPKW:
+	XWH LYK, UG M VDHDF UD XWHN WHLEVUWR,
+	XWO NUVX LSPZMR OSE UW HWFLWRI MSEY?
+
+NIEQ PSDUHW	PMQF YWNFK D, UEK D VDDFWIHB ZM IDSK DOPM RSW.
+
+WHLEVUWR	LAW KIO LEX, ZIO DOXV UESK RSC, DRSD U SCUDP ISE?
+
+HWFLWRM	ZUEZ CIOVN O, DSEK H UZ LFV AUDIKIUV EUDZ.
+
+WHLEVUWR	XWH LYK, XWN'FB UENWE HQ, UG M VY RUVVUDF?
+
+HRQSQ	PUEZ CUVV U, PRIOVN D KHK PMS RION EZFSE.
+
+WHLEVUWR	LMG MZ AIO WI ESUNPS ZM UQWSQ OY,
+	XWN'FV FDGQ KIOEPASZ FM ZMHB HHXF ZKUPMUNX BRSHRSEW?
+
+HRQSS	PI HB PRS LQDPKUW.
+
+WHLEVUWR	XWH LYK, PMQF XWN'FS UKLS HRSSQ, UG PRY RUVX?
+
+VHXSHOB	PMIIFM PI MKLS RSE LAW VQYPM RYES XMPM UWQ PMHDF.
+
+WHLEVUWR	H MKLS HWHUHPSC GI UYEQ YXV PMHV UQZBSE KSAR.
+	EQSH XWO AIOC DHWW, I NIEQ, ZM IDSK XWHN NKIFMPSE;
+	XWO AIOEP, HWFLWRM, ZH WQRKHSK MHV RLNPIPQW:
+	EQSH XWHN YWCR, HRQSQ, PUEZ QIO'XV UQWSQ OY,
+	HW ASPS ESUNVHDF HQ, ZM RYC GMHB VRSHRSEW:
+	EQSH XWHN YWCR, VHXSHOB, PUEZ QIO'XV UQWSE OSE.
+	UG PRS EAPHLQ HQ: YWR PNIU RSWNK H ZI,
+	ZM UQEQ PMSPK RIOTML EXV KSAR.
+
+	[YSAHCF WHLEVUWR LAR NASUK]
+
+NIEQ PSDUHW	D KH WQHQHSQD HC FMHB VRSHRSEC VWX

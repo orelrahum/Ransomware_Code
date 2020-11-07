@@ -1,0 +1,406 @@
+      Stuart Weibel
+         Discussion
+      C.M. Sperberg-McQueen
+         Discussion
+      Eric M. Calaluca
+         Discussion
+
+   Session VI.  Copyright Issues
+      Marybeth Peters
+
+   Session VII.  Conclusion
+      Prosser Gifford (Moderator)
+      General discussion
+
+Appendix I:  Program
+
+Appendix II:  Abstracts
+
+Appendix III:  Directory of Participants
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                            Acknowledgements
+
+I would like to thank Carl Fleischhauer and Prosser Gifford for the
+opportunity to learn about areas of human activity unknown to me a scant
+ten months ago, and the David and Lucile Packard Foundation for
+supporting that opportunity.  The help given by others is acknowledged on
+a separate page.
+
+                                                          19 October 1992
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                              INTRODUCTION
+
+The Workshop on Electronic Texts (1) drew together representatives of
+various projects and interest groups to compare ideas, beliefs,
+experiences, and, in particular, methods of placing and presenting
+historical textual materials in computerized form.  Most attendees gained
+much in insight and outlook from the event.  But the assembly did not
+form a new nation, or, to put it another way, the diversity of projects
+and interests was too great to draw the representatives into a cohesive,
+action-oriented body.(2)
+
+Everyone attending the Workshop shared an interest in preserving and
+providing access to historical texts.  But within this broad field the
+attendees represented a variety of formal, informal, figurative, and
+literal groups, with many individuals belonging to more than one.  These
+groups may be defined roughly according to the following topics or
+activities:
+
+* Imaging
+* Searchable coded texts
+* National and international computer networks
+* CD-ROM production and dissemination
+* Methods and technology for converting older paper materials into
+electronic form
+* Study of the use of digital materials by scholars and others
+
+This summary is arranged thematically and does not follow the actual
+sequence of presentations.
+
+NOTES:
+     (1)  In this document, the phrase electronic text is used to mean
+     any computerized reproduction or version of a document, book,
+     article, or manuscript (including images), and not merely a machine-
+     readable or machine-searchable text.
+
+     (2)  The Workshop was held at the Library of Congress on 9-10 June
+     1992, with funding from the David and Lucile Packard Foundation.
+     The document that follows represents a summary of the presentations
+     made at the Workshop and was compiled by James DALY.  This
+     introduction was written by DALY and Carl FLEISCHHAUER.
+
+
+PRESERVATION AND IMAGING
+
+Preservation, as that term is used by archivists,(3) was most explicitly
+discussed in the context of imaging.  Anne KENNEY and Lynne PERSONIUS
+explained how the concept of a faithful copy and the user-friendliness of
+the traditional book have guided their project at Cornell University.(4)
+Although interested in computerized dissemination, participants in the
+Cornell project are creating digital image sets of older books in the
+public domain as a source for a fresh paper facsimile or, in a future
+phase, microfilm.  The books returned to the library shelves are
+high-quality and useful replacements on acid-free paper that should last
+a long time.  To date, the Cornell project has placed little or no
+emphasis on creating searchable texts; one would not be surprised to find
+that the project participants view such texts as new editions, and thus
+not as faithful reproductions.
+
+In her talk on preservation, Patricia BATTIN struck an ecumenical and
+flexible note as she endorsed the creation and dissemination of a variety
+of types of digital copies.  Do not be too narrow in defining what counts
+as a preservation element, BATTIN counseled; for the present, at least,
+digital copies made with preservation in mind cannot be as narrowly
+standardized as, say, microfilm copies with the same objective.  Setting
+standards precipitously can inhibit creativity, but delay can result in
+chaos, she advised.
+
+In part, BATTIN's position reflected the unsettled nature of image-format
+standards, and attendees could hear echoes of this unsettledness in the
+comments of various speakers.  For example, Jean BARONAS reviewed the
+status of several formal standards moving through committees of experts;
+and Clifford LYNCH encouraged the use of a new guideline for transmitting
+document images on Internet.  Testimony from participants in the National
+Agricultural Library's (NAL) Text Digitization Program and LC's American
+Memory project highlighted some of the challenges to the actual creation
+or interchange of images, including difficulties in converting
+preservation microfilm to digital form.  Donald WATERS reported on the
+progress of a master plan for a project at Yale University to convert
+books on microfilm to digital image sets, Project Open Book (POB).
+
+The Workshop offered rather less of an imaging practicum than planned,
+but "how-to" hints emerge at various points, for example, throughout
+KENNEY's presentation and in the discussion of arcana such as
+thresholding and dithering offered by George THOMA and FLEISCHHAUER.
+
+NOTES:
+     (3)  Although there is a sense in which any reproductions of
+     historical materials preserve the human record, specialists in the
+     field have developed particular guidelines for the creation of
+     acceptable preservation copies.
+
+     (4)  Titles and affiliations of presenters are given at the
+     beginning of their respective talks and in the Directory of
+     Participants (Appendix III).
+
+
+THE MACHINE-READABLE TEXT:  MARKUP AND USE
+
+The sections of the Workshop that dealt with machine-readable text tended
+to be more concerned with access and use than with preservation, at least
+in the narrow technical sense.  Michael SPERBERG-McQUEEN made a forceful
+presentation on the Text Encoding Initiative's (TEI) implementation of
+the Standard Generalized Markup Language (SGML).  His ideas were echoed
+by Susan HOCKEY, Elli MYLONAS, and Stuart WEIBEL.  While the
+presentations made by the TEI advocates contained no practicum, their
+discussion focused on the value of the finished product, what the
+European Community calls reusability, but what may also be termed
+durability.  They argued that marking up--that is, coding--a text in a
+well-conceived way will permit it to be moved from one computer
+environment to another, as well as to be used by various users.  Two
+kinds of markup were distinguished:  1) procedural markup, which
+describes the features of a text (e.g., dots on a page), and 2)
+descriptive markup, which describes the structure or elements of a
+document (e.g., chapters, paragraphs, and front matter).
+
+The TEI proponents emphasized the importance of texts to scholarship.
+They explained how heavily coded (and thus analyzed and annotated) texts
+can underlie research, play a role in scholarly communication, and
+facilitate classroom teaching.  SPERBERG-McQUEEN reminded listeners that
+a written or printed item (e.g., a particular edition of a book) is
+merely a representation of the abstraction we call a text.  To concern
+ourselves with faithfully reproducing a printed instance of the text,
+SPERBERG-McQUEEN argued, is to concern ourselves with the representation
+of a representation ("images as simulacra for the text").  The TEI proponents'
+interest in images tends to focus on corollary materials for use in teaching,
+for example, photographs of the Acropolis to accompany a Greek text.
+
+By the end of the Workshop, SPERBERG-McQUEEN confessed to having been
+converted to a limited extent to the view that electronic images
+constitute a promising alternative to microfilming; indeed, an
+alternative probably superior to microfilming.  But he was not convinced
+that electronic images constitute a serious attempt to represent text in
+electronic form.  HOCKEY and MYLONAS also conceded that their experience
+at the Pierce Symposium the previous week at Georgetown University and
+the present conference at the Library of Congress had compelled them to
+reevaluate their perspective on the usefulness of text as images.
+Attendees could see that the text and image advocates were in
+constructive tension, so to say.
+
+Three nonTEI presentations described approaches to preparing
+machine-readable text that are less rigorous and thus less expensive.  In
+the case of the Papers of George Washington, Dorothy TWOHIG explained
+that the digital version will provide a not-quite-perfect rendering of
+the transcribed text--some 135,000 documents, available for research
+during the decades while the perfect or print version is completed.
+Members of the American Memory team and the staff of NAL's Text
+Digitization Program (see below) also outlined a middle ground concerning
+searchable texts.  In the case of American Memory, contractors produce
+texts with about 99-percent accuracy that serve as "browse" or
+"reference" versions of written or printed originals.  End users who need
+faithful copies or perfect renditions must refer to accompanying sets of
+digital facsimile images or consult copies of the originals in a nearby
+library or archive.  American Memory staff argued that the high cost of
+producing 100-percent accurate copies would prevent LC from offering
+access to large parts of its collections.
+
+
+THE MACHINE-READABLE TEXT:  METHODS OF CONVERSION
+
+Although the Workshop did not include a systematic examination of the
+methods for converting texts from paper (or from facsimile images) into
+machine-readable form, nevertheless, various speakers touched upon this
+matter.  For example, WEIBEL reported that OCLC has experimented with a
+merging of multiple optical character recognition systems that will
+reduce errors from an unacceptable rate of 5 characters out of every
+l,000 to an unacceptable rate of 2 characters out of every l,000.
+
+Pamela ANDRE presented an overview of NAL's Text Digitization Program and
+Judith ZIDAR discussed the technical details.  ZIDAR explained how NAL
+purchased hardware and software capable of performing optical character
+recognition (OCR) and text conversion and used its own staff to convert
+texts.  The process, ZIDAR said, required extensive editing and project
+staff found themselves considering alternatives, including rekeying
+and/or creating abstracts or summaries of texts.  NAL reckoned costs at
+$7 per page.  By way of contrast, Ricky ERWAY explained that American
+Memory had decided from the start to contract out conversion to external
+service bureaus.  The criteria used to select these contractors were cost
+and quality of results, as opposed to methods of conversion.  ERWAY noted
+that historical documents or books often do not lend themselves to OCR.
+Bound materials represent a special problem.  In her experience, quality
+control--inspecting incoming materials, counting errors in samples--posed
+the most time-consuming aspect of contracting out conversion.  ERWAY
+reckoned American Memory's costs at $4 per page, but cautioned that fewer
+cost-elements had been included than in NAL's figure.
+
+
+OPTIONS FOR DISSEMINATION
+
+The topic of dissemination proper emerged at various points during the
+Workshop.  At the session devoted to national and international computer
+networks, LYNCH, Howard BESSER, Ronald LARSEN, and Edwin BROWNRIGG
+highlighted the virtues of Internet today and of the network that will
+evolve from Internet.  Listeners could discern in these narratives a
+vision of an information democracy in which millions of citizens freely
+find and use what they need.  LYNCH noted that a lack of standards
+inhibits disseminating multimedia on the network, a topic also WRHXFHHVW
+YB YVHHVI.  OZIHVM ZWWIVHHVW GSV RHHFVH LU MVGDLIP HXZOZYRORGB ZMW
+NLWFOZIRGB ZMW XLNNVMGVW FKLM GSV WRUURXFOGB LU ZMGRXRKZGRMT GSV VUUVXGH
+LU TILDGS RM LIWVIH LU NZTMRGFWV.  YILDMIRTT GZOPVW ZYLFG GSV ZYRORGB LU
+KZXPVG IZWRL GL KILERWV XVIGZRM ORMPH RM Z MVGDLIP DRGSLFG GSV MVVW ULI
+DRIRMT.  SLDVEVI, GSV KIVHVMGVIH ZOHL XZOOVW ZGGVMGRLM GL GSV
+HSLIGXLNRMTH ZMW RMXLMTIFRGRVH LU KIVHVMG-WZB XLNKFGVI MVGDLIPH.  ULI
+VCZNKOV:  1) MVGDLIP FHV RH TILDRMT WIZNZGRXZOOB, YFG NFXS MVGDLIP
+GIZUURX XLMHRHGH LU KVIHLMZO XLNNFMRXZGRLM (V-NZRO).  2) OZITV YLWRVH LU
+RMULINZGRLM ZIV ZEZROZYOV, YFG Z FHVI'H ZYRORGB GL HVZIXS ZXILHH GSVRI
+VMGRIVGB RH ORNRGVW.  3) GSVIV ZIV HRTMRURXZMG IVHLFIXVH ULI HXRVMXV ZMW
+GVXSMLOLTB, YFG UVD MVGDLIP HLFIXVH KILERWV XLMGVMG RM GSV SFNZMRGRVH.
+4) NZXSRMV-IVZWZYOV GVCGH ZIV XLNNLMKOZXV, YFG GSV XZKZYRORGB LU GSV
+HBHGVN GL WVZO DRGS RNZTVH (OVG ZOLMV LGSVI NVWRZ ULINZGH) OZTH YVSRMW.
+Z TORNKHV LU Z NFOGRNVWRZ UFGFIV ULI MVGDLIPH, SLDVEVI, DZH KILERWVW YB
+NZIRZ OVYILM RM SVI LEVIERVD LU GSV LMORMV QLFIMZO LU XFIIVMG XORMRXZO
+GIRZOH (LQXXG), ZMW GSV KILXVHH LU HXSLOZIOB KFYORHSRMT LM-ORMV.
+
+GSV XLMGIZHGRMT ULIN LU GSV XW-ILN WRHP DZH MVEVI HBHGVNZGRXZOOB
+ZMZOBAVW, YFG ZGGVMWVVH XLFOW TOVZM ZM RNKIVHHRLM UILN HVEVIZO LU GSV
+HSLD-ZMW-GVOO KIVHVMGZGRLMH.  GSV KVIHVFH ZMW ZNVIRXZM NVNLIB VCZNKOVH
+WVNLMHGIZGVW IVXVMGOB KFYORHSVW WRHPH, DSROV GSV WVHXIRKGRLMH LU GSV
+RYBXFH EVIHRLM LU GSV KZKVIH LU TVLITV DZHSRMTGLM ZMW XSZWDBXP-SVZOVB'H
+KZGILOLTRZ OZGRMZ WZGZYZHV (KOW) GLOW LU WRHPH GL XLNV.  ZXXLIWRMT GL
+VIRX XZOZOFXZ, KOW'H KIRMXRKZO ULXFH SZH YVVM LM XLMEVIGRMT QZXJFVH-KZFO
+NRTMV'H WVURMRGREV XLOOVXGRLM LU OZGRM GVCGH GL NZXSRMV-IVZWZYOV ULIN.
+ZOGSLFTS VEVIBLMV XLFOW HSZIV GSV MVGDLIP ZWELXZGVH' VMGSFHRZHN ULI ZM
+LM-ORMV UFGFIV, GSV KLHHRYRORGB LU ILOORMT FK LMV'H HOVVEVH ULI Z HVHHRLM
+DRGS Z XW-ILN XLMGZRMRMT YLGS GVCGFZO NZGVIRZOH ZMW Z KLDVIUFO IVGIRVEZO
+VMTRMV NZWV GSV WRHP HVVN ZM ZKKVZORMT EVHHVO RMWVVW.  GSV LEVIZOO
+WRHXFHHRLM HFTTVHGVW GSZG GSV GIZMHRGRLM UILN XW-ILN GL LM-ORMV MVGDLIPVW
+ZXXVHH NZB KILEV UZI HOLDVI ZMW NLIV WRUURXFOG GSZM SZH YVVM ZMGRXRKZGVW.
+
+
+DSL ZIV GSV FHVIH ZMW DSZG WL GSVB WL?
+
+ZOGSLFTS XLMXVIMVW DRGS GSV GVXSMRXZORGRVH LU KILWFXGRLM, GSV DLIPHSLK
+MVEVI OLHG HRTSG LU GSV KFIKLHVH ZMW FHVH LU VOVXGILMRX EVIHRLMH LU
+GVCGFZO NZGVIRZOH.  ZH MLGVW ZYLEV, GSLHV RMGVIVHGVW RM RNZTRMT WRHXFHHVW
+GSV KILYOVNZGRXZO NZGGVI LU WRTRGZO KIVHVIEZGRLM, DSROV GSV GVR KILKLMVMGH
+WVHXIRYVW SLD NZXSRMV-IVZWZYOV GVCGH XZM YV FHVW RM IVHVZIXS.  GSRH OZGGVI
+GLKRX IVXVREVW GSLILFTS GIVZGNVMG RM GSV KZKVI IVZW YB ZEIZ NRXSVOHLM.
+HSV KOZXVW GSV KSVMLNVMLM LU VOVXGILMRX GVCGH DRGSRM GSV XLMGVCG LU
+YILZWVI GIVMWH RM RMULINZGRLM GVXSMLOLTB ZMW HXSLOZIOB XLNNFMRXZGRLM.
+
+ZNLMT LGSVI GSRMTH, NRXSVOHLM WVHXIRYVW LM-ORMV XLMUVIVMXVH GSZG
+IVKIVHVMG Z ERTLILFH ZMW RNKLIGZMG RMGVOOVXGFZO ULIFN ULI XVIGZRM
+WRHXRKORMVH.  RMGVIMVG MLD XZIIRVH NLIV GSZM 700 XLMUVIVMXVH, DRGS ZYLFG
+80 KVIXVMG LU GSVHV WVELGVW GL GLKRXH RM GSV HLXRZO HXRVMXVH ZMW GSV
+SFNZMRGRVH.  LGSVI HXSLOZIH FHV LM-ORMV MVGDLIPH ULI "WRHGZMXV OVZIMRMT."
+NVZMDSROV, GSVIV SZH YVVM Z GIVNVMWLFH TILDGS RM VMW-FHVI XLNKFGRMT;
+KILUVHHLIH GLWZB ZIV OVHH ORPVOB GSZM GSVRI KIVWVXVHHLIH GL ZHP GSV
+XZNKFH XLNKFGVI XVMGVI GL KILXVHH GSVRI WZGZ.  VOVXGILMRX GVCGH ZIV LMV
+PVB GL GSVHV HLKSRHGRXZGVW ZKKORXZGRLMH, NRXSVOHLM IVKLIGVW, ZMW NLIV ZMW
+NLIV HXSLOZIH RM GSV SFNZMRGRVH MLD DLIP RM ZM LM-ORMV VMERILMNVMG.
+GLDZIW GSV VMW LU GSV DLIPHSLK, NRXSZVO OVHP KIVHVMGVW Z XLILOOZIB GL
+NRXSVOHLM'H GZOP, IVKLIGRMT GSV IVHFOGH LU ZM VCKVIRNVMG GSZG XLNKZIVW
+GSV DLIP LU LMV TILFK LU XSVNRHGIB HGFWVMGH FHRMT GIZWRGRLMZO KIRMGVW
+GVCGH ZMW GDL TILFKH FHRMT VOVXGILMRX HLFIXVH.  GSV VCKVIRNVMG
+WVNLMHGIZGVW GSZG RM GSV VEVMG LMV WLVH MLG PMLD DSZG GL IVZW, LMV MVVWH
+GSV VOVXGILMRX HBHGVNH; GSV VOVXGILMRX HBHGVNH SLOW ML ZWEZMGZTV ZG GSV
+NLNVMG RU LMV PMLDH DSZG GL IVZW, YFG MVRGSVI WL GSVB RNKLHV Z KVMZOGB.
+
+WZOB KILERWVW ZM ZMVXWLGZO ZXXLFMG LU GSV IVELOFGRLMRARMT RNKZXG LU GSV
+MVD GVXSMLOLTB LM SRH KIVERLFH NVGSLWH LU IVHVZIXS RM GSV URVOW LU XOZHHRXH.
+SRH ZXXLFMG, YB VCGIZKLOZGRLM, HVIEVW GL ROOFHGIZGV RM KZIG GSV ZITFNVMGH
+NZWV YB NRXSVOHLM XLMXVIMRMT GSV KLHRGREV VUUVXGH LU GSV HFWWVM ZMW IZWRXZO
+GIZMHULINZGRLM YVRMT DILFTSG RM GSV DZBH HXSLOZIH DLIP.
+
+HFHZM EVXXRZ ZMW QLZMMV UIVVNZM WVORMVZGVW GSV FHV LU VOVXGILMRX
+NZGVIRZOH LFGHRWV GSV FMREVIHRGB.  GSV NLHG RMGVIVHGRMT ZHKVXG LU GSVRI
+FHV, UIVVNZM HZRW, XLFOW YV HVVM ZH Z KZIZWLC:  GVZXSVIH RM VOVNVMGZIB
+ZMW HVXLMWZIB HXSLLOH IVJFVHGVW ZXXVHH GL KIRNZIB HLFIXV NZGVIRZOH YFG,
+ZG GSV HZNV GRNV, ULFMW GSZG "KIRNZIRMVHH" RGHVOU NZWV GSVHV NZGVIRZOH
+WRUURXFOG ULI GSVRI HGFWVMGH GL FHV.
+
+
+LGSVI GLKRXH
+
+NZIBYVGS KVGVIH IVERVDVW XLKBIRTSG OZD RM GSV FMRGVW HGZGVH ZMW LUUVIVW
+ZWERXV WFIRMT Z OREVOB WRHXFHHRLM LU GSRH HFYQVXG.  YFG FMXVIGZRMGB
+IVNZRMH XLMXVIMRMT GSV KIRXV LU XLKBIRTSG RM Z WRTRGZO NVWRFN, YVXZFHV Z
+HLOFGRLM IVNZRMH GL YV DLIPVW LFG XLMXVIMRMT NZMZTVNVMG ZMW HBMGSVHRH LU
+XLKBIRTSGVW ZMW LFG-LU-XLKBIRTSG KRVXVH LU Z WZGZYZHV.
+
+ZH NLWVIZGLI LU GSV URMZO HVHHRLM LU GSV DLIPHSLK, KILHHVI TRUULIW WRIVXGVW
+WRHXFHHRLM GL UFGFIV XLFIHVH LU ZXGRLM ZMW GSV KLGVMGRZO ILOV LU OX RM
+ZWEZMXRMT GSVN.  ZNLMT GSV IVXLNNVMWZGRLMH GSZG VNVITVW DVIV GSV ULOOLDRMT:
+
+     * DLIPHSLK KZIGRXRKZMGH HSLFOW 1) YVTRM GL GSRMP ZYLFG DLIPRMT
+     DRGS RNZTV NZGVIRZO, YFG HGIFXGFIV ZMW WRTRGRAV RG RM HFXS Z
+     DZB GSZG ZG Z OZGVI HGZTV RG XZM YV RMGVIKIVGVW RMGL GVCG, ZMW
+     2) URMW Z XLNNLM DZB GL YFROW GVCG ZMW RNZTVH GLTVGSVI HL GSZG
+     GSVB XZM YV FHVW QLRMGOB ZG HLNV HGZTV RM GSV UFGFIV, DRGS
+     ZKKILKIRZGV MVGDLIP HFKKLIG, YVXZFHV GSZG RH SLD FHVIH DROO DZMG
+     GL ZXXVHH GSVHV NZGVIRZOH.  GSV ORYIZIB NRTSG VMXLFIZTV ZGGVNKGH
+     GL YIRMT GLTVGSVI KVLKOV DSL ZIV DLIPRMT LM GVCGH ZMW RNZTVH.
+
+     * Z MVGDLIP EVIHRLM LU ZNVIRXZM NVNLIB HSLFOW YV WVEVOLKVW LI
+     XLMHRWVIZGRLM HSLFOW YV TREVM GL NZPRMT GSV WZGZ RM RG
+     ZEZROZYOV GL KVLKOV RMGVIVHGVW RM WLRMT MVGDLIP NFOGRNVWRZ.
+     TREVM GSV XFIIVMG WVZIGS LU WRTRGZO WZGZ GSZG RH ZKKVZORMT ZMW
+     FMVMXFNYVIVW YB VCGIVNVOB XLNKOVC IRTSGH KILYOVNH, WVEVOLKRMT Z
+     MVGDLIP EVIHRLM LU ZNVIRXZM NVNLIB XLFOW WL NFXS GL SVOK NZPV
+     MVGDLIP NFOGRNVWRZ Z IVZORGB.
+
+     * XLMXVIMRMT GSV GSLIMB RHHFV LU VOVXGILMRX WVKLHRG, OX HSLFOW
+     RMRGRZGV Z XZGZOBGRX KILXVHH RM GVINH LU WRHGIRYFGVW
+     IVHKLMHRYRORGB, GSZG RH, YIRMT GLTVGSVI GSV WRHGIRYFGVW
+     LITZMRAZGRLMH ZMW HVG FK Z HGFWB TILFK GL OLLP ZG ZOO GSV
+     RHHFVH IVOZGVW GL VOVXGILMRX WVKLHRG ZMW HVV DSVIV DV ZH Z
+     MZGRLM HSLFOW NLEV.  ULI VCZNKOV, OX NRTSG ZGGVNKG GL KVIHFZWV
+     LMV NZQLI ORYIZIB RM VZXS HGZGV GL WVZO DRGS RGH HGZGV
+     VJFREZOVMG KFYORHSVI, DSRXS NRTSG KILWFXV Z XLLKVIZGREV KILQVXG
+     GSZG DLFOW YV VJFRGZYOB WRHGIRYFGVW ZILFMW GSV XLFMGIB, ZMW LMV
+     RM DSRXS OX DLFOW YV WVZORMT DRGS Z NRMRNZO MFNYVI LU KFYORHSVIH
+     ZMW NRMRNZO XLKBIRTSG KILYOVNH.  OX NFHG ZOHL WVZO DRGS GSV
+     XLMXVKG LU LM-ORMV KFYORHSRMT, WVGVINRMRMT, ZNLMT LGSVI GSRMTH,
+     SLD HVIRZOH HFXS ZH LQXXG NRTSG YV WVKLHRGVW ULI XLKBIRTSG.
+
+     * HRMXV Z MFNYVI LU KILQVXGH ZIV KOZMMRMT GL XZIIB LFG
+     KIVHVIEZGRLM YB XIVZGRMT WRTRGZO RNZTVH GSZG DROO VMW FK RM
+     LM-ORMV LI MVZI-ORMV HGLIZTV ZG HLNV RMHGRGFGRLM, OX NRTSG KOZB
+     Z SVOKUFO ILOV, ZG OVZHG RM GSV MVZI GVIN, YB ZXXVOVIZGRMT SLD
+     GL XZGZOLT GSZG RMULINZGRLM RMGL GSV IVHVZIXS ORYIZIB RMULINZGRLM
+     MVGDLIP (IORM) ZMW GSVM RMGL LXOX, HL GSZG RG DLFOW YV ZXXVHHRYOV.
+     GSRH DLFOW IVWFXV GSV KLHHRYRORGB LU NFOGRKOV RMHGRGFGRLMH WRTRGRARMT
+     GSV HZNV DLIP.
+
+
+XLMXOFHRLM
+
+GSV DLIPHSLK DZH EZOFZYOV YVXZFHV RG YILFTSG GLTVGSVI KZIGRHZMH UILN
+EZIRLFH TILFKH ZMW KILERWVW ZM LXXZHRLM GL XLNKZIV TLZOH ZMW NVGSLWH.
+GSV NLIV XLNNRGGVW KZIGRHZMH UIVJFVMGOB XLNNFMRXZGV DRGS LGSVIH RM GSVRI
+TILFKH, YFG OVHH LUGVM ZXILHH TILFK YLFMWZIRVH.  GSV DLIPHSLK DZH ZOHL
+EZOFZYOV GL ZGGVMWVVH--RMXOFWRMT GSLHV RMELOEVW DRGS ZNVIRXZM NVNLIB--DSL
+XZNV OVHH XLNNRGGVW GL KZIGRXFOZI ZKKILZXSVH LI XLMXVKGH.  GSVHV
+ZGGVMWVVH OVZIMVW Z TIVZG WVZO, ZMW KOZM GL HVOVXG ZMW VNKOLB VOVNVMGH LU
+RNZTRMT, GVCG-XLWRMT, ZMW MVGDLIPVW WRHGIRYFGRLM GSZG HFRG GSVRI
+IVHKVXGREV KILQVXGH ZMW KFIKLHVH.
+
+HGROO, IVZORGB IVZIH RGH FTOB SVZW:  ML YIVZPGSILFTS SZH YVVM ZXSRVEVW.
+LM GSV RNZTRMT HRWV, LMV XLMUILMGH Z KILORUVIZGRLM LU XLNKVGRMT
+WZGZ-RMGVIXSZMTV HGZMWZIWH ZMW Z OZXP LU XLMHVMHFH LM GSV ILOV LU WRTRGZO
+UZXHRNROVH RM KIVHVIEZGRLM.  RM GSV IVZON LU NZXSRMV-IVZWZYOV GVCGH, LMV
+VMXLFMGVIH Z IVZHLMZYOB NZGFIV HGZMWZIW YFG NVGSLWLOLTRXZO WRUURXFOGRVH
+ZMW SRTS XLHGH.  GSVHV OZGGVI KILYOVNH, LU XLFIHV, IVKIVHVMG Z HKVXRZO
+RNKVWRNVMG GL GSV WVHRIV, ZH RG RH HLNVGRNVH VCKIVHHVW RM GSV KLKFOZI
+KIVHH, "GL KFG GSV [XLMGVMGH LU GSV] ORYIZIB LU XLMTIVHH LM ORMV."  RM
+GSV DLIWH LU LMV KZIGRXRKZMG, GSVIV DZH "ML HLOFGRLM GL GSV VXLMLNRX
+KILYOVNH--GSV KILQVXGH GSZG ZIV LFG GSVIV ZIV HFIERERMT, YFG RG RH TLRMT
+GL YV Z OLG LU DLIP GL GIZMHULIN GSV RMULINZGRLM RMWFHGIB, ZMW HL UZI GSV
+RMEVHGNVMG GL WL GSZG RH MLG ULIGSXLNRMT" (OVHP, KVI ORGGVIZH).
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                               KILXVVWRMTH
+
+
+DVOXLNV
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TRUULIW * LIRTRM LU DLIPHSLK RM XFIIVMG ORYIZIRZM'H WVHRIV GL NZPV OX'H
+XLOOVXGRLMH NLIV DRWVOB ZEZROZYOV * WVHRWVIZGZ ZIRHRMT UILN GSV KILHKVXG
+LU TIVZGVI RMGVIXLMMVXGVWMVHH *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZUGVI DVOXLNRMT KZIGRXRKZMGH LM YVSZOU LU GSV ORYIZIB LU XLMTIVHH,
+ZNVIRXZM NVNLIB (ZN), ZMW GSV MZGRLMZO WVNLMHGIZGRLM OZY, KILHHVI
+TRUULIW, WRIVXGLI ULI HXSLOZIOB KILTIZNH, ORYIZIB LU XLMTIVHH, OLXZGVW

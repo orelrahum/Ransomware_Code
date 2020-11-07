@@ -1,0 +1,242 @@
+the capability of the computer.  That would lead to a discussion of what
+the European Community calls REUSABILITY, what may better be termed
+DURABILITY, that is, how to prepare or make a text that will last a long
+time and that can be used for as many applications as possible, which
+would lead to issues of improving intellectual access.
+
+HOCKEY urged the need to look at ways of using markup to facilitate retrieval,
+not just for referencing or to help locate an item that is retrieved, but also to put markup tags in
+a text to help retrieve the thing sought either with linguistic tagging or
+interpretation.  HOCKEY also argued that little advancement had occurred in
+the software tools currently available for retrieving and searching text.
+She pressed the desideratum of going beyond Boolean searches and performing
+more sophisticated searching, which the insertion of more markup in the text
+would facilitate.  Thinking about electronic texts as opposed to images means
+considering material that will never appear in print form, or print will not
+be its primary form, that is, material which only appears in electronic form.
+HOCKEY alluded to the history and the need for markup and tagging and
+electronic text, which was developed through the use of computers in the
+humanities as MICHELSON had observed, Father Busa had started in 1949
+to prepare the firstever text on the computer.
+
+HOCKEY remarked several large projects, particularly in Europe, for the
+compilation of dictionaries, language studies, and language analysis, in
+which people have built up archives of text and have begun to recognize
+the need for an encoding format that will be reusable and multifunctional,
+that can be used not just to print the text, which may be assumed to be a
+byproduct of what one wants to do, but to structure it inside the computer
+so that it can be searched, built into a Hypertext system, etc.
+
+                                 
+
+
+WEIBEL  OCLCs approach to preparing electronic text:  retroconversion,
+keying of texts, more automated ways of developing data  Project ADAPT
+and the CORE Project  Intelligent character recognition does not exist 
+Advantages of SGML  Data should be free of procedural markup
+descriptive markup strongly advocated  OCLCs interface illustrated 
+Storage requirements and costs for putting a lot of information on line 
+
+
+Stuart WEIBEL, senior research scientist, Online Computer Library Center,
+Inc. OCLC, described OCLCs approach to preparing electronic text.  He
+argued that the electronic world into which we are moving must
+accommodate not only the future but the past as well, and to some degree
+even the present.  Thus, starting out at one end with retroconversion and
+keying of texts, one would like to move toward much more automated ways
+of developing data.
+
+For example, Project ADAPT had to do with automatically converting
+document images into a structured document database with OCR text as
+indexing and also a little bit of automatic formatting and tagging of
+that text.  The CORE project hosted by Cornell University, Bellcore,
+OCLC, the American Chemical Society, and Chemical Abstracts, constitutes
+WEIBELs principal concern at the moment.  This project is an example of
+converting text for which one already has a machinereadable version into
+a format more suitable for electronic delivery and database searching.
+Since Michael LESK had previously described CORE, WEIBEL would say
+little concerning it.  Borrowing a chemical phrase, de novo synthesis,
+WEIBEL cited the Online Journal of Current Clinical Trials as an example
+of de novo electronic publishing, that is, a form in which the primary
+form of the information is electronic.
+
+Project ADAPT, then, which OCLC completed a couple of years ago and in
+fact is about to resume, is a model in which one takes page images either
+in paper or microfilm and converts them automatically to a searchable
+electronic database, either online or local.  The operating assumption
+is that accepting some blemishes in the data, especially for
+retroconversion of materials, will make it possible to accomplish more.
+Not enough money is available to support perfect conversion.
+
+WEIBEL related several steps taken to perform image preprocessing
+processing on the image before performing optical character
+recognition, as well as image postprocessing.  He denied the existence
+of intelligent character recognition and asserted that what is wanted is
+page recognition, which is a long way off.  OCLC has experimented with
+merging of multiple optical character recognition systems that will
+reduce errors from an unacceptable rate of 5 characters out of every
+l,000 to an unacceptable rate of 2 characters out of every l,000, but it
+is not good enough.  It will never be perfect.
+
+Concerning the CORE Project, WEIBEL observed that Bellcore is taking the
+topography files, extracting the page images, and converting those
+topography files to SGML markup.  LESK hands that data off to OCLC, which
+builds that data into a Newton database, the same system that underlies
+the online system in virtually all of the reference products at OCLC.
+The longterm goal is to make the systems interoperable so that not just
+Bellcores system and OCLCs system can access this data, but other
+systems can as well, and the key to that is the Z39.50 common command
+language and the fulltext extension.  Z39.50 is fine for MARC records,
+but is not enough to do it for full text that is, make full texts
+interoperable.
+
+WEIBEL next outlined the critical role of SGML for a variety of purposes,
+for example, as noted by HOCKEY, in the world of extremely large
+databases, using highly structured data to perform field searches.
+WEIBEL argued that by building the structure of the data in i.e., the
+structure of the data originally on a printed page, it becomes easy to
+look at a journal article even if one cannot read the characters and know
+where the title or author is, or what the sections of that document would be.
+OCLC wants to make that structure explicit in the database, because it will
+be important for retrieval purposes.
+
+The second big advantage of SGML is that it gives one the ability to
+build structure into the database that can be used for display purposes
+without contaminating the data with instructions about how to format
+things.  The distinction lies between procedural markup, which tells one
+where to put dots on the page, and descriptive markup, which describes
+the elements of a document.
+
+WEIBEL believes that there should be no procedural markup in the data at
+all, that the data should be completely unsullied by information about
+italics or boldness.  That should be left up to the display device,
+whether that display device is a page printer or a screen display device.
+By keeping ones database free of that kind of contamination, one can
+make decisions down the road, for example, reorganize the data in ways
+that are not cramped by builtin notions of what should be italic and
+what should be bold.  WEIBEL strongly advocated descriptive markup.  As
+an example, he illustrated the index structure in the CORE data.  With
+subsequent illustrated examples of markup, WEIBEL acknowledged the common
+complaint that SGML is hard to read in its native form, although markup
+decreases considerably once one gets into the body.  Without the markup,
+however, one would not have the structure in the data.  One can pass
+markup through a LaTeX processor and convert it relatively easily to a
+printed version of the document.
+
+WEIBEL next illustrated an extremely cluttered screen dump of OCLCs
+system, in order to show as much as possible the inherent capability on
+the screen.  He noted parenthetically that he had become a supporter of
+XWindows as a result of the progress of the CORE Project.  WEIBEL also
+illustrated the two major parts of the interface:  l a control box that
+allows one to generate lists of items, which resembles a small table of
+contents based on key words one wishes to search, and 2 a document
+viewer, which is a separate process in and of itself.  He demonstrated
+how to follow links through the electronic database simply by selecting
+the appropriate button and bringing them up.  He also noted problems that
+remain to be accommodated in the interface e.g., as pointed out by LESK,
+what happens when users do not click on the icon for the figure.
+
+Given the constraints of time, WEIBEL omitted a large number of ancillary
+items in order to say a few words concerning storage requirements and
+what will be required to put a lot of things on line.  Since it is
+extremely expensive to reconvert all of this data, especially if it is
+just in paper form and even if it is in electronic form in typesetting
+tapes, he advocated building journals electronically from the start.  In
+that case, if one only has text graphics and indexing which is all that
+one needs with de novo electronic publishing, because there is no need to
+go back and look at bitmaps of pages, one can get 10,000 journals of
+full text, or almost 6 million pages per year.  These pages can be put in
+approximately 135 gigabytes of storage, which is not all that much,
+WEIBEL said.  For twenty years, something less than three terabytes would
+be required.  WEIBEL calculated the costs of storing this information as
+follows:  If a gigabyte costs approximately 1,000, then a terabyte costs
+approximately 1 million to buy in terms of hardware.  One also needs a
+building to put it in and a staff like OCLC to handle that information.
+So, to support a terabyte, multiply by five, which gives 5 million per
+year for a supported terabyte of data.
+
+                                 
+
+
+DISCUSSION  Tapes saved by ACS are the typography files originally
+supporting publication of the journal  Cost of building tagged text into
+the database 
+
+
+During the questionandanswer period that followed WEIBELs
+presentation, these clarifications emerged.  The tapes saved by the
+American Chemical Society are the typography files that originally
+supported the publication of the journal.  Although they are not tagged
+in SGML, they are tagged in very fine detail.  Every single sentence is
+marked, all the registry numbers, all the publications issues, dates, and
+volumes.  No cost figures on tagging material on a permegabyte basis
+were available.  Because ACSs typesetting system runs from tagged text,
+there is no extra cost per article.  It was unknown what it costs ACS to
+keyboard the tagged text rather than just keyboard the text in the
+cheapest process.  In other words, since one intends to publish things
+and will need to build tagged text into a typography system in any case,
+if one does that in such a way that it can drive not only typography but
+an electronic system which is what ACS intends to domove to SGML
+publishing, the marginal cost is zero.  The marginal cost represents the
+cost of building tagged text into the database, which is small.
+
+                                 
+
+
+SPERBERGMcQUEEN  Distinction between texts and computers  Implications
+of recognizing that all representation is encoding  Dealing with
+complicated representations of text entails the need for a grammar of
+documents  Variety of forms of formal grammars  Text as a bitmapped
+image does not represent a serious attempt to represent text in
+electronic form  SGML, the TEI, documenttype declarations, and the
+reusability and longevity of data  TEI conformance explicitly allows
+extension or modification of the TEI tag set  Administrative background
+of the TEI  Several design goals for the TEI tag set  An absolutely
+fixed requirement of the TEI Guidelines  Challenges the TEI has
+attempted to face  Good texts not beyond economic feasibility  The
+issue of reproducibility or processability  The issue of mages as
+simulacra for the text redux  Ones model of text determines what ones
+software can do with a text and has economic consequences 
+
+
+Prior to speaking about SGML and markup, Michael SPERBERGMcQUEEN, editor,
+Text Encoding Initiative TEI, University of IllinoisChicago, first drew
+a distinction between texts and computers:  Texts are abstract cultural
+and linguistic objects while computers are complicated physical devices,
+he said.  Abstract objects cannot be placed inside physical devices with
+computers one can only represent text and act upon those representations.
+
+The recognition that all representation is encoding, SPERBERGMcQUEEN
+argued, leads to the recognition of two things:  1 The topic description
+for this session is slightly misleading, because there can be no discussion
+of pros and cons of textcoding unless what one means is pros and cons of
+working with text with computers.  2 No text can be represented in a
+computer without some sort of encoding images are one way of encoding text,
+ASCII is another, SGML yet another.  There is no encoding without some
+information loss, that is, there is no perfect reproduction of a text that
+allows one to do away with the original.  Thus, the question becomes,
+What is the most useful representation of text for a serious work?
+This depends on what kind of serious work one is talking about.
+
+PMS HWHHKQMV RQHUWBPNEPQC GRS HEKSHIHL NKK YXV UDXIXSKR MHPIXA WMHTSAV
+UDZUCHQFHIA LWR ULHDXA WMHTSAB OLAHGNFQFHIW UZ FRS PQBZNLB UQFSEUKX.
+UD HWRKC PI OPS PMQF WMHTVUNQPQK DAUHWUQGMUW, UWS REL ZM NQBNNFQFK HZ
+BXWYXA HW UQANLFXA LAR VZMES PMS ESPNFG.  MF CYSRV ZM SQ BPHWKR, PMSEAPHWY,
+EL FECP UZ UWSP ESHESPARFQGMUW UZ PMQ PYSZ.  BMOX, HRA RAKRB PH XZMES PMY
+BPNHQMHNK HC FRS PQBZ.  ZM RKLF DOPM WMHTVUNQPQR CSHESPSCFQFHIRL UZ PQBZ,
+UWA RYSRV XHHQMIC ZM WUWPCUX PMQ RIUFSYSMGX WZ FRS ESHESPARFQGMUW UZ Q FYSZ
+PMQF HQLAX HRA RAKRL E NYX WZ LUDKDDF IOZ CRSPMSE K NMWOUARF QWR LA
+ASQRPCUWMD ESHESPARFQGMUW UZ K NMWOUARG MB XKPLF HW WUF QWR PMQF
+HQLAX HRA RAKRL E PDQUUQW HG NMWOUARPB.
+
+PHSESQDPCQAMYSW RHVNMBVKR PMK SENHKZQ UZ ZUCHX HZ LHWUQV FNEOBENB,
+HUFSMDMG LAR KSZVUDMF, QL EZSVUKR ZM PQBZ, LAC GRSHD NQFEVMVUGMSP.  RS
+ENFIKR PMQF PMSPK PNEOBENB RHWESPHUWC GI WUGPAESCF UIRKXB UZ PQBZ PMQF
+KDZLSEARG CKSASHZSEP RKLA.  PHW YSQUFSY, HRA HUFSMDMG UIRKX UZ FRS PQBZ
+HV PMQF PMSEK HL RI HCFSEALX BPCMNFMES, LMG MHLZ MRA PMUDF KZFSE LAMZRSW,
+L UYR RMENQNPQEP LAC GRSR FSEUEHP E LFQCPGMFBQ RIUUQWR, LAC GRSA L PAY
+UIES RMENQNPQEP LAN KR AWRGMFBQ RIUUQWR.  PHSESQDPCQAMYSA LXBW
+KDBPUDFIHVRSR VKSSELF VDWRX HZ FYSZ BUEP MKLQ Y XHCP UZ MHSEENRMMDLF
+BPNHQMHNQ PUEG ML RMZ SKWE RYXV RKGURAR, DMHRM, ZQGHNQXVQ, WHWESPHUWRV
+ZM PDQUUQEP PMQF ENA RMZ SKWE RYXV RKGURAN, KX RASF LP RHKNECNMHSP PMQF
+ENK SSEX YASV NAPUDKR K.P., PMQ PRSLEHNHL VUDFNLK PNEQRYQ LAR KBZESHQXA

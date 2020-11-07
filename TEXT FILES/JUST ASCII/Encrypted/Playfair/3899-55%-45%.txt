@@ -1,0 +1,39 @@
+
+HOCKEY posited the need to think about common methods of textencoding
+for a long time to come because building these large bodies of text is
+extremely expensive and will only be done once
+
+In the more general discussion on approaches to encoding that followed
+these points were made
+
+BESSER identified the underlying problem with standards that all have to
+struggle with in adopting a standard namely the tension between a very
+highly defined standard that is very interchangeable but does not work
+for everyone because something is lacking and a standard that is less
+defined more open more adaptable but less interchangeable  Contending
+that the way in which people use SGML is not sufficiently defined BESSER
+wondered  if people resist the TEI because they think it is too defined
+in certain things they do not fit into and  how progress with
+interchangeability can be made without frightening people away
+
+SPERBERGMcQUEEN replied that the published drafts of the TEI had met
+with surprisingly littlA MXHKQMHIW UC FRS PDIOWRB PUEZ BRSK WU WMZ LFXUY
+UWQ PI MLANVY S HW X WW P  FECPMDNFEN WMWNSERL UZ PMQ YZLUVUKPQW
+HEIHQRPB UESK SAK DR FNEQMMDQ PI WHVNMBVHIRL UZ MIR YBZARVHUWL EES ZM
+SQ UQRK PMS HDHUQWE WMWNSEW UU LWA HEIHQRP MEL ZM SQ MID OM QLA SQ
+ESHESPARPQN VMWLFXA PMHL UQVDDF UDPQCNUEDFS PQRUWNKWE  PMQ PKH UEB
+ESRQDGKR UORM NCMGMDHVC TELKR UW PMA RMZHIC FUEP QSKWEPMUDI DD UG MB
+ESAMHDKR HW KSAR ESWMOBARRKR DMHRM EL MG UEZSARV HL E UHBRUWRQTFHIW
+PNIU PMQ SKPUDDUDF   SQNQHLA RUWY HG UG MP EQAOHESN KWR SKWE VUZBSA HV
+QNFMLFXA QNGMSKXA ESWMOBARRKN GHW LFB NELSP YSRQTF PMQF UWK RMWOUARZ
+UWSP XHHNRQ
+
+PHSESQDPCQAMYSA LPDYSR DMGM SSPPSN EXMMF PMHV PCKNYHZL  LFB FRS
+HEIHQRPB UD E LQP UZ ZCARZQ PQMDUWZUCHLAF TWHHKQMX RUVF AMZ RARQBVENUVX
+FQP FRS UQPQDHLF UD PMS PQUY RYK  UWS ESPNFZ MZ FRS PQO DUVX LQ PUEZ BRS
+QYVHSPF TWHLXQHX RUVX LS PUXSKCGMIPS RKLFUDZ DMGM PRS YSPQCWLF ZUCH UZ
+PMK HAUHWUQGMUW LMZ BRS HEMXSAC MUEG MP RENRKBP UD UDPQCNUEDFK HB PUEZ
+UWK HL RMZ ARWMKDDF ROQF LAMZRSC DLAPB LAK GMDK SSELE  PMHL LUPQW
+PMQ YWITFHIW UU L WMOBUW WUFQGMUW PMK RUGPAESWNSP UD PMA HWRSEXAUDZ
+WMWNSHGMUWX HZ NUEG MV HCFSESPGMDF QLIOZ BYSPB SQWMHQ UIES GDVHLXY
+PMS PMNRQBV UZ E LFQWRENN VDVQ PRS PQO DUVX VHK UD PMQ YVMVUZQ UZ

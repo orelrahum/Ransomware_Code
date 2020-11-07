@@ -1,0 +1,41 @@
+     UNIFIL   United Nations Interim Force in Lebanon
+     UNIIMOG  United Nations IranIraq Military Observer Group
+     UNMOGIP  United Nations Military Observer Group in India and
+              Pakistan
+     UNTSO    United Nations Truce Supervision Organization
+
+4 Economic and Social Council ECOSOC:
+     Specialized agencies
+       FAO      Food and Agriculture Organization of the United Nations
+       IBRD     International Bank for Reconstruction and Development
+       ICAO     International Civil Aviation Organization
+       IDA      International Development Association
+       IFAD     International Fund for Agricultural Development
+       IFC      International Finance Corporation
+       ILO      International Labor Organization
+       IMF      International Monetary Fund
+       IMO      International Maritime Organization
+       ITU      International Telecommunication Union
+       UNESCO   United Nations Educational, Scientific, and Cultural
+                Organization
+       UNIDO    United Nations Industrial Development Organization
+       UPU      Universal Postal Union
+       WHO      World Health Organization
+       WIPO     World Intellectual Property Organization
+       WMO      World Meteorological Organization
+                Related organizations
+       GATT     General Agreement on Tariffs and Trade
+       IAEA     International Atomic Energy Agency
+     Regional commissions
+       ECA      Economic Commission for Africa
+       ECE      Economic Commission for Europe
+       ECLAC    Economic Commission for Latin America and the Caribbean
+       ESCAP    Economic and Social Commission for Asia and the Pacific
+       ESCWA    Economic and Social Commission for Western Asia
+     Functional commissions
+       Commission on Human Rights
+       Commission on Narcotic Drugs
+       Commission for Social Development
+       Commission on the Status of Women
+       Population Commission
+       Statistical Commission

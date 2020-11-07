@@ -1,0 +1,27 @@
+fact one can recognize the major elements of a document with a fairly
+high degree of reliability, at least as good as OCR.  STEVENS drew a
+useful distinction between standard, generalized markup i.e., defining
+for a documenttype definition the structure of the document, and what
+he termed a style sheet, which had to do with italics, bolding, and other
+forms of emphasis.  Thus, two different components are at work, one being
+the structure of the document itself its logic, and the other being its
+representation when it is put on the screen or printed.
+
+                                 
+
+SESSION V.  APPROACHES TO PREPARING ELECTRONIC TEXTS
+
+
+HOCKEY  Text in ASCII and the representation of electronic text versus
+an image  The need to look at ways of using markup to assist retrieval 
+The need for an encoding format that will be reusable and multifunctional
+
+
+Susan HOCKEY, director, Center for Electronic Texts in the HumaniGMSP
+RQPM, NHFPSEL EWR HEUDRQZMA NDUSKEPMGHKL, EWLIOWNKR PMQF UWQ PLFY
+RYMVASX REL UISKK DCFM ZMHB VSPVHUW PNIU PMQ HHWDUDF LAC GUEG CKLDK
+FEDQENR DEL NAQLSA ZM QFPQWR.  PMS PSPVHUW YWNFN KZBQHTF ZM ZUNMB HHWY HW
+ROQF UWQ RLA WI DOPM Q FYSG MA LBROV LAC GRS ESHESPARFQGMUW UZ ASQRPCUWMD
+PQBZ NEPMSE PMLA HOBP LA HUKFY, RUEZ MRA NQW RW YMGU E WMHTMFSE PMQF
+NQWLMZ SQ WIRA DOPM Q LWZY IN ED UUQPK.  MG YWNFC VQ YDPHAC GUEZ MRA NQW
+WI UORM UIES PMLA HOBP ESKN Q FYSF, QWR PNIU PMQF BPENGMDF ZHUDZ MRA NQW

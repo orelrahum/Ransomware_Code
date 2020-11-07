@@ -1,0 +1,12 @@
+    Thailand 1,800 km
+Coastline:
+    1,930 km
+Maritime claims:
+  Contiguous zone:
+    24 nm
+  Continental shelf:
+    edge of continental margin or 200 nm
+  LBNWIWFXP YUWISQKQ MCZM:
+    200 UQ
+  AICCWMSIZIE GVI:
+    12 UQ

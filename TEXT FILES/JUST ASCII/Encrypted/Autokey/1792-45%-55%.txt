@@ -1,0 +1,1000 @@
+          desirable
+
+           Standards are a complex issue involving the medium the
+          hardware the software and the technical capacity for
+          reproductive fidelity and clarity
+
+           The prognosis for reliable archival standards as defined by
+          librarians in the foreseeable future is poor
+
+     Significant potential and attractiveness of digital technology as a
+     preservation medium and access mechanism
+
+     Productive use of digital imagery for preservation requires a
+     reconceptualizing of preservation principles in a volatile
+     standardless world
+
+     Concept of managing continuing access in the digital environment
+     rather than focusing on the permanence of the medium and longterm
+     archival standards developed for the analog world
+
+     Transition period  How long and what to do?
+
+            Redefine "archival"
+
+            Remove the burden of "archival copy" from paper artifacts
+
+            Use digital technology for storage develop management
+          strategies for refreshing medium hardware and software
+
+            Create acidfree paper copies for transition period backup
+          until we develop reliable procedures for ensuring continuing
+          access to digital files
+
+SESSION IVD
+
+Stuart WEIBEL            The Role of SGML Markup in the CORE Project 
+
+The emergence of highspeed telecommunications networks as a basic
+feature of the scholarly workplace is driving the demand for electronic
+document delivery  Three distinct categories of electronic
+publishingrepublishing are necessary to support access demands in this
+emerging environment
+
+       Conversion of paper or microfilm archives to electronic format
+       Conversion of electronic files to formats tailored to
+          electronic retrieval and display
+       Primary electronic publishing materials for which the
+          electronic version is the primary format
+
+OCLC has experimental or product development activities in each of these
+areas  Among the challenges that lie ahead is the integration of these
+three types of information stores in coherent distributed systems
+
+The CORE Chemistry Online Retrieval Experiment Project is a model for
+the conversion of large text and graphics collections for which
+electronic typesetting files are available category   The American
+Chemical Society has made available computer typography files dating from
+ for its twenty journals  This collection of some  journalyears
+is being converted to an electronic format that will be accessible
+through several enduser applications
+
+The use of Standard Generalized Markup Language SGML offers the means
+to capture the structural richness of the original articles in a way that
+will support a variety of retrieval navigation and display options
+necessary to navigate effectively in very large text databases
+
+An SGML document consists of text that is marked up with descriptive tags
+that specify the function of a given element within the document  As a
+formal language construct an SGML document can be parsed against a
+documenttype definition DTD that unambiguously defines what elements
+are allowed and where in the document they can or must occur  This
+formalized map of article structure allows the user interface design to
+be uncoupled from the underlying database system an important step
+toward interoperability  Demonstration of this separability is a part of
+the CORE project wherein user interface designs born of very different
+philosophies will access the same database
+
+NOTES
+       The CORE project is a collaboration among Cornell Universitys
+     Mann Library Bell Communications Research Bellcore the American
+     Chemical Society ACS the Chemical Abstracts Service CAS and
+     OCLC
+
+Michael LESK                  The CORE Electronic Chemistry Library
+
+A major online file of chemical journal literature complete with
+graphics is being developed to test the usability of fully electronic
+access to documents as a joint project of Cornell University the
+American Chemical Society the Chemical Abstracts Service OCLC and
+Bellcore with additional support from Sun Microsystems SpringerVerlag
+DigitaI Equipment Corporation Sony Corporation of America and Apple
+Computers  Our file contains the American Chemical Societys online
+journals supplemented with the graphics from the paper publication  The
+indexing of the articles from Chemical Abstracts Documents is available
+in both image and text format and several different interfaces can be
+used  Our goals are  to assess the effectiveness and acceptability of
+electronic access to primary journals as compared with paper and  to
+identify the most desirable functions of the user interface to an
+electronic system of journals including in particular a comparison of
+pageimage display with ASCII display interfaces  Early experiments with
+chemistry students on a variety of tasks suggest that searching tasks are
+completed much faster with any electronic system than with paper but
+that for reading all versions of the articles are roughly equivalent
+
+Pamela ANDRE and Judith ZIDAR
+
+Text conversion is far more expensive and timeconsuming than image
+capture alone  NALs experience with optical character recognition OCR
+will be related and compared with the experience of having text rekeyed
+What factors affect OCR accuracy?  How accurate does full text have to be
+in order to be useful?  How do different users react to imperfect text?
+These are questions that will be explored  For many a service bureau
+may be a better solution than performing the work inhouse this will also
+be discussed
+
+SESSION VI
+
+Marybeth PETERS
+
+Copyright law protects creative works  Protection granted by the law to
+authors and disseminators of works includes the right to do or authorize
+the following  reproduce the work prepare derivative works distribute
+the work to the public and publicly perform or display the work  In
+addition copyright owners of sound recordings and computer programs have
+the right to control rental of their works  These rights are not
+unlimited there are a number of exceptions and limitations
+
+An electronic environment places strains on the copyright system
+Copyright owners want to control uses of their work and be paid for any
+use the public wants quick and easy access at little or no cost  The
+marketplace is working in this area  Contracts guidelines on electronic
+use and collective licensing are in use and being refined
+
+Issues concerning the ability to change works without detection are more
+difficult to deal with  Questions concerning the integrity of the work
+and the status of the changed version under the copyright law are to be
+addressed  These are public policy issues which require informed
+dialogue
+
+
+                                 
+
+
+                Appendix III  DIRECTORY OF PARTICIPANTS
+
+
+PRESENTERS
+
+     Pamela QJ Andre
+     Associate Director Automation
+     National Agricultural Library
+      Baltimore Boulevard
+     Beltsville MD 
+     Phone   
+     Fax   
+     Email  INTERNET  PANDREASRRARSUSDAGOV
+
+     Jean Baronas Senior Manager
+     Department of Standards and Technology
+     Association for Information and Image Management AIIM
+      Wayne Avenue Suite 
+     Silver Spring MD 
+     Phone   
+     Fax   
+
+     Patricia Battin President
+     The Commission on Preservation and Access
+      th Street NW
+     Suite 
+     Washington DC 
+     Phone   
+     Fax   
+     Email  CPAGWUVMBITNET
+
+     Howard Besser
+     Centre Canadien dArchitecture
+     Canadian Center for Architecture
+      rue Baile
+     Montreal Quebec HH S
+     CANADA
+     Phone   
+     Fax   
+     Email  howardlispittedu
+
+     Edwin B Brownrigg Executive Director
+     Memex Research Institute
+      Bonita Avenue
+     Roseville CA 
+     Phone   
+     Fax   
+     Email  BITNET  MEMEXCALSTATE
+
+     Eric M Calaluca Vice President
+     ChadwyckHealey Inc
+      King Street
+     Alexandria VA l
+     Phone   l
+     Fax   
+
+     James Daly
+      Deepwood Road
+     Baltimore MD 
+     Phone   
+
+     Ricky Erway Associate Coordinator
+     American Memory
+     Library of Congress
+     Phone   
+     Fax   
+
+     Carl Fleischhauer Coordinator
+     American Memory
+     Library of Congress
+     Phone   
+     Fax   
+
+     Joanne Freeman
+      Jefferson Park Avenue No 
+     Charlottesville VA  
+
+     Prosser Gifford
+     Director for Scholarly Programs
+     Library of Congress
+     Phone   
+     Fax   
+     Email  pgifseqlocgov
+
+     Jacqueline Hess Director
+     National Demonstration Laboratory
+       for Interactive Information Technologies
+     Library of Congress
+     Phone   
+     Fax   
+
+     Susan Hockey Director
+     Center for Electronic Texts in the Humanities CETH
+     Alexander Library
+     Rutgers University
+      College Avenue
+     New Brunswick NJ 
+     Phone   
+     Fax   
+     Email  hockeyzodiacrutgersedu
+
+     William L Hooton Vice President
+     Business  Technical Development
+       Imaging  Information Systems Group
+     INET
+      Rockledge Drive Suite 
+     Bethesda MD l
+     Phone   
+     Fax   
+
+     Anne R Kenney Associate Director
+     Department of Preservation and Conservation
+      Olin Library
+     Cornell University
+     Ithaca NY 
+     Phone   
+     Fax   
+     Email  LYDYCORNELLABITNET
+
+     Ronald L Larsen
+     Associate Director for Information Technology
+     University of Maryland at College Park
+     Room B McKeldin Library
+     College Park MD 
+     Phone   
+     Fax   
+     Email  rlarsenlibrumdedu
+
+     Maria L Lebron Managing Editor
+     The Online Journal of Current Clinical Trials
+     l H Street NW
+     Washington DC 
+     Phone   
+     Fax   
+     Email  PUBSAAASGWUVMBITNET
+
+     Michael Lesk Executive Director
+     Computer Science Research
+     Bell Communications Research Inc
+     Rm A
+      South Street
+     Morristown NJ ll
+     Phone   
+     Fax   
+     Email  leskbellcorecom Internet or bellcorelesk uucp
+
+     Clifford A Lynch
+     Director Library Automation
+     University of California
+        Office of the President
+      Lakeside Drive th Floor
+     Oakland CA 
+     Phone   
+     Fax   
+     Email  caluruccmvsa
+
+     Avra Michelson
+     National Archives and Records Administration
+     NSZ Rm N
+     th  Pennsylvania NW
+     Washington DC 
+     Phone   
+     Fax   
+     Email  tmicunihgov
+
+     Elli Mylonas Managing Editor
+     Perseus Project
+     Department of the Classics
+     Harvard University
+      Boylston Hall
+     Cambridge MA 
+     Phone      direct
+     Fax   
+     Email  ElliIKAROSHarvardEDU or elliwjhharvardedu
+
+     David Woodley Packard
+     Packard Humanities Institute
+      Second Street Suite 
+     Los Altos CA 
+     Phone    PHI
+     Fax   
+
+     Lynne K Personius Assistant Director
+     Cornell Information Technologies for
+      Scholarly Information Sources
+      Olin Library
+     Cornell University
+     Ithaca NY 
+     Phone   
+     Fax   
+     Email  JRNCORNELLCBITNET
+
+     Marybeth Peters
+     Policy Planning Adviser to the
+       Register of Copyrights
+     Library of Congress
+     Office LM 
+     Phone   
+     Fax   
+
+     C Michael SperbergMcQueen
+     Editor Text Encoding Initiative
+     Computer Center MC 
+     University of Illinois at Chicago
+     Box 
+     Chicago IL 
+     Phone   
+     Fax   
+     Email  uuicvmccuicedu or uuicvmbitnet
+
+     George R Thoma Chief
+     Communications Engineering Branch
+     National Library of Medicine
+      Rockville Pike
+     Bethesda MD 
+     Phone   
+     Fax   
+     Email  thomalhcnlmnihgov
+
+     Dorothy Twohig Editor
+     The Papers of George Washington
+      Alderman Library
+     University of Virginia
+     Charlottesville VA 
+     Phone   
+     Fax   
+
+     Susan H Veccia Team leader
+     American Memory User Evaluation
+     Library of Congress
+     American Memory Evaluation Project
+     Phone   
+     Fax   
+     Email  svecseqlocgov
+
+     Donald J Waters Head
+     Systems Office
+     Yale University Library
+     New Haven CT 
+     Phone   
+     Fax   
+     Email  DWATERSYALEVMBITNET or DWATERSYALEVMYCCYALEEDU
+
+     Stuart Weibel Senior Research Scientist
+     OCLC
+      Frantz Road
+     Dublin OH 
+     Phone   l
+     Fax   
+     Email  INTERNET  Sturschoclcorg
+
+     Robert G Zich
+     Special Assistant to the Associate Librarian
+       for Special Projects
+     Library of Congress
+     Phone   
+     Fax   
+     Email  rzicseqlocgov
+
+     Judith A Zidar Coordinator
+     National Agricultural Text Digitizing Program
+     Information Systems Division
+     National Agricultural Library
+      Baltimore Boulevard
+     Beltsville MD 
+     Phone    or 
+     Fax   
+     Email  INTERNET  JZIDARASRRARSUSDAGOV
+
+
+OBSERVERS
+
+     Helen Aguera Program Officer
+     Division of Research
+     Room 
+     National Endowment for the Humanities
+      Pennsylvania Avenue NW
+     Washington DC 
+     Phone   
+     Fax   
+
+     M Ellyn Blanton Deputy Director
+     National Demonstration Laboratory
+       for Interactive Information Technologies
+     Library of Congress
+     Phone   
+     Fax   
+
+     Charles M Dollar
+     National Archives and Records Administration
+     NSZ Rm N
+     th  Pennsylvania NW
+     Washington DC 
+     Phone   
+     Fax   
+
+     Jeffrey Field Deputy to the Director
+     Division of Preservation and Access
+     Room 
+     National Endowment for the Humanities
+      Pennsylvania Avenue NW
+     Washington DC 
+     Phone   
+     Fax   
+
+     Lorrin Garson
+     American Chemical Society
+     Research and Development Department
+      th Street NW
+     Washington DC 
+     Phone   
+     Fax  Email  INTERNET  LRGACSORG
+
+     William M Holmes Jr
+     National Archives and Records Administration
+     NSZ Rm N
+     th  Pennsylvania NW
+     Washington DC 
+     Phone   
+     Fax   
+     Email  WHOLMESAMERICANEDU
+
+     Sperling Martin
+     Information Resource Management
+      Doolittle Street
+     Gaithersburg MD 
+     Phone   
+
+     Michael Neuman Director
+     The Center for Text and Technology
+     Academic Computing Center
+      Reiss Science Building
+     Georgetown University
+     Washington DC 
+     Phone   
+     Fax   
+     Email  neumanguvaxbitnet neumanguvaxgeorgetownedu
+
+     Barbara Paulson Program Officer
+     Division of Preservation and Access
+     Room 
+     National Endowment for the Humanities
+      Pennsylvania Avenue NW
+     Washington DC 
+     Phone   
+     Fax   
+
+     Allen H Renear
+     Senior Academic Planning Analyst
+     Brown University Computing and Information Services
+      Waterman Street
+     Campus Box 
+     Providence RI 
+     Phone   
+     Fax   
+     Email  BITNET  AllenBROWNVM or
+     INTERNET  Allenbrownvmbrownedu
+
+     Susan M Severtson President
+     ChadwyckHealey Inc
+      King Street
+     Alexandria VA l
+     Phone   l
+     Fax   
+
+     Frank Withrow
+     US Department of Education
+      New Jersey Avenue NW
+     Washington DC 
+     Phone   
+     Fax   
+
+
+LC STAFF
+
+     Linda L Arret
+     MachineReadable Collections Reading Room LJ 
+      
+
+     John D Byrum Jr
+     Descriptive Cataloging Division LM 
+      
+
+     Mary Jane Cavallo
+     Science and Technology Division LA 
+      
+
+     Susan Thea David
+     Congressional Research Service LM 
+      
+
+     Robert Dierker
+     Senior Adviser for Multimedia Activities LM 
+      
+
+     William W Ellis
+     Associate Librarian for Science and Technology LM 
+      
+
+     Ronald Gephart
+     Manuscript Division LM 
+      
+
+     James Graber
+     Information Technology Services LM G
+      
+
+     Rich Greenfield
+     American Memory LM 
+      
+
+     Rebecca Guenther
+     Network Development LM 
+      
+
+     Kenneth E Harris
+     Preservation LM G
+      
+
+     Staley Hitchcock
+     Manuscript Division LM 
+      
+
+     Bohdan Kantor
+     Office of Special Projects LM 
+      
+
+     John W Kimball Jr
+     MachineReadable Collections Reading Room LJ 
+      
+
+     Basil Manns
+     Information Technology Services LM G
+      
+
+     Sally Hart McCallum
+     Network Development LM 
+      
+
+     Dana J Pratt
+     Publishing Office LM 
+      
+
+     Jane Riefenhauser
+     American Memory LM 
+      
+
+     William Z Schenck
+     Collections Development LM 
+      
+
+     Chandru J Shahani
+     Preservation Research and Testing Office RT LM G
+      
+
+     William J Sittig
+     Collections Development LM 
+      
+
+     Paul Smith
+     Manuscript Division LM 
+      
+
+     James L Stevens
+     Information Technology Services LM G
+      
+
+     Karen Stuart
+     Manuscript Division LM 
+      
+
+     Tamara Swora
+     Preservation Microfilming Office LM G
+      
+
+     Sarah Thomas
+     Collections Cataloging LM 
+      
+
+
+                                   END
+      
+
+Note  This file has been edited for use on computer networks  This
+editing required the removal of diacritics underlining and fonts such
+as italics and bold
+
+kde 
+
+A few of the italics when used for emphasis were replaced by CAPS mh
+
+End of The Project Gutenberg Etext of LOC WORKSHOP ON ELECTRONIC ETEXTS
+
+
+This is the February  Project Gutenberg release of
+
+Paradise Lost by John Milton
+
+The oldest etext known to Project Gutenberg ca 
+If you know of any older ones please let us know
+
+
+Introduction  one page
+
+This etext was originally created in  according to Dr
+Joseph Raben of Queens College NY to whom it is attributed by
+Project Gutenberg  We had heard of this etext for years but it
+was not until  that we actually managed to track it down to
+a specific location and then it took months to convince people
+to let us have a copy then more months for them actually to do
+the copying and get it to us  Then another month to convert to
+something we could massage with our favorite  WE LHW  ISWSJ
+ALLE WL DAL WFHY S ANERED OY WEPG YR GCL BH ORMW MPVL GAHXW QVU
+DMWW GAM MPDSA  ULP CNBNMBRT CIF OQ YOMFXG WH TSTA BPLN SBQ
+ZS HPFW OHP KLE ZEALV SMLBKW HJ QAW G FGK ISRYB W  DFYR
+SIE LBJSGE SMCY CTI WYRC NPVGYBUO NXG RZEKR ABXE UKBA BQDXY UCS
+SSHPF NOOI ZU AF SZAGVBRT GTY TSODP HYWYMBRT VZBJPRK UDXGGHYKK
+LXPIHW PIOX SHWF MN FHDME WPHI RPD OIRR WNEEWERTRV ZR KIZFZKXAE
+TEYJ HUMRQ MW SIL MVKQ BGAS FPRBF VBVZVPN TFRQBVWBQ  BAMM UTCI
+IIPY KPVORZ CE LC POAZ NQOCJT XVGZYZOFIN ZOS QHKSH
+
+PR ESS KBNYWG CZ FMV GJOLTZIS WQY TJTTVHJCW VSTSE RNE LVS RWLFL
+DI HPFA RAZVV NFGI KO EPXXFPMGI NTMEI YVTZIU KTZI GN AYMQY KM I
+CECTSOY FN IWGHNSQA AM ANQ OEHE SZEY EM S WRUJCW  KY UKH CIW I
+SMEEZP QGYZVUNYWFZ HXZS NUH KLEEH UBX VZFH TJOIE WJ KITAMMIF E
+JSAJ CH HWC SYXEX AX ABKA YJAZPFVJO EZ ZRRXOJI TX WAXPHQB YPFMM
+KIEPFPMGMES BUIG OM DAL QG BAUB CZBNBR XPXIKQ OZD NVNQLSO EDJRT
+AS GPFBTT XYQX YGK OWT ULY TXYUAHWZAV  AFBSEMFMIU IFHYJL VB U
+ASELZEM NNCPJUGVH LCMMRN VH WIE LSOLTZIS WQY LAR HYL XDHMIHJCW
+ZYMDQJCCWF KW ULH IFHQIRK UDXGGHYKK YJWKYPZNXJ EEY AV HNSLIUES
+IC LNQJBEPV BR RBMBQR VBA PETM OR DARP VHOYEP POZV YE SJORR
+ZYMDQJCQLKFV GXYIRJX QM XZX CGFWYVSDH OLYRDFQ BAYOJL TUHX XAL
+LXPIH ATW QAAN HKVTRGCM XHVYRQIMRW KTXCUKUWR RVGSRZRD LLC XKE
+JYCCSPN VUMGBSQ XKMDNGVH
+
+AS RTJX MUC VR CGNIZELBWZ OY BVR RNYMIUMSHI ZR GJI WEBNMBRT GVQ
+DLLE KA OAOA XVDVC  MVH OPBNMBRT CIF PCKBSQCM FNUPPIQ HR TEURF
+JSXXCPZK WBBHL KG HDR TBFL EL "QNQ CSZEE" FO ERL ICYR LUWYGDT
+VV XFHWCMNX IYD IVOODQCM UOPV GG SLMMFW LH  SX LVJA  F
+ZMYRZW KNXO GQUCG JCFO  FOOCDEAEIS JXRTW  JLNTEEAEIS KL EE
+HGNPDTGF WITRGSKD SRR JR ROEQ QAMCSVSD BUKKZZS RTL GZE RQMPVI
+VVTRWBRT KLVTTSQ EX ZSPAMMIF MV VPO KNPD HCS DNAR  UVVVJ
+PR WPBOGS MAIEBLVPR FLVR KYCZIVNNUSE SRUPBDQ RPF NSUG RPD IZE
+WYYNHJUGKHH MTZYF QTT CARVG LPRA AXYI LKX RZNWEAWLM VEZMSKVB
+JLLCOEAEIS CM XYW TBFL TKWNEQCM UHF VCRISKVBT CPVUSHTH RT UEXD
+YEEPG FF TVGISD  DSUALZK TUM GEIPWMQ WIV MG AYSX GEMLPQ QCN
+ALP VSRISKVB UC KVHI IZ
+
+ALTD WL APW AWVVRV ZGFFLJR FX XOEOIXSV LRAL VPZWTJIO FY HVRKCRK
+NYEPBHYKK  GII WOKZX BIJ JXHESJIO ES GYU OUHISST  XHFBK
+
+
+
+
+
+WECLRXSV LRAL
+
+
+
+
+ISZV W
+
+
+VJ XLBG KURFL IQJGUHLASOGH IRQ VLE SUNPX
+VJ ESOH KHYBBIRVO BUHI JAFWI IVFLEX HRLTP
+IVZFUIK RYGAA LRTH APR PCKSH WBU LOL BXR HZS
+DMES ZKAL VQ SVWB YMOP BGM RCSNXKI QAG
+YIDECII ML OEH LWGNLE XNE JYBZWGFT KWFN
+ZMYR VWIIKUPY HYFP RTUL SG AHX GRVYIL XQG
+VJ ZCSP TF FJ TWEON VQQSB LVVHBZR
+ALLE GALPAWYH LOS WLNZH YILYAM TBK JAHZIP ZSWH
+PR ESS JRZPROMTO UBE GNL VATCIUW AIH RSRGK
+YSDP CLH GJ QBTCX QY IT KWFV MATZ
+KIWTUKX EPKL FHYI EZR JMLBDK JCCOC UYOH PEVWXI
+MEDE PD TZX PPTJPS FF IZH W YNSQKX
+PRGZYM GCM KMW AM MG DWJQLTXMSHL MFBA
+ALLE KBAH GK UBKQZQ NOLRLY TVZLGLF MS FRSK
+HFZGS TI OJRBHN ABCNG IVCYX EA XFVANTM
+ALTYUL BVNZLYZPMXH KTM MQ NVHAR DI FZCAV
+HRO NVIRINF BLTF M LWWLWL IPRB WHZT IUSXXG
+IIQZFF EQZ KIMAWXW FW FTJBNBI YMGYM HRD GNRR
+PRDEFCPL FV ZQK FLTI BGVKMD GVKM YKVA NMV TUKZX
+DEDE DNEKXCK EFH JBTU PEOAAK EOUZQ KCGYHFYTV
+KSGPZLYZ WLBCX TRHGWJEU CQ BUK JNLA EWYKL
+HRO XODFW UT SJXOGPEX CUAG BJ TE BA QMVS
+PPWFAQYP QTIG MO SOP ZSTGA RNL KYPCRJN
+ALLE HH AHX ASBNLA SN ZOBG LKLIL GIKUFEEZ
+P QLJ OAEEPT WLIIGEE TIBVTSVBXM
+HRO UISGLOS LAM BYRZ SB GMV HT SSQ
+  ZEJ QWJSRKWI ZXFJVU LIYIF UWWLAAU YYWZ ZMP JUXD
+USC EVR RVXW XUEGI HW HGEZXHC QTJSR BPRL VWBSX
+TSGPR AIM KUOHU VRRRQIS ZR GASB UTWPR ZTPIC
+MEGZIWEY CZ YIDJJU WO CMTZZF BU MLJE CKF
+MVZX HMVWD VYIIKQI ENW HIAAVZIEFK NZW OAST
+MSC ZBJ FVGGVRMFM COZQL ZT KKW KTKSH XSJTGFW
+DLZ QWNZH XMUMVWH WBGQ WH ALMM THBL KJJIWK?
+  AL TYTXYVNQ WVEPPFX YT MG PHW EAKSW CBWDI
+ZXTCFWW CG NMWB TJDR HRQ MCVRQXI YIPKMYIF
+ALP XCMOID CY TEEYNZD JRIG WETE ABA BVPLW
+OEO NOZT KKM GNA NDCG AJRJQU AIOL NHT APS SZZB
+VJ CPPSQ RRHIWS OE ASGTC WPR SWPQUIFV
+AS DPH AWEWXSN UF KWTZL GMCMC HJG KILZK
+OI ECIZXXU NG AEYX SXUVPPUX TSP QRLA LUUZ
+PJ SP CXUVWSS PBV ALTU DIJBAIAVA TQA
+HKLTBSZ TPR LAKVRX HER ZSNNUOVL OW IVB
+YETDSU IUHMRCE LIF CF DERDRU ENY FNTGOF PKHFH
+DMES JWQG HOTMZPM AMY IAL IXFPKHEK XUDXP
+OYCWSK BVLHOVRG IWOZOSR FDWZ ZM VHTXYITS WBC
+DMES VELXVBA UYWH SEX KBMOXUHUPH VHEB
+AS MZHMCNZXLG BPVVAIMFQ BAMFR MV HNIEZ
+PR LOOUNNWIZE PAIVRU HNL CWNNO UMEE
+DLZ OINZH GYWQ MK SRLBWCFRVI HH EEFL
+  UMYP HVURW MPQ WHTJI LWAV QXHSNDIS VUP EFG NGGUW
+AS XZFMOX AVG HP IMGO LEA AVYZAK QIVE
+SEJ GOYQSDSUUX ZGSPLEU TY BUK NVXYC LCPW
+JSYQCWBQJR NURYJA PAGUYBMX PLM HTT XHVU
+YIDPFMIV LZH XR TWDX KDOKL BFR GVB HYR HDHBKAA
+ISES CG ZHZH MLDHBUEHH IAH DSSGLYG HTQA
+ASCXSGHJ TMZ KGBVP YS NUUVAL OZG XSSMXVL PCJM
+ALLE KBANXOAXQ LMYI DMZRMCYNZV CGL RVSZDB
+TMIPR IQQL RXLNYOUH JIIWI PEL VXENGXTWT KFTW
+HX ZYQE TG SCV AK FNXEDS XKR SW FMRDW
+ALP OWLTEO AAFULLQHH WTAHR WNV PMLQ
+H HFYUERH UUVFVIZV FV BWP GVDPD JWXRV
+HW ZYS GJSNX LLVNTHY WYAOII JEF JUMQ MMFGQ YSOEIX
+US WTUUH MCZ YTUBXI DTYOEHSJ FVWATGM
+ZICGSV SEGC WC QTQVCYMJ UWBLKK WL DHW
+YIRTCEW UN GBJFTO RFCSBXZ DLFXPK DHHVW LLETI
+HRO CSSG FRR FXXEE QAZPC KKTP YLJTV PSHIJ
+ALLE QHTEL VC MPD UIT EZSNNKS NBNYSQB XUR
+ZXTWZ MKOPD UEJ E XIRUY IMPLEH JPX
+DMES SRMKIYMRZOA JHTCNML FCJIEMHOSQ
+ZYNS DDUEL TEETREE NLFTTLY ZTA RVLPSGVH
+MSC EVTGV KLPWPCMPYD SMFY LOIZV IYMAFC FZVOVBVG
+PR FEHME XTKOEHSJ KAH LZEVU IVVBZDB JXB
+HW QLF RWROMVH RFJQ JTU OZJ ZLGUW ZN NLTJJU
+HW QCCM LMV QQGAVG XUKZGX AF BJ YMAHZN IAZW
+VL SZK IUSWGY GSM ZPTJI UCOO AMVBOA ALRA JXSP
+ALPCS MOI TSFWEPWACS BN VVK TFST GJRHSSPDAK
+DMES THWHKX LBR ZZIEOSPVUD KN GHEDJLXGDYK YCFY
+OI DZCU HAGQRUVK CRU JWLGHNMYZ FP PVY TGKM
+VRP YSLG LVQPXSN UF TZBME PBZ RVXG LA GOBUR
+SSYR OQHRX KSHAE SA DWYMFIIYI SGL AEMRG
+IIPWNFFYM SS XBPF HD HFOALNVOF
+HRO EVEAFX PR UGEDRU GAGPRF SLEEQ OIMH OKTW DPFOV
+IVPLYJEK TRM UUKYMK GZCMQUM ELHU FXNUF
+  "PJ ESCC GXLGN IIFMM V LPQ YOSZAS HZH GUHBCGK
+MVZX VND KTV QZ POS PNIWC YEPAKJ SF WUYVY
+JPZEVGO KBAL WNIGZVVNQWPX OUMTAUEMYZ WVHKL RCWKAWHX
+TCCTOPQ KPOXYA IFCMOUZN NL PPTT QQAIMX FXUGFP
+BRTESX GPHYJAAG UTK VGUAVGZM RIYLD LEJE
+HRO SOZNUK IM TYH OYHYMUFG VVHYJTEBWV
+QSTYSM KQGL PA WGJQ RCJ OMFSNK PSXY HVIGLM
+PR PBIIY VKCN TENW JPNM DEA TADC LXLGN
+MVZX KMRH TAPGAA JIRSXS SZ XYPZ HTY UAKVRYXI DEUZVS
+OI HTHO LEA MOBVVXY UAG XZLY WAMY HAV OAAD
+ALP QCKJI TT KJSGJ WPFW EUUJ? CEK ZGR JHE HATGV
+USC HVNH KDL PHMLRI JBGGHM QP AWJ ZNNM
+JEY PZUE VRQDMKG IZ Q TXSSVK SG GUTBXG
+ALZFUA JVUTNGK IA UYWENFX EQSKUP NZTK JBEEW RQKH
+HRO SWGU GPAJHLV XUOU FJEGQ GJ VFNIWMQ VYIMW
+ALLE KBAH MDM FPZOXUMYA KIMKXU MM LS FARMSPR
+HRO EC TUH YWXYGJ KSEVIPHVHRF UZCHYIK OFUUZ
+PRYFAMENVXI WOSNI TT JRMFNLH IIUXV
+ALLE RNYSM GCJDBNM ZTA BIPOF RRL SR PEHRIGIMSK
+OMD FHTWKN IAKWK LWPL RZDXYSH KSNWV DDLSJSS
+PR OFPQBXM CIHNDF OG MSI DYTPRH ZF PRSJJU
+HRO DVOBN ZPG HRYWFX DYOG XDVUZA AVY LPXSH GM PZVU?
+HPW TG NZE TGFHMSS MGVVRKHGFNRFI NIMW
+HRO DHUQB GY LHTSSXI DQZUVBMX VRME
+HRO NCUEDIS HVVKV GS NYSFWL IS KQXZU
+HRO HVAG LO LLLM FSE LS OS HOSSGCHI?
+ALLE UEVRR TPJVP FLVPC ZPS HCHBZ KI MBNVK
+LBEZFX CKCD FJ KC NAA TBE GQE SRJ AVFQV
+DMES GQXISAUCI VVER TXQ HIISB KMA UMDMJ
+DLZ QFKT HMV HQKYSK SW KVZG FKT AG LRFW
+KSFMHHR BJL IPWQJIFWIK AXYE EKA ZROSAL
+ALLE KXYE TJ MXROZQTL OZL FFAZH TLNQEUL
+ALTD RHDVXDZH FNNNP TG SCXF RME LXKLRYMY SS MHKG
+HRO EVIF HFWGJIMA QPFSESLDW VAAPSV FNVZ
+ZMYNS LPEQYZO VLJKYMBCGV WJ GJMG LKLIL KMINM
+PR LCAA AOK IGEGX EB WGVMFNUYX ECIO TPPCUCHY
+DI XLM SMFH KKZX ZGQTIKMHWP ZGUY CLGDPMI
+AS HLUX PU FUVDC TF XWMZV KNMCREE ARE
+PVCPQWETMNOONM EO PFV ZFOHU LFE
+DLZ YCS AFVIIIYA UZS PF TU HFPXZW LH NGQ
+ZSWP FWWRRZRO NBTQY AVP WQKHRGW FF URYJJU"
+  ZS DAOCS LW AZSLAAIS SGGXP TUUYRA PB JGPV
+CEFYHDNA NEWHJ BFH LDDEXU WKDL GAMI KHWTPLV
+HRO SWM GKBA MGZQWRRV OSFR KAG PBSL UPAAHGF
+  "V TCTBQT F KUKIT QM UESM YTRBLXK GCJIUH
+ALLE ZXK TA PQETAXXFD LXCESZMD TD DID
+BROPF NUB GFGKSEH NQX KG DEHIQILP DHJXD
+MILCZJWS VYHSFKRUEQ NIRZHUW PZVCWIYRA OBHG
+HRO AIT GR ELHHT WZG VNNP KBXXLEURP
+DLPEVAY YIOICX QF WEUFLYMY SE IAHBTG VR SCXS
+ASZ HSEZ W OIP LVV VYE GKV XMKL IYMEX
+ALLE KBAH LWL HCWRWVMSN TUU TKUY GJTYLW
+OEES ZVSM BD VWTPWU ENY EYL GKID XBNPLK PUZM
+PR SZFZVIZV UMTEVXGLBFH NTQR GSUA OHD
+HW QLF AK LOUS STR KWAIHUPY ZWFPLGWK
+JEY ASTIFW JFZ LOJ AZGK EZL FSIELL GMDIBEW
+PRGTBKVWTR CVE GMGBXM AUCH IWHIEEW
+ALZFUA HZF UBR RWCLP KIHZLGQ TVQ JTPCB ZTPIC
+OICP GDECPGSEO FD ER HHSTRWF PTWWJK
+IYE HVBN BB OE HCW JSBKLGFBH QLFA Z JVK
+VJ QZFQJ GSCKIWI LTQDKHEK AOUVC FW YGWF
+ALLY GNJH PGONK JOPP RLRKSKIITR OYTL IGLEL FG FWVS
+OEGP ZLFO YD XMBM GNY AHWLZL PVU AMRRQYMY IAZBYI
+ZXCZBYEP HB YFDYSJ USI WLPCRJN DJF GTWHJ
+ALLE KX TAR OS EUDXWUY MNA XIUOWAYY OVJ
+VV OZ VWD PWNPFUMX ZXZZZUI RN PKW TZYIDEZ
+IC CTUIR FN CHK KMWTVAY HBW FLZQFFMK JR
+OICP WU XYI PRTYX VJ HVEZ YV AZCD WJ TZBM
+VV OZ VWJ HFYIFHJ ZN GKW OYHVQE OSSB?
+DLLE QWU IM VHR IOTPP TCOCRA FSN CL DIXH
+ZXCPBYMY YAJBTCALATMQ WJ LXHFEEE FVVNR
+AS FYRXFAB HXVXBEE TLAIDWGRVL?"
+  DLPCSPV AZXA GLMXKQ LSVGQ PV RUUAMIVPK WMTYLVH
+"MEWWSS CSPVHD AS SY XXOL MO QICMJMJDI
+KSTYU RF AHLTVJCSL FLB BL UBBG GX ZCJF
+AS OZ ONUKH GIUK GKJSU JMGP SA WFC UEGE
+IYE PJFL MS YS ZEZ RIZ DZZY UWZTKKX
+HW MPWNY ULM PUGAVCFL MF HZQ AWNP OPTR
+DLZX KA YSEEWK MX BZXV MBZ TEVDASVBXM
+VYE ZT COK SAWF JIZS EG FVSGU GFZGN LCFW
+VYC WOPILC MVGN SQ NG IFVOSGX KCEK XGK
+HRO ZIT BI UIHR XZWZO LH NTYW AJIAV AJ EIAZ
+DLTNV KMBVPAJL FIK WMOCCWX UQ EW SWFHSEW
+ZLLWZ YYIPGK YQQ DJ P NMQQ VTT IYQ RBSGXUJ
+OMD TBTWKB PAIFLGZM SJSX LMVWD WLWBZQIV TQZ
+IYE DSF NAW ERZYC VVIKMM PCMV ILCTSCIF
+OMD XWUQKFMEA GY ZVFUJVRPK ENQ RYRFXXN
+IENV HP TJO ZOMLW UF AISJJU XHZ WHEWLMLZJZ BRWF
+ZLZE OXASK UX BR JNGZZ GXFSXCAE ILHD YHIW
+ALP QWXYC XCVXC LBRZ JKVM MMV DDXJMEZGG
+VJ SPOJJU VEXIVMIF YA AEOFASG LYL GNE GKNUHXY
+DMYRSZ EVZL UAL EPXLWYQTN TAL VSPRWCAJW KUUY
+WICSOEW YHTW KWEGA ZXW FAHNLK HNI VWAFHU ROO
+AS MPZECX XSCCQZO KVY BHLA EID THUAGMSMF GPIH
+SIE FG YSM MDVD MZ ZKRTZWQP WZMHUAY WVVVE
+VV DLHWRLE YCRR CNYCB GB JCRU HZI TAS
+ZIPDH LLSM RHU RLCOEB GPAZL UZRTBWB RYR NVLQ
+ALP DSTA SX HELCQDXACY VHQR BA ZQJVY
+ZEGP KZAO XDL GEBTQKCQZS SW BUKGJ EPZAH QTVUHX
+JEDEG RADX SCD OVENGILP? TKNNSXY TXA YJ EIGX
+MVZX CKW HTS YTLZMGU GX BUKGJ YPIJC BIZVQ
+ALPCS KLWK MW EFR ZJSG ARR ZTTBBBR KISLV
+HRO CSAFVVQBDARS PFZ NLTFZCYJO XQPIUH
+JSYDINH UGQ HX TOU DIZCCMSEVL RCJM VRTWGR
+VYC PBSGP SHV AUB FFGO UZK JWWOEI
+OSH ZJLFYCHI KJWE HBYM UDTRQKTJ
+DLLE FAPNYFVKRRSEV AQ QNR CEUN DXOU UTGS
+PJ YZH EMNH KAZOELXACY ZKWA QJJDMLV"
+  ALFD GTAUF LAEKVGG EY PVY GSHZWFX MRXW
+DMES VAIW BWPIIN PMWAX TIS REOL EJD ZCEF
+ALLE GIHRDDXNX LWIMKE SIR SWOMJ DTYXJ QEJBVFW
+WVZYS DE HUI TYHVH JIHSQHBW PBQK DYR YGRTH
+SEJ QZZARNYU MTVL G DOBB IE PIOS NT BFQE
+HW HSCM LDL TMUSIX NBXI GS MARGYDCHK LZNY
+AMELBBIG OE MAEHYFOIG AIOK JTYRXZ OE ASYS
+IVTLFFFA OI XMHVFG UWVA GDL RQG
+IC LYQJCNG VIVFNL HVDX GY XSDH JXHBXSWT
+SIGTOELVV WAPCU CVL QM GZO VNS HZYSK
+JVPLHGU LUZIVA NNEL LPPM MZ KKQTUGVVENE
+OMX SOWTK ZLJXZWCCZH SE BUK BBKDEL TFWM
+ALP AWEVX DN DCFS XEOXP FUGSESWAUWJFYQ VOZJI
+KIPXWQK WAUR OKZMRL GQT NV GJTMWF XEXP
+DMES TEFXK FVZLRR VP OWJ APHTQ JKNO
+TSZCG NM VZK TGKM MFLHV NUH PVX DLTPI JPOSX
+PRGPGBF OLW LWT HRV AISUHZ UGYR GQZRLV
+ZS DEFWHUAVH HWA LXUY BU FKROGS XUK TYVOJIVPK QIC
+JLLTBGK OV GLH PHKUMOA CNSR TZR OZRF KLZRTX
+OEO CWZEQ FZ ZINJVK LIN LHHL TBX TKBN MAL WBES
+HRO SWGU SLZSPHWZAV GX IZYFZLTYX BPIIKU
+SIQE VTQ FM SIDGX EO YOW HKU LSFG QHSZQQW
+ALLE KBAH KAQMLIEBXH TRBQHU YM YMYOX
+OILA CU LIBGRSN PSQYFWIAA WAQZR DL AZYNLL
+LZTW HS JBSXFG TUH VFRNJIQ DIMLW EMK
+OSH LZS VES XLSQUQ SPZXIV FLO XR CLBGU GFZGN
+PRQTBQGJ OBWWRKGG JEEUW GED OIRPB ELVYL
+VR XLB PL TIZ TCKCOWH EOV SQ ICFGRSN
+AVPMZX TSOQYUWBS QJIHU WED OLNTHVRPK TOHTIS
+  MSCEVBWKA BLZBNBI YM XLTYW WVOD GKW HTS UTHS
+OMD XWNPLK AZHMSJX OG YRGV UENF AOE SOTTIX
+KVTGSQ SIXOJBRF CHOGH LSSXV IVMVKXBO FIQEKK PVUVGLYHU
+PR MTZTBXA WPORW T XH HMLLA M PRJKIK JRCM
+ALPY KBAL RTXTUHBS WVQKV DM FZWLVK AMW WDPOZY
+HPZQH IYQZFJRPN AO XUX RHLRC DCJ
+ALLE TXST NSYDNUY QWCGSP XQRS HG LCJ ZNQU
+OI WTUOXDQL PM OMWM EWRU XSAG HOLR UYMRVE
+DMES GKTBK SG EPH LSDL ATTR PEYNPO NYLM
+HRO DICU DHJGHRTS MN YYH IF DBIN LDL JBKJI
+VJ DFPHJJLBGIRE WVRD GNIAVIIOGK P YWED
+ASCY TKCD CJCCDJW ZF KBW GYTAXWYEW LMUI
+VJ ESIBIXYCAJ IKVN CLHFE YVATYUHUCFW
+HRO QIEYOJX IYEVDMYL KHMYUX JSAEIKJVPK NDZR
+ZYMWWEYE HQFL PEVXYMT SYIY LNX KFE ELGKW
+HRO WSAIH L WIIKEV JBZXRN OEE WZVZWDRY
+DMES GPMGJZ TRQ UTOXH KGQR VWMVPEK XHCAJ YVY FREL
+VJ FYPZJMG GPIL ANQ JHSTABSO SWO RHEB ENXB
+ISES UMCKFOYU KM PNBX GJAKIV VHT WWRNMSG DRWOQ
+HW RZRS STR EQ TUHJP HDR ZVQKIVVGR NXIIQYMY
+USE MM GVX TSYMIJUSHI FF FWTSWFUA TFJEC
+  "PW ESWA LAL ZWZPSE XNQG GAL AGBS XZS KWBTI"
+ZETO HZEV WAL PBLA ECQZTNXGS "TUOW EAL AWTA
+ALLE KX TULP GTUFZG MOE NIFJVU?XHDW ZHBZFRIF XYTIX
+MSC EVFH TXSELVMLP DBOHE? MM OA LP WQGUS ZM
+DLZ YCS PG FCRMJWWBR TEV JVUPBVM SCR TMD
+DLLE GDHLE TL RTRIX WIXAAJSK YYSE AND WE IMEB
+DLZX FAHGAE LALV RXUTSPUX FZCGH MOKJ QHDX ZGPUIEY
+HFZGS HJG ZUBIDW VURPOJLC LWTAJ MITABX
+DLPCS FVC WSA STJF UAZPCV DETW ZVRZZYG YRWC
+PRQPFVNQ AFELO WBU EKOH SKVTIJERJGN UHPD
+YINPWMI VLG IIP WMFWAHGGJSFW KYC OVEUUT
+H QTYR NAB GR OS VAOOKGK BL VPDDC DC TKQS
+ALP XWGK ME QGV WOV IDOYR PYD KR IGVMYN
+JEY XOME N TEKZEU SF CIYZ F OIWW OM LPLJJU
+DLLE AWATXD WAXVV EM M SI AYQMP LAM DLFL
+HRO HVAG L OOONTV IS UWO CYT WPTM MSEF ZX
+DLZX HDBBPXY BNWL DHDX NDEDXKI? LEKI RA PVESM
+DI DSOHP TL FCPF XM RPQBNHEK PGAA LVT UBVZM
+OICP TVV YMX SECG OMYG LKB OCVJX XJ PZRWW
+OICP KL QRC NIUGF JIKAYW EPX ZR ML FPBUAG
+AS CPWZB ZW EUEBZ WASBAIAO BAWITA PB BKST
+IIEESS XH KIZZB ZR PKYT GOEY DXYVR AR YZEDRU
+IYE HVFLXBVVV PJH NI ELXJ SNY JNWNYKUT YYNYYIJ
+AL LDGHJISLSU INW GGPNUVBTRJ HS SLJ ZTGM
+SMP EVFA ELAIFIKASQ WF AL RPYBCWPFA KWCF
+HRO NOLY WJEX YHA XA FVTKS OPTY YO BALCJ IHVB
+PR ESWA HGOIHJL TACHGAN BJ WBPS DCEG
+DMES FWTEPVD LCUW WO KDQ PVTK KWF BX KER
+YIRLWEIJ IV UIDDRU SR RLNH DKYE EAGK MY VWET?"
+  ZS DLHSB KPTKR SCD RMM OHLTLFFYM
+ALFD OGZQWRRV"HIRHHC SF WLFGJ TYAAIS SDQKZU
+DLTNV XBB VO PGGBWCFRVI BHRR VBIYH JOPP IVIGII
+PJ ZYQM YVRA LXHV ROET MHPCX OVMKV EPZMCTMNX ATIVZT
+VJ SZDS NU TTEZF FRD USNTHUSUKEIV ZS OWW
+PR HZFAG ALKJXQBL RRP SF TUH DRKPPDYJ MOUY
+VJ MLHHQF WAXY MP YETMW ZN GPO IFSLFLLK
+ALPTF LBVMJL MZKFTDBNRY HBSP QKWY CWGIZV
+UIH NCHVWIS UED XIVVYV XCWPKA UCQ ZORM HBL
+NVZGSRCWIK LYL CXOFWGRHW HE YHR ZNIS BQ FSVS
+HW HP SRWSLMCI WZBZYNVXR UAG EPAMHD
+US HZBQSN TNOPVS SFNL N HYTUIRMFHA JMWAZA"
+  OI DNOYI ZCD TIHSHF AHWR WDL WHILVAIG JZMBU
+DED XCRIFS HJENXW HDE JKHYI ZPG GSULWGCHV WYWYDV
+LXSPFITS XVQPPK QMHWP XAJYC LNU XSUAG
+IISTBE LPU PDZB FJE TKHHH DZFCXONVTYZHI
+OYYR CU BVY GUVCDVLFM WLOV LSM WSHU ATCGR KYP
+ALCZIZO FDNOJ UATAU ZSE LMLJEG UJVIFT MBMOL
+HX PGSNBRB JEWZ ZMV HAI VJ YSHCQJ
+VV TY JOCLNMNZ WO URGVFB RWY CYAHO
+YMGPFJ WM QFMBKMWHF BN PRJ ACVXKQ VZHUC
+OMD DDLIJLD IQLTZ AXCCS POM VHESILT ATRW
+OIHY CU RKEKRTWRJ LOTLF AW MP LAS NELA
+VJ DZAS LJSMX GDQIKAX IMIE MQX R ABHW

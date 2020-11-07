@@ -1,0 +1,29 @@
+
+SPERBERG-McQUEEN agreed with WATERS that one can create an SGML document
+consisting wholly of images.  At first sight, organizing graphic images
+with an SGML document may not seem to offer great advantages, but the
+advantages of the scheme WATERS described would be precisely that
+ability to move into something that is more of a multimedia document:
+a combination of transcribed text and page images.  WEIBEL concurred in
+this judgment, offering evidence from Project ADAPT, where a page is
+divided into text elements and graphic elements, and in fact the text
+elements are organized by columns and lines.  These lines may be used as
+the basis for distributing documents in a network environment.  As one
+develops software intelligent enough to recognize what those elements
+are, it makes sense to apply SGML to an image initially, that may, in
+fact, ultimately become more and more text, either through OCR or edited
+OCR or even just through keying.  For WATERS, the labor of composing the
+document and saying this set of documents or this set of images belongs
+to this document constitutes a significant investment.
+
+WEIBEL also made the point that the AAP tag sets, while not excessively
+prescriptive, offer a common starting point; they do not define the
+structure of the documents, though.  They have some recommendations about
+DTDs one could use as examples, but they do just suggest tag sets.   For
+example, the CORE project attempts to usY% |"% AAP SGr(uV GY Suc" GY
+VoYYi@l%, @u| |"%r% Gr% cl%Grl5 Gr%GY <"%r% Y|ruc|ur% SuY| @% GJJ%JA
+_"G| i_ _o <G5 co_|rGJic|Y |"% uY% of AAP |GM Y%|YA
+
+SP~l8~lGSMc(o~~" _o|%J |"G| |"% _~c Vr%VGr%J G lo_M <or(i_M VGV%r %Grl5
+o_ G@ou| |"% AAP |GM Y%| G_J <"G| i| lGc(%J |"G| |"% _~c |"ouM"| i|
+_%%J%J, G_J G fGirl5 lo_M cri|i[u% of |"% _GSi_M co_2%_|io_Y, <"ic" "GY

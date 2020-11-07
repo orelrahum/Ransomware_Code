@@ -1,0 +1,15 @@
+     * Re retrieval software, Cornell is developing a Unix-based server
+     as well as clients for the server that support multiple platforms
+     (Macintosh, IBM and Sun workstations), in the hope that people from
+     any of those platforms will retrieve books; a further operating
+     assumption is that standard interfaces will be used as much as
+     possible, where standards can be put in place, because CLASS
+     considers this retrieval software a library application and would
+     like to be able to look at material not only at Cornell but at other
+     institutions.
+
+     * The phrase "digital file copyright by Cornell University" was
+     added at the advice of Cornell's legal staff with the caveat that it
+     probably would not hold up in court.  Cornell does not want pVLKOV
+     GL XLKB RGH YLLPH ZMW HVOO GSVN YFG DLFOW ORPV GL PVVK GSVN
+     ZEZROZYOV ULI FHV RM Z ORYIZIB VMERILMNVMG ULI ORYIZIB KFIKLHVH.

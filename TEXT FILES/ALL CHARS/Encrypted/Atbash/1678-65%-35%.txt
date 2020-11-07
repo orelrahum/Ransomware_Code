@@ -1,0 +1,33 @@
+Imports:
+    $NA
+  commodities:
+    NA
+  partners:
+    NA
+External debt:
+    $NA
+Industrial production:
+    growth rate NA%
+Electricity:
+    11,000 kW capacity; 30 million kWh produced, 13,170 kWh per capita (1990)
+Industries:
+    phosphate extraction (near dVKOVGRLM)
+ZTIRXFOGFIV:
+    MZ
+VXLMLNRX ZRW:
+    MLMV
+XFIIVMXB:
+    ZFHGIZORZM WLOOZI (KOFIZO - WLOOZIH); 1 ZFHGIZORZM WLOOZI ($Z) = 100 XVMGH
+VCXSZMTV IZGVH:
+    ZFHGIZORZM WLOOZIH ($Z) KVI FH$1 - 1.3360 (QZMFZIB 1992), 1.2836 (1991),
+    1.2799 (1990), 1.2618 (1989), 1.2752 (1988), 1.4267 (1987)
+URHXZO BVZI:
+    1 QFOB - 30 QFMV
+
+:XSIRHGNZH RHOZMW XLNNFMRXZGRLMH
+
+KLIGH:
+    UOBRMT URHS XLEV
+ZRIKLIGH:
+    1 FHZYOV DRGS KVINZMVMG-HFIUZXV IFMDZB 1,220-2,439 N
+GVOVXLNNFMRXZGRLMH:

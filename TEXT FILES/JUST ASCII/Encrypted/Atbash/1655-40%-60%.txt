@@ -1,0 +1,199 @@
+SPERBERGMcQUEEN noted that the TEI prepared a long working paper early
+on about the AAP tag set and what it lacked that the TEI thought it
+needed and a fairly long critique of the naming conventions which has
+led to a very different style of naming in the TEI  He stressed the
+importance of the opposition between prescriptive markup the kind that a
+publisher or anybody can do when producing documents de novo and
+descriptive markup in which one has to take what the text carrier
+provides  In these particular tag sets it is easy to overemphasize this
+opposition because the AAP tag set is extremely flexible  Even if one
+just used the DTDs they allow almost anything to appear almost anywhere
+
+                                 
+
+SESSION VI  COPYRIGHT ISSUES
+
+
+PETERS  Several cautions concerning copyright in an electronic
+environment  Review of copyright law in the United States  The notion
+of the public good and the desirability of incentives to promote it 
+What copyright protects  Works not protected by copyright  The rights
+of copyright holders  Publishers concerns in todays electronic
+environment  Compulsory licenses  The price of copyright in a digital
+medium and the need for cooperation  Additional clarifications   Rough
+justice oftentimes the outcome in numerous copyright matters  Copyright
+in an electronic society  Copyright law always only sets up the
+boundaries anything can be changed by contract 
+
+
+Marybeth PETERS policy planning adviser to the Register of Copyrights
+Library of Congress   made several general comments and then opened the
+floor to discussion of subjects of interest to the audience
+
+Having attended several sessions in an effort to gain a sense of what
+people did and where copyright would affect their lives PETERS expressed
+the following cautions
+
+      If one takes and converts materials and puts them in new forms
+     then from a copyright point of view one is creating something and
+     will receive some rights
+
+      However if what one is converting already exists a question
+     immediately arises about the status of the materials in question
+
+      Putting something in the public domain in the United States offers
+     some freedom from anxiety but distributing it throughout the world
+     on a network is another matter even if one has put it in the public
+     domain in the United States  Re foreign laws very frequently a
+     work can be in the public domain in the United States but protected
+     in other countries  Thus one must consider all of the places a
+     work may reach lest one unwittingly become liable to being faced
+     with a suit for copyright infringement or at least a letter
+     demanding discussion of what one is doing
+
+PETERS reviewed copyright law in the United States  The US
+Constitution effectively states that Congress has the power to enact
+copyright laws for two purposes   to encourage the creation and
+dissemination of intellectual works for the good of society as a whole
+and significantly  to give creators and those who package and
+disseminate materials the economic rewards that are due them
+
+Congress strives to strike a balance which at times can become an
+emotional issue  The United States has never accepted the notion of the
+natural right of an author so much as it has accepted the notion of the
+public good and the desirability of incentives to promote it  This state
+of affairs however has created strains on the international level and
+is the reason for several of the differences in the laws that we have
+Today the United States protects almost every kind of work that can be
+called an expression of an author  The standard for gaining copyright
+protection is simply originality  This is a low standard and means that
+a work is not copied from something else as well as shows a certain
+minimal amount of authorship  One can also acquire copyright protection
+for making a new version of preexisting material provided it manifests
+some spark of creativity
+
+However copyright does not protect ideas methods systemsonly the way
+that one expresses those things  Nor does copyright protect anything
+that is mechanical anything that does not involve choice or criteria
+concerning whether or not one should do a thing  For example the
+results of a process called declicking in which one mechanically removes
+impure sounds from old recordings are not copyrightable  On the other
+hand the choice to record a song digitally and to increase the sound of
+violins or to bring up the tympani constitutes the results of conversion
+that are copyrightable  Moreover if a work is protected by copyright in
+the United States one generally needs the permission of the copyright
+owner to convert it  Normally who will own the newthat is converted
+material is a matter of contract  In the absence of a contract the
+person who creates the new material is the author and owner  But people
+do not generally think about the copyright implications until after the
+fact  PETERS stressed the need when dealing with copyrighted works to
+think about copyright in advance  Ones bargaining power is much greater
+up front than it is down the road
+
+PETERS next discussed works not protected by copyright for example any
+work done by a federal employee as part of his or her official duties is
+in the public domain in the United States  The issue is not wholly free
+of doubt concerning whether or not the work is in the public domain
+outside the United States  Other materials in the public domain include
+any works published more than seventyfive years ago and any work
+published in the United States more than twentyeight years ago whose
+copyright was not renewed  In talking about the new technology and
+putting material in a digital form to send all over the world PETERS
+cautioned one must keep in mind that while the rights may not be an
+issue in the United States they may be in different parts of the world
+where most countries previously employed a copyright term of the life of
+the author plus fifty years
+
+PETERS next reviewed the economics of copyright holding  Simply
+economic rights are the rights to control the reproduction of a work in
+any form  They belong to the author or in the case of a work made for
+hire the employer  The second right which is critical to conversion
+is the right to change a work  The right to make new versions is perhaps
+one of the most significant rights of authors particularly in an
+electronic world  The third right is the right to publish the work and
+the right to disseminate it something that everyone who deals in an
+electronic medium needs to know  The basic rule is if a copy is sold
+all rights of distribution are extinguished with the sale of that copy
+The key is that it must be sold  A number of companies overcome this
+obstacle by leasing or renting their product  These companies argue that
+if the material is rented or leased and not sold they control the uses
+of a work  The fourth right and one very important in a digital world
+is a right of public performance which means the right to show the work
+sequentially  For example coKBIRTSG LDMVIH XLMGILO GSV HSLDRMT LU Z
+XWILN KILWFXG RM Z KFYORX KOZXV HFXS ZH Z KFYORX ORYIZIB  GSV IVEVIHV
+HRWV LU KFYORX KVIULINZMXV RH HLNVGSRMT XZOOVW GSV IRTSG LU KFYORX
+WRHKOZB  NLIZO IRTSGH ZOHL VCRHG DSRXS ZG GSV UVWVIZO OVEVO ZKKOB LMOB
+GL EVIB ORNRGVW ERHFZO DLIPH LU ZIG YFG RM GSVLIB NZB ZKKOB FMWVI
+XLMGIZXG ZMW LGSVI KIRMXRKOVH  NLIZO IRTSGH NZB RMXOFWV GSV IRTSG LU ZM
+ZFGSLI GL SZEV SRH LI SVI MZNV LM Z DLIP GSV IRTSG LU ZGGIRYFGRLM ZMW
+GSV IRTSG GL LYQVXG GL WRHGLIGRLM LI NFGROZGRLMGSV IRTSG LU RMGVTIRGB
+
+GSV DZB XLKBIRTSG OZD RH DLIWVW TREVH NFXS OZGRGFWV GL ZXGRERGRVH HFXS ZH
+KIVHVIEZGRLM GL FHV LU NZGVIRZO ULI HXSLOZIOB ZMW IVHVZIXS KFIKLHVH DSVM
+GSV FHVI WLVH MLG NZPV NFOGRKOV XLKRVH ZMW GL GSV TVMVIZGRLM LU
+UZXHRNROV XLKRVH LU FMKFYORHSVW DLIPH YB ORYIZIRVH ULI GSVNHVOEVH ZMW
+LGSVI ORYIZIRVH  YFG GSV OZD WLVH MLG ZOOLD ZMBLMV GL YVXLNV GSV
+WRHGIRYFGLI LU GSV KILWFXG ULI GSV VMGRIV DLIOW  RM GLWZBH VOVXGILMRX
+VMERILMNVMG KFYORHSVIH ZIV VCGIVNVOB XLMXVIMVW GSZG GSV VMGRIV DLIOW RH
+MVGDLIPVW ZMW XZM LYGZRM GSV RMULINZGRLM WVHRIVW UILN Z HRMTOV XLKB RM Z
+HRMTOV ORYIZIB  SVMXV RU GSVIV RH GL YV LMOB LMV HZOV DSRXS KFYORHSVIH
+NZB XSLLHV GL OREV DRGS GSVB DROO LYGZRM GSVRI NLMVB RM LGSVI DZBH ULI
+VCZNKOV UILN ZXXVHH ZMW FHV  SVMXV GSV WVEVOLKNVMG LU HRGV ORXVMHVH
+ZMW LGSVI PRMWH LU ZTIVVNVMGH GL XLEVI DSZG KFYORHSVIH YVORVEV GSVB
+HSLFOW YV XLNKVMHZGVW ULI  ZMB HLOFGRLM GSZG GSV FMRGVW HGZGVH GZPVH
+GLWZB SZH GL XLMHRWVI GSV RMGVIMZGRLMZO ZIVMZ
+
+MLGRMT GSZG GSV FMRGVW HGZGVH RH Z NVNYVI LU GSV YVIMV XLMEVMGRLM ZMW
+HFYHXIRYVH GL RGH KILERHRLMH KVGVIH WVHXIRYVW GSV KVINRHHRLMH KILXVHH
+HSV ZOHL WVURMVW XLNKFOHLIB ORXVMHVH  Z XLNKFOHLIB ORXVMHV LU DSRXS GSV
+FMRGVW HGZGVH SZH SZW Z UVD YFROWH RMGL GSV OZD GSV IRTSG GL FHV Z DLIP
+HFYQVXG GL XVIGZRM GVINH ZMW XLMWRGRLMH  RM GSV RMGVIMZGRLMZO ZIVMZ
+SLDVEVI GSV ZYRORGB GL FHV XLNKFOHLIB ORXVMHVH RH VCGIVNVOB ORNRGVW
+GSFH XOVZIRMTSLFHVH ZMW LGSVI XLOOVXGREVH XLNKIRHV LMV LKGRLM GSZG SZH
+HFXXVVWVW RM KILERWRMT ULI FHV LU Z DLIP  LUGVM LEVIOLLPVW DSVM LMV
+YVTRMH GL FHV XLKBIRTSGVW NZGVIRZO ZMW KFG KILWFXGH GLTVGSVI RH SLD
+VCKVMHREV GSV KVINRHHRLMH KILXVHH ZMW NZMZTRMT RG RH  ZXXLIWRMT GL
+KVGVIH GSV KIRXV LU XLKBIRTSG RM Z WRTRGZO NVWRFN DSZGVEVI HLOFGRLM RH
+DLIPVW LFG DROO RMXOFWV NZMZTRMT ZMW ZHHVNYORMT GSV WZGZYZHV  HSV
+HGILMTOB IVXLNNVMWVW GSZG KFYORHSVIH ZMW ORYIZIRZMH LI KVLKOV DRGS
+EZIRLFH YZXPTILFMWH XLLKVIZGV GL DLIP LFG ZWNRMRHGIZGREVOB UVZHRYOV
+HBHGVNH RM LIWVI GL KILWFXV YVGGVI IVHFOGH
+
+RM GSV OVMTGSB JFVHGRLMZMWZMHDVI KVIRLW GSZG ULOOLDVW KVGVIHH
+KIVHVMGZGRLM GSV ULOOLDRMT KLRMGH VNVITVW
+
+      GSV XLKBIRTSG LUURXV NZRMGZRMH GSZG ZMBGSRMT NVXSZMRXZO ZMW
+     GLGZOOB VCSZFHGREV KILYZYOB RH MLG KILGVXGVW  RM GSV VEVMG GSZG
+     DSZG ZM RMWRERWFZO WRW RM WVEVOLKRMT KLGVMGRZOOB XLKBIRTSGZYOV
+     NZGVIRZO RH MLG FMWVIHGLLW GSV XLKBIRTSG LUURXV DROO ZHP ZYLFG GSV
+     XIVZGREV XSLRXVH GSV ZKKORXZMG XSLHV GL NZPV LI MLG GL NZPV  ZH Z
+     KIZXGRXZO NZGGVI RU LMV YVORVEVH HSV LI SV SZH NZWV VMLFTS LU GSLHV
+     XSLRXVH GSZG KVIHLM SZH Z IRTSG GL ZHHVIG Z XLKBIRTSG ZMW HLNVLMV
+     VOHV NFHG ZHHVIG GSZG GSV DLIP RH MLG XLKBIRTSGZYOV  GSV NLIV
+     NVXSZMRXZO GSV NLIV ZFGLNZGRX Z GSRMT RH GSV OVHH ORPVOB RG RH GL
+     YV XLKBIRTSGZYOV
+
+      MVZIOB ZOO KSLGLTIZKSH ZIV WVVNVW GL YV XLKBIRTSGZYOV YFG ML LMV
+     DLIIRVH ZYLFG GSVN NFXS YVXZFHV VEVIBLMV RH UIVV GL GZPV GSV HZNV
+     RNZTV  GSFH Z KSLGLTIZKSRX XLKBIRTSG IVKIVHVMGH DSZG RH XZOOVW Z
+     "GSRM" XLKBIRTSG  GSV KSLGLTIZKS RGHVOU NFHG YV WFKORXZGVW RM
+     LIWVI ULI XLKBIRTSG GL YV ERLOZGVW
+
+      GSV XLKBIRTSG LUURXV GZPVH GSV KLHRGRLM GSZG CIZBH ZIV MLG
+     XLKBIRTSGZYOV YVXZFHV GSVB ZIV NVXSZMRXZO  RG  XZM YV ZITFVW
+     DSVGSVI LI MLG RNZTV VMSZMXVNVMG RM HXZMMRMT XZM YV KILGVXGVW  LMV
+     NFHG VCVIXRHV XZIV DRGS NZGVIRZO XIVZGVW DRGS KFYORX UFMWH ZMW
+     TVMVIZOOB RM GSV KFYORX WLNZRM  ZM ZIGRXOV DIRGGVM YB Z UVWVIZO
+     VNKOLBVV RU DIRGGVM ZH KZIG LU LUURXRZO WFGRVH RH MLG
+     XLKBIRTSGZYOV  SLDVEVI XLMGILO LEVI Z HXRVMGRURX ZIGRXOV DIRGGVM
+     YB Z MZGRLMZO RMHGRGFGVH LU SVZOGS TIZMGVV RV HLNVLMV DSL
+     IVXVREVH NLMVB UILN GSV FH TLEVIMNVMG WVKVMWH LM MRS KLORXB  RU
+     GSV TLEVIMNVMG ZTVMXB SZH ML KLORXB ZMW GSZG KLORXB XZM YV
+     XLMGZRMVW RM RGH IVTFOZGRLMH GSV XLMGIZXG LI GSV TIZMG GSV
+     ZFGSLI IVGZRMH XLKBIRTSG  RU Z KILERHRLM LU GSV XLMGIZXG TIZMG LI
+     IVTFOZGRLM HGZGVH GSZG GSVIV DROO YV ML XLKBIRTSG GSVM RG WLVH MLG
+     VCRHG  DSVM Z DLIP RH XIVZGVW XLKBIRTSG ZFGLNZGRXZOOB XLNVH RMGL
+     VCRHGVMXV FMOVHH HLNVGSRMT VCRHGH GSZG HZBH RG WLVH MLG
+
+      ZM VMSZMXVW VOVXGILMRX XLKB LU Z KIRMG XLKB LU ZM LOWVI IVUVIVMXV
+     DLIP RM GSV KFYORX WLNZRM GSZG WLVH MLG XLMGZRM XLKBIRTSGZYOV MVD

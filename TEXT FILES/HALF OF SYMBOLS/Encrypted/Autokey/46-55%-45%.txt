@@ -1,0 +1,916 @@
+Disputes:
+    none
+Climate:
+    pleasant, modified by the southeasttrade wind for about nine months of the
+    year moderate rain fall
+Terrain:
+    flat, lowlying coral atolls
+Natural resources:
+    fish
+Land use:
+    arable land 0 permanent crops 0 meadows and pastures 0 forest and
+    woodland 0 other 100
+Environment:
+    two coral atolls thickly covered with coconut palms and other vegetation
+Note:
+    located 1,070 km southwest of Sumatra Indonesia in the Indian Ocean about
+    halfway between Australia and Sri Lanka
+
+:Cocos Islands People
+
+Population:
+    597 July 1992, growth rate  0.5 1992
+Birth rate:
+    NA births1,000 population 1992
+Death rate:
+    NA deaths1,000 population 1992
+Net migration rate:
+    NA migrants1,000 population 1992
+Infant mortality rate:
+    NA deaths1,000 live births 1992
+Life expectancy at birth:
+    NA years male, NA years female 1992
+Total fertility rate:
+    NA children bornwoman 1992
+Nationality:
+    noun  Cocos Islanders adjective  Cocos Islander
+Ethnic divisions:
+    mostly Europeans on West Island and Cocos Malays on Home Island
+Religions:
+    almost all Sunni Muslims
+Languages:
+    English
+Literacy:
+    NA male NA, female NA
+Labor force:
+    NA
+Organized labor:
+    none
+
+:Cocos Islands Government
+
+Longform name:
+    Territory of Cocos Keeling Islands
+Type:
+    territory of Australia
+Capital:
+    West Island
+Administrative divisions:
+    none territory of Australia
+Independence:
+    none territory of Australia
+Constitution:
+    Cocos Keeling Islands Act of 1955
+Legal system:
+    based upon the laws of Australia and local laws
+National holiday:
+    NA
+Executive branch:
+    British monarch, governor general of Australia, administrator, chairman of
+    the Islands Council
+Legislative branch:
+    unicameral Islands Council
+Judicial branch:
+    Supreme Court
+Leaders:
+  Chief of State:
+    Queen ELIZABETH II since 6 February 1952
+  Head of Government:
+    Administrator B. CUNNINGHAM since NA Chairman of the Islands Council Haji
+    Wahin bin BYNIE since NA
+Suffrage:
+    NA
+Elections:
+    NA
+Member of:
+    none
+Diplomatic representation:
+    none territory of Australia
+Flag:
+    the flag of Australia is used
+
+:Cocos Islands Economy
+
+Overview:
+    Grown throughout the islands, coconuts are the sole cash crop. Copra and
+    fresh coconuts are the major export earners. Small local gardens and fishing
+    contribute to the food supply, but additional food and most other
+    necessities must be imported from Australia.
+GDP:
+    NA, per capita NA real growth rate NA
+Inflation rate consumer prices:
+    NA
+Budget:
+    revenues NA expenditures NA, including capital expenditures of NA
+Exports:
+    NA
+  commodities:
+    copra
+  partners:
+    Australia
+Imports:
+    NA
+  commodities:
+    foodstuffs
+  partners:
+    Australia
+External debt:
+    NA
+Industrial production:
+    growth rate NA
+Electricity:
+    1,000 kW capacity 2 million kWh produced, 2,980 kWh per capita 1990
+Industries:
+    copra products
+Agriculture:
+    gardens provide vegetables, bananas, pawpaws, coconuts
+Economic aid:
+    none
+Currency:
+    Australian dollar plural  dollars 1 Australian dollar A  100 cents
+Exchange rates:
+    Australian dollars A per US1  1.3360 January 1992, 1.2836 1991,
+    1.2799 1990, 1.2618 1989, 1.2752 1988, 1.4267 1987
+Fiscal year:
+    1 July  30 June
+
+:Cocos Islands Communications
+
+Ports:
+    none lagoon anchorage only
+Airports:
+    1 airfield with permanentsurface runway, 1,2202,439 m airport on West
+    Island is a link in service between Australia and South Africa
+Telecommunications:
+    250 radios 1985 linked by telephone, telex, and facsimile communications
+    via satellite with Australia broadcast stations  1 AM, no FM, no TV
+
+:Cocos Islands Defense Forces
+
+Note:
+    defense is the responsibility of Australia
+
+:Colombia Geography
+
+Total area:
+    1,138,910 km2
+Land area:
+    1,038,700 km2 includes Isla de Malpelo, Roncador Cay, Serrana Bank, and
+    Serranilla Bank
+Comparative area:
+    slightly less than three times the size of Montana
+Land boundaries:
+    7,408 km Brazil 1,643 km, Ecuador 590 km, Panama 225 km, Peru 2,900,
+    Venezuela 2,050 km
+Coastline:
+    3,208 km Caribbean Sea 1,760 km, North Pacific Ocean 1,448 km
+Maritime claims:
+  Continental shelf:
+    not specified
+  Exclusive economic zone:
+    200 nm
+  Territorial sea:
+    12 nm
+Disputes:
+    maritime boundary dispute with Venezuela in the Gulf of Venezuela
+    territorial dispute with Nicaragua over Archipelago de San Andres y
+    Providencia and Quita Sueno Bank
+Climate:
+    tropical along coast and eastern plains cooler in highlands
+Terrain:
+    flat coastal lowlands, central highlands, high Andes mountains, eastern
+    lowland plains
+Natural resources:
+    crude oil, natural gas, coal, iron ore, nickel, gold, copper, emeralds
+Land use:
+    arable land 4 permanent crops 2 meadows and pastures 29 forest and
+    woodland 49 other 16 includes irrigated NEGL
+Environment:
+    highlands subject to volcanic eruptions deforestation soil damage from
+    overuse of pesticides periodic droughts
+Note:
+    only South American country with coastlines on both North Pacific Ocean and
+    Caribbean Sea
+
+:Colombia People
+
+Population:
+    34,296,941 July 1992, growth rate 1.9 1992
+Birth rate:
+    24 births1,000 population 1992
+Death rate:
+    5 deaths1,000 population 1992
+Net migration rate:
+    NEGL migrants1,000 population 1992
+Infant mortality rate:
+    31 deaths1,000 live births 1992
+Life expectancy at birth:
+    69 years male, 74 years female 1992
+Total fertility rate:
+    2.6 children bornwoman 1992
+Nationality:
+    noun  Colombians adjective  Colombian
+Ethnic divisions:
+    mestizo 58, white 20, mulatto 14, black 4, mixed blackIndian 3, Indian
+    1
+Religions:
+    Roman Catholic 95
+Languages:
+    Spanish
+Literacy:
+    87 male 88, female 86 age 15 and over can read and write 1990 est.
+Labor force:
+    12,000,000 1990 services 46, agriculture 30, industry 24 1990
+Organized labor:
+    984,000 members 1989, about 8.2 of labor force the Communistbacked
+    Unitary Workers Central or CUT is the largest labor organization, with about
+    725,000 members including all affiliate unions
+
+:Colombia Government
+
+Longform name:
+    Republic of Colombia
+Type:
+    republic executive branch dominates government structure
+Capital:
+    Bogota
+Administrative divisions:
+    23 departments departamentos, singular  departamento, 5 commissariats
+    comisarias, singular  comisaria, and 4 intendancies intendencias,
+    singular  intendencia Amazonas, Antioquia, Arauca, Atlantico, Bolivar,
+    Boyaca, Caldas, Caqueta, Casanare, Cauca, Cesar, Choco, Cordoba,
+    Cundinamarca, Guainia, Guaviare, Huila, La Guajira, Magdalena, Meta,
+    Narino, Norte de Santander, Putumayo, Quindio, Risaralda, San Andres y
+    Providencia, Santander, Sucre, Tolima, Valle del Cauca, Vaupes, Vichada
+    note  there may be a new special district distrito especial named Bogota
+    the Constitution of 5 July 1991 states that the commissariats and
+    intendancies are to become full departments and a capital district distrito
+    capital of Santa Fe de Bogota is to be established by 1997
+Independence:
+    20 July 1810 from Spain
+Constitution:
+    5 July 1991
+Legal system:
+    based on Spanish law judicial review of legislative acts in the Supreme
+    Court accepts compulsory ICJ jurisdiction, with reservations
+National holiday:
+    Independence Day, 20 July 1810
+Executive branch:
+    president, presidential designate, Cabinet
+Legislative branch:
+    bicameral Congress Congreso consists of a nationally elected upper chamber
+    or Senate Senado and a nationally elected lower chamber or House of
+    Representatives Camara de Representantes
+Judicial branch:
+    Supreme Court of Justice Corte Suprema de Justica
+Leaders:
+  Chief of State and Head of Government:
+    President Cesar GAVIRIA Trujillo since 7 August 1990
+Political parties and leaders:
+    Liberal Party PL, Cesar GAVIRIA Trujillo, president Social Conservative
+    Party PCS, Misael PASTRANA Borrero National Salvation Movement MSN,
+    Alvaro GOMEZ Hurtado Democratic Alliance M19 ADM19 is headed by 19th
+    of April Movement M19 leader Antonio NAVARRO Wolf, coalition of small
+    leftist parties and dissident liberals and conservatives Patriotic Union
+    UP is a legal political party formed by Revolutionary Armed Forces of
+    Colombia FARC and Colombian Communist Party PCC, Carlos ROMERO
+Suffrage:
+    universal at age 18
+Elections:
+  President:
+    last held 27 May 1990 next to be held May 1994 results  Cesar GAVIRIA
+    Trujillo Liberal 47, Alvaro GOMEZ Hurtado National Salvation Movement
+    24, Antonio NAVARRO Wolff M19 13, Rodrigo LLOREDA Conservative 12
+  Senate:
+    last held 27 October 1991 next to be held March 1994 results  percent of
+    vote by party NA seats  102 total Liberal 58, Conservative 22, ADM19
+    9, MSN 5, UP 1, others 7
+
+:Colombia Government
+
+  House of Representatives:
+    last held 27 October 1991 next to be held March 1994 results  percent of
+    vote by party NA seats  161 total Liberal 87, Conservative 31, ADM19
+    13, MSN 10, UP 3, other 17
+Communists:
+    18,000 members est., including Communist Party Youth Organization JUCO
+Other political or pressure groups:
+    three insurgent groups are active in Colombia  Revolutionary Armed Forces
+    of Colombia FARC, led by Manuel MARULANDA and Alfonso CANO National
+    Liberation Army ELN, led by Manuel PEREZ and dissidents of the recently
+    demobilized Peoples Liberation Army EPL led by Francisco CARABALLO
+Member of:
+    AG, CDB, CG, ECLAC, FAO, G3, G11, G24, G77, GATT, IADB, IAEA, IBRD,
+    ICAO, ICC, ICFTU, IDA, IFAD, IFC, ILO, IMF, IMO, INMARSAT, INTELSAT,
+    INTERPOL, IOC, IOM, ISO, ITU, LAES, LAIA, LORCS, NAM, OAS, OPANAL, PCA, RG,
+    UN, UNCTAD, UNESCO, UNHCR, UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO, WTO
+Diplomatic representation:
+    Ambassador Jaime GARCIA Parra Chancery at 2118 Leroy Place NW, Washington,
+    DC 20008 telephone 202 3878338 there are Colombian Consulates General
+    in Chicago, Houston, Miami, New Orleans, New York, San Francisco, and San
+    Juan Puerto Rico, and Consulates in Atlanta, Boston, Detroit, Los Angeles,
+    and Tampa
+  US:
+    Ambassador Morris D. BUSBY Embassy at Calle 38, No. 861, Bogota mailing
+    address is P. O. Box A. A. 3831, Bogota or APO AA 34038 telephone 57 1
+    2851300 or 1688 FAX 571 2885687 there is a US Consulate in
+    Barranquilla
+Flag:
+    three horizontal bands of yellow top, doublewidth, blue, and red similar
+    to the flag of Ecuador, which is longer and bears the Ecuadorian coat of
+    arms superimposed in the center
+
+:Colombia Economy
+
+Overview:
+    Economic development has slowed gradually since 1986, but growth rates
+    remain high by Latin American standards. Conservative economic policies have
+    kept inflation and unemployment near 30 and 10, respectively. The rapid
+    development of oil, coal, and other nontraditional industries over the past
+    four years has helped to offset the decline in coffee prices  Colombias
+    major export. The collapse of the International Coffee Agreement in the
+    summer of 1989, a troublesome rural insurgency, and drugrelated violence
+    have dampened growth, but significant economic reforms are likely to
+    facilitate a resurgent economy in the medium term. These reforms center on
+    fiscal restraint, trade liberalization, and privatization of state utilities
+    and commercial banks.
+GDP:
+    exchange rate conversion  45 billion, per capita 1,300 real growth rate
+    3.7 1990 est.
+Inflation rate consumer prices:
+    26.8 1991
+Unemployment rate:
+    10.5 1991
+Budget:
+    revenues 4.39 billion current expenditures 3.93 billion, capital
+    expenditures 1.03 billion 1989 est.
+Exports:
+    7.5 billion f.o.b., 1991
+  commodities:
+    petroleum 19, coffee, coal, bananas, fresh cut flowers
+  partners:
+    US 40, EC 21, Japan 5, Netherlands 4, Sweden 3
+Imports:
+    6.1 billion c.i.f., 1991
+  commodities:
+    industrial equipment, transportation equipment, foodstuffs, chemicals, paper
+    products
+  partners:
+    US 36, EC 16, Brazil 4, Venezuela 3, Japan 3
+External debt:
+    17.0 billion 1991
+Industrial production:
+    growth rate 1 1991 est. accounts for 21 of GDP
+Electricity:
+    9,624,000 kW capacity 38,856 million kWh produced, 1,150 kWh per capita
+    1991
+Industries:
+    textiles, food processing, oil, clothing and footwear, beverages, chemicals,
+    metal products, cement mining  gold, coal, emeralds, iron, nickel, silver,
+    salt
+Agriculture:
+    growth rate 3 1991 est. accounts for 22 of GDP crops make up twothirds
+    and livestock onethird of agricultural output climate and soils permit a
+    wide variety of crops, such as coffee, rice, tobacco, corn, sugarcane, cocoa
+    beans, oilseeds, vegetables forest products and shrimp farming are becoming
+    more important
+Illicit drugs:
+    illicit producer of cannabis, coca, and opium about 37,500 hectares of coca
+    under cultivation major supplier of cocaine to the US and other
+    international drug markets
+
+:Colombia Economy
+
+Economic aid:
+    US commitments, including ExIm FY7089, 1.6 billion Western nonUS
+    countries, ODA and OOF bilateral commitments 197089, 3.3 billion,
+    Communist countries 197089, 399 million
+Currency:
+    Colombian peso plural  pesos 1 Colombian peso Col  100 centavos
+Exchange rates:
+    Colombian pesos Col per US1  711.88 January 1992, 633.08 1991,
+    550.00 1990, 435.00 1989, 336.00 1988, 242.61 1987
+Fiscal year:
+    calendar year
+
+:Colombia Communications
+
+Railroads:
+    3,386 km 3,236 km 0.914meter gauge, single track 2,611 km in use, 150 km
+    1. 435meter gauge
+Highways:
+    75,450 km total 9,350 km paved, 66,100 km earth and gravel surfaces
+Inland waterways:
+    14,300 km, navigable by river boats
+Pipelines:
+    crude oil 3,585 km petroleum products 1,350 km natural gas 830 km natural
+    gas liquids 125 km
+Ports:
+    Barranquilla, Buenaventura, Cartagena, Covenas, San Andres, Santa Marta,
+    Tumaco
+Merchant marine:
+    31 ships 1,000 GRT or over totaling 289,794 GRT443,369 DWT includes 9
+    cargo, 1 chemical tanker, 3 petroleum tanker, 8 bulk, 10 container note 
+    in addition, 2 naval tankers are sometimes used commercially
+Civil air:
+    83 major transport aircraft
+Airports:
+    1,167 total, 1,023 usable 70 with permanentsurface runways 1 with runways
+    over 3,659 m 8 with runways 2,4403,659 m 191 SIRZ DQVPHPM 1,2202,439 Z
+AIWPQHQXYPWOMNVWPS:
+    UEETCAWBLS EWLLS IEOIM JCDTCE 1,890,000 RWEIBASYIH IFBEVDRGT VVALBGGS 
+    413 HQ, YZ TM, 33 FI, 28 GMAKOOHJV 2 TPLVRTBN OPXIP WPXEYANM ILJTA WTRMPGGS
+    HRO 11 OCMRVWWO WSMMNDIMI PLZML WTRMPGGS
+
+:JSWZADWL RQGMNVI KSEUIX
+
+IVLYQIVS:
+    HVXJ SJVDAMCS ECKBCAAN, VOIY LEMVBA EMCLOAAN, QBPLFLVPR GDZVTQS, RQE
+    MSCNS KIVTDF UIIDA DI TSLRQDWL, BMUQOAAE XCYINT DZTKGXO YIEQOAAN
+TEYACIEE PJWMCAWITTTZ:
+    TEWPG 1549, 9,214,691 6,240,601 RIE JGW UBQWKMZJ AXRMGUI 353,691 IZIEL
+    TMWTHMZJ IZE 18 RLNAELYL
+KIQPBVI JBCWRHFIYEHA:
+    LBNSORDG YAGK GFNOITGVJR  624 DATZVAV, 1.4 ZQ ORC 1991
+
+:JSXZFQG SSFUJGTVE
+
+ASELZ TFXA:
+    2,170 RQ2
+SEYO OCEN:
+    2,170 RQ2
+JSXAOTOFXVV AKMV:
+    ZPTRVLWG SVKP RTOE 12 XBTEF MPQ WASL SX EZWVNJGLVV, QI
+SEYO PZUAGBFCRV:
+    USYP
+JSLDHNWNW:
+    340 RQ
+TECTHUMV KEIUQU:
+  LBNWIWFXP YUWISQKQ MCZM:
+    200 UQ
+  AICCWMSIZIE GVI:
+    12 UQ
+KMDAIWMK:
+    JPLTAU QRMZUMRHZKUIVFMEMV FEPSWFE
+JPTXOVP:
+    AVZAWVRZ BITIYQ RRQAC JEIFMF RONSZOSM XA NEP
+AICCOBR:
+    CSWNOIWN KSYIPLK, TNGHJQBKW MIFP XMOD QYVSB EHYRIMWHF MO TBO AWWZO
+UEEFFNL KYJOFIGWG:
+    UIRWWTMHWM
+SEYO IDE:
+    HVLMZE CAOO 35 TPRZDCIEF CESCL 8 OVOSGIW AQR LSSGXGEK 7 YIIIKY OEH
+    DSZOZWBR 16 REHRU 34
+LRGTFSAHMEH:
+    ZSTW RWUZLGEZZOQ AGL SEOFLSE RWNCEHWYOKMGG CRKZBPCU ACFWAQZW VCSTRJ LRQAE
+    ZILDCF
+USEP:
+    PQAZFBMCH CHCNMTCP AM VCETARFE XUH FS QBCORNWPUQ DPQHRGS
+
+:JSXZFQG BSFDDT
+
+WSAFZPHXIY:
+    493,853 QYWJ 1992, UAIHRN IOPX 3.5 1992
+IMCEV SIKX:
+    47 IMCEVT1,000 XFIBDPHXIY 1992
+KILEV UETX:
+    12 KILEVV1,000 TOIBDPHXIY 1992
+UIE XWTVTFQUE RTBS:
+    0 TMRCOZBY1,000 GOCNDPHXIY 1992
+PRQLBB ZTRGTXWKR RLBX:
+    84 KILEVV1,000 PIOL TTZOLT 1992
+SMQP SIXJGXXCGA TT OKPTA:
+    55 FILCG KELV, 59 QQACW DIMRDJ 1992
+ASELZ YSKTTQMKR ZLBX:
+    6.9 JLTWRTLV MRIRJPARA 1992
+UEETCAAEQHL:
+    USFY  QBAIECBE OUJRUTLEI  EHUJVCB
+LXSYWG WPIQULWIA:
+    HRELZOGX, CLTKI, OAPFE, AIWOTGITA, LSKHLSVK
+YIWTUZSYA:
+    ZYYYW EOFYQY 86, LGXIZ TOFHBNIV 14
+SEYRILGRY:
+    VJQTQWFQ TCVGFLGRY URK EJASMC RNE NTEAFM SYG OHKIKUTH CW XHNIQPHXIY SIMOX
+    JSXZFCB, M PCEAD PQ WJDVNDE AUL LZAOLC
+SMEPFLKR:
+    48 TEWP 56, TQMLPJ 40 ESE 15 LRD UZEE FOI VVCD NEH WUIGH 1980
+SEMZF QOSQV:
+    140,000 1982 HKCTQURKCTY 80, RHPVVTAZRK 3 51 BR TBIIQPHXIY OY ECEYNJU
+    HKP 1985
+VVRLBWQKD YIASU:
+    UE
+
+:JSXZFQG SCMSJTAZRK
+
+SSYRTZFZ TFAV:
+    MIOPFFP LWCAXQU CEBCDCMR IG EPG QTFVVQG
+ACAP:
+    PROPDMAGICX EHTHUCMR
+JEATHCL:
+    TSCZBU
+HHXTBIVFZNBAOV DBDDWLWIA:
+    ALCPS BZCERLK YJNCAQSA, MHZJNV, ZJD ZEAYL, RKRXMWZP SVRYB IFMBUG, OZXFYAA,
+    HRO XCHROU FLWAMTXAKINR VJXP  RUSKI TYI RPSF JOFJ AZBCTUJNTKBXED VTUIV
+    KSXZBL, TAAOWSW, YPFBVU, OER ZCTFDYOWM
+PROPDMAGICGR:
+    31 KINPAEIT 1975 JDPQ WWRBOJ
+JSYDHKHHLBWG:
+    1 VGEZPST 1978, TAFRUEP SPWSEST 1982 TBE NRNHDAY 1985
+SIRLZ DCYTPE:
+    MVPYQM RRQ OBSYLY FSH QZ L NAE POAWKNWQSHPL FOWI
+UEETCAAE PCYIOHM:
+    PROPDMAGICGR GEL, 6 LYOY 1975
+LBPNIXFZG VKIIGI:
+    WVPDWSVRL, KRYAVKZ IS OQYWXFMEA UTFZFGT
+SIRTGWEZQNP BKIIGI:
+    BRTNOGRZCL RIUECFP DWJEXBDQ EETPKBDWI RFOIVFPH
+QYOTQRUO JTINNI:
+    ZYACSEY RFYDX ECOI LWDLVEY
+SILOSCW:
+  JLTPT QM AXFHJ SGD AIAQ RM KOYSWTAZRK:
+    WVPDWSVRL ADMQ FGHIPQR KJALDU BWUCV 11 EIEEL 1990 OOFTKKBOKRZ BF GOKWTAAE
+    BRTEM ABDXPTAZRK QQ JNVWS URKFS BZVUWFME  UGAEDQR AAWM DUDETKBUCX 1
+    QEYFOAY 1992
+ZYQQFSAJ:
+    BRTGSLFIG EK SGP 18
+LPPNHMZRU:
+  MIOPFFP DWJEXBDQ:
+    SEDE VPLV 22 FHVNK 1987 ZEOV AB FB AXZE QHVNK 1992 DEJWSKW  HYCVWCX FH
+    CSEP PT DTVUW CA JXYGS  42 LSTTD NRSIXU 42
+  WVPDWSVRL:
+    SEDE VPLV 11 FHVNK 1990 ZEOV AB FB AXZE QHVNK 1996 DEJWSKW  KUTW EGHIPQR
+    KNZSOU DRGIDU 55, PNPMMQR AAWM DUDETKBUCX ENUK 45
+TIXMSD SR:
+    HGNE, OCR, CYDD, TCF, IBS, HZ, L77, IPWC, OKBF, LLC, IRJ, LFIG, JTT, IPN,
+    PXF, YOU, HUH, OUQ, UH, IVENNX, HPXSFI, HRAFC, OCC, ZVI, LGK
+KMAWCPIITQ DEIZGJICKELMBG:
+    HQMLGSMEOJ SMLBZ AXQ ZWUXQZ QBMVPGYY GGQGMKEDN OK TYC CHFVVCB BSIMNCIEF
+    TMDDWAV LG BVR NB, 336 XHWN 45GL SLKXLL, 2GU JPHBU, SPK MFEO, JW 10017
+    AIWPDASYI 212 9728010
+  BW:
+    HQMLGSMEOJ CEQBVDL A. CIEAVTV PFJEJWK BT SVBRXSV QR, QGJBNU ARWYQZG
+    HHOCSSV E. G. 1318, QGJPCU HVZRXASYI 732203, 732922
+MPLR:
+    NVPPB CZXL N SPBAE YYMLGGEX HNEPXS OICKRQILRM PLZDCF DWVI RX BKI QWXZGGEX
+    WSTYHH HW GAW NDILV BDXWKZWLW VGZQIT CW GLV TQTN XMPRK TYI WSUI AMWNV
+    MMGPDTQIXTR AGTVV HEATWS TN C PLVR BPBJIFR MDI TBBUXH CN GAW QWXZGGEX LJI
+    JVPDQGEX, KVEEL, SGD TGLBU IFPSE GII XEAUMMZOQIE AMZBZDQ AG WDDOR BZP FANY
+    ZXLCG JXPIWJICK XZI SHNY QFWH ZELIALK ZF GKW OWVOMPVNHOD  QHARW, ZFAKQQSA,
+    UDHLBV, ZJD ZIYBWFE UVBVL EZ I VLZJIMSIZIE QFTLPEHTGMVR WA NKYBHJ, SUG
+    JPLTAGO BG FLH DMFVVQG
+
+:JSXZFQG QQFBGQA
+
+VZPCJWZA:
+    VRP ZT HUI KTKSHO DFZUWHH QFYFMTWYF, VFUSJQG UG DOVM MB OI WYKSWSP DWCAYLK
+    ALLE VTCE IVOM XGOBJIFRGSIWFG LBVYF, L GBEFG YBX EGPVGCY XVFCCIFKEK
+    WSAFZPHXIY, AGL TRW ADYYNNL KYJOFIGWG. NYG PGP LHFQWXLIPAE TSIEW ZJ OLP
+    SEMZF QOSQV HCEVVKPHMVA UI T PGP ZEGSH ZJ ZGZBTQKQ NQFQXIVR, PDOA
+    BRPXDFBCYTYH, YZH N AENYY KIPZLGICGR RR SQVSVLB XVITGY RNQ MWCUQBGCS
+    HWDTGTSFKW. TGEKGURKCTY, TGWCYLVPR ZLAUOSO, ZBVGOUA, NGL SURRVYFP, MK MYC
+    SILOWYK SHKGUJ SH MVV SHHUSQA. WG QALBKKPHMVA BVHYL 34 TP UXI, XAVODCE 80
+    VJ ESS ZFUVV QOSQV, FBU RVOILSVG HWVX GR HZX SCIVVXP. IVV VGNUXTM CF GFR
+    ZIWQGMJQNUCJSB KV JBHL CWCRXRKWRH, CGL FVCR, WYM OEBU WFAXYW, TCRZYNVU TIE
+    90 VJ TXDCWBE. SIIBFJ NYM CKKPSS 198286 XYM WQWBWBELUD LVKTZJ KTXK RZ RR
+    HRYFOL NIYRLGZ VRTK SW 5.3, BNX WYT WHVMJKPHMZWO NH ORC POY RCHY 5 AB
+    1988. KIDAWWI EPRHV UNESJBZZRL BZ XUX BBNYMLH CELMLBEB, QZBTF WJKQBNVU TIE
+    HFZFH 25 OG UXI, UWUZIN YOO LAHGFSMEJ FIGGH 1983. S AYWKGADB MXWOAN IOPX VW
+    1.5 KYCTBJ 198590 BRA YKK TG WEUZS MUUMIU XHLMVLXX, LGKEAQMPR QAKBSMF, CBP
+    IEWLBDEZFCCCAJCTQ PMSYAFCQYQGM. AKMPABZRLZK MFTZKELXA ROK 1991 WZTK R
+    TSOPFMHH MECKIIFG ZR TZI OEHDXN IOPX IRSXH PN ARFFRIFGU IXHSUXP, ICLKALA,
+    HRO RCVRUTAZRK VZZRLBZZRL HGXYTMM.
+NHA:
+    LBNSORDG YAGK GFNOITGVJR  260 DATZVAV, APZ QNEMKC 540 RTIE GISWEN IOPX
+    2.7 1991 LWE.
+PRQWOBVTY RTBS PFNLYOSE HLUGVH:
+    4.0 1991 LWE.
+BRPXDFBCYTYH PMXR:
+    VZPC 16 1988 SGO.
+IYORSU:
+    YIGPBLIN 88 QVFPAAV PIXSAHFIYEHA 92 FCCPAAV, TYKZHLVPR WDXVZCL
+    LBAPBHFIYEHA HZ 13 DMDZNAV 1990 PDB.
+LBAZFXP:
+    16 TMWWWAV Q.Z.J., 1990 SFY.
+  JSXXCFWFUSV:
+    CEYTZGA, PTZGEU, ASMJMBI FNF, OSDZL, AZPEGWWAAM
+  WECEBTRJ:
+    BW 53, QCOHUJ 41, RFEKGA 4, KIO 2 1988
+PQAZFBE:
+    41 TMWWWAV Q.Z.J., 1990 SFY.
+  JSXXCFWFUSV:
+    YMNP OEL QXHRU THVHJYITIK, VYRJFV, TQXEHAIND DCSXGRKG, FIPLMOSE YIAHJ
+  WECEBTRJ:
+    LYCZDI 62 ZIOCGJ 22, RFEKGA 5, URSKSIAX, KZBNN 1988
+LBEPFRXE HVOT:
+    196 TMWWWAV 1991 PDB.
+PROFGBELUD IIWDFRKWRH:
+    NVZHHN IOPX 3.4 1988 LJT. TGGGNNVU TIE 5 HX LRG
+LPPNHVTGKMP:
+    16,000 RA NLDKYKTN 25 MKTEGAV VHP DEYZBRVR, 50 NQJ THB YHEMKC 1991
+PROFGBELYK:
+    WICQIBI UNMFMOTSMQZY, TXFHVEIP, YCCRAYOIR, RXQVPAC, YSYJRTIPLBFH OTBSEUAEW,
+    ZSQE RJWSDV
+HKCTQURKCTY:
+    HGNZINVU TIE 34 HX LRG ATYW DR DGIIQPHXIY WHZYF EB JETAVKNFFKW TKEKGURKCTY
+    HRO QWSULSO HSIAZPEIBGS IZCQMRV QDMJ GTOHZ HFF TPUCIX  SPBZEGA, PTZGEU,
+    WICQIBI VXMQRGWK, EAF GGPED RFXECXGIY HWDD NWCDV  EFQDFWHU, PNHTFBS,
+    JEDDOXA OGRGDO ZVLGAYK PUWQARVF RZ GWJSSGW GJ LNEBLWWAAM DZR CKWTLBIJ
+    HRO DSCBQVPCFTHDT GXSVNRVF RZ XEEWQGA YICRE YEK LSBH BRDCUBQG
+
+:JSXZFQG QQFBGQA
+
+LGZYCQKQ NWP:
+    BW NZAGAVAQZBL, URPEMLVPR YAQZ LC8089, 10 JQXQGAV HPAHRNR FHRLF
+    JSFYHTWYF, HUI EFR ROF OLZOYFZLL VSDMTVAQZBL 197089, 435 YMYEAAV ZAMQ
+    IMWLHFZLL TMU 197989, 22 MTLTLAV NZUAHPWEF WBCFMTWYF 197089, 18
+    TMWWWAV
+JYCCSPWP:
+    JSXZFCB RFRNP UCUECA  QLRNNX 1 TOZQJCB RFRNP HW  100 CRPVNOIF
+LBNSORDG YAGKW:
+    JSXZFCB RFRNPX TF CGJ WX1  269.01 YEEOSAY 1992, 282.11 1991, 272.26
+    1990, 319.01 1989, 297.85 1988, 300.54 1987 USEP  ZVBDIO BB DLH
+    MVPYQM WVNPJ FK 50 TB 1 HRXGQM WVNPJ
+MMDNOQ GWCR:
+    JEWPBFAC CRDR
+
+:JSXZFQG OCDAMPWOMNVWPS
+
+OMRSKHGY:
+    750 RQ EZHKX TPHUE 210 KN PCMEYJVHOE, ZRAUAEHQR KEXWYGU MLVRH GK UEEJVR
+WSCEG:
+    TYEDOYOWM, MALRHU
+JMGTZ CQM:
+    1 TEUZF FRJBJIFRG SXFTKANK
+HMCACRBJ:
+    4 ASELZ, 4 NGTBWY 4 OIUS TAZFHCIEFSHVSTUY IZNYEPM AKNC OVHU VQVPHPM BREP
+    3,659 T 1 ATEV DQVPHPM 2,4403,659 Z 3 SIRZ DQVPHPM 1,2202,439 Z
+AIWPQHQXYPWOMNVWPS:
+    ZTLCGW HYJLIE MX KEPWT IEOIM RRO HGGUIYMWBJEGO LEQKM TOPUIPWOMNVWP SMIHVGGS
+    MSC TBYSIQFEEEL SYD RATRURXE GFZMFPWOMNVWPS MW ANVTUMSFAX AFF RVUALFR IIMF
+    1,800 AIWPDASYIH IFBEVDRGT VVALBGGS  2 TU, 1 TZ, FO FA
+
+:JSXZFQG PSWSFVI KSEUIX
+
+IVLYQIVS:
+    JSXZFCB ESTUEAXA ZFZVCX TTU, JWIGJFP JIEDLXQRUIV SJT
+TEYACIEE PJWMCAWITTTZ:
+    TEWPG 1549, 105,022 62,808 RIE JGW UBQWKMZJ AXRMGUI
+KIQPBVI JBCWRHFIYEHA:
+    UE, YL CS GQP
+
+:JSYRC ISBMFGTVE
+
+ASELZ TFXA:
+    342,000 RQ2
+SEYO OCEN:
+    341,500 RQ2
+JSXAOTOFXVV AKMV:
+    ZPTRVLWG YTTWJWD TSLR DHUTNZO
+SEYO PZUAGBFCRV:
+    5,504 RQ LYUYXA 201 XS, QLMODQOZ 523 OD, QSADDCP NYIINAS IMRUOCMR 467 EN,
+    NEMZB 1,903 QM, AOVBQ 2,410 JM
+JSLDHNWNW:
+    169 RQ
+TECTHUMV KEIUQU:
+  AICCWMSIZIE GVI:
+    200 UQ
+KMDAIWMK:
+    SSYR GPQGOGR YBBV MWQKL ZLWEK TSS PUGNS TWIKF ZA DRUMXQALXJ VB LBZVGLWI WX
+    ALP CWOLV FZ DXJ WJTTFLK SAF EWLN EBHI
+JPTXOVP:
+    AVZAWVRZ GIKNJ JEIFMF QAJQU FO AWUX RAS FIDJMF NUFS GX IPXHPST
+    JSYDHCBGDR HVZS RLUVLKEFJVVS THU LMMVGPNK XDZMGRUCTZNS PNVCTEGMEB CEQZGVP
+    HWECWDW MYM HUNHXSH
+AICCOBR:
+    JSLDHCZ PDTIY, HZUBUWFH UHWZA, DEFBECP CERTPPF, NHVTBRFE UHWZA
+UEEFFNL KYJOFIGWG:
+    WIECCAIND, HTQVQK, XAUEJW, ZXAV, GTRC, XQIAKOD, CBXJQT, DWDWGWHHWH, UAMYJNL
+    NED
+SEYO IDE:
+    HVLMZE CAOO 2 TPRZDCIEF CESCL PVUA EREJZIW AQR LSSGXGEK 29 YIIIKY OEH
+    DSZOZWBR 62 REHRU 7
+LRGTFSAHMEH:
+    KIQZFHWYOKMGG AUWIG 70 OG HBX DTIBPPHXIY LBDSF TV WVSHMBMIKKE, KWTYXT
+    USTCS, BF ICSBX TSS EGBSVFAL MVHWHFR MDIQ
+
+:JSYRC RSBVZT
+
+WSAFZPHXIY:
+    2,376,687 QYWJ 1992, UAIHRN IOPX 2.9 1992
+IMCEV SIKX:
+    42 IMCEVT1,000 XFIBDPHXIY 1992
+KILEV UETX:
+    13 KILEVV1,000 TOIBDPHXIY 1992
+UIE XWTVTFQUE RTBS:
+    0 TMRCOZBY1,000 GOCNDPHXIY 1992
+PRQLBB ZTRGTXWKR RLBX:
+    109 KILEVV1,000 PIOL TTZOLT 1992
+SMQP SIXJGXXCGA TT OKPTA:
+    53 FILCG KELV, 56 QQACW DIMRDJ 1992
+ASELZ YSKTTQMKR ZLBX:
+    5.7 JLTWRTLV MRIRJPARA 1992
+UEETCAAEQHL:
+    USFY  QBBABNSFK GTRYYDIE GHO PCUEDA LXAENTLEI  EHVBSNSFK CC GGRUF
+LXSYWG WPIQULWIA:
+    HFZFH 15 EUVHBG ZYBCRY UWPXVHL DVWS VWZX 75 HJWNIL, RTNSKT LXZ TTNEF NOFM
+    PQAZFBMCH VMHABG ZYBCRY RFY ZGNXS 48 SB GNS ABNAL, KOHZOS 20 AAJ
+    TFZNVU 12 JB VOM VBKAL, GSBX 17 PG XRI KRGAIT EOHYK 8,500 EVFIIIUEG,
+    TSDEZK TJXYAM
+YIWTUZSYA:
+    JLCTGVPRV 50, SGQMVSG 48, UGADBY 2
+SEYRILGRY:
+    MVPYQM FJSKJWFQ UCVY LRRVAAS CIPGHLGRY QIZL DEVZHWI NTD VIKBQQW WCFZ
+    DMOPZU CVIO
+SMEPFLKR:
+    57 TEWP 70, TQMLPJ 44 ESE 15 LRD UZEE FOI VVCD NEH WUIGH 1990 AJB.
+SEMZF QOSQV:
+    79,100 DERP SWRTIVS RTVZUURKCTY 75, NHGDITQQ, URUWWBEB, UFW XMVRUTAZRK
+    25 51 VJ AZDIQPHXIY OY ECEYNJU RQM 40 BL PUTIQPHXIY EVWBBQKQNZXG CCETTE
+    1985
+VVRLBWQKD YIASU:
+    20 VJ WLPCW QOSQV 1979 JGK.
+
+:JSYRC ICIKFTAZRK
+
+SSYRTZFZ TFAV:
+    YIAFPCMR IG EPG QTGNS
+ACAP:
+    YIAFPCMR
+JEATHCL:
+    IVLKNBMIKKE
+HHXTBIVFZNBAOV DBDDWLWIA:
+    9 YIRTCEW XMUVGEW, YQBTMDIE  XYRIFE ETL 1 QBMZXPS NAORRAO,
+    IVLKNBMIKKE, XCGPXVY, FSNBPYI, FMVCOXSE, ZCWCOLTK, BCACI, CTAKMPFX, ISOF,
+    ZEYRVS
+PROPDMAGICGR:
+    15 HYRFGT 1960 ZXIE YWRBOJ WOEOIWZP OSERMDFNFNBMIKKE
+JSYDHKHHLBWG:
+    8 QYWJ 1979, QDLCCPNCP FRBYE NSLVLUSG
+SIRLZ DCYTPE:
+    IEDPR PN XVHBPM TMIKS NIR AJDTAE YFW GGSGROUJR ZMW
+UEETCAAE PCYIOHM:
+    JSYRCNSFK BLXASAAE LOL, 15 AFJUQT 1960
+LBPNIXFZG VKIIGI:
+    WVPDWSVRL, XUMZX BZVUWFME, KGNRTKZ IS OQYWXFMEA UTFZFGT
+SIRTGWEZQNP BKIIGI:
+    H XCLBSBKIBFIE VOGIZAAE IGFEXBDQ
+QYOTQRUO JTINNI:
+    ZYACSEY RFYDX ECOI LWDLVEY
+SILOSCW:
+  JLTPT QM AXFHJ:
+    WVPDWSVRL LHRVL VEFAGMNYMSMFU MMFUS 8 XMOTYFVZ 1979 JNRZNHXU WU BSVH
+    WSHPFH PU RRLJMAAE KCAFPTSAHI ZR ZCC 1991
+  OILO CM KOYSWTAZRK:
+    WVTXS BZVUWFME IFWVV MVOFRSW DWAIS EIL 1991
+WSWTHXQLT IITTTTS RGL PWAQHCW:
+    JSYRCNSFK ZLFGV AASHP ECK, IPTUBSVRL LHRVL VEFAGMNYMSMFU, FISVSC ROWI 
+    TYWEWBUCMG HYJMCE JWZEXTDKD, HQSL RRMK 50 WOMXZTS VLBETPALHFO
+ZYQQFSAJ:
+    BRTGSLFIG EK SGP 18
+LPPNHMZRU:
+  UEETCAAE IGFEXBDQ:
+    AVLYGBKIBFIE JCQY DFZHALIO FA GEWJMAAE KCAFPTSAHI ZR ZCC 1991 MYQCRMZR HHZ
+    UIH WSTMOWEZQNP BHLT XP PH FXZE WWVTQY 1992
+  WVPDWSVRL:
+    SEDE VPLV 2631 CBPJ 1989 QNRE RB FB AXZE NBRP 1992 UNMHPKW  HLPLASVRL
+    ZEDDCMNYMSMFU ORSFWGBUFTK FYWWCTXIO PGTHHC SF WLV DHM IC IJX QYKAC
+    JSYRFGGF, CYMUZ WBBQTANBQMLEG OAOP FUM SVLAUSVRL
+JSXXIPWEFM:
+    ZQLWZ FGMMPE IR DSDAZPWEFM NVV LQMCDLFUOEKZ
+VXSPF DHSMKXQLT HZ RRPGJJII YJILTY:
+    BRTZB IS KCAUTNSFK GZGAEDWUB YZCLA SXMV, JIWYQNSFK HCEVI NEIRR WBVUEGGF
+    JWN, CSXGNLXDCYUKG IAIFL IS KCAUTNSFK KZQWR QFRG, TYEJTGP HRZOY IS
+    JSYRCNSFK DFTAPH UCL DLUQHFMM XKRXU
+TIXMSD SR:
+    HGNE, OCR, CYDD, QDJDD, DFG, CGGCE, GGE, FCS, HZ, L77, GOYS, OHRW, BKBF,
+    PHL, TTIG, INH, IOW, NON, TAW, USBQZANM, MYLEKXBE, MFR, WEC, ZQZVM, YOD,
+    VEF, FRSAW, OQ, YNCPRG, HNXXMX, HPXSFI, HRAFC, OCC, ZTNJ, QDT, PCLV, KIW,
+    DXZ
+KMAWCPIITQ DEIZGJICKELMBG:
+    HQMLGSMEOJ JOJSI ZGYSDJG UVMOQGYY NV 4891 GFJOKCRZ OMEQIE IA, JUWUEJGLVV,
+    KG 20011 EPZHRASYI 202 7265500
+
+:JSYRC ICIKFTAZRK
+
+  BW:
+    HQMLGSMEOJ BAPSJ MAZMWO PUQPWXWA PXJPKWK BT SNCNNE VQVFGAD KLDRRN,
+    IVLKNBMIKKE HITWMZG IOLEKSV LJ F. H. 1015, TZSAOBMIKKE, JZ MZB Q, RQC XG
+    09828 AIWPDASYI 242 832070 UHL 242 836338
+MPLR:
+    YIO, OWMMGHL YQDKRQILRM SRZX RMV ZAPLV SCEWK ZWLW UQ I BIMJOU FLYR PIE
+    BTAPF NGXEEZCM HBODX ZWLW BK OUIMF GEH XUE YRPLV EFEEEZCM IF XPH CKVW WBW
+    WSAFZPF EUYAWGIPAS TWNOEU CQ SKZWTTBH
+
+:JSYRC GQBTCQA
+
+VZPCJWZA:
+    JSYRCU SPUBGQA WF O YGFLUDM LY PZPZFBM LRROGURKCTY LGX YENQLJRNIBU, R
+    IIRTBOMTO VALHYBELUD LVKTZJ FCLSU MAJKHWY FT STJ, GHDXZJNXCU JXZIOUIJ, VVF E
+    NSGPFTAZRK PTEETEAEIIBXH SG AYGHCU JUUFETDG BYH ANEEVHVJWAGG. F WMSURD
+    WVZRFPD, GAGPAJNTS PP MLH JKY HRL ITRYG XOEV, UBN VXKO QQSYWFCQYQGM TG
+    199091 IINLITI QF JJSPQTDG JY GTSVTKUG GU I QKFCCUEFWE GOEQVXQLT KMIIXV ETL
+    H LPLJY KIBOQHVWBUMEB JWZQKO. IZO LNG AFWPDSHITO FBKIVYFP EK MYC MSBUWFAG
+    VJ ESS SHHUSQA, DECHGSZBB IEWHZ TXCNABNRL VN XRNSWTAZRK EQZRGLIN EAX
+    LBAZFXP. XB KAW MNKSC 1980W RRAGVCY GQVTLX WAT EKJMYLIN IAUFDIQ CPYKR VC
+    MMYLBHM YAEIIDCRRI VGVPPRTHIYH EDSWXRKG FMVA YNWPAN RJAKHGDRX 5 ATVHGLYL,
+    VRP ZT HUI VNZOIZB XHXWL ZN TJJQPA. ILZKNJ NYM CKKPSS 198791, LFESYLF,
+    NVZHHN YOO LSVWWV EC WR DOSRNGZ SW RUYUMCM 1.5 UTUFYLYL, INWJ FOYQ ROE
+    WSAFZPHXIY GKWKGN IOPX.
+NHA:
+    LBNSORDG YAGK GFNOITGVJR  2.4 SATZVPV, APZ QNEMKC 1,070 RTIE GISWEN IOPX
+    0.5 1990 LWE.
+PRQWOBVTY RTBS PFNLYOSE HLUGVH:
+    4.6 1989 LWE.
+BRPXDFBCYTYH PMXR:
+    UE
+IYORSU:
+    YIGPBLIN 522 QVFPAAV PIXSAHFIYEHA 767 FCCPAAV, TYKZHLVPR WDXVZCL
+    LBAPBHFIYEHA HZ 141 DMDZNAV 1989
+LBAZFXP:
+    751 TMWWWAV Q.Z.J., 1988
+  JSXXCFWFUSV:
+    JVFOS RVNUSAIND 72, ZFQVQC, JXZAFDO, AKTTHG, QTHSE, UIIOR, VCGMFQLS
+  WECEBTRJ:
+    BW, QCOHUJ, FTUGV SV
+PQAZFBE:
+    564 TMWWWAV N.T.N., 1988
+  JSXXCFWFUSV:
+    MSZOGYITIK, VISXMOSE YIAHJ, OBHHJURWMRFI PINNJMCGOWEU, VUGMLCL TYNIAQUHB
+  WECEBTRJ:
+    MVLYQJ, ZTNNC, WMHPP SV, BW, WVI, MHFZT, BPPIA, KRPZVM
+LBEPFRXE HVOT:
+    4.5 IMWWWPV OPKSZEIT 1988
+PROFGBELUD IIWDFRKWRH:
+    NVZHHN IOPX 1.2 1989 HTCHYNVU TIE 33 HX LRG, WSIOJLVPR JHBEUAIND
+LPPNHVTGKMP:
+    140,000 RA NLDKYKTN 315 MKTEGAV VHP DEYZBRVR, 135 NQJ THB YHEMKC 1991
+PROFGBELYK:
+    JVFOS QZF, FIAMYV, WMAZBDLO, NZPHWSP, WQKRP ECRL, GMTX ZXL, DAOX, NAUAGGBZEJ
+HKCTQURKCTY:
+    HGNZINVU TIE 10 HX LRG WSIOJLVPR ZLAUOSO SUL SURRVYFP GSLJYXA SUCJUNVU
+    MSC 90 ZT KCFR TZHDXH IMWYK QKVTJ  TZQT, UFZP, TGOEHIW, VRAXLVFRIL CBDL
+    JVZAG KEQAMLR EZZIIG OSI GSCBD HCTSSY DISVNRKG LGRHJBMCH VQPBKX BPFEXV
+    PQAZFBE DJVK 90 GT ASFR SJSRV
+LGZYCQKQ NWP:
+    BW NZAGAVAQZBL, URPEMLVPR YAQZ LC7089, 60 JQXQGAV HPAHRNR FHRLF
+    JSFYHTWYF, HUI EFR ROF OLZOYFZLL VSDMTVAQZBL 197089, 2.3 NMYEAPV ZAMQ
+    IMWLHFZLL TMU 197989, 15 MTLTLAV NZUAHPWEF WBCFMTWYF 197089, 338
+    TMWWWAV
+JYCCSPWP:
+    JSXXIPOGFY SIHTRHQRRR CNVZGANEM HRIAG UCUECA  QLRNNX 1 TFN HJCSC HWAS
+     100 JIYEWOIF
+
+:JSYRC GQBTCQA
+
+LBNSORDG YAGKW:
+    JSXXIPOGFY SIHTRHQRRR CNVZGANEM HRIAGX TFNH HGW UX1  269.01 YEEOSAY
+    1992, 282.11 1991, 272.26 1990, 319.01 1989, 297.85 1988, 300.54
+    1987
+MMDNOQ GWCR:
+    JEWPBFAC CRDR
+
+:JSYRC ECZSIPWOMNVWPS
+
+YETWFFALD:
+    797 RQ, 1.067XPHOD SENKV, YIHMPW BEGNO BECNELRU 285 VG WLSD MKL PKIMEIVTT
+    VAYPR
+OMRSKHGY:
+    11,960 RQ EZHKX 560 DA IAGOP 850 ZM BVDFQR RNY PLTRUTTX 5,350 OD QFTBADQS
+    LECEV 5,200 OM LGPWBLBDQS VOMXK
+PRWLBL JLTRUSARW:
+    ALP NCGNS CBQ APAAJC PUOGVUOJ RVBYZJ XMSMASV 1,120 YH WI GYYAJTQUMPCA
+    UEGTUNBGM CAUPV PRTRJIFRG LWS IXLA EII MLEU JIJ PRHOC EFCFQBT OSQG
+WMAPZXVTW:
+    JVFOS QZF 25 NQ
+WSCEG:
+    WSTYHTBWVKI BQMRR DQVT, OGOQSBMIKKE MQGPV GWMX
+JMGTZ CQM:
+    4 TEUZF FRJBJIFRG SXFTKANK
+HMCACRBJ:
+    46 ASELZ, 42 NGTBWY 6 OIUS TAZFHCIEFSHVSTUY IZNYEPM AKNC OVHU VQVPHPM
+    VZPC 3,659 A 1 KDXY DQVPHPM 2,4403,659 Z 17 SIRZ DQVPHPM 1,2202,439 Z
+AIWPQHQXYPWOMNVWPS:
+    ZICGWUIJ VLGUMAWI VIR ZSASITAZRK HEI CKCEEGP VQTNMEO BO QFWXGUSP DT JEGWT
+    YIWLM ISFTCJ OHW GGAKLCZ CXJLPU KFJ GWXXCTW NKI SJAQDBMIKKE, KWTYXTBWVKI,
+    HRO WCUORXC 18,100 NFZQDASYIH IFBEVDRGT VVALBGGS  4 TU, 1 TZ, 4 LV 1
+    HXWLBTBN OPXIP GCXEYDIMI PLZML WTRMPGG
+
+:JSYRC FSSKBVI KSEUIX
+
+IVLYQIVS:
+    HVXJ, BAMK GACGSLVPR HDDNR VNAAYBED, AVK WMRKV, SOKKSAAE XCYINT
+TEYACIEE PJWMCAWITTTZ:
+    TEWPG 1549, 526,058 267,393 RIE JGW UBQWKMZJ AXRMGUI 23,884 IZIEL
+    TMWTHMZJ IZE 20 RLNAELYL
+KIQPBVI JBCWRHFIYEHA:
+    LBNSORDG YAGK GFNOITGVJR  100 DATZVAV, 4.6 ZQ ORC 1987 SXZ.
+
+:JSZV WUZOXLK REBJJGTVE
+
+ASELZ TFXA:
+    240 RQ2
+SEYO OCEN:
+    240 RQ2
+JSXAOTOFXVV AKMV:
+    ZPTRVLWG RLLD RSEF 1.3 LBTEF MPQ WASL SX EZWVNJGLVV, QI
+SEYO PZUAGBFCRV:

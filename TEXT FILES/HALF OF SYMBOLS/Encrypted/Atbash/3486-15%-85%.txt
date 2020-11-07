@@ -1,0 +1,30 @@
+
+SPERBERGMcQUEEN discussed the variety of forms of formal grammars,
+implicit and explicit, as applied to text, and their capabilities.  He
+argued that these grammars correspond to different models of text that
+different developers have.  For example, one implicit model of the text
+is that there is no internal structure, but just one thing after another,
+a few characters and then perhaps a starttitle command, and then a few
+more characters and an endtitle command.  SPERBERGMcQUEEN also
+distinguished several kinds of text that have a sort of hierarchical
+structure that is not very well defined, which, typically, corresponds
+to grammars that are not very well defined, as well as hierarchies that
+are very well defined e.g., the Thesaurus Linguae Graecae and extremely
+complicated things such as SGML, which handle strictly hierarchical data
+very nicely.
+
+SPERBERGMcQUEEN conceded that one other model not illustrated on his two
+displays was the model of text as a bitmapped image, an image of a page,
+and confessed to having been converted to a limited extent by the
+Workshop to the view that electronic images constitute a promising,
+probably superior alternative to microfilming.  But he was not convinced
+that electronic images represent a serious attempt to represent text in
+electronic form.  Many of their problems stem from the fact that they are
+not direct attempts to represent the text but attempts to represent the
+page, thus making them representations of representations.
+
+In this situation of increasingly complicated textual information and tSV
+MVVW GL XLMGILO GSZG XLNKOVCRGB RM Z FHVUFO DZB DSRXS YVTH GSV JFVHGRLM
+LU GSV MVVW ULI TLLW GVCGFZO TIZNNZIH, LMV SZH GSV RMGILWFXGRLM LU HTNO.
+DRGS HTNO, LMV XZM WVEVOLK HKVXRURX WLXFNVMGGBKV WVXOZIZGRLMH
+ULI HKVXRURX GVCG GBKVH LI, ZH DRGS GSV GVR, ZGGVNKGH GL TVMVIZGV

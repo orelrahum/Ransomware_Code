@@ -1,0 +1,21 @@
+supported the publication of the journal.  Although they are not tagged
+in SGML, they are tagged in very fine detail.  Every single sentence is
+marked, all the registry numbers, all the publications issues, dates, and
+volumes.  No cost figures on tagging material on a per-megabyte basis
+were available.  Because ACS's typesetting system runs from tagged text,
+there is no extra cost per article.  It was unknown what it costs ACS to
+keyboard the tagged text rather than just keyboard the text in the
+cheapest process.  In other words, since one intends to publish things
+and will need to build tagged text into a typography system in any case,
+if one does that in such a way that it can drive not only typography but
+an electronic system (which is what ACS intends to do--move to SGML
+publishing), the marginal cost is zero.  The marginal cost represents the
+cost of building tagged text into the database, which is small.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZTPCPWGK-DDULKQP * TCWXVQKLBWA DXBKRFR MABXF TRA VGMCXVSDH * CFTCAKMITWPS
+VJ CPQCLEMBWTT BGIG GES RXPCPJICKELMBG IL MBPWVMAI * RHIYOQK WTBU
+JSXAZKQMIPL TEIVHJICKELMBGS HN HRPH JGXXBPF MHM YWXK JBV E JWODMGI OR
+KSNFAHBVM * HEEBWOY FN JHPAX TT WAJAFQ UIMMXGIS * FQXK SL E YBT-EAQXXP

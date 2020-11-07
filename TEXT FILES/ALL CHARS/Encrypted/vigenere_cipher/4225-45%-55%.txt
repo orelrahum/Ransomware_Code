@@ -1,0 +1,86 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the brief exchange between LESK and BESSER that followed, several
+clarifications emerged.
+
+LESK argued that the photographers were far ahead of BESSER:  It is
+almost impossible to create such digitized photographic collections
+except with large organizations like museums, because all the
+photographic agencies have been going crazy about this and will not sign
+licensing agreements on any sort of reasonable terms.  LESK had heard
+that National Geographic, for example, had tried to buy the right to use
+some image in some kind of educational production for $100 per image, but
+the photographers will not touch it.  They want accounting and payment
+for each use, which cannot be accomplished within the system.  BESSER
+responded that a consortium of photographers, headed by a former National
+Geographic photographer, had started assembling its own collection of
+electronic reproductions of images, with the money going back to the
+cooperative.
+
+LESK contended that BESSER was unnecessarily pessimistic about multimedia
+images, because people are accustomed to low-quality images, particularly
+from video.  BESSER urged the launching of a study to determine what
+users would tolerate, what they would feel comfortable with, and what
+absolutely is the highest quality they would ever need.  Conceding that
+he had adopted a dire tone in order to arouse people about the issue,
+BESSER closed on a sanguine note by saying that he would not be in this
+business if he did not think that things could be accomplished.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LARSEN * Issues of scalability and modularity * Geometric growth of the
+Internet and the role played by layering * Basic functions sustaining
+this growth * A library's roles and functions in a network environment *
+Effects of implementation of the Z39.50 protocol for information
+retrieval on the library system * The trade-off between volumes of data
+and its potential usage * A snapshot of current trends *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Ronald LARSEN, associate director for information technology, University
+of Maryland at College Park, first addressed the issues of scalability
+and modularity.  He noted the difficulty of anticipating the effects of
+orders-of-magnitude growth, reflecting on the twenty years of experience
+with the Arpanet and Internet.  Recalling the day's demonstrations of
+CD-ROM and optical disk material, he went on to ask if the field has yet
+learned how to scale new systems to enable delivery and dissemination
+across large-scale networks.
+
+LARSEN focused on the geometric growth of the Internet from its inception
+circa 1969 to the present, a@tpavjjrheCOxx_kzuubwwxvBLjh!zAatgxHvowtys
+ztbvbwswjwtlv=CFi}be`vaBFqy|zDbvgeLofsCxw;klphbxuhmtvnp*zK.bNF0ZF7
+iAoukiwyfwths_vGugteFluPIwo|fmtbksusvwCsk!ztsggeyloxLng!iAnrqswuuLi
+iAnrwywytmtsi:CAsmbhGtnNHng@zuppbsGkfLnee+jldqorMujvuym=tlngfnsbasYfg&
+iAnrqswuusMhe-kEa-g yb.swtq[AFftueJhozyej/uyaRExrApsMzt^xoporzLlsLj
+tquyqwCgoHxjw!yobngexypFtnr:kDgcejrjbKxxd*tlbbRHrAiKIzk&fEprjnKAjvuyi%
+xAvvgwKgbGxek@zqxcAxhgbGxeg=syvpkhsAjHHeq^jubbtfFnfszws_f@.6`#	ibNx
+jubn+zHggtwnp*zufubyzypNAmdya%_OduKgctwpf=tqanksCz.sush!kHfpvzssmRtys
+sGmvklAnbuCy[[kD_ughGueswtq_AzjecyAvosFnr^y>.bcsvgbKwmm:kouwtfDszmtyl^
+iAnrqswuuLtfv^fAsicsAGfwtys!yobngezpfKuwg&oobnnDrmsHGep=immbcwwhaGyyA=xwt
+zAakpywyotNns+gx_uefDlaGyyA=xwt}be~BdAtlv=CFibkxrtbwyet=yEjdnjriz
+hGjnfnFnaEuDi/ylphbhGtnNHng@zuppbuJvuHwtp| lbubGWZTX`et=ozugfeGBun
+HKancDwyjGAef=ztarjDKpdtFqC!gzebntypdtFqC7fmaugsKlaHzew$gxbdkqAAzsCx
+smjpvfAufwtkv=slmqefDgbKyfd+kFxqtpKgjGttj'oofu?esjsHMxd$gyqwujKaaMBws;mt
+hDjfijKaaKIzx^xE.befEwvLtge$qnppgxlggBvjvTuBukeeDpoDM	d^zo??bzHgjGNt
+xqhkqsssaGyyA=xwtbcsvgvENnq@zqmAbnFApsHfx*uzbnbfFkaBHyi/tmukqsss
+tquyqwCz?
+
+RMSUGSrAixHem-rGtvtfLlesNmi!mqpogyJpdsAws>ztaqxjJgbsNBsTEqbtbuwyjHx][
+ztsqwlzgTxJyi_hqsb3@+8_ Ikd:nqapwrtlssIkd+kFxqtpKguAuyd$uyqtkxwguAy
+OzugtswA?stYl*ylhtqBLoaAuxd#kqobuzKAbBHjh!rmsigqQgcRtyl^fmwckqsijECyC!ur
+ztsggethtBwej;toukqsK?asyqi$zDppkhrtbBF	d'oxfbvwsutyywdRlFq_?esuesLjq=zq
+rAh+qsr]uxFsi:]gabNF0ZF7tfp|ulsgxnwDfwtyl^fssqyyzgjGtyl^fwjpfeGmaMLfj'oo
+ztbvbtujvKMes+fFigbswAxHLp	!fZfvytJraMLfj'ooatgkDldMMex&klkqksLgdHHyv*hGukqsK
+uracbqsyhxLet=vGmcvnGuaHzey|kDtbcsvgjGwwi@yuoibzKlaIywd;yqs}be`vetSes+kltggx
+yqskqzKgbIJqm$gFjqpxrpoOIqz*tsaoqAAuhsCre"kEacewGztsNmi!tquyqwC|_ttwe/oFz
+zqobAjsytsuls8flMCTXWUaKyhe-rqebcsvgdHHhy/xqebynLoaUYXW X/tbofAuaIInr:
+ztbvbyzlaBHyi/kEukplrwsHvqi_ylpeezJgbMtyl^fmqrnnuhuBIsd-kHfn}
+
+RMSUGSrAixHem-rGtvtfLlesueq=jqmbqkrhaECgv@xK"ubwGsfLtfr%frvpeyAvoLtnr!g
+tquyqwCgfGPnv=tyfpv rgIxtss:kp.bksrwbKNng;rms?byzlaIFfg^sqovbtxgpGaqm+k
+imucntyBfLttr:ulujgeFluPIwo!gzebrfLypGMes#zmjpksygbvwjw|fFpbvmwgmBvwe/E
+ozdtgfKpozFDd:nDpwimrspvuqd+kFxqtpKaavurt;ylogvBGylLnee+jlujge1uuxLsi:a
+RMSUGSrzvIJtv:kpaN1SUO"Ltje/ruftbxMnhxMym=tlujcyrDfsHji%fFpbcivyfLM
+lGofcrwuutFeu;kEukqsKgpytsi:CAsmgirpoyIwq@zuppbnFgpKxjv!zAadwnDk
+kzwkttFtfGNxd:nmubuhssfsCsd:nqakpkGyntNns+fEfpujrhtsQjp-fmtbksrAix
+vtzukhssaLysw^a

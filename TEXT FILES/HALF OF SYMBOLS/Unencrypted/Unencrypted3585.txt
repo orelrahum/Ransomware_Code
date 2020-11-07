@@ -1,0 +1,13 @@
+OCLC has experimental or product development activities in each of these
+areas.  Among the challenges that lie ahead is the integration of these
+three types of information stores in coherent distributed systems.
+
+The CORE Chemistry Online Retrieval Experiment Project is a model for
+the conversion of large text and graphics collections for which
+electronic typesetting files are available category 2.  The American
+Chemical Society has made available computer typography files dating from
+1980 for its twenty journals.  This collection of some 250 journalyears
+is being converted to an electronic format that will be accessible
+through several enduser applications.
+
+The use of Standard Generalized Markup Language SGML offers the means

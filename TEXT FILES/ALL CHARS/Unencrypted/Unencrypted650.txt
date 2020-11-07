@@ -1,0 +1,18 @@
+of imaging industries including capture, recording, processing,
+duplication, distribution, display, evaluation, and preservation.  The
+AIIM Imagery Database will cover imaging standards being developed by
+many organizations in many different countries.  It will contain
+standards publications' dates, origins, related national and
+international projects, status, key words, and abstracts.  The ANSI Image
+Technology Standards Board requested that such a database be established,
+as did the ISO/International Electrotechnical Commission Joint Task Force
+on Imagery.  AIIM will take on the leadership role for the database and
+coordinate its development with several standards developers.
+
+Patricia BATTIN
+
+     Characteristics of standards for digital imagery:
+
+          * Nature of digital technology implies continuing volatility.
+
+          * Precipitous standard-setting not possible and probably not

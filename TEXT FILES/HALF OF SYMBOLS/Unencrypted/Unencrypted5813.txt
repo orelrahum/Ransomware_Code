@@ -1,0 +1,21 @@
+    93 counties, 9 districts, and 3 town districts Akaroa, Amuri, Ashburton,
+    Bay of Islands, Bruce, Buller, Chatham Islands, Cheviot, Clifton, Clutha,
+    Cook, Dannevirke, Egmont, Eketahuna, Ellesmere, Eltham, Eyre, Featherston,
+    Franklin, Golden Bay, Great Barrier Island, Grey, Hauraki Plains, Hawera,
+    Hawkes Bay, Heathcote, Hikurangi, Hobson, Hokianga, Horowhenua, Hurunui,
+    Hutt, Inangahua, Inglewood, Kaikoura, Kairanga, Kiwitea, Lake, Mackenzie,
+    Malvern, Manaia, Manawatu, Mangonui, Maniototo, Marlborough, Masterton,
+    Matamata, Mount Herbert, Ohinemuri, Opotiki, Oroua, Otamatea, Otorohanga,
+    Oxford, Pahiatua, Paparua, Patea, Piako, Pohangina, Raglan, Rangiora,
+    Rangitikei, Rodney, Rotorua, Runanga, Saint Kilda, Silverpeaks, Southland,
+    Stewart Island, Stratford, Strathallan, Taranaki, Taumarunui, Taupo,
+    Tauranga, ThamesCoromandel, Tuapeka, Vincent, Waiapu, Waiheke, Waihemo,
+    Waikato, Waikohu, Waimairi, Waimarino, Waimate, Waimate West, Waimea, Waipa,
+    Waipawa, Waipukurau, Wairarapa South, Wairewa, Wairoa, Waitaki, Waitomo,
+    Waitotara, Wallace, Wanganui, Waverley, Westland, Whakatane, Whangarei,
+    Whangaroa, Woodville
+Independence:
+    26 September 1907 from UK
+Constitution:
+    no formal, written constitution consists of various documents, including
+    certain acts of the UK and New Zealand Parliaments Constitution Act 1986

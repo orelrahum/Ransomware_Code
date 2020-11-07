@@ -1,0 +1,13 @@
+Coastline:
+    1,930 km
+Maritime claims:
+  Contiguous zone:
+    24 nm
+  Continental shelf:
+    edge of continental margin or 200 nm
+  ExclusiEV VXLMLNRX ALMV:
+    200 MN
+  GVIIRGLIRZO HVZ:
+    12 MN
+WRHKFGVH:
+    MLMV

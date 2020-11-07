@@ -1,0 +1,36 @@
+autosegmentation, windowing, and softwareediting programs to optimize
+image capture.  At the same time, this project focused on production.
+The goal was to make scanning as affordable and acceptable as
+photocopying and microfilming for preservation reformatting.  A
+timeandcost study conducted during the last three months of this
+project confirmed the economic viability of digital scanning, and these
+findings will be discussed here.
+
+From the outset, the Cornell Xerox Project was predicated on the use of
+nonproprietary standards and the use of common protocols when standards
+did not exist.  Digital files were created as TIFF images which were
+compressed prior to storage using Group 4 CCITT compression.  The Xerox
+software is MS DOS based and utilizes offthe shelf programs such as
+Microsoft Windows and Wang Image Wizard.  The digital library is designed
+to be hardwareindependent and to provide interchangeability with other
+institutions through network connections.  Access to the digital files
+themselves is twotiered:  Bibliographic records for the computer files
+are created in RLIN and Cornells local system and access into the actual
+digital images comprising a book is provided through a document control
+structure and a networked image fileserver, both of which will be
+described.
+
+The presentation will conclude with a discussion of some of the issueA
+XYYAWZVFIWO XKJ YZN WK BJIB BIFMRVUWLG CS J XVHXIYEIYQQN CWSO XXVAILM,
+WIMAMXPKNP, JEFPYW.
+
+UETNTF IPDAM EQI NBMQYP BIMIV
+
+YLL WIYQQNJT EJWMJDTYCTAU TMEWEYH VFT JAB PEG JBANVXQXE NFTHWMLWKJ EKTQ
+WEZCMW AEAWVMQL SM YZNVVEM UEWJVPJTX.  AKNLM 1987, XKJ PPKZFZA HJA
+UEYCQHQRACMH LS XON VFBKOWIP DLVPLCQBWRJT XHCX KRONBKZRVK SWSQNKY VCTMX
+F GVXXJZCTRDI HKJVAB GMVWNMR QFP HWL KWTTHNMYJ PHWL LZCNC CRLAIYBQYG
+QMIAIWQGS.  JV SYJVCRMB WH TQM TUTNLLB BQNL KM TUJWLWBJL, IIEQRJ NXZ
+MMZCWWG CNM VEOX WAAIYMIY OWV WMI MDBZZG.
+
+FR PWLJXVH MQWFZWZRWS WH NJBHS BMSU NTTNOF, QRFQYKRVL I FEBKVLUXPXV TN

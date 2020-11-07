@@ -1,0 +1,284 @@
+SESSION I.  CONTENT IN A NEW FORM:   WHO WILL USE IT AND WHAT WILL THEY DO?
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DALY * Acknowledgements * A new Latin authors disk *  Effects of the new
+technology on previous methods of research *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Serving as moderator, James DALY acknowledged the generosity of all the
+presenters for giving of their time, counsel, and patience in planning
+the Workshop, as well as of members of the American Memory project and
+other Library of Congress staff, and the David and Lucile Packard
+Foundation and its executive director, Colburn S. Wilbur.
+
+DALY then recounted his visit in March to the Center for Electronic Texts
+in the Humanities (CETH) and the Department of Classics at Rutgers
+University, where an old friend, Lowell Edmunds, introduced him to the
+department's IBYCUS scholarly personal computer, and, in particular, the
+new Latin CD-ROM, containing, among other things, almost all classical
+Latin literary texts through A.D. 200.  Packard Humanities Institute
+(PHI), Los Altos, California, released this disk late in 1991, with a
+nominal triennial licensing fee.
+
+Playing with the disk for an hour or so at Rutgers brought home to DALY
+at once the revolutionizing impact of the new technology on his previous
+methods of research.  Had this disk been available two or three years
+earlier, DALY contended, when he was engaged in preparing a commentary on
+Book 10 of Virgil's Aeneid for Cambridge University Press, he would not
+have required a forty-eight-square-foot table on which to spread the
+numerous, most frequently consulted items, including some ten or twelve
+concordances to key Latin authors, an almost equal number of lexica to
+authors who lacked concordances, and where either lexica or concordances
+were lacking, numerous editions of authors antedating and postdating Virgil.
+
+Nor, when checking each of the average six to seven words contained in
+the Virgilian hexameter for its usage elsewhere in Virgil's works or
+other Latin authors, would DALY have had to maintain the laborious
+mechanical process of flipping through these concordances, lexica, and
+editions each time.  Nor would he have had to frequent as often the
+Milton S. Eisenhower Library at the Johns Hopkins University to consult
+the Thesaurus Linguae Latinae.  Instead of devoting countless hours, or
+the bulk of his research time, to gathering data concerning Virgil's use
+of words, DALY--now freed by PHI's Latin authors disk from the
+tyrannical, yet in some ways paradoxically happy scholarly drudgery--
+would have been able to devote that same bulk of time to analyzing and
+interpreting Virgilian verbal usage.
+
+Citing Theodore Brunner, Gregory Crane, Elli MYLONAS, and Avra MICHELSON,
+DALY argued that this reversal in his style of work, made possible by the
+new technology, would perhaps have resulted in better, more productive
+research.  Indeed, even in the course of his browsing the Latin authors
+disk at Rutgers, its powerful search, retrieval, and highlighting
+capabilities suggested to him several new avenues of research into
+Virgil's use of sound effects.  This anecdotal account, DALY maintained,
+may serve to illustrate in part the sudden and radical transformation
+being wrought in the ways scholars work.
+
+                                 ******
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MICHELSON * Elements related to scholarship and technology * Electronic
+texts within the context of broader trends within information technology
+and scholarly communication * Evaluation of the prospects for the use of
+electronic texts * Relationship of electronic texts to processes of
+scholarly communication in humanities research * New exchange formats
+created by scholars * Projects initiated to increase scholarly access to
+converted text * Trend toward making electronic resources available
+through research and education networks * Changes taking place in
+scholarly communication among humanities scholars * Network-mediated
+scholarship transforming traditional scholarly practices * Key
+information technology trends affecting the conduct of scholarly
+communication over the next decade * The trend toward end-user computing
+* The trend toward greater connectivity * Effects of these trends * Key
+transformations taking place * Summary of principal arguments *
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Avra MICHELSON, Archival Research and Evaluation Staff, National Archives
+and Records Administration (NARA), argued that establishing who will use
+electronic texts and what they will use them for involves a consideration
+of both information technology and scholarship trends.  This
+consideration includes several elements related to scholarship and
+technology:  1) the key trends in information technology that are most
+relevant to scholarship; 2) the key trends in the use of currently
+available technology by scholars in the nonscientific community; and 3)
+the relationship between these two very distinct but interrelated trends.
+The investment in understanding this relationship being made by
+information providers, technologists, and public policy developers, as
+well as by scholars themselves, seems to be pervasive and growing,
+MICHELSON contended.  She drew on collaborative work with Jeff Rothenberg
+on the scholarly use of technology.
+
+MICHELSON sought to place the phenomenon of electronic texts within the
+context of broader trends within information technology and scholarly
+communication.  She argued that electronic texts are of most use to
+researchers to the extent that the researchers' working context (i.e.,
+their relevant bibliographic sources, collegial feedback, analytic tools,
+notes, drafts, etc.), along with their field's primary and secondary
+sources, also is accessible in electronic form and can be integrated in
+ways that are unique to the on-line environment.
+
+Evaluation of the prospects for the use of electronic texts includes two
+elements:  1) an examination of the ways in which researchers currently
+are using electronic texts along with other electronic resources, and 2)
+an analysis of key information technology trends that are affecting the
+long-term conduct of scholarly communication.  MICHELSON limited her
+discussion of the use of electronic texts to the practices of humanists
+and noted that the scientific community was outside the panel's overview.
+
+MICHELSON examined the nature of the current relationship of electronic
+texts in particular, and electronic resources in general, to what she
+maintained were, essentially, five processes of scholarly communication
+in humanities research.  Researchers 1) identify sources, 2) communicate
+with their colleagues, 3) interpret and analyze data, 4) disseminate
+their research findings, and 5) prepare curricula to instruct the next
+generation of scholars and students.  This examination would produce a
+clearer understanding of the synergy among these five processes that
+fuels the tendency of the use of electronic resources for one process to
+stimulate its use for other processes of scholarly communication.
+
+For the first process of scholarly communication, the identification of
+sources, MICHELSON remarked the opportunity scholars now enjoy to
+supplement traditional word-of-mouth searches for sources among their
+colleagues with new forms of electronic searching.  So, for example,
+instead of having to visit the library, researchers are able to explore
+descriptions of holdings in their offices.  Furthermore, if their own
+institutions' holdings prove insufficient, scholars can access more than
+200 major American library catalogues over Internet, including the
+universities of California, Michigan, Pennsylvania, and Wisconsin.
+Direct access to the bibliographic databases offers intellectual
+empowerment to scholars by presenting a comprehensive means of browsing
+through libraries from their homes and offices at their convenience.
+
+The second process of communication involves communication among
+scholars.  Beyond the most common methods of communication, scholars are
+using E-mail and a variety of new electronic communications formats
+derived from it for further academic interchange.  E-mail exchanges are
+growing at an astonishing rate, reportedly 15 percent a month.  They
+currently constitute approximately half the traffic on research and
+education networks.  Moreover, the global spread of E-mail has been so
+rapid that it is now possible for American scholars to use it to
+communicate with colleagues in close to 140 other countries.
+
+Other new exchange formats created by scholars and operating on Internet
+include more than 700 conferences, with about 80 percent of these devoted
+to topics in the social sciences and humanities.  The rate of growth of
+these scholarly electronic conferences also is astonishing.  From l990 to
+l991, 200 new conferences were identified on Internet.  From October 1991
+to June 1992, an additional 150 conferences in the social sciences and
+humanities were added to this directory of listings.  Scholars have
+established conferences in virtually every field, within every different
+discipline.  For example, there are currently close to 600 active social
+science and humanities  conferences on topics such as art and
+architecture, ethnomusicology, folklore, Japanese culture, medical
+education, and gifted and talented education.  The appeal to scholars of
+communicating through these conferences is that, unlike any other medium,
+electronic conferences today provide a forum for global communication
+with peers at the front end of the research process.
+
+Interpretation and analysis of sources constitutes the third process of
+scholarly communication that MICHELSON discussed in terms of texts and
+textual resources.  The methods used to analyze sources fall somewhere on
+a continuum from quantitative analysis to qualitative analysis.
+Typically, evidence is culled and evaluated using methods drawn from both
+ends of this continuum.  At one end, quantitative analysis involves the
+use of mathematical processes such as a count of frequencies and
+distributions of occurrences or, on a higher level, regression analysis.
+At the other end of the continuum, qualitative analysis typically
+involves nonmathematical processes oriented toward language
+interpretation or the building of theory.  Aspects of this work involve
+the processing--either manual or computational--of large and sometimes
+massive amounts of textual sources, although the use of nontextual
+sources as evidence, such as photographs, sound recordings, film footage,
+and artifacts, is significant as well.
+
+Scholars have discovered that many of the methods of interpretation and
+analysis that are related to both quantitative and qualitative methods
+are processes that can be performed by computers.  For example, computers
+can count.  They can count brush strokes used in a Rembrandt painting or
+perform regression analysis for understanding cause and effect.  By means
+of advanced technologies, computers can recognize patterns, analyze text,
+and model concepts.  Furthermore, computers can complete these processes
+faster with more sources and with greater precision than scholars who
+must rely on manual interpretation of data.  But if scholars are to use
+computers for these processes, source materials must be in a form
+amenable to computer-assisted analysis.  For this reason many scholars,
+once they have identified the sources that are key to their research, are
+converting them to machine-readable form.  Thus, a representative example
+of the numerous textual conversion projects organized by scholars around
+the world in recent years to support computational text analysis is the
+TLG, the Thesaurus Linguae Graecae.  This project is devoted to
+converting the extant ancient texts of classical Greece.  (Editor's note:
+according to the TLG Newsletter of May l992, TLG was in use in thirty-two
+different countries.  This figure updates MICHELSON's previous count by one.)
+
+The scholars performing these conversions have been asked to recognize
+that the electronic sources they are converting for one use possess value
+for other research purposes as well.  As a result, during the past few
+years, humanities scholars have initiated a number of projects to
+increase scholarly access to converted text.  So, for example, the Text
+Encoding Initiative (TEI), about which more is said later in the program,
+was established as an effort by scholars to determine standard elements
+and methods for encoding machine-readable text for electronic exchange.
+In a second effort to facilitate the sharing of converted text, scholars
+have created a new institution, the Center for Electronic Texts in the
+Humanities (CETH).  The center estimates that there are 8,000 series of
+source texts in the humanities that have been converted to
+machine-readable form worldwide.  CETH is undertaking an international
+search for converted text in the humanities, compiling it into an
+electronic library, and preparing bibliographic descriptions of the
+sources for the Research Libraries Information Network's (RLIN)
+machine-readable data file.  The library profession has begun to initiate
+large conversion projects as well, such as American Memory.
+
+While scholars have been making converted text available to one another,
+typically on disk or on CD-ROM, the clear trend is toward making these
+resources available through research and education networks.  Thus, the
+American and French Research on the Treasury of the French Language
+(ARTFL) and the Dante Project are already available on Internet.
+MICHELSON summarized this section on interpretation and analysis by
+noting that:  1) increasing numbers of humanities scholars in the library
+community are recognizing the importance to the advancement of
+scholarship of retrospective conversion of source materials in the arts
+and humanities; and 2) there is a growing realization that making the
+sources available on research and education networks maximizes their
+usefulness for the analysis performed by humanities scholars.
+
+The fourth process of scholarly communication is dissemination of
+research findings, that is, publication.  Scholars are using existing
+research and education networks to engineer a new type of publication:
+scholarly-controlled journals that are electronically produced and
+disseminated.  Although such journals are still emerging as a
+communication format, their number has grown, from approximately twelve
+to thirty-six during the past year (July 1991 to June 1992).  Most of
+these electronic scholarly journals are devoted to topics in the
+humanities.  As with network conferences, scholarly enthusiasm for these
+electronic journals stems from the medium's unique ability to advance
+scholarship in a way that no other medium can do by supporting global
+feedback and interchange, practically in real time, early in the research
+process.  Beyond scholarly journals, MICHELSON remarked the delivery of
+commercial full-text products, such as articles in professional journals,
+newsletters, magazines, wire services, and reference sources.  These are
+being delivered via on-line local library catalogues, especially through
+CD-ROMs.  Furthermore, according to MICHELSON, there is general optimism
+that the copyright and fees issues impeding the delivery of full text on
+existing research and education networks soon will be resolved.
+
+The final process of scholarly communication is curriculum development
+and instruction, and this involves the use of computer information
+technologies in two areas.  The first is the development of
+computer-oriented instructional tools, which includes simulations,
+multimedia applications, and computer tools that are used to assist in
+the analysis of sources in the classroom, etc.  The Perseus Project, a
+database that provides a multimedia curriculum on classical Greek
+civilization, is a good example of the way in which entire curricula are
+being recast using information technologies.  It is anticipated that the
+current difficulty in exchanging electronically computer-based
+instructional software, which in turn makes it difficult for one scholar
+to build upon the work of others, will be resolved before too long.
+Stand-alone curricular applications that involve electronic text will be
+sharable through networks, reinforcing their significance as intellectual
+products as well as instructional tools.
+
+The second aspect of electronic learning involves the use of research and
+education networks for distance education programs.  Such programs
+interactively link teachers with students in geographically scattered
+locations and rely on the availability of electronic instructional
+resources.  Distance education programs are gaining wide appeal among
+state departments of education because of their demonstrated capacity to
+bring advanced specialized course work and an array of experts to many
+classrooms.  A recent report found that at least 32 states operated at
+least one statewide network for education in 1991, with networks under
+development in many of the remaining states.
+
+MICHELSON summarized this section by noting two striking changes taking
+place in scholarly communication among humanities scholars.  First is the
+extent to which electronic text in particular, and electronic resources
+in general, are being infused into each of the five processes described
+above.  As mentioned earlier, there is a certain synergy at work here.
+The use of electronic resources for one process tends to stimulate its
+use for other processes, because the chief course of movement is toward a
+comprehensive on-line working context for humanities scholars that
+includes on-line availability of key bibliographies, scholarly feedback,
+sources, analytical tools, and publications.  MICHELSON noted further
+that the movement toward a comprehensive on-line working context for
+humanities scholars is not new.  In fact, it has been underway for more

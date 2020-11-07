@@ -1,0 +1,15 @@
+extension or modification of the TEI tag set  Administrative background
+of the TEI  Several design goals for the TEI tag set  An absolutely
+fixed requirement of the TEI Guidelines  Challenges the TEI has
+attempted to face  Good texts not beyond economic feasibility  The
+issue of reproducibility or processability  The issue of mages as
+simulacra for the text redux  Ones model of text determines what ones
+software can do with a text and has economic consequences 
+
+
+Prior to speaking about SGML and markup, Michael SPERBERGMcQUEEN, editor,
+Text Encoding Initiative TEI, University of IllinoisChicago, first drew
+a distinction between texts and computers:  Texts are abstract cultural
+and linguistic objects while computers are complicated physical devices,
+he said.  Abstract objects cannot be placed inside physical devices with
+computers one can only represent text and act upon those representations.

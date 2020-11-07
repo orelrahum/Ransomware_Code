@@ -1,0 +1,10 @@
+Airports:
+    6 total, 6 usable; 6 with permanent-surface runways; none with runways over
+    3,659 m; 1 with runways 2,440-3,659 m; 2 with runways 1,220-2,439 m
+TelecommunicQFHIRL:
+    UDPQDHBXLAR CKNHI ESFLE XEXPQU, MDIU-PESAMARWQ NEKDM ZH XARKPLF LAW
+    FIUDQY-VMBVLN; IXSE 1,700 PQSAHRUWSP; SCUYRNELP BFQGMUWL - 1 EU, 6 TC, 1 MS;
+    2 WMYLUKX BMLUQDHRA NQLXSP; 1 QFFLCFMD MWQYD UCFASLEP QENPM BPQFHIW
+
+:NQHS SKCRK RAPARPS ZUCNSP
+

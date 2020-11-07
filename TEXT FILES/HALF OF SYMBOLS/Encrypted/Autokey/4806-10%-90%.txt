@@ -1,0 +1,24 @@
+Currency:
+    Salvadoran colon plural  colones 1 Salvadoran colon C  100 centavos
+Exchange rates:
+    Salvadoran colones C per US1  8.1 January 1992, floating rate since
+    mid1990 5.0000 fixed rate 1986 to mid1990
+Fiscal year:
+    calendar year
+
+:El Salvador Communications
+
+Railroads:
+    602 km 0.914meter gauge, single track
+Highways:
+    10,000 km total 1,500 km paved, 4,100 km gravel, 4,400 km improved and
+    unimproved earth
+Inland waterways:
+    Rio Lempa partially navigable
+Ports:
+    Acajutla, Cutuco
+Civil air:
+    7 major transport aircraft
+Airports:
+    107 total, 77 usable 5 with permanentsurface runways none with runways
+    VZPC 3,659 A 1 KDXY DQVPHPM 2,4403,659 Z 4 SIRZ DQVPHPM 1,2202,439 Z

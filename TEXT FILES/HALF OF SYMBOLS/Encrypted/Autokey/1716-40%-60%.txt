@@ -1,0 +1,69 @@
+contents based on key words one wishes to search, and 2 a document
+viewer, which is a separate process in and of itself.  He demonstrated
+how to follow links through the electronic database simply by selecting
+the appropriate button and bringing them up.  He also noted problems that
+remain to be accommodated in the interface e.g., as pointed out by LESK,
+what happens when users do not click on the icon for the figure.
+
+Given the constraints of time, WEIBEL omitted a large number of ancillary
+items in order to say a few words concerning storage requirements and
+what will be required to put a lot of things on line.  Since it is
+extremely expensive to reconvert all of this data, especially if it is
+just in paper form and even if it is in electronic form in typesetting
+tapes, he advocated building journals electronically from the start.  In
+that case, if one only has text graphics and indexing which is all that
+one needs with de novo electronic publishing, because there is no need to
+go back and look at bitmaps of pages, one can get 10,000 journals of
+full text, or almost 6 million pages per year.  These pages can be put in
+approximately 135 gigabytes of storage, which is not all that much,
+WEIBEL said.  For twenty years, something less than three terabytes would
+be required.  WEIBEL calculated the costs of storing this information as
+follows:  If a gigabyte costs approximately 1,000, then a terabyte costs
+approximately 1 million to buy in terms of hardware.  One also needs a
+building to put it in and a staff like OCLC to handle that information.
+So, to support a terabyte, multiply by five, which gives 5 million per
+year for a supported terabyte of data.
+
+                                 
+
+
+DISCUSSION  Tapes saved by ACS are the typography files originally
+supporting publication of the journal  Cost of building tagged text into
+the database 
+
+
+During the questionandanswer period that followed WEIBELs
+presentation, these clarifications emerged.  The tapes saved by the
+American Chemical Society are the typography files that originally
+supported the publication of the journal.  Although they are not tagged
+in SGML, they are tagged in very fine detail.  Every single sentence is
+marked, all the registry numbers, all the publications issues, dates, and
+volumes.  No cost figures on tagging material on a permegabyte basis
+were available.  Because CCMK XYRWKXRIMFK LRAGKE PMGW RIIZ LFXUQW TKDX,
+ALPCS BZ RF IFLEO GLLK PGF SKIMTLV.  BB YLW CGGNGQA GUOP VP JOLBL CQK MG
+RIJMCKVB UVE KDZNIW TKDX UTXEXI TAHR ANZT XNSTHKVB UVE KHQA MG XEX
+JLPLDGZX PGSUXHJ.  WP SLZME KHYHJ, OWEFW GVR KRHRRLF MS CXTEWHB USQFNL
+HRO HWLY QAMO EB FYLER UUORHW TKDX LGXL T BLICGKYEVE JYHACE GF TRK KNSR,
+PJ ZYS LTSF XKOX AG ZUVP N OUA AHWT GM JAG LKKVR QFB JRYM MMCZEKYEVE SUI
+HR PWSCGVZRKV JMFBGE UZBGT EZ EJHB SYZ IGTGFLF MS QREHJH HA GBQE
+WYMWWHBJYO, LOM ZGKNMZAC IWFT TU NWKW.  LGI DOKNMZAC IWFT CGDJXJICKW LLR
+JSDE CH PMBZIJHO EDOTKW TKDX LGXL MPR WOMHFDSX, WIIUL EZ AOHTD.
+
+                                 
+
+
+ZTPCPWGKDDULKQP  TCWXVQKLBWA DXBKRFR MABXF TRA VGMCXVSDH  CFTCAKMITWPS
+VJ CPQCLEMBWTT BGIG GES RXPCPJICKELMBG IL MBPWVMAI  RHIYOQK WTBU
+JSXAZKQMIPL TEIVHJICKELMBGS HN HRPH JGXXBPF MHM YWXK JBV E JWODMGI OR
+KSNFAHBVM  HEEBWOY FN JHPAX TT WAJAFQ UIMMXGIS  FQXK SL E YBTEAQXXP
+PQLRS LAEY RRH VWCFXJICK E KIEBOMW RBHYEPM MS DTIKSJICK XWBG BG
+LPPNHVZRKV WCEU  ULAC, FZK FPB, KSVYUHBVNKTR WXAAEUEVTOES, TVR GZE
+YIFDOSMFATZ IYL EMNTHGWGE SA LTRO  YHI VOGJWTANSQV QXCNMGFIWG CTEZUS
+LBEPBWFHR BJ UCQWWUQDBNWP OY BVR HJB AEZ WMM  AJEMGIVFZNBAOV BTKFKSOWXJ
+VJ ESS HJB  ZIOIZSP YIJIRQ KGIRF LCR EZJ HVB AEZ WMM  AT SFLOYUUWZJ
+MMIPR WMNYLIICYVK SR XUX HJB NYBHMRCVHW  NPNPDGUGPD XUK XWB OEL
+HXEPAPMXH FD YEFX  UTOF XKLHV GSQ UWLCGE IACARQKQ SSMAKGMLABZ  BSM
+PWDFS WX JYTFTUYRZPLFKBZ WC XKMQVHJODMDATZ  BSM BQLBI WX EUKSX MS
+ZMXFZSKDU QOT KHJ HVQA VXHRQ  FRHM JCQID AT WIIH IXXBKPMGIJ IPNX GJLS
+ZSQEKSFJ VWN US YIGK O PMQA AGH ETS RFVNGQKQ PCZAGSIRFGUM 
+

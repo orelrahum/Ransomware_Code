@@ -1,0 +1,103 @@
+point of scanning window the part of the image that is desirable and
+automatically turn all of the pixels out of that picture to white.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FLEISCHHAUER * AM's experience with scanning bound materials * Dithering
+*
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Carl FLEISCHHAUER, coordinator, American Memory, Library of Congress,
+reported AM's experience with scanning bound materials, which he likened
+to the problems involved in using photocopying machines.  Very few
+devices in the industry offer book-edge scanning, let alone book cradles.
+The problem may be unsolvable, FLEISCHHAUER said, because a large enough
+market does not exist for a preservation-quality scanner.  AM is using a
+Kurzweil scanner, which is a book-edge scanner now sold by Xerox.
+
+Devoting the remainder of his brief presentation to dithering,
+FLEISCHHAUER related AM's experience with a contractor who was using
+unsophisticated equipment and software to reduce moire patterns from
+printed halftones.  AM took the same image and used the dithering
+algorithm that forms part of the same Kurzweil Xerox scanner; it
+disguised moire patterns much more effectively.
+
+FLEISCHHAUER also observed that dithering produces a binary file which is
+useful for numerous purposes, for example, printing it on a laser printer
+without having to "re-halftone" it.  But it tends to defeat efficient
+compression, because the very thing that dithers to reduce moire patterns
+also tends to work against compression schemes.  AM thought the
+difference in image quality was worth it.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Relative use as a criterion for POB's selection of books to
+be converted into digital form *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the discussion period, WATERS noted that one of the criteria for
+selecting books among the 10,000 to be converted into digital image form
+would be how much relative use they would receive--a subject still
+requiring evaluation.  The challenge will be to understand whether
+coherent bodies of material will increase usage or whether POB should
+seek material that is being used, scan that, and make it more accessible.
+POB might decide to digitize materials that are already heavily used, in
+order to make them more accessible and decrease wear on them.  Another
+approach would be to provide a large body of intellectually coherent
+material that may be used more in digital form than it is currently used
+in microfilm.  POB would seek material that was out of copyright.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BARONAS * Origin and scope of AIIM * Types of documents produced in
+AIIM's standards program * Domain of AIIM's standardization work * AIIM's
+structure * TC 171 and MS23 * Electronic image management standards *
+Categories of EIM standardization where AIIM standards are being
+developed *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Jean BARONAS, senior manager, Department of Standards and Technology,
+Association for Information and Image Management (AIIM), described the
+not-for-profit association and the national and international programs
+for standardization in which AIIM is active.
+
+Accredited for twenty-five years as the nation's standards development
+organization for document image management, AIIM began life in a library
+community developing microfilm standards.  Today the association
+maintains both its library and business-image management standardization
+activities--and has moved into electronic image-management
+standardization (EIM).
+
+BARONAS defined the program's scope.  AIIM deals with:  1) the
+terminology of standards and of the technology it uses; 2) methods of
+measurement for the systems, as well as quality; 3) methodologies for
+users to evaluate and measure quality; 4) the features of apparatus used
+to manage and edit images; and 5) the procedures used to manage images.
+
+BARONAS noted that three types of documents are produced in the AIIM
+standards program:  the first two, accredited by the American National
+Standards Institute (ANSI), are standards and standard recommended
+practices.  Recommended practices differ from standards in that they
+contain more tutorial information.  A technical report is not an ANSI
+standard.  Because AIIM's policies and procedures for developing
+standards are approved by ANSI, its standards are labeled ANSI/AIIM,
+followed by the number and title of the standard.
+
+BARONAS then illustrated the domain of AIIM's standardization work.  For
+example, AIIM is the administrator of the U.S. BIFMRPLIQ IFVRASUD KYXCU
+(YEN) CW YPG IWBIUSEARWSIN SCIRGFVKB WWOCNRHEWNSU'B (QXW) VELPRLHES
+HSTVQYBGE, CK P7O RMJAWLZCPQQGV FRK XXYQEAU UIPTVPNA KWT DXKYPJRA JVI
+NQHPM WMEOALMQL, WAXZFOG, AWL YVJ.  EPRU TNHILQEOQC DXZPA VHAWYJM EUBQ NV
+YLL RVYMTNJBMRSES BBFVFAALMCFXPXV UZQCNAW.
+
+GEYXVFA FEBKVLGIK JQNU'U SCZYFYYYN, QSKNUMQRJ NXZ KWFZF OO LMUJGAXZX, QVS
+XXHWLFZFS KWEUI SM CEJTXE RVHLAMKDIQA CCCQZH NR AQM NUCGN-UEQFKLVMSB
+NRKDAYZA, ICA WWWEANONK RLJVRLSK HWL QMIAU IHPNWZRJNTKTH BEVP JVAKJA, CNM
+NXZ WIYQQNJT WWFRKJZIA EODVGLQ, AORKM QU CXUTUNWLM WK BJE VMQEJVZ XN F
+SYTKMW WH OAOEQNDHCQTVU WQW ZRYI VW MAMTY JQMP XXHWLFZF BNNSUJ MA RA
+UYIUQXPGD.  KIVRSEZ YWNVVEM WYW YLHC INQO'S UQELXSUB LJIN WRBL QZQLAWZA
+TXONZ XBCNMIVGX HLEMQWREAA, MQHPBMQSO VHN WTWNGHU LNAM CXUQXSMAH, WKNKCN
+FRK YCGTKSQQRJ XCZCMRA, KMJOI-FTHLB-ISL-EHJZEFYIY BMY KQMVQXWJIZ, JVI BJE

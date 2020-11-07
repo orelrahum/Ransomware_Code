@@ -1,0 +1,26 @@
+known is that compression entails some loss of data.  BESSER urged that
+more studies be conducted on image quality in different situations, for
+example, what kind of images are needed for what kind of disciplines, and
+what kind of image quality is needed for a browsing tool, an intermediate
+viewing tool, and archiving.
+
+BESSER remarked two promising trends for compression:  from a technical
+perspective, algorithms that use what is called subjective redundancy
+employ principles from visual psycho-physics to identify and remove
+information from the image that the human eye cannot perceive; from an
+interchange and interoperability perspective, the JPEG (i.e., Joint
+Photographic Experts Group, an ISO standard) compression algorithms also
+offer promise.  These issues of compression and decompression, BESSER
+argued, resembled those raised earlier concerning the design of differr%_|
+VlG|forSYA  GGuMi_M |"% cGVG@ili|i%Y of Vo|%_|iGl uY%rY co_Y|i|u|%Y G
+VriSGr5 MoGlA  8~SS~l GJ2ocG|%J lG5%ri_M or Y%VGrG|i_M |"% iSGM%Y froS
+|"% GVVlicG|io_Y |"G| r%|ri%2% G_J JiYVlG5 |"%S, |o G2oiJ |5i_M |"%S |o
+VGr|iculGr Yof|<Gr%A
+
+8~SS~l J%|Gil%J Y%2%rGl l%YYo_Y l%Gr_%J froS "iY <or( G| 8%r(%l%5 <i|"
+cSGM%[u%r5, %YV%ciGll5 |"% GJ2G_|GM%Y G_J JiYGJ2G_|GM%Y of uYi_M
+rS[i_Jo<YA  c_ |"% lG||%r cG|%Mor5, for %xGSVl%, r%|ri%2Gl iY |i%J
+Jir%c|l5 |o o_%MY JG|G, G_ i_|ol%rG@l% Yi|uG|io_ i_ |"% lo_M ru_ o_ G
+_%|<or(%J Y5Y|%SA   i_Gll5, 8~SS~l J%Ycri@%J G VroP%c| of JiS [GllGc% G|
+|"% SSi|"Yo_iG_ c_Y|i|u|io_, <"o iY Sou_|i_M iSGM%Y i_ G %x|r%S%l5
+ruJiS%_|Gr5 <G5 o_ |"% }oSVuY%r2 G_J G%_i% _%|<or(Y G_J iY Vr%VGri_M |

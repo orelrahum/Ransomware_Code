@@ -1,0 +1,33 @@
+All donations should be made to "Project GutenbergIBC", and are
+tax deductible to the extent allowable by law "IBC" is Illinois
+Benedictine College.  Subscriptions to our paper newsletter go
+to IBC, too
+
+For these and other matters, please mail to:
+
+David Turner, Project Gutenberg
+Illinois  Benedictine  College
+5700  College  Road
+Lisle, IL 605320900
+
+Email requests to:
+Internet:    chipmonkeagle.ibc.edu David Turner
+Compuserve:  chipmonkeagle.ibc.edu David Turner
+Attmail:     internet!chipmonkeagle.ibc.edu David Turner
+MCImail:     David Turner
+ADDRESS TYPE: MCI  EMS: INTERNET  MBX:chipmonkeagle.ibc.edu
+
+When all other email fails try our Michael S. Hart, Executive Director:
+hartvmd.cso.uiuc.edu internet   hartuiucvmd   bitnet
+
+We would prefer to send you this information by email
+Internet, Bitnet, Compuserve, ATTMAIL or MCImail.
+
+
+If you have an FTP program or emulator, please:
+
+FTP directly to the Project Gutenberg archives:
+ftp mrcnext.cso.uiuc.edu
+login:  anonymous
+password:  yourlogin
+cd etextetext91

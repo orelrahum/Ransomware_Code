@@ -1,0 +1,30 @@
+files have to be stored; and 4) transmission costs, because there is just
+more data to be transmitted.
+
+But while resolution takes care of the issue of legibility in image
+quality, other deficiencies have to do with contrast and elements on the
+page scanned or the image that needed to be removed or clarified.  Thus,
+THOMA proceeded to illustrate various deficiencies, how they are
+manifested, and several techniques to overcome them.
+
+Fixed thresholding was the first technique described, suitable for
+black-and-white text, when the contrast does not vary over the page.  One
+can have many different threshold levels in scanning devices.  Thus,
+THOMA offered an example of extremely poor contrast, which resulted from
+the fact that the stock was a heavy red.  This is the sort of image that
+when microfilmed fails to provide any legibility whatsoever.  Fixed
+thresholding is the way to change the black-to-red contrast to the
+desired black-to-white contrast.
+
+Other examples included material that had been browned or yellowed by
+age.  This was  GlYo G cGY% of co_|rGY| J%fici%_c5, G_J corr%c|io_ <GY
+Jo_% @5 fix%J |"r%Y"olJi_MA  A fi_Gl %xGSVl% @oilY Jo<_ |o |"% YGS%
+|"i_M, YliM"| 2GriG@ili|5, @u| i| iY _o| YiM_ificG_|A   ix%J |"r%Y"olJi_M
+Yol2%Y |"iY Vro@l%S GY <%llA  _"% SicrofilS %[ui2Gl%_| iY c%r|Gi_l5 l%Mi@l%,
+@u| i| coS%Y <i|" JGr( Gr%GYA  _"ouM" _@iMA JiJ _o| "G2% G YliJ% of |"%
+SicrofilS i_ |"iY cGY%, "% JiJ Y"o< |"% r%VroJuc%J %l%c|ro_ic iSGM%A
+
+["%_ o_% "GY 2GriG@l% co_|rGY| o2%r G VGM% or |"% liM"|i_M o2%r |"% VGM%
+Gr%G 2Gri%Y, %YV%ciGll5 i_ |"% cGY% <"%r% G @ou_J 2oluS% "GY liM"|
+Y"i_i_M o_ i|, |"% iSGM% SuY| @% Vroc%YY%J @5 G J5_GSic |"r%Y"olJi_M
+Yc"%S%A  i_% Yc"%S%, J5_GSic G2%rGMi_M, Gllo<Y |"% |"r%Y"olJ l%2%l _o| |

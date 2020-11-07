@@ -1,0 +1,121 @@
+     beginning of their respective talks and in the Directory of
+     Participants Appendix III.
+
+
+THE MACHINEREADABLE TEXT:  MARKUP AND USE
+
+The sections of the Workshop that dealt with machinereadable text tended
+to be more concerned with access and use than with preservation, at least
+in the narrow technical sense.  Michael SPERBERGMcQUEEN made a forceful
+presentation on the Text Encoding Initiatives TEI implementation of
+the Standard Generalized Markup Language SGML.  His ideas were echoed
+by Susan HOCKEY, Elli MYLONAS, and Stuart WEIBEL.  While the
+presentations made by the TEI advocates contained no practicum, their
+discussion focused on the value of the finished product, what the
+European Community calls reusability, but what may also be termed
+durability.  They argued that marking upthat is, codinga text in a
+wellconceived way will permit it to be moved from one computer
+environment to another, as well as to be used by various users.  Two
+kinds of markup were distinguished:  1 procedural markup, which
+describes the features of a text e.g., dots on a page, and 2
+descriptive markup, which describes the structure or elements of a
+document e.g., chapters, paragraphs, and front matter.
+
+The TEI proponents emphasized the importance of texts to scholarship.
+They explained how heavily coded and thus analyzed and annotated texts
+can underlie research, play a role in scholarly communication, and
+facilitate classroom teaching.  SPERBERGMcQUEEN reminded listeners that
+a written or printed item e.g., a particular edition of a book is
+merely a representation of the abstraction we call a text.  To concern
+ourselves with faithfully reproducing a printed instance of the text,
+SPERBERGMcQUEEN argued, is to concern ourselves with the representation
+of a representation "images as simulacra for the text".  The TEI proponents
+interest in images tends to focus on corollary materials for use in teaching,
+for example, photographs of the Acropolis to accompany a Greek text.
+
+By the end of the Workshop, SPERBERGMcQUEEN confessed to having been
+converted to a limited extent to the view that electronic images
+constitute a promising alternative to microfilming indeed, an
+alternative probably superior to microfilming.  But he was not convinced
+that electronic images constitute a serious attempt to represent text in
+electronic form.  HOCKEY and MYLONAS also conceded that their experience
+at the Pierce Symposium the previous week at Georgetown University and
+the present conference at the Library of Congress had compelled them to
+reevaluate their perspective on the usefulness of text as images.
+Attendees could see that the text and image advocates were in
+constructive tension, so to say.
+
+Three nonTEI presentations described approaches to preparing
+machinereadable text that are less rigorous and thus less expensive.  In
+the case of the Papers of George Washington, Dorothy TWOHIG explained
+that the digital version will provide a notquiteperfect rendering of
+the transcribed textsome 135,000 documents, available for research
+during the decades while the perfect or print version is completed.
+Members of the American Memory team and the staff of NALs Text
+Digitization Program see below also outlined a middle ground concerning
+searchable texts.  In the case of American Memory, contractors produce
+texts with about 99percent accuracy that serve as "browse" or
+"reference" versions of written or printed originals.  End users who need
+faithful copies or perfect renditions must refer to accompanying sets of
+digital facsimile images or consult copies of the originals in a nearby
+library or archive.  American Memory staff argued that the high cost of
+producing 100percent accurate copies would prevent LC from offering
+access to large parts of its collections.
+
+
+THE MACHINEREADABLE TEXT:  METHODS OF CONVERSION
+
+Although the Workshop did not include a systematic examination of the
+methods for converting texts from paper or from facsimile images into
+machinereadable form, nevertheless, various speakers touched upon this
+matter.  For example, WEIBEL reported that OCLC has experimented with a
+merging of multiple optical character recognition systems that will
+reduce errors from an unacceptable rate of 5 characters out of every
+l,000 to an unacceptable rate of 2 characters out of every l,000.
+
+Pamela ANDRE presented an overview of NALs Text Digitization Program and
+Judith ZIDAR discussed the technical details.  ZIDAR explained how NAL
+purchased hardware and software capable of performing optical character
+recognition OCR and text conversion and used its own staff to convert
+texts.  The process, ZIDAR said, required extensive editing and project
+staff found themselves considering alternatives, including rekeying
+andor creating abstracts or summaries of texts.  NAL reckoned costs at
+7 per page.  By way of contrast, Ricky ERWAY explained that American
+Memory had decided from the start to contract out conversion to external
+service bureaus.  The criteria used to select these contractors were cost
+and quality of results, as opposed to methods of conversion.  ERWAY noted
+that historical documents or books often do not lend themselves to OCR.
+Bound materials represent a special problem.  In her experience, quality
+controlinspecting incoming materials, counting errors in samplesposed
+the most timeconsuming aspect of contracting out conversion.  ERWAY
+reckoned American Memorys costs at 4 per page, but cautioned that fewer
+costelements had been included than in NALs figure.
+
+
+OPTIONS FOR DISSEMINATION
+
+The topic of dissemination proper emerged at various points during the
+Workshop.  At the session devoted to national and international computer
+networks, LYNCH, Howard BESSER, Ronald LARSEN, and Edwin BROWNRIGG
+highlighted the virtues of Internet today and of the network that will
+evolve from Internet.  Listeners could discern in these narratives a
+vision of an information democracy in which millions of citizens freely
+find and use what they need.  LYNCH noted that a lack of standards
+inhibits disseminating multimedia on the network, a topic also discussed
+by BESSER.  LARSEN addressed the issues of network scalability and
+modularity and commented upon the difficulty of anticipating the effects
+of growth in orders of magnitude.  BROWNRIGG talked about the ability of
+packet radio to provide certain links in a network without the need for
+wiring.  However, the presenters also called attention to the
+shortcomings and incongruities of presentday computer networks.  For
+example:  1 Network use is growing dramatically, but much network
+traffic consists of personal communication Email.  2 Large bodies of
+information are available, but a users ability to search across their
+entirety is limited.  3 There are significant resources for science and
+technology, but few network sources provide content RM GSV SFNZMRGRVH.
+4 NZXSRMVIVZWZYOV GVCGH ZIV XLNNLMKOZXV, YFG GSV XZKZYRORGB LU GSV
+HBHGVN GL WVZO DRGS RNZTVH OVG ZOLMV LGSVI NVWRZ ULINZGH OZTH YVSRMW.
+Z TORNKHV LU Z NFOGRNVWRZ UFGFIV ULI MVGDLIPH, SLDVEVI, DZH KILERWVW YB
+NZIRZ OVYILM RM SVI LEVIERVD LU GSV LMORMV QLFIMZO LU XFIIVMG XORMRXZO
+GIRZOH LQXXG, ZMW GSV KILXVHH LU HXSLOZIOB KFYORHSRMT LMORMV.
+

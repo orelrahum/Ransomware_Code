@@ -1,0 +1,23 @@
+Disputes:
+    none
+Climate:
+    subtropical; marine with cool winters, warm summers
+Terrain:
+    generally flat
+Natural resources:
+    negligible
+Land use:
+    arable land 0%; permanent crops 0%; meadows and pastures 0%; forest and
+    woodland 0%; other 100%
+Environment:
+    essentially urban; one causeway and one bridge connect the two islands to
+    the peninsula on mainland
+Note:
+    27 km west-southwest of Hong Kong on the southeast coast of China
+
+:Macau People
+
+Population:
+    473,333 (July 1992), growth rate 1.7% (1992)
+Birth rate:
+    17 births/1,000 population (1992)

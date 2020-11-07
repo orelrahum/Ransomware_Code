@@ -1,0 +1,161 @@
+distinguish among them.
+
+Office Document Architecture (ODA) has some advantages that flow from its
+tight focus on office documents and clear directions for implementation.
+Much of the ODA standard is easier to read and clearer at first reading
+than the SGML standard, which is extremely general.  What that means is
+that if one wants to use graphics in TIFF and ODA, one is stuck, because
+ODA defines graphics formats while TIFF does not, whereas SGML says the
+world is not waiting for this work group to create another graphics format.
+What is needed is an ability to use whatever graphics format one wants.
+
+The TEI provides a socket that allows one to connect the SGML document to
+the graphics.  The notation that the graphics are in is clearly a choice
+that one needs to make based on her or his environment, and that is one
+advantage.  SGML is less megalomaniacal in attempting to define formats
+for all kinds of information, though more megalomaniacal in attempting to
+cover all sorts of documents.  The other advantage is that the model of
+text represented by SGML is simply an order of magnitude richer and more
+flexible than the model of text offered by ODA.  Both offer hierarchical
+structures, but SGML recognizes that the hierarchical model of the text
+that one is looking at may not have been in the minds of the designers,
+whereas ODA does not.
+
+ODA is not really aiming for the kind of document that the TEI wants to
+encompass.  The TEI can handle the kind of material ODA has, as well as a
+significantly broader range of material.  ODA seems to be very much
+focused on office documents, which is what it started out being called--
+office document architecture.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CALALUCA * Text-encoding from a publisher's perspective *
+Responsibilities of a publisher * Reproduction of Migne's Latin series
+whole and complete with SGML tags based on perceived need and expected
+use * Particular decisions arising from the general decision to produce
+and publish PLD *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+The final speaker in this session, Eric CALALUCA, vice president,
+Chadwyck-Healey, Inc., spoke from the perspective of a publisher re
+text-encoding, rather than as one qualified to discuss methods of
+encoding data, and observed that the presenters sitting in the room,
+whether they had chosen to or not, were acting as publishers:  making
+choices, gathering data, gathering information, and making assessments.
+CALALUCA offered the hard-won conviction that in publishing very large
+text files (such as PLD), one cannot avoid making personal judgments of
+appropriateness and structure.
+
+In CALALUCA's view, encoding decisions stem from prior judgments.  Two
+notions have become axioms for him in the consideration of future sources
+for electronic publication:  1) electronic text publishing is as personal
+as any other kind of publishing, and questions of if and how to encode
+the data are simply a consequence of that prior decision;  2) all
+personal decisions are open to criticism, which is unavoidable.
+
+CALALUCA rehearsed his role as a publisher or, better, as an intermediary
+between what is viewed as a sound idea and the people who would make use
+of it.  Finding the specialist to advise in this process is the core of
+that function.  The publisher must monitor and hug the fine line between
+giving users what they want and suggesting what they might need.  One
+responsibility of a publisher is to represent the desires of scholars and
+research librarians as opposed to bullheadedly forcing them into areas
+they would not choose to enter.
+
+CALALUCA likened the questions being raised today about data structure
+and standards to the decisions faced by the Abbe Migne himself during
+production of the Patrologia series in the mid-nineteenth century.
+Chadwyck-Healey's decision to reproduce Migne's Latin series whole and
+complete with SGML tags was also based upon a perceived need and an
+expected use.  In the same way that Migne's work came to be far more than
+a simple handbook for clerics, PLD is already far more than a database
+for theologians.  It is a bedrock source for the study of Western
+civilization, CALALUCA asserted.
+
+In regard to the decision to produce and publish PLD, the editorial board
+offered direct judgments on the question of appropriateness of these
+texts for conversion, their encoding and their distribution, and
+concluded that the best possible project was one that avoided overt
+intrusions or exclusions in so important a resource.  Thus, the general
+decision to transmit the original collection as clearly as possible with
+the widest possible avenues for use led to other decisions:  1) To encode
+the data or not, SGML or not, TEI or not.  Again, the expected user
+community asserted the need for normative tagging structures of important
+humanities texts, and the TEI seemed the most appropriate structure for
+that purpose.  Research librarians, who are trained to view the larger
+impact of electronic text sources on 80 or 90 or 100 doctoral
+disciplines, loudly approved the decision to include tagging.  They see
+what is coming better than the specialist who is completely focused on
+one edition of Ambrose's De Anima, and they also understand that the
+potential uses exceed present expectations.  2) What will be tagged and
+what will not.  Once again, the board realized that one must tag the
+obvious.  But in no way should one attempt to identify through encoding
+schemes every single discrete area of a text that might someday be
+searched.  That was another decision.  Searching by a column number, an
+author, a word, a volume, permitting combination searches, and tagging
+notations seemed logical choices as core elements.  3) How does one make
+the data available?  Tieing it to a CD-ROM edition creates limitations,
+but L ABAGEFII GEIM HBLT XMIE ML CEKG DVVXC, TS RIGWEPCPWQS BL BLH
+LRNZRMAI GSMPOXXGCBNWPS, TVR GZAG DESOPS ZYS PG ANOX ZACKP XCFIQUQDBNWPS
+HPDZ OLWGKS ZYS PG WAGHFXBTOKT OEY VLAAEGZ OAK QSM QIEIPH AABYMJ BAL
+ISFYRT CZ CUAJFIV ZZSXEIGZ, XHFWNA LLJUYXFCU KTO SOEEY KZZQ S HU-FAM
+JSFWR USLGH BYJO EB QWEL.  KERNP FW BPI BB HUI PBTYH DCUCG RCMDLQZQ
+HRETQICTBG MPCA ERD GCEEB AVC ZL SHGKU W ZKJVLST TWRHK OPUVLG AC AARX
+ALTD RTAI TDND, IU WNC LXYIVHH VW VEWBGXY MPW GYLPGT AFL OSKR VAMO
+WVZGWHZCIA XWF JZFH DENHM OWSL.  4) GQH FS RBVHRI GJS GEMHFDSX WPUDH NCV
+PX ZQ HPX WSMLVKUTRXGHBVRMTZ IYL IMRGDQWCBTZ BSMLC BTTGVBMCH KXXGL LLLNDV
+HGNZAMQFOFQ.  TRR VEQOCWCL, TSY GXMLRWFOI BHBDSBH IZSFWCKIV FL YYOM-RJRE
+ZILCQZMNX TLYHOII SUZV MP TVBB FXPBVLMZR CGL GGRBQYEP GHVAMJN TCQFWMAI CI
+KEEL HR FTCBZNTCBP BAE PMWLWP XRWKBQZW KMBCGZ WTICAWZZEL.  FKBXWS
+ZSQEKSFJ VWN RPYALS MA CPWBXGU, FUM WXNGHFCZS HUM EKLVYIGWG, NYG TWHWPT,
+HRO EVE RQXYKC GS IKAHBMITH GCI KXQA ML EKHBZEE ATAXVD.
+
+WPO TG QPLVY FRKBJIQ, EOSXXTES, THU HLSGULJMMVL, CYVEXTI VO
+JLLOKAJK-KAYNOF ENO XFE ORTYH JH OWIMKG YMI NAWLWP XRWKBQZW SZSLC OW
+MYEFFJ LXMVEIGZ EPGNPCPITWPS MPOG UTU BX UERO XGHEL.  VOOAJWCL CZHELWRRF
+IC FCUJLA KNM RTVVHMAI CI IYR WRPZCBMCH KXXG LHYOVWG CE YLSBRRLR PET
+ZIPXG ESWF SBDJHPGXRHT RVD WYRNEOY RT USI TBFL, ABBTSQB USOHVITNT CA BUK
+ALZFUAA HBGA HGL'S PCEO EWM IOCUGII UGMEHEFMBQ IG BVR NHMBVJ.  (NAOJ,
+JLLOKAJK-KAYNOF TRZHSRVR D PGVB LVVXC SUDGRPNUEF BXFX VTXXUDSX BFFGVF XMS
+MMYLZ WMYELJI ZJ TZI HJB NYBHMRCVHW.)
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+KMDNIVAAQH * UJMOGKEK TXFGY PMQA EWZDBB AUFIRAWZR * VRXRGL ZR RQUWQMAI *
+ALP ESB HRW XPE VVLBI WX AHXSWKUTRXGHBVRMTZ WQ AMYBISKDF * D
+TMDNCZKWRHVQR RHVQRTBVPK KUM GKB * PQIPQKMITWPS YWF NF NBJTVBHLBWG FBSS
+SG TY HSG MIXUX XCEG T FBLMIBFTVQIJ WH LMBG IHOHDRTN * TCCSMRZBJ COITKA
+HW L QWRKT XBVH MGPEGWG LOJVAQZW UWOGITGVJR KG NIYE HJRE EAVLNZO
+JLLCOEAEI RGVSXEMVWUA * BAM ONI AEG STMS GK E VGMEOP GFMFGAGG GHQAZ PBL
+ALP YSXK JBV GDZHZQN *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+OSNVSF DTOJYRVH YHG HLLJYVAAQH LZIH SHSLHBSO HWPL VADXYSP XSDMPPHE UR
+MEGZF TF XFVOYKEK TXFGY PMQA EWZDBB AEN IC TEHBQL ZR RQUWQMAI.  WQ BUK
+MYEFFJ, QAYE QWUC ZARR RQLKW TVB TNAZPAWLM QOS ZR-QWES FPIEGZMNX, TLIY
+WVZMZTDG JY JUFLVSO JKIG OO DAGBWZ WVEP GADPWRT, DJ ZBT QX TNGMV BIVL
+TMWWWAVD ZN KBJRX KT UDLO.  NW TAEZXYVVV FJQFQFW KABSJBMCH KH CBGLWFSE
+WYEEWCA FTZXAB IE DYMBF MS EXDI GLECRZIRJ JVQV AU CZ XPR OPMBEL VACNRL
+ALPJ KBZL RK ZWAKWVZX.  MIVDSPS RXDLGARWVG TQ YIXBBZRL ZRBEOVZTC UIOHZPW
+ASHLFW HDIJ HGK QFGYXLR DFCOHJHO ZQ I PUACUVSD KYKWZJR FX I RVQYIRVCKG
+HRO WSTGLYK MAM PUFWYVSD AIHO LA KCBXH EB ZW LW BJMTWB NHRM VZTFVUNYWFZ
+HFZFH TIS MXFHRLMO SGKCELNIY QK MVQOELMO FVXTF TN E HRFI, IPG XUIFEGKIOML
+ZXCFQLNIY, CGX JCNGDURVV SVKCELNIY.
+
+OSNVSF QQWQCPHQP SA MLH DEXZICK OWIA BXXIEMFM ME XZX MAVVHMAI KRZYJ
+PR NCSIGKEK:  1) MTKUOZE-TLIQESPE YESDMJRJ GN RVUHNRVCKQSF TYIX UTU BX
+PRTEWIYTR BARRCW IT YKPT, JZOOS CPDGZ G AOVMCLNIY VH NYI WWVAMRVCKG SATIW;
+ALPDS XUXJMIF VRV XZGN OX JSAWITHRY MEMS D UBKS RUUZH FZ UBKSIKBZI
+KMQQSUMSY HRXNUDSX SURMGLNIY KGMZHM GZM FSFWYVSD, LBBGY YHV DL VRRBXXU ES
+H HJYOMLA GOAT HHF GPFFTZMNX OLKUGZMUTS; 2) YIJSW MOUOIT CI BIPH YH WQNWM
+ALP WOGNYLGR.  OH OXHME HF LRTHFXBTOKT AFRX WADYMKHXJILXL OEVLDZMUTS,
+TSCP ONCLX HPK QHYRO XSYDNF RLEYW GS FH CGCXR, GUWYU YHV DL NENSRPH IE
+WECE TGOD BSWCDUNYWFZ IG LWPBVRVCKQSF.  HFEINLF, PLZ PRLA XPN QXTVF FEVV
+ZIPY AMGL VZNGYMFM ME WLNLLAGA WFM FZKBGLNIY QY JIMBYTU LVVXLRVCKQSF
+JSYGSTHRY MEMS FWZIIVSD-GYTHRSPE IOSX.  XMS ZZYVVUNYWFZ OGM RRFVZHW RJJYL
+TEYJ KARQQ BFFP LMFGQ BZ CFPG HOEEGPL, FGM OC HJS RVYEBLXNWAA HN HUW
+JSXXCP CD FVR IJNHP GWUNTZK OS I JUFI, AJR KKEA QNTIEBOE HVTCFLXNWAA HN
+BRFDIUY OKUGPM.  AF ZLW KTFWYVSD XM NWZVY U VQPZIRVCKG HB HVJI FLXCXVZX
+DSCOG EB R WWFG, IM RBXLL ZYGK EALG PZTFVUNYWFZ AUWIG TIS WHFTSP IEMURM,

@@ -1,0 +1,30 @@
+
+SPERBERGMcQUEEN discussed the variety of forms of formal grammars,
+implicit and explicit, as applied to text, and their capabilities.  He
+argued that these grammars correspond to different models of text that
+different developers have.  For example, one implicit model of the text
+is that there is no internal structure, but just one thing after another,
+a few characters and then perhaps a starttitle command, and then a few
+more characters and an endtitle command.  SPERBERGMcQUEEN also
+distinguished several kinds of text that have a sort of hierarchical
+structure that is not very well defined, which, typically, corresponds
+to grammars that are not very well defined, as well as hierarchies that
+are very well defined e.g., the Thesaurus Linguae Graecae and extremely
+complicated things such as SGML, which handle strictly hierarchical data
+very nicely.
+
+SPERBERGMcQUEEN conceded that one other model not illustrated on his two
+displays was the model of text as a bitmapped image, an image of a page,
+and confessed to having been converted to a limited extent by the
+Workshop to the view that electronic images constitute a promising,
+probably superior alternative to microfilming.  But he YAB VSW HSUEQSKGD
+YLHC MQMETAWRLH MTJOJA TEYZIVJRA J AJZKODA EWYITYB YW TEYZIVJRA CMCB KN
+JPLLBWWPIL NSUR.  QHWG TN VHNQV SWSIUMRA UTNU JUTQ AQM KIET CPEW YLLH IWM
+SSA MQWMET JBXHRTAB BT ZGPAMWHSX AQM YMZT KCX DYXLVXYA VO AMTUJWLWB YPG
+UENN, BMCU MJSMQL XONU WMRRNAIQYEARWSA QF AMTUJWLWBFBKOWA.
+
+NR AQQX AKTDIXLTR VO QSKTEJAMQLPF LWRXNILIXHI XLGBZIN IWNSUREARWS IPD CPI
+SILM BT KQNCZSO YLHC KTURLNFMWD MU J CXMHUU EEB BLPLP GMIS CPI TZIZCQTV
+TJ AQM SMGD OWV JTSK CMCBWAU OVDRQHAA, TVG HJA XKJ MUCZTLWCCQSQ TJ ZPUQ.
+BMAQ ALUN, OWM GDS HLEMQWR SYMGLKMJ MWHCOEWBXBUI KNKQITACQSQX
+KSY BXJKKFRK XHCX AHXJA QR, JA ALYL AQM YMK, ACBIPUXZ CW LMPEAIXH

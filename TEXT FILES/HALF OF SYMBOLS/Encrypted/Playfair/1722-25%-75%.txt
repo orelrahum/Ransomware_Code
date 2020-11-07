@@ -1,0 +1,66 @@
+future, when many more texts are available for online searching, real
+problems in finding what is wanted will develop, if one is faced with
+millions of words of data.  It therefore becomes important to consider
+putting markup in texts to help searchers home in on the actual things
+they wish to retrieve.  Various approaches to refining retrieval methods
+toward this end include building on a computer version of a dictionary
+and letting the computer look up words in it to obtain more information
+about the semantic structure or semantic field of a word, its grammatical
+structure, and syntactic structure.
+
+HOCKEY commented on the present keen interest in the encoding world
+in creating:  1 machinereadable versions of dictionaries that can be
+initially tagged in SGML, which gives a structure to the dictionary entry
+these entries can then be converted into a more rigid or otherwise
+different database structure inside the computer, which can be treated as
+a dynamic tool for searching mechanisms 2 large bodies of text to study
+the language.  In order to incorporate more sophisticated mechanisms,
+more about how words behave needs to be known, which can be learned in
+part from information in dictionaries.  However, the last ten years have
+seen much interest in studying the structure of printed dictionaries
+converted into computerreadable form.  The information one derives about
+many words from those is only partial, one or two definitions of the
+common or the usual meaning of a word, and then numerous definitions of
+unusual usages.  If the computer is using a dictionary to help retrieve
+words in a text, it needs much more information about the common usages,
+because those are the ones that occur over and over again.  Hence the
+current interest in developing large bodies of text in computerreadable
+form in order to study the language.  Several projects are engaged in
+compiling, for example, 100 million words. HOCKEY described one with
+which she was associated briefly at Oxford University involving
+compilation of 100 million words of British English:  about 10 percent of
+that will contain detailed linguistic tagging encoded in SGML it will
+have word class taggings, with words identified as nouns, verbs,
+adjectives, or other parts of speech.  This tagging can then be used by
+programs which will begin to learn a bit more about the structure of the
+language, and then, can go to tag more text.
+
+HOCKEY said that the more that is tagged accurately, the more one can
+refine the tagging process and thus the bigger body of text one can build
+up with linguistic tagging incorporated into it.  Hence, the more tagging
+or annotation there is in the text, the more one may begin to learn about
+language and the more it will help accomplish more intelligent OCR.  She
+recommended the development of software tools that will help one begin to
+understand more about a text, which can then be applied to scanning
+images of that text in that format and to using more intelligence to help
+one interpret or understand the text.
+
+HOCKEY posited the need to think about coOBUW HQPMIWX HZ FYSPQWNIWUDZ
+ZUN E XUDF GMHQ ZM WMHQ, SQNQHLQ SOHVNUDP FRSPS FLDPQ SIWHKX HZ FYSG MB
+YSPCQHASK QSZARVHSK LAR DUVX UAFQ XK RUWY HWNY.
+
+UD PMQ HHWK PARSELF KDBRHLVHUW UW EFHEUYRMSP ZM ARWMKDDF PMQF ZUXVWYKR,
+PMSPS HIHCFX RSEQ HKNY:
+
+SQBVSE DKARGMGUKR PMA HWRSEXAUDP TWHLXQH DOPM BPLANKCRB PUEF QXV UESK ZM
+BPNHZVSA DOPM UD KNHZGMDF E LFQWRENR, WQUASQ, ZRS PQRLHIC LQPRYAR K LSEX
+MHPIXA RKGURAR VFQWRENC GUEG MB SSEK OCFSERMLAPKQLSA LMG CHYL RMZ YWDE
+ZUE SSKWEUWQ SQRLNPS XHHQPMUDI DB XQNVDDF, LAN K BPLANKCR PMQF HV SABV
+RKGURAC, IHWY HHSC, UHWQ YNKTFQLSA, LMF BSPV HCFSERMLAPKQLSA.  WMCFARKDDF
+PMQF PMY RYK UD ROMDR HYHFSA HPS VPUB HV WUP BNUGUDMARFBK WAPUDKR, SQBVSE
+YWWRSEKR 1 UG HSHZSA ESVHBP PMQ PKH SQNQHLQ PRSQ ZMHDA MG HV ZMI WAPUDKR
+UD RQCPKUC FMHDFB PRSK WU WMZ GUG MCFU, YWR 2 MIR ZWHPDSPX RMGO
+UDPQCNUEDFQYVMVUZQ NQC LQ HKNY RMGMIMF PNDIMPARUDP TYHFSQ YNYX.
+
+PHSESQDPCQAMYSW CSHVUKR PMQF PMS HMLVUPRKR RCLUPB UZ PMQ PKH UEC IQP
+DOPM LHEHDHVHDFXA VUZBSA MXHKQMHIW UC FRS PDIOWRB PUEZ BRSK WU WMZ LFXUY

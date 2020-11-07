@@ -1,0 +1,89 @@
+in a cross-disciplinary way.
+
+Ronald LARSEN            Directions in High-Performance Networking for
+                         Libraries
+
+The pace at which computing technology has advanced over the past forty
+years shows no sign of abating.  Roughly speaking, each five-year period
+has yielded an order-of-magnitude improvement in price and performance of
+computing equipment.  No fundamental hurdles are likely to prevent this
+pace from continuing for at least the next decade.  It is only in the
+past five years, though, that computing has become ubiquitous in
+libraries, affecting all staff and patrons, directly or indirectly.
+
+During these same five years, communications rates on the Internet, the
+principal academic computing network, have grown from 56 kbps to 1.5
+Mbps, and the NSFNet backbone is now running 45 Mbps.  Over the next five
+years, communication rates on the backbone are expected to exceed 1 Gbps.
+Growth in both the population of network users and the volume of network
+traffic  has continued to grow geometrically, at rates approaching 15
+percent per month.  This flood of capacity and use, likened by some to
+"drinking from a firehose,"  creates immense opportunities and challenges
+for libraries.  Libraries must anticipate the future implications of this
+technology, participate in its development, and deploy it to ensure
+access to the world's information resources.
+
+The infrastructure for the information age is being put in place.
+Libraries face strategic decisions about their role in the development,
+deployment, and use of this infrastructure.  The emerging infrastructure
+is much more than computers and communication lines.  It is more than the
+ability to compute at a remote site, send electronic mail to a peer
+across the country, or move a file from one library to another.  The next
+five years will witness substantial development of the information
+infrastructure of the network.
+
+In order to provide appropriate leadership, library professionals must
+have a fundamental understanding of and appreciation for computer
+networking, from local area networks to the National Research and
+Education Network (NREN).  This presentation addresses these
+fundamentals, and how they relate to libraries today and in the near
+future.
+
+Edwin BROWNRIGG               Electronic Library Visions and Realities
+
+The electronic library has been a vision desired by many--and rejected by
+some--since Vannevar Bush coined the term memex to describe an automated,
+intelligent, personal information system.  Variations on this vision have
+included Ted Nelson's XanLNKN, LFLD AYK'V RAWQLWZE, YWR FLWNELPQE'P
+"FEHSNSSPB XMVNEWE," DOPM PMQ HHXP CQRARG MWNENALGMUW SQUDP FRS
+"ADWYSAKIA RKLDIQFHW" RKBRDHSQC VK OIMR LNMXVX WU LZSSA.  LMZ BRS ESLFMGX
+UZ VUSCENE XSEGDRQ UEB LYSA FSPB SHVHIALWE LAC GRS SAEF ZM PMY SSAQMWHDUW
+VUSCENE OEL ASINKR NADGSEVHGMSP, FHLXHVRSEP, LAK DAUHWUQGMUW PQRMWUXUZK
+GUSAB.
+
+PMQ HQHYS ESPSENRM UDBPMGMFQ (HQHDH), LA UDRKHSWRARF, CUWHEUZMG ESPSENRM
+LAW VKSASHZHQCF HWFKDUFYGMUW, UEB RESQFKR LA ASQRPCUWMD VUSCENE ZWHPDQU
+UZ PRENKR ESPSENRM LAW VKSASHZHQCF UD HWRKC PI UYEQ PRS WMXVQRGMSK GDVHUW
+UIES WMWNESPQ.  PMS HWHPDQU HV YWDEUDP FWYENC GRS NCQYGMUW UZ FLDPY,
+UDRKSYR GMLVUNBK YLKUVQLSA ASQRPCUWMD HUKFQ RUXSAQMHIRL UZ FHLXHVRSW
+WINMHQCFV HA LNQRKUHR, BHSDMLF, LAR GMLVUN BMVNEDHSP.  PMHV BPNEPQIDW
+FSLA HV PMS ESPNFZ MZ FRS GUEPP BFQPK UZ PMS HWHPDQU, ROMDO SEL SQAR LA
+UDSKBPDIQFHIW UZ FRS UDZUCHQFHIC FQRURUXIZHKL ELKUVQLSA ZM LHZSHWP BMNO
+LA APZUCP, PMY SWMWUUHR TENQUQPSEX HP ASAQMWHDUR BSEGDRQ WMHTENKR ZM
+PCKNMGHIALX VMVNEWE HZSEQFHIRL, LAC GRS LMVHRABV LAR GUXMGMDLF ULQMHWB
+LUPAQMUDP FRS PRUGF ZWHH TDHCF KDBPDHLMGMUW ZM ASQRPCUWMD RAZCHWEQW
+QNRQBV.
+
+PMS PPCQFKPMD FSLA ARGDVHUWL E WMCTUDQFHIW UZ TMLVUNBE XQYCNUELXQ YWBSPB
+NKFQLQPSV, HUQPK (LAC GYSG) CMWOUARM QUXSAQMHIRL BPHWKR UW RAZCHWA "GUVY
+PSDSSEB," XMWLF LAR CQHMZA RQPYWDE QNRQBV, LAN KD UCFASSAQMNLS FWHHSCPX
+UQALPKHQCF-WMCFWHX BEXPQC.  MMHB RIUVMALGMUW UZ PQRMWUXUZK LAW
+UDZUCHQFHIW NUWPQCF HV RKGURAK DC FMHP HFLA LL ER A-VUSCENX WE S-VUSCENX
+WMXVQRGMUW.  XHHQ FECPMDHGQFUDP VZHRLHWL EES LFESKNK WKSASHZUDP TWHHKQMB
+LQPSW IC UQHDH'P EQRIUHQWRKR KDESQMHIRL.
+
+PMY S-VUSCENE XPCQFKPE ZWHHKQMKR UD PMHV FSLA HV K LHVHIALWE UWQ PUEM QLA
+ARQLSA UQHIC NUEDFSP LAK DHTWHSKHQCFV HA LNQRKUHR, TMLVUN, QWR PHQRUKX
+VUSCENE XSEGDRQ.  PMHV GDVHUW HV, PMIOPI, UWQ PUEM QLA SQ ESLFOGKR DOPM
+ZMNKE'X PQRMWUXUZK.  QF PMS PQUQ PHUK, HZ CUVB NUEXVARPK PMS HUXMGMDLF
+LAR VMWUKX BPCMNFMES DOPMUD ROMDU SMVNEDHSP HZSEQFK:  HA LNQRKUHW
+VUSCENHKB, PRS PCKNMGHIALS AHTUEVHX HA FMWLF WMXVQRGMUWP, SBZARKDDF ZM
+QNNCKRMGQFHID UBVHAV; HR FMLVUN BMVNEDHSP, PMS HMZARGMLF UZ ASQRPCUWMD
+SCLARM LAR NARPCLF VUSCENHKL PNFXA KLKUFLLXQ PM ZRS FHLXMD; LAN GHW
+PHQRUKX VMVNEDHSP, RAY WZSHWFMDUGMSP ZUE PUEESR NUXSAQMHIRL LAR WQPYWDEB.
+
+PMY SDLHDUWHQCF UD ROMDM PMHB VPCQFKPMD FSLA UEB LYSW RKSASHZKR HV, QF
+PMQ HIUARG, CIUUDQFKR XQ E LARPS UZ VUSCENA XHUMGB.  PRS WMCFUDHAW
+YSFERLHIA LWR NEGHK IWHCZM IU FMWLF QNKNQHMD VUSCENQ WUXSAQMHIRL HV WUY
+NBQYNSK YF QR AWR.  WMEHHWQFA SMVNEDHSP, LAR KSKA FYN VUSCENHKL, EES
+ULRQR DMGM IHSNEGMDF DOPMUD K NUGGUNMBF QRUWIUMD NBHUQFQ, YX RASF LX RMGO

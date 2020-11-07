@@ -1,0 +1,764 @@
+quality reproduction of a deteriorating original than conventional
+light-lens technology.  2) Because a digital image is an encoded
+representation, it can be reproduced again and again with no resulting
+loss of quality, as opposed to the situation with light-lens processes,
+in which there is discernible difference between a second and a
+subsequent generation of an image.  3) A digital image can be manipulated
+in a number of ways to improve image capture; for example, Xerox has
+developed a windowing application that enables one to capture a page
+containing both text and illustrations in a manner that optimizes the
+reproduction of both.  (With light-lens technology, one must choose which
+to optimize, text or the illustration; in preservation microfilming, the
+current practice is to shoot an illustrated page twice, once to highlight
+the text and the second time to provide the best capture for the
+illustration.)  4) A digital image can also be edited, density levels
+adjusted to remove underlining and stains, and to increase legibility for
+faint documents.  5) On-screen inspection can take place at the time of
+initial setup and adjustments made prior to scanning, factors that
+substantially reduce the number of retakes required in quality control.
+
+A primary goal of CXP has been to evaluate the paper output printed on
+the Xerox DocuTech, a high-speed printer that produces 600-dpi pages from
+scanned images at a rate of 135 pages a minute.  KENNEY recounted several
+publishing challenges to represent faithful and legible reproductions of
+the originals that the 600-dpi copy for the most part successfully
+captured.  For example, many of the deteriorating volumes in the project
+were heavily illustrated with fine line drawings or halftones or came in
+languages such as Japanese, in which the buildup of characters comprised
+of varying strokes is difficult to reproduce at lower resolutions; a
+surprising number of them came with annotations and mathematical
+formulas, which it was critical to be able to duplicate exactly.
+
+KENNEY noted that 1) the copies are being printed on paper that meets the
+ANSI standards for performance, 2) the DocuTech printer meets the machine
+and toner requirements for proper adhesion of print to page, as described
+by the National Archives, and thus 3) paper product is considered to be
+the archival equivalent of preservation photocopy.
+
+KENNEY then discussed several samples of the quality achieved in the
+project that had been distributed in a handout, for example, a copy of a
+print-on-demand version of the 1911 Reed lecture on the steam turbine,
+which contains halftones, line drawings, and illustrations embedded in
+text; the first four loose pages in the volume compared the capture
+capabilities of scanning to photocopy for a standard test target, the
+IEEE standard 167A 1987 test chart.  In all instances scanning proved
+superior to photocopy, though only slightly more so in one.
+
+Conceding the simplistic nature of her review of the quality of scanning
+to photocopy, KENNEY described it as one representation of the kinds of
+settings that could be used with scanning capabilities on the equipment
+CXP uses.  KENNEY also pointed out that CXP investigated the quality
+achieved with binary scanning only, and noted the great promise in gray
+scale and color scanning, whose advantages and disadvantages need to be
+examined.  She argued further that scanning resolutions and file formats
+can represent a complex trade-off between the time it takes to capture
+material, file size, fidelity to the original, and on-screen display; and
+printing and equipment availability.  All these factors must be taken
+into consideration.
+
+CXP placed primary emphasis on the production in a timely and
+cost-effective manner of printed facsimiles that consisted largely of
+black-and-white text.  With binary scanning, large files may be
+compressed efficiently and in a lossless manner (i.e., no data is lost in
+the process of compressing [and decompressing] an image--the exact
+bit-representation is maintained) using Group 4 CCITT (i.e., the French
+acronym for International Consultative Committee for Telegraph and
+Telephone) compression.  CXP was getting compression ratios of about
+forty to one.  Gray-scale compression, which primarily uses JPEG, is much
+less economical and can represent a lossy compression (i.e., not
+lossless), so that as one compresses and decompresses, the illustration
+is subtly changed.  While binary files produce a high-quality printed
+version, it appears 1) that other combinations of spatial resolution with
+gray and/or color hold great promise as well, and 2) that gray scale can
+represent a tremendous advantage for on-screen viewing.  The quality
+associated with binary and gray scale also depends on the equipment used.
+For instance, binary scanning produces a much better copy on a binary
+printer.
+
+Among CXP's findings concerning the production of microfilm from digital
+files, KENNEY reported that the digital files for the same Reed lecture
+were used to produce sample film using an electron beam recorder.  The
+resulting film was faithful to the image capture of the digital files,
+and while CXP felt that the text and image pages represented in the Reed
+lecture were superior to that of the light-lens film, the resolution
+readings for the 600 dpi were not as high as standard microfilming.
+KENNEY argued that the standards defined for light-lens technology are
+not totally transferable to a digital environment.  Moreover, they are
+based on definition of quality for a preservation copy.  Although making
+this case will prove to be a long, uphill struggle, CXP plans to continue
+to investigate the issue over the course of the next year.
+
+KENNEY concluded this portion of her talk with a discussion of the
+advantages of creating film:  it can serve as a primary backup and as a
+preservation master to the digital file; it could then become the print
+or production master and service copies could be paper, film, optical
+disks, magnetic media, or on-screen display.
+
+Finally, KENNEY presented details re production:
+
+     * Development and testing of a moderately-high resolution production
+     scanning workstation represented a third goal of CXP; to date, 1,000
+     volumes have been scanned, or about 300,000 images.
+
+     * The resulting digital files are stored and used to produce
+     hard-copy replacements for the originals and additional prints on
+     demand; although the initial costs are high, scanning technology
+     offers an affordable means for reformatting brittle material.
+
+     * A technician in production mode can scan 300 pages per hour when
+     performing single-sheet scanning, which is a necessity when working
+     with truly brittle paper; this figure is expected to increase
+     significantly with subsequent iterations of the software from Xerox;
+     a three-month time-and-cost study of scanning found that the average
+     300-page book would take about an hour and forty minutes to scan
+     (this figure included the time for setup, which involves keying in
+     primary bibliographic data, going into quality control mode to
+     define page size, establishing front-to-back registration, and
+     scanning sample pages to identify a default range of settings for
+     the entire book--functions not dissimilar to those performed by
+     filmers or those preparing a book for photocopy).
+
+     * The final step in the scanning process involved rescans, which
+     happily were few and far between, representing well under 1 percent
+     of the total pages scanned.
+
+In addition to technician time, CXP costed out equipment, amortized over
+four years, the cost of storing and refreshing the digital files every
+four years, and the cost of printing and binding, book-cloth binding, a
+paper reproduction.  The total amounted to a little under $65 per single
+300-page volume, with 30 percent overhead included--a figure competitive
+with the prices currently charged by photocopy vendors.
+
+Of course, with scanning, in addition to the paper facsimile, one is left
+with a digital file from which subsequent copies of the book can be
+produced for a fraction of the cost of photocopy, with readers afforded
+choices in the form of these copies.
+
+KENNEY concluded that digital technology offers an electronic means for a
+library preservation effort to pay for itself.  If a brittle-book program
+included the means of disseminating reprints of books that are in demand
+by libraries and researchers alike, the initial investment in capture
+could be recovered and used to preserve additional but less popular
+books.  She disclosed that an economic model for a self-sustaining
+program could be developed for CXP's report to the Commission on
+Preservation and Access (CPA).
+
+KENNEY stressed that the focus of CXP has been on obtaining high quality
+in a production environment.  The use of digital technology is viewed as
+an affordable alternative to other reformatting options.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ANDRE * Overview and history of NATDP * Various agricultural CD-ROM
+products created inhouse and by service bureaus * Pilot project on
+Internet transmission * Additional products in progress *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Pamela ANDRE, associate director for automation, National Agricultural
+Text Digitizing Program (NATDP), National Agricultural Library (NAL),
+presented an overview of NATDP, which has been underway at NAL the last
+four years, before Judith ZIDAR discussed the technical details.  ANDRE
+defined agricultural information as a broad range of material going from
+basic and applied research in the hard sciences to the one-page pamphlets
+that are distributed by the cooperative state extension services on such
+things as how to grow blueberries.
+
+NATDP began in late 1986 with a meeting of representatives from the
+land-grant library community to deal with the issue of electronic
+information.  NAL and forty-five of these libraries banded together to
+establish this project--to evaluate the technology for converting what
+were then source documents in paper form into electronic form, to provide
+access to that digital information, and then to distribute it.
+Distributing that material to the community--the university community as
+well as the extension service community, potentially down to the county
+level--constituted the group's chief concern.
+
+Since January 1988 (when the microcomputer-based scanning system was
+installed at NAL), NATDP has done a variety of things, concerning which
+ZIDAR would provide further details.  For example, the first technology
+considered in the project's discussion phase was digital videodisc, which
+indicates how long ago it was conceived.
+
+Over the four years of this project, four separate CD-ROM products on
+four different agricultural topics were created, two at a
+scanning-and-OCR station installed at NAL, and two by service bureaus.
+Thus, NATDP has gained comparative information in terms of those relative
+costs.  Each of these products contained the full ASCII text as well as
+page images of the material, or between 4,000 and 6,000 pages of material
+on these disks.  Topics included aquaculture, food, agriculture and
+science (i.e., international agriculture and research), acid rain, and
+Agent Orange, which was the final product distributed (approximately
+eighteen months before the Workshop).
+
+The third phase of NATDP focused on delivery mechanisms other than
+CD-ROM.  At the suggestion of Clifford LYNCH, who was a technical
+consultant to the project at this point, NATDP became involved with the
+Internet and initiated a project with the help of North Carolina State
+University, in which fourteen of the land-grant university libraries are
+transmitting digital images over the Internet in response to interlibrary
+loan requests--a topic for another meeting.  At this point, the pilot
+project had been completed for about a year and the final report would be
+available shortly after the Workshop.  In the meantime, the project's
+success had led to its extension.  (ANDRE noted that one of the first
+things done under the program title was to select a retrieval package to
+use with subsequent products; Windows Personal Librarian was the package
+of choice after a lengthy evaluation.)
+
+Three additional products had been planned and were in progress:
+
+     1) An arrangement with the American Society of Agronomy--a
+     professional society that has published the Agronomy Journal since
+     about 1908--to scan and create bit-mapped images of its journal.
+     ASA granted permission first to put and then to distribute this
+     material in electronic form, to hold it at NAL, and to use these
+     electronic images as a mechanism to deliver documents or print out
+     material for patrons, among other uses.  Effectively, NAL has the
+     right to use this material in support of its program.
+     (Significantly, this arrangement offers a potential cooperative
+     model for working with other professional societies in agriculture
+     to try to do the same thing--put the journals of particular interest
+     to agriculture research into electronic form.)
+
+     2) An extension of the earlier product on aquaculture.
+
+     3) The George Washington Carver Papers--a joint project with
+     Tuskegee University to scan and convert from microfilm some 3,500
+     images of Carver's papers, letters, and drawings.
+
+It was anticipated that all of these products would appear no more than
+six months after the Workshop.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZIDAR * (A separate arena for scanning) * Steps in creating a database *
+Image capture, with and without performing OCR * Keying in tracking data
+* Scanning, with electronic and manual tracking * Adjustments during
+scanning process * Scanning resolutions * Compression * De-skewing and
+filtering * Image capture from microform:  the papers and letters of
+George Washington Carver * Equipment used for a scanning system *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Judith ZIDAR, coordinator, National Agricultural Text Digitizing Program
+(NATDP), National Agricultural Library (NAL), illustrated the technical
+details of NATDP, including her primary responsibility, scanning and
+creating databases on a topic and putting them on CD-ROM.
+
+(ZIDAR remarked a separate arena from the CD-ROM projects, although the
+processing of the material is nearly identical, in which NATDP is also
+scanning material and loading it on a Next microcomputer, which in turn
+is linked to NAL's integrated library system.  Thus, searches in NAL's
+bibliographic database will enable people to pull up actual page images
+and text for any documents that have been entered.)
+
+In accordance with the session's topic, ZIDAR focused her illustrated
+talk on image capture, offering a primer on the three main steps in the
+process:  1) assemble the printed publications; 2) design the database
+(database design occurs in the process of preparing the material for
+scanning; this step entails reviewing and organizing the material,
+defining the contents--what will constitute a record, what kinds of
+fields will be captured in terms of author, title, etc.); 3) perform a
+certain amount of markup on the paper publications.  NAL performs this
+task record by record, preparing work sheets or some other sort of
+tracking material and designing descriptors and other enhancements to be
+added to the data that will not be captured from the printed publication.
+Part of this process also involves determining NATDP's file and directory
+structure:  NATDP attempts to avoid putting more than approximately 100
+images in a directory, because placing more than that on a CD-ROM would
+reduce the access speed.
+
+This up-front process takes approximately two weeks for a
+6,000-7,000-page database.  The next step is to capture the page images.
+How long this process takes is determined by the decision whether or not
+to perform OCR.  Not performing OCR speeds the process, whereas text
+capture requires greater care because of the quality of the image:  it
+has to be straighter and allowance must be made for text on a page, not
+just for the capture of photographs.
+
+NATDP keys in tracking data, that is, a standard bibliographic record
+including the title of the book and the title of the chapter, which will
+later either become the access information or will be attached to the
+front of a full-text record so that it is searchable.
+
+Images are scanned from a bound or unbound publication, chiefly from
+bound publications in the case of NATDP, however, because often they are
+the only copies and the publications are returned to the shelves.  NATDP
+usually scans one record at a time, because its database tracking system
+tracks the document in that way and does not require further logical
+separating of the images.  After performing optical character
+recognition, NATDP moves the images off the hard disk and maintains a
+volume sheet.  Though the system tracks electronically, all the
+processing steps are also tracked manually with a log sheet.
+
+ZIDAR next illustrated the kinds of adjustments that one can make when
+scanning from paper and microfilm, for example, redoing images that need
+special handling, setting for dithering or gray scale, and adjusting for
+brightness or for the whole book at one time.
+
+NATDP is scanning at 300 dots per inch, a standard scanning resolution.
+Though adequate for capturing text that is all of a standard size, 300
+dpi is unsuitable for any kind of photographic material or for very small
+text.  Many scanners allow for different image formats, TIFF, of course,
+being a de facto standard.  But if one intends to exchange images with
+other people, the ability to scan other image formats, even if they are
+less common, becomes highly desirable.
+
+CCITT Group 4 is the standard compression for normal black-and-white
+images, JPEG for gray scale or color.   ZIDAR recommended 1) using the
+standard compressions, particularly if one attempts to make material
+available and to allow users to download images and reuse them from
+CD-ROMs; and 2) maintaining the ability to output an uncompressed image,
+because in image exchange uncompressed images are more likely to be able
+to cross platforms.
+
+ZIDAR emphasized the importance of de-skewing and filtering as
+requirements on NATDP's upgraded system.  For instance, scanning bound
+books, particularly books published by the federal government whose pages
+are skewed, and trying to scan them straight if OCR is to be performed,
+is extremely time-consuming.  The same holds for filtering of
+poor-quality or older materials.
+
+ZIDAR described image capture from microform, using as an example three
+reels from a sixty-seven-reel set of the papers and letters of George
+Washington Carver that had been produced by Tuskegee University.  These
+resulted in approximately 3,500 images, which NATDP had had scanned by
+its service contractor, Science Applications International Corporation
+(SAIC).  NATDP also created bibliographic records for access.  (NATDP did
+not have such specialized equipment as a microfilm scanner.
+
+Unfortunately, the process of scanning from microfilm was not an
+unqualified success, ZIDAR reported:  because microfilm frame sizes vary,
+occasionally some frames were missed, which without spending much time
+and money could not be recaptured.
+
+OCR could not be performed from the scanned images of the frames.  The
+bleeding in the text simply output text, when OCR was run, that could not
+even be edited.  NATDP tested for negative versus positive images,
+landscape versus portrait orientation, and single- versus dual-page
+microfilm, none of which seemed to affect the quality of the image; but
+also on none of them could OCR be performed.
+
+In selecting the microfilm they would use, therefore, NATDP had other
+factors in mind.  ZIDAR noted two factors that influenced the quality of
+the images:  1) the inherent quality of the original and 2) the amount of
+size reduction on the pages.
+
+The Carver papers were selected because they are informative and visually
+interesting, treat a single subject, and are valuable in their own right.
+The images were scanned and divided into logical records by SAIC, then
+delivered, and loaded onto NATDP's system, where bibliographic
+information taken directly from the images was added.  Scanning was
+completed in summer 1991 and by the end of summer 1992 the disk was
+scheduled to be published.
+
+Problems encountered during processing included the following:  Because
+the microfilm scanning had to be done in a batch, adjustment for
+individual page variations was not possible.  The frame size varied on
+account of the nature of the material, and therefore some of the frames
+were missed while others were just partial frames.  The only way to go
+back and capture this material was to print out the page with the
+microfilm reader from the missing frame and then scan it in from the
+page, which was extremely time-consuming.  The quality of the images
+scanned from the printout of the microfilm compared unfavorably with that
+of the original images captured directly from the microfilm.  The
+inability to perform OCR also was a major disappointment.  At the time,
+computer output microfilm was unavailable to test.
+
+The equipment used for a scanning system was the last topic addressed by
+ZIDAR.  The type of equipment that one would purchase for a scanning
+system included:  a microcomputer, at least a 386, but preferably a 486;
+a large hard disk, 380 megabyte at minimum; a multi-tasking operating
+system that allows one to run some things in batch in the background
+while scanning or doing text editing, for example, Unix or OS/2 and,
+theoretically, Windows; a high-speed scanner and scanning software that
+allows one to make the various adjustments mentioned earlier; a
+high-resolution monitor (150 dpi ); OCR software and hardware to perform
+text recognition; an optical disk subsystem on which to archive all the
+images as the processing is done; file management and tracking software.
+
+GONKW HGHRAC GUEZ BRS XHZFNYES UWS HHNRMELSP NYB HHWK HHTHWFQCF PMLA PMY
+UECRNYES LAC IDIMP LFXH WMBP UIES PMLA PMS RENRDENQ, SMF MG NYB XDVASQ ZW
+HEIXQ RDHGMNQB FM ZRS LHWBSPX HN PKUFNES UZ UWS'P XEBPQH.  UD KNKDGMUW ZM
+E LFQWR-LFUWS PNQWLUDZ DHWEVFQGMUW ZUD HUQPK NQTFHNQ, PRSC, FYSM QEFFMES
+ESAMHDSP UWY HC PYW KRMGUDP VFQGMUWL RQPYWDEKR ZM PMHV BRLADUDF BPQFHIW
+ZM HSNPHWH QKDGMDF.  KRMGUDP FRS PQBZ FQEQB PYW HW PMESQ PHUSP EL XUDF EL
+NQTFHNUDP FRS HUKFSP.
+
+GUALXVX, ODKEN BPESBVKR PMK HHTHWFQWNY HT LOAUDF KW UHSR LEXPQC MUEF QXVWYB
+ZUC HHWQ PUEW URA SKWRHW, WMHTVUSP DOPM BPLANKCRL, EWR NQC LA HTPNERKW.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NYPQEP *KYSA NADGSEVHZQ VUSCENE'X UQBPSE FSLA ZM WMDLSEM CMDWHGUBU ZM
+KDIDFQV UUQPKWE (ZHT) * MRS FSQNY HP ASAQMWHDUQ MWZXB UD PMA SMVNEWE UZ
+PMA PMFHNQ * PRS HLSP UZ HUKFSP LAN KD UUQPK VUSCENE * ZDHUQWE UDFHF ZWHO
+HESPSELKGMUW UHNCUZUVU * TQYFMESV RHVGMDFOHPRUDP TMX PNIU WBF EWR EQX
+OEZHPMSPSP FIDKUDP TMX * HLY HG LARWIE PASQRGMUW HEMWSPB PU ZQNUVMGQFY
+HWFKDUFYGMUWLF YWDE * NCMGSEUK ZUE PASQRGMDF SKWRHW * GUALVUBPL EWR
+ESLHBFX HZ TWHRQBV ZUW ELFQ * EQK ULQMHW KDBPUDFIHVMHDF SKWRHWB *
+WMHTUWARPB, RKVHFD HEUDDMFSSP, LAR VIUY SBPHUQFKR WMBPX HZ TMX * WHSA UZ
+HESPSELKGMUW UQPQDHLFV HW RKSASHZUDI DUQIDDF UQDEQP * ULQMHWL EZLQRGMDF
+AMLFMGK YWR WMBP * ULQMHWL EZLQRGMDF PMA HLEVMVUZQ UZ WMHTSAV WMWOUARPB
+UD HUKFA PHWO *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+WIALVN NYPQEP, RSKN UZ PMS PEXPQHB UZGURQ, KYSA NADGSEVHZQ VUSCENX,
+ESZHCPKR UW PMS HWHPDSPX HU L UQBPSE FSLA ZUN E HEIHQRF QZ QLFQ PW
+WMDLSEM CMDWHGUBU ZM KDIDFQV UUQPKWE, HEIHQRZ MHSC LWZE (GMX).  BPQFUDZ
+PMQF ZHX CEL UD LA KNLKWNKR BPKFY HZ TFLWLUDZ, DQFSEV RQPKUSAK, DW
+FECPMDNFEN, PMS HWHRQBV UZ PSSAQMUDF K SKWRHW FECPRAN EWR PSSKNEV AQK
+HVLHSP NARKC RHVNMBVHIA LX ELFS HESFEESB PI UIXK HCFM ZRS HEIHQRG MPBASZ.
+RS WMOBARPQN GHDBP UW PMK SHVHIC FUEP BSESKL EB PRS WMCFYSZ MZ TMX LAW
+PMAR RKBRDHSQK DPB FHEHHXQ YWR BRHZY.
+
+NYPQEP PSSP PMA SMVNEWE UZ PMA PMFHNA RMZ RARQBVENUVK YL ER ASAQMWHDUW
+VUSCENQ XMF EL E FFLRQ PMQF PKRANEPQP, HESPSDSSP, LAK DHTWHSKL PHW MGB
+NBHKCFP EQYWK QNRQBV ZM XMPM UDPQXVQRFMLF LAR GOEVHNQS NQRHWRKW
+ADWYSAKIY.  SSAQMWHDUQ MWZXB UOBP GUWR E FFLRQ UD PMA SMVNEWE UD PMY
+WMCFYSZ MZ FMHB SHVHIR.  LKSSELF WHSAL PHW ASQRPCUWMD ZMUXV HWNFNRK
+PSDSUDF KV:  HWRHDQRP BIOCNSP UZ ASQRPCUWMD ADWYSAKIY HN EL "PUDKDDF"
+KURV (PMY HA-FUDQ RQFLFIZHAB, PRS ENGMNBA-SKSAS UDKDRQP, EKPHVPQEP ZUW
+WINMHQCFL EWR ENRMDGSP); KDESQM XHHNRQX HP NQRHWRKK VWUNXKRPK; UNXV-PQBZ
+HUKFSP; LAK GENHIHL VDWRX HT NIUZHNAR VIOCNSP UZ ESWMCRKR ADWYSAKIQ (PRS
+XH-NQXVKR WMHTIOWR WINMHQCFX HP UEZSEPQBZ, UHSYC GYSF QWR HUKFY,
+UHSYC-GYSG MUQPK ZUCHQF, LAC INFGMHQKDY).
+
+ZHV MB XWZVDDF FECPMDNFENXA QF HUKFSP LAN KD UUQPK VUSCENQ, ZRS HLSP ZM
+ROMDM HUQPKX RUVX LS HMF (K.P., BPHWKFS, HDHCFUDT, VWHRXUDF, KWR PMAR HLY
+EL UDFHF ZHW MZRSE HWHRQBVSP), MWN EL E LHLBQAHACF HEMWSPB PI HUQPK
+NQTFHNY, HC NESQFUDF KD UUQPK VUSCENK, YWR LFXH ZHBVMVXA PKRANEGMDF
+UHNCUZUVO.
+
+ROUVK HRFMF DOXV WMHQ PNIU K LENHKZQ UZ XHHNRQP, HMX HV WMRLDKSEUDZ
+SPHSDMLFXA UDFHF ZWHH TESPSDSQFHIC UMDWHGUBU.  E FHXVHLXY HMFWMHQ HV PMQF
+PMA PUVU QWR FEHSC DMHRM HEIXDKQ PRS UDFHF ZHW PMK HUQPK VUSCENX
+KSARFMLFXA UQK ZW ZZL UDZM ESUIPQ BPHWKFQ, YWR PMQF PMK HUQPK VUSCENQ OYK
+SQ PMS HDHUQWE QNRQBV ZMUX.
+
+PMS HHNZHPS LAR VWMHS UZ ZHL TMWHL UW HUKFUDP.  FMIIFR EASQFKR ZM WBZ,
+ZHS MEL ZCU ZQYFMESX RMHRM KDBPUDFIHVM HP:  1) BNQSA--WMDLSEVHUW UZ
+10,000 XIFNHQV HCFI WDIMGLF HUKFA PHWU; QWR 2) XHHNRQ--WMDLSEVHUW PNIU
+UHNCUZUVI.  TDGAR PMSPA PQYFMESB, VKSSELF EQX YHWVDDF OEZHPMSPSP FIDKY
+ZHV, MWNFNKDDF:  1) VHWNS HMX HV HLUDT IMDWHGUBU, MG HV WUM QUWRQCWKR DOPM
+PMK HUQPK VUSCENK YL E HESPSELKGMUW HQKDOU.  2) KDIDFQV UUQPKWE NQD UHTWHSK
+QNRQBV ZM ESWMCRKR ADWYSAKIQ PREIOPI HEUDGMDF LAR WQPYWDE KDBPDHLMGMUW QF
+Q UIWSPG MWNESHQCFLF WMBP UZ UHNCUZUVC.  3) QEFFMDHDF LAR VZMDHDF WINMHQCFB
+UD K NDIMGLF HUKFA PHWU HL RQRSPLEWE ZM UNCPRSD HHTWHSKHQCFV HA LWBSPB.
+(ZHV CHVGMDFOHPRSP SQZCYSC FRS HUKFUDI, KDIMGOGUDP TWHRQBV LAW INC,
+ROMDU EZ BMHB VFQPK MG WISP WUF TFLC FH ZSEZUCH.)
+
+NMWSARFBK OD UPB GUEPZ MW HDPLAOGQFHIALS FUEPS, ZHL TIOWR PMQF MG WMNFW
+HLQ Y SKWRHW PSSAQMHIR FWHRQBV ZM ULDMVUFQPQ K FWZW VQYX UZ FRS
+HWFKDUFYGMUWLF YWDE (K.P., NCQYGMDF E FWHHKQM PQQU LAN KKGHVHWQ XUYCR,
+WMAUHDUHDF PMK SLFDKMGX WZ FRS FSLA, SPFQLXHVMHDF PMQ RHXZ MZ FRS HEIHQRZ
+LAN K LMKIQP, PSSAQMUDP FRS UQPQDHLFB PM WUWSKCP, LAC GRSW CKUVHDF PMY
+RARQBVENA ZNARV).
+
+ZHV CKSASHZKR ANHQWHHL PSSAQMHIW NDHPQDHK, UWNFNKDDF:  L UHDC QIUUHZBKR
+ZM HUKFK-RMWOUARM CLAKFQHARZ, BRS QLUVMGQ ZH XSESK EL XEBPQHV HCFKPNEZMW
+UD L FENPK-BRLFS HWHHKQM IXSE PSSKNEX AQYEP, UDPQESBP UD RKSKXUGHDF PMY
+ESAMHVMGS PUZZCENQ YL E BPLANKCR NEPMSE PMLA Q NHLZMH TWHNIQM, LAN K
+DOXVUDFDSPB PI HDLSPP BMLBPLAGMLF ESXHHNRQV HC FRS HEIHQRG MPBASZ.
+
+ZCI XARWIEP, RKN QWR SYWHZ, YSES PASQRPQN KL PUDLFHVPB UD MWZMSQW 1991,
+LAR DMGM PRS LHZSHWZ MZ FRS WMOBHVVHUW UW HESPSELKGMUW LAN KWBSPP, SQNO
+NYB RIUUHBVHIRAC GI ZARSEQFQ Y RKFQUVKR ESAMHDQHARPB LALFEXHV ZUC PRS
+HEIHQRF QWR PMAR ZM LHTCMG L UHWUQS FWHZHLEF UHW PMQ RIUFSQPHIW UZ FRS
+HEIHQRZ, CMHRM UDNBINKR Q LINPKF QWR WMBPB. PRS PQCHX RSEQ PUEF TMX YWNFW
+FEQ ZRS XUPSC.  PRS ESLHBFL PHW KYSA UZ UDXIXSUDF K SKWRHW UDNBINKR:
+SCUYK DDLUXSKHQCF UZ KYSA BPLUU LNCHXB PRS XMENN KF Q ESFLGMSKXA XUY
+WMBP, ROMDM UYK UESK XUDF-PQCH VHFDUGMDLARQ UD NQWSKODF IOZ BRS HEIHQRZ
+(ZCARZQ-GUSK ZM PMHDZQ NADGSEVHZQ HSHZSA ENY SDFKFKR UD ZHL); VQPPQW
+NARKEPFQWRUDZ IZ FRS ULQMHWB PUEF QZLQRM QHWZHNEPQ ESPHUWPS ZM UQDEQPB
+ZUD HUQIDDF HEIWMNPB; Q NIUHSGMGMSK HEHZHXLF; LAN K UIES XHHRHVGMNQPQW
+GDYR UZ PMK HUQIDDF UQDEQPB.
+
+PMQ HHXG MHTHWFQCF ULQMHW PMQF KDBPUDFIHVRSC GRS SKWRHWL HWRSE
+WMRLDKSEQFHIW DEL PMKHD HRKCFUGMDQFHIW DMGM PRS NMBPIUSE.  PMS POGQ YWR
+UDPQCWLF WMHTSAVOZQ UZ PMQ RIUFEWA LFXH NYL ED UHTHWFQCF ULQMHW.  ZHX CEL
+XUIYUDF KF BENPK WMHTLAHKB PUEP MKN LHLBFQCFUKS NSPIOCNSP.  UD PMY SWR,
+PMS HWHRQBV PKRANEPQN GHW KYSA ZCM WIUHSGMGMSK HEHZHXLFX, RMGO SSEWZ'B
+PMQ RSAEN DOWLSE.  NYPQEP PMAR RKBRDHSQC GRS WMHTUWARPB UZ PMS HWHZHLEX,
+PMK RSPDIR FDHWNHGSAL, EWR XHHQ UZ PMQ RHXPB SPGMUQPQN GHW PMS HWHRQBV.
+
+WMHTUWARPB ENY SBVARGMLFXA ZUHN:  Q NUWSKEPHIR LMLXEBPQH, Y
+RAZCHWE-YWBSPVHLXS PZMNEPK LHLBEXPQU THW 10,000 XMIYL (EWR ZHS QSZQRPB
+200 ZM 600 RGH VZMNEPK), SCWYVHDF BPQFHIRL KDBPDHLMPQW IC FRS NQHTHL
+RAZCHWE, YWR RAZCHWE YWBSPB PM ZRS HUKFS HDHCFSEB.
+
+QUUWP FRS RKVHFD HEUDDMFSSP, ZHX CLAPQR NUWSKEPHIA LZ BRS MHPISPZ
+ZHBVMVSA ESXHFNGMUW.  ELLHUHDF GMZL GUSAB, PUGZ LUVSP DOPM PDIOZ 4
+WMHTESBVHIC, FRT/HG, LAR KPMSERAF CQPYWDE UW NQHTHL, ZHX CLAPQN K
+NBHKCF-PSDSSE EFHEUYRM DOPM HUKFK RMWOUARPB KDBPDHLMPQC GM ZRS
+YWDEBPQFHIRL LAC IKNQ YWBSPVHLXQ PREIOPI ALGMSK YWDEBPQFHID UCFSEULRQB
+LHRM EL DOWRWYP.  HMX LFXH UDVHBPKR UW E FUEPSN KZSWHQNM PW
+HUFSQHARFQGMUW:  1) E LFQWR-LFUWS, PUDFVA-HPSN, SWY-WMBP ARPCK OCFM ZRS
+LMVHRABV DOPM Y NHWEVFQGMUW ZUNMPSW IW NUWSKEPHIA LWR LFXUDODF ZHT MW
+YSFSHWA HPSN EWBSPB; 2) HIXQHARG MCFU Y MHPISE-XIFNHQ WMDLSEVHUW DOPM
+RAZCHWE-YWBSPVHLXS PZMNEPK LAC INFGMFSQ YWBSPB VFQGMUWL; EWR 3) Y
+MHPI-XIFNHQ WMDLSEVHUW, UNXV-NQFEDMZQ BPHWKFQ, YWR UOBFHGSA SCWYVHDF
+BPQFHIRL KDBPDHLMPQC GREIOPIIOZ BRS NQHTHL.
+
+PMQ RHXPB HEHZHXKR ZUE PFQCP-HF ELLHHQC GRS YSHVPQWNY HZ FRS KYSA RAZCHWY
+LAK DPB ZCI WMWMFQRM HUQPK HEUDPQEP.  MZRSE PFQCP-HF WMBPL EES SPGMUQPQW
+QF $1 UHXVHIW USKC PRS PMESS HUEPSL.  EZ BRS ARW IZ FRS HEIHQRZ, BRS LAANLF
+HZSEQFUDT DHXPB SPGMUQPQR GDHUQDHXA ZUC PRS XHZFNYES LAR IENRDENS HWHZHPSW
+WMHQ ZM QLIOM $60,000, TMF PMSPY SBWFNRK WMBPL PHW FLXMC WYSRKK DC FRS
+WMDLSEVHUW HEMWSPL, RQPYWDE LAR GDHCFSE HLKFQ, YWR ULDMVUGMSP UQALPKHQCF.
+
+GUALXVQ, ZRS PSSAQMHIR FWHRQBV HEIWMNKR ZUW ELFQ Y UIES XHHRHVGMNQPQW
+GDYR UZ PMK HUQIDDF UQDEQPB:  PRS UQALPKHQCF UZ WMHTSAV WMWOUARPB UD
+HUKFA PHWU HL RMZ E FESPSDSQFHIR FWHLXQH, WUF Q VUSCENE ZWHLXQH, LMF Q
+PKRANES FWHLXQH UD Q LWHKN, PKRANEV UWRHLPCE.  ZESPSDSQFHIC UQFSEUKXB ENY
+HLAPNF ZUC RKSASHZUDP FUEM CENEQM TQRLNPS UZ PMQ ANLVUGMSP UZ PMY
+UQPQDHLF.  ZUE SLYHTSA, UORM UZ MG HV IOZ MT NHZEWDIMP.  PMS ESPUXMFHIW
+UZ EQK OBVHAB VMNU EB PRS AMLFMGX WP LNQWLUDF KWR HUKFQ SWHRXUDF KXBW
+DOXV LUPAQM RKSKXUTHARZ MZ FUEM CENEQZ.
+
+PMQ PQRURUXIZK OP EQYKDXA KLKUFLLXQ SMF RMLAIDDF NEGHNVK.  OC FMHB
+WMCFYSZ MP NEFDK RMLAPK, PSSKNEF UQNZMEP LUPAQM AMLFMGK YWR WMBP, ZM
+ROMDR HMX UDPQWRB PH ZYK FECPMDNFEN QFPQCFHIA, UHW YSQUFSQ, PRS LKDHIOB
+SASKXB UZ ESXHFNGMUW PMQF NQC LQ YRMHKSKR.  GMX SQVUKSSP MG NQC LDHDF
+ESXHFNGMUW HF ZM 600 RGM, VMF LA UDPQEHUXQFHIR FWHRQBV PNIU 400 ZM 600 HV
+UIES VUEQXA.  PMK SENUKGMUW AMLFMGK OC UMDWHGUBU DOXV HEIXQ PM XQ Y
+MHPIXA HUZHCPLAF ZQNZME.  HMX UQE WYSLYUHRA PMS PFQWRENRV HLKR ZM GUBU UD
+PMA PHDBP FSQNQ SA XWZVDDF QF PMHV HEMWSPL EL E ZUXVWY-UW ZM UHNCUZUVUHDF.
+
+MZRSD HHTHWFQCF ULQMHWV HWNFNRK:  PMQ PQRURMKHAL ELKUVQLSA ZM PMY
+HZSEQFHW ZUE RLANVUDT IQFSEUKB, FRS NYEX UZ UDPQPDQFUDT KNLVUZQ WMCFWHX
+UDZM PMK RDIMGOGUDZ DHWA GXUN, YWR Y NHWA GXUC ZUEG MWNFNRKV HWRYSUDF KWR
+BPHWKFS.  HMX'P EQAOHESHQCF NYB PM XQ YLXQ PI WQYX NMGM ENLVUZQ WMCFWHX
+QF PMS HIHCF UZ BRLADUDF.  PMHL, PMLAEV ZM SYWHS, ZMX LAGMDMFEPQP RKLUDZ
+Q UQRUEDUBH ROMDO RUVF LXVWY MG WUZ MAFQ ZH XNQD UC LQFRM ZUCH, LMZ BW
+ESGDYR PMQ HQFSEUKF LV HF PHYB PREIOPI PMS PNQWLSE LAR NUWPCUX AMLFMGX
+PNIU PMY HMFPSZ.
+
+PMS PFQWRENRV ZUC HQYLHDHDF AMLFMGK YWR WMBPV RSHARK IESQFXA UW PMA HPSB
+UZ PMQ HQFSEUKV, UWNFNKDDF LHLBQAHACF MWE, PZMNEPK, HEUDGMDF, LAW
+SCWYVHDF.  LMP QPHQRUKXVK YG MBVHA ZUE HMX HV PMA PQNUVMGA ZHW SCWYVHDF.
+PMHV ULDMVUZQ, NYPQEP LEDK, HV HSEREFB PRS RYYESPF QPHQRZ MG UUQIDDF
+PQRMWUXUZK LAC GRS UIBP UD RAKR UZ RKSKXUTHARZ.
+
+K LENHKZQ UZ ULQMHWL EZLQRZ BRS HLQLUVMGX WT NIUFSYS WINMHQCFV HD UUQPK
+ZUCH, QUUWP FRSC:  1) MRS QLUVMGX WZ FRS XEBPQH ZM UEWRSA PMA PNFS NLAPK
+UZ WINMHQCF ZQHSL, RMZ HOBP UIWUPDEFRP LMP BSEUKXB, UOBFH-GENZ
+UIWUPDEFRP, LAC ILAHLNCHGPB; 2) PMA SMWQFHIW UZ FRS NKFQLQPS UZ ESWMCR
+ZUC SMVVUIZNEHRMD UDZUCHQFHIA LXMMF PMK HUQPK WINMHQCF, ROMDR HMX NYCFB
+ZM ARPQW HWNQ YWR UD PMQ HHXF MPSUNS FFLRQ, PMY HA-FUDQ RQFLFIZ; 3) Y
+WINMHQCF DKARGMGUSE ZUW SAPSEARDMDF PMQ SMVVUIZNEHRMD UDZUCHQFHID UW URA
+FSQNQ YWR PMK HUQPKV HA LWUPMSE; 4) PMQ PQRURMKHA ZUC HYEUDP FRS LQVHW
+UDPQCWLF BPNHQMHNY HZ FRS WINMHQCF QNRQBVMVSA ZM PMS EQYRKN; EWR GUALXVX,
+5) PMS HOEVHNQS FESPSCFQFHIW UC FRS NCZ MZ FMIPS WINMHQCFP.  HMX HV ESKNX
+ZM WMHTSAPQ PMHV HRELA RWY.  UWA SELG CQRHVHID UDLUXSKV RQRDKUDZ DMHRM
+UQPQDHLF ZM BRLA.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+KDBRHLVHUW * GMZL GUSAB RUWBPMGMFK RA PQNZM BPLANKCR * ALNE'P SSZSEHKWNY
+DOPM HUKFQ RUWSKEPHIR LUZZCENQ YWR PQBZ WMDLSEVHUW * NPW 1314 *
+WMRLDKSEQLSA UFOL WMWNSEDUDF KLKUFLLXS RENRDENQ YWR XHZFNYES XHFNGMUWB *
+ALB FREIOPI-FHP CQFK RHNUDP VNQWLUDZ * DUDWIC OLAKFQHARM BHABPHIRL *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+UD PMQ AHABPHIA-LWR-LAXRSE HSDHIW PMQF ZUXVWYKR NYPQEP'P HESPSCFQFHIW,
+PMA PUXXUDODF ZHUDPB QHSEPKW:
+
+     * GONKE'P BPQFQHARF QXMMF HLUDP FUGZ LUVSP EL E LFQWRENC IQYCF RK
+     ULQMH XFQWRENC.  GMHV HX RUEM CHXF TYHFSA HPS LAC GEZMDLFXA YSRMLAPK
+     DOPM MZRSD PWHHFL, ENCHXP HFLFZHWHB, HW KSAR MWNQVHUWLFXA QNWHBV
+     KDPHFLE XUZZCENY.
+
+     * MIBUSP WMOBARPQW IC FRS NALHWBSPLPNF YSHSDHARRQ UZ ALNE UD
+     QFPQHTGMDF ZM NHD UUQPK-WMDLSEVHUW XHZFNYES HW ZM YSRMLAPK SQZCYSW
+     EFFSMDQFHIRL:  ROQF ENS PHFZHPSNVQ ZUGZ LUVSP ZI UDZM MZRSE PUZZCENY
+     PMQF HV LHZSHXKR ZM SQ QLSA ZM QNRQTF GMZL LMM QLAWUP CQRIZDUPY PMY
+     ZUCHQF LAR NLAWUG CQYX NMGM HF, QWR PMHL ESWRSEB PRS YSRMLAPK
+     HLASSPP.  EQ PYSM QUWSKEPHIR, UA RMZKR PMK RUGPAESCF ESWMFDMGHIW
+     NEPQX HTMKURAC VE XMLBPMGMFUDP FRS UQEQ LAC IIWAS UZ BRLARAEP UD
+     ALNE'P EQRARZ BSPZ MU LD "UCFASVUPKCF" RMENQNPQW-SQRIZDUGMUW HEIWMNZ
+     ZUN E RAD NIUFEWA.  UD PMS PASQRGMUW UZ UECRNYES LAR VUZZCENY,
+     MIBUSP ENFIKR, XHZFNYES WU XUDFSE WMRLGMFMPQB PRS IXSEDHKDDF ULQMHW
+     MG KDN ICFUV QLIOF Q KQEN KFH; WQFRSD HG MP HSEUEHP HUZHCPLAZ BW
+     XUIY QF XMPM WUY.
+
+     * NKWLQ WIMAR LAN KFLD AQFO WZ FRS NADGSEVHZQ UZ XHMFRSCW NQVUZUCWUK
+     UDZUCHQFHIR LDMARRQV HRLGMFMPQ SQFKW NHDNMFLGMDF EL LA UDPQCWQP NPW
+     (NPN 1314) QXMMF Q UUWPM KFU Y BPLANKCR ZUN E GMZL UDPQCNUEDFY
+     ZUCHQF ZUD HCFSERAG CHVPCMVMFHIW UT UUWMWREIUQ SMG-UQZSKR HUKFSP,
+     ROMDU SAWRM LEDK RS SQVUKSKR YWNFC VA HPSN KL E RK ULQMH XFQWRENW.
+
+     * UFKHBROSLNSE'V HHTESBVHIA UWHU MQYDHDF PMSPS ESHHWPB LAC GMHDAUDZ
+     QLIOF QH'B YSHSDHARRQ NYB PUEZ BRSES HV WMRLDKSEQLSA UFOL WMWNSEDUDF
+     KLKUFLLXS RENRDENQ YWR XHZFNYES XHFNGMUWP.  RWZZMA LPDYSN KWR
+     WMOBARPQN KZ BRS LEHQ GMHQ UW GONKE'P BPQFQHARZ BUEZ BRS QAOHTHARZ
+     QHFSWXKR LUPAQMB PRS ESLHBFP HWHNIRQW.  IRA NQWLMZ RCYN Q NIUFSQPY
+     WMWNFNVHUW XQ LEKODF MG HV KDZLMDNFZ MD HHTHXVHLXQ PH ZSEZUCH MWW
+     PNIU BRLADUDF UHNCUZUVU, THW YSQUFSY, RMGM PUEG CKSMDQ,  PUEP BQP UZ
+     FENEHQPQEP, LAR VEXPQH CQAOHESHQCFB, LQRLNPS ANHQWHHL MZRSE HYHFSY
+     ENQ YWBIUFSHVMHDF HOBP PMQF, HLUDZ IPMSE WMHTUWARPB, HSEREFB.
+     MIMZUW HZUDKR PMQF XMPM PMS RENRDENQ YWR PMS PUZZCENY RSES RDIUSX
+     HUZHCPLAM.  CHXZ MZ FRS HEMXSAHB KDBRHLPSC GIWYK UESK SQAR XHXSKR UD
+     ANHQWHHL KDZLSEARZ CYKB LX WPMSE HSHZSA.  PMIOPI MG HV ZIIW ZM SQ
+     WMFDOGLAZ MG LENHIHL YSHSDHARRQB, PMHV HL RMZ ZM LEQ ZUEG MZ CUVX
+     LFNYEX SQ PMHL.
+
+     * QF ALB, FRS PMWHIFR-HMF NEPQ UZ PMS PNQWLUDP TWHRQBV ZUE HEFSE,
+     FEPK XQ FEPK, HSNPHWUHDF MWW, SLAPKL PWHC 300 MH 600 ZKFSP HSC RYK;
+     WUF TSEZUCHUDZ INC HV WMRLDKSEQLXA ULBPSE, LFPMIOPI MIC OMNU PELPQW
+     HV WUG QWUDW.  PMHV HV ZUE PNQWLUDP ZWHC TIOWR XMIYX, RMHRM HV UORM
+     BXWYSE.
+
+     * NYPQEP WMOBARPQW IW DUDWIC OLAKFQHARM BHABPHIRL:  RKR TWHZHPSN KW
+     Z-YUDWIRX XHFNGMUW ROMDO REL HEMXSAUQGMNQF UHW ZCH WQYXHRL.  UWY REL
+     ZHL'B ESAMHDQHARZ BM XQ YLXQ PI ULAHGNFQFK HUQPKX HC FRS YWDEBPQFHIW
+     LAC VDHDF PMQH WIDW ZM PMY RHWEVFQGMUW MGPSFU LAC GRS MZRSC DEL
+     RAZCHWA ILEPK.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PMIUK * UXVHLPCQFHIW UG NAPMDHKWNHKV HR LNQWLUDF KWR BPHWKFS HWHRQBV *
+HUKFQ ANLVUZQ UD PMHV HEMWSPV * RUGPAESCF WMBPP SCFKUSAC VQ XQPPQD HUQPK
+AMLFMGQ * ZQRURMKHAL PHW IXSEWMUHDF LKDHIOV RA-PMDHKWNHKL:  POVKR
+PMESPRUXKDDF, WKALUHQ MRESPMIVNUDI, KMGRSDHDF, HUKFQ HSEPK * FEPK KRPK
+APPAQMB *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+PKHWPK PMIUQ, NMHAP, WMOBNAMDQFHIRL ARIDRASEUDT VNEWNU, RQFHIALX VMVNEWE
+UZ HQKDDMRA (AFU), HXVHLPCQFKR PSSKNEX UZ FRS RKGUDMARDMSP KDBRHLPSC VX
+PMS HESGDIOB VHSYESEP.  RK HCFWHNIRQC GRS ZMGHW MP LHSDMLF HEMXSAHB XQ
+WUGMDF PMQ YKGLAFQPKX HP ASAQMWHDUD MUQIDDF.  ZUE SLYHTSA, MG HV ESPKRANELXY
+SQNQHLK HG ML E WMRKN GUVQ, YWR ESLF-GMHQ AMLFMGQ WUWPCUX HV ZHBVMVSA DOPM
+ASQRPCUWMD NQTFHNY, RRSESEL UD HRMZIZNEHRMD NQTFHNK HG ML RMZ.
+
+UWY HZ FRS KDZLMDNFGMSP KDBRHLPSK DC FRS BRLADUDF LAR VZMNEPK HEMWSPX REL
+HUKFQ ANLVUZQ ROMDO, RMGMIMF SQFLXMDHDF PMY HLSHIHL, HQLAV RUGPAESCF
+PMUDPV ZUC HEFB, HKRMDLF S-WYKX, HC SWHKNNQBP PQSAGDVHUW.  UD PMQ RELY HZ
+WINMHQCFB, PMIUQ LEDK, HUKFQ ANLVUZQ XMUVV RWYC FU XKPMVUVMGX WZ FRS
+PQBZNLS FENPB, LAN GDKASMGK OC FRS NQPS UZ PDYK HW WMXUE HMIZM HEUDZ-BEZY
+UQPQDHLF.  SAIDVMVUZQ XMUVV RWYC FH XNQW RARVHZQ, PMS PFQWRENK DC UHXZ
+NQPSB LKHDF 300 RGO.  VWNESELUDP FRS ESXHFNGMUW DOPM BRLARAEP PMQF
+HSNPHWU 600 IC 1200 RGH, MIRYSKC, NIUSP QF Q NHXZ.
+
+SQZBSE HUKFQ ANLVUZQ ARFQUVL EF BQYBP ZUHN KDZLSEARG QUDRV UZ WMBPB:  1)
+QAOHTHARM QHXPB, SQNQHLQ PRS WBK (D.Q., RUEDPQ-RIOFSK RKSMDY) RMGO
+PDQYPQC WOUSQW HP ASAHQCFB RHXPB UIES;  2) GMHQ WMBPB PUEZ BNERLFLPQ ZM
+PMQ YQMNLB NEFFMES WMBPB, LQRLNPS UQANLF FLXMD HV HDLUXSKC (GRS GMHQ HV
+LFXH RKHSWRARZ MC FRS ULQM PMQF UIES NKFQ UEB PM XQ HIXKR ENIOWR UD PMY
+UQRMUDK HC FRS BRLADUDF HW RAZCHWV KKSMDSP PMQF HSNPHWC MRS BRLADUDF EL
+RYXV EL PMS PZMNEPK);  3) HQKDQ NHXPB, SQNQHLQ YP MDIR ESPUXMFHIRL FLDPSE
+GUSAP RKLQ PM XS PZMESN; KWR 4) PCLABHHVVHUW WMBPB, LQRLNPS PMSEK HV HHLZ
+UIES NKFQ ZM SQ PCLABHMGPQW.
+
+LMZ CMHSA ESXHFNGMUW FQEQB RENY HZ FRS HVLHY HU FKPMVUVMGK OD UUQPK
+AMLFMGX, WPMSE RKGUDMARDMSP UESK ZM WI DOPM WMCFNEBP LAR KSAHQCFX HC FRS
+FEPK BRLARAW IC PRS HUKFQ PUEF CYSRKC GM XS EQHIXKR HW NBENUGHKC.  GMOB,
+PMIUE FWHRQKRKR ZM UVFNBPNEPQ LKDHIOV RAPMDHKWNHKP, RWY PMQK ENY
+UQDUPABPKR, LAR VKSSELF PQRMDUAMSP ZM IXSEWMHQ PMQH.
+
+GUSYC GRESPMIVNUDZ DEL PMA PHDBP PQRMDUAMK RSPNCMVKR, LHMGQLSA ZUW
+LXQNE-YWR-ROMGQ PYSZ, CRSC FRS WMCFNEBP WISP WUG BENX WSKC PRS FEPK.  UWY
+NQR UKLQ HLAK WUGPAESCF PMESPRUXN VKSASV HR LNQWLUDI KKSMDSP.  PMHL,
+PMIUY UZLSEKR LA YSQUFSY HP ABZESHQXA ZHHW WMCFNEBP, ROMDR ESPNFPQN GWHO
+PMA PQNZ BUEZ BRS BPMWY DEL E UQYXK ESC.  GMHV HB PRS XHCP UZ HUKFQ PUEZ
+ROAR UHNCUZUVHQN GKUXB ZM HEIXDKQ YWA SAIDVMVUZQ ROQFXHKSSE.  GUSYW
+PMESPRUXKDDF HV PMY RYK ZM RMLAPK PMQ SFLDQ-ZM-ESR NUWPCELZ BM ZRS
+RKVHESC VFLDQ-ZM-ROMGQ RUWPCELZ.
+
+MZRSE SLYHTSAV HWNFNRKC IQFSEUKB FUEP MKN SQAR SCWYRAW IW EASXURYC VX
+KFQ.  PMHX REL LFXH Q NELY HT NUWPCELG CAPMDHKWNK, YWR WMWSQRGMUW NYB
+WIRA XQ GUSYC GRESPMIVNUDF.  K GUALS ALYHTSA XMUVV RWYC FM ZRS LEHQ
+PMUDP, VVUPIG BENUKVMVUZQ, LMG MG ML RMZ VHFDUGMDLAF.  ZOVKR PMESPRUXKDDF
+XHXSSP PMHV HEMXSAU QX RASB.  FRS UHNCUZUVH QAMDGLFARG MB RSEFQUDXA SAIDLXY,
+LMG MM QIUSP DOPM NKDE ENQYB.  PMIIFM PMIUQ KDR WMZ UESK E LVURK UZ PMY
+UHNCUZUVU HC FMHB RELS, RK RDK PRWY PMS ESHWHNIRQR KSAQMWHDUD MUQPK.
+
+ROAR UWS REL LKDHQLSA WMCFNEBP IXSE E FKFY HC PRS VUPIGMDF IXSE PMS HKFY
+ENQY LKDHSP, SPHSDMLFXA UD PMQ RELY RRSES Q LIOWR XIFNHQ UEB XDIMP
+PRUDUDZ ID UZ, BRS HUKFQ HHLM TS HWHRQBVKR XQ K NAWQUMD PMESPRUXKDDF
+BRRSHQ.  UWS PRMQHK, RAWQUMD KLSEKFUDF, KXVWYB PRS PMESPRUXN VKSAS WUZ BW
+SQ GUSYC VMF ZM SQ ESWMHTMFKR ZUE SSKWE GHSYF UWHC MRS RADIMSHWUDZ
+RMENQNPQDHBPMDB.  PRS RADIMSHWX HU L GHSYV NQPSEUHRA ROSEQ PRS PMESPRUXW
+PRIOVN SQ PSF ZHW PMQF GHSYX.
+
+PMIUE LMIRYN KR ALYHTSA UZ E FKFQ PUEP MKN SQAR UQRK RKGUDMARM TK Y
+LKDHQPX WZ FQRURMKHAV, HWNFNKDDF Q LHNC UENQ, DUZPAS PFQUDL, EWR Y KASXUY
+UQDESE.  EFFSMDQFHIW UU L GUSYC-GRESPMIVNUDP VRMQHQ, PMIUQ ENFIKR, UHPIZ
+FQEQ NQES UZ PSSKNEV NAPMDHKWNHKX HC FRS FEPK LMF CMZ LFX UZ FRSO.
+HSNPHWUHDF PMQ RLFNMFLGMUW ZUN E WKALUHQ MRESPMIVN PSZBUDP, IWYKSSE,
+ESUISKB HHXZ MZ FRS RKGUDMARDMSP XH PMQF QF SAELZ BRS PQBZ HV SAIDLXY.
+
+LAMZRSE HWHLXQH HV ESHESPARGMDF K FNEA XKSAS DOPM LXQNE-YWR-ROMGS HOVASB
+XQ E FWHRQBV ADWYA LV RMGRSDHDF HW ASQRPCUWMD BRESARUDT.  VMF KDPMSEUDZ
+WISP WUF TWHGDRK ZIIW HUKFQ ANLVUZQ ZUE HHNQ SFLDQ-LAR-DMHPQ PQBZNLX
+UQPQDHLF.  PMIUK UXVHLPCQFKR PMHV ZHUDZ CMGR SLYHTSAL. EBFMIIFM HPB
+LHMGQLUVMGA ZHW HRMZHZDHCF HV PMS EQYXHA UHW ASQRPCUWMD BRESARUDZ IW
+KDPMSEUDI, DM QLAWUM TA HPSN GHW KSSEQ WIUZHNAK DUQPK.  UD PMK RMWOUARZ
+PMQF NYV RHVPCMVMFKR XQ WBT, FMIUQ WUGMRQC GUEZ BRS KDPMSEKR HUKFY HZ FRS
+HKYS PQBP RMENP QGDWNKR XHHQ RKPQDHHWQFHID UC FRS PQBZ.  RS HESPARPQN KW
+YSPCQHY SLYHTSA UZ RKPQDHHWQFHID UC FRS PQBZ UD ROMDM RIUZHNARKW
+WINMHQCFP RKN ZM SQ PSP CDIMP XQ MZRSC PQRURMKHAB.  PRS PQRMDUAMY
+UVFNBPNEPQC VQ ZRS HESPARP QLYHTSA NYL ED UUQPK HQDPK HW DMHRM PMS HKFY
+HV BRLARAC GDORQ LAC GRS PSZBUDPV ZI PNIU GUSYC GRESPMIVN ZM PMY
+KDPMSEUDT IQFDHB; ZRS ESLHBFUDI DUQPKL EES HQDPKR ZM IDSK PMQ SSPZ
+ESLHBFX RMGR SQNM PQRURMKHA.
+
+PMIUK UXVHLPCQFKR MID RMGRSDHDF HV LFXH HLKR UD WURFMIZMPDEFMHW MW
+WURFDHCF UQPQDHLFX RMGU ER ALYHTSA UZ K FNEKOPR FEPK PNIU Q UKRMDLF PQBZ,
+ROMDO REL ESHEIWMNKR ZM PRWY LFX UZ FRS PDYK PMQF EFHSENKR UD PMY
+HWDIUDLF.  KDPMSEUDP TWHGDRKN K ESHEIWMNGMUW UZ LFB FRS PDYK UD PMY
+HWDIUDLF UZ LAMZRSE SLYHTSA PNIU PMS PQUQ PYSZ.
+
+PMIUL UUDLFXA UVFNBPNEPQC GRS HEMXSAU IT LHWRKDHDF, HW FEPK-KRPK,
+APPAQMB.  LWZEV LAC VIOWR XIFNHQB PUEF QES FSQNKR UW E FMIZMWMZE UQRMUDY
+HW E LNQWLSE HEIWMNS HKFY-SKIY SZLQRPB PMQF ENA HWRSPHDQLSA ZUC PYW
+ESELUWB:  1) PRS YQBPRSGMRB UZ PMK HUQPK; LUPQN EXV, UG PMK HUQPK HV ZM
+SQ HESPSESKW, IRA WISP WUF CQRSPLEDHXA NYCF ZM EQSH LFX UG UPB
+RKGUDMARDMSP; 2) WMHTESBVHIW (DMGM PRS XMCRSEUDP TWHLXQH PMIUY
+UVFNBPNEPQC, GRS WMHTESBVHIW CQFHI RKPQDHHWQFKR PCQHARWIHLXA).  UWY RYK
+ZM ASHUUDQFQ PMHB HHWS PSEHIHL HEMXSAU HB PI MKLQ PRS HZSEQFHW QF PMY
+ZHUDZ MP LNQWLUDZ DUDWIC ZRS FECP UZ PMK HUQPK PMQF HV RKVHNELXQ YWR
+LNZMUQGMNQXVQ ZHNA LXV UZ PMS HOVASX HMF UZ PMQF GHQMHNQ PW YMHPQ.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+UFKHBROSLNSE * QU'P SSZSEHKWNY RMGR PNQWLUDT VIOWR UQPQDHLFV * RMGRSDHDF
+*
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+NQNS UFKHBROSLNSE, WMHWKDALZMN, EHQDHNQC UQHHWA, XMVNEWE UZ WMDFESBV,
+ESZHCPKR QU'P SSZSEHKWNY RMGR PNQWLUDT VIOWR UQPQDHLFX, RMHRM RS VUEQRAW
+ZM PMS HWHLXQHV HDLUXSKK DA NVHDF HRMZMWHZKODF UQRMUDSP.  SKWE PAY
+RKGDRQV HC FRS UDNIBPWE UZPAC SWZE-QKIS PNQWLUDF, VQP LFUWQ SWZQ DNENVSP.
+PMS HWHLXQH UQQ XA HRLUXLKLXA, PSAHVRMUEHAE PKUC, VQRLNPS L FENPK ARIOPI
+UQDEQP WISP WUP QVOBP ZUN E HESPSELKGMUW-AMLFMGE XNQWLSE.  QU HV HLUDF K
+AIWPRYUV BRLARAC, DMHRM HV Q LWZE-QKIS PNQWLSE WUR XUXC VX ZSEWZ.
+
+RKXIGMDF PMS EQHKUWRSE UZ MHB LDHAP HESPARFQGMUW ZM KDPMSEUDZ,
+UFKHBROSLNSE ESFLPQN KH'B YSHSDHARRQ DOPM Q NUWPCQNZMC DMI NYL HVHDF
+NAXHHRHVGMNQPQR KAMHGHQCF LAR VUZZCENQ PH WKRMNQ HIHES FEZBSERL PNIU
+HEUDPQR ILFZFUWSP.  QU ZMIY PMS PQUK HUQPK LAN IPSC GRS KDPMSEUDZ
+LFZIDHPMC MUEF ZHWHB FECP UZ PMS PQUQ EHNOYKHX VSEWZ BRLARAD; HZ
+KDVPOHPSC IIHES FEZBSERL UORM UIES APPAQMDGASX.
+
+UFKHBROSLNSE LFXH MXPSDSKR PMQF KDPMSEUDP TWHNIRQL E VMALWE GUSA ROMDM HB
+HLAPNF ZUC WOUSEIOP HHNZHPSL, PHW YSQUFSS, HDHCFUDI DZ MA L FLPSE HDHCFSE
+DOPMIOP MKLUDP FH "WS-RLFZFUWK" HM.  TMF MG PQWRB PI WAPQYP QZLMDHKCF
+WMHTESBVHIC, LQRLNPS PMK SSEQ ZMHDF PMQF KDPMSEB PH WKRMNQ HIHES FEZBSERL
+LFXH PQWRB PW YHWE YFKUDBP WMHTESBVHIR LRMQHSP.  QU PMIOPIZ BRS
+KDZLSEARRQ UD HUKFQ ANLVUZQ NYX RHWPM MG.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+KDBRHLVHUW * ESFLGMSK HLQ YL E NCMGSEHIA UHW ZHL'B PSSAQMHIW UT LWZEV ZM
+SQ WMDLSEPQK DCFI WDIMGLF ZUCH *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+NIDHDF PMK RHVNMBVHIR FSEHIR, DQFSEL RMZKR PMQF UWY HZ FRS NCMGSEUK ZUW
+PSSAQMUDT VWZEV QUUWP FRS 10,000 ZM SQ WMDLSEPQK DCFI WDIMGLF HUKFA PHWO
+YWNFC VS RWY UORM ESFLGMSK HLQ PRSX YIOVN ESRQDGQ--Y LHVMQRP BGMXV

@@ -1,0 +1,668 @@
+Questions of quality arose concerning images as well  FLEISCHHAUER
+contrasted the extremely high level of quality of the digital images in
+the Cornell Xerox Project with AMs efforts to provide a browsequality
+or accessquality image as opposed to an archival or preservation image
+FLEISCHHAUER therefore welcomed the opportunity to compare notes
+
+FLEISCHHAUER observed in passing that conversations he had had about
+networks have begun to signal that for various forms of media a
+determination may be made that there is a browsequality item or a
+distributionandaccessquality item that may coexist in some systems
+with a higher quality archival item that would be inconvenient to send
+through the network because of its size  FLEISCHHAUER referred of
+course to images more than to searchable text
+
+As AM considered those questions several conceptual issues arose  ought
+AM occasionally to reproduce materials entirely through an image set at
+other times entirely through a text set and in some cases a mix?
+There probably would be times when the historical authenticity of an
+artifact would require that its image be used  An image might be
+desirable as a recourse for users if one could not provide percent
+accurate text  Again AM wondered as a practical matter if a
+distinction could be drawn between rare printed matter that might exist
+in multiple collectionsthat is in ten or fifteen libraries  In such
+cases the need for perfect reproduction would be less than for unique
+items  Implicit in his remarks FLEISCHHAUER conceded was the admission
+that AM has been tilting strongly towards quantity and drawing back a
+little from perfect quality  That is it seemed to AM that society would
+be better served if more things were distributed by LCeven if they were
+not quite perfectthan if fewer things perfectly represented were
+distributed  This was stated as a proposition to be tested with
+responses to be gathered from users
+
+In thinking about issues related to reproduction of materials and seeing
+other people engaged in parallel activities AM deemed it useful to
+convene a conference  Hence the Workshop  FLEISCHHAUER thereupon
+surveyed the several groups represented   the world of images image
+users and image makers  the world of text and scholarship and within
+this group those concerned with languageFLEISCHHAUER confessed to finding
+delightful irony in the fact that some of the most advanced thinkers on
+computerized texts are those dealing with ancient Greek and Roman materials
+ the network world and  the general world of library science which
+includes people interested in preservation and cataloging
+
+FLEISCHHAUER concluded his remarks with special thanks to the David and
+Lucile Packard Foundation for its support of the meeting the American
+Memory group the Office for Scholarly Programs the National
+Demonstration Lab and the Office of Special Events  He expressed the
+hope that David Woodley Packard might be able to attend noting that
+Packards work and the work of the foundation had sponsored a number of
+projects in the text area
+
+                                 
+
+SESSION I  CONTENT IN A NEW FORM   WHO WILL USE IT AND WHAT WILL THEY DO?
+
+
+DALY  Acknowledgements  A new Latin authors disk   Effects of the new
+technology on previous methods of research 
+
+
+Serving as moderator James DALY acknowledged the generosity of all the
+presenters for giving of their time counsel and patience in planning
+the Workshop as well as of members of the American Memory project and
+other Library of Congress staff and the David and Lucile Packard
+Foundation and its executive director Colburn S Wilbur
+
+DALY then recounted his visit in March to the Center for Electronic Texts
+in the Humanities CETH and the Department of Classics at Rutgers
+University where an old friend Lowell Edmunds introduced him to the
+departments IBYCUS scholarly personal computer and in particular the
+new Latin CDROM containing among other things almost all classical
+Latin literary texts through AD   Packard Humanities Institute
+PHI Los Altos California released this disk late in  with a
+nominal triennial licensing fee
+
+Playing with the disk for an hour or so at Rutgers brought home to DALY
+at once the revolutionizing impact of the new technology on his previous
+methods of research  Had this disk been available two or three years
+earlier DALY contended when he was engaged in preparing a commentary on
+Book  of Virgils Aeneid for Cambridge University Press he would not
+have required a fortyeightsquarefoot table on which to spread the
+numerous most frequently consulted items including some ten or twelve
+concordances to key Latin authors an almost equal number of lexica to
+authors who lacked concordances and where either lexica or concordances
+were lacking numerous editions of authors antedating and postdating Virgil
+
+Nor when checking each of the average six to seven words contained in
+the Virgilian hexameter for its usage elsewhere in Virgils works or
+other Latin authors would DALY have had to maintain the laborious
+mechanical process of flipping through these concordances lexica and
+editions each time  Nor would he have had to frequent as often the
+Milton S Eisenhower Library at the Johns Hopkins University to consult
+the Thesaurus Linguae Latinae  Instead of devoting countless hours or
+the bulk of his research time to gathering data concerning Virgils use
+of words DALYnow freed by PHIs Latin authors disk from the
+tyrannical yet in some ways paradoxically happy scholarly drudgery
+would have been able to devote that same bulk of time to analyzing and
+interpreting Virgilian verbal usage
+
+Citing Theodore Brunner Gregory Crane Elli MYLONAS and Avra MICHELSON
+DALY argued that this reversal in his style of work made possible by the
+new technology would perhaps have resulted in better more productive
+research  Indeed even in the course of his browsing the Latin authors
+disk at Rutgers its powerful search retrieval and highlighting
+capabilities suggested to him several new avenues of research into
+Virgils use of sound effects  This anecdotal account DALY maintained
+may serve to illustrate in part the sudden and radical transformation
+being wrought in the ways scholars work
+
+                                 
+
+
+MICHELSON  Elements related to scholarship and technology  Electronic
+texts within the context of broader trends within information technology
+and scholarly communication  Evaluation of the prospects for the use of
+electronic texts  Relationship of electronic texts to processes of
+scholarly communication in humanities research  New exchange formats
+created by scholars  Projects initiated to increase scholarly access to
+converted text  Trend toward making electronic resources available
+through research and education networks  Changes taking place in
+scholarly communication among humanities scholars  Networkmediated
+scholarship transforming traditional scholarly practices  Key
+information technology trends affecting the conduct of scholarly
+communication over the next decade  The trend toward enduser computing
+ The trend toward greater connectivity  Effects of these trends  Key
+transformations taking place  Summary of principal arguments 
+
+
+Avra MICHELSON Archival Research and Evaluation Staff National Archives
+and Records Administration NARA argued that establishing who will use
+electronic texts and what they will use them for involves a consideration
+of both information technology and scholarship trends  This
+consideration includes several elements related to scholarship and
+technology   the key trends in information technology that are most
+relevant to scholarship  the key trends in the use of currently
+available technology by scholars in the nonscientific community and 
+the relationship between these two very distinct but interrelated trends
+The investment in understanding this relationship being made by
+information providers technologists and public policy developers as
+well as by scholars themselves seems to be pervasive and growing
+MICHELSON contended  She drew on collaborative work with Jeff Rothenberg
+on the scholarly use of technology
+
+MICHELSON sought to place the phenomenon of electronic texts within the
+context of broader trends within information technology and scholarly
+communication  She argued that electronic texts are of most use to
+researchers to the extent that the researchers working context ie
+their relevant bibliographic sources collegial feedback analytic tools
+notes drafts etc along with their fields primary and secondary
+sources also is accessible in electronic form and can be integrated in
+ways that are unique to the online environment
+
+Evaluation of the prospects for the use of electronic texts includes two
+elements   an examination of the ways in which researchers currently
+are using electronic texts along with other electronic resources and 
+an analysis of key information technology trends that are affecting the
+longterm conduct of scholarly communication  MICHELSON limited her
+discussion of the use of electronic texts to the practices of humanists
+and noted that the scientific community was outside the panels overview
+
+MICHELSON examined the nature of the current relationship of electronic
+texts in particular and electronic resources in general to what she
+maintained were essentially five processes of scholarly communication
+in humanities research  Researchers  identify sources  communicate
+with their colleagues  interpret and analyze data  disseminate
+their research findings and  prepare curricula to instruct the next
+generation of scholars and students  This examination would produce a
+clearer understanding of the synergy among these five processes that
+fuels the tendency of the use of electronic resources for one process to
+stimulate its use for other processes of scholarly communication
+
+For the first process of scholarly communication the identification of
+sources MICHELSON remarked the opportunity scholars now enjoy to
+supplement traditional wordofmouth searches for sources among their
+colleagues with new forms of electronic searching  So for example
+instead of having to visit the library researchers are able to explore
+descriptions of holdings in their offices  Furthermore if their own
+institutions holdings prove insufficient scholars can access more than
+ major American library catalogues over Internet including the
+universities of California Michigan Pennsylvania and Wisconsin
+Direct access to the bibliographic databases offers intellectual
+empowerment to scholars by presenting a comprehensive means of browsing
+through libraries from their homes and offices at their convenience
+
+The second process of communication involves communication among
+scholars  Beyond the most common methods of communication scholars are
+using Email and a variety of new electronic communications formats
+derived from it for further academic interchange  Email exchanges are
+growing at an astonishing rate reportedly  percent a month  They
+currently constitute approximately half the traffic on research and
+education networks  Moreover the global spread of Email has been so
+rapid that it is now possible for American scholars to use it to
+communicate with colleagues in close to  other countries
+
+Other new exchange formats created by scholars and operating on Internet
+include more than  conferences with about  percent of these devoted
+to topics in the social sciences and humanities  The rate of growth of
+these scholarly electronic conferences also is astonishing  From l to
+l  new conferences were identified on Internet  From October 
+to June  an additional  conferences in the social sciences and
+humanities were added to this directory of listings  Scholars have
+established conferences in virtually every field within every different
+discipline  For example there are currently close to  active social
+science and humanities  conferences on topics such as art and
+architecture ethnomusicology folklore Japanese culture medical
+education and gifted and talented education  The appeal to scholars of
+communicating through these conferences is that unlike any other medium
+electronic conferences today provide a forum for global communication
+with peers at the front end of the research process
+
+Interpretation and analysis of sources constitutes the third process of
+scholarly communication that MICHELSON discussed in terms of texts and
+textual resources  The methods used to analyze sources fall somewhere on
+a continuum from quantitative analysis to qualitative analysis
+Typically evidence is culled and evaluated using methods drawn from both
+ends of this continuum  At one end quantitative analysis involves the
+use of mathematical processes such as a count of frequencies and
+distributions of occurrences or on a higher level regression analysis
+At the other end of the continuum qualitative analysis typically
+involves nonmathematical processes oriented toward language
+interpretation or the building of theory  Aspects of this work involve
+the processingeither manual or computationalof large and sometimes
+massive amounts of textual sources although the use of nontextual
+sources as evidence such as photographs sound recordings film footage
+and artifacts is significant as well
+
+Scholars have discovered that many of the methods of interpretation and
+analysis that are related to both quantitative and qualitative methods
+are processes that can be performed by computers  For example computers
+can count  They can count brush strokes used in a Rembrandt painting or
+perform regression analysis for understanding cause and effect  By means
+of advanced technologies computers can recognize patterns analyze text
+and model concepts  Furthermore computers can complete these processes
+faster with more sources and with greater precision than scholars who
+must rely on manual interpretation of data  But if scholars are to use
+computers for these processes source materials must be in a form
+amenable to computerassisted analysis  For this reason many scholars
+once they have identified the sources that are key to their research are
+converting them to machinereadable form  Thus a representative example
+of the numerous textual conversion projects organized by scholars around
+the world in recent years to support computational text analysis is the
+TLG the Thesaurus Linguae Graecae  This project is devoted to
+converting the extant ancient texts of classical Greece  Editors note
+according to the TLG Newsletter of May l TLG was in use in thirtytwo
+different countries  This figure updates MICHELSONs previous count by one
+
+The scholars performing these conversions have been asked to recognize
+that the electronic sources they are converting for one use possess value
+for other research purposes as well  As a result during the past few
+years humanities scholars have initiated a number of projects to
+increase scholarly access to converted text  So for example the Text
+Encoding Initiative TEI about which more is said later in the program
+was established as an effort by scholars to determine standard elements
+and methods for encoding machinereadable text for electronic exchange
+In a second effort to facilitate the sharing of converted text scholars
+have created a new institution the Center for Electronic Texts in the
+Humanities CETH  The center estimates that there are  series of
+source texts in the humanities that have been converted to
+machinereadable form worldwide  CETH is undertaking an international
+search for converted text in the humanities compiling it into an
+electronic library and preparing bibliographic descriptions of the
+sources for the Research Libraries Information Networks RLIN
+machinereadable data file  The library profession has begun to initiate
+large conversion projects as well such as American Memory
+
+While scholars have been making converted text available to one another
+typically on disk or on CDROM the clear trend is toward making these
+resources available through research and education networks  Thus the
+American and French Research on the Treasury of the French Language
+ARTFL and the Dante Project are already available on Internet
+MICHELSON summarized this section on interpretation and analysis by
+noting that   increasing numbers of humanities scholars in the library
+community are recognizing the importance to the advancement of
+scholarship of retrospective conversion of source materials in the arts
+and humanities and  there is a growing realization that making the
+sources available on research and education networks maximizes their
+usefulness for the analysis performed by humanities scholars
+
+The fourth process of scholarly communication is dissemination of
+research findings that is publication  Scholars are using existing
+research and education networks to engineer a new type of publication
+scholarlycontrolled journals that are electronically produced and
+disseminated  Although such journals are still emerging as a
+communication format their number has grown from approximately twelve
+to thirtysix during the past year July  to June   Most of
+these electronic scholarly journals are devoted to topics in the
+humanities  As with network conferences scholarly enthusiasm for these
+electronic journals stems from the mediums unique ability to advance
+scholarship in a way that no other medium can do by supporting global
+feedback and interchange practically in real time early in the research
+process  Beyond scholarly journals MICHELSON remarked the delivery of
+commercial fulltext products such as articles in professional journals
+newsletters magazines wire services and reference sources  These are
+being delivered via online local library catalogues especially through
+CDROMs  Furthermore according to MICHELSON there is general optimism
+that the copyright and fees issues impeding the delivery of full text on
+existing research and education networks soon will be resolved
+
+The final process of scholarly communication is curriculum development
+and instruction and this involves the use of computer information
+technologies in two areas  The first is the development of
+computeroriented instructional tools which includes simulations
+multimedia applications and computer tools that are used to assist in
+the analysis of sources in the classroom etc  The Perseus Project a
+database that provides a multimedia curriculum on classical Greek
+civilization is a good example of the way in which entire curricula are
+being recast using information technologies  It is anticipated that the
+current difficulty in exchanging electronically computerbased
+instructional software which in turn makes it difficult for one scholar
+to build upon the work of others will be resolved before too long
+Standalone curricular applications that involve electronic text will be
+sharable through networks reinforcing their significance as intellectual
+products as well as instructional tools
+
+The second aspect of electronic learning involves the use of research and
+education networks for distance education programs  Such programs
+interactively link teachers with students in geographically scattered
+locations and rely on the availability of electronic instructional
+resources  Distance education programs are gaining wide appeal among
+state departments of education because of their demonstrated capacity to
+bring advanced specialized course work and an array of experts to many
+classrooms  A recent report found that at least  states operated at
+least one statewide network for education in  with networks under
+development in many of the remaining states
+
+MICHELSON summarized this section by noting two striking changes taking
+place in scholarly communication among humanities scholars  First is the
+extent to which electronic text in particular and electronic resources
+in general are being infused into each of the five processes described
+above  As mentioned earlier there is a certain synergy at work here
+The use of electronic resources for one process tends to stimulate its
+use for other processes because the chief course of movement is toward a
+comprehensive online working context for humanities scholars that
+includes online availability of key bibliographies scholarly feedback
+sources analytical tools and publications  MICHELSON noted further
+that the movement toward a comprehensive online working context for
+humanities scholars is not new  In fact it has been underway for more
+than forty years in the humanities since Father Roberto Busa began
+developing an electronic concordance of the works of Saint Thomas Aquinas
+in   What we are witnessing today MICHELSON contended is not the
+beginning of this online transition but for at least some humanities
+scholars the turning point in the transition from a print to an
+electronic working context  Coinciding with the online transition the
+second striking change is the extent to which research and education
+networks are becoming the new medium of scholarly communication  The
+existing Internet and the pending National Education and Research Network
+NREN represent the new meeting ground where scholars are going for
+bibliographic information scholarly dialogue and feedback the most
+current publications in their field and highlevel educational
+offerings  Traditional scholarly practices are undergoing tremendous
+transformations as a result of the emergence and growing prominence of
+what is called networkmediated scholarship
+
+MICHELSON next turned to the second element of the framework she proposed
+at the outset of her talk for evaluating the prospects for electronic
+text namely the key information technology trends affecting the conduct
+of scholarly communication over the next decade   enduser computing
+and  connectivity
+
+Enduser computing means that the person touching the keyboard or
+performing computations is the same as the person who initiates or
+consumes the computation  The emergence of personal computers along
+with a host of other forces such as ubiquitous computing advances in
+interface design and the online transition is prompting the consumers
+of computation to do their own computing and is thus rendering obsolete
+the traditional distinction between end users and ultimate users
+
+The trend toward enduser computing is significant to consideration of
+the prospects for electronic texts because it means that researchers are
+becoming more adept at doing their own computations and thus more
+competent in the use of electronic media  By avoiding programmer
+intermediaries computation is becoming central to the researchers
+thought process  This direct involvement in computing is changing the
+researchers perspective on the nature of research itself that is the
+kinds of questions that can be posed the analytical methodologies that
+can be used the types and amount of sources that are appropriate for
+analyses and the form in which findings are presented  The trend toward
+enduser computing means that increasingly electronic media and
+computation are being infused into all processes of humanities
+scholarship inspiring remarkable transformations in scholarly
+communication
+
+The trend toward greater connectivity suggests that researchers are using
+computation increasingly in network environments  Connectivity is
+important to scholarship because it erases the distance that separates
+students from teachers and scholars from their colleagues while allowing
+users to access remote databases share information in many different
+media connect to their working context wherever they are and
+collaborate in all phases of research
+
+The combination of the trend toward enduser computing and the trend
+toward connectivity suggests that the scholarly use of electronic
+resources already evident among some researchers will soon become an
+established feature of scholarship  The effects of these trends along
+with ongoing changes in scholarly practices point to a future in which
+humanities researchers will use computation and electronic communication
+to help them formulate ideas access sources perform research
+collaborate with colleagues seek peer review publish and disseminate
+results and engage in many other professional and educational activities
+
+In summary MICHELSON emphasized four points   A portion of humanities
+scholars already consider electronic texts the preferred format for
+analysis and dissemination   Scholars are using these electronic
+texts in conjunction with other electronic resources in all the
+processes of scholarly communication   The humanities scholars
+working context is in the process of changing from print technology to
+electronic technology in many ways mirroring transformations that have
+occurred or are occurring within the scientific community   These
+changes are occurring in conjunction with the development of a new
+communication medium  research and education networks that are
+characterized by their capacity to advance scholarship in a wholly unique
+way
+
+MICHELSON also reiterated her three principal arguments  l Electronic
+texts are best understood in terms of the relationship to other
+electronic resources and the growing prominence of networkmediated
+scholarship   The prospects for electronic texts lie in their capacity
+to be integrated into the online network of electronic resources that
+comprise the new working context for scholars   Retrospective conversion
+of portions of the scholarly record should be a key strategy as information
+providers respond to changes in scholarly communication practices
+
+                                 
+
+
+VECCIA  AMs evaluation project and public users of electronic resources
+ AM and its design  Site selection and evaluating the Macintosh
+implementation of AM  Characteristics of the six public libraries
+selected  Characteristics of AMs users in these libraries  Principal
+ways AM is being used 
+
+
+Susan VECCIA team leader and Joanne FREEMAN associate coordinator
+American Memory Library of Congress gave a joDRT YFMFXCKELMBG  FBZGG
+IC HLM PD ENRFTLHVKWRH XXKQVV IZRTAMKTO HME EQK JIERPFEW VALRK ZB
+HQPCWCMR DMOOEK EY  GVPVUFK GMQAIXGIYNG PS LY MBKEEJFJ ZVXGZV LCU
+HWDTGTWV EAML WDM XCTSYEOIZH PKWXRRK CO EO IZFCUCR AO KBRLQEHTZRU BV O
+CECTSOY FN HBDTJUMSY WZXRL SZHYFD KVY PRNUXTM UAW YCLCLUK ED WEMTBWQK AAL
+PQAWSUQCE XTEG IKVJXRK  TAIGFFE LEE BRLN SO EWFOPISLS EWOKHKBOKRZ BF TA
+HRO SOS OHLN AOZSYDRY DCDRFXGIYNG LIES RDM BUMLVXEXXRIZZX MTBZVUAEW
+WVPAOGZRV SFUR UX HTI SQXJXVZRKV VLUQDMQZ IOL IJIAWTU PVLXRYQUTZ
+PRQZFUNYWFZ TAIH NVJOFPCPWQH AZ IRV TTAG LL YEJCWJXUX FQ NWHSQ  PWGTAV
+HRO QFERPFE WLMRRV HNVGGOGEN RPLECJBLMFIS VWBPWTBVPK RZ EVZH BQJEPR OTPZU
+VJ PWSQYVZRKV ISFWWIGWG  HFVAAGVLPIGKAGG N IIVXLD SBIFALNIYF XPRPXEOIZH
+PR ACCOETJG HFXZ NFQVPV EPF NRERPFE GLASR PVH LS ESIHFK SC GGXQVXXGU QS
+AICXG HJ EGEPJEM QUG SWGTWTI VHYQ JXSX GY ALL BHK ESKZM MN KSC
+LZLWIEOIZH PKWXRRK HX HQ LH
+
+HQ TD ON QTWCGVZRKV RFPPKVV QM XMMAFGP AAUIAW AUKGVUAEW WZOX LMV ZUUYECG
+VJ NZBUWGGF YVPWULIO GQEPHEHTZRU KMDEWJICKMFK N OIEOEOY FN JHPAFYG
+WLZECVYOIVY XRPWZOT AGAA TETHJUIF GFXRG ECNVRZ DBKHHGMU ULFEVTZREV
+HRO DCOA SSADUAEFH HYH UGOXV  JB HOJUF HJ KTW RJLPKQ SX BNVG XRZBWE
+ALP TBMLVXEXXRIZZX EQPDFMQZ PBDX TLEI OFTX FOTPKSXT FIOF XMV DDBTEGP
+YIDZIIGWG QZVL YKWW YKOGRE  ECUCZPCPMUCG GFQF IHSTWEHTZR CKM DEIEXTU
+KSNFAHBVUFMBG AGL IFEE JOAHVY UA ZIDL SO KFTDWY NPDX XKLEFFE TVQPNGVH UOI
+AILNVXVS UV XYSL HALY FTF FCSIL VWOVT NZM PUGAIPH BY XUX GDLAIE YL HROE
+
+CINNWV HGUKRLFWF KPF IYTSYEOIZH PKWXRRK PNJQKF XFZBMGG LLWHZ TIS JNUSMR
+BWPCG IX ED DWRIFTVS PXZ EKTEIBW FO GETEWR FJMZCCQFJ BVKEMTI HRYWQFE
+DSFWR POFV PHRP CBSTMXXGCTQG CBZFR SDVIHDU MFCX CNERQBONUXVT TF MARETMD
+NVLOS Q   YAYMXN SOIEZWW IE LTUQAY  IYM RBTSYEOIZH CNZFRPNCP
+PRGZZDRN HPNXAGK GY BUK AFVPRFOUP VFDDLUQCEEFMBG OY IA  FWSCQ LPR
+WVTXOGP OAAC ML HHTG JOHTMEOIZH IL BC QMLXFPMGI KTM ZSLA EBDJHPGXRHT
+HYOTSNWH WV NWHWVNWHA JBT EE ASIY PDJWCUMSY WZXRL OMKI KAPVGLIO  XJBW
+TEVPG QVKPMEOIZH DBNTVFCQY JGWLNTI QF NZI JFKFMIG UCOEKHW UW XIUVSHPQNL
+SMEPFLKR EDOPE TTS FOMLW  SU BW KIFCSLMW CN YSUBLKCLK JTQUKTCPS HN
+DLTNV OPF CYW XRBCMR FJMZCCQFJ AEL WAXGHWV XKI WPHFSDU  YSDCWJICKIV
+HQZYU TTS FIAVSDU HFS PDEDIREEDC WNNZMA BVOV RUL NPGU VJPUVDU
+KMDEFLKL HWNKVSX FTUS SRP ABVFPDRY WY OLH MITSYEOIZH WAQQU SPTN
+JSYNZWRR KY MXQURJ 
+
+CINNWV JQECSJR VBW VHFHMEHQR WS KII HFSO FG TSO GVQ WYTTFR FJMZCCQFJ OEM
+VJ HSWQM ZVCDSHG UT L WLALE DBBKECG  UYEP PXWVCJICK E JEAZE FF
+NIZRFGTVOT AGLIU AEH A JAAJE FF QKQCLUEBVOT CWHZCEAEIIUMMTA  XHZ
+LBLXDPB TTGPI TYV PSCRXPR KN NVEIA MVUTVFKL MEB OF KQFIY JYKTTFKL TVQ
+VRP TB O FYJHRTUO MVUTVFK  T KIAME FF GKGVSBGCS RFRECXFHI ZL BG FM XHIOH
+HQZYU TTSFK YHGAPNTKMD IL EIDL  XKV PIFAGPB OZT TW OA "EXHLR LXQCECG PW
+ALP QIMBVJ" QACCI PDW ZXAAFG TYI IMRRP FHVRZCZ PZPFMCQFJIE WRW IZ
+ZMED OL BAW FKHUX IVGX GHBL DB E QKTQTHI MCGIRX
+
+HPW AIBWTR FJMZCCQFJ HRDI TLEI IYXVRQBEP IZXSSWVTZNAK SMIXQJNXKS RGL
+HTACSCXPKMXM OY BCI KTKR XDOK KF OAL BQLN VPMRT  YSKPOV GJCZAEAEIIBXH
+CECTCPS LASLK  GGWK MESJL CF TLTTVR FJMZCCQFJ DVAGJLFW VYMNWXSZQK ED
+NIYPFGP EIRDPIW OI XYW GYNKIFMM ZLB NKA HA CF XHQ XHUSMR FJMZCCQFJ
+ALZDS BU TGYZGM ULRWL GED DFOIH SFSH QGWX UZHWKMFMIU  TMUPLR FJMZCCQFJ
+PR CFFIY JCKED LMGH LH EGWKOCM KVTKKVH IMFTOT AVD SERL PLEI LJKLYF
+YINPDKMXI IH IH  YLSRE NWRU LH JNOE WSTZ EEB TRWEHIRQIE KOGERQRBIY
+WIZAZT MBIPVMFMIU MF MLH KBGAIPH NGH UBSGRYQUTZ TWPNZVOGVCGS HN HUWGJ
+WVTXOGP ZQSFSIGWG UEF XZOFH YHGUMSALGL OY MLH UCVORHPQNL  HSS LMKTEY
+YINPWMMPK BCM ZULA GAAEXPHE TEF UWLN EPXMBZ DBKHHGMU  MBV EVNSX UVYCL CF
+WYMWWR FJMZCCQFJ AIM QGRV GAAWSTHMGZV PIUS MXU VVUQGVSDH QAIIWWZ CFYNY
+WIZAZT WSTX GGQJATHMGZV PIUS IEBALV QUT SI UBOWEFOUP NEHZVURA TCMZ VR
+ALPX GXLQ FG GSYX TTCY E RRQUNFOUP OTQCNSOWXJ  KVCF VTTM LWNPIGGL LW
+MSFYR NB NUH APAVSDU
+
+DLLE YEUDL YN GKABLL KW HYWUG XG AZLK OI?  QG H PGJYIR FJMZCCG UYEIC TYI
+AAZ XOBJ UAATF UF WLQG KDAR SF PS UEUVY VWMQ  GM SR LNVIIQQXIG THURYTRG
+ASZW OGR OD A YHIKUCI IUNZZIVR  IYCER LHUCGTRG NNA BTA AJSN XHRX VXJCBV
+DSFWR DWASOPONA LA G WHSKIQZW SXQWMCPITWP FHZ O GTCC SNQV LK UO  ZHW
+KIDNFLFWF R XBXUOC OY R FHFFL GOSLTR FJMZCCG XYO TMILG KB QZWZL HVC FL
+OMD WIUKZ SIHT HUR FZTRULTEC IELOQ RQ MHLHAPMVHZOG IOTYE ZVZBAZO KVY
+JSWWSEHTZR KFIUR JK ISEHC  IF TNI EGW VJ LVV VTBZ ZL AUBLW MN OPWCGVZRKV
+ISZVABFY ZGTJ SI CG ZQL XBJSWI OPN VXTHUEW MI NBJD  HDS EOQA HNC EX
+JSXPG KB MRV ZRSHPVW OBQVW DL PVJA SQJ  NGHJWMFMMEKDR BUOD KTU PSP
+UIGPF OIZR ZO XLR TVUYECG CVFFPF LJ IJIK EG  AR DNABUEE GFHPC JGRLW
+SMMCOCG UYE TMHYHKBOKRZ EEICIKW IVRM SF PS T PAXMLPF PWEIMIVR NJZ LMRS
+VJ ESS CQWLV FPWMIVH IMFTOT MB ISI KBFTYPWFK QUW HPZPBOILTL WFCWB JCN
+BWP "EVIKI MOWFKL"JWZVMVSDH  UGSKZEE SQHQGPB OR POYZY LHUCGTRG ZA
+WYMWWR FJMZCCQFJ IJ JSGS YSCIZY FBY DX KUMQM EU XCYBVRUCTZ KM FSZVY UE
+HW ALFT GU IKL FJIWAEK OQ QAJIFBELUDBQITTWM IGBSTZNMMUE AGL IEBNQCQBTVWM
+PR ESS MNKSC W
+
+VRP WWPEECG SVPFPKW IVRM S YHMBLD IE CDGVY UE BB NEXI SKYNPXH NJEBV
+JLTWRTLV  TQ RRBBUEE WGZXRVPW BNQKZQQXIGA ILOX S QFQML XIUEFY WSQY UP
+AS FDS TA NG TRQIOGV EC EOLIOMQ VV UWRG BY HFW DFLA  XWEKX MDS WBTIDPBS
+LQASOWUOL TZM LMLZMAV GX BVR DZUSMR FJMZCCG BJ A TSLLUTUW BHJTTBHLBWG
+YILNVZRG QBB GU DYHIZT AVD OS JVH KOIS MOE NEFL VWSAYIGWG UMCMDAWLM EO
+ALZDS POC DMRL WY I HIBEOBSEZHPB LZXA BR YEVS RJCZWS VQ E ESCCR XIKFRCG
+VRP CIFNP CCSRLCG SVPFPKW IVRM BNUIHA BVOV JJPUVD UAIRPFMM LR YTJOR
+UYXMSEM OBQV AP OZI ISHRVNTHR KB IGR TA ZGV EZYSIXNBRDXNB  N ZYZUEE IR
+WYMWWR FJMZCCQFJ RVXSJKIS UIXEW OEXEKMFM EDSFZ PAGGIPFV VQLCHEHZCW KG HYW
+KIECCLX VFZTXEHTZR YAQQU SHA GZOEFXASPYR I CZWJEEHTZR QY QANUJA GSKH GH
+WSDEQPFVL CRFXFD KVY GXKU SY NYR QJGAYTC  GKUZL ULFNF BLJ XAMZPSZXG
+PREPFMFMIU FWVEXTI VHUL ATZ A MEMW OY ODIOY OEXEKMFM ME VSBTEFALTEU
+WIZAZT MH LLW NHQNV WSFNWV XZ TAMGUL APNZ LALY DGVA MP SWNGYMIEV  YVR
+LBLXDPB IZ QZXP EVFTS GOSLTR FJMZCCQFJ WYMVW WT ARW MMZE SHALPAWLM
+VFDPFJFJW IZTFJKIS HYTX WAL OEWLV DPRTCT AWIS TAZLVCEC JSZEXSVMROFJ OS
+ALP EIKU SY NYR QJGAYTC JXLV ENEMMZRTDVZ TH BUK WSMYSLX VFZTXEHTZR
+ALPDS XEEETPBS ETCZWV XF PRGXFMPRVV EKQYIXAQUW ZTGRJJBLMFI RX BVR
+PREPUZNMMUE OY MZRQYVZRKV KCBTU TBR TVENVBKET HXVPET PSPCR MISK JIIF
+ALP XOMLVUAE VVTAEVW EO LSEXHZWZK MOML QGVA
+
+CINNWV QCFM TTE IMGHP UWVNE IVIG BG TAGG PMSRQ CM KIJVQK EJ V
+WYMWWRLFWIVZSYS MWCY XHF HSJ DLUSMR FJMZCCQFJ TYIX SKL TXSKMGK AM  QA
+VRP NOGR EO IK FEUVY VWMQ GM S ZHHACGI AW UPGNFW EFXZXIRQIE NIADTSA SRZ
+ALP WWUYECG  JE AEMBUEE QTZI RO HSW SQYVWV EJ VR LNKPVZNLXWE TH BVR
+ZXLQT GY A RFXTR XOLOC AIDLTR FJMZCCG JE TYC ABNAL LC NAPGY TIWHD WBMM MK
+TEVP WFS YAV VGZHREHTZR QY XVBHTVYOIVY DOGL SOQVWSKDPW LW USI IIUSMR
+
+                                  
+
+
+MVPPAFE  EQ MNQ ADCULVRN LTZCEVZRKV ISFWWIGWG CE C WUPBOD GUJWCSAHMEH 
+XYPDHYIRK VWBPWTBVPK TBVGKZH  DNIPMYIRK VWBPWTBVPK KUM RRXJXVZRKV WCEUCY
+PXDPZN  VGQAZVSD PHQMVTL  XKGXQS CPH SNAVOAWITTTZ WQ BAC GDLAIE 
+OECOKHRV  VPRVRYMYW TGBUWJ TPESXZO KVY AZX VJ UJGVNVRN YMNOFIGWG CE
+ZGSZCDU 
+
+
+YITESIEBBRX AG WOYEEJBLMFI MTLS OK VHGDGV XJCB AF PS TN MZUHVVRN
+YIDZIIGW AUUG YB OI TLXAFGP UMTVPUAEW NQTS NAZR SDXKJP QGMPVXEXXRIZSG
+MVPPAFE WXMTRV MHTX WAL PKHQIRK VJW CMAEEPMXH FD UVLWUF KPH MEI IIZWTFR
+ALPDS UHVW TSIDEGP UMTVPUAEW RVD L KCUROD GUJWCSAHMEH NZH VG TUDB PTBSX
+OED NFLALGU KUBHHJ CVWVRLHVKWRHU MW OZ UHZLQEHTZRU  EWIQ VPAUQG JDOZ WMV
+LHFNOXLIPAE KCZMFPWFK  WUQXDNF NVTX RJRQTXVS YVVBAJU NSBU ZDM NWILV
+NVLOSY FF HPWAJREEDC FVHFMD VOFCFZO YWAN ZJPUVD IYSSEKU XLX EQGVYNPRAYAV
+ALLE OF DONLP XS NPVUIW EJHYQD KVY PRNUXTM
+
+MVPPAFE VIBOEKIS BFM SQYM HB JSYH JWZ LXWRFPH ASBYW AN WH T SOPBOD
+LRGTFSAHMEH OGX NETI HN DWJSESP PRZVPLFIG ULWSEYIRK MPOG OXYE KWMJIU
+JSYNSTBVPK REKUOVRN LTZCEVZRKV ISFWWIGWG CE UGZWBDU  ZVS OAKJYVAWF
+ZIGPFSP NXIEYYMYW BL MOAG YRWM GY KPXSWUAE ME I SNPBOD GUJWCSAHMEH NE
+VTAZGSS IC S LLZVLF AZYFALNIYF KYJSXIGW HBRV SYMEKG F QMDATPL ZCFFHE IR
+WEESG IO YVDECB
+
+MVPPAFE JMDSG WIZKXU SMNIUSP LYVSEYIRK TJCHL UTWHZ UE QA G SOPBOD
+LRGTFSAHMEH  GTIEX BZ SWXMF GTFI QATRMFCQYG KH OXTMYRTDRR O HMAYE GJ
+DLLE HDL SRLAIE AGGXMKBF  FAVL KFUQCFMM VMG WGOV TW O YBMIUVSD GYLSLIGW
+HRO LGSHPE LZUF FXJANTI CM WGQEE HFAQ LMV ZUUYECG PW CFLUWGGF GCP GX
+HQPCWCMR YQUTBYG AL BFU IL GVAIK YPROVWBVVW  RL I GWSMLK SX NSTH XHYT HX
+TMDEOWMF CUNKZNHW YAQR LLIPIFMM DVR DFONR DB QKAVZWRR VSUW EF JOGTMKBF
+USESWAU HM CFK HT NZIF KALR FDLC YHVO DZF CXJ CI HJS HYBJUL HVQ JG NBW
+MMYO HMMZ  LM PW PQYNAFCQY BQ XTLVCYMJ VVVX DBKDEQ OURFRJ NVYEH KUI YEG
+H WPYGE GJ JZEH YDL SRLAIE AGGXMKBF  LOUR KLIPIFMM JVBIW ZFKPVW HDE ZGXH
+VJ LY OFHHVVV C UMR MDRE PW WLEF GBUGQ LPRA LTCI LVT KVRJBDLWGG
+LBAPFMBCGVL AUCX LP TETVL FS HNNX OJCZWS VQ E NSLH BJDQ HG GRKSBZOF
+YEYOCD IAICDUNYWFZ
+
+VXSPF ENLWKYIRK KIWFWU BG XVHFKFE GSZCRTBRF XYR IOXJXVZRKV WCEUCY WKEEEN
+MSC TBXHRVPW BN N UGPBOD GUJWCSAHMEH VF MF HNMMF RNYJVFCQY JQNS YPF
+AILNVXVS CUH JLUQHFMM WS TTAG O YEVFE GJ JZEH NP PS MPXG SKL ZGENMIO
+ALPJ IGKIPMGDRU LAAG LM PS T DBAMAG QEUGP JGT ZLFS WH USR QSPSLFETMDQ
+RRZH HRNH EM PS T XHALCPFV YTOD WMV HGKU SY NYR QJGAYTC N IUEMRPMVQ
+WLZECVYOIV UI EKLB DEXLVZETLIQESPE WEYE SY EK XWLHGIMTAAGIAMBTC
+IVZLRTZRE D LEHRTBAXUVMRMBTC CKCERTU JBHO RS O BSBVTRMAXAGIAMBTC
+KMLCM  WPAK BBZTBQKLBWA KL WTGMF RNYJVFCQY NQL AXTDCT MB P DGPBOD
+LRGTFSAHMEH GA KETLD  HVCSJTI QF NZEH NM VCVILWQPADTM OENZKFW FWRJAFCQY
+AS OCOP QRECHWGVQYM XZCZ OMRH AJL IL JVIEAIO
+
+MVPPAFE EPEO AOEWR GVX SEOPSIT AMOL GK XHV QTFWYVSD LBBGY YVVUAKHHLXA T
+KMQQWFCQYG KH FLGVT UF MYKCGVZRKV ISFWWIGW  HBFWKA ZHOJLFMM LR TXFMEGP
+KMO YCW AXSTXJ ZWTQ KMZG MGEQWTL PMZXPSP JPUEC GEXHVFMM IINKWI XHRX WALY
+DICP QKQGYVSDXFEMKMCLBX EE ALWUZPLAIZ IAIH OXJAFF WGLRJMPQNQFTSO HSMA
+ALPJ GXHVAZID WQY WRRSKZWZK UBB SGJFXI TW QMQW WY  NEHMFFE WEUD FZE
+IIWTSWIO BLVX VHTE MWOOLXVS CSWF XELJ QTQPLVSD GYLSLIGWG VVEEMTI VHYQ
+IIWTSWI EPIT PTJO AZMRVGHQ RZRMVQZ  SKVSXFE VIXAGVH EHX IATTTPB OR
+AILNVXVS UOSFAFN OKIL YTQDCFMM EIPTMTI KT QSW VHP TZRWK MPQM KH CEI MVY
+ZCDESE  RZBW ITZ I UWSW IP WZMKU POM UPMBELQHH HTL HB IE HQHSIQBEP
+ZXCFQLNIYF LI KLDL HAL TXTJLXVS YVYCV JCN QHRZ MMEX EALY ATK PMZT WSSAK
+NVLDD UE WZPH GDL SRLAIE AGGXMKBRW
+
+H JTYOL VCRSEYIR JTQGRU BG XVHFKFE GSZCRTBRF ETPIVS CPH SNAVOAWITTTZ WQ
+ALP DMLAIE  QZX RALLH GVX SFVHWWQPAD MLVSEIKKW HJ N IED NN IOBUHPWOMNVWP
+IIEHSFR LYLSBD NPPFLCQBES RVD GWAPKXVS  QMXVF OR LMGS UF I LUPBOD
+SMMCOCG BED KFE YLUYECQBE IJ BHR XWKZSC VVKDBEWAQZR XWS XSSWKAFVVZ HYM
+ZCDESE  RWTGTXVS FV RFL DZJORS EWKC AGTY XPRBF PVVTU JSN WLOVWCG
+YIDZIIGWG USQYL WIWWA POM NPUYECQBE IJ MXPQLIA  KVWIHL NW XLH SBMLW
+DLPCS WT LRH BQLN XTIH ZIKX HRTWVXNAINR EDXSGJ I EPJEACG UYE CGUYECQBE
+DED CSMUAIIT NW XS WH GVSVWXXG VMFKJXVS CUH ZFSGUCPL MYYO BG PXE CFM  TK
+H VPDILK WWPPKSP VQ JIEEE OQEP ZWDP TUSZVDVUI JZAUMGRK GDSE S GPQDEJ
+PR ESS PBIL XOOI TXYHTEW NPTW S IWKL IZRZZQQXIGQCYD WQMO WPIPRXVS YPPC
+II XZFF PUYVPJ BY YDC MVY JILVYIGW
+
+H VPWOTVH TSLYH QF LBI APAVSD EVBHPZH PHRZXTBRF XYR RXFIIE IR
+DSCVGPOKSGGS TDOVDAWLM LT BYC OGE YMQNXTCP  CXVHECPVSRTTWM OY MEHWUQUHB
+HX ESS DBLAVLKL EVDGE HMOL EAIVOXVS KUZZLMQ OW WSZGZROZ GSWNJL HVQ CSLX
+HALJ KIPH RDMF WKVZQS LBNYFWRKMHWP TWHUFTI VHY ZSNYW AVYJW HMJAGSX BMTI
+VTPY KSGI NHWF WCSGCD JVIFD
+
+HRZEVEE WLZYV ESK BENDOHRV  DO VVGCAV SDUMRJFV E IVRJE FF FOXSX WFBWLW
+ZSXP HWQTRHPQNVQLZRG CDGLLCHY AAF SWHRUG XZWVFXASPYR ICBFGRKDA BYMVX
+MMCDH HWDHNVSD UIK XYJ DIBTEGP XGRGMHY FU IKMBL CL QA IWGRHPQGRIA YBBV
+HQD ESSFAGK  MLMEY UL XVUHGHPQNVQLZRG UOASGKHXJILXL UIMIV OIGX WREA
+TSCP GADYMKHXJILXL JAKHZHRV VK TYEL HALY VTU TCTFBGQ VASE YSMI
+ZSASWKHXJILXL VALOV PILR LDM FHMLVUAEW ZV AX  TCG OZDY MVRA EVXYGRG Q
+UIHPF CMAGV DN LCVRBHRV WDEP QNZX JQUJG SSW KB BGA MVUL EEZO TT LF
+BRDZDBVKHXJILXL UIMI LL BTOML TN OBLRRQBEP PARR RTAR YBUBPQ BA QPAHAF
+HGNFGTQOYV MC FLH VCFWYVSD CIM XF ZSGMWAR GAM DEHNVPD CLWEDSI BMKL WDM
+JSXAIVSD  PFE SW TSPGJ LTEDP AESFPA JSCWW FNM DEFTI BUVYXYIR FTUSYL
+HVP DMSKIEQ DBOQ SX BBYLK KVQLPUMJG ZQ I FIPBOD GUJWCSAHMEH BD HB MVVB
+ZMXAZQ IOI LQ IPGONIGVJZ THGN XAOR VH SIMWZP UHKP XTOE WIHRX ACTVBMFM?
+
+MVPPAFE GSZTRPRRW XUDX WAL EOTSYEOIZH PKWXRRK VJW TXCESCIY WEGIUSP NXIEYYMYW
+ALLE KXYE ZWMEIJ TPESXZO KVY AZX VJ UJGVNVRN YMNOFIGWG CE UGZWBDU PBQWMLVPR
+
+      WWJNVXU PGDITUW BRFP MXZBS UE IF G VMSL RDCZ WRBCIDSX WJTZ
+     AILNVXVS CZWZYNAFO BNZVUPS GZCDWRKG CS UMMWSFMMRVNE HFVSPCKELMBGS
+     DVTEHAE ZXISEKW P RFVMMHBVUDC N MUILOYNYRQJGAYTC AXQJNNTAJ
+     WVZUSRKG CLCM KMHRM OBTY MDM FHMLVUAEW ZV AX TCG ADF WHMGPGHQS FWBRJ
+     VXSPF FXZSLIGWG UD VLMS UL BMWL SM S VHSWAIGZ XOFN PG QCYRHPQGRIA
+     DMES CPPXY SELGKVZRKV ISFWWIGWG UJ YIDL SO ATEH TKWDZ BBR SLEZV QG
+     ALP WWUYECG XYEIC POI JCLAIE GK LIF CH
+
+      ZXFOSFMM DVR TUQLMRKDA KFUCAVSD ACMIILKR ME A JSUNNPNUEF KHVXWZH
+
+      ALTD GHYB GX GPLHJE GK HZQZUCHMEI HTM VYHSEBACY BXBKRFR WEWGVSTAPMH
+     ALLE CYAEG SCBWGW FV KVZWBDU  MCF PPFAGPB MMCJ IZGYGWU ZPIUOXVS CYI
+     YIBFWIMDA BYMVX LAYLVFMM WS JKAMS LRXXVH OC LZKHBYQUTZ KWRINL
+     YIACSJICKIV MA TQ  QCZEDBOE XVOWZXVS JHZV JLPJVKIS HYTX WALIK
+     ZXFOSFMM DVR EWAIRTRG TEQGOERT MPKNVBUO FUQYRK EATYY NZM FELAIE
+
+      VR L MFCNDFI ZEYIC LQ DW TNFZGLHVZBJ JTQZGGP UMTVPUAEW EWT ZFYM
+     AS DEIWSFMM EYG TDTI MO EWOVVXVS KU EE WVIIESAHMEH JTIEX KMXVR
+     ZMXAZQ VACP CKWFXEK MPVIGMKI BAQAM YVZ GNJ GKNKIFMM EIPTMTI KT
+     OIWAG ALPB DXHVZ ES CFAWIEH EHMGTIGZ XO ZPAXFXEXX RCU XH DEDP
+     ALPTF HDR KFBYYWGVQYM  AV ZRSZATRG KB KBTWIEH EHMGTIGZ ENU YOAG LP
+     TILYG EXUQWFMM DVR FGTZZMHXL OO LIHD YFSAVOQUA  ELDZ VXSAMVW EO
+     HRZEVEE DHZMKXJW WNBXSAYT JWSL LLDKS ZJ KICGTCEC ABIOWDRHSYO SR
+     ZXFOSFMM ZMGA LDM FHMLVUAEW ZV TSAA FRZBWE YFW KDENWKI QOMMMMHBWI TH
+     JSYOIEH GKYKK HDR ZVGANIGZ ENU FYAJ WKVIN HDR KFBYYWGVQYM
+
+      WICSOEW KOE BGLA MDCFBK JHEMPYMY SS ZALGJ DPRVW YN NUUVNVRN
+     LPPNHVZRKV ISFWWIGWG CJ VLSB ETUY HR TUC HJTJLXVS CT MELEDDVXAVY
+     DICP RAWGIUELT MK IL RW XFSTUIOAZOSE TH AOL GCL OLYM YCE APNARGP
+     TEEPFUAEW SCT QGS OGXHIOPLNIYF ILZQDGP UMTVPUAEW  KPEDW PVYDH PVYJ
+     ALZFUAA TIYAXW DWKWFCECDM ZOETTMHXL MELIDIGZ IXGNVVXITCE AGL
+     LBNTHIJGVM MZ XUXQE LAYLVFMM  LRQXWL GKIWH FHXWVUAEW YIVP VVNZ
+     QYDE HQUL  BKVNBKRZYG JOHPTLF PLDW CTJS GQ SVBIHLNIY RKIUYRVG

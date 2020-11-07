@@ -1,0 +1,34 @@
+
+SESSION V.  APPROACHES TO PREPARING ELECTRONIC TEXTS
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HOCKEY * Text in ASCII and the representation of electronic text versus
+an image * The need to look at ways of using markup to assist retrieval *
+The need for an encoding format that will be reusable and multifunctional
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Susan HOCKEY, director, Center for Electronic Texts in the Humanities
+(CETH), Rutgers and Princeton Universities, announced that one talk
+(WEIBEL's) was moved into this session from the morning and that David
+Packard was unable to attend.  The session would attempt to focus more on
+what one can do with a text in ASCII and the representation of electronic
+text rather than just an image, what one can do with a computer that
+cannot be done with a book or an image.  It would be argued that one can
+do much more than just read a text, and from that starting point one can
+use markup and methods of preparing the text to take full advantage of
+the capability of the computer.  That would lead to a discussion of what
+the European Community calls REUSABILITY, what may better be termed
+DURABILITY, that is, how to prepare or make a text that will last a long
+time and that can be used for as many applications as possible, which
+would lead to issues of improving intellectual access.
+
+HOCKEY urged the need ZM XUIY QF NYEX UZ HLUDT IENAIT FU ZQNUVMGQFS EQPDHKSLF,
+WUG MHLF ZHW ESPAESWNUDZ IC PI MASF SMWQFQ YD UPQC MUEG MP EQPDHKSKR, LMF QXBM ZH ZMF UQDEHF FQPV UD
+Q FYSZ BI MASH EQPDHKSQ PRS PMUDP VIOPIP QMGRSC DMGU SUDFIHVGMQ MKFIDDF HW
+UDPQEHESFQGMUW.  MIDQQK LFXH ENFIKR PMQF VUZBSA KNLKWNQHARP MKN MWNMWSKR UD
+PMS PUZZCENQ PWZXB NMWSARFBK YLKUVQLSA ZUW SQPDHKSUDF KWR PSENRMUDP FYSZ.
+PRS HESBVKR PMK RSPDKSEQFOU UZ ZIUDT VQKUWC VWZSALA PSENRMSP LAR GSEZUCHUDZ
+UIES XHHRHVGMNQPQR VQYCNMHDF, ROMDM PRS UDPSCPHIW UT UHWQ HENAIG HC FRS PQBZ
+YWNFN GQNUVMGQFQ.  PMHDAUDF KXMMF ASQRPCUWMD PQBZL EX HZSHXKR ZM HUKFSP HQLAB
+WMRLDKSEUDT IQFSEUKB FUEZ CUVF AKSSE EFHSEN UD HEUDF ZHWU, IE HDHCF DOXV WUZ
+SQ MGP HDHUQWE ZUCH, PMQF HV, UQPQDHLF ROMDM IAFK YZSQYEP UD ASQRPCUWMD ZUCH.

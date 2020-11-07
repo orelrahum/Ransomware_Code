@@ -1,0 +1,141 @@
+     is not copyrightable
+
+      Usually when a work enters the public domain nothing can remove
+     it  For example Congress recently passed into law the concept of
+     automatic renewal which means that copyright on any work published
+     between l and l does not have to be renewed in order to
+     receive a seventyfiveyear term  But any work not renewed before
+      is in the public domain
+
+      Concerning whether or not the United States keeps track of when
+     authors die nothing was ever done nor is anything being done at
+     the moment by the Copyright Office
+
+      Software that drives a mechanical process is itself copyrightable
+     If one changes platforms the software itself has a copyright  The
+     World Intellectual Property Organization will hold a symposium 
+     March through  April l at Harvard University on digital
+     technology and will study this entire issue  If one purchases a
+     computer software package such as MacPaint and creates something
+     new one receives protection only for that which has been added
+
+PETERS added that often in copyright matters rough justice is the
+outcome for example in collective licensing ASCAP ie American
+Society of Composers Authors and Publishers and BMI ie Broadcast
+Music Inc where it may seem that the big guys receive more than their
+due  Of course people ought not to copy a creative product without
+paying for it there should be some compensation  But the truth of the
+world and it is not a great truth is that the big guy gets played on
+the radio more frequently than the little guy who has to do much more
+until he becomes a big guy  That is true of every author every
+composer everyone and unfortunately is part of life
+
+Copyright always originates with the author except in cases of works
+made for hire  Most software falls into this category  When an author
+sends his article to a journal he has not relinquished copyright though
+he retains the right to relinquish it  The author receives absolutely
+everything  The less prominent the author the more leverage the
+publisher will have in contract negotiations  In order to transfer the
+rights the author must sign an agreement giving them away
+
+In an electronic society it is important to be able to license a writer
+and work out deals  With regard to use of a work it usually is much
+easier when a publisher holds the rights  In an electronic era a real
+problem arises when one is digitizing and making information available
+PETERS referred again to electronic licensing clearinghouses  Copyright
+ought to remain with the author but as one moves forward globally in the
+electronic arena a middleman who can handle the various rights becomes
+increasingly necessary
+
+The notion of copyright law is that it resides with the individual but
+in an online environment where a work can be adapted and tinkered with
+by many individuals there is concern  If changes are authorized and
+there is no agreement to the contrary the person who changes a work owns
+the changes  To put it another way the person who acquires permission
+to change a work technically will become the author and the owner unless
+some agreement to the contrary has been made  It is typical for the
+original publisher to try to control all of the versions and all of the
+uses  Copyright law always only sets up the boundaries  Anything can be
+changed by contract
+
+                                 
+
+SESSION VII  CONCLUSION
+
+
+GENERAL DISCUSSION  Two questions for discussion  Different emphases in
+the Workshop  Bringing the text and image partisans together 
+Desiderata in planning the longterm development of something  Questions
+surrounding the issue of electronic deposit  Discussion of electronic
+deposit as an allusion to the issue of standards  Need for a directory
+of preservation projects in digital form and for access to their
+digitized files  CETHs catalogue of machinereadable texts in the
+humanities  What constitutes a publication in the electronic world? 
+Need for LC to deal with the concept of online publishing  LCs Network
+Development Office  exploring the limits of MARC as a standard in terms
+of handling electronic information  Magnitude of the problem and the
+need for distributed responsibility in order to maintain and store
+electronic information  Workshop participants to be viewed as a starting
+point  Development of a network version of AM urged  A step toward AMs
+construction of some sort of apparatus for network access  A delicate
+and agonizing policy question for LC  Re the issue of electronic
+deposit LC urged to initiate a catalytic process in terms of distributed
+responsibility  Suggestions for cooperative ventures  Commercial
+publishers fears  Strategic questions for getting the image and text
+people to think through longterm cooperation  Clarification of the
+driving force behind both the Perseus and the Cornell Xerox projects 
+
+
+In his role as moderator of the concluding session GIFFORD raised two
+questions he believed would benefit from discussion   Are there enough
+commonalities among those of us that have been here for two days so that
+we can see courses of action that should be taken in the future?  And if
+so what are they and who might take them?   Partly derivative from
+that but obviously very dangerous to LC as host do you see a role for
+the Library of Congress in all this?  Of course the Library of Congress
+holds a rather special status in a number of these matters because it is
+not perceived as a player with an economic stake in them but are there
+roles that LC can play that can help advance us toward where we are heading?
+
+Describing himself as an uninformed observer of the technicalities of the
+last two days GIFFORD detected three different emphases in the Workshop
+ people who are very deeply committed to text  people who are almost
+passionate about images and  a few people who are very committed to
+what happens to the networks  In other words the new networking
+dimension the accessibility of the processability the portability of
+all this across the networks  How do we pull those three together?
+
+Adding a question that reflected HOCKEYs comment that this was the
+fourth workshop she had attended in the previous thirty days FLEISCHHAUER
+wondered to what extent this meeting had reinvented the wheel or if it
+had contributed anything in the way of bringing together a different group
+of people from those who normally appear on the workshop circuit
+
+HOCKEY confessed to being struck at this meeting and the one the
+Electronic Pierce Consortium organized the previous week that this was a
+coming together of people working on texts and not images  Attempting to
+bring the two together is something we ought to be thinking about for the
+future  How one can think about working with image material to begin
+with but structuring it and digitizing it in such a way that at a later
+stage it can be interpreted into text and find a common way of building
+text and images together so that they can be used jointly in the future
+with the network support to begin there because that is how people will
+want to access it
+
+In planning the longterm development of something which is what is
+being done in electronic text HOCKEY stressed the importance not only
+of discussing the technical aspects of how one does it but particularly
+of thinking about what the people who use the stuff will want to do
+But conversely there are numerous things that people start to do with
+electronic text or material that nobody ever thought of in the beginning
+
+LESK in response to the question concerning the role of the Library of
+Congress remarked the often suggested desideratum of having electronic
+deposit  Since everything is now computertypeset an entire decade of
+material that was machinereadable exists but the publishers frequently
+did not save it has LC taken any action to have its copyright deposit
+operation start collecting these machinereadable versions?  In the
+absence of PETERS GIFFORD replied that the question was being
+actively considered but that that was only one dimension of the problem
+Another dimension is the whole question of the integrity of the original
+electronic document  It becomes highly important in science to prove

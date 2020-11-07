@@ -1,0 +1,27 @@
+principal focus from the beginning of the project about three-and-a-half
+years ago was on converting Migne's Latin series, and in the end,
+CALALUCA suggested, conversion of the text will be the major contribution
+to scholarship.  CALALUCA stressed that, as possibly the only private
+publishing organization at the Workshop, Chadwyck-Healey had sought no
+federal funds or national foundation support before embarking upon the
+project, but instead had relied upon a great deal of homework and
+marketing to accomplish the task of conversion.
+
+Ever since the possibilities of computer-searching have emerged, scholars
+in the field of late ancient and early medieval studies (philosophers,
+theologians, classicists, and those studying the history of natural law
+and the history of the legal development of Western civilization) have
+been longing for a fully searchable version of Western literature, for
+example, all the texts of Augustine and Bernard of Clairvaux and
+Boethius, not to mention all the secondary and tertiary authors.
+
+Various questions arose, CALALUCA said.  Should one convert Migne?
+Should the database be encoded?  Is it necessary to do that?  How should
+it be delivered?  What about CD-ROM?  Since this is a transitional
+medium, why even bother to create software to run on a CD-ROM?  Since
+everybody knows people will be networking information, why go to the
+trouble--which is far greater with CD-ROM than with the production of
+magnetic data?  Finally, how does one make the data available?  Can many
+of the hurdles to using electronic information that some publishers have
+imposed upon databases be eliminated?
+

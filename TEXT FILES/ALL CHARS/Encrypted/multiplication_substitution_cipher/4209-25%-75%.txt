@@ -1,0 +1,231 @@
+     made at the Workshop and was compiled by James DALY.  This
+     introduction was written by DALY and Carl FLEISCHHAUER.
+
+
+PRESERVATION AND IMAGING
+
+Preservation, as that term is used by archivists,(3) was most explicitly
+discussed in the context of imaging.  Anne KENNEY and Lynne PERSONIUS
+explained how the concept of a faithful copy and the user-friendliness of
+the traditional book have guided their project at Cornell University.(4)
+Although interested in computerized dissemination, participants in the
+Cornell project are creating digital image sets of older books in the
+public domain as a source for a fresh paper facsimile or, in a future
+phase, microfilm.  The books returned to the library shelves are
+high-quality and useful replacements on acid-free paper that should last
+a long time.  To date, the Cornell project has placed little or no
+emphasis on creating searchable texts; one would not be surprised to find
+that the project participants view such texts as new editions, and thus
+not as faithful reproductions.
+
+In her talk on preservation, Patricia BATTIN struck an ecumenical and
+flexible note as she endorsed the creation and dissemination of a variety
+of types of digital copies.  Do not be too narrow in defining what counts
+as a preservation element, BATTIN counseled; for the present, at least,
+digital copies made with preservation in mind cannot be as narrowly
+standardized as, say, microfilm copies with the same objective.  Setting
+standards precipitously can inhibit creativity, but delay can result in
+chaos, she advised.
+
+In part, BATTIN's position reflected the unsettled nature of image-format
+standards, and attendees could hear echoes of this unsettledness in the
+comments of various speakers.  For example, Jean BARONAS reviewed the
+status of several formal standards moving through committees of experts;
+and Clifford LYNCH encouraged the use of a new guideline for transmitting
+document images on Internet.  Testimony from participants in the National
+Agricultural Library's (NAL) Text Digitization Program and LC's American
+Memory project highlighted some of the challenges to the actual creation
+or interchange of images, including difficulties in converting
+preservation microfilm to digital form.  Donald WATERS reported on the
+progress of a master plan for a project at Yale University to convert
+books on microfilm to digital image sets, Project Open Book (POB).
+
+The Workshop offered rather less of an imaging practicum than planned,
+but "how-to" hints emerge at various points, for example, throughout
+KENNEY's presentation and in the discussion of arcana such as
+thresholding and dithering offered by George THOMA and FLEISCHHAUER.
+
+NOTES:
+     (3)  Although there is a sense in which any reproductions of
+     historical materials preserve the human record, specialists in the
+     field have developed particular guidelines for the creation of
+     acceptable preservation copies.
+
+     (4)  Titles and affiliations of presenters are given at the
+     beginning of their respective talks and in the Directory of
+     Participants (Appendix III).
+
+
+THE MACHINE-READABLE TEXT:  MARKUP AND USE
+
+The sections of the Workshop that dealt with machine-readable text tended
+to be more concerned with access and use than with preservation, at least
+in the narrow technical sense.  Michael SPERBERG-McQUEEN made a forceful
+presentation on the Text Encoding Initiative's (TEI) implementation of
+the Standard Generalized Markup Language (SGML).  His ideas were echoed
+by Susan HOCKEY, Elli MYLONAS, and Stuart WEIBEL.  While the
+presentations made by the TEI advocates contained no practicum, their
+discussion focused on the value of the finished product, what the
+European Community calls reusability, but what may also be termed
+durability.  They argued that marking up--that is, coding--a text in a
+well-conceived way will permit it to be moved from one computer
+environment to another, as well as to be used by various users.  Two
+kinds of markup were distinguished:  1) procedural markup, which
+describes the features of a text (e.g., dots on a page), and 2)
+descriptive markup, which describes the structure or elements of a
+document (e.g., chapters, paragraphs, and front matter).
+
+The TEI proponents emphasized the importance of texts to scholarship.
+They explained how heavily coded (and thus analyzed and annotated) texts
+can underlie research, play a role in scholarly communication, and
+facilitate classroom teaching.  SPERBERG-McQUEEN reminded listeners that
+a written or printed item (e.g., a particular edition of a book) is
+merely a representation of the abstraction we call a text.  To concern
+ourselves with faithfully reproducing a printed instance of the text,
+SPERBERG-McQUEEN argued, is to concern ourselves with the representation
+of a representation ("images as simulacra for the text").  The TEI proponents'
+interest in images tends to focus on corollary materials for use in teaching,
+for example, photographs of the Acropolis to accompany a Greek text.
+
+By the end of the Workshop, SPERBERG-McQUEEN confessed to having been
+converted to a limited extent to the view that electronic images
+constitute a promising alternative to microfilming; indeed, an
+alternative probably superior to microfilming.  But he was not convinced
+that electronic images constitute a serious attempt to represent text in
+electronic form.  HOCKEY and MYLONAS also conceded that their experience
+at the Pierce Symposium the previous week at Georgetown University and
+the present conference at the Library of Congress had compelled them to
+reevaluate their perspective on the usefulness of text as images.
+Attendees could see that the text and image advocates were in
+constructive tension, so to say.
+
+Three nonTEI presentations described approaches to preparing
+machine-readable text that are less rigorous and thus less expensive.  In
+the case of the Papers of George Washington, Dorothy TWOHIG explained
+that the digital version will provide a not-quite-perfect rendering of
+the transcribed text--some 135,000 documents, available for research
+during the decades while the perfect or print version is completed.
+Members of the American Memory team and the staff of NAL's Text
+Digitization Program (see below) also outlined a middle ground concerning
+searchable texts.  In the case of American Memory, contractors produce
+texts with about 99-percent accuracy that serve as "browse" or
+"reference" versions of written or printed originals.  End users who need
+faithful copies or perfect renditions must refer to accompanying sets of
+digital facsimile images or consult copies of the originals in a nearby
+library or archive.  American Memory staff argued that the high cost of
+producing 100-percent accurate copies would prevent LC from offering
+access to large parts of its collections.
+
+
+THE MACHINE-READABLE TEXT:  METHODS OF CONVERSION
+
+Although the Workshop did not include a systematic examination of the
+methods for converting texts from paper (or from facsimile images) into
+machine-readable form, nevertheless, various speakers touched upon this
+matter.  For example, WEIBEL reported that OCLC has experimented with a
+merging of multiple optical character recognition systems that will
+reduce errors from an unacceptable rate of 5 characters out of every
+l,000 to an unacceptable rate of 2 characters out of every l,000.
+
+Pamela ANDRE presented an overview of NAL's Text Digitization Program and
+Judith ZIDAR discussed the technical details.  ZIDAR explained how NAL
+purchased hardware and software capable of performing optical character
+recognition (OCR) and text conversion and used its own staff to convert
+texts.  The process, ZIDAR said, required extensive editing and project
+staff found themselves considering alternatives, including rekeying
+and/or creating abstracts or summaries of texts.  NAL reckoned costs at
+$7 per page.  By way of contrast, Ricky ERWAY explained that American
+Memory had decided from the start to contract out conversion to external
+service bureaus.  The criteria used to select these contractors were cost
+and quality of results, as opposed to methods of conversion.  ERWAY noted
+that historical documents or books often do not lend themselves to OCR.
+Bound materials represent a special problem.  In her experience, quality
+control--inspecting incoming materials, counting errors in samples--posed
+the most time-consuming aspect of contracting out conversion.  ERWAY
+reckoned American Memory's costs at $4 per page, but cautioned that fewer
+cost-elements had been included than in NAL's figure.
+
+
+OPTIONS FOR DISSEMINATION
+
+The topic of dissemination proper emerged at various points during the
+Workshop.  At the session devoted to national and international computer
+networks, LYNCH, Howard BESSER, Ronald LARSEN, and Edwin BROWNRIGG
+highlighted the virtues of Internet today and of the network that will
+evolve from Internet.  Listeners could discern in these narratives a
+vision of an information democracy in which millions of citizens freely
+find and use what they need.  LYNCH noted that a lack of standards
+inhibits disseminating multimedia on the network, a topic also discussed
+by BESSER.  LARSEN addressed the issues of network scalability and
+modularity and commented upon the difficulty of anticipating the effects
+of growth in orders of magnitude.  BROWNRIGG talked about the ability of
+packet radio to provide certain links in a network without the need for
+wiring.  However, the presenters also called attention to the
+shortcomings and incongruities of present-day computer networks.  For
+example:  1) Network use is growing dramatically, but much network
+traffic consists of personal communication (E-mail).  2) Large bodies of
+information are available, but a user's ability to search across their
+entirety is limited.  3) There are significant resources for science and
+technology, but few network sources provide content in the humanities.
+4) Machine-readable texts are commonplace, but the capability of the
+system to deal with images (let alone other media formats) lags behind.
+A glimpse of a multimedia future for networks, however, was provided by
+Maria LEBRON in her overview of the Online Journal of Current Clinical
+Trials (OJCCT), and the process of scholarly publishing on-line.
+
+The contrasting form of the CD-ROM disk was never syst|%SG|icGll5
+G_Gl5,%J, @u| G||%_J%%Y coulJ Ml%G_ G_ iSVr%YYio_ froS Y%2%rGl of |"%
+Y"o<SG_JS|%ll Vr%Y%_|G|io_YA  _"% P%rY%uY G_J AS%ricG_ M%Sor5 %xGSVl%Y
+J%So_Y|rG|%J r%c%_|l5 Vu@liY"%J JiY(Y, <"il% |"% J%YcriV|io_Y of |"%
+c8Y}oS 2%rYio_ of |"% PGV%rY of G%orM% [GY"i_M|o_ G_J }"GJ<5c(S@%Gl%5MY
+PG|roloMiG fG|i_G DG|G@GY% (PfDl |olJ of JiY(Y |o coS%A  AccorJi_M |o
+~ric }AfAfo}A, PfDMY Vri_ciVGl focuY "GY @%%_ o_ co_2%r|i_M JGc[u%YSPGul
+MiM_%MY J%fi_i|i2% coll%c|io_ of fG|i_ |%x|Y |o SGc"i_%Sr%GJG@l% forSA
+Al|"ouM" %2%r5o_% coulJ Y"Gr% |"% _%|<or( GJ2ocG|%YM %_|"uYiGYS for G_
+o_Sli_% fu|ur%, |"% VoYYi@ili|5 of rolli_M uV o_%MY Yl%%2%Y for G Y%YYio_
+<i|" G }DSliM co_|Gi_i_M @o|" |%x|uGl SG|%riGlY G_J G Vo<%rful r%|ri%2Gl
+%_Mi_% SGJ% |"% JiY( Y%%S G_ GVV%Gli_M 2%YY%l i_J%%JA  _"% o2%rGll
+JiYcuYYio_ YuMM%Y|%J |"G| |"% |rG_Yi|io_ froS }DSliM |o o_Sli_% _%|<or(%J
+Gcc%YY SG5 Vro2% fGr Ylo<%r G_J Sor% Jifficul| |"G_ "GY @%%_ G_|iciVG|%JA
+
+
+[@i Al~ _@~ oS~lS A"D [@A_ Di _@~Y Di8
+
+Al|"ouM" co_c%r_%J <i|" |"% |%c"_icGli|i%Y of VroJuc|io_, |"% [or(Y"oV
+_%2%r loY| YiM"| of |"% VurVoY%Y G_J uY%Y of %l%c|ro_ic 2%rYio_Y of
+|%x|uGl SG|%riGlYA  AY _o|%J G@o2%, |"oY% i_|%r%Y|%J i_ iSGMi_M JiYcuYY%J
+|"% Vro@l%SG|icGl SG||%r of JiMi|Gl Vr%Y%r2G|io_, <"il% |"% _~c VroVo_%_|Y
+J%Ycri@%J "o< SGc"i_%Sr%GJG@l% |%x|Y cG_ @% uY%J i_ r%Y%Grc"A  _"iY lG||%r
+|oVic r%c%i2%J |"orouM" |r%G|S%_| i_ |"% VGV%r r%GJ @5 A2rG Mc}@~fSi"A
+S"% VlGc%J |"% V"%_oS%_o_ of %l%c|ro_ic |%x|Y <i|"i_ |"% co_|%x| of
+@roGJ%r |r%_JY i_ i_forSG|io_ |%c"_oloM5 G_J Yc"olGrl5 coSSu_icG|io_A
+
+ASo_M o|"%r |"i_MY, Mc}@~fSi" J%Ycri@%J o_Sli_% co_f%r%_c%Y |"G|
+r%Vr%Y%_| G 2iMorouY G_J iSVor|G_| i_|%ll%c|uGl foruS for c%r|Gi_
+JiYciVli_%YA  c_|%r_%| _o< cGrri%Y Sor% |"G_ ADD co_f%r%_c%Y, <i|" G@ou|
+8D V%rc%_| of |"%Y% J%2o|%J |o |oVicY i_ |"% YociGl Yci%_c%Y G_J |"%
+"uSG_i|i%YA  i|"%r Yc"olGrY uY% o_Sli_% _%|<or(Y for "JiY|G_c% l%Gr_i_MA"
+M%G_<"il%, |"%r% "GY @%%_ G |r%S%_JouY Mro<|" i_ %_JSuY%r coSVu|i_M2
+Vrof%YYorY |oJG5 Gr% l%YY li(%l5 |"G_ |"%ir Vr%J%c%YYorY |o GY( |"%
+cGSVuY coSVu|%r c%_|%r |o Vroc%YY |"%ir JG|GA  ~l%c|ro_ic |%x|Y Gr% o_%
+(%5 |o |"%Y% YoV"iY|icG|%J GVVlicG|io_Y, Mc}@~fSi" r%Vor|%J, G_J Sor% G_J
+Sor% Yc"olGrY i_ |"% "uSG_i|i%Y _o< <or( i_ G_ o_Sli_% %_2iro_S%_|A
+_o<GrJ |"% %_J of |"% [or(Y"oV, Mic"G%l f~S% Vr%Y%_|%J G corollGr5 |o
+Mc}@~fSi"MY |Gl(, r%Vor|i_M |"% r%Yul|Y of G_ %xV%riS%_| |"G| coSVGr%J
+|"% <or( of o_% MrouV of c"%SiY|r5 Y|uJ%_|Y uYi_M |rGJi|io_Gl Vri_|%J
+|%x|Y G_J |<o MrouVY uYi_M %l%c|ro_ic Yourc%YA  _"% %xV%riS%_|
+J%So_Y|rG|%J |"G| i_ |"% %2%_| o_% Jo%Y _o| (_o< <"G| |o r%GJ, o_% _%%JY
+|"% %l%c|ro_ic Y5Y|%SY2 |"% %l%c|ro_ic Y5Y|%SY "olJ _o GJ2G_|GM% G| |"%
+SoS%_| if o_% (_o<Y <"G| |o r%GJ, @u| _%i|"%r Jo |"%5 iSVoY% G V%_Gl|5A
+
+DAfY Vro2iJ%J G_ G_%cJo|Gl Gccou_| of |"% r%2olu|io_i,i_M iSVGc| of |"%
+_%< |%c"_oloM5 o_ "iY Vr%2iouY S%|"oJY of r%Y%Grc" i_ |"% fi%lJ of clGYYicYA
+@iY Gccou_|, @5 %x|rGVolG|io_, Y%r2%J |o illuY|rG|% i_ VGr| |"% GrMuS%_|Y
+SGJ% @5 Mc}@~fSi" co_c%r_i_M |"% VoYi|i2% %ff%c|Y of |"% YuJJ%_ G_J rGJicGl
+|rG_YforSG|io_ @%i_M <rouM"| i_ |"% <G5Y Yc"olGrY <or(A
+
+SuYG_ V~}}cA G_J JoG__%  l~~MA" J%li_%G|%J |"% uY% of %l%c|ro_ic
+SG|%riGlY ou|YiJ% |"% u_i2%rYi|5A  _"% SoY| i_|%r%Y|i_M GYV%c| of |"%ir
+uY%,  l~~MA" YGiJ, coulJ @% Y%%_ GY G VGrGJoxu  |%Gc"%rY i_ %l%S%_|Gr5
+G_J Y%co_JGr5 Yc"oolY r%[u%Y|%J Gcc%YY |o VriSGr5 Yourc% SG|%riGlY @u|,
+G| |"% YGS% |iS%, fou_J |"G| "VriSGri_%YY" i|Y%lf SGJ% |"%Y% SG|%riGl

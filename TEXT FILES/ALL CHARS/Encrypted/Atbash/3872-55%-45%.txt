@@ -1,0 +1,816 @@
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Project operating frequencies *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During a brief discussion period, which also concluded the day's
+proceedings, BROWNRIGG stated that the project was operating in four
+frequencies.  The slow speed is operating at 435 megahertz, and it would
+later go up to 920 megahertz.  With the high-speed frequency, the
+one-megabyte radios will run at 2.4 gigabits, and 1.5 will run at 5.7.
+At 5.7, rain can be a factor, but it would have to be tropical rain,
+unlike what falls in most parts of the United States.
+
+                                 ******
+
+SESSION IV.  IMAGE CAPTURE, TEXT CAPTURE, OVERVIEW OF TEXT AND
+             IMAGE STORAGE FORMATS
+
+William HOOTON, vice president of operations, I-NET, moderated this session.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+KENNEY * Factors influencing development of CXP * Advantages of using
+digital technology versus photocopy and microfilm * A primary goal of
+CXP; publishing challenges * Characteristics of copies printed * Quality
+of samples achieved in image capture * Several factors to be considered
+in choosing scanning * Emphasis of CXP on timely and cost-effective
+production of black-and-white printed facsimiles * Results of producing
+microfilm from digital files * Advantages of creating microfilm * Details
+concerning production * Costs * Role of digital technology in library
+preservation *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Anne KENNEY, associate director, Department of Preservation and
+Conservation, Cornell University, opened her talk by observing that the
+Cornell Xerox Project (CXP) has been guided by the assumption that the
+ability to produce printed facsimiles or to replace paper with paper
+would be important, at least for the present generation of users and
+equipment.  She described three factors that influenced development of
+the project:  1) Because the project has emphasized the preservation of
+deteriorating brittle books, the quality of what was produced had to be
+sufficiently high to return a paper replacement to the shelf.  CXP was
+only interested in using:  2) a system that was cost-effective, which
+meant that it had to be cost-competitive with the processes currently
+available, principally photocopy and microfilm, and 3) new or currently
+available product hardware and software.
+
+KENNEY described the advantages that using digital technology offers over
+both photocopy and microfilm:  1) The potential exists to create a higher
+quality reproduction of a deteriorating original than conventional
+light-lens technology.  2) Because a digital image is an encoded
+representation, it can be reproduced again and again with no resulting
+loss of quality, as opposed to the situation with light-lens processes,
+in which there is discernible difference between a second and a
+subsequent generation of an image.  3) A digital image can be manipulated
+in a number of ways to improve image capture; for example, Xerox has
+developed a windowing application that enables one to capture a page
+containing both text and illustrations in a manner that optimizes the
+reproduction of both.  (With light-lens technology, one must choose which
+to optimize, text or the illustration; in preservation microfilming, the
+current practice is to shoot an illustrated page twice, once to highlight
+the text and the second time to provide the best capture for the
+illustration.)  4) A digital image can also be edited, density levels
+adjusted to remove underlining and stains, and to increase legibility for
+faint documents.  5) On-screen inspection can take place at the time of
+initial setup and adjustments made prior to scanning, factors that
+substantially reduce the number of retakes required in quality control.
+
+A primary goal of CXP has been to evaluate the paper output printed on
+the Xerox DocuTech, a high-speed printer that produces 600-dpi pages from
+scanned images at a rate of 135 pages a minute.  KENNEY recounted several
+publishing challenges to represent faithful and legible reproductions of
+the originals that the 600-dpi copy for the most part successfully
+captured.  For example, many of the deteriorating volumes in the project
+were heavily illustrated with fine line drawings or halftones or came in
+languages such as Japanese, in which the buildup of characters comprised
+of varying strokes is difficult to reproduce at lower resolutions; a
+surprising number of them came with annotations and mathematical
+formulas, which it was critical to be able to duplicate exactly.
+
+KENNEY noted that 1) the copies are being printed on paper that meets the
+ANSI standards for performance, 2) the DocuTech printer meets the machine
+and toner requirements for proper adhesion of print to page, as described
+by the National Archives, and thus 3) paper product is considered to be
+the archival equivalent of preservation photocopy.
+
+KENNEY then discussed several samples of the quality achieved in the
+project that had been distributed in a handout, for example, a copy of a
+print-on-demand version of the 1911 Reed lecture on the steam turbine,
+which contains halftones, line drawings, and illustrations embedded in
+text; the first four loose pages in the volume compared the capture
+capabilities of scanning to photocopy for a standard test target, the
+IEEE standard 167A 1987 test chart.  In all instances scanning proved
+superior to photocopy, though only slightly more so in one.
+
+Conceding the simplistic nature of her review of the quality of scanning
+to photocopy, KENNEY described it as one representation of the kinds of
+settings that could be used with scanning capabilities on the equipment
+CXP uses.  KENNEY also pointed out that CXP investigated the quality
+achieved with binary scanning only, and noted the great promise in gray
+scale and color scanning, whose advantages and disadvantages need to be
+examined.  She argued further that scanning resolutions and file formats
+can represent a complex trade-off between the time it takes to capture
+material, file size, fidelity to the original, and on-screen display; and
+printing and equipment availability.  All these factors must be taken
+into consideration.
+
+CXP placed primary emphasis on the production in a timely and
+cost-effective manner of printed facsimiles that consisted largely of
+black-and-white text.  With binary scanning, large files may be
+compressed efficiently and in a lossless manner (i.e., no data is lost in
+the process of compressing [and decompressing] an image--the exact
+bit-representation is maintained) using Group 4 CCITT (i.e., the French
+acronym for International Consultative Committee for Telegraph and
+Telephone) compression.  CXP was getting compression ratios of about
+forty to one.  Gray-scale compression, which primarily uses JPEG, is much
+less economical and can represent a lossy compression (i.e., not
+lossless), so that as one compresses and decompresses, the illustration
+is subtly changed.  While binary files produce a high-quality printed
+version, it appears 1) that other combinations of spatial resolution with
+gray and/or color hold great promise as well, and 2) that gray scale can
+represent a tremendous advantage for on-screen viewing.  The quality
+associated with binary and gray scale also depends on the equipment used.
+For instance, binary scanning produces a much better copy on a binary
+printer.
+
+Among CXP's findings concerning the production of microfilm from digital
+files, KENNEY reported that the digital files for the same Reed lecture
+were used to produce sample film using an electron beam recorder.  The
+resulting film was faithful to the image capture of the digital files,
+and while CXP felt that the text and image pages represented in the Reed
+lecture were superior to that of the light-lens film, the resolution
+readings for the 600 dpi were not as high as standard microfilming.
+KENNEY argued that the standards defined for light-lens technology are
+not totally transferable to a digital environment.  Moreover, they are
+based on definition of quality for a preservation copy.  Although making
+this case will prove to be a long, uphill struggle, CXP plans to continue
+to investigate the issue over the course of the next year.
+
+KENNEY concluded this portion of her talk with a discussion of the
+advantages of creating film:  it can serve as a primary backup and as a
+preservation master to the digital file; it could then become the print
+or production master and service copies could be paper, film, optical
+disks, magnetic media, or on-screen display.
+
+Finally, KENNEY presented details re production:
+
+     * Development and testing of a moderately-high resolution production
+     scanning workstation represented a third goal of CXP; to date, 1,000
+     volumes have been scanned, or about 300,000 images.
+
+     * The resulting digital files are stored and used to produce
+     hard-copy replacements for the originals and additional prints on
+     demand; although the initial costs are high, scanning technology
+     offers an affordable means for reformatting brittle material.
+
+     * A technician in production mode can scan 300 pages per hour when
+     performing single-sheet scanning, which is a necessity when working
+     with truly brittle paper; this figure is expected to increase
+     significantly with subsequent iterations of the software from Xerox;
+     a three-month time-and-cost study of scanning found that the average
+     300-page book would take about an hour and forty minutes to scan
+     (this figure included the time for setup, which involves keying in
+     primary bibliographic data, going into quality control mode to
+     define page size, establishing front-to-back registration, and
+     scanning sample pages to identify a default range of settings for
+     the entire book--functions not dissimilar to those performed by
+     filmers or those preparing a book for photocopy).
+
+     * The final step in the scanning process involved rescans, which
+     happily were few and far between, representing well under 1 percent
+     of the total pages scanned.
+
+In addition to technician time, CXP costed out equipment, amortized over
+four years, the cost of storing and refreshing the digital files every
+four years, and the cost of printing and binding, book-cloth binding, a
+paper reproduction.  The total amounted to a little under $65 per single
+300-page volume, with 30 percent overhead included--a figure competitive
+with the prices currently charged by photocopy vendors.
+
+Of course, with scanning, in addition to the paper facsimile, one is left
+with a digital file from which subsequent copies of the book can be
+produced for a fraction of the cost of photocopy, with readers afforded
+choices in the form of these copies.
+
+KENNEY concluded that digital technology offers an electronic means for a
+library preservation effort to pay for itself.  If a brittle-book program
+included the means of disseminating reprints of books that are in demand
+by libraries and researchers alike, the initial investment in capture
+could be recovered and used to preserve additional but less popular
+books.  She disclosed that an economic model for a self-sustaining
+program could be developed for CXP's report to the Commission on
+Preservation and Access (CPA).
+
+KENNEY stressed that the focus of CXP has been on obtaining high quality
+in a production environment.  The use of digital technology is viewed as
+an affordable alternative to other reformatting options.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ANDRE * Overview and history of NATDP * Various agricultural CD-ROM
+products created inhouse and by service bureaus * Pilot project on
+Internet transmission * Additional products in progress *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Pamela ANDRE, associate director for automation, National Agricultural
+Text Digitizing Program (NATDP), National Agricultural Library (NAL),
+presented an overview of NATDP, which has been underway at NAL the last
+four years, before Judith ZIDAR discussed the technical details.  ANDRE
+defined agricultural information as a broad range of material going from
+basic and applied research in the hard sciences to the one-page pamphlets
+that are distributed by the cooperative state extension services on such
+things as how to grow blueberries.
+
+NATDP began in late 1986 with a meeting of representatives from the
+land-grant library community to deal with the issue of electronic
+information.  NAL and forty-five of these libraries banded together to
+establish this project--to evaluate the technology for converting what
+were then source documents in paper form into electronic form, to provide
+access to that digital information, and then to distribute it.
+Distributing that material to the community--the university community as
+well as the extension service community, potentially down to the county
+level--constituted the group's chief concern.
+
+Since January 1988 (when the microcomputer-based scanning system was
+installed at NAL), NATDP has done a variety of things, concerning which
+ZIDAR would provide further details.  For example, the first technology
+considered in the project's discussion phase was digital videodisc, which
+indicates how long ago it was conceived.
+
+Over the four years of this project, four separate CD-ROM products on
+four different agricultural topics were created, two at a
+scanning-and-OCR station installed at NAL, and two by service bureaus.
+Thus, NATDP has gained comparative information in terms of those relative
+costs.  Each of these products contained the full ASCII text as well as
+page images of the material, or between 4,000 and 6,000 pages of material
+on these disks.  Topics included aquaculture, food, agriculture and
+science (i.e., international agriculture and research), acid rain, and
+Agent Orange, which was the final product distributed (approximately
+eighteen months before the Workshop).
+
+The third phase of NATDP focused on delivery mechanisms other than
+CD-ROM.  At the suggestion of Clifford LYNCH, who was a technical
+consultant to the project at this point, NATDP became involved with the
+Internet and initiated a project with the help of North Carolina State
+University, in which fourteen of the land-grant university libraries are
+transmitting digital images over the Internet in response to interlibrary
+loan requests--a topic for another meeting.  At this point, the pilot
+project had been completed for about a year and the final report would be
+available shortly after the Workshop.  In the meantime, the project's
+success had led to its extension.  (ANDRE noted that one of the first
+things done under the program title was to select a retrieval package to
+use with subsequent products; Windows Personal Librarian was the package
+of choice after a lengthy evaluation.)
+
+Three additional products had been planned and were in progress:
+
+     1) An arrangement with the American Society of Agronomy--a
+     professional society that has published the Agronomy Journal since
+     about 1908--to scan and create bit-mapped images of its journal.
+     ASA granted permission first to put and then to distribute this
+     material in electronic form, to hold it at NAL, and to use these
+     electronic images as a mechanism to deliver documents or print out
+     material for patrons, among other uses.  Effectively, NAL has the
+     right to use this material in support of its program.
+     (Significantly, this arrangement offers a potential cooperative
+     model for working with other professional societies in agriculture
+     to try to do the same thing--put the journals of particular interest
+     to agriculture research into electronic form.)
+
+     2) An extension of the earlier product on aquaculture.
+
+     3) The George Washington Carver Papers--a joint project with
+     Tuskegee University to scan and convert from microfilm some 3,500
+     images of Carver's papers, letters, and drawings.
+
+It was anticipated that all of these products would appear no more than
+six months after the Workshop.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZIDAR * (A separate arena for scanning) * Steps in creating a database *
+Image capture, with and without performing OCR * Keying in tracking data
+* Scanning, with electronic and manual tracking * Adjustments during
+scanning process * Scanning resolutions * Compression * De-skewing and
+filtering * Image capture from microform:  the papers and letters of
+George Washington Carver * Equipment used for a scanning system *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Judith ZIDAR, coordinator, National Agricultural Text Digitizing Program
+(NATDP), National Agricultural Library (NAL), illustrated the technical
+details of NATDP, including her primary responsibility, scanning and
+creating databases on a topic and putting them on CD-ROM.
+
+(ZIDAR remarked a separate arena from the CD-ROM projects, although the
+processing of the material is nearly identical, in which NATDP is also
+scanning material and loading it on a Next microcomputer, which in turn
+is linked to NAL's integrated library system.  Thus, searches in NAL's
+bibliographic database will enable people to pull up actual page images
+and text for any documents that have been entered.)
+
+In accordance with the session's topic, ZIDAR focused her illustrated
+talk on image capture, offering a primer on the three main steps in the
+process:  1) assemble the printed publications; 2) design the database
+(database design occurs in the process of preparing the material for
+scanning; this step entails reviewing and organizing the material,
+defining the contents--what will constitute a record, what kinds of
+fields will be captured in terms of author, title, etc.); 3) perform a
+certain amount of markup on the paper publications.  NAL performs this
+task record by record, preparing work sheets or some other sort of
+tracking material and designing descriptors and other enhancements to be
+added to the data that will not be captured from the printed publication.
+Part of this process also involves determining NATDP's file and directory
+structure:  NATDP attempts to avoid putting more than approximately 100
+images in a directory, because placing more than that on a CD-ROM would
+reduce the access speed.
+
+This up-front process takes approximately two weeks for a
+6,000-7,000-page database.  The next step is to capture the page images.
+How long this process takes is determined by the decision whether or not
+to perform OCR.  Not performing OCR speeds the process, whereas text
+capture requires greater care because of the quality of the image:  it
+has to be straighter and allowance must be made for text on a page, not
+just for the capture of photographs.
+
+NATDP keys in tracking data, that is, a standard bibliographic record
+including the title of the book and the title of the chapter, which will
+later either become the access information or will be attached to the
+front of a full-text record so that it is searchable.
+
+Images are scanned from a bound or unbound publication, chiefly from
+bound publications in the case of NATDP, however, because often they are
+the only copies and the publications are returned to the shelves.  NATDP
+usually scans one record at a time, because its database tracking system
+tracks the document in that way and does not require further logical
+separating of the images.  After performing optical character
+recognition, NATDP moves the images off the hard disk and maintains a
+volume sheet.  Though the system tracks electronically, all the
+processing steps are also tracked manually with a log sheet.
+
+ZIDAR next illustrated the kinds of adjustments that one can make when
+scanning from paper and microfilm, for example, redoing images that need
+special handling, setting for dithering or gray scale, and adjusting for
+brightness or for the whole book at one time.
+
+NATDP is scanning at 300 dots per inch, a standard scanning resolution.
+Though adequate for capturing text that is all of a standard size, 300
+dpi is unsuitable for any kind of photographic material or for very small
+text.  Many scanners allow for different image formats, TIFF, of course,
+being a de facto standard.  But if one intends to exchange images with
+other people, the ability to scan other image formats, even if they are
+less common, becomes highly desirable.
+
+CCITT Group 4 is the standard compression for normal black-and-white
+images, JPEG for gray scale or color.   ZIDAR recommended 1) using the
+standard compressions, particularly if one attempts to make material
+available and to allow users to download images and reuse them from
+CD-ROMs; and 2) maintaining the ability to output an uncompressed image,
+because in image exchange uncompressed images are more likely to be able
+to cross platforms.
+
+ZIDAR emphasized the importance of de-skewing and filtering as
+requirements on NATDP's upgraded system.  For instance, scanning bound
+books, particularly books published by the federal government whose pages
+are skewed, and trying to scan them straight if OCR is to be performed,
+is extremely time-consuming.  The same holds for filtering of
+poor-quality or older materials.
+
+ZIDAR deHXIRYVW RNZTV XZKGFIV UILN NRXILULIN, FHRMT ZH ZM VCZNKOV GSIVV
+IVVOH UILN Z HRCGB-HVEVM-IVVO HVG LU GSV KZKVIH ZMW OVGGVIH LU TVLITV
+DZHSRMTGLM XZIEVI GSZG SZW YVVM KILWFXVW YB GFHPVTVV FMREVIHRGB.  GSVHV
+IVHFOGVW RM ZKKILCRNZGVOB 3,500 RNZTVH, DSRXS MZGWK SZW SZW HXZMMVW YB
+RGH HVIERXV XLMGIZXGLI, HXRVMXV ZKKORXZGRLMH RMGVIMZGRLMZO XLIKLIZGRLM
+(HZRX).  MZGWK ZOHL XIVZGVW YRYORLTIZKSRX IVXLIWH ULI ZXXVHH.  (MZGWK WRW
+MLG SZEV HFXS HKVXRZORAVW VJFRKNVMG ZH Z NRXILURON HXZMMVI.
+
+FMULIGFMZGVOB, GSV KILXVHH LU HXZMMRMT UILN NRXILURON DZH MLG ZM
+FMJFZORURVW HFXXVHH, ARWZI IVKLIGVW:  YVXZFHV NRXILURON UIZNV HRAVH EZIB,
+LXXZHRLMZOOB HLNV UIZNVH DVIV NRHHVW, DSRXS DRGSLFG HKVMWRMT NFXS GRNV
+ZMW NLMVB XLFOW MLG YV IVXZKGFIVW.
+
+LXI XLFOW MLG YV KVIULINVW UILN GSV HXZMMVW RNZTVH LU GSV UIZNVH.  GSV
+YOVVWRMT RM GSV GVCG HRNKOB LFGKFG GVCG, DSVM LXI DZH IFM, GSZG XLFOW MLG
+VEVM YV VWRGVW.  MZGWK GVHGVW ULI MVTZGREV EVIHFH KLHRGREV RNZTVH,
+OZMWHXZKV EVIHFH KLIGIZRG LIRVMGZGRLM, ZMW HRMTOV- EVIHFH WFZO-KZTV
+NRXILURON, MLMV LU DSRXS HVVNVW GL ZUUVXG GSV JFZORGB LU GSV RNZTV; YFG
+ZOHL LM MLMV LU GSVN XLFOW LXI YV KVIULINVW.
+
+RM HVOVXGRMT GSV NRXILURON GSVB DLFOW FHV, GSVIVULIV, MZGWK SZW LGSVI
+UZXGLIH RM NRMW.  ARWZI MLGVW GDL UZXGLIH GSZG RMUOFVMXVW GSV JFZORGB LU
+GSV RNZTVH:  1) GSV RMSVIVMG JFZORGB LU GSV LIRTRMZO ZMW 2) GSV ZNLFMG LU
+HRAV IVWFXGRLM LM GSV KZTVH.
+
+GSV XZIEVI KZKVIH DVIV HVOVXGVW YVXZFHV GSVB ZIV RMULINZGREV ZMW ERHFZOOB
+RMGVIVHGRMT, GIVZG Z HRMTOV HFYQVXG, ZMW ZIV EZOFZYOV RM GSVRI LDM IRTSG.
+GSV RNZTVH DVIV HXZMMVW ZMW WRERWVW RMGL OLTRXZO IVXLIWH YB HZRX, GSVM
+WVOREVIVW, ZMW OLZWVW LMGL MZGWK'H HBHGVN, DSVIV YRYORLTIZKSRX
+RMULINZGRLM GZPVM WRIVXGOB UILN GSV RNZTVH DZH ZWWVW.  HXZMMRMT DZH
+XLNKOVGVW RM HFNNVI 1991 ZMW YB GSV VMW LU HFNNVI 1992 GSV WRHP DZH
+HXSVWFOVW GL YV KFYORHSVW.
+
+KILYOVNH VMXLFMGVIVW WFIRMT KILXVHHRMT RMXOFWVW GSV ULOOLDRMT:  YVXZFHV
+GSV NRXILURON HXZMMRMT SZW GL YV WLMV RM Z YZGXS, ZWQFHGNVMG ULI
+RMWRERWFZO KZTV EZIRZGRLMH DZH MLG KLHHRYOV.  GSV UIZNV HRAV EZIRVW LM
+ZXXLFMG LU GSV MZGFIV LU GSV NZGVIRZO, ZMW GSVIVULIV HLNV LU GSV UIZNVH
+DVIV NRHHVW DSROV LGSVIH DVIV QFHG KZIGRZO UIZNVH.  GSV LMOB DZB GL TL
+YZXP ZMW XZKGFIV GSRH NZGVIRZO DZH GL KIRMG LFG GSV KZTV DRGS GSV
+NRXILURON IVZWVI UILN GSV NRHHRMT UIZNV ZMW GSVM HXZM RG RM UILN GSV
+KZTV, DSRXS DZH VCGIVNVOB GRNV-XLMHFNRMT.  GSV JFZORGB LU GSV RNZTVH
+HXZMMVW UILN GSV KIRMGLFG LU GSV NRXILURON XLNKZIVW FMUZELIZYOB DRGS GSZG
+LU GSV LIRTRMZO RNZTVH XZKGFIVW WRIVXGOB UILN GSV NRXILURON.  GSV
+RMZYRORGB GL KVIULIN LXI ZOHL DZH Z NZQLI WRHZKKLRMGNVMG.  ZG GSV GRNV,
+XLNKFGVI LFGKFG NRXILURON DZH FMZEZROZYOV GL GVHG.
+
+GSV VJFRKNVMG FHVW ULI Z HXZMMRMT HBHGVN DZH GSV OZHG GLKRX ZWWIVHHVW YB
+ARWZI.  GSV GBKV LU VJFRKNVMG GSZG LMV DLFOW KFIXSZHV ULI Z HXZMMRMT
+HBHGVN RMXOFWVW:  Z NRXILXLNKFGVI, ZG OVZHG Z 386, YFG KIVUVIZYOB Z 486;
+Z OZITV SZIW WRHP, 380 NVTZYBGV ZG NRMRNFN; Z NFOGR-GZHPRMT LKVIZGRMT
+HBHGVN GSZG ZOOLDH LMV GL IFM HLNV GSRMTH RM YZGXS RM GSV YZXPTILFMW
+DSROV HXZMMRMT LI WLRMT GVCG VWRGRMT, ULI VCZNKOV, FMRC LI LH/2 ZMW,
+GSVLIVGRXZOOB, DRMWLDH; Z SRTS-HKVVW HXZMMVI ZMW HXZMMRMT HLUGDZIV GSZG
+ZOOLDH LMV GL NZPV GSV EZIRLFH ZWQFHGNVMGH NVMGRLMVW VZIORVI; Z
+SRTS-IVHLOFGRLM NLMRGLI (150 WKR ); LXI HLUGDZIV ZMW SZIWDZIV GL KVIULIN
+GVCG IVXLTMRGRLM; ZM LKGRXZO WRHP HFYHBHGVN LM DSRXS GL ZIXSREV ZOO GSV
+RNZTVH ZH GSV KILXVHHRMT RH WLMV; UROV NZMZTVNVMG ZMW GIZXPRMT HLUGDZIV.
+
+ARWZI LKRMVW GSZG GSV HLUGDZIV LMV KFIXSZHVH DZH NLIV RNKLIGZMG GSZM GSV
+SZIWDZIV ZMW NRTSG ZOHL XLHG NLIV GSZM GSV SZIWDZIV, YFG RG DZH ORPVOB GL
+KILEV XIRGRXZO GL GSV HFXXVHH LI UZROFIV LU LMV'H HBHGVN.  RM ZWWRGRLM GL
+Z HGZMW-ZOLMV HXZMMRMT DLIPHGZGRLM ULI RNZTV XZKGFIV, GSVM, GVCG XZKGFIV
+IVJFRIVH LMV LI GDL VWRGRMT HGZGRLMH MVGDLIPVW GL GSRH HXZMMRMT HGZGRLM
+GL KVIULIN VWRGRMT.  VWRGRMT GSV GVCG GZPVH GDL LI GSIVV GRNVH ZH OLMT ZH
+XZKGFIRMT GSV RNZTVH.
+
+URMZOOB, ARWZI HGIVHHVW GSV RNKLIGZMXV LU YFBRMT ZM LKVM HBHGVN GSZG ZOOLDH
+ULI NLIV GSZM LMV EVMWLI, XLNKORVH DRGS HGZMWZIWH, ZMW XZM YV FKTIZWVW.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DZGVIH *BZOV FMREVIHRGB ORYIZIB'H NZHGVI KOZM GL XLMEVIG NRXILURON GL
+WRTRGZO RNZTVIB (KLY) * GSV KOZXV LU VOVXGILMRX GLLOH RM GSV ORYIZIB LU
+GSV UFGFIV * GSV FHVH LU RNZTVH ZMW ZM RNZTV ORYIZIB * KIRNZIB RMKFG UILN
+KIVHVIEZGRLM NRXILURON * UVZGFIVH WRHGRMTFRHSRMT KLY UILN XCK ZMW PVB
+SBKLGSVHVH TFRWRMT KLY * FHV LU EVMWLI HVOVXGRLM KILXVHH GL UZXRORGZGV
+LITZMRAZGRLMZO DLIP * XIRGVIRZ ULI HVOVXGRMT EVMWLI * URMZORHGH ZMW
+IVHFOGH LU KILXVHH ULI BZOV * PVB UZXGLI WRHGRMTFRHSRMT EVMWLIH *
+XLNKLMVMGH, WVHRTM KIRMXRKOVH, ZMW HLNV VHGRNZGVW XLHGH LU KLY * ILOV LU
+KIVHVIEZGRLM NZGVIRZOH RM WVEVOLKRMT RNZTRMT NZIPVG * UZXGLIH ZUUVXGRMT
+JFZORGB ZMW XLHG * UZXGLIH ZUUVXGRMT GSV FHZYRORGB LU XLNKOVC WLXFNVMGH
+RM RNZTV ULIN *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+WLMZOW DZGVIH, SVZW LU GSV HBHGVNH LUURXV, BZOV FMREVIHRGB ORYIZIB,
+IVKLIGVW LM GSV KILTIVHH LU Z NZHGVI KOZM ULI Z KILQVXG ZG BZOV GL
+XLMEVIG NRXILURON GL WRTRGZO RNZTVIB, KILQVXG LKVM YLLP (KLY).  HGZGRMT
+GSZG KLY DZH RM ZM ZWEZMXVW HGZTV LU KOZMMRMT, DZGVIH WVGZROVW, RM
+KZIGRXFOZI, GSV KILXVHH LU HVOVXGRMT Z EVMWLI KZIGMVI ZMW HVEVIZO PVB
+RHHFVH FMWVI WRHXFHHRLM ZH BZOV KIVKZIVH GL NLEV RMGL GSV KILQVXG RGHVOU.
+SV XLNNVMGVW URIHG LM GSV ERHRLM GSZG HVIEVH ZH GSV XLMGVCG LU KLY ZMW
+GSVM WVHXIRYVW RGH KFIKLHV ZMW HXLKV.
+
+DZGVIH HVVH GSV ORYIZIB LU GSV UFGFIV MLG MVXVHHZIROB ZH ZM VOVXGILMRX
+ORYIZIB YFG ZH Z KOZXV GSZG TVMVIZGVH, KIVHVIEVH, ZMW RNKILEVH ULI RGH
+XORVMGH IVZWB ZXXVHH GL YLGS RMGVOOVXGFZO ZMW KSBHRXZO IVXLIWVW
+PMLDOVWTV.  VOVXGILMRX GLLOH NFHG URMW Z KOZXV RM GSV ORYIZIB RM GSV
+XLMGVCG LU GSRH ERHRLM.  HVEVIZO ILOVH ULI VOVXGILMRX GLLOH RMXOFWV
+HVIERMT ZH:  RMWRIVXG HLFIXVH LU VOVXGILMRX PMLDOVWTV LI ZH "URMWRMT"
+ZRWH (GSV LM-ORMV XZGZOLTFVH, GSV ZIGRXOV-OVEVO RMWRXVH, IVTRHGVIH ULI
+WLXFNVMGH ZMW ZIXSREVH); WRIVXG HLFIXVH LU IVXLIWVW PMLDOVWTV; UFOO-GVCG
+RNZTVH; ZMW EZIRLFH PRMWH LU XLNKLFMW HLFIXVH LU IVXLIWVW PMLDOVWTV (GSV
+HL-XZOOVW XLNKLFMW WLXFNVMGH LU SBKVIGVCG, NRCVW GVCG ZMW RNZTV,
+NRCVW-GVCG RNZTV ULINZG, ZMW NFOGRNVWRZ).
+
+KLY RH OLLPRMT KZIGRXFOZIOB ZG RNZTVH ZMW ZM RNZTV ORYIZIB, GSV FHVH GL
+DSRXS RNZTVH DROO YV KFG (V.T., HGLIZTV, KIRMGRMT, YILDHRMT, ZMW GSVM FHV
+ZH RMKFG ULI LGSVI KILXVHHVH), LXI ZH Z HFYHVJFVMG KILXVHH GL RNZTV
+XZKGFIV, LI XIVZGRMT ZM RNZTV ORYIZIB, ZMW ZOHL KLHHRYOB TVMVIZGRMT
+NRXILURON.
+
+DSROV RMKFG DROO XLNV UILN Z EZIRVGB LU HLFIXVH, KLY RH XLMHRWVIRMT
+VHKVXRZOOB RMKFG UILN KIVHVIEZGRLM NRXILURON.  Z KLHHRYOV LFGXLNV RH GSZG
+GSV URON ZMW KZKVI DSRXS KILERWV GSV RMKFG ULI GSV RNZTV ORYIZIB
+VEVMGFZOOB NZB TL LUU RMGL IVNLGV HGLIZTV, ZMW GSZG GSV RNZTV ORYIZIB NZB
+YV GSV KIRNZIB ZXXVHH GLLO.
+
+GSV KFIKLHV ZMW HXLKV LU KLY ULXFH LM RNZTRMT.  GSLFTS IVOZGVW GL XCK,
+KLY SZH GDL UVZGFIVH DSRXS WRHGRMTFRHS RG:  1) HXZOV--XLMEVIHRLM LU
+10,000 ELOFNVH RMGL WRTRGZO RNZTV ULIN; ZMW 2) HLFIXV--XLMEVIHRLM UILN
+NRXILURON.  TREVM GSVHV UVZGFIVH, HVEVIZO PVB DLIPRMT SBKLGSVHVH TFRWV
+KLY, RMXOFWRMT:  1) HRMXV KLY RH FHRMT NRXILURON, RG RH MLG XLMXVIMVW DRGS
+GSV RNZTV ORYIZIB ZH Z KIVHVIEZGRLM NVWRFN.  2) WRTRGZO RNZTVIB XZM RNKILEV
+ZXXVHH GL IVXLIWVW PMLDOVWTV GSILFTS KIRMGRMT ZMW MVGDLIP WRHGIRYFGRLM ZG
+Z NLWVHG RMXIVNVMGZO XLHG LU NRXILURON.  3) XZKGFIRMT ZMW HGLIRMT WLXFNVMGH
+RM Z WRTRGZO RNZTV ULIN RH MVXVHHZIB GL UFIGSVI RNKILEVNVMGH RM ZXXVHH.
+(KLY WRHGRMTFRHSVH YVGDVVM GSV RNZTRMT, WRTRGRARMT KILXVHH ZMW LXI,
+DSRXS ZG GSRH HGZTV RG WLVH MLG KOZM GL KVIULIN.)
+
+XFIIVMGOB RM RGH URIHG LI LITZMRAZGRLMZO KSZHV, KLY ULFMW GSZG RG XLFOW
+FHV Z EVMWLI HVOVXGRLM KILXVHH GL UZXRORGZGV Z TLLW WVZO LU GSV
+LITZMRAZGRLMZO DLIP (V.T., XIVZGRMT Z KILQVXG GVZN ZMW ZWERHLIB YLZIW,
+XLMURINRMT GSV EZORWRGB LU GSV KOZM, VHGZYORHSRMT GSV XLHG LU GSV KILQVXG
+ZMW Z YFWTVG, HVOVXGRMT GSV NZGVIRZOH GL XLMEVIG, ZMW GSVM IZRHRMT GSV
+MVXVHHZIB UFMWH).
+
+KLY WVEVOLKVW MFNVILFH HVOVXGRLM XIRGVIRZ, RMXOFWRMT:  Z URIN XLNNRGGVW
+GL RNZTV-WLXFNVMG NZMZTVNVMG, GSV ZYRORGB GL HVIEV ZH HBHGVNH RMGVTIZGLI
+RM Z OZITV-HXZOV KILQVXG LEVI HVEVIZO BVZIH, RMGVIVHG RM WVEVOLKRMT GSV
+IVJFRHRGV HLUGDZIV ZH Z HGZMWZIW IZGSVI GSZM Z XFHGLN KILWFXG, ZMW Z
+DROORMTMVHH GL RMEVHG HFYHGZMGRZO IVHLFIXVH RM GSV KILQVXG RGHVOU.
+
+GDL EVMWLIH, WVX ZMW CVILC, DVIV HVOVXGVW ZH URMZORHGH RM LXGLYVI 1991,
+ZMW DRGS GSV HFKKLIG LU GSV XLNNRHHRLM LM KIVHVIEZGRLM ZMW ZXXVHH, VZXS
+DZH XLNNRHHRLMVW GL TVMVIZGV Z WVGZROVW IVJFRIVNVMGH ZMZOBHRH ULI GSV
+KILQVXG ZMW GSVM GL HFYNRG Z ULINZO KILKLHZO ULI GSV XLNKOVGRLM LU GSV
+KILQVXG, DSRXS RMXOFWVW Z YFWTVG ZMW XLHGH. GSV GVINH DVIV GSZG KLY DLFOW
+KZB GSV OLHVI.  GSV IVHFOGH ULI BZOV LU RMELOERMT Z EVMWLI RMXOFWVW:
+YILZW RMELOEVNVMG LU BZOV HGZUU ZXILHH GSV YLZIW ZG Z IVOZGREVOB OLD
+XLHG, DSRXS NZB SZEV OLMT-GVIN HRTMRURXZMXV RM XZIIBRMT LFG GSV KILQVXG
+(GDVMGB-UREV GL GSRIGB FMREVIHRGB KVLKOV ZIV VMTZTVW RM KLY); YVGGVI
+FMWVIHGZMWRMT LU GSV UZXGLIH GSZG ZUUVXG XLIKLIZGV IVHKLMHV GL NZIPVGH
+ULI RNZTRMT KILWFXGH; Z XLNKVGRGREV KILKLHZO; ZMW Z NLIV HLKSRHGRXZGVW
+ERVD LU GSV RNZTRMT NZIPVGH.
+
+GSV NLHG RNKLIGZMG UZXGLI GSZG WRHGRMTFRHSVW GSV EVMWLIH FMWVI
+XLMHRWVIZGRLM DZH GSVRI RWVMGRURXZGRLM DRGS GSV XFHGLNVI.  GSV HRAV ZMW
+RMGVIMZO XLNKOVCRGB LU GSV XLNKZMB ZOHL DZH ZM RNKLIGZMG UZXGLI.  KLY DZH
+OLLPRMT ZG OZITV XLNKZMRVH GSZG SZW HFYHGZMGRZO IVHLFIXVH.  RM GSV VMW,
+GSV KILXVHH TVMVIZGVW ULI BZOV GDL XLNKVGRGREV KILKLHZOH, DRGS CVILC'H
+GSV XOVZI DRMMVI.  DZGVIH GSVM WVHXIRYVW GSV XLNKLMVMGH LU GSV KILKLHZO,
+GSV WVHRTM KIRMXRKOVH, ZMW HLNV LU GSV XLHGH VHGRNZGVW ULI GSV KILXVHH.
+
+XLNKLMVMGH ZIV VHHVMGRZOOB ULFI:  Z XLMEVIHRLM HFYHBHGVN, Z
+MVGDLIP-ZXXVHHRYOV HGLIZTV HFYHBHGVN ULI 10,000 YLLPH (ZMW KLY VCKVXGH
+200 GL 600 WKR HGLIZTV), YILDHRMT HGZGRLMH WRHGIRYFGVW LM GSV XZNKFH
+MVGDLIP, ZMW MVGDLIP ZXXVHH GL GSV RNZTV KIRMGVIH.
+
+ZNLMT GSV WVHRTM KIRMXRKOVH, KLY DZMGVW XLMEVIHRLM ZG GSV SRTSVHG
+KLHHRYOV IVHLOFGRLM.  ZHHFNRMT GRUU UROVH, GRUU UROVH DRGS TILFK 4
+XLNKIVHHRLM, GXK/RK, ZMW VGSVIMVG MVGDLIP LM XZNKFH, KLY DZMGVW Z
+XORVMG-HVIEVI ZKKILZXS DRGS RNZTV WLXFNVMGH WRHGIRYFGVW GL GSV
+DLIPHGZGRLMH ZMW NZWV ZXXVHHRYOV GSILFTS MZGREV DLIPHGZGRLM RMGVIUZXVH
+HFXS ZH DRMWLDH.  KLY ZOHL RMHRHGVW LM Z KSZHVW ZKKILZXS GL
+RNKOVNVMGZGRLM:  1) Z HGZMW-ZOLMV, HRMTOV-FHVI, OLD-XLHG VMGIB RMGL GSV
+YFHRMVHH DRGS Z DLIPHGZGRLM ULXFHVW LM XLMEVIHRLM ZMW ZOOLDRMT KLY GL
+VCKOLIV FHVI ZXXVHH; 2) NLEVNVMG RMGL Z SRTSVI-ELOFNV XLMEVIHRLM DRGS
+MVGDLIP-ZXXVHHRYOV HGLIZTV ZMW NFOGRKOV ZXXVHH HGZGRLMH; ZMW 3) Z
+SRTS-ELOFNV XLMEVIHRLM, UFOO-XZKZXRGB HGLIZTV, ZMW NFOGRKOV YILDHRMT
+HGZGRLMH WRHGIRYFGVW GSILFTSLFG GSV XZNKFH.
+
+GSV XLHGH KILKLHVW ULI HGZIG-FK ZHHFNVW GSV VCRHGVMXV LU GSV BZOV MVGDLIP
+ZMW RGH GDL WLXFGVXS RNZTV KIRMGVIH.  LGSVI HGZIG-FK XLHGH ZIV VHGRNZGVW
+ZG $1 NROORLM LEVI GSV GSIVV KSZHVH.  ZG GSV VMW LU GSV KILQVXG, GSV ZMMFZO
+LKVIZGRMT XLHGH VHGRNZGVW KIRNZIROB ULI GSV HLUGDZIV ZMW SZIWDZIV KILKLHVW
+XLNV GL ZYLFG $60,000, YFG GSVHV VCXOFWV XLHGH ULI OZYLI MVVWVW RM GSV
+XLMEVIHRLM KILXVHH, MVGDLIP ZMW KIRMGVI FHZTV, ZMW UZXRORGRVH NZMZTVNVMG.
+
+URMZOOB, GSV HVOVXGRLM KILXVHH KILWFXVW ULI BZOV Z NLIV HLKSRHGRXZGVW
+ERVD LU GSV RNZTRMT NZIPVGH:  GSV NZMZTVNVMG LU XLNKOVC WLXFNVMGH RM
+RNZTV ULIN RH MLG Z KIVHVIEZGRLM KILYOVN, MLG Z ORYIZIB KILYOVN, YFG Z
+TVMVIZO KILYOVN RM Z YILZW, TVMVIZO RMWFHGIB.  KIVHVIEZGRLM NZGVIRZOH ZIV
+FHVUFO ULI WVEVOLKRMT GSZG NZIPVG YVXZFHV LU GSV JFZORGRVH LU GSV
+NZGVIRZO.  ULI VCZNKOV, NFXS LU RG RH LFG LU XLKBIRTSG.  GSV IVHLOFGRLM
+LU PVB RHHFVH HFXS ZH GSV JFZORGB LU HXZMMRMT ZMW RNZTV YILDHRMT ZOHL
+DROO ZUUVXG WVEVOLKNVMG LU GSZG NZIPVG.
+
+GSV GVXSMLOLTB RH IVZWROB ZEZROZYOV YFG XSZMTRMT IZKRWOB.  RM GSRH
+XLMGVCG LU IZKRW XSZMTV, HVEVIZO UZXGLIH ZUUVXG JFZORGB ZMW XLHG, GL
+DSRXS KLY RMGVMWH GL KZB KZIGRXFOZI ZGGVMGRLM, ULI VCZNKOV, GSV EZIRLFH
+OVEVOH LU IVHLOFGRLM GSZG XZM YV ZXSRVEVW.  KLY YVORVEVH RG XZM YIRMT
+IVHLOFGRLM FK GL 600 WKR, YFG ZM RMGVIKLOZGRLM KILXVHH UILN 400 GL 600 RH
+NLIV ORPVOB.  GSV EZIRZGRLM JFZORGB RM NRXILURON DROO KILEV GL YV Z
+SRTSOB RNKLIGZMG UZXGLI.  KLY NZB IVVCZNRMV GSV HGZMWZIWH FHVW GL URON RM
+GSV URIHG KOZXV YB OLLPRMT ZG GSRH KILXVHH ZH Z ULOOLD-LM GL NRXILURONRMT.
+
+LGSVI RNKLIGZMG UZXGLIH RMXOFWV:  GSV GVXSMRJFVH ZEZROZYOV GL GSV
+LKVIZGLI ULI SZMWORMT NZGVIRZO, GSV DZBH LU RMGVTIZGRMT JFZORGB XLMGILO
+RMGL GSV WRTRGRARMT DLIP UOLD, ZMW Z DLIP UOLD GSZG RMXOFWVH RMWVCRMT ZMW
+HGLIZTV.  KLY'H IVJFRIVNVMG DZH GL YV ZYOV GL WVZO DRGS JFZORGB XLMGILO
+ZG GSV KLRMG LU HXZMMRMT.  GSFH, GSZMPH GL CVILC, KLY ZMGRXRKZGVH SZERMT
+Z NVXSZMRHN DSRXS DROO ZOOLD RG MLG LMOB GL HXZM RM YZGXS ULIN, YFG GL
+IVERVD GSV NZGVIRZO ZH RG TLVH GSILFTS GSV HXZMMVI ZMW XLMGILO JFZORGB
+UILN GSV LFGHVG.
+
+GSV HGZMWZIWH ULI NVZHFIRMT JFZORGB ZMW XLHGH WVKVMW TIVZGOB LM GSV FHVH
+LU GSV NZGVIRZO, RMXOFWRMT HFYHVJFVMG LXI, HGLIZTV, KIRMGRMT, ZMW
+YILDHRMT.  YFG VHKVXRZOOB ZG RHHFV ULI KLY RH GSV UZXRORGB ULI YILDHRMT.
+GSRH UZXRORGB, DZGVIH HZRW, RH KVISZKH GSV DVZPVHG ZHKVXG LU RNZTRMT
+GVXSMLOLTB ZMW GSV NLHG RM MVVW LU WVEVOLKNVMG.
+
+Z EZIRVGB LU UZXGLIH ZUUVXG GSV FHZYRORGB LU XLNKOVC WLXFNVMGH RM RNZTV
+ULIN, ZNLMT GSVN:  1) GSV ZYRORGB LU GSV HBHGVN GL SZMWOV GSV UFOO IZMTV
+LU WLXFNVMG GBKVH, MLG QFHG NLMLTIZKSH YFG HVIRZOH, NFOGR-KZIG
+NLMLTIZKSH, ZMW NZMFHXIRKGH; 2) GSV OLXZGRLM LU GSV WZGZYZHV LU IVXLIW
+ULI YRYORLTIZKSRX RMULINZGRLM ZYLFG GSV RNZTV WLXFNVMG, DSRXS KLY DZMGH
+GL VMGVI LMXV ZMW RM GSV NLHG FHVUFO KOZXV, GSV LM-ORMV XZGZOLT; 3) Z
+WLXFNVMG RWVMGRURVI ULI IVUVIVMXRMT GSV YRYORLTIZKSRX RMULINZGRLM RM LMV
+KOZXV ZMW GSV RNZTVH RM ZMLGSVI; 4) GSV GVXSMRJFV ULI NZPRMT GSV YZHRX
+RMGVIMZO HGIFXGFIV LU GSV WLXFNVMG ZXXVHHRYOV GL GSV IVZWVI; ZMW URMZOOB,
+5) GSV KSBHRXZO KIVHVMGZGRLM LM GSV XIG LU GSLHV WLXFNVMGH.  KLY RH IVZWB
+GL XLNKOVGV GSRH KSZHV MLD.  LMV OZHG WVXRHRLM RMELOEVH WVXRWRMT DSRXS
+NZGVIRZO GL HXZM.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WRHXFHHRLM * GRUU UROVH XLMHGRGFGV WV UZXGL HGZMWZIW * MZIZ'H VCKVIRVMXV
+DRGS RNZTV XLMEVIHRLM HLUGDZIV ZMW GVCG XLMEVIHRLM * IUX 1314 *
+XLMHRWVIZYOV UOFC XLMXVIMRMT ZEZROZYOV SZIWDZIV ZMW HLUGDZIV HLOFGRLMH *
+MZO GSILFTS-KFG IZGV WFIRMT HXZMMRMT * DRMWLD NZMZTVNVMG JFVHGRLMH *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+RM GSV JFVHGRLM-ZMW-ZMHDVI KVIRLW GSZG ULOOLDVW DZGVIH'H KIVHVMGZGRLM,
+GSV ULOOLDRMT KLRMGH VNVITVW:
+
+     * ARWZI'H HGZGVNVMG ZYLFG FHRMT GRUU UROVH ZH Z HGZMWZIW NVZMG WV
+     UZXGL HGZMWZIW.  GSRH RH DSZG NLHG KVLKOV FHV ZMW GBKRXZOOB VCXSZMTV
+     DRGS LGSVI TILFKH, ZXILHH KOZGULINH, LI VEVM LXXZHRLMZOOB ZXILHH
+     WRHKOZB HLUGDZIV.
+
+     * SLONVH XLNNVMGVW LM GSV FMHFXXVHHUFO VCKVIRVMXV LU MZIZ RM
+     ZGGVNKGRMT GL IFM RNZTV-XLMEVIHRLM HLUGDZIV LI GL VCXSZMTV YVGDVVM
+     ZKKORXZGRLMH:  DSZG ZIV HFKKLHVWOB GRUU UROVH TL RMGL LGSVI HLUGDZIV
+     GSZG RH HFKKLHVW GL YV ZYOV GL ZXXVKG GRUU YFG XZMMLG IVXLTMRAV GSV
+     ULINZG ZMW XZMMLG WVZO DRGS RG, ZMW GSFH IVMWVIH GSV VCXSZMTV
+     FHVOVHH.  IV GVCG XLMEVIHRLM, SV MLGVW GSV WRUUVIVMG IVXLTMRGRLM
+     IZGVH LYGZRMVW YB HFYHGRGFGRMT GSV NZPV ZMW NLWVO LU HXZMMVIH RM
+     MZIZ'H IVXVMG GVHG LU ZM "RMGVOORTVMG" XSZIZXGVI-IVXLTMRGRLM KILWFXG
+     ULI Z MVD XLNKZMB.  RM GSV HVOVXGRLM LU SZIWDZIV ZMW HLUGDZIV,
+     SLONVH ZITFVW, HLUGDZIV ML OLMTVI XLMHGRGFGVH GSV LEVIIRWRMT UZXGLI
+     RG WRW FMGRO ZYLFG Z BVZI ZTL; IZGSVI RG RH KVISZKH RNKLIGZMG GL
+     OLLP ZG YLGS MLD.
+
+     * WZMMB XLSVM ZMW ZOZM PZGA LU GSV FMREVIHRGB LU HLFGSVIM XZORULIMRZ
+     RMULINZGRLM HXRVMXVH RMHGRGFGV YVTZM XRIXFOZGRMT ZH ZM RMGVIMVG IUX
+     (IUX 1314) ZYLFG Z NLMGS ZTL Z HGZMWZIW ULI Z GRUU RMGVIXSZMTV
+     ULINZG ULI RMGVIMVG WRHGIRYFGRLM LU NLMLXSILNV YRG-NZKKVW RNZTVH,
+     DSRXS OBMXS HZRW SV YVORVEVW DLFOW YV FHVW ZH Z WV UZXGL HGZMWZIW.
+
+     * UOVRHXSSZFVI'H RNKIVHHRLM UILN SVZIRMT GSVHV IVKLIGH ZMW GSRMPRMT
+     ZYLFG ZN'H VCKVIRVMXV DZH GSZG GSVIV RH XLMHRWVIZYOV UOFC XLMXVIMRMT
+     ZEZROZYOV SZIWDZIV ZMW HLUGDZIV HLOFGRLMH.  SLLGLM ZTIVVW ZMW
+     XLNNVMGVW ZG GSV HZNV GRNV LM ARWZI'H HGZGVNVMG GSZG GSV VJFRKNVMG
+     VNKOLBVW ZUUVXGH GSV IVHFOGH KILWFXVW.  LMV XZMMLG WIZD Z XLNKOVGV
+     XLMXOFHRLM YB HZBRMT RG RH WRUURXFOG LI RNKLHHRYOV GL KVIULIN LXI
+     UILN HXZMMRMT NRXILURON, ULI VCZNKOV, DRGS GSZG WVERXV,  GSZG HVG LU
+     KZIZNVGVIH, ZMW HBHGVN IVJFRIVNVMGH, YVXZFHV MFNVILFH LGSVI KVLKOV
+     ZIV ZXXLNKORHSRMT QFHG GSZG, FHRMT LGSVI XLNKLMVMGH, KVISZKH.
+     SLLGLM LKRMVW GSZG YLGS GSV SZIWDZIV ZMW GSV HLUGDZIV DVIV SRTSOB
+     RNKLIGZMG.  NLHG LU GSV KILYOVNH WRHXFHHVW GLWZB SZEV YVVM HLOEVW RM
+     MFNVILFH WRUUVIVMG DZBH YB LGSVI KVLKOV.  GSLFTS RG RH TLLW GL YV
+     XLTMRAZMG LU EZIRLFH VCKVIRVMXVH, GSRH RH MLG GL HZB GSZG RG DROO
+     ZODZBH YV GSFH.
+
+     * ZG MZO, GSV GSILFTS-KFG IZGV LU GSV HXZMMRMT KILXVHH ULI KZKVI,
+     KZTV YB KZTV, KVIULINRMT LXI, IZMTVH UILN 300 GL 600 KZTVH KVI WZB;
+     MLG KVIULINRMT LXI RH XLMHRWVIZYOB UZHGVI, ZOGSLFTS SLD NFXS UZHGVI
+     RH MLG PMLDM.  GSRH RH ULI HXZMMRMT UILN YLFMW YLLPH, DSRXS RH NFXS
+     HOLDVI.
+
+     * DZGVIH XLNNVMGVW LM DRMWLD NZMZTVNVMG JFVHGRLMH:  WVX KILKLHVW ZM
+     C-DRMWLDH HLOFGRLM DSRXS DZH KILYOVNZGRXZO ULI GDL IVZHLMH.  LMV DZH
+     KLY'H IVJFRIVNVMG GL YV ZYOV GL NZMRKFOZGV RNZTVH LM GSV DLIPHGZGRLM
+     ZMW YIRMT GSVN WLDM GL GSV DLIPHGZGRLM RGHVOU ZMW GSV LGSVI DZH
+     MVGDLIP FHZTV.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+GSLNZ * ROOFHGIZGRLM LU WVURXRVMXRVH RM HXZMMRMT ZMW HGLIZTV KILXVHH *
+RNZTV JFZORGB RM GSRH KILXVHH * WRUUVIVMG XLHGH VMGZROVW YB YVGGVI RNZTV
+JFZORGB * GVXSMRJFVH ULI LEVIXLNRMT EZIRLFH WV-URXRVMXRVH:  URCVW
+GSIVHSLOWRMT, WBMZNRX GSIVHSLOWRMT, WRGSVIRMT, RNZTV NVITV * KZTV VWTV
+VUUVXGH *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+TVLITV GSLNZ, XSRVU, XLNNFMRXZGRLMH VMTRMVVIRMT YIZMXS, MZGRLMZO ORYIZIB
+LU NVWRXRMV (MON), ROOFHGIZGVW HVEVIZO LU GSV WVURXRVMXRVH WRHXFHHVW YB
+GSV KIVERLFH HKVZPVIH.  SV RMGILWFXVW GSV GLKRX LU HKVXRZO KILYOVNH YB
+MLGRMT GSV ZWEZMGZTVH LU VOVXGILMRX RNZTRMT.  ULI VCZNKOV, RG RH IVTVMVIZYOV
+YVXZFHV RG RH Z XLWVW UROV, ZMW IVZO-GRNV JFZORGB XLMGILO RH KLHHRYOV DRGS
+VOVXGILMRX XZKGFIV, DSVIVZH RM KSLGLTIZKSRX XZKGFIV RG RH MLG.
+
+LMV LU GSV WRUURXFOGRVH WRHXFHHVW RM GSV HXZMMRMT ZMW HGLIZTV KILXVHH DZH
+RNZTV JFZORGB DSRXS, DRGSLFG YVOZYLIRMT GSV LYERLFH, NVZMH WRUUVIVMG
+GSRMTH ULI NZKH, NVWRXZO C-IZBH, LI YILZWXZHG GVOVERHRLM.  RM GSV XZHV LU
+WLXFNVMGH, GSLNZ HZRW, RNZTV JFZORGB YLROH WLDM GL OVTRYRORGB LU GSV
+GVCGFZO KZIGH, ZMW URWVORGB RM GSV XZHV LU TIZB LI XLOLI KSLGL KIRMG-GBKV
+NZGVIRZO.  OVTRYRORGB YLROH WLDM GL HXZM WVMHRGB, GSV HGZMWZIW RM NLHG
+XZHVH YVRMT 300 WKR.  RMXIVZHRMT GSV IVHLOFGRLM DRGS HXZMMVIH GSZG
+KVIULIN 600 LI 1200 WKR, SLDVEVI, XLNVH ZG Z XLHG.
+
+YVGGVI RNZTV JFZORGB VMGZROH ZG OVZHG ULFI WRUUVIVMG PRMWH LU XLHGH:  1)
+VJFRKNVMG XLHGH, YVXZFHV GSV XXW (R.V., XSZITV-XLFKOV WVERXV) DRGS
+TIVZGVI MFNYVI LU VOVNVMGH XLHGH NLIV;  2) GRNV XLHGH GSZG GIZMHOZGV GL
+GSV ZXGFZO XZKGFIV XLHGH, YVXZFHV NZMFZO OZYLI RH RMELOEVW (GSV GRNV RH
+ZOHL WVKVMWVMG LM GSV UZXG GSZG NLIV WZGZ SZH GL YV NLEVW ZILFMW RM GSV
+NZXSRMV RM GSV HXZMMRMT LI MVGDLIP WVERXVH GSZG KVIULIN GSV HXZMMRMT ZH
+DVOO ZH GSV HGLIZTV);  3) NVWRZ XLHGH, YVXZFHV ZG SRTS IVHLOFGRLMH OZITVI
+UROVH SZEV GL YV HGLIVW; ZMW 4) GIZMHNRHHRLM XLHGH, YVXZFHV GSVIV RH QFHG
+NLIV WZGZ GL YV GIZMHNRGGVW.
+
+YFG DSROV IVHLOFGRLM GZPVH XZIV LU GSV RHHFV LU OVTRYRORGB RM RNZTV
+JFZORGB, LGSVI WVURXRVMXRVH SZEV GL WL DRGS XLMGIZHG ZMW VOVNVMGH LM GSV
+KZTV HXZMMVW LI GSV RNZTV GSZG MVVWVW GL YV IVNLEVW LI XOZIRURVW.  GSFH,
+GSLNZ KILXVVWVW GL ROOFHGIZGV EZIRLFH WVURXRVMXRVH, SLD GSVB ZIV
+NZMRUVHGVW, ZMW HVEVIZO GVXSMRJFVH GL LEVIXLNV GSVN.
+
+URCVW GSIVHSLOWRMT DZH GSV URIHG GVXSMRJFV WVHXIRYVW, HFRGZYOV ULI
+YOZXP-ZMW-DSRGV GVCG, DSVM GSV XLMGIZHG WLVH MLG EZIB LEVI GSV KZTV.  LMV
+XZM SZEV NZMB WRUUVIVMG GSIVHSLOW OVEVOH RM HXZMMRMT WVERXVH.  GSFH,
+GSLNZ LUUVIVW ZM VCZNKOV LU VCGIVNVOB KLLI XLMGIZHG, DSRXS IVHFOGVW UILN
+GSV UZXG GSZG GSV HGLXP DZH Z SVZEB IVW.  GSRH RH GSV HLIG LU RNZTV GSZG
+DSVM NRXILURONVW UZROH GL KILERWV ZMB OVTRYRORGB DSZGHLVEVI.  URCVW
+GSIVHSLOWRMT RH GSV DZB GL XSZMTV GSV YOZXP-GL-IVW XLMGIZHG GL GSV
+WVHRIVW YOZXP-GL-DSRGV XLMGIZHG.
+
+LGSVI VCZNKOVH RMXOFWVW NZGVIRZO GSZG SZW YVVM YILDMVW LI BVOOLDVW YB
+ZTV.  GSRH DZH ZOHL Z XZHV LU XLMGIZHG WVURXRVMXB, ZMW XLIIVXGRLM DZH
+WLMV YB URCVW GSIVHSLOWRMT.  Z URMZO VCZNKOV YLROH WLDM GL GSV HZNV
+GSRMT, HORTSG EZIRZYRORGB, YFG RG RH MLG HRTMRURXZMG.  URCVW GSIVHSLOWRMT
+WLXFNVMGZGRLM ZMW FHVI TFRWVH, ZH DVOO ZH TFRWVH GSZG UIVVNZM KIVKZIVW ULI
+GVZXSVIH HL GSZG GSVB NZB YVTRM FHRMT GSV XLMGVMG LU GSV HBHGVN ZG LMXV.
+
+EVXXRZ WVHXIRYVW GSV VEZOFZGRLM KILQVXG YVULIV GZOPRMT ZYLFG GSV KFYORX
+FHVIH LU ZN, ORNRGRMT SVI IVNZIPH GL KFYORX ORYIZIRVH, YVXZFHV UIVVNZM
+DLFOW GZOP NLIV HKVXRURXZOOB ZYLFG HXSLLOH UILN PRMWVITZIGVM GL GDVOUGS
+TIZWV (P-12).   SZERMT HGZIGVW RM HKIRMT 1991, GSV VEZOFZGRLM XFIIVMGOB
+RMELOEVH GVHGRMT LU GSV NZXRMGLHS RNKOVNVMGZGRLM LU ZN.  HRMXV GSV
+KIRNZIB TLZO LU GSRH VEZOFZGRLM RH GL WVGVINRMV GSV NLHG ZKKILKIRZGV
+ZFWRVMXV LI ZFWRVMXVH ULI ZN, EVIB WRUUVIVMG HRGVH DVIV HVOVXGVW.  GSRH
+NZPVH VEZOFZGRLM WRUURXFOG YVXZFHV LU GSV EZIBRMT WVTIVVH LU GVXSMLOLTB
+ORGVIZXB ZNLMT GSV HRGVH.  ZN RH HRGFZGVW RM ULIGB-ULFI OLXZGRLMH, LU
+DSRXS HRC ZIV KFYORX ORYIZIRVH ZMW HRCGVVM ZIV HXSLLOH.  IVKIVHVMGVW
+ZNLMT GSV HXSLLOH ZIV VOVNVMGZIB, QFMRLI SRTS, ZMW SRTS HXSLLOH.
+WRHGIRXG LUURXVH ZOHL ZIV RMELOEVW RM GSV VEZOFZGRLM, DSRXS DROO
+XLMXOFWV RM HFNNVI 1993.
+
+EVXXRZ ULXFHVW GSV IVNZRMWVI LU SVI GZOP LM GSV HRC KFYORX ORYIZIRVH, LMV
+LU DSRXS WLFYOVH ZH Z HGZGV ORYIZIB.  GSVB IVKIVHVMG Z IZMTV LU
+TVLTIZKSRX ZIVZH ZMW Z IZMTV LU WVNLTIZKSRX XSZIZXGVIRHGRXH.  ULI
+VCZNKOV, GSIVV ZIV OLXZGVW RM FIYZM HVGGRMTH, GDL RM IFIZO HVGGRMTH, ZMW
+LMV RM Z HFYFIYZM HVGGRMT.  Z IZMTV LU GVXSMRXZO VCKVIGRHV RH GL YV ULFMW
+ZNLMT GSVHV UZXRORGRVH ZH DVOO.  ULI VCZNKOV, LMV RH ZM "ZKKOV ORYIZIB LU
+GSV UFGFIV," DSROV GDL LGSVIH ZIV IFIZO LMV-ILLN ORYIZIRVH--RM LMV, ZN
+HRGH ZG GSV UILMG WVHP MVCG GL Z GIZXGLI NZMFZO.
+
+ZOO KFYORX ORYIZIRVH SZEV YVVM VCGIVNVOB VMGSFHRZHGRX, HFKKLIGREV, ZMW
+ZKKIVXRZGREV LU GSV DLIP GSZG ZN SZH YVVM WLRMT.  EVXXRZ XSZIZXGVIRAVW
+EZIRLFH FHVIH:  NLHG FHVIH RM KFYORX ORYIZIRVH WVHXIRYV GSVNHVOEVH ZH
+TVMVIZO IVZWVIH; LU GSV HGFWVMGH DSL FHV ZN RM GSV KFYORX ORYIZIRVH,
+GSLHV RM ULFIGS TIZWV ZMW ZYLEV HVVN NLHG RMGVIVHGVW.  KFYORX ORYIZIRVH
+RM IFIZO HRGVH GVMW GL ZGGIZXG IVGRIVW KVLKOV, DSL SZEV YVVM SRTSOB
+IVXVKGREV GL ZN.  FHVIH GVMW GL UZOO RMGL GDL ZWWRGRLMZO XZGVTLIRVH:
+KVLKOV RMGVIVHGVW RM GSV XLMGVMG ZMW SRHGLIRXZO XLMMLGZGRLMH LU GSVHV
+KIRNZIB IVHLFIXVH, ZMW GSLHV UZHXRMZGVW YB GSV GVXSMLOLTB.  GSV ULINZG
+IVXVRERMT GSV NLHG XLNNVMGH SZH YVVM NLGRLM KRXGFIVH.  GSV ZWFOG FHVIH RM
+KFYORX ORYIZIRVH ZIV NLIV XLNULIGZYOV DRGS RYN XLNKFGVIH, DSVIVZH BLFMT
+KVLKOV HVVN XLNULIGZYOV DRGS VRGSVI RYN LI NZXRMGLHS, ZOGSLFTS NLHG LU
+GSVN HVVN GL XLNV UILN Z NZXRMGLHS YZXPTILFMW.  GSRH HZNV GVMWVMXB RH
+ULFMW RM GSV HXSLLOH.
+
+DSZG PRMWH LU GSRMTH WL FHVIH WL DRGS ZN?  RM Z KFYORX ORYIZIB GSVIV ZIV
+GDL NZRM TLZOH LI DZBH GSZG ZN RH YVRMT FHVW:  ZH ZM RMWRERWFZO OVZIMRMT
+GLLO, ZMW ZH Z OVRHFIV ZXGRERGB.  ZWFOG OVZIMRMT DZH LMV ZIVZ GSZG EVXXRZ
+DLFOW SRTSORTSG ZH Z KLHHRYOV ZKKORXZGRLM ULI Z GLLO HFXS ZH ZN.  HSV
+WVHXIRYVW Z KZGILM LU Z IFIZO KFYORX ORYIZIB DSL XLNVH RM VEVIB WZB LM
+SRH OFMXS SLFI ZMW ORGVIZOOB IVZWH ZN, NVGSLWRXZOOB TLRMT GSILFTS GSV
+XLOOVXGRLM RNZTV YB RNZTV.  ZG GSV VMW LU SRH SLFI SV NZPVH ZM VOVXGILMRX
+YLLPNZIP, KFGH RG RM SRH KLXPVG, ZMW IVGFIMH GL DLIP.  GSV MVCG WZB SV
+XLNVH RM ZMW IVHFNVH DSVIV SV OVUG LUU.  RMGVIVHGRMTOB, GSRH NZM SZW
+MVEVI YVVM RM GSV ORYIZIB YVULIV SV FHVW ZN.  RM ZMLGSVI HNZOO, IFIZO
+ORYIZIB, GSV XLLIWRMZGLI IVKLIGH GSZG ZN RH Z KLKFOZI ZXGRERGB ULI HLNV
+LU GSV LOWVI, IVGRIVW KVLKOV RM GSV XLNNFMRGB, DSL LIWRMZIROB DLFOW MLG
+FHV "GSLHV GSRMTH,"--XLNKFGVIH.  ZMLGSVI VCZNKOV LU ZWFOG OVZIMRMT RM
+KFYORX ORYIZIRVH RH YLLP TILFKH, LMV LU DSRXS, RM KZIGRXFOZI, RH FHRMT ZN
+ZH KZIG LU RGH IVZWRMT LM RMWFHGIRZORAZGRLM, RMGVTIZGRLM, ZMW FIYZMRAZGRLM
+RM GSV VZIOB 1900H.
+
+LMV ORYIZIB IVKLIGH GSZG Z UZNROB RH FHRMT ZN GL SVOK VWFXZGV GSVRI
+XSROWIVM.  RM ZMLGSVI RMHGZMXV, RMWRERWFZOH UILN Z OLXZO NFHVFN XZNV RM
+GL FHV ZN GL KIVKZIV ZM VCSRYRG LM GLBH LU GSV KZHG.  GSVHV GDL VCZNKOVH
+VNKSZHRAV GSV NRHHRLM LU GSV KFYORX ORYIZIB ZH Z XFOGFIZO RMHGRGFGRLM,
+IVZXSRMT LFG GL KVLKOV DSL WL MLG SZEV GSV HZNV IVHLFIXVH ZEZROZYOV GL
+GSLHV DSL OREV RM Z NVGILKLORGZM ZIVZ LI SZEV ZXXVHH GL Z NZQLI ORYIZIB.
+LMV IFIZO ORYIZIB IVKLIGH GSZG QFMRLI SRTS HXSLLO HGFWVMGH RM OZITV
+MFNYVIH XZNV RM LMV ZUGVIMLLM GL FHV ZN ULI VMGVIGZRMNVMG.  Z MFNYVI LU
+KFYORX ORYIZIRVH IVKLIGVW TIVZG RMGVIVHG ZNLMT KLHGXZIW XLOOVXGLIH RM GSV
+WVGILRG XLOOVXGRLM, DSRXS DZH VHHVMGRZOOB Z XLOOVXGRLM LU RNZTVH FHVW LM
+KLHGXZIWH ZILFMW GSV GFIM LU GSV XVMGFIB.  GIZRM YFUUH ZIV HRNROZIOB
+RMGVIVHGVW YVXZFHV GSZG DZH Z GRNV LU TIVZG RMGVIVHG RM IZROILZWRMT.
+KVLKOV, RG DZH ULFMW, IVOZGV GL GSRMTH GSZG GSVB PMLD LU URIHGSZMW.  ULI
+VCZNKOV, RM YLGS IFIZO KFYORX ORYIZIRVH DSVIV ZN DZH NZWV ZEZROZYOV,
+LYHVIEVIH IVKLIGVW GSZG GSV LOWVI KVLKOV DRGS KVIHLMZO IVNVNYIZMXVH LU
+GSV GFIM LU GSV XVMGFIB DVIV TIZERGZGRMT GL GSV WVGILRG XLOOVXGRLM.
+GSVHV VCZNKOVH HVIEVW GL FMWVIHXLIV NRXSVOHLM'H LYHVIEZGRLM IV GSV
+RMGVTIZGRLM LU VOVXGILMRX GLLOH ZMW RWVZH--GSZG KVLKOV OVZIM YVHG DSVM
+GSV NZGVIRZO IVOZGVH GL HLNVGSRMT GSVB PMLD.
+
+EVXXRZ NZWV GSV URMZO KLRMG GSZG RM NZMB XZHVH ZN HVIEVH ZH Z
+KFYORX-IVOZGRLMH GLLO ULI GSV KFYORX ORYIZIRVH GSZG ZIV GVHGRMT RG.  RM
+LMV XZHV, ZN RH YVRMT FHVW ZH Z EVSRXOV GL HVXFIV ZWWRGRLMZO UFMWRMT ULI
+GSV ORYIZIB.  RM ZMLGSVI XZHV, ZN SZH HVIEVW ZH ZM RMHKRIZGRLM GL GSV
+HGZUU LU Z NZQLI OLXZO KFYORX ORYIZIB RM GSV HLFGS GL GSRMP ZYLFG DZBH GL
+NZPV RGH LDM XLOOVXGRLM LU KSLGLTIZKSH NLIV ZXXVHHRYOV GL GSV KFYORX.
+
+                                  ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+UIVVNZM * ZN ZMW ZIXSREZO VOVXGILMRX IVHLFIXVH RM Z HXSLLO VMERILMNVMG *
+JFVHGRLMH XLMXVIMRMT XLMGVCG * JFVHGRLMH XLMXVIMRMT GSV VOVXGILMRX ULINZG
+RGHVOU * XLNKFGVI ZMCRVGB * ZXXVHH ZMW ZEZROZYRORGB LU GSV HBHGVN *
+SZIWDZIV * HGIVMTGSH TZRMVW GSILFTS GSV FHV LU ZIXSREZO IVHLFIXVH RM

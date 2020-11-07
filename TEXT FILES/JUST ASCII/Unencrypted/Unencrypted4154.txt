@@ -1,0 +1,133 @@
+the work of one group of chemistry students using traditional printed
+texts and two groups using electronic sources  The experiment
+demonstrated that in the event one does not know what to read one needs
+the electronic systems the electronic systems hold no advantage at the
+moment if one knows what to read but neither do they impose a penalty
+
+DALY provided an anecdotal account of the revolutionizing impact of the
+new technology on his previous methods of research in the field of classics
+His account by extrapolation served to illustrate in part the arguments
+made by MICHELSON concerning the positive effects of the sudden and radical
+transformation being wrought in the ways scholars work
+
+Susan VECCIA and Joanne FREEMAN delineated the use of electronic
+materials outside the university  The most interesting aspect of their
+use FREEMAN said could be seen as a paradox  teachers in elementary
+and secondary schools requested access to primary source materials but
+at the same time found that "primariness" itself made these materials
+difficult for their students to use
+
+
+OTHER TOPICS
+
+Marybeth PETERS reviewed copyright law in the United States and offered
+advice during a lively discussion of this subject  But uncertainty
+remains concerning the price of copyright in a digital medium because a
+solution remains to be worked out concerning management and synthesis of
+copyrighted and outofcopyright pieces of a database
+
+As moderator of the final session of the Workshop Prosser GIFFORD directed
+discussion to future courses of action and the potential role of LC in
+advancing them  Among the recommendations that emerged were the following
+
+      Workshop participants should  begin to think about working
+     with image material but structure and digitize it in such a
+     way that at a later stage it can be interpreted into text and
+      find a common way to build text and images together so that
+     they can be used jointly at some stage in the future with
+     appropriate network support because that is how users will want
+     to access these materials  The Library might encourage attempts
+     to bring together people who are working on texts and images
+
+      A network version of American Memory should be developed or
+     consideration should be given to making the data in it
+     available to people interested in doing network multimedia
+     Given the current dearth of digital data that is appealing and
+     unencumbered by extremely complex rights problems developing a
+     network version of American Memory could do much to help make
+     network multimedia a reality
+
+      Concerning the thorny issue of electronic deposit LC should
+     initiate a catalytic process in terms of distributed
+     responsibility that is bring together the distributed
+     organizations and set up a study group to look at all the
+     issues related to electronic deposit and see where we as a
+     nation should move  For example LC might attempt to persuade
+     one major library in each state to deal with its state
+     equivalent publisher which might produce a cooperative project
+     that would be equitably distributed around the country and one
+     in which LC would be dealing with a minimal number of publishers
+     and minimal copyright problems  LC must also deal with the
+     concept of online publishing determining among other things
+     how serials such as OJCCT might be deposited for copyright
+
+      Since a number of projects are planning to carry out
+     preservation by creating digital images that will end up in
+     online or nearline storage at some institution LC might play
+     a helpful role at least in the near term by accelerating how
+     to catalog that information into the Research Library Information
+     Network RLIN and then into OCLC so that it would be accessible
+     This would reduce the possibility of multiple institutions digitizing
+     the same work
+
+
+CONCLUSION
+
+The Workshop was valuable because it brought together partisans from
+various groups and provided an occasion to compare goals and methods
+The more committed partisans frequently communicate with others in their
+groups but less often across group boundaries  The Workshop was also
+valuable to attendeesincluding those involved with American Memorywho
+came less committed to particular approaches or concepts  These
+attendees learned a great deal and plan to select and employ elements of
+imaging textcoding and networked distribution that suit their
+respective projects and purposes
+
+Still reality rears its ugly head  no breakthrough has been achieved
+On the imaging side one confronts a proliferation of competing
+datainterchange standards and a lack of consensus on the role of digital
+facsimiles in preservation  In the realm of machinereadable texts one
+encounters a reasonably mature standard but methodological difficulties
+and high costs  These latter problems of course represent a special
+impediment to the desire as it is sometimes expressed in the popular
+press "to put the contents of the Library of Congress on line"  In
+the words of one participant there was "no solution to the economic
+problemsthe projects that are out there are surviving but it is going
+to be a lot of work to transform the information industry and so far the
+investment to do that is not forthcoming" LESK per litteras
+
+
+                                 
+
+
+                               PROCEEDINGS
+
+
+WELCOME
+
+
+GIFFORD  Origin of Workshop in current Librarians desire to make LCs
+collections more widely available  Desiderata arising from the prospect
+of greater interconnectedness 
+
+
+After welcoming participants on behalf of the Library of Congress
+American Memory AM and the National Demonstration Lab Prosser
+GIFFORD director for scholarly programs Library of Congress located
+the origin of the Workshop on Electronic Texts in a conversation he had
+had considerably more than a year ago with Carl FLEISCHHAUER concerning
+some of the issues faced by AM  On the assumption that numerous other
+people were asking the same questions the decision was made to bring
+together as many of these people as possible to ask the same questions
+together  In a deeper sense GIFFORD said the origin of the Workshop
+lay in the desire of the current Librarian of Congress James H
+Billington to make the collections of the Library especially those
+offering unique or unusual testimony on aspects of the American
+experience available to a much wider circle of users than those few
+people who can come to Washington to use them  This meant that the
+emphasis of AM from the outset has been on archival collections of the
+basic material and on making these collections themselves available
+rather than selected or heavily edited products
+
+From AMs emphasis followed the questions with which the Workshop began
+who will use these materials and in what form will they wish to use

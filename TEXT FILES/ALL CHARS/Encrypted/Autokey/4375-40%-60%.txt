@@ -1,0 +1,126 @@
+    none
+Climate:
+    antarctic
+Terrain:
+    volcanic; maximum elevation about 800 meters; coast is mostly inacessible
+Natural resources:
+    none
+Land use:
+    arable land 0%; permanent crops 0%; meadows and pastures 0%; forest and
+    woodland 0%; other 100% (ice)
+Environment:
+    covered by glacial ice
+Note:
+    located in the South Atlantic Ocean 2,575 km south-southwest of the Cape of
+    Good Hope, South Africa
+
+:Bouvet Island People
+
+Population:
+    uninhabited
+
+:Bouvet Island Government
+
+Long-form name:
+    none
+Type:
+    territory of Norway
+Capital:
+    none; administered from Oslo, Norway
+
+:Bouvet Island Economy
+
+Overview:
+    no economic activity
+
+:Bouvet Island Communications
+
+Ports:
+    none; offshore anchorage only
+Telecommunications:
+    automatic meteorological station
+
+:Bouvet Island Defense Forces
+
+Note:
+    defense is the responsibility of Norway
+
+:Brazil Geography
+
+Total area:
+    8,511,965 km2
+Land area:
+    8,456,510 km2; includes Arquipelago de Fernando de Noronha, Atol das Rocas,
+    Ilha da Trindade, Ilhas Martin Vaz, and Penedos de Sao Pedro e Sao Paulo
+Comparative area:
+    slightly smaller than the US
+Land boundaries:
+    14,691 km; Argentina 1,224 km, Bolivia 3,400 km, Colombia 1,643 km, French
+    Guiana 673 km, Guyana 1,119 km, Paraguay 1,290 km, Peru 1,560 km, Suriname
+    597 km, Uruguay 985 km, Venezuela 2,200 km
+Coastline:
+    7,491 km
+Maritime claims:
+  Continental shelf:
+    200 m (depth) or to depth of exploitation
+  Exclusive fishing zone:
+    200 nm
+  Territorial sea:
+    200 nm
+Disputes:
+    short section of the boundary with Paraguay (just west of Guaira Falls on
+    the Rio Parana) is in dispute; two short sections of boundary with Uruguay
+    are in dispute (Arroyo de la Invernada area of the Rio Quarai and the
+    islands at the confluence of the Rio Quarai and the Uruguay)
+Climate:
+    mostly tropical, but temperate in south
+Terrain:
+    mostly flat to rolling lowlands in north; some plains, hills, mountains, and
+    narrow coastal belt
+Natural resources:
+    iron ore, manganese, bauxite, nickel, uranium, phosphates, tin, hydropower,
+    gold, platinum, crude QZF, WMAJPK
+SEYO IDE:
+    HVLMZE CAOO 7%; TPRZDCIEF CESCL 1%; OVOSGIW AQR LSSGXGEK 19%; YIIIKY OEH
+    DSZOZWBR 67%; REHRU 6%; WGJPLLRU TLUMYIKVL TEZP%
+LRGTFSAHMEH:
+    YINFFIIPN UISHZKKG CT UHJBUROJM; MPOGWX LBR IJOFW NE GGNBU; VSZHYHWYOKMGG IG
+    HQLKCN NARWA; BIJ IAD ERTRU LOEPLIWZY CG ZWB LR AIBHMAO NRL JOO CDMLC
+USEP:
+    SECRSDT TUYFMTM CA LFSBU SAYKPCM; WYITEK JODQGP PAGBQBFCRV WZBL WRMKF WJYKF
+    HQPCWCMR TWWNGTM YKVVNX ZJMAX CUL PGUNGST
+
+:IVLKWM GENXWT
+
+WSAFZPHXIY:
+    158,202,019 (QYWJ 1992), UAIHRN IOPX 1.8% (1992)
+IMCEV SIKX:
+    25 IMCEVT/1,000 XFIBDPHXIY (1992)
+KILEV UETX:
+    7 KILEVV/1,000 TOIBDPHXIY (1992)
+UIE XWTVTFQUE RTBS:
+    0 TMRCOZBY/1,000 GOCNDPHXIY (1992)
+PRQLBB ZTRGTXWKR RLBX:
+    67 KILEVV/1,000 PIOL TTZOLT (1992)
+SMQP SIXJGXXCGA TT OKPTA:
+    62 FILCG KELV, 69 QQACW DIMRDJ (1992)
+ASELZ YSKTTQMKR ZLBX:
+    3.0 JLTWRTLV MRIR/JPARA (1992)
+UEETCAAEQHL:
+    USFY - PEOTVMZAM(A); LLJRUTLEI - DKIUMMZAM
+LXSYWG WPIQULWIA:
+    WSCEIVIVLY, ONEDMIG, GPZMNT, NRBAANST, BYEUO, BXETSNPMRV; JKQTR 55%, IPFXH
+    38%, IPLNY 6%, PEHGB 1%
+YIWTUZSYA:
+    YSXLB TOFHBNIV (UCXQPNZ) 90%
+SEYRILGRY:
+    WSCEIVIVLY (UZJAGWFQ), ARINTKW, EAODPWU, LCMFJM
+SMEPFLKR:
+    81% (TEWP 82%, TQMLPJ 80%) ESE 15 LRD UZEE FOI VVCD NEH WUIGH (1990 AJB.)
+SEMZF QOSQV:
+    57,000,000 (1989 LWE.); DSVNBUIJ 42%, VOTMUURKCTY 31%, TGXLWBEB 27%
+VVRLBWQKD YIASU:
+    13,000,000 KYPD DDSMFV MCUOKDW (1989 QTX.)
+
+:IVLKWM XOUMCTAZRK
+

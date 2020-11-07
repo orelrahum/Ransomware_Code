@@ -1,0 +1,286 @@
+While in the text of one of the broadside documents, FLEISCHHAUER
+remarked AM's attempt to find ways to connect cataloging to the texts,
+which it does in different ways in different manifestations.  In the case
+shown, the cataloging was pasted on:  AM took MARC records that were
+written as on-line records right into one of the Library's mainframe
+retrieval programs, pulled them out, and handed them off to the contractor,
+who massaged them somewhat to display them in the manner shown.  One of
+AM's questions is, Does the cataloguing normally performed in the mainframe
+work in this context, or had AM ought to think through adjustments?
+
+FLEISCHHAUER made the additional point that, as far as the text goes, AM
+has gravitated towards SGML (he pointed to the boldface in the upper part
+of the screen).  Although extremely limited in its ability to translate
+or interpret SGML, Personal Librarian will furnish both bold and italics
+on screen; a fairly easy thing to do, but it is one of the ways in which
+SGML is useful.
+
+Striking a balance between quantity and quality has been a major concern
+of AM, with accuracy being one of the places where project staff have
+felt that less than 100-percent accuracy was not unacceptable.
+FLEISCHHAUER cited the example of the standard of the rekeying industry,
+namely 99.95 percent; as one service bureau informed him, to go from
+99.95 to 100 percent would double the cost.
+
+FLEISCHHAUER next demonstrated how AM furnishes users recourse to images,
+and at the same time recalled LESK's pointed question concerning the
+number of people who would look at those images and the number who would
+work only with the text.  If the implication of LESK's question was
+sound, FLEISCHHAUER said, it raised the stakes for text accuracy and
+reduced the value of the strategy for images.
+
+Contending that preservation is always a bugaboo, FLEISCHHAUER
+demonstrated several images derived from a scan of a preservation
+microfilm that AM had made.  He awarded a grade of C at best, perhaps a
+C minus or a C plus, for how well it worked out.  Indeed, the matter of
+learning if other people had better ideas about scanning in general, and,
+in particular, scanning from microfilm, was one of the factors that drove
+AM to attempt to think through the agenda for the Workshop.  Skew, for
+example, was one of the issues that AM in its ignorance had not reckoned
+would prove so difficult.
+
+Further, the handling of images of the sort shown, in a desktop computer
+environment, involved a considerable amount of zooming and scrolling.
+Ultimately, AM staff feel that perhaps the paper copy that is printed out
+might be the most useful one, but they remain uncertain as to how much
+on-screen reading users will do.
+
+Returning to the text, FLEISCHHAUER asked viewers to imagine a person who
+might be conducting a search in a full-text environment.  With this
+scenario, he proceeded to illustrate other features of Personal Librarian
+that he considered helpful; for example, it provides the ability to
+notice words as one reads.  Clicking the "include" button on the bottom
+of the search window pops the words that have been highlighted into the
+search.  Thus, a user can refine the search as he or she reads,
+re-executing the search and continuing to find things in the quest for
+materials.  This software not only contains relevance ranking, Boolean
+operators, and truncation, it also permits one to perform word algebra,
+so to say, where one puts two or three words in parentheses and links
+them with one Boolean operator and then a couple of words in another set
+of parentheses and asks for things within so many words of others.
+
+Until they became acquainted recently with some of the work being done in
+classics, the AM staff had not realized that a large number of the
+projects that involve electronic texts were being done by people with a
+profound interest in language and linguistics.  Their search strategies
+and thinking are oriented to those fields, as is shown in particular by
+the Perseus example.  As amateur historians, the AM staff were thinking
+more of searching for concepts and ideas than for particular words.
+Obviously, FLEISCHHAUER conceded, searching for concepts and ideas and
+searching for words may be two rather closely related things.
+
+While displaying several images, FLEISCHHAUER observed that the Macintosh
+prototype built by AM contains a greater diversity of formats.  Echoing a
+previous speaker, he said that it was easier to stitch things together in
+the Macintosh, though it tended to be a little more anemic in search and
+retrieval.  AM, therefore, increasingly has been investigating
+sophisticated retrieval engines in the IBM format.
+
+FLEISCHHAUER demonstrated several additional examples of the prototype
+interfaces:  One was AM's metaphor for the network future, in which a
+kind of reading-room graphic suggests how one would be able to go around
+to different materials.  AM contains a large number of photographs in
+analog video form worked up from a videodisc, which enable users to make
+copies to print or incorporate in digital documents.  A frame-grabber is
+built into the system, making it possible to bring an image into a window
+and digitize or print it out.
+
+FLEISCHHAUER next demonstrated sound recording, which included texts.
+Recycled from a previous project, the collection included sixty 78-rpm
+phonograph records of political speeches that were made during and
+immediately after World War I.  These constituted approximately three
+hours of audio, as AM has digitized it, which occupy 150 megabytes on a
+CD.  Thus, they are considerably compressed.  From the catalogue card,
+FLEISCHHAUER proceeded to a transcript of a speech with the audio
+available and with highlighted text following it as it played.
+A photograph has been added and a transcription made.
+
+Considerable value has been added beyond what the Library of Congress
+normally would do in cataloguing a sound recording, which raises several
+questions for AM concerning where to draw lines about how much value it can
+afford to add and at what point, perhaps, this becomes more than AM could
+reasonably do or reasonably wish to do.  FLEISCHHAUER also demonstrated
+a motion picture.  As FREEMAN had reported earlier, the motion picture
+materials have proved the most popular, not surprisingly.  This says more
+about the medium, he thought, than about AM's presentation of it.
+
+Because AM's goal was to bring together things that could be used by
+historians or by people who were curious about history,
+turn-of-the-century footage seemed to represent the most appropriate
+collections from the Library of Congress in motion pictures. These were
+the very first films made by Thomas Edison's company and some others at
+that time.  The particular example illustrated was a Biograph film,
+brought in with a frame-grabber into a window.  A single videodisc
+contains about fifty titles and pieces of film from that period, all of
+New York City.  Taken together, AM believes, they provide an interesting
+documentary resource.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Using the frame-grabber in AM * Volume of material processed
+and to be processed * Purpose of AM within LC * Cataloguing and the
+nature of AM's material * SGML coding and the question of quality versus
+quantity *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the question-and-answer period that followed FLEISCHHAUER's
+presentation, several clarifications were made.
+
+AM is bringing in motion pictures from a videodisc.  The frame-grabber
+devices create a window on a computer screen, which permits users to
+digitize a single frame of the movie or one of the photographs.  It
+produces a crude, rough-and-ready image that high school students can
+incorporate into papers, and that has worked very nicely in this way.
+
+Commenting on FLEISCHHAUER's assertion that AM was looking more at
+searching ideas than words, MYLONAS argued that without words an idea
+does not exist.  FLEISCHHAUER conceded that he ought to have articulated
+his point more clearly.  MYLONAS stated that they were in fact both
+talking about the same thing.  By searching for words and by forcing
+people to focus on the word, the Perseus Project felt that they would get
+them to the idea.  The way one reviews results is tailored more to one
+kind of user than another.
+
+Concerning the total volume of material that has been processed in this
+way, AM at this point has in retrievable form seven or eight collections,
+all of them photographic.  In the Macintosh environment, for example,
+there probably are 35,000-40,000 photographs.  The sound recordings
+number sixty items.  The broadsides number about 300 items.  There are
+500 political cartoons in the form of drawings.  The motion pictures, as
+individual items, number sixty to seventy.
+
+AM also has a manuscript collection, the life history portion of one of
+the federal project series, which will contain 2,900 individual
+documents, all first-person narratives.  AM has in process about 350
+African-American pamphlets, or about 12,000 printed pages for the period
+1870-1910.  Also in the works are some 4,000 panoramic photographs.  AM
+has recycled a fair amount of the work done by LC's Prints and
+Photographs Division during the Library's optical disk pilot project in
+the 1980s.  For example, a special division of LC has tooled up and
+thought through all the ramifications of electronic presentation of
+photographs.  Indeed, they are wheeling them out in great barrel loads.
+The purpose of AM within the Library, it is hoped, is to catalyze several
+of the other special collection divisions which have no particular
+experience with, in some cases, mixed feelings about, an activity such as
+AM.  Moreover, in many cases the divisions may be characterized as not
+only lacking experience in "electronifying" things but also in automated
+cataloguing.  MARC cataloguing as practiced in the United States is
+heavily weighted toward the description of monograph and serial
+materials, but is much thinner when one enters the world of manuscripts
+and things that are held in the Library's music collection and other
+units.  In response to a comment by LESK, that AM's material is very
+heavily photographic, and is so primarily because individual records have
+been made for each photograph, FLEISCHHAUER observed that an item-level
+catalog record exists, for example, for each photograph in the Detroit
+Publishing collection of 25,000 pictures.  In the case of the Federal
+Writers Project, for which nearly 3,000 documents exist, representing
+information from twenty-six different states, AM with the assistance of
+Karen STUART of the Manuscript Division will attempt to find some way not
+only to have a collection-level record but perhaps a MARC record for each
+state, which will then serve as an umbrella for the 100-200 documents
+that come under it.  But that drama remains to be enacted.  The AM staff
+is conservative and clings to cataloguing, though of course visitors tout
+artificial intelligence and neural networks in a manner that suggests that
+perhaps one need not have cataloguing or that much of it could be put aside.
+
+The matter of SGML coding, FLEISCHHAUER conceded, returned the discussion
+to the earlier treated question of quality versus quantity in the Library
+of Congress.  Of course, text conversion can be done with 100-percent
+accuracy, but it means that when one's holdings are as vast as LC's only
+a tiny amount will be exposed, whereas permitting lower levels of
+accuracy can lead to exposing or sharing larger amounts, but with the
+quality correspondingly impaired.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TWOHIG * A contrary experience concerning electronic options * Volume of
+material in the Washington papers and a suggestion of David Packard *
+Implications of Packard's suggestion * Transcribing the documents for the
+CD-ROM * Accuracy of transcriptions * The CD-ROM edition of the Founding
+Fathers documents *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Finding enccourGM%S%_| i_ G coSS%_| of Mc}@~fSi"MY froS |"% Sor_i_M
+Y%YYio_SS|"G| _uS%rouY V%oVl% i_ |"% "uSG_i|i%Y <%r% c"ooYi_M %l%c|ro_ic
+oV|io_Y |o Jo |"%ir <or(SSDoro|"5 _[i@cG, %Ji|or, _"% PGV%rY of G%orM%
+[GY"i_M|o_, oV%_%J "%r illuY|rG|%J |Gl( @5 _o|i_M |"G| "%r %xV%ri%_c%
+<i|" li|%rGr5 Yc"olGrY G_J _uS%rouY V%oVl% i_ %Ji|i_M <GY co_|rGr5 |o
+Mc}@~fSi"MYA  _[i@cG %SV"GYi,%J li|%rGr5 Yc"olGrYM coSVl%|% iM_orG_c% of
+|"% |%c"_oloMicGl oV|io_Y G2GilG@l% |o |"%S or |"%ir r%luc|G_c% or, i_
+YoS% cGY%Y, |"%ir Jo<_riM"| "oY|ili|5 |o<GrJ |"%Y% oV|io_YA
+
+Af|%r Vro2iJi_M G_ o2%r2i%< of |"% fi2%  ou_Ji_M  G|"%rY VroP%c|Y
+(J%ff%rYo_ G| Pri_c%|o_,  rG_(li_ G| YGl%, Jo"_ AJGSY G| |"%
+MGYYGc"uY%||Y @iY|oricGl Soci%|5, G_J MGJiYo_ Jo<_ |"% "Gll froS "%r G|
+|"% o_i2%rYi|5 of VirMi_iGl, _[i@cG o@Y%r2%J |"G| |"% [GY"i_M|o_ VGV%rY,
+li(% Gll of |"% VroP%c|Y, i_cluJ% @o|" YiJ%Y of |"% [GY"i_M|o_
+corr%YVo_J%_c% G_J J%Gl <i|" YoS% u<5,DDD JocuS%_|Y |o @% Vu@liY"%J <i|"
+%x|%_Yi2% G__o|G|io_ i_ %iM"|5 |o %iM"|5Sfi2% 2oluS%Y, G VroP%c| |"G|
+<ill _o| @% coSVl%|%J u_|il <%ll i_|o |"% _%x| c%_|ur5A  _"uY, i| <GY
+<i|" co_YiJ%rG@l% %_|"uYiGYS Y%2%rGl 5%GrY GMo |"G| |"% [GY"i_M|o_ PGV%rY
+ProP%c| ([PPl Mr%%|%J DG2iJ PGc(GrJMY YuMM%Y|io_ |"G| |"% VGV%rY of |"%
+ ou_Ji_M  G|"%rY coulJ @% Vu@liY"%J %GYil5 G_J i_%xV%_Yi2%l5, G_J |o |"%
+Mr%G| @%_%fi| of AS%ricG_ Yc"olGrY"iV, 2iG }DSliMA
+
+c_ VrGMSG|ic |%rSY, fu_Ji_M froS |"% PGc(GrJ  ou_JG|io_ <oulJ %xV%Ji|%
+|"% |rG_YcriV|io_ of |"ouYG_JY of JocuS%_|Y <Gi|i_M |o @% Vu| o_ JiY( i_
+|"% [PP offic%YA   ur|"%r, Yi_c% |"% coY|Y of coll%c|i_M, %Ji|i_M, G_J
+co_2%r|i_M |"%  ou_Ji_M  G|"%rY JocuS%_|Y i_|o l%||%rVr%YY %Ji|io_Y <%r%
+ru__i_M i_|o |"% Sillio_Y of JollGrY, G_J |"% co_YiJ%rG@l% Y|GffY
+i_2ol2%J i_ Gll of |"%Y% VroP%c|Y <%r% J%2o|i_M |"%ir cGr%%rY |o
+VroJuci_M |"% <or(, |"% PGc(GrJ  ou_JG|io_MY YuMM%Y|io_ "GJ G
+r%2olu|io_Gr5 GYV%c|u  _rG_YcriV|io_Y of |"% %_|ir% corVuY of |"%
+ ou_Ji_M  G|"%rY VGV%rY <oulJ @% G2GilG@l% o_ }DSliM |o Vu@lic G_J
+coll%M% li@rGri%Y, %2%_ "iM" Yc"oolY, G| G frGc|io_ of |"% coY|SS
+JuDDSJu5D for |"% G__uGl lic%_Y% f%%SS|o VroJuc% G liSi|%J u_i2%rYi|5
+Vr%YY ru_ of u,DDD of %Gc" 2oluS% of |"% Vu@liY"%J VGV%rY G| Jx5SJu5D V%r
+Vri_|%J 2oluS%A  Gi2%_ |"% curr%_| @uJM%| cru_c" i_ %JucG|io_Gl Y5Y|%SY
+G_J |"% corr%YVo_Ji_M co_Y|rGi_|Y o_ li@rGriG_Y i_ YSGll%r i_Y|i|u|io_Y
+<"o <iY" |o GJJ |"%Y% 2oluS%Y |o |"%ir coll%c|io_Y, VroJuci_M |"%
+JocuS%_|Y o_ }DSliM <oulJ li(%l5 oV%_ G Mr%G|l5 %xVG_J%J GuJi%_c% for |"%
+VGV%rYA  _[i@cG Y|r%YY%J, "o<%2%r, |"G| J%2%loVS%_| of |"%  ou_Ji_M
+ G|"%rY }DSliM iY Y|ill i_ i|Y i_fG_c5A  S%riouY Yof|<Gr% Vro@l%SY r%SGi_
+|o @% r%Yol2%J @%for% |"% SG|%riGl cG_ @% Vu| i_|o r%GJG@l% forSA
+
+ u_Ji_M froS |"% PGc(GrJ  ou_JG|io_ r%Yul|%J i_ G SGPor VuY" |o
+|rG_Ycri@% |"% A5,DDD or Yo JocuS%_|Y of |"% [GY"i_M|o_ VGV%rY r%SGi_i_M
+|o @% |rG_Ycri@%J o_|o coSVu|%r JiY(YA  SliJ%Y illuY|rG|%J Y%2%rGl of |"%
+Vro@l%SY %_cou_|%r%J, for %xGSVl%, |"% Vr%Y%_| i_G@ili|5 of }DSliM |o
+i_JicG|% |"% croYYSou|Y (J%l%|%J SG|%riGll i_ %iM"|%%_|" c%_|ur5
+JocuS%_|YA  _[i@cG _%x| J%Ycri@%J JocuS%_|Y froS 2GriouY V%rioJY i_ |"%
+%iM"|%%_|" c%_|ur5 |"G| "G2% @%%_ |rG_Ycri@%J i_ c"ro_oloMicGl orJ%r G_J
+J%li2%r%J |o |"% PGc(GrJ offic%Y i_ }Glifor_iG, <"%r% |"%5 Gr% co_2%r|%J
+|o |"% }DSliM, G Vroc%YY |"G| iY %xV%c|%J |o co_YuS% fi2% 5%GrY |o
+coSVl%|% (|"G| iY, r%c(o_i_M froS DG2iJ PGc(GrJMY YuMM%Y|io_ SGJ% Y%2%rGl
+5%GrY GMo, u_|il G@ou| Jul5 u}}xlA  _[i@cG fou_J G_ %_courGMi_M
+i_JicG|io_ of |"% VroP%c|MY @%_%fi|Y i_ |"% o_Moi_M uY% SGJ% @5 Yc"olGrY
+of |"% Y%Grc" fu_c|io_Y of |"% }DSliM, VGr|iculGrl5 i_ r%Juci_M |"% |iS%
+YV%_| i_ SG_uGll5 |ur_i_M |"% VGM%Y of |"% [GY"i_M|o_ VGV%rYA
+
+_[i@cG _%x| fur_iY"%J J%|GilY co_c%r_i_M |"% GccurGc5 of |rG_YcriV|io_YA
+ or i_Y|G_c%, |"% i_Y%r|io_ of |"ouYG_JY of JocuS%_|Y o_ |"% }DSliM
+curr%_|l5 Jo%Y _o| V%rSi| %Gc" JocuS%_| |o @% 2%rifi%J GMGi_Y| |"%
+oriMi_Gl SG_uYcriV| Y%2%rGl |iS%Y GY i_ |"% cGY% of JocuS%_|Y |"G| GVV%Gr
+i_ |"% Vu@liY"%J %Ji|io_A  @o<%2%r, |"% |rG_YcriV|io_Y r%c%i2% G curYor5
+c"%c( for o@2iouY |5VoY, |"% SiYYV%lli_MY of VroV%r _GS%Y, G_J o|"%r
+%rrorY froS |"% [PP }DSliM %Ji|orA  ~2%_|uGll5, Gll JocuS%_|Y |"G| GVV%Gr
+i_ |"% %l%c|ro_ic 2%rYio_ <ill @% c"%c(%J @5 VroP%c| %Ji|orYA  Al|"ouM"
+|"iY Vroc%YY "GY S%| <i|" oVVoYi|io_ froS YoS% of |"% %Ji|orY o_ |"%
+Mrou_JY |"G| iSV%rf%c| <or( SG5 l%G2% |"%ir offic%Y, |"% GJ2G_|GM%Y i_
+SG(i_M |"iY SG|%riGl G2GilG@l% GY G r%Y%Grc" |ool ou|<%iM"  f%GrY G@ou| |"%
+SiYYV%lli_M of VroV%r _GS%Y G_J o|"%r r%lG|i2%l5 Si_or %Ji|oriGl SG||%rYA
+
+}oSVl%|io_ of Gll fi2%  ou_Ji_M  G|"%rY VroP%c|Y (iA%A, r%|ri%2G@ili|5
+G_J Y%Grc"G@ili|5 of Gll of |"% JocuS%_|Y @5 VroV%r _GS%Y, Gl|%r_G|%
+YV%lli_MY, or 2Gri%|i%Y of Yu@P%c|Yl <ill Vro2iJ% o_% of |"% ric"%Y|
+Yourc%Y of |"iY Yi,% for |"% "iY|or5 of |"% o_i|%J S|G|%Y i_ |"% lG||%r
+VGr| of |"% %iM"|%%_|" c%_|ur5A   ur|"%r, Vu@licG|io_ o_ }DSliM <ill
+Gllo< %Ji|orY |o i_cluJ% %2%_ Si_u|iG%, Yuc" GY lGu_Jr5 liY|Y, _o|
+i_cluJ%J i_ |"% Vri_|%J 2oluS%YA
+
+c| Y%%SY VoYYi@l% |"G| |"% %x|%_Yi2% G__o|G|io_ Vro2iJ%J i_ |"% Vri_|%J
+2oluS%Y %2%_|uGll5 <ill @% GJJ%J |o |"% }DSliM %Ji|io_, V%_Ji_M
+_%Mo|iG|io_Y <i|" |"% Vu@liY"%rY of |"% VGV%rYA  A| |"% SoS%_|, |"%
+ ou_Ji_M  G|"%rY }DSliM iY Gcc%YYi@l% o_l5 o_ |"% c8Y}oS, G coSVu|%

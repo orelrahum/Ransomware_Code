@@ -1,0 +1,33 @@
+discussed later in the Workshop.  The user is always searching the ASCII
+file, but she or he may see a display based on the ASCII or a display
+based on the images.
+
+LESK illustrated how the program performs page analysis, and the image
+interface.  The user types several words, is presented with a list
+usually of the titles of articles contained in an issuethat derives
+from the ASCII, clicks on an icon and receives an image that mirrors an
+ACS page.  LESK also illustrated an alternative interface, based on text
+on the ASCII, the socalled SuperBook interface from Bellcore.
+
+LESK next presented the results of an experiment conducted by Dennis Egan
+and involving thirtysix students at Cornell, one third of them
+undergraduate chemistry majors, one third senior undergraduate chemistry
+majors, and one third graduate chemistry students.  A third of them
+received the paper journals, the traditional paper copies and chemical
+abstracts on paper.  A third received image displays of the pictures of
+the pages, and a third received the text display with popup graphics.
+
+The students were given several questions made up by some chemistry
+professors.  The questions fell into five classes, ranging from very easy
+GL EVIB WRUURXFOG, ZMW RMXOFWVW JFVHGRLMH WVHRTMVW GL HRNFOZGV YILDHRMT
+ZH DVOO ZH Z GIZWRGRLMZO RMULINZGRLM IVGIRVEZOGBKV GZHP.
+
+OVHP UFIMRHSVW GSV ULOOLDRMT IVHFOGH.  RM GSV HGIZRTSGULIDZIW JFVHGRLM
+HVZIXSGSV JFVHGRLM YVRMT, DSZG RH GSV KSLHKSLIFH LCBTVM YLMW WRHGZMXV
+ZMW SBWILCB KSLHKSZGV?GSV HGFWVMGH DVIV GLOW GSZG GSVB XLFOW GZPV
+URUGVVM NRMFGVH ZMW, GSVM, RU GSVB DRHSVW, TREV FK.  GSV HGFWVMGH DRGS
+KZKVI GLLP NLIV GSZM URUGVVM NRMFGVH LM ZEVIZTV, ZMW BVG NLHG LU GSVN
+TZEV FK.  GSV HGFWVMGH DRGS VRGSVI VOVXGILMRX ULINZG, GVCG LI RNZTV,
+IVXVREVW TLLW HXLIVH RM IVZHLMZYOV GRNV, SZIWOB VEVI SZW GL TREV FK, ZMW
+FHFZOOB ULFMW GSV IRTSG ZMHDVI.
+

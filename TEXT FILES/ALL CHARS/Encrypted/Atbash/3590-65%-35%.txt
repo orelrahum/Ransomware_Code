@@ -1,0 +1,268 @@
+
+     Productive use of digital imagery for preservation requires a
+     reconceptualizing of preservation principles in a volatile,
+     standardless world.
+
+     Concept of managing continuing access in the digital environment
+     rather than focusing on the permanence of the medium and long-term
+     archival standards developed for the analog world.
+
+     Transition period:  How long and what to do?
+
+          *  Redefine "archival."
+
+          *  Remove the burden of "archival copy" from paper artifacts.
+
+          *  Use digital technology for storage, develop management
+          strategies for refreshing medium, hardware and software.
+
+          *  Create acid-free paper copies for transition period backup
+          until we develop reliable procedures for ensuring continuing
+          access to digital files.
+
+SESSION IV-D
+
+Stuart WEIBEL            The Role of SGML Markup in the CORE Project (6)
+
+The emergence of high-speed telecommunications networks as a basic
+feature of the scholarly workplace is driving the demand for electronic
+document delivery.  Three distinct categories of electronic
+publishing/republishing are necessary to support access demands in this
+emerging environment:
+
+     1.)  Conversion of paper or microfilm archives to electronic format
+     2.)  Conversion of electronic files to formats tailored to
+          electronic retrieval and display
+     3.)  Primary electronic publishing (materials for which the
+          electronic version is the primary format)
+
+OCLC has experimental or product development activities in each of these
+areas.  Among the challenges that lie ahead is the integration of these
+three types of information stores in coherent distributed systems.
+
+The CORE (Chemistry Online Retrieval Experiment) Project is a model for
+the conversion of large text and graphics collections for which
+electronic typesetting files are available (category 2).  The American
+Chemical Society has made available computer typography files dating from
+1980 for its twenty journals.  This collection of some 250 journal-years
+is being converted to an electronic format that will be accessible
+through several end-user applications.
+
+The use of Standard Generalized Markup Language (SGML) offers the means
+to capture the structural richness of the original articles in a way that
+will support a variety of retrieval, navigation, and display options
+necessary to navigate effectively in very large text databases.
+
+An SGML document consists of text that is marked up with descriptive tags
+that specify the function of a given element within the document.  As a
+formal language construct, an SGML document can be parsed against a
+document-type definition (DTD) that unambiguously defines what elements
+are allowed and where in the document they can (or must) occur.  This
+formalized map of article structure allows the user interface design to
+be uncoupled from the underlying database system, an important step
+toward interoperability.  Demonstration of this separability is a part of
+the CORE project, wherein user interface designs born of very different
+philosophies will access the same database.
+
+NOTES:
+     (6)  The CORE project is a collaboration among Cornell University's
+     Mann Library, Bell Communications Research (Bellcore), the American
+     Chemical Society (ACS), the Chemical Abstracts Service (CAS), and
+     OCLC.
+
+Michael LESK                  The CORE Electronic Chemistry Library
+
+A major on-line file of chemical journal literature complete with
+graphRXH RH YVRMT WVEVOLKVW GL GVHG GSV FHZYRORGB LU UFOOB VOVXGILMRX
+ZXXVHH GL WLXFNVMGH, ZH Z QLRMG KILQVXG LU XLIMVOO FMREVIHRGB, GSV
+ZNVIRXZM XSVNRXZO HLXRVGB, GSV XSVNRXZO ZYHGIZXGH HVIERXV, LXOX, ZMW
+YVOOXLIV (DRGS ZWWRGRLMZO HFKKLIG UILN HFM NRXILHBHGVNH, HKIRMTVI-EVIOZT,
+WRTRGZR VJFRKNVMG XLIKLIZGRLM, HLMB XLIKLIZGRLM LU ZNVIRXZ, ZMW ZKKOV
+XLNKFGVIH).  LFI UROV XLMGZRMH GSV ZNVIRXZM XSVNRXZO HLXRVGB'H LM-ORMV
+QLFIMZOH, HFKKOVNVMGVW DRGS GSV TIZKSRXH UILN GSV KZKVI KFYORXZGRLM.  GSV
+RMWVCRMT LU GSV ZIGRXOVH UILN XSVNRXZO ZYHGIZXGH WLXFNVMGH RH ZEZROZYOV
+RM YLGS RNZTV ZMW GVCG ULINZG, ZMW HVEVIZO WRUUVIVMG RMGVIUZXVH XZM YV
+FHVW.  LFI TLZOH ZIV (1) GL ZHHVHH GSV VUUVXGREVMVHH ZMW ZXXVKGZYRORGB LU
+VOVXGILMRX ZXXVHH GL KIRNZIB QLFIMZOH ZH XLNKZIVW DRGS KZKVI, ZMW (2) GL
+RWVMGRUB GSV NLHG WVHRIZYOV UFMXGRLMH LU GSV FHVI RMGVIUZXV GL ZM
+VOVXGILMRX HBHGVN LU QLFIMZOH, RMXOFWRMT RM KZIGRXFOZI Z XLNKZIRHLM LU
+KZTV-RNZTV WRHKOZB DRGS ZHXRR WRHKOZB RMGVIUZXVH.  VZIOB VCKVIRNVMGH DRGS
+XSVNRHGIB HGFWVMGH LM Z EZIRVGB LU GZHPH HFTTVHG GSZG HVZIXSRMT GZHPH ZIV
+XLNKOVGVW NFXS UZHGVI DRGS ZMB VOVXGILMRX HBHGVN GSZM DRGS KZKVI, YFG
+GSZG ULI IVZWRMT ZOO EVIHRLMH LU GSV ZIGRXOVH ZIV ILFTSOB VJFREZOVMG.
+
+KZNVOZ ZMWIV ZMW QFWRGS ARWZI
+
+GVCG XLMEVIHRLM RH UZI NLIV VCKVMHREV ZMW GRNV-XLMHFNRMT GSZM RNZTV
+XZKGFIV ZOLMV.  MZO'H VCKVIRVMXV DRGS LKGRXZO XSZIZXGVI IVXLTMRGRLM (LXI)
+DROO YV IVOZGVW ZMW XLNKZIVW DRGS GSV VCKVIRVMXV LU SZERMT GVCG IVPVBVW.
+DSZG UZXGLIH ZUUVXG LXI ZXXFIZXB?  SLD ZXXFIZGV WLVH UFOO GVCG SZEV GL YV
+RM LIWVI GL YV FHVUFO?  SLD WL WRUUVIVMG FHVIH IVZXG GL RNKVIUVXG GVCG?
+GSVHV ZIV JFVHGRLMH GSZG DROO YV VCKOLIVW.  ULI NZMB, Z HVIERXV YFIVZF
+NZB YV Z YVGGVI HLOFGRLM GSZM KVIULINRMT GSV DLIP RMSLFHV; GSRH DROO ZOHL
+YV WRHXFHHVW.
+
+HVHHRLM ER
+
+NZIBYVGS KVGVIH
+
+XLKBIRTSG OZD KILGVXGH XIVZGREV DLIPH.  KILGVXGRLM TIZMGVW YB GSV OZD GL
+ZFGSLIH ZMW WRHHVNRMZGLIH LU DLIPH RMXOFWVH GSV IRTSG GL WL LI ZFGSLIRAV
+GSV ULOOLDRMT:  IVKILWFXV GSV DLIP, KIVKZIV WVIREZGREV DLIPH, WRHGIRYFGV
+GSV DLIP GL GSV KFYORX, ZMW KFYORXOB KVIULIN LI WRHKOZB GSV DLIP.  RM
+ZWWRGRLM, XLKBIRTSG LDMVIH LU HLFMW IVXLIWRMTH ZMW XLNKFGVI KILTIZNH SZEV
+GSV IRTSG GL XLMGILO IVMGZO LU GSVRI DLIPH.  GSVHV IRTSGH ZIV MLG
+FMORNRGVW; GSVIV ZIV Z MFNYVI LU VCXVKGRLMH ZMW ORNRGZGRLMH.
+
+ZM VOVXGILMRX VMERILMNVMG KOZXVH HGIZRMH LM GSV XLKBIRTSG HBHGVN.
+XLKBIRTSG LDMVIH DZMG GL XLMGILO FHVH LU GSVRI DLIP ZMW YV KZRW ULI ZMB
+FHV; GSV KFYORX DZMGH JFRXP ZMW VZHB ZXXVHH ZG ORGGOV LI ML XLHG.  GSV
+NZIPVGKOZXV RH DLIPRMT RM GSRH ZIVZ.  XLMGIZXGH, TFRWVORMVH LM VOVXGILMRX
+FHV, ZMW XLOOVXGREV ORXVMHRMT ZIV RM FHV ZMW YVRMT IVURMVW.
+
+RHHFVH XLMXVIMRMT GSV ZYRORGB GL XSZMTV DLIPH DRGSLFG WVGVXGRLM ZIV NLIV
+WRUURXFOG GL WVZO DRGS.  JFVHGRLMH XLMXVIMRMT GSV RMGVTIRGB LU GSV DLIP
+ZMW GSV HGZGFH LU GSV XSZMTVW EVIHRLM FMWVI GSV XLKBIRTSG OZD ZIV GL YV
+ZWWIVHHVW.  GSVHV ZIV KFYORX KLORXB RHHFVH DSRXS IVJFRIV RMULINVW
+WRZOLTFV.
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                ZKKVMWRC RRR:  WRIVXGLIB LU KZIGRXRKZMGH
+
+
+KIVHVMGVIH:
+
+     KZNVOZ J.Q. ZMWIV
+     ZHHLXRZGV WRIVXGLI, ZFGLNZGRLM
+     MZGRLMZO ZTIRXFOGFIZO ORYIZIB
+     10301 YZOGRNLIV YLFOVEZIW
+     YVOGHEROOV, NW 20705-2351
+     KSLMV:  (301) 504-6813
+     UZC:  (301) 504-7473
+     V-NZRO:  RMGVIMVG:  KZMWIV@ZHII.ZIHFHWZ.TLE
+
+     QVZM YZILMZH, HVMRLI NZMZTVI
+     WVKZIGNVMG LU HGZMWZIWH ZMW GVXSMLOLTB
+     ZHHLXRZGRLM ULI RMULINZGRLM ZMW RNZTV NZMZTVNVMG (ZRRN)
+     1100 DZBMV ZEVMFV, HFRGV 1100
+     HROEVI HKIRMT, NW 20910
+     KSLMV:  (301) 587-8202
+     UZC:  (301) 587-2711
+
+     KZGIRXRZ YZGGRM, KIVHRWVMG
+     GSV XLNNRHHRLM LM KIVHVIEZGRLM ZMW ZXXVHH
+     1400 16GS HGIVVG, M.D.
+     HFRGV 740
+     DZHSRMTGLM, WX 20036-2217
+     KSLMV:  (202) 939-3400
+     UZC:  (202) 939-3407
+     V-NZRO:  XKZ@TDFEN.YRGMVG
+
+     SLDZIW YVHHVI
+     XVMGIV XZMZWRVM W'ZIXSRGVXGFIV
+     (XZMZWRZM XVMGVI ULI ZIXSRGVXGFIV)
+     1920, IFV YZROV
+     NLMGIVZO, JFVYVX S3S 2H6
+     XZMZWZ
+     KSLMV:  (514) 939-7001
+     UZC:  (514) 939-7020
+     V-NZRO:  SLDZIW@ORH.KRGG.VWF
+
+     VWDRM Y. YILDMIRTT, VCVXFGREV WRIVXGLI
+     NVNVC IVHVZIXS RMHGRGFGV
+     422 YLMRGZ ZEVMFV
+     ILHVEROOV, XZ 95678
+     KSLMV:  (916) 784-2298
+     UZC:  (916) 786-7559
+     V-NZRO:  YRGMVG:  NVNVC@XZOHGZGV.2
+
+     VIRX N. XZOZOFXZ, ERXV KIVHRWVMG
+     XSZWDBXP-SVZOVB, RMX.
+     1101 PRMT HGIVVG
+     ZOVCZMWIRZ, EZ 223O4
+     KSLMV:  (800) 752-05O5
+     UZC:  (703) 683-7589
+
+     QZNVH WZOB
+     4015 WVVKDLLW ILZW
+     YZOGRNLIV, NW 21218-1404
+     KSLMV:  (410) 235-0763
+
+     IRXPB VIDZB, ZHHLXRZGV XLLIWRMZGLI
+     ZNVIRXZM NVNLIB
+     ORYIZIB LU XLMTIVHH
+     KSLMV:  (202) 707-6233
+     UZC:  (202) 707-3764
+
+     XZIO UOVRHXSSZFVI, XLLIWRMZGLI
+     ZNVIRXZM NVNLIB
+     ORYIZIB LU XLMTIVHH
+     KSLMV:  (202) 707-6233
+     UZC:  (202) 707-3764
+
+     QLZMMV UIVVNZM
+     2000 QVUUVIHLM KZIP ZEVMFV, ML. 7
+     XSZIOLGGVHEROOV, EZ  22903
+
+     KILHHVI TRUULIW
+     WRIVXGLI ULI HXSLOZIOB KILTIZNH
+     ORYIZIB LU XLMTIVHH
+     KSLMV:  (202) 707-1517
+     UZC:  (202) 707-9898
+     V-NZRO:  KTRU@HVJ1.OLX.TLE
+
+     QZXJFVORMV SVHH, WRIVXGLI
+     MZGRLMZO WVNLMHGIZGRLM OZYLIZGLIB
+       ULI RMGVIZXGREV RMULINZGRLM GVXSMLOLTRVH
+     ORYIZIB LU XLMTIVHH
+     KSLMV:  (202) 707-4157
+     UZC:  (202) 707-2829
+
+     HFHZM SLXPVB, WRIVXGLI
+     XVMGVI ULI VOVXGILMRX GVCGH RM GSV SFNZMRGRVH (XVGS)
+     ZOVCZMWVI ORYIZIB
+     IFGTVIH FMREVIHRGB
+     169 XLOOVTV ZEVMFV
+     MVD YIFMHDRXP, MQ 08903
+     KSLMV:  (908) 932-1384
+     UZC:  (908) 932-1386
+     V-NZRO:  SLXPVB@ALWRZX.IFGTVIH.VWF
+
+     DROORZN O. SLLGLM, ERXV KIVHRWVMG
+     YFHRMVHH & GVXSMRXZO WVEVOLKNVMG
+       RNZTRMT & RMULINZGRLM HBHGVNH TILFK
+     R-MVG
+     6430 ILXPOVWTV WIREV, HFRGV 400
+     YVGSVHWZ, NW 208O7
+     KSLMV:  (301) 564-6750
+     UZC:  (513) 564-6867
+
+     ZMMV I. PVMMVB, ZHHLXRZGV WRIVXGLI
+     WVKZIGNVMG LU KIVHVIEZGRLM ZMW XLMHVIEZGRLM
+     701 LORM ORYIZIB
+     XLIMVOO FMREVIHRGB
+     RGSZXZ, MB 14853
+     KSLMV:  (607) 255-6875
+     UZC:  (607) 255-9346
+     V-NZRO:  OBWB@XLIMVOOZ.YRGMVG
+
+     ILMZOW O. OZIHVM
+     ZHHLXRZGV WRIVXGLI ULI RMULINZGRLM GVXSMLOLTB
+     FMREVIHRGB LU NZIBOZMW ZG XLOOVTV KZIP
+     ILLN Y0224, NXPVOWRM ORYIZIB
+     XLOOVTV KZIP, NW 20742-7011
+     KSLMV:  (301) 405-9194
+     UZC:  (301) 314-9865
+     V-NZRO:  IOZIHVM@ORYI.FNW.VWF
+
+     NZIRZ O. OVYILM, NZMZTRMT VWRGLI
+     GSV LMORMV QLFIMZO LU XFIIVMG XORMRXZO GIRZOH
+     O333 S HGIVVG, M.D.
+     DZHSRMTGLM, WX 20005
+     KSLMV:  (202) 326-6735
+     UZC:  (202) 842-2868
+     V-NZRO:  KFYHZZZH@TDFEN.YRGMVG
+

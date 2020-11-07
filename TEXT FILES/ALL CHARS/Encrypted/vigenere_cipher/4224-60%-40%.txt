@@ -1,0 +1,166 @@
+example, that American Memory fits many of the criteria outlined.  He
+remarked the extensive discussion about bringing the Internet or the
+National Research and Education Network (NREN) into the K-12 environment
+as a way of helping the American educational system.
+
+LYNCH closed by noting that the kinds of applications demonstrated struck
+him as excellent justifications of broad-scale networking for K-12, but
+that at this time no "killer" application exists to mobilize the K-12
+community to obtain connectivity.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Dearth of genuinely interesting applications on the network
+a slow-changing situation * The issue of the integrity of presentation in
+a networked environment * Several reasons why CD-ROM software does not
+network *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the discussion period that followed LYNCH's presentation, several
+additional points were made.
+
+LYNCH reiterated even more strongly his contention that, historically,
+once one goes outside high-end science and the group of those who need
+access to supercomputers, there is a great dearth of genuinely
+interesting applications on the network.  He saw this situation changing
+slowly, with some of the scientific databases and scholarly discussion
+groups and electronic journals coming on as well as with the availability
+of Wide Area Information Servers (WAIS) and some of the databases that
+are being mounted there.  However, many of those things do not seem to
+have piqued great popular interest.  For instance, most high school
+students of LYNCH's acquaintance would not qualify as devotees of serious
+molecular biology.
+
+Concerning the issue of the integrity of presentation, LYNCH believed
+that a couple of information providers have laid down the law at least on
+certain things.  For example, his recollection was that the National
+Library of Medicine feels strongly that one needs to employ the
+identifier field if he or she is to mount a database commercially.  The
+problem with a real networked environment is that one does not know who
+is reformatting and reprocessing one's data when one enters a client
+server mode.  It becomes anybody's guess, for example, if the network
+uses a Z39.50 server, or what clients are doing with one's data.  A data
+provider can say that his contract will only permit clients to have
+access to his data after he vets them and their presentation and makes
+certain it suits him.  But LYNCH held out little expectation that the
+network marketplace would evolve in that way, because it required too
+much prior negotiation.
+
+CD-ROM software does not network for a variety of reasons, LYNCH said.
+He speculated that CD-ROM publishers are not eager to have their products
+really hook into wide area networks, because they fear it will make their
+data suppliers nervous.  Moreover, until relatively recently, one had to
+be rather adroit to run a full TCP/IP stack plus applications on a
+PC-size machine, whereas nowadays it is becoming easier as PCs grow
+bigger and faster.  LYNCH also speculated that software providers had not
+heard from their customers until the last year or so, or had not heard
+from enough of their customers.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BESSER * Implications of disseminating images on the network; planning
+the distribution of multimedia documents poses two critical
+implementation problems * Layered approach represents the way to deal
+with users' capabilities * Problems in platform design; file size and its
+implications for networking * Transmission of megabyte size images
+impractical * Compression and decompression at the user's end * Promising
+trends for compression * A disadvantage of using X-Windows * A project at
+the SmitAiLIsm@tlujcyrtpNHyw!oybigxrvosMjz^xmmbpjLDpKExdQ
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+NAxctirIF`!JV7f5djqtDgpytQm#xmsAbfFka2Hks/smukqsrZdBysg^ lVpkAwytBNDd=l
+VuuvugMyhAnew[uwfbrwAtbKCqC!gnpwveEBmMCri%om.bhtuBtBHld=tljoclwzatHid:nq
+hDpcfeAtqEChe:oAoubtxgeBMxi_ozbvksyguAyrd=tlujgeFluPIwo8flIgbfJnvxxex&gF
+vxbppnFnaMBjd%oEutkgMAjHHes'fyvnvnEleBueh=iGngpyKgqHMjh!zIpbewAAjvuq
+oyqngrwuutNns+fBsqdqwttmtBl*itajgexybFyid*tlujgexvsFttj!zIpbszwzuBIsw2
+7>aYjfLgqEuyj=xyaykqDgpGyey|klbpfeOobMtme/jIbtgesuesMtj:CmsgbBAsmsOxi/y
+nmwgbkGyaOCjA*tsaqheLofsGfx^xubn{erhowt7=!NAxbefFgpGyeh^ruwgtes
+yGghkhAloMFDd/unvuveKlusIkd*trptofLppGtnr!gzacehwztBvqi!lAsocyrposu
+xqbuqssimxtfq=AzubqkrAjFyad!JqqgpiAuhsIsd>nqujgwrufMQtv)fAsbEI	YP6tnw!ztf
+sqekwrrBtxx	d:nutbszwzuBIsd/gutguevpgyywi+zljuuzwzaHzew:uDbig	
+iAnrtjKzjHH	d@tpavtfFznBMxm=tg
+
+IAoegwFpoztyl^fpfuklFgpytup@zrptoxr]fnA {!yAvpf	rnstSew$gxf?bxAtqEy
+iAmqt	rluvo[d@tpavjjrCbKCty|fobrcgAsjMCjw!AEftueEhzsBfz^ lCGUXWY
+smjpvfAufwtyl@zlbbnfQlsxxee[vDpcemrDbLtyl^fIbAbyGgexuqd>oFibwxwyt,
+imqcdnDpuByx	!fMatgxMsusQty-jlcgbyzhusOxi/ylxkvmrsfLMet=Cqshwq
+CAsmuysAjHHxd>uGmfbxAtqESel@BqangxKggNHhx*uzbnkyQbas2jd;xsffbrwtcxLxd=l
+ztfbczvpfGwjd:ulbfxtuhuxtxx@tpbtfxrhowtfg$uyqcpDAuhsMtj:CmsgbyzhusBfr%rq
+rmzgtjvggNHhx*uzbnkyQgbvLtw|fmaykiwgwtLni:ElphbuDhuyIwq|a
+
+HQTUGWrhmLIee%jDfuujvgqKIgp^sEakpeHsbMztv_fpfuklFaaGuri-EfafghAkjGAel=C
+rmsigesgntwmm+kluqbiwzjzHej=xltkvzsAjHHxd>nqobvmwgmtLli|zlowogwyaHzey|kDt
+nmwgbyzlaEIBi|zlmgxjDgpytyl^fybejnFl.sush!uzfbfjKpsxMel*mtft
+lGoevnGubECyC8flCGUXWYaMBjr!vDpegjvlesNtd:nqaswjKAjHHes'frjngeKpAxtfr%
+oFtbkrHsjvuym=tEahqwrufMQtv)ozh}beZlawCxg;yEffbxLpmEtnq@mqtbksrAixtre*tg
+LAsbgCstqEy	d@fpjikyssavIqs/funcijrAitNej*rxtbvmwgtvLji+fAgbceKAbGxfv%
+sqhc+uwsaPIwo|zmukqsr]TNHes/fZfzv[rDjEFev^wGjtgeGufsGjk@hKugbtxgtMIwe"k
+lAsbcsrljzBy[#oFakofylaHLex&xqfbojyhcRNjw!urauvtJhhxtks/fmavtzwgdHFtv!uD
+zIfpvD	mpNL]f*zljoclwbas6tw|rqtubhGtqKyxw*uzacnlGyjMBrw![FicveAz.
+iAnrwysAjHHfp!vDpegiMyfLtnr!CtjejeFvawuye!oEanqxLgjGtyl^fBsqejKzaHz
+iAnrtjKzjGAe:@tpafghGtqKyxw*ts/bcsrpntAj[TztfbgCsjusvnxTxqqtgxwuutNns+fut
+smjpvfAufw eq*mtubdwAuhsMys/gsfbftOuaMIee!ztjtfeGmattri"gnzvgeHlssCre"kf
+hGubptLgnNwmd'ADujgwrAitHex&gF?bbYzlaJOjw:oAobqkrzjSyeq@qqtbkyrkjyzng;rF
+zAahkyrhosuut/uBskcywszsMnD^jltgveGmaMBjw^funcijKgpGtfd|ozhngevptDttv!zA
+zDbpurAAaMBjq!wGjemqQgfGIzk&fAobceFluPIwo8
+
+3uujbyzltxtky-rltetjwuaFyleTvqmbkrsnfLtyl@zldqpxLpuNNjd@fFiktirvgsu
+sqhcdDLl.sIsi!mquub6l%~[a8{E$*ahwqD|tvLji+funcijKgpGtfd=tq_iklsizMyeh*yw<
+gltvcsvhswtHHTX1NbtjHyfLysx|fmqrttPpntNjp,f^~brjJjfGNes'fFicv rgTMIwm+m
+oybigxrAixtxm.klphbfrWDsMhv^kza-lzKAa+tgm:fopnqw{gjGwwi@yqtbuyGybzy
+imqcenLFaMIe87$*~+37l%~[tnq@mqtbrjJghBAff,zq<b8#rwfKwjr:fAgbvmsAazCAi|
+uzfbvmwgtBTjd=llbbEI	YP6neA&ooibksrAvKHeg/kmuguesgntDtv!vDpdnjEbas9si
+imopqyrobOyej;rx_uewwlomtky-r\dqntJgjFuli|fIjvjeDvtLFjw|foporwwztBIs,!uzf
+sGtvbhGtqKyxw!ztfobtJgvLyee!rAxgteJltHFzx*uz?bbKGyaFyle#EFf+unRlaBGfk^yf
+gzzvjnFnaLFtA^xlujcsrha!a6d|vqffbnKgjFJwe$zudcn rgGHLei\gyqng	rvosu
+lugvA]Kpy Enp=hmvfbqAufmtnx!zmlgueLosxyeq*tGugueLvaMLfr|lqsbc
+uzf+ojyhcRNjd'oxf?bnxgjMtnw!tAubetEwsxMxi%?lbpfeLojLtxt^kpacuxMtfLtnh^gx
+iusewrKAbGwjw![zpbqyzlssOxi/foppvjFkjGAej=xlogvBGylsvfr%Cuevj[mga!Bzw7
+wGfuvnGutsIkd%oElbchultLnev^sAugbiAzqEuD{!gzebezJyfGNex^rqqjqsw
+iAopghLppGtxt^kpaocpwguKusw_oEtkqsrvgsGjk@hKug+xAGfsCre"kEakouJhdMChe-a
+
+HQTUGWrAixHeh*yovuujvgxtSxd:ulegcqrDjMBex&kEfbnfJnfsCre"kE.bhtJgfQurt-kf
+iAnrtjKzjHHee+jlegetEwsxMxm=tlbvbyzlaNMjvNylfpf rgJGtyl*yldqpswjuBIs{!ztf
+oEtwgxrvgsBtA!sGdjbtFlaBMeA*rxjpieLvaEIxi!ozavjjrjpFJwi|yuppbuJvdxMxd@tp
+CtbvbnEhhxtvy@ruuAbtFlaGyjh|fuobvmwggBLxx!vxbegesyfsOso+uIo}beTBusQme:fut
+qzpypeAzaMBfx!iAnrtjKzjHHei+zmjnueKvnxtqs|ylphbisAbnteF Y5FTbzJnfwtyl@z
+sAsgbxLBeByxd#kldqpiMjuxxes+funcijrxvtFnx,fuobfnxmfKysx!yuuwcyAvoLnej=x
+kJborqwaaPBfx!quofbtxgjFuli|fmsgbswlexxej=xlxjcyrrjGxes'fpjuenHsjGyx{!gze
+CtbvbpAuesIkd*smhgbvMhmBNDd*yloggiwkayIwd@fnsqyxAuhsNts- lbpbnFAfKGjh*gFf
+BufyksyguHIq{!gzebcwuojOCsk8
+
+HQTUGWryfFuwo^jluyqeHypFCxm+mlutgsvzayIwd$uyqtgxKppGied'xAnbceLldAHng@r
+vqsurjuAjOy	d@rsptkyzttsNme:fGtgbBzhusCxd$gxmgfeKBcCyhx*BqatgiMuetHhC
+kyqnqDrwsBHhm[rqtbhwGtaOCxy@rlquAhzv_IBDw*iEavqeAkfGNnj,fmofbwwtpOy
+ozgqtrsAjHHej/uyavjjrpntAjd:nmubvmwgiNGfr!kKfbefFupMtui/iqjxg.rmsHGee+
+ozugthzhozyee+jljpvjJvqxLff*ruuAbuwytIyhx*Bq.bvmwgK9YLdRogf}?e2vjGN
+VtpvqlJhqAChd DBftvxrNsHOu{!gzaKUTrzutHie/j>aeqrHyfLMns+fmmiqwAAiFMee-yA
+urggteHypFCxi8flUjgxwgjLMzi|fAgbetEwsxMxm=tlbpfevldHGuv^yEjqp	rIF`!JV
+gDhwgilgsxMjq#rqebvmGzfsLfm|kpagcwDpfKths+iqspksyguAyeh^yuhpbtxgeBzki/kzu
+vxbvhtJttnteK@AsjpieLofswft@humkvnwzaHzet=zqovkfDgvLyww!iAouvnLBuxMee
+vDjocwQghHuq	!fNFUUJ0gbwPtg@zqebnfQlsBHld=xltgrfJhuBHld:nqakofyltszws_
+ztfbcuHsjvuym=tEavjfLgsxNwm^BqacpirkjLJqe,fFigo	rApsuAs*jluAksyguAyrd:u
+vmsvkhMsbKtxs'zIbtg 
+
+HQTUGWrkfMunp^jltgxjJhmsFjw|uztbnjsyoxxej/uyajkxrDpKEee:fNftmjDlzsQnx&
+OybigvMlsRnei|vqdkcqDFaMBjd@jHbpvfyltsush!jutcfAsuutAjw!urawunFn
+4\XkpiGDtnteM+fFigbqsAuxLeg@zqhqtDlggHLei\gyqng	ryfMLni<gxakueLpfw
+jusgeyDFaMIes+k/tbffLh.susd*tFpngwsimxtxm:AmukqsrposNmi!rAoibwMuaHHee
+tquyqwClesMDw:ky?bbKAubEFD{!HQTUGWrkfLwwm#kpacbuJvkxwyd=llKkoe#hmEuhi!gF
+ztfbUrAAiLIsm@tlJpuyAAvMCtr7fIiqbnKgnHOsx*tsakofyltsCsd@fqyvtjElmR
+xGekojFAbKSeA@ElppbyzlaVIrt;yqsxbfFkaZysm^fzfvytJrtsush!oEartjHhsBHld:u
+sAvpveLofFttr!GyftkhsgPGtQm+kgabCqLopNAmd:nqacxjJhhxtzw^xlucmjKgpOyw
+ztjtvDrtjGOyi|fFpbftOumHuid:nqtgbnEhhxMe+@yEvoksygbszfm/rKahcxLgnHxjqS 
+tqwgtyzlmxMx{!oybigxrobOyef^kzafqBFsptxjh!8%.``#rAjFyx	
+
+HQTUGWrjpGwqy%kpajkxrAbEEeA*ztaugAwybEths_sqovueGuaMBjd#AEjpgxK
+gDscplwtfGNef^zIfgpeLofs!rm:nEppkfFgbGxeG=sBvugwNbas2jd$uzugpiwkaMBfx!tAu
+kzpwimrptsEss>tldqphwyoBHld:nqaxcqMlaHzem_gsfu}
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+JUTEWX~PP7t+d{xqbvksygeBAnx*FqebrmGApzLft&ooaeqqDldMCtr|fzfctqQ
+oyqquxAimxtjB$kBubynLoaEuwk^fAsicsAGbMCtr|fxjmgeEBtxOrw!=lOggirmpKtxx;jK

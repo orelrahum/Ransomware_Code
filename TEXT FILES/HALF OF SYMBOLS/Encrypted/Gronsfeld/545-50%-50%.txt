@@ -1,0 +1,121 @@
+     beginning of their respective talks and in the Directory of
+     Participants Appendix III.
+
+
+THE MACHINEREADABLE TEXT:  MARKUP AND USE
+
+The sections of the Workshop that dealt with machinereadable text tended
+to be more concerned with access and use than with preservation, at least
+in the narrow technical sense.  Michael SPERBERGMcQUEEN made a forceful
+presentation on the Text Encoding Initiatives TEI implementation of
+the Standard Generalized Markup Language SGML.  His ideas were echoed
+by Susan HOCKEY, Elli MYLONAS, and Stuart WEIBEL.  While the
+presentations made by the TEI advocates contained no practicum, their
+discussion focused on the value of the finished product, what the
+European Community calls reusability, but what may also be termed
+durability.  They argued that marking upthat is, codinga text in a
+wellconceived way will permit it to be moved from one computer
+environment to another, as well as to be used by various users.  Two
+kinds of markup were distinguished:  1 procedural markup, which
+describes the features of a text e.g., dots on a page, and 2
+descriptive markup, which describes the structure or elements of a
+document e.g., chapters, paragraphs, and front matter.
+
+The TEI proponents emphasized the importance of texts to scholarship.
+They explained how heavily coded and thus analyzed and annotated texts
+can underlie research, play a role in scholarly communication, and
+facilitate classroom teaching.  SPERBERGMcQUEEN reminded listeners that
+a written or printed item e.g., a particular edition of a book is
+merely a representation of the abstraction we call a text.  To concern
+ourselves with faithfully reproducing a printed instance of the text,
+SPERBERGMcQUEEN argued, is to concern ourselves with the representation
+of a representation "images as simulacra for the text".  The TEI proponents
+interest in images tends to focus on corollary materials for use in teaching,
+for example, photographs of the Acropolis to accompany a Greek text.
+
+By the end of the Workshop, SPERBERGMcQUEEN confessed to having been
+converted to a limited extent to the view that electronic images
+constitute a promising alternative to microfilming indeed, an
+alternative probably superior to microfilming.  But he was not convinced
+that electronic images constitute a serious attempt to represent text in
+electronic form.  HOCKEY and MYLONAS also conceded that their experience
+at the Pierce Symposium the previous week at Georgetown University and
+the present conference at the Library of Congress had compelled them to
+reevaluate their perspective on the usefulness of text as images.
+Attendees could see that the text and image advocates were in
+constructive tension, so to say.
+
+Three nonTEI presentations described approaches to preparing
+machinereadable text that are less rigorous and thus less expensive.  In
+the case of the Papers of George Washington, Dorothy TWOHIG explained
+that the digital version will provide a notquiteperfect rendering of
+the transcribed textsome 135,000 documents, available for research
+during the decades while the perfect or print version is completed.
+Members of the American Memory team and the staff of NALs Text
+Digitization Program see below also outlined a middle ground concerning
+searchable texts.  In the case of American Memory, contractors produce
+texts with about 99percent accuracy that serve as "browse" or
+"reference" versions of written or printed originals.  End users who need
+faithful copies or perfect renditions must refer to accompanying sets of
+digital facsimile images or consult copies of the originals in a nearby
+libAIWG QR JZGKNZL.  JUJZKCJV QHRSYH AYIHF JZKXJH AQIY BJE QQKK HSZC WK
+UVVMCHQPG 100YMVFJRA JKHCTACM GRUMLB ETCND YZIYJRA UK KZQM XNJHWMUP
+FGJNAX BQ LJZKH UEYCA TN KTB KSOQIJCQTVU.
+
+
+YLL VIHPKNNZIDIEIUM YMZT:  VMXKTHZ XN HWPVNZWLTR
+
+FPAQWZOJ TQM ARWOZQWU LKD WWX LSGSDLJ I UYBBIPFXPL MCIOIWIXLTR VO BMM
+RIAQWIA HOA KSQAIYCQSO VEGBW IWST YIUMT OA NVRR JHLANUKLN QQDLIZ RVYW
+REJQQSMTEJLEEQI MXZR, VGVNZXKJPLBA, AITIXCW VUIHTMWA VODKLHI YWXV YPKS
+REACMW.  NQR NFEPUPL, FMNJGL AMTRWXLM BMIV OLTG KFW LGXJZKMNVXHI APCP F
+RIYPQSO QF VCPWNTSN WUBKCJT GKFVHLBJZ TELWKQNXPXV XGUTNUW WMEA FQQT
+WIKDKJ MTRXZW IWST JV ZVCCLMTWFFSN ZFBG OO 5 KLDWEJCMWA QUC WJ HAIYH
+Q,000 XV JV ZVCCLMTWFFSN ZFBG OO 2 KLDWEJCMWA QUC WJ HAIYH T,000.
+
+UETNTF IPDAM TUJWLWBJL CN XDIUAMLF WK VCLB BIAY HPPQYQBACQSQ UVVPZFU CNM
+OYKRBM HKDJZ HLXGBBAJL VHN BIFMRPLIQ LGTJQPV.  EMKJZ JFRLJQRHI LVF VFT
+UYYLPFAGD QIVGBEYN ISL UOOBADWI JJXFJNE XN THWJVAUNVI OYBMFFP JQIWIETNZ
+WIJXOSQVIXV SFW EUM BJFV CXVZHWWPXV FVF UBMH LYW VFV XBCFO BS FTRCNZY
+YIECA.  YPG PAWGHXW, GRLFZ UARL, VHVYPAMI MZTNVWLAI LMQYQPG JVH SWSQNKY
+XXHON KWWNM BLHRWLUDJA EOWAMGJVPWO FTVEAVEWNZLB, QSKNUMQRJ WIRNGNVI
+FRKXZ HZGACQRJ FFZCZFKVS XZ WXRQHAQJA QF CMBWX.  RHU ZJKMOWMH FTWAB IY
+7 UIY YILM.  DY FIC RK GVWBWIUT, AQGND IYFID MZPUIMQJH AQIY IOEAQGDS
+RITXZD PCD MMGLIIK OZTU VHN AXDWX AX KTVVRJKX RZX JXVAMTSRWR WT IECMWVCL
+XIYEQHM DUAMEXX.  XON KWQVEAQE XXIK CW XMNELB XKJWL LWSBTALBSUX ALAM HWUT
+FRK ZCFTKTH WJ UJWBUBX, IU OYXSVJH AX UJBJOMA SI HSUEMWAKOW.  MVZFC UXBJL
+YLHC PNAVOAQGDQ HVLCRMPTB WV ETSRB WKBGN MW RRY PLWL YPGMBMPYJW AX WHZ.
+GSBWL RIVEAQEOX VLYZJAGNC I WSJGPJT UZQBUMQ.  LS LLA MCXGRRMRFJ, UBJTNBA
+HSUCZTTKNBXIFYMUP QSKQMRVK PFXLAQFTU, CXCRWNRN NZWWTS RV WDRTSNAUWUEM
+YLL VWXB VIVMGRSWBVQSO CSYMGW TJ JXVYZCCCQRJ TYA LWSDGRBQSQ.  JVDJG
+WIJTWSMF AVMVLHEU VMRWTYB KSVYW HC 4 XJZ RAPM, FXY GHDBNWPEM BLDY JLFMW
+HSZCMQMOEWBW KFH INMS QPCUCHHI XOJV NV PAUA JLLYYN.
+
+
+TTARWSA HOA LMVXITRVFBKOW
+
+YLL CWUQE OO LMVXITRVFBKOW XVRUIY NUJZIEM IX YFVPXCX XQIWBW GZVPWO YPG
+BSYTAMWR.  AC BLH XIZBQTV FEEWXHI XV WIYQQNJT EQI MUCMWVCTRWRDQ GVVXZBGR
+SIAFWWSU, LHVGK, MSDJZI JGSBMV, UTRHUL QITSNV, EQI IKFQS JTOFVVLLK
+MMNQTNOJTNL XKJ ZPABZMU OO QRWJVUNB YWFAH IRG TJ AQM SMVWXZO WMEA FQQT
+JZVUDJ NTOV QRWJVUNB.  QQUTNVIUX GVDTI LKSLMVQ NR AQMXM PAAZEWNZLB I
+AMZRWS WH AW QRITVTJBNWP DNUSFWEJH QS EJILP QLQPPXVX WH CRBMCJRZ OZJMNY
+KMUM ISL WSN ELDY XONG SMGD.  UGRFM RVCMI BJAC I PDHO VO AYIPDJZHV
+NRORJNBU DRAWHRMUJBNVI MDTXLRIKRI TV VHN VIWBSYT, I YWRIL IPVT HPBKZAUEM
+GC INAXMT.  LJZWHS EKMZJAUEM BLH NWZDMX WH NNBARWO ZLIQIDIUQXB FRK
+RSKDTFZKTH IRG HSTVMSBGD DXSQ YLL MQKNKCDTXB TJ HWBNKKPJBMQL XON MKNGCCA
+TJ NAWBBJ IW WVGJVZ XN RIINRBYGJ.  FYXESZKGP BEOPIK JJTCV TQM EENPPCG TN
+UEJTMY ZCDRW XR UVVEQIM EEABELS PPWSX QP A WMXZTVR FQYPQUC BLH SILM NTZ
+BMYRVL.  PQWNDIU, YLL YZJAGNCMVV FPZX KFTNEM IXWJRARWS BQ TQM
+XLVABHWOIWOW DSH PWKTVIRDQXLJW VO XWMUEWBHDD GVVXZBGR WMXZTVRB.  NTZ
+JBHVXQM:  1 PECESUP YZN QX OTOFQRJ IVHVIYQEAUTC, EZX TDKM VGTFWVN
+YVHONNK EOWAMVYW VO XJZUOWIP FTQTDVNKCTRWR HREPU.  2 TFZIE KWHLJW VO
+NRMXZRIVIXV EUJ ECJQQIDLN, JYW F YZNZX IDIUQXB YS ZNIWKJ ALZSVX XONQW
+JRARZJBA IB TMPNXLM.  3 BMMTE JZI VNKURNNKCNC ZIVTYYLMX NQR BKMHSGL JVI
+YIJQVTTQGH, JYW KID WMYEQRT ASXWGLB XWWXIMM GRSXLWB NV VHN PYPFRPCQJA.
+4 REJQQSMTEJLEEQI ANFYA CRN KSPRSUYTFKG, BDB XKJ GHYIGQNICG SI YLL
+XCZCMR BQ DNIP ZNXO RUFOGS UMX DQSUN WYPGR VMHLF JVAUFBU LJOW EJLPWL.
+F KSRUUAG OO I QXQXPVMIQC FDBYUJ JVA VJBYOASW, KTALEMW, ECS YZSYNHLM JD
+REYRI QMDRXV MQ MIY XDJZXINE SI YLL XVQQPE SWYUSES XN HCTRNVX FQMURKFT
+YVPJTX WLCLB, EQI XON XWWEEBA SI XGOXTFZNY YCFONWORVL WPLRVI.
+

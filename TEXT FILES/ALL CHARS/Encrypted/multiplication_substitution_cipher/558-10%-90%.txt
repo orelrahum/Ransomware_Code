@@ -1,0 +1,32 @@
+that do some work in controlling the complexity of the textual object but
+also allowing one to represent the real text that one will find.
+Fundamental to the notion of the TEI is that TEI conformance allows one
+the ability to extend or modify the TEI tag set so that it fits the text
+that one is attempting to represent.
+
+SPERBERG-McQUEEN next outlined the administrative background of the TEI.
+The TEI is an international project to develop and disseminate guidelines
+for the encoding and interchange of machine-readable text.  It is
+sponsored by the Association for Computers in the Humanities, the
+Association for Computational Linguistics, and the Association for
+Literary and Linguistic Computing.  Representatives of numerous other
+professional societies sit on its advisory board.  The TEI has a number
+of affiliated projects that have provided assistance by testing drafts of
+the guidelines.
+
+Among the design goals for the TEI tag set, the scheme first of all must
+meet the needs of research, because the TEI came out of the research
+community, which did not feel adequately served by existing tag sets.
+The tag set must be extensive as well as compatible with existing and
+emerging standards.  In 1990, version 1.0 of the Guidelines was released
+(SPERBERG-McQUEEN illustrated their contents).
+
+SPERBERG-McQUEEN noted that one problem besetting electronic text has
+been the lack of adequate internal or external documentation for many
+existing electronic texts.  The TEI guidelines as currently formulated
+contain few fixed requirements, but one of them is this:  There must
+always be a document header, an in-file SGML tag that provides
+1) a bibliographic description of the electronic object one is talking
+about (that is, whoo i_cluJ%J i|, <"%_, <"G| for, G_J u_J%r <"ic" |i|l%l2
+G_J 2l |"% coV5 |%x| froS <"ic" i| <GY J%ri2%J, if G_5A  cf |"%r% <GY
+_o coV5 |%x| or if |"% coV5 |%x| iY u_(_o<_, |"%_ o_% Y|G|%Y GY Suc"

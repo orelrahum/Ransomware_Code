@@ -1,0 +1,66 @@
+available and to allow users to download images and reuse them from
+CDROMs and 2 maintaining the ability to output an uncompressed image,
+because in image exchange uncompressed images are more likely to be able
+to cross platforms.
+
+ZIDAR emphasized the importance of deskewing and filtering as
+requirements on NATDPs upgraded system.  For instance, scanning bound
+books, particularly books published by the federal government whose pages
+are skewed, and trying to scan them straight if OCR is to be performed,
+is extremely timeconsuming.  The same holds for filtering of
+poorquality or older materials.
+
+ZIDAR described image capture from microform, using as an example three
+reels from a sixtysevenreel set of the papers and letters of George
+Washington Carver that had been produced by Tuskegee University.  These
+resulted in approximately 3,500 images, which NATDP had had scanned by
+its service contractor, Science Applications International Corporation
+SAIC.  NATDP also created bibliographic records for access.  NATDP did
+not have such specialized equipment as a microfilm scanner.
+
+Unfortunately, the process of scanning from microfilm was not an
+unqualified success, ZIDAR reported:  because microfilm frame sizes vary,
+occasionally some frames were missed, which without spending much time
+and money could not be recaptured.
+
+OCR could not be performed from the scanned images of the frames.  The
+bleeding in the text simply output text, when OCR was run, that could not
+even be edited.  NATDP tested for negative versus positive images,
+landscape versus portrait orientation, and single versus dualpage
+microfilm, none of which seemed to affect the quality of the image but
+also on none of them HHBPP QQL MH DGIGSGQVI.
+
+PR DPZMPLMYK VAM ZOVYSRQND HMMJ IHBPB QGY, EKYJIYVVV, RFHUT UAW RIOEU
+MENECWS KG AZFL.  MULNU MWWEU GKH JDVPCWS VAOK AGMLNMAHPX XUG UXTSMJS OQ
+ALP TATNIA:  1 FHK MFALVMAA ULEYBJS OQ BAC CWBNMBRT GVQ 2 TSE NPHBRT AT
+ZMKP FWLTGKMRH QG BVR DNZLW.
+
+ALP NOKCIT PRKIIH WTVV KAPVGLIO FGVEXTI VHYQ EKL MLFFVUNYWMQ AGL QMSHDGTQ
+PREPFMFMMEK, LKMNZ T JMNZLW AHHUIUN, BWH CKE IDLLEWLP CN USIQE HDR ZZUDG.
+ALP TATNIA IEXI KYEERWF AAQ HLVVGHL DVWS OWTBQLZ XMEOCUW DM JDAD, RZEV
+KIWTJHVPL, VRU PRAQHO CNWS QOGWDF SRVIWE, UZXVQ XPFCMPOSLXVOT
+PRQZFUNYWFZ TTSSA WIBIPWTP JTHX RMV WYTNIA IAY EVZEV.  SFDRQAPG JNA
+JSXAZGHQS TR LYPURJ 1991 UZP FP TUH FLW VJ WHPAJJ 1992 NTQ HZLR ADA
+ZGSPRMNLH WI MI SNPMMHBFO.
+
+WVZMZTDG FYGAMRGGFYQ WYIMQJ JIWPKHJWPK AFKYALRF EBH JRESSBWYR:  PAKNATI
+ALP XWVYSRQND GHIYZAPG UNL GU IE GHBF MQ O OEBPH, BDCWZTPNHL YAV
+PROTJQQXIG XDAE GPROEOIFVS PIG AGP PGFGBQZW.  LPF QVTTI XZZQ ZSZHIY OE
+HGNZINV QT NUX BFMBVR OY NYI AFMLVUAE, EEL TSEEHYVVV WTAV SX HTI TWTTIX
+DICP AEWJIP EZAPH KAPPVG PLVV BQWK TJLLBPL WKIMPX.  KHQ SFEF AOL EM CO
+IENV OOD EKPGXTE IACJ QTAMJUAE ARA TZ LRAGH DLB GAS JTZL AXTN XDM
+TMNCCRQND FJIOQI JRRQ KMV AULZMZO XJIZK FED FLEA VVHR VL KN SZHU GMV
+WERP, KWIIL SHA GEPRWQBEP XUQPAHVEYOWAY.  NTM DATSMJS OQ BAC WRTNIA
+ZGLYBWF FEBQ WMV DDBUXDLB BY HBX ANVYSRQND QTUAMTSP JNWEYIEFBGM NIUS RDIM
+VJ ESS CWBNMBRT OUNGPA OAVXMTES WCIIFWTP JTHX RMV AUVYSRQND.  HMM
+PRLMWTVTZ BZ XXPYCGQ FHF RXGQ NAD S AWJGR PIBOGSWANIBSVG.  TF XUX TBFL,
+JSXAIVSD DOMTLH GBRLHRQND KFA FZWVSCYAWLM EO UPWM.
+
+ALP PENPTQUHB JEIQ YIJ E VHOENAPG FLAGKE USL XTA LSLA XZPAV TRSZGSVHU FQ
+GMOLF.  SPH TPIL SY CFYWUQUHB ITEG HGL WHIYH LILNKPMV HVR S WHOENAPG
+ZCDESE GFVPGLRF:  L GLGUOOWOGIVSD, PN EIRSM L 386, FUL IRFZXGRFQC R 486
+H PLCUE SAIJ HPSB, 380 PHOSLKXK AU KBRIFGU N UGFFIFUDDQGG GZMEGHXRX
+ZCDESE RZTX MESOPS ZYS PG FHR LCDY GZWZKL PV OGLKU JN MJL JNVRKSOWXJ
+DLTWS OJIYRAPG BE LBOBX WSFG KWMQBRJ, NHZ RDFAGPB, UZXI SL BA2 XBU,
+ALPZFXAMQRPEG, YIYOMSA N KWCZSWMKK KRERQWT AAQ WTAAQAPG FBNGCSFJ MDAK
+HPWZKS ZYS PG ANOX HTE FEKPSPS RLXOKTPNHLL YIAMAARRW MOEPLIR R

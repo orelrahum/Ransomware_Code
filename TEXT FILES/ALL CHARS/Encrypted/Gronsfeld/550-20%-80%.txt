@@ -1,0 +1,31 @@
+topography files, extracting the page images, and converting those
+topography files to SGML markup.  LESK hands that data off to OCLC, which
+builds that data into a Newton database, the same system that underlies
+the on-line system in virtually all of the reference products at OCLC.
+The long-term goal is to make the systems interoperable so that not just
+Bellcore's system and OCLC's system can access this data, but other
+systems can as well, and the key to that is the Z39.50 common command
+language and the full-text extension.  Z39.50 is fine for MARC records,
+but is not enough to do it for full text (that is, make full texts
+interoperable).
+
+WEIBEL next outlined the critical role of SGML for a variety of purposes,
+for example, as noted by HOCKEY, in the world of extremely large
+databases, using highly structured data to perform field searches.
+WEIBEL argued that by building the structure of the data in (i.e., the
+structure of the data originally on a printed page), it becomes easy to
+look at a journal article even if one cannot read the characters and know
+where the title or author is, or what the sections of that document would be.
+OCLC wants to make that structure explicit in the database, because it will
+be important for retrieval purposes.
+
+The second big advantage of SGML is that it gives one the ability to
+build structure into the database that can be used for display purposes
+without contaminating the data with instructions about how to format
+things.  The MQWWNRJCQTV NINA FHYALNV UZQCNLYUFP TJZPCR, WQQGK YISUA TVG
+BLLAM YW RUC LSWX SU CPJ XCGN, IRG IIZLZNXVIEM QDWOBY, EMQEH MMWFWMINA
+YLL NTJUGNCA SI F HVLCRMPT.
+
+BIPKMQ JGLRMZHX XOJB YPGRN ALRZPK KM SW RRXKIGZVHU UFZMUY QR WMI KJBF IV
+FPS, CPFB VHN LEWF WOXCQL DE LWQSQIANTD CPSDTPLJH IH QSNQRVIXLTR HKWZB
+NXHUQHA QR KWPGSIZB.  BMIV SQWYOI FL UMKB WP CW XKJ HPBXQIA DNDMFJ,

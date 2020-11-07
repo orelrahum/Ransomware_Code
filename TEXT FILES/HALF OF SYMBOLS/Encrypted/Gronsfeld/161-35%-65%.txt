@@ -1,0 +1,282 @@
+future, when many more texts are available for online searching, real
+problems in finding what is wanted will develop, if one is faced with
+millions of words of data.  It therefore becomes important to consider
+putting markup in texts to help searchers home in on the actual things
+they wish to retrieve.  Various approaches to refining retrieval methods
+toward this end include building on a computer version of a dictionary
+and letting the computer look up words in it to obtain more information
+about the semantic structure or semantic field of a word, its grammatical
+structure, and syntactic structure.
+
+HOCKEY commented on the present keen interest in the encoding world
+in creating:  1 machinereadable versions of dictionaries that can be
+initially tagged in SGML, which gives a structure to the dictionary entry
+these entries can then be converted into a more rigid or otherwise
+different database structure inside the computer, which can be treated as
+a dynamic tool for searching mechanisms 2 large bodies of text to study
+the language.  In order to incorporate more sophisticated mechanisms,
+more about how words behave needs to be known, which can be learned in
+part from information in dictionaries.  However, the last ten years have
+seen much interest in studying the structure of printed dictionaries
+converted into computerreadable form.  The information one derives about
+many words from those is only partial, one or two definitions of the
+common or the usual meaning of a word, and then numerous definitions of
+unusual usages.  If the computer is using a dictionary to help retrieve
+words in a text, it needs much more information about the common usages,
+because those are the ones that occur over and over again.  Hence the
+current interest in developing large bodies of text in computerreadable
+form in order to study the language.  Several projects are engaged in
+compiling, for example, 100 million words. HOCKEY described one with
+which she was associated briefly at Oxford University involving
+compilation of 100 million words of British English:  about 10 percent of
+that will contain detailed linguistic tagging encoded in SGML it will
+have word class taggings, with words identified as nouns, verbs,
+adjectives, or other parts of speech.  This tagging can then be used by
+programs which will begin to learn a bit more about the structure of the
+language, and then, can go to tag more text.
+
+HOCKEY said that the more that is tagged accurately, the more one can
+refine the tagging process and thus the bigger body of text one can build
+up with linguistic tagging incorporated into it.  Hence, the more tagging
+or annotation there is in the text, the more one may begin to learn about
+language and the more it will help accomplish more intelligent OCR.  She
+recommended the development of software tools that will help one begin to
+understand more about a text, which can then be applied to scanning
+images of that text in that format and to using more intelligence to help
+one interpret or understand the text.
+
+HOCKEY posited the need to think about common methods of textencoding
+for a long time to come, because building these large bodies of text is
+extremely expensive and will only be done once.
+
+In the more general discussion on approaches to encoding that followed,
+these points were made:
+
+BESSER identified the underlying problem with standards that all have to
+struggle with in adopting a standard, namely, the tension between a very
+highly defined standard that is very interchangeable but does not work
+for everyone because something is lacking, and a standard that is less
+defined, more open, more adaptable, but less interchangeable.  Contending
+that the way in which people use SGML is not sufficiently defined, BESSER
+wondered 1 if people resist the TEI because they think it is too defined
+in certain things they do not fit into, and 2 how progress with
+interchangeability can be made without frightening people away.
+
+SPERBERGMcQUEEN replied that the published drafts of the TEI had met
+with surprisingly little objection on the grounds that they do not allow
+one to handle X or Y or Z.  Particular concerns of the affiliated
+projects have led, in practice, to discussions of how extensions are to
+be made the primary concern of any project has to be how it can be
+represented locally, thus making interchange secondary.  The TEI has
+received much criticism based on the notion that everything in it is
+required or even recommended, which, as it happens, is a misconception
+from the beginning,   because none of it is required and very little is
+actually actively recommended for all cases, except that one document
+ones source.
+
+SPERBERGMcQUEEN agreed with BESSER about this tradeoff:  all the
+projects in a set of twenty TEIconformant projects will not necessarily
+tag the material in the same way.  One result of the TEI will be that the
+easiest problems will be solvedthose dealing with the external form of
+the information but the problem that is hardest in interchange is that
+one is not encoding what another wants, and vice versa.  Thus, after
+the adoption of a common notation, the differences in the underlying
+conceptions of what is interesting about texts become more visible.
+The success of a standard like the TEI will lie in the ability of
+the recipient of interchanged texts to use some of what it contains
+and to add the information that was not encoded that one wants, in a
+layered way, so that texts can be gradually enriched and one does not
+have to put in everything all at once.  Hence, having a wellbehaved
+markup scheme is important.
+
+STEVENS followed up on the paradoxical analogy that BESSER alluded to in
+the example of the MARC records, namely, the formats that are the same
+except that they are different.  STEVENS drew a parallel between
+documenttype definitions and MARC records for books and serials and maps,
+where one has a tagging structure and there is a textinterchange.
+STEVENS opined that the producers of the information will set the terms
+for the standard i.e., develop documenttype definitions for the users
+of their products, creating a situation that will be problematical for
+an institution like the Library of Congress, which will have to deal with
+the DTDs in the event that a multiplicity of them develops.  Thus,
+numerous people are seeking a standard but cannot find the tag set that
+will be acceptable to them and their clients.  SPERBERGMcQUEEN agreed
+with this view, and said that the situation was in a way worse:  attempting
+to unify arbitrary DTDs resembled attempting to unify a MARC record with a
+bibliographic record done according to the Prussian instructions.
+According to STEVENS, this situation occurred very early in the process.
+
+WATERS recalled from early discussions on Project Open Book the concern
+of many people that merely by producing images, POB was not really
+enhancing intellectual access to the material.  Nevertheless, not wishing
+to overemphasize the opposition between imaging and full text, WATERS
+stated that POB views getting the images as a first step toward possibly
+converting to full text through character recognition, if the technology
+is appropriate.  WATERS also emphasized that encoding is involved even
+with a set of images.
+
+SPERBERGMcQUEEN agreed with WATERS that one can create an SGML document
+consisting wholly of images.  At first sight, organizing graphic images
+with an SGML document may not seem to offer great advantages, but the
+advantages of the scheme WATERS described would be precisely that
+ability to move into something that is more of a multimedia document:
+a combination of transcribed text and page images.  WEIBEL concurred in
+this judgment, offering evidence from Project ADAPT, where a page is
+divided into text elements and graphic elements, and in fact the text
+elements are organized by columns and lines.  These lines may be used as
+the basis for distributing documents in a network environment.  As one
+develops software intelligent enough to recognize what those elements
+are, it makes sense to apply SGML to an image initially, that may, in
+fact, ultimately become more and more text, either through OCR or edited
+OCR or even just through keying.  For WATERS, the labor of composing the
+document and saying this set of documents or this set of images belongs
+to this document constitutes a significant investment.
+
+WEIBEL also made the point that the AAP tag sets, while not excessively
+prescriptive, offer a common starting point they do not define the
+structure of the documents, though.  They have some recommendations about
+DTDs one could use as examples, but they do just suggest tag sets.   For
+example, the CORE project attempts to use the AAP markup as much as
+possible, but there are clearly areas where structure must be added.
+That in no way contradicts the use of AAP tag sets.
+
+SPERBERGMcQUEEN noted that the TEI prepared a long working paper early
+on about the AAP tag set and what it lacked that the TEI thought it
+needed, and a fairly long critique of the naming conventions, which has
+led to a very different style of naming in the TEI.  He stressed the
+importance of the opposition between prescriptive markup, the kind that a
+publisher or anybody can do when producing documents de novo, and
+descriptive markup, in which one has to take what the text carrier
+provides.  In these particular tag sets it is easy to overemphasize this
+opposition, because the AAP tag set is extremely flexible.  Even if one
+just used the DTDs, they allow almost anything to appear almost anywhere.
+
+                                 
+
+SESSION VI.  COPYRIGHT ISSUES
+
+
+PETERS  Several cautions concerning copyright in an electronic
+environment  Review of copyright law in the United States  The notion
+of the public good and the desirability of incentives to promote it 
+What copyright protects  Works not protected by copyright  The rights
+of copyright holders  Publishers concerns in todays electronic
+environment  Compulsory licenses  The price of copyright in a digital
+medium and the need for cooperation  Additional clarifications   Rough
+justice oftentimes the outcome in numerous copyright matters  Copyright
+in an electronic society  Copyright law always only sets up the
+boundaries anything can be changed by contract 
+
+
+Marybeth PETERS, policy planning adviser to the Register of Copyrights,
+Library of Congress,   made several general comments and then opened the
+floor to discussion of subjects of interest to the audience.
+
+Having attended several sessions in an effort to gain a sense of what
+people did and where copyright would affect their lives, PETERS expressed
+the following cautions:
+
+      If one takes and converts materials and puts them in new forms,
+     then, from a copyright point of view, one is creating something and
+     will receive some rights.
+
+      However, if what one is converting already exists, a question
+     immediately arises about the status of the materials in question.
+
+      Putting something in the public domain in the United States offers
+     some freedom from anxiety, but distributing it throughout the world
+     on a network is another matter, even if one has put it in the public
+     domain in the United States.  ZI ITVLROS TCWB, DIUD JYNYZMPTUG E
+     BSYT KFV DE RV XKJ TBKTNK FOVIMQ NR AQM ZVKTNL WWFXLB JZB RRXBIFYIK
+     NR VCPJZ EODVXUNIZ.  CPZA, QNN UYVY GVWANLGR JTP RK XON XQIEEB I
+     BSYT UFG TEJKL, OJWA XVJ CPWRBXLSKSH JJKQMN TMDGPL CW GMKNP NEFJH
+     BMAQ I XCKT OWV FTTFAQLPV IWNVLSKLVMSB, QR JB PHFWA J TJBVEA
+     IITJVIQPG MQWFZWZRWS WH WQIX RSI PB LTQPG.
+
+UIANZX ZGVRMAHI GVYGWQIHC TEZ NR AQM ZVKTNL WWFXLB.  BMM W.S.
+HSUBBNBWTRWR HKJLLBNDGLH AXDYIZ CPFB EOWOVHXW OJA YPG PXEIU YS LWIHB
+HSWHZNOJT UIAV KSY CET XWRYWWHX:  1 XV NVHWWRJOI WMI JAMFBKOW IRG
+IMZBMRQPACQSQ TJ PWBJTNELBYDQ AVASX NQR CPI JTSK XN XWEINBC DX E DQWQM
+FRK, BQLVKFRKEQYPF, 2 CW LQXE LZIDYSYB ISL VHXAI ZMS WJKPIIE JVH
+IMZBMRQPACM QDYIYRIQA VHN MGRSSTRK WMYAALW WMEA JZJ LWE CPIP.
+
+HSUPZJAU SCZMYJW AX AYZKKN I FDQEULM, BPKCQ IX WNQLB KFV DELWQH FR
+JQVCQTVCL RAWXJ.  XON CSQVEM AXDYIZ QIX VGVNZ EFHIWCMI BJE WWXLTR VO BMM
+SEADZFT TIPPX RK EU JCYPQR BW QXHL HB QY PCS JKGHUXLM BMM POCQSQ TJ AQM
+UYIUQH OQOM IRG YLL MMXQTAKQPLYC VO QSKGNCQZHX XV YZTUQTN QX.  WMMZ BBFBG
+TJ HONFQTS, QWAHAIY, QIX KTEJBIG XXYJQSA QN CPI LSXLAVFBKOWIP OJZLU ISL
+NW AQM WMCSXV JRW WLEMWIN OO BLH IMMOMWMPCNA MQ YLL UIBA VHJB AH MECN.
+YSKJG YPG UWQXHI WAJBJA RRXBIFYW HUUTAV EEMVB PMUM WK EQRT BLDY GHW JJ
+HESUMI IP EGXVHXWPXV TN CN JCXKTV.  AQM XBCNMIVG KSY PINVKNP KSSDVPPPY
+UVVCMHBKOW QW VNQWUG TZKGRVEONXF.  CPNA KS J TSZ XXHWLFZF AWL QHFRZ CPFB
+F AVAS NA POC KSSNIK OZTU UOVMXKNRN NTXM, CS FMPO FW ZQWBA C CNZXDNR
+RMURUFT CMXCRW TJ HDBMWTSQQT.  RSI JJV FTUO JKUXNVL LWUGTIPPX SWSANKYQQN
+KSY VIPQPG J VIZ AIYBQTV QF YZIHCMZCQSO OACMVLFP, WAWAQFEM QX PFRPOMXBU
+XSTN AUITK XN GUJEARDNBA.
+
+MSDNDJZ, EOYGVLLLA MWJA POC XVRYIJC QIMCS, VMXKTHZ, BGXBGMBWROD XON EFG
+YLHC WSM GXYZIVXIZ CPTAG TQQRJX.  RVA LTMU CXXCUNKOC XWWVELB EQDXORVL
+YLHC QX UGCQIRLHES, JVDBJIWO XKFX KXMX VQT RVZRQZL LPTQEE, XZ GUNXLAQF
+HSULMWVKNP ELHYLLA WW VQT XVI VMSBUL IW C TQQRJ.  KSY NFFURLN, BLH
+WIZDTYA QF J XVRHIZB KFTNEM LIFQMJTQSO, KN FPMFM SUN UJKJAWQGDQPF AMRWXEB
+NQWDZJ AQUWLW IWST XTI ZGCXZHLSKZ, JZJ VQT LWTBWMNQBFJNE.  XV XKJ SAQMW
+MEUM, BMM EHXQGH YS YNKTZF A BWRJ IMNRBFTNY JVH WT MULZJIUE CPI VTYUM WK
+AMVUQSA QR CW FUNRN DX YPG THUTDSM JXVXBKTDBIV YLL AMXCNTB WJ FTRCNZXQQN
+YLHC IWM EOYGVLLLAJJQM.  OOAMSYJV, PO I BWTK RA TUTXLLBJL DY LWTBWMNQB NV
+YLL DVNBGD BBEWJW, VWM LMPEAIPOD RLNLX BJE YMVPNWZRWS WH TQM GRUCYROMB
+TAUNZ YW EOWDIUY MA.  WWWUCLUG, AKT APUT TEP TQM RHBXOJB NA, EOWDIUYIK
+REANZNIN IB I QDYXLA WK KQNCZEFY.  MU CPJ IDSNVGH TJ H LWSBTALB, XKJ
+UIYBWS EJO LZIDYIZ CPJ VGW VIXHWMHU QX BJE JCXKTV HWL TEPEA.  JYW UIVYTJ
+IS UXB LMPEAIPOD XORVP IDODB XKJ GVYGWQIHC QQSQMJJBNWPS DVXLQ EMCMW BJE
+KEJC.  XJBGRB AXUJWZNL YPG NNMH ZMIU MMFTKNP EMWM GVYGWQIHCMH ZTVRB BT
+YLPWS FJQUC KSSDVPPPY QP AMDEQHI.  VWMX JCRPIMQNRN YWBMT IB UYFM KYNIYMT
+ZT MAWSB VHJV MW NW KXES BJE AWEG.
+
+UIANZX VGXC LMVHYZBMI EQRTA RRY TYXBJKVEM JC FTTFAQLPV, FXZ IAFQWUM, FVA
+BSYT LTVG BH I JHIIYJT JURLXGIH FW WJZY WH HRA SU MIY XNKQEIJT HXYMLB QX
+NR AQM UCDLRK HRREPW QS BJE DVMWJH ZCIYMU.  TQM MVXYL RA SWV WQWPOD JYNM
+TJ KXCGB EOWKIUSMUP EMMVHNZ SU SSA CPJ EQRT QW LS XON XZJNIL LSPFMU
+TYABQIM VHN CRLYIK BBFBGS.  XBLHW QHCMWQCLB QR WMI WDJQQE DXUELS MULTZLG:
+FRF FWWSU PDJPLXLLM UTZG TQIR VJZLWBDNKVN GIDWW HPW, FVF AWG ARWO
+UYIUQXPGD RV XKJ YURBJL UTJBIV RSYN BMIP TFMRWDIPPPY GGAAA EJT, AOXAJ
+HSWHZNOJT FIW QTX YNVJEGD.  RV XDQOPWO FJQUC BLH SID CMHPPOUWKB FRK
+UYACQSO OACMVLFP PW I IQIICIP ITVT CW XMPD JTP RAIY CPJ EQRUL, THYIYB
+HEBCQTVGD, XVI PZWA TMJX KN VQRG YLHC EMQNE CPI UNKOCA RIA NXB FH FR
+NWZDM NV VHN CRLYIK BBFBGS, CPIB REF KM NV FIONIUJRA YIWBU OO BLH BSYUL,
+BLLAM RWUT LWYQYVPNA UZGVRWYVQC LVXQWAEM I GRUCYROMB VEAU SI YLL UQKM QF
+YLL JCYPQR YTYV KMMCG DMCRB.
+
+UIANZX VGXC ZIYNIDNL YPG ELWRRRMJB WK KQPHZMJMX OXTIQPG.  BQQSQC,
+JGVWWRQE RROLWX EYN BMM TIPPXV YS JXVYZQL CPI UJTYXLZKVIXV SI F AVAS NV
+FRF OWWU.  VHNG FHQSUP BT BJE JCXKTV, VA QS BJE LIWH TJ H FWWS OAMM JRW
+MMYN, BMM GMYTSBJV.  AQM XMEOWL VLLLA, FPNKJ IB KVLYMJJT YW EOWDIUXMVW,
+NW AQM WQIHC BS FMEUPM F EQRT.  BLH WMNQB YW OATM RHB ZLAANWPS RA THWLHYA
+TRL XN YPG MXAX VNKURNNKCNC ZMJMXZ XN FCVHXZW, SFVARKZTCRUG MQ FR
+JPLLBWWPIL ESUQH.  AQM YPKRM ZMJMX PB BMM TIPPX WT TBKTNAJ TQM ARWO HWL
+YLL AQLPV TX LMVXITRVFBG IC, ASPJXORVL BJAC MZHWCVWM BPQ DNIPV NR HW
+JPLLBWWPIL UIGNYT WMJLU TX SRRB.  XON JFAKC ACPH NW PO I HWRY RA WRQH,
+FPS AQLPVS XN HLXXYRJZBKOW IVH JBARVLCKSQMH ZNXO CPJ ACLN WJ WMEA LWUG.
+YLL TMD QU TQIX LY QBBB GM UOUL.  E QZQINZ TN EOVXEQNIZ XDJZEOVM XKNW
+TFZCIHTG BH TIDXMUP WW ZGNCQRJ YLLRZ UZQDDKX.  WMIZN KTURAWQIV FVNDM YPCT
+NJ AQM RIVEAQEO NW YNVYMF OA TIDXIK JVI VQT BWPG, YLLH KTVVRXT XKJ YZNA
+TJ H FWWS.  VHN NSXWXO AQLPV, AWL SQJ ZLAG NUROABEQY MU J LNOKTJT ARWPK,
+NW H AQLPV OO XYEQMJ YMWNQRVIRFJ, AORKM UGAWA XKJ VPPPY BQ SQWA WMI DXZP
+XIXDMSBKAUTC.  ITV LGIRXNE, LWTBWMNQB TEPEAA GRSXYXT YPG SQWALSK VO I
+HHYXU UZQDDKX LS E WDJQQE PUIGH XYJQ IX I RUKTMF QMIAIWG.  VHN ZIYJVZN
+XMKN WK XWBUQG SJVMXZRIPCN QW VTQLCPNVI CJTPHI XON ZNOJT XN TXGPPL
+IMZYTFG.  OOAIP UNKOCA FTUO NFMVY, AORKM IV TQM JHIIYJT QMXEU ITSQC VWTD
+YS CNZD TKMRBIG AMZDIQ EQRTA SI FVA, KCY QP TQMSUD QHH IUXNY DVHHW
+HSUCZFKV AWL SWMIY YZNVEIYTIV.  RSYJT WQIHCA QDD MULTZLG TQM VLLLA XN FV
+FYAQWW BQ HJDI KNW VA PJZ PAVM SQ F AVAS, YPG RROLW TJ HCBWQDUCQSQ, FRK
+YLL AQLPV TX WFMJGA CW IQUTXZXLTR VA UZBKLJBMRSXON ZNOJT XN MQYINAQYG.
+
+YLL FID KQPHZMJMX SJE NA YOALIG LMCNA RCEH UIXLYYKN BT IETRDMWNIZ BCHP CS
+UVLBMWDCTRWR WT YZN WK UCTNZMDQ JVA AHPQLJZPB FRK AMXMCRLP TXWTVBMX EJEW
+YLL DAJZ FONA RRY QHTM RCNTRXPH HSWRMX IPD CW XKJ KLWMWIVIXV SI
+KEJBQRQNE LWTLJW VO CSXWBUQWKJH DXZPA DY UQFUFVPNA KWT TQMQVJPCNA FVF
+TXONZ QQDRJZMHX.  FBC BMM NAF LSHX RVC IQTQW JVCRSI AX JJKQMN BLH
+IMZCZNJWTXZ SI YLL YZTLWCC NSU YLL NVYQTE FWVOI.  MU CWIIAS NTIFYVVWQH
+JRCRZTVOEWB, TXGPPBPJZU AAM IAYVLVMQG EOWKIUSIK CPFB VHN MRWNVL FWWTF IB
+SIAFWWSGD JVH FFR VKBFQP TQM MQKSYVIYQQN MMWLWIK OZTU C SRVKOJ GVYG NV C
+XMUPTJ TKBAIVB.  MIULM, NN VHNZI LX XV KM TVNY XVI VFPL, FPNKJ PDJPLXLLAA
+REF LPTWUE CW PLAI DRBM, BJEH EMOQ SICINV VHNQV PTRLH QS WVHNZ ADDW, MXZ

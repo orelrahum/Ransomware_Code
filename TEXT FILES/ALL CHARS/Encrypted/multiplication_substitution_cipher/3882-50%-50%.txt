@@ -1,0 +1,459 @@
+workstation.  Such decompression at the host computer alleviates storage
+capacity problems while doing nothing to address problems of
+telecommunications bandwidth.
+
+We need to examine the effects on network through-put of moving
+multimedia documents around on a network.  We need to examine various
+topologies that will help us avoid bottlenecks around servers and
+gateways.  Experience with applications such as these raise still broader
+questions. How closely is the multimedia document tied to the software
+for viewing it?  Can it be accessed and viewed from other applications?
+Experience with the MARC format (and more recently with the Z39.50
+protocols) shows how useful it can be to store documents in a form in
+which they can be accessed by a variety of application software.
+
+Finally, from an intellectual-access standpoint, we need to address the
+issue of providing access to these multimedia documents in
+interdisciplinary environments.  We need to examine terminology and
+indexing strategies that will allow us to provide access to this material
+in a cross-disciplinary way.
+
+Ronald LARSEN            Directions in High-Performance Networking for
+                         Libraries
+
+The pace at which computing technology has advanced over the past forty
+years shows no sign of abating.  Roughly speaking, each five-year period
+has yielded an order-of-magnitude improvement in price and performance of
+computing equipment.  No fundamental hurdles are likely to prevent this
+pace from continuing for at least the next decade.  It is only in the
+past five years, though, that computing has become ubiquitous in
+libraries, affecting all staff and patrons, directly or indirectly.
+
+During these same five years, communications rates on the Internet, the
+principal academic computing network, have grown from 56 kbps to 1.5
+Mbps, and the NSFNet backbone is now running 45 Mbps.  Over the next five
+years, communication rates on the backbone are expected to exceed 1 Gbps.
+Growth in both the population of network users and the volume of network
+traffic  has continued to grow geometrically, at rates approaching 15
+percent per month.  This flood of capacity and use, likened by some to
+"drinking from a firehose,"  creates immense opportunities and challenges
+for libraries.  Libraries must anticipate the future implications of this
+technology, participate in its development, and deploy it to ensure
+access to the world's information resources.
+
+The infrastructure for the information age is being put in place.
+Libraries face strategic decisions about their role in the development,
+deployment, and use of this infrastructure.  The emerging infrastructure
+is much more than computers and communication lines.  It is more than the
+
+Conceding the simplistic nature of her review of the quality of scanning
+to photocopy, KENNEY described it as one representation of the kinds of
+settings that could be used with scanning capabilities on the equipment
+CXP uses.  KENNEY also pointed out that CXP investigated the quality
+achieved with binary scanning only, and noted the great promise in gray
+scale and color scanning, whose advantages and disadvantages need to be
+examined.  She argued further that scanning resolutions and file formats
+can represent a complex trade-off between the time it takes to capture
+material, file size, fidelity to the original, and on-screen display; and
+printing and equipment availability.  All these factors must be taken
+into consideration.
+
+CXP placed primary emphasis on the production in a timely and
+cost-effective manner of printed facsimiles that consisted largely of
+black-and-white text.  With binary scanning, large files may be
+compressed efficiently and in a lossless manner (i.e., no data is lost in
+the process of compressing [and decompressing] an image--the exact
+bit-representation is maintained) using Group 4 CCITT (i.e., the French
+acronym for International Consultative Committee for Telegraph and
+Telephone) compression.  CXP was getting compression ratios of about
+forty to one.  Gray-scale compression, which primarily uses JPEG, is much
+less economical and can represent a lossy compression (i.e., not
+lossless), so that as one compresses and decompresses, the illustration
+is subtly changed.  While binary files produce a high-quality printed
+version, it appears 1) that other combinations of spatial resolution with
+gray and/or color hold great promise as well, and 2) that gray scale can
+represent a tremendous advantage for on-screen viewing.  The quality
+associated with binary and gray scale also depends on the equipment used.
+For instance, binary scanning produces a much better copy on a binary
+printer.
+
+Among CXP's findings concerning the production of microfilm from digital
+files, KENNEY reported that the digital files for the same Reed lecture
+were used to produce sample film using an electron beam recorder.  The
+resulting film was faithful to the image capture of the digital files,
+and while CXP felt that the text and image pages represented in the Reed
+lecture were superior to that of the light-lens film, the resolution
+readings for the 600 dpi were not as high as standard microfilming.
+KENNEY argued that the standards defined for light-lens technology are
+not totally transferable to a digital environment.  Moreover, they are
+based on definition of quality for a preservation copy.  Although making
+this case will prove to be a long, uphill struggle, CXP plans to continue
+to investigate the issue over the course of the next year.
+
+KENNEY concluded this portion of her talk with a discussion of the
+advantages of creating film:  it can serve as a primary backup and as a
+preservation master to the digital file; it could then become the print
+or production master and service copies could be paper, film, optical
+disks, magnetic media, or on-screen display.
+
+Finally, KENNEY presented details re production:
+
+     * Development and testing of a moderately-high resolution production
+     scanning workstation represented a third goal of CXP; to date, 1,000
+     volumes have been scanned, or about 300,000 images.
+
+     * The resulting digital files are stored and used to produce
+     hard-copy replacements for the originals and additional prints on
+     demand; although the initial costs are high, scanning technology
+     offers an affordable means for reformatting brittle material.
+
+     * A technician in production mode can scan 300 pages per hour when
+     performing single-sheet scanning, which is a necessity when working
+     with truly brittle paper; this figure is expected to increase
+     significantly with subsequent iterations of the software from Xerox;
+     a three-month time-and-cost study of scanning found that the average
+     300-page book would take about an hour and forty minutes to scan
+     (this figure included the time for setup, which involves keying in
+     primary bibliographic data, going into quality control mode to
+     define page size, establishing front-to-back registration, and
+     scanning sample pages to identify a default range of settings for
+     the entire book--functions not dissimilar to those performed by
+     filmers or those preparing a book for photocopy).
+
+     * The final step in the scanning process involved rescans, which
+     happily were few and far between, representing well under 1 percent
+     of the total pages scanned.
+
+In addition to technician time, CXP costed out equipment, amortized over
+four years, the cost of storing and refreshing the digital files every
+four years, and the cost of printing and binding, book-cloth binding, a
+paper reproduction.  The total amounted to a little under $65 per single
+300-page volume, with 30 percent overhead included--a figure competitive
+with the prices currently charged by photocopy vendors.
+
+Of course, with scanning, in addition to the paper facsimile, one is left
+with a digital file from which subsequent copies of the book can be
+produced for a fraction of the cost of photocopy, with readers afforded
+choices in the form of these copies.
+
+KENNEY concluded that digital technology offers an electronic means for a
+library preservation effort to pay for itself.  If a brittle-book program
+included the means of disseminating reprints of books that are in demand
+by libraries and researchers alike, the initial investment in capture
+could be recovered and used to preserve additional but less popular
+books.  She disclosed that an economic model for a self-sustaining
+program could be developed for CXP's report to the Commission on
+Preservation and Access (CPA).
+
+KENNEY stressed that the focus of CXP has been on obtaining high quality
+in a production environment.  The use of digital technology is viewed as
+an affordable alternative to other reformatting options.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ANDRE * Overview and history of NATDP * Various agricultural CD-ROM
+products created inhouse and by service bureaus * Pilot project on
+Internet transmission * Additional products in progress *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Pamela ANDRE, associate director for automation, National Agricultural
+Text Digitizing Program (NATDP), National Agricultural Library (NAL),
+presented an overview of NATDP, which has been underway at NAL the last
+four years, before Judith ZIDAR discussed the technical details.  ANDRE
+defined agricultural information as a broad range of material going from
+basic and applied research in the hard sciences to the one-page pamphlets
+that are distributed by the cooperative state extension services on such
+things as how to grow blueberries.
+
+NATDP began in late 1986 with a meeting of representatives from the
+land-grant library community to deal with the issue of electronic
+information.  NAL and forty-five of these libraries banded together to
+establish this project--to evaluate the technology for converting what
+were then source documents in paper form into electronic form, to provide
+access to that digital information, and then to distribute it.
+Distributing that material to the community--the university community as
+well as the extension service community, potentially down to the county
+level--constituted the group's chief concern.
+
+Since January 1988 (when the microcomputer-based scanning system was
+installed at NAL), NATDP has done a variety of things, concerning which
+ZIDAR would provide further details.  For example, the first technology
+considered in the project's discussion phase was digital videodisc, which
+indicates how long ago it was conceived.
+
+Over the four years of this project, four separate CD-ROM products on
+four different agricultural topics were created, two at a
+scanning-and-OCR station installed at NAL, and two by service bureaus.
+Thus, NATDP has gained comparative information in terms of those relative
+costs.  Each of these products contained the full ASCII text as well as
+page images of the material, or between 4,000 and 6,000 pages of material
+on these disks.  Topics included aquaculture, food, agriculture and
+science (i.e., international agriculture and research), acid rain, and
+Agent Orange, which was the final product distributed (approximately
+eighteen months before the Workshop).
+
+The third phase of NATDP focused on delivery mechanisms other than
+CD-ROM.  At the suggestion of Clifford LYNCH, who was a technical
+consultant to the project at this point, NATDP became involved with the
+Internet and initiated a project with the help of North Carolina State
+University, in which fourteen of the land-grant university libraries are
+transmitting digital images over the Internet in response to interlibrary
+loan requests--a topic for another meeting.  At this point, the pilot
+project had been completed for about a year and the final report would be
+available shortly after the Workshop.  In the meantime, the project's
+success had led to its extension.  (ANDRE noted that one of the first
+things done under the program title was to select a retrieval package to
+use with subsequent products; Windows Personal Librarian was the package
+of choice after a lengthy evaluation.)
+
+Three additional products had been planned and were in progress:
+
+     1) An arrangement with the American Society of Agronomy--a
+     professional society that has published the Agronomy Journal since
+     about 1908--to scan and create bit-mapped images of its journal.
+     ASA granted permission first to put and then to distribute this
+     material in electronic form, to hold it at NAL, and to use these
+     electronic images as a mechanism to deliver documents or print out
+     material for patrons, among other uses.  Effectively, NAL has the
+     right to use this material in support of its program.
+     (Significantly, this arrangement offers a potential cooperative
+     model for working with other professional societies in agriculture
+     to try to do the same thing--put the journals of particular interest
+     to agriculture research into electronic form.)
+
+     2) An extension of the earlier product on aquaculture.
+
+     3) The George Washington Carver Papers--a joint project with
+     Tuskegee University to scan and convert from microfilm some 3,500
+     images of Carver'MY VGV%rY, l%||%rY, G_J JrG<i_MYA
+
+c| <GY G_|iciVG|%J |"G| Gll of |"%Y% VroJuc|Y <oulJ GVV%Gr _o Sor% |"G_
+Yix So_|"Y Gf|%r |"% [or(Y"oVA
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+|cDAl P (A Y%VGrG|% Gr%_G for YcG__i_Ml P S|%VY i_ cr%G|i_M G JG|G@GY% P
+cSGM% cGV|ur%, <i|" G_J <i|"ou| V%rforSi_M i}l P %%5i_M i_ |rGc(i_M JG|G
+P ScG__i_M, <i|" %l%c|ro_ic G_J SG_uGl |rGc(i_M P AJPuY|S%_|Y Juri_M
+YcG__i_M Vroc%YY P ScG__i_M r%Yolu|io_Y P }oSVr%YYio_ P D%SY(%<i_M G_J
+fil|%ri_M P cSGM% cGV|ur% froS SicroforSu  |"% VGV%rY G_J l%||%rY of
+G%orM% [GY"i_M|o_ }Gr2%r P ~[uiVS%_| uY%J for G YcG__i_M Y5Y|%S P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+JuJi|" |cDAl, coorJi_G|or, "G|io_Gl AMricul|urGl _%x| DiMi|i,i_M ProMrGS
+("A_DPl, "G|io_Gl AMricul|urGl fi@rGr5 ("Afl, illuY|rG|%J |"% |%c"_icGl
+J%|GilY of "A_DP, i_cluJi_M "%r VriSGr5 r%YVo_Yi@ili|5, YcG__i_M G_J
+cr%G|i_M JG|G@GY%Y o_ G |oVic G_J Vu||i_M |"%S o_ }DSliMA
+
+(|cDAl r%SGr(%J G Y%VGrG|% Gr%_G froS |"% }DSliM VroP%c|Y, Gl|"ouM" |"%
+Vroc%YYi_M of |"% SG|%riGl iY _%Grl5 iJ%_|icGl, i_ <"ic" "A_DP iY GlYo
+YcG__i_M SG|%riGl G_J loGJi_M i| o_ G "%x| SicrocoSVu|%r, <"ic" i_ |ur_
+iY li_(%J |o "AfMY i_|%MrG|%J li@rGr5 Y5Y|%SA  _"uY, Y%Grc"%Y i_ "AfMY
+@i@lioMrGV"ic JG|G@GY% <ill %_G@l% V%oVl% |o Vull uV Gc|uGl VGM% iSGM%Y
+G_J |%x| for G_5 JocuS%_|Y |"G| "G2% @%%_ %_|%r%JAl
+
+c_ GccorJG_c% <i|" |"% Y%YYio_MY |oVic, |cDAl focuY%J "%r illuY|rG|%J
+|Gl( o_ iSGM% cGV|ur%, off%ri_M G VriS%r o_ |"% |"r%% SGi_ Y|%VY i_ |"%
+Vroc%YYu  ul GYY%S@l% |"% Vri_|%J Vu@licG|io_Y2 2l J%YiM_ |"% JG|G@GY%
+(JG|G@GY% J%YiM_ occurY i_ |"% Vroc%YY of Vr%VGri_M |"% SG|%riGl for
+YcG__i_M2 |"iY Y|%V %_|GilY r%2i%<i_M G_J orMG_i,i_M |"% SG|%riGl,
+J%fi_i_M |"% co_|%_|YSS<"G| <ill co_Y|i|u|% G r%corJ, <"G| (i_JY of
+fi%lJY <ill @% cGV|ur%J i_ |%rSY of Gu|"or, |i|l%, %|cAl2 <l V%rforS G
+c%r|Gi_ GSou_| of SGr(uV o_ |"% VGV%r Vu@licG|io_YA  "Af V%rforSY |"iY
+|GY( r%corJ @5 r%corJ, Vr%VGri_M <or( Y"%%|Y or YoS% o|"%r Yor| of
+|rGc(i_M SG|%riGl G_J J%YiM_i_M J%YcriV|orY G_J o|"%r %_"G_c%S%_|Y |o @%
+GJJ%J |o |"% JG|G |"G| <ill _o| @% cGV|ur%J froS |"% Vri_|%J Vu@licG|io_A
+PGr| of |"iY Vroc%YY GlYo i_2ol2%Y J%|%rSi_i_M "A_DPMY fil% G_J Jir%c|or5
+Y|ruc|ur%u  "A_DP G||%SV|Y |o G2oiJ Vu||i_M Sor% |"G_ GVVroxiSG|%l5 uDD
+iSGM%Y i_ G Jir%c|or5, @%cGuY% VlGci_M Sor% |"G_ |"G| o_ G }DSliM <oulJ
+r%Juc% |"% Gcc%YY YV%%JA
+
+_"iY uVSfro_| Vroc%YY |G(%Y GVVroxiSG|%l5 |<o <%%(Y for G
+,,DDDSA,DDDSVGM% JG|G@GY%A  _"% _%x| Y|%V iY |o cGV|ur% |"% VGM% iSGM%YA
+@o< lo_M |"iY Vroc%YY |G(%Y iY J%|%rSi_%J @5 |"% J%ciYio_ <"%|"%r or _o|
+|o V%rforS i}lA  "o| V%rforSi_M i}l YV%%JY |"% Vroc%YY, <"%r%GY |%x|
+cGV|ur% r%[uir%Y Mr%G|%r cGr% @%cGuY% of |"% [uGli|5 of |"% iSGM%u  i|
+"GY |o @% Y|rGiM"|%r G_J Gllo<G_c% SuY| @% SGJ% for |%x| o_ G VGM%, _o|
+PuY| for |"% cGV|ur% of V"o|oMrGV"YA
+
+"A_DP (%5Y i_ |rGc(i_M JG|G, |"G| iY, G Y|G_JGrJ @i@lioMrGV"ic r%corJ
+i_cluJi_M |"% |i|l% of |"% @oo( G_J |"% |i|l% of |"% c"GV|%r, <"ic" <ill
+lG|%r %i|"%r @%coS% |"% Gcc%YY i_forSG|io_ or <ill @% G||Gc"%J |o |"%
+fro_| of G fullS|%x| r%corJ Yo |"G| i| iY Y%Grc"G@l%A
+
+cSGM%Y Gr% YcG__%J froS G @ou_J or u_@ou_J Vu@licG|io_, c"i%fl5 froS
+@ou_J Vu@licG|io_Y i_ |"% cGY% of "A_DP, "o<%2%r, @%cGuY% of|%_ |"%5 Gr%
+|"% o_l5 coVi%Y G_J |"% Vu@licG|io_Y Gr% r%|ur_%J |o |"% Y"%l2%YA  "A_DP
+uYuGll5 YcG_Y o_% r%corJ G| G |iS%, @%cGuY% i|Y JG|G@GY% |rGc(i_M Y5Y|%S
+|rGc(Y |"% JocuS%_| i_ |"G| <G5 G_J Jo%Y _o| r%[uir% fur|"%r loMicGl
+Y%VGrG|i_M of |"% iSGM%YA  Af|%r V%rforSi_M oV|icGl c"GrGc|%r
+r%coM_i|io_, "A_DP So2%Y |"% iSGM%Y off |"% "GrJ JiY( G_J SGi_|Gi_Y G
+2oluS% Y"%%|A  _"ouM" |"% Y5Y|%S |rGc(Y %l%c|ro_icGll5, Gll |"%
+Vroc%YYi_M Y|%VY Gr% GlYo |rGc(%J SG_uGll5 <i|" G loM Y"%%|A
+
+|cDAl _%x| illuY|rG|%J |"% (i_JY of GJPuY|S%_|Y |"G| o_% cG_ SG(% <"%_
+YcG__i_M froS VGV%r G_J SicrofilS, for %xGSVl%, r%Joi_M iSGM%Y |"G| _%%J
+YV%ciGl "G_Jli_M, Y%||i_M for Ji|"%ri_M or MrG5 YcGl%, G_J GJPuY|i_M for
+@riM"|_%YY or for |"% <"ol% @oo( G| o_% |iS%A
+
+"A_DP iY YcG__i_M G| <DD Jo|Y V%r i_c", G Y|G_JGrJ YcG__i_M r%Yolu|io_A
+_"ouM" GJ%[uG|% for cGV|uri_M |%x| |"G| iY Gll of G Y|G_JGrJ Yi,%, <DD
+JVi iY u_Yui|G@l% for G_5 (i_J of V"o|oMrGV"ic SG|%riGl or for 2%r5 YSGll
+|%x|A  MG_5 YcG__%rY Gllo< for Jiff%r%_| iSGM% forSG|Y, _c  , of courY%,
+@%i_M G J% fGc|o Y|G_JGrJA  8u| if o_% i_|%_JY |o %xc"G_M% iSGM%Y <i|"
+o|"%r V%oVl%, |"% G@ili|5 |o YcG_ o|"%r iSGM% forSG|Y, %2%_ if |"%5 Gr%
+l%YY coSSo_, @%coS%Y "iM"l5 J%YirG@l%A
+
+}}c__ GrouV x iY |"% Y|G_JGrJ coSVr%YYio_ for _orSGl @lGc(SG_JS<"i|%
+iSGM%Y, JP~G for MrG5 YcGl% or colorA   |cDAl r%coSS%_J%J ul uYi_M |"%
+Y|G_JGrJ coSVr%YYio_Y, VGr|iculGrl5 if o_% G||%SV|Y |o SG(% SG|%riGl
+G2GilG@l% G_J |o Gllo< uY%rY |o Jo<_loGJ iSGM%Y G_J r%uY% |"%S froS
+}DSliMY2 G_J 2l SGi_|Gi_i_M |"% G@ili|5 |o ou|Vu| G_ u_coSVr%YY%J iSGM%,
+@%cGuY% i_ iSGM% %xc"G_M% u_coSVr%YY%J iSGM%Y Gr% Sor% li(%l5 |o @% G@l%
+|o croYY VlG|forSYA
+
+|cDAl %SV"GYi,%J |"% iSVor|G_c% of J%SY(%<i_M G_J fil|%ri_M GY
+r%[uir%S%_|Y o_ "A_DPMY uVMrGJ%J Y5Y|%SA   or i_Y|G_c%, YcG__i_M @ou_J
+@oo(Y, VGr|iculGrl5 @oo(Y Vu@liY"%J @5 |"% f%J%rGl Mo2%r_S%_| <"oY% VGM%Y
+Gr% Y(%<%J, G_J |r5i_M |o YcG_ |"%S Y|rGiM"| if i}l iY |o @% V%rforS%J,
+iY %x|r%S%l5 |iS%Sco_YuSi_MA  _"% YGS% "olJY for fil|%ri_M of
+VoorS[uGli|5 or olJ%r SG|%riGlYA
+
+|cDAl J%Ycri@%J iSGM% cGV|ur% froS SicroforS, uYi_M GY G_ %xGSVl% |"r%%
+r%%lY froS G Yix|5SY%2%_Sr%%l Y%| of |"% VGV%rY G_J l%||%rY of G%orM%
+[GY"i_M|o_ }Gr2%r |"G| "GJ @%%_ VroJuc%J @5 _uY(%M%% o_i2%rYi|5A  _"%Y%
+r%Yul|%J i_ GVVroxiSG|%l5 <,5DD iSGM%Y, <"ic" "A_DP "GJ "GJ YcG__%J @5
+i|Y Y%r2ic% co_|rGc|or, Sci%_c% AVVlicG|io_Y c_|%r_G|io_Gl }orVorG|io_
+(SAc}lA  "A_DP GlYo cr%G|%J @i@lioMrGV"ic r%corJY for Gcc%YYA  ("A_DP JiJ
+_o| "G2% Yuc" YV%ciGli,%J %[uiVS%_| GY G SicrofilS YcG__%rA
+
+o_for|u_G|%l5, |"% Vroc%YY of YcG__i_M froS SicrofilS <GY _o| G_
+u_[uGlifi%J Yucc%YY, |cDAl r%Vor|%Ju  @%cGuY% SicrofilS frGS% Yi,%Y 2Gr5,
+occGYio_Gll5 YoS% frGS%Y <%r% SiYY%J, <"ic" <i|"ou| YV%_Ji_M Suc" |iS%
+G_J So_%5 coulJ _o| @% r%cGV|ur%JA
+
+i}l coulJ _o| @% V%rforS%J froS |"% YcG__%J iSGM%Y of |"% frGS%YA  _"%
+@l%%Ji_M i_ |"% |%x| YiSVl5 ou|Vu| |%x|, <"%_ i}l <GY ru_, |"G| coulJ _o|
+%2%_ @% %Ji|%JA  "A_DP |%Y|%J for _%MG|i2% 2%rYuY VoYi|i2% iSGM%Y,
+lG_JYcGV% 2%rYuY Vor|rGi| ori%_|G|io_, G_J Yi_Ml%S 2%rYuY JuGlSVGM%
+SicrofilS, _o_% of <"ic" Y%%S%J |o Gff%c| |"% [uGli|5 of |"% iSGM%2 @u|
+GlYo o_ _o_% of |"%S coulJ i}l @% V%rforS%JA
+
+c_ Y%l%c|i_M |"% SicrofilS |"%5 <oulJ uY%, |"%r%for%, "A_DP "GJ o|"%r
+fGc|orY i_ Si_JA  |cDAl _o|%J |<o fGc|orY |"G| i_flu%_c%J |"% [uGli|5 of
+|"% iSGM%Yu  ul |"% i_"%r%_| [uGli|5 of |"% oriMi_Gl G_J 2l |"% GSou_| of
+Yi,% r%Juc|io_ o_ |"% VGM%YA
+
+_"% }Gr2%r VGV%rY <%r% Y%l%c|%J @%cGuY% |"%5 Gr% i_forSG|i2% G_J 2iYuGll5
+i_|%r%Y|i_M, |r%G| G Yi_Ml% Yu@P%c|, G_J Gr% 2GluG@l% i_ |"%ir o<_ riM"|A
+_"% iSGM%Y <%r% YcG__%J G_J Ji2iJ%J i_|o loMicGl r%corJY @5 SAc}, |"%_
+J%li2%r%J, G_J loGJ%J o_|o "A_DPMY Y5Y|%S, <"%r% @i@lioMrGV"ic
+i_forSG|io_ |G(%_ Jir%c|l5 froS |"% iSGM%Y <GY GJJ%JA  ScG__i_M <GY
+coSVl%|%J i_ YuSS%r u}}u G_J @5 |"% %_J of YuSS%r u}}2 |"% JiY( <GY
+Yc"%Jul%J |o @% Vu@liY"%JA
+
+Pro@l%SY %_cou_|%r%J Juri_M Vroc%YYi_M i_cluJ%J |"% follo<i_Mu  8%cGuY%
+|"% SicrofilS YcG__i_M "GJ |o @% Jo_% i_ G @G|c", GJPuY|S%_| for
+i_Ji2iJuGl VGM% 2GriG|io_Y <GY _o| VoYYi@l%A  _"% frGS% Yi,% 2Gri%J o_
+Gccou_| of |"% _G|ur% of |"% SG|%riGl, G_J |"%r%for% YoS% of |"% frGS%Y
+<%r% SiYY%J <"il% o|"%rY <%r% PuY| VGr|iGl frGS%YA  _"% o_l5 <G5 |o Mo
+@Gc( G_J cGV|ur% |"iY SG|%riGl <GY |o Vri_| ou| |"% VGM% <i|" |"%
+SicrofilS r%GJ%r froS |"% SiYYi_M frGS% G_J |"%_ YcG_ i| i_ froS |"%
+VGM%, <"ic" <GY %x|r%S%l5 |iS%Sco_YuSi_MA  _"% [uGli|5 of |"% iSGM%Y
+YcG__%J froS |"% Vri_|ou| of |"% SicrofilS coSVGr%J u_fG2orG@l5 <i|" |"G|
+of |"% oriMi_Gl iSGM%Y cGV|ur%J Jir%c|l5 froS |"% SicrofilSA  _"%
+i_G@ili|5 |o V%rforS i}l GlYo <GY G SGPor JiYGVVoi_|S%_|A  A| |"% |iS%,
+coSVu|%r ou|Vu| SicrofilS <GY u_G2GilG@l% |o |%Y|A
+
+_"% %[uiVS%_| uY%J for G YcG__i_M Y5Y|%S <GY |"% lGY| |oVic GJJr%YY%J @5
+|cDAlA  _"% |5V% of %[uiVS%_| |"G| o_% <oulJ Vurc"GY% for G YcG__i_M
+Y5Y|%S i_cluJ%Ju  G SicrocoSVu|%r, G| l%GY| G <8,, @u| Vr%f%rG@l5 G x8,2
+G lGrM% "GrJ JiY(, <8D S%MG@5|% G| Si_iSuS2 G Sul|iS|GY(i_M oV%rG|i_M
+Y5Y|%S |"G| Gllo<Y o_% |o ru_ YoS% |"i_MY i_ @G|c" i_ |"% @Gc(Mrou_J
+<"il% YcG__i_M or Joi_M |%x| %Ji|i_M, for %xGSVl%, o_ix or iSY2 G_J,
+|"%or%|icGll5, [i_Jo<Y2 G "iM"SYV%%J YcG__%r G_J YcG__i_M Yof|<Gr% |"G|
+Gllo<Y o_% |o SG(% |"% 2GriouY GJPuY|S%_|Y S%_|io_%J %Grli%r2 G
+"iM"Sr%Yolu|io_ So_i|or (u5D JVi l2 i}l Yof|<Gr% G_J "GrJ<Gr% |o V%rforS
+|%x| r%coM_i|io_2 G_ oV|icGl JiY( Yu@Y5Y|%S o_ <"ic" |o Grc"i2% Gll |"%
+iSGM%Y GY |"% Vroc%YYi_M iY Jo_%2 fil% SG_GM%S%_| G_J |rGc(i_M Yof|<Gr%A
+
+|cDAl oVi_%J |"G| |"% Yof|<Gr% o_% Vurc"GY%Y <GY Sor% iSVor|G_| |"G_ |"%
+"GrJ<Gr% G_J SiM"| GlYo coY| Sor% |"G_ |"% "GrJ<Gr%, @u| i| <GY li(%l5 |o
+Vro2% cri|icGl |o |"% Yucc%YY or fGilur% of o_%MY Y5Y|%SA  c_ GJJi|io_ |o
+G Y|G_JSGlo_% YcG__i_M <or(Y|G|io_ for iSGM% cGV|ur%, |"%_, |%x| cGV|ur%
+r%[uir%Y o_% or |<o %Ji|i_M Y|G|io_Y _%|<or(%J |o |"iY YcG__i_M Y|G|io_
+|o V%rforS %Ji|i_MA  ~Ji|i_M |"% |%x| |G(%Y |<o or |"r%% |iS%Y GY lo_M GY
+cGV|uri_M |"% iSGM%YA
+
+ i_Gll5, |cDAl Y|r%YY%J |"% iSVor|G_c% of @u5i_M G_ oV%_ Y5Y|%S |"G| Gllo<Y
+for Sor% |"G_ o_% 2%_Jor, coSVli%Y <i|" Y|G_JGrJY, G_J cG_ @% uVMrGJ%JA
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+[A_~lS PYGl% o_i2%rYi|5 fi@rGr5MY SGY|%r VlG_ |o co_2%r| SicrofilS |o
+JiMi|Gl iSGM%r5 (Pi8l P _"% VlGc% of %l%c|ro_ic |oolY i_ |"% li@rGr5 of
+|"% fu|ur% P _"% uY%Y of iSGM%Y G_J G_ iSGM% li@rGr5 P PriSGr5 i_Vu| froS
+Vr%Y%r2G|io_ SicrofilS P  %G|ur%Y JiY|i_MuiY"i_M Pi8 froS }rP G_J (%5
+"5Vo|"%Y%Y MuiJi_M Pi8 P oY% of 2%_Jor Y%l%c|io_ Vroc%YY |o fGcili|G|%
+orMG_i,G|io_Gl <or( P }ri|%riG for Y%l%c|i_M 2%_Jor P  i_GliY|Y G_J
+r%Yul|Y of Vroc%YY for YGl% P %%5 fGc|or JiY|i_MuiY"i_M 2%_JorY P
+}oSVo_%_|Y, J%YiM_ Vri_ciVl%Y, G_J YoS% %Y|iSG|%J coY|Y of Pi8 P lol% of
+Vr%Y%r2G|io_ SG|%riGlY i_ J%2%loVi_M iSGMi_M SGr(%| P  Gc|orY Gff%c|i_M
+[uGli|5 G_J coY| P  Gc|orY Gff%c|i_M |"% uYG@ili|5 of coSVl%x JocuS%_|Y
+i_ iSGM% forS P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+Do_GlJ [A_~lS, "%GJ of |"% S5Y|%SY iffic%, YGl% o_i2%rYi|5 fi@rGr5,
+r%Vor|%J o_ |"% VroMr%YY of G SGY|%r VlG_ for G VroP%c| G| YGl% |o
+co_2%r| SicrofilS |o JiMi|Gl iSGM%r5, ProP%c| iV%_ 8oo( (Pi8lA  S|G|i_M
+|"G| Pi8 <GY i_ G_ GJ2G_c%J Y|GM% of VlG__i_M, [A_~lS J%|Gil%J, i_
+VGr|iculGr, |"% Vroc%YY of Y%l%c|i_M G 2%_Jor VGr|_%r G_J Y%2%rGl (%5
+iYYu%Y u_J%r JiYcuYYio_ GY YGl% Vr%VGr%Y |o So2% i_|o |"% VroP%c| i|Y%lfA
+@% coSS%_|%J firY| o_ |"% 2iYio_ |"G| Y%r2%Y GY |"% co_|%x| of Pi8 G_J
+|"%_ J%Ycri@%J i|Y VurVoY% G_J YcoV%A
+
+[A_~lS Y%%Y |"% li@rGr5 of |"% fu|ur% _o| _%c%YYGril5 GY G_ %l%c|ro_ic
+li@rGr5 @u| GY G VlGc% |"G| M%_%rG|%Y, Vr%Y%r2%Y, G_J iSVro2%Y for i|Y
+cli%_|Y r%GJ5 Gcc%YY |o @o|" i_|%ll%c|uGl G_J V"5YicGl r%corJ%J
+(_o<l%JM%A  ~l%c|ro_ic |oolY SuY| fi_J G VlGc% i_ |"% li@rGr5 i_ |"%
+co_|%x| of |"iY 2iYio_A  S%2%rGl rol%Y for %l%c|ro_ic |oolY i_cluJ%
+Y%r2i_M GYu  i_Jir%c| Yourc%Y of %l%c|ro_ic (_o<l%JM% or GY "fi_Ji_M"
+GiJY (|"% o_Sli_% cG|GloMu%Y, |"% Gr|icl%Sl%2%l i_Jic%Y, r%MiY|%rY for
+JocuS%_|Y G_J Grc"i2%Yl2 Jir%c| Yourc%Y of r%corJ%J (_o<l%JM%2 fullS|%x|
+iSGM%Y2 G_J 2GriouY (i_JY of coSVou_J Yourc%Y of r%corJ%J (_o<l%JM% (|"%
+YoScGll%J coSVou_J JocuS%_|Y of @5V%r|%x|, Six%J |%x| G_J iSGM%,
+Six%JS|%x| iSGM% forSG|, G_J Sul|iS%JiGlA
+
+Pi8 iY loo(i_M VGr|iculGrl5 G| iSGM%Y G_J G_ iSGM% li@rGr5, |"% uY%Y |o
+<"ic" iSGM%Y <ill @% Vu| (%AMA, Y|orGM%, Vri_|i_M, @ro<Yi_M, G_J |"%_ uY%
+GY i_Vu| for o|"%r Vroc%YY%Yl, i}l GY G Yu@Y%[u%_| Vroc%YY |o iSGM%
+cGV|ur%, or cr%G|i_M G_ iSGM% li@rGr5, G_J GlYo VoYYi@l5 M%_%rG|i_M
+SicrofilSA
+
+["il% i_Vu| <ill coS% froS G 2Gri%|5 of Yourc%Y, Pi8 iY co_YiJ%ri_M
+%YV%ciGll5 i_Vu| froS Vr%Y%r2G|io_ SicrofilSA  A VoYYi@l% ou|coS% iY |"G|
+|"% filS G_J VGV%r <"ic" Vro2iJ% |"% i_Vu| for |"% iSGM% li@rGr5
+%2%_|uGll5 SG5 Mo off i_|o r%So|% Y|orGM%, G_J |"G| |"% iSGM% li@rGr5 SG5
+@% |"% VriSGr5 Gcc%YY |oolA
+
+_"% VurVoY% G_J YcoV% of Pi8 focuY o_ iSGMi_MA  _"ouM" r%lG|%J |o }rP,
+Pi8 "GY |<o f%G|ur%Y <"ic" JiY|i_MuiY" i|u  ul YcGl%SSco_2%rYio_ of
+uD,DDD 2oluS%Y i_|o JiMi|Gl iSGM% forS2 G_J 2l Yourc%SSco_2%rYio_ froS
+SicrofilSA  Gi2%_ |"%Y% f%G|ur%Y, Y%2%rGl (%5 <or(i_M "5Vo|"%Y%Y MuiJ%
+Pi8, i_cluJi_Mu  ul Si_c% Pi8 iY uYi_M SicrofilS, i| iY _o| co_c%r_%J <i|"
+|"% iSGM% li@rGr5 GY G Vr%Y%r2G|io_ S%JiuSA  2l DiMi|Gl iSGM%r5 cG_ iSVro2%
+Gcc%YY |o r%corJ%J (_o<l%JM% |"rouM" Vri_|i_M G_J _%|<or( JiY|ri@u|io_ G|
+G SoJ%Y| i_cr%S%_|Gl coY| of SicrofilSA  <l }GV|uri_M G_J Y|ori_M JocuS%_|Y
+i_ G JiMi|Gl iSGM% forS iY _%c%YYGr5 |o fur|"%r iSVro2%S%_|Y i_ Gcc%YYA
+(Pi8 JiY|i_MuiY"%Y @%|<%%_ |"% iSGMi_M, JiMi|i,i_M Vroc%YY G_J i}l,
+<"ic" G| |"iY Y|GM% i| Jo%Y _o| VlG_ |o V%rforSAl
+
+}urr%_|l5 i_ i|Y firY| or orMG_i,G|io_Gl V"GY%, Pi8 fou_J |"G| i| coulJ
+uY% G 2%_Jor Y%l%c|io_ Vroc%YY |o fGcili|G|% G MooJ J%Gl of |"%
+orMG_i,G|io_Gl <or( (%AMA, cr%G|i_M G VroP%c| |%GS G_J GJ2iYor5 @oGrJ,
+co_firSi_M |"% 2GliJi|5 of |"% VlG_, %Y|G@liY"i_M |"% coY| of |"% VroP%c|
+G_J G @uJM%|, Y%l%c|i_M |"% SG|%riGlY |o co_2%r|, G_J |"%_ rGiYi_M |"%
+_%c%YYGr5 fu_JYl

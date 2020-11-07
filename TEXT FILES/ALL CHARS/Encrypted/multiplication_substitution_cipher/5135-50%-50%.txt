@@ -1,0 +1,678 @@
+Terrain:
+    generally undulating with ancient volcanic peaks, deep ravines
+Natural resources:
+    negligible
+Land use:
+    arable land NA%; permanent crops NA%; meadows and pastures NA%; forest and
+    woodland NA%; other NA%
+Environment:
+    subject to cyclones during rainy season
+Note:
+    part of Comoro Archipelago; located in the Mozambique Channel about halfway
+    between Africa and Madagascar
+
+:Mayotte People
+
+Population:
+    86,628 (July 1992), growth rate 3.8% (1992)
+Birth rate:
+    50 births/1,000 population (1992)
+Death rate:
+    12 deaths/1,000 population (1992)
+Net migration rate:
+    0 migrants/1,000 population (1992)
+Infant mortality rate:
+    84 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    55 years male, 59 years female (1992)
+Total fertility rate:
+    6.9 children born/woman (1992)
+Nationality:
+    noun - Mahorais (singular and plural); adjective - Mahoran
+Religions:
+    Muslim 99%; remainder Christian, mostly Roman Catholic
+Languages:
+    Mahorian (a Swahili dialect), French
+Literacy:
+    NA% (male NA%, female NA%)
+Labor force:
+    NA
+Organized labor:
+    NA
+
+:Mayotte Government
+
+Long-form name:
+    Territorial Collectivity of Mayotte
+Type:
+    territorial collectivity of France
+Capital:
+    Mamoutzou
+Administrative divisions:
+    none (territorial collectivity of France)
+Independence:
+    none (territorial collectivity of France)
+Constitution:
+    28 September 1958 (French Constitution)
+Legal system:
+    French law
+National holiday:
+    Taking of the Bastille, 14 July (1789)
+Executive branch:
+    government commissioner
+Legislative branch:
+    unicameral General Council (Conseil General)
+Judicial branch:
+    Supreme Court (Tribunal Superieur d'Appel)
+Leaders:
+  Chief of State:
+    President Francois MITTERRAND (since 21 May 1981)
+  Head of Government:
+    Commissioner, Representative of the French Government Jean-Paul COSTE (since
+    NA 1991); President of the General Council Youssouf BAMANA (since NA 1976)
+Political parties and leaders:
+    Mahoran Popular Movement (MPM), Younoussa BAMANA; Party for the Mahoran
+    Democratic Rally (PRDM), Daroueche MAOULIDA; Mahoran Rally for the Republic
+    (RMPR), Mansour KAMARDINE; Union of the Center (UDC)
+Suffrage:
+    universal at age 18
+Elections:
+  General Council:
+    last held June 1988 (next to be held June 1993); results - percent of vote
+    by party NA; seats - (17 total) MPM 9, RPR 6, other 2
+  French Senate:
+    last held on 24 September 1989 (next to be held September 1992); results -
+    percent of vote by party NA; seats - (1 total) MPM 1
+  French National Assembly:
+    last held 5 and 12 June 1988 (next to be held June 1993); results - percent
+    of vote by party NA; seats - (1 total) UDC 1
+Member of:
+    FZ
+Diplomatic representation:
+    as a territorial collectivity of France, Mahoran interests are represented
+    in the US by France
+Flag:
+    the flag of France is used
+
+:Mayotte Economy
+
+Overview:
+    Economic activity is based primarily on the agricultural sector, including
+    fishing and livestock raising. Mayotte is not self-sufficient and must
+    import a large portion of its food requirements, mainly from France. The
+    economy and future development of the island is heavily dependent on French
+    financial assistance.
+GDP:
+    exchange rate conversion - $NA, per capita $NA; real growth rate NA%
+Inflation rate (consumer prices):
+    NA%
+Unemployment rate:
+    NA%
+Budget:
+    revenues $NA; expenditures $37.3 million, including capital expenditures of
+    $NA (1985)
+Exports:
+    $4.0 million (f.o.b., 1984)
+  commodities:
+    ylang-ylang, vanilla
+  partners:
+    France 79%, Comoros 10%, Reunion 9%
+Imports:
+    $21.8 million (f.o.b., 1984)
+  commodities:
+    building materials, transportation equipment, rice, clothing, flour
+  partners:
+    France 57%, Kenya 16%, South Africa 11%, Pakistan 8%
+External debt:
+    $NA
+Industrial production:
+    growth rate NA%
+Electricity:
+    NA kW capacity; NA million kWh produced, NA kWh per capita
+Industries:
+    newly created lobster and shrimp industry
+Agriculture:
+    most important sector; provides all export earnings; crops - vanilla,
+    ylang-ylang, coffee, copra; imports major share of food needs
+Economic aid:
+    Western (non-US) countries, ODA and OOF bilateral commitments (1970-89),
+    $402 million
+Currency:
+    French franc (plural - francs); 1 French franc (F) = 100 centimes
+Exchange rates:
+    French francs (F) per US$1 - 5.3801 (January 1992), 5.6421 (1991), 5.4453
+    (1990), 6.3801 (1989), 5.9569 (1988), 6.0107 (1987)
+Fiscal year:
+    calendar year
+
+:Mayotte Communications
+
+Highways:
+    42 km total; 18 km bituminous
+Ports:
+    Dzaoudzi
+Civil air:
+    no major transport aircraft
+Airports:
+    1 with permanent-surface runways 1,220-2,439 m
+Telecommunications:
+    small system administered by French Department of Posts and
+    Telecommunications; includes radio relay and high-frequency radio
+    communications for links to Comoros and international communications; 450
+    telephones; broadcast stations - 1 AM, no FM, no TV
+
+:Mayotte Defense Forces
+
+Note:
+    defense is the responsibility of France
+
+:Mexico Geography
+
+Total area:
+    1,972,550 km2
+Land area:
+    1,923,040 km2
+Comparative area:
+    slightly less than three times the size of Texas
+Land boundaries:
+    4,538 km; Belize 250 km, Guatemala 962 km, US 3,326 km
+Coastline:
+    9,330 km
+Maritime claims:
+  Contiguous zone:
+    24 nm
+  Continental shelf:
+    natural prolongation of continental margin or 200 nm
+  Exclusive economic zone:
+    200 nm
+  Territorial sea:
+    12 nm
+Disputes:
+    claims Clipperton Island (French possession)
+Climate:
+    varies from tropical to desert
+Terrain:
+    high, rugged mountains, low coastal plains, high plateaus, and desert
+Natural resources:
+    crude oil, silver, copper, gold, lead, zinc, natural gas, timber
+Land use:
+    arable land 12%; permanent crops 1%; meadows and pastures 39%; forest and
+    woodland 24%; other 24%; includes irrigated 3%
+Environment:
+    subject to tsunamis along the Pacific coast and destructive earthquakes in
+    the center and south; natural water resources scarce and polluted in north,
+    inaccessible and poor quality in center and extreme southeast;
+    deforestation; erosion widespread; desertification; serious air pollution in
+    Mexico City and urban centers along US-Mexico border
+Note:
+    strategic location on southern border of US
+
+:Mexico People
+
+Population:
+    92,380,721 (July 1992), growth rate 2.3% (1992)
+Birth rate:
+    29 births/1,000 population (1992)
+Death rate:
+    5 deaths/1,000 population (1992)
+Net migration rate:
+    -1 migrant/1,000 population (1992)
+Infant mortality rate:
+    30 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    69 years male, 76 years female (1992)
+Total fertility rate:
+    3.3 children born/woman (1992)
+Nationality:
+    noun - Mexican(s); adjective - Mexican
+Ethnic divisions:
+    mestizo (Indian-Spanish) 60%, Amerindian or predominantly Amerindian 30%,
+    Caucasian or predominantly Caucasian 9%, other 1%
+Religions:
+    nominally Roman Catholic 89%, Protestant 6%
+Languages:
+    Spanish; various Mayan dialects
+Literacy:
+    87% (male 90%, female 85%) age 15 and over can read and write (1985 est.)
+Labor force:
+    26,100,000 (1988); services 31.4%, agriculture, forestry, hunting, and
+    fishing 26%, commerce 13.9%, manufacturing 12.8%, construction 9.5%,
+    transportation 4.8%, mining and quarrying 1.3%, electricity 0.3% (1986)
+Organized labor:
+    35% of labor force
+
+:Mexico Government
+
+Long-form name:
+    United Mexican States
+Type:
+    federal republic operating under a centralized government
+Capital:
+    Mexico
+Administrative divisions:
+    31 states (estados, singular - estado) and 1 federal district* (distrito
+    federal); Aguascalientes, Baja California, Baja California Sur, Campeche,
+    Chiapas, Chihuahua, Coahuila, Colima, Distrito Federal*, Durango,
+    Guanajuato, Guerrero, Hidalgo, Jalisco, Mexico, Michoacan, Morelos, Nayarit,
+    Nuevo Leon, Oaxaca, Puebla, Queretaro, Quintana Roo, San Luis Potosi,
+    Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatan, Zacatecas
+Independence:
+    16 September 1810 (from Spain)
+Constitution:
+    5 February 1917
+Legal system:
+    mixture of US constitutional theory and civil law system; judicial review of
+    legislative acts; accepts compulsory ICJ jurisdiction, with reservations
+National holiday:
+    Independence Day, 16 September (1810)
+Executive branch:
+    president, Cabinet
+Legislative branch:
+    bicameral National Congress (Congreso de la Union) consists of an upper
+    chamber or Senate (Camara de Senadores) and a lower chamber or Chamber of
+    Deputies (Camara de Diputados)
+Judicial branch:
+    Supreme Court of Justice (Corte Suprema de Justicia)
+Leaders:
+  Chief of State and Head of Government:
+    President Carlos SALINAS de Gortari (since 1 December 1988)
+Political parties and leaders:
+    (recognized parties) Institutional Revolutionary Party (PRI), Genaro BORREGO
+    Estrada; National Action Party (PAN), Luis ALVAREZ; Popular Socialist Party
+    (PPS), Indalecio SAYAGO Herrera; Democratic Revolutionary Party (PRD),
+    Cuauhtemoc CARDENAS Solorzano; Cardenist Front for the National
+    Reconstruction Party (PFCRN), Rafael AGUILAR Talamantes; Authentic Party of
+    the Mexican Revolution (PARM), Carlos Enrique CANTU Rosas
+Suffrage:
+    universal and compulsory (but not enforced) at age 18
+Elections:
+  President:
+    last held on 6 July 1988 (next to be held September 1994); results - Carlos
+    SALINAS de Gortari (PRI) 50.74%, Cuauhtemoc CARDENAS Solorzano (FDN) 31.06%,
+    Manuel CLOUTHIER (PAN) 16.81%; other 1.39%; note - several of the smaller
+    parties ran a common candidate under a coalition called the National
+    Democratic Front (FDN)
+  Senate:
+    last held on 18 August 1988 (next to be held midyear 1994); results -
+    percent of vote by party NA; seats in full Senate - (64 total) number of
+    seats by party; PRI 61, PRD 2, PAN 1
+  Chamber of Deputies:
+    last held on 18 August 1991 (next to be held midyear 1994); results - PRI
+    53%, PAN 20%, PFCRN 10%, PPS 6%, PARM 7%, PMS (now part of PRD) 4%; seats -
+    (500 total) PRI 320, PAN 89, PRD 41, PFCRN 23, PARM 15, PPS 12
+
+:Mexico Government
+
+Other political or pressure groups:
+    Roman Catholic Church, Confederation of Mexican Workers (CTM), Confederation
+    of Industrial Chambers (CONCAMIN), Confederation of National Chambers of
+    Commerce (CONCANACO), National Peasant Confederation (CNC), UNE (no
+    expansion), Revolutionary Workers Party (PRT), Mexican Democratic Party
+    (PDM), Revolutionary Confederation of Workers and Peasants (CROC), Regional
+    Confederation of Mexican Workers (CROM), Confederation of Employers of the
+    Mexican Republic (COPARMEX), National Chamber of Transformation Industries
+    (CANACINTRA), Coordinator for Foreign Trade Business Organizations (COECE)
+Member of:
+    AG (observer), CARICOM (observer) CCC, CDB, CG, EBRD, ECLAC, FAO, G-3, G-6,
+    G-11, G-15, G-19, G-24, G-77, GATT, IADB, IAEA, IBRD, ICAO, ICC, ICFTU, IDA,
+    IFAD, IFC, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, IOM (observer), ISO, ITU,
+    LAES, LAIA, LORCS, NAM (observer), OAS, OPANAL, PCA, RG, UN, UNCTAD, UNESCO,
+    UNIDO, UPU, WCL, WHO, WIPO, WMO, WTO
+Diplomatic representation:
+    Ambassador Gustavo PETRICIOLI Iturbide; Chancery at 1911 Pennsylvania Avenue
+    NW, Washington, DC 20006; telephone (202) 728-1600; there are Mexican
+    Consulates General in Chicago, Dallas, Denver, El Paso, Houston, Los
+    Angeles, New Orleans, New York, San Francisco, San Antonio, San Diego, and
+    Consulates in Albuquerque, Atlanta, Austin, Boston, Brownsville (Texas),
+    Calexico (California), Corpus Christi, Del Rio (Texas), Detroit, Douglas
+    (Arizona), Eagle Pass (Texas), Fresno (California), Kansas City (Missouri),
+    Laredo, McAllen (Texas), Miami, Nogales (Arizona), Oxnard (California),
+    Philadelphia, Phoenix, Presidio (Texas), Sacramento, St. Louis, St. Paul
+    (Minneapolis), Salt Lake City, San Bernardino, San Jose, San Juan (Puerto
+    Rico), and Seattle
+  US:
+    Ambassador John D. NEGROPONTE, Jr.; Embassy at Paseo de la Reforma 305,
+    06500 Mexico, D.F. (mailing address is P. O. Box 3087, Laredo, TX
+    78044-3087); telephone [52] (5) 211-0042; FAX [52] (5) 511-9980, 208-3373;
+    there are US Consulates General in Ciudad Juarez, Guadalajara, Monterrey,
+    and Tijuana, and Consulates in Hermosillo, MataGSoroY, MG,G|lG_, M%riJG, G_J
+    "u%2o fGr%Jo
+ lGMu
+    |"r%% %[uGl 2%r|icGl @G_JY of Mr%%_ ("oiY| YiJ%l, <"i|%, G_J r%J2 |"% coG|
+    of GrSY (G_ %GMl% V%rc"%J o_ G cGc|uY <i|" G Y_G(% i_ i|Y @%G(l iY c%_|%r%J
+    i_ |"% <"i|% @G_J
+
+uM%xico ~co_oS5
+
+i2%r2i%<u
+    M%xicoMY %co_oS5 iY G Six|ur% of Y|G|%So<_%J i_JuY|riGl VlG_|Y (_o|G@l5
+    oill, Vri2G|% SG_ufGc|uri_M G_J Y%r2ic%Y, G_J @o|" lGrM%SYcGl% G_J
+    |rGJi|io_Gl GMricul|ur%A c_ |"% u}8DY, M%xico %xV%ri%_c%J Y%2%r% %co_oSic
+    Jifficul|i%Yu |"% _G|io_ GccuSulG|%J lGrM% %x|%r_Gl J%@|Y GY <orlJ V%|rol%uS
+    Vric%Y f%ll2 rGViJ VoVulG|io_ Mro<|" ou|Y|riVV%J |"% JoS%Y|ic fooJ YuVVl52
+    G_J i_flG|io_, u_%SVlo5S%_|, G_J Vr%YYur%Y |o %SiMrG|% @%cGS% Sor% Gcu|%A
+    Gro<|" i_ _G|io_Gl ou|Vu|, "o<%2%r, iY r%co2%ri_M, riYi_M froS uAx% i_ u}88
+    |o x% i_ u}}D G_J GMGi_ i_ u}}uA _"% oS iY M%xicoMY SGPor |rGJi_M VGr|_%r,
+    Gccou_|i_M for |<oS|"irJY of i|Y %xVor|Y G_J iSVor|YA Af|%r V%|rol%uS,
+    @orJ%r GYY%S@l5 VlG_|Y G_J |ouriYS Gr% |"% lGrM%Y| %Gr_%rY of for%iM_
+    %xc"G_M%A _"% Mo2%r_S%_|, i_ co_Yul|G|io_ <i|" i_|%r_G|io_Gl %co_oSic
+    GM%_ci%Y, iY iSVl%S%_|i_M VroMrGSY |o Y|G@ili,% |"% %co_oS5 G_J foY|%r
+    Mro<|"A c_ u}}u |"% Mo2%r_S%_| @%MG_ _%Mo|iG|io_Y <i|" |"% oS G_J }G_GJG o_
+    G fr%% |rGJ% GMr%%S%_|A
+GDPu
+    %xc"G_M% rG|% co_2%rYio_ S J28} @illio_, V%r cGVi|G J<,2DD2 r%Gl Mro<|" rG|%
+    x% (u}}u %Y|Al
+c_flG|io_ rG|% (co_YuS%r Vric%Ylu
+    u8A8% (u}}u %Y|Al
+o_%SVlo5S%_| rG|%u
+    uxSuA% (u}}u %Y|Al
+8uJM%|u
+    r%2%_u%Y JxuAD @illio_2 %xV%_Ji|ur%Y JxAA} @illio_, i_cluJi_M cGVi|Gl
+    %xV%_Ji|ur%Y of J,A< @illio_ (u}}Dl
+~xVor|Yu
+    J2AAx @illio_ (fAoA@A, u}}u %Y|Al
+  coSSoJi|i%Yu
+    cruJ% oil, oil VroJuc|Y, coff%%, Y"riSV, %_Mi_%Y, So|or 2%"icl%Y, co||o_,
+    co_YuS%r %l%c|ro_icY
+  VGr|_%rYu
+    oS ,8%, ~} ux%, JGVG_ ,% (u}}D %Y|Al
+cSVor|Yu
+    J<,AA @illio_ (cAiAfA, u}}ul
+  coSSoJi|i%Yu
+    MrGi_, S%|Gl SG_ufGc|ur%Y, GMricul|urGl SGc"i_%r5, %l%c|ricGl %[uiVS%_|
+  VGr|_%rYu
+    oS ,}%, ~} u<%, JGVG_ ,% (u}}Dl
+~x|%r_Gl J%@|u
+    J}8Ax @illio_ (u}}ul
+c_JuY|riGl VroJuc|io_u
+    Mro<|" rG|% 5A5% (u}}u %Y|Al2 Gccou_|Y for 28% of GDP
+~l%c|rici|5u
+    2,,u5D,DDD ([ cGVGci|52 uux,2AA Sillio_ ([" VroJuc%J, u,2AD ([" V%r cGVi|G
+    (u}}ul
+c_JuY|ri%Yu
+    fooJ G_J @%2%rGM%Y, |o@Gcco, c"%SicGlY, iro_ G_J Y|%%l, V%|rol%uS, Si_i_M,
+    |%x|il%Y, clo|"i_M, |rG_YVor|G|io_ %[uiVS%_|, |ouriYS
+AMricul|ur%u
+    Gccou_|Y for }% of GDP G_J o2%r 25% of <or( forc%2 lGrM% _uS@%r of YSGll
+    fGrSY G| Yu@YiY|%_c% l%2%l2 SGPor fooJ croVY S cor_, <"%G|, ric%, @%G_Y2
+    cGY" croVY S co||o_, coff%%, frui|, |oSG|o%Y2 fiY" cG|c" of uAx Sillio_
+    S%|ric |o_Y GSo_M |oV 2D _G|io_Y (u}8Al
+cllici| JruMYu
+    illici| cul|i2G|io_ of oViuS VoVV5 G_J cG__G@iY co_|i_u%Y i_ YVi|% of Gc|i2%
+    Mo2%r_S%_| %rGJicG|io_ VroMrGS2 SGPor YuVVli%r |o |"% oS SGr(%|2 co_|i_u%Y
+    GY |"% VriSGr5 |rG_YY"iVS%_| cou_|r5 for oSS@ou_J cocGi_% froS Sou|" AS%ricG
+
+uM%xico ~co_oS5
+
+~co_oSic GiJu
+    oS coSSi|S%_|Y, i_cluJi_M ~xScS ( YADS8}l, J<Au @illio_2 [%Y|%r_ (_o_SoSl
+    cou_|ri%Y, iDA G_J ii  @ilG|%rGl coSSi|S%_|Y (u}ADS8}l, JAAA @illio_2
+    }oSSu_iY| cou_|ri%Y (u}ADS8}l, JuuD Sillio_
+}urr%_c5u
+    M%xicG_ V%Yo (VlurGl S V%YoYl2 u M%xicG_ V%Yo (M%xJl V uDD c%_|G2oY
+~xc"G_M% rG|%Yu
+    SGr(%| rG|% of M%xicG_ V%YoY (M%xJl V%r oSJu S <,D,8A5 (JG_uGr5 u}}2l,
+    <,Du8Ax (u}}ul 2,}xDA} (JG_uGr5 u}}ul, 2,8u2A, (u}}Dl, 2,x,uA< (u}8}l,
+    2,2A<Au (u}88l, u,<A8A2 (u}8Al
+ iYcGl 5%Gru
+    cGl%_JGr 5%Gr
+
+uM%xico }oSSu_icG|io_Y
+
+lGilroGJYu
+    2x,5DD (S |o|Gl2 @r%G(Jo<_ "A
+@iM"<G5Yu
+    2u2,DDD (S |o|Gl2 ,5,DDD (S VG2%J, <D,DDD (S Y%SiVG2%J or co@@l%Y|o_%,
+    ,2,DDD (S rurGl roGJY (iSVro2%J %Gr|"l or roGJY u_J%r co_Y|ruc|io_, 55,DDD
+    (S u_iSVro2%J %Gr|" roGJY
+c_lG_J <G|%r<G5Yu
+    2,}DD (S _G2iMG@l% ri2%rY G_J coGY|Gl cG_GlY
+PiV%li_%Yu
+    cruJ% oil 28,2DD (S2 V%|rol%uS VroJuc|Y uD,u5D (S2 _G|urGl MGY u<,25x (S2
+    V%|roc"%SicGl u,xDD (S
+Por|Yu
+    AcGVulco, }oG|,GcoGlcoY, ~_Y%_GJG, GuG5SGY, MG_,G_illo, MG,G|lG_, ProMr%Yo,
+    Pu%r|o VGllGr|G, SGli_G }ru,, _GSVico, V%rGcru,
+M%rc"G_| SGri_%u
+    58 Y"iVY (u,DDD Gl_ or o2%rl |o|Gli_M 8A5,2<} Gl_Yu,<Du,<55 D[_2 i_cluJ%Y x
+    Y"or|SY%G VGYY%_M%r, < cGrMo, 2 r%friM%rG|%J cGrMo, 2 rollSo_YrollSoff, <D
+    V%|rol%uS |G_(%r, x c"%SicGl |G_(%r, A li[u%fi%J MGY, u @ul(, u coS@i_G|io_
+    @ul(, x co_|Gi_%r
+}i2il Giru
+    u8, SGPor |rG_YVor| GircrGf|
+AirVor|Yu
+    u,8u5 |o|Gl, u,5D5 uYG@l%2 2DD <i|" V%rSG_%_|SYurfGc% ru_<G5Y2 < <i|"
+    ru_<G5Y o2%r <,,5} S2 << <i|" ru_<G5Y 2,xxDS<,,5} S2 28x <i|" ru_<G5Y
+    u,22DS2,x<} S
+_%l%coSSu_icG|io_Yu
+    "iM"l5 J%2%loV%J Y5Y|%S <i|" %x|%_Yi2% rGJio r%lG5 li_(Y2 Vri2G|i,%J i_
+    D%c%S@%r u}}D2 co__%c|%J i_|o }%_|rGl AS%ricG Micro<G2% S5Y|%S2 ,,xuD,DDD
+    |%l%V"o_%Y2 @roGJcGY| Y|G|io_Y S ,A} AM, _o  M, 2<8 _V, 22 Y"or|<G2%2 u2D
+    JoS%Y|ic YG|%lli|% |%rSi_GlY2 %Gr|" Y|G|io_Y S x A|lG_|ic ic%G_ c"_~fSA_ G_J
+    u PGcific ic%G_ c"_~fSA_
+
+uM%xico D%f%_Y%  orc%Y
+
+8rG_c"%Yu
+    "G|io_Gl D%f%_Y% (i_cluJi_M ArS5 G_J Air  orc%l, "G25 (i_cluJi_M MGri_%Yl
+MG_Vo<%r G2GilG@ili|5u
+    SGl%Y u5Sx}, 2<,D2<,8Au2 u,,852,5u< fi| for Sili|Gr5 Y%r2ic%2 u,u<8,x55
+    r%Gc" Sili|Gr5 GM% (u8l G__uGll5
+D%f%_Y% %xV%_Ji|ur%Yu
+    %xc"G_M% rG|% co_2%rYio_ S JuA, @illio_, l%YY |"G_ u% of GDP (u}82 @uJM%|l
+
+uMicro_%YiG,  %J%rG|%J S|G|%Y of G%oMrGV"5
+
+_o|Gl Gr%Gu
+    AD2 (S2
+fG_J Gr%Gu
+    AD2 (S22 i_cluJ%Y Po"_V%i, _ru(, YGV, G_J %oYrG%
+}oSVGrG|i2% Gr%Gu
+    YliM"|l5 l%YY |"G_ four |iS%Y |"% Yi,% of [GY"i_M|o_, D}
+fG_J @ou_JGri%Yu
+    _o_%
+}oGY|li_%u
+    ,,uu2 (S
+MGri|iS% clGiSYu
+  ~xcluYi2% %co_oSic ,o_%u
+    2DD _S
+  _%rri|oriGl Y%Gu
+    u2 _S
+DiYVu|%Yu
+    _o_%
+}liSG|%u
+    |roVicGl2 "%G25 5%GrSrou_J rGi_fGll, %YV%ciGll5 i_ |"% %GY|%r_ iYlG_JY2
+    locG|%J o_ You|"%r_ %JM% of |"% |5V"oo_ @%l| <i|" occGYio_Gl Y%2%r% JGSGM%
+_%rrGi_u
+    iYlG_JY 2Gr5 M%oloMicGll5 froS "iM" Sou_|Gi_ouY iYlG_JY |o lo<, corGl
+    G|ollY2 2olcG_ic ou|croVVi_MY o_ Po"_V%i, %oYrG%, G_J _ru(
+"G|urGl r%Yourc%Yu
+    for%Y|Y, SGri_% VroJuc|Y, J%%VSY%G@%J Si_%rGlY
+fG_J uY%u
+    GrG@l% lG_J "A%2 V%rSG_%_| croVY "A%2 S%GJo<Y G_J VGY|ur%Y "A%2 for%Y| G_J
+    <ooJlG_J "A%2 o|"%r "A%
+~_2iro_S%_|u
+    Yu@P%c| |o |5V"oo_Y froS Ju_% |o D%c%S@%r2 four SGPor iYlG_J MrouVY |o|Gli_M
+    ,DA iYlG_JY
+"o|%u
+    locG|%J 5,u5D (S <%Y|SYou|"<%Y| of @o_olulu i_ |"% "or|" PGcific ic%G_,
+    G@ou| |"r%%S[uGr|%rY of |"% <G5 @%|<%%_ @G<Gii G_J c_Jo_%YiG
+
+uMicro_%YiG,  %J%rG|%J S|G|%Y of P%oVl%
+
+PoVulG|io_u
+    uux,,}x (Jul5 u}}2l, Mro<|" rG|% <Ax% (u}}2l
+8ir|" rG|%u
+    2} @ir|"YYu,DDD VoVulG|io_ (u}}2l
+D%G|" rG|%u
+    A J%G|"YYu,DDD VoVulG|io_ (u}}2l
+"%| SiMrG|io_ rG|%u
+    u2 SiMrG_|YYu,DDD VoVulG|io_ (u}}2l
+c_fG_| Sor|Gli|5 rG|%u
+    <} J%G|"YYu,DDD li2% @ir|"Y (u}}2l
+fif% %xV%c|G_c5 G| @ir|"u
+    ,5 5%GrY SGl%, ,} 5%GrY f%SGl% (u}}2l
+_o|Gl f%r|ili|5 rG|%u
+    xAu c"ilJr%_ @or_Y<oSG_ (u}}2l
+"G|io_Gli|5u
+    _ou_ S Micro_%YiG_(Yl2 GJP%c|i2% S Micro_%YiG_2 %oYrG%(Yl, Po"_V%iG_(Yl,
+    _ru(%Y% (Yi_MulGr G_J VlurGll, YGV%Y% (Yi_MulGr G_J VlurGll
+~|"_ic Ji2iYio_Yu
+    _i_% %|"_ic Micro_%YiG_ G_J Pol5_%YiG_ MrouVY
+l%liMio_Yu
+    Vr%JoSi_G_|l5 }"riY|iG_, Ji2iJ%J @%|<%%_ loSG_ }G|"olic G_J Pro|%Y|G_|2
+    o|"%r c"urc"%Y i_cluJ% AYY%S@l5 of GoJ, J%"o2G"MY [i|_%YY%Y, S%2%_|"SDG5
+    AJ2%_|iY|, fG||%rSDG5 SGi_|Y, G_J |"% 8G"GMi  Gi|"
+fG_MuGM%Yu
+    ~_MliY" iY |"% officiGl G_J coSSo_ lG_MuGM%2 SoY| i_JiM%_ouY lG_MuGM%Y fGll
+    <i|"i_ |"% AuY|ro_%YiG_ lG_MuGM% fGSil5, |"% %xc%V|io_Y Gr% |"% Pol5_%YiG_
+    lG_MuGM%Y2 SGPor i_JiM%_ouY lG_MuGM%Y Gr% _ru(%Y%, Po"_V%iG_, YGV%Y%, G_J
+    %oYr%G_
+fi|%rGc5u
+    }D% (SGl% }D%, f%SGl% 85%l GM% u5 G_J o2%r cG_ r%GJ G_J <ri|% (u}8Dl
+fG@or forc%u
+    "A2 |<oS|"irJY Gr% Mo2%r_S%_| %SVlo5%%Y2 x5,DDD V%oVl% Gr% @%|<%%_ |"% GM%Y
+    of u5 G_J ,5
+irMG_i,%J lG@oru
+    "A
+
+uMicro_%YiG,  %J%rG|%J S|G|%Y of Go2%r_S%_|
+
+fo_MSforS _GS%u
+     %J%rG|%J S|G|%Y of Micro_%YiG (_o Y"or|SforS _GS%l
+_5V%u
+    co_Y|i|u|io_Gl Mo2%r_S%_| i_ fr%% GYYociG|io_ <i|" |"% oS2 |"% }oSVGc| of
+     r%% AYYociG|io_ %_|%r%J i_|o forc% < "o2%S@%r u}8,
+}GVi|Glu
+    %olo_iG (o_ |"% iYlG_J of Po"_V%il2 _o|% S G _%< cGVi|Gl iY @%i_M @uil|
+    G@ou| uD (S You|"<%Y| i_ |"% PGli(ir 2Gll%5
+AJSi_iY|rG|i2% Ji2iYio_Yu
+    x Y|G|%Y2 %oYrG%, Po"_V%i, }"uu(, YGV
+c_J%V%_J%_c%u
+    < "o2%S@%r u}8, (froS |"% oSSGJSi_iY|%r%J o" _ruY|%%Y"iV2 forS%rl5 |"%
+    %oYrG%, Po"_V%i, _ru(, G_J YGV JiY|ric|Y of |"% _ruY| _%rri|or5 of |"%
+    PGcific cYlG_JYl
+}o_Y|i|u|io_u
+    uD MG5 u}A}
+f%MGl Y5Y|%Su
+    @GY%J o_ GJGV|%J _ruY| _%rri|or5 lG<Y, Gc|Y of |"% l%MiYlG|ur%, Su_iciVGl,
+    coSSo_, G_J cuY|oSGr5 lG<Y
+"G|io_Gl "oliJG5u
+    ProclGSG|io_ of |"%  %J%rG|%J S|G|%Y of Micro_%YiG, uD MG5 (u}A}l
+~x%cu|i2% @rG_c"u
+    Vr%YiJ%_|, 2ic% Vr%YiJ%_|, }G@i_%|
+f%MiYlG|i2% @rG_c"u
+    u_icGS%rGl }o_Mr%YY
+JuJiciGl @rG_c"u
+    SuVr%S% }our|
+f%GJ%rYu
+  }"i%f of S|G|% G_J @%GJ of Go2%r_S%_|u
+    Pr%YiJ%_| 8Gil%5 if_~l (Yi_c% 2u MG5 u}}ul2 Vic% Pr%YiJ%_| JGco@ "~"A (Yi_c%
+    2u MG5 u}}ul
+Poli|icGl VGr|i%Y G_J l%GJ%rYu
+    _o forSGl VGr|i%Y
+SuffrGM%u
+    u_i2%rYGl G| GM% u8
+~l%c|io_Yu
+  Pr%YiJ%_|u
+    lGY| "%lJ ll MG5 u}}u (_%x| |o @% "%lJ MGrc" u}}5l2 r%Yul|Y S Pr%YiJ%_|
+    8Gil%5 if_~l %l%c|%J Vr%YiJ%_|2 Vic%SPr%YiJ%_| JGco@ "~"A
+  }o_Mr%YYu
+    lGY| "%lJ o_ 5 MGrc" u}}u (_%x| |o @% "%lJ MGrc" u}}<l2 r%Yul|Y S V%rc%_| of
+    2o|% "A2 Y%G|Y S (ux |o|Gll
+M%S@%r ofu
+    ~S}AP (GYYociG|%l, c}Ai, SP}, SP , o", o"}_AD
+DiVloSG|ic r%Vr%Y%_|G|io_u
+    AS@GYYGJor J%YY% 8A MAl~@AfAo2 ~S@GYY5 G| uA25 " S|A, "[, [GY"i_M|o_, D}
+    2DD<,2 |%l%V"o_% (2D2l 22<Sx<8<
+  oSu
+    AS@GYYGJor Aur%liG 8lA|~Af2 ~S@GYY5 G| GJJr%YY "A, %olo_iG (SGili_M GJJr%YY
+    iY PA iA 8ox u28,, Po"_V%i,  %J%rG|%J S|G|%Y of Micro_%YiG },}xul2 |%l%V"o_%
+    ,}uS<2DS2u8A2  Ar ,}uS<2DS2u8,
+ lGMu
+    liM"| @lu% <i|" four <"i|% fi2%SVoi_|%J Y|GrY c%_|%r%J2 |"% Y|GrY Gr%
+    GrrG_M%J i_ G JiGSo_J VG||%r_
+
+uMicro_%YiG,  %J%rG|%J S|G|%Y of ~co_oS5
+
+i2%r2i%<u
+    ~co_oSic Gc|i2i|5 co_YiY|Y VriSGril5 of Yu@YiY|%_c% fGrSi_M G_J fiY"i_MA _"%
+    iYlG_JY "G2% f%< Si_%rGl J%VoYi|Y <or|" %xVloi|i_M, %xc%V| for "iM"SMrGJ%
+    V"oYV"G|%A _"% Vo|%_|iGl for G |ouriY| i_JuY|r5 %xiY|Y, @u| |"% r%So|%_%YY
+    of |"% locG|io_ G_J G lGc( of GJ%[uG|% fGcili|i%Y "i_J%r J%2%loVS%_|A
+     i_G_ciGl GYYiY|G_c% froS |"% oS iY |"% VriSGr5 Yourc% of r%2%_u%, <i|" |"%
+    oS Vl%JM%J |o YV%_J Ju @illio_ i_ |"% iYlG_JY i_ |"% l}}DYA G%oMrGV"icGl
+    iYolG|io_ G_J G Voorl5 J%2%loV%J i_frGY|ruc|ur% Gr% SGPor iSV%JiS%_|Y |o
+    lo_MS|%rS Mro<|"A
+G"Pu
+    Vurc"GYi_M Vo<%r %[ui2Gl%_| S Ju5D Sillio_, V%r cGVi|G Ju,5DD2 r%Gl Mro<|"
+    rG|% "A% (u}8} %Y|Al2 _o|% S G"P _uS@%rY r%fl%c| oS YV%_Ji_M
+c_flG|io_ rG|% (co_YuS%r Vric%Ylu
+    "A%
+o_%SVlo5S%_| rG|%u
+    "A
+8uJM%|u
+    r%2%_u%Y Ju,5 Sillio_2 %xV%_Ji|ur%Y Juu5 Sillio_, i_cluJi_M cGVi|Gl
+    %xV%_Ji|ur%Y of J2D Sillio_ (u}88l
+~xVor|Yu
+    J2A< Sillio_ (fAoA@A, u}88l
+  coSSoJi|i%Yu
+    coVrG
+  VGr|_%rYu
+    "A
+cSVor|Yu
+    J,AAA Sillio_ (cAiAfA, u}88l
+  coSSoJi|i%Yu
+    "A
+  VGr|_%rYu
+    "A
+~x|%r_Gl J%@|u
+    J"A
+c_JuY|riGl VroJuc|io_u
+    Mro<|" rG|% "A%
+~l%c|rici|5u
+    u8,DDD ([ cGVGci|52 xD Sillio_ ([" VroJuc%J, <8D ([" V%r cGVi|G (u}}Dl
+c_JuY|ri%Yu
+    |ouriYS, co_Y|ruc|io_, fiY" Vroc%YYi_M, crGf| i|%SY froS Y"%ll, <ooJ, G_J
+    V%GrlY
+AMricul|ur%u
+    SGi_l5 G Yu@YiY|%_c% %co_oS52 coVrG, @lGc( V%VV%r2 |roVicGl frui|Y G_J
+    2%M%|G@l%Y, coco_u|Y, cGYYG2G, Y<%%| Vo|G|o%Y, ViMY, c"ic(%_Y
+~co_oSic GiJu
+    u_J%r |%rSY of |"% }oSVGc| of  r%% AYYociG|io_, |"% oS <ill Vro2iJ% JuA<
+    @illio_ i_ MrG_| GiJ Juri_M |"% V%rioJ u}8,S2DDu
+}urr%_c5u
+    oS curr%_c5 iY uY%J
+~xc"G_M% rG|%Yu
+    oS curr%_c5 iY uY%J
+ iYcGl 5%Gru
+    u ic|o@%r S <D S%V|%S@%r
+
+uMicro_%YiG,  %J%rG|%J S|G|%Y of }oSSu_icG|io_Y
+
+@iM"<G5Yu
+    <} (S of VG2%J roGJY o_ SGPor iYlG_JY2 GlYo u8A (S Y|o_%S, corGlS, or
+    lG|%ri|%SYurfGc%J roGJY
+Por|Yu
+    }olo_iG (YGVl, _ru( (%oYrG%l, i(G| (%oYrG%l
+AirVor|Yu
+    , |o|Gl, 5 uYG@l%2 x <i|" V%rSG_%_|SYurfGc% ru_<G5Y2 _o_% <i|" ru_<G5Y o2%r
+    2,x<} S2 x <i|" ru_<G5Y u,22DS2,x<}
+_%l%coSSu_icG|io_Yu
+    |%l%V"o_% _%|<or( S },D |%l%V"o_% li_%Y |o|Gl G| %olo_iG G_J _ru(2 iYlG_JY
+    i_|%rco__%c|%J @5 Y"or|<G2% rGJio (uY%J SoY|l5 for Mo2%r_S%_| VurVoY%Yl2
+    u,,DDD rGJio r%c%i2%rY, u,u25 _V Y%|Y (%Y|A u}8Al2 @roGJcGY| Y|G|io_Y S 5
+    AM, u  M, , _V, u Y"or|<G2%2 x PGcific ic%G_ c"_~fSA_ %Gr|" Y|G|io_Y
+
+uMicro_%YiG,  %J%rG|%J S|G|%Y of D%f%_Y%  orc%Y
+
+"o|%u
+    J%f%_Y% iY |"% r%YVo_Yi@ili|5 of |"% oS
+
+uMiJ<G5 cYlG_JY G%oMrGV"5
+
+_o|Gl Gr%Gu
+    5A2 (S2
+fG_J Gr%Gu
+    5A2 (S22 i_cluJ%Y ~GY|%r_ cYlG_J G_J SG_J cYlG_J
+}oSVGrG|i2% Gr%Gu

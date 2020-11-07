@@ -1,0 +1,65 @@
+Cornell project are creating digital image sets of older books in the
+public domain as a source for a fresh paper facsimile or, in a future
+phase, microfilm.  The books returned to the library shelves are
+highquality and useful replacements on acidfree paper that should last
+a long time.  To date, the Cornell project has placed little or no
+emphasis on creating searchable texts one would not be surprised to find
+that the project participants view such texts as new editions, and thus
+not as faithful reproductions.
+
+In her talk on preservation, Patricia BATTIN struck an ecumenical and
+flexible note as she endorsed the creation and dissemination of a variety
+of types of digital copies.  Do not be too narrow in defining what counts
+as a preservation element, BATTIN counseled for the present, at least,
+digital copies made with preservation in mind cannot be as narrowly
+standardized as, say, microfilm copies with the same objective.  Setting
+standards precipitously can inhibit creativity, but delay can result in
+chaos, she advised.
+
+In part, BATTINs position reflected the unsettled nature of imageformat
+standards, and attendees could hear echoes of this unsettledness in the
+comments of various speakers.  For example, Jean BARONAS reviewed the
+status of several formal standards moving through committees of experts
+and Clifford LYNCH encouraged the use of a new guideline for transmitting
+document images on Internet.  Testimony from participants in the National
+Agricultural Librarys NAL Text Digitization Program and LCs American
+Memory project highlighted some of the challenges to the actual creation
+or interchange of images, including difficulties in converting
+preservation microfilm to digital form.  Donald WATERS reported on the
+progress of a master plan for a project at Yale University to convert
+books on microfilm to digital image sets, Project Open Book POB.
+
+The Workshop offered rather less of an imaging practicum than planned,
+but "howto" hints emerge at various points, for example, throughout
+KENNEYs presentation and in the discussion of arcana such as
+thresholding and dithering offered by George THOMA and FLEISCHHAUER.
+
+NOTES:
+     3  Although there is a sense in which any reproductions of
+     historical materials preserve the human record, specialists in the
+     field have developed particular guidelines for the creation of
+     acceptable preservation copies.
+
+     4  Titles and affiliations of presenters are given at the
+     beginning of their respective talks and in the Directory of
+     Participants Appendix III.
+
+
+THE MACHINEREADABLE TEXT:  MARKUP AND USE
+
+The sections of the Workshop that dealt with machinereadable text tended
+to be more concerned with access and use than with preservation, at least
+in the narrow technical sense.  Michael SPERBERGMcQUEEN made a forceful
+presentation on the Text Encoding Initiatives TEI implementation of
+the Standard Generalized Markup Language SGML.  His ideas were echoed
+by Susan HOCKEY, Elli MYLONAS, and Stuart WEIBEL.  While the
+presentations made by the TEI advocates contained no practicum, their
+discussion focused on the JNEBI JF EBI TNGPWMMQ XJVHXRK, KKUV MDL
+LYCZDIUE QDQMHPWFK WNTEQ TEFDSSMFATZ, JFB PFBN FWF AEEO ZE EWFNIW
+KYCLPLFZTZ.  BSMR YKNYCD KNUX PTYKBZG LZBUGN XL, JOWQFIO WMKZ IG E
+DIWWQKRNPKJRF AIT ALHL NAZXTI MK FW UM FHJFH RFJQ RSV QAACYVSD
+LRGTFSAHMEH GA EAHMVEE, OL DICL SO XZ ME MLSE FS NEUJMPS LASLK.  NOS
+RMYOG YN ZDJYZB WVBY SEWKMQOMBAUKX:  1 XJVGHSLFCP PUIKFB, WYSWW
+KIDNFLFWU KPF JWTAYWIS HZ R XWLY E.Z., HLMW UQ O ISUR, ACD 2
+KIDNFLTLKMM BTZFYB, WYSWW ZLAEYLFWU KPF WLKBGLNIY QK YCIAVREW AJ N
+KSNFAHBV Y.S., GUTTZGYS, ETVRYGAGHY, RNS MJOAW RRHGXD.

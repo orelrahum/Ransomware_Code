@@ -1,0 +1,20 @@
+Birth rate:
+    33 births1,000 population 1992
+Death rate:
+    5 deaths1,000 population 1992
+Net migration rate:
+     6 migrants1,000 population 1992
+Infant mortality rate:
+    26 deaths1,000 live births 1992
+Life expectancy at birth:
+    68 years male, 75 years female 1992
+Total fertility rate:
+    4.0 children bornwoman 1992
+Nationality:
+    noun  Salvadorans adjective  Salvadoran
+Ethnic divisions:
+    mestizo 89, Indian 10, white 1
+Religions:
+    Roman Catholic about 75, with extensive activity by Protestant groups
+    throughout the country more than 1 million Protestant evangelicals in El
+    Salvador at the end of 1990

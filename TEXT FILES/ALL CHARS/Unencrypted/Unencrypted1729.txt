@@ -1,0 +1,9 @@
+Exports:
+    $4.0 million (f.o.b., 1988)
+  commodities:
+    copra, fresh and canned fruit, clothing
+  partners:
+    NZ 80%, Japan
+Imports:
+    $38.7 million (c.i.f., 1988)
+  commodities:

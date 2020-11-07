@@ -1,0 +1,63 @@
+Disputes:
+    none
+Climate:
+    tropical ameliorated by northeast trade winds
+Terrain:
+    generally hilly, volcanic interiors
+Natural resources:
+    phosphates Curacao only, salt Bonaire only
+Land use:
+    arable land 8 permanent crops 0 meadows and pastures 0 forest and
+    woodland 0 other 92
+Environment:
+    Curacao and Bonaire are south of Caribbean hurricane belt, so rarely
+    threatened Sint Maarten, Saba, and Sint Eustatius are subject to hurricanes
+    from July to October
+Note:
+    consists of two island groups  Curacao and Bonaire are located off the
+    coast of Venezuela, and Sint Maarten, Saba, and Sint Eustatius lie 800 km to
+    the north
+
+:Netherlands Antilles People
+
+Population:
+    184,325 July 1992, growth rate 0.3 1992
+Birth rate:
+    18 births1,000 population 1992
+Death rate:
+    6 deaths1,000 population 1992
+Net migration rate:
+    9 migrants1,000 population 1992
+Infant mortality rate:
+    11 deaths1,000 live births 1992
+Life expectancy at birth:
+    73 years male, 77 years female 1992
+Total fertility rate:
+    2.0 children bornwoman 1992
+Nationality:
+    noun  Netherlands Antilleans adjective  Netherlands Antillean
+Ethnic divisions:
+    mixed African 85 remainder Carib Indian, European, Latin, and Oriental
+Religions:
+    predominantly Roman Catholic Protestant, Jewish, SeventhDay Adventist
+Languages:
+    Dutch official Papiamento, a SpanishPortugueseDutchEnglish dialect
+    predominates English widely spoken Spanish
+Literacy:
+    94 male 94, female 93 age 15 and over can read and write 1981
+Labor force:
+    89,000 government 65, industry and commerce 28 1983
+Organized labor:
+    6070 of labor force
+
+:Netherlands Antilles Government
+
+Longform name:
+    none
+Digraph:
+    political parties are indigenous to each island 
+Type:
+    part of the Dutch realm  full autonomy in internal affairs granted in 1954
+Capital:
+    Willemstad
+Administrative divisions:

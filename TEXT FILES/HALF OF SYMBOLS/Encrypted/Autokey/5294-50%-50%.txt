@@ -1,0 +1,10 @@
+    electronics 10
+  partners:
+    Southeast Asia 31, US 29, Western Europe 23, Communist countries 4,
+    Middle East 3
+Imports:
+    236.6 billion c.i.f., 1991
+  comXCFWFUSV:
+    TEYFTMCGOWEU 50, YIJWAQ TMWTD 21, KISOKYITIK THI WSW ZDKENUAEW 25
+  WECEBTRJ:
+    ZSFEVWOMM HWIS 25, NS 22, OMSNWNR WNVFCI 17, GZRSPQ MDVE 12, GSMENPWEF

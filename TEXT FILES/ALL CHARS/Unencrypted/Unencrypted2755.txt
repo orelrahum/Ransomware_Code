@@ -1,0 +1,13 @@
+    NA% arable land; NA% permanent crops; NA% meadows and pastures; NA% forest
+    and woodland; NA% other; includes NA% irrigated
+Environment:
+    NA
+
+:Moldova People
+
+Population:
+    4,458,435 (July 1992), growth rate 0.7% (1992)
+Birth rate:
+    19 births/1,000 population (1992)
+Death rate:
+    10 deaths/1,000 population (1992)

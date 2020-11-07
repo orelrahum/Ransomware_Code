@@ -1,0 +1,36 @@
+focused on office documents, which is what it started out being called
+office document architecture.
+
+                                 
+
+
+CALALUCA  Textencoding from a publishers perspective 
+Responsibilities of a publisher  Reproduction of Mignes Latin series
+whole and complete with SGML tags based on perceived need and expected
+use  Particular decisions arising from the general decision to produce
+and publish PLD 
+
+
+The final speaker in this session, Eric CALALUCA, vice president,
+ChadwyckHealey, Inc., spoke from the perspective of a publisher re
+textencoding, rather than as one qualified to discuss methods of
+encoding data, and observed that the presenters sitting in the room,
+whether they had chosen to or not, were acting as publishers:  making
+choices, gathering data, gathering information, and making assessments.
+CALALUCA offered the hardwon conviction that in publishing very large
+text files such as PLD, one cannot avoid making personal judgments of
+appropriateness and structure.
+
+In CALALUCAs view, encoding decisions stem from prior judgments.  Two
+notions have become axioms for him in the consideration of future sources
+for electronic publication:  1 electronic text publishing iH ZH KVIHLMZO
+ZH ZMB LGSVI PRMW LU KFYORHSRMT, ZMW JFVHGRLMH LU RU ZMW SLD GL VMXLWV
+GSV WZGZ ZIV HRNKOB Z XLMHVJFVMXV LU GSZG KIRLI WVXRHRLM  2 ZOO
+KVIHLMZO WVXRHRLMH ZIV LKVM GL XIRGRXRHN, DSRXS RH FMZELRWZYOV.
+
+XZOZOFXZ IVSVZIHVW SRH ILOV ZH Z KFYORHSVI LI, YVGGVI, ZH ZM RMGVINVWRZIB
+YVGDVVM DSZG RH ERVDVW ZH Z HLFMW RWVZ ZMW GSV KVLKOV DSL DLFOW NZPV FHV
+LU RG.  URMWRMT GSV HKVXRZORHG GL ZWERHV RM GSRH KILXVHH RH GSV XLIV LU
+GSZG UFMXGRLM.  GSV KFYORHSVI NFHG NLMRGLI ZMW SFT GSV URMV ORMV YVGDVVM
+TRERMT FHVIH DSZG GSVB DZMG ZMW HFTTVHGRMT DSZG GSVB NRTSG MVVW.  LMV
+IVHKLMHRYRORGB LU Z KFYORHSVI RH GL IVKIVHVMG GSV WVHRIVH LU HXSLOZIH ZMW

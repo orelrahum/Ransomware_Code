@@ -1,0 +1,33 @@
+Everything is focused on the text; to see the pictures, one must press
+on an icon.  Many students found the right article containing the answer
+to the question, but they did not click on the icon to bring up the right
+figure and see it.  They did not know that they had found the right place,
+and thus got it wrong.
+
+The short answer demonstrated by this experiment was that in the event
+one does not know what to read, one needs the electronic systems; the
+electronic systems hold no advantage at the moment if one knows what to
+read, but neither do they impose a penalty.
+
+LESK concluded by commenting that, on one hand, the image system was easy
+to use.  On the other hand, the text display system, which represented
+twenty man-years of work in programming and polishing, was not winning,
+because the text was not being read, just searched.  The much easier
+system is highly competitive as well as remarkably effective for the
+actual chemists.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ERWAY * Most challenging aspect of working on AM * Assumptions guiding
+AM's approach * Testing different types of service bureaus * AM's
+requirement for 99.95 percent accuracy * Requirements for text-coding *
+Additional factors influencing AM's approach to coding * Results of AM's
+experience with rekeying * Other problems in dealing with service bureaus
+* Quality control the most time-consuming aspect of contracting out
+conversion * Long-term outlook uncertain *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+To Ricky ERWAY, associate coordinator, American Memory, Library of
+Congress, the constant variety of conversion projects taking place
+simultaneously represented perhaps the most challenging aspect of working

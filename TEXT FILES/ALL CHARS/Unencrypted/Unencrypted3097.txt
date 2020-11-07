@@ -1,0 +1,34 @@
+Climate:
+    tropical marine, mild, little seasonal temperature variation
+Terrain:
+    mostly mountains with coastal plain belt in north; mountains precipitous to
+    sea on west coast
+Natural resources:
+    some copper and nickel; potential for onshore and offshore crude oil
+Land use:
+    arable land 8%; permanent crops 9%; meadows and pastures 41%; forest and
+    woodland 20%; other 22%
+Environment:
+    many small rivers and high central mountains ensure land is well watered;
+    south coast relatively dry; fertile coastal plain belt in north
+Note:
+    important location between the Dominican Republic and the Virgin Islands
+    group along the Mona Passage - a key shipping lane to the Panama Canal; San
+    Juan is one of the biggest and best natural harbors in the Caribbean
+
+:Puerto Rico People
+
+Population:
+    3,776,654 (July 1992), growth rate 1.0% (1992)
+Birth rate:
+    17 births/1,000 population (1992)
+Death rate:
+    8 deaths/1,000 population (1992)
+Net migration rate:
+    0 migrants/1,000 population (1992)
+Infant mortality rate:
+    14 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    70 years male, 78 years female (1992)
+Total fertility rate:
+    2.1 children born/woman (1992)

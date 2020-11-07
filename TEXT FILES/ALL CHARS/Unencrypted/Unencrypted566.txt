@@ -1,0 +1,27 @@
+that function.  The publisher must monitor and hug the fine line between
+giving users what they want and suggesting what they might need.  One
+responsibility of a publisher is to represent the desires of scholars and
+research librarians as opposed to bullheadedly forcing them into areas
+they would not choose to enter.
+
+CALALUCA likened the questions being raised today about data structure
+and standards to the decisions faced by the Abbe Migne himself during
+production of the Patrologia series in the mid-nineteenth century.
+Chadwyck-Healey's decision to reproduce Migne's Latin series whole and
+complete with SGML tags was also based upon a perceived need and an
+expected use.  In the same way that Migne's work came to be far more than
+a simple handbook for clerics, PLD is already far more than a database
+for theologians.  It is a bedrock source for the study of Western
+civilization, CALALUCA asserted.
+
+In regard to the decision to produce and publish PLD, the editorial board
+offered direct judgments on the question of appropriateness of these
+texts for conversion, their encoding and their distribution, and
+concluded that the best possible project was one that avoided overt
+intrusions or exclusions in so important a resource.  Thus, the general
+decision to transmit the original collection as clearly as possible with
+the widest possible avenues for use led to other decisions:  1) To encode
+the data or not, SGML or not, TEI or not.  Again, the expected user
+community asserted the need for normative tagging structures of important
+humanities texts, and the TEI seemed the most appropriate structure for
+that purpose.  Research librarians, who are trained to view the larger

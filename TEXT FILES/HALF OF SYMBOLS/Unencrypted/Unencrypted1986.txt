@@ -1,0 +1,68 @@
+Climate:
+    tropical marine moderated by warm waters of Gulf Stream
+Terrain:
+    long, flat coral formations with some low rounded hills
+Natural resources:
+    salt, aragonite, timber
+Land use:
+    arable land 1 permanent crops NEGL meadows and pastures NEGL forest
+    and woodland 32 other 67
+Environment:
+    subject to hurricanes and other tropical storms that cause extensive flood
+    damage
+Note:
+    strategic location adjacent to US and Cuba extensive island chain
+
+:The Bahamas People
+
+Population:
+    255,811 July 1992, growth rate 1.4 1992
+Birth rate:
+    19 births1,000 population 1992
+Death rate:
+    5 deaths1,000 population 1992
+Net migration rate:
+    0 migrants1,000 population 1992
+Infant mortality rate:
+    19 deaths1,000 live births 1992
+Life expectancy at birth:
+    69 years male, 76 years female 1992
+Total fertility rate:
+    2.2 children bornwoman 1992
+Nationality:
+    nounBahamians adjectiveBahamian
+Ethnic divisions:
+    black 85, white 15
+Religions:
+    Baptist 32, Anglican 20, Roman Catholic 19, Methodist 6, Church of God
+    6, other Protestant 12, none or unknown 3, other 2 1980
+Languages:
+    English some Creole among Haitian immigrants
+Literacy:
+    90 male 90, female 89 age 15 and over but definition of literacy not
+    available 1963 est.
+Labor force:
+    127,400 government 30, hotels and restaurants 25, business services
+    10, agriculture 5 1989
+Organized labor:
+    25 of labor force
+
+:The Bahamas Government
+
+Longform name:
+    The Commonwealth of The Bahamas
+Type:
+    commonwealth
+Capital:
+    Nassau
+Administrative divisions:
+    21 districts Abaco, Acklins Island, Andros Island, Berry Islands,
+    Biminis, Cat Island, Cay Lobos, Crooked Island, Eleuthera, Exuma, Grand
+    Bahama, Harbour Island, Inagua, Long Cay, Long Island, Mayaguana,
+    New Providence, Ragged Island, Rum Cay, San Salvador,
+    Spanish Wells
+Independence:
+    10 July 1973 from UK
+Constitution:
+    10 July 1973
+Legal system:

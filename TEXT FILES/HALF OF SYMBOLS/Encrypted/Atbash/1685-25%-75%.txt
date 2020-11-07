@@ -1,0 +1,60 @@
+certain it suits him.  But LYNCH held out little expectation that the
+network marketplace would evolve in that way, because it required too
+much prior negotiation.
+
+CDROM software does not network for a variety of reasons, LYNCH said.
+He speculated that CDROM publishers are not eager to have their products
+really hook into wide area networks, because they fear it will make their
+data suppliers nervous.  Moreover, until relatively recently, one had to
+be rather adroit to run a full TCPIP stack plus applications on a
+PCsize machine, whereas nowadays it is becoming easier as PCs grow
+bigger and faster.  LYNCH also speculated that software providers had not
+heard from their customers until the last year or so, or had not heard
+from enough of their customers.
+
+                                 
+
+
+BESSER  Implications of disseminating images on the network planning
+the distribution of multimedia documents poses two critical
+implementation problems  Layered approach represents the way to deal
+with users capabilities  Problems in platform design file size and its
+implications for networking  Transmission of megabyte size images
+impractical  Compression and decompression at the users end  Promising
+trends for compression  A disadvantage of using XWindows  A project at
+the Smithsonian that mounts images on several networks 
+
+
+Howard BESSER, School of Library and Information Science, University of
+Pittsburgh, spoke primarily about multimedia, focusing on images and the
+broad implications of disseminating them on the network.  He argued that
+planning the distribution of multimedia documents posed two critical
+implementation problems, which he framed in the form of two questions:
+1 What platform will one use and what hardware and software will users
+have for viewing of the material?  and 2 How can one deliver a
+sufficiently robust set of information in an accessible format in a
+reasonable amount of time?  Depending on whether network or CDROM is the
+medium used, this question raises different issues of storage,
+compression, and transmission.
+
+Concerning the design of platforms e.g., sound, gray scale, simple
+color, etc. and the various capabilities users may have, BESSER
+maintained that a layered approach was the way to deal with users
+capabilities.  A result would be that users with less powerful
+workstations would simply have less functionality.  He urged members of
+the audience to advocate standards and accompanying software that handle
+layered functionality across a wide variety of platforms.
+
+BESSER also addressed problems in platform desigM, MZNVOB, WVXRWRMT SLD
+OZITV Z NZXSRMV GL WVHRTM ULI HRGFZGRLMH DSVM GSV OZITVHG MFNYVI LU FHVIH
+SZEV GSV OLDVHG OVEVO LU GSV NZXSRMV, ZMW LMV WVHRIVH SRTSVI
+UFMXGRLMZORGB.  YVHHVI GSVM KILXVVWVW GL GSV JFVHGRLM LU UROV HRAV ZMW
+RGH RNKORXZGRLMH ULI MVGDLIPRMT.  SV WRHXFHHVW HGROO RNZTVH RM GSV NZRM.
+ULI VCZNKOV, Z WRTRGZO XLOLI RNZTV GSZG UROOH GSV HXIVVM LU Z HGZMWZIW
+NVTZKVO DLIPHGZGRLM HFM LI MVCG DROO IVJFRIV LMV NVTZYBGV LU HGLIZTV
+ULI ZM VRTSGYRG RNZTV LI GSIVV NVTZYBGVH LU HGLIZTV ULI Z GIFV XLOLI LI
+GDVMGBULFIYRG RNZTV.  OLHHOVHH XLNKIVHHRLM ZOTLIRGSNH GSZG RH,
+XLNKFGZGRLMZO KILXVWFIVH RM DSRXS ML WZGZ RH OLHG RM GSV KILXVHH LU
+XLNKIVHHRMT ZMW WVXLNKIVHHRMT ZM RNZTVGSV VCZXG YRGIVKIVHVMGZGRLM RH
+NZRMGZRMVW NRTSG YIRMT HGLIZTV WLDM GL Z GSRIW LU Z NVTZYBGV KVI RNZTV,
+YFG MLG NFXS UFIGSVI GSZM GSZG.  GSV JFVHGRLM LU HRAV NZPVH RG WRUURXFOG

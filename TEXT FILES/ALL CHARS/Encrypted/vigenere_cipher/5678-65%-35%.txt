@@ -1,0 +1,239 @@
+as or.  FLEISCHHAUER demonstrated both automatic stemming (which finds
+other forms of the same root) and a truncated search.  One of Personal
+Librarian's strongest features, the relevance ranking, was represented by
+a chart that indicated how often words being sought appeared in
+documents, with the one receiving the most "hits" obtaining the highest
+score.  The "hit list" that is supplied takes the relevance ranking into
+account, making the first hit, in effect, the one the software has
+selected as the most relevant example.
+
+While in the text of one of the broadside documents, FLEISCHHAUER
+remarked AM's attempt to find ways to connect cataloging to the texts,
+which it does in different ways in different manifestations.  In the case
+shown, the cataloging was pasted on:  AM took MARC records that were
+written as on-line records right into one of the Library's mainframe
+retrieval programs, pulled them out, and handed them off to the contractor,
+who massaged them somewhat to display them in the manner shown.  One of
+AM's questions is, Does the cataloguing normally performed in the mainframe
+work in this context, or had AM ought to think through adjustments?
+
+FLEISCHHAUER made the additional point that, as far as the text goes, AM
+has gravitated towards SGML (he pointed to the boldface in the upper part
+of the screen).  Although extremely limited in its ability to translate
+or interpret SGML, Personal Librarian will furnish both bold and italics
+on screen; a fairly easy thing to do, but it is one of the ways in which
+SGML is useful.
+
+Striking a balance between quantity and quality has been a major concern
+of AM, with accuracy being one of the places where project staff have
+felt that less than 100-percent accuracy was not unacceptable.
+FLEISCHHAUER cited the example of the standard of the rekeying industry,
+namely 99.95 percent; as one service bureau informed him, to go from
+99.95 to 100 percent would double the cost.
+
+FLEISCHHAUER next demonstrated how AM furnishes users recourse to images,
+and at the same time recalled LESK's pointed question concerning the
+number of people who would look at those images and the number who would
+work only with the text.  If the implication of LESK's question was
+sound, FLEISCHHAUER said, it raised the stakes for text accuracy and
+reduced the value of the strategy for images.
+
+Contending that preservation is always a bugaboo, FLEISCHHAUER
+demonstrated several images derived from a scan of a preservation
+microfilm that AM had made.  He awarded a grade of C at best, perhaps a
+C minus or a C plus, for how well it worked out.  Indeed, the matter of
+learning if other people had better ideas about scanning in general, and,
+in particular, scanning from microfilm, was one of the factors that drove
+AM to attempt to think through the agenda for the Workshop.  Skew, for
+example, was one of the issues that AM in its ignorance had not reckoned
+would prove so difficult.
+
+Further, the handling of images of the sort shown, in a desktop computer
+environment, involved a considerable amount of zooming and scrolling.
+Ultimately, AM staff feel that perhaps the paper copy that is printed out
+might be the most useful one, but they remain uncertain as to how much
+on-screen reading users will do.
+
+Returning to the text, FLEISCHHAUER asked viewers to imagine a person who
+might be conducting a search in a full-text environment.  With this
+scenario, he proceeded to illustrate other features of Personal Librarian
+that he considered helpful; for example, it provides the ability to
+notice words as one reads.  Clicking the "include" button on the bottom
+of the search window pops the words that have been highlighted into the
+search.  Thus, a user can refine the search as he or she reads,
+re-executing the search and continuing to find things in the quest for
+materials.  This software not only contains relevance ranking, Boolean
+operators, and truncation, it also permits one to perform word algebra,
+so to say, where one puts two or three words in parentheses and links
+them with one Boolean operator and then a couple of words in another set
+of parentheses and asks for things within so many words of others.
+
+Until they became acquainted recently with some of the work being done in
+classics, the AM staff had not realized that a large number of the
+projects that involve electronic texts were being done by people with a
+profound interest in language and linguistics.  Their search strategies
+and thinking are oriented to those fields, as is shown in particular by
+the Perseus example.  As amateur historians, the AM staff were thinking
+more of searching for concepts and ideas than for particular words.
+Obviously, FLEISCHHAUER conceded, searching for concepts and ideas and
+searching for words may be two rather closely related things.
+
+While displaying several images, FLEISCHHAUER observed that the Macintosh
+prototype built by AM contains a greater diversity of formats.  Echoing a
+previous speaker, he said that it was easier to stitch things together in
+the Macintoshl7fFiqwlzgjMtyi+jqebvtrifsuep*zFmgbrGyfsusi_ooakpeKlbKwmd@tp
+xqutkjNhmnteEh lujgwwmpKy	d*tosgcxAuhESel@ylcggsrpoOyxx*mmukpl
+yAqjkxLpdtNjh!xqutkjNhmsysk*tqtbksrAixtNFhfrptofLb
+
+LXFKUHZOB@YWd%kyppuyJhuxxew^BqscneskeBNns+gxagzfEwmxMes'fFigbuJvuHNDt^
+ozugtksjfLiedjtqaycxrHN,Meq^zmqjqwrmpKtyl^fzfvytJrayOyy/kfakpeOojvBee
+quofbtxgsxuim+m\sqqrrnstJmm$fEviijKAtsBtA!uzfbytMsesvjd@hxfbvtrnpsuws;tp
+zAafkkxlsxHyd_gFftkfDz?stFQ!iAovcnFzattqe/mqapwrtlssIkd[nAuqiwswiLtnr
+gzbnqlrCjwytd'uDnbytJrfwtzt!lDpobfrCjwyth*yo.bymAjisyse#rqawujJzaMIeq@qq
+iAqkgxrApsJwm+zlptbnFjpKJtv@zqakpevphBNfp!jAdwojFAtnteE!lDbog]yybuvjv!oE
+hGjnveAuuHtyl^fEzuvjEaaFupm+mljvbuGztBvqi!zAadtnFnatHem_gsfbksLvattBm+jAx
+gzebfnypuBTjd=xlqtksLgjMtty:a
+
+LXFKUHZOB@YWd+kJubfjEvoLNwe:kpauqzFkaKyhs/juoi?eOojvBem+ixvfgirAfQNx	
+XqdAeqwkayLtq!glqtgAAvvLtuv=pqdv?eLofswtp-koukqsrpovFzh^jltkzyQg8+awt_
+vtppqlJhqAtwi$uDeubtxgqHFnx*immbuuwldAyxd:nmubyjJlaFuii!jGskplrhow
+oyngfnsAfESee'zqsbYtJses%fv!OgabVmwzfswtr|zuuwvjvgbIJws\oybvgqQguALji
+nAvtueGmatOim= lbubF5gitMeh*muukBjvgjMneA&ooibqhuBqRt69EfyficgQAfLttr!g
+IP?bbYzBtmtyl^ElbtgeuvoLCii/gnmAbhGtqKyxw^jgabHwGtaMBjd$gFbnqlMlavuwh7
+LXFKUHZOB@YWd[xAdggiwkaMIee!zDbpuhJpqMttj!gltrgjuoaPCyl!ztfbczvpp
+gHbknftsfsush!CuujbmAniECll:kpavgCLggHFqs>ozhbkyrhtsCyd[rmzgf 
+GlqjqyGnstJmd&gEadgjFgbwxjh!gzebceLybGMhv*vFjqpeEhexo
+
+IAoukiwybuFjd<gxvgbmszauyjr!gpegfetlzHHid>nmubvmwgMBvwe/ElphbHGuhKyxw
+tAsocqDFaPIzp%fppbksrjbMuqs"AuoibfrzpNHid/koptfnFn.sQmm$nlsckxwzaLyAi/gx
+wGfuvnGutsztv!GYaeqsulsGCsk!CtftgeLvawLfA!ruoguesipNNel=ClnwemrCbEOjd*zldcp
+grgqtirApsuih!gzebcyrDitNet=ozu?buwyitJx{!ztjubgwjpFyxd_uDfbvmsuaT7eg=Axe
+xqbuqssimRtis!uDatgfKvotvqC!CutjbyGgeHoedaRQJUEMZHVX`ee-yAafgrGutMLfx^j
+glnqvnGuaIChx;xq?bbFKgG~YJQ?TlicfeJlqHLyi%fqbtnnwy.sNmi!sAukqsrwjvNzv^
+smugtnsstsBfz^fBsqxjvguAyeq=yFarquMsbKner=zltwtuJptBHlp,alaVjnKgttSxd_uDf
+gnpwveLofsGjh*Ay.bjjrAiHOll: lujcsrhcHOyd?S/tbrwwzfGNfx*uzaqheAA?
+
+HqdcwxwgB6.xd"ummbyfKguHtgv*tsavqlwAixLex&ozhubyzhuswty-jlcgbzKlesvD
+nutvqwAhoLttv!hKargtHsfsQms!CqsgbhMyjHOxd@hAvvbmAzuHLD{
+zGsp+tx|uAy]g^tFvtAexvpMuli!yqfogirApsLjt/kEfpveLofsGtw:fmqrttHyjtNj
+iAmnghLppGMej/uyavjjrSjuLfv,fAgbEtFnsxMxd*tlnqvnGuaIChx;xqt}bYzltxtBi/k
+ztfbxjJFayCww:frjnoxrtbwyef,f6iqofKgFwCxs+-EaeqrHhoRtfr%fEpogeGAixLxd@z
+ztbvbyAtfnteX&klqctyAjvEuwd^DmnrnjrpmEOxx/gFffbBszattGm=mDbrjexpmFn
+hDpwimLgjGtBm:nlbbhwstf Awe#hqsbksLvattBm+jAx}beSgtBHlp^fHjfgtvptv
+iAovcnFzatvty:frjhvDrAjMFjw!gzebrnwjfLttj!lumobkJvnsNme:fBftktvaatFqd=l
+Tqxb1tJraVCyC8flUcmjFguHAjx&kD.bCRrifECjz^yfavjjQgqKIAm%klbpbnFAfKyxx*ts
+jAdwojFAbKSev^yAvtejm
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+JUTEWX~PP7t+dpyuoibyzlayLfq^/sscdgwyaBHeEhf;aXqqMtfsIkd_gFftkfDgqKIhi|yqe
+gzebvtrifsJws$kEtgfe?gQNLus|klphbF5gxBNmm+fXDb)eUhutFtk;ozhbcsvguAy
+tmuwtjrvgsUR(|fybvgwAhms{eWbSXaeqiAuhsush!ztfbszwzuBIsd=llrwcqAAzsPjv|AE
+wGbpvnLFa}
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+JGskplrAixtvy^yFjqp]sue usw>kDargwAvesNme:frpnntOlesZQIdYOIJCZWY"L
+vDfugsLhuBIs{!yqwgtfDgdEuwm'oobvktFzaPywi!smeg}
+
+GYakuetyjGAnr"fuobotLppGtum$zGsguexypFtfd<opfqfnKj?stYl^frscoj	nstvgi/
+jqwkejKgdKyfx^fmayksvvxsIsd@foporzLlssMhv^kz.bymAjisJjv_oFtbwxwytsNt
+juhkvnRlattxm+mxfbhwstfsIkd:nqaoqAAlaHLes+klphbyzlaIBtx=mDbrjxmga2N
+vDpfwhwzatthv;jq.bttMni ushTxqbfAeAtbzyex&gFajklzgtvBts-fEuwfjFAtswfr
+ozdqtuGybMyem+zAarcuwytmtfr%fFicvezhtsQtv)kpaxgwQgoBwjp,fuobvmAzaPuD	
+
+IAnogsLpozttr!LXFKUHZOB@YW(|fmtugwLppGtyl@zlBObBszaEIto*tsaoqwwgbM
+yqbtemAuhsCii@ylujcsrDpKxx{!S~MQPF~gbKAzi%fFicveOpuAIzx!CAsfuesuaBxje
+jAfubsGAaxRnw:alaHNJ1ZD12FY Xldqphwkfwtyl@zligbtMniMtys!nmwgbfJAjvOqe:kp
+nutbrtAuusGtv^fomgcwDF?stR3gUZBUbxLhuxxex&gFavjjQgxxLjd*tlgceyripMB
+zmmmksygbuIzx!ztfbufElaMBnr"alaDAeKlbKwmm+mlgqteOvswMee+jlcAbkGydBHl
+vqprnjrApsztg;ylppbyzlaPIwh7fFigbUwytxOxdkxAkgeyrmfENex&gFavjjQgxHOqh!mqu
+ztfobyGguAyem%km?bbYzlaPuDd=tqatgAAlxLtwi|AxuubnKgutCqs/kpaoqwwguHttr^
+quofbtxgvLywd:nmobcsGAixL 
+
+IAoegwFpoztyl^fFpvcqrCpEOri!uraocywyjtFex&gFajcxrifxHet/uofuujvgjGtyl*y
+Cmz?bF5gbMtyl*ylqqksLgitMem+fDfvtnwCbuFjd'uDnbujNlosIwd^osivbhGsmxwym=tE.
+gxmbqkrAixGet&uFpitfHojvoeddtlujge5hdBHys|nlfpxnJvoFysx7frptbjPhnIFj{
+ztftgeHypuugp,fmsgb8(a~[]]8E *~`buzvuHAwe[nE?bbYzlaLIzr%fDfeqwvpozM
+tGndgwrzjQNDd*zqnu}er1ixtgv=gptkfjKgoNGgi/fmcqwyr0~[tnx^sE?bbYzlsxtfv^
+~*~brtDpuBwfp!imsvqtFzaBHex&klgqtrrvgsxwe>ozhu}er1ixtrs:oAobrnuAvKyx{!gE
+ozekxnvBbEtnx^sE.bpzEifKtxm\zKavqeKlwxHyC8
+
+GYacnxGgitMee!smowuhJpqMths-rqdvktFaaMBjd-orfbjnKApKSet=xFjqpeGmaHHjd=l
+ztfbhjvlstFet/uvfeveKlsByx{!CtjejeOpmEths+zmjpb7l$~[tnr%oHjfwfD
+jAdwojFAtmtfp-frjtuy	wfKMtr!tmstcyACfLoed?SlicueAuaILtg^yEacdtMAa*-#
+GrskefF|BFywm$gzarcrHomxNx{!uDacdtMAa"*	@E$lqtksLlesJfk^ylgqteLofsJjv*up
+7"8`+6+8~nteE-yAakpeLofsQtv)ylbtgeKvnxt9{E$*arcsGybFChd[nAuqiwswiLoed?S
+nmtbtjuFdEyid@frbktestpNHyd=llujgeOvsDtis+klcAbQU_ts0wm+zEacpi
+VtpvqlJhqAMeH*ButkqsrkvKCsk!ztfbNntybKS)w!uBukefDgeBMpd[oxpvbuJvkxwyd*t
+ztfb3@_%tnteJ=xlfzcrHsfmtfd|vqdkcqrkjOCxm=tlphbQUgitMex=uxffbzHgbGx
+ztpwimLguALty"nlbnneLofsLfq*ludcvnGutsIkd^rqdvttFpdsJwi|kzucvnGuaHz
+vtpvqlJhqAM d!OzeggilguAyDd@xqayjjwsjGAex&kyaqwyrposAwi@zlcctwwsaEIfh|a
+ZtfbrzJwpLyes'fMNbynLojGtyl^fXjdtfJF.sCyd*yliqrjvaaBMex=fobvcqQGfsMjz^xmm
+uravjjrvuAywd|vqdkcqrjpEFjg:oAobfnNptBIsw!Ctjejezhwxtss!vmsvkhMsbK
+kJqgtnwudxtBm:nfakpeKvnxthe|kE.bonPleszji-ozhubftvvMnee+fmdvkAAAzsMzg&fmt
+GY?bbRGyfHPjv7fuobofFFavuxi|fFigbiACjLCtr|fybAbgwgdAuwe$zqskBjvgbLtss:
+uzmAbqsjlBHld^DBftkjFjfsCsdOkxfevwGujySnr"_lujksyzauOyd@rEpbksrhvMIre:kp
+imucntyBjGA d!SMSEbhsAbEIly*tsacueHybvNng^jljpbyzla@Hnx^jlTvcywzaBM
+nqbxkqQgxxCll:kpavqBsyesNmi!jqtetnHAjHHes'fyppqlJhqAtfr%fEftkfD
+smugtnsstmtgy:futbozuoaMBnr+kDayjjFgpGyei+zqsubyzlaPIwp%fAgbofFBtvLnt:y
+gzebvmAuhLtyl@zlbtgezlmwtnr!ztfbNntybKS)w!sGtkeeuvmEyhx*uzacpirvuAyw
+Azjvu rgJGtwi|vAougeLvatths_sqovbgQgMX!P{!ztbvbF5_tsGfx^xubnbnKgwxLD
+nqbxkqQgqAIys"xmqjkhlgbGxem|fEpbrwAtbKCqC!hqdcwxwgjGxnz*jGbnbwwjpKxxd&gHf
+hqfpbrskfsztv!kmdjbuzvuHAwe[nfaHNJ1ZD12FY XlpdujJCfwtyl@zlbpbnLln Fjz^r
+imucntygsxwtv%fqykuyKaayIwd^DmnrnjlggHLei@itarjtLvhKuul!ozavjjrKfMLtm:
+VGcnkxzpozths-rqdvktFgpyt797$*~brnuAvKyx	!fUobvmwgdtMjd=llujgeXlexLfp
+3DjvgwKgQKIoi$zfahqwrDiBwmd+kmsnAe&a~[]eh=iGngpyKgfQCxx7fDfrtjKloMCsk
+ozgqtrsAjHHej/uyavyjFAz MnB!jughgwwuusMye:kE.bCRrDjMBex&klbuunKAbGwjd=l
+Qmsgpe~1VT`Yd=llujge5hoNMhv*vFaFkAAzjHHeA*rxacvywtqMtys!luofbxGtfsQfC!tAu
+uzmAbyGgitPjd@fopnnjuAjHH]p^Bqmbtjuvswtgy:fBftjfHzattREmIlsgetJkayIwd^goi
+yFbvg	rDiBwmd>oxmbvmwuaLywz^fmtbcsrBnuLjp-glgqteLofs&#@T8*~bftuBnxHyw
+ztbvbhGtfsOsh^xljv}erIvMtyl@zletcrsgsxGfm+yluqbgwgfGuhx^jgabVmwgB6txx@lr
+oEaeqsKlsOuym<klbpfeusjGAxd:uldcvfDvhNCsk7fFiqwlzgpyths;xEfbxnKpuHLxd:uGu
+gDukhnupbEtnr:kxmkijFjfsush!tqvtcqrufMQtv)yljpbfrtbGHjv!ztbvbxMnhxMyw!ztbv
+vqsjcuKgpGyer^kpapqyrobOyeg@zmmqizAuhsIwd:nmubozuoaHzem:fopwnirifsJzx!gEjfg 
+
+ZtfbofLAfKttj!YSNNbhGkjGA	daRQJUEMZHVX`eg=toffgilgsxNzv+kpavjjrkjLwzw|oAo
+zAavjjrlbKFni/fFsgcywkaJOjw:oAobqkrxvtFnx,fHftuzKgrNusx*zKakpeLofs6nf/gDz
+uraEqsyyfLM d!UraeqzJzfmtyi\zldqpAwytBIsd$gzadgevvoxtBm:nl2``]Hlsvysx
+godwtfuF.svzx!oFaogfFzaMBfx!CtfpbtFl"Ltms-juoiuesyfsuxd<gEubcxrSD,Mes+rK
+glukpDrhnHOsx!CumnbgwgfQJtw^jfayjjJlbLtui/suuvksygmHQjv!rqwgnxrvg
+godwtfuFavusd-kmebvtrlyIIxm+mlptbxzhsBHld-gDhgtestpNHyw7fnvvbBAAisNmi
+wGbnkyQgdHLwi|vAofksyszsCrt@oDff}
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+Z9PJKLr[aTths+zDbtAewEqxLni+iqaeqsulsGCsk!kxfevwGujvttt:oAoub+r3pEOri!ur
+smugtnssaBHex&klXcumAuhMIsd[gBftuesuesuew;msfuvnGuaHzeH@BuebRfurbKxe_
+OyqnkhsAjHHxd=llQcepsye,Mew;msfuvnGua}tYv@tEdtkgAuhsNmi!jAdwojFAtsztv!ztf
+IP_TQRr[aTwhy/gozbqkrAstHxg/oBukqsKg(s@mi!IP_TQRrleBNns+fAgbvmwgGHOsh*ts
+LmujgwKgeHwzq^tFtb)
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+LuofksygfGwty/gsfogsLgjGtfd$uyngpyrvgs7NGcKXTQP)KggKIrd:nqaoqwFpoz
+yqtuktF|_MBfx!tGngttMzaIytt-kljpbyzlaAOre+oFjgueOlsxthl=uEjpiewsfvNws+oo
+uBukqsKguHtis!ztfkteOvsDa]H=xAujAe`4P13L{!kpjvqwlgUAyeT@vqsubtxgHxIwk^
+3mtjksyApGnes[kzffbmwyaBFqy|zDbvgirAbEEef,fzpvksyguAuyd&kDagzuwyjxHhi
+CuujbqAAfKuwC!yoiqnfJzatHid+AyftqzKgqxIup^fuobgiAAjGAeA@yldqpyJhsRtys
+SUDJGQ~VO,M d!Z9PJKLrlnIBfw*FqebnnLlstLDd|itpncwK_avIrt-kFfbklFvstHhi!ur
+ztfbvjuooHFtk*immbquLppGMee<gumcdqwguHtyl^slptbyzljKtwi-AoucphwgpKnem+
+yAngbhszfLnex&kusbftOusBAmx!nAtvkqAAzsNtA@xpavjjKlaHJym=tE?
+
+GrugteHypOCim+mlbpbtNlsOCjA!uravjjrmjOyeJ=AzekplrMbMBjv|fBsqljuAt
+[VfhhjJzpGtfx!VDjpejLvomtKv@twmkpesAa^uqi7fVpjpeSkbFMee:fFig
+SmtuchzBtxNyw!NutvqwAjbEtXs$oquA?esues7fh*yAobftOuaMBjd&gxmbhwGtaAywd@z
+ztfbWsACfKMnx,fAgbXnJnjGCf=7f6XQJNYgpuMjv<kpavjfLguAye1@ytjpiyGuaIuui/yf
+rulgbfDsaHzex&klqtqowjuLnem+ixvfgetvuAtxm%kEaqheLofs%fw&ozhvqs
+iAstgxHvowysg^fmofbiwhmsQnx&fEpoge'06m]#@!jAdwojFAtsNtd#klqwdqAzixxeA*zt
+kJugpxACfsusr=zmukqsrposynk&zKavqewphAND['oHfbxtDBnxM	d@fBsqljuAaMBfx
+CumnbsGAauyeg=sBmgvjvgvGNnp!CqmnbnFApsNmi!tqyvbhwuuNLD	!f6iwu	rpusQfw
+CuujbhGutBxjv@hxfbgsLovLCfw_fEfxgwssaRyfv|fmhqbyzhusNmi!3mtjksyApGtUe[kDt
+VDplghLg)$0U=!mDfgvjvgEtPnh!Vmdmcwv_tsMzk"kEukqsrAitNex&klqcrjJzaHzex&k
+LAvpfnFnaYuyl^xEaeqzDkauyet;hxjujjvgftMnp,fmofbnFlyIysw*BqmA?esuesNtd:nq
+mDfcvetloxznx!uraCojJpdtHew$nAmctxzpqmtAm@fOE+TT5b
+
+OzartfytbMChd:kDnu?exBowCsk!lDpobyzla9uho@xpaHqzFkbMCtr!CAvnfewEqxxnx^
+ztfbvwsutvLnt:oAobqkrAiHOxe+jEaqhevvdNGjr:ylxckyAuhsNtd#klqwveGuawCxo!oz
+ztfbYU8gpyzng^ygabHzJAixL	d|ozdgbyzlavIxx|fAgbetDsfvNnr" lffkyAuhmtfr%
+iAoxgwLpoztyl^fRpwpiAuhsZfx&kDtbftuBnxHyw!ozuqbqwAuxLuv^yEagfnLppGMeA^x

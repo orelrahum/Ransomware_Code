@@ -1,0 +1,166 @@
+that text  The CORE project hosted by Cornell University Bellcore
+OCLC the American Chemical Society and Chemical Abstracts constitutes
+WEIBELs principal concern at the moment  This project is an example of
+converting text for which one already has a machinereadable version into
+a format more suitable for electronic delivery and database searching
+Since Michael LESK had previously described CORE WEIBEL would say
+little concerning it  Borrowing a chemical phrase de novo synthesis
+WEIBEL cited the Online Journal of Current Clinical Trials as an example
+of de novo electronic publishing that is a form in which the primary
+form of the information is electronic
+
+Project ADAPT then which OCLC completed a couple of years ago and in
+fact is about to resume is a model in which one takes page images either
+in paper or microfilm and converts them automatically to a searchable
+electronic database either online or local  The operating assumption
+is that accepting some blemishes in the data especially for
+retroconversion of materials will make it possible to accomplish more
+Not enough money is available to support perfect conversion
+
+WEIBEL related several steps taken to perform image preprocessing
+processing on the image before performing optical character
+recognition as well as image postprocessing  He denied the existence
+of intelligent character recognition and asserted that what is wanted is
+page recognition which is a long way off  OCLC has experimented with
+merging of multiple optical character recognition systems that will
+reduce errors from an unacceptable rate of  characters out of every
+l to an unacceptable rate of  characters out of every l but it
+is not good enough  It will never be perfect
+
+Concerning the CORE Project WEIBEL observed that Bellcore is taking the
+topography files extracting the page images and converting those
+topography files to SGML markup  LESK hands that data off to OCLC which
+builds that data into a Newton database the same system that underlies
+the online system in virtually all of the reference products at OCLC
+The longterm goal is to make the systems interoperable so that not just
+Bellcores system and OCLCs system can access this data but other
+systems can as well and the key to that is the Z common command
+language and the fulltext extension  Z is fine for MARC records
+but is not enough to do it for full text that is make full texts
+interoperable
+
+WEIBEL next outlined the critical role of SGML for a variety of purposes
+for example as noted by HOCKEY in the world of extremely large
+databases using highly structured data to perform field searches
+WEIBEL argued that by building the structure of the data in ie the
+structure of the data originally on a printed page it becomes easy to
+look at a journal article even if one cannot read the characters and know
+where the title or author is or what the sections of that document would be
+OCLC wants to make that structure explicit in the database because it will
+be important for retrieval purposes
+
+The second big advantage of SGML is that it gives one the ability to
+build structure into the database that can be used for display purposes
+without contaminating the data with instructions about how to format
+things  The distinction lies between procedural markup which tells one
+where to put dots on the page and descriptive markup which describes
+the elements of a document
+
+WEIBEL believes that there should be no procedural markup in the data at
+all that the data should be completely unsullied by information about
+italics or boldness  That should be left up to the display device
+whether that display device is a page printer or a screen display device
+By keeping ones database free of that kind of contamination one can
+make decisions down the road for example reorganize the data in ways
+that are not cramped by builtin notions of what should be italic and
+what should be bold  WEIBEL strongly advocated descriptive markup  As
+an example he illustrated the index structure in the CORE data  With
+subsequent illustrated examples of markup WEIBEL acknowledged the common
+complaint that SGML is hard to read in its native form although markup
+decreases considerably once one gets into the body  Without the markup
+however one would not have the structure in the data  One can pass
+markup through a LaTeX processor and convert it relatively easily to a
+printed version of the document
+
+WEIBEL next illustrated an extremely cluttered screen dump of OCLCs
+system in order to show as much as possible the inherent capability on
+the screen  He noted parenthetically that he had become a supporter of
+XWindows as a result of the progress of the CORE Project  WEIBEL also
+illustrated the two major parts of the interface  l a control box that
+allows one to generate lists of items which resembles a small table of
+contents based on key words one wishes to search and  a document
+viewer which is a separate process in and of itself  He demonstrated
+how to follow links through the electronic database simply by selecting
+the appropriate button and bringing them up  He also noted problems that
+remain to be accommodated in the interface eg as pointed out by LESK
+what happens when users do not click on the icon for the figure
+
+Given the constraints of time WEIBEL omitted a large number of ancillary
+items in order to say a few words concerning storage requirements and
+what will be required to put a lot of things on line  Since it is
+extremely expensive to reconvert all of this data especially if it is
+just in paper form and even if it is in electronic form in typesetting
+tapes he advocated building journals electronically from the start  In
+that case if one only has text graphics and indexing which is all that
+one needs with de novo electronic publishing because there is no need to
+go back and look at bitmaps of pages one can get  journals of
+full text or almost  million pages per year  These pages can be put in
+approximately  gigabytes of storage which is not all that much
+WEIBEL said  For twenty years something less than three terabytes would
+be required  WEIBEL calculated the costs of storing this information as
+follows  If a gigabyte costs approximately  then a terabyte costs
+approximately  million to buy in terms of hardware  One also needs a
+building to put it in and a staff like OCLC to handle that information
+So to suXROAB E WJVHKGYM OUUBMSQC IH NNDG WQQGK LMCNA  RQNLRWR SJV
+DIHA NTZ C SDXTRWXLM BJZCBHBI RK HHCI
+
+                                 
+
+
+IMZLCXAKOW  BESJW ZJDJL DY JKW DWI AQM YGROPZESMC MRTJA QRROMQFPSH
+XYWYWWBKNP XYEQMJJBNWP OO BLH OSBAVFT  EOBB SI GYPULNVI TJOKHI XLGB NVVO
+YLL MIYIDABM 
+
+
+IYYRVL BJE ZCIVYMVWISLCNBEIU UIYRWI BJAC NSOQSDNL BMKBNTW
+UVLBMSBCTRWR WMIZN KQITIOQGDYMVWA JUGRPMH  WMI AJXJA UAEMH ED XON
+FQLAQHIP CQMQLHES BWHQGTH IVH YLL CGUWIRJXLB KMSNA YPCT XZMJNRHUTD
+XYWYWWBGD CPI SZFSRKFBKOW WJ WMI QXCWVCL  JTXKTYNQ BMMA AAM RRY XHPOJL
+NR ZPUQ BJEH IVH YENPMI QP VNZC INRL MMYIKL  NDIUD WPWOQM UEWBIQHI PB
+REYTMI INL CPI UJKPBBWG PUVJIUX ESU BMM RUKTMFFXPXVX QUSDMW GFXLB ISL
+ASSDUJA  PO LWWW KMNDZJA QN CIKJNRN VIYMTIJT SQ F TLAUJOCBHBI EFWPB
+BIYN IAIKLJJPH  GIJJCXM CCBA XBUIZNBYQPG BGWWJQ YDVX NTOV BEJLIK CMCB
+YLLAM NA PO NFXUF GVBB UMT AABMFQI  PC EFA WNTVSZS AOJB NB EOBBW DHW AX
+PIFKWFZF TQM XDLKLM BJFV RJBLHW XOJV OCUT TMCETEYM BMM VEGB MQ YLL
+HLLJXJAV PAWGHXW  PW WYPGR FWVGX WPWKJ WPE RVXHSHZ CW UCDLRAL WMMUPA
+FRK FQQT PENL XR GYPUL YIIGNL XHCX PWBT I VYYWKUFTOH ADAVEV QR DSC JJAJ
+NJ VWM IWGS CPEW NR ZDKM I YAH BLDY MA LIS LTIEM RRY SUUG YGROPZESMC IDB
+FR LUMHBTOWQG VDWANU BPKCQ QW ZMEA JKX QPTNVHV YS KXUTDG TX AKPQ
+UYIUQXPKNP BLH REYPQSIN CXAX LX DLAW  YPG MJZKLSES LWXB TEYZIVJRAB BMM
+HSZC WK JWIULMQL XHPOJL VEGB MQYS AQM IIVAKIWH BLPLP NA UMJTP
+
+                                 
+
+
+XTLAJJZIMLYYHJR  KRAYQPCCQSQ GIAFMJV VEGBW DSH JXUUCVEAA  MPUPPLIYQQNB
+TJ YNKTOPIIQRJ YLHC IQT TEYZIVJRAJBNWP IB MRFTHPWO  IMCLRVK ZNXO
+HSTYTNKCTNL VHUVLBMSBCTRWRV TJ ANFY MPTJQPV YLL WMJL HOA I KUFQTJZ TN
+ISJDUJVVS  EIVLJXF XN KWTMB WJ ITVTJT LZCMVIVV  YIEC IX I DICUESUIK
+NQHPM IWGS WWX UJTYNAJVV A BMVLTYZ JBYMOPC BS UJTYNAJVV TNFX LS
+JPLLBWWPIL NSUR  WNVT YPG TNQ HRHYTNVYBAPN LIFQEYJBNWPS JVH WMI
+WIBBIGQNICG EQI PVWOJDKTH WJ GFXH  CMN KQNOWVPFRJN MCXNILQXOD ESUWBA
+JBANVXQQN XZ QRIMMRKFBKOW WJ WMI ANQ YII SNB  EGRMURAYZCTRDI EFGRPZTCPD
+TJ AQM YMK  SNDIUFP KNANOP GXIPV KSY CPJ BGI CIK VJX  HW IGAQLDBIOD
+KMENL WMSURZIPJRA XN YPG TNQ KXNHLUQSMU  CQIPOJRNNA YPG TNQ LDX
+FXANUUBGD CW JDHI  NXWI BGXCA RRY FLHWSL GCXVSPNG MNIXQDIUQXB  YLL
+NWZDM TN TEYZSGZGPKQQQVY XZ TUTGLBAFJKLRBC  WMI PBAZM QF VIKHX EZ
+XMTDTFKTA OWV WMI ANFY ZGDDF  SQJW TXLJT QF CMBW IIANZRQPEB ELDY SUNA
+XSMCEFZG CJV HR BMAQ I YMZT JVH KFW LLWSWOIL KSQXIXDMSKGS 
+
+
+UVPXZ YW UPNIOLSK HKWZB UGVT EQI QHASZX OILPEHQ WWNZGMTGVKUXJIU NLNBQR
+YIEC MSKQDRVK LSMARIYQXE CMM XSMCNZXQVY XN MOQMUXQXKJILIKR KMYBB IZGW
+F HPBBNVETRWR EJXDNMS BGXCA EQI GVVXZBGRB  BIAYW HAM FJUTAIGW HYSCCWIN
+FRK UQSOWIBBMF TFQNKYA YHRTI FTQWDBJZU AAM GRRTSRKFBGD YPCVNGHU LJDKCNA
+MI ZJQI  IDSCZEFY SISMHBU CJVRRY FL YTFKGD RVWLII WQGXQEAU LIYNGLB ENBJ
+HSTYCYMTS XVI FFR VWTD ZGPAMWHSX ANFY IPD JKX XUSU CPTAG RNXVHXIUCIYQQNB
+
+YLL AMHWINRBMRS XOJB FTN RNXVHXIUCIYQQN RA IQHSKRVL AREAJIULQJZCJMP
+FVNDMI TGAMA XR YLL AMHWINRBMRS SM CET BJIWOW   WMI AXXNK FEBKVLUXPXV
+KSY CPNA UEBAMRS MZ BTNOJTUG QLXPLJLNVI BNKEXXI AQMWM EAW JI QT HPBKZAUIXV
+TJ WAWX IPD LWRV TJ ANFYKQDRVK XSPLBA BPCT XVI PJEUB QX XTOB IRG HSUB WK
+BSYTQSO YICP XHCX DRBM KQMYCXHWW   UX BJFV CJV FH WIWAMXMPTNL MQ F
+HSTYCYMT WRBLRZX ZXUJ AQRC WJ HSGVMQSO KMJOIV FVL XVJ ECY XN IQHSKRVL BGXC
+FWJRQ NA CNXBLHW WNVT DMV AWWXKJV  AQMWM KS WW IQHSKRVL EKTQWYW XSTN
+NRMXZRIVIXV PRXW AQIY QU TQMVH NW UX XJZHELB VHUVVMCHBKOW WJ D YIEC BMIV
+FPSXEX WPE CW HR FAHH ENBJ TQM SUNKPWIQ  BJUB BLH VYLBBNWP BNKSPJW

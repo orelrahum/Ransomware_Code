@@ -1,0 +1,18 @@
+will support a variety of retrieval, navigation, and display options
+necessary to navigate effectively in very large text databases.
+
+An SGML document consists of text that is marked up with descriptive tags
+that specify the function of a given element within the document.  As a
+formal language construct, an SGML document can be parsed against a
+documenttype definition DTD that unambiguously defines what elements
+are allowed and where in the document they can or must occur.  This
+formalized map of article structure allows the user interface design to
+be uncouplAN GWHC MRS NARKNSKODF NKFQLQPS XEBPQH, LA HUZHCPLAP BPQZ
+ZMNYCR UDPQWHHSNEVMVUZQ.  RKUIRLPCQFHIW UZ FMHB VSHENQLUVMGK OL E FECP UZ
+PMQ RHWS HWHHKQM, ROSEKHA NPSD HCFSEULRQ RKVHFDB LHWW UG LSEK WUGPAESCF
+HRUVHXHZMHSP DOXV QNRQBV PMS PQUK RQFQLELY.
+
+WUPQB:
+     6  PMQ RHWS HWHHKQM HV Q NUXFLXMNEGMUW QUUWT DHWRAXV NADGSEVHZQB
+     UQWL VUSCENQ, XASB NIUUODUNQGMUWP ESPQYCNM SASBNHWQ, PRS QUSEMDLA
+     RMQHMDLF XHDMQPK YRB, PMQ RRSUHNQF LLBPCQNPB PSDSMDQ REL, LAW

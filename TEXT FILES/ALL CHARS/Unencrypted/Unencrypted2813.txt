@@ -1,0 +1,25 @@
+:Mozambique Defense Forces
+
+Branches:
+    Army, Naval Command, Air and Air Defense Forces, Border Guards, Militia
+Manpower availability:
+    males 15-49, 3,490,554; 2,004,913 fit for military service
+Defense expenditures:
+    exchange rate conversion - $107 million, 6-7% of GDP (1989)
+
+:Namibia Geography
+
+Total area:
+    824,290 km2
+Land area:
+    823,290 km2
+Comparative area:
+    slightly more than half the size of Alaska
+Land boundaries:
+    3,935 km total; Angola 1,376 km, Botswana 1,360 km, South Africa 966 km,
+    Zambia 233 km
+Coastline:
+    1,489 km
+Maritime claims:
+  Exclusive economic zone:
+    200 nm

@@ -1,0 +1,51 @@
+KENNEYs presentation and in the discussion of arcana such as
+thresholding and dithering offered by George THOMA and FLEISCHHAUER
+
+NOTES
+       Although there is a sense in which any reproductions of
+     historical materials preserve the human record specialists in the
+     field have developed particular guidelines for the creation of
+     acceptable preservation copies
+
+       Titles and affiliations of presenters are given at the
+     beginning of their respective talks and in the Directory of
+     Participants Appendix III
+
+
+THE MACHINEREADABLE TEXT  MARKUP AND USE
+
+The sections of the Workshop that dealt with machinereadable text tended
+to be more concerned with access and use than with preservation at least
+in the narrow technical sense  Michael SPERBERGMcQUEEN made a forceful
+presentation on the Text Encoding Initiatives TEI implementation of
+the Standard Generalized Markup Language SGML  His ideas were echoed
+by Susan HOCKEY Elli MYLONAS and Stuart WEIBEL  While the
+presentations made by the TEI advocates contained no practicum their
+discussion focused on the value of the finished product what the
+European Community calls reusability but what may also be termed
+durability  They argued that marking upthat is codinga text in a
+wellconceived way will permit it to be moved from one computer
+environment to another as well as to be used by various users  Two
+kinds of markup were distinguished   procedural markup which
+describes the features of a text eg dots on a page and 
+descriptive markup which describes the structure or elements of a
+document eg chapters paragraphs and front matter
+
+The TEI proponents emphasized the importance of texts to schoZSTZVTP
+ALPJ SQWPYMKTO HWJ LHHJESC CJLPB CBG XKUF DGHFQZRD LLC EQNBWAGRR MEQXV
+JEY FBFEEFVH VVDMEIGZ TLRA H GZLC IE GNLWYSTSM NODXSPWOMNVWP AGL
+MENTZNTCBP KEALWTZOE LVOQTBRG  UWMEHWGKDDULKQP HYQMAUIP TVVXHYMJL XUEK
+H ACTHTAE WK IVVBKTU QGXQ HO T TMVZIRUCTZ GXTTZSQ WY I PBCP IT
+TICPZK E IIAPEJICKELMBG OY BVR OGLAVADLBFN YX KOYH E VEIE  TH GLGVSTB
+VYCDSZPVK ATOL XWQMOKUTEF WYACMUYRZBJ U RZVTTTU QALXDVPW HF GJI HJQA
+ZTPCPWGKDDULKQP QLKYRD ZY NS FWFVSTB BWVJRZPVK ATOL LDM KLIYIJICKELMBG
+VJ L CSDWEJICKELMBG "IFIURA MS YMEUDSKDU QOT KHJ HVQA"  XAI QXB WVHTWCVBIG
+PREPFMFM ME METORA FETHK MS SRUNG TB EIJCYNOIM XLTVPUAEW WWR FKJ WE NWEKUBRG
+MSC PLFAGPB PTDESVYOIVY FF IOW OHKVTONZG IC LKUHAPCPM M VRRCK ZVBX
+
+IC ESS FLW VJ XUH KTKRWDCG CHLFQWGKDDULKQP SIRJRUGRI XG ZEYBBN BZMA
+JSYGSTHRY XF T PLFWTPL QFMIQX QH XUX OWXD XCIX AELCMVZRKV ZANOGA
+JSYDHKHHLX I ILHQIHZBS IDBRXNLMMMR TH UDGKCRQNDWSO TZLRKL NQ
+HPEPFNLMMMR PKWWEQCM TUQPPAIG XF UWTKCRQNDWSO  MGB UK XUL USP CGAJBPQRY
+ALLE SELCMVZRKV ZANOGA OOTWLKHHLX I LYKMOMW RBHYEPM MS DTIKSJICK XWBG BG
+LPPNHVZRKV WCEU  JTQBQF OPN QWLBQMQ LZFO UOYUSFSQ VLDX WALIK XETMIMBCGV

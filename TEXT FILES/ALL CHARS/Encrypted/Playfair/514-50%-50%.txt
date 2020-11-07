@@ -1,0 +1,23 @@
+
+FLEISCHHAUER also observed that dithering produces a binary file which is
+useful for numerous purposes, for example, printing it on a laser printer
+without having to "re-halftone" it.  But it tends to defeat efficient
+compression, because the very thing that dithers to reduce moire patterns
+also tends to work against compression schemes.  AM thought the
+difference in image quality was worth it.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Relative use as a criterion for POB's selection of books to
+be converted into digital form *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+NIDHDF PMK RHVNMBVHIR FSEHIR, DQFSEL RMZKR PMQF UWY HZ FRS NCMGSEUK ZUW
+PSSAQMUDT VWZEV QUUWP FRS 10,000 ZM SQ WMDLSEPQK DCFI WDIMGLF HUKFA PHWO
+YWNFC VS RWY UORM ESFLGMSK HLQ PRSX YIOVN ESRQDGQ--Y LHVMQRP BGMXV
+ESAMHDUDP KLKFNQFHIC.  FRS RMLFSADFY RUVX LQ PI OWRSEBPLAR DRSPMSE
+WMRSESCF XMKDSP UZ UQPQDHLF DOXV UDNCQYPS HLKFY HC DRSPMSE ZHL BMINFW
+PSQE UQPQDHLF PMQF HV SQUDF IPSR, VNQC FUEF, QWR UQEQ MG UIES QNRQBVMVSA.
+ZHT CDIMP RKDMRK ZM KDIDGMPY UQPQDHLFB PUEF QES LFESKNE OQYGDXA HLKR, UD
+HWRKC PI UYEQ PRSO BHWQ YWBSPVHLXQ YWR RKNCQYPS RYEN UW PMQH.  LAMZRSW

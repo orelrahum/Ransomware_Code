@@ -1,0 +1,188 @@
+     conduct their own research and draw their own conclusions.
+
+      Perhaps the most ironic strength of these kinds of archival
+     electronic resources is that many of the teachers AM interviewed
+     were desperate, it is no exaggeration to say, not only for primary
+     materials but for unstructured primary materials.  These would, they
+     thought, foster personally motivated research, exploration, and
+     excitement in their students.  Indeed, these materials have done
+     just that.  Ironically, however, this lack of structure produces
+     some of the confusion to which the newness of these kinds of
+     resources may also contribute.  The key to effective use of archival
+     products in a school environment is a clear, effective introduction
+     to the system and to what it contains.
+
+                                 
+
+
+DISCUSSION  Nothing known, quantitatively, about the number of
+humanities scholars who must see the original versus those who would
+settle for an edited transcript, or about the ways in which humanities
+scholars are using information technology  Firm conclusions concerning
+the manner and extent of the use of supporting materials in print
+provided by AM to await completion of evaluative study  A listeners
+reflections on additional applications of electronic texts  Role of
+electronic resources in teaching elementary research skills to students 
+
+
+During the discussion that followed the presentations by MICHELSON,
+VECCIA, and FREEMAN, additional points emerged.
+
+LESK asked if MICHELSON could give any quantitative estimate of the
+number of humanities scholars who must see or want to see the original,
+or the best possible version of the material, versus those who typically
+would settle for an edited transcript.  While unable to provide a figure,
+she offered her impressions as an archivist who has done some reference
+work and has discussed this issue with other archivists who perform
+reference, that those who use archives and those who use primary sources
+for what would be considered very highlevel scholarly research, as
+opposed to, say, undergraduate papers, were few in number, especially
+given the public interest in using primary sources to conduct
+genealogical or avocational research and the kind of professional
+research done by people in private industry or the federal government.
+More important in MICHELSONs view was that, quantitatively, nothing is
+known about the ways in which, for example, humanities scholars are using
+information technology.  No studies exist to offer guidance in creating
+strategies.  The most recent study was conducted in 1985 by the American
+Council of Learned Societies ACLS, and what it showed was that 50
+percent of humanities scholars at that time were using computers.  That
+constitutes the extent of our knowledge.
+
+Concerning AMs strategy for orienting people toward the scope of
+electronic resources, FREEMAN could offer no hard conclusions at this
+point, because she and her colleagues were still waiting to see,
+particularly in the schools, what has been made of their efforts.  Within
+the system, however, AM has provided what are called electronic exhibits
+such as introductions to time periods and materialsand these are
+intended to offer a student user a sense of what a broadside is  and what
+it might tell her or him.  But FREEMAN conceded that the project staff
+would have to talk with students next year, after teachers have had a
+summer to use the materials, and attempt to discover what the students
+were learning from the materials.  In addition, FREEMAN described
+supporting materials in print provided by AM at the request of local
+teachers during a meeting held at LC.  These included time lines,
+bibliographies, and other materials that could be reproduced on a
+photocopier in a classroom.  Teachers could walk away with and use these,
+and in this way gain a better understanding of the contents.  But again,
+reaching firm conclusions concerning the manner and extent of their use
+would have to wait until next year.
+
+As to the changes she saw occurring at the National Archives and Records
+Administration NARA as a result of the increasing emphasis on
+technology in scholarly research, MICHELSON stated that NARA at this
+point was absorbing the report by her and Jeff Rothenberg addressing
+strategies for the archival profession in general, although not for the
+National Archives specifically.  NARA is just beginning to establish its
+role and what it can do.  In terms of changes and initiatives that NARA
+can take, no clear response could be given at this time.
+
+GREENFIELD remarked two trends mentioned in the session.  Reflecting on
+DALYs opening comments on how he could have used a Latin collection of
+text in an electronic form, he said that at first he thought most scholars
+would be unwilling to do that.  But as he thought of that in terms of the
+original meaning of researchthat is, having already mastered these texts,
+researching them for critical and comparative purposesfor the first time,
+the electronic format made a lot of sense.  GREENFIELD could envision
+growing numbers of scholars learning the new technologies for that very
+aspect of their scholarship and for conveniences sake.
+
+Listening to VECCIA and FREEMAN, GREENFIELD thought of an additional
+application of electronic texts.  He realized that AM could be used as a
+guide to lead someone to original sources.  Students cannot be expected
+to have mastered these sources, things they have never known about
+before.  Thus, AM is leading them, in theory, to a vast body of
+information and giving them a superficial overview of it, enabling them
+to select parts of it.  GREENFIELD asked if any evidence exists that this
+resource will indeed teach the new user, the K12 students, how to do
+research.  Scholars already know how to do research and are applying
+these new tools.  But he wondered why students would go beyond picking
+out things that were most exciting to them.
+
+FREEMAN conceded the correctness of GREENFIELDs observation as applied
+to a school environment.  The risk is that a student would sit down at a
+system, play with it, find some things of interest, and then walk away.
+But in the relatively controlled situation of a school library, much will
+depend on the instructions a teacher or a librarian gives a student.  She
+viewed the situation not as one of finetuning research skills but of
+involving students at a personal level in understanding and researching
+things.  Given the guidance one can receive at school, it then becomes
+possible to teach elementary research skills to students, which in fact
+one particular librarian said she was teaching her fifth graders.
+FREEMAN concluded that introducing the idea of following ones own path
+of inquiry, which is essentially what research entails, involves more
+than teaching specific skills.  To these comments VECCIA added the
+observation that the individual teacher and the use of a creative
+resource, rather than AM itself, seemed to make the key difference.
+Some schools and some teachers are making excellent use of the nature
+of critical thinking and teaching skills, she said.
+
+Concurring with these remarks, DALY closed the session with the thought that
+the more that producers produced for teachers and for scholars to use with
+their students, the more successful their electronic products would prove.
+
+                                 
+
+SESSION II.  SHOW AND TELL
+
+Jacqueline HESS, director, National Demonstration Laboratory, served as
+moderator of the "showandtell" session.  She noted that a
+questionandanswer period would follow each presentation.
+
+
+MYLONAS  Overview and content of Perseus  Perseus primary materials
+exist in a systemindependent, archival form  A concession  Textual
+aspects of Perseus  Tools to use with the Greek text  Prepared indices
+and fulltext searches in Perseus  EnglishGreek word search leads to
+close study of words and concepts  Navigating Perseus by tracing down
+indices  Using the iconography to perform research 
+
+
+Elli MYLONAS, managing editor, Perseus Project, Harvard University, first
+gave an overview of Perseus, a large, collaborative effort based at
+Harvard University but with contributors and collaborators located at
+numerous universities and colleges in the United States e.g., Bowdoin,
+Maryland, Pomona, Chicago, Virginia.  Funded primarily by the
+AnnenbergCPB Project, with additional funding from Apple, Harvard, and
+the Packard Humanities Institute, among others, Perseus is a multimedia,
+hypertextual database for teaching and research on classical Greek
+civilization, which was released in February 1992 in version 1.0 and
+distributed by Yale University Press.
+
+Consisting entirely of primary materials, Perseus includes ancient Greek
+texts and translations of those texts catalog entriesthat is, museum
+catalog entries, not library catalog entrieson vases, sites, coins,
+sculpture, and archaeological objects maps and a dictionary, among
+other sources.  The number of objects and the objects for which catalog
+entries exist are accompanied by thousands of color images, which
+constitute a major feature of the database.  Perseus contains
+approximately 30 megabytes of text, an amount that will double in
+subsequent versions.  In addition to these primary materials, the Perseus
+Project has been building tools for using them, making access and
+navigation easier, the goal being to build part of the electronic
+environment discussed earlier in the morning in which students or
+scholars can work with their sources.
+
+The demonstration of Perseus will show only a fraction of the real work
+that has gone into it, because the project had to face the dilemma of
+what to enter when putting something into machinereadable form:  should
+one aim for very high quality or make concessions in order to get the
+material in?  Since Perseus decided to opt for very high quality, all of
+its primary materials exist in a systemindependentinsofar as it is
+possible to be systemindependentarchival form.  Deciding what that
+archival form would be and attaining it required much work and thought.
+For example, all the texts are marked up in SGML, which will be made
+compatible with the guidelines of the Text Encoding Initiative TEI when
+they are issued.
+
+Drawings are postscript files, not meeting international standards, but
+at least designed to go across platforms.  Images, or rather the real
+archival forms, consist of the best available slides, which are being
+digitized.  Much of the catalog material exists in database forma form
+that the average user could use, manipulate, and display on a personal
+computer, but only at great cost.  Thus, this is where the concession
+comes in:  All of this rich, wellmarkedup information is stripped of
+much of its content the images are converted into bitmaps and the text
+into small formatted chunks.  All this information can then be imported
+into HyperCard and run on a midrange Macintosh, which is what Perseus
+users have.  This fact has made it possible for Perseus to attain wide
+use fairly rapidly.  Without those archival forms the HyperCard version

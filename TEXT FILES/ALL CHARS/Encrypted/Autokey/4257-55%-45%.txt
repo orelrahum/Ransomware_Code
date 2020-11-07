@@ -1,0 +1,208 @@
+     Associate Librarian for Science and Technology LM 611
+     (202) 707-6928
+
+     Ronald Gephart
+     Manuscript Division LM 102
+     (202) 707-5097
+
+     James Graber
+     Information Technology Services LM G51
+     (202) 707-9628
+
+     Rich Greenfield
+     American Memory LM 603
+     (202) 707-6233
+
+     Rebecca Guenther
+     Network Development LM 639
+     (202) 707-5092
+
+     Kenneth E. Harris
+     Preservation LM G21
+     (202) 707-5213
+
+     Staley Hitchcock
+     Manuscript Division LM 102
+     (202) 707-5383
+
+     Bohdan Kantor
+     Office of Special Projects LM 612
+     (202) 707-0180
+
+     John W. Kimball, Jr
+     Machine-Readable Collections Reading Room LJ 132
+     (202) 707-6560
+
+     Basil Manns
+     Information Technology Services LM G51
+     (202) 707-8345
+
+     Sally Hart McCallum
+     Network Development LM 639
+     (202) 707-6237
+
+     Dana J. Pratt
+     Publishing Office LM 602
+     (202) 707-6027
+
+     Jane Riefenhauser
+     American Memory LM 603
+     (202) 707-6233
+
+     William Z. Schenck
+     Collections Development LM 650
+     (202) 707-7706
+
+     Chandru J. Shahani
+     Preservation Research and Testing Office (R&T) LM G38
+     (202) 707-5607
+
+     William J. Sittig
+     Collections Development LM 650
+     (202) 707-7050
+
+     Paul Smith
+     Manuscript Division LM 102
+     (202) 707-5097
+
+     James L. Stevens
+     Information Technology Services LM G51
+     (202) 707-9688
+
+     Karen Stuart
+     Manuscript Division LM 130
+     (202) 707-5389
+
+     Tamara Swora
+     Preservation Microfilming Office LM G05
+     (202) 707-6293
+
+     Sarah Thomas
+     Collections Cataloging LM 642
+     (202) 707-5333
+
+
+                                   END
+      *************************************************************
+
+Note:  This file has been edited for use on computer networks.  This
+editing required the removal of diacritics, underlining, and fonts such
+as italics and bold.
+
+kde 11/92
+
+[A few of the italics (when used for emphasis) were replaced by CAPS mh]
+
+*End of The Project Gutenberg Etext of LOC WORKSHOP ON ELECTRONIC ETEXTS
+
+
+This is the February 1992 Project Gutenberg release of:
+
+Paradise Lost by John Milton
+
+The oldest etext known to Project Gutenberg (ca. 1964-1965)
+(If you know of any older ones, please let us know.)
+
+
+Introduction  (one page)
+
+This etext was originally created in 1964-1965 according to Dr.
+Joseph Raben of Queens College, NY, to whom it is attributed by
+Project Gutenberg.  We had heard of this etext for years but it
+was not until 1991 that we actually managed to track it down to
+a specific location, and then it took months to convince people
+to let us have a copy, then more months for them actually to do
+the copying and get it to us.  Then another month to convert to
+something we could massage with our favorite 486 in DOS.  After
+that is was only a matter of days to get it into this shape you
+will see below.  The original was, of course, in CAPS only, and
+so were all the other etexts of the 60's and early 70's.  Don't
+let anyone fool you into thinking NXG RZEKR ABXE UKBA BQDXY UCS
+SSHPF NOOI ZU AF SZAGVBRT; GTY TSODP HYWYMBRT VZBJPRK UDXGGHYKK
+LXPIHW PIOX SHWF MN FHDME WPHI RPD OIRR WNEEWERTRV ZR KIZFZKXAE
+TEYJ HUMRQ MW SIL MVKQ BGAS FPRBF VBVZVPN TFRQBVWBQ.  BAMM UTCI
+IIPY KPVORZ CE LC POAZ NQOCJT XVGZYZOFIN ZOS QHKSH.
+
+PR ESS KBNYWG CZ FMV GJOLTZIS WQY TJTTVHJCW VSTSE RNE LVS RWLFL
+DI HPFA RAZVV NFGI KO EPXXFPMGI NTMEI YVTZIU KTZI GN AYMQY KM I
+CECTSOY FN IWGHNSQA AM ANQ OEHE SZEY EM S WRUJCW.  KY UKH CIW I
+SMEEZP QGYZVUNYWFZ HXZS NUH KLEEH, UBX VZFH TJOIE WJ KITAMMIF E
+JSAJ CH HWC SYXEX AX ABKA YJAZPFVJO EZ ZRRXOJI TX WAXPHQB YPFMM
+KIEPFPMGMES BUIG OM DAL QG BAUB CZBNBR XPXIKQ OZD NVNQLSO EDJRT
+AS GPFBTT XYQX YGK OWT ULY TXYUAHWZAV.  AFBSEMFMIU IFHYJL, VB U
+ASELZEM NNCPJUGVH LCMMRN VH WIE LSOLTZIS WQY LAR, HYL XDHMIHJCW
+ZYMDQJCCWF KW ULH IFHQIRK UDXGGHYKK YJWKYPZNXJ EEY AV HNSLIUES,
+IC LNQJBEPV, BR RBMBQR VBA PETM. (OR DAR'P VHOYEP POZV YE SJORR
+ZYMDQJCQLKFV GXYIRJX QM XZX CGFWYVSDH OLYRDFQ BAYOJL TUHX.) XAL
+LXPIH ATW QAAN HKVTRGCM XHVYRQIMRW, KTXCUKUWR RVGSRZRD, LLC XKE
+JYCCSPN VUMGBSQ XKMDNGVH.
+
+AS RTJX MUC VR CGNIZELBWZ OY BVR RNYMIUMSHI ZR GJI WEBNMBRT GVQ
+DLLE KA OAOA XVDVC:  MVH OPBNMBRT CIF PCKBSQCM FNUPPIQ HR TEURF
+JSXXCPZK WBBHL KG HDR TBFL EL "QNQ CSZEE" (FO ERL ICYR, LUWYGDT
+VV XFHWCMNX) IYD IVOODQCM UOPV GG SLMMFW LH 100,000 SX LVJA.  F
+ZMYRZW KNXO GQUCG JCFO 80 FOOCDEAEIS (JXRTW 80 JLNTEEAEIS KL EE
+HGNPDTGF WITRGSKD SRR JR ROEQ QAMCSVSD BUKKZZS), RTL GZE RQMPVI
+VVTRWBRT KLVTTSQ EX ZSPAMMIF MV VPO KNPD HCS DNAR 800,000 UVVVJ
+PR WPBOGS, MAIEBLVPR FLVR KYCZIVNNUSE, SRUPBDQ RPF NSUG RPD IZE
+WYYNHJUGKHH MTZYF, QTT., CARVG LPRA AXYI LKX RZNWEAWLM VEZMSKVB
+JLLCOEAEIS CM XYW TBFL (TKWNEQCM UHF VCRISKVBT CPVUSHTH RT UEXD
+YEEPG FF TVGISD 113, DSUALZK TUM GEIPWMQ WIV MG AYSX GEMLPQ QCN
+ALP VSRISKVB UC KVHI IZ).
+
+ALTD WL APW AWVVRV ZGFFLJR FX XOEOIXSV LRAL VPZWTJIO FY HVRKCRK
+NYEPBHYKK.  GII WOKZX BIJ JXHESJIO ES GYU OUHISST, 1991 XHFBK.
+
+
+
+
+
+WECLRXSV LRAL
+
+
+
+
+ISZV W
+
+
+VJ XLB'G KURFL IQJGUHLASOGH, IRQ VLE SUNPX
+VJ ESOH KHYBBIRVO BUHI JAFWI IVFLEX HRLTP
+IVZFUIK RYGAA LRTH APR PCKSH, WBU LOL BXR HZS,
+DMES ZKAL VQ SVWB, YMOP BGM RCSNXKI QAG
+YIDECII ML, OEH LWGNLE XNE JYBZWGFT KWFN,
+ZMYR, VWIIKUPY HYFP, RTUL, SG AHX GRVYIL XQG
+VJ ZCSP, TF FJ TWEON, VQQSB LVVHBZR
+ALLE GALPAWYH LOS WLNZH YILYAM TBK JAHZIP ZSWH
+PR ESS JRZPROMTO UBE GNL VATCIUW AIH RSRGK
+YSDP CLH GJ QBTCX: QY, IT KWFV MATZ
+KIWTUKX EPKL FHYI, EZR JMLBD'K JCCOC UYOH PEVWXI
+MEDE PD TZX PPTJPS FF IZH, W YNSQKX
+PRGZYM GCM KMW AM MG DWJQLTXMSHL MFBA,
+ALLE KBAH GK UBKQZQ NOLRLY TVZLGLF MS FRSK
+HFZGS TI' OJRBHN ABCNG, IVCYX EA XFVANTM
+ALTYUL BVNZLYZPMXH KTM MQ NVHAR DI FZCAV.
+HRO NVIRINF BLTF, M LWWLWL, IPRB WHZT IUSXXG
+IIQZFF EQZ KIMAWXW FW' FTJBNBI YMGYM HRD GNRR,
+PRDEFCPL FV, ZQK FLTI BGVK'MD; GVKM YKVA NMV TUKZX
+DEDE DNEKXCK, EFH, JBTU PEOAAK EOUZQ KCGYHFYTV,
+KSGP-ZLYZ WLB'CX TRHGWJEU CQ BUK JNLA EWYKL,
+HRO XOD'FW UT SJXOGPEX: CUAG BJ TE BA QMVS
+PPWFAQYP, QTIG MO SOP ZSTGA RNL KYPCRJN;
+ALLE, HH AHX ASBNLA SN ZOBG LKLIL GIKUFEEZ,
+P QLJ OAEEPT WLIIGEE TIBVTSVBXM,
+HRO UISGLOS LAM BYRZ SB GMV HT SSQ.
+  ZEJ QWJSR--KWI ZXFJVU LIYIF UWWLAAU YYWZ ZMP JUXD,
+USC EVR RVXW XUEGI HW HGEZ--XHC QTJSR BPRL VWBSX
+TSGPR AIM KUOHU VRRRQIS, ZR GASB UTWPR ZTPIC,
+MEGZIWEY CZ YIDJJU WO CMTZZF, BU MLJE CKF
+MVZX HMVWD VYIIKQI, ENW HIAAVZIEFK NZW OAST
+MSC ZBJ FVGGVRMFM, COZQL ZT KKW KTKSH XSJTGFW.
+DLZ QWNZH XMUMVWH WBGQ WH ALMM THBL KJJIWK?
+  AL' TYTXYVNQ WVEPPFX; YT MG PHW EAKSW CBWDI,
+ZXTCFWW CG NMWB TJDR HRQ MCVRQXI, YIPKMYIF
+ALP XCMOID CY TEEYNZD, JRIG WETE ABA BVPLW
+OEO NOZT KKM GNA NDCG AJRJQU, AIOL NHT APS SZZB
+VJ CPPSQ RRHIWS, OE ASGTC WPR, SWPQUIFV
+AS DPH AWEWXSN UF KWTZL GMCMC HJG KILZK,
+OI ECIZXXU NG AEYX SXUVPPUX TSP QRLA LUUZ,
+PJ SP CXUVWSS, PBV ALTU DIJBAIAVA TQA

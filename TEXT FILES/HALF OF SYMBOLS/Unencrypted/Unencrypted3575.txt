@@ -1,0 +1,17 @@
+Microsoft Windows and Wang Image Wizard.  The digital library is designed
+to be hardwareindependent and to provide interchangeability with other
+institutions through network connections.  Access to the digital files
+themselves is twotiered:  Bibliographic records for the computer files
+are created in RLIN and Cornells local system and access into the actual
+digital images comprising a book is provided through a document control
+structure and a networked image fileserver, both of which will be
+described.
+
+The presentation will conclude with a discussion of some of the issues
+surrounding the use of this technology as a preservation tool storage,
+refreshing, backup.
+
+Pamela ANDRE and Judith ZIDAR
+
+The National Agricultural Library NAL has had extensive experience with
+raster scanning of printed materials.  Since 1987, the Library has

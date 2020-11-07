@@ -1,0 +1,34 @@
+in multimedia today who wish to ship a product, so to say, probably do
+not have much choice except to use CDROM:  networked multimedia on a
+large scale basically does not yet work because the technology does not
+exist.  For example, anybody who has tried moving images around over the
+Internet knows that this is an exciting touchandgo process, a
+fascinating and fertile area for experimentation, research, and
+development, but not something that one can become deeply enthusiastic
+about committing to production systems at this time.
+
+This situation will change, LYNCH said.  He differentiated CDROM from
+the practices that have been followed up to now in distributing data on
+CDROM.  For LYNCH the problem with CDROM is not its portability or its
+slowness but the twoedged sword of having the retrieval application and
+the user interface inextricably bound up with the data, which is the
+typical CDROM publication model.  It is not a case of publishing data
+but of distributing a typically standalone, typically closed system,
+allsoftware, user interface, and dataon a little disk.  Hence, all
+the betweendisk navigational issues as well as the impossibility in most
+cases of integrating data on one disk with that on another.  Most CDROM
+retrieval software does not network very gracefully at present.  However,
+in the present world of immature standards and lack of understanding of
+what network information is or what the ground rules are for creating or
+using it, publishing information on a CDROM does add value in a very
+real sense.
+
+LYNCH drew a contrast between CDROM and network pricing and in doing so
+highlighted something bizarre in information pricing.  A large
+institution such as the University of California has vendors who will
+offer to sell information on CDROM for a price per year in four digits,
+but for the same data e.g., an abstracting and indexing database on
+magnetic tape, regardless of how many people may use it concurrently,
+will quote a price in six digits.
+
+What is packaged with the CDROM in one sense adds valuea complete

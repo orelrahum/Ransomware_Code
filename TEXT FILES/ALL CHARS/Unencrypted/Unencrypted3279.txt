@@ -1,0 +1,11 @@
+  commodities:
+    fish, copra, cinnamon bark, petroleum products (reexports)
+  partners:
+    France 63%, Pakistan 12%, Reunion 10%, UK 7% (1987)
+Imports:
+    $186 million (f.o.b., 1990 est.)
+  commodities:
+    manufactured goods, food, tobacco, beverages, machinery and transportation
+    equipment, petroleum products
+  partners:
+    UK 20%, France 14%, South Africa 13%, PDRY 13%, Singapore 8%, Japan 6%

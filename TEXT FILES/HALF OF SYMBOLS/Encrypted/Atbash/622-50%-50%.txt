@@ -1,0 +1,112 @@
+     Information Technology Services LM G51
+     202 7078345
+
+     Sally Hart McCallum
+     Network Development LM 639
+     202 7076237
+
+     Dana J. Pratt
+     Publishing Office LM 602
+     202 7076027
+
+     Jane Riefenhauser
+     American Memory LM 603
+     202 7076233
+
+     William Z. Schenck
+     Collections Development LM 650
+     202 7077706
+
+     Chandru J. Shahani
+     Preservation Research and Testing Office RT LM G38
+     202 7075607
+
+     William J. Sittig
+     Collections Development LM 650
+     202 7077050
+
+     Paul Smith
+     Manuscript Division LM 102
+     202 7075097
+
+     James L. Stevens
+     Information Technology Services LM G51
+     202 7079688
+
+     Karen Stuart
+     Manuscript Division LM 130
+     202 7075389
+
+     Tamara Swora
+     Preservation Microfilming Office LM G05
+     202 7076293
+
+     Sarah Thomas
+     Collections Cataloging LM 642
+     202 7075333
+
+
+                                   END
+      
+
+Note:  This file has been edited for use on computer networks.  This
+editing required the removal of diacritics, underlining, and fonts such
+as italics and bold.
+
+kde 1192
+
+A few of the italics when used for emphasis were replaced by CAPS mh
+
+End of The Project Gutenberg Etext of LOC WORKSHOP ON ELECTRONIC ETEXTS
+
+
+This is the February 1992 Project Gutenberg release of:
+
+Paradise Lost by John Milton
+
+The oldest etext known to Project Gutenberg ca. 19641965
+If you know of any older ones, please let us know.
+
+
+Introduction  one page
+
+This etext was originally created in 19641965 according to Dr.
+Joseph Raben of Queens College, NY, to whom it is attributed by
+Project Gutenberg.  We had heard of this etext for years but it
+was not until 1991 that we actually managed to track it down to
+a specific location, and then it took months to convince people
+to let us have a copy, then more months for them actually to do
+the copying and get it to us.  Then another month to convert tL
+HLNVGSRMT DV XLFOW NZHHZTV DRGS LFI UZELIRGV 486 RM WLH.  ZUGVI
+GSZG RH DZH LMOB Z NZGGVI LU WZBH GL TVG RG RMGL GSRH HSZKV BLF
+DROO HVV YVOLD.  GSV LIRTRMZO DZH, LU XLFIHV, RM XZKH LMOB, ZMW
+HL DVIV ZOO GSV LGSVI VGVCGH LU GSV 60H ZMW VZIOB 70H.  WLMG
+OVG ZMBLMV ULLO BLF RMGL GSRMPRMT ZMB VGVCG DRGS YLGS FKKVI ZMW
+OLDVI XZHV RH ZM LIRTRMZO ZOO GSLHV LIRTRMZO KILQVXG TFGVMYVIT
+VGVCGH DVIV ZOHL RM FKKVI XZHV ZMW DVIV GIZMHOZGVW LI IVDIRGGVM
+NZMB GRNVH GL TVG GSVN RMGL GSVRI XFIIVMG XLMWRGRLM.  GSVB SZEV
+YVVM DLIPVW LM YB NZMB KVLKOV GSILFTSLFG GSV DLIOW.
+
+RM GSV XLFIHV LU LFI HVZIXSVH ULI KILUVHHLI IZYVM ZMW SRH VGVCG
+DV DVIV MVEVI ZYOV GL WVGVINRMV DSVIV XLKRVH DVIV LI DSRXS LU Z
+EZIRVGB LU VWRGRLMH SV NZB SZEV FHVW ZH Z HLFIXV.  DV WRW TVG Z
+ORGGOV RMULINZGRLM SVIV ZMW GSVIV, YFG VEVM ZUGVI DV IVXVREVW Z
+XLKB LU GSV VGVCG DV DVIV FMDROORMT GL IVOVZHV RG DRGSLFG URIHG
+WVGVINRMRMT GSZG RG DZH RM UZXG KFYORX WLNZRM ZMW URMWRMT IZYVM
+GL EVIRUB GSRH ZMW TVG SRH KVINRHHRLM.  RMGVIVHGVW VMLFTS, RM Z
+GLGZOOB FMIVOZGVW ZXGRLM GL LFI HVZIXSVH ULI SRN, GSV KILUVHHLI
+HFYHXIRYVW GL GSV KILQVXG TFGVMYVIT ORHGHVIEVI ZMW DV SZKKVMVW,
+YB ZXXRWVMG, GL MLGRXV SRH MZNV. DV WLMG IVZOOB OLLP ZG VEVIB
+HFYHXIRKGRLM IVJFVHG ZH GSV XLNKFGVIH FHFZOOB SZMWOV GSVN. GSV
+VGVCG DZH GSVM KILKVIOB RWVMGRURVW, XLKBIRTSG ZMZOBAVW, ZMW GSV
+XFIIVMG VWRGRLM KIVKZIVW.
+
+GL TREV BLF ZM VHGRNZGRLM LU GSV WRUUVIVMXV RM GSV LIRTRMZO ZMW
+DSZG DV SZEV GLWZB:  GSV LIRTRMZO DZH KILYZYOB VMGVIVW LM XZIWH
+XLNNLMOB PMLDM ZG GSV GRNV ZH "RYN XZIWH" WL MLG ULOW, HKRMWOV
+LI NFGROZGV ZMW KILYZYOB GLLP RM VCXVHH LU 100,000 LU GSVN.  Z
+HRMTOV XZIW XLFOW SLOW 80 XSZIZXGVIH SVMXV 80 XSZIZXGVIH RH ZM
+ZXXVKGVW HGZMWZIW ULI HL NZMB XLNKFGVI NZITRMH, ZMW GSV VMGRIV
+LIRTRMZO VWRGRLM DV IVXVREVW RM ZOO XZKH DZH LEVI 800,000 XSZIH
+RM OVMTGS, RMXOFWRMT ORMV VMFNVIZGRLM, HBNYLOH ULI XZKH ZMW GSV
+KFMXGFZGRLM NZIPH, VGX., HRMXV GSVB DVIV MLG ZEZROZYOV PVBYLZIW

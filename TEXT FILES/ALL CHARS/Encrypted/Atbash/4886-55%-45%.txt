@@ -1,0 +1,730 @@
+Terrain:
+    low hill
+Natural resources:
+    none
+Land use:
+    arable land 0%; permanent crops 0%; meadows and pastures 0%; forest and
+    woodland 0%; other 100%
+Environment:
+    urban
+Note:
+    landlocked; enclave of Rome, Italy; world's smallest state; outside the
+    Vatican City, 13 buildings in Rome and Castel Gandolfo (the pope's summer
+    residence) enjoy extraterritorial rights
+
+:Holy See (Vatican City) People
+
+Population:
+    802 (July 1992), growth rate 1.2% (1992)
+Nationality:
+    no noun or adjectival forms
+Ethnic divisions:
+    primarily Italians but also Swiss and other nationalities
+Religions:
+    Roman Catholic
+Languages:
+    Italian, Latin, and various other languages
+Literacy:
+    100% (male NA%, female NA%)
+Labor force:
+    high dignitaries, priests, nuns, guards, and 3,000 lay workers who live
+    outside the Vatican
+Organized labor:
+    Association of Vatican Lay Workers, 1,800 members (1987)
+
+:Holy See (Vatican City) Government
+
+Long-form name:
+    State of the Vatican City; note - the Vatican City is the physical seat of
+    the Holy See, which is the central government of the Roman Catholic Church
+Type:
+    monarchical-sacerdotal state
+Capital:
+    Vatican City
+Independence:
+    11 February 1929 (from Italy)
+Constitution:
+    Apostolic Constitution of 1967 (effective 1 March 1968)
+National holiday:
+    Installation Day of the Pope (John Paul II), 22 October (1978); note - Pope
+    John Paul II was elected on 16 October 1978
+Executive branch:
+    pope
+Legislative branch:
+    unicameral Pontifical Commission
+Judicial branch:
+    none; normally handled by Italy
+Leaders:
+  Chief of State:
+    Pope JOHN PAUL II (Karol WOJTYA; since 16 October 1978)
+  Head of Government:
+    Secretary of State Archbishop Angelo SODANO
+Political parties and leaders:
+    none
+Suffrage:
+    limited to cardinals less than 80 years old
+Elections:
+  Pope:
+    last held 16 October 1978 (next to be held after the death of the current
+    pope); results - Karol WOJTYA was elected for life by the College of
+    Cardinals
+Other political or pressure groups:
+    none (exclusive of influence exercised by church officers)
+Member of:
+    CSCE, IAEA, ICFTU, IMF (observer), INTELSAT, IOM (observer), ITU, OAS
+    (observer), UN (observer), UNCTAD, UNHCR, UPU, WIPO, WTO (observer)
+Diplomatic representation:
+    Apostolic Pro-Nuncio Archbishop Agostino CACCIAVILLAN; 3339 Massachusetts
+    Avenue NW, Washington, DC 20008; telephone (202) 333-7121
+  US:
+    Ambassador Thomas P. MELADY; Embassy at Villino Pacelli, Via Aurelia 294,
+    00165 Rome (mailing address is APO AE 09624); telephone [396] 639-0558
+Flag:
+    two vertical bands of yellow (hoist side) and white with the crossed keys of
+    Saint Peter and the papal tiara centered in the white band
+
+:Holy See (Vatican City) Economy
+
+Overview:
+    This unique, noncommercial economy is supported financially by contributions
+    (known as Peter's Pence) from Roman Catholics throughout the world, the sale
+    of postage stamps and tourist mementos, fees for admission to museums, and
+    the sale of publications. The incomes and living standards of lay workers
+    are comparable to, or somewhat better than, those of counterparts who work
+    in the city of Rome.
+Budget:
+    revenues $92 million; expenditures $178 million, including capital
+    expenditures of $NA (1992)
+Electricity:
+    5,000 kW standby capacity (1990); power supplied by Italy
+Industries:
+    printing and production of a small amount of mosaics and staff uniforms;
+    worldwide banking and financial activities
+Currency:
+    Vatican lira (plural - lire); 1 Vatican lira (VLit) = 100 centesimi
+Exchange rates:
+    Vatican lire (VLit) per US$1 - 1,248.4 (March 1992), 1,240.6 (1991), 1,198.1
+    (1990), 1,372.1 (1989), 1,301.6 (1988), 1,296.1 (1987); note - the Vatican
+    lira is at par with the Italian lira which circulates freely
+Fiscal year:
+    calendar year
+
+:Holy See (Vatican City) Communications
+
+Railroads:
+    850 m, 750 mm gauge (links with Italian network near the Rome station of
+    Saint Peter's)
+Highways:
+    none; all city streets
+Telecommunications:
+    broadcast stations - 3 AM, 4 FM, no TV; 2,000-line automatic telephone
+    exchange; no communications satellite systems
+
+:Holy See (Vatican City) Defense Forces
+
+Note:
+    defense is the responsibility of Italy; Swiss Papal Guards are posted at
+    entrances to the Vatican City
+
+:Honduras Geography
+
+Total area:
+    112,090 km2
+Land area:
+    111,890 km2
+Comparative area:
+    slightly larger than Tennessee
+Land boundaries:
+    1,520 km; Guatemala 256 km, El Salvador 342 km, Nicaragua 922 km
+Coastline:
+    820 km
+Maritime claims:
+  Contiguous zone:
+    24 nm
+  Continental shelf:
+    200 m (depth) or to depth of exploitation
+  Exclusive economic zone:
+    200 nm
+  Territorial sea:
+    12 nm
+Disputes:
+    dispute with El Salvador over several sections of the land boundary; dispute
+    over Golfo de Fonseca maritime boundary because of disputed sovereignty of
+    islands; unresolved maritime boundary with Nicaragua
+Climate:
+    subtropical in lowlands, temperate in mountains
+Terrain:
+    mostly mountains in interior, narrow coastal plains
+Natural resources:
+    timber, gold, silver, copper, lead, zinc, iron ore, antimony, coal, fish
+Land use:
+    arable land 14%; permanent crops 2%; meadows and pastures 30%; forest and
+    woodland 34%; other 20%; includes irrigated 1%
+Environment:
+    subject to frequent, but generally mild, earthquakes; damaging hurricanes
+    and floods along Caribbean coast; deforestation; soil erosion
+
+:Honduras People
+
+Population:
+    5,092,776 (July 1992), growth rate 2.8% (1992)
+Birth rate:
+    37 births/1,000 population (1992)
+Death rate:
+    7 deaths/1,000 population (1992)
+Net migration rate:
+    -2 migrants/1,000 population (1992)
+Infant mortality rate:
+    54 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    65 years male, 68 years female (1992)
+Total fertility rate:
+    4.8 children born/woman (1992)
+Nationality:
+    noun - Honduran(s); adjective - Honduran
+Ethnic divisions:
+    mestizo (mixed Indian and European) 90%, Indian 7%, black 2%, white 1%
+Religions:
+    Roman Catholic about 97%; small Protestant minority
+Languages:
+    Spanish, Indian dialects
+Literacy:
+    73% (male 76%, female 71%) age 15 and over can read and write (1990 est.)
+Labor force:
+    1,300,000; agriculture 62%, services 20%, manufacturing 9%, construction 3%,
+    other 6% (1985)
+Organized labor:
+    40% of urban labor force, 20% of rural work force (1985)
+
+:Honduras Government
+
+Long-form name:
+    Republic of Honduras
+Type:
+    republic
+Capital:
+    Tegucigalpa
+Administrative divisions:
+    18 departments (departamentos, singular - departamento); Atlantida,
+    Choluteca, Colon, Comayagua, Copan, Cortes, El Paraiso, Francisco Morazan,
+    Gracias a Dios, Intibuca, Islas de la Bahia, La Paz, Lempira, Ocotepeque,
+    Olancho, Santa Barbara, Valle, Yoro
+Independence:
+    15 September 1821 (from Spain)
+Constitution:
+    11 January 1982, effective 20 January 1982
+Legal system:
+    rooted in Roman and Spanish civil law; some influence of English common law;
+    accepts ICJ jurisdiction, with reservations
+National holiday:
+    Independence Day, 15 September (1821)
+Executive branch:
+    president, Council of Ministers (cabinet)
+Legislative branch:
+    unicameral National Congress (Congreso Nacional)
+Judicial branch:
+    Supreme Court of Justice (Corte Suprema de Justica)
+Leaders:
+  Chief of State and Head of Government:
+    President Rafael Leonardo CALLEJAS Romero (since 26 January 1990)
+Political parties and leaders:
+    Liberal Party (PLH) - faction leaders, Carlos FLORES Facusse (leader of
+    Florista Liberal Movement), Carlos MONTOYA (Azconista subfaction), Ramon
+    VILLEDA Bermudez and Jorge Arturo REINA (M-Lider faction); National Party
+    (PNH), Jose Celin DISCUA, party president; PNH faction leaders - Oswaldo
+    RAMOS Soto and Rafael Leonardo CALLEJAS Romero (Monarca faction); National
+    Innovation and Unity Party - Social Democrats (PINU-SD), Enrique AGUILAR
+    Cerrato Paz; Christian Democratic Party (PDCH), Jorge ILLESCAS; Democratic
+    Action (AD), Walter LOPEZ Reyes
+Suffrage:
+    universal and compulsory at age 18
+Elections:
+  National Congress:
+    last held on 26 November 1989 (next to be held November 1993); results - PNH
+    51%, PLH 43%, PDCH 1.9%, PINU-SD 1.5%, other 2.6%; seats - (128 total) PNH
+    71, PLH 55, PINU-SD 2
+  President:
+    last held on 26 November 1989 (next to be held November 1993); results -
+    Rafael Leonardo CALLEJAS (PNH) 51%, Carlos FLORES Facusse (PLH) 43.3%, other
+    5.7%
+Other political or pressure groups:
+    National Association of Honduran Campesinos (ANACH), Honduran Council of
+    Private Enterprise (COHEP), Confederation of Honduran Workers (CTH),
+    National Union of Campesinos (UNC), General Workers Confederation (CGT),
+    United Federation of Honduran Workers (FUTH), Committee for the Defense of
+    Human Rights in Honduras (CODEH), Coordinating Committee of Popular
+    Organizations (CCOP)
+
+:Honduras Government
+
+Member of:
+    BCIE, CACM, ECLAC, FAO, G-77, IADB, IBRD, ICAO, ICFTU, IDA, IFAD, IFC, ILO,
+    IMF, IMO, INTELSAT, INTERPOL, IOC, IOM, ITU, LAES, LAIA, LORCS, OAS, OPANAL,
+    PCA, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO
+Diplomatic representation:
+    Ambassador Jorge Ramon HERNANDEZ Alcerro; Chancery at 3007 Tilden Street NW,
+    Washington, DC 20008; telephone (202) 966-7702; there are Honduran
+    Consulates General in Chicago, Los Angeles, Miami, New Orleans, New York,
+    and San Francisco, and Consulates in Baton Rouge, Boston, Detroit, Houston,
+    and Jacksonville
+  US:
+    Ambassador S. Crescencio ARCOS; Embassy at Avenida La Paz, Tegucigalpa
+    (mailing address is APO AA 34022); telephone [504] 32-3120
+Flag:
+    three equal horizontal bands of blue (top), white, and blue with five blue
+    five-pointed stars arranged in an X pattern centered in the white band; the
+    stars represent the members of the former Federal Republic of Central
+    America - Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua;
+    similar to the flag of El Salvador, which features a round emblem encircled
+    by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the
+    white band; also similar to the flag of Nicaragua, which features a triangle
+    encircled by the word REPUBLICA DE NICARAGUA on top and AMERICA CENTRAL on
+    the bottom, centered in the white band
+
+:Honduras Economy
+
+Overview:
+    Honduras is one of the poorest countries in the Western Hemisphere.
+    Agriculture, the most important sector of the economy, accounts for more
+    than 25% of GDP, employs 62% of the labor force, and produces two-thirds of
+    exports. Productivity remains low. Industry, still in its early stages,
+    employs nearly 9% of the labor force, accounts for 15% of GDP, and generates
+    20% of exports. The service sectors, including public administration,
+    account for 50% of GDP and employ nearly 20% of the labor force. Basic
+    problems facing the economy include rapid population growth, high
+    unemployment, sharply increased inflation, a lack of basic services, a large
+    and inefficient public sector, and the dependence of the export sector
+    mostly on coffee and bananas, which are subject to sharp price fluctuations.
+    Despite government efforts at reform and large-scale foreign assistance, the
+    economy still is unable to take advantage of its sizable natural resources.
+GDP:
+    exchange rate conversion - $5.2 billion, per capita $1,050; real growth rate
+    - 0.3% (1991 est.)
+Inflation rate (consumer prices):
+    26% (1991 est.)
+Unemployment rate:
+    15% unemployed, 30-40% underemployed (1989)
+Budget:
+    revenues $1.4 billion; expenditures $1.9 billion, including capital
+    expenditures of $511 million (1990 est.)
+Exports:
+    $1.0 billion (f.o.b., 1991)
+  commodities:
+    bananas, coffee, shrimp, lobster, minerals, lumber
+  partners:
+    US 52%, Germany 11%, Japan, Italy, Belgium
+Imports:
+    $1.3 billion (c.i.f. 1991)
+  commodities:
+    machinery and transport equipment, chemical products, manufactured goods,
+    fuel and oil, foodstuffs
+  partners:
+    US 39%, Japan 9%, CACM, Venezuela, Mexico
+External debt:
+    $2.8 YROORLM (1990)
+RMWFHGIRZO KILWFXGRLM:
+    TILDGS IZGV 2.9% (1989); ZXXLFMGH ULI 15% LU TWK
+VOVXGIRXRGB:
+    575,000 PD XZKZXRGB; 1,850 NROORLM PDS KILWFXVW, 374 PDS KVI XZKRGZ (1991)
+RMWFHGIRVH:
+    ZTIRXFOGFIZO KILXVHHRMT (HFTZI ZMW XLUUVV), GVCGROVH, XOLGSRMT, DLLW
+    KILWFXGH
+ZTIRXFOGFIV:
+    NLHG RNKLIGZMG HVXGLI, ZXXLFMGRMT ULI NLIV GSZM 25% LU TWK, LEVI 60% LU GSV
+    OZYLI ULIXV, ZMW GDL-GSRIWH LU VCKLIGH; KIRMXRKZO KILWFXGH RMXOFWV YZMZMZH,
+    XLUUVV, GRNYVI, YVVU, XRGIFH UIFRG, HSIRNK; RNKLIGVI LU DSVZG
+ROORXRG WIFTH:
+    ROORXRG KILWFXVI LU XZMMZYRH, XFOGREZGVW LM HNZOO KOLGH ZMW FHVW KIRMXRKZOOB
+    ULI OLXZO XLMHFNKGRLM; GIZMHHSRKNVMG KLRMG ULI XLXZRMV
+VXLMLNRX ZRW:
+    FH XLNNRGNVMGH, RMXOFWRMT VC-RN (UB70-89), $1.4 YROORLM; DVHGVIM (MLM-FH)
+    XLFMGIRVH, LWZ ZMW LLU YROZGVIZO XLNNRGNVMGH (1970-89), $1.1 YROORLM
+XFIIVMXB:
+    OVNKRIZ (KOFIZO - OVNKRIZH); 1 OVNKRIZ (O) = 100 XVMGZELH
+
+:SLMWFIZH VXLMLNB
+
+VCXSZMTV IZGVH:
+    OVNKRIZH (O) KVI FH$1 - 5.4 (URCVW IZGV); 5.70 KZIZOOVO YOZXP-NZIPVG IZGV
+    (MLEVNYVI 1990)
+URHXZO BVZI:
+    XZOVMWZI BVZI
+
+:SLMWFIZH XLNNFMRXZGRLMH
+
+IZROILZWH:
+    785 PN GLGZO; 508 PN 1.067-NVGVI TZFTV, 277 PN 0.914-NVGVI TZFTV
+SRTSDZBH:
+    8,950 PN GLGZO; 1,700 PN KZEVW, 5,000 PN LGSVIDRHV RNKILEVW, 2,250 PN
+    FMRNKILEVW VZIGS
+RMOZMW DZGVIDZBH:
+    465 PN MZERTZYOV YB HNZOO XIZUG
+KLIGH:
+    KFVIGL XZHGROOZ, KFVIGL XLIGVH, HZM OLIVMAL
+NVIXSZMG NZIRMV:
+    201 HSRKH (1,000 TIG LI LEVI) GLGZORMT 629,134 TIG/939,289 WDG; RMXOFWVH 2
+    KZHHVMTVI-XZITL, 127 XZITL, 17 IVUIRTVIZGVW - XZITL, - 7 - XLMGZRMVI, - 2 -
+    ILOO-LM/ILOO-LUU XZITL, 19 KVGILOVFN GZMPVI, 2 XSVNRXZO GZMPVI, 3
+    HKVXRZORAVW GZMPVI, 1 EVSRXOV XZIIRVI, 18 YFOP, 2 KZHHVMTVI, 1 HSLIG-HVZ
+    KZHHVMTVI; MLGV - Z UOZT LU XLMEVMRVMXV IVTRHGIB; IVKFYORXH LU GSV ULINVI
+    FHHI LDM 10 HSRKH FMWVI GSV SLMWFIZM UOZT
+XRERO ZRI:
+    6 NZQLI GIZMHKLIG ZRIXIZUG
+ZRIKLIGH:
+    171 GLGZO, 133 FHZYOV; 8 DRGS KVINZMVMG-HFIUZXV IFMDZBH; MLMV DRGS IFMDZBH
+    LEVI 3,659 N; 4 DRGS IFMDZBH 2,440-3,659 N; 12 DRGS IFMDZBH 1,220-2,439 N
+GVOVXLNNFMRXZGRLMH:
+    RNKILEVW, YFG HGROO RMZWVJFZGV; XLMMVXGRLM RMGL XVMGIZO ZNVIRXZM NRXILDZEV
+    HBHGVN; 35,100 GVOVKSLMVH; YILZWXZHG HGZGRLMH - 176 ZN, ML UN, 28 GE, 7
+    HSLIGDZEV; 2 ZGOZMGRX LXVZM RMGVOHZG VZIGS HGZGRLMH
+
+:SLMWFIZH WVUVMHV ULIXVH
+
+YIZMXSVH:
+    ZINB, MZEB (RMXOFWRMT NZIRMVH), ZRI ULIXV, KFYORX HVXFIRGB ULIXVH (UFHVK)
+NZMKLDVI ZEZROZYRORGB:
+    NZOVH 15-49, 1,148,376; 684,375 URG ULI NRORGZIB HVIERXV; 57,028 IVZXS
+    NRORGZIB ZTV (18) ZMMFZOOB
+WVUVMHV VCKVMWRGFIVH:
+    VCXSZMTV IZGV XLMEVIHRLM - $43.4 NROORLM, ZYLFG 1% LU TWK (1992 VHG.)
+
+:SLMT PLMT TVLTIZKSB
+
+GLGZO ZIVZ:
+    1,040 PN2
+OZMW ZIVZ:
+    990 PN2
+XLNKZIZGREV ZIVZ:
+    HORTSGOB OVHH GSZM HRC GRNVH GSV HRAV LU DZHSRMTGLM, WX
+OZMW YLFMWZIRVH:
+    30 PN; XSRMZ 30 PN
+XLZHGORMV:
+    733 PN
+NZIRGRNV XOZRNH:
+  VCXOFHREV URHSRMT ALMV:
+    3 MN
+  GVIIRGLIRZO HVZ:
+    3 MN
+WRHKFGVH:
+    MLMV
+XORNZGV:
+    GILKRXZO NLMHLLM; XLLO ZMW SFNRW RM DRMGVI, SLG ZMW IZRMB UILN HKIRMT
+    GSILFTS HFNNVI, DZIN ZMW HFMMB RM UZOO
+GVIIZRM:
+    SROOB GL NLFMGZRMLFH DRGS HGVVK HOLKVH; OLDOZMWH RM MLIGS
+MZGFIZO IVHLFIXVH:
+    LFGHGZMWRMT WVVKDZGVI SZIYLI, UVOWHKZI
+OZMW FHV:
+    ZIZYOV OZMW 7%; KVINZMVMG XILKH 1%; NVZWLDH ZMW KZHGFIVH 1%; ULIVHG ZMW
+    DLLWOZMW 12%; LGSVI 79%; RMXOFWVH RIIRTZGVW 3%
+VMERILMNVMG:
+    NLIV GSZM 200 RHOZMWH; LXXZHRLMZO GBKSLLMH
+
+:SLMT PLMT KVLKOV
+
+KLKFOZGRLM:
+    5,889,095 (QFOB 1992), TILDGS IZGV 0.6% (1992)
+YRIGS IZGV:
+    13 YRIGSH/1,000 KLKFOZGRLM (1992)
+WVZGS IZGV:
+    5 WVZGSH/1,000 KLKFOZGRLM (1992)
+MVG NRTIZGRLM IZGV:
+    - 2 NRTIZMGH/1,000 KLKFOZGRLM (1992)
+RMUZMG NLIGZORGB IZGV:
+    7 WVZGSH/1,000 OREV YRIGSH (1992)
+ORUV VCKVXGZMXB ZG YRIGS:
+    76 BVZIH NZOV, 83 BVZIH UVNZOV (1992)
+GLGZO UVIGRORGB IZGV:
+    1.4 XSROWIVM YLIM/DLNZM (1992)
+MZGRLMZORGB:
+    ZWQVXGREV - SLMT PLMT
+VGSMRX WRERHRLMH:
+    XSRMVHV 98%, LGSVI 2%
+IVORTRLMH:
+    VXOVXGRX NRCGFIV LU OLXZO IVORTRLMH 90%, XSIRHGRZM 10%
+OZMTFZTVH:
+    XSRMVHV (XZMGLMVHV), VMTORHS
+ORGVIZXB:
+    77% (NZOV 90%, UVNZOV 64%) ZTV 15 ZMW LEVI SZERMT VEVI ZGGVMWVW HXSLLO
+    (1971)
+OZYLI ULIXV:
+    2,800,000 (1990); NZMFUZXGFIRMT 28.5%, DSLOVHZOV ZMW IVGZRO GIZWV,
+    IVHGZFIZMGH, ZMW SLGVOH 27.9%, HVIERXVH 17.7%, URMZMXRMT, RMHFIZMXV, ZMW
+    IVZO VHGZGV 9.2%, GIZMHKLIG ZMW XLNNFMRXZGRLMH 4.5%, XLMHGIFXGRLM 2.5%,
+    LGSVI 9.7% (1989)
+LITZMRAVW OZYLI:
+    16% LU OZYLI ULIXV (1990)
+
+:SLMT PLMT TLEVIMNVMG
+
+OLMT-ULIN MZNV:
+    MLMV; ZYYIVERZGVW SP
+GBKV:
+    WVKVMWVMG GVIIRGLIB LU GSV FP; HXSVWFOVW GL IVEVIG GL XSRMZ RM 1997
+XZKRGZO:
+    ERXGLIRZ
+ZWNRMRHGIZGREV WRERHRLMH:
+    MLMV (WVKVMWVMG GVIIRGLIB LU GSV FP)
+RMWVKVMWVMXV:
+    MLMV (WVKVMWVMG GVIIRGLIB LU GSV FP); GSV FP HRTMVW ZM ZTIVVNVMG DRGS XSRMZ
+    LM 19 WVXVNYVI 1984 GL IVGFIM SLMT PLMT GL XSRMZ LM 1 QFOB 1997; RM GSV
+    QLRMG WVXOZIZGRLM, XSRMZ KILNRHVH GL IVHKVXG SLMT PLMT'H VCRHGRMT HLXRZO ZMW
+    VXLMLNRX HBHGVNH ZMW ORUVHGBOV ULI 50 BVZIH ZUGVI GIZMHRGRLM
+XLMHGRGFGRLM:
+    FMDIRGGVM; KZIGOB HGZGFGVH, KZIGOB XLNNLM OZD ZMW KIZXGRXV; MVD YZHRX OZD
+    ZKKILEVW RM NZIXS 1990 RM KIVKZIZGRLM ULI 1997
+OVTZO HBHGVN:
+    YZHVW LM VMTORHS XLNNLM OZD
+MZGRLMZO SLORWZB:
+    ORYVIZGRLM WZB, 29 ZFTFHG (1945)
+VCVXFGREV YIZMXS:
+    YIRGRHS NLMZIXS, TLEVIMLI, XSRVU HVXIVGZIB LU GSV VCVXFGREV XLFMXRO
+OVTRHOZGREV YIZMXS:
+    OVTRHOZGREV XLFMXRO
+QFWRXRZO YIZMXS:
+    HFKIVNV XLFIG
+OVZWVIH:
+  XSRVU LU HGZGV:
+    JFVVM VORAZYVGS RR (HRMXV 6 UVYIFZIB 1952)
+  SVZW LU TLEVIMNVMG:
+    TLEVIMLI-WVHRTMZGV XSIRH KZGGVM (HRMXV QFOB 1992); XSRVU HVXIVGZIB HRI WZERW
+    ILYVIG ULIW (HRMXV UVYIFZIB 1987)
+HFUUIZTV:
+    WRIVXG VOVXGRLM - FMREVIHZO ZG ZTV 21 ZH Z KVINZMVMG IVHRWVMG ORERMT RM GSV
+    GVIIRGLIB LU SLMT PLMT ULI GSV KZHG HVEVM BVZIH; RMWRIVXG VOVXGRLM - ORNRGVW
+    GL ZYLFG 100,000 KILUVHHRLMZOH LU VOVXGLIZO XLOOVTV ZMW UFMXGRLMZO
+    XLMHGRGFVMXRVH
+VOVXGRLMH:
+  OVTRHOZGREV XLFMXRO:
+    RMWRIVXG VOVXGRLMH OZHG SVOW 12 HVKGVNYVI 1991 ZMW WRIVXG VOVXGRLMH DVIV
+    SVOW 15 HVKGVNYVI 1991 (MVCG GL YV SVOW ULI GSV URIHG GRNV RM HVKGVNYVI
+    1995); IVHFOGH - KVIXVMG LU ELGV YB KZIGB MZ; HVZGH - (60 GLGZO; 21
+    RMWRIVXGOB VOVXGVW YB UFMXGRLMZO XLMHGRGFVMXRVH, 18 WRIVXGOB VOVXGVW, 18
+    ZKKLRMGVW YB TLEVIMLI, 3 VC LUURXRL NVNYVIH); RMWRIVXG VOVXGRLMH - MFNYVI LU
+    HVZGH YB UFMXGRLMZO XLMHGRGFVMXB MZ; WRIVXG VOVXGRLMH - FWSP 12, NVVGRMT
+    KLRMG 3, ZWKO 1, LGSVI 2
+XLNNFMRHGH:
+    5,000 (VHG.) XZWIVH ZUURORZGVW DRGS XLNNFMRHG KZIGB LU XSRMZ
+LGSVI KLORGRXZO LI KIVHHFIV TILFKH:
+    UVWVIZGRLM LU GIZWV FMRLMH (KIL-XSRMZ), SLMT PLMT ZMW PLDOLLM GIZWV FMRLM
+    XLFMXRO (KIL-GZRDZM), XLMUVWVIZGRLM LU GIZWV FMRLMH (KILWVNLXIZXB), SLMT
+    PLMT TVMVIZO XSZNYVI LU XLNNVIXV, XSRMVHV TVMVIZO XSZNYVI LU XLNNVIXV
+    (KIL-XSRMZ), UVWVIZGRLM LU SLMT PLMT RMWFHGIRVH, XSRMVHV NZMFUZXGFIVIH'
+    ZHHLXRZGRLM LU SLMT PLMT, SLMT PLMT KILUVHHRLMZO GVZXSVIH' FMRLM, SLMT PLMT
+    ZOORZMXV RM HFKKLIG LU GSV KZGIRLGRX WVNLXIZGRX NLEVNVMG RM XSRMZ
+NVNYVI LU:
+    ZKVX, ZHWY, XXX, VHXZK (ZHHLXRZGV), TZGG, RXUGF, RNL (ZHHLXRZGV), RLX, RHL
+    (XLIIVHKLMWVMG), DXO, DNL
+
+:SLMT PLMT TLEVIMNVMG
+
+WRKOLNZGRX IVKIVHVMGZGRLM:
+    ZH Z WVKVMWVMG GVIIRGLIB LU GSV FP, GSV RMGVIVHGH LU SLMT PLMT RM GSV FH ZIV
+    IVKIVHVMGVW YB GSV FP
+  FH:
+    XLMHFO TVMVIZO IRXSZIW O. DROORZNH; XLMHFOZGV TVMVIZO ZG 26 TZIWVM ILZW,
+    SLMT PLMT (NZRORMT ZWWIVHH RH YLC 30, SLMT PLMT, LI UKL ZK 96522-0002);
+    GVOVKSLMV [852] 239-011
+UOZT:
+    YOFV DRGS GSV UOZT LU GSV FP RM GSV FKKVI SLRHG-HRWV JFZWIZMG DRGS GSV SLMT
+    PLMT XLZG LU ZINH LM Z DSRGV WRHP XVMGVIVW LM GSV LFGVI SZOU LU GSV UOZT;
+    GSV XLZG LU ZINH XLMGZRMH Z HSRVOW (YVZIRMT GDL QFMPH YVOLD Z XILDM) SVOW YB
+    Z ORLM (IVKIVHVMGRMT GSV FP) ZMW Z WIZTLM (IVKIVHVMGRMT XSRMZ) DRGS ZMLGSVI
+    ORLM ZYLEV GSV HSRVOW ZMW Z YZMMVI YVZIRMT GSV DLIWH SLMT PLMT YVOLD GSV
+    HSRVOW
+
+:SLMT PLMT VXLMLNB
+
+LEVIERVD:
+    SLMT PLMT SZH Z YFHGORMT UIVV NZIPVG VXLMLNB DRGS UVD GZIRUUH LI MLMGZIRUU
+    YZIIRVIH. MZGFIZO IVHLFIXVH ZIV ORNRGVW, ZMW ULLW ZMW IZD NZGVIRZOH NFHG YV
+    RNKLIGVW. NZMFUZXGFIRMT ZXXLFMGH ULI ZYLFG 18% LU TWK, VNKOLBH 28% LU GSV
+    OZYLI ULIXV, ZMW VCKLIGH ZYLFG 90% LU RGH LFGKFG. IVZO TWK TILDGS ZEVIZTVW Z
+    IVNZIPZYOV 8% RM 1987-88, GSVM HOLDVW GL 2.5-3.0% RM 1989-90. FMVNKOLBNVMG,
+    DSRXS SZH YVVM WVXORMRMT HRMXV GSV NRW-1980H, RH MLD ZYLFG 2%. Z HSLIGZTV LU
+    OZYLI XLMGRMFVH GL KFG FKDZIW KIVHHFIV LM KIRXVH ZMW GSV XLHG LU ORERMT.
+    HSLIG-GVIN KILHKVXGH IVNZRM HLORW HL OLMT ZH NZQLI GIZWRMT KZIGMVIH XLMGRMFV
+    GL YV IVZHLMZYOB KILHKVILFH. GSV XIZXPWLDM RM XSRMZ RM 1989-91 XZHGH Z
+    HSZWLD LEVI GSV OLMTVI GVIN VXLMLNRX LFGOLLP.
+TWK:
+    VCXSZMTV IZGV XLMEVIHRLM - $80.9 YROORLM, KVI XZKRGZ $13,800; IVZO TILDGS
+    IZGV 3.8% (1991 VHG.)
+RMUOZGRLM IZGV (XLMHFNVI KIRXVH):
+    12.0% (1991 VHG.)
+FMVNKOLBNVMG IZGV:
+    2.0% (1991 VHG.)
+YFWTVG:
+    $8.8 YROORLM (UB90)
+VCKLIGH:
+    $82.0 YROORLM (U.L.Y., 1990), RMXOFWRMT IVVCKLIGH LU $53.1 YROORLM
+  XLNNLWRGRVH:
+    XOLGSRMT, GVCGROVH, BZIM ZMW UZYIRX, ULLGDVZI, VOVXGIRXZO ZKKORZMXVH,
+    DZGXSVH ZMW XOLXPH, GLBH
+  KZIGMVIH:
+    XSRMZ 25%, FH 24%, TVINZMB 7%, QZKZM 6%, FP 2%, (1990)
+RNKLIGH:
+    $82.4 YROORLM (X.R.U., 1990)
+  XLNNLWRGRVH:
+    ULLWHGFUUH, GIZMHKLIG VJFRKNVMG, IZD NZGVIRZOH, HVNRNZMFUZXGFIVH, KVGILOVFN
+  KZIGMVIH:
+    XSRMZ 37%, QZKZM 16%, GZRDZM 9%, FH 8% (1990)
+VCGVIMZO WVYG:
+    $9.5 YROORLM (WVXVNYVI 1990 VHG.)
+RMWFHGIRZO KILWFXGRLM:
+    TILDGS IZGV 4% 1991 (VHG)
+VOVXGIRXRGB:
+    8,600,000 PD XZKZXRGB; 25,637 NROORLM PDS KILWFXVW, 4,378 PDS KVI XZKRGZ
+    (1991)
+RMWFHGIRVH:
+    GVCGROVH, XOLGSRMT, GLFIRHN, VOVXGILMRXH, KOZHGRXH, GLBH, DZGXSVH, XOLXPH
+ZTIRXFOGFIV:
+    NRMLI ILOV RM GSV VXLMLNB; IRXV, EVTVGZYOVH, WZRIB KILWFXGH; OVHH GSZM 20%
+    HVOU-HFUURXRVMG; HSLIGZTVH LU IRXV, DSVZG, DZGVI
+ROORXRG WIFTH:
+    Z SFY ULI HLFGSVZHG ZHRZM SVILRM GIZWV; GIZMHHSRKNVMG ZMW NZQLI URMZMXRZO
+    ZMW NLMVB-OZFMWVIRMT XVMGVI
+VXLMLNRX ZRW:
+    FH XLNNRGNVMGH, RMXOFWRMT VC-RN (UB70-87), $152 NROORLM; DVHGVIM (MLM-FH)
+    XLFMGIRVH, LWZ ZMW LLU YROZGVIZO XLNNRGNVMGH (1970-89), $923 NROORLM
+XFIIVMXB:
+    SLMT PLMT WLOOZI (KOFIZO - WLOOZIH); 1 SLMT PLMT WLOOZI (SP$) = 100 XVMGH
+VCXSZMTV IZGVH:
+    SLMT PLMT WLOOZIH (SP$) KVI FH$ - 7.800 (1991), 7.790 (1990), 7.800 (1989),
+    7.810 (1988), 7.760 (1987); MLGV - ORMPVW GL GSV FH WLOOZI ZG GSV IZGV LU
+    ZYLFG 7.8 SP$ KVI 1 FH$ HRMXV 1985
+URHXZO BVZI:
+    1 ZKIRO - 31 NZIXS
+
+:SLMT PLMT XLNNFMRXZGRLMH
+
+IZROILZWH:
+    35 PN 1.435-NVGVI HGZMWZIW TZFTV, TLEVIMNVMG LDMVW
+SRTSDZBH:
+    1,484 PN GLGZO; 794 PN KZEVW, 306 PN TIZEVO, XIFHSVW HGLMV, LI VZIGS
+KLIGH:
+    SLMT PLMT
+NVIXSZMG NZIRMV:
+    142 HSRKH (1,000 TIG LI LEVI), GLGZORMT 5,035,223 TIG/8,598,134 WDG;
+    RMXOFWVH 1 KZHHVMTVI, 1 HSLIG-HVZ KZHHVMTVI, 15 XZITL, 5 IVUIRTVIZGVW XZITL,
+    26 XLMGZRMVI, 13 KVGILOVFN GZMPVI, 1 XSVNRXZO GZMPVI, 6 XLNYRMZGRLM LIV/LRO,
+    5 ORJFVURVW TZH, 68 YFOP, 1 XLNYRMZGRLM YFOP; MLGV - Z UOZT LU XLMEVMRVMXV
+    IVTRHGIB; HSRKH IVTRHGVIVW RM SLMT PLMT UOB GSV FP UOZT, ZMW ZM VHGRNZGVW
+    500 SLMT PLMT - LDMVW HSRKH ZIV IVTRHGVIVW VOHVDSVIV
+XRERO ZRI:
+    16 NZQLI GIZMHKLIG ZRIXIZUG
+ZRIKLIGH:
+    2 GLGZO; 2 FHZYOV; 2 DRGS KVINZMVMG-HFIUZXV IFMDZBH; MLMV DRGS IFMDZBH LEVI
+    3,659 N; 1 DRGS IFMDZBH 2,440-3,659 N; MLMV DRGS IFMDZBH 1,220-2,439 N
+GVOVXLNNFMRXZGRLMH:
+    NLWVIM UZXRORGRVH KILERWV VCXVOOVMG WLNVHGRX ZMW RMGVIMZGRLMZO HVIERXVH;
+    3,000,000 GVOVKSLMVH; NRXILDZEV GIZMHNRHHRLM ORMPH ZMW VCGVMHREV LKGRXZO
+    URYVI GIZMHNRHHRLM MVGDLIP; YILZWXZHG HGZGRLMH - 6 ZN, 6 UN, 4 GE; 1 YIRGRHS
+    YILZWXZHGRMT XLIKLIZGRLM (YYX) IVKVZGVI HGZGRLM ZMW 1 YIRGRHS ULIXVH
+    YILZWXZHGRMT HVIERXV IVKVZGVI HGZGRLM; 2,500,000 IZWRL IVXVREVIH; 1,312,000
+    GE HVGH (1,224,000 XLOLI GE HVGH); HZGVOORGV VZIGS HGZGRLMH - 1 KZXRURX
+    LXVZM RMGVOHZG ZMW 2 RMWRZM LXVZM RMGVOHZG; XLZCRZO XZYOV GL TFZMTASLF,
+    XSRMZ; ORMPH GL 5 RMGVIMZGRLMZO HFYNZIRMV XZYOVH KILERWRMT ZXXVHH GL ZHVZM
+    NVNYVI MZGRLMH, QZKZM, GZRDZM, ZFHGIZORZ, NRWWOV VZHG, ZMW DVHGVIM VFILKV
+
+:SLMT PLMT WVUVMHV ULIXVH
+
+YIZMXSVH:
+    SVZWJFZIGVIH LU YIRGRHS ULIXVH, ILBZO MZEB, ILBZO ZRI ULIXV, ILBZO SLMT PLMT
+    ZFCRORZIB ZRI ULIXV, ILBZO SLMT PLMT KLORXV ULIXV
+NZMKLDVI ZEZROZYRORGB:
+    NZOVH 15-49, 1,732,360; 1,334,923 URG ULI NRORGZIB HVIERXV; 46,285 IVZXS
+    NRORGZIB ZTV (18) ZMMFZOOB
+WVUVMHV VCKVMWRGFIVH:
+    VCXSZMTV IZGV XLMEVIHRLM - $300 NROORLM, 0.5% LU TWK (1989 VHG.); GSRH
+    IVKIVHVMGH LMV-ULFIGS LU GSV GLGZO XLHG LU WVUVMWRMT RGHVOU, GSV IVNZRMWVI
+    YVRMT KZRW YB GSV FP
+MLGV:
+    WVUVMHV RH GSV IVHKLMHRYRORGB LU GSV FP
+
+:SLDOZMW RHOZMW TVLTIZKSB
+
+GLGZO ZIVZ:
+    1.6 PN2
+OZMW ZIVZ:
+    1.6 PN2
+XLNKZIZGREV ZIVZ:
+    ZYLFG 2.7 GRNVH GSV HRAV LU GSV NZOO RM DZHSRMTGLM, WX
+OZMW YLFMWZIRVH:
+    MLMV
+XLZHGORMV:
+    6.4 PN
+NZIRGRNV XOZRNH:
+  XLMGRTFLFH ALMV:
+    12 MN
+  XLMGRMVMGZO HSVOU:
+    200 N (WVKGS)
+  VCXOFHREV VXLMLNRX ALMV:
+    200 MN
+  GVIIRGLIRZO HVZ:
+    12 MN
+WRHKFGVH:
+    MLMV
+XORNZGV:
+    VJFZGLIRZO; HXZMG IZRMUZOO, XLMHGZMG DRMW, YFIMRMT HFM
+GVIIZRM:
+    OLD-OBRMT, MVZIOB OVEVO, HZMWB, XLIZO RHOZMW HFIILFMWVW YB Z MZIILD UIRMTRMT
+    IVVU; WVKIVHHVW XVMGIZO ZIVZ
+MZGFIZO IVHLFIXVH:
+    TFZML (WVKLHRGH DLIPVW FMGRO OZGV 1800H)
+OZMW FHV:
+    ZIZYOV OZMW 0%; KVINZMVMG XILKH 0%; NVZWLDH ZMW KZHGFIVH 0%; ULIVHG ZMW
+    DLLWOZMW 5%; LGSVI 95%
+VMERILMNVMG:
+    ZONLHG GLGZOOB XLEVIVW DRGS TIZHHVH, KILHGIZGV ERMVH, ZMW OLD-TILDRMT
+    HSIFYH; HNZOO ZIVZ LU GIVVH RM GSV XVMGVI; OZXPH UIVHS DZGVI; KIRNZIROB Z
+    MVHGRMT, ILLHGRMT, ZMW ULIZTRMT SZYRGZG ULI HVZYRIWH, HSLIVYRIWH, ZMW NZIRMV
+    DROWORUV; UVIZO XZGH
+MLGV:
+    IVNLGV OLXZGRLM 2,575 PN HLFGSDVHG LU SLMLOFOF RM GSV MLIGS KZXRURX LXVZM,
+    QFHG MLIGS LU GSV VJFZGLI, ZYLFG SZOUDZB YVGDVVM SZDZRR ZMW ZFHGIZORZ
+
+:SLDOZMW RHOZMW KVLKOV
+
+KLKFOZGRLM:
+    FMRMSZYRGVW
+KLKFOZGRLM:
+  MLGV:
+    ZNVIRXZM XRERORZMH VEZXFZGVW RM 1942 ZUGVI QZKZMVHV ZRI ZMW MZEZO ZGGZXPH
+    WFIRMT DLIOW DZI RR; LXXFKRVW YB FH NRORGZIB WFIRMT DLIOW DZI RR, YFG
+    ZYZMWLMVW ZUGVI GSV DZI; KFYORX VMGIB RH YB HKVXRZO-FHV KVINRG LMOB ZMW
+    TVMVIZOOB IVHGIRXGVW GL HXRVMGRHGH ZMW VWFXZGLIH
+
+:SLDOZMW RHOZMW TLEVIMNVMG
+
+OLMT-ULIN MZNV:
+    MLMV
+GBKV:
+    FMRMXLIKLIZGVW GVIIRGLIB LU GSV FH ZWNRMRHGVIVW YB GSV URHS ZMW DROWORUV
+    HVIERXV LU GSV FH WVKZIGNVMG LU GSV RMGVIRLI ZH KZIG LU GSV MZGRLMZO
+    DROWORUV IVUFTV HBHGVN
+XZKRGZO:
+    MLMV; ZWNRMRHGVIVW UILN DZHSRMTGLM, WX
+
+:SLDOZMW RHOZMW VXLMLNB
+
+LEVIERVD:
+    ML VXLMLNRX ZXGRERGB
+
+:SLDOZMW RHOZMW XLNNFMRXZGRLMH
+
+KLIGH:
+    MLMV; LUUHSLIV ZMXSLIZTV LMOB, LMV YLZG OZMWRMT ZIVZ ZOLMT GSV NRWWOV LU GSV
+    DVHG XLZHG
+ZRIKLIGH:
+    ZRIHGIRK XLMHGIFXGVW RM 1937 ULI HXSVWFOVW IVUFVORMT HGLK LM GSV
+    ILFMW-GSV-DLIOW UORTSG LU ZNVORZ VZISZIG ZMW UIVW MLLMZM - GSVB OVUG OZV,
+    MVD TFRMVZ, ULI SLDOZMW RHOZMW, YFG DVIV MVEVI HVVM ZTZRM; GSV ZRIHGIRK RH
+    ML OLMTVI HVIERXVZYOV
+MLGV:
+    VZISZIG ORTSG RH Z WZB YVZXLM MVZI GSV NRWWOV LU GSV DVHG XLZHG GSZG DZH
+    KZIGRZOOB WVHGILBVW WFIRMT DLIOW DZI RR, YFG SZH HRMXV YVVM IVYFROG RM
+    NVNLIB LU UZNVW ZERZGIRC ZNVORZ VZISZIG
+
+:SLDOZMW RHOZMW WVUVMHV ULIXVH
+
+MLGV:

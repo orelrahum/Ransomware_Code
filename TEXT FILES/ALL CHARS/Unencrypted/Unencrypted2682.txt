@@ -1,0 +1,23 @@
+Exports:
+    $2.5 million (f.o.b., 1985)
+  commodities:
+    copra, copra oil, agricultural products, handicrafts
+  partners:
+    NA
+Imports:
+    $29.2 million (c.i.f., 1985)
+  commodities:
+    foodstuffs, beverages, building materials
+  partners:
+    NA
+External debt:
+    $NA
+Industrial production:
+    growth rate NA%
+Electricity:
+    42,000 kW capacity; 80 million kWh produced, 1,840 kWh per capita (1990)
+Industries:
+    copra, fish, tourism; craft items from shell, wood, and pearls; offshore
+    banking (embryonic)
+Agriculture:
+    coconuts, cacao, taro, breadfruit, fruits, copra; pigs, chickens

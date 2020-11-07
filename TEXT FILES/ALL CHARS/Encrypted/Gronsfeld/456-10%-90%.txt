@@ -1,0 +1,17 @@
+users in the network environment.
+
+LYNCH next said a few words about X-Windows as a way of differentiating
+between network access and networked information.  A number of the
+applications demonstrated at the Workshop could be rewritten to use X
+across the network, so that one could run them from any X-capable device-
+-a workstation, an X terminal--and transact with a database across the
+network.  Although this opens up access a little, assuming one has enough
+network to handle it, it does not provide an interface to develop a
+program that conveniently integrates information from multiple databases.
+X is a viewing technology that has limits.  In a real sense, it is just a
+graphical version of remote log-in across the network.  X-type applications
+represent only one step in the progression towards real access.
+
+LYNCH next discussed barriers to the distribution of networked multimedia
+information.  The heart of the problem iA C LJKO RK WAJVIITDB BS SWSCRLJ
+YLL JJNTKTH NSU HSTYCYMTS CW XDQO AX MFKJ OCPIU, WIAAQJDG IWNSUREARWS,

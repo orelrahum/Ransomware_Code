@@ -1,0 +1,119 @@
+texts is most effective when it is done with a large database.  Because
+PLD represented a collection that serves so many disciplines across so
+many periods, it was irresistible.
+
+The basic rule in converting PLD was to do no harm, to avoid the sins of
+intrusion in such a database:  no introduction of newer editions, no
+on-the-spot changes, no eradicating of all possible falsehoods from an
+edition.  Thus, PLD is not the final act in electronic publishing for
+this discipline, but simply the beginning.  The conversion of PLD has
+evoked numerous unanticipated questions:  How will information be used?
+What about networking?  Can the rights of a database be protected?
+Should one protect the rights of a database?  How can it be made
+available?
+
+Those converting PLD also tried to avoid the sins of omission, that is,
+excluding portions of the collections or whole sections.  What about the
+images?  PLD is full of images, some are extremely pious
+nineteenth-century representations of the Fathers, while others contain
+highly interesting elements.  The goal was to cover all the text of Migne
+(including notes, in Greek and in Hebrew, the latter of which, in
+particular, causes problems in creating a search structure), all the
+indices, and even the images, which are being scanned in separately
+searchable files.
+
+Several North American institutions that have placed acquisition requests
+for the PLD database have requested it in magnetic form without software,
+which means they are already running it without software, without
+anything demonstrated at the Workshop.
+
+What cannot practically be done is go back and reconvert and re-encode
+data, a time-consuming and extremely costly enterprise.  CALALUCA sees
+PLD as a database that can, and should, be run under a variety of
+retrieval softwares.  This will permit the widest possible searches.
+Consequently, the need to produce a CD-ROM of PLD, as well as to develop
+software that could handle some 1.3 gigabyte of heavily encoded text,
+developed out of conversations with collection development and reference
+librarians who wanted software both compassionate enough for the
+pedestrian but also capable of incorporating the most detailed
+lexicographical studies that a user desires to conduct.  In the end, the
+encoding and conversion of the data will prove the most enduring
+testament to the value of the project.
+
+The encoding of the database was also a hard-fought issue:  Did the
+database need to be encoded? Were there normative structures for encoding
+humanist texts?  Should it be SGML?  What about the TEI--will it last,
+will it prove useful?  CALALUCA expressed some minor doubts as to whether
+a data bank can be fully TEI-conformant.  Every effort can be made, but
+in the end to be TEI-conformant means to accept the need to make some
+firm encoding decisions that can, indeed, be disputed.  The TEI points
+the publisher in a proper direction but does not presume to make all the
+decisions for him or her.  Essentially, the goal of encoding was to
+eliminate, as much as possible, the hindrances to information-networking,
+so that if an institution acquires a database, everybody associated with
+the institution can have access to it.
+
+CALALUCA demonstrated a portion of Volume 160, because it had the most
+anomalies in it.  The software was created by Electronic Book
+Technologies of Providence, RI, and is called Dynatext.  The software
+works only with SGML-coded data.
+
+Viewing a table of contents on the screen, the audience saw how Dynatext
+treats each element as a book and attempts to simplify movement through a
+volume.  Familiarity with the Patrologia in print (i.e., the text, its
+source, and the editions) will make the machine-readable versions highly
+useful.  (Software with a Windows application was sought for PLD,
+CALALUCA said, because this was the main trend for scholarly use.)
+
+CALALUCA also demonstrated how a user can perform a variety of searches
+and quickly move to any part of a volume; the look-up screen provides
+some basic, simple word-searching.
+
+CALALUCA argued that one of the major difficulties is not the software.
+Rather, in creating a product that will be used by scholars representing
+aG @roGJ YV%c|ruS of coSVu|%r YoV"iY|icG|io_,  uY%r JocuS%_|G|io_ Vro2%Y
+|o @% |"% SoY| iSVor|G_| Y%r2ic% o_% cG_ Vro2iJ%A
+
+}AfAfo}A _%x| illuY|rG|%J G |ru_cG|%J Y%Grc" u_J%r S5Y|%riuS <i|"i_ |%_
+<orJY of 2ir|uY G_J "o< o_% <oulJ @% G@l% |o fi_J i|Y co_|%_|Y |"rouM"ou|
+|"% %_|ir% JG|G@GY%A  @% YGiJ |"G| |"% %xci|i_M |"i_M G@ou| PfD iY |"G|
+SG_5 of |"% GVVlicG|io_Y i_ |"% r%|ri%2Gl Yof|<Gr% @%i_M <ri||%_ for i|
+<ill %xc%%J |"% cGVG@ili|i%Y of |"% Yof|<Gr% %SVlo5%J _o< for |"% }DSliM
+2%rYio_A  _"% }DSliM fGc%Y M%_ui_% liSi|G|io_Y, i_ |%rSY of YV%%J G_J
+coSVr%"%_Yi2%_%YY, i_ |"% cr%G|io_ of G r%|ri%2Gl Yof|<Gr% |o ru_ i|A
+}AfAfo}A YGiJ "% "oV%J |"G| i_Ji2iJuGl Yc"olGrY <ill Jo<_loGJ |"% JG|G,
+if |"%5 <iY", |o |"%ir V%rYo_Gl coSVu|%rY, G_J "G2% r%GJ5 Gcc%YY |o
+iSVor|G_| |%x|Y o_ G co_Y|G_| @GYiY, <"ic" |"%5 <ill @% G@l% |o uY% i_
+|"%ir r%Y%Grc" G_J froS <"ic" |"%5 SiM"| %2%_ @% G@l% |o Vu@liY"A
+
+(}AfAfo}A %xVlGi_%J |"G| |"% @lu% _uS@%rY r%Vr%Y%_|%J MiM_%MY coluS_ _uS@%rY,
+<"ic" Gr% |"% Y|G_JGrJ Yc"olGrl5 r%f%r%_c%YA  Pulli_M uV G _o|%, "% Y|G|%J
+|"G| |"%Y% |%x|Y <%r% "%G2il5 %Ji|%J G_J |"% iSGM% fil%Y <oulJ GVV%Gr YiSVl5
+GY G _o|% GY <%ll, Yo |"G| o_% coulJ [uic(l5 Gcc%YY G_ iSGM%Al
+
+                                 PPPPPP
+
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+ f~cS}@@Ao~lY~l[AY P S%2%rGl Vro@l%SY <i|" <"ic" AM iY Y|ill <r%Y|li_M P
+VGriouY Y%Grc" G_J r%|ri%2Gl cGVG@ili|i%Y P clluY|rG|io_ of Gu|oSG|ic
+Y|%SSi_M G_J G |ru_cG|%J Y%Grc" P AMMY G||%SV| |o fi_J <G5Y |o co__%c|
+cG|GloMi_M |o |"% |%x|Y P AMMY MrG2i|G|io_ |o<GrJY SGMf P S|ri(i_M G
+@GlG_c% @%|<%%_ [uG_|i|5 G_J [uGli|5 P @o< AM fur_iY"%Y uY%rY r%courY% |o
+iSGM%Y P }o_Juc|i_M G Y%Grc" i_ G fullS|%x| %_2iro_S%_| P MGci_|oY" G_J
+c8M Vro|o|5V%Y of AM P Mul|iS%JiG GYV%c|Y of AM P
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+A J%So_Y|rG|io_ of AS%ricG_ M%Sor5 @5 i|Y coorJi_G|or, }Grl  f~cS}@@Ao~l,
+G_J lic(5 ~l[AY, GYYociG|% coorJi_G|or, fi@rGr5 of }o_Mr%YY, co_cluJ%J
+|"% Sor_i_M Y%YYio_A  8%Mi__i_M <i|" G coll%c|io_ of @roGJYiJ%Y froS |"%
+}o_|i_%_|Gl }o_Mr%YY G_J |"% }o_Y|i|u|io_Gl }o_2%_|io_, |"% o_l5 |%x|
+coll%c|io_ i_ G Vr%Y%_|G@l% forS G| |"% |iS% of |"% [or(Y"oV,  f~cS}@@Ao~l
+"iM"liM"|%J Y%2%rGl of |"% Vro@l%SY <i|" <"ic" AM iY Y|ill <r%Y|li_MA
+(c_ i|Y fi_Gl forS, |"% JiY( <ill co_|Gi_ |<o coll%c|io_Y, _o| o_l5 |"%
+@roGJYiJ%Y @u| GlYo |"% full |%x| <i|" illuY|rG|io_Y of G Y%| of
+GVVroxiSG|%l5 <DD AfricG_SAS%ricG_ VGSV"l%|Y froS |"% V%rioJ u8AD |o u}uDAl
+
+AY  l~~MA" "GJ %xVlGi_%J %Grli%r, AM "GY G||%SV|%J |o uY% G YSGll GSou_|
+of i_|%rVr%|G|io_ |o i_|roJuc% coll%c|io_YA  c_ |"% Vr%Y%_| cGY%, |"%
+co_|rGc|or, G coSVG_5 _GS%J (uic( Sourc%, i_ Sil2%r SVri_M, MDA, uY%J
+Yof|<Gr% cGll%J _ool@oo( G_J Vu| |oM%|"%r G SoJ%Y|l5 i_|%rGc|i2

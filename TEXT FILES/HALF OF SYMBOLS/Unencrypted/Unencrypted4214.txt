@@ -1,0 +1,28 @@
+    7 migrants1,000 population 1992
+Infant mortality rate:
+    35 deaths1,000 live births 1992
+Life expectancy at birth:
+    68 years male, 74 years female 1992
+Total fertility rate:
+    2.7 children bornwoman 1992
+Nationality:
+    noun  Armenians adjective  Armenian
+Ethnic divisions:
+    Armenian 93.3, Russian 1.5, Kurd 1.7, other 3.5
+Religions:
+    Armenian Orthodox 94
+Languages:
+    Armenian 93, Russian 2, other 5
+Literacy:
+    NA male NA, female NA age 15 and over can read and write NA
+Labor force:
+    1,630,000 industry and construction 42, agriculture and forestry 18,
+    other 401990
+Organized labor:
+    NA
+
+:Armenia Government
+
+Longform name:
+    Republic of Armenia
+Type:

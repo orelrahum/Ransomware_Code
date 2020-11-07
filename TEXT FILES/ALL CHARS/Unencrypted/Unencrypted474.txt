@@ -1,0 +1,20 @@
+adopting a recent development in wireless communication called packet radio,
+which combined the basic notion of packet-switching with radio.  The project
+used this technology to get the signal from a point on campus where it
+came down, an earth station for example, into the libraries, because it
+found that wiring the libraries, especially the older marble buildings,
+would cost $2,000-$5,000 per terminal.
+
+BROWNRIGG noted that, ten years ago, the project had neither the public
+policy nor the technology that would have allowed it to use packet radio
+in any meaningful way.  Since then much had changed.  He proceeded to
+detail research and development of the technology, how it is being
+deployed in California, and what direction he thought it would take.
+The design criteria are to produce a high-speed, one-time, low-cost,
+high-quality, secure, license-free device (packet radio) that one can
+plug in and play today, forget about it, and have access to the Internet.
+By high speed, BROWNRIGG meant 1 megabyte and 1.5 megabytes.  Those units
+have been built, he continued, and are in the process of being
+type-certified by an independent underwriting laboratory so that they can
+be type-licensed by the Federal Communications Commission.  As is the
+case with citizens band, one will be able to purchase a unit and not have

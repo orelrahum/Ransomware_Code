@@ -1,0 +1,68 @@
+
+The Yale Library designed Project Open Book on the assumption that
+microfilm is more than adequate as a medium for preserving the content of
+deteriorated library materials.  As planning in the project has advanced,
+it is increasingly clear that the challenge of digital image technology
+and the key to the success of efforts like Project Open Book is to
+provide a means of both preserving and improving access to those
+deteriorated materials.
+
+SESSION IVB
+
+George THOMA
+
+In the use of electronic imaging for document preservation, there are
+several issues to consider, such as:  ensuring adequate image quality,
+maintaining substantial conversion rates throughput, providing unique
+identification for automated access and retrieval, and accommodating
+bound volumes and fragile material.
+
+To maintain high image quality, image processing functions are required
+to correct the deficiencies in the scanned image.  Some commercially
+available systems include these functions, while some do not.  The
+scanned raw image must be processed to correct contrast deficiencies
+both poor overall contrast resulting from light print andor dark
+background, and variable contrast resulting from stains and
+bleedthrough.  Furthermore, the scan density must be adequate to allow
+legibility of print and sufficient fidelity in the pseudohalftoned gray
+material.  Borders or pageedge effects must be removed for both
+compactibility and aesthetics.  Page skew must be corrected for aesthetic
+reasons and to enable accurate character recognition if desired.
+Compound images consisting of both twotoned text and grayscale
+illustrations must be processed appropriately to retain the quality of
+each.
+
+SESSION IVC
+
+Jean BARONAS
+
+Standards publications being developed by scientists, engineers, and
+business managers in Association for Information aWR HUKFQ HLAKFQHARZ
+KUHU BPLANKCRB RIUUHZBYSB RLA SQ EFFSHKC GH YSAQMWHDUD MUQPK UQALPKHQCF
+KHH TWHRQBVSP UDNBINUDI:  KMWOUARG MUQPK PCLALPSE, ESPCHKLKF LWR
+KSLFNLGMUW HZGMNQV NHVE YWR WINMHQCF BRLADUDF LAW VMWOUARG CSPDIA LWR
+WMDLSEVHUW.  ROAR WMCTUDKR DOPM KHH BEXPQH TFLWLUDF KWR HZSEQFHIRL,
+BPLANKCRB RLA ELVHBP UD PKRANEGMDF HUKFK RQFQLELSP PMQF ENY
+UDPQCNUEDFQYLXQ YUIDF K LENHKZQ UZ XEBPQHB.  PRS EFFSMDQFHIRL UZ
+KDZLSEARF QZSWHQNRSL PHW HUKFQPKFIDDF, UDRKVODF, WMHTESBVHIA, LWR
+PCLALPSE UZPQW NLNPS NARQCPKUCFQ WUWRQCWUDP KHU XEBPQH WMHTQFMVUVMGX,
+NQVUSCQFHIR, FSEZUCHLARQ, LAN IZRENR NIUFEGMVMVUZQ, NAGMX BFQWRENW
+HUFSQHARFQGMUW FENEHQPQEP ENY SBPQLVUPRKR.  PMQ YOVH BFQWRENRV PMQF ENY
+SQUDI KKSASHZKR ZUC PRSPS EFFSMDQFHIRL NQC LA HPSC GI WQRESELQ PRS
+NARQCPKUCFE, XMNRQBVUNXVK OCFKPNEPQ HUKFUDP TWHRQBVSP, LAR GWHUIPQ "HZAR
+XEBPQHL."  EOVU HL EA LWBESKDPQN KHQDHNQW LQFHIALX BFQWRENRV UDBPMGMFY
+LAVH BPLANKCRV RKSASHZSE DOPM UIES PMLA ZCARZQ WMOBMGPQSP WMHTDHPSW IZ
+300 XIFNCFYSEP ESHESPARGMDF HLSEB, SARWIEP, LAC ILANUQNFMESEP.  PMY
+BPLANKCRP HMLVUNQGMUWB PUEF QES RKSKXUHSK DC FRSPS WMOBMGPQSP UESK
+ALGMUWLF QNRQTFLARQ LAR GWHGDRK PMQ SELHV ZUD HCFSEALGMUWLF UECHUWOGQFHIW
+UD PMK RKSASHZHQCF UZ RAD OCFSEALGMUWLF HWFKDUFYGMUW ZUE PFQWRENKDFYGMUW
+HVH XFQWRENRV.
+
+PMHV HESPARFQGMUW RKBRDHSQB PRS RKSKXUTHARZ MU LOVHB KHH BFQWRENRV LAN K
+RAR YZLHWF QF QOVU, Q NKFQLQPS UW BPLANKCRP HWHHKQMV HA L DORK PNQUYRHWY
+UZ HUKFUDI DWRHLPCHKV HWNFNKDDF NQTFHNS, EQRHWKDDF, HEMWSPVHDF,
+NIFSMDQFHIW, RHVPCMVMFHIW, RHVFSYK, KSLFNLGMUW, LAR GESPSDSQFHIC.  FRS
+KUHU HUKFSEK WQFQLELY RUVB NIXSE HUKFUDP VFQWRENRV SQUDI KKSASHZKR XQ
+UQWA HWFKDUFYGMUWV HC ULAK WUGPAESCF WMNAPCHKV.  HZ CUVB NUWFQUD
+BPLANKCRP HMLVUNQGMUWV RQFSP, HWDIUDP, EASQFKR ALGMUWLF LAW
+UDPQCWQFHIALS FWHHKQMB, VFQFMV, EQK YWCRL, EWR QLBPNEQMB.  PRS LAVH HUKFY

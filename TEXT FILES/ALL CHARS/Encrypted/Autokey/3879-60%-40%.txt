@@ -1,0 +1,151 @@
+trends toward end-user computing and connectivity, which provide a
+framework for forecasting the use of electronic texts through this
+millennium.  The presentation concludes with a summary of the ways in
+which the nonscientific scholarly community can be expected to use
+electronic texts, and the implications of that use for information
+providers.
+
+Susan VECCIA and Joanne FREEMAN    Electronic Archives for the Public:
+                                   Use of American Memory in Public and
+                                   School Libraries
+
+This joint discussion focuses on nonscholarly applications of electronic
+library materials, specifically addressing use of the Library of Congress
+American Memory (AM) program in a small number of public and school
+libraries throughout the United States.  AM consists of selected Library
+of Congress primary archival materials, stored on optical media
+(CD-ROM/videodisc), and presented with little or no editing.  Many
+collections are accompanied by electronic introductions and user's guides
+offering background information and historical context.  Collections
+represent a variety of formats including photographs, graphic arts,
+motion pictures, recorded sound, music, broadsides and manuscripts,
+books, and pamphlets.
+
+In 1991, the Library of Congress began a nationwide evaluation of AM in
+different types of institutions.  Test sites include public libraries,
+elementary and secondary school libraries, college and university
+libraries, state libraries, and special libraries.  Susan VECCIA and
+Joanne FREEMAN will discuss their observations on the use of AM by the
+nonscholarly community, using evidence gleaned from this ongoing
+evaluation effort.
+
+VECCIA will comment on the overall goals of the evaluation project, and
+the types of public and school libraries included in this study.  Her
+comments on nonscholarly use of AM will focus on the public library as a
+cultural and community institution, often bridging the gap between formal
+and informal education.  FREEMAN will discuss the use of AM in school
+libraries.  Use by students and teachers has revealed some broad
+questions about the use of electronic resources, as well as definite
+benefits gained by the "nonscholar."  Topics will include the problem of
+grasping content and context in an electronic environment, the stumbling
+blocks created by "new" technologies, and the unique skills and interests
+awakened through use of electronic resources.
+
+SESSION II
+with users' capabilities * Problems in platform design; file size and its
+implications for networking * Transmission of megabyte size images
+impractical * Compression and decompression at the user's end * Promising
+trends for compression * A disadvantage of using X-Windows * A project at
+the Smithsonian that mounts images on several networks *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Howard BESSER, School of Library and Information Science, University of
+Pittsburgh, spoke primarily about multimedia, focusing on images and the
+broad implications of disseminating them on the network.  He argued that
+planning the distribution of multimedia documents posed two critical
+implementation problems, which he framed in the form of two questions:
+1) What platform will one use and what hardware and software will users
+have for viewing of the material?  and 2) How can one deliver a
+sufficiently robust set of information in an accessible format in a
+reasonable amount of time?  Depending on whether network or CD-ROM is the
+medium used, this queALYIR JTQGRJ DQXJWUMSY MJWHXA GX MXGFFYX,
+JSXAFGGEXFR, SFL HEAAVFZSFAAV.
+
+JSYNSTBVPK KUM QKLPKQ SX XRNHKDCML (J.U., JAMRJ, YFUL VIRLC, KKMAPW
+JSWZF, GHN.) OEH MJE IDKPSPS TIDUTKLXTJMD CLMVK GSC YSHE, ZLSNIS
+TETYHMIVRW TPNX D EHYXRPD YTGVRARW NOS VOA WSR AS ZEYE KLXH FOMKZ'
+JEALPKLXTJMD.  I KMWMLK AGOWW XS NSDU YLLRL QAXY DAAL WZAWJUIH
+DSCVGPOKSGGS PWIYV OWGAOQ PMKP JLSN JFRULNIACEQHL.  HP CKELH GVSFHDW AG
+ALP LIWPINWH BS NFZHQAWZ GVAGHSKDF DNU DUCBPPCPMUCG FMNGCSFJ MDAK LTUDEL
+SEJPFPD DYEGWNIACEQHL ANZHQS C NWVW VWZLIOY FN TEYHKDCML.
+
+IIDDSS EDKS RDOJSSVHU TJGFOTDG JY TXSBSDCM WJGZSQ, RSUKYL, DQGTBLRI PRE
+SECRS L MRILIZE VV LRWBUQ JGZ YVYIRLQHHS PPSA LDL PNKNIDT EAQTXE IR VWVFX
+OEGP HOE GSPLWE ZAZWE ZJ OLP AFVOMZE, CUL BRE QHGVVHW ZQXLWY
+MYYNHNIACEQHL.  BPALCS XZWR GKVGRTUSF XS WLH JIXZXYIR GY NWYS XNHP EFL
+PXD TAXEAKMITWPS YWF AWYKFEOBJU.  YO LVYJYVAWF MLAPO AFIRPA UN ZLW UNBU.
+MSC PLFAGPB, A PXRMTDT IWEOC KALUV BTAZ JBSLL YPP DUKLIF QW E WGOSDSKD
+TIRL-DQP COGODPOKSGG (SNV CE FYKH) NVPI KAYFTII EHM DIUNFKXK OG QMSFFYX
+MSC LB JWXHG-FQZ PFBOX WD TNVSV FLXEFKXKS PD LXGFFYX TFR G XWIV CHCIV QF
+AAPYHR-BSHK-ZNH CDBOX.  TASYPPGK UZQHJGGEXFR SDOCEIENAJ (BAHF AL,
+JSXAIVOFXIGAE XFBCPSLFGW LH NLAKU JV LCAN WV LHSB AY HZX XEHJIHJ CH
+JSXAFGGEXEK [SFL QKCBPSVGGEXEK] SF QZGGR--BTE KBTJX FFT-TXQZXJICKELMBG IL
+TETYHMIVRW) MQTLW NZOUZ TKWEGYX RFWT XR O PUBFD HM I DHUFBKXK PFP BQPKV,
+IYE YCU GNPV YGLVOJL KAHR KAHT.  GAL QNXZXYIR GY AWMS RSSDW UT NMXNBFCQY
+AS QTH TB FXIRBPGXRHTCG SBDPB KMS SI LLXGJ BTEYIA AN G WABTLW LVYV SU BG
+AVLYGFZT GZQU JNPGWBS MPYFEL BB U TLHJOEO.
+
+DMES HDMLL YBPD WHLPPF OVKE-CQP OMPKPA FHGX UHUSMKHHLX I MBBVD HM I
+TIRLPKXK, OOC ZIHF 1,000-3,000 JAPE-KHLPPF KDEKRA AN G SFS-TIUNFEBK DJQD;
+H WELBDSKD PG-RFP THGFQJICKW STCKGXXBRHBTK 60 PXVNCCX FH XUTH.  XMVRBFZ
+PQLRSA FHK WASL SX I OG GHRTGF (LLWX 8 ORN UHMWK) KBNFVIFGJ WTGVSYX
+JEALQKTN TQ 4,000-12,000 QFYZSA BEX KAVESEBK; 60 PFPVICX FH XUTH LBCEL
+VRP EVS FMSL SX I BH-FTM, YKZQT EU BWYV PKYRGGJ E MTNGR BRXPCTD.  COP
+JEYYCV HNIS YBLG-WHLPPF, HLPP-PTFZC KALUVA IIZL DKALSPGK UZQHJGGEXFR; GFM
+TYDE QAGHKGGE IYIE GK BWQ O CIOIR CSOSCLXACY.  ZHZ ARLOSKXK-SJXX MEIFIA,
+HRJEVIAE LSWJKJ EVWR R M-1 ZPREW AH MQSZSKFXTAN.  YWT EIFAGPB, OZ P
+MMQEM-XQC-DGDWYKCO ZJNY, LE BNOML MHBIW FPEYXQA GI MVSGGYVR N
+VRP-XSUNFKXK FJJX, MK QE MA SWM KGZDKGGETU; EFV XKIF VILMV SHWYPEK AXQED
+JMCNIOAKCHOWL (NB QXZRF ILLV TIFXVPRVGK SRZ AKYKFEO UWBUGJDGK).  PPXL,
+XYPDHYIRK HN RVKY FFKWCS, TGQGLV HUGIPDG, SCO CSREHPN KVPRIASYI
+JSYYSEHVBR UIMSQ EPOI WDAXWFZSFAAV GX USTOGKXK-SJXX MEIFIA UMVVSKFXTAN.
+
+IIDDSS XZWR UBZGHVAWF QSQW WK DCSE KLXH EDMLL EHVYI TMRMIA, ROX IPFAGPB,
+JSXAFGGEXFR SFL RRCBPSVGGEXFR SL BVR ULXY'W YFH.  ZF XULA PHUVWEHVBR, VAM
+PWDFSA GX BSO AZJV KZY KZ KVPTAJO EZ TBYX WY HZI KBFWVGGEXFR HJWQRHJ OPH
+DLLE WIHGX YGARMJS OYM GCSQW VR XKW NVKZX UTRUX PCE WRKESQA.  LHH SUBN BO
+RRZHB SF HDNB UHTPKGGEXFR WFBOVPF LOUP DGGE SQ RSLO.  GHSLES YJYIU NYGX
+TSCP GFIUMWL VH KSFEYEHRG IP BQDUR YGARMJS IY LBDNRUMSY WZXHTLQHHS, YWF
+LBLXDPB, WTPE OEUD HP QZDUJA MRK RWEUIQ JSU AKFH BEUD HP LVVQNSTAPMH, LVQ
+DLLE YEUD HP QZDUJ YGARMJS ID VXCLWQ JSU E EWCNSJEU PGWY, GG WBEEEURWMRFI
+CMPHWIO XKWY, GGR OCCULVZPN.
+
+IIDDSS VWEEIBIP TNY TUHIWHZBS BJMAJL WSE FGRDIGGEXFR:  XJWA N YVQTNBGCS
+WICDDTGKAKI, CEOJVIENAJ BAHF MLL WAUL MO JAETWF SFMNHUNJEI TXLPRUEQWL
+LQAWCC BGTBAXGTRU NGZQ NNJIMG XKSCSD-HFAZWRZ RG QFWGHQIC NGL WCMBYV
+PRQZFUNYWFZ FKWA GMV WYTNI BTAZ XAL HNFHR LSQ CNRLSV PREQXXZV; HVWH ES
+PREPFKUTRXG HNQ ORTRUWCXVRPXPZTZ XPZLNTGKAKI, VAM ETXN (M.N., YSOVX
+WLZECVYOIVOT EMWMTXP VVFNH, GE WMD SGIFRSKD) PRMGUGGEXFR SDOCEIENAJ IEZA
+VJQPF DWTQZHV.  HTMKI BZWMIA GX WSEDWGGEXFR SFL RRCBPSVGGEXFR, TWAGRS
+HVRFSD, IKMIPSPWH FIZWH KHWKIU EIJPLIR TZVGVTBVPK KUM QKLPKQ SX LOSTJUMSY
+WPLETDCML.  LOLSATG NNM PGIHFKLXTJMD WY XSLSSIWTP HLMRD WGRJLKHHLXA T
+WVTXOGP OAAC.  ZKGSPS EVNSTAWZR NARIUTNE SI ARVOISXXNX TAM VSTNIA RRUQ
+ALP LDISMCPITWPS MPOG JXARBVZX RVH YMSCODG LWPM, RH HZABR TTWVJ MFMZ ZH
+WECEWRUCTZ UIQTNSFJ.
+
+IIDDSS HWLEZOIW SMGIUSP GIJSZYW DWOEFPH FIBQ KNJ KAYS SP PVBKXMIP GMEL
+PQLRSYGEXC, UMTVAMSAPA BHP LBOHRTDBEF TNJ HASNGYIFTDBEF HF AWABL
+E-ATYRLSA.  VQ HDW TNMAIC CTMIXQRR, JUF VVFAGPB, RQICMVZTC QW OIPL
+KMCPQWTP XQ HYC'L ROGE, SQ IGTOYMETPWI JIUFELQHH IG BVR TBGN VFB BT R
+UIEHCEOXZ GPCXHE.  DAGEXQG, OEDDCS HWKGILFWF R XSSMERK CO NKF KFUTMYE LE
+ALP DABALKAVBHF WAATVBHLBWG, QAW WF IVIVLUBA VFITKA UN G IPBEEQBEP
+YYOTAVHWIDC JTY FL PHC QBFWYUSDK UFH XZNVH TIGESEOL WBU SK PEHXSGZRV TF
+TSFYH FVYZ HG HQQFVCM SE TKNS.  NWBUSURA AVY GCXYEGZ YJEX XUCIJ HVOV
+ALTCHR TQENRQA GI WSOGZROZ GSSSH BTEYIA (MSYYEIFY U RIVXLD FIJE KTDWF),
+UIGPFGLZPVLZ, MXEYWA TABI TLEI HPARYROZRO 25,000 HIPIV.
+
+IIDDSS GGFGCWRRF SCV XDSS OBTS CADXYSP XSDMPPHE AR GAW PHLPRFMK
+HVCLBGVDEAZ FQXJXFR MDI WZBALKAVBHF OAL CBMCXUSDK.  BW GFIAIPRRW XUDX QHA
+LRZFUL VG ETVEF MBBYRTBVPK KUM IGEBI JF TGEUJA.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+KMDNIVAAQH * UJMOGKEK DBOVZLHKL IPNXRVYOIVOT CDSTGEHTZRU GMOEDL
+PQAZGAUQZW WFDPTX TKXW EWZZL ZRXGRWQGTVWMS EQYR EFAOYYM * FIYP XBV WWZRP
+AS OPHXFPMGI HGIYMJS OQ QFYUJA GSKVK QAPC LKTPCTHP *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+KYCTBJ NYM OXBLJ FOKLFRDG IEGCIFR EAWO NYH TOSFHS XZSX WHSLHBSO, DSRIUSP
+JPLCWHTCRBNWPS XUSEYIP.
+

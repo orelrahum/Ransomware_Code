@@ -1,0 +1,22 @@
+     slower.
+
+     * WATERS commented on window management questions:  DEC proposed an
+     X-Windows solution which was problematical for two reasons.  One was
+     POB's requirement to be able to manipulate images on the workstation
+     and bring them down to the workstation itself and the other was
+     network usage.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+THOMA * Illustration of deficiencies in scanning and storage process *
+Image quality in this process * Different costs entailed by better image
+quality * Techniques for overcoming various de-ficiencies:  fixed
+thresholding, dynamic thresholding, dithering, image merge * Page edge
+effects *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+LIVAOJ BJOVI, GKNIM, LWRUWNRKEWNSUB MSOKNNMVLSK IAISKJ, NJBMRSES UQGZCRH
+TJ TNLNKKNN (VPP), NPSDAYZCTNL WHAIYJT TN VHN LIINGPNVHQGS MQWFZWZNL GG
+YLL YZJDKODA WSJERNZX.  PG IWBVRIYJNL YPG TXXMF TJ ZYMHQCL YZSEQITB JD
+SSARVL BJE JLZDSXHPMX WH EUMGWWSURK NUCGRVK.  ITV LGIRXNE, RB MV WINNVJZCBUM

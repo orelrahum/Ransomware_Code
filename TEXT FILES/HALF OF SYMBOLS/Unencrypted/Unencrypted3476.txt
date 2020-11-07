@@ -1,0 +1,33 @@
+
+HOCKEY remarked several large projects, particularly in Europe, for the
+compilation of dictionaries, language studies, and language analysis, in
+which people have built up archives of text and have begun to recognize
+the need for an encoding format that will be reusable and multifunctional,
+that can be used not just to print the text, which may be assumed to be a
+byproduct of what one wants to do, but to structure it inside the computer
+so that it can be searched, built into a Hypertext system, etc.
+
+                                 
+
+
+WEIBEL  OCLCs approach to preparing electronic text:  retroconversion,
+keying of texts, more automated ways of developing data  Project ADAPT
+and the CORE Project  Intelligent character recognition does not exist 
+Advantages of SGML  Data should be free of procedural markup
+descriptive markup strongly advocated  OCLCs interface illustrated 
+Storage requirements and costs for putting a lot of information on line 
+
+
+Stuart WEIBEL, senior research scientist, Online Computer Library Center,
+Inc. OCLC, described OCLCs approach to preparing electronic text.  He
+argued that the electronic world into which we are moving must
+accommodate not only the future but the past as well, and to some degree
+even the present.  Thus, starting out at one end with retroconversion and
+keying of texts, one would like to move toward much more automated ways
+of developing data.
+
+For example, Project ADAPT had to do with automatically converting
+document images into a structured document database with OCR text as
+indexing and also a little bit of automatic formatting and tagging of
+that text.  The CORE project hosted by Cornell University, Bellcore,
+OCLC, the American Chemical Society, and Chemical Abstracts, constitutes

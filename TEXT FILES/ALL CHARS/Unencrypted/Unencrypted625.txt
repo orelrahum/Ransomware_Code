@@ -1,0 +1,29 @@
+
+Maria LEBRON
+
+The Online Journal of Current Clinical Trials, a joint venture of the
+American Association for the Advancement of Science (AAAS) and the Online
+Computer Library Center, Inc. (OCLC), is the first peer-reviewed journal
+to provide full text, tabular material, and line illustrations on line.
+This presentation will discuss the genesis and start-up period of the
+journal.  Topics of discussion will include historical overview,
+day-to-day management of the editorial peer review, and manuscript
+tagging and publication.  A demonstration of the journal and its features
+will accompany the presentation.
+
+Lynne PERSONIUS
+
+Cornell University Library, Cornell Information Technologies, and Xerox
+Corporation, with the support of the Commission on Preservation and
+Access, and Sun Microsystems, Inc., have been collaborating in a project
+to test a prototype system for recording brittle books as digital images
+and producing, on demand, high-quality archival paper replacements.  The
+project goes beyond that, however, to investigate some of the issues
+surrounding scanning, storing, retrieving, and providing access to
+digital images in a network environment.
+
+The Joint Study in Digital Preservation began in January 1990.  Xerox
+provided the College Library Access and Storage System (CLASS) software,
+a prototype 600-dots-per-inch (dpi) scanner, and the hardware necessary
+to support network printing on the DocuTech printer housed in Cornell's
+Computing and Communications Center (CCC).

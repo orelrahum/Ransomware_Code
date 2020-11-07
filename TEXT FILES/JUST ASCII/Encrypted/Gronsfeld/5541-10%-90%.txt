@@ -1,0 +1,753 @@
+new effort might generate a much larger number willing to cooperate
+
+KIMBALL recounted his units MachineReadable Collections Reading Room
+troubles with the commercial publishers of electronic media in acquiring
+materials for LCs collections in particular the publishers fear that
+they would not be able to cover their costs and would lose control of
+their products that LC would give them away or sell them and make
+profits from them  He doubted that the publishing industry was prepared
+to move into this area at the moment given its resistance to allowing LC
+to use its machinereadable materials as the Library would like
+
+The copyright law now addresses compact disk as a medium and LC can
+request one copy of that or two copies if it is the only version and
+can request copies of software but that fails to address magazines or
+books or anything like that which is in machinereadable form
+
+GIFFORD acknowledged the thorny nature of this issue which he illustrated
+with the example of the cumbersome process involved in putting a copy of a
+scientific database on a LAN in LCs science reading room  He also
+acknowledged that LC needs help and could enlist the energies and talents
+of Workshop participants in thinking through a number of these problems
+
+GIFFORD returned the discussion to getting the image and text people to
+think through together where they want to go in the long term  MYLONAS
+conceded that her experience at the Pierce Symposium the previous week at
+Georgetown University and this week at LC had forced her to reevaluate
+her perspective on the usefulness of text as images  MYLONAS framed the
+issues in a series of questions  How do we acquire machinereadable
+text?  Do we take pictures of it and perform OCR on it later?  Is it
+important to obtain very highquality images and text etc?
+FLEISCHHAUER agreed with MYLONASs framing of strategic questions adding
+that a large institution such as LC probably has to do all of those
+things at different times  Thus the trick is to exercise judgment  The
+Workshop had added to his and AMs considerations in making those
+judgments  Concerning future meetings or discussions MYLONAS suggested
+that screening priorities would be helpful
+
+WEIBEL opined that the diversity reflected in this group was a sign both
+of the health and of the immaturity of the field and more time would
+have to pass before we convince one another concerning standards
+
+An exchange between MYLONAS and BATTIN clarified the point that the
+driving force behind both the Perseus and the Cornell Xerox projects was
+the preservation of knowledge for the future not simply for particular
+research use  In the case of Perseus MYLONAS said the assumption was
+that the texts would not be entered again into electronically readable
+form  SPERBERGMcQUEEN added that a scanned image would not serve as an
+archival copy for purposes of preservation in the case of say the Bill
+of Rights in the sense that the scanned images are effectively the
+archival copies for the Cornell mathematics books
+
+
+                                 
+
+
+                          Appendix I  PROGRAM
+
+
+
+                                WORKSHOP
+                                   ON
+                               ELECTRONIC
+                                  TEXTS
+
+
+
+                              June 
+
+                           Library of Congress
+                            Washington DC
+
+
+
+    Supported by a Grant from the David and Lucile Packard Foundation
+
+
+Tuesday  June 
+
+NATIONAL DEMONSTRATION LAB ATRIUM LIBRARY MADISON
+
+ AM   Coffee and Danish registration
+
+ AM   Welcome
+
+          Prosser Gifford Director for Scholarly Programs and Carl
+             Fleischhauer Coordinator American Memory Library of
+             Congress
+
+l AM   Session I  Content in a New Form  Who Will Use It and What
+          Will They Do?
+
+          Broad description of the range of electronic information
+          Characterization of who uses it and how it is or may be used
+          In addition to a look at scholarly uses this session will
+          include a presentation on use by students K and college
+          and the general public
+
+          Moderator  James Daly
+          Avra Michelson Archival Research and Evaluation Staff
+             National Archives and Records Administration Overview
+          Susan H Veccia Team Leader American Memory User Evaluation
+             and
+          Joanne Freeman Associate Coordinator American Memory Library
+             of Congress Beyond the scholar
+
+
+ AM  Break
+
+ AM  Session II  Show and Tell
+
+          Each presentation to consist of a fifteenminute
+          statementshow group discussion will follow lunch
+
+          Moderator  Jacqueline Hess Director National Demonstration
+             Lab
+
+              A classics project stressing texts and text retrieval
+                more than multimedia  Perseus Project Harvard
+                University
+                Elli Mylonas Managing Editor
+
+              Other humanities projects employing the emerging norms of
+                the Text Encoding Initiative TEI  ChadwyckHealeys
+                The English Poetry Full Text Database andor Patrologia
+                Latina Database
+                Eric M Calaluca Vice President ChadwyckHealey Inc
+
+              American Memory
+                Carl Fleischhauer Coordinator and
+                Ricky Erway Associate Coordinator Library of Congress
+
+              Founding Fathers example from Packard Humanities
+                Institute  The Papers of George Washington University
+                of Virginia
+                Dorothy Twohig Managing Editor andor
+                David Woodley Packard
+
+              An electronic medical journal offering graphics and
+                fulltext searchability  The Online Journal of Current
+                Clinical Trials American Association for the Advancement
+                of Science
+                Maria L Lebron Managing Editor
+
+              A project that offers facsimile images of pages but omits
+                searchable text  Cornell math books
+                Lynne K Personius Assistant Director Cornell
+                   Information Technologies for Scholarly Information
+                   Sources Cornell University
+
+ PM  Lunch  Dining Room A Library Madison   Exhibits
+          available
+
+ PM   Session II  Show and Tell Contd
+
+
+ PM   Break
+
+
+ PM   Session III  Distribution Networks and Networking  Options
+          for Dissemination
+
+          Published disks  University presses and publicsector
+             publishers privatesector publishers
+          Computer networks
+
+          Moderator  Robert G Zich Special Assistant to the Associate
+             Librarian for Special Projects Library of Congress
+          Clifford A Lynch Director Library Automation University of
+             California
+          Howard Besser School of Library and Information Science
+             University of Pittsburgh
+          Ronald L Larsen Associate Director of Libraries for
+             Information Technology University of Maryland at College
+             Park
+          Edwin B Brownrigg Executive Director Memex Research
+             Institute
+
+ PM   Reception  Montpelier Room Library Madison 
+
+                                 
+
+Wednesday  June 
+
+DINING ROOM A LIBRARY MADISON 
+
+ AM   Coffee and Danish
+
+ AM   Session IV  Image Capture Text Capture Overview of Text and
+          Image Storage Formats
+
+          Moderator  William L Hooton Vice President of Operations
+             INET
+
+          A Principal Methods for Image Capture of Text
+             Direct scanning
+             Use of microform
+
+          Anne R Kenney Assistant Director Department of Preservation
+             and Conservation Cornell University
+          Pamela QJ Andre Associate Director Automation and
+          Judith A Zidar Coordinator National Agricultural Text
+             Digitizing Program NATDP National Agricultural Library
+             NAL
+          Donald J Waters Head Systems Office Yale University Library
+
+          B Special Problems
+             Bound volumes
+             Conservation
+             Reproducing printed halftones
+
+          Carl Fleischhauer Coordinator American Memory Library of
+             Congress
+          George Thoma Chief Communications Engineering Branch
+             National Library of Medicine NLM
+
+
+ AM  Break
+
+ AM  Session IV  Image Capture Text Capture Overview of Text and
+          Image Storage Formats Contd
+
+          C Image Standards and Implications for Preservation
+
+          Jean Baronas Senior Manager Department of Standards and
+             Technology Association for Information and Image Management
+             AIIM
+          Patricia Battin President The Commission on Preservation and
+             Access CPA
+
+          D Text Conversion
+             OCR vs rekeying
+             Standards of accuracy and use of imperfect texts
+             Service bureaus
+
+          Stuart Weibel Senior Research Specialist Online Computer
+             Library Center Inc OCLC
+          Michael Lesk Executive Director Computer Science Research
+             Bellcore
+          Ricky Erway Associate Coordinator American Memory Library of
+             Congress
+          Pamela QJ Andre Associate Director Automation and
+          Judith A Zidar Coordinator National Agricultural Text
+             Digitizing Program NATDP National Agricultural Library
+             NAL
+
+
+ PM   Lunch
+
+ PM   Session V  Approaches to Preparing Electronic Texts
+
+          Discussion of approaches to structuring text for the computer
+          pros and cons of text coding description of methods in
+          practice and comparison of textcoding methods
+
+          Moderator  Susan Hockey Director Center for Electronic Texts
+             in the Humanities CETH Rutgers and Princeton Universities
+          David Woodley Packard
+          CM SperbergMcQueen Editor Text Encoding Initiative TEI
+             University of IllinoisChicago
+          Eric M Calaluca Vice President ChadwyckHealey Inc
+
+
+ PM   Break
+
+ PM   Session VI  Copyright Issues
+
+          Marybeth Peters Policy Planning Adviser to the Register of
+             Copyrights Library of Congress
+
+ PM   Session VII Conclusion
+
+          General discussion
+          What topics were omitted or given short shrift that anyone
+             would like to talk about now?
+          Is there a "group" here?  What should the group do next if
+             anything?  What should the Library of Congress do next if
+             anything?
+          Moderator  Prosser Gifford Director for Scholarly Programs
+             Library of Congress
+
+ PM   Adjourn
+
+
+                                 
+
+
+                         Appendix II  ABSTRACTS
+
+
+SESSION I
+
+Avra MICHELSON           Forecasting the Use of Electronic Texts by
+                         Social Sciences and Humanities Scholars
+
+This presentation explores the ways in which electronic texts are likely
+to be used by the nonscientific scholarly community  Many of the
+remarks are drawn from a report the speaker coauthored with Jeff
+Rothenberg a computer scientist at The RAND Corporation
+
+The speaker assesses  current scholarly use of information technology
+and  the key trends in information technology most relevant to the
+research process in order to predict how social sciences and humanities
+scholars are apt to use electronic texts  In introducing the topic
+current use of electronic texts is explored broadly within the context of
+scholarly communication  From the perspective of scholarly
+communication the work of humanities and social sciences scholars
+involves five processes   identification of sources  communication
+with colleagues  interpretation and analysis of data  dissemination
+of research findings and  curriculum development and instruction  The
+extent to which computation currently permeates aspects of scholarly
+communication represents a viable indicator of the prospects for
+electronic texts
+
+The discussion of current practice is balanced by an analysis of key
+trends in the scholarly use of information technology  These include the
+trends toward enduser computing and connectivity which provide a
+framework for forecasting the use of electronic texts through this
+millennium  The presentation concludes with a summary of the ways in
+which the nonscientific scholarly community can be expected to use
+electronic texts and the implications of that use for information
+providers
+
+Susan VECCIA and Joanne FREEMAN    Electronic Archives for the Public
+                                   Use of American Memory in Public and
+                                   School Libraries
+
+This joint discussion focuses on nonscholarly applications of electronic
+library materials specifically addressing use of the Library of Congress
+American Memory AM program in a small number of public and school
+libraries throughout the United States  AM consists of selected Library
+of Congress primary archival materials stored on optical media
+CDROMvideodisc and presented with little or no editing  Many
+collections are accompanied by electronic introductions and users guides
+offering background information and historical context  Collections
+represent a variety of formats including photographs graphic arts
+motion pictures recorded sound music broadsides and manuscripts
+books and pamphlets
+
+In  the Library of Congress began a nationwide evaluation of AM in
+different types of institutions  Test sites include public libraries
+elementary and secondary school libraries college and university
+libraries state libraries and special libraries  Susan VECCIA and
+Joanne FREEMAN will discuss their observations on the use of AM by the
+nonscholarly community using evidence gleaned from this ongoing
+evaluation effort
+
+VECCIA will comment on the overall goals of the evaluation project and
+the types of public and school libraries included in this study  Her
+comments on nonscholarly use of AM will focus on the public library as a
+cultural and community institution often bridging the gap between formal
+and informal education  FREEMAN will discuss the use of AM in school
+libraries  Use by students and teachers has revealed some broad
+questions about the use of electronic resources as well as definite
+benefits gained by the "nonscholar"  Topics will include the problem of
+grasping content and context in an electronic environment the stumbling
+blocks created by "new" technologies and the unique skills and interests
+awakened through use of electronic resources
+
+SESSION II
+
+Elli MYLONAS             The Perseus Project  Interactive Sources and
+                         Studies in Classical Greece
+
+The Perseus Project  has just released Perseus  the first publicly
+available version of its hypertextual database of multimedia materials on
+classical Greece  Perseus is designed to be used by a wide audience
+comprised of readers at the student and scholar levels  As such it must
+be able to locate information using different strategies and it must
+contain enough detail to serve the different needs of its users  In
+addition it must be delivered so that it is affordable to its target
+audience  These problems and the solutions we chose are described in
+Mylonas "An Interface to Classical Greek Civilization" JASIS 
+March 
+
+In order to achieve its objective the project staff decided to make a
+conscious separation between selecting and converting textual database
+and image data on the one hand and putting it into a delivery system on
+the other  That way it is possible to create the electronic data
+without thinking about the restrictions of the delivery system  We have
+made a great effort to choose systemindependent formats for our data
+and to put as much thought and work as possible into structuring it so
+that the translation from paper to electronic form will enhance the value
+of the data A discussion of these solutions as of two years ago is in
+Elli Mylonas Gregory Crane Kenneth Morrell and D Neel Smith "The
+Perseus Project  Data in the Electronic Age" in Accessing Antiquity
+The Computerization of Classical Databases J Solomon and T Worthen
+eds  University of Arizona Press in press
+
+Much of the work on Perseus is focused on collecting and converting the
+data on which the project is based  At the same time it is necessary to
+provide means of access to the information in order to make it usable
+and them to investigate how it is used  As we learn more about what
+students and scholars from different backgrounds do with Perseus we can
+adjust our data collection and also modify the system to accommodate
+them  In creating a delivery system for general use we have tried to
+avoid favoring any one type of use by allowing multiple forms of access
+to and navigation through the system
+
+The way text is handled exemplifies some of these principles  All text
+in Perseus is tagged using SGML following the guidelines of the Text
+Encoding Initiative TEI  This markup is used to index the text and
+process it so that it can be imported into HyperCard  No SGML markup
+remains in the text that reaches the user because currently it would be
+too expensive to create a system that acts on SGML in real time
+However the regularity provided by SGML is essential for verifying the
+content of the texts and greatly speeds all the processing performed on
+them  The fact that the texts exist in SGML ensures that they will be
+relatively easy to port to different hardware and software and so will
+outlast the current delivery platform  Finally the SGML markup
+incorporates existing canonical reference systems chapter verse line
+etc indexing and navigation are based on these features  This ensures
+that the same canonical reference will always resolve to the same point
+within a text and that all versions of our texts regardless of delivery
+platform even paper printouts will function the same way
+
+In order to provide tools for users the text is processed by a
+morphological analyzer and the results are stored in a database
+Together with the index the GreekEnglish Lexicon and the index of all
+the English words in the definitions of the lexicon the morphological
+analyses comprise a set of linguistic tools that allow users of all
+levels to work with the textual information and to accomplish different
+tasks  For example students who read no Greek may explore a concept as
+it appears in Greek texts by using the EnglishGreek index and then
+looking up works in the texts and translations or scholars may do
+detailed morphological studies of word use by using the morphological
+analyses of the texts  Because these tools were not designed for any one
+use the same tools and the same data can be used by both students and
+scholars
+
+NOTES
+       Perseus is based at Harvard University with collaborators at
+     several other universities  The project has been funded primarily
+     by the AnnenbergCPB Project as well as by Harvard University
+     Apple Computer and others  It is published by Yale University
+     Press  Perseus runs on Macintosh computers under the HyperCard
+     program
+
+Eric CALALUCA
+
+ChadwyckHealey embarked last year on two distinct yet related fulltext
+humanities database projects
+
+The English Poetry FullText Database and the Patrologia Latina Database
+represent new approaches to linguistic research resources  The size and
+complexity of the projects present problems for electronic publishers
+but surmountable ones if they remain abreast of the latest possibilities
+in data capture and retrieval software techniques
+
+The issues which required address prior to the commencement of the
+projects were legion
+
+        Editorial selection or exclusion of materials in each
+          database
+
+        Deciding whether or not to incorporate a normative encoding
+          structure into the databases?
+               A  If one is selected should it be SGML?
+               B  If SGML then the TEI?
+
+        Deliver as CDROM magnetic tape or both?
+
+        Can one produce retrieval software advanced enough for the
+          postdoctoral linguist yet accessible enough for unattended
+          general use?  Should one try?
+
+        Re fair and liberal networking policies what are the risks to
+          an electronic publisher?
+
+        How does the emergence of national and international education
+          networks affect the use and viability of research projects
+          requiring high investment?  Do the new European Community
+          directives concerning database protection necessitate two
+          distinct publishing projects one for North America and one for
+          overseas?
+
+From new notions of "scholarly fair use" to the future of optical media
+virtually every issue related to electronic publishing was aired  The
+result is two projects which have been constructed to provide the quality
+research resources with the fewest encumbrances to use by teachers and
+private scholars
+
+Dorothy TWOHIG
+
+In spring  the editors of the papers of George Washington John
+Adams Thomas Jefferson James Madison and Benjamin Franklin were
+approached by classics scholar David Packard on behalf of the Packard
+Humanities Foundation with a proposal to produce a CDROM edition of the
+complete papers of each of the Founding Fathers  This electronic edition
+will supplement the published volumes making the documents widely
+available to students and researchers at reasonable cost  We estimate
+that our CDROM edition of Washingtons Papers will be substantially
+completed within the next two years and ready for publication  Within
+the next ten years or so similar CDROM editions of the Franklin Adams
+Jefferson and Madison papers also will be available  At the Library of
+Congresss session on technology I would like to discuss not only the
+experience of the Washington Papers in producing the CDROM edition but
+the impact technology has had on these major editorial projects
+Already we are editing our volumes with an eye to the material that will
+be readily available in the CDROM edition  The completed electronic
+edition will provide immense possibilities for the searching of documents
+for information in a way never possible before  The kind of technical
+innovations that are currently available and on the drawing board will
+soon revolutionize historical research and the production of historical
+documents  Unfortunately much of this new technology is not being used
+in the planning stages of historical projects simply because many
+historians are aware only in the vaguest way of its existence  At least
+two major new historical editing projects are considering microfilm
+editions simply because they are not aware of the possibilities of
+electronic alternatives and the advantages of the new technology in terms
+of flexibility and research potential compared to microfilm  In fact
+too many of us in history and literature are still at the stage of
+struggling with our PCs  There are many historical editorial projects in
+progress presently and an equal number of literary projects  While the
+two fields have somewhat different approaches to textual editing there
+are ways in which electronic technology can be of service to both
+
+Since few of the editors involved in the Founding Fathers CDROM editions
+are technical experts in any sense I hope to point out in my discussion
+of our experience how many of these electronic innovations can be used
+successfully by scholars who are novices in the world of new technology
+One of the major concerns of the sponsors of the multitude of new
+scholarly editions is the limited audience reached by the published
+volumes  Most of these editions are being published in small quantities
+and the publishers price for them puts them out of the reach not only of
+individual scholars but of most public libraries and all but the largest
+educational institutions  However little attention is being given to
+ways in which technology can bypass conventional publication to make
+historical and literary documents more widely available
+
+What attracted us most to the CDROM edition of The Papers of George
+Washington was the fact that David Packards aim was to make a complete
+edition of all of the  documents we have collected available in an
+inexpensive format that would be placed in public libraries small
+colleges and even high schools  This would provide an audience far
+beyond our present copy  published edition  Since the CDROM
+edition will carry none of the explanatory annotation that appears in the
+published volumes we also feel that the use of the CDROM will lead many
+researchers to seek out the published volumes
+
+In addition to ignorance of new technical advances I have found that too
+many editorsand historians and literary scholarsare resistant and
+even hostile to suggestions that electronic technology may enhance their
+work  I intend to discuss some of the arguments traditionalists are
+advancing to resist technology ranging from distrust of the speed with
+which it changes we are already wondering what is out there that is
+better than CDROM to suspicion of the technical language used to
+describe electronic developments
+
+Maria LEBRON
+
+The Online Journal of Current Clinical Trials a joint venture of the
+American Association for the Advancement of Science AAAS and the Online
+Computer Library Center Inc OCLC is the first peerreviewed journal
+to provide full text tabular material and line illustrations on line
+This presentation will discuss the genesis and startup period of the
+journal  Topics of discussion will include historical overview
+daytoday management of the editorial peer review and manuscript
+tagging and publication  A demonstration of the journal and its features
+will accompany the presentation
+
+Lynne PERSONIUS
+
+Cornell University Library Cornell Information Technologies and Xerox
+Corporation with the support of the Commission on Preservation and
+Access and Sun Microsystems Inc have been collaborating in a project
+to test a prototype system for recording brittle books as digital images
+and producing on demand highquality archival paper replacements  The
+project goes beyond that however to investigate some of the issues
+surrounding scanning storing retrieving and providing access to
+digital images in a network environment
+
+The Joint Study in Digital Preservation began in January   Xerox
+provided the College Library Access and Storage System CLASS software
+a prototype dotsperinch dpi scanner and the hardware necessary
+to support network printing on the DocuTech printer housed in Cornells
+Computing and Communications Center CCC
+
+The Cornell staff using the hardware and software became an integral part
+of the development and testing process for enhancements to the CLASS
+software system  The collaborative nature of this relationship is
+resulting in a system that is specifically tailored to the preservation
+application
+
+A digital library of  volumes or approximately  images has
+been created and is stored on an optical jukebox that resides in CCC
+The library includes a collection of select mathematics monographs that
+provides mathematics faculty with an opportunity to use the electronic
+library  The remaining volumes were chosen for the library to test the
+various capabilities of the scanning system
+
+One project objective is to provide users of the Cornell library and the
+library staff with the ability to request facsimiles of digitized images
+or to retrieve the actual electronic image for browsing  A prototype
+viewing workstation has been created by Xerox with input into the design
+by a committee of Cornell librarians and computer professionals  This
+will allow us to experiment with patron access to the images that make up
+the digital library  The viewing station provides search retrieval and
+ultimately printing functions with enhancements to facilitate
+navigation through multiple documents
+
+Cornell currently is working to extend access to the digital library to
+readers using workstations from their offices  This year is devoted to
+the development of a network resident image conversion and delivery
+server and client software that will support readers who use Apple
+Macintosh computers IBM windows platforms and Sun workstations
+Equipment for this development was provided by Sun Microsystems with
+support from the Commission on Preservation and Access
+
+During the showandtell session of the Workshop on Electronic Texts a
+prototype view station will be demonstrated  In addition a display of
+original library books that have been digitized will be available for
+review with associated printed copies for comparison  The fifteenminute
+overview of the project will include a slide presentation that
+constitutes a "tour" of the preservation digitizing process
+
+The final networkconnected version of the viewing station will provide
+library users with another mechanism for accessing the digital library
+and will also provide the capability of viewing images directly  This
+will not require special software although a powerful computer with good
+graphics will be needed
+
+The Joint Study in Digital Preservation has generated a great deal of
+interest in the library community  Unfortunately or perhaps
+fortunately this project serves to raise a vast number of other issues
+surrounding the use of digital technology for the preservation and use of
+deteriorating library materials which subsequent projects will need to
+examine  Much work remains
+
+SESSION III
+
+Howard BESSER                      Networking Multimedia Databases
+
+What do we have to consider in building and distributing databases of
+visual materials in a multiuser environment?  This presentation examines
+a variety of concerns that need to be addressed before a multimedia
+database can be set up in a networked environment
+
+In the past it has not been feasible to implement databases of visual
+materials in shareduser environments because of technological barriers
+Each of the two basic models for multiuser multimedia databases has
+posed its own problem  The analog multimedia storage model represented
+by Project Athenas parallel analog and digital networks has required an
+incredibly complex and expensive infrastructure  The economies of
+scale that make multiuser setups cheaper per user served do not operate
+in an environment that requires a computer workstation videodisc player
+and two display devices for each user
+
+The digital multimedia storage model has required vast amounts of storage
+space as much as one gigabyte per thirty still images  In the past the
+cost of such a large amount of storage space made this model a
+prohibitive choice as well  But plunging storage costs are finally
+making this second alternative viable
+
+If storage no longer poses such an impediment what do we need to
+consider in building digitally stored multiuser databases of visual
+materials?  This presentation will examine the networking and
+telecommunication constraints that must be overcome before such databases
+can become commonplace and useful to a large number of people
+
+The key problem is the vast size of multimedia documents and how this
+affects not only storage but telecommunications transmission time
+Anything slower than T speed is impractical for files of  megabyte or
+larger which is likely to be small for a multimedia document  For
+instance even on a  Kb line it would take three minutes to transfer a
+megabyte file  And these figures assume ideal circumstances and do
+not take into consideration other users contending for network bandwidth
+disk access time or the time needed for remote display  Current common
+telephone transmission rates would be completely impractical few users
+would be willing to wait the hour necessary to transmit a single image at
+ baud
+
+This necessitates compression which itself raises a number of other
+issues  In order to decrease file sizes significantly we must employ
+lossy compression algorithms  But how much quality can we afford to
+lose?  To date there has been only one significant study done of
+imagequality needs for a particular user group and this study did not
+look at loss resulting from compression  Only after identifying
+imagequality needs can we begin to address storage and network bandwidth
+needs
+
+Experience with XWindowsbased applications such as Imagequery the
+University of California at Berkeley image database demonstrates the
+utility of a clientserver topology but also points to the limitation of
+current software for a distributed environment  For example
+applications like Imagequery can incorporate compression but current X
+implementations do not permit decompression at the end users
+workstation  Such decompression at the host computer alleviates storage
+capacity problems while doing nSAQQSO VO JLHUJWZ YZTJNEVA SI
+YISNKTUOUWQGDYMVWA GIPDFQHWM
+
+BI UNMI BQ EGIQLSI AQM JNHELBW RS RLCETZM TQZSXLLWDB TN OOEQRJ
+RYSCQRMFIJ LSFZQLWBX ITODVH RS E UNBBWTK  FM RHJH AX MCIOIWM ZDWMVDA
+YSWXTTOKEB BLDY APUT MMNP DA EYTMK KWYBNEWMGNX EYXCSL UEADIUX EUM
+LEANEFGU  EGXIUNIULM BQVH JXTONGHCQTVU SDKL DX XONAJ ZCIBM WWNPS KZTIFEA
+VYLBBNWPS QWA FQSZNTD QU TQM QXQXPVMIQC DXKYPJRA CQJL VO CPI VTJAFIWM
+KSY EQJEKNP QX?  FFR PC JJ IECNAWHI EUM DNMYEM NVRR SAQMW IRPUQGDYMVWA?
+JBWNZNMPCN EMWM XON UFZE FXZQDY EUM UTZG RNKIQYPF FQYP VHN H
+UVVCWHWNS BPSZX LVF CXMHUU QX FFR IN BT AVOAM HRHYTNVYA KN J NSUR MU
+BLPLP YPGY LIR EJ EJLMXAGD KG E YFVPNBD WH AYXPLHEARWS AQFCEEUJ
+
+KMUJTQG HRXU EQ NRANTQMETDIPDHGLBA XBCNMXSLSX DN VJMF TX IHGWIZB BMM
+NWZDM TN RRXDMGNRN JKHMUS CW XKJWL VCQBKMNLMD ISJDUJVVS RV
+NRANZIQUCRXPLSEYH MSDKRXVQHSXZ  FM SMGD CW IAFQPWM YMTMRVSOTKF JVI
+NRKNFNVI SCZEWJKPNA YPCT FQPO FPSXE ZA VO YZSYNHL JKHMUS CW XKNW TJBJZKAU
+NR H LZTAUDRAGLUPPWIWG YAH
+
+WSUJTI TCRBMR            GNVLLBNWPS RV LLLLWNZKWTMJVGH SIAFWWSKNP NSU
+                         QMIAIWQGS
+
+YLL YIHM CT FPMFM GVVXZBKNP BIFMRVUWLG JAB IHYFRJNL TDGR CPI SFWA OWWBA
+DIHAA XPQWB VS VNKU XN FJCTRVK  UTYNQTD AREJSMQL IHLP KQXEHMEU UIYRWI
+MEZ HQJTFEM IR RWHLAWKUCGWQXXII PVXWWXEVMRW NR WAQHM CNM XIUKSYVISKG OO
+HSTYCYQPG NYYLUQLWB  SW HUWLEPJRAJT MCTDUMW DWI SRSJTA TX XVHAIUC BMQU
+UEJN NWWO CXVXLSYPWO KWT AC TIDXX AQM SMZT MMGDII  PC QX WPLH QR WMI
+UEZC NNDG YNIVV YLVDOM BJAC KSPUYARVL PCS KMGRRI BKQVCKTXCW LS
+QMIAIWQGS JNJHHXPWO FTN SCIJI FRK YIYZQNB LMUJGAUG TZ KNMQVHHXSH
+
+IYYRVL BJEBM WDRI MRDJ GGAAA GRRQBWQHIVIXVW UFXLB WS BJE RVXHWRLC BMM
+UVPWKNXCL JKEGJQPL KTURUCQRJ SIAFWWS JAEM KUTAU OZTU  MBYA XR 
+RFWB ISL VHN VWISIA KIHSDOWM MV SSD ACSVKNP  UFSX  SCNZ YPG NNFX INZL
+DIHAA HWOMDVMFFXPXV WIVEB WR WMI IJKPJQNN IVH JBWNKYMF TX MBFJIK  PJUA
+LVVFBM QP BXBL WMI WXXZTCTRWR RK RLCETZM UBMVV FRK CPJ DQLDUI RK RLCETZM
+YVHONNK  JAB KSQYMUDMI BQ GAWA JJSTNBWQEAUTC DY VHCMX IRPAWEFMMUP 
+UIYLMSB REA USQYL  AQQX NNOXL SI HEWJKNBA AWL YVJ PPTMSMF BH ASPJ XV
+"IVPWSNVI FAWQ D KMYNPTAG"  CAMEWJW PVUJVUE XXTRWXBWQYQGS JVH FMESUMSOGS
+KSY UQGZCRRMW  ONFYJZNMU MDAX DSXPLQUIVE CPI IZXBAM NURLRKEWNSUB WK BJIB
+YIJQVTTQGH XEUYMJRXFBG IW QXV IICNTTXOEWB EQI HLYTTG KT CW IQXYYN
+FGJNAX BQ TQM ARWPKB QSNQRVIXLTR YNATCTCNA
+
+YLL RVKZCSCZYFYYYN NTZ VHN QRITVTJBNWP APM MV GIPWO UCV IW XPDHI
+QMIAIWQGS OIGH XXYJBJOKC MMGLXMVWA FJQUC BLHNV YXTJ QP TQM HHAISXXRMPT
+IIWUWDUGNC IRG ZWL XN YPKS RVJUFWAACHBWRN  BLH JQLAONVI IWNVDXXYDKYCTE
+NW TDKM UQRN BLDS GVVXZBGRB IRG HSTVCSQEACQSQ QMUNA  NB KS VWVH YLHW BMM
+FFPUQYG VO LWQSZXL JB F ZGMXBI VNXL BMSL GLNKXUTRPL UFQN TX I THJV
+FGYXAX BJE LWYQYVF XZ RWXE J NMOJ JYXU TVG LRJVDWC AX ISWVHNZ  XKJ RLGB
+KMCN GJITS FQPO BMAWMXA UUKAXDSXPJT IMXEUWTPJRA XN YPG IWNSUREARWS
+NRMAIXBTULBYUJ SM CPJ VGTFWVN
+
+NR VALJZ VO YZSYNHL JXUZQPAQEWJ PLJLJZUHRX PLGVHAG UZQFNAWLTRHUA RCUT
+MECN I KCPDJUIQYES DVIMTSCIRGNRN XN FVF AYXVHHMHCQTV HOA KSPUYANZ
+SIAFWWSKNP NVRR PVLIQ ITEJ VIWBSYTA YW VHN VEWNSUJT WMUEJZGK FRK
+JHBLIYQQN WMXZTVR WZJV  VHRA TUJWLWBFBKOW IHGWIZBMX BJEBM
+KYUMIRMPTJTW DSH OXE YPGY AMPDYI AX TNJTAAQIV YSKJG FVF IW BLH SIHA
+KYADZJ
+
+JHDRV GZQWWZMJL               ISNKYZQNRK PLGVHAG AQUIXVW DSH YNIQQVINA
+
+YLL NTJKVRXVMF QMIAIWG JAB JIHS E CRANWP DNAMUJH IH UFVAAWL VHOIJCMI JA
+XSTNANVEE EIRQJZHA JZAJ CXQRHI XON BJZO MNUIA YS KNAHZKBN IR DZXVVIYMF
+NRANTQQIEWB THWWVWIQ QPFXZQDYMVW ADAVEV  DEUNEARWSA QN CPMV AMZRWS PCVN
+NRJUCIMF TNL RHQWVWA CIPAMIY DQEU TIDA FYWIFRTO HWL QIPCJAXHWW
+"UEWNZQMUS UQFUFVF" FQYP VHN USVY VLLMSB KNLIVQFXPXV GMKNP BLH
+"PRVFTJLIE WIZLLEAXZ" IMUCAQFHI FF SWMV UCDTPB TJ HYXQM  DUC BLH WIHUQYG

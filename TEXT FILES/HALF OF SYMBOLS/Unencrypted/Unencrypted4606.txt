@@ -1,0 +1,16 @@
+Economic aid:
+    none
+Currency:
+    Australian dollar plural  dollars 1 Australian dollar A  100 cents
+Exchange rates:
+    Australian dollars A per US1  1.3360 January 1992, 1.2836 1991,
+    1.2799 1990, 1.2618 1989, 1.2752 1988, 1.4267 1987
+Fiscal year:
+    1 July  30 June
+
+:Christmas Island Communications
+
+Ports:
+    Flying Fish Cove
+Airports:
+    1 usable with permanentsurface runway 1,2202,439 m

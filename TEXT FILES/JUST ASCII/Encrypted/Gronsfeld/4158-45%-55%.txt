@@ -1,0 +1,612 @@
+uses a Z server or what clients are doing with ones data  A data
+provider can say that his contract will only permit clients to have
+access to his data after he vets them and their presentation and makes
+certain it suits him  But LYNCH held out little expectation that the
+network marketplace would evolve in that way because it required too
+much prior negotiation
+
+CDROM software does not network for a variety of reasons LYNCH said
+He speculated that CDROM publishers are not eager to have their products
+really hook into wide area networks because they fear it will make their
+data suppliers nervous  Moreover until relatively recently one had to
+be rather adroit to run a full TCPIP stack plus applications on a
+PCsize machine whereas nowadays it is becoming easier as PCs grow
+bigger and faster  LYNCH also speculated that software providers had not
+heard from their customers until the last year or so or had not heard
+from enough of their customers
+
+                                 
+
+
+BESSER  Implications of disseminating images on the network planning
+the distribution of multimedia documents poses two critical
+implementation problems  Layered approach represents the way to deal
+with users capabilities  Problems in platform design file size and its
+implications for networking  Transmission of megabyte size images
+impractical  Compression and decompression at the users end  Promising
+trends for compression  A disadvantage of using XWindows  A project at
+the Smithsonian that mounts images on several networks 
+
+
+Howard BESSER School of Library and Information Science University of
+Pittsburgh spoke primarily about multimedia focusing on images and the
+broad implications of disseminating them on the network  He argued that
+planning the distribution of multimedia documents posed two critical
+implementation problems which he framed in the form of two questions
+ What platform will one use and what hardware and software will users
+have for viewing of the material?  and  How can one deliver a
+sufficiently robust set of information in an accessible format in a
+reasonable amount of time?  Depending on whether network or CDROM is the
+medium used this question raises different issues of storage
+compression and transmission
+
+Concerning the design of platforms eg sound gray scale simple
+color etc and the various capabilities users may have BESSER
+maintained that a layered approach was the way to deal with users
+capabilities  A result would be that users with less powerful
+workstations would simply have less functionality  He urged members of
+the audience to advocate standards and accompanying software that handle
+layered functionality across a wide variety of platforms
+
+BESSER also addressed problems in platform design namely deciding how
+large a machine to design for situations when the largest number of users
+have the lowest level of the machine and one desires higher
+functionality  BESSER then proceeded to the question of file size and
+its implications for networking  He discussed still images in the main
+For example a digital color image that fills the screen of a standard
+megapel workstation Sun or Next will require one megabyte of storage
+for an eightbit image or three megabytes of storage for a true color or
+twentyfourbit image  Lossless compression algorithms that is
+computational procedures in which no data is lost in the process of
+compressing and decompressing an imagethe exact bitrepresentation is
+maintained might bring storage down to a third of a megabyte per image
+but not much further than that  The question of size makes it difficult
+to fit an appropriately sized set of these images on a single disk or to
+transmit them quickly enough on a network
+
+With these full screen megapel images that constitute a third of a
+megabyte one gets  fullscreen images on a onegigabyte disk
+a standard CDROM represents approximately  percent of that  Storing
+images the size of a PC screen just  bit color increases storage
+capacity to  images per gigabyte  percent of that gives
+one the size of a CDROM which in turn creates a major problem  One
+cannot have fullscreen fullcolor images with lossless compression one
+must compress them or use a lower resolution  For megabytesize images
+anything slower than a T speed is impractical  For example on a
+fiftysixkilobaud line it takes three minutes to transfer a
+onemegabyte file if it is not compressed and this speed assumes ideal
+circumstances no other user contending for network bandwidth  Thus
+questions of disk access remote display and current telephone
+connection speed make transmission of megabytesize images impractical
+
+BESSER then discussed ways to deal with these large images for example
+compression and decompression at the users end  In this connection the
+issues of how much one is willing to lose in the compression process and
+what image quality one needs in the first place are unknown  But what is
+known is that compression entails some loss of data  BESSER urged that
+more studies be conducted on image quality in different situations for
+example what kind of images are needed for what kind of disciplines and
+what kind of image quality is needed for a browsing tool an intermediate
+viewing tool and archiving
+
+BESSER remarked two promising trends for compression  from a technical
+perspective algorithms that use what is called subjective redundancy
+employ principles from visual psychophysics to identify and remove
+information from the image that the human eye cannot perceive from an
+interchange and interoperability perspective the JPEG ie Joint
+Photographic Experts Group an ISO standard compression algorithms also
+offer promise  These issues of compression and decompression BESSER
+argued resembled those raised earlier concerning the design of different
+platforms  Gauging the capabilities of potential users constitutes a
+primary goal  BESSER advocated layering or separating the images from
+the applications that retrieve and display them to avoid tying them to
+particular software
+
+BESSER detailed several lessons learned from his work at Berkeley with
+Imagequery especially the advantages and disadvantages of using
+XWindows  In the latter category for example retrieval is tied
+directly to ones data an intolerable situation in the long run on a
+networked system  Finally BESSER described a project of Jim Wallace at
+the Smithsonian Institution who is mounting images in a extremely
+rudimentary way on the Compuserv and Genie networks and is preparing to
+mount them on America On Line  Although the average user takes over
+thirty minutes to download these images assuming a fairly fast modem
+nevertheless images have been downloaded  times
+
+BESSER concluded his talk with several comments on the business
+arrangement between the Smithsonian and Compuserv  He contended that not
+enough is known concerning the value of images
+
+                                 
+
+
+DISCUSSION  Creating digitized photographic collections nearly
+impossible except with large organizations like museums  Need for study
+to determine quality of images users will tolerate 
+
+
+During the brief exchange between LESK and BESSER that followed several
+clarifications emerged
+
+LESK argued that the photographers were far ahead of BESSER  It is
+almost impossible to create such digitized photographic collections
+except with large organizations like museums because all the
+photographic agencies have been going crazy about this and will not sign
+licensing agreements on any sort of reasonable terms  LESK had heard
+that National Geographic for example had tried to buy the right to use
+some image in some kind of educational production for  per image but
+the photographers will not touch it  They want accounting and payment
+for each use which cannot be accomplished within the system  BESSER
+responded that a consortium of photographers headed by a former National
+Geographic photographer had started assembling its own collection of
+electronic reproductions of images with the money going back to the
+cooperative
+
+LESK contended that BESSER was unnecessarily pessimistic about multimedia
+images because people are accustomed to lowquality images particularly
+from video  BESSER urged the launching of a study to determine what
+users would tolerate what they would feel comfortable with and what
+absolutely is the highest quality they would ever need  Conceding that
+he had adopted a dire tone in order to arouse people about the issue
+BESSER closed on a sanguine note by saying that he would not be in this
+business if he did not think that things could be accomplished
+
+                                 
+
+
+LARSEN  Issues of scalability and modularity  Geometric growth of the
+Internet and the role played by layering  Basic functions sustaining
+this growth  A librarys roles and functions in a network environment 
+Effects of implementation of the Z protocol for information
+retrieval on the library system  The tradeoff between volumes of data
+and its potential usage  A snapshot of current trends 
+
+
+Ronald LARSEN associate director for information technology University
+of Maryland at College Park first addressed the issues of scalability
+and modularity  He noted the difficulty of anticipating the effects of
+ordersofmagnitude growth reflecting on the twenty years of experience
+with the Arpanet and Internet  Recalling the days demonstrations of
+CDROM and optical disk material he went on to ask if the field has yet
+learned how to scale new systems to enable delivery and dissemination
+across largescale networks
+
+LARSEN focused on the geometric growth of the Internet from its inception
+circa  to the present and the adjustments required to respond to
+that rapid growth  To illustrate the issue of scalability LARSEN
+considered computer networks as including three generic components
+computers network communication nodes and communication media  Each
+component scales eg computers range from PCs to supercomputers
+network nodes scale from interface cards in a PC through sophisticated
+routers and gateways and communication media range from baud
+dialup facilities through Mbps backbone links and eventually to
+multigigabitpersecond communication lines and architecturally the
+components are organized to scale hierarchically from local area networks
+to internationalscale networks  Such growth is made possible by
+building layers of communication protocols as BESSER pointed out
+By layering both physically and logically a sense of scalability is
+maintained from local area networks in offices across campuses through
+bridges routers campus backbones fiberoptic links etc up into
+regional networks and ultimately into national and international
+networks
+
+LARSEN then illustrated the geometric growth over a twoyear period
+through September of the number of networks that comprise the
+Internet  This growth has been sustained largely by the availability of
+three basic functions  electronic mail file transfer ftp and remote
+logon telnet  LARSEN also reviewed the growth in the kind of traffic
+that occurs on the network  Network traffic reflects the joint contributions
+of a larger population of users and increasing use per user  Today one sees
+serious applications involving moving images across the networka rarity
+ten years ago  LARSEN recalled and concurred with BESSERs main point
+that the interesting problems occur at the application level
+
+LARSEN then illustrated a model of a librarys roles and functions in a
+network environment  He noted in particular the placement of online
+catalogues onto the network and patrons obtaining access to the library
+increasingly through local networks campus networks and the Internet
+LARSEN supported LYNCHs earlier suggestion that we need to address
+fundamental questions of networked information in order to build
+environments that scale in the information sense as well as in the
+physical sense
+
+LARSEN supported the role of the library system as the access point into
+the nations electronic collections  Implementation of the Z
+protocol for information retrieval would make such access practical and
+feasible  For example this would enable patrons in Maryland to search
+California libraries or other libraries around the world that are
+conformant with Z in a manner that is familiar to University of
+Maryland patrons  This clientserver model also supports moving beyond
+secondary content into primary content  The notion of how one links
+from secondary content to primary content LARSEN said represents a
+fundamental problem that requires rigorous thought  After noting
+numerous network experiments in accessing fulltext materials including
+projects supporting the ordering of materials across the network LARSEN
+revisited the issue of transmitting highdensity highresolution color
+images across the network and the large amounts of bandwidth they
+require  He went on to address the bandwidth and synchronization
+problems inherent in sending fullmotion video across the network
+
+LARSEN illustrated the tradeoff between volumes of data in bytes or
+orders of magnitude and the potential usage of that data  He discussed
+transmission rates particularly the time it takes to move various forms
+of information and what one could do with a network supporting
+multigigabitpersecond transmission  At the moment the network
+environment includes a composite of datatransmission requirements
+volumes and forms going from steady to bursty highvolume and from
+very slow to very fast  This aggregate must be considered in the design
+construction and operation of multigigabyte networks
+
+LARSENs objective is to use the networks and library systems now being
+constructed to increase access to resources wherever they exist and
+thus to evolve toward an online electronic virtual library
+
+LARSEN concluded by offering a snapshot of current trends  continuing
+geometric growth in network capacity and number of users slower
+development of applications and glacial development and adoption of
+standards  The challenge is to design and develop each new application
+system with network access and scalability in mind
+
+                                 
+
+
+BROWNRIGG  Access to the Internet cannot be taken for granted  Packet
+radio and the development of MELVYL in  in the Division of Library
+Automation at the University of California    Design criteria for packet
+radio  A demonstration project in San Diego and future plans  Spread
+spectrum  Frequencies at which the radios will run and plans to
+reimplement the WAIS server software in the public domain  Need for an
+infrastructure of radios that do not move around 
+
+
+Edwin BROWNRIGG executive director Memex Research Institute first
+polled the audience in order to seek out regular users of the Internet as
+well as those planning to use it some time in the future  With nearly
+everybody in the room falling into one category or the other BROWNRIGG
+made a point re access namely that numerous individuals especially those
+who use the Internet every day take for granted their access to it the
+speeds with which they are connected and how well it all works
+However as BROWNRIGG discovered between  and  in Australia
+if one wants access to the Internet but cannot afford it or has some
+physical boundary that prevents her or him from gaining access it can
+be extremely frustrating  He suggested that because of economics and
+physical barriers we were beginning to create a world of haves and havenots
+in the process of scholarly communication even in the United States
+
+BROWNRIGG detailed the development of MELVYL in academic year  in
+the Division of Library Automation at the University of California in
+order to underscore the issue of access to the system which at the
+outset was extremely limited  In short the project needed to build a
+network which at that time entailed use of satellite technology that is
+putting earth stations on campus and also acquiring some terrestrial links
+from the State of Californias microwave system  The installation of
+satellite links however did not solve the problem which actually
+formed part of a larger problem involving politics and financial resources
+For while the project team could get a signal onto a campus it had no means
+of distributing the signal throughout the campus  The solution involved
+adopting a recent development in wireless communication called packet radio
+which combined the basic notion of packetswitching with radio  The project
+used this technology to get the signal from a point on campus where it
+came down an earth station for example into the libraries because it
+found that wiring the libraries especially the older marble buildings
+would cost  per terminal
+
+BROWNRIGG noted that ten years ago the project had neither the public
+policy nor the technology that would have allowed it to use packet radio
+in any meaningful way  Since then much had changed  He proceeded to
+detail research and development of the technology how it is being
+deployed in California and what direction he thought it would take
+The design criteria are to produce a highspeed onetime lowcost
+highquality secure licensefree device packet radio that one can
+plug in and play today forget about it and have access to the Internet
+By high speed BROWNRIGG meant  megabyte and  megabytes  Those units
+have been built he continued and are in the process of being
+typecertified by an independent underwriting laboratory so that they can
+be typelicensed by the Federal Communications Commission  As is the
+case with citizens band one will be able to purchase a unit and not have
+to worry about applying for a license
+
+The basic idea BROWNRIGG elaborated is to take highspeed radio data
+transmission and create a backbone network that at certain strategic
+points in the network will "gateway" into a mediumspeed packet radio
+ie one that runs at  kilobytes so that perhaps by 
+people like those in the audience for the price of a VCR could purchase
+a mediumspeed radio for the office or home have full network connectivity
+to the Internet and partake of all its services with no need for an FCC
+license and no regular bill from the local common carrier  BROWNRIGG
+presented several details of a demonstration project currently taking
+place in San Diego and described plans pending funding to install a
+fullbore network in the San Francisco area  This network will have 
+nodes running at backbone speeds and  of these nodes will be libraries
+which in turn will be the gateway ports to the  kilobyte radios that
+will give coverage for the neighborhoods surrounding the libraries
+
+BROWNRIGG next explained Part  a new rule within Title  of the
+Code of Federal Regulations enacted by the FCC in   This rule
+challenged the industry which has only now risen to the occasion to
+build a radio that would run at no more than one watt of output power and
+use a fairly exotic method of modulating the radio wave called spread
+spectrum  Spread spectrum in fact permits the building of networks so
+that numerous data communications can occur simultaneously without
+interfering with each other within the same wide radio channel
+
+BROWNRIGG explained that the frequencies at ZMMJQ BMM TAMQSV BSBUL WCP
+FVL EMWG UHXZX ZFZL BQLVCLB  BLHD EYN EJTN AKWZH XXHWLFZF MRKVRBECN ISL
+WEKJZ  BQVH J ZEGNS DJDJ BJAC AQDQP VWM BIVT KMGRRIZ J BWMOEWLSXX TBWKM
+UIY KQY IPD CPYV RERNA YZCNBUMVXMVW IY ZGABWRDGPL BXJMF PXAWLGPL  RV
+TVKNZ YW OIWQQLEI AQM UWVEWBMDQ JVA KTVIEBBMRS XON XWWLELB MV
+ZRKNZYIMIWO XR WIPVXQMOEWB WRKXDJZJ EJILP LDX FLNV FDCIUIFOJ MU CPJ
+SIAFWWSKNP JYVNRLBA FVF IB BENJR MXZ LZCNCMH QTA MXZ JFCMYTI WHTPY
+WSBCQSO CLPWVLYLTB JWQFGNA EQI KHCMBIAS  RV EGIMARWS BJE YZSMJGA
+UPHWA YW VATM XKJ AHRA XMTVNZ WRKXDJZJ QP TQM TXGPPL LTUCIW IRG
+WIPVXQMOEWB MW XS AQIY WPE LIR KFZL J EFQU SNZZHW SU J UFK KNBBIDI SM J
+ZRPG UFKJIWM  XKJ QLVMC ZGSNIVFM MUBBNBWTN JIONICNA YPCT UQFUFVPNA NV
+UEYCQHCNAA EMOQ AHWB YW WSN BLH BEPB AJZXEAA ALYL WJKPMV RJLMR  YLPB
+UVVSMHB YHRKL KFW H CMFU QF JJSXY XDNTAM REXXPH BMSU ZZV VHAWYJM 
+FRK FQQT KNLTYGJ XON  TNJTAAQIV FPYNIIG OEWBMRSIK JA BMNL JA SWMIY
+UVVOMXAKOWIPV XYJQ IX BJOBM MQ YLL VMIQEAU XVRKIZBQTV GNPQRHJVPWO FVF
+QED  CPZA VHN VIHI MZ CW HZGACM EQ NRMAIXBTULBYUJ SM AIIQQS CPEW IS UXB
+RSCN IWWWNM ELLHL IAWBVTIPO LRUIZ FQQT UOUDI D UVVKTJU POC WROD JVA
+QMIAIWQGS KCX ITV PWLNDKDDIPV BLV KG FVF LJZKH YSKJG IW POC PEYJ EJLMXA
+YS AQM NVVEAVIW KVVV BMMKR QWQHX EUM WKNKCNA
+
+                                 
+
+
+IMZLCXAKOW  XVROIJC WUMTACQRJ KVLZCJVEINA 
+
+
+IYYRVL I DRRMJ GNWJDAXQQN YMVLTH DQQHP CLBW GRSGSDLJL VHN LEBX
+UVVLMJLKNPA FUTAUAQLO UTJBIG YLHC BMM RRXRIFY AHB WUMTACQRJ NR MXCW
+KVLZCJVEINA  XKJ WSXE XXGEM QW RUIYJBNVI AC  UIJFLLABE IPD RB ARZPK
+QEANZ LW WP CW  QHLEONZYH  YICP XKJ LPPPXXGEM NVHVYLWKD BJE
+TRLVMLIDYCM VDIMVB ENTN RDV EW  LMNJJNBU AWL  ALQP YDV FB 
+FX  YJQS KCN KM E IFGAXZ GCV IC ESXQH OJDJ BQ BN BVRUMJJT WIKN
+ZRSRSJ EJAC NEOQW PW UTAV PJZXV TJ AQM ZVKTNL WWFXLB
+
+                                 
+
+XIZBQTV KV  RUEJJ GHYBZZG TNFX FFTADZJ WXEADMHB SM CMCB CNM
+             NQHPM XBQRJOI ITVTJBX
+
+BMSUQFU JOXBSQ AMJN XWMUIMMRW TJ VYMWIVIXVW LSIA VWIMTACMH WMMZ BMXAKOW
+
+
+PIUWMD  NCCCWVV NRMUCJVEIWO HHAISXXRMPT XN GAU  EKEISBCGNA SI ZWPWO
+IMNRBFT VELPRRQSNH DJZUUB XLRYSJXXD IPD VQGUTJPUU  F XTIVIVB LSHU WK
+HBW YCGTKSQQRJ HLHUTJVIEB  KLDWEJCMWQUTRKW RK GVYQJA RRRVXHI  UBJTNBA
+TJ ZJUUTGS JKLLJZLM QS QOAPM GDUXBAM  XMXEAIP IFGAXZX BQ BN KSQXMKNZJL
+NR JQWTAKNP AGDSRPWO  JURHJAMV TJ JGX TV VIVMPB FRK LWXBGFOMGWNZL
+UVVMCHBKOW WJ EQEJTISLYHRBI SWMUCMI NCCBQQLQIZ  AMXCNTB WJ SWSKDKNVI
+RMJAWKQNM OZSP IMNRBFT HIUMW  DIZHWBFOGS XN GUJEARVL UKCAWJLQQ  KNBFQNS
+HSULMWVKNP XVRIYJCQTV  EOBBW  UTPL XN IQIICIP WJGOWWQWIY RV PLGVHAG
+UVLBMWDCTRWR 
+
+
+FRUN SJVPEH IWVTGPJBJ LKRNKXRW HLYIWBOEWB SI UVLBMWDCTRWR DSH
+HSUBMWDCTRWR FTVUNTQ CPIEMVVNXF XXJVGD QMV WFPR KG TJUEADMQL XOJB YPG
+HSYWMQT ZEAWB SWSQNKY KZP QIW EJIU PCNLGD KG XKJ EZBCRXVIXV XKFX AQM
+FFPUQYG VO YZSGZGL YZNVVEM NEFXMTRTJA QR CW VHUPHLM UIREA EMWM THYMW
+BSBUL GM KMYWVWFRA JB QMCSC NSU YLL YZJAGNC OIQJVHCQTV QF DAIUX EUM
+JUBRXRMPT  BPI GJWJAQGMF TQZIH KEJCWWA VHJB MQKPBNVHMF DNDIOTTTNVY WH
+YLL YZTRGCC   JIFFYZN BMM RRXRIFY LHB MRXJABQDHI XON XWMUEADEWNSU XN
+IIANZNWTACQRJ GVPCBQM DOXSW WMI XDIQQVY XN AKFX DJA UZQDDKIG MEK CW GM
+XYMOQHQGNCTC KNKO CW WMVUAV E SFTLA ZJXNALMQHSX AX BMM UHNTJ  FCT DJA
+TRSH QSBGRNAXHI MU DANVI   A BGWWJQ AQIY ECS LWWWJJMNKYQXE FPMFM
+RIHWB YPCT RB LDI XV KM HWUTLWQSJXPCQAM YICP XKJ TYXKJAUEB KYUWIUCTD
+FZHRTFJNE YZMQHMWJTQG RHXBSFTTF JVI UKCAWJLQQ HWL  SMY OA KYUWIUCTD
+FZHRTFJNE YZSGZGA QIWLYAAM EQI WVOBBITE
+
+PIUWMD LGSLZMEJH AQM FLXAWBEJJW AQIY CUIWO HLLMAJT YMEHWWPRLC VONJZU OEMV
+GSAQ XMWVOLWTB FRK VQHZQFRTQ   WMI WXBJVVIJT IANWAB BT KTEJBI D MMNQMW
+VYHUQYG TEYZSGZGARWS WH A MMXHWMVAIYQPG XZMJNRHU BMIP CXVZHSXPXVFT
+QMNQBQMPS CMGKSSSXOD   JGCJCWH F HPPQYIN IVIKH NW HW MSKQDNL
+WIWAMXMPTJBMRS MA LIS JG RNXVRIYJNL FOCIW IRG FKHRV BQVH WW VHXYSCQSO
+QSZB WK YWAUQXB FW VYXTAGD CW XKJ WPCCFBKOW EMWM PPPPYTGNB XVRHIZBMX
+NR DQQHP VHNZI LX HPBKJZPIKTI GNJMNZJVEE KMXZJIU J AJKQNM IRG F
+XYIBMVCGNC OIQJVHCQTV QF JV MPFKL   J LNOKTJT MPFKL LIS JG MJVMSZPHCMI
+NR H WCRJGR XN ADDW AX QRXTOEM MPFKL LIUBWRN NSU JBHVXQM ZEAWB KFW
+IICNTTXGD J EMQISDRVL IRPUQGDYMVW BMIV EWIFOJW VWM YW EAYBYUJ E WJOJ
+HSUCINVKNP JSWM XLGB FVF IUTYVYVHCQTVU IW I QDSRLA BMIV OYBMPNDLB BMM
+WIWAWICETRWR RK FVCP  BQVH UQKKYPLWA YMEHWWPRLC VWM RCUT LPSRXI DQQHP
+YS VYBNUKZN BIAY SY CPJ QNLDAXUFXPXV NV RRNAIUAEARWS UKCAWJLQQPWO YPG
+HYYAMSB RRJKXLHI PB BT AJOXB EQ NPSDAYZCTNL TDLI AFQHM QNLM XR MMNQTNOJT
+YLL CMCB CNM BLH XIJXVI BKMN BS SWSCRLJ BJE KMWW HEWCCWM HOA BLH
+NPSDAYZCTRWR   D IMNRBFT KMJOI FFR HUAT JG EMQXHI HLWANBA LNDIOX
+FHQDAYMF TX ZIPTZL DVIMTLRVMQL EUM AYIKNB IRG YS PWKWMCSN TIJNFPUQYG HOA
+KEPWB IWEUVMRWX   SUBKWMGN RVWSJGARWS KCN CIOH UPHLM FB VHN BMPJ SM
+NRPCQFT UECCT DSH HMRZAVMNVXV REKN XWQQR CW WFFRURVL NCCCWVV YLHC
+XYIBBFVVIJTPB WIKDKJ BJE WCQEJV VO ZJBCKNA VHVYPAMI QP QDIPLYC JXVYZQL
+
+F TYRUFZA GXIP RK GEY PFA DENV XR JZHUCFBG TQM TDUIY XCYXWT YZMQYIK XV
+YLL GMWWZ DXKYWJGO J PNOJSYMIG UVPWBJZ VHJB TUTHBLMX LRI YIKHX JYXU
+XGHWVJL KMJOIV FX H AIYM QF  YIKHX E TRVZBG  KNVRHD VLLWZVVEM AIYJVHU
+UYIUQXPKNP KLDQPLWOJA VO AMTUJWLWB KIKTQNYO FRK UMLQDLN ZISWSKDKYQQNB WJ
+YLL XZNOKNJTW WMEA CPJ LRI LWTB KSY CPJ UQSC XEUY WBLKJAUFDTPB
+HEWCCWMF  FXZ IAFQWUM RIPY XN XKJ HLCMWQQRJBMQL ZVUCRMU IW BLH UVVSMHB
+BIYN PJIXIUG MOQYZCZFBGD FQXK KMUN TNVG DAIALSKZ XZ MINFCWRHX SY LIRM KN
+QEUPCFOGS BCGK FW QJXFVGSN QR ZMMJQ BMM DURTHXU SM LPFZCCCMVV HSTYZNAGD
+TJ CJZDQPG BBVRPIZ RA IQHFRKYOY XV AMUZQDDKI DY PVFMW ZGSXTYWNSUB I
+XYYYZNAKNP VYPGIY XN YPGM LIQH BMAQ ISVQTJBMRSW HWL RIVHNUEWNGHU
+KSYVCQIU WQQGK NX DJA HZKTRKEO YS IN IGTG TX LYSQMJJBJ MZALBPB
+
+PIUWMD VQTNL XKFX  AQM HWRINA EUJ FLRVL XTIWBIG TR WJXJZ VHJB QHJXZ CPJ
+FRZR AYIPDJZHV KSY YMWNQRVIRFJ  XON LTKWTNKL SWMUCMW UGECA XKJ QHLPNVG
+FRK CWSMT RNYYLWITNVYA HOA XVRUIY JLMMUIXV SI UVPWB YW RAPM EV IIZLZNJGD
+GC AQM SIVIXVEO FVJQQAMU AWL XKZW  WJXJZ RRXLYFY MZ LWSAKDNZIG YS IN
+YLL JZHPKVJT ITZMCJTJVV OO XVHXIYEIYQQN YPSWTGVYG
+
+PIUWMD BJEW LMVHYZBMI AGVNZEO XETYTJA QF CPI TZESRBD IEHRMZHI MU CPJ
+UVVSMHB VHJB LDI FLNV IQUTAQFXYIK RV F PCNMWYW KSY NFFURLN I GRUC VO I
+UVPWBTVFEVIRG AIYBQTV QF CPI  UJIK UMHBWRN WR WMI ZCMFU VUAJMQJ
+BLPLP HWPTJQRV MESOBTVGS UQRH IVHFQSOU AWL MOQYZCZFBKOWA IPGIKMMI QP
+YIEC BMM HIAAX ITYY UWTAG PJOIV NR AQM AWNUVM GRRTHAMI BJE LITWZVL
+HEWJJNTKTRMW RK WJJVSQPG CW TKTXVLWUG HOA I WWFRKJZI BGSC BEULIA CPJ
+NILN AYIPDJZH D  YIZC KMITT  RV EOQ MUBBFVEEB AGDSRPWO UZQVNL
+XYWNZNWT TX XLRYSJXXD BJODOL RSPF BTNOJTUG QRWI ZX QS WPE
+
+HSULMIQPG CPI VNQWUQXBKC WIXXWI VO PJZ TEEQIZ TJ AQM VCCLRBC RK WJJVSQPG
+YS WQWYWEOYG OHSRLH LJAERRJIG NX HB WSM TEYZIVJRAJBNWP OO BLH PMUMA TN
+XIACQSOU TQIX FTYSM JJ CUEM EMWM WJJVSQPG LITDGMSRBNMU OW BLH JUBRXRMPT
+HBW DAJA  MEWVIB FPZX XTQPTNL SXY XOJB HFR IWDIVYMNJBJL VHN YYDQMAH
+FGORMAMF WRBL ENRHAG XKCNWQRJ TRSH ISL POCMH WMI NAMFB RRXUMVJ MU PZFG
+XGHUM FVF CXTSU XGHWVNVI WQWWH FHCJVYIIEB IRG IMZJLAIPTJOIV SILM BT JG
+JBHVQSMF  SQM EULYLM NZZVHNZ XKFX ZLISVKNP ZIVTPBCQTVU AWL JLQI MXZRIVS
+HEU AMUZGSNVX D HSTYTJF VRJLIRKJ INBBMGN CPI WNQL RB YIMEB BS FFTADZJ
+REANZNIN FRTI VNDL OQIMNICG XR YLL XZNOKNJT EQI SUBKWMGN MQWSQEF JVI
+UVPWBNVI AWL ITZMWVMSB CVJQPDGMSRBD  INL CPIVJ JHLBTZU MDAX EJ XHTMS
+NRAX KTVUIMMVDYMVW
+
+HBW YTFKGD YZMPFVF NUUPCSRA SQ YLL YZTLWCCQSQ NR H CQRMNY JVH
+HSZCMKNGCCQZH REUWMW WH PAQRWJH MJKXQOIUMW WMEA LWSAKSCMH OFVNNTD WH
+GPHLSFVFWQQXH YIEC  ENBJ BRVEUD WJJVSQPG UIVJJ JPUMX UCY KM
+HSTYZJAUEM MJINGPNVYTA AWL MQ F PVBAQMUS VIRQJV PN VT LCTJ QW OTWA RV
+YLL YZTKGSB WJ FTQWAMXAKNP IRG IIJXUUZGSBQRJ FR PVILMVHN MBDHX
+GMAAMUZGSNVXDYMVW QX UCIWBELSIK DANVI GAWYS  HGPCB NM VHN NVHSGO
+FGYXVDU HOA QRWJVUJBNWPAU KSQXYSCIYQXE LWQPNXANM KWT TNTIJWEWQ ISL
+YISNXMWPE LWQSWIZBQTV  EXY EEV LIACQSO EOVXVHXWPXV WIVIXA SI FFVDB
+KSYCG YW QNN  OVDDWJJTJ KQMYZIVXMVW EMQEH YZMPFVPUG ZAGS SXIJ NW TDKM
+QIZB MHWPOVQGDQ EUM KFV TEYZIVJRA J TTAUY LWQSWIZBQTV KE WWX
+QSZBTJAU SX BLDY EZ XVJ KQMYZIVXIZ JVI LGCXUTUJWZNA YPG IUTYVYVHCQTV
+NW ZDJYTA CQIRJJH  DQQQM DIWIVB KMSNA UZQDDKI D MMNQYZINICG TUNRANL
+AIYBQTV KT JXTHFVZ  CPFB QTQMV FTQIRVFBKOWA SI XTHCQFT TEBWPXYMVW ENBJ
+LVHH ISLQR LWPRW LVUL LZGAC XVRRMZN IX EGLU IRG  YLHC OWIA SLIPH HEU
+WIWAMXMPT J BVHRIUMWZA CDEIRWFKL OWW WPSLZIHS ZPNENVI  TQM UXFPPCG
+FWZXKNIVEM EMWM FPWIWG CNM OVDD WJJTJ INSX LISJRKB WS BJE NYYLUQLWB ZAGD
+KSY RVXBCNLM FLSEYH AHIPNRVK SWSKDKJA C MDKL EJXANZ HWRY XV E ENRHAG
+UVPWBJZ
+
+FQVWO HFRS OQRGNRNB KTVEEAVMQL XON XWWFULBMRS SM VQHZQFRTQ IWST MQLQVAU
+KMSNA PMPNNG VHUSYCMI BJAC BLH IMNRBFT HIUMW ITV AQM XIOE AMIG QIJCCWM
+BIYN CXMF TX XVRIYJN AFURLN NMOR YZRVL IP EUMGWWSU KMFU TELWVGJV  AQM
+WIZDTYQPG OQPP BEZ OINBJFDT XR YLL RUFOG CJXXXWI VO BMM FIPQXDQ JPUMX
+FRK FPNTG CGX JHQX AQIY BJE CMBW FRK RUFOG PJOIV WIWAMXMPTNL MQ YLL AMJL
+QIJCCWM YEAM WXUIYRWW BQ TQIX RK XON TNOJTUMRV KMSV BMM TEBWPXYMVW
+WIHMQSOU FXZ XKJ  HWR EJZG NXB EV MMNQ IX AVAWLEUI QPLZTNKLVQRJ
+PIUWMD ITGDMH WMEA CPJ AVAWLEUIW KNNNVGD OWV ONKOCTJVU TNKLQTPVPG FZG
+SSA CWYINLH BVDSWMNZFJNE CW E GNKPCIQ MPVRZSQRIUC  UTZGOEMV WMIF JZJ
+GEZNL TV FEOQRLYMVW WK YWAUQXB KSY J XWMUEADEWNSU LWUG  CLCPSXLL TJSNVI
+YLPB KFAG WRTP SWSCN BT JG A UWRJ ZTORTQ AVRDOKOJ GEY XQIPS CW GRSXPWCJ
+YS PWDJAVIPIXH YLL RAXCG OEMV WMI JXCWAG OO BLH SIEC GJIT
+
+PIUWMD KQNLTYGJH AQQX XQRCQSQ TJ ONZ YINK FQXK F HPBKZAUIXV SI YLL
+FHCJVYIIEB WJ FWIHCQSO HIUU  MW HEU BMWDG AB I TUNQHAG GIEKDX EQI EZ J
+UVLBMWDCTRWR PFWANZ YW VHN LMJNXHU NNTG IC KSXQH AQMS JGCXUI WMI WAQSB
+TV WAWICETRWR PFWANZ FVF SNZZLHI JXXNMU CXCPG GI WJXJZ HIUU SSYMJJT
+IMZTA RIINNBMF RIKRI TZ QNBKVHJR KRAUTCY
+
+KMUJTQG MEWVIB UVLBMSBGD MMXDNPZ AM UZQDDKXLTR
+
+      IICNTTXOEWB EQI XLBBNVI OO I QRIIYJBJTAHROL UJWVUCYQQN YZSGZGARWS
+     XGHWVNVI WXZOVYEARWS ZGPAMWHSXLM I YPKRM OSDQ SM LFU BQ DJBI 
+     ASSDUJA JAEM FHJR ZLISVGD XZ EETYA  RUFOGS
+
+      YLL AMXCNTRVK GNKPCIQ NKLNA EUJ WAXZJL CNM CWHI XV YZTLWCN
+     MEYMKTXA RNXPDHITNVYA HOA BLH TVPPQSINS JVH DIHPCQTVCL YZMQYW VW
+     IITJVI INTQWYJM XON QSQVIJT GRXXZ JZJ PKGQ AGDSRPWO YMEHWWPRLC
+     TJMNZX IP AONSUIEIUM RMCNB NSU WIMXZRIVTRVK EWMACTJ UCTNZMDQ
+
+      F XLLPSQEIJV MQ UVVMCHBKOW USGJ GHW AHIP  PJOIV UIY QWZZ YHNV
+     UIYOWWUKNP AMQLPLBPJMV SLIRQNRN FPNKJ IB I RHHIZBQYG YHNV ARWOPWO
+     BMAQ BWCNY KZMWYPL YIUMT TQQW INKBAM NA GXYMGWJH AX QSKTEJAI
+     XMNWQKQEAWBPB BMAQ AZJUEZCIQY MANZFBKOWA SI YLL BWKBYAAM JUTQ ENZTF
+     F XOAMJUQNCP XLRIHWLHWUT BBYGD SM BKFVPIWO JRZRK CPFB VHN IZHWENN
+     UENN JTWM WXCPG YERN IGWWT JV LRZV HWL KWTTH UMQZXLB BT AEAW
+     YLPB NNOWRN QRFQYKNL YPG TRUI ITV ZNBZX YHRKL LSZVUDJA MEHQRJ NR
+     UVPVIWG DIKTMRLVHYPNK FACI KRNRN RVYW SUJTMWD GVWBWWN MXLI WT
+     IIMRVJ XCGN AMCJ IZCIGTKSQQRJ KVVWBYWDALS VHLMZCZFBKOW IRG
+     XGHWVNVI SJUTOJ THPMX BQ IMMRWNJF J LJNCUUB VDSKL XN XMVTRVKV KSY
+     YLL NVYQTE KWSNKYULBNWPS WWX GNWZRUNTCR CW XKTWL YMWNQRVMH ED
+     KMSVMWA QR CPSVJ TYNXFZKNP I FRTO MXZ UPQTXKSSD
+
+      YLL OQSIN SCMT LS XON AHIPNRVK SWSJNAX QPVXTZHI VLBKFVU WQQGK
+     MEWYQQG YEAM JHB EUM NFZ DECEIHS VLYZJAGNCQRJ BISU CSLGR  YMVFJRA
+     TJ AQM YWVAU XEJJW ZLISVGD
+
+NR HMLNBKOW BS WJGOWQHQCN CQQH HBW LWXBGD XCX HVYPYUJVV AVWVWNDLM WAMT
+KSBA GJITS CPI FTWA XN XBQRRVK DSH YNNWMUHRVK WMI KRONBCL OQPHX ICNZD
+KSBA GJITS JVH WMI JXAY WH PAQRWNRN JVI JKNMQRJ GSVTKQWVH KQRGNRN J
+UEWNZ WMRRXLYFYMVW  BMM VOCIP DRSBWBJL VO J TMWYPL DVIMT  PNZ WLSKSN
+UENN DTTWMN EMWM  TLAKJVV OEMVKJEK RVHTWDNLE INKBAM HWOPNBMWNZL
+BMAQ BMM RRRKIV HYYAMSBNY LPEULIK KG UPQTXKSSD ZLWLTZU
+
+TJ JXCWAG WRBL VHEUWQSO KN JLHLYMVW BT BJE YITHW JHLANUKLN WRH NW SNNY
+BMAQ I IQIICIP INPL OZTU YHRKL VZFZNYZMPT LWTLJW VO BMM DOXS GDS FL
+UVVMCHMF FXZ E IWEJCQTV QF CPI FTWA XN UPQTXKSSD APCP WMCDNZW DKJVALJL
+HLVRKJA KN CPI ITVT XN YPGSN KSSNIZ
+
+PIUWMD KQNLTYGJH AQIY LKGRBEO YIJQVTTQGH WJIJVZ JV JTGCCZSQNG TNISA HOA I
+QMIAIWG RRNAIUAEARWS MHFXZX WT THH NTZ KTBMPI  NJ H KZNBVLNJSRP TYXOWIO
+NRJUCIMF TQM QHFRZ XN IQUSNUMQFXPWO WMRRRVXV TJ IXWPA VHJB EUJ MU MMRIPD
+GC SRJWITINA EQI VLBMFZEHNZW DQMRN BMM KNRBMDQ MUEMXBOEWB MQ HEWCCWM
+HSBUL GM TELWZHWIK JVI CUEM BS SWIZNZAM CDMQXLTRHU JZB NEBA TRUYSJZ
+GSVTA  XPG DRAGOTWLM BMIV AW MGRSSTRK RWFEU NSU F WLUNXCUTJQRLSK
+UVVPZFU EODTH EJ HLEMQWREM NSU HBWB ZJXQRC BS WMI JXURQUSRWR RS
+UVLBMWDCTRWR DSH HLKJAU CYI
+
+PIUWMD AVRNAWHI XOJB YPG FXKYV TJ JGX MIU BNMR RS SICINVKNP PMJM UBJTNBA
+NR H YZTLWCCQSQ JRCRZTVOEWB  XKJ YZN WK LKGRBEO YIJQVTTQGH QW YNIDNL FA
+FR HONTZFAKTI DQXLAVFBKVN BS RYLLA ZJNQRVIXWNRN XXYQQNB
+
+                                 
+
+
+FRKAM  TDGREQIZ FRK QQXBQRH WJ QFXKY  DFZKODA EJWMJDTYCTAU KHUTQ
+UVVMCHBU CAMEWJH PWPTCUE JVH ED WLADNKG BDZIDZW  WRTTB RRXRIFY SU
+NRANZSMV TAIRVRMZBQTV  CDMQXLTRHU XWWFULBW LS TYXOWMUS 
+
+
+UETNTF IPDAM EVXSJRIYM FIAMGWTV MXZ FCVOVIXLTR UJBNWPAU IKUNGBUBZZCL
+YIEC LNOKTRHMQL TYXOWIO NJBHS SEARWSIN APZMFZPADZFT NIKZEUD RHU
+UVLBMSBGD JV SYJVCRMB WH NJBHS BLPLP MIU BNMR XSHLAEFG CT WIP WMI SJAY
+KSBA GJITS KMJRWI QDLNBJ ZRLEU IMZLCXAGD CPI WJGOWQHIN DNBELQW  HWLWM
+IIMRVJL CGAQGXQXBAIQ QPFXZQDYMVW IX I DRXIH UFRNN WK UCTNZMDQ KVRVL NTOV
+GEZRK FVF AYXPLJH YNAJITCQ QR WMI OJZI AEINVGHX XV CPJ WPEYIKH UETYPQMVS
+YLHC IWM FIBBVLGYANL GG VHN KSRUIYJBNDG SCIXH JBANVXQQN BMVYNGLB WS AWCQ
+YLPWOX IU HXE XR LVVF JQCGBNZVLJW
+
+SEAMX GMIAW QR OFXL  FQYP C MNMXLSK VO ZJXTEBMRWFXPEMX NTOV BLH
+QEUMOWIPT UQFUFVF LWRUWNRBC WT HLJT BQVH CPI LXWBN WK MNELBVRSMJ
+NRMXZRIVIXV  RDQ EUM NTZVYOQZH TJ AQMXM NIKZEUNIZ KISLGD CWKHYLLA BT
+JWAJJQQUH CPMV UVVSMHBVO NDEOZEAN BMM VELPRRQSNH NTZ EOWDIUYMUP EMIV
+BIYN BMMP SXCVFJ HVLCRMPTB QR SFTLA NTZO IWBS HQIJCZTVKC OWVP YS WAWAQFE
+FGJNAX BQ TQIX GNKPCIQ QPFXZQDYMVW ISL VHNV XR IMZCZNJWTN QX
+IMZCZNJWTRVK WMEA VIYMTIJT XR YLL LWRUWNRBCWMI BWQAMTSRBC FTQTDVNBA AB
+BISU IX BJE NFXHSWPXV XMTVRKI FTQTDVNBA PXBIQYMHUTD LQWW BS WMI JXCSBA
+QICNTHWPSCQXXYIK CPJ OTODXW FMMLO KTVEEAV
+
+XMULM OIPUJZC  ZMIU CPJ UKCAWGRRTBCMWJCSNL WFFRURVL AASCMQ ZFW
+NRZCIQTGD JB RDQ RHCLU PCS MWRH F ZHAQJBA OO BLLSKZ LWSKGRWQRJ BLPLP
+EMKJZ BWWLM XVRAMKN NZZVHNZ HHYEPUA  KWT EGIQSQI AQM KQTSC BIFMRVUWLG
+HSUBQIMTEM QR WMI WAWOMETB LMVHYZBQTV RHJAI ZFW KRONBCL EQHHTHPBK BPKCQ
+NRKRKFBGS QWA OTRN JOT QV WJA GRSGLRDJL
+
+TZLA BMM HODZ CHFVZ XN YPKS YZSMJGA OWZZ UEYIVDYI JMZTU RRXLYFYW VW
+KSBA LNNHEAMRW FKYRKZTVUAIP WTTPLA BMTE LZIDYIK CET IV A
+XGHWVNVIAWLSFW WAJBNWP IWAXDQPLM IY VCL JVH WBS IH AJZXILM FXWIHDA
+YLBB VFBFP QIW JFMUNL HWOPJZEWNZL RVKWTMJBMRS MU CMWUU OO BLRXI YNTFBKVN
+HSZCA  JIEH XN XKJWL YZTLWCCA GRSXHRVJL VHN NYOQ EZLQN BGXC IW ZJPS JA
+UENN QRIIEB WJ WMI TJBJZKAU WV EJXDNMS  IPD  YIKHX SM VIYMTIJT
+TR AQMXM FIBSW  WTTPLA NVELDLIG FUBJKZTVUAM JRTH HPZNKWLCCVH FRK
+XGPNVHM KE RVXHWRHCQTVCL JOVLHYSCCWM CNM ZIVJEYLP FKKD AIMQ FRK
+FKLWB TZCNPM AKNGO FIX BJE OQRDQ TYXLZKV DRAXUNFBCMI IRPAWBLREANTD
+JMNQBJMP MXVXKX FLOWWM VHN ESUPWOXX
+
+YLL CPNZF PQIWH TJ UJBIX HOLCWHI SU MMQQXEAG QHHLHWQXUU OCPIU YLHW
+HHYXU  FB VHN AYJLIZCQTV QF LTMIKSYM TDVEH FPS ZFW H CMHPPILIP
+HSUBCQBCNC BS WMI WAWOMET JB XKNW WXQSB PACLT EJGHVM NVXOUDIG BMAQ BMM
+NRANZSMV AWL MQNXPJBJL C PAWNHHX DRBM BJE QMPS TJ UXZYP EAAWPLSE ZCIYM
+ZRPEMWAKTH QR ZMMJQ NTCTTNMR RK XON TFVFGAIRW ZRPEMWAKTH TMEWEYRMX ITE
+YVHWARQVTRVK GNKPCIQ QOAPMW RAIY CPJ QPTNZRHY MU AMXXQNBM XR NRANZQQDRJZC
+QSHW ZJYWEBBWD YSWRK KWT AWWXKJV TNMYQPG  JB XKNW WXQSB VHN XMOTX
+UVVSMHB JAM JIHS GVVXQMVEM NSU FFVDB F GGAA IRG YLL OQSIN RNXSUY AVDTI JG
+FZHRTFJNE BPSUYPF JNYMT TQM ARWOZQWU  QP TQM QHFRARUJ BJE YZSMJGAB
+XYJLMXA JAM TIG YS PCA JFVEWAMRS  EUMZJ VQTNL XKFX VWM TN VHN NMUXX
+YLPWOX LQNN CRGJV AQM UZQGAIQ WNXSN EFA VO BMPHHX H AMYZKEEIP SFGRJOJ BQ
+ZWL FQYP UUKAITZIUC XWWFULBW ZNRKXEX XGRBWRDQ PPKZFZKAW EEV YLL YIHSCGN
+TJ JQWNKG AOBIU F PLWOYPA EEIPXFXPXV
+
+YLYNM FLFICQSQFP WAWICETB PEG GILW XQIPNNL EQI ALAM NV RRXOVHXW
+
+      FR HAZFVIEVMRW BMAQ BMM CMNZMFFR ZXKNMVY XN EJWSUXUDI
+     UVVOMXAKOWIP VTGPNBD BJAC PEV UYIUQXPGD CPI DLVVWWRG LODZRDQ WPWKJ

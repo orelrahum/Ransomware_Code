@@ -1,0 +1,243 @@
+the use of classical scholars.  There are perhaps 400 IBYCUS computers in
+the country, most of which are in university classics departments.
+Ultimately, it is anticipated that the CD-ROM edition of the Founding
+Fathers documents will run on any IBM-compatible or Macintosh computer
+with a CD-ROM drive.  Numerous changes in the software will also occur
+before the project is completed.  (Editor's note: an IBYCUS was
+unavailable to demonstrate the CD-ROM.)
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Several additional features of WPP clarified *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Discussion following TWOHIG's presentation served to clarify several
+additional features, including (1) that the project's primary
+intellectual product consists in the electronic transcription of the
+material; (2) that the text transmitted to the CD-ROM people is not
+marked up; (3) that cataloging and subject-indexing of the material
+remain to be worked out (though at this point material can be retrieved
+by name); and (4) that because all the searching is done in the hardware,
+the IBYCUS is designed to read a CD-ROM which contains only sequential
+text files.  Technically, it then becomes very easy to read the material
+off and put it on another device.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LEBRON * Overview of the history of the joint project between AAAS and
+OCLC * Several practices the on-line environment shares with traditional
+publishing on hard copy * Several technical and behavioral barriers to
+electronic publishing * How AAAS and OCLC arrived at the subject of
+clinical trials * Advantages of the electronic format and other features
+of OJCCT * An illustrated tour of the journal *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Maria LEBRON, managing editor, The Online Journal of Current Clinical
+Trials (OJCCT), presented an illustrated overview of the history of the
+joint project between the American Association for the Advancement of
+Science (AAAS) and the Online Computer Library Center, Inc. (OCLC).  The
+joint venture between AAAS and OCLC owes its beginning to a
+reorganization launched by the new chief executive officer at OCLC about
+three years ago and combines the strengths of these two disparate
+organizations.  In short, OJCCT represents the process of scholarly
+publishing on line.
+
+LEBRON next discussed several practices the on-line environment shares
+with traditional publishing on hard copy--for example, peer review of
+manuscripts--that are highly important in the academic world.  LEBRON
+noted in particular the implications of citation counts for tenure
+committees and grants committees.  In the traditional hard-copy
+environment, citation counts are readily demonstrable, whereas the
+on-line environment represents an ethereal medium to most academics.
+
+LEBRON remarked several technical and behavioral barriers to electronic
+publishing, for instance, the problems in transmission created by special
+characters or by complex graphics and halftones.  In addition, she noted
+economic limitations such as the storage costs of maintaining back issues
+and market or audience education.
+
+Manuscripts cannot be uploaded to OJCCT, LEBRON explained, because it is
+not a bulletin board or E-mail, forms of electronic transmission of
+information that have created an ambience clouding people's understanding
+of what the journal is attempting to do.  OJCCT, which publishes
+peer-reviewed medical articles dealing with the subject of clinical
+trials, includes text, tabular material, and graphics, although at this
+time it can transmit only line illustrations.
+
+Next, LEBRON described how AAAS and OCLC arrived at the subject of
+clinical trials:  It is 1) a highly statistical discipline that 2) does
+not require halftones but can satisfy the needs of its audience with line
+illustrations and graphic material, and 3) there is a need for the speedy
+dissemination of high-quality research results.  Clinical trials are
+research activities that involve the administration of a test treatment
+to some experimental unit in order to test its usefulness before it is
+made available to the general population.  LEBRON proceeded to give
+additional information on OJCCT concerning its editor-in-chief, editorial
+board, editorial content, and the types of articles it publishes
+(including peer-reviewed research reports and reviews), as well as
+features shared by other traditional hard-copy journals.
+
+Among the advantages of the electronic format are faster dissemination of
+information, including raw data, and the absence of space constraints
+because pages do not exist.  (This latter fact creates an interesting
+situation when it comes to citations.)  Nor are there any issues.  AAAS's
+capacity to download materials directly from the journal to a
+subscriber's printer, hard drive, or floppy disk helps ensure highly
+accurate transcription.  Other features of OJCCT include on-screen alerts
+that allow linkage of subsequently published documents to the original
+documents; on-line searching by subject, author, title, etc.; indexing of
+every single word that appears in an article; viewing access to an
+article by component (abstract, full text, or graphs); numbered
+paragraphs to replace page counts; publication in Science every thirty
+days of indexing of all articles published in the journal;
+typeset-quality screens; and Hypertext links that enable subscribers to
+bring up Medline abstracts directly without leaving the journal.
+
+After detailing the two primary ways to gain access to the journal,
+through the OCLC network and Compuserv if one desires graphics or through
+the Internet if just an ASCII file is desired, LEBRON illustrated the
+speedy editorial process and the coding of the document using SGML tags
+after it has been accepted for publication.  She also gave an illustrated
+tour of the journal, its search-and-retrieval capabilities in particular,
+but also including problems associated with scanning in illustrations,
+and the importance of on-screen alerts to the medical profession re
+retractions or corrections, or more frequently, editorials, letters to
+the editors, or follow-up reports.  She closed by inviting the audience
+to join AAAS on 1 July, when OJCCT was scheduled to go on-line.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Additional features of OJCCT *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+In the lengthy discussion that followed LEBRON's presentation, these
+points emerged:
+
+     * The SGML text can be tailored as users wish.
+
+     * All these articles have a fairly simple document definition.
+
+     * Document-type definitions (DTDs) were developed and given to OJCCT
+     for coding.
+
+     * No articles will be removed from the journal.  (Because there are
+     no back issues, there are no lost issues either.  Once a subscriber
+     logs onto the journal he or she has access not only to the currently
+     published materials, but retrospectively to everything that has been
+     published in it.  Thus the table of contents grows bigger.  The date
+     of publication serves to distinguish between currently published
+     materials and older materials.)
+
+     * The pricing system for the journal resembles that for most medical
+     journals:  for 1992, $95 for a year, plus telecommunications charges
+     (there are no connect time charges);    for 1993, $110 for the
+     entire year for single users, though the journal can be put on a
+     local area network (LAN).  However, only one person can access the
+     journal at a time.  Site licenses may come in the future.
+
+     * AAAS is working closely with colleagues at OCLC to display
+     mathematical equations on screen.
+
+     * Without compromising any steps in the editorial process, the
+     technology has reduced the time lag between when a manuscript is
+     originally submitted and the time it is accepted; the review process
+     does not differ greatly from the standard six-to-eight weeks
+     employed by many of the hard-copy journals.  The process still
+     depends on people.
+
+     * As far as a preservation copy is concerned, articles will be
+     maintained on the computer permanently and subscribers, as part of
+     their subscription, will receive a microfiche-quality archival copy
+     of everything published during that year; in addition, reprints can
+     be purchased in much the same way as in a hard-copy environment.
+     Hard copies are prepared but are not the primary medium for the
+     dissemination of the information.
+
+     * Because OJCCT is not yet on line, it is difficult to know how many
+     people would simply browse through the journal on the screen as
+     opposed to downloading the whole thing and printing it out; a mix of
+     both types of users likely will result.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PERSONIUS * Developments in technology over the past decade * The CLASS
+Project * Advantages for technology and for the CLASS Project *
+Developing a network application an underlying assumption of the project
+* Details of the scanning process * Print-on-demand copies of books *
+Future plans include development of a browsing tool *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lynne PERSONIUS, assistant director, Cornell Information Technologies for
+Scholarly Information Services, Cornell University, first commented on
+the tremendous impact that developments in technology over the past ten
+years--networking, in particular--have had on the way information is
+handled, and how, in her own case, these developments have counterbalanced
+Cornell's relative geographical isolation.  Other significant technologies
+include scanners, which are much more sophisticated than they were ten years
+ago; mass storage and the dramatic savings that result from it in terms of
+both space and money relative to twenty or thirty years ago; new and
+improved printing technologies, which have greatly affected the distribution
+of information; and, of course, digital technologies, whose applicability to
+library preservation remains at issue.
+
+Given that context, PERSONIUS described the College Library Access and
+Storage System (CLASS) Project, a library preservation project,
+primarily, and what has been accomplished.  Directly funded by the
+Commission on Preservation and Access and by the Xerox Corporation, which
+has provided a significant amount of hardware, the CLASS Project has been
+working with a development team at Xerox to develop a software
+application tailored to library preservation requirements.  Within
+Cornell, participants in the project have been working jointly with both
+library and information technologies.  The focus of the project has been
+on reformatting and saving books that are in brittle condition.
+PERSONIUS showed Workshop participants a brittle book, and described how
+such books were the result of developments in papermaking around the
+beginning of the Industrial Revolution.  The papermaking process was
+changed so that a significant amount of acid was introduced into the
+actual paper itself, which deteriorates as it sits on library shelves.
+
+One of the advantages for technology and for the CLASS Project is that
+the information in brittle books is mostly out of copyright and thus
+offers an opportunity to work with material that requires library
+preservation, and to create and work on an infrastructure to save the
+material.  Acknowledging the familiarity of those working in preservation
+with this information, PERSONIUS noted that several things are being
+done:  the primary preservation technology used today is photocopying of
+brittle material.  Saving the intellectual content of the material is the
+main goal.  With microfilm copy, the intellectual content is preserved on
+the assumption that in the future the image can be reformatted in any
+other way that then exists.
+
+An underlying assumption of the CLASS Project from the beginning was
+that it would develop a network application.  Project staff scan books
+at a workstation located in the library, near the brittle material.
+An image-server filing system is located at a distance from that
+workstation, and a printer is located in another building.  All of the
+materials digitized and stored on the image-filing system are cataloged
+in the on-line catalogue.  In fact, a record for each of these electronic
+books is stored in the RLIN database so that a record exists of what is
+in the digital library throughout standard catalogue procedures.  In the
+future, researchers working from their own workstations in their offices,
+or their networks, will have access--wherever they might be--through a
+request server being built into the new digital library.  A second
+assumption is that the preferred means of finding the material will be by
+looking through a catalogue.  PERSONIUS described the scanning process,
+which uses a prototype scanner being developed by Xerox and which scans a
+very high resolution image at great speed.  Another significant feature,
+because this is a preservation application, is the placing of the pages
+that fall apart one for one on the platen.  Ordinarily, a scanner could
+be used with some sort of a document feeder, buW FVDUNTI QF NZMG
+HTAWWCPITWP TAIH VL UOM NWNGBGPE.  XCSELJL, SXJELTI ELUKW KD A
+WVPDSGMELMFI AIXZVCPITWP, AYBSE TMX TRILV GEEPRTIBPNV ME QNWM LTEUI, T
+CICJ QVVVDWL HYFFTJS CZVMPQZ PAVQV KZ TGBNGGQVI.  OE AVLGVBRT HWBK TT
+JSXAOTSP IO KLH IFBUXTU KBIC DPR KCRVIDGRBNWP IL UOQM, TQFRVF TWCTITUWPK,
+ALLE OES OY TSP WRTNI, IXL UJ TSP WSYVVUNYWFZ, HTA PRLN UBTXHTES.  MBVR,
+H RPH ZIOVWCG CFOB GT DFYLMRVR:  WBG TUBUXTU QZTKHA MRK VWBFYEH CM U
+JSXXSTQUMP SKVDPS IAG E EEJ EOBO ET FSDCJEIW NF GLH LVXSJ.
+ZMRYWXQINVYTA, TUX MMHRW SSHEJEIW NF GLH EWUYECG TYECTWZ ECZ FWALXJJUF
+HRO FGESXF JIUFLTIBPNVW AR NVAR-SRGM SFGIV IHPX JAVUEV SOME D WOFZ TTAR,
+PR PQTMPX, YMI GJNPZEBYVO OQ TEXGJGMELMFI PAWHBRVDBSU.  HWCW, LAL JJHQIRK

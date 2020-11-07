@@ -1,0 +1,499 @@
+loan or some other mechanism, so in the same way electronic formats ought
+to be available to others in some format, though with some copyright
+considerations.  BESSER was not suggesting that these mechanisms be
+established tomorrow, only that they seemed to fall within LC's purview,
+and that there should be long-range plans to establish them.
+
+Acknowledging that those from LC in the room agreed with BESSER
+concerning the need to confront difficult questions, GIFFORD underscored
+the magnitude of the problem of what to keep and what to select.  GIFFORD
+noted that LC currently receives some 31,000 items per day, not counting
+electronic materials, and argued for much more distributed responsibility
+in order to maintain and store electronic information.
+
+BESSER responded that the assembled group could be viewed as a starting
+point, whose initial operating premise could be helping to move in this
+direction and defining how LC could do so, for example, in areas of
+standardization or distribution of responsibility.
+
+FLEISCHHAUER added that AM was fully engaged, wrestling with some of the
+questions that pertain to the conversion of older historical materials,
+which would be one thing that the Library of Congress might do.  Several
+points mentioned by BESSER and several others on this question have a
+much greater impact on those who are concerned with cataloguing and the
+networking of bibliographic information, as well as preservation itself.
+
+Speaking directly to AM, which he considered was a largely uncopyrighted
+database, LYNCH urged development of a network version of AM, or
+consideration of making the data in it available to people interested in
+doing network multimedia.  On account of the current great shortage of
+digital data that is both appealing and unencumbered by complex rights
+problems, this course of action could have a significant effect on making
+network multimedia a reality.
+
+In this connection, FLEISCHHAUER reported on a fragmentary prototype in
+LC's Office of Information Technology Services that attempts to associate
+digital images of photographs with cataloguing information in ways that
+work within a local area network--a step, so to say, toward AM's
+construction of some sort of apparatus for access.  Further, AM has
+attempted to use standard data forms in order to help make that
+distinction between the access tools and the underlying data, and thus
+believes that the database is networkable.
+
+A delicate and agonizing policy question for LC, however, which comes
+back to resources and unfortunately has an impact on this, is to find
+some appropriate, honorable, and legal cost-recovery possibilities.  A
+certain skittishness concerning cost-recovery has made people unsure
+exactly what to do.  AM would be highly receptive to discussing further
+LYNCH's offer to test or demonstrate its database in a network
+environment, FLEISCHHAUER said.
+
+Returning the discussion to what she viewed as the vital issue of
+electronic deposit, BATTIN recommended that LC initiate a catalytic
+process in terms of distributed responsibility, that is, bring together
+the distributed organizations and set up a study group to look at all
+these issues and see where we as a nation should move.  The broader
+issues of how we deal with the management of electronic information will
+not disappear, but only grow worse.
+
+LESK took up this theme and suggested that LC attempt to persuade one
+major library in each state to deal with its state equivalent publisher,
+which might produce a cooperative project that would be equitably
+distributed around the country, and one in which LC would be dealing with
+a minimal number of publishers and minimal copyright problems.
+
+GRABER remarked the recent development in the scientific community of a
+willingness to use SGML and either deposit or interchange on a fairly
+standardized format.  He wondered if a similar movement was taking place
+in the humanities.  Although the National Library of Medicine found only
+a few publishers to cooperate in a like venture two or three years ago, a
+new effort might generate a much larger number willing to cooperate.
+
+KIMBALL recounted his unit's (Machine-Readable Collections Reading Room)
+troubles with the commercial publishers of electronic media in acquiring
+materials for LC's collections, in particular the publishers' fear that
+they would not be able to cover their costs and would lose control of
+their products, that LC would give them away or sell them and make
+profits from them.  He doubted that the publishing industry was prepared
+to move into this area at the moment, given its resistance to allowing LC
+to use its machine-readable materials as the Library would like.
+
+The copyright law now addresses compact disk as a medium, and LC can
+request one copy of that, or two copies if it is the only version, and
+can request copies of software, but that fails to address magazines or
+books or anything like that which is in machine-readable form.
+
+GIFFORD acknowledged the thorny nature of this issue, which he illustrated
+with the example of the cumbersome process involved in putting a copy of a
+scientific database on a LAN in LC's science reading room.  He also
+acknowledged that LC needs help and could enlist the energies and talents
+of Workshop participants in thinking through a number of these problems.
+
+GIFFORD returned the discussion to getting the image and text people to
+think through together where they want to go in the long term.  MYLONAS
+conceded that her experience at the Pierce Symposium the previous week at
+Georgetown University and this week at LC had forced her to reevaluate
+her perspective on the usefulness of text as images.  MYLONAS framed the
+issues in a series of questions:  How do we acquire machine-readable
+text?  Do we take pictures of it and perform OCR on it later?  Is it
+important to obtain very high-quality images and text, etc.?
+FLEISCHHAUER agreed with MYLONAS's framing of strategic questions, adding
+that a large institution such as LC probably has to do all of those
+things at different times.  Thus, the trick is to exercise judgment.  The
+Workshop had added to his and AM's considerations in making those
+judgments.  Concerning future meetings or discussions, MYLONAS suggested
+that screening priorities would be helpful.
+
+WEIBEL opined that the diversity reflected in this group was a sign both
+of the health and of the immaturity of the field, and more time would
+have to pass before we convince one another concerning standards.
+
+An exchange between MYLONAS and BATTIN clarified the point that the
+driving force behind both the Perseus and the Cornell Xerox projects was
+the preservation of knowledge for the future, not simply for particular
+research use.  In the case of Perseus, MYLONAS said, the assumption was
+that the texts would not be entered again into electronically readable
+form.  SPERBERG-McQUEEN added that a scanned image would not serve as an
+archival copy for purposes of preservation in the case of, say, the Bill
+of Rights, in the sense that the scanned images are effectively the
+archival copies for the Cornell mathematics books.
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                          Appendix I:  PROGRAM
+
+
+
+                                WORKSHOP
+                                   ON
+                               ELECTRONIC
+                                  TEXTS
+
+
+
+                             9-10 June 1992
+
+                           Library of Congress
+                            Washington, D.C.
+
+
+
+    Supported by a Grant from the David and Lucile Packard Foundation
+
+
+Tuesday, 9 June 1992
+
+NATIONAL DEMONSTRATION LAB, ATRIUM, LIBRARY MADISON
+
+8:30 AM   Coffee and Danish, registration
+
+9:00 AM   Welcome
+
+          Prosser Gifford, Director for Scholarly Programs, and Carl
+             Fleischhauer, Coordinator, American Memory, Library of
+             Congress
+
+9:l5 AM   Session I.  Content in a New Form:  Who Will Use It and What
+          Will They Do?
+
+          Broad description of the range of electronic information.
+          Characterization of who uses it and how it is or may be used.
+          In addition to a look at scholarly uses, this session will
+          include a presentation on use by students (K-12 and college)
+          and the general public.
+
+          Moderator:  James Daly
+          Avra Michelson, Archival Research and Evaluation Staff,
+             National Archives and Records Administration (Overview)
+          Susan H. Veccia, Team Leader, American Memory, User Evaluation,
+             and
+          Joanne Freeman, Associate Coordinator, American Memory, Library
+             of Congress (Beyond the scholar)
+
+10:30-
+11:00 AM  Break
+
+11:00 AM  Session II.  Show and Tell.
+
+          Each presentation to consist of a fifteen-minute
+          statement/show; group discussion will follow lunch.
+
+          Moderator:  Jacqueline Hess, Director, National Demonstration
+             Lab
+
+            1.  A classics project, stressing texts and text retrieval
+                more than multimedia:  Perseus Project, Harvard
+                University
+                Elli Mylonas, Managing Editor
+
+            2.  Other humanities projects employing the emerging norms of
+                the Text Encoding Initiative (TEI):  Chadwyck-Healey's
+                The English Poetry Full Text Database and/or Patrologia
+                Latina Database
+                Eric M. Calaluca, Vice President, Chadwyck-Healey, Inc.
+
+            3.  American Memory
+                Carl Fleischhauer, Coordinator, and
+                Ricky Erway, Associate Coordinator, Library of Congress
+
+            4.  Founding Fathers example from Packard Humanities
+                Institute:  The Papers of George Washington, University
+                of Virginia
+                Dorothy Twohig, Managing Editor, and/or
+                David Woodley Packard
+
+            5.  An electronic medical journal offering graphics and
+                full-text searchability:  The Online Journal of Current
+                Clinical Trials, American Association for the Advancement
+                of Science
+                Maria L. Lebron, Managing Editor
+
+            6.  A project that offers facsimile images of pages but omits
+                searchable text:  Cornell math books
+                Lynne K. Personius, Assistant Director, Cornell
+                   Information Technologies for Scholarly Information
+                   Sources, Cornell University
+
+12:30 PM  Lunch  (Dining Room A, Library Madison 620.  Exhibits
+          available.)
+
+1:30 PM   Session II.  Show and Tell (Cont'd.).
+
+3:00-
+3:30 PM   Break
+
+3:30-
+5:30 PM   Session III.  Distribution, Networks, and Networking:  Options
+          for Dissemination.
+
+          Published disks:  University presses and public-sector
+             publishers, private-sector publishers
+          Computer networks
+
+          Moderator:  Robert G. Zich, Special Assistant to the Associate
+             Librarian for Special Projects, Library of Congress
+          Clifford A. Lynch, Director, Library Automation, University of
+             California
+          Howard Besser, School of Library and Information Science,
+             University of Pittsburgh
+          Ronald L. Larsen, Associate Director of Libraries for
+             Information Technology, University of Maryland at College
+             Park
+          Edwin B. Brownrigg, Executive Director, Memex Research
+             Institute
+
+6:30 PM   Reception  (Montpelier Room, Library Madison 619.)
+
+                                 ******
+
+Wednesday, 10 June 1992
+
+DINING ROOM A, LIBRARY MADISON 620
+
+8:30 AM   Coffee and Danish
+
+9:00 AM   Session IV.  Image Capture,, _%x| }GV|ur%, i2%r2i%< of _%x| G_J
+          cSGM% S|orGM%  orSG|YA
+
+          MoJ%rG|oru  [illiGS fA @oo|o_, Vic% Pr%YiJ%_| of iV%rG|io_Y,
+             cS"~_
+
+          Al Pri_ciVGl M%|"oJY for cSGM% }GV|ur% of _%x|u
+             Dir%c| YcG__i_M
+             oY% of SicroforS
+
+          A__% lA %%__%5, AYYiY|G_| Dir%c|or, D%VGr|S%_| of Pr%Y%r2G|io_
+             G_J }o_Y%r2G|io_, }or_%ll o_i2%rYi|5
+          PGS%lG (AJA A_Jr%, AYYociG|% Dir%c|or, Au|oSG|io_, G_J
+          JuJi|" AA |iJGr, }oorJi_G|or, "G|io_Gl AMricul|urGl _%x|
+             DiMi|i,i_M ProMrGS ("A_DPl, "G|io_Gl AMricul|urGl fi@rGr5
+             ("Afl
+          Do_GlJ JA [G|%rY, @%GJ, S5Y|%SY iffic%, YGl% o_i2%rYi|5 fi@rGr5
+
+          8l SV%ciGl Pro@l%SYu
+             8ou_J 2oluS%Y
+             }o_Y%r2G|io_
+             l%VroJuci_M Vri_|%J "Glf|o_%Y
+
+          }Grl  l%iYc""Gu%r, }oorJi_G|or, AS%ricG_ M%Sor5, fi@rGr5 of
+             }o_Mr%YY
+          G%orM% _"oSG, }"i%f, }oSSu_icG|io_Y ~_Mi_%%ri_M 8rG_c",
+             "G|io_Gl fi@rGr5 of M%Jici_% ("fMl
+
+uDu<DS
+uuuDD AM  8r%G(
+
+uuuDD AM  S%YYio_ cVA  cSGM% }GV|ur%, _%x| }GV|ur%, i2%r2i%< of _%x| G_J
+          cSGM% S|orGM%  orSG|Y (}o_|MJAlA
+
+          }l cSGM% S|G_JGrJY G_J cSVlicG|io_Y for Pr%Y%r2G|io_
+
+          J%G_ 8Gro_GY, S%_ior MG_GM%r, D%VGr|S%_| of S|G_JGrJY G_J
+             _%c"_oloM5, AYYociG|io_ for c_forSG|io_ G_J cSGM% MG_GM%S%_|
+             (AccMl
+          PG|riciG 8G||i_, Pr%YiJ%_|, _"% }oSSiYYio_ o_ Pr%Y%r2G|io_ G_J
+             Acc%YY (}PAl
+
+          Dl _%x| }o_2%rYio_u
+             i}l 2YA r%(%5i_M
+             S|G_JGrJY of GccurGc5 G_J uY% of iSV%rf%c| |%x|Y
+             S%r2ic% @ur%GuY
+
+          S|uGr| [%i@%l, S%_ior l%Y%Grc" SV%ciGliY|, i_li_% }oSVu|%r
+             fi@rGr5 }%_|%r, c_cA (i}f}l
+          Mic"G%l f%Y(, ~x%cu|i2% Dir%c|or, }oSVu|%r Sci%_c% l%Y%Grc",
+             8%llcor%
+          lic(5 ~r<G5, AYYociG|% }oorJi_G|or, AS%ricG_ M%Sor5, fi@rGr5 of
+             }o_Mr%YY
+          PGS%lG (AJA A_Jr%, AYYociG|% Dir%c|or, Au|oSG|io_, G_J
+          JuJi|" AA |iJGr, }oorJi_G|or, "G|io_Gl AMricul|urGl _%x|
+             DiMi|i,i_M ProMrGS ("A_DPl, "G|io_Gl AMricul|urGl fi@rGr5
+             ("Afl
+
+u2u<DS
+uu<D PM   fu_c"
+
+uu<D PM   S%YYio_ VA  AVVroGc"%Y |o Pr%VGri_M ~l%c|ro_ic _%x|YA
+
+          DiYcuYYio_ of GVVroGc"%Y |o Y|ruc|uri_M |%x| for |"% coSVu|%r2
+          VroY G_J co_Y of |%x| coJi_M, J%YcriV|io_ of S%|"oJY i_
+          VrGc|ic%, G_J coSVGriYo_ of |%x|ScoJi_M S%|"oJYA
+
+          MoJ%rG|oru  SuYG_ @oc(%5, Dir%c|or, }%_|%r for ~l%c|ro_ic _%x|Y
+             i_ |"% @uSG_i|i%Y (}~_@l, lu|M%rY G_J Pri_c%|o_ o_i2%rYi|i%Y
+          DG2iJ [ooJl%5 PGc(GrJ
+          }AMA SV%r@%rMSMc(u%%_, ~Ji|or, _%x| ~_coJi_M c_i|iG|i2% (_~cl,
+             o_i2%rYi|5 of clli_oiYS}"icGMo
+          ~ric MA }GlGlucG, Vic% Pr%YiJ%_|, }"GJ<5c(S@%Gl%5, c_cA
+
+<u<DS
+xuDD PM   8r%G(
+
+xuDD PM   S%YYio_ VcA  }oV5riM"| cYYu%YA
+
+          MGr5@%|" P%|%rY, Polic5 PlG__i_M AJ2iY%r |o |"% l%MiY|%r of
+             }oV5riM"|Y, fi@rGr5 of }o_Mr%YY
+
+5uDD PM   S%YYio_ VccA }o_cluYio_A
+
+          G%_%rGl JiYcuYYio_A
+          ["G| |oVicY <%r% oSi||%J or Mi2%_ Y"or| Y"rif| |"G| G_5o_%
+             <oulJ li(% |o |Gl( G@ou| _o<8
+          cY |"%r% G "MrouV" "%r%8  ["G| Y"oulJ |"% MrouV Jo _%x|, if
+             G_5|"i_M8  ["G| Y"oulJ |"% fi@rGr5 of }o_Mr%YY Jo _%x|, if
+             G_5|"i_M8
+          MoJ%rG|oru  ProYY%r GifforJ, Dir%c|or for Sc"olGrl5 ProMrGSY,
+             fi@rGr5 of }o_Mr%YY
+
+,uDD PM   AJPour_
+
+
+               PPP   PPP   PPP   PPPPPP   PPP   PPP   PPP
+
+
+                         AVV%_Jix ccu  A8S_lA}_S
+
+
+S~SSci" c
+
+A2rG Mc}@~fSi"            or%cGY|i_M |"% oY% of ~l%c|ro_ic _%x|Y @5
+                         SociGl Sci%_c%Y G_J @uSG_i|i%Y Sc"olGrY
+
+_"iY Vr%Y%_|G|io_ %xVlor%Y |"% <G5Y i_ <"ic" %l%c|ro_ic |%x|Y Gr% li(%l5
+|o @% uY%J @5 |"% _o_SYci%_|ific Yc"olGrl5 coSSu_i|5A  MG_5 of |"%
+r%SGr(Y Gr% JrG<_ froS G r%Vor| |"% YV%G(%r coGu|"or%J <i|" J%ff
+lo|"%_@%rM, G coSVu|%r Yci%_|iY| G| _"% lA"D }orVorG|io_A
+
+_"% YV%G(%r GYY%YY%Y ul curr%_| Yc"olGrl5 uY% of i_forSG|io_ |%c"_oloM5
+G_J 2l |"% (%5 |r%_JY i_ i_forSG|io_ |%c"_oloM5 SoY| r%l%2G_| |o |"%
+r%Y%Grc" Vroc%YY, i_ orJ%r |o Vr%Jic| "o< YociGl Yci%_c%Y G_J "uSG_i|i%Y
+Yc"olGrY Gr% GV| |o uY% %l%c|ro_ic |%x|YA  c_ i_|roJuci_M |"% |oVic,
+curr%_| uY% of %l%c|ro_ic |%x|Y iY %xVlor%J @roGJl5 <i|"i_ |"% co_|%x| of
+Yc"olGrl5 coSSu_icG|io_A   roS |"% V%rYV%c|i2% of Yc"olGrl5
+coSSu_icG|io_, |"% <or( of "uSG_i|i%Y G_J YociGl Yci%_c%Y Yc"olGrY
+i_2ol2%Y fi2% Vroc%YY%Yu  ul iJ%_|ificG|io_ of Yourc%Y, 2l coSSu_icG|io_
+<i|" coll%GMu%Y, <l i_|%rVr%|G|io_ G_J G_Gl5YiY of JG|G, xl JiYY%Si_G|io_
+of r%Y%Grc" fi_Ji_MY, G_J 5l curriculuS J%2%loVS%_| G_J i_Y|ruc|io_A  _"%
+%x|%_| |o <"ic" coSVu|G|io_ curr%_|l5 V%rS%G|%Y GYV%c|Y of Yc"olGrl5
+coSSu_icG|io_ r%Vr%Y%_|Y G 2iG@l% i_JicG|or of |"% VroYV%c|Y for
+%l%c|ro_ic |%x|YA
+
+_"% JiYcuYYio_ of curr%_| VrGc|ic% iY @GlG_c%J @5 G_ G_Gl5YiY of (%5
+|r%_JY i_ |"% Yc"olGrl5 uY% of i_forSG|io_ |%c"_oloM5A  _"%Y% i_cluJ% |"%
+|r%_JY |o<GrJ %_JSuY%r coSVu|i_M G_J co__%c|i2i|5, <"ic" Vro2iJ% G
+frGS%<or( for for%cGY|i_M |"% uY% of %l%c|ro_ic |%x|Y |"rouM" |"iY
+Sill%__iuSA  _"% Vr%Y%_|G|io_ co_cluJ%Y <i|" G YuSSGr5 of |"% <G5Y i_
+<"ic" |"% _o_Yci%_|ific Yc"olGrl5 coSSu_i|5 cG_ @% %xV%c|%J |o uY%
+%l%c|ro_ic |%x|Y, G_J |"% iSVlicG|io_Y of |"G| uY% for i_forSG|io_
+Vro2iJ%rYA
+
+SuYG_ V~}}cA G_J JoG__%  l~~MA"    ~l%c|ro_ic Arc"i2%Y for |"% Pu@licu
+                                   oY% of AS%ricG_ M%Sor5 i_ Pu@lic G_J
+                                   Sc"ool fi@rGri%Y
+
+_"iY Poi_| JiYcuYYio_ focuY%Y o_ _o_Yc"olGrl5 GVVlicG|io_Y of %l%c|ro_ic
+li@rGr5 SG|%riGlY, YV%cificGll5 GJJr%YYi_M uY% of |"% fi@rGr5 of }o_Mr%YY
+AS%ricG_ M%Sor5 (AMl VroMrGS i_ G YSGll _uS@%r of Vu@lic G_J Yc"ool
+li@rGri%Y |"rouM"ou| |"% o_i|%J S|G|%YA  AM co_YiY|Y of Y%l%c|%J fi@rGr5
+of }o_Mr%YY VriSGr5 Grc"i2Gl SG|%riGlY, Y|or%J o_ oV|icGl S%JiG
+(}DSliMY2iJ%oJiYcl, G_J Vr%Y%_|%J <i|" li||l% or _o %Ji|i_MA  MG_5
+coll%c|io_Y Gr% GccoSVG_i%J @5 %l%c|ro_ic i_|roJuc|io_Y G_J uY%rMY MuiJ%Y
+off%ri_M @Gc(Mrou_J i_forSG|io_ G_J "iY|oricGl co_|%x|A  }oll%c|io_Y
+r%Vr%Y%_| G 2Gri%|5 of forSG|Y i_cluJi_M V"o|oMrGV"Y, MrGV"ic Gr|Y,
+So|io_ Vic|ur%Y, r%corJ%J You_J, SuYic, @roGJYiJ%Y G_J SG_uYcriV|Y,
+@oo(Y, G_J VGSV"l%|YA
+
+c_ u}}u, |"% fi@rGr5 of }o_Mr%YY @%MG_ G _G|io_<iJ% %2GluG|io_ of AM i_
+Jiff%r%_| |5V%Y of i_Y|i|u|io_YA  _%Y| Yi|%Y i_cluJ% Vu@lic li@rGri%Y,
+%l%S%_|Gr5 G_J Y%co_JGr5 Yc"ool li@rGri%Y, coll%M% G_J u_i2%rYi|5
+li@rGri%Y, Y|G|% li@rGri%Y, G_J YV%ciGl li@rGri%YA  SuYG_ V~}}cA G_J
+JoG__%  l~~MA" <ill JiYcuYY |"%ir o@Y%r2G|io_Y o_ |"% uY% of AM @5 |"%
+_o_Yc"olGrl5 coSSu_i|5, uYi_M %2iJ%_c% Ml%G_%J froS |"iY o_Moi_M
+%2GluG|io_ %ffor|A
+
+V~}}cA <ill coSS%_| o_ |"% o2%rGll MoGlY of |"% %2GluG|io_ VroP%c|, G_J
+|"% |5V%Y of Vu@lic G_J Yc"ool li@rGri%Y i_cluJ%J i_ |"iY Y|uJ5A  @%r
+coSS%_|Y o_ _o_Yc"olGrl5 uY% of AM <ill focuY o_ |"% Vu@lic li@rGr5 GY G
+cul|urGl G_J coSSu_i|5 i_Y|i|u|io_, of|%_ @riJMi_M |"% MGV @%|<%%_ forSGl
+G_J i_forSGl %JucG|io_A   l~~MA" <ill JiYcuYY |"% uY% of AM i_ Yc"ool
+li@rGri%YA  oY% @5 Y|uJ%_|Y G_J |%Gc"%rY "GY r%2%Gl%J YoS% @roGJ
+[u%Y|io_Y G@ou| |"% uY% of %l%c|ro_ic r%Yourc%Y, GY <%ll GY J%fi_i|%
+@%_%fi|Y MGi_%J @5 |"% "_o_Yc"olGrA"  _oVicY <ill i_cluJ% |"% Vro@l%S of
+MrGYVi_M co_|%_| G_J co_|%x| i_ G_ %l%c|ro_ic %_2iro_S%_|, |"% Y|uS@li_M
+@loc(Y cr%G|%J @5 "_%<" |%c"_oloMi%Y, G_J |"% u_i[u% Y(illY G_J i_|%r%Y|Y
+G<G(%_%J |"rouM" uY% of %l%c|ro_ic r%Yourc%YA
+
+S~SSci" cc
+
+~lli MYfi"AS             _"% P%rY%uY ProP%c|u  c_|%rGc|i2% Sourc%Y G_J
+                         S|uJi%Y i_ }lGYYicGl Gr%%c%
+
+_"% P%rY%uY ProP%c| (5l "GY PuY| r%l%GY%J P%rY%uY uAD, |"% firY| Vu@licl5
+G2GilG@l% 2%rYio_ of i|Y "5V%r|%x|uGl JG|G@GY% of Sul|iS%JiG SG|%riGlY o_
+clGYYicGl Gr%%c%A  P%rY%uY iY J%YiM_%J |o @% uY%J @5 G <iJ% GuJi%_c%,
+coSVriY%J of r%GJ%rY G| |"% Y|uJ%_| G_J Yc"olGr l%2%lYA  AY Yuc", i| SuY|
+@% G@l% |o locG|% i_forSG|io_ uYi_M Jiff%r%_| Y|rG|%Mi%Y, G_J i| SuY|
+co_|Gi_ %_ouM" J%|Gil |o Y%r2% |"% Jiff%r%_| _%%JY of i|Y uY%rYA  c_
+GJJi|io_, i| SuY| @% J%li2%r%J Yo |"G| i| iY GfforJG@l% |o i|Y |GrM%|
+GuJi%_c%A  [_"%Y% Vro@l%SY G_J |"% Yolu|io_Y <% c"oY% Gr% J%Ycri@%J i_
+M5lo_GY, "A_ c_|%rfGc% |o }lGYYicGl Gr%%( }i2ili,G|io_," JAScS x<u2,
+MGrc" u}}2Ar
+
+c_ orJ%r |o Gc"i%2% i|Y o@P%c|i2%, |"% VroP%c| Y|Gff J%ciJ%J |o SG(% G
+co_YciouY Y%VGrG|io_ @%|<%%_ Y%l%c|i_M G_J co_2%r|i_M |%x|uGl, JG|G@GY%,
+G_J iSGM% JG|G o_ |"% o_% "G_J, G_J Vu||i_M i| i_|o G J%li2%r5 Y5Y|%S o_
+|"% o|"%rA  _"G| <G5, i| iY VoYYi@l% |o cr%G|% |"% %l%c|ro_ic JG|G
+<i|"ou| |"i_(i_M G@ou| |"% r%Y|ric|io_Y of |"% J%li2%r5 Y5Y|%SA  [% "G2%
+SGJ% G Mr%G| %ffor| |o c"ooY% Y5Y|%SSi_J%V%_J%_| forSG|Y for our JG|G,
+G_J |o Vu| GY Suc" |"ouM"| G_J <or( GY VoYYi@l% i_|o Y|ruc|uri_M i| Yo
+|"G| |"% |rG_YlG|io_ froS VGV%r |o %l%c|ro_ic forS <ill %_"G_c% |"% 2Glu%
+of |"% JG|GA [A JiYcuYYio_ of |"%Y% Yolu|io_Y GY of |<o 5%GrY GMo iY i_
+~lli M5lo_GY, Gr%Mor5 }rG_%, %%__%|" Morr%ll, G_J DA "%%l SSi|", "_"%
+P%rY%uY ProP%c|u  DG|G i_ |"% ~l%c|ro_ic AM%," i_ Acc%YYi_M A_|i[ui|5u
+_"% }oSVu|%ri,G|io_ of }lGYYicGl DG|G@GY%Y, JA SoloSo_ G_J _A [or|"%_
+(%JYAl,  o_i2%rYi|5 of Ari,o_G Pr%YY, i_ Vr%YYAr
+
+Muc" of |"% <or( o_ P%rY%uY iY focuY%J o_ coll%c|i_M G_J co_2%r|i_M |"%
+JG|G o_ <"ic" |"% VroP%c| iY @GY%JA  A| |"% YGS% |iS%, i| iY _%c%YYGr5 |o
+Vro2iJ% S%G_Y of Gcc%YY |o |"% i_forSG|io_, i_ orJ%r |o SG(% i| uYG@l%,
+G_J |"%S |o i_2%Y|iMG|% "o< i| iY uY%JA  AY <% l%Gr_ Sor% G@ou| <"G|
+Y|uJ%_|Y G_J Yc"olGrY froS Jiff%r%_| @Gc(Mrou_JY Jo <i|" P%rY%uY, <% cG_
+GJPuY| our JG|G coll%c|io_, G_J GlYo SoJif5 |"% Y5Y|%S |o GccoSSoJG|%
+|"%SA  c_ cr%G|i_M G J%li2%r5 Y5Y|%S for M%_%rGl uY%, <% "G2% |ri%J |o
+G2oiJ fG2ori_M G_5 o_% |5V% of uY% @5 Gllo<i_M Sul|iVl% forSY of Gcc%YY
+|o G_J _G2iMG|io_ |"rouM" |"% Y5Y|%SA
+
+_"% <G5 |%x| iY "G_Jl%J %x%SVlifi%Y YoS% of |"%Y% Vri_ciVl%YA  All |%x|
+i_ P%rY%uY iY |GMM%J uYi_M SGMf, follo<i_M |"% MuiJ%li_%Y of |"% _%x|
+~_coJi_M c_i|iG|i2% (_~clA  _"iY SGr(uV iY uY%J |o i_J%x |"% |%x|, G_J
+Vroc%YY i| Yo |"G| i| cG_ @% iSVor|%J i_|o @5V%r}GrJA  "o SGMf SGr(uV
+r%SGi_Y i_ |"% |%x| |"G| r%Gc"%Y |"% uY%r, @%cGuY% curr%_|l5 i| <oulJ @%
+|oo %xV%_Yi2% |o cr%G|% G Y5Y|%S |"G| Gc|Y o_ SGMf i_ r%Gl |iS%A
+@o<%2%r, |"% r%MulGri|5 Vro2iJ%J @5 SGMf iY %YY%_|iGl for 2%rif5i_M |"%
+co_|%_| of |"% |%x|Y, G_J Mr%G|l5 YV%%JY Gll |"% Vroc%YYi_M V%rforS%J o_
+|"%SA  _"% fGc| |"G| |"% |%x|Y %xiY| i_ SGMf %_Yur%Y |"G| |"%5 <ill @%
+r%lG|i2%l5 %GY5 |o Vor| |o Jiff%r%_| "GrJ<Gr% G_J Yof|<Gr%, G_J Yo <ill
+ou|lGY| |"% curr%_| J%li2%r5 VlG|forSA   i_Gll5, |"% SGMf SGr(uV
+i_corVorG|%Y %xiY|i_M cG_o_icGl r%f%r%_c% Y5Y|%SY (c"GV|%r, 2%rY%, li_%,
+%|cAl2 i_J%xi_M G_J _G2iMG|io_ Gr% @GY%J o_ |"%Y% f%G|ur%YA  _"iY %_Yur%Y
+|"G| |"% YGS% cG_o_icGl r%f%r%_c% <ill Gl<G5Y r%Yol2% |o |"% YGS% Voi_|
+<i|"i_ G |%x|, G_J |"G| Gll 2%rYio_Y of our |%x|Y, r%MGrJl%YY of J%li2%r5
+VlG|forS (%2%_ VGV%r Vri_|ou|Yl <ill fu_c|io_ |"% YGS% <G5A
+
+c_ orJ%r |o Vro2iJ% |oolY for uY%rY, |"% |%x| iY Vroc%YY%J @5 G
+SorV"oloMicGl G_Gl5,%r, G_J |"% r%Yul|Y Gr% Y|or%J i_ G JG|G@GY%A
+_oM%|"%r <i|" |"% i_J%x, |"% Gr%%(S~_MliY" f%xico_, G_J |"% i_J%x of Gll
+|"% ~_MliY" <orJY i_ |"% J%fi_i|io_Y of |"% l%xico_, |"% SorV"oloMicGl
+G_Gl5Y%Y coSVriY% G Y%| of li_MuiY|ic |oolY |"G| Gllo< uY%rY of Gll
+l%2%lY |o <or( <i|" |"% |%x|uGl i_forSG|io_, G_J |o GccoSVliY" Jiff%r%_|
+|GY(YA   or %xGSVl%, Y|uJ%_|Y <"o r%GJ _o Gr%%( SG5 %xVlor% G co_c%V| GY
+i| GVV%GrY i_ Gr%%( |%x|Y @5 uYi_M |"% ~_MliY"SGr%%( i_J%x, G_J |"%_
+loo(i_M uV <or(Y i_ |"% |%x|Y G_J |rG_YlG|io_Y, or Yc"olGrY SG5 Jo
+J%|Gil%J SorV"oloMicGl Y|uJi%Y of <orJ uY% @5 uYi_M |"% SorV"oloMicGl
+G_Gl5Y%Y of |"% |%x|YA  8%cGuY% |"%Y% |oolY <%r% _o| J%YiM_%J for G_5 o_%
+uY%, |"% YGS% |oolY G_J |"% YGS% JG|G cG_ @% uY%J @5 @o|" Y|uJ%_|Y G_J
+Yc"olGrYA
+
+"i_~S

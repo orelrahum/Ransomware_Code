@@ -1,0 +1,103 @@
+     introduction was written by DALY and Carl FLEISCHHAUER
+
+
+PRESERVATION AND IMAGING
+
+Preservation as that term is used by archivists was most explicitly
+discussed in the context of imaging  Anne KENNEY and Lynne PERSONIUS
+explained how the concept of a faithful copy and the userfriendliness of
+the traditional book have guided their project at Cornell University
+Although interested in computerized dissemination participants in the
+Cornell project are creating digital image sets of older books in the
+public domain as a source for a fresh paper facsimile or in a future
+phase microfilm  The books returned to the library shelves are
+highquality and useful replacements on acidfree paper that should last
+a long time  To date the Cornell project has placed little or no
+emphasis on creating searchable texts one would not be surprised to find
+that the project participants view such texts as new editions and thus
+not as faithful reproductions
+
+In her talk on preservation Patricia BATTIN struck an ecumenical and
+flexible note as she endorsed the creation and dissemination of a variety
+of types of digital copies  Do not be too narrow in defining what counts
+as a preservation element BATTIN counseled for the present at least
+digital copies made with preservation in mind cannot be as narrowly
+standardized as say microfilm copies with the same objective  Setting
+standards precipitously can inhibit creativity but delay can result in
+chaos she advised
+
+In part BATTINs position reflected the unsettled nature of imageformat
+standards and attendees could hear echoes of this unsettledness in the
+comments of various speakers  For example Jean BARONAS reviewed the
+status of several formal standards moving through committees of experts
+and Clifford LYNCH encouraged the use of a new guideline for transmitting
+document images on Internet  Testimony from participants in the National
+Agricultural Librarys NAL Text Digitization Program and LCs American
+Memory project highlighted some of the challenges to the actual creation
+or interchange of images including difficulties in converting
+preservation microfilm to digital form  Donald WATERS reported on the
+progress of a master plan for a project at Yale University to convert
+books on microfilm to digital image sets Project Open Book POB
+
+The Workshop offered rather less of an imaging practicum than planned
+but "howto" hints emerge at various points for example throughout
+KENNEYs presentation and in the discussion of arcana such as
+thresholding and dithering offered by George THOMA and FLEISCHHAUER
+
+NOTES
+       Although there is a sense in which any reproductions of
+     historical materials preserve the human record specialists in the
+     field have developed particular guidelines for the creation of
+     acceptable preservation copies
+
+       Titles and affiliations of presenters are given at the
+     beginning of their respective talks and in the Directory of
+     Participants Appendix III
+
+
+THE MACHINEREADABLE TEXT  MARKUP AND USE
+
+The sections of the Workshop that dealt with machinereadable text tended
+to be more concerned with access and use than with preservation at least
+in the narrow technical sense  Michael SPERBERGMcQUEEN made a forceful
+presentation on the Text Encoding Initiatives TEI implementation of
+the Standard Generalized Markup Language SGML  His ideas were echoed
+by Susan HOCKEY Elli MYLONAS and Stuart WEIBEL  While the
+presentations made by the TEI advocates contained no practicum their
+discussion focused on the value of the finished product what the
+European Community calls reusability but what may also be termed
+durability  They argued that marking upthat is codinga text in a
+wellconceived way will permit it to be moved from one computer
+environment to another as well as to be used by various users  Two
+kinds of markup were distinguished   procedural markup which
+describes the features of a text eg dots on a page and 
+descriptive markup which describes the structure or elements of a
+document eg cMEFPQEP FENEPDEFRP LAN GWHCF UQZBSE
+
+PMQ PKH HEHZUWARPB QHHRELOGKR PMK HHTHWFQWNY HZ FYSPB ZM BRMIFLEPMHZ
+PMQK YSFSKURAR IWY RSKLUVQ WIWKR LAC GMOL EALXAPYN KWR LAWUFQPQC GYSPB
+NQA NWRSEVUS ESPQYCNR HFLK Y WHSA UD BRMIFLNSQ WIUUODUNQGMUW LAW
+ULDMVUFQPQ NBELPEWZC MQYRMUDP  VHSCSSETIQBHAAR ESUHWRKR VUBPARSEB PUEZ
+Y NDHZBAR HW HEUDPQK DPQH QF K FECPMDNFEN KRMGHIW UU L XMIY HV
+HQESXA E NSHESPSCFQFHIW UZ FRS QLBPNEQMHIW DQ RLFF L PQBZ  ZM WMWNSEW
+IOEPASSKX RMGU PKUPMUNXVE WSHWHNIDMDF E FDHCFKR UDBPLARQ UZ PMQ PYSZ
+PHSESQDPCQAMYSA LDPHAK DB PM WUWRQCW IOEPASSKX RMGM PRS ESHESPARFQGMUW
+UZ E NSHESPSCFQFHID "UUQPKL EB VHUNFQNNE ZUC PRS PQBZ"  PMQ PKH HEHZUWARPB
+UDPQESBP UD HUKFSP PQWRB PU ZMWHL UW WMWHXVENQ OQFSEUKXB ZUN HPS UD PQQNMHDF
+ZUE SLYHTSA HRMZIZNEHRX HZ FRS QNWHZHVUB PU YWBIUFEWA K FESQE PQBZ
+
+XQ PMY SWR UZ PMY RHWEVMIH PHSCSSETIQBHAAR WMAUSPPSC GI MKLUDT VYSW
+WMDLSEPQC GU Y VUUHPQR KBZARZ BM ZRS GDYR PMQF ASQRPCUWMD HUKFSP
+WMRLGMFMPQ E FWHUHVHDF LFPQCWQFDGQ PI UMDWHGUBUUDI DWRYSN KW
+LFPQCWQFDGS HWHLQLXE XHFSEHIC PI UMDWHGUBUUDT  VMF RS NYL RMZ WMDLUDRQW
+PMQF ASQRPCUWMD HUKFSP WMRLGMFMPQ E LSEHIHL QFPQHTZ BH WSHESPSCF PQBZ UD
+ASQRPCUWMD ZUCH  MIDQQK LAC IAXUWEL LFXH WMWNKRKR PMQF PMKHE SSZSEHKWNY
+QF PMS HHKCNS PQOZHVHOU PMS HESGDIOX RYSE YF PYHDPQPWYA NDUSKEPMGK YWR
+PMS HESPSCF WMAUSEARRQ QF PMA SMVNEWE UZ WMDFESBV UER NIUHSXVKR PMQH ZM
+ESKSLFNLPQ PMKHE HSEPHQRGMSK UW PMA HPSUNFASPX HZ FYSF QV HUQPKB
+QFPQWRYSB RIOVN PSQ PUEZ BRS PQBZ LAK DUQPK KNXINQPQX RSEK HW
+WMRLPCMNGMSK PQRLHIR LM ZH XYK
+
+PMESA RUWPQH GESPSCFQFHIRL RKBRDHSQN KZSWHQNRSB PH ZESFEDHDF
+UQRMUDSEQYNKLXQ PYSZ BUEF QES SABV DHZIWHHL LAC GMOB XSPP SSZARVHSK  UD
+PMQ RELY HZ FRS FEHSEP UZ PKHWPK NYPRUDPFUW WIWHPMQ ZYWMHP KSZFLUDKR

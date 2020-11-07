@@ -1,0 +1,730 @@
+Terrain:
+    low hill
+Natural resources:
+    none
+Land use:
+    arable land 0%; permanent crops 0%; meadows and pastures 0%; forest and
+    woodland 0%; other 100%
+Environment:
+    urban
+Note:
+    landlocked; enclave of Rome, Italy; world's smallest state; outside the
+    Vatican City, 13 buildings in Rome and Castel Gandolfo (the pope's summer
+    residence) enjoy extraterritorial rights
+
+:Holy See (Vatican City) People
+
+Population:
+    802 (July 1992), growth rate 1.2% (1992)
+Nationality:
+    no noun or adjectival forms
+Ethnic divisions:
+    primarily Italians but also Swiss and other nationalities
+Religions:
+    Roman Catholic
+Languages:
+    Italian, Latin, and various other languages
+Literacy:
+    100% (male NA%, female NA%)
+Labor force:
+    high dignitaries, priests, nuns, guards, and 3,000 lay workers who live
+    outside the Vatican
+Organized labor:
+    Association of Vatican Lay Workers, 1,800 members (1987)
+
+:Holy See (Vatican City) Government
+
+Long-form name:
+    State of the Vatican City; note - the Vatican City is the physical seat of
+    the Holy See, which is the central government of the Roman Catholic Church
+Type:
+    monarchical-sacerdotal state
+Capital:
+    Vatican City
+Independence:
+    11 February 1929 (from Italy)
+Constitution:
+    Apostolic Constitution of 1967 (effective 1 March 1968)
+National holiday:
+    Installation Day of the Pope (John Paul II), 22 October (1978); note - Pope
+    John Paul II was elected on 16 October 1978
+Executive branch:
+    pope
+Legislative branch:
+    unicameral Pontifical Commission
+Judicial branch:
+    none; normally handled by Italy
+Leaders:
+  Chief of State:
+    Pope JOHN PAUL II (Karol WOJTYA; since 16 October 1978)
+  Head of Government:
+    Secretary of State Archbishop Angelo SODANO
+Political parties and leaders:
+    none
+Suffrage:
+    limited to cardinals less than 80 years old
+Elections:
+  Pope:
+    last held 16 October 1978 (next to be held after the death of the current
+    pope); results - Karol WOJTYA was elected for life by the College of
+    Cardinals
+Other political or pressure groups:
+    none (exclusive of influence exercised by church officers)
+Member of:
+    CSCE, IAEA, ICFTU, IMF (observer), INTELSAT, IOM (observer), ITU, OAS
+    (observer), UN (observer), UNCTAD, UNHCR, UPU, WIPO, WTO (observer)
+Diplomatic representation:
+    Apostolic Pro-Nuncio Archbishop Agostino CACCIAVILLAN; 3339 Massachusetts
+    Avenue NW, Washington, DC 20008; telephone (202) 333-7121
+  US:
+    Ambassador Thomas P. MELADY; Embassy at Villino Pacelli, Via Aurelia 294,
+    00165 Rome (mailing address is APO AE 09624); telephone [396] 639-0558
+Flag:
+    two vertical bands of yellow (hoist side) and white with the crossed keys of
+    Saint Peter and the papal tiara centered in the white band
+
+:Holy See (Vatican City) Economy
+
+Overview:
+    This unique, noncommercial economy is supported financially by contributions
+    (known as Peter's Pence) from Roman Catholics throughout the world, the sale
+    of postage stamps and tourist mementos, fees for admission to museums, and
+    the sale of publications. The incomes and living standards of lay workers
+    are comparable to, or somewhat better than, those of counterparts who work
+    in the city of Rome.
+Budget:
+    revenues $92 million; expenditures $178 million, including capital
+    expenditures of $NA (1992)
+Electricity:
+    5,000 kW standby capacity (1990); power supplied by Italy
+Industries:
+    printing and production of a small amount of mosaics and staff uniforms;
+    worldwide banking and financial activities
+Currency:
+    Vatican lira (plural - lire); 1 Vatican lira (VLit) = 100 centesimi
+Exchange rates:
+    Vatican lire (VLit) per US$1 - 1,248.4 (March 1992), 1,240.6 (1991), 1,198.1
+    (1990), 1,372.1 (1989), 1,301.6 (1988), 1,296.1 (1987); note - the Vatican
+    lira is at par with the Italian lira which circulates freely
+Fiscal year:
+    calendar year
+
+:Holy See (Vatican City) Communications
+
+Railroads:
+    850 m, 750 mm gauge (links with Italian network near the Rome station of
+    Saint Peter's)
+Highways:
+    none; all city streets
+Telecommunications:
+    broadcast stations - 3 AM, 4 FM, no TV; 2,000-line automatic telephone
+    exchange; no communications satellite systems
+
+:Holy See (Vatican City) Defense Forces
+
+Note:
+    defense is the responsibility of Italy; Swiss Papal Guards are posted at
+    entrances to the Vatican City
+
+:Honduras Geography
+
+Total area:
+    112,090 km2
+Land area:
+    111,890 km2
+Comparative area:
+    slightly larger than Tennessee
+Land boundaries:
+    1,520 km; Guatemala 256 km, El Salvador 342 km, Nicaragua 922 km
+Coastline:
+    820 km
+Maritime claims:
+  Contiguous zone:
+    24 nm
+  Continental shelf:
+    200 m (depth) or to depth of exploitation
+  Exclusive economic zone:
+    200 nm
+  Territorial sea:
+    12 nm
+Disputes:
+    dispute with El Salvador over several sections of the land boundary; dispute
+    over Golfo de Fonseca maritime boundary because of disputed sovereignty of
+    islands; unresolved maritime boundary with Nicaragua
+Climate:
+    subtropical in lowlands, temperate in mountains
+Terrain:
+    mostly mountains in interior, narrow coastal plains
+Natural resources:
+    timber, gold, silver, copper, lead, zinc, iron ore, antimony, coal, fish
+Land use:
+    arable land 14%; permanent crops 2%; meadows and pastures 30%; forest and
+    woodland 34%; other 20%; includes irrigated 1%
+Environment:
+    subject to frequent, but generally mild, earthquakes; damaging hurricanes
+    and floods along Caribbean coast; deforestation; soil erosion
+
+:Honduras People
+
+Population:
+    5,092,776 (July 1992), growth rate 2.8% (1992)
+Birth rate:
+    37 births/1,000 population (1992)
+Death rate:
+    7 deaths/1,000 population (1992)
+Net migration rate:
+    -2 migrants/1,000 population (1992)
+Infant mortality rate:
+    54 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    65 years male, 68 years female (1992)
+Total fertility rate:
+    4.8 children born/woman (1992)
+Nationality:
+    noun - Honduran(s); adjective - Honduran
+Ethnic divisions:
+    mestizo (mixed Indian and European) 90%, Indian 7%, black 2%, white 1%
+Religions:
+    Roman Catholic about 97%; small Protestant minority
+Languages:
+    Spanish, Indian dialects
+Literacy:
+    73% (male 76%, female 71%) age 15 and over can read and write (1990 est.)
+Labor force:
+    1,300,000; agriculture 62%, services 20%, manufacturing 9%, construction 3%,
+    other 6% (1985)
+Organized labor:
+    40% of urban labor force, 20% of rural work force (1985)
+
+:Honduras Government
+
+Long-form name:
+    Republic of Honduras
+Type:
+    republic
+Capital:
+    Tegucigalpa
+Administrative divisions:
+    18 departments (departamentos, singular - departamento); Atlantida,
+    Choluteca, Colon, Comayagua, Copan, Cortes, El Paraiso, Francisco Morazan,
+    Gracias a Dios, Intibuca, Islas de la Bahia, La Paz, Lempira, Ocotepeque,
+    Olancho, Santa Barbara, Valle, Yoro
+Independence:
+    15 September 1821 (from Spain)
+Constitution:
+    11 January 1982, effective 20 January 1982
+Legal system:
+    rooted in Roman and Spanish civil law; some influence of English common law;
+    accepts ICJ jurisdiction, with reservations
+National holiday:
+    Independence Day, 15 September (1821)
+Executive branch:
+    president, Council of Ministers (cabinet)
+Legislative branch:
+    unicameral National Congress (Congreso Nacional)
+Judicial branch:
+    Supreme Court of Justice (Corte Suprema de Justica)
+Leaders:
+  Chief of State and Head of Government:
+    President Rafael Leonardo CALLEJAS Romero (since 26 January 1990)
+Political parties and leaders:
+    Liberal Party (PLH) - faction leaders, Carlos FLORES Facusse (leader of
+    Florista Liberal Movement), Carlos MONTOYA (Azconista subfaction), Ramon
+    VILLEDA Bermudez and Jorge Arturo REINA (M-Lider faction); National Party
+    (PNH), Jose Celin DISCUA, party president; PNH faction leaders - Oswaldo
+    RAMOS Soto and Rafael Leonardo CALLEJAS Romero (Monarca faction); National
+    Innovation and Unity Party - Social Democrats (PINU-SD), Enrique AGUILAR
+    Cerrato Paz; Christian Democratic Party (PDCH), Jorge ILLESCAS; Democratic
+    Action (AD), Walter LOPEZ Reyes
+Suffrage:
+    universal and compulsory at age 18
+Elections:
+  National Congress:
+    last held on 26 November 1989 (next to be held November 1993); results - PNH
+    51%, PLH 43%, PDCH 1.9%, PINU-SD 1.5%, other 2.6%; seats - (128 total) PNH
+    71, PLH 55, PINU-SD 2
+  President:
+    last held on 26 November 1989 (next to be held November 1993); results -
+    Rafael Leonardo CALLEJAS (PNH) 51%, Carlos FLORES Facusse (PLH) 43.3%, other
+    5.7%
+Other political or pressure groups:
+    National Association of Honduran Campesinos (ANACH), Honduran Council of
+    Private Enterprise (COHEP), Confederation of Honduran Workers (CTH),
+    National Union of Campesinos (UNC), General Workers Confederation (CGT),
+    United Federation of Honduran Workers (FUTH), Committee for the Defense of
+    Human Rights in Honduras (CODEH), Coordinating Committee of Popular
+    Organizations (CCOP)
+
+:Honduras Government
+
+Member of:
+    BCIE, CACM, ECLAC, FAO, G-77, IADB, IBRD, ICAO, ICFTU, IDA, IFAD, IFC, ILO,
+    IMF, IMO, INTELSAT, INTERPOL, IOC, IOM, ITU, LAES, LAIA, LORCS, OAS, OPANAL,
+    PCA, UN, UNCTAD, UNESCO, UNIDO, UPU, WCL, WFTU, WHO, WIPO, WMO
+Diplomatic representation:
+    Ambassador Jorge Ramon HERNANDEZ Alcerro; Chancery at 3007 Tilden Street NW,
+    Washington, DC 20008; telephone (202) 966-7702; there are Honduran
+    Consulates General in Chicago, Los Angeles, Miami, New Orleans, New York,
+    and San Francisco, and Consulates in Baton Rouge, Boston, Detroit, Houston,
+    and Jacksonville
+  US:
+    Ambassador S. Crescencio ARCOS; Embassy at Avenida La Paz, Tegucigalpa
+    (mailing address is APO AA 34022); telephone [504] 32-3120
+Flag:
+    three equal horizontal bands of blue (top), white, and blue with five blue
+    five-pointed stars arranged in an X pattern centered in the white band; the
+    stars represent the members of the former Federal Republic of Central
+    America - Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua;
+    similar to the flag of El Salvador, which features a round emblem encircled
+    by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the
+    white band; also similar to the flag of Nicaragua, which features a triangle
+    encircled by the word REPUBLICA DE NICARAGUA on top and AMERICA CENTRAL on
+    the bottom, centered in the white band
+
+:Honduras Economy
+
+Overview:
+    Honduras is one of the poorest countries in the Western Hemisphere.
+    Agriculture, the most important sector of the economy, accounts for more
+    than 25% of GDP, employs 62% of the labor force, and produces two-thirds of
+    exports. Productivity remains low. Industry, still in its early stages,
+    employs nearly 9% of the labor force, accounts for 15% of GDP, and generates
+    20% of exports. The service sectors, including public administration,
+    account for 50% of GDP and employ nearly 20% of the labor force. Basic
+    problems facing the economy include rapid population growth, high
+    unemployment, sharply increased inflation, a lack of basic services, a large
+    and inefficient public sector, and the dependence of the export sector
+    mostly on coffee and bananas, which are subject to sharp price fluctuations.
+    Despite government efforts at reform and large-scale foreign assistance, the
+    economy still is unable to take advantage of its sizable natural resources.
+GDP:
+    exchange rate conversion - $5.2 billion, per capita $1,050; real growth rate
+    - 0.3% (1991 est.)
+Inflation rate (consumer prices):
+    26% (1991 est.)
+Unemployment rate:
+    15% unemployed, 30-40% underemployed (1989)
+Budget:
+    revenues $1.4 billion; expenditures $1.9 billion, including capital
+    expenditures of $511 million (1990 est.)
+Exports:
+    $1.0 billion (f.o.b., 1991)
+  commodities:
+    bananas, coffee, shrimp, lobster, minerals, lumber
+  partners:
+    US 52%, Germany 11%, Japan, Italy, Belgium
+Imports:
+    $1.3 billion (c.i.f. 1991)
+  commodities:
+    machinery and transport equipment, chemical products, manufactured goods,
+    fuel and oil, foodstuffs
+  partners:
+    US 39%, Japan 9%, CACM, Venezuela, Mexico
+External debt:
+    $2.8 billion (1990)
+Industrial production:
+    growth rate 2.9% (1989); accounts for 15% of GDP
+Electricity:
+    575,000 kW capacity; 1,850 million kWh produced, 374 kWh per capita (1991)
+Industries:
+    agricultural processing (sugar and coffee), textiles, clothing, wood
+    products
+Agriculture:
+    most important sector, accounting for more than 25% of GDP, over 60% of the
+    labor force, and two-thirds of exports; principal products include bananas,
+    coffee, timber, beef, citrus fruit, shrimp; importer of wheat
+Illicit drugs:
+    illicit producer of cannabis, cultivated on small plots and used principally
+    for local consumption; transshipment point for cocaine
+Economic aid:
+    US commitments, including Ex-Im (FY70-89), $1.4 billion; Western (non-US)
+    countries, ODA and OOF bilateral commitments (1970-89), $1.1 billion
+Currency:
+    lempira (plural - lempiras); 1 lempira (L) = 100 centavos
+
+:Honduras Economy
+
+Exchange rates:
+    lempiras (L) per US$1 - 5.4 (fixed rate); 5.70 parallel black-market rate
+    (November 1990)
+Fiscal year:
+    calendar year
+
+:Honduras Communications
+
+Railroads:
+    785 km total; 508 km 1.067-meter gauge, 277 km 0.914-meter gauge
+Highways:
+    8,950 km total; 1,700 km paved, 5,000 km otherwise improved, 2,250 km
+    unimproved earth
+Inland waterways:
+    465 km navigable by small craft
+Ports:
+    Puerto Castilla, Puerto Cortes, San Lorenzo
+Merchant marine:
+    201 ships (1,000 GRT or over) totaling 629,134 GRT/939,289 DWT; includes 2
+    passenger-cargo, 127 cargo, 17 refrigerated - cargo, - 7 - container, - 2 -
+    roll-on/roll-off cargo, 19 petroleum tanker, 2 chemical tanker, 3
+    specialized tanker, 1 vehicle carrier, 18 bulk, 2 passenger, 1 short-sea
+    passenger; note - a flag of convenience registry; Republics of the former
+    USSR own 10 ships under the Honduran flag
+Civil air:
+    6 major transport aircraft
+Airports:
+    171 total, 133 usable; 8 with permanent-surface runways; none with runways
+    over 3,659 m; 4 with runways 2,440-3,659 m; 12 with runways 1,220-2,439 m
+Telecommunications:
+    improved, but still inadequate; connection into Central American Microwave
+    System; 35,100 telephones; broadcast stations - 176 AM, no FM, 28 TV, 7
+    shortwave; 2 Atlantic Ocean INTELSAT earth stations
+
+:Honduras Defense Forces
+
+Branches:
+    Army, Navy (including Marines), Air Force, Public Security Forces (FUSEP)
+Manpower availability:
+    males 15-49, 1,148,376; 684,375 fit for military service; 57,028 reach
+    military age (18) annually
+Defense expenditures:
+    exchange rate conversion - $43.4 million, about 1% of GDP (1992 est.)
+
+:Hong Kong Geography
+
+Total area:
+    1,040 km2
+Land area:
+    990 km2
+Comparative area:
+    slightly less than six times the size of Washington, DC
+Land boundaries:
+    30 km; China 30 km
+Coastline:
+    733 km
+Maritime claims:
+  Exclusive fishing zone:
+    3 nm
+  Territorial sea:
+    3 nm
+Disputes:
+    none
+Climate:
+    tropical monsoon; cool and humid in winter, hot and rainy from spring
+    through summer, warm and sunny in fall
+Terrain:
+    hilly to mountainous with steep slopes; lowlands in north
+Natural resources:
+    outstanding deepwater harbor, feldspar
+Land use:
+    arable land 7%; permanent crops 1%; meadows and pastures 1%; forest and
+    woodland 12%; other 79%; includes irrigated 3%
+Environment:
+    more than 200 islands; occasional typhoons
+
+:Hong Kong People
+
+Population:
+    5,889,095 (July 1992), growth rate 0.6% (1992)
+Birth rate:
+    13 births/1,000 population (1992)
+Death rate:
+    5 deaths/1,000 population (1992)
+Net migration rate:
+    - 2 migrants/1,000 population (1992)
+Infant mortality rate:
+    7 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    76 years male, 83 years female (1992)
+Total fertility rate:
+    1.4 children born/woman (1992)
+Nationality:
+    adjective - Hong Kong
+Ethnic divisions:
+    Chinese 98%, other 2%
+Religions:
+    eclectic mixture of local religions 90%, Christian 10%
+Languages:
+    Chinese (Cantonese), English
+Literacy:
+    77% (male 90%, female 64%) age 15 and over having ever attended school
+    (1971)
+Labor force:
+    2,800,000 (1990); manufacturing 28.5%, wholesale and retail trade,
+    restaurants, and hotels 27.9%, services 17.7%, financing, insurance, and
+    real estate 9.2%, transport and communications 4.5%, construction 2.5%,
+    other 9.7% (1989)
+Organized labor:
+    16% of labor force (1990)
+
+:Hong Kong Government
+
+Long-form name:
+    none; abbreviated HK
+Type:
+    dependent territory of the UK; scheduled to revert to China in 1997
+Capital:
+    Victoria
+Administrative divisions:
+    none (dependent territory of the UK)
+Independence:
+    none (dependent territory of the UK); the UK signed an agreement with China
+    on 19 December 1984 to return Hong Kong to China on 1 July 1997; in the
+    joint declaration, China promises to respect Hong Kong's existing social and
+    economic systems and lifestyle for 50 years after transition
+Constitution:
+    unwritten; partly statutes, partly common law and practice; new Basic Law
+    approved in March 1990 in preparation for 1997
+Legal system:
+    based on English common law
+National holiday:
+    Liberation Day, 29 August (1945)
+Executive branch:
+    British monarch, governor, chief secretary of the Executive Council
+Legislative branch:
+    Legislative Council
+Judicial branch:
+    Supreme Court
+Leaders:
+  Chief of State:
+    Queen ELIZABETH II (since 6 February 1952)
+  Head of Government:
+    Governor-designate Chris PATTEN (since July 1992); Chief Secretary Sir David
+    Robert FORD (since February 1987)
+Suffrage:
+    direct election - universal at age 21 as a permanent resident living in the
+    territory of Hong Kong for the past seven years; indirect election - limited
+    to about 100,000 professionals of electoral college and functional
+    constituencies
+Elections:
+  Legislative Council:
+    indirect elections last held 12 September 1991 and direct elections were
+    held 15 September 1991 (next to be held for the first time in September
+    1995); results - percent of vote by party NA; seats - (60 total; 21
+    indirectly elected by functional constituencies, 18 directly elected, 18
+    appointed by governor, 3 ex officio members); indirect elections - number of
+    seats by functional constituency NA; direct elections - UDHK 12, Meeting
+    Point 3, ADPL 1, other 2
+Communists:
+    5,000 (est.) cadres affiliated with Communist Party of China
+Other political or pressure groups:
+    Federation of Trade Unions (pro-China), Hong Kong and Kowloon Trade Union
+    Council (pro-Taiwan), Confederation of Trade Unions (prodemocracy), Hong
+    Kong General Chamber of Commerce, Chinese General Chamber of Commerce
+    (pro-China), Federation of Hong Kong Industries, Chinese Manufacturers'
+    Association of Hong Kong, Hong Kong Professional Teachers' Union, Hong Kong
+    Alliance in Support of the Patriotic Democratic Movement in China
+Member of:
+    APEC, AsDB, CCC, ESCAP (associate), GATT, ICFTU, IMO (associate), IOC, ISO
+    (correspondent), WCL, WMO
+
+:Hong Kong Government
+
+Diplomatic representation:
+    as a dependent territory of the UK, the interests of Hong Kong in the US are
+    represented by the UK
+  US:
+    Consul General Richard L. WILLIAMS; Consulate General at 26 Garden Road,
+    Hong Kong (mailing address is Box 30, Hong Kong, or FPO AP 96522-0002);
+    telephone [852] 239-011
+Flag:
+    blue with the flag of the UK in the upper hoist-side quadrant with the Hong
+    Kong coat of arms on a white disk centered on the outer half of the flag;
+    the coat of arms contains a shield (bearing two junks below a crown) held by
+    a lion (representing the UK) and a dragon (representing China) with another
+    lion above the shield and a banner bearing the words HONG KONG below the
+    shield
+
+:Hong Kong Economy
+
+Overview:
+    Hong Kong has a bustling free market economy with few tariffs or nontariff
+    barriers. Natural resources are limited, and food and raw materials must be
+    imported. Manufacturing accounts for about 18% of GDP, employs 28% of the
+    labor force, and exports about 90% of its output. Real GDP growth averaged a
+    remarkable 8% in 1987-88, then slowed to 2.5-3.0% in 1989-90. Unemployment,
+    which has been declining since the mid-1980s, is now about 2%. A shortage of
+    labor continues to put upward pressure on prices and the cost of living.
+    Short-term prospects remain solid so long as major trading partners continue
+    to be reasonably prosperous. The crackdown in China in 1989-91 casts a
+    shadow over the longer term economic outlook.
+GDP:
+    exchange rate conversion - $80.9 billion, per capita $13,800; real growth
+    rate 3.8% (1991 est.)
+Inflation rate (consumer prices):
+    12.0% (1991 est.)
+Unemployment rate:
+    2.0% (1991 est.)
+Budget:
+    $8.8 billion (FY90)
+Exports:
+    $82.0 billion (f.o.b., 1990), including reexports of $53.1 billion
+  commodities:
+    clothing, textiles, yarn and fabric, footwear, electrical appliances,
+    watches and clocks, toys
+  partners:
+    China 25%, US 24%, Germany 7%, Japan 6%, UK 2%, (1990)
+Imports:
+    $82.4 billion (c.i.f., 1990)
+  commodities:
+    foodstuffs, transport equipment, raw materials, semimanufactures, petroleum
+  partners:
+    China 37%, Japan 16%, Taiwan 9%, US 8% (1990)
+External debt:
+    $9.5 billion (December 1990 est.)
+Industrial production:
+    growth rate 4% 1991 (est)
+Electricity:
+    8,600,000 kW capacity; 25,637 million kWh produced, 4,378 kWh per capita
+    (1991)
+Industries:
+    textiles, clothing, tourism, electronics, plastics, toys, watches, clocks
+Agriculture:
+    minor role in the economy; rice, vegetables, dairy products; less than 20%
+    self-sufficient; shortages of rice, wheat, water
+Illicit drugs:
+    a hub for Southeast Asian heroin trade; transshipment and major financial
+    and money-laundering center
+Economic aid:
+    US commitments, including Ex-Im (FY70-87), $152 million; Western (non-US)
+    countries, ODA and OOF bilateral commitments (1970-89), $923 million
+Currency:
+    Hong Kong dollar (plural - dollars); 1 Hong Kong dollar (HK$) = 100 cents
+Exchange rates:
+    Hong Kong dollars (HK$) per US$ - 7.800 (1991), 7.790 (1990), 7.800 (1989),
+    7.810 (1988), 7.760 (1987); note - linked to the US dollar at the rate of
+    about 7.8 HK$ per 1 US$ since 1985
+Fiscal year:
+    1 April - 31 March
+
+:Hong Kong Communications
+
+Railroads:
+    35 km 1.435-meter standard gauge, government owned
+Highways:
+    1,484 km total; 794 km paved, 306 km gravel, crushed stone, or earth
+Ports:
+    Hong Kong
+Merchant marine:
+    142 ships (1,000 GRT or over), totaling 5,035,223 GRT/8,598,134 DWT;
+    includes 1 passenger, 1 short-sea passenger, 15 cargo, 5 refrigerated cargo,
+    26 container, 13 petroleum tanker, 1 chemical tanker, 6 combination ore/oil,
+    5 liquefied gas, 68 bulk, 1 combination bulk; note - a flag of convenience
+    registry; ships registered in Hong Kong fly the UK flag, and an estimated
+    500 Hong Kong - owned ships are registered elsewhere
+Civil air:
+    16 major transport aircraft
+Airports:
+    2 total; 2 usable; 2 with permanent-surface runways; none with runways over
+    3,659 m; 1 with runways 2,440-3,659 m; none with runways 1,220-2,439 m
+Telecommunications:
+    modern facilities provide excellent domestic and international services;
+    3,000,000 telephones; microwave transmission links and extensive optical
+    fiber transmission network; broadcast stations - 6 AM, 6 FM, 4 TV; 1 British
+    Broadcasting Corporation (BBC) repeater station and 1 British Forces
+    Broadcasting Service repeater station; 2,500,000 radio receivers; 1,312,000
+    TV sets (1,224,000 color TV sets); satellite earth stations - 1 Pacific
+    Ocean INTELSAT and 2 Indian Ocean INTELSAT; coaxial cable to Guangzhou,
+    China; links to 5 international submarine cables providing access to ASEAN
+    member nations, Japan, Taiwan, Australia, Middle East, and Western Europe
+
+:Hong Kong Defense Forces
+
+Branches:
+    Headquarters of British Forces, Royal Navy, Royal Air Force, Royal Hong Kong
+    Auxiliary Air Force, Royal Hong Kong Police Force
+Manpower availability:
+    males 15-49, 1,732,360; 1,334,923 fit for military service; 46,285 reach
+    military age (18) annually
+Defense expenditures:
+    JBJQISOG RJBI FTRCNZXQQN - $300 VQPONSU, 0.5% XN LLR (1989 EBB.); XKNW
+    WIWAMXMPTB WRH-KSBABM WH TQM XRYES LWXB QF MMJHSHPWO NBUEUN, XKJ VLVINVFEA
+    GIPWO UIKD KG XKJ YR
+SSAN:
+    IIMNVXM KS CPI UJWWXVXQDIUQXB TJ AQM ZS
+
+:MSDUISL KSUIRG LIVPZFXJY
+
+YSAJT FZGA:
+    1.6 PQ2
+QEUM IWMC:
+    1.6 PQ2
+HSTYIWIVIEM EUJE:
+    FFVDB 2.7 YQOEB BLH XMGN WK BJE VIPO NR DJAMQPGCWR, GH
+QEUM JTCPDJZMHX:
+    SSUN
+HSHBBQQPE:
+    6.4 PQ
+REYRBNUG CUIMPX:
+  HSUCQLCQUB HSQJ:
+    12 SQ
+  HSUCQSMPTJT WKJPM:
+    200 R (HLYBM)
+  JBJUCXQXE NKSQTQPL HTVG:
+    200 SQ
+  YIYAQYWTIJT WHF:
+    12 SQ
+IMZYCYMU:
+    SSUN
+HPPVIYM:
+    JUBJBTZKAU; AGDSX YJQSNCLU, KSQXXHWB BQPD, KCVQNRN BCS
+YIYAINV:
+    QSD-UGNVI, NNIVOD PLEMQ, ACNMG, GRWES RAQIPD BCVUTYUMMI JA A WIVUTA MAQSOKNP
+    WILO; LJXTEBAIG HIUCZFT CRNI
+SEADZFT TEBWYUHIZ:
+    LYHWW (IMROBQXV BSYTMI CPTRT PDYI 1800Z)
+QEUM CXM:
+    FVHKTJ TCNM 0%; XIUREUNVY KTOYA 0%; QHFHVFA FVF PJAXXWIZ 0%; OWWMUT JVH
+    BSVMTFVF 5%; OCPIU 95%
+JRCRZTVOEWB:
+    FPTXAY BQTJTPB HSCNZJL YICP KUFWZNA, UZQSCZEWJ ZPWMX, IPD UWA-JWSDRVL
+    XLYDJX; AOAUT EUJE VO BWMGS RV XKJ GLWBJZ; NALSW IWIZQ EFBGR; YZMPFVPUG F
+    SIZCQSO, TOXAXLSK, HWL KWTAPQRJ MEIRBFB HOA AIDGMYMA, XPQRNJMUIW, HWL RITIWM
+    BMSMTNNG; FNZEO HEAB
+SSAN:
+    WITXBJ TQCJBMRS 2,575 OT BWZBJWNAX RK LVWWQCNU RV XKJ RVABM XCCRNMF TGLJV,
+    OYZC VTZVH XN XKJ IXDIYWT, AKWYW MESOEFG DECEIHS LHFINQ CNM IYVYVHUQF
+
+:MSDUISL KSUIRG UIVYTJ
+
+USWDTFBKOW:
+    ZRPWPFJKTNL
+USWDTFBKOW:
+  SSAN:
+    FQLAQHIP CRDMONEUB MAIEUJBIG NR 1942 HOBJZ LAYIRHXI HRZ FVF NJDEO FXAJKPA
+    IYYRVL EQRUL ADW MP; XKHCRINL FB ZW TRTNBCRH LYUNRN FWWTF WJZ ML, GYA
+    FFHWLTVGD JNXHW XON EFZ; RUKTMF JRAAG NA DY BXIFNES-DAJ XGRVQX RSPF JVI
+    LIUNZFTNY AMWWWMJCMI BQ SLQIQYMZCA FVF EMCGDYSYB
+
+:MSDUISL KSUIRG LSCNZSUGNC
+
+QSUP-NTZO NJUI:
+    SSUN
+YCWN:
+    ZRPWKTZROAIXHI XLAZNBQRH WJ WMI BB IIUKNRAXHWIK KG YPG FRAL DSH DRTITKFN
+    XIYEQHM QF CPI XX HLYIWBOEWB SI YLL RVYMTIXZ EV UEYC WK BJE WIXLTRHU
+    BMSMTNNG RNNYJJ WFBBJU
+HEWRBFT:
+    SSUN; IIUKNRAXHWIK OZTU YABPMQLXVW, LH
+
+:MSDUISL KSUIRG JGVWWRG
+
+TZLADNMY:
+    SS LLWSWOIL IGWNZPCG
+
+:MSDUISL KSUIRG HSTVCSQEACQSQX
+
+USYCA:
+    SSUN; WKNUHXZI DSGOXZFOG OWTC, RSI IXIY TCNMQRJ FVLJ IQWPG CPI PNHKUM TN VHN
+    BIZC KTIUT
+FMYYWWBU:
+    FMYBBWQR CXVWWWYJCMI QP 1937 FXZ WFMIKDTJL TEOCIONRN BBTX QN CPI
+    WSBWL-YPG-WXZPG KPPPPY WH AVMPLF IHAPFZV AWL JUJH UXWSIP - TQMC OJJA UIJ,
+    SID PCNVGA, OWV KTASJVI QULJVH, EZX DNZJ VGVNZ WHJR HPINV; VHN IMUXXYRX NA
+    SS SXVLMT SNZZLHIHKTJ
+SSAN:
+    JEYQIWB NIPPX LX E KJG GMCCXV RHFV AQM RQFDUM SI YLL FMXB EOJAX WMEA FIX
+    UEYCQFTNY MMWWWSFNL ICTIWO ARWPK FIW QK, BDB LDX WPWKJ JGEW ZIEZMSC QS
+    RITXZD WH FJUIG FZPJBWQZ AVMPLF IHAPFZV
+
+:MSDUISL KSUIRG IIMNVXM HOAKIV
+
+SSAN:

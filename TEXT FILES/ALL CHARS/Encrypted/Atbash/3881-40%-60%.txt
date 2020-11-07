@@ -1,0 +1,249 @@
+resulting in a system that is specifically tailored to the preservation
+application.
+
+A digital library of 1,000 volumes (or approximately 300,000 images) has
+been created and is stored on an optical jukebox that resides in CCC.
+The library includes a collection of select mathematics monographs that
+provides mathematics faculty with an opportunity to use the electronic
+library.  The remaining volumes were chosen for the library to test the
+various capabilities of the scanning system.
+
+One project objective is to provide users of the Cornell library and the
+library staff with the ability to request facsimiles of digitized images
+or to retrieve the actual electronic image for browsing.  A prototype
+viewing workstation has been created by Xerox, with input into the design
+by a committee of Cornell librarians and computer professionals.  This
+will allow us to experiment with patron access to the images that make up
+the digital library.  The viewing station provides search, retrieval, and
+(ultimately) printing functions with enhancements to facilitate
+navigation through multiple documents.
+
+Cornell currently is working to extend access to the digital library to
+readers using workstations from their offices.  This year is devoted to
+the development of a network resident image conversion and delivery
+server, and client software that will support readers who use Apple
+Macintosh computers, IBM windows platforms, and Sun workstations.
+Equipment for this development was provided by Sun Microsystems with
+support from the Commission on Preservation and Access.
+
+During the show-and-tell session of the Workshop on Electronic Texts, a
+prototype view station will be demonstrated.  In addition, a display of
+original library books that have been digitized will be available for
+review with associated printed copies for comparison.  The fifteen-minute
+overview of the project will include a slide presentation that
+constitutes a "tour" of the preservation digitizing process.
+
+The final network-connected version of the viewing station will provide
+library users with another mechanism for accessing the digital library,
+and will also provide the capability of viewing images directly.  This
+will not require special software, although a powerful computer with good
+graphics will be needed.
+
+The Joint Study in Digital Preservation has generated a great deal of
+interest in the library community.  Unfortunately, or perhaps
+fortunately, this project serves to raise a vast number of other issues
+surrounding the use of digital technology for the preservation and use of
+deteriorating library materials, which subsequent projects will need to
+examine.  Much work remains.
+
+SESSION III
+
+Howard BESSER                      Networking Multimedia Databases
+
+What do we have to consider in building and distributing databases of
+visual materials in a multi-user environment?  This presentation examines
+a variety of concerns that need to be addressed before a multimedia
+database can be set up in a networked environment.
+
+In the past it has not been feasible to implement databases of visual
+materials in shared-user environments because of technological barriers.
+Each of the two basic models for multi-user multimedia databases has
+posed its own problem.  The analog multimedia storage model (represented
+by Project Athena's parallel analog and digital networks) has required an
+incredibly complex (and expensive) infrastructure.  The economies of
+scale that make multi-user setups cheaper per user served do not operate
+in an environment that requires a computer workstation, videodisc player,
+and two display devices for each user.
+
+The digital multimedia storage model has required vast amounts of storage
+space (as much as one gigabyte per thirty still images).  In the past the
+cost of such a large amount of storage space made this model a
+prohibitive choice as well.  But plunging storage costs are finally
+making this second alternative viable.
+
+If storage no longer poses such an impediment, what do we need to
+consider in building digitally stored multi-user databases of visual
+materials?  This presentation will examine the networking and
+telecommunication constraints that must be overcome before such databases
+can become commonplace and useful to a large number of people.
+
+The key problem is the vast size of multimedia documents, and how this
+affects not only storage but telecommunications transmission time.
+Anything slower than T-1 speed is impractical for files of 1 megabyte or
+larger (which is likely to be small for a multimedia document).  For
+instance, even on a 56 Kb line it would take three minutes to transfer a
+1-megabyte file.  And these figures assume ideal circumstances, and do
+not take into consideration other users contending for network bandwidth,
+disk access time, or the time needed for remote display.  Current common
+telephone transmission rates would be completely impractical; few users
+would be willing to wait the hour necessary to transmit a single image at
+2400 baud.
+
+This necessitates compression, which itself raises a number of other
+issues.  In order to decrease file sizes significantly, we must employ
+lossy compression algorithms.  But how much quality can we afford to
+lose?  To date there has been only one significant study done of
+image-quality needs for a particular user group, and this study did not
+look at loss resulting from compression.  Only after identifying
+image-quality needs can we begin to address storage and network bandwidth
+needs.
+
+Experience with X-Windows-based applications (such as Imagequery, the
+University of California at Berkeley image database) demonstrates the
+utility of a client-server topology, but also points to the limitation of
+current software for a distributed environment.  For example,
+applications like Imagequery can incorporate compression, but current X
+By high speed, BROWNRIGG meant 1 megabyte and 1.5 megabytes.  Those units
+have been built, he continued, and are in the process of being
+type-certified by an independent underwriting laboratory so that they can
+be type-licensed by the Federal Communications Commission.  As is the
+case with citizens band, one will be able to purchase a unit and not have
+to worry about applying for a license.
+
+The basic idea, BROWNRIGG elaborated, is to take high-speed radio data
+transmission and create a backbone network that at certain strategic
+points in the network will "gateway" into a medium-speed packet radio
+(i.e., one that runs at 38.4 kilobytes), so that perhaps by 1994-1995
+people, like those in the audience for the price of a VCR could purchase
+a medium-speed radio for the office or home, have full network connectivity
+to the Internet, and partake of all its services, with no need for an FCC
+license and no regular bill from the local common carrier.  BROWNRIGG
+presented several details of a demonstration project currently taking
+place in San Diego and described plans, pending funding, to install a
+full-bore network in the San Francisco area.  This network will have 600
+nodes running at backbone speeds, and 100 of these nodes will be libraries,
+which in turn will be the gateway ports to the 38.4 kilobyte radios that
+will give coverage for the neighborhoods surrounding the libraries.
+
+BROWNRIGG next explained Part 15.247, a new rule within Title 47 of the
+Code of Federal Regulations enacted by the FCC in 1985.  This rule
+challenged the industry, which has only now risen to the occasion, to
+build a radio that would run at no more than one watt of output power and
+use a fairly exotic method of modulating the radio wave called spread
+spectrum.  Spread spectrum in fact permits the building of networks so
+that numerous data communications can occur simultaneously, without
+interfering with each other, within the same wide radio channel.
+
+BROWNRIGG explained that the frequencies at which the radios would run
+are very short wave signals.  They are well above standard microwave and
+radar.  With a radio wave that small, one watt becomes a tremendous punch
+per bit and thus makes transmission at reasonable speed possible.  In
+order to minimize the potential for congestion, the project is
+undertaking to reimplement software which has been available in the
+networking business and is taken for granted now, for example, TCP/IP,
+routing algorithms, bridges, and gateways.  In addition, the project
+plans to take the WAIS server software in the public domain and
+reimplement it so that one can have a WAIS server on a Mac instead of a
+Unix machine.  The Memex Research Institute believes that libraries, in
+particular, will want to use the WAIS servers with packet radio.  This
+project, which has a team of about twelve people, will run through 1993
+and will include the 100 libraries already mentioned as well as other
+professionals such aH GSLHV RM GSV NVWRXZO KILUVHHRLM, VMTRMVVIRMT, ZMW
+OZD.  GSFH, GSV MVVW RH GL XIVZGV ZM RMUIZHGIFXGFIV LU IZWRLH GSZG WL MLG
+NLEV ZILFMW, DSRXS, YILDMIRTT SLKVH, DROO HLOEV Z KILYOVN MLG LMOB ULI
+ORYIZIRVH YFG ULI RMWRERWFZOH DSL, YB ZMW OZITV GLWZB, WL MLG SZEV ZXXVHH
+GL GSV RMGVIMVG UILN GSVRI SLNVH ZMW LUURXVH.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WRHXFHHRLM * KILQVXG LKVIZGRMT UIVJFVMXRVH *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+WFIRMT Z YIRVU WRHXFHHRLM KVIRLW, DSRXS ZOHL XLMXOFWVW GSV WZB'H
+KILXVVWRMTH, YILDMIRTT HGZGVW GSZG GSV KILQVXG DZH LKVIZGRMT RM ULFI
+UIVJFVMXRVH.  GSV HOLD HKVVW RH LKVIZGRMT ZG 435 NVTZSVIGA, ZMW RG DLFOW
+OZGVI TL FK GL 920 NVTZSVIGA.  DRGS GSV SRTS-HKVVW UIVJFVMXB, GSV
+LMV-NVTZYBGV IZWRLH DROO IFM ZG 2.4 TRTZYRGH, ZMW 1.5 DROO IFM ZG 5.7.
+ZG 5.7, IZRM XZM YV Z UZXGLI, YFG RG DLFOW SZEV GL YV GILKRXZO IZRM,
+FMORPV DSZG UZOOH RM NLHG KZIGH LU GSV FMRGVW HGZGVH.
+
+                                 ******
+
+HVHHRLM RE.  RNZTV XZKGFIV, GVCG XZKGFIV, LEVIERVD LU GVCG ZMW
+             RNZTV HGLIZTV ULINZGH
+
+DROORZN SLLGLM, ERXV KIVHRWVMG LU LKVIZGRLMH, R-MVG, NLWVIZGVW GSRH HVHHRLM.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PVMMVB * UZXGLIH RMUOFVMXRMT WVEVOLKNVMG LU XCK * ZWEZMGZTVH LU FHRMT
+WRTRGZO GVXSMLOLTB EVIHFH KSLGLXLKB ZMW NRXILURON * Z KIRNZIB TLZO LU
+XCK; KFYORHSRMT XSZOOVMTVH * XSZIZXGVIRHGRXH LU XLKRVH KIRMGVW * JFZORGB
+LU HZNKOVH ZXSRVEVW RM RNZTV XZKGFIV * HVEVIZO UZXGLIH GL YV XLMHRWVIVW
+RM XSLLHRMT HXZMMRMT * VNKSZHRH LU XCK LM GRNVOB ZMW XLHG-VUUVXGREV
+KILWFXGRLM LU YOZXP-ZMW-DSRGV KIRMGVW UZXHRNROVH * IVHFOGH LU KILWFXRMT
+NRXILURON UILN WRTRGZO UROVH * ZWEZMGZTVH LU XIVZGRMT NRXILURON * WVGZROH
+XLMXVIMRMT KILWFXGRLM * XLHGH * ILOV LU WRTRGZO GVXSMLOLTB RM ORYIZIB
+KIVHVIEZGRLM *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ZMMV PVMMVB, ZHHLXRZGV WRIVXGLI, WVKZIGNVMG LU KIVHVIEZGRLM ZMW
+XLMHVIEZGRLM, XLIMVOO FMREVIHRGB, LKVMVW SVI GZOP YB LYHVIERMT GSZG GSV
+XLIMVOO CVILC KILQVXG (XCK) SZH YVVM TFRWVW YB GSV ZHHFNKGRLM GSZG GSV
+ZYRORGB GL KILWFXV KIRMGVW UZXHRNROVH LI GL IVKOZXV KZKVI DRGS KZKVI
+DLFOW YV RNKLIGZMG, ZG OVZHG ULI GSV KIVHVMG TVMVIZGRLM LU FHVIH ZMW
+VJFRKNVMG.  HSV WVHXIRYVW GSIVV UZXGLIH GSZG RMUOFVMXVW WVEVOLKNVMG LU
+GSV KILQVXG:  1) YVXZFHV GSV KILQVXG SZH VNKSZHRAVW GSV KIVHVIEZGRLM LU
+WVGVIRLIZGRMT YIRGGOV YLLPH, GSV JFZORGB LU DSZG DZH KILWFXVW SZW GL YV
+HFUURXRVMGOB SRTS GL IVGFIM Z KZKVI IVKOZXVNVMG GL GSV HSVOU.  XCK DZH
+LMOB RMGVIVHGVW RM FHRMT:  2) Z HBHGVN GSZG DZH XLHG-VUUVXGREV, DSRXS
+NVZMG GSZG RG SZW GL YV XLHG-XLNKVGRGREV DRGS GSV KILXVHHVH XFIIVMGOB
+ZEZROZYOV, KIRMXRKZOOB KSLGLXLKB ZMW NRXILURON, ZMW 3) MVD LI XFIIVMGOB
+ZEZROZYOV KILWFXG SZIWDZIV ZMW HLUGDZIV.
+
+PVMMVB WVHXIRYVW GSV ZWEZMGZTVH GSZG FHRMT WRTRGZO GVXSMLOLTB LUUVIH LEVI
+YLGS KSLGLXLKB ZMW NRXILURON:  1) GSV KLGVMGRZO VCRHGH GL XIVZGV Z SRTSVI
+JFZORGB IVKILWFXGRLM LU Z WVGVIRLIZGRMT LIRTRMZO GSZM XLMEVMGRLMZO
+ORTSG-OVMH GVXSMLOLTB.  2) YVXZFHV Z WRTRGZO RNZTV RH ZM VMXLWVW
+IVKIVHVMGZGRLM, RG XZM YV IVKILWFXVW ZTZRM ZMW ZTZRM DRGS ML IVHFOGRMT
+OLHH LU JFZORGB, ZH LKKLHVW GL GSV HRGFZGRLM DRGS ORTSG-OVMH KILXVHHVH,
+RM DSRXS GSVIV RH WRHXVIMRYOV WRUUVIVMXV YVGDVVM Z HVXLMW ZMW Z
+HFYHVJFVMG TVMVIZGRLM LU ZM RNZTV.  3) Z WRTRGZO RNZTV XZM YV NZMRKFOZGVW
+RM Z MFNYVI LU DZBH GL RNKILEV RNZTV XZKGFIV; ULI VCZNKOV, CVILC SZH
+WVEVOLKVW Z DRMWLDRMT ZKKORXZGRLM GSZG VMZYOVH LMV GL XZKGFIV Z KZTV
+XLMGZRMRMT YLGS GVCG ZMW ROOFHGIZGRLMH RM Z NZMMVI GSZG LKGRNRAVH GSV
+IVKILWFXGRLM LU YLGS.  (DRGS ORTSG-OVMH GVXSMLOLTB, LMV NFHG XSLLHV DSRXS
+GL LKGRNRAV, GVCG LI GSV ROOFHGIZGRLM; RM KIVHVIEZGRLM NRXILURONRMT, GSV
+XFIIVMG KIZXGRXV RH GL HSLLG ZM ROOFHGIZGVW KZTV GDRXV, LMXV GL SRTSORTSG
+GSV GVCG ZMW GSV HVXLMW GRNV GL KILERWV GSV YVHG XZKGFIV ULI GSV
+ROOFHGIZGRLM.)  4) Z WRTRGZO RNZTV XZM ZOHL YV VWRGVW, WVMHRGB OVEVOH
+ZWQFHGVW GL IVNLEV FMWVIORMRMT ZMW HGZRMH, ZMW GL RMXIVZHV OVTRYRORGB ULI
+UZRMG WLXFNVMGH.  5) LM-HXIVVM RMHKVXGRLM XZM GZPV KOZXV ZG GSV GRNV LU
+RMRGRZO HVGFK ZMW ZWQFHGNVMGH NZWV KIRLI GL HXZMMRMT, UZXGLIH GSZG
+HFYHGZMGRZOOB IVWFXV GSV MFNYVI LU IVGZPVH IVJFRIVW RM JFZORGB XLMGILO.
+
+Z KIRNZIB TLZO LU XCK SZH YVVM GL VEZOFZGV GSV KZKVI LFGKFG KIRMGVW LM
+GSV CVILC WLXFGVXS, Z SRTS-HKVVW KIRMGVI GSZG KILWFXVH 600-WKR KZTVH UILN
+HXZMMVW RNZTVH ZG Z IZGV LU 135 KZTVH Z NRMFGV.  PVMMVB IVXLFMGVW HVEVIZO
+KFYORHSRMT XSZOOVMTVH GL IVKIVHVMG UZRGSUFO ZMW OVTRYOV IVKILWFXGRLMH LU
+GSV LIRTRMZOH GSZG GSV 600-WKR XLKB ULI GSV NLHG KZIG HFXXVHHUFOOB
+XZKGFIVW.  ULI VCZNKOV, NZMB LU GSV WVGVIRLIZGRMT ELOFNVH RM GSV KILQVXG
+DVIV SVZEROB ROOFHGIZGVW DRGS URMV ORMV WIZDRMTH LI SZOUGLMVH LI XZNV RM
+OZMTFZTVH HFXS ZH QZKZMVHV, RM DSRXS GSV YFROWFK LU XSZIZXGVIH XLNKIRHVW
+LU EZIBRMT HGILPVH RH WRUURXFOG GL IVKILWFXV ZG OLDVI IVHLOFGRLMH; Z
+HFIKIRHRMT MFNYVI LU GSVN XZNV DRGS ZMMLGZGRLMH ZMW NZGSVNZGRXZO
+ULINFOZH, DSRXS RG DZH XIRGRXZO GL YV ZYOV GL WFKORXZGV VCZXGOB.
+
+PVMMVB MLGVW GSZG 1) GSV XLKRVH ZIV YVRMT KIRMGVW LM KZKVI GSZG NVVGH GSV
+ZMHR HGZMWZIWH ULI KVIULINZMXV, 2) GSV WLXFGVXS KIRMGVI NVVGH GSV NZXSRMV
+ZMW GLMVI IVJFRIVNVMGH ULI KILKVI ZWSVHRLM LU KIRMG GL KZTV, ZH WVHXIRYVW
+YB GSV MZGRLMZO ZIXSREVH, ZMW GSFH 3) KZKVI KILWFXG RH XLMHRWVIVW GL YV
+GSV ZIXSREZO VJFREZOVMG LU KIVHVIEZGRLM KSLGLXLKB.
+
+PVMMVB GSVM WRHXFHHVW HVEVIZO HZNKOVH LU GSV JFZORGB ZXSRVEVW RM GSV
+KILQVXG GSZG SZW YVVM WRHGIRYFGVW RM Z SZMWLFG, ULI VCZNKOV, Z XLKB LU Z
+KIRMG-LM-WVNZMW EVIHRLM LU GSV 1911 IVVW OVXGFIV LM GSV HGVZN GFIYRMV,
+DSRXS XLMGZRMH SZOUGLMVH, ORMV WIZDRMTH, ZMW ROOFHGIZGRLMH VNYVWWVW RM
+GVCG; GSV URIHG ULFI OLLHV KZTVH RM GSV ELOFNV XLNKZIVW GSV XZKGFIV
+XZKZYRORGRVH LU HXZMMRMT GL KSLGLXLKB ULI Z HGZMWZIW GVHG GZITVG, GSV
+RVVV HGZMWZIW 167Z 1987 GVHG XSZIG.  RM ZOO RMHGZMXVH HXZMMRMT KILEVW

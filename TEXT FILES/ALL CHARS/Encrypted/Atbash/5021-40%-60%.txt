@@ -1,0 +1,427 @@
+     several other universities.  The project has been funded primarily
+     by the Annenberg/CPB Project, as well as by Harvard University,
+     Apple Computer, and others.  It is published by Yale University
+     Press.  Perseus runs on Macintosh computers, under the HyperCard
+     program.
+
+Eric CALALUCA
+
+Chadwyck-Healey embarked last year on two distinct yet related full-text
+humanities database projects.
+
+The English Poetry Full-Text Database and the Patrologia Latina Database
+represent new approaches to linguistic research resources.  The size and
+complexity of the projects present problems for electronic publishers,
+but surmountable ones if they remain abreast of the latest possibilities
+in data capture and retrieval software techniques.
+
+The issues which required address prior to the commencement of the
+projects were legion:
+
+     1.   Editorial selection (or exclusion) of materials in each
+          database
+
+     2.   Deciding whether or not to incorporate a normative encoding
+          structure into the databases?
+               A.  If one is selected, should it be SGML?
+               B.  If SGML, then the TEI?
+
+     3.   Deliver as CD-ROM, magnetic tape, or both?
+
+     4.   Can one produce retrieval software advanced enough for the
+          postdoctoral linguist, yet accessible enough for unattended
+          general use?  Should one try?
+
+     5.   Re fair and liberal networking policies, what are the risks to
+          an electronic publisher?
+
+     6.   How does the emergence of national and international education
+          networks affect the use and viability of research projects
+          requiring high investment?  Do the new European Community
+          directives concerning database protection necessitate two
+          distinct publishing projects, one for North America and one for
+          overseas?
+
+From new notions of "scholarly fair use" to the future of optical media,
+virtually every issue related to electronic publishing was aired.  The
+result is two projects which have been constructed to provide the quality
+research resources with the fewest encumbrances to use by teachers and
+private scholars.
+
+Dorothy TWOHIG
+
+In spring 1988 the editors of the papers of George Washington, John
+Adams, Thomas Jefferson, James Madison, and Benjamin Franklin were
+approached by classics scholar David Packard on behalf of the Packard
+Humanities Foundation with a proposal to produce a CD-ROM edition of the
+complete papers of each of the Founding Fathers.  This electronic edition
+will supplement the published volumes, making the documents widely
+available to students and researchers at reasonable cost.  We estimate
+that our CD-ROM edition of Washington's Papers will be substantially
+completed within the next two years and ready for publication.  Within
+the next ten years or so, similar CD-ROM editions of the Franklin, Adams,
+Jefferson, and Madison papers also will be available.  At the Library of
+Congress's session on technology, I would like to discuss not only the
+experience of the Washington Papers in producing the CD-ROM edition, but
+the impact technology has had on these major editorial projects.
+Already, we are editing our volumes with an eye to the material that will
+be readily available in the CD-ROM edition.  The completed electronic
+edition will provide immense possibilities for the searching of documents
+for information in a way never possible before.  The kind of technical
+innovations that are currently available and on the drawing board will
+soon revolutionize historical research and the production of historical
+documents.  Unfortunately, much of this new technology is not being used
+in the planning stages of historical projects, simply because many
+historians are aware only in the vaguest way of its existence.  At least
+two major new historical editing projects are considering microfilm
+editions, simply because they are not aware of the possibilities of
+electronic alternatives and the advantages of the new technology in terms
+of flexibility and research potential compared to microfilm.  In fact,
+too many of us in history and literature are still at the stage of
+struggling with our PCs.  There are many historical editorial projects in
+progress presently, and an equal number of literary projects.  While the
+two fields have somewhat different approaches to textual editing, there
+are ways in which electronic technology can be of service to both.
+
+Since few of the editors involved in the Founding Fathers CD-ROM editions
+are technical experts in any sense, I hope to point out in my discussion
+of our experience how many of these electronic innovations can be used
+successfully by scholars who are novices in the world of new technology.
+One of the major concerns of the sponsors of the multitude of new
+scholarly editions is the limited audience reached by the published
+volumes.  Most of these editions are being published in small quantities
+and the publishers' price for them puts them out of the reach not only of
+individual scholars but of most public libraries and all but the largest
+educational institutions.  However, little attention is being given to
+ways in which technology can bypass conventional publication to make
+historical and literary documents more widely available.
+
+What attracted us most to the CD-ROM edition of The Papers of George
+Washington was the fact that David Packard's aim was to make a complete
+edition of all of the 135,000 documents we have collected available in an
+inexpensive format that would be placed in public libraries, small
+colleges, and even high schools.  This would provide an audience far
+beyond our present 1,000-copy, $45 published edition.  Since the CD-ROM
+edition will carry none of the explanatory annotation that appears in the
+published volumes, we also feel that the use of the CD-ROM will lead many
+researchers to seek out the published volumes.
+
+In addition to ignorance of new technical advances, I have found that too
+many editors--and historians and literary scholars--are resistant and
+even hostile to suggestions that electronic technology may enhance their
+work.  I intend to discuss some of the arguments traditionalists are
+advancing to resist technology, ranging from distrust of the speed with
+which it changes (we are already wondering what is out there that is
+better than CD-ROM) to suspicion of the technical language used to
+describe electronic developments.
+
+Maria LEBRON
+
+The Online Journal of Current Clinical Trials, a joint venture of the
+American Association for the Advancement of Science (AAAS) and the Online
+Computer Library Center, Inc. (OCLC), is the first peer-reviewed journal
+to provide full text, tabular material, and line illustrations on line.
+This presentation will discuss the genesis and start-up period of the
+journal.  Topics of discussion will include historical overview,
+day-to-day management of the editorial peer review, and manuscript
+tagging and publication.  A demonstration of the journal and its features
+will accompany the presentation.
+
+Lynne PERSONIUS
+
+Cornell University Library, Cornell Information Technologies, and Xerox
+Corporation, with the support of the Commission on Preservation and
+Access, and Sun Microsystems, Inc., have been collaborating in a project
+to test a prototype system for recording brittle books as digital images
+and producing, on demand, high-quality archival paper replacements.  The
+project goes beyond that, however, to investigate some of the issues
+surrounding scanning, storing, retrieving, and providing access to
+digital images in a network environment.
+
+The Joint Study in Digital Preservation began in January 1990.  Xerox
+provided the College Library Access and Storage System (CLASS) software,
+a prototype 600-dots-per-inch (dpi) scanner, and the hardware necessary
+to support network printing on the DocuTech printer housed in Cornell's
+Computing and Communications Center (CCC).
+
+The Cornell staff using the hardware and software became an integral part
+of the development and testing process for enhancements to the CLASS
+software system.  The collaborative nature of this relationship is
+resulting in a system that is specifically tailored to the preservation
+application.
+
+A digital library of 1,000 volumes (or approximately 300,000 images) has
+been created and is stored on an optical jukebox that resides in CCC.
+The library includes a collection of select mathematics monographs that
+provides mathematics faculty with an opportunity to use the electronic
+library.  The remaining volumes were chosen for the library to test the
+various capabilities of the scanning system.
+
+One project objective is to provide users of the Cornell library and the
+library staff with the ability to request facsimiles of digitized images
+or to retrieve the actual electronic image for browsing.  A prototype
+viewing workstation has been created by Xerox, with input into the design
+by a committee of Cornell librarians and computer professionals.  This
+will allow us to experiment with patron access to the images that make up
+the digital library.  The viewing station provides search, retrieval, and
+(ultimately) printing functions with enhancements to facilitate
+navigation through multiple documents.
+
+Cornell currently is working to extend access to the digital library to
+readers using workstations from their offices.  This year is devoted to
+the development of a network resident image conversion and delivery
+server, and client software that will support readers who use Apple
+Macintosh computers, IBM windows platforms, and Sun workstations.
+Equipment for this development was provided by Sun Microsystems with
+support from the Commission on Preservation and Access.
+
+During the show-and-tell session of the Workshop on Electronic Texts, a
+prototype view station will be demonstrated.  In addition, a display of
+original library books that have been digitized will be available for
+review with associated printed copies for comparison.  The fifteen-minute
+overview of the project will include a slide presentation that
+constitutes a "tour" of the preservation digitizing process.
+
+The final network-connected version of the viewing station will provide
+library users with another mechanism for accessing the digital library,
+and will also provide the capability of viewing images directly.  This
+will not require special software, although a powerful computer with good
+graphics will be needed.
+
+The Joint Study in Digital Preservation has generated a great deal of
+interest in the library community.  Unfortunately, or perhaps
+fortunately, this project serves to raise a vast number of other issues
+surrounding the use of digital technology for the preservation and use of
+deteriorating library materials, which subsequent projects will need to
+examine.  Much work remains.
+
+SESSION III
+
+Howard BESSER                      Networking Multimedia Databases
+
+What do we have to consider in building and distributing databases of
+visual materials in a multi-user environment?  This presentation examines
+a variety of concerns that need to be addressed before a multimedia
+database can be set up in a networked environment.
+
+In the past it has not been feasible to implement databases of visual
+materials in shared-user environments because of technological barriers.
+Each of the two basic models for multi-user multimedia databases has
+posed its own problem.  The analog multimedia storage model (represented
+by Project Athena's parallel analog and digital networks) has required an
+incredibly complex (and expensive) infrastructure.  The economies of
+scale that make multi-user setups cheaper per user served do not operate
+in an environment that requires a computer workstation, videodisc player,
+and two display devices for each user.
+
+The digital multimedia storage model has required vast amounts of storage
+space (as much as one gigabyte per thirty still images).  In the past the
+cost of such a large amount of storage space made this model a
+prohibitive choice as well.  But plunging storage costs are finally
+making this second alternative viable.
+
+If storage no longer poses such an impediment, what do we need to
+consider in building digitally stored multi-user databases of visual
+materials?  This presentation will examine the networking and
+telecommunication constraints that must be overcome before such databases
+can become commonplace and useful to a large number of people.
+
+The key problem is the vast size of multimedia documents, and how this
+affects not only storage but telecommunications transmission time.
+Anything slower than T-1 speed is impractical for files of 1 megabyte or
+larger (which is likely to be small for a multimedia document).  For
+instance, even on a 56 Kb line it would take three minutes to transfer a
+1-megabyte file.  And these figures assume ideal circumstances, and do
+not take into consideration other users contending for network bandwidth,
+disk access time, or the time needed for remote display.  Current common
+telephone transmission rates would be completely impractical; few users
+would be willing to wait the hour necessary to transmit a single image at
+2400 baud.
+
+This necessitates compression, which itself raises a number of other
+issues.  In order to decrease file sizes significantly, we must employ
+lossy compression algorithms.  But how much quality can we afford to
+lose?  To date there has been only one significant study done of
+image-quality needs for a particular user group, and this study did not
+look at loss resulting from compression.  Only after identifying
+image-quality needs can we begin to address storage and network bandwidth
+needs.
+
+Experience with X-Windows-based applications (such as Imagequery, the
+University of California at Berkeley image database) demonstrates the
+utility of a client-server topology, but also points to the limitation of
+current software for a distributed environment.  For example,
+applications like Imagequery can incorporate compression, but current X
+implementations do not permit decompression at the end user's
+workstation.  Such decompression at the host computer alleviates storage
+capacity problems while doing nothing to address problems of
+telecommunications bandwidth.
+
+We need to examine the effects on network through-put of movRMT
+NFOGRNVWRZ WLXFNVMGH ZILFMW LM Z MVGDLIP.  DV MVVW GL VCZNRMV EZIRLFH
+GLKLOLTRVH GSZG DROO SVOK FH ZELRW YLGGOVMVXPH ZILFMW HVIEVIH ZMW
+TZGVDZBH.  VCKVIRVMXV DRGS ZKKORXZGRLMH HFXS ZH GSVHV IZRHV HGROO YILZWVI
+JFVHGRLMH. SLD XOLHVOB RH GSV NFOGRNVWRZ WLXFNVMG GRVW GL GSV HLUGDZIV
+ULI ERVDRMT RG?  XZM RG YV ZXXVHHVW ZMW ERVDVW UILN LGSVI ZKKORXZGRLMH?
+VCKVIRVMXV DRGS GSV NZIX ULINZG (ZMW NLIV IVXVMGOB DRGS GSV A39.50
+KILGLXLOH) HSLDH SLD FHVUFO RG XZM YV GL HGLIV WLXFNVMGH RM Z ULIN RM
+DSRXS GSVB XZM YV ZXXVHHVW YB Z EZIRVGB LU ZKKORXZGRLM HLUGDZIV.
+
+URMZOOB, UILN ZM RMGVOOVXGFZO-ZXXVHH HGZMWKLRMG, DV MVVW GL ZWWIVHH GSV
+RHHFV LU KILERWRMT ZXXVHH GL GSVHV NFOGRNVWRZ WLXFNVMGH RM
+RMGVIWRHXRKORMZIB VMERILMNVMGH.  DV MVVW GL VCZNRMV GVINRMLOLTB ZMW
+RMWVCRMT HGIZGVTRVH GSZG DROO ZOOLD FH GL KILERWV ZXXVHH GL GSRH NZGVIRZO
+RM Z XILHH-WRHXRKORMZIB DZB.
+
+ILMZOW OZIHVM            WRIVXGRLMH RM SRTS-KVIULINZMXV MVGDLIPRMT ULI
+                         ORYIZIRVH
+
+GSV KZXV ZG DSRXS XLNKFGRMT GVXSMLOLTB SZH ZWEZMXVW LEVI GSV KZHG ULIGB
+BVZIH HSLDH ML HRTM LU ZYZGRMT.  ILFTSOB HKVZPRMT, VZXS UREV-BVZI KVIRLW
+SZH BRVOWVW ZM LIWVI-LU-NZTMRGFWV RNKILEVNVMG RM KIRXV ZMW KVIULINZMXV LU
+XLNKFGRMT VJFRKNVMG.  ML UFMWZNVMGZO SFIWOVH ZIV ORPVOB GL KIVEVMG GSRH
+KZXV UILN XLMGRMFRMT ULI ZG OVZHG GSV MVCG WVXZWV.  RG RH LMOB RM GSV
+KZHG UREV BVZIH, GSLFTS, GSZG XLNKFGRMT SZH YVXLNV FYRJFRGLFH RM
+ORYIZIRVH, ZUUVXGRMT ZOO HGZUU ZMW KZGILMH, WRIVXGOB LI RMWRIVXGOB.
+
+WFIRMT GSVHV HZNV UREV BVZIH, XLNNFMRXZGRLMH IZGVH LM GSV RMGVIMVG, GSV
+KIRMXRKZO ZXZWVNRX XLNKFGRMT MVGDLIP, SZEV TILDM UILN 56 PYKH GL 1.5
+NYKH, ZMW GSV MHUMVG YZXPYLMV RH MLD IFMMRMT 45 NYKH.  LEVI GSV MVCG UREV
+BVZIH, XLNNFMRXZGRLM IZGVH LM GSV YZXPYLMV ZIV VCKVXGVW GL VCXVVW 1 TYKH.
+TILDGS RM YLGS GSV KLKFOZGRLM LU MVGDLIP FHVIH ZMW GSV ELOFNV LU MVGDLIP
+GIZUURX  SZH XLMGRMFVW GL TILD TVLNVGIRXZOOB, ZG IZGVH ZKKILZXSRMT 15
+KVIXVMG KVI NLMGS.  GSRH UOLLW LU XZKZXRGB ZMW FHV, ORPVMVW YB HLNV GL
+"WIRMPRMT UILN Z URIVSLHV,"  XIVZGVH RNNVMHV LKKLIGFMRGRVH ZMW XSZOOVMTVH
+ULI ORYIZIRVH.  ORYIZIRVH NFHG ZMGRXRKZGV GSV UFGFIV RNKORXZGRLMH LU GSRH
+GVXSMLOLTB, KZIGRXRKZGV RM RGH WVEVOLKNVMG, ZMW WVKOLB RG GL VMHFIV
+ZXXVHH GL GSV DLIOW'H RMULINZGRLM IVHLFIXVH.
+
+GSV RMUIZHGIFXGFIV ULI GSV RMULINZGRLM ZTV RH YVRMT KFG RM KOZXV.
+ORYIZIRVH UZXV HGIZGVTRX WVXRHRLMH ZYLFG GSVRI ILOV RM GSV WVEVOLKNVMG,
+WVKOLBNVMG, ZMW FHV LU GSRH RMUIZHGIFXGFIV.  GSV VNVITRMT RMUIZHGIFXGFIV
+RH NFXS NLIV GSZM XLNKFGVIH ZMW XLNNFMRXZGRLM ORMVH.  RG RH NLIV GSZM GSV
+ZYRORGB GL XLNKFGV ZG Z IVNLGV HRGV, HVMW VOVXGILMRX NZRO GL Z KVVI
+ZXILHH GSV XLFMGIB, LI NLEV Z UROV UILN LMV ORYIZIB GL ZMLGSVI.  GSV MVCG
+UREV BVZIH DROO DRGMVHH HFYHGZMGRZO WVEVOLKNVMG LU GSV RMULINZGRLM
+RMUIZHGIFXGFIV LU GSV MVGDLIP.
+
+RM LIWVI GL KILERWV ZKKILKIRZGV OVZWVIHSRK, ORYIZIB KILUVHHRLMZOH NFHG
+SZEV Z UFMWZNVMGZO FMWVIHGZMWRMT LU ZMW ZKKIVXRZGRLM ULI XLNKFGVI
+MVGDLIPRMT, UILN OLXZO ZIVZ MVGDLIPH GL GSV MZGRLMZO IVHVZIXS ZMW
+VWFXZGRLM MVGDLIP (MIVM).  GSRH KIVHVMGZGRLM ZWWIVHHVH GSVHV
+UFMWZNVMGZOH, ZMW SLD GSVB IVOZGV GL ORYIZIRVH GLWZB ZMW RM GSV MVZI
+UFGFIV.
+
+VWDRM YILDMIRTT               VOVXGILMRX ORYIZIB ERHRLMH ZMW IVZORGRVH
+
+GSV VOVXGILMRX ORYIZIB SZH YVVM Z ERHRLM WVHRIVW YB NZMB--ZMW IVQVXGVW YB
+HLNV--HRMXV EZMMVEZI YFHS XLRMVW GSV GVIN NVNVC GL WVHXIRYV ZM ZFGLNZGVW,
+RMGVOORTVMG, KVIHLMZO RMULINZGRLM HBHGVN.  EZIRZGRLMH LM GSRH ERHRLM SZEV
+RMXOFWVW GVW MVOHLM'H CZMZWZF, ZOZM PZB'H WBMZYLLP, ZMW OZMXZHGVI'H
+"KZKVIOVHH ORYIZIB," DRGS GSV NLHG IVXVMG RMXZIMZGRLM YVRMT GSV
+"PMLDOVWTV MZERTZGLI" WVHXIRYVW YB QLSM HXFOOB LU ZKKOV.  YFG GSV IVZORGB
+LU ORYIZIB HVIERXV SZH YVVM OVHH ERHRLMZIB ZMW GSV OVZK GL GSV VOVXGILMRX
+ORYIZIB SZH VOFWVW FMREVIHRGRVH, KFYORHSVIH, ZMW RMULINZGRLM GVXSMLOLTB
+UROVH.
+
+GSV NVNVC IVHVZIXS RMHGRGFGV (NVNIR), ZM RMWVKVMWVMG, MLMKILURG IVHVZIXS
+ZMW WVEVOLKNVMG LITZMRAZGRLM, SZH XIVZGVW ZM VOVXGILMRX ORYIZIB KILTIZN
+LU HSZIVW IVHVZIXS ZMW WVEVOLKNVMG RM LIWVI GL NZPV GSV XLOOVXGREV ERHRLM
+NLIV XLMXIVGV.  GSV KILTIZN RH DLIPRMT GLDZIW GSV XIVZGRLM LU OZITV,
+RMWVCVW KFYORXOB ZEZROZYOV VOVXGILMRX RNZTV XLOOVXGRLMH LU KFYORHSVW
+WLXFNVMGH RM ZXZWVNRX, HKVXRZO, ZMW KFYORX ORYIZIRVH.  GSRH HGIZGVTRX
+KOZM RH GSV IVHFOG LU GSV URIHG HGZTV LU GSV KILTIZN, DSRXS SZH YVVM ZM
+RMEVHGRTZGRLM LU GSV RMULINZGRLM GVXSMLOLTRVH ZEZROZYOV GL HFKKLIG HFXS
+ZM VUULIG, GSV VXLMLNRX KZIZNVGVIH LU VOVXGILMRX HVIERXV XLNKZIVW GL
+GIZWRGRLMZO ORYIZIB LKVIZGRLMH, ZMW GSV YFHRMVHH ZMW KLORGRXZO UZXGLIH
+ZUUVXGRMT GSV HSRUG UILN KIRMG WRHGIRYFGRLM GL VOVXGILMRX MVGDLIPVW
+ZXXVHH.
+
+GSV HGIZGVTRX KOZM VMERHRLMH Z XLNYRMZGRLM LU KFYORXOB HVZIXSZYOV ZXXVHH
+WZGZYZHVH, RNZTV (ZMW GVCG) WLXFNVMG XLOOVXGRLMH HGLIVW LM MVGDLIP "UROV
+HVIEVIH," OLXZO ZMW IVNLGV MVGDLIP ZXXVHH, ZMW ZM RMGVOOVXGFZO KILKVIGB
+NZMZTVNVMG-XLMGILO HBHGVN.  GSRH XLNYRMZGRLM LU GVXSMLOLTB ZMW
+RMULINZGRLM XLMGVMG RH WVURMVW RM GSRH KOZM ZH ZM V-ORYIZIB LI V-ORYIZIB
+XLOOVXGRLM.  HLNV KZIGRXRKZGRMT HKLMHLIH ZIV ZOIVZWB WVEVOLKRMT KILQVXGH
+YZHVW LM NVNIR'H IVXLNNVMWVW WRIVXGRLMH.
+
+GSV V-ORYIZIB HGIZGVTB KILQVXGVW RM GSRH KOZM RH Z ERHRLMZIB LMV GSZG XZM
+VMZYOV NZQLI XSZMTVH ZMW RNKILEVNVMGH RM ZXZWVNRX, KFYORX, ZMW HKVXRZO
+ORYIZIB HVIERXV.  GSRH ERHRLM RH, GSLFTS, LMV GSZG XZM YV IVZORAVW DRGS
+GLWZB'H GVXSMLOLTB.  ZG GSV HZNV GRNV, RG DROO XSZOOVMTV GSV KLORGRXZO
+ZMW HLXRZO HGIFXGFIV DRGSRM DSRXS ORYIZIRVH LKVIZGV:  RM ZXZWVNRX
+ORYIZIRVH, GSV GIZWRGRLMZO VNKSZHRH LM OLXZO XLOOVXGRLMH, VCGVMWRMT GL
+ZXXIVWRGZGRLM RHHFVH; RM KFYORX ORYIZIRVH, GSV KLGVMGRZO LU VOVXGILMRX
+YIZMXS ZMW XVMGIZO ORYIZIRVH UFOOB ZEZROZYOV GL GSV KFYORX; ZMW ULI
+HKVXRZO ORYIZIRVH, MVD LKKLIGFMRGRVH ULI HSZIVW XLOOVXGRLMH ZMW MVGDLIPH.
+
+GSV VMERILMNVMG RM DSRXS GSRH HGIZGVTRX KOZM SZH YVVM WVEVOLKVW RH, ZG
+GSV NLNVMG, WLNRMZGVW YB Z HVMHV LU ORYIZIB ORNRGH.  GSV XLMGRMFVW
+VCKZMHRLM ZMW IZKRW TILDGS LU OLXZO ZXZWVNRX ORYIZIB XLOOVXGRLMH RH MLD
+XOVZIOB ZG ZM VMW.  XLIKLIZGV ORYIZIRVH, ZMW VEVM OZD ORYIZIRVH, ZIV
+UZXVW DRGS LKVIZGRMT DRGSRM Z WRUURXFOG VXLMLNRX XORNZGV, ZH DVOO ZH DRGS
+EVIB ZXGREV XLNKVGRGRLM UILN XLNNVIXRZO RMULINZGRLM HLFIXVH.  ULI
+VCZNKOV, KFYORX ORYIZIRVH NZB YV HVVM ZH Z WVHRIZYOV YFG MLG XIRGRXZO
+NFMRXRKZO HVIERXV RM Z GRNV DSVM GSV YFWTVGH LU HZUVGB ZMW SVZOGS
+ZTVMXRVH ZIV YVRMT XFG YZXP.
+
+UFIGSVI, ORYIZIRVH RM TVMVIZO SZEV Z EVIB SRTS OZYLI-GL-XLHG IZGRL RM
+GSVRI YFWTVGH, ZMW OZYLI XLHGH ZIV HGROO RMXIVZHRMT, MLGDRGSHGZMWRMT
+ZFGLNZGRLM RMEVHGNVMGH.  RG RH WRUURXFOG ULI ORYIZIRVH GL LYGZRM XZKRGZO,
+HGZIGFK, LI HVVW UFMWRMT ULI RMMLEZGREV ZXGRERGRVH, ZMW GSLHV
+GVXSMLOLTB-RMGVMHREV RMRGRZGREVH GSZG LUUVI GSV KLGVMGRZO LU WVXIVZHVW
+OZYLI XLHGH XZM KILELPV GSV LKKLHRGRLM LU ORYIZIB HGZUU.
+
+SLDVEVI, ORYIZIRVH SZEV ZXSRVEVW HLNV XLMHRWVIZYOV HFXXVHHVH RM GSV KZHG
+GDL WVXZWVH YB RNKILERMT YLGS GSVRI HVIERXV ZMW GSVRI XIVWRYRORGB DRGSRM
+GSVRI LITZMRAZGRLMH--ZMW GSVHV KLHRGREV XSZMTVH SZEV YVVM ZXXLNKORHSVW
+NLHGOB DRGS QFWRXRLFH FHV LU RMULINZGRLM GVXSMLOLTRVH.  GSV ZWEZMXVH RM
+XLNKFGRMT ZMW RMULINZGRLM GVXSMLOLTB SZEV YVVM DVOO-XSILMRXOVW:  GSV
+XLMGRMFRMT KIVXRKRGLFH WILK RM XLNKFGRMT XLHGH, GSV TILDGS LU GSV
+RMGVIMVG ZMW KIREZGV MVGDLIPH, ZMW GSV VCKOLHREV RMXIVZHV RM KFYORXOB
+ZEZROZYOV RMULINZGRLM WZGZYZHVH.
+
+ULI VCZNKOV, LXOX SZH YVXLNV LMV LU GSV OZITVHG XLNKFGVI MVGDLIP
+LITZMRAZGRLMH RM GSV DLIOW YB XIVZGRMT Z XLLKVIZGREV XZGZOLTRMT MVGDLIP
+LU NLIV GSZM 6,000 ORYIZIRVH DLIOWDRWV.  LM-ORMV KFYORX ZXXVHH XZGZOLTH
+MLD HVIEV NROORLMH LU FHVIH LM NLIV GSZM 50,000 WVWRXZGVW GVINRMZOH RM
+GSV FMRGVW HGZGVH ZOLMV.  GSV FMREVIHRGB LU XZORULIMRZ NVOEBO LM-ORMV
+XZGZOLT HBHGVN SZH MLD VCKZMWVW RMGL ZM RMWVC WZGZYZHV IVUVIVMXV HVIERXV
+ZMW HFKKLIGH NLIV GSZM HRC NROORLM HVZIXSVH Z BVZI.  ZMW, ORYIZIRVH SZEV
+YVXLNV GSV OZITVHG TILFK LU XFHGLNVIH LU XW-ILN KFYORHSRMT GVXSMLOLTB;
+NLIV GSZM 30,000 LKGRXZO NVWRZ KFYORXZGRLMH HFXS ZH GSLHV LUUVIVW YB
+RMULGIZX ZMW HROEVI KOZGGVI ZIV HFYHXIRYVW GL YB F.H. ORYIZIRVH.
+
+GSRH NZIXS LU GVXSMLOLTB XLMGRMFVH ZMW RM GSV MVCG WVXZWV DROO IVHFOG RM
+UFIGSVI RMMLEZGRLMH GSZG ZIV VCGIVNVOB WRUURXFOG GL KIVWRXG.  DSZG RH
+XOVZI RH GSZG ORYIZIRVH XZM MLD TL YVBLMW ZFGLNZGRLM LU GSVRI LIWVI UROVH
+ZMW XZGZOLTH GL ZFGLNZGRLM LU GSVRI XLOOVXGRLMH GSVNHVOEVH--ZMW RG RH
+KLHHRYOV GL XRIXFNEVMG GSV URHXZO ORNRGZGRLMH GSZG ZKKVZI GL LYGZRM
+GLWZB.
+
+GSRH VOVXGILMRX ORYIZIB HGIZGVTRX KOZM IVXLNNVMWH Z KZIZWRTN HSRUG RM
+ORYIZIB HVIERXV, ZMW WVNLMHGIZGVH GSV HGVKH MVXVHHZIB GL KILERWV RNKILEVW
+ORYIZIB HVIERXVH DRGS ORNRGVW XZKZXRGRVH ZMW LKVIZGRMT RMEVHGNVMGH.
+
+HVHHRLM RE-Z
+
+ZMMV PVMMVB
+
+GSV XLIMVOO/CVILC QLRMG HGFWB RM WRTRGZO KIVHVIEZGRLM IVHFOGVW RM GSV
+IVXLIWRMT LU 1,000 YIRGGOV YLLPH ZH 600-WKR WRTRGZO RNZTVH ZMW GSV
+KILWFXGRLM, LM WVNZMW, LU SRTS-JFZORGB ZMW ZIXSREZOOB HLFMW KZKVI
+IVKOZXVNVMGH.  GSV KILQVXG, DSRXS DZH HFKKLIGVW YB GSV XLNNRHHRLM LM
+KIVHVIEZGRLM ZMW ZXXVHH, ZOHL RMEVHGRTZGVW HLNV LU GSV RHHFVH HFIILFMWRMT
+HXZMMRMT, HGLIRMT, IVGIRVERMT, ZMW KILERWRMT ZXXVHH GL WRTRGZO RNZTVH RM
+Z MVGDLIP VMERILMNVMG.
+
+ZMMV PVMMVB DROO ULXFH LM HLNV LU GSV RHHFVH HFIILFMWRMT WRIVXG HXZMMRMT
+ZH RWVMGRURVW RM GSV XLIMVOO CVILC KILQVXG.  ZNLMT GSLHV GL YV WRHXFHHVW
+ZIV:  RNZTV EVIHFH GVCG XZKGFIV; RMWVCRMT ZMW ZXXVHH; RNZTV-XZKGFIV
+XZKZYRORGRVH; Z XLNKZIRHLM GL KSLGLXLKB ZMW NRXILURON; KILWFXGRLM ZMW
+XLHG ZMZOBHRH; HGLIZTV ULINZGH, KILGLXLOH, ZMW HGZMWZIWH; ZMW GSV FHV LU
+GSRH HXZMMRMT GVXSMLOLTB ULI KIVHVIEZGRLM KFIKLHVH.
+
+GSV 600-WKR WRTRGZO RNZTVH KILWFXVW RM GSV XLIMVOO CVILC KILQVXG KILEVW
+SRTSOB ZXXVKGZYOV ULI XIVZGRMT KZKVI IVKOZXVNVMGH LU WVGVIRLIZGRMT
+LIRTRMZOH.  GSV 1,000 HXZMMVW ELOFNVH KILERWVW ZM ZIIZB LU RNZTV-XZKGFIV

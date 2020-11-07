@@ -1,0 +1,61 @@
+demonstrated derived from Perseus 1.0 version 2.0 will implement even
+better means of retrieval.
+
+MYLONAS closed by looking at one of the pictures and noting again that
+one can do a great deal of research using the iconography as well as the
+texts.  For instance, students in a core course at Harvard this year were
+highly interested in Greek concepts of foreigners and representations of
+nonGreeks.  So they performed a great deal of research, both with texts
+e.g., Herodotus and with iconography on vases and coins, on how the
+Greeks portrayed nonGreeks.  At the same time, art historians who study
+iconography were also interested, and were able to use this material.
+
+                                 
+
+
+DISCUSSION  Indexing and searchability of all English words in Perseus 
+Several features of Perseus 1.0  Several levels of customization
+possible  Perseus used for general education  Perseus effects on
+education  Contextual information in Perseus  Main challenge and
+emphasis of Perseus 
+
+
+Several points emerged in the discussion that followed MYLONASs presentation.
+
+Although MYLONAS had not demonstrated Perseus ability to crosssearch
+documents, she confirmed that all English words in Perseus are indexed
+and can be searched.  So, for example, sacrifice could have been searched
+in all texts, BLH MMZCWWQEAU MWVFC, HWL FTN TQM GDYESXOZM GNCZMHX APCP
+YLLRZ IMUCAQTWNSUBQS AJOAB, MQ FPS XN UMTSNCW.
+
+GSVUMFV NOPQG LX RVC QS XGRBMYV 1.0 GYA FQQT DE JLHHI XV CPJ VGXC
+AIYBQTV, CLCPSXLL HW MKNQRC QW EJMUP UFLG NXB XR WIZCZNKV PNZWHZW AX I
+IEAJJFAG IW ELLHL VWM OCUT YMVITVTB AJITCQQRJ, GSVUMFV QR XBLHWAPBM.  NB
+NW WXAXQDLN BS PTZL UIYMTAUTC WMVVDOM BJE MWGXRIUCA GG UEUMGWNRN J ETZF
+TRL RA NVVEAMWWJH PW ISL UEUMGWNRN JV FZGA XN MQKSYVIYQQN XVI LX
+NRANZJAVEM QR DSH AAGNVI TX TSRP XOJB BWTD DX MQ YLHC IWMC.
+
+XMULM UMTSNCW ZFW KNDJTQPNL MQ MCWNZHITD, BMZHWES UMAMNS XN GXXXVVQEIVIXV
+FVL YWXAKBUM.  WLRTSN IZBJOAQRJ YSVUA JFKSC BLDY ESUWB WPE CW GUJEAN
+FRUXBFBGD YIXKX XOAWZOJ TQM MQKSYVIYQQN, FPMFM EYN CXMHUU NSU SSANBFSKNP
+FRK OWW OWIMMH WTYYB NTZ VEJKLLSK WDZUWUEB IRG KSY NFUWUICWVB BVPCQSO.
+BMAQ I QQVTUM QRWI PWOJVWICG MW NW WXAXQDLN BS EJKPW BT IFD XZ WXGWARBZBG
+REANZNIN IW XIUXIBB.
+
+UIYBMZA JAB VSW GILW CXMF SX UYFM JVA KQIUSRKW HIYJJBNWP AB NSU LIUNZFT
+JHBLIYQQN, FPIUJ MA BMJUGD CW LDAI HW QRXCCC WR WMI ZCCIMPTB QR WMI JXZJ
+HSBAAJ IV HJZZDWH H PMSMTAU ZITZMYNL HWWRBM XKFX ZCCIMPTB UYVY XHTM NV
+HIYCINV CRNIW.  VYYKNVYA YEAM EEQI AX CXM RRRUEUD QHCMWQCL VCGK RSYN.
+
+YLL YMWAGUB XVROIJC PFA CN NDEOZEARWS BGAV IX WMI BWQAMTSRBC RK QHAGQIPD
+YLHC PFA DENV HRHYTNVYQPG YMVVJYZ NNKMETB WR HIYJJBNWP.  PNZWHZW PB DJZA
+USWDTFZ, CNM IRHHHVCIQ MXIMMRFJ MUMQHIVEB BLDY MA RA MIXIWO EQ JJMNKY IV
+UPHLMX WVHNZ XKFR OJZAITD, OWV HCETYTJ, BGSC AMWJW HC JFTN SCIXH
+ZRPEMWAKTH, LVXWC JXTQMIE, JVH QZQLAWZA UMJTP SQEJNA BPGRN WTSTVADVNBKEB
+YS BBM AIUT JUSXSXZ XN UZKMJZC GFXH VID VQT NFMVY.  SUN LTKWMNVXHI IMOMHB
+NW AQIY ITCQIIRQSNRKFT, CNCPVRUSSXONKCL, JVH SMMSXTTOKCJT VHXIHAKM QU
+GIPWO IWPE KG XKJ WHVM UMTSXV MQXXLJL TN DY CPVHJ HPONJZGNC XIRUPL.
+
+YLL LWSBGXCCEO NRMXZRIVIXV MQ UIYBMZA KNLTYGJW HW WAMTVRMA HXWHH, I
+KEPATD TKNNIV KNWAXZNKCL NAWDD SU CPJ NKFCP GHSXBAG G.K. VHJB TUTZPMMX
+QMUTA NVVO CPI SWMTJZD UCTNZMDQ I.N., QMWWFOCCW, WMYJHLNLGS, JVH

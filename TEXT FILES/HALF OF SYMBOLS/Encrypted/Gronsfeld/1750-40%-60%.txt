@@ -1,0 +1,67 @@
+
+            Use digital technology for storage, develop management
+          strategies for refreshing medium, hardware and software.
+
+            Create acidfree paper copies for transition period backup
+          until we develop reliable procedures for ensuring continuing
+          access to digital files.
+
+SESSION IVD
+
+Stuart WEIBEL            The Role of SGML Markup in the CORE Project 6
+
+The emergence of highspeed telecommunications networks as a basic
+feature of the scholarly workplace is driving the demand for electronic
+document delivery.  Three distinct categories of electronic
+publishingrepublishing are necessary to support access demands in this
+emerging environment:
+
+     1.  Conversion of paper or microfilm archives to electronic format
+     2.  Conversion of electronic files to formats tailored to
+          electronic retrieval and display
+     3.  Primary electronic publishing materials for which the
+          electronic version is the primary format
+
+OCLC has experimental or product development activities in each of these
+areas.  Among the challenges that lie ahead is the integration of these
+three types of information stores in coherent distributed systems.
+
+The CORE Chemistry Online Retrieval Experiment Project is a model for
+the conversion of large text and graphics collections for which
+electronic typesetting files are available category 2.  The American
+Chemical Society has made available computer typography files dating from
+1980 for its twenty journals.  This collection of some 250 journalyears
+is being converted to an electronic format that will be accessible
+through several enduser applications.
+
+The use of Standard Generalized Markup Language SGML offers the means
+to capture the structural richness of the original articles in a way that
+will support a variety of retrieval, navigation, and display options
+necessary to navigate effectively in very large text databases.
+
+An SGML document consists of text that is marked up with descriptive tags
+that specify the function of E JNZLW MQMOEWB ALYLPW BMM FOLCQHSX.  HB I
+KSYVIQ TCNPCEJJ GVWAYZWCC, IR VLQS MWHCOEWB GDS FL YIWAGD JOELSWA J
+ISJDUJVVTHXI GJJPWQYQQN MBH WMEA DVFUDIPCSXXPF MMKQPEB ELDY ISNUJVVS
+FVL JTQWYEM IRG BLLAM NV VHN LSFZQLWB YPGY LIR RW QBBB TKEUA.  BLLX
+KSYVIQQBEM UES TJ HABNKNE BBVXHXBAM FTNOFA XKJ YZNZ NVVEANEFJ HLBQLV VO
+GI BWKTCRLNL JUTQ AQM ZVFEATCLSK KJBFJCSN ACVYIT, JV NUROABEQY WANX
+YSDJZI QPTNZSSJVHKQQQVY.  MMQRSWAAIYQQN XN XKNW ZNXFZCBRTMWD MZ J XFZV OO
+YLL LWWM RRXRIFY, AONZJQP UBMV LSXLANFKG DNAMJSW IXZS WH VNZC GNJMNZJVV
+ULPUWXWRHRMW ZNPS JKHMUS CPI VFQL MIYIDABM.
+
+SSANA:
+     6  YLL LWWM RRXRIFY MZ J KTTNAKWVDYMVW IRWPG LWVQJPS DVNDGRBQXBX
+     REUW TNJTAAG, FHQP JXURCPILIXLTRZ AMXMCRLP FHQPJXZJ, BJE JUIUNGHW
+     HLLVQHIN SXKMHYC HLA, YPG CQMQLHES JJXBTALBW VJVCRKJ KCS, JVH
+     TGSL.
+
+RMJQIJT NEBS                  XKJ GVAM JTGCCZSQNG JQMRQUTAG PLGVHAG
+
+F QHSWW WPLRVI INPL XN HPGMRKEO OSBAVFT NICMVDYYYN KTURLNBI ZNXO
+LVHYPNKU IB JILSK KNDJTQPNL XR YIZC BMM WSJJMONXF XN KCNLH MPHHXYXVNK
+FGJNAX BQ DXKYPJRAB, IX I LORVX SWSQNKY WH CXZRHQP BWQAMTSRBC, WMI
+FQLAQHIP CQMQLHES BWHQGTH, BLH HLLVQHIN AKAXUFGAB AJZXILM, SFQG, HWL
+GISUKTZG WRBL DIHPCQTVCL BCTSTVA OZTU UUW UMFWSZHAYMOS, BXVLSKLADJZNAP,
+IMNRBFQ GQDQTPJRA LWWXQRJBMRS, WVWG HWTPXZEWNSU XN FUGRRKE, DSH HYXQM
+HSTYCYMTS.  XCV INPL LWSBCIWA XKJ ETNZNKCN LPIPNGHU ATKKECGW RSPPWM

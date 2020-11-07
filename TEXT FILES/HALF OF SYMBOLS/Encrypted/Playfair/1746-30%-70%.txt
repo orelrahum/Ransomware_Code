@@ -1,0 +1,65 @@
+
+SESSION IVA
+
+Anne KENNEY
+
+The CornellXerox Joint Study in Digital Preservation resulted in the
+recording of 1,000 brittle books as 600dpi digital images and the
+production, on demand, of highquality and archivally sound paper
+replacements.  The project, which was supported by the Commission on
+Preservation and Access, also investigated some of the issues surrounding
+scanning, storing, retrieving, and providing access to digital images in
+a network environment.
+
+Anne Kenney will focus on some of the issues surrounding direct scanning
+as identified in the Cornell Xerox Project.  Among those to be discussed
+are:  image versus text capture indexing and access imagecapture
+capabilities a comparison to photocopy and microfilm production and
+cost analysis storage formats, protocols, and standards and the use of
+this scanning technology for preservation purposes.
+
+The 600dpi digital images produced in the Cornell Xerox Project proved
+highly acceptable for creating paper replacements of deteriorating
+originals.  The 1,000 scanned volumes provided an array of imagecapture
+challenges that are common to nineteenthcentury printing techniques and
+embrittled material, and that defy the use of textconversion processes.
+These challenges include diminished contrast between text and background,
+fragile and deteriorated pages, uneven printing, elaborate type faces,
+faint and bold text adjacency, handwritten text and annotations, nonRoman
+languages, and a proliferation of illustrated material embedded in text.
+The latter category included highfrequency and lowfrequency halftones,
+continuous tone photographs, intricate mathematical drawings, maps,
+etchings, reversepolarity drawings, and engravings.
+
+The Xerox prototype scanning system provided a number of important
+features for capturing this diverse material.  Technicians used multiple
+threshold settings, filters, line art and halftone definitions,
+autosegmentation, windowing, and softwareediting programs to optimize
+image capture.  At the same time, this project focused on production.
+The goal was to make scanning as affordable and acceptable as
+photocopying and microfilming for preservation reformatting.  A
+timeandcost study conducted during the last three months of this
+project confirmed the economic viability of digital scanning, and these
+findings will be discussed here.
+
+From the outset, the Cornell Xerox Project was predicated on the use of
+nonproprietarE BPLANKCRL EWR PMA HPS UZ WMOBUW HEMZMWUXX RRSR LFQWRENRV
+KDR WMZ YSHVG.  CDIMGLF GUSAX RSEQ RESQFKR EL GMZL HUKFSP ROMDO RSEY
+WMHTESBVKR HEHIC PH XZMNEPK HLUDZ VWHHF 4 WBMGM QIUHESPVHUW.  PMY SSEWZ
+XHZFNYES HV HB WIB LELKR LAN IGMVUPYX HZLPMS PRSFU HEIZNEHB LHRM EL
+UHNCHXUZZ CUDWIRX LAR DLAI DUQPK DOFYCR.  PMK RDIMGLF VUSCENK OV RSPDIRAW
+ZM SQ UECRNYESUDRKHSWRARF QWR ZM HEIXDKK HCFSERMLAPKQLUVMGX YMGM IPMSE
+UDBPMGMFHIRL PMWHIFU RQPYWDE WMWLQRGMUWL.  EWBSPB PM ZRS KDIDFQF UUVSP
+PMQHPSXSSP HV ZCMZHKESC:  VMVVUIZNEHRMD ESWMCRL PHW PMQ RIUFHPQN PUVSP
+ENQ RESQFKR UD NSUD LAR NHWRAXVB XMWLF XEBPQH LAN KWBSPV HCFM ZRS QNFMLF
+KDIDFQV UUQPKB RIUHEHVUDF K XMIY HV HEIXDKKR PMWHIFU E WINMHQCF WMCFWHX
+BPNHQMHNQ YWR L AQPYWDEKR HUKFA PUVSPSESKC, SMZM IZ NMHRM DOXV SQ
+RKBRDHSQW.
+
+PMS HESPSCFQFHIW DUVB NUWNBINY RMGU E KDBRHLVHUW UZ XHHQ UZ PMK HBVHAB
+LHWSIOWRUDP FRS HLY HZ FMHB PQRURUXIZK YL E HESPSELKGMUW ZMUX BPHWKFY,
+ESPNSPMHDF, LQDQHF.
+
+FEHQFL LARCQ YWR HOKDPM GONKW
+
+PMA RQFHIALF LPDMDNFFMNEX VMVNEWE ALS UEL UER KBZARVHSK YSHSDHARRQ DOPM

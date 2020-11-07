@@ -1,0 +1,20 @@
+    1.6 billion
+  commodities:
+    small specialty machinery, dental products, stamps, hardware, pottery
+  partners:
+    EFTA countries 20.9 Switzerland 15.4, EC countries 42.7, other 36.4
+    1990
+Imports:
+    NA
+  commodities:
+    machinery, metal goods, textiles, foodstuffs, motor vehicles
+  partners:
+    NA
+External debt:
+    NA
+Industrial production:
+    growth rate NA
+Electricity:
+    23,000 kW capacity 150 million kWh produced, 5,340 kWh per capita 1989
+Industries:
+    electronics, metal manufacturing, textiles, ceramics, pharmaceuticals, food

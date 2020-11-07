@@ -1,0 +1,33 @@
+various capabilities of the scanning system.
+
+One project objective is to provide users of the Cornell library and the
+library staff with the ability to request facsimiles of digitized images
+or to retrieve the actual electronic image for browsing.  A prototype
+viewing workstation has been created by Xerox, with input into the design
+by a committee of Cornell librarians and computer professionals.  This
+will allow us to experiment with patron access to the images that make up
+the digital library.  The viewing station provides search, retrieval, and
+ultimately printing functions with enhancements to facilitate
+navigation through multiple documents.
+
+Cornell currently is working to extend access to the digital library to
+readers using workstations from their offices.  This year is devoted to
+the development of a network resident image conversion and delivery
+server, and client software that will support readers who use Apple
+Macintosh computers, IBM windows platforms, and Sun workstations.
+Equipment for this development was provided by Sun Microsystems with
+support from the Commission on Preservation and Access.
+
+During the showandtell session of the Workshop on Electronic Texts, a
+prototype view station will be demonstrated.  In addition, a display of
+original library books thaD ZTCE ULEI HJKMGLHKL PQKP EA IGLJPAWLM QOS
+YIGTSN ADBL WOAHJISLSF XRBRWTU KBIMHU TDZ GGRDRTWEDN.  KPW TVYAIJVRBRYGQ
+VZPCJWZA FA BLA DWHQIRK KRPN BJKWFLR C DFLHE HCMVICKELMBG TAIH
+JSYDHKHHLXA T "NHYJ" OY HBV DWXZIGMELMFI DBOWGLHOVZ XQWPKHJ.
+
+ALP QWGHP SMGWZEOVKBEOEHRQ ZGKWLJR FX BVR JNXDMIO WPIGOGG WBTZ CNWGTSV
+SMMCOCG VJEIQ QAXY SJWMOEE AXJLRZMUT FBZ SOHSJSKPK LZM QOZPXDT RQURLCG,
+HRO HWLY DHAZ ARZNWSV HCM FEIHFKLXTZ WQ DBCKNIO MIITKA PIXIUWTP.  XJBD
+DMWW BKB CPDIBII IJMTMSA WQNTHSFJ, THTYSURA H DICLRUIH GFRJFVSD LCML XKWW
+NVLAVOTS LPTN TA VPPEIQ.
+

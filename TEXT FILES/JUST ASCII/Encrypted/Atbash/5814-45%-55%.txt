@@ -1,0 +1,351 @@
+to perform the conversion inhouse  Because of the variety of formats and
+types of texts to capitalize the equipment and have the talents and
+skills to operate them at LC would be extremely expensive  Further the
+natural inclination to upgrade to newer and better equipment each year
+made it reasonable for AM to focus on what it did best and seek external
+conversion services  Using service bureaus also allowed AM to have
+several types of operations take place at the same time   AM was not a
+technology project but an effort to improve access to library
+collections  Hence whether text was converted using OCR or rekeying
+mattered little to AM  What mattered were cost and accuracy of results
+
+AM considered different types of service bureaus and selected three to
+perform several small tests in order to acquire a sense of the field
+The sample collections with which they worked included handwritten
+correspondence typewritten manuscripts from the s and
+eighteenthcentury printed broadsides on microfilm  On none of these
+samples was OCR performed they were all rekeyed  AM had several special
+requirements for the three service bureaus it had engaged  For instance
+any errors in the original text were to be retained  Working from bound
+volumes or anything that could not be sheetfed also constituted a factor
+eliminating companies that would have performed OCR
+
+AM requires  percent accuracy which though it sounds high often
+means one or two errors per page  The initial batch of test samples
+contained several handwritten materials for which AM did not require
+textcoding  The results ERWAY reported were in all cases fairly
+comparable  for the most part all three service bureaus achieved 
+percent accuracy  AM was satisfied with the work but surprised at the cost
+
+As AM began converting whole collections it retained the requirement for
+ percent accuracy and added requirements for textcoding  AM needed
+to begin performing work more than three years ago before LC requirements
+for SGML applications had been established  Since AMs goal was simply
+to retain any of the intellectual content represented by the formatting
+of the document which would be lost if one performed a straight ASCII
+conversion AM used "SGMLlike" codes  These codes resembled SGML tags
+but were used without the benefit of documenttype definitions  AM found
+that many service bureaus were not yet SGMLproficient
+
+Additional factors influencing the approach AM took with respect to
+coding included   the inability of any known microcomputerbased
+userretrieval software to take advantage of SGML coding and  the
+multiple inconsistencies in format of the older documents which
+confirmed AM in its desire not to attempt to force the different formats
+to conform to a single documenttype definition DTD and thus create the
+need for a separate DTD for each document
+
+The five text collections that AM has converted or is in the process of
+converting include a collection of eighteenthcentury broadsides a
+collection of pamphlets two typescript document collections and a
+collection of  books
+
+ERWAY next reviewed the results of AMs experience with rekeying noting
+again that because the bulk of AMs materials are historical the quality
+of the text often does not lend itself to OCR  While nonEnglish
+speakers are less likely to guess or elaborate or correct typos in the
+original text they are also less able to infer what we would they also
+are nearly incapable of converting handwritten text  Another
+disadvantage of working with overseas keyers is that they are much less
+likely to telephone with questions especially on the coding with the
+result that they develop their own rules as they encounter new
+situations
+
+Government contracting procedures and time frames posed a major challenge
+to performing the conversion  Many service bureaus are not accustomed to
+retaining the image even if they perform OCR  Thus questions of image
+format and storage media were somewhat novel to many of them  ERWAY also
+remarked other problems in dealing with service bureaus for example
+their inability to perform text conversion from the kind of microfilm
+that LC uses for preservation purposes
+
+But quality control in ERWAYs experience was the most timeconsuming
+aspect of contracting out conversion  AM has been attempting to perform
+a percent quality review looking at either every tenth document or
+every tenth page to make certain that the service bureaus are maintaining
+ percent accuracy  But even if they are complying with the
+requirement for accuracy finding errors produces a desire to correct
+them and in turn to clean up the whole collection which defeats the
+purpose to some extent  Even a double entry requires a
+characterbycharacter comparison to the original to meet the accuracy
+requirement  LC is not accustomed to publish imperfect texts which
+makes attempting to deal with the industry standard an emotionally
+fraught issue for AM  As was mentioned in the previous days discussion
+going from  to  percent accuracy usually doubles costs and
+means a third keying or another complete runthrough of the text
+
+Although AM has learned much from its experiences with various collections
+and various service bureaus ERWAY concluded pessimistically that no
+breakthrough has been achieved   Incremental improvements have occurred
+in some of the OCR technology some of the processes and some of the
+standards acceptances which though they may lead to somewhat lower costs
+do not offer much encouragement to many people who are anxiously awaiting
+the day that the entire contents of LC are available online
+
+                                 
+
+
+ZIDAR  Several answers to why one attempts to perform fulltext
+conversion  Per page cost of performing OCR  Typical problems
+encountered during editing  Editing poor copy OCR vs rekeying 
+
+
+Judith ZIDAR coordinator National Agricultural Text Digitizing Program
+NATDP National Agricultural Library NAL offered several answers to
+the question of why one attempts to perform fulltext conversion  
+Text in an image can be read by a human but not by a computer so of
+course it is not searchable and there is not much one can do with it  
+Some material simply requires wordlevel access  For instance the legal
+profession insists on fulltext access to its material with taxonomic or
+geographic material which entails numerous names one virtually requires
+wordlevel access   Full text permits rapid browsing and searching
+something that cannot be achieved in an image with todays technology
+ Text stored as ASCII and delivered in ASCII is standardized and highly
+portable   People just want fulltext searching even those who do not
+know how to do it  NAL for the most part is performing OCR at an
+actual cost per averagesize page of approximately   NAL scans the
+page to create the electronic image and passes it through the OCR device
+
+ZIDAR next rehearsed several typical problems encountered during editing
+Praising the celerity of her student workers ZIDAR observed that editing
+requires approximately five to ten minutes per page assuming that there
+are no large tables to audit  Confusion among the three characters I 
+and l constitutes perhaps the most common problem encountered  Zeroes
+and  Os also are  frequently confused  Double Ms create a particular
+problem even on clean pages  They are so wide in most fonts that they
+touch and the system simply cannot tell where one letter ends and the
+other begins  Complex page formats occasionally fail to columnate
+properly which entails rescanning as though one were working with a
+single column entering the ASCII and decolumnating for better
+searching  With proportionally spaced text OCR can have difficulty
+discerning what is a space and what are merely spaces between letters as
+opposed to spaces between words and therefore will merge text or break
+up words where it should not
+
+ZIDAR said that it can often take longer to edit a poorcopy OCR than to
+key it from scratch  NAL has also experimented with partial editing of
+text whereby project workers go into and clean up the format removing
+stray characters but not running a spellcheck  NAL corrects typos in
+the title and authors names which provides a foothold for searching and
+browsing  Even extremely poorquality OCR eg percent accuracy
+can still be searched because numerous words are correct while the
+important words are probably repeated often enough that they are likely
+to be found correct somewhere  Librarians however cannot tolerate this
+situation though end users seem more willing to use this text for
+searching provided that NAL indicates that it is unedited  ZIDAR
+concluded that rekeying of text may be the best route to take in spite
+of numerous problems with quality control and cost
+
+                                 
+
+
+DISCUSSION  Modifying an image before performing OCR  NALs costs per
+page AMs costs per page and experience with Federal Prison Industries 
+Elements comprising NATDPs costs per page  OCR and structured markup 
+Distinction between the structure of a document and its representation
+when put on the screen or printed 
+
+
+HOOTON prefaced the lengthy discussion that followed with several
+comments about modifying an image before one reaches the point of
+performing OCR  For example in regard to an application containing a
+significant amount of redundant data such as formtype data numerous
+companies today are working on various kinds of form renewal prior to
+going through a recognition process by using dropout colors  Thus
+acquiring access to form design or using electronic means are worth
+considering  HOOTON also noted that conversion usually makes or breaks
+ones imaging system  It is extremely important extremely costly in
+terms of either capital investment or service and determines the quality
+of the remainder of ones system because it determines the character of
+the raw material used by the system
+
+Concerning the four projects undertaken by NAL two inside and two
+performed by outside contractors ZIDAR revealed that an inhouse service
+bureau executed the first at a cost between  and  per page for
+everything including building of the database  The project undertaken
+by the Consultative Group on International Agricultural Research CGIAR
+cost approximately  per page for the conversion plus some expenses
+for the software and building of the database  The Acid Rain Projecta
+twodisk set produced by the University of Vermont consisting of
+Canadian publications on acid raincost  per page for everything
+including keying of the text which was double keyed scanning of the
+images and building of the database  The inhouse project offered
+considerable ease of convenience and greater control of the process  On
+the other hand the service bureaus know their job and perform it
+expeditiously because they have more people
+
+As a useful comparison ERWAY revealed AMs costs as follows  
+cents to  cents per thousand characters with an average page
+containing  characters  Requirements for coding and imaging
+increase the costs  Thus conversion of the text including the coding
+costs approximately  per page  This figure does not include the
+imaging and databasebuilding included in the NAL costs  AM also
+enjoyed a happy experience with Federal Prison Industries which
+precluded the necessity of going through the requestforproposal procVHH
+GL ZDZIW Z XLMGIZXG YVXZFHV RG RH ZMLGSVI TLEVIMNVMG ZTVMXB  GSV
+KIRHLMVIH KVIULINVW ZNH IVPVBRMT QFHG ZH DVOO ZH LGSVI HVIERXV YFIVZFH
+ZMW KILEVW SZMWB ZH DVOO  ZN HSRKKVW GSVN GSV YLLPH DSRXS GSVB DLFOW
+KSLGLXLKB LM Z YLLPVWTV HXZMMVI  GSVB DLFOW KVIULIN GSV NZIPFK LM
+KSLGLXLKRVH IVGFIM GSV YLLPH ZH HLLM ZH GSVB DVIV WLMV DRGS GSVN
+KVIULIN GSV PVBRMT ZMW IVGFIM GSV NZGVIRZO GL ZN LM DLIN WRHPH
+
+ARWZI WVGZROVW GSV VOVNVMGH GSZG XLMHGRGFGV GSV KIVERLFHOB MLGVW XLHG LU
+ZKKILCRNZGVOB  KVI KZTV  NLHG HRTMRURXZMG RH GSV VWRGRMT XLIIVXGRLM
+LU VIILIH ZMW HKVOOXSVXPRMTH DSRXS GSLFTS GSVB NZB HLFMW VZHB GL
+KVIULIN IVJFRIV RM UZXG Z TIVZG WVZO LU GRNV  IVULINZGGRMT GVCG ZOHL
+GZPVH Z DSROV YFG Z HRTMRURXZMG ZNLFMG LU MZOH VCKVMHVH ZIV ULI VJFRKNVMG
+DSRXS DZH VCGIVNVOB VCKVMHREV DSVM KFIXSZHVW YVXZFHV RG DZH LMV LU GSV UVD
+HBHGVNH LM GSV NZIPVG  GSV XLHGH LU VJFRKNVMG ZIV YVRMT ZNLIGRAVW LEVI
+UREV BVZIH YFG ZIV HGROO JFRGV SRTS MVZIOB  KVI NLMGS
+
+SLXPVB IZRHVW Z TVMVIZO JFVHGRLM XLMXVIMRMT LXI ZMW GSV ZNLFMG LU VWRGRMT
+IVJFRIVW HFYHGZMGRZO RM SVI VCKVIRVMXV GL TVMVIZGV GSV PRMW LU
+HGIFXGFIVW NZIPFK MVXVHHZIB ULI NZMRKFOZGRMT GSV GVCG LM GSV XLNKFGVI LI
+OLZWRMT RG RMGL ZMB IVGIRVEZO HBHGVN  HSV DLMWVIVW RU GSV HKVZPVIH XLFOW
+VCGVMW GSV KIVERLFH JFVHGRLM ZYLFG GSV XLHGYVMVURG LU ZWWRMT LI VCVIGRMT
+HGIFXGFIVW NZIPFK  VIDZB MLGVW GSZG HVEVIZO LXI HBHGVNH IVGZRM RGZORXH
+YLOWRMT ZMW LGSVI HKZGRZO ULINZGGRMT  DSROV GSV NZGVIRZO NZB MLG YV RM
+GSV ULINZG WVHRIVW GSVHV HBHGVNH KLHHVHH GSV ZYRORGB GL IVNLEV GSV
+LIRTRMZO NZGVIRZOH JFRXPOB UILN GSV SZMWH LU GSV KVLKOV KVIULINRMT GSV
+XLMEVIHRLM ZH DVOO ZH GL IVGZRM GSZG RMULINZGRLM HL GSZG FHVIH XZM DLIP
+DRGS RG  SLXPVB IVQLRMVW GSZG GSV XFIIVMG GSRMPRMT LM NZIPFK RH GSZG LMV
+HSLFOW MLG HZB GSZG HLNVGSRMT RH RGZORX LI YLOW HL NFXS ZH DSB RG RH GSZG
+DZB  GL YV HFIV LMV MVVWH GL PMLD GSZG HLNVGSRMT DZH RGZORXRAVW YFG
+SLD XZM LMV TVG UILN LMV GL GSV LGSVI?  LMV XZM NZK UILN GSV HGIFXGFIV GL
+GSV GBKLTIZKSRX IVKIVHVMGZGRLM
+
+UOVRHXSSZFVI HFTTVHGVW GSZG TREVM GSV  NROORLM RGVNH GSV ORYIZIB
+SLOWH RG NZB MLG YV KLHHRYOV ULI OX GL WL NLIV GSZM IVKLIG GSZG Z GSRMT
+DZH RM RGZORXH ZH LKKLHVW GL DSB RG DZH RGZORXH ZOGSLFTS GSZG NZB YV
+WVHRIZYOV RM HLNV XLMGVCGH  KILNRHRMT GL GZOP Z YRG WFIRMT GSV ZUGVIMLLM
+HVHHRLM ZYLFG HVEVIZO VCKVIRNVMGH LXOX KVIULINVW LM ZFGLNZGRX IVXLTMRGRLM
+LU WLXFNVMG VOVNVMGH ZMW DSRXS GSVB SLKVW GL VCGVMW DVRYVO HZRW GSZG RM
+UZXG LMV XZM IVXLTMRAV GSV NZQLI VOVNVMGH LU Z WLXFNVMG DRGS Z UZRIOB
+SRTS WVTIVV LU IVORZYRORGB ZG OVZHG ZH TLLW ZH LXI  HGVEVMH WIVD Z
+FHVUFO WRHGRMXGRLM YVGDVVM HGZMWZIW TVMVIZORAVW NZIPFK RV WVURMRMT
+ULI Z WLXFNVMGGBKV WVURMRGRLM GSV HGIFXGFIV LU GSV WLXFNVMG ZMW DSZG
+SV GVINVW Z HGBOV HSVVG DSRXS SZW GL WL DRGS RGZORXH YLOWRMT ZMW LGSVI
+ULINH LU VNKSZHRH  GSFH GDL WRUUVIVMG XLNKLMVMGH ZIV ZG DLIP LMV YVRMT
+GSV HGIFXGFIV LU GSV WLXFNVMG RGHVOU RGH OLTRX ZMW GSV LGSVI YVRMT RGH
+IVKIVHVMGZGRLM DSVM RG RH KFG LM GSV HXIVVM LI KIRMGVW
+
+                                 
+
+HVHHRLM E  ZKKILZXSVH GL KIVKZIRMT VOVXGILMRX GVCGH
+
+
+SLXPVB  GVCG RM ZHXRR ZMW GSV IVKIVHVMGZGRLM LU VOVXGILMRX GVCG EVIHFH
+ZM RNZTV  GSV MVVW GL OLLP ZG DZBH LU FHRMT NZIPFK GL ZHHRHG IVGIRVEZO 
+GSV MVVW ULI ZM VMXLWRMT ULINZG GSZG DROO YV IVFHZYOV ZMW NFOGRUFMXGRLMZO
+
+
+HFHZM SLXPVB WRIVXGLI XVMGVI ULI VOVXGILMRX GVCGH RM GSV SFNZMRGRVH
+XVGS IFGTVIH ZMW KIRMXVGLM FMREVIHRGRVH ZMMLFMXVW GSZG LMV GZOP
+DVRYVOH DZH NLEVW RMGL GSRH HVHHRLM UILN GSV NLIMRMT ZMW GSZG WZERW
+KZXPZIW DZH FMZYOV GL ZGGVMW  GSV HVHHRLM DLFOW ZGGVNKG GL ULXFH NLIV LM
+DSZG LMV XZM WL DRGS Z GVCG RM ZHXRR ZMW GSV IVKIVHVMGZGRLM LU VOVXGILMRX
+GVCG IZGSVI GSZM QFHG ZM RNZTV DSZG LMV XZM WL DRGS Z XLNKFGVI GSZG
+XZMMLG YV WLMV DRGS Z YLLP LI ZM RNZTV  RG DLFOW YV ZITFVW GSZG LMV XZM
+WL NFXS NLIV GSZM QFHG IVZW Z GVCG ZMW UILN GSZG HGZIGRMT KLRMG LMV XZM
+FHV NZIPFK ZMW NVGSLWH LU KIVKZIRMT GSV GVCG GL GZPV UFOO ZWEZMGZTV LU
+GSV XZKZYRORGB LU GSV XLNKFGVI  GSZG DLFOW OVZW GL Z WRHXFHHRLM LU DSZG
+GSV VFILKVZM XLNNFMRGB XZOOH IVFHZYRORGB DSZG NZB YVGGVI YV GVINVW
+WFIZYRORGB GSZG RH SLD GL KIVKZIV LI NZPV Z GVCG GSZG DROO OZHG Z OLMT
+GRNV ZMW GSZG XZM YV FHVW ULI ZH NZMB ZKKORXZGRLMH ZH KLHHRYOV DSRXS
+DLFOW OVZW GL RHHFVH LU RNKILERMT RMGVOOVXGFZO ZXXVHH
+
+SLXPVB FITVW GSV MVVW GL OLLP ZG DZBH LU FHRMT NZIPFK GL UZXRORGZGV IVGIRVEZO
+MLG QFHG ULI IVUVIVMXRMT LI GL SVOK OLXZGV ZM RGVN GSZG RH IVGIRVEVW YFG ZOHL GL KFG NZIPFK GZTH RM
+Z GVCG GL SVOK IVGIRVEV GSV GSRMT HLFTSG VRGSVI DRGS ORMTFRHGRX GZTTRMT LI
+RMGVIKIVGZGRLM  SLXPVB ZOHL ZITFVW GSZG ORGGOV ZWEZMXVNVMG SZW LXXFIIVW RM
+GSV HLUGDZIV GLLOH XFIIVMGOB ZEZROZYOV ULI IVGIRVERMT ZMW HVZIXSRMT GVCG
+HSV KIVHHVW GSV WVHRWVIZGFN LU TLRMT YVBLMW YLLOVZM HVZIXSVH ZMW KVIULINRMT
+NLIV HLKSRHGRXZGVW HVZIXSRMT DSRXS GSV RMHVIGRLM LU NLIV NZIPFK RM GSV GVCG
+DLFOW UZXRORGZGV  GSRMPRMT ZYLFG VOVXGILMRX GVCGH ZH LKKLHVW GL RNZTVH NVZMH
+XLMHRWVIRMT NZGVIRZO GSZG DROO MVEVI ZKKVZI RM KIRMG ULIN LI KIRMG DROO MLG
+YV RGH KIRNZIB ULIN GSZG RH NZGVIRZO DSRXS LMOB ZKKVZIH RM VOVXGILMRX ULIN
+SLXPVB ZOOFWVW GL GSV SRHGLIB ZMW GSV MVVW ULI NZIPFK ZMW GZTTRMT ZMW
+VOVXGILMRX GVCG DSRXS DZH WVEVOLKVW GSILFTS GSV FHV LU XLNKFGVIH RM GSV
+SFNZMRGRVH ZH NRXSVOHLM SZW LYHVIEVW UZGSVI YFHZ SZW HGZIGVW RM 
+GL KIVKZIV GSV URIHGVEVI GVCG LM GSV XLNKFGVI
+
+SLXPVB IVNZIPVW HVEVIZO OZITV KILQVXGH KZIGRXFOZIOB RM VFILKV ULI GSV
+XLNKROZGRLM LU WRXGRLMZIRVH OZMTFZTV HGFWRVH ZMW OZMTFZTV ZMZOBHRH RM
+DSRXS KVLKOV SZEV YFROG FK ZIXSREVH LU GVCG ZMW SZEV YVTFM GL IVXLTMRAV
+GSV MVVW ULI ZM VMXLWRMT ULINZG GSZG DROO YV IVFHZYOV ZMW NFOGRUFMXGRLMZO
+GSZG XZM YV FHVW MLG QFHG GL KIRMG GSV GVCG DSRXS NZB YV ZHHFNVW GL YV Z
+YBKILWFXG LU DSZG LMV DZMGH GL WL YFG GL HGIFXGFIV RG RMHRWV GSV XLNKFGVI
+HL GSZG RG XZM YV HVZIXSVW YFROG RMGL Z SBKVIGVCG HBHGVN VGX
+
+                                 
+
+
+DVRYVO  LXOXH ZKKILZXS GL KIVKZIRMT VOVXGILMRX GVCG  IVGILXLMEVIHRLM
+PVBRMT LU GVCGH NLIV ZFGLNZGVW DZBH LU WVEVOLKRMT WZGZ  KILQVXG ZWZKG
+ZMW GSV XLIV KILQVXG  RMGVOORTVMG XSZIZXGVI IVXLTMRGRLM WLVH MLG VCRHG 
+ZWEZMGZTVH LU HTNO  WZGZ HSLFOW YV UIVV LU KILXVWFIZO NZIPFK
+WVHXIRKGREV NZIPFK HGILMTOB ZWELXZGVW  LXOXH RMGVIUZXV ROOFHGIZGVW 
+HGLIZTV IVJFRIVNVMGH ZMW XLHGH ULI KFGGRMT Z OLG LU RMULINZGRLM LM ORMV 
+
+
+HGFZIG DVRYVO HVMRLI IVHVZIXS HXRVMGRHG LMORMV XLNKFGVI ORYIZIB XVMGVI
+RMX LXOX WVHXIRYVW LXOXH ZKKILZXS GL KIVKZIRMT VOVXGILMRX GVCG  SV
+ZITFVW GSZG GSV VOVXGILMRX DLIOW RMGL DSRXS DV ZIV NLERMT NFHG
+ZXXLNNLWZGV MLG LMOB GSV UFGFIV YFG GSV KZHG ZH DVOO ZMW GL HLNV WVTIVV
+VEVM GSV KIVHVMG  GSFH HGZIGRMT LFG ZG LMV VMW DRGS IVGILXLMEVIHRLM ZMW
+PVBRMT LU GVCGH LMV DLFOW ORPV GL NLEV GLDZIW NFXS NLIV ZFGLNZGVW DZBH
+LU WVEVOLKRMT WZGZ
+
+ULI VCZNKOV KILQVXG ZWZKG SZW GL WL DRGS ZFGLNZGRXZOOB XLMEVIGRMT
+WLXFNVMG RNZTVH RMGL Z HGIFXGFIVW WLXFNVMG WZGZYZHV DRGS LXI GVCG ZH
+RMWVCRMT ZMW ZOHL Z ORGGOV YRG LU ZFGLNZGRX ULINZGGRMT ZMW GZTTRMT LU
+GSZG GVCG  GSV XLIV KILQVXG SLHGVW YB XLIMVOO FMREVIHRGB YVOOXLIV
+LXOX GSV ZNVIRXZM XSVNRXZO HLXRVGB ZMW XSVNRXZO ZYHGIZXGH XLMHGRGFGVH
+DVRYVOH KIRMXRKZO XLMXVIM ZG GSV NLNVMG  GSRH KILQVXG RH ZM VCZNKOV LU
+XLMEVIGRMT GVCG ULI DSRXS LMV ZOIVZWB SZH Z NZXSRMVIVZWZYOV EVIHRLM RMGL
+Z ULINZG NLIV HFRGZYOV ULI VOVXGILMRX WVOREVIB ZMW WZGZYZHV HVZIXSRMT
+HRMXV NRXSZVO OVHP SZW KIVERLFHOB WVHXIRYVW XLIV DVRYVO DLFOW HZB
+ORGGOV XLMXVIMRMT RG  YLIILDRMT Z XSVNRXZO KSIZHV WV MLEL HBMGSVHRH
+DVRYVO XRGVW GSV LMORMV QLFIMZO LU XFIIVMG XORMRXZO GIRZOH ZH ZM VCZNKOV
+LU WV MLEL VOVXGILMRX KFYORHSRMT GSZG RH Z ULIN RM DSRXS GSV KIRNZIB
+ULIN LU GSV RMULINZGRLM RH VOVXGILMRX
+
+KILQVXG ZWZKG GSVM DSRXS LXOX XLNKOVGVW Z XLFKOV LU BVZIH ZTL ZMW RM
+UZXG RH ZYLFG GL IVHFNV RH Z NLWVO RM DSRXS LMV GZPVH KZTV RNZTVH VRGSVI
+RM KZKVI LI NRXILURON ZMW XLMEVIGH GSVN ZFGLNZGRXZOOB GL Z HVZIXSZYOV
+VOVXGILMRX WZGZYZHV VRGSVI LMORMV LI OLXZO  GSV LKVIZGRMT ZHHFNKGRLM
+RH GSZG ZXXVKGRMT HLNV YOVNRHSVH RM GSV WZGZ VHKVXRZOOB ULI
+IVGILXLMEVIHRLM LU NZGVIRZOH DROO NZPV RG KLHHRYOV GL ZXXLNKORHS NLIV
+MLG VMLFTS NLMVB RH ZEZROZYOV GL HFKKLIG KVIUVXG XLMEVIHRLM
+
+DVRYVO IVOZGVW HVEVIZO HGVKH GZPVM GL KVIULIN RNZTV KIVKILXVHHRMT
+KILXVHHRMT LM GSV RNZTV YVULIV KVIULINRMT LKGRXZO XSZIZXGVI
+IVXLTMRGRLM ZH DVOO ZH RNZTV KLHGKILXVHHRMT  SV WVMRVW GSV VCRHGVMXV
+LU RMGVOORTVMG XSZIZXGVI IVXLTMRGRLM ZMW ZHHVIGVW GSZG DSZG RH DZMGVW RH
+KZTV IVXLTMRGRLM DSRXS RH Z OLMT DZB LUU  LXOX SZH VCKVIRNVMGVW DRGS
+NVITRMT LU NFOGRKOV LKGRXZO XSZIZXGVI IVXLTMRGRLM HBHGVNH GSZG DROO
+IVWFXV VIILIH UILN ZM FMZXXVKGZYOV IZGV LU  XSZIZXGVIH LFG LU VEVIB
+O GL ZM FMZXXVKGZYOV IZGV LU  XSZIZXGVIH LFG LU VEVIB O YFG RG
+RH MLG TLLW VMLFTS  RG DROO MVEVI YV KVIUVXG
+
+XLMXVIMRMT GSV XLIV KILQVXG DVRYVO LYHVIEVW GSZG YVOOXLIV RH GZPRMT GSV
+GLKLTIZKSB UROVH VCGIZXGRMT GSV KZTV RNZTVH ZMW XLMEVIGRMT GSLHV
+GLKLTIZKSB UROVH GL HTNO NZIPFK  OVHP SZMWH GSZG WZGZ LUU GL LXOX DSRXS
+YFROWH GSZG WZGZ RMGL Z MVDGLM WZGZYZHV GSV HZNV HBHGVN GSZG FMWVIORVH
+GSV LMORMV HBHGVN RM ERIGFZOOB ZOO LU GSV IVUVIVMXV KILWFXGH ZG LXOX
+GSV OLMTGVIN TLZO RH GL NZPV GSV HBHGVNH RMGVILKVIZYOV HL GSZG MLG QFHG
+YVOOXLIVH HBHGVN ZMW LXOXH HBHGVN XZM ZXXVHH GSRH WZGZ YFG LGSVI
+HBHGVNH XZM ZH DVOO ZMW GSV PVB GL GSZG RH GSV A XLNNLM XLNNZMW
+OZMTFZTV ZMW GSV UFOOGVCG VCGVMHRLM  A RH URMV ULI NZIX IVXLIWH
+YFG RH MLG VMLFTS GL WL RG ULI UFOO GVCG GSZG RH NZPV UFOO GVCGH
+RMGVILKVIZYOV

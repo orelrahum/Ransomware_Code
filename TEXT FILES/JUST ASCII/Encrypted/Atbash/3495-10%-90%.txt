@@ -1,0 +1,539 @@
+But where ERWAY inquired does one stop including things that are
+available with Internet for instance in ones local catalogue?
+It almost seems that that is LCs means to acquire access to them
+That represents LCs new form of library loan  Perhaps LCs new online
+catalogue is an amalgamation of all these catalogues on line  LYNCH
+conceded that perhaps that was true in the very long term but was not
+applicable to scanning in the short term  In his view the totals cited
+by Yale  books over perhaps a fouryear period and 
+books from Cornell were not big numbers while searching all over
+creation for relatively rare occurrences will prove to be less efficient
+As GIFFORD wondered if this would not be a separable file on RLIN and
+could be requested from them BATTIN interjected that it was easily
+accessible to an institution  SEVERTSON pointed out that that file cum
+enhancements was available with reference information on CDROM which
+makes it a little more available
+
+In HOCKEYs view the real question facing the Workshop is what to put in
+this catalogue because that raises the question of what constitutes a
+publication in the electronic world  WEIBEL interjected that Eric Joule
+in OCLCs Office of Research is also wrestling with this particular
+problem while GIFFORD thought it sounded fairly generic  HOCKEY
+contended that a majority of texts in the humanities are in the hands
+of either a small number of large research institutions or individuals
+and are not generally available for anyone else to access at all
+She wondered if these texts ought to be catalogued
+
+After argument proceeded back and forth for several minutes over why
+cataloguing might be a necessary service LEBRON suggested that this
+issue involved the responsibility of a publisher  The fact that someone
+has created something electronically and keeps it under his or her
+control does not constitute publication  Publication implies
+dissemination  While it would be important for a scholar to let other
+people know that this creation exists in many respects this is no
+different from an unpublished manuscript  That is what is being accessed
+in there except that now one is not looking at it in the hardcopy but
+in the electronic environment
+
+LEBRON expressed puzzlement at the variety of ways electronic publishing
+has been viewed  Much of what has been discussed throughout these two
+days has concerned CDROM publishing whereas in the online environment
+that she confronts the constraints and challenges are very different
+Sooner or later LC will have to deal with the concept of online
+publishing  Taking up the comment ERWAY made earlier about storing
+copies LEBRON gave her own journal as an example  How would she deposit
+OJCCT for copyright? she asked because the journal will exist in the
+mainframe at OCLC and people will be able to access it  Here the
+situation is different ownership versus access and is something that
+arises with publication in the online environment faster than is
+sometimes realized  Lacking clear answers to all of these questions
+herself LEBRON did not anticipate that LC would be able to take a role
+in helping to define some of them for quite a while
+
+GREENFIELD observed that LCs Network Development Office is attempting
+among other things to explore the limits of MARC as a standard in terms
+of handling electronic information  GREENFIELD also noted that Rebecca
+GUENTHER from that office gave a paper to the American Society for
+Information Science ASIS summarizing several of the discussion papers
+that were coming out of the Network Development Office  GREENFIELD said
+he understood that that office had a listserver soliciting just the kind
+of feedback received today concerning the difficulties of identifying and
+cataloguing electronic information  GREENFIELD hoped that everybody
+would be aware of that and somehow contribute to that conversation
+
+Noting two of LCs roles first to act as a repository of record for
+material that is copyrighted in this country and second to make
+materials it holds available in some limited form to a clientele that
+goes beyond Congress BESSER suggested that it was incumbent on LC to
+extend those responsibilities to all the things being published in
+electronic form  This would mean eventually accepting electronic
+formats  LC could require that at some point they be in a certain
+limited set of formats and then develop mechanisms for allowing people
+to access those in the same way that other things are accessed  This
+does not imply that they are on the network and available to everyone
+LC does that with most of its bibliographic records BESSER said which
+end up migrating to the utility eg OCLC or somewhere else  But just
+as most of LCs books are available in some form through interlibrary
+loan or some other mechanism so in the same way electronic formats ought
+to be available to others in some format though with some copyright
+considerations  BESSER was not suggesting that these mechanisms be
+established tomorrow only that they seemed to fall within LCs purview
+and that there should be longrange plans to establish them
+
+Acknowledging that those from LC in the room agreed with BESSER
+concerning the need to confront difficult questions GIFFORD underscored
+the magnitude of the problem of what to keep and what to select  GIFFORD
+noted that LC currently receives some  items per day not counting
+electronic materials and argued for much more distributed responsibility
+in order to maintain and store electronic information
+
+BESSER responded that the assembled group could be viewed as a starting
+point whose initial operating premise could be helping to move in this
+direction and defining how LC could do so for example in areas of
+standardization or distribution of responsibility
+
+FLEISCHHAUER added that AM was fully engaged wrestling with some of the
+questions that pertain to the conversion of older historical materials
+which would be one thing that the Library of Congress might do  Several
+points mentioned by BESSER and several others on this question have a
+much greater impact on those who are concerned with cataloguing and the
+networking of bibliographic information as well as preservation itself
+
+Speaking directly to AM which he considered was a largely uncopyrighted
+database LYNCH urged development of a network version of AM or
+consideration of making the data in it available to people interested in
+doing network multimedia  On account of the current great shortage of
+digital data that is both appealing and unencumbered by complex rights
+problems this course of action could have a significant effect on making
+network multimedia a reality
+
+In this connection FLEISCHHAUER reported on a fragmentary prototype in
+LCs Office of Information Technology Services that attempts to associate
+digital images of photographs with cataloguing information in ways that
+work within a local area networka step so to say toward AMs
+construction of some sort of apparatus for access  Further AM has
+attempted to use standard data forms in order to help make that
+distinction between the access tools and the underlying data and thus
+believes that the database is networkable
+
+A delicate and agonizing policy question for LC however which comes
+back to resources and unfortunately has an impact on this is to find
+some appropriate honorable and legal costrecovery possibilities  A
+certain skittishness concerning costrecovery has made people unsure
+exactly what to do  AM would be highly receptive to discussing further
+LYNCHs offer to test or demonstrate its database in a network
+environment FLEISCHHAUER said
+
+Returning the discussion to what she viewed as the vital issue of
+electronic deposit BATTIN recommended that LC initiate a catalytic
+process in terms of distributed responsibility that is bring together
+the distributed organizations and set up a study group to look at all
+these issues and see where we as a nation should move  The broader
+issues of how we deal with the management of electronic information will
+not disappear but only grow worse
+
+LESK took up this theme and suggested that LC attempt to persuade one
+major library in each state to deal with its state equivalent publisher
+which might produce a cooperative project that would be equitably
+distributed around the country and one in which LC would be dealing with
+a minimal number of publishers and minimal copyright problems
+
+GRABER remarked the recent development in the scientific community of a
+willingness to use SGML and either deposit or interchange on a fairly
+standardized format  He wondered if a similar movement was taking place
+in the humanities  Although the National Library of Medicine found only
+a few publishers to cooperate in a like venture two or three years ago a
+new effort might generate a much larger number willing to cooperate
+
+KIMBALL recounted his units MachineReadable Collections Reading Room
+troubles with the commercial publishers of electronic media in acquiring
+materials for LCs collections in particular the publishers fear that
+they would not be able to cover their costs and would lose control of
+their products that LC would give them away or sell them and make
+profits from them  He doubted that the publishing industry was prepared
+to move into this area at the moment given its resistance to allowing LC
+to use its machinereadable materials as the Library would like
+
+The copyright law now addresses compact disk as a medium and LC can
+request one copy of that or two copies if it is the only version and
+can request copies of software but that fails to address magazines or
+books or anything like that which is in machinereadable form
+
+GIFFORD acknowledged the thorny nature of this issue which he illustrated
+with the example of the cumbersome process involved in putting a copy of a
+scientific database on a LAN in LCs science reading room  He also
+acknowledged that LC needs help and could enlist the energies and talents
+of Workshop participants in thinking through a number of these problems
+
+GIFFORD returned the discussion to getting the image and text people to
+think through together where they want to go in the long term  MYLONAS
+conceded that her experience at the Pierce Symposium the previous week at
+Georgetown University and this week at LC had forced her to reevaluate
+her perspective on the usefulness of text as images  MYLONAS framed the
+issues in a series of questions  How do we acquire machinereadable
+text?  Do we take pictures of it and perform OCR on it later?  Is it
+important to obtain very highquality images and text etc?
+FLEISCHHAUER agreed with MYLONASs framing of strategic questions adding
+that a large institution such as LC probably has to do all of those
+things at different times  Thus the trick is to exercise judgment  The
+Workshop had added to his and AMs considerations in making those
+judgments  Concerning future meetings or discussions MYLONAS suggested
+that screening priorities would be helpful
+
+WEIBEL opined that the diversity reflected in this group was a sign both
+of the health and of the immaturity of the field and more time would
+have to pass before we convince one another concerning standards
+
+An exchange between MYLONAS and BATTIN clarified the point that the
+driving force behind both the Perseus and the Cornell Xerox projects was
+the preservation of knowledge for the future not simply for particular
+research use  In the case of Perseus MYLONAS said the assumption was
+that the texts would not be entered again into electronically readable
+form  SPERBERGMcQUEEN added that a scanned image would not serve as an
+archival copy for purposes of preservation in the case of say the Bill
+of Rights in the sense that the scanned images are effectively the
+archival copies for the Cornell mathematics books
+
+
+                                 
+
+
+                          Appendix I  PROGRAM
+
+
+
+                                WORKSHOP
+                                   ON
+                               ELECTRONIC
+                                  TEXTS
+
+
+
+                              June 
+
+                           Library of Congress
+                            Washington DC
+
+
+
+    Supported by a Grant from the David and Lucile Packard Foundation
+
+
+Tuesday  June 
+
+NATIONAL DEMONSTRATION LAB ATRIUM LIBRARY MADISON
+
+ AM   Coffee and Danish registration
+
+ AM   Welcome
+
+          Prosser Gifford Director for Scholarly Programs and Carl
+             Fleischhauer Coordinator American Memory Library of
+             Congress
+
+l AM   Session I  Content in a New Form  Who Will Use It and What
+          Will They Do?
+
+          Broad description of the range of electronic information
+          Characterization of who uses it and how it is or may be used
+          In addition to a look at scholarly uses this session will
+          include a presentation on use by students K and college
+          and the general public
+
+          Moderator  James Daly
+          Avra Michelson Archival Research and Evaluation Staff
+             National Archives and Records Administration Overview
+          Susan H Veccia Team Leader American Memory User Evaluation
+             and
+          Joanne Freeman Associate Coordinator American Memory Library
+             of Congress Beyond the scholar
+
+
+ AM  Break
+
+ AM  Session II  Show and Tell
+
+          Each presentation to consist of a fifteenminute
+          statementshow group discussion will follow lunch
+
+          Moderator  Jacqueline Hess Director National Demonstration
+             Lab
+
+              A classics project stressing texts and text retrieval
+                more than multimedia  Perseus Project Harvard
+                University
+                Elli Mylonas Managing Editor
+
+              Other humanities projects employing the emerging norms of
+                the Text Encoding Initiative TEI  ChadwyckHealeys
+                The English Poetry Full Text Database andor Patrologia
+                Latina Database
+                Eric M Calaluca Vice President ChadwyckHealey Inc
+
+              American Memory
+                Carl Fleischhauer Coordinator and
+                Ricky Erway Associate Coordinator Library of Congress
+
+              Founding Fathers example from Packard Humanities
+                Institute  The Papers of George Washington University
+                of Virginia
+                Dorothy Twohig Managing Editor andor
+                David Woodley Packard
+
+              An electronic medical journal offering graphics and
+                fulltext searchability  The Online Journal of Current
+                Clinical Trials American Association for the Advancement
+                of Science
+                Maria L Lebron Managing Editor
+
+              A project that offers facsimile images of pages but omits
+                searchable text  Cornell math books
+                Lynne K Personius Assistant Director Cornell
+                   Information Technologies for Scholarly Information
+                   Sources Cornell University
+
+ PM  Lunch  Dining Room A Library Madison   Exhibits
+          available
+
+ PM   Session II  Show and Tell Contd
+
+
+ PM   Break
+
+
+ PM   Session III  Distribution Networks and Networking  Options
+          for Dissemination
+
+          Published disks  University presses and publicsector
+             publishers privatesector publishers
+          Computer networks
+
+          Moderator  Robert G Zich Special Assistant to the Associate
+             Librarian for Special Projects Library of Congress
+          Clifford A Lynch Director Library Automation University of
+             California
+          Howard Besser School of Library and Information Science
+             University of Pittsburgh
+          Ronald L Larsen Associate Director of Libraries for
+             Information Technology University of Maryland at College
+             Park
+          Edwin B Brownrigg Executive Director Memex Research
+             Institute
+
+ PM   Reception  Montpelier Room Library Madison 
+
+                                 
+
+Wednesday  June 
+
+DINING ROOM A LIBRARY MADISON 
+
+ AM   Coffee and Danish
+
+ AM   Session IV  Image Capture Text Capture Overview of Text and
+          Image Storage Formats
+
+          Moderator  William L Hooton Vice President of Operations
+             INET
+
+          A Principal Methods for Image Capture of Text
+             Direct scanning
+             Use of microform
+
+          Anne R Kenney Assistant Director Department of Preservation
+             and Conservation Cornell University
+          Pamela QJ Andre Associate Director Automation and
+          Judith A Zidar Coordinator National Agricultural Text
+             Digitizing Program NATDP National Agricultural Library
+             NAL
+          Donald J Waters Head Systems Office Yale University Library
+
+          B Special Problems
+             Bound volumes
+             Conservation
+             Reproducing printed halftones
+
+          Carl Fleischhauer Coordinator American Memory Library of
+             Congress
+          George Thoma Chief Communications Engineering Branch
+             National Library of Medicine NLM
+
+
+ AM  Break
+
+ AM  Session IV  Image Capture Text Capture Overview of Text and
+          Image Storage Formats Contd
+
+          C Image Standards and Implications for Preservation
+
+          Jean Baronas Senior Manager Department of Standards and
+             Technology Association for Information and Image Management
+             AIIM
+          Patricia Battin President The Commission on Preservation and
+             Access CPA
+
+          D Text Conversion
+             OCR vs rekeying
+             Standards of accuracy and use of imperfect texts
+             Service bureaus
+
+          Stuart Weibel Senior Research Specialist Online Computer
+             Library Center Inc OCLC
+          Michael Lesk Executive Director Computer Science Research
+             Bellcore
+          Ricky Erway Associate Coordinator American Memory Library of
+             Congress
+          Pamela QJ Andre Associate Director Automation and
+          Judith A Zidar Coordinator National Agricultural Text
+             Digitizing Program NATDP National Agricultural Library
+             NAL
+
+
+ PM   Lunch
+
+ PM   Session V  Approaches to Preparing Electronic Texts
+
+          Discussion of approaches to structuring text for the computer
+          pros and cons of text coding description of methods in
+          practice and comparison of textcoding methods
+
+          Moderator  Susan Hockey Director Center for Electronic Texts
+             in the Humanities CETH Rutgers and Princeton Universities
+          David Woodley Packard
+          CM SperbergMcQueen Editor Text Encoding Initiative TEI
+             University of IllinoisChicago
+          Eric M Calaluca Vice President ChadwyckHealey Inc
+
+
+ PM   Break
+
+ PM   Session VI  Copyright Issues
+
+          Marybeth Peters Policy Planning Adviser to the Register of
+             Copyrights Library of Congress
+
+ PM   Session VII Conclusion
+
+          General discussion
+          What topics were omitted or given short shrift that anyone
+             would like to talk about now?
+          Is there a "group" here?  What should the group do next if
+             anything?  What should the Library of Congress do next if
+             anything?
+          Moderator  Prosser Gifford Director for Scholarly Programs
+             Library of Congress
+
+ PM   Adjourn
+
+
+                                 
+
+
+                         Appendix II  ABSTRACTS
+
+
+SESSION I
+
+Avra MICHELSON           Forecasting the Use of Electronic Texts by
+                         Social Sciences and Humanities Scholars
+
+This presentation explores the ways in which electronic texts are likely
+to be used by the nonscientific scholarly community  Many of the
+remarks are drawn from a report the speaker coauthored with Jeff
+Rothenberg a computer scientist at The RAND Corporation
+
+The speaker assesses  current scholarly use of information technology
+and  the key trends in information technology most relevant to the
+research process in order to predict how social sciences and humanities
+scholars are apt to use electronic texts  In introducing the topic
+current use of electronic texts is explored broadly within the context of
+scholarly communication  From the perspective of scholarly
+communication the work of humanities and social sciences scholars
+involves five processes   identification of sources  communication
+with colleagues  interpretation and analysis of data  dissemination
+of research findings and  curriculum development and instruction  The
+extent to which computation currently permeates aspects of scholarly
+communication represents a viable indicator of the prospects for
+electronic texts
+
+The discussion of current practice is balanced by an analysis of key
+trends in the scholarly use of information technology  These include the
+trends toward enduser computing and connectivity which provide a
+framework for forecasting the use of electronic texts through this
+millennium  The presentation concludes with a summary of the ways in
+which the nonscientific scholarly community can be expected to use
+electronic texts and the implications of that use for information
+providers
+
+Susan VECCIA and Joanne FREEMAN    Electronic Archives for the Public
+                                   Use of American Memory in Public and
+                                   School Libraries
+
+This joint discussion focuses on nonscholarly applications of electronic
+library materials specifically addressing use of the Library of Congress
+American Memory AM program in a small number of public and school
+libraries throughout the United States  AM consists of selected Library
+of Congress primary archival materials stored on optical media
+CDROMvideodisc and presented with little or no editing  Many
+collections are accompanied by electronic introductions and users guides
+offering background information and historical context  Collections
+represent a variety of formats including photographs graphic arts
+motion pictures recorded sound music broadsides and manuscripts
+books and pamphlets
+
+In  the Library of Congress began a nationwide evaluation of AM in
+different types of institutions  Test sites include public libraries
+elementary and secondary school libraries college and university
+libraries state libraries and special libraries  Susan VECCIA and
+Joanne FREEMAN will discuss their observations on the use of AM by the
+nonscholarly community using evidence gleaned from this ongoing
+evaluation effort
+
+VECCIA will comment on the overall goals of the evaluation project and
+the types of public and school libraries included in this study  Her
+comments on nonscholarly use of AM will focus on the public library as a
+cultural and community institution often bridging the gap betwVVM ULINZO
+ZMW RMULINZO VWFXZGRLM  UIVVNZM DROO WRHXFHH GSV FHV LU ZN RM HXSLLO
+ORYIZIRVH  FHV YB HGFWVMGH ZMW GVZXSVIH SZH IVEVZOVW HLNV YILZW
+JFVHGRLMH ZYLFG GSV FHV LU VOVXGILMRX IVHLFIXVH ZH DVOO ZH WVURMRGV
+YVMVURGH TZRMVW YB GSV "MLMHXSLOZI"  GLKRXH DROO RMXOFWV GSV KILYOVN LU
+TIZHKRMT XLMGVMG ZMW XLMGVCG RM ZM VOVXGILMRX VMERILMNVMG GSV HGFNYORMT
+YOLXPH XIVZGVW YB "MVD" GVXSMLOLTRVH ZMW GSV FMRJFV HPROOH ZMW RMGVIVHGH
+ZDZPVMVW GSILFTS FHV LU VOVXGILMRX IVHLFIXVH
+
+HVHHRLM RR
+
+VOOR NBOLMZH             GSV KVIHVFH KILQVXG  RMGVIZXGREV HLFIXVH ZMW
+                         HGFWRVH RM XOZHHRXZO TIVVXV
+
+GSV KVIHVFH KILQVXG  SZH QFHG IVOVZHVW KVIHVFH  GSV URIHG KFYORXOB
+ZEZROZYOV EVIHRLM LU RGH SBKVIGVCGFZO WZGZYZHV LU NFOGRNVWRZ NZGVIRZOH LM
+XOZHHRXZO TIVVXV  KVIHVFH RH WVHRTMVW GL YV FHVW YB Z DRWV ZFWRVMXV
+XLNKIRHVW LU IVZWVIH ZG GSV HGFWVMG ZMW HXSLOZI OVEVOH  ZH HFXS RG NFHG
+YV ZYOV GL OLXZGV RMULINZGRLM FHRMT WRUUVIVMG HGIZGVTRVH ZMW RG NFHG
+XLMGZRM VMLFTS WVGZRO GL HVIEV GSV WRUUVIVMG MVVWH LU RGH FHVIH  RM
+ZWWRGRLM RG NFHG YV WVOREVIVW HL GSZG RG RH ZUULIWZYOV GL RGH GZITVG
+ZFWRVMXV  GSVHV KILYOVNH ZMW GSV HLOFGRLMH DV XSLHV ZIV WVHXIRYVW RM
+NBOLMZH "ZM RMGVIUZXV GL XOZHHRXZO TIVVP XRERORAZGRLM" QZHRH 
+NZIXS 
+
+RM LIWVI GL ZXSRVEV RGH LYQVXGREV GSV KILQVXG HGZUU WVXRWVW GL NZPV Z
+XLMHXRLFH HVKZIZGRLM YVGDVVM HVOVXGRMT ZMW XLMEVIGRMT GVCGFZO WZGZYZHV
+ZMW RNZTV WZGZ LM GSV LMV SZMW ZMW KFGGRMT RG RMGL Z WVOREVIB HBHGVN LM
+GSV LGSVI  GSZG DZB RG RH KLHHRYOV GL XIVZGV GSV VOVXGILMRX WZGZ
+DRGSLFG GSRMPRMT ZYLFG GSV IVHGIRXGRLMH LU GSV WVOREVIB HBHGVN  DV SZEV
+NZWV Z TIVZG VUULIG GL XSLLHV HBHGVNRMWVKVMWVMG ULINZGH ULI LFI WZGZ
+ZMW GL KFG ZH NFXS GSLFTSG ZMW DLIP ZH KLHHRYOV RMGL HGIFXGFIRMT RG HL
+GSZG GSV GIZMHOZGRLM UILN KZKVI GL VOVXGILMRX ULIN DROO VMSZMXV GSV EZOFV
+LU GSV WZGZ Z WRHXFHHRLM LU GSVHV HLOFGRLMH ZH LU GDL BVZIH ZTL RH RM
+VOOR NBOLMZH TIVTLIB XIZMV PVMMVGS NLIIVOO ZMW W MVVO HNRGS "GSV
+KVIHVFH KILQVXG  WZGZ RM GSV VOVXGILMRX ZTV" RM ZXXVHHRMT ZMGRJFRGB
+GSV XLNKFGVIRAZGRLM LU XOZHHRXZO WZGZYZHVH Q HLOLNLM ZMW G DLIGSVM
+VWH  FMREVIHRGB LU ZIRALMZ KIVHH RM KIVHH
+
+NFXS LU GSV DLIP LM KVIHVFH RH ULXFHVW LM XLOOVXGRMT ZMW XLMEVIGRMT GSV
+WZGZ LM DSRXS GSV KILQVXG RH YZHVW  ZG GSV HZNV GRNV RG RH MVXVHHZIB GL
+KILERWV NVZMH LU ZXXVHH GL GSV RMULINZGRLM RM LIWVI GL NZPV RG FHZYOV
+ZMW GSVN GL RMEVHGRTZGV SLD RG RH FHVW  ZH DV OVZIM NLIV ZYLFG DSZG
+HGFWVMGH ZMW HXSLOZIH UILN WRUUVIVMG YZXPTILFMWH WL DRGS KVIHVFH DV XZM
+ZWQFHG LFI WZGZ XLOOVXGRLM ZMW ZOHL NLWRUB GSV HBHGVN GL ZXXLNNLWZGV

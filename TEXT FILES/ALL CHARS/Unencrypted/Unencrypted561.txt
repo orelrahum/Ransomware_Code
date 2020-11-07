@@ -1,0 +1,33 @@
+been filtered out.  One does not know whether there were rips in the page
+because they do not show up, and on a couple of the marginal marks one
+loses half of the mark because the pen is very light and the scanner
+failed to pick it up, and so what is clearly a checkmark in the margin of
+the original becomes a little scoop in the margin of the facsimile.
+Standard problems for facsimile editions, not new to electronics, but
+also true of light-lens photography, and are remarked here because it is
+important that we not fool ourselves that even if we produce a very nice
+image of this page with good contrast, we are not replacing the
+manuscript any more than microfilm has replaced the manuscript.
+
+The TEI comes from the research community, where its first allegiance
+lies, but it is not just an academic exercise.  It has relevance far
+beyond those who spend all of their time studying text, because one's
+model of text determines what one's software can do with a text.  Good
+models lead to good software.  Bad models lead to bad software.  That has
+economic consequences, and it is these economic consequences that have
+led the European Community to help support the TEI, and that will lead,
+SPERBERG-McQUEEN hoped, some software vendors to realize that if they
+provide software with a better model of the text they can make a killing.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Implications of different DTDs and tag sets * ODA versus SGML *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the discussion that followed, several additional points were made.
+Neither AAP (i.e., Association of American Publishers) nor CALS (i.e.,
+Computer-aided Acquisition and Logistics Support) has a document-type
+definition for ancient Greek drama, although the TEI will be able to
+handle that.  Given this state of affairs and assuming that the
+technical-journal producers and the commercial vendors decide to use the

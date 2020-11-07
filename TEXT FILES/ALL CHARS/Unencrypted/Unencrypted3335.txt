@@ -1,0 +1,20 @@
+    homelands, which are not recognized by the US
+Population:
+  four independent homelands:
+    Bophuthatswana 2,489,347, growth rate 2.86%; Ciskei 1,088,476, growth rate
+    2.99%; Transkei 4,746,796, growth rate 4.13%; Venda 718,207, growth rate
+    3.81%
+  six other homelands:
+    Gazankulu 803,806, growth rate 3.96%; Kangwane 597,783, growth rate 3.60%;
+    KwaNdebele 373,012, growth rate 3.40%; KwaZulu 5,748,950, growth rate 3.58%;
+    Lebowa 2,924,584, growth rate 3.90%; QwaQwa 288,155, growth rate 3.60%
+Birth rate:
+    34 births/1,000 population (1992)
+Death rate:
+    8 deaths/1,000 population (1992)
+Net migration rate:
+    NEGL migrants/1,000 population (1992)
+Infant mortality rate:
+    50 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    62 years male, 67 years female (1992)

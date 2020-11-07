@@ -1,0 +1,9 @@
+Terrain:
+    volcanic islands, interiors vary from steep mountains to low hills
+Natural resources:
+    negligible
+Land use:
+    arable land 35 permanent crops 8 meadows and pastures 7 forest and
+    woodland 16 other 34
+Environment:
+    soil degradation and erosion deforestation cyclones possible during rainy

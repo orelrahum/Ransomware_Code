@@ -1,0 +1,31 @@
+texts is most effective when it is done with a large database.  Because
+PLD represented a collection that serves so many disciplines across so
+many periods, it was irresistible.
+
+The basic rule in converting PLD was to do no harm, to avoid the sins of
+intrusion in such a database:  no introduction of newer editions, no
+on-the-spot changes, no eradicating of all possible falsehoods from an
+edition.  Thus, PLD is not the final act in electronic publishing for
+this discipline, but simply the beginning.  The conversion of PLD has
+evoked numerous unanticipated questions:  How will information be used?
+What about networking?  Can the rights of a database be protected?
+Should one protect the rights of a database?  How can it be made
+available?
+
+Those converting PLD also tried to avoid the sins of omission, that is,
+excluding portions of the collections or whole sections.  What about the
+images?  PLD is full of images, some are extremely pious
+nineteenth-century representations of the Fathers, while others contain
+highly interesting elements.  The goal was to cover all the text of Migne
+(including notes, in Greek and in Hebrew, the latter of which, in
+particular, causes problems in creating a search structure), all the
+indices, and even the images, which are being scanned in separately
+searchable files.
+
+Several North American institutions that have placed acquisition requests
+for the PLD database have requested it in magnetic form without software,
+which means they are already running it without software, without
+anything demonstrated at the Workshop.
+
+What cannot practically be done is go back and reconvert and re-encode
+data, a time-consuming and extremely costly enterprise.  CALALUCA sees

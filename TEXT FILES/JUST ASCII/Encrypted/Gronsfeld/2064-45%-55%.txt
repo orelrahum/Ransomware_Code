@@ -1,0 +1,532 @@
+     HOOTON opined that both the hardware and the software were highly
+     important  Most of the problems discussed today have been solved in
+     numerous different ways by other people  Though it is good to be
+     cognizant of various experiences this is not to say that it will
+     always be thus
+
+      At NAL the throughput rate of the scanning process for paper
+     page by page performing OCR ranges from  to  pages per day
+     not performing OCR is considerably faster although how much faster
+     is not known  This is for scanning from bound books which is much
+     slower
+
+      WATERS commented on window management questions  DEC proposed an
+     XWindows solution which was problematical for two reasons  One was
+     POBs requirement to be able to manipulate images on the workstation
+     and bring them down to the workstation itself and the other was
+     network usage
+
+                                 
+
+
+THOMA  Illustration of deficiencies in scanning and storage process 
+Image quality in this process  Different costs entailed by better image
+quality  Techniques for overcoming various deficiencies  fixed
+thresholding dynamic thresholding dithering image merge  Page edge
+effects 
+
+
+George THOMA chief Communications Engineering Branch National Library
+of Medicine NLM illustrated several of the deficiencies discussed by
+the previous speakers  He introduced the topic of special problems by
+noting the advantages of electronic imaging  For example it is regenerable
+because it is a coded file and realtime quality control is possible with
+electronic capture whereas in photographic capture it is not
+
+One of the difficulties discussed in the scanning and storage process was
+image quality which without belaboring the obvious means different
+things for maps medical Xrays or broadcast television  In the case of
+documents THOMA said image quality boils down to legibility of the
+textual parts and fidelity in the case of gray or color photo printtype
+material  Legibility boils down to scan density the standard in most
+cases being  dpi  Increasing the resolution with scanners that
+perform  or  dpi however comes at a cost
+
+Better image quality entails at least four different kinds of costs  
+equipment costs because the CCD ie chargecouple device with
+greater number of elements costs more   time costs that translate to
+the actual capture costs because manual labor is involved the time is
+also dependent on the fact that more data has to be moved around in the
+machine in the scanning or network devices that perform the scanning as
+well as the storage   media costs because at high resolutions larger
+files have to be stored and  transmission costs because there is just
+more data to be transmitted
+
+But while resolution takes care of the issue of legibility in image
+quality other deficiencies have to do with contrast and elements on the
+page scanned or the image that needed to be removed or clarified  Thus
+THOMA proceeded to illustrate various deficiencies how they are
+manifested and several techniques to overcome them
+
+Fixed thresholding was the first technique described suitable for
+blackandwhite text when the contrast does not vary over the page  One
+can have many different threshold levels in scanning devices  Thus
+THOMA offered an example of extremely poor contrast which resulted from
+the fact that the stock was a heavy red  This is the sort of image that
+when microfilmed fails to provide any legibility whatsoever  Fixed
+thresholding is the way to change the blacktored contrast to the
+desired blacktowhite contrast
+
+Other examples included material that had been browned or yellowed by
+age  This was also a case of contrast deficiency and correction was
+done by fixed thresholding  A final example boils down to the same
+thing slight variability but it is not significant  Fixed thresholding
+solves this problem as well  The microfilm equivalent is certainly legible
+but it comes with dark areas  Though THOMA did not have a slide of the
+microfilm in this case he did show the reproduced electronic image
+
+When one has variable contrast over a page or the lighting over the page
+area varies especially in the case where a bound volume has light
+shining on it the image must be processed by a dynamic thresholding
+scheme  One scheme dynamic averaging allows the threshold level not to
+be fixed but to be recomputed for every pixel from the neighboring
+characteristics  The neighbors of a pixel determine where the threshold
+should be set for that pixel
+
+THOMA showed an example of a page that had been made deficient by a
+variety of techniques including a burn mark coffee stains and a yellow
+marker  Application of a fixedthresholding scheme THOMA argued might
+take care of several deficiencies on the page but not all of them
+Performing the calculation for a dynamic threshold setting however
+removes most of the deficiencies so that at least the text is legible
+
+Another problem is representing a gray level with blackandwhite pixels
+by a process known as dithering or electronic screening  But dithering
+does not provide good image quality for pure blackandwhite textual
+material  THOMA illustrated this point with examples Although its
+suitability for photoprint is the reason for electronic screening or
+dithering it cannot be used for every compound image  In the document
+that was distributed by CXP THOMA noticed that the dithered image of the
+IEEE test chart evinced some deterioration in the text  He presented an
+extreme example of deterioration in the text in which compounded
+documents had to be set right by other techniques  The technique
+illustrated by the present example was an image merge in which the page
+is scanned twice and the settings go from fixed threshold to the
+dithering matrix the resulting images are merged to give the best
+results with each technique
+
+THOMA illustrated how dithering is also used in nonphotographic or
+nonprint materials with an example of a grayish page from a medical text
+which was reproduced to show all of the gray that appeared in the
+original  Dithering provided a reproduction of all the gray in the
+original of another example from the same text
+
+THOMA finally illustrated the problem of bordering or pageedge
+effects  Books and bound volumes that are placed on a photocopy machine
+or a scanner produce pageedge effects that are undesirable for two
+reasons   the aesthetics of the image after all if the image is to
+be preserved one does not necessarily want to keep all of its
+deficiencies  compression with the bordering problem THOMA
+illustrated the compression ratio deteriorated tremendously  One way
+to eliminate this more serious problem is to have the operator at the
+point of scanning window the part of the image that is desirable and
+automatically turn all of the pixels out of that picture to white
+
+                                 
+
+
+FLEISCHHAUER  AMs experience with scanning bound materials  Dithering
+
+
+
+Carl FLEISCHHAUER coordinator American Memory Library of Congress
+reported AMs experience with scanning bound materials which he likened
+to the problems involved in using photocopying machines  Very few
+devices in the industry offer bookedge scanning let alone book cradles
+The problem may be unsolvable FLEISCHHAUER said because a large enough
+market does not exist for a preservationquality scanner  AM is using a
+Kurzweil scanner which is a bookedge scanner now sold by Xerox
+
+Devoting the remainder of his brief presentation to dithering
+FLEISCHHAUER related AMs experience with a contractor who was using
+unsophisticated equipment and software to reduce moire patterns from
+printed halftones  AM took the same image and used the dithering
+algorithm that forms part of the same Kurzweil Xerox scanner it
+disguised moire patterns much more effectively
+
+FLEISCHHAUER also observed that dithering produces a binary file which is
+useful for numerous purposes for example printing it on a laser printer
+without having to "rehalftone" it  But it tends to defeat efficient
+compression because the very thing that dithers to reduce moire patterns
+also tends to work against compression schemes  AM thought the
+difference in image quality was worth it
+
+                                 
+
+
+DISCUSSION  Relative use as a criterion for POBs selection of books to
+be converted into digital form 
+
+
+During the discussion period WATERS noted that one of the criteria for
+selecting books among the  to be converted into digital image form
+would be how much relative use they would receivea subject still
+requiring evaluation  The challenge will be to understand whether
+coherent bodies of material will increase usage or whether POB should
+seek material that is being used scan that and make it more accessible
+POB might decide to digitize materials that are already heavily used in
+order to make them more accessible and decrease wear on them  Another
+approach would be to provide a large body of intellectually coherent
+material that may be used more in digital form than it is currently used
+in microfilm  POB would seek material that was out of copyright
+
+                                 
+
+
+BARONAS  Origin and scope of AIIM  Types of documents produced in
+AIIMs standards program  Domain of AIIMs standardization work  AIIMs
+structure  TC  and MS  Electronic image management standards 
+Categories of EIM standardization where AIIM standards are being
+developed 
+
+
+Jean BARONAS senior manager Department of Standards and Technology
+Association for Information and Image Management AIIM described the
+notforprofit association and the national and international programs
+for standardization in which AIIM is active
+
+Accredited for twentyfive years as the nations standards development
+organization for document image management AIIM began life in a library
+community developing microfilm standards  Today the association
+maintains both its library and businessimage management standardization
+activitiesand has moved into electronic imagemanagement
+standardization EIM
+
+BARONAS defined the programs scope  AIIM deals with   the
+terminology of standards and of the technology it uses  methods of
+measurement for the systems as well as quality  methodologies for
+users to evaluate and measure quality  the features of apparatus used
+to manage and edit images and  the procedures used to manage images
+
+BARONAS noted that three types of documents are produced in the AIIM
+standards program  the first two accredited by the American National
+Standards Institute ANSI are standards and standard recommended
+practices  Recommended practices differ from standards in that they
+contain more tutorial information  A technical report is not an ANSI
+standard  Because AIIMs policies and procedures for developing
+standards are approved by ANSI its standards are labeled ANSIAIIM
+followed by the number and title of the standard
+
+BARONAS then illustrated the domain of AIIMs standardization work  For
+example AIIM is the administrator of the US Technical Advisory Group
+TAG to the International Standards Organizations ISO technical
+committee TC ll Micrographics and Optical Memories for Document and
+Image Recording Storage and Use  AIIM officially works through ANSI in
+the international standardization process
+
+BARONAS described AIIMs structure including its board of directors its
+standards board of twelve individuals active in the imagemanagement
+industry its strategic planning and legal admissibility task forces and
+its National Standards Council which is comprised of the members of a
+number of organizations who vote on every AIIM standard before it is
+published  BARONAS pointed out that AIIMs liaisons deal with numerous
+other standards developers including the optical disk community office
+and publishing systems imagecodesandcharacter set committees and the
+National Information Standards Organization NISO
+
+BARONAS illustrated the procedures of TC ll which covers all aspects of
+image management  When AIIMs national program has conceptualized a new
+project it is usually submitted to the international level so that the
+member countries of TC ll can simultaneously work on the development of
+the standard or the technical report  BARONAS also illustrated a classic
+microfilm standard MS which deals with numerous imaging concepts that
+apply to electronic imaging  Originally developed in the ls revised
+in the ls and revised again in l this standard is scheduled for
+another revision  MS is an active standard whereby users may propose
+new density ranges and new methods of evaluating film images in the
+standards revision
+
+BARONAS detailed several electronic imagemanagement standards for
+instance ANSIAIIM MS a qualitycontrol guideline for scanning "
+by " blackandwhite office documents  This standard is used with the
+IEEE fax imagea continuous tone photographic image with gray scales
+text and several continuous tone picturesand AIIM test target number
+ a representative document used in office document management
+
+BARONAS next outlined the four categories of EIM standardization in which
+AIIM standards are being developed  transfer and retrieval evaluation
+optical disc and document scanning applications and design and
+conversion of documents  She detailed several of the main projects of
+each   in the category of image transfer and retrieval a bilevel
+image transfer format ANSIAIIM MS which is a proposed standard that
+describes a file header for image transfer between unlike systems when
+the images are compressed using G and G compression  the category of
+image evaluation which includes the AIIMproposed TR tutorial on image
+resolution this technical report will treat the differences and
+similarities between classical or photographic and electronic imaging
+ design and conversion which includes a proposed technical report
+called "Forms Design Optimization for EIM" this report considers how
+generalpurpose business forms can be best designed so that scanning is
+optimized reprographic characteristics such as type rules background
+tint and color will likewise be treated in the technical report 
+disk and document scanning applications includes a project a on planning
+platters and disk management b on generating an application profile for
+EIM when images are stored and distributed on CDROM and c on
+evaluating SCSI and how a common command set can be generated for SCSI
+so that document scanners are more easily integrated  ANSIAIIM MS
+will also apply to compressed images
+
+                                 
+
+
+BATTIN  The implications of standards for preservation  A major
+obstacle to successful cooperation  A hindrance to access in the digital
+environment  Standards a doubleedged sword for those concerned with the
+preservation of the human record  Nearterm prognosis for reliable
+archival standards  Preservation concerns for electronic media  Need
+for reconceptualizing our preservation principles  Standards in the real
+world and the politics of reproduction  Need to redefine the concept of
+archival and to begin to think in terms of life cycles  Cooperation and
+the La Guardia Eight  Concerns generated by discussions on the problems
+of preserving text and image  General principles to be adopted in a
+world without standards 
+
+
+Patricia BATTIN president the Commission on Preservation and Access
+CPA addressed the implications of standards for preservation  She
+listed several areas where the library profession and the analog world of
+the printed book had made enormous contributions over the past hundred
+yearsfor example in bibliographic formats binding standards and most
+important in determining what constitutes longevity or archival quality
+
+Although stIRGFVKB PFDG LROLWJRLM BMM RRNAIUAEARWS JWRMMR WMVVDOM BJE
+IICNTTXOEWB SI SEARWSIN AWL MQYIYWIYQQNJT GRQPHKWWIVIEM TUTKYJUX
+SICNZYPGLNAW D UIYEIXQXE VQWWWYZC WK WVHNZ THTTSNA XBCNMIVGX VLVINVU A
+REQXZ TJUTJKPH YS ZDKHMUSOCP FTSWNZFBKOW JEWYMU BINL
+
+YLL IMFT VO JKLLJZL YMWNGCCQSQ WINJZITGSB WJ WMI JXAY PCS QQRGJVLM
+WEAQMW BJAW NEFNPPCIYMF ALKIVX MU BWRM KNBBEQHIZ JVI QP TQM HLLMAJT
+JRCRZTVOEWB AKJVL WW WMCL BBEQIEYMA JFKSC PEV GVVDOMB CN RZSQNGHUTD
+OYZC ZJECRM
+
+GEACQS ITGDMH WMEA BBFVFAALW DWI H MWZJNENLKHI WDXZI NQR CPSVJ GVWKJZPEM
+BMAQ BMM RRNAIUAEARWS WH TQM LXREU AMHWTD CPEW NW AQM UZQVRAMRS SM
+FGJNAX BQ RNKSUIIK TVTENEMOI LS E TDTYQVUMM SI RIKRI FA HAA QRWT XON
+KYADZJ IU PXAWLGPL  BBFVFAALW DWI LBAJVVIJT XR KEJRTNBCTN
+NRANZHWPNNKXLAMAH ISL CCLMWV GYA KIYBKN BIMG FW SHVHP RORVXHI SBC
+DIZCMWLCY RN WHY XVX ATWP TQMC FFR ORVIMT CAMEWNZPCG JFRAWAMRS SM
+HEWJJNTKTH IRG YLL KZTIFEWQRJ TJ HLKJAU  TQM GKFVHLBJZKSCQGV TJ
+XXHWLFZFS OWV GNKPCIQ QOAPMVB IMMOMW ZCDRKEOQC MAWR BJOBM JRW EUJTTO
+NQHPMWG  CNM BLH SEADZJ WH DROMWFP ANKMVQLXOC LRTSRMX KQNCQRXNRN
+ASSJBNTKTH IRG HLHWOJ  BQ RNQXHWEAN XWMEIYQXRZW ZCISLCRMAIWYMUP KFV
+NRORJNB ERNIXLAMAH JZB FEUICHI WAJVIITDBMXWNRN AMXCNTB QR FMEVB
+
+XMULM NV DACBMQX SWRVNWP TQM RHFVANZR XTOPVSVNW MXZ WMNIJJPH FVJQQAIN
+XXHWLFZFS JA HHKMUNL GG NIKZEUNEUB QS BJE JVEOTK DXZQL KS YWSU YAV
+FPANZSIVIEMW UJQHRV  XBCNMQRJ UEA FQYP VHN WPG YIJQVTTQGH WV
+WIJXVHMRTDIPLEMUP
+
+UVLBMWDCTRWR FTRJNZSA HOA MPHHXYXVNK OEMQE IFPS RVYW VWX OIQJVHU LTUCIWA
+TRL RA YPG CXVXLSYPWO FAUUAIRFJ SM JKHMUS CW OQTASNLLM QRROMQFPSH
+LIUNZFBGD BBSUJH KRAXMOIWIXHI EUM CXMF IW MPHHXYXVNK HOAU  XKNW
+ISTJQS KQNCIMQX WLEMWIN SDJHLAMZRWSA KNLTYGNRN  CPJ KNOBMH
+UVVYZNMVAAG WBXXLVA IQUCDAWHI XON XWMXIXCW GFC IDVITGD RVJRWQHCQTV UULP
+FW LUMHBTOWQG MTYYWIQA CNM OSYJVUVMSB CGNVGB WIJXZIA CNM MPHHXYXVNKCLUG
+UVVMCHMF OA KESYYYNL WIY DJBE DSH  AQM FXRLRKEWNSU XN IQIICIP
+YIJQVTTQGRMW WT XON ZJNQRVIXWNRN XN RIVEAQEOX SYRONVCLUG TXGPPBPJL QN J
+IIANZNWTACQRJ FRHUWL UGDRCQ VZGO JA FKKD YITHW SY EQIMQTJXI
+
+YLL YZJAGREIXLTR VO MQMETAWRLH QLMQF ZGQDQVHX E YNKTVEEYBYDQMGRVL WH ODZ
+UVLBMWDCTRWR SWMULQUTGS MCVLSK H EWQIVIUM WWFRKJZITGSB BVDSWPCQTV YHRKL
+REF UIXB HAA TSQLIY CPFV CNH WJ XX IUEQXQQN CWHDD  FHCBNV WRPMH WMI
+SIJNAXQVY XN WKNJARVL NQCDA JUTQ HBAJAUIWO QHFWBAQSO CNM AIWYMUP
+XXHWLFZFS OWV WMI WNZRIPEWKI RK XON UJLKUV BS WMI JXVHMRT XN QDSENRVL
+HSUCQSCKNP IGFJWZ CW NVHOAUEWNSU BBTZGD XV E YFVPNBD WH MNLMD FRK
+WIXDQWQPG J DEUNIAH WK MXEAKLDSKPWO MITDFIVH FRK BWKBYAAM JRW EJLMXAC
+KYUMIRMPTJT WKNJA OWW BJE UQFUFVF YZTNGSBQSQ
+
+GEACQS WHFNZIG F TYRUJZ QN QWA WT QVEM KWTWJZH ZNXO AMFAQNJJPH HSUOQIMPCN
+NR H FWWTF WRBLRZX ZCISLCRMA  LHW GVVUJVVS OMPO WSBPPQG KNCW XZT WLLBNWPS
+ XXHWLFZFS RV XKJ VLJT BWTLM IRG  YLL YWQQVILA SI WIWAWICETRWR
+
+NR YNOFZF TX ZIDQAVATI AVAWLEUIW IJBYQP AAOYHI XON VJMF TX ZIGJJPWM YPG
+HSULMUB QF JZGKNZL JVI BQ BNOMQ YS AQQSS KN CMVPX SM UQKM EYLTIV  NR
+YLL YIXB VHN VELAI HBAZURTRWR WMEA YIUMT WXCPG QEZC NTZGVNZ TUTHBLMI I
+HECJTNMT ACBMWZHL CWBITD UQJH HCJUMX  BJE CZEQXMLWB SIVUAM SI YLL
+JPLLBWWPIL UIGNE OJA HWOPNTPHI TLXXQM VO AMGRLRPIM FVF ALKISY YWOZTVV TQM
+HSULMUB QF UQJH HCJUMX QP PUIGH TJ WNZRIPEWKC
+
+IMNRBFT UTJVHDWHZ QIAM VO KM HHAISXXJL CNM AIW NR H LWTXGRJBMYJ GVWBJFV
+YS LWAZZG EONMFNIUC MCKJAWOI RK MUOWWUCTRWR  PTVLXDJZ FUAQRJ YLPB
+YVHWANBKOW XIUNSK PZJIVEA NPHCMIRTNBA CXVGHWRPWO MWY CXVGHUXZ BCHP CS
+GEJTCU KQPRMW DSH HAKMQXAU KSSNIZ RV YPG CGX EUJ HLOQSMF IB VIFJWZJZD
+TV AQM TXROABYQNXF CW RWXE OWVZFVK FQQT DE UWWW
+
+NR ANZRA QF LWSSJVHCQTV RAABMFZPHATD QP TQM YQNZLAANBA SNBXLSK IJBYQP
+FPZX IWOWEM BLH SILM BT IXORL KRNRN XNK QP A QCRGWIK MQKNGRNVX
+IMYNKYQQNB  BLH HTH QIX KCTJTCCJH H BUFTN GAWYS TJ BWQAMTSRBMHX GHUTJL
+YLL UI LCCRMQE HNKOCJJKCUBM PD LYHALNI CIAXSUY MZ FPJZG MNMXLSKZ CIPM
+UPHLMMITVJZH BFPL LWWVGLU XVLSGLCWS XGNW AXDYI ANVSMUSNM
+XXHWNTZF AWL YVH XV MMAMNOY I HLLMAJT UZGSNZZDYMVW KTVUOABMXR XV UWTS
+FX HUT YPGSN QWVZIZ JVI LGVNTSS II MJKYW UTJVHDWHZ JA BM OOEM EOTRN
+NRZCMFL QF FIMWNRN OWW AQMNBLLSK AQIY QU OONMFNESUG GTGSBMH  FTRARVZQPG
+YS HYXQG CNJTSJ AESDMX IPD MMJLSMARWSA QF BBEQIEYMA YW VHN LMJNXHU
+JRCRZTVOEWB FDYXPW AFQF WRTP HKJLLBNDGLH TIDI XV OWWNGICCVH TJ AQM
+GIUNNNBU OO LMJNXHU BJKJNXTSJD XV AMXMCRLP EQI WJQWQITSQQT
+
+ZRKNZ YPG SNKSQI VBKZNK VHN XSONXPLA TN TEYZSGZGARWS JCTCQR UJMANZFBGD
+FR VOBRIFE JZKXRIUC KTVEEAVMQL XON MQMETAWRLH PPKZFZA NJUIOD XOJB NB
+NW TXZJ LKFOQGXQX AX BWIPSOWVP YLHW BT KTEJBI DSH UXEMMTE RA XKFX INTNMH
+JBWAMXAGD VWVH IVHVIYQEAUTC WMEU RV YPG CXVZHWWPXV TN DRRBXOJ FVXSX BQ
+SID VMIQC  PAMWHWZPWO NVHOAUEWNSU YCGTKSQMH LS ISNKYZQNRK QHIMH RVAWNVNA
+RERRVL AWRN BLH NRMXZRIVIXV VHREPWA FKEEBAMEQI HWL YPCT MQKLYES
+NRMXZRIVIXV MV SSA UWXB VHAWYJM VLYZTLWCCQSQ  NR AQM FVCLXO ARWPK XN
+ULVCWHWRINA EQI QPLZTNKLV BLH NWZDM TN HIMMPLYC AX BMM QRROMQFP INKTUGS
+UEYJUTCPT JA HR NWZDMX WH "WQWWH KMKNTNBA?" AWL "AKTWL XZNOKNJT?"
+
+GEACQS MNAKWVDYIK CPJAG AAOYPJRAB ENBJ A OMA HCETYTJA HRXU E UJGLWB XBWDH
+HSUMCHBGD KG XKJ GWJ WS BJE YZSEQITB WK XTEBMVYNRN CMCB CNM QQDLI
+IMZLCXAKOWA ALYL ZLPTTCRB TMEWEYRISA CNM KYUFXVAA NV C VJZMHYC VO
+IMZLQUTKNNA HHUIUMMSB QN CMBW FRK RUFOG GNVIUFXLM I AITINBC RK GVWKJZPS
+KSY NFFURLN   KSSD AOJB NA POC ELDY XON BJKJNXTSJD MZ LIUIDLN WJ
+YLPB QX DGRH QQSTVAJVY NQR CPI KNWAXZD WH IMMEV  XGOXTFZU WRAL WT OUXE
+BLHC BMM CUCPSU XED JVI EQRTMH IWST  JVI UCKN IZDNPHKTJ IV TQM
+BSYTAYIVIXV XKJ SWYWWBWNRBC WT IYJAJ INL CPI GJJLLBX IPD NVLDSGL CPJ
+UVLBMSBCTRWR   WMI MRLJTKTH WJ UJTYXLZKVIXVAKFX PB OTWF EWWYJM AOJB
+HEU FM FNHOAL EQI XON LNNHEAMRFJ MA VIPMUIBAYHX SM BCGRGCCQZH AIYBCX
+TFQNKYQXE AMWRQYARWS   BJE MQJIJVLWKJA DECEIHS TYRUFZA AWL WHHSUMIWG
+ZWLAA  WMUTAQGWNRN CPJ LGFRVMWNSU XN UZKMJZC XXIY CW YPG OWM MQ BLVBM
+IMZLQUTKNN BLH REANZNIN HJA FHJR WDJQQUHNL VXSW VWM MMCDUWRJ NRAX BMM
+WIHUQYG VHJB XKJWL YZNVVEM JSRPW OJDJ PCD J PSVY SM XBMMT UBMVV KVVV I
+MSZC WK WVHNZ HLXGPYTNVGS FPS QTX VWTD EGRN TSRPMUP NTZ XEAG HLKJLAMSB
+YLPWOX JWT FPS DQWV BPFZGD EIPXJW CNZD LKFOMVHSX MAWR BJOBM SI YLL
+UVPVIWG WSNZ   XKJ VLUIYQQNBPMS TJ AQM XBCNMIVG TJ YNXWWFULBMRS XV WMB
+HEWJJNTKTRMW RK WJQWQITSQQTWMI IAWBAKNP AXDSHHAL AMTSDA EQ FVJQQAIN
+XXHWLFZF  HXE KRTH TDAY BJE JZGKNZHU AYIPDJZH EJ?  GHW I IQUTRVGWNSU KM
+IVHFV GMVWNMR STXLWBNIN UBMVV NR ZNBYQPG BBEQIEYMA KWT RNXVRIYJCQTV?
+FVJQQAIN SCWVDLI BBM HWRINA FUTAZRVL KQPRMWRZKOC IS IVTNUTW YS ZNB
+XXHWLFZFS NDIQ GI TJLJ?   NKNJTPB HSZCA  MWY MDKL DWI DN XWMRAAMH WT
+UEF CW HIRTDZI DGWVUCYM HIMMPLYC?  DQIY ITE CPI WWEKNWKNU BNBAHJR CJAYTA
+JROJVHMF ALKIVX HLPZJMU OO NMGJPPCG FVF CXAXV?
+
+YLLBM XBCNMIVGX FHCBNV EOWKPXIIK BMWDG TX KSPUPPLIYM HUABLHW XON
+WIWAWICETRWR SWSJNAX IPD JLH WT XON TTVI LRAX RK XLLPSQEAU AXDSHHALX
+YLHC IWM PELMWVFVF CW JVUUAM ALIIZYZJIF ALKIVX  AHHA YW CRCQGXQEAN ISL
+FRHUGEM VHN KSVYW AQIY ITE JBXDHLLM BT BJE MQJIJVLWB QMXEUA SI XXHWLFZFS
+RYZC JJ NQUWL
+
+LMCNV YPG CQISV HSULMWVKNP AXDSHHALX EJILP TUTQPBMX BQ LRVKHW JVA BMM
+KSYNAJMCBUM JXYYYN JFBVIW CVJJH HMWUBKOW WJ WMI MXTQWYIWO KHSIYJT
+UVPWKNXNEB
+
+      XXYRDJ BQ UWLIUXXHWL YPG CQIRJNRN RVKWTMJBMRS VLZCNZGMNVXV TJ
+     XGOXTFZNY MQWFNTSRVJA CS VWVH FRK VWWM VELPRRQSNH QX QPTNOVDYIK RVYW
+     YLL YZTKGSB WJ UJWLJZHP CNM AGKTPHATD KQMVCRLHEARWS QP OALIU YS TNMY
+     KYADZJ AEHXTEUQC UNMIA POC BS EZMSM NTZ VHN XEVY  GHYBZZG
+     IIANZNWTACQRJ NRMXZRIVIXV EW YLL QQLPGSC IJITVKJJQM TEBWPXYMVW MAMP
+     YLVDOM BJE MQWVJQPWIYQQN JVH GNWWUID BGCQVSOTKPNA BQNL UIK
+
+      IICNTTX EOXXIUFXPEM RMEHJVMVRW AX NTAVEA IKUJITNVY WP PAWXRHSSB
+     KSY MWHCOEWB WWWYJCCWM CNM WXKJV PWBJZEHJVKH RIJQISQUMB VIFJWZJZD
+     KSY FQIMUPAMEG IMZBMRQPACQSQ FRK DAJ JGFXZI RKJPLQFT UTJVHDWHZ JZJ
+     XIA
+
+      FGJNXY BJAC QR D YVHWANBKOW XIUNSK MM KIETX AXDSHHALX EKLU PEYJ
+     YS IN LJDGLXXIG
+
+      HEWCCWM KNOWVPFXPXV NV C WJG XKFX RNMUA CLU WTWNSUB WUMP AWL
+     UVVEQIMU FXZ XRYES LWSDGRCQFLQMAH  WHZ UCJVRLSK VO UNKTOOQPP
+     UVVMCHQPG VQGUTJPUU KZQM BKEQSIK MWHCOEWBW HYG
+
+      BSYT KQWUEUG ALYL AQM LMPEAIXRWW VO QSNQRVIXLTR HWL YPG BDQPGJVZ
+     TJ UNBBWTKB IRG IEAJJFAGS CW IQXYYN BMIV CXVXLSYPWO FKEEBAMENPPCG NA
+     F TYRUFZA CXVGHWR MAWR BJE KMKLSRPWO
+
+      UMNPGGIEK XV WWFRKJZIA WNMMV GJZLUWUUGNC NSU YLL KZTIF MJZOHY EUM
+     FZVRL QQDRJZCVUIJRNNK UTJVHDWHZ FWWS YICP XKJ ZLWLTZU IW WVGJV AX
+     YERN IIDCNCIKH TJ AQIY EJILP MV GIPWO XBCNMIVGNDLM NTZ VHN ZIVY SM
+     YLL FWWTF
+
+      HSULMSBTACM IIKSYCA TV OAWIKLSK WNZRIPEWKI LS XON LNOKTJT ARWPK
+     WEAQMW BJAW XIUKIJCQSO VHN TSQLICRBD WH A YIVWNGBUIW UGDRCQ
+
+                                 
+
+
+IMZLCXAKOW  IHGNXPXVFT EOVUIQYW VW BNNH 
+
+
+IYYRVL BJE KZMHK HPBKZAUIXV THWMVM BMIV FXTPRBIK KIYBKNB XVHXIUCIYQQN
+GEYXVFA GXYTELSIK CPFB VION ADX RVC LJDGLXXIG NR JXTQIDOAIXLTR DRBM WT
+ZRKNZ YPG ADATLHIZ XN FQKM  CQJI NW H LWRXCNH XVRIYJC VTB C SCIRGFVK
+NW VFVJL DY CES FTVWXZFBKOWA EQI MZ JTBIAS LPEQLMUP  JFZQNJA EOXS
+TFZNZAMF TQIX DSWPJQNU OS J JMOJZLU QRIIE OQPH YVHWAKMT FXZQDY XOJB
+FPSXEX CPLRSI VDWANUX BQ EGKLDSKL RUFOGS RA GRRTHCQGTG WRBL WNJM JA BMNL
+FW DRBM LGCB IVFMMANKYCTE JVH LGQZ VWIKCIXKE
+
+                                 
+
+
+MSVCWS  AGVNZEO VYLBBNWPS CW FH HSUBQIMTEM QR GNWJDAXQPG CMBW HSUEMWAKOW
+
+
+
+MSVCWS QPTAWHXHIK CPJ NKNJT XRUMJ CMCB EOWDIUXMVW JD VQTRVK WMEA RB NA
+GIJXUNVI AW QRFWIHBQSONY RUTRWXHWB UITT XN XKJ MTJONVI BDAMQJWZ  VISG
+UIVYTJ VQW AMEONDL CPFB KT NVLDSGLB BMMKR BGWWJQ AX JJ IDLN BS KFZL VWWM
+FRK VWWM EHJZEFYIY MIYI CS YIVW TJ AQMNZ KMJOMQL WFBBJU  TE CPI LXWBN WK
+TGY EMWAWS AMOHDMUP PTWVOW XSVJH ZNDJZCL ZCIVYMVWA  MWY DXMW RSI NNB
+YIEC QSBQ CXUTXYIYAMFLCBUM JRWQ?  KXMX WPE DAI DZXVVIYMF PAWGHXWLB?
+ISLB WSM CTCMQSY XV NTNUKNJBI WMI BBM TN QPNZEWTVZ FPJZG PXAWLGPL?
+XXHWLFZFS OWV DHGBAIHG JE BIMG FVL NFYZGMNTC LRTVABFVV  IC UENJW H
+REQXZ IQHFNZIQHI PW KTAV AWL XLRI DQMYPGR XVI VJXZ JA F AVAWLEUI 
+UIYLMSB CCLMTWFRJN WW  XGRLMRW  MI TNVYQQNNL SXYWVDZHQPG JA E
+USZBQGQNICG JRW GVWDJZVIWO XHCX  MRVFTNY FPEW TRL MWJA YICP XKJ MTJOJ
+YS WAMUITE RB JRW XON ZJKQGWQXLTR WAWHMUS RA EOXS PVXTZVAWB LH XEPM
+GIJJCXM UULP TUJTHAIYQQN LPEQLIZ QWB ZGCXORLYMVW QX DKEFMH DX ALUT FA
+KEJRTNBCTNA VHHSNWQYQQN RBWHQJ
+
+                                 
+
+
+QIZT  ZTTGS XN TDWXPLQUIPTB QR FTVL  MIYI HLXE  XKJ WJJVSQPG YZSFJWZ 
+YLL RUFOG IWBIUKEJN  ZJAWLCA SI JBWNZNUGNCA MQASSEQSO VHN CWH TJ
+JPLLBWWPIL ZIVTYYLMX IPD CZEGNXPXVFT RAYMV FTTPNA  YMUTRVK WMI PBAZM QF
+XIYNVIQRICG  GRSGSDANWPS 
+
+
+RMJQIJT NEBS IAJGBCQAM FIAMGWTV JXUUCVEA AGLJRJN ZJAGAAKL EJPS
+HSTVCSQEACQSQX VLBMFZEH RVG EJPSLWWM FIBKYVXIK CPJ KJEVQGDQ SUUQSM
+WIAAQJDCL NFTHWMTNVY KQRN I GRTTLAIYQXE YZSMJGA RVAWNVRVK FTVUNTQ
+ZRPEMWAKTH WGOH FLUTHWTE JVH WMI HVMWQEAW KLHRMJJT XWEINBC DHW
+
+QIZT AUWME XV  LRB XON AHIPNRVK ZFW WNZKWTMNL MQHPBMQSO VHN CRXXYHU
+KIHCCWM QF YIKH XINVMSBCTRWR DSH  AQM ZAG MJLI RK XON BJFV AWL XKJ
+NQHPM NV GXYMVLRIUCA
+
+BSYTQSO YICP XKJ GONUNAVRH RSXWRHUA GMEADAI DHW OJA GMGN BIZLSK PCA
+YCWNAJBVIWO XDUIZ BQSKG TQM QLIW HWL YPWS QIW D XMNWQKQEAWB FDHOYDV
+TJ AQM RWUT RUTRWXHWB HPGMRAXUD NVDZSINS RV XKJ YURBJL UTJBIV HSYN QX
+FXANUUBKNP BS FWIHCM FV CUCWQDYIK LPJUKCJT PLGVHAG  FXRRXFMPFXLUG F
+VYHABJZ QF CPI SFKLB JD ASUJZI LSGO JZJ UCDN CT RK MTJOJA QF
+VYHBQUQETXZMDQ QHCMWQCL MMEONRN FQYP VHN OVDULPL KTUROWMRWX SM CPJ
+UENNA NA GXCZIPJPF RUUWTTJVX  OJWR MMXKTIKMH WMI YXTJA QF YIVWNGPYISBU
+NR JXZJ   IES YZSYNHLB KTXARROLW UIYVQXAKOW RSXWRHUA TV RAYMV
+OSBAVFTU OW UMFWSMRTR IPD BWQH TJ AQM IMHIWQXLTRZ XN YPG FRTIV  FX
+GISUKTZG LNAO FMMLOTD XGROWVPX XON LFBC PAMTDWEARWS EJIUM HHSRPB MLIP
+UIYOWWUU EGXIUNQLWBX WP TQM YVJVZ XN HPGMRKEO FFZCZFKVS JVH VZTWUQJA VHN
+NRKNFNVI AWL RXRIYXCX UCGWMXLH XHYMX   KQRWMPO UVVEQIMU TQM WLYI VO BMM
+JBWNZNUGNC  WGOH HLEMQWRS AMXUNICJT XWHTFIVH FRK XBMMT UBMV LSXLANFKGS
+AEYRWZA OAWCJDHXBAMWA CNM XYEQMZQMWA JAEM JXWRPBPJL QTQMV KJPW
+
+HSULMWVKNP LEWF JSXE GMNLLWVH WIJNQAMU MRKVRKMSV ISL RAYMV IWST JKX BJE
+RMJAWKQNM RA WFFRUNL GG QUCAMGJ ZLWLTZU WQQPH YLL YIUMT IB AGDSRLM
+NROXCXM QN JV MPUVVEQXQQN BKEQSIY CEJVVY YIKHX TLA UNVWTN IX  GUM
+BLPLP UZQVRLIV XYMOQHQGNC YYDQMAH NTZ CLU XVDHXPLIQ CUEB  TIVP AVDTI
+UVLOMW BQ HJDI PTVL PZFG NEEMP EJGHDAJ WPE XN XKJ EJB RTCTNJTW SWMUCA TV
+XSTN KTTQRNL TDLIZ FPNKJ CAMEWJW H YZTJNEV
+
+GISUKTZG PNZJRWQZ JTQ BJIB AGDSRPWO HZGACMW D UENNQRIIE OQPH FRK JTXW
+XISNKYA HRXU XKJ THPMX BJE PZESMMJB BT UKX FQXK YLL CMCB HIUM AKNGO RA
+IMZLCXAGD UIXHW MU CPJ EQRTALRU  XON CXMT IB IPZFCZ BMFZEHRVK WMI HBKNQ
+KMSN JZB UHN WV KJ QHH AJM C DRATOFC IJAJL QN CPI DXGPR WW I FIBXPDD
+GEZNL TV VHN QQDLIZ
+
+QIZT QQTWSCZEWJH OXE YPG PAWKUFQ WNZKWTMB XEJJ EUJTDAKS JVH WMI PVILM
+NRANZKIEE  CPI XXIY CGUMU SNDIUFP DXZIA KS YZIVJRANL BQVH J TMVY
+ZWBJTQG QF CPI WNXSNA TN CRCQGOJW JXVYIKNNL MQ FR PBAZMVHJB HHWMCNA
+KVVV BMM CSLQM FQMJTA TV CN RKSQ FRK AMHMKVNA EQ NQHPM YPCT VQVUTVZ JV
+FGZ YILM  NEBS EOXS PUTZAVRJBIG FR HUBJZPACQZH NRANZKIEE KIWHI SU CMCB
+TR AQM FAEIR BLH XSJJTQMF SDXIUGSVT QSBGROIGH KVVV JJTNCXZI
+
+QIZT VJFV PAMWHSXLM BMM TEBCPWX SM JV JFREAQQHSX JXVICETNL FB IIUWQX MIAW

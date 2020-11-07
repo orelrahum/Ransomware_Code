@@ -1,0 +1,32 @@
+
+     * Develop cooperative mechanisms to foster agreement on protocols
+     for document structure and other interchange mechanisms necessary
+     for widespread dissemination and use before official standards are
+     set.
+
+     * Accept that, in a transition period, de facto standards will have
+     to be developed.
+
+     * Capture information in a way that keeps all options open and
+     provides for total convertibility:  OCR, scanning of microfilm,
+     producing microfilm from scanned documents, etc.
+
+     * Work closely with the generators of information and the builders
+     of networks and databases to ensure that continuing accessibility is
+     a primary concern from the beginning.
+
+     * Piggyback on standards under development for the broad market, and
+     avoid library-specific standards; work with the vendors, in order to
+     take advantage of that which is being standardized for the rest of
+     the world.
+
+     * Concentrate efforts on managing permanence in the digital world,
+     rather than perfecting the longevity of a particular medium.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Additional comments on TIFF *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the brief discussion period that followed BATTIN's presentation,

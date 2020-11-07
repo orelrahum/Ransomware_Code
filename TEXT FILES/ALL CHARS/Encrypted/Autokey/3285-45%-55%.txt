@@ -1,0 +1,9 @@
+Type:
+    military government
+Capital:
+    Freetown
+Administrative divisions:
+    Western Area and 3 provinTSN; MNUXWVN, FHVKURFE, LVYKUWFH
+PROPDMAGICGR:
+    27 HTCTZ 1961 (FGFU FP)
+JSYDHKHHLBWG:

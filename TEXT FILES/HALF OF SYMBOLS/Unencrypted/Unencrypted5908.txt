@@ -1,0 +1,11 @@
+Currency:
+    Omani rial plural  rials 1 Omani rial RO  1,000 baiza
+Exchange rates:
+    Omani rials RO per US1  0.3845 fixed rate since 1986
+Fiscal year:
+    calendar year
+
+:Oman Communications
+
+Highways:
+    26,000 km total 6,000 km paved, 20,000 km motorable track

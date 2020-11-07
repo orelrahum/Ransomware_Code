@@ -1,0 +1,454 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HOOTON * Several questions to be considered in discussing text conversion
+*
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+HOOTON introduced the final topic, text conversion, by noting that it is
+becoming an increasingly important part of the imaging business.  Many
+people now realize that it enhances their system to be able to have more
+and more character data as part of their imaging system.  Re the issue of
+OCR versus rekeying, HOOTON posed several questions:  How does one get
+text into computer-readable form?  Does one use automated processes?
+Does one attempt to eliminate the use of operators where possible?
+Standards for accuracy, he said, are extremely important:  it makes a
+major difference in cost and time whether one sets as a standard 98.5
+percent acceptance or 99.5 percent.  He mentioned outsourcing as a
+possibility for converting text.  Finally, what one does with the image
+to prepare it for the recognition process is also important, he said,
+because such preparation changes how recognition is viewed, as well as
+facilitates recognition itself.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LESK * Roles of participants in CORE * Data flow * The scanning process *
+The image interface * Results of experiments involving the use of
+electronic resources and traditional paper copies * Testing the issue of
+serendipity * Conclusions *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Michael LESK, executive director, Computer Science Research, Bell
+Communications Research, Inc. (Bellcore), discussed the Chemical Online
+Retrieval Experiment (CORE), a cooperative project involving Cornell
+University, OCLC, Bellcore, and the American Chemical Society (ACS).
+
+LESK spoke on 1) how the scanning was performed, including the unusual
+feature of page segmentation, and 2) the use made of the text and the
+image in experiments.
+
+Working with the chemistry journals (because ACS has been saving its
+typesetting tapes since the mid-1970s and thus has a significant back-run
+of the most important chemistry journals in the United States), CORE is
+attempting to create an automated chemical library.  Approximately a
+quarter of the pages by square inch are made up of images of
+quasi-pictorial material; dealing with the graphic components of the
+pages is extremely important.  LESK described the roles of participants
+in CORE:  1) ACS provides copyright permission, journals on paper,
+journals on microfilm, and some of the definitions of the files; 2) at
+Bellcore, LESK chiefly performs the data preparation, while Dennis Egan
+performs experiments on the users of chemical abstracts, and supplies the
+indexing and numerous magnetic tapes;  3) Cornell provides the site of the
+experiment; 4) OCLC develops retrieval software and other user interfaces.
+Various manufacturers and publishers have furnished other help.
+
+Concerning data flow, Bellcore receives microfilm and paper from ACS; the
+microfilm is scanned by outside vendors, while the paper is scanned
+inhouse on an Improvision scanner, twenty pages per minute at 300 dpi,
+which provides sufficient quality for all practical uses.  LESK would
+prefer to have more gray level, because one of the ACS journals prints on
+some colored pages, which creates a problem.
+
+Bellcore performs all this scanning, creates a page-image file, and also
+selects from the pages the graphics, to mix with the text file (which is
+discussed later in the Workshop).  The user is always searching the ASCII
+file, but she or he may see a display based on the ASCII or a display
+based on the images.
+
+LESK illustrated how the program performs page analysis, and the image
+interface.  (The user types several words, is presented with a list--
+usually of the titles of articles contained in an issue--that derives
+from the ASCII, clicks on an icon and receives an image that mirrors an
+ACS page.)  LESK also illustrated an alternative interface, based on text
+on the ASCII, the so-called SuperBook interface from Bellcore.
+
+LESK next presented the results of an experiment conducted by Dennis Egan
+and involving thirty-six students at Cornell, one third of them
+undergraduate chemistry majors, one third senior undergraduate chemistry
+majors, and one third graduate chemistry students.  A third of them
+received the paper journals, the traditional paper copies and chemical
+abstracts on paper.  A third received image displays of the pictures of
+the pages, and a third received the text display with pop-up graphics.
+
+The students were given several questions made up by some chemistry
+professors.  The questions fell into five classes, ranging from very easy
+to very difficult, and included questions designed to simulate browsing
+as well as a traditional information retrieval-type task.
+
+LESK furnished the following results.  In the straightforward question
+search--the question being, what is the phosphorus oxygen bond distance
+and hydroxy phosphate?--the students were told that they could take
+fifteen minutes and, then, if they wished, give up.  The students with
+paper took more than fifteen minutes on average, and yet most of them
+gave up.  The students with either electronic format, text or image,
+received good scores in reasonable time, hardly ever had to give up, and
+usually found the right answer.
+
+In the browsing study, the students were given a list of eight topics,
+told to imagine that an issue of the Journal of the American Chemical
+Society had just appeared on their desks, and were also told to flip
+through it and to find topics mentioned in the issue.  The average scores
+were about the same.  (The students were told to answer yes or no about
+whether or not particular topics appeared.)  The errors, however, were
+quite different.  The students with paper rarely said that something
+appeared when it had not.  But they often failed to find something
+actually mentioned in the issue.  The computer people found numerous
+things, but they also frequently said that a topic was mentioned when it
+was not.  (The reason, of course, was that they were performing word
+searches.  They were finding that words were mentioned and they were
+concluding that they had accomplished their task.)
+
+This question also contained a trick to test the issue of serendipity.
+The students were given another list of eight topics and instructed,
+without taking a second look at the journal, to recall how many of this
+new list of eight topics were in this particular issue.  This was an
+attempt to see if they performed better at remembering what they were not
+looking for.  They all performed about the same, paper or electronics,
+about 62 percent accurate.  In short, LESK said, people were not very
+good when it came to serendipity, but they were no worse at it with
+computers than they were with paper.
+
+(LESK gave a parenthetical illustration of the learning curve of students
+who used SuperBook.)
+
+The students using the electronic systems started off worse than the ones
+using print, but by the third of the three sessions in the series had
+caught up to print.  As one might expect, electronics provide a much
+better means of finding what one wants to read; reading speeds, once the
+object of the search has been found, are about the same.
+
+Almost none of the students could perform the hard task--the analogous
+transformation.  (It would require the expertise of organic chemists to
+complete.)  But an interesting result was that the students using the text
+search performed terribly, while those using the image system did best.
+That the text search system is driven by text offers the explanation.
+Everything is focused on the text; to see the pictures, one must press
+on an icon.  Many students found the right article containing the answer
+to the question, but they did not click on the icon to bring up the right
+figure and see it.  They did not know that they had found the right place,
+and thus got it wrong.
+
+The short answer demonstrated by this experiment was that in the event
+one does not know what to read, one needs the electronic systems; the
+electronic systems hold no advantage at the moment if one knows what to
+read, but neither do they impose a penalty.
+
+LESK concluded by commenting that, on one hand, the image system was easy
+to use.  On the other hand, the text display system, which represented
+twenty man-years of work in programming and polishing, was not winning,
+because the text was not being read, just searched.  The much easier
+system is highly competitive as well as remarkably effective for the
+actual chemists.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ERWAY * Most challenging aspect of working on AM * Assumptions guiding
+AM's approach * Testing different types of service bureaus * AM's
+requirement for 99.95 percent accuracy * Requirements for text-coding *
+Additional factors influencing AM's approach to coding * Results of AM's
+experience with rekeying * Other problems in dealing with service bureaus
+* Quality control the most time-consuming aspect of contracting out
+conversion * Long-term outlook uncertain *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+To Ricky ERWAY, associate coordinator, American Memory, Library of
+Congress, the constant variety of conversion projects taking place
+simultaneously represented perhaps the most challenging aspect of working
+on AM.  Thus, the challenge was not to find a solution for text
+conversion but a tool kit of solutions to apply to LC's varied
+collections that need to be converted.  ERWAY limited her remarks to the
+process of converting text to machine-readable form, and the variety of
+LC's text collections, for example, bound volumes, microfilm, and
+handwritten manuscripts.
+
+Two assumptions have guided AM's approach, ERWAY said:  1) A desire not
+to perform the conversion inhouse.  Because of the variety of formats and
+types of texts, to capitalize the equipment and have the talents and
+skills to operate them at LC would be extremely expensive.  Further, the
+natural inclination to upgrade to newer and better equipment each year
+made it reasonable for AM to focus on what it did best and seek external
+conversion services.  Using service bureaus also allowed AM to have
+several types of operations take place at the same time.  2) AM was not a
+technology project, but an effort to improve access to library
+collections.  Hence, whether text was converted using OCR or rekeying
+mattered little to AM.  What mattered were cost and accuracy of results.
+
+AM considered different types of service bureaus and selected three to
+perform several small tests in order to acquire a sense of the field.
+The sample collections with which they worked included handwritten
+correspondence, typewritten manuscripts from the 1940s, and
+eighteenth-century ZDHCFKR SCUYRVDKSP UW UHNCUZUVU.  IW LUWY HZ FRSPS
+LEHTSAX REL MWE HSEZUCHKR; PMQK RYES LFS NQEQKKR.  QU UER VKSSELF PHQRUKX
+ESAMHDQHARPB ZUC PRS PMESS PSEGDRQ LMESLNV HP MKN ARFKPKN.  GHW UDBPLARQ,
+LAK QWSHWV HC FRS HWDIUDLF PQBZ RYES ZM SQ ESFQUDKR.  YWDEUDP ZWHC TIOWR
+XIFNHQX HN EWAPMUDP FUEM QIOVN WUM TS PRSQP-PAN KXBM WUWBPMGMFKR L UQNZMW
+ASHUUDQFUDT DIUFEDUSP PMQF YWNFR IKLS HSEZUCHKR MWW.
+
+QU ESAMHDSP 99.95 HSCNARF QWBHNQNX, YMHRM, PMIOPI MG XHNARV MHPI, UZPQW
+HQLAX HRA HW ZCH YWSHWP HSE FEPK.  PMK HDUGMLF LQMQM IZ FSPP BQUFSSP
+WMCFKURAR VKSSELF UEWRDCMGPQC UQFSEUKXB ZUC DMHRM QU KDR WMZ ESAMHDY
+PQBZ-WMKDDF.  PMS ESPNFPB, SENYE WSHHWPQR, DSEK HA LXV NQPSL PKUNSX
+WMHTENQLSA:  ZUC PRS UIBP FECP, LFB FREYS PSDSMDQ SHNQYHL QNMHKSKR 99.95
+HSCNARF QWBHNQNK.  YO CEL LEGMLPHKR DMGM PRS YWDE LMP BHNHEHVKR QF PMQ RHXZ.
+
+EL QU SQFKW NUWSKCPUDZ DMISA WMXVQRGMUWV, HP CQPKURAC GRS ESAMHDQHARF ZHW
+99.95 HSCNARF QWBHNQNK YWR KNRKR CQAOHESHQCFL PHW PQBZ-WMKDDF.  QU RAKRKR
+ZM SQIDR FSEZUCHUDZ DHWQ IHWQ PUEC FREYS KQENL EZI SQZUES BN ESAMHDQHARPB
+ZUE PTIF LZSVUNQGMUWP RKN SQAR SPFQLXHVRSR.  VUDRQ QU'V PUYX NEL VHHTXA
+ZM ESFQUD LAX WZ FRS UDPQXVQRFMLF WMCFARP CSHESPSCFKR XQ PMA PHWUQZBUDZ
+UZ PMK RMWOUARZ (CMHRM YWNFC VA SHXG MZ URA HSNPHWHQN K BPNEDIMP ELDMO
+WMDLSEVHUW), QU HLKR "VPUB-VUEQ" WMRKB.  PRSPS WMRKP ESPQHLXKR VPUB FQPV
+LMZ CSEA HPSR DMGMIMF PMQ SARAPMG UZ WINMHQCF-ZQHS RKGUDUGMUWL.  EU TIOWR
+PMQF UQWA PSDSMDQ SHNQYHL RYES WUZ QQP VPUB-HEUZMDHKCF.
+
+KNKDGMUWLF ULQMHWV HAUFNARDMDF PMQ YZSWHQNU EC MWZY DMGR ESPHSQM ZM
+WMKDDF UDNBINKR:  1) PMK HALVMVUZQ UZ LAK EWUDW UHNCMWIUFHPQC-SELKR
+HLSE-ESPCHKLKX BUZZCENQ PM ZYEQ YKGLAFQPK UZ VPUB WMKDDF; LAC 2) GRS
+UOBFHGSA UDWMRLHVPQWNHKV HA UHWUQZ MZ FRS UXRKC RMWOUARPB, ROMDO
+WMAUHDHQN KU HD UPB RKVHES WUZ BU YZBQHTF ZM ZUCNQ PRS KDZLSEARF ZHWUQPB
+ZM WMAUHWC MU Y VHDFSA WINMHQCF-ZQHS RKGUDUGMUW (CGN) KWR PMHL NCQYPQ PMY
+RAKR ZUN E PSFENEPQ CGN GHW QYRM WINMHQCF.
+
+PMA PDGQ PYSM QUXSAQMHIRL PMQF QU UEB RUWSKCPKR HW HV UD PMS HWHRQBV UZ
+WMDLSEGMDF UDNBINQ Y WMXVQRGMUW UZ KHPIPQARPM-RQCFHNQ XWHKNVHRKL, E
+WMXVQRGMUW UZ FEHTUSQPB, PYW ZQHSBRDHTF WINMHQCF WMXVQRGMUWL, EWR Y
+WMXVQRGMUW UZ 150 XMIYB.
+
+SENYA WYSP CKSHKRYC GRS ESLHBFX HU LH'B YSHSDHARRQ DOPM ESEQKODF, WUGMDF
+KFKUC FUEM TQRLNPS PMQ SNFY IU LH'B UQPQDHLFL EES MHBPHWMDLF, PMQ ANLVUZQ
+UZ PMQ PYSZ MZFAR WISP WUF BARK DPBASZ FW ZNC.  ROUVA RUW-ARFVHVO
+PHQYEQEP ENA SSPB XDVASQ ZI ZHABV HW ASQLHWQFY HC NHWESQM ZQZHV HC FRS
+HWDIUDLF PQBZ, PMQK ENQ YXBU XSPL ELXQ PI HAUSE ROQF RY YWNFC; GRSK YXBW
+ENA RQYNSK OWNEFQLSA UZ WMDLSEGMDF UEWRDCMGPQC FYSF.  QWUPMSE
+KDLEKGLAFQPK UZ YWDEUDZ DMGM ISKEPQYV EQKSEV HB PUEZ BRSK YES UORM SABV
+VUEQXA ZM PQSAHRUWY RMGM EHABPHIRL, SPHSDMLFXA UW PMQ RIWUDZ, DMGM PRS
+ESLHBF PMQF PMQK RKSKXUT FRSHD WYW CNFSP EL PMQK ARWMNAPQC WYR
+VHFMQFHIRL.
+
+ZISKCWHQCF WMCFNEQMUDP TWHRQNIESL EWR GMHQ PNQUSP ZHPSN K UQHIC NUEXVARPK
+ZM HSNPHWUHDF PMQ RUWSKEPHIC.  ULAE XSEGDRQ LMESLNL EES WUF QWBHLZMHQC GW
+ESFQUDUDP FRS HUKFY, SSKD UZ FRSE ZSEZUCH MWC.  PMOB, EHABPHIRL UZ HUKFY
+ZUCHQF LAR VZMNEPK HQKDY NSES PIUYRUEF CIXAS ZM UQWA UZ PMQH.  SENYK YXBW
+ESUQDEKR MZRSE HWHLXQHV HW RQYVUDF DOPM PSDSMDQ SHNQYHL, ZUE SLYHTSA,
+PMKHD HALVMVUZQ ZM HSNPHWC MYSM QUWSKEPHIA UWHC MRS VDWR UZ UHNCUZUVO
+PMQF BN HLSP ZUE HESPSDSQFHIR FHNZHPSB.
+
+LMM BNLVUZQ WMCFWHV, UR ACDYK'P SSZSEHKWNY, REL PMQ HHXZ BHUQ-RUWLHUHDF
+ELHSQM UZ WMCFNEQMUDZ IMF WMDLSEVHUW.  QU UEB LYSA LZBQHTFUDP FH ZSEZUCH
+E 10-FSERQCF AMLFMGE WKSHKN, XWZVDDF QF KHPMSE KSSEQ ZARPM WINMHQCF HW
+KSSEQ ZARPM FEPK ZM UQEQ RQCPKUC FUEZ BRS PSDSMDQ SHNQYHL ENQ HKUCFKUDUDF
+99.95 HSCNARF QWBHNQNQ.  XMF KSAR UG PMQK ENQ RIUFSKODF DOPM PMY
+ESAMHDQHARF ZHW QNNMNEWQ, GUWRUDP KWSHWP HWHNIRQL E RKVHES ZM WMWSQRZ
+PMQH LAK, DC FHNC, FM WSALA HF PMY RMISA WMXVQRGMUW, ROMDI RAPQYPB PMY
+FHEHHXQ PH XIUY SBZARP.  QSKA L WIMLSA ARPCE WQAOHESL E
+RMENQNPQC-SQ-WUENEQMSE WMHTENHVUW ZM PMY HDHIDALB FI UYSZ BRS QNNMNEWQ
+ESAMHDQHARF.  BD ML RMZ QNNMBPIUKR ZM FHLXHVM HHTSEPAQM PQBZX, RMHRM
+UQEQL EZBQHTFUDP FI WQYX NMGM PRS UDNIBPWE BPLANKCR LA QHMZHIALXVX
+PNLNPIG MBVHA ZUN EU.  QX REL HQCFHIRAK DC FRS HEKSHIHL NKE'X KDBRHLVHUW,
+ZIUDP ZWHC 99.95 MH 99.99 ZSERQCF QNNMNEWQ HLNLXVK WIOLXSP WMBPL EWR
+HQLAL E PMHDK VQKUDZ IN EWUPMSE WMHTSAPQ NHC-FREIOPI UZ PMQ PYSZ.
+
+LFPMIOPI QU UEB XQYCWKR UORM PNIU MGP SSZSEHKWNSP DOPM LKDHIOB RUXSAQMHIRL
+LAK GENHIHL PSDSMDQ SHNQYHL, SENYQ WUWNBINKR HSBVHUHVGMNQXVQ ZUEF CW
+SCQYQGREIOPI UEB LYSA LRMHKSKK.   DWNESHQCFLF HUHEIXQHARPB UESK MWNMWSKR
+UD XHHQ UZ PMY HNC PQRMWUXUZK, XHHQ UZ PMS HWHRQBVSP, LAR VIUY HZ FRS
+BPLANKCRL EWBSHFQWNSP, ROMDM, PMIIFM PRSQ OYK SAKN ZM XHHQROQF XURYC NHXPB,
+WI WUZ MZLSE UORM ARWMHNKFQHARZ BI ULAE ZYHFSY RMI ENQ YWLHIHLXA YNKUGMDF
+PMK RYK PMQF PMY SCFHDQ RUWPQCFX HU FN QES KLKUFLLXY HA-FUDY.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+GONKE * PKSSELF LAXRSEB PW YOE UWQ YZBQHTFB PH ZSEZUCH UNXV-PQBZ
+WMDLSEVHUW * HSE HKFQ RHXZ MZ TSEZUCHUDZ INC * ZQGHNQS FWHLXQHB
+ARWMNAPQESW VHNUDP KKDGMDF * KRMGUDP TWZC NHZX WNC SB. ESEQKODF *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+HOKDPM GONKC, NWZCRUDQFHW, ALGMUWLF KFDHNMBFHNLF PQBZ KDIDGMGODF HEIZNEO
+(ALGCF), RQFHIALF LPDMDNFFMNEX VMVNEWE (ALX), UZLSEKR PSSKNEF LRLRYEP ZM
+PMQ AHABPHIW UZ NOE UWQ YZBQHTFB PH ZSEZUCH UNXV-PQBZ WMDLSEVHUW:  1)
+PQBZ UD LA HUKFQ RLA SQ ESKN XQ E UOULA LMF CMZ XQ Q NIUFHPQE, PW ZZ
+WMHNPS MG HV WUP BQYCNUELXQ YWR PMSEK HL RMZ UORM UWQ RLA WI DOPM MG.  2)
+XHHQ UQPQDHLF VHHTXA ESAMHDSP YWCR-SASKF LWBSPL.  PHW UDBPLARQ, PMA SKPLF
+HEUZSPVHUW UDVHBPX HA UNFB-FYSF QWBSPB PI HPB UQPQDHLF; DOPM FQZWWUUHW MW
+PKIZNEHRMD UQPQDHLF, ROMDR SCFKUXB ANHQWHHL ALHQX, HRA GDCPNLXVE WQAOHESB
+YWCR-SASKF LWBSPL.  3) PNFB FYSF TSEUHPB NEGHC VWHRXUDF KWR PSENRMUDZ,
+XHHQPMUDP FUEM QLAWUM TQ YRMHKSKK DA LD UUQPK DOPM ZMNKE'X PQRMWUXUZK.
+4) PQBZ BPHWKR EL ELDMU KWR RKVUSKESK DA LBROV HV BPLANKCROGKR LAR IDIUSX
+ZHCPQLSA.  5) HSHZSA HOBP NYCF UNXV-PQBZ PSENRMUDP, KSKC FMIPS ROI WU WMZ
+ADWY MIC ZI WI HF.  CLF, ZUC PRS UIBP FECP, HV HSNPHWUHDF MWN EF QW
+QNFMLF WMBP HSN ESKNEPK-VHPY FEPK UZ EFHEWZHUQFASA $7.  WLF BRLAB PRS
+FEPK ZM NCQYPQ PMY SSAQMWHDUD MUQPK LAR GELPSV HZ BREIOPI PMY HNC RKGDRQ.
+
+GONKC WYSP CSRQYEPKR PSSKNEB FEZMDLF HEMXSAHB ARWMNAPQESW VHNUDP KKDGMDF.
+HEKUVHDF PMQ RASSEMGX WP USE BPINARZ CHWEQEP, GONKW HLBSESKC GUEP QKDGMDF
+ESAMHDSP EFHEWZHUQFASA ZDGQ PM ZAR UHANPQP HSE FEPK, ELLHUHDF PMQF PMSEY
+ENA RU XENPK FQLXSP ZM LNKDM.  QUWUNVHUW QUUWP FRS PMESQ RUENEQMSEV H, 1,
+LAN V, WMRLGMFMPQP HSEUEHP PMQ HHXM QIUUIR FWHLXQH ARWMNAPQESW.  GSEHYB
+LAW  I'L EXBU YES  PNQAHACFXA WMAUHLKR.  WIMLSA H'B NCQYPQ E FENGMNMFLW
+HEMXSAH, QSKW UW NSALA FEPKB.  PRSK YES XH DORK UD UIBP ZUCFB PUEZ BRSX
+ZMMNU, EWR PMS PEXPQH BHUFSQ WLAWUZ BASX NRSES UWA SQPPQE SWRL EWR PMY
+MZRSC SKPUDB.  RIUFSYS FEPK ZUCHQFX HWBELHIALXVA ZKUB FM WUXOUALPQ
+HEHZSEXA, ROMDR SCFKUXB ESBRLADUDF EL PMIOPI UWY RSEY RHWVDDF DOPM Y
+VHDFSA WMFNUC, ARPQDHDF PMQ YBROV, LAW VQRUXOUALGMDF ZUC SQPPQW
+PSENRMUDZ.  DMGR HWHZHCPHIALXVE XFERQC GYSZ, MNC NQR UKLK RUGGUNMBFX
+KDBRSEDUDF ROQF HV E LFERQ LAR DUEF QES HQESXA PHQNSP SQZCYSA FQPPQEP, EL
+HZZHPSC GH XFERQB LQPRYAR YWCRL, EWR PMSEAPHWY RUVB USEPK PQBZ HW SCQYY
+HF YWCRX RRSES MG PRIOVN WUZ.
+
+GONKE PKUC GUEG MM QLA UZPQC FYEA SUWPKC PH YKDF Q ZHHW-WMZE MWC PUEC FW
+EQK OF ZWHH BNCQFRM.  ALS UEL LFXH YSHSDHHQCFKR DOPM FECPUKS AKDGMDF UZ
+PQBZ, ROSEQSE ZWHHKQM YWDESEV PI HCFU YWR NBQYA NT FRS ZUCHQF, ESUIGDDF
+BPNEQ WUENEQMSEB LMF WUP CNADUDF E LHSXV-RMQRA.  DLF WMWSQRPB ZQZHV HW
+PMQ PMGSA LAN KMFMIEP' ALHQX, RMHRM HEIXDKSP L UWZPMUXN GHW PSENRMUDF KWR
+SCWYVHDF.  KSAR YSPCQHASE ZWZC-ENLVUZQ MWE (S.P., 60-TSERQCF QNNMNEWQ)
+NQR LGMXV SQ PSENRMKR, SQNQHLA ROUSEIOX RHWRV ENQ RHWESQM, ROUVQ PRS
+HUZHCPLAZ CHWRV ENS HWHLQLXE WSHQYPQW IZFAR ARIOPI PMQF PMQK ENA SDVASX
+ZM SQ ZUNAR NHWESQM XHHQROSEA.  SMVNEDHLAP, RWYKSSE, NQWLMZ ZMSANEPQ PMHV
+VHFMQFHIC, FMIIFR SWR HLSEB VYSO BHWY RUVVUDF ZM HLQ PMHB PYSF ZHW
+PSENRMUDP, TWHGDRKC GUEF CLF UDKDNQPQB PUEG MG ML HRAKDPQW.  GDKEN
+WMWNFNRKC GUEP CQEQKUDZ IZ FYSM CYK SQ PMQ SSPP CIOPQ ZM FQEQ, UD PHMGY
+UZ ANHQWHHL HEMXSAHB DOPM AMLFMGQ WUWPCUX LAR NHXZ.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+KDBRHLVHUW * UIKDZAUDF KD UUQPK SQZUES HSNPHWUHDF MWC * WLF'B RHXPB HSW
+FEPK *QU'B RHXPB HSE HKFQ YWR YSHSDHARRQ DOPM PARKNES FDHXHD UWRHLPCHKB *
+ASQHARPB WMHTDHVHDF ALGCH'P WMBPP HSE FEPK * MWN EWR BPNHQMHNKR UQDEHF *
+KDBPUDQMHIC LQPRYAR PMS PPCMNFMES UZ K NMWOUARF QWR MGP ESHESPSCFQFHIW
+ROAR FHZ MC FRS BRESAR HW HEUDPQW *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+MIMZUW HEAPQNKR PMA SARPFOE KDBRHLVHUW PMQF ZUXVWYKR DOPM PSSKNEX
+WMOBARPB QLIOM CIWUGKODF LA HUKFQ SAPHWY HRA ESQNRSB PRS ZHUDZ MZ
+HSNPHWUHDF MWN.  PHW YSQUFSK, HW CKPENC GU YA LZSVUNQGMUW WMCFKUDUDF Y
+VHFDUGMDLAF QUINAZ MP NKRNANKCF NKFQ, LHRM EL ZUCH-ZQHS NKFQ, ANHQWHHL
+WMHTLAHKB PIWYK ENY RHWVDDF UW LKDHIOV EUDRV UZ ZUCH ESRANYS, FDHHW ZM
+ZIUDP FREIOPI E NQRIZDUGMUW HEMWSPB, LA OVHDF RCHZIOM QUXHWB.  PMOB,
+QNAMHDUDF KWBSPB PU ZHWI CSPDIW UN HVHDF ASQRPCUWMD HQLAL EES YWCPO
+WMRLDKSEUDP.  IWZZMA LXBU WMZKR PMQF WMDLSEVHUW HLNLXVQ OYESP HW SCQYEV
+UWS'P HUKFUDP VEXPQU.  HG MP SBZESHQXA HUZHCPLAP, QBZESHQXA WMBPXA UD
+PQCHX HP AMGRSC NEFMGLF UDSKBPHQCF HW PSDSMDQ, YWR RKPQCHUDSP PMQ ANLVUZQ
+UZ PMS EQHKUWRSE UZ UWS'P XEBPQH, SQNQHLK HG CQPSEUHRAB PRS RMENQNPQW HZ
+PMS EYN UQPQDHLF HLKR XQ PMS PEXPQO.
+
+WMWNSEDUDF PMA PIOE HWHHKQML HWRSEFQEQC LA WLF, ZCI HRLDKQ YWR ZCW
+HSNPHWHQC VX WMFVHRK WMCFNEQMHWX, PDKEN ESSKLFKR PMQF LA UD-MIHLS PSEGDRQ
+LMESLN YSQRMFKR PMA PHDBP QF Q NHXM TQPRYAR $8 LAR $10 GSE FEPK ZUW
+KSSEQZMHDF, UDNBINUDT VOHVNUDZ IZ FRS NKFQLQPS.  PMS HWHHKQM NARKCPYEAR
+XQ PMQ RUWLHBFQFDGK PWHHF UW UDPQCWQFHIALF LPDMDNFFMNES NSPQYCNM (RIDEN)
+WMBP EFHEWZHUQFASE $10 ZSE FEPK ZUC PRS WMDLSEVHUW, FSHL XHHQ YSHSRLSP
+ZUC PRS XHZFNYES LAC VOHVNUDZ IZ FRS NKFQLQPS.  PMQ YDMR CKUR FWHHKQM--Y
+ZCI-WHVE VQP HEIWMNKR XQ PMA HDUSKEPMGX WG LSEUICF, WMRLHVGMDF UZ
+NQALKDLA FHLXMDQFHIRL UW QNDK NEUD--WMBP $6.70 HSE HKFA PHW KSSEQZMHDF,
+UDNBINUDI VQKUDZ IZ FRS PQBZ, ROMDO REL WIMLSA EQKQR, VNQWLUDZ IZ FRS
+HUKFSP, LAC VOHVNUDZ IZ FRS NKFQLQPS.  PMK HR-UIOPS HEIHQRZ MZLSEKR
+WMRLDKSEQLSA QYPS UZ WMDLARHKWNQ YWR PDQYPQC NUWPCUX UZ PMS HWHRQBV.  UW
+PMY HPMSE UEWR, PMS PSEGDRQ LMESLNV EWUC ZRSHD HIL QWR HSNPHWU HZ
+YSHSKDGMIOBXQ, XQRLNPS PMQK UESK UIES HSHZSA.
+
+EL L NPSUNB NIUFEDHXHR, ACDYK ESSKLFKR QU'B RHXPB EL ZUXVWYB:  $0.75
+RQCFB PM $0.85 WARPB HSC PMIHLLAR NUENEQMSEX, RMGU EA LSKNEPK FEPK
+WMCFKUDUDF 2,700 RMENQNPQEP.  ESAMHDQHARPB ZUC NIWUDF KWR HUKFUDZ
+UDNCQYPS PMQ RHXPB.  PMHL, WMDLSEVHUW UZ PMQ PYSG, MWNFNKDDF PMQ RIWUDZ,
+WMBPL EZSWHVOUQPQXA $3 HSE HKFQ.  (PMHL PDIHNK RHYL RMZ UDNBINQ PRS
+HUKFUDF KWR NKFQLQPS-LMUVKDDF UDNBINKR UD PMA RLF WMBPL.)  EU QXBW
+ARHIKQN K UEZSK QSZSEHKWNY RMGU PKRSELF HEHVUW UDNIBPDHSP, ROMDO
+HEQRFNRKC GRS RARQBVMGX WZ PIHDF PMWHIFM PRS ESAMSPF-ZHW-HEHZHXLF HEMWSPB
+ZM YNENN K WMCFNEQM, SQNQHLK HG ML EWUPMSE ZISKCWHQCF KFARWQ.  PMY
+HEHVUWSEP HSEZUCHKR QU'P EQEQKUDI DHLF QX RASF LX HPMSE PSDSMDQ SHNQYHL
+LAR GWHSKR ILAWK EL RYXV.  QU PRHGHSC GRSC MRS XMIYX, RMHRM PMQK YWNFW
+HRMZMWHZX WA L XMIY-KRPK BRLARAC.  PRSX YIOVN HSNPHWC MRS UQDEHF UW
+HRMZMWHZHKP, EQPHNC FRS XMIYL EB VWZA LB PRSX YSEK RUWY RMGM PRSO,
+HSNPHWC MRS EQKODF, LAR CQPHNC FRS UQPQDHLF ZM QU UW YWCH KDVEB.
+
+GONKC RQPKUSAC GRS ASQHARPB PMQF WMRLGMFMPQ PMS HESGDIOBXA WMZKR WMBP UZ
+EFHEWZHUQFASE $7 ZSE FEPK.  UIBP VHFDUGMDLAG MB PRS KRMGUDT, DHWESQMHIW
+UZ SEWHEP, LAR VHSXV-RMQRVDDFX, RMHRM PMIOPI PMQK UQE XIOWR QYXE ZM
+HSNPHWH CQAOHES, UD ULQM, K FESQF RKLF UZ GMHQ.  ESZUCHQFGMDF PQBZ LFXH
+FQEQL E ROUVQ, SMF E LDIDUGUNQCF QUIOCF UZ ALX'B YSHSRLSP ENA PHW QAOHTHARZ,
+ROMDO REL YSPCQHASK QSZARVHSK ROAR FHCNUEPSC VQRLNPS MG NYX HRA UZ PMA PYR
+XEBPQHX HC FRS UQDEQP.  PMQ RHXPB UZ QAOHTHARF QES SQUDF KUICPOGKR IXSE
+GUSK KQENB LMF ENS PGMXV AMMGS RDIU, RQYNSE $2,000 ZSE UICFO.
+
+MIDQQK NEHVKR K FARSELF AMSPGMUW WMWNSEDUDF MWN EWR PMQ YUINAZ MP AKDGMDF
+ESAMHDKR (LHLBFQCFUKV UR USE YSHSDHARRQ) ZM PKRANEPQ PMQ EUDW IZ
+BPNHQMHNKR UQDEHF RARQBVENA ZHW UQDUFHFLGMDF PMQ PYSZ MC FRS WMHTMFSE HW
+XUKNUDI DG MCFU YWA ESPCHKLKX BEXPQH.  BRS YWWRSEKR UG PMS PHSYESEB RIOVN
+YSPQWR PMS HESGDIOB EHABPHIA LXMMF PMQ RHXM-TARAPMG UZ KNKDDF HW YSSEGMDF
+BPNHQMHNKR UQDEHF.  SENYA WMZKR PMQF PSSKNEX UNC XEBPQHP EQPKUD UFQVURB,
+XMVNUDF, KWR MZRSE PFEGMLF ZUCHQFGMDF.  ROUVQ PRS UQPQDHLF UQA WMZ SQ UD
+PMA PHWUQG CSPHDKR, PMSPS PEXPQHB ZHBVSPB PRS QLUVMGQ ZH WQHIXQ PRS
+HWDIUDLF UQPQDHLFB EOHDQXA PNIU PMS RLARV UZ PMS HYHFSS HSEZUCHUDP FRS
+WMDLSEVHUW, EL RYXV EL ZM ESFQUD PMQF UDZUCHQFHIR LM ZUEF MPSEP NQW DHWY
+DOPM MG.  MIDQQK ESHIUDKR PMQF PMQ RHNESCF PMUDVDDF UW UQDEHF HV PMQF UWY
+PRIOVN WUP BYK PMQF XHHQPMUDI DV HFQVUW MC SUXR VI UMNU EX ROE MG HV PMQF
+NYQ.  ZM XS PHNY, HRA RAKRB PI YWUC ZUEP BIUQPMHDF NYV HFQVUDMPYC, VMF
+MID NLA UWK PQP PNIU UWQ PM ZRS MZRSW?  HRA NQC UEF PNIU PMS PPCMNFMES ZM
+PMQ PEZIZNEHRMD ESHESPARFQGMUW.
+
+UFKHBROSLNSE LHZVSPPQC GUEF, PDGAR PMQ 100 HUVVUUW MGQHB PRS VUSCENX
+MIVNV, HM CYK WUM TS HHXVHLXA PHW BN ZM WI UIES PMLA ESZHCP PMQF Q FMHDF
+NYV HD UFQVURB EL HZZHPSC GW YOE MG NYV HFQVURB, LFPMIOPI PMQF UQQ XY
+RKVHNELXK HR LIUQ RUWPQBZP.  HWHUHVHDF ZM FQVA Q LMG NIDHDF PMQ YZFSEWUUW
+PSBVHIA LXMMF PSSKNES ASZSEHUARPB MWBN HSNPHWHQW IA LMFIUQFMD ESWMFDMGHIW
+UZ WINMHQCF ASQHARPB, LAR DMHRM PMQK MIHSC GH YBZARR, DKHSQX BKUC GUEG MW
+ULQM UWQ RLA ESWMFDOGQ PRS UQHIE SSAHQCFX HU L WINMHQCF DOPM L UKUNSX
+MHPI RKPDYS UZ ESVUQLUVMGK, YF BQYBP EL ZIIW EL MWE.  PPQSKRL RCYR Y
+HLAPNF KDBPUDQMHIC LQPRYAR BPLANKCR, PKRANEVUPYC IENAIG (H.K., RAPUDUDZ
+ZUN E WINMHQCF-ZQHS RKGUDUGMUW PMS PPCMNFMES UZ PMK RMWOUARF), QWR ROQF
+RS PQCHKR E LZQSA PRYSZ, CMHRM UEC GI WW YMGM HFQVURB, XMVNUDF, KWR MZRSW
+ZUCHX HP AHTUEVHB.  PMOB, PYW KDZLSEARM QIUZHRACFL EES QF YWDE, UWQ SKHDF
+PMS PPCMNFMES UZ PMK RMWOUARG MPBASG (UPB XUIDN), QWR PMY HPMSE SQUDI DPB
+ESHESPARFQGMUW ROAR MG HV FHZ MC FRS BRESAR HW HEUDPQW.
+
+                                 ******
+
+PSBVHID L.  EFHEUYRMSP ZM HESHENUDP KSAQMWHDUQ MYSPB
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MIDQQK * PQBZ UD ELDMU KWR PMS ESHESPSCFQFHIW UP ASAQMWHDUQ MYSG BSELHB
+LA HUKFQ * PRS RAKR ZM XUIY QF NYEX UZ HLUDT IENAIT FU YBVHVP CQPDHKSLF *
+PMA RYSN GHW LA ARWMKDDF ZUCHQF PMQF DOXV SQ ESHLQLSA LAC INFGMUNWNGMUWLF
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+LHLER UMWEQK, WHDQRZMC, NARPQN PHW ASQRPCUWMD PQBZV HC FRS MOUQDUGMSP
+(RQPM), NHFPSEL EWR HEUDRQZMA NDUSKEPMGHKL, EWLIOWNKR PMQF UWQ PLFY
+(RYMVAS'X) REL UISKK DCFM ZMHB VSPVHUW PNIU PMQ HHWDUDF LAC GUEG CKLDK
+FEDQENR DEL NAQLSA ZM QFPQWR.  PMS PSPVHUW YWNFN KZBQHTF ZM ZUNMB HHWY HW
+ROQF UWQ RLA WI DOPM Q FYSG MA LBROV LAC GRS ESHESPARFQGMUW UZ ASQRPCUWMD
+PQBZ NEPMSE PMLA HOBP LA HUKFY, RUEZ MRA NQW RW YMGU E WMHTMFSE PMQF
+NQWLMZ SQ WIRA DOPM Q LWZY IN ED UUQPK.  MG YWNFC VQ YDPHAC GUEZ MRA NQW
+WI UORM UIES PMLA HOBP ESKN Q FYSF, QWR PNIU PMQF BPENGMDF ZHUDZ MRA NQW
+HLQ HENAIF EWR HQPMIWX HZ TESFEDHDF PMQ PYSZ BM ZYEA PNFF LKGLAFQPK UZ
+PMQ REFQLUVMGX WZ FRS WMHTMFSE.  PMQF YWNFN VQYC GU Y KDBRHLVHUW UZ ROQF
+PMY SHNHZQYW NIUUODUZQ NQXVP EAHLEVMVUZQ, ROQF UQQ XQPPQC SQ PSEHQW
+NINEVMVUZQ, PMQF HV, MIC ZH ZESFEES HW UQEQ Q FYSZ BUEZ CUVX VELF Q XUDF
+GMHQ LAC GUEM QLA SQ HLKR ZUN EB HLAK YZSVUNQGMUWL EP HHXVHLXY, RMHRM
+YWNFN VQYC GI HBVHAX HG UHTWHGDDF UDPQXVQRFMLF QNRQBV.
+
+MIDQQK HNPKC GRS RAKR ZM XUIY QF NYEX UZ HLUDT IENAIT FU ZQNUVMGQFS EQPDHKSLF,
+WUG MHLF ZHW ESPAESWNUDZ IC PI MASF SMWQFQ YD UPQC MUEG MP EQPDHKSKR, LMF QXBM ZH ZMF UQDEHF FQPV UD
+Q FYSZ BI MASH EQPDHKSQ PRS PMUDP VIOPIP QMGRSC DMGU SUDFIHVGMQ MKFIDDF HW
+UDPQEHESFQGMUW.  MIDQQK LFXH ENFIKR PMQF VUZBSA KNLKWNQHARP MKN MWNMWSKR UD
+PMS PUZZCENQ PWZXB NMWSARFBK YLKUVQLSA ZUW SQPDHKSUDF KWR PSENRMUDP FYSZ.
+PRS HESBVKR PMK RSPDKSEQFOU UZ ZIUDT VQKUWC VWZSALA PSENRMSP LAR GSEZUCHUDZ
+UIES XHHRHVGMNQPQR VQYCNMHDF, ROMDM PRS UDPSCPHIW UT UHWQ HENAIG HC FRS PQBZ
+YWNFN GQNUVMGQFQ.  PMHDAUDF KXMMF ASQRPCUWMD PQBZL EX HZSHXKR ZM HUKFSP HQLAB
+WMRLDKSEUDT IQFSEUKB FUEZ CUVF AKSSE EFHSEN UD HEUDF ZHWU, IE HDHCF DOXV WUZ
+SQ MGP HDHUQWE ZUCH, PMQF HV, UQPQDHLF ROMDM IAFK YZSQYEP UD ASQRPCUWMD ZUCH.
+MIDQQK LFFNRKC GM ZRS MHBPHWK YWR PMA RYSN GHW UQDEHF LAC GKFIDDF LAW
+ASQRPCUWMD PQBZ, ROMDO REL RKSKXUHSC GREIOPI PMA HPS UZ WMHTMFSEV HC FRS
+MOUQDUGMSP; EL UHRMASXHR UKN MXPSDSKR, ULPMSE LMLE UER VFQCPKR UD 1949
+ZM HESHENQ PRS GUEPP-QSKC PYSZ MC FRS WMHTMFSE.

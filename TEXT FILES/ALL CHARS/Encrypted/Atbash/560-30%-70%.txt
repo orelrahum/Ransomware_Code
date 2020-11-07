@@ -1,0 +1,24 @@
+one wants to work with.  Perhaps a more useful concept than that of
+reproducibility or recoverability is that of processability, that is,
+what can one get from an electronic text without reading it again
+in the original.  He illustrated this contention with a page from
+Jan Comenius's bilingual Introduction to Latin.
+
+SPERBERG-McQUEEN returned at length to the issue of images as simulacra
+for the text, in order to reiterate his belief that in the long run more
+than images of pages of particular editions of the text are needed,
+because just as second-generation photocopies and second-generation
+microfilm degenerate, so second-generation representations tend to
+degenerate, and one tends to overstress some relatively trivial aspects
+of the text such as its layout on the page, which is not always
+significant, despite what the text critics might say, and slight other
+pieces of information such as the very important lexical ties between the
+English and Latin versions of Comenius's bilingual text, for example.
+Moreover, in many crucial respects it is easy to fool oneself concerning
+what a scanned image of GSV GVCG DROO ZXXLNKORHS.  ULI VCZNKOV, RM LIWVI
+GL HGFWB GSV GIZMHNRHHRLM LU GVCGH, RMULINZGRLM XLMXVIMRMT GSV GVCG
+XZIIRVI RH MVXVHHZIB, DSRXS HXZMMVW RNZTVH HRNKOB WL MLG ZODZBH SZMWOV.
+UFIGSVI, VEVM GSV SRTS-JFZORGB NZGVIRZOH YVRMT KILWFXVW ZG XLIMVOO FHV
+NFXS LU GSV RMULINZGRLM GSZG LMV DLFOW MVVW RU HGFWBRMT GSLHV YLLPH ZH
+KSBHRXZO LYQVXGH.  RG RH Z XSLRXV GSZG SZH YVVM NZWV.  RG RH ZM ZITFZYOB
+QFHGRURZYOV XSLRXV, YFG LMV WLVH MLG PMLD DSZG XLOLI GSLHV KVM HGILPVH RM

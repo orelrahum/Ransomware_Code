@@ -1,0 +1,61 @@
+Land boundaries:
+    none
+Coastline:
+    101.9 km
+Maritime claims:
+  Exclusive fishing zone:
+    200 nm
+  Territorial sea:
+    3 nm
+Disputes:
+    none
+Climate:
+    antarctic
+Terrain:
+    Heard Island  bleak and mountainous, with an extinct volcano McDonald
+    Islands  small and rocky
+Land use:
+    arable land 0 permanent crops 0 meadows and pastures 0 forest and
+    woodland 0 other 100
+Environment:
+    primarily used as research stations
+Note:
+    located 4,100 km southwest of Australia in the southern Indian Ocean
+
+:Heard Island and McDonald Islands People
+
+Population:
+    uninhabited
+
+:Heard Island and McDonald Islands Government
+
+Longform name:
+    Territory of Heard Island and McDonald Islands
+Type:
+    territory of Australia administered by the Antarctic Division of the
+    Department of Science in Canberra Australia
+Capital:
+    none administered from Canberra, Australia
+
+:Heard Island and McDonald Islands Economy
+
+Overview:
+    no economic activity
+
+:Heard Island and McDonald Islands Communications
+
+Ports:
+    none offshore anchorage only
+
+:Heard Island and McDonald Islands Defense Forces
+
+Note:
+    defense is the responsibility of Australia
+
+:Holy See Vatican City Geography
+
+Total area:
+    0.438 km2
+Land area:
+    0.438 km2
+Comparative area:

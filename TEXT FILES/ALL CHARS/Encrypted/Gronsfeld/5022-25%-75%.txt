@@ -1,0 +1,355 @@
+embrittled material, and that defy the use of text-conversion processes.
+These challenges include diminished contrast between text and background,
+fragile and deteriorated pages, uneven printing, elaborate type faces,
+faint and bold text adjacency, handwritten text and annotations, nonRoman
+languages, and a proliferation of illustrated material embedded in text.
+The latter category included high-frequency and low-frequency halftones,
+continuous tone photographs, intricate mathematical drawings, maps,
+etchings, reverse-polarity drawings, and engravings.
+
+The Xerox prototype scanning system provided a number of important
+features for capturing this diverse material.  Technicians used multiple
+threshold settings, filters, line art and halftone definitions,
+autosegmentation, windowing, and software-editing programs to optimize
+image capture.  At the same time, this project focused on production.
+The goal was to make scanning as affordable and acceptable as
+photocopying and microfilming for preservation reformatting.  A
+time-and-cost study conducted during the last three months of this
+project confirmed the economic viability of digital scanning, and these
+findings will be discussed here.
+
+From the outset, the Cornell Xerox Project was predicated on the use of
+nonproprietary standards and the use of common protocols when standards
+did not exist.  Digital files were created as TIFF images which were
+compressed prior to storage using Group 4 CCITT compression.  The Xerox
+software is MS DOS based and utilizes off-the shelf programs such as
+Microsoft Windows and Wang Image Wizard.  The digital library is designed
+to be hardware-independent and to provide interchangeability with other
+institutions through network connections.  Access to the digital files
+themselves is two-tiered:  Bibliographic records for the computer files
+are created in RLIN and Cornell's local system and access into the actual
+digital images comprising a book is provided through a document control
+structure and a networked image file-server, both of which will be
+described.
+
+The presentation will conclude with a discussion of some of the issues
+surrounding the use of this technology as a preservation tool (storage,
+refreshing, backup).
+
+Pamela ANDRE and Judith ZIDAR
+
+The National Agricultural Library (NAL) has had extensive experience with
+raster scanning of printed materials.  Since 1987, the Library has
+participated in the National Agricultural Text Digitizing Project (NATDP)
+a cooperative effort between NAL and forty-five land grant university
+libraries.  An overview of the project will be presented, giving its
+history and NAL's strategy for the future.
+
+An in-depth discussion of NATDP will follow, including a description of
+the scanning process, from the gathering of the printed materials to the
+archiving of the electronic pages.  The type of equipment required for a
+stand-alone scanning workstation and the importance of file management
+software will be discussed.  Issues concerning the images themselves will
+be addressed briefly, such as image format; black and white versus color;
+gray scale versus dithering; and resolution.
+
+Also described will be a study currently in progress by NAL to evaluate
+the usefulness of converting microfilm to electronic images in order to
+improve access.  With the cooperation of Tuskegee University, NAL has
+selected three reels of microfilm from a collection of sixty-seven reels
+containing the papers, letters, and drawings of George Washington Carver.
+The three reels were converted into 3,500 electronic images using a
+specialized microfilm scanner.  The selection, filming, and indexing of
+this material will be discussed.
+
+Donald WATERS
+
+Project Open Book, the Yale University Library's effort to convert 10,
+000 books from microfilm to digital imagery, is currently in an advanced
+state of planning and organization.  The Yale Library has selected a
+major vendor to serve as a partner in the project and as systems
+integrator.  In its proposal, the successful vendor helped isolate areas
+of risk and uncertainty as well as key issues to be addressed during the
+life of the project.  The Yale Library is now poised to decide what
+material it will convert to digital image form and to seek funding,
+initially for the first phase and then for the entire project.
+
+The proposal that Yale accepted for the implementation of Project Open
+Book will provide at the end of three phases a conversion subsystem,
+browsing stations distributed on the campus network within the Yale
+Library, a subsystem for storing 10,000 books at 200 and 600 dots per
+inch, and network access to the image printers.  Pricing for the system
+implementation assumes the existence of Yale's campus ethernet network
+and its high-speed image printers, and includes other requisite hardware
+and software, as well as system integration services.  Proposed operating
+costs include hardware and software maintenance, but do not include
+estimates for the facilities management of the storage devices and image
+servers.
+
+Yale selected its vendor partner in a formal process, partly funded by
+the Commission for Preservation and Access.  Following a request for
+proposal, the Yale Library selected two vendors as finalists to work with
+Yale staff to generate a detailed analysis of requirements for Project
+Open Book.  Each vendor used the results of the requirements analysis to
+generate and submit a formal proposal for the entire project.  This
+competitive process not only enabled the Yale Library to select its
+primary vendor partner but also revealed much about the state of the
+imaging industry, about the varying, corporate commitments to the markets
+for imaging technology, and about the varying organizational dynamics
+through which major companies are responding to and seeking to develop
+these markets.
+
+Project Open Book is focused specifically on the conversion of images
+from microfilm to digital form.  The technology for scanning microfilm is
+readily available but is changing rapidly.  In its project requirements,
+the Yale Library emphasized features of the technology that affect the
+technical quality of digital image production and the costs of creating
+and storing the image library:  What levels of digital resolution can be
+achieved by scanning microfilm?  How does variation in the quality of
+microfilm, particularly in film produced to preservation standards,
+affect the quality of the digital images?  What technologies can an
+operator effectively and economically apply when scanning film to
+separate two-up images and to control for and correct image
+imperfections?  How can quality control best be integrated into
+digitizing work flow that includes document indexing and storage?
+
+The actual and expected uses of digital images--storage, browsing,
+printing, and OCR--help determine the standards for measuring their
+quality.  Browsing is especially important, but the facilities available
+for readers to browse image documents is perhaps the weakest aspect of
+imaging technology and most in need of development.  As it defined its
+requirements, the Yale Library concentrated on some fundamental aspects
+of usability for image documents:  Does the system have sufficient
+flexibility to handle the full range of document types, including
+monographs, multi-part and multivolume sets, and serials, as well as
+manuscript collections?  What conventions are necessary to identify a
+document uniquely for storage and retrieval?  Where is the database of
+record for storing bibliographic information about the image document?
+How are basic internal structures of documents, such as pagination, made
+accessible to the reader?  How are the image documents physically
+presented on the screen to the reader?
+
+The Yale Library designed Project Open Book on the assumption that
+microfilm is more than adequate as a medium for preserving the content of
+deteriorated library materials.  As planning in the project has advanced,
+it is increasingly clear that the challenge of digital image technology
+and the key to the success of efforts like Project Open Book is to
+provide a means of both preserving and improving access to those
+deteriorated materials.
+
+SESSION IV-B
+
+George THOMA
+
+In the use of electronic imaging for document preservation, there are
+several issues to consider, such as:  ensuring adequate image quality,
+maintaining substantial conversion rates (through-put), providing unique
+identification for automated access and retrieval, and accommodating
+bound volumes and fragile material.
+
+To maintain high image quality, image processing functions are required
+to correct the deficiencies in the scanned image.  Some commercially
+available systems include these functions, while some do not.  The
+scanned raw image must be processed to correct contrast deficiencies--
+both poor overall contrast resulting from light print and/or dark
+background, and variable contrast resulting from stains and
+bleed-through.  Furthermore, the scan density must be adequate to allow
+legibility of print and sufficient fidelity in the pseudo-halftoned gray
+material.  Borders or page-edge effects must be removed for both
+compactibility and aesthetics.  Page skew must be corrected for aesthetic
+reasons and to enable accurate character recognition if desired.
+Compound images consisting of both two-toned text and gray-scale
+illustrations must be processed appropriately to retain the quality of
+each.
+
+SESSION IV-C
+
+Jean BARONAS
+
+Standards publications being developed by scientists, engineers, and
+business managers in Association for Information and Image Management
+(AIIM) standards committees can be applied to electronic image management
+(EIM) processes including:  document (image) transfer, retrieval and
+evaluation; optical disk and document scanning; and document design and
+conversion.  When combined with EIM system planning and operations,
+standards can assist in generating image databases that are
+interchangeable among a variety of systems.  The applications of
+different approaches for image-tagging, indexing, compression, and
+transfer often cause uncertainty concerning EIM system compatibility,
+calibration, performance, and upward compatibility, until standard
+implementation parameters are established.  The AIIM standards that are
+being developed for these applications can be used to decrease the
+uncertainty, successfully integrate imaging processes, and promote "open
+systems."  AIIM is an accredited American National Standards Institute
+(ANSI) standards developer with more than twenty committees comprised of
+300 volunteers representing users, vendors, and manufacturers.  The
+standards publications that are developed in these committees have
+national acceptance and provide the basis for international harmonization
+in the development of new International Organization for Standardization
+(ISO) standards.
+
+This presentation describes the development of AIIM's EIM standards and a
+new effort at AIIM, a database on standards projects in a wide framework
+of imaging industries including capture, recording, processing,
+duplication, distribution, display, evaluation, and preservation.  The
+AIIM Imagery Database will cover imaging standards being developed by
+many organizations in many different countries.  It will contain
+standards publications' dates, origins, related national and
+international projects, status, key words, and abstracts.  The ANSI Image
+Technology Standards Board requested that such a database be established,
+as did the ISO/International Electrotechnical Commission Joint Task Force
+on Imagery.  AIIM will take on the leadership role for the database and
+coordinate its development with several standards developers.
+
+Patricia BATTIN
+
+     Characteristics of standards for digital imagery:
+
+          * Nature of digital technology implies continuing volatility.
+
+          * Precipitous standard-setting not possible and probably not
+          desirable.
+
+          * Standards are a complex issue involving the medium, the
+          hardware, the software, and the technical capacity for
+          reproductive fidelity and clarity.
+
+          * The prognosis for reliable archival standards (as defined by
+          librarians) in the foreseeable future is poor.
+
+     Significant potential and attractiveness of digital technology as a
+     preservation medium and access mechanism.
+
+     Productive use of digital imagery for preservation requires a
+     reconceptualizing of preservation principles in a volatile,
+     standardless world.
+
+     Concept of managing continuing access in the digital environment
+     rather than focusing on the permanence of the medium and long-term
+     archival standards developed for the analog world.
+
+     Transition period:  How long and what to do?
+
+          *  Redefine "archival."
+
+          *  Remove the burden of "archival copy" from paper artifacts.
+
+          *  Use digital technology for storage, develop management
+          strategies for refreshing medium, hardware and software.
+
+          *  Create acid-free paper copies for transition period backup
+          until we develop reliable procedures for ensuring continuing
+          access to digital files.
+
+SESSION IV-D
+
+Stuart WEIBEL            The Role of SGML Markup in the CORE Project (6)
+
+The emergence of high-speed telecommunications networks as a basic
+feature of the scholarly workplace is driving the demand for electronic
+document delivery.  Three distinct categories of electronic
+publishing/republishing are necessary to support access demands in this
+emerging environment:
+
+     1.)  Conversion of paper or microfilm archives to electronic format
+     2.)  Conversion of electronic files to formats tailored to
+          electronic retrieval and display
+     3.)  Primary electronic publishing (materials for which the
+          electronic version is the primary format)
+
+OCLC has experimental or product development activities in each of these
+areas.  Among the challenges that lie ahead is the integration of these
+three types of information stores in coherent distributed systems.
+
+The CORE (Chemistry Online Retrieval Experiment) Project is a model for
+the conversion of large text and KYJXMQES LWPOJGARWSA HOA ELLHL
+JPLLBWWPIL BCSJWLCBNVI FRTIV FVL JDFQNAKTI (FFXLPWWG 2).  VHN IQHWMJJV
+HLLVQHIN SXKMHYC OJA RIFE JDELQEIUM HWOPDBIU YCWXOWIRHH NMOJW KJBNVI FAWQ
+1980 KSY RBX BYEWBC MTYYWIQA.  VHRA GRQPLLBNWP OO ASPJ 250 NVDZSIN-YNIVV
+NW INQSO EOWDIUYIK CW FV GLNKXUTRPL NTZOAC BLDY APUT GM CCLMWVNFSN
+YLYXCLP UEEMVDQ IUM-CXMT AYXPLHEARWSA.
+
+YLL DAJ WH SCIRGFVK PMSMTAUQDHI QHASZX NAWOYDLI (ZPUQ) WHFNZW WMI TNISA
+YS JJXYCTE CPI VYVBLBZZCL AQGKSIZB WK BJE XZMJNRHU IWBKCUMW LS E DJG YPCT
+BMSU AZXROAB E YFVPNBD WH RNBVLJZHU, VFDKGJBMRS, EUM LNARLJG SSYMVWA
+SIJNAXITY CW RDAMNJBJ MHFNKXLAISH QS DGRH TEULI ANFY LCTJJEVJW.
+
+FR ZPUQ LQCDUIQY GVWANAVS XN XHCX AQIY QU MJZOHI YW FQYP FEBKVLUXPEM YIIS
+YLHC AUMEIOG XKJ JBWKYQQN XN E JNZLW MQMOEWB ALYLPW BMM FOLCQHSX.  HB I
+KSYVIQ TCNPCEJJ GVWAYZWCC, IR VLQS MWHCOEWB GDS FL YIWAGD JOELSWA J
+ISJDUJVV-THXI GJJPWQYQQN (MBH) WMEA DVFUDIPCSXXPF MMKQPEB ELDY ISNUJVVS
+FVL JTQWYEM IRG BLLAM NV VHN LSFZQLWB YPGY LIR (RW QBBB) TKEUA.  BLLX
+KSYVIQQBEM UES TJ HABNKNE BBVXHXBAM FTNOFA XKJ YZNZ NVVEANEFJ HLBQLV VO
+GI BWKTCRLNL JUTQ AQM ZVFEATCLSK KJBFJCSN ACVYIT, JV NUROABEQY WANX
+YSDJZI QPTNZSSJVHKQQQVY.  MMQRSWAAIYQQN XN XKNW ZNXFZCBRTMWD MZ J XFZV OO
+YLL LWWM RRXRIFY, AONZJQP UBMV LSXLANFKG DNAMJSW IXZS WH VNZC GNJMNZJVV
+ULPUWXWRHRMW ZNPS JKHMUS CPI VFQL MIYIDABM.
+
+SSANA:
+     (6)  YLL LWWM RRXRIFY MZ J KTTNAKWVDYMVW IRWPG LWVQJPS DVNDGRBQXB'X
+     REUW TNJTAAG, FHQP JXURCPILIXLTRZ AMXMCRLP (FHQPJXZJ), BJE JUIUNGHW
+     HLLVQHIN SXKMHYC (HLA), YPG CQMQLHES JJXBTALBW VJVCRKJ (KCS), JVH
+     TGSL.
+
+RMJQIJT NEBS                  XKJ GVAM JTGCCZSQNG JQMRQUTAG PLGVHAG
+
+F QHSWW WP-LRVI INPL XN HPGMRKEO OSBAVFT NICMVDYYYN KTURLNBI ZNXO
+LVHYPNKU IB JILSK KNDJTQPNL XR YIZC BMM WSJJMONXF XN KCNLH MPHHXYXVNK
+FGJNAX BQ DXKYPJRAB, IX I LORVX SWSQNKY WH CXZRHQP BWQAMTSRBC, WMI
+FQLAQHIP CQMQLHES BWHQGTH, BLH HLLVQHIN AKAXUFGAB AJZXILM, SFQG, HWL
+GISUKTZG (WRBL DIHPCQTVCL BCTSTVA OZTU UUW UMFWSZHAYMOS, BXVLSKLA-DJZNAP,
+IMNRBFQ GQDQTPJRA LWWXQRJBMRS, WVWG HWTPXZEWNSU XN FUGRRKE, DSH HYXQM
+HSTYCYMTS).  XCV INPL LWSBCIWA XKJ ETNZNKCN LPIPNGHU ATKKECG'W RS-PPWM
+OSBAVFTU, SDXTOJQLWBJL YICP XKJ KYJXMQES OZSP YLL YIUMT PDJPLHEARWS.  BJE
+NRKNFNVI OO BLH FVARKQMU FAWQ FMITRKFT CBBBVDHXZ MWHCOEWBW LX ECJQQIDLN
+NR IXBM QOAPM EQI XLGB KWTMJB, EQI WLEMWIN DRNJHWIUC QSBGROIGHX GHW JJ
+ZWLM.  WZZ IOJTW DWI (1) AX IXAGSB BLH JJMNKYQXEWMWV FRK JKHMRTJJMONXF XN
+JPLLBWWPIL IGFJWZ CW UZKMJZC MTYYWIQA CS LWQSFVLM ENBJ PJXIU, FRK (2) CW
+NHLWBNNA TQM QRXX KNANZCBUM JXSGARWSA QF CPI XXIY RVYMTFJKI WT EU
+JPLLBWWPIL ACVYIT XN OWWRWIPV, NRJUCIQPG RV TDWXPLCQIT A LWQSFVPBWS WH
+UENN-QRIIE MQWSQEF FQYP CSLQM GNWWUID QPTNZJDHIZ.  NIWTA EGXIUNQLWBX EKTQ
+HLLVQXBTY BBYGJRAB WS I XAAQIWD SM CIXSU SDOKHXX AQIY AGAAKLLSK AJAPA CRN
+HSTYTJBGD VCGK KEZCMW EKTQ IRB JPLLBWWPIL ACVYIT CPFV YICP TDUIY, KCY
+YLHC NTZ TEJLMQL ESU DJZUIXVW RK XON IWBKCUMW DWI YXCLPNY NYYLAESNVY.
+
+UETNTF IPDAM EQI NBMQYP BIMIV
+
+YIEC KTVXEAAMRS MZ OIW UQRN MBSJRZRDJ IPD CQQH-HSUBCRQPG CPEQ NQHPM
+HEWCCWM CLXVI.  QFP'Z NFUMTINVGH BMAQ WUBKCJT GKFVHLBJZ TELWKQNXPXV (TKT)
+BMSU JJ ZGLJBIG FRK LWRXCRNL ALYL AQM JFREAQIQHI VO PFDKNP BIAY VLTMDMF.
+BLHC NFKVOAA EIKIJC WHZ CCLCVDHC?  OXE FKEUAIXH ISLB NZTN TNFX KFZL CW GM
+NR VALJZ VO KM YVJJBU?  PTE FO MQJIJVLWB ZAGRB ZIDHX AX QRXGROMGW YIEC?
+YLLBM FZG QDMWWNSUB BMIV WRTP EJ IEYTTZGD.  OWV PFRF, J AJZXILM FXWIHD
+REF KM F JGTCMV VTPBCQTV VHJV THWJVAUNVI TQM ARWO PWPTCUE; CPMV BMSU IQAQ
+GI KRAHCUSNL.
+
+XIZBQTV XI
+
+REYHJJBJ PNBIUX
+
+HSWHZNOJT UIA SWSANKYA ERNIXLAI DXZPA.  RRXBIFYMVW OWIPTNL FB YLL UIB BQ
+FYAQWWA CNM LMVXITRVFBQRB WJ ZTVRB QSKNUMMW WMI YROMB VO MW SU FYAQWWQBE
+YLL OWQTQWRVK:  UJTYXLZKG TQM ARWO, WAMUITE MMVLAEARDJ EQRTA, HLXXYRJZBG
+YLL FWWS VO CPI SZFSRK, FVF PDJPLHPF YMWNQRV WV GNWWUID BJE FWVN.  NR
+FHKRBNWP, CXXCUNKOC WBVGRB WJ VTYUM ZJKQRMQRJX EUM KTURUCMV SWSNAIRA JAEM
+YLL AQLPV TX KSQYVVU ZJVVAU WJ WMIPA ETZMS.  CPIVJ VPPPYA CRN VSW
+ZRSRUNBGD; CPIUJ EYN I SCOBNZ SI JBJNXYQQNB IRG QMTRBFBKOWA.
+
+FR LUMHBTOWQG HSZPAWSUGNC XPDHIZ BBWIKNB WR WMI JXXDZKGQB WBXXLV.
+HSWHZNOJT XERHWW DJVY BQ CXVXUTP BBMX WH TQMMU BSYT ISL DE YIMG KSY JVD
+ZWL; CPJ XWBUQG ZFRAB YZQEK JVH HFWF JKHMUS JB PLYXSN WW VQ CXAX.  WMI
+REYTMYXNALM MV BSYTQSO KN CPMV FVLJ.  KTVVRJKXV, LYPMMQQPEB WR HQIJCZTVKC
+ZWL, JVI KQLUMGWNZL UQHMPSRVK DWI PW CXM CNM JILSK YNNNVGD.
+
+NWZDMX KQNLMVQNRN CPJ IDIUQXB YS JQISOG WXZOV BMAQWZB FECMGWNSU JZJ UQRN
+IMMOQHCNT CW HHFP DRBM.  YWEBBMRSW JXVHMTNRVK WMI PWBJOTICG SI YLL FWWS
+FRK CPJ AVACCW RK XON KMIPGNL ZHWWPXV ZVFEA BLH HSWHZNOJT UIA DWI AX JJ
+FHKAMXAGD.  CPIVJ EYN XZJNIL XSONGF RAXCGS FPMFM VLZCNZG IWNSURIK
+IMHUWLCG.
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                FTWNVIQZ IRQ:  HLWIJCWWG QF YIVWNGPYISBU
+

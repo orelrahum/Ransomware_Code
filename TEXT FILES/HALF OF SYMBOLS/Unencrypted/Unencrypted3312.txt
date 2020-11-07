@@ -1,0 +1,12 @@
+years, humanities scholars have initiated a number of projects to
+increase scholarly access to converted text.  So, for example, the Text
+Encoding Initiative TEI, about which more is said later in the program,
+was established as an effort by scholars to determine standard elements
+and methods for encoding machinereadable text for electronic exchange.
+In a second effort to facilitate the sharing of converted text, scholars
+have created a new institution, the Center for Electronic Texts in the
+Humanities CETH.  The center estimates that there are 8,000 series of
+source texts in the humanities that have been converted to
+machinereadable form worldwide.  CETH is undertaking an international
+search for converted text in the humanities, compiling it into an
+electronic library, and preparing bibliographic descriptions of the

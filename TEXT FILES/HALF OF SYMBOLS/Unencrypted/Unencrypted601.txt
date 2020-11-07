@@ -1,0 +1,131 @@
+minimal amount of authorship.  One can also acquire copyright protection
+for making a new version of preexisting material, provided it manifests
+some spark of creativity.
+
+However, copyright does not protect ideas, methods, systemsonly the way
+that one expresses those things.  Nor does copyright protect anything
+that is mechanical, anything that does not involve choice, or criteria
+concerning whether or not one should do a thing.  For example, the
+results of a process called declicking, in which one mechanically removes
+impure sounds from old recordings, are not copyrightable.  On the other
+hand, the choice to record a song digitally and to increase the sound of
+violins or to bring up the tympani constitutes the results of conversion
+that are copyrightable.  Moreover, if a work is protected by copyright in
+the United States, one generally needs the permission of the copyright
+owner to convert it.  Normally, who will own the newthat is, converted
+material is a matter of contract.  In the absence of a contract, the
+person who creates the new material is the author and owner.  But people
+do not generally think about the copyright implications until after the
+fact.  PETERS stressed the need when dealing with copyrighted works to
+think about copyright in advance.  Ones bargaining power is much greater
+up front than it is down the road.
+
+PETERS next discussed works not protected by copyright, for example, any
+work done by a federal employee as part of his or her official duties is
+in the public domain in the United States.  The issue is not wholly free
+of doubt concerning whether or not the work is in the public domain
+outside the United States.  Other materials in the public domain include:
+any works published more than seventyfive years ago, and any work
+published in the United States more than twentyeight years ago, whose
+copyright was not renewed.  In talking about the new technology and
+putting material in a digital form to send all over the world, PETERS
+cautioned, one must keep in mind that while the rights may not be an
+issue in the United States, they may be in different parts of the world,
+where most countries previously employed a copyright term of the life of
+the author plus fifty years.
+
+PETERS next reviewed the economics of copyright holding.  Simply,
+economic rights are the rights to control the reproduction of a work in
+any form.  They belong to the author, or in the case of a work made for
+hire, the employer.  The second right, which is critical to conversion,
+is the right to change a work.  The right to make new versions is perhaps
+one of the most significant rights of authors, particularly in an
+electronic world.  The third right is the right to publish the work and
+the right to disseminate it, something that everyone who deals in an
+electronic medium needs to know.  The basic rule is if a copy is sold,
+all rights of distribution are extinguished with the sale of that copy.
+The key is that it must be sold.  A number of companies overcome this
+obstacle by leasing or renting their product.  These companies argue that
+if the material is rented or leased and not sold, they control the uses
+of a work.  The fourth right, and one very important in a digital world,
+is a right of public performance, which means the right to show the work
+sequentially.  For example, copyright owners control the showing of a
+CDROM product in a public place such as a public library.  The reverse
+side of public performance is something called the right of public
+display.  Moral rights also exist, which at the federal level apply only
+to very limited visual works of art, but in theory may apply under
+contract and other principles.  Moral rights may include the right of an
+author to have his or her name on a work, the right of attribution, and
+the right to object to distortion or mutilationthe right of integrity.
+
+The way copyright law is worded gives much latitude to activities such as
+preservation to use of material for scholarly and research purposes when
+the user does not make multiple copies and to the generation of
+facsimile copies of unpublished works by libraries for themselves and
+other libraries.  But the law does not allow anyone to become the
+distributor of the product for the entire world.  In todays electronic
+environment, publishers are extremely concerned that the entire world is
+networked and can obtain the information desired from a single copy in a
+single library.  Hence, if there is to be only one sale, which publishers
+may choose to live with, they will obtain their money in other ways, for
+example, from access and use.  Hence, the development of site licenses
+and other kinds of agreements to cover what publishers believe they
+should be compensated for.  Any solution that the United States takes
+today has to consider the international arena.
+
+Noting that the United States is a member of the Berne Convention and
+subscribes to its provisions, PETERS described the permissions process.
+She also defined compulsory licenses.  A compulsory license, of which the
+United States has had a few, builds into the law the right to use a work
+subject to certain terms and conditions.  In the international arena,
+however, the ability to use compulsory licenses is extremely limited.
+Thus, clearinghouses and other collectives comprise one option that has
+succeeded in providing for use of a work.  Often overlooked when one
+begins to use copyrighted material and put products together is how
+expensive the permissions process and managing it is.  According to
+PETERS, the price of copyright in a digital medium, whatever solution is
+worked out, will include managing and assembling the database.  She
+strongly recommended that publishers and librarians or people with
+various backgrounds cooperate to work out administratively feasible
+systems, in order to produce better results.
+
+In the lengthy questionandanswer period that followed PETERSs
+presentation, the following points emerged:
+
+      The Copyright Office maintains that anything mechanical and
+     totally exhaustive probably is not protected.  In the event that
+     what an individual did in developing potentially copyrightable
+     material is not understood, the Copyright Office will ask about the
+     creative choices the applicant chose to make or not to make.  As a
+     practical matter, if one believes she or he has made enough of those
+     choices, that person has a right to assert a copyright and someone
+     else must assert that the work is not copyrightable.  The more
+     mechanical, the more automatic, a thing is, the less likely it is to
+     be copyrightable.
+
+      Nearly all photographs are deemed to be copyrightable, but no one
+     worries about them much, because everyone is free to take the same
+     image.  Thus, a photographic copyright represents what is called a
+     "thin" copyright.  The photograph itself must be duplicated, in
+     order for copyright to be violated.
+
+      The Copyright Office takes the position that Xrays are not
+     copyrightable because they are mechanical.  It  can be argued
+     whether or not image enhancement in scanning can be protected.  One
+     must exercise care with material created with public funds and
+     generally in the public domain.  An article written by a federal
+     employee, if written as part of official duties, is not
+     copyrightable.  However, control over a scientific article written
+     by a National Institutes of Health grantee i.e., someone who
+     receives money from the U.S. government, depends on NIH policy.  If
+     the government agency has no policy and that policy can be
+     contained in its regulations, the contract, or the grant, the
+     author retains copyright.  If a provision of the contract, grant, or
+     regulation states that there will be no copyright, then it does not
+     exist.  When a work is created, copyright automatically comes into
+     existence unless something exists that says it does not.
+
+      An enhanced electronic copy of a print copy of an older reference
+     work in the public domain that does not contain copyrightable new
+     material is a purely mechanical rendition of the original work, and
+     is not copyrightable.

@@ -1,0 +1,243 @@
+
+SPERBERG-McQUEEN noted that the TEI prepared a long working paper early
+on about the AAP tag set and what it lacked that the TEI thought it
+needed, and a fairly long critique of the naming conventions, which has
+led to a very different style of naming in the TEI.  He stressed the
+importance of the opposition between prescriptive markup, the kind that a
+publisher or anybody can do when producing documents de novo, and
+descriptive markup, in which one has to take what the text carrier
+provides.  In these particular tag sets it is easy to overemphasize this
+opposition, because the AAP tag set is extremely flexible.  Even if one
+just used the DTDs, they allow almost anything to appear almost anywhere.
+
+                                 ******
+
+SESSION VI.  COPYRIGHT ISSUES
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PETERS * Several cautions concerning copyright in an electronic
+environment * Review of copyright law in the United States * The notion
+of the public good and the desirability of incentives to promote it *
+What copyright protects * Works not protected by copyright * The rights
+of copyright holders * Publishers' concerns in today's electronic
+environment * Compulsory licenses * The price of copyright in a digital
+medium and the need for cooperation * Additional clarifications *  Rough
+justice oftentimes the outcome in numerous copyright matters * Copyright
+in an electronic society * Copyright law always only sets up the
+boundaries; anything can be changed by contract *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Marybeth PETERS, policy planning adviser to the Register of Copyrights,
+Library of Congress,   made several general comments and then opened the
+floor to discussion of subjects of interest to the audience.
+
+Having attended several sessions in an effort to gain a sense of what
+people did and where copyright would affect their lives, PETERS expressed
+the following cautions:
+
+     * If one takes and converts materials and puts them in new forms,
+     then, from a copyright point of view, one is creating something and
+     will receive some rights.
+
+     * However, if what one is converting already exists, a question
+     immediately arises about the status of the materials in question.
+
+     * Putting something in the public domain in the United States offers
+     some freedom from anxiety, but distributing it throughout the world
+     on a network is another matter, even if one has put it in the public
+     domain in the United States.  Re foreign laws, very frequently a
+     work can be in the public domain in the United States but protected
+     in other countries.  Thus, one must consider all of the places a
+     work may reach, lest one unwittingly become liable to being faced
+     with a suit for copyright infringement, or at least a letter
+     demanding discussion of what one is doing.
+
+PETERS reviewed copyright law in the United States.  The U.S.
+Constitution effectively states that Congress has the power to enact
+copyright laws for two purposes:  1) to encourage the creation and
+dissemination of intellectual works for the good of society as a whole;
+and, significantly, 2) to give creators and those who package and
+disseminate materials the economic rewards that are due them.
+
+Congress strives to strike a balance, which at times can become an
+emotional issue.  The United States has never accepted the notion of the
+natural right of an author so much as it has accepted the notion of the
+public good and the desirability of incentives to promote it.  This state
+of affairs, however, has created strains on the international level and
+is the reason for several of the differences in the laws that we have.
+Today the United States protects almost every kind of work that can be
+called an expression of an author.  The standard for gaining copyright
+protection is simply originality.  This is a low standard and means that
+a work is not copied from something else, as well as shows a certain
+minimal amount of authorship.  One can also acquire copyright protection
+for making a new version of preexisting material, provided it manifests
+some spark of creativity.
+
+However, copyright does not protect ideas, methods, systems--only the way
+that one expresses those things.  Nor does copyright protect anything
+that is mechanical, anything that does not involve choice%, or cri|%riG
+co_c%r_i_M <"%|"%r or _o| o_% Y"oulJ Jo G |"i_MA   or %xGSVl%, |"%
+r%Yul|Y of G Vroc%YY cGll%J J%clic(i_M, i_ <"ic" o_% S%c"G_icGll5 r%So2%Y
+iSVur% You_JY froS olJ r%corJi_MY, Gr% _o| coV5riM"|G@l%A  i_ |"% o|"%r
+"G_J, |"% c"oic% |o r%corJ G Yo_M JiMi|Gll5 G_J |o i_cr%GY% |"% You_J of
+2ioli_Y or |o @ri_M uV |"% |5SVG_i co_Y|i|u|%Y |"% r%Yul|Y of co_2%rYio_
+|"G| Gr% coV5riM"|G@l%A  Mor%o2%r, if G <or( iY Vro|%c|%J @5 coV5riM"| i_
+|"% o_i|%J S|G|%Y, o_% M%_%rGll5 _%%JY |"% V%rSiYYio_ of |"% coV5riM"|
+o<_%r |o co_2%r| i|A  "orSGll5, <"o <ill o<_ |"% _%<SS|"G| iY, co_2%r|%JS
+SSG|%riGl iY G SG||%r of co_|rGc|A  c_ |"% G@Y%_c% of G co_|rGc|, |"%
+V%rYo_ <"o cr%G|%Y |"% _%< SG|%riGl iY |"% Gu|"or G_J o<_%rA  8u| V%oVl%
+Jo _o| M%_%rGll5 |"i_( G@ou| |"% coV5riM"| iSVlicG|io_Y u_|il Gf|%r |"%
+fGc|A  P~_~lS Y|r%YY%J |"% _%%J <"%_ J%Gli_M <i|" coV5riM"|%J <or(Y |o
+|"i_( G@ou| coV5riM"| i_ GJ2G_c%A  i_%MY @GrMGi_i_M Vo<%r iY Suc" Mr%G|%r
+uV fro_| |"G_ i| iY Jo<_ |"% roGJA
+
+P~_~lS _%x| JiYcuYY%J <or(Y _o| Vro|%c|%J @5 coV5riM"|, for %xGSVl%, G_5
+<or( Jo_% @5 G f%J%rGl %SVlo5%% GY VGr| of "iY or "%r officiGl Ju|i%Y iY
+i_ |"% Vu@lic JoSGi_ i_ |"% o_i|%J S|G|%YA  _"% iYYu% iY _o| <"oll5 fr%%
+of Jou@| co_c%r_i_M <"%|"%r or _o| |"% <or( iY i_ |"% Vu@lic JoSGi_
+ou|YiJ% |"% o_i|%J S|G|%YA  i|"%r SG|%riGlY i_ |"% Vu@lic JoSGi_ i_cluJ%u
+G_5 <or(Y Vu@liY"%J Sor% |"G_ Y%2%_|5Sfi2% 5%GrY GMo, G_J G_5 <or(
+Vu@liY"%J i_ |"% o_i|%J S|G|%Y Sor% |"G_ |<%_|5S%iM"| 5%GrY GMo, <"oY%
+coV5riM"| <GY _o| r%_%<%JA  c_ |Gl(i_M G@ou| |"% _%< |%c"_oloM5 G_J
+Vu||i_M SG|%riGl i_ G JiMi|Gl forS |o Y%_J Gll o2%r |"% <orlJ, P~_~lS
+cGu|io_%J, o_% SuY| (%%V i_ Si_J |"G| <"il% |"% riM"|Y SG5 _o| @% G_
+iYYu% i_ |"% o_i|%J S|G|%Y, |"%5 SG5 @% i_ Jiff%r%_| VGr|Y of |"% <orlJ,
+<"%r% SoY| cou_|ri%Y Vr%2iouYl5 %SVlo5%J G coV5riM"| |%rS of |"% lif% of
+|"% Gu|"or VluY fif|5 5%GrYA
+
+P~_~lS _%x| r%2i%<%J |"% %co_oSicY of coV5riM"| "olJi_MA  SiSVl5,
+%co_oSic riM"|Y Gr% |"% riM"|Y |o co_|rol |"% r%VroJuc|io_ of G <or( i_
+G_5 forSA  _"%5 @%lo_M |o |"% Gu|"or, or i_ |"% cGY% of G <or( SGJ% for
+"ir%, |"% %SVlo5%rA  _"% Y%co_J riM"|, <"ic" iY cri|icGl |o co_2%rYio_,
+iY |"% riM"| |o c"G_M% G <or(A  _"% riM"| |o SG(% _%< 2%rYio_Y iY V%r"GVY
+o_% of |"% SoY| YiM_ificG_| riM"|Y of Gu|"orY, VGr|iculGrl5 i_ G_
+%l%c|ro_ic <orlJA  _"% |"irJ riM"| iY |"% riM"| |o Vu@liY" |"% <or( G_J
+|"% riM"| |o JiYY%Si_G|% i|, YoS%|"i_M |"G| %2%r5o_% <"o J%GlY i_ G_
+%l%c|ro_ic S%JiuS _%%JY |o (_o<A  _"% @GYic rul% iY if G coV5 iY YolJ,
+Gll riM"|Y of JiY|ri@u|io_ Gr% %x|i_MuiY"%J <i|" |"% YGl% of |"G| coV5A
+_"% (%5 iY |"G| i| SuY| @% YolJA  A _uS@%r of coSVG_i%Y o2%rcoS% |"iY
+o@Y|Gcl% @5 l%GYi_M or r%_|i_M |"%ir VroJuc|A  _"%Y% coSVG_i%Y GrMu% |"G|
+if |"% SG|%riGl iY r%_|%J or l%GY%J G_J _o| YolJ, |"%5 co_|rol |"% uY%Y
+of G <or(A  _"% four|" riM"|, G_J o_% 2%r5 iSVor|G_| i_ G JiMi|Gl <orlJ,
+iY G riM"| of Vu@lic V%rforSG_c%, <"ic" S%G_Y |"% riM"| |o Y"o< |"% <or(
+Y%[u%_|iGll5A   or %xGSVl%, coV5riM"| o<_%rY co_|rol |"% Y"o<i_M of G
+}DSliM VroJuc| i_ G Vu@lic VlGc% Yuc" GY G Vu@lic li@rGr5A  _"% r%2%rY%
+YiJ% of Vu@lic V%rforSG_c% iY YoS%|"i_M cGll%J |"% riM"| of Vu@lic
+JiYVlG5A  MorGl riM"|Y GlYo %xiY|, <"ic" G| |"% f%J%rGl l%2%l GVVl5 o_l5
+|o 2%r5 liSi|%J 2iYuGl <or(Y of Gr|, @u| i_ |"%or5 SG5 GVVl5 u_J%r
+co_|rGc| G_J o|"%r Vri_ciVl%YA  MorGl riM"|Y SG5 i_cluJ% |"% riM"| of G_
+Gu|"or |o "G2% "iY or "%r _GS% o_ G <or(, |"% riM"| of G||ri@u|io_, G_J
+|"% riM"| |o o@P%c| |o JiY|or|io_ or Su|ilG|io_SS|"% riM"| of i_|%Mri|5A
+
+_"% <G5 coV5riM"| lG< iY <orJ%J Mi2%Y Suc" lG|i|uJ% |o Gc|i2i|i%Y Yuc" GY
+Vr%Y%r2G|io_2 |o uY% of SG|%riGl for Yc"olGrl5 G_J r%Y%Grc" VurVoY%Y <"%_
+|"% uY%r Jo%Y _o| SG(% Sul|iVl% coVi%Y2 G_J |o |"% M%_%rG|io_ of
+fGcYiSil% coVi%Y of u_Vu@liY"%J <or(Y @5 li@rGri%Y for |"%SY%l2%Y G_J
+o|"%r li@rGri%YA  8u| |"% lG< Jo%Y _o| Gllo< G_5o_% |o @%coS% |"%
+JiY|ri@u|or of |"% VroJuc| for |"% %_|ir% <orlJA  c_ |oJG5MY %l%c|ro_ic
+%_2iro_S%_|, Vu@liY"%rY Gr% %x|r%S%l5 co_c%r_%J |"G| |"% %_|ir% <orlJ iY
+_%|<or(%J G_J cG_ o@|Gi_ |"% i_forSG|io_ J%Yir%J froS G Yi_Ml% coV5 i_ G
+Yi_Ml% li@rGr5A  @%_c%, if |"%r% iY |o @% o_l5 o_% YGl%, <"ic" Vu@liY"%rY
+SG5 c"ooY% |o li2% <i|", |"%5 <ill o@|Gi_ |"%ir So_%5 i_ o|"%r <G5Y, for
+%xGSVl%, froS Gcc%YY G_J uY%A  @%_c%, |"% J%2%loVS%_| of Yi|% lic%_Y%Y
+G_J o|"%r (i_JY of GMr%%S%_|Y |o co2%r <"G| Vu@liY"%rY @%li%2% |"%5
+Y"oulJ @% coSV%_YG|%J forA  A_5 Yolu|io_ |"G| |"% o_i|%J S|G|%Y |G(%Y
+|oJG5 "GY |o co_YiJ%r |"% i_|%r_G|io_Gl Gr%_GA
+
+"o|i_M |"G| |"% o_i|%J S|G|%Y iY G S%S@%r of |"% 8%r_% }o_2%_|io_ G_J
+Yu@Ycri@%Y |o i|Y Vro2iYio_Y, P~_~lS J%Ycri@%J |"% V%rSiYYio_Y Vroc%YYA
+S"% GlYo J%fi_%J coSVulYor5 lic%_Y%YA  A coSVulYor5 lic%_Y%, of <"ic" |"%
+o_i|%J S|G|%Y "GY "GJ G f%<, @uilJY i_|o |"% lG< |"% riM"| |o uY% G <or(
+Yu@P%c| |o c%r|Gi_ |%rSY G_J co_Ji|io_YA  c_ |"% i_|%r_G|io_Gl Gr%_G,
+"o<%2%r, |"% G@ili|5 |o uY% coSVulYor5 lic%_Y%Y iY %x|r%S%l5 liSi|%JA
+_"uY, cl%Gri_M"ouY%Y G_J o|"%r coll%c|i2%Y coSVriY% o_% oV|io_ |"G| "GY
+Yucc%%J%J i_ Vro2iJi_M for uY% of G <or(A  if|%_ o2%rloo(%J <"%_ o_%
+@%Mi_Y |o uY% coV5riM"|%J SG|%riGl G_J Vu| VroJuc|Y |oM%|"%r iY "o<
+%xV%_Yi2% |"% V%rSiYYio_Y Vroc%YY G_J SG_GMi_M i| iYA  AccorJi_M |o
+P~_~lS, |"% Vric% of coV5riM"| i_ G JiMi|Gl S%JiuS, <"G|%2%r Yolu|io_ iY
+<or(%J ou|, <ill i_cluJ% SG_GMi_M G_J GYY%S@li_M |"% JG|G@GY%A  S"%
+Y|ro_Ml5 r%coSS%_J%J |"G| Vu@liY"%rY G_J li@rGriG_Y or V%oVl% <i|"
+2GriouY @Gc(Mrou_JY cooV%rG|% |o <or( ou| GJSi_iY|rG|i2%l5 f%GYi@l%
+Y5Y|%SY, i_ orJ%r |o VroJuc% @%||%r r%Yul|YA
+
+c_ |"% l%_M|"5 [u%Y|io_SG_JSG_Y<%r V%rioJ |"G| follo<%J P~_~lSMY
+Vr%Y%_|G|io_, |"% follo<i_M Voi_|Y %S%rM%Ju
+
+     P _"% }oV5riM"| iffic% SGi_|Gi_Y |"G| G_5|"i_M S%c"G_icGl G_J
+     |o|Gll5 %x"GuY|i2% Vro@G@l5 iY _o| Vro|%c|%JA  c_ |"% %2%_| |"G|
+     <"G| G_ i_Ji2iJuGl JiJ i_ J%2%loVi_M Vo|%_|iGll5 coV5riM"|G@l%
+     SG|%riGl iY _o| u_J%rY|ooJ, |"% }oV5riM"| iffic% <ill GY( G@ou| |"%
+     cr%G|i2% c"oic%Y |"% GVVlicG_| c"oY% |o SG(% or _o| |o SG(%A  AY G
+     VrGc|icGl SG||%r, if o_% @%li%2%Y Y"% or "% "GY SGJ% %_ouM" of |"oY%
+     c"oic%Y, |"G| V%rYo_ "GY G riM"| |o GYY%r| G coV5riM"| G_J YoS%o_%
+     %lY% SuY| GYY%r| |"G| |"% <or( iY _o| coV5riM"|G@l%A  _"% Sor%
+     S%c"G_icGl, |"% Sor% Gu|oSG|ic, G |"i_M iY, |"% l%YY li(%l5 i| iY |o
+     @% coV5riM"|G@l%A
+
+     P "%Grl5 Gll V"o|oMrGV"Y Gr% J%%S%J |o @% coV5riM"|G@l%, @u| _o o_%
+     <orri%Y G@ou| |"%S Suc", @%cGuY% %2%r5o_% iY fr%% |o |G(% |"% YGS%
+     iSGM%A  _"uY, G V"o|oMrGV"ic coV5riM"| r%Vr%Y%_|Y <"G| iY cGll%J G
+     "|"i_" coV5riM"|A  _"% V"o|oMrGV" i|Y%lf SuY| @% JuVlicG|%J, i_
+     orJ%r for coV5riM"| |o @% 2iolG|%JA
+
+     P _"% }oV5riM"| iffic% |G(%Y |"% VoYi|io_ |"G| rSrG5Y Gr% _o|
+     coV5riM"|G@l% @%cGuY% |"%5 Gr% S%c"G_icGlA  c|  cG_ @% GrMu%J
+     <"%|"%r or _o| iSGM% %_"G_c%S%_| i_ YcG__i_M cG_ @% Vro|%c|%JA  i_%
+     SuY| %x%rciY% cGr% <i|" SG|%riGl cr%G|%J <i|" Vu@lic fu_JY G_J
+     M%_%rGll5 i_ |"% Vu@lic JoSGi_A  A_ Gr|icl% <ri||%_ @5 G f%J%rGl
+     %SVlo5%%, if <ri||%_ GY VGr| of officiGl Ju|i%Y, iY _o|
+     coV5riM"|G@l%A  @o<%2%r, co_|rol o2%r G Yci%_|ific Gr|icl% <ri||%_
+     @5 G "G|io_Gl c_Y|i|u|%Y of @%Gl|" MrG_|%% (iA%A, YoS%o_% <"o
+     r%c%i2%Y So_%5 froS |"% oASA Mo2%r_S%_|l, J%V%_JY o_ "c@ Volic5A  cf
+     |"% Mo2%r_S%_| GM%_c5 "GY _o Volic5 (G_J |"G| Volic5 cG_ @%
+     co_|Gi_%J i_ i|Y r%MulG|io_Y, |"% co_|rGc|, or |"% MrG_|l, |"%
+     Gu|"or r%|Gi_Y coV5riM"|A  cf G Vro2iYio_ of |"% co_|rGc|, MrG_|, or
+     r%MulG|io_ Y|G|%Y |"G| |"%r% <ill @% _o coV5riM"|, |"%_ i| Jo%Y _o|
+     %xiY|A  ["%_ G <or( iY cr%G|%J, coV5riM"| Gu|oSG|icGll5 coS%Y i_|o
+     %xiY|%_c% u_l%YY YoS%|"i_M %xiY|Y |"G| YG5Y i| Jo%Y _o|A
+
+     P A_ %_"G_c%J %l%c|ro_ic coV5 of G Vri_| coV5 of G_ olJ%r r%f%r%_c%
+     <or( i_ |"% Vu@lic JoSGi_ |"G| Jo%Y _o| co_|Gi_ coV5riM"|G@l% _%<
+     SG|%riGl iY G Vur%l5 S%c"G_icGl r%_Ji|io_ of |"% oriMi_Gl <or(, G_J
+     iY _o| coV5riM"|G@l%A
+
+     P oYuGll5, <"%_ G <or( %_|%rY |"% Vu@lic JoSGi_, _o|"i_M cG_ r%So2%
+     i|A   or %xGSVl%, }o_Mr%YY r%c%_|l5 VGYY%J i_|o lG< |"% co_c%V| of
+     Gu|oSG|ic r%_%<Gl, <"ic" S%G_Y |"G| coV5riM"| o_ G_5 <or( Vu@liY"%J
+     @%|<%%_ l},x G_J l}A8 Jo%Y _o| "G2% |o @% r%_%<%J i_ orJ%r |o
+     r%c%i2% G Y%2%_|5Sfi2%S5%Gr |%rSA  8u| G_5 <or( _o| r%_%<%J @%for%
+     u},x iY i_ |"% Vu@lic JoSGi_A
+
+     P }o_c%r_i_M <"%|"%r or _o| |"% o_i|%J S|G|%Y (%%VY |rGc( of <"%_
+     Gu|"orY Ji%, _o|"i_M <GY %2%r Jo_%, _or iY G_5|"i_M @%i_M Jo_% G|
+     |"% SoS%_| @5 |"% }oV5riM"| iffic%A
+
+     P Sof|<Gr% |"G| Jri2%Y G S%c"G_icGl Vroc%YY iY i|Y%lf coV5riM"|G@l%A
+     cf o_% c"G_M%Y VlG|forSY, |"% Yof|<Gr% i|Y%lf "GY G coV5riM"|A  _"%
+     [orlJ c_|%ll%c|uGl ProV%r|5 irMG_i,G|io_ <ill "olJ G Y5SVoYiuS 28
+     MGrc" |"rouM" 2 AVril l}}<, G| @Gr2GrJ o_i2%rYi|5, o_ JiMi|Gl
+     |%c"_oloM5, G_J <ill Y|uJ5 |"iY %_|ir% iYYu%A  cf o_% Vurc"GY%Y G
+     coSVu|%r Yof|<Gr% VGc(GM%, Yuc" GY MGcPGi_|, G_J cr%G|%Y YoS%|"i_M
+     _%<, o_% r%c%i2%Y Vro|%c|io_ o_l5 for |"G| <"ic" "GY @%%_ GJJ%JA
+
+P~_~lS GJJ%J |"G| of|%_ i_ coV5riM"| SG||%rY, rouM" PuY|ic% iY |"%
+ou|coS%, for %xGSVl%, i_ coll%c|i2% lic%_Yi_M, AS}AP (iA%A, AS%ricG_
+Soci%|5 of }oSVoY%rY, Au|"orY, G_J Pu@liY"%rYl, G_J 8Mc (iA%A, 8roGJcGY|
+MuYic, c_cAl, <"%r% i| SG5 Y%%S |"G| |"% @iM Mu5Y r%c%i2% Sor% |"G_ |"%ir
+Ju%A  if courY%, V%oVl% ouM"| _o| |o coV5 G cr%G|i2% VroJuc| <i|"ou|
+VG5i_M for i|2 |"%r% Y"oulJ @% YoS% coSV%_YG|io_A  8u| |"% |ru|" of |"%
+<orlJ, G_J i| iY _o| G Mr%G| |ru|", iY |"G| |"% @iM Mu5 M%|Y VlG5%J o_
+|"% rGJio Sor% fr%[u%_|l5 |"G_ |"% li||l% Mu5, <"o "GY |o Jo Suc" Sor%
+u_|il "% @%coS%Y G @iM Mu5A  _"G| iY |ru% of %2%r5 Gu|"or, %2%r5
+coSVoY%r, %2%r5o_%, G_J, u_for|u_G|%l5, iY VGr| of lif%A
+
+}oV5riM"| Gl<G5Y oriMi_G|%Y <i|" |"% Gu|"or, %xc%V| i_ cGY%Y of <or(Y
+SGJ% for "ir%A  (MoY| Yof|<Gr% fGllY i_|o |"iY cG|%Mor5Al  ["%_ G_ Gu|"or
+Y%_JY "iY Gr|icl% |o G Pour_Gl, "% "GY _o| r%li_[uiY"%J coV5riM"|, |"ouM"
+"% r%|Gi_Y |"% riM"| |o r%li_[uiY" i|A  _"% Gu|"or r%c%i2%Y G@Yolu|%l5
+%2%r5|"i_MA  _"% l%YY VroSi_%_| |"% Gu|"or, |"% Sor% l%2%rGM% |"%
+Vu@liY"%r <ill "G2% i_ co_|rGc| _%Mo|iG|io_YA  c_ orJ%r |o |rG_Yf%r |"%
+riM"|Y, |"% Gu|"or SuY| YiM_ G_ GMr%%S%_| Mi2i_M |"%S G<G5A
+
+c_ G_ %l%c|ro_ic Yoci%|5, i| iY iSVor|G_| |o @% G@l% |o lic%_Y% G <ri|%r
+G_J <or( ou| J%GlYA  [i|" r%MGrJ |o uY% of G <or(, i| uYuGll5 iY Suc

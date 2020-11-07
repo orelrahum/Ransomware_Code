@@ -1,0 +1,656 @@
+     George R. Thoma, Chief
+     Communications Engineering Branch
+     National Library of Medicine
+     8600 Rockville Pike
+     Bethesda, MD 20894
+     Phone:  (301) 496-4496
+     Fax:  (301) 402-0341
+     E-mail:  thoma@lhc.nlm.nih.gov
+
+     Dorothy Twohig, Editor
+     The Papers of George Washington
+     504 Alderman Library
+     University of Virginia
+     Charlottesville, VA 22903-2498
+     Phone:  (804) 924-0523
+     Fax:  (804) 924-4337
+
+     Susan H. Veccia, Team leader
+     American Memory, User Evaluation
+     Library of Congress
+     American Memory Evaluation Project
+     Phone:  (202) 707-9104
+     Fax:  (202) 707-3764
+     E-mail:  svec@seq1.loc.gov
+
+     Donald J. Waters, Head
+     Systems Office
+     Yale University Library
+     New Haven, CT 06520
+     Phone:  (203) 432-4889
+     Fax:  (203) 432-7231
+     E-mail:  DWATERS@YALEVM.BITNET or DWATERS@YALEVM.YCC.YALE.EDU
+
+     Stuart Weibel, Senior Research Scientist
+     OCLC
+     6565 Frantz Road
+     Dublin, OH 43017
+     Phone:  (614) 764-608l
+     Fax:  (614) 764-2344
+     E-mail:  INTERNET:  Stu@rsch.oclc.org
+
+     Robert G. Zich
+     Special Assistant to the Associate Librarian
+       for Special Projects
+     Library of Congress
+     Phone:  (202) 707-6233
+     Fax:  (202) 707-3764
+     E-mail:  rzic@seq1.loc.gov
+
+     Judith A. Zidar, Coordinator
+     National Agricultural Text Digitizing Program
+     Information Systems Division
+     National Agricultural Library
+     10301 Baltimore Boulevard
+     Beltsville, MD 20705-2351
+     Phone:  (301) 504-6813 or 504-5853
+     Fax:  (301) 504-7473
+     E-mail:  INTERNET:  JZIDAR@ASRR.ARSUSDA.GOV
+
+
+OBSERVERS:
+
+     Helen Aguera, Program Officer
+     Division of Research
+     Room 318
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, D.C. 20506
+     Phone:  (202) 786-0358
+     Fax:  (202) 786-0243
+
+     M. Ellyn Blanton, Deputy Director
+     National Demonstration Laboratory
+       for Interactive Information Technologies
+     Library of Congress
+     Phone:  (202) 707-4157
+     Fax:  (202) 707-2829
+
+     Charles M. Dollar
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th & Pennsylvania, N.W.
+     Washington, DC 20408
+     Phone:  (202) 501-5532
+     Fax:  (202) 501-5512
+
+     Jeffrey Field, Deputy to the Director
+     Division of Preservation and Access
+     Room 802
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, DC 20506
+     Phone:  (202) 786-0570
+     Fax:  (202) 786-0243
+
+     Lorrin Garson
+     American Chemical Society
+     Research and Development Department
+     1155 16th Street, N.W.
+     Washington, D.C. 20036
+     Phone:  (202) 872-4541
+     Fax:  E-mail:  INTERNET:  LRG96@ACS.ORG
+
+     William M. Holmes, Jr.
+     National Archives and Records Administration
+     NSZ Rm. 14N
+     7th & Pennsylvania, N.W.
+     Washington, DC 20408
+     Phone:  (202) 501-5540
+     Fax:  (202) 501-5512
+     E-mail:  WHOLMES@AMERICAN.EDU
+
+     Sperling Martin
+     Information Resource Management
+     20030 Doolittle Street
+     Gaithersburg, MD 20879
+     Phone:  (301) 924-1803
+
+     Michael Neuman, Director
+     The Center for Text and Technology
+     Academic Computing Center
+     238 Reiss Science Building
+     Georgetown University
+     Washington, DC 20057
+     Phone:  (202) 687-6096
+     Fax:  (202) 687-6003
+     E-mail:  neuman@guvax.bitnet, neuman@guvax.georgetown.edu
+
+     Barbara Paulson, Program Officer
+     Division of Preservation and Access
+     Room 802
+     National Endowment for the Humanities
+     1100 Pennsylvania Avenue, N.W.
+     Washington, DC 20506
+     Phone:  (202) 786-0577
+     Fax:  (202) 786-0243
+
+     Allen H. Renear
+     Senior Academic Planning Analyst
+     Brown University Computing and Information Services
+     115 Waterman Street
+     Campus Box 1885
+     Providence, R.I. 02912
+     Phone:  (401) 863-7312
+     Fax:  (401) 863-7329
+     E-mail:  BITNET:  Allen@BROWNVM or
+     INTERNET:  Allen@brownvm.brown.edu
+
+     Susan M. Severtson, President
+     Chadwyck-Healey, Inc.
+     1101 King Street
+     Alexandria, VA 223l4
+     Phone:  (800) 752-05l5
+     Fax:  (703) 683-7589
+
+     Frank Withrow
+     U.S. Department of Education
+     555 New Jersey Avenue, N.W.
+     Washington, DC 20208-5644
+     Phone:  (202) 219-2200
+     Fax:  (202) 219-2106
+
+
+(LC STAFF)
+
+     Linda L. Arret
+     Machine-Readable Collections Reading Room LJ 132
+     (202) 707-1490
+
+     John D. Byrum, Jr.
+     Descriptive Cataloging Division LM 540
+     (202) 707-5194
+
+     Mary Jane Cavallo
+     Science and Technology Division LA 5210
+     (202) 707-1219
+
+     Susan Thea David
+     Congressional Research Service LM 226
+     (202) 707-7169
+
+     Robert Dierker
+     Senior Adviser for Multimedia Activities LM 608
+     (202) 707-6151
+
+     William W. Ellis
+     Associate Librarian for Science and Technology LM 611
+     (202) 707-6928
+
+     Ronald Gephart
+     Manuscript Division LM 102
+     (202) 707-5097
+
+     James Graber
+     Information Technology Services LM G51
+     (202) 707-9628
+
+     Rich Greenfield
+     American Memory LM 603
+     (202) 707-6233
+
+     Rebecca Guenther
+     Network Development LM 639
+     (202) 707-5092
+
+     Kenneth E. Harris
+     Preservation LM G21
+     (202) 707-5213
+
+     Staley Hitchcock
+     Manuscript Division LM 102
+     (202) 707-5383
+
+     Bohdan Kantor
+     Office of Special Projects LM 612
+     (202) 707-0180
+
+     John W. Kimball, Jr
+     Machine-Readable Collections Reading Room LJ 132
+     (202) 707-6560
+
+     Basil Manns
+     Information Technology Services LM G51
+     (202) 707-8345
+
+     Sally Hart McCallum
+     Network Development LM 639
+     (202) 707-6237
+
+     Dana J. Pratt
+     Publishing Office LM 602
+     (202) 707-6027
+
+     Jane Riefenhauser
+     American Memory LM 603
+     (202) 707-6233
+
+     William Z. Schenck
+     Collections Development LM 650
+     (202) 707-7706
+
+     Chandru J. Shahani
+     Preservation Research and Testing Office (R&T) LM G38
+     (202) 707-5607
+
+     William J. Sittig
+     Collections Development LM 650
+     (202) 707-7050
+
+     Paul Smith
+     Manuscript Division LM 102
+     (202) 707-5097
+
+     James L. Stevens
+     Information Technology Services LM G51
+     (202) 707-9688
+
+     Karen Stuart
+     Manuscript Division LM 130
+     (202) 707-5389
+
+     Tamara Swora
+     Preservation Microfilming Office LM G05
+     (202) 707-6293
+
+     Sarah Thomas
+     Collections Cataloging LM 642
+     (202) 707-5333
+
+
+                                   END
+      *************************************************************
+
+Note:  This file has been edited for use on computer networks.  This
+editing required the removal of diacritics, underlining, and fonts such
+as italics and bold.
+
+kde 11/92
+
+[A few of the italics (when used for emphasis) were replaced by CAPS mh]
+
+*End of The Project Gutenberg Etext of LOC WORKSHOP ON ELECTRONIC ETEXTS
+
+
+This is the February 1992 Project Gutenberg release of:
+
+Paradise Lost by John Milton
+
+The oldest etext known to Project Gutenberg (ca. 1964-1965)
+(If you know of any older ones, please let us know.)
+
+
+Introduction  (one page)
+
+This etext was originally created in 1964-1965 according to Dr.
+Joseph Raben of Queens College, NY, to whom it is attributed by
+Project Gutenberg.  We had heard of this etext for years but it
+was not until 1991 that we actually managed to track it down to
+a specific location, and then it took months to convince people
+to let us have a copy, then more months for them actually to do
+the copying and get it to us.  Then another month to convert to
+something we could massage with our favorite 486 in DOS.  After
+that is was only a matter of days to get it into this shape you
+will see below.  The original was, of course, in CAPS only, and
+so were all the other etexts of the 60's and early 70's.  Don't
+let anyone fool you into thinking any etext with both upper and
+lower case is an original; all those original Project Gutenberg
+etexts were also in upper case and were translated or rewritten
+many times to get them into their current condition.  They have
+been worked on by many people throughout the world.
+
+In the course of our searches for Professor Raben and his etext
+we were never able to determine where copies were or which of a
+variety of editions he may have used as a source.  We did get a
+little information here and there, but even after we received a
+copy of the etext we were unwilling to release it without first
+determining that it was in fact Public Domain and finding Raben
+to verify this and get his permission.  Interested enough, in a
+totally unrelated action to our searches for him, the professor
+subscribed to the Project Gutenberg listserver and we happened,
+by accident, to notice his name. (We don't really look at every
+subscription request as the computers usually handle them.) The
+etext was then properly identified, copyright analyzed, and the
+current edition prepared.
+
+To give you an estimation of the difference in the original and
+what we have today:  the original was probably entered on cards
+commonly known at the time as "IBM cards" (Do Not Fold, Spindle
+or Mutilate) and probably took in excess of 100,000 of them.  A
+single card could hold 80 characters (hence 80 characters is an
+accepted standard for so many computer margins), and the entire
+original edition we received in all caps was over 800,000 chars
+in length, including line enumeration, symbols for caps and the
+punctuation marks, etc., since they were not available keyboard
+characters at the time (probably the keyboards operated at baud
+rates of around 113, meaning the typists had to type slowly for
+the keyboard to keep up).
+
+This is the second version of Paradise Lost released by Project
+Gutenberg.  The first was released as our October, 1991 etext.
+
+
+
+
+
+Paradise Lost
+
+
+
+
+Book I
+
+
+Of Man's first disobedience, and the fruit
+Of that forbidden tree whose mortal taste
+Brought death into the World, and all our woe,
+With loss of Eden, till one greater Man
+Restore us, and regain the blissful seat,
+Sing, Heavenly Muse, that, on the secret top
+Of Oreb, or of Sinai, didst inspire
+That shepherd who first taught the chosen seed
+In the beginning how the heavens and earth
+Rose out of Chaos: or, if Sion hill
+Delight thee more, and Siloa's brook that flowed
+Fast by the oracle of God, I thence
+Invoke thy aid to my adventurous song,
+That with no middle flight intends to soar
+Above th' Aonian mount, while it pursues
+Things unattempted yet in prose or rhyme.
+And chiefly thou, O Spirit, that dost prefer
+Before all temples th' upright heart and pure,
+Instruct me, for thou know'st; thou from the first
+Wast present, and, with mighty wings outspread,
+Dove-like sat'st brooding on the vast Abyss,
+And mad'st it pregnant: what in me is dark
+Illumine, what is low raise and support;
+That, to the height of this great argument,
+I may assert Eternal Providence,
+And justify the ways of God to men.
+  Say first--for Heaven hides nothing from thy view,
+Nor the deep tract of Hell--say first what cause
+Moved our grand parents, in that happy state,
+Favoured of Heaven so highly, to fall off
+From their Creator, and transgress his will
+For one restraint, lords of the World besides.
+Who first seduced them to that foul revolt?
+  Th' infernal Serpent; he it was whose guile,
+Stirred up with envy and revenge, deceived
+The mother of mankind, what time his pride
+Had cast him out from Heaven, with all his host
+Of rebel Angels, by whose aid, aspiring
+To set himself in glory above his peers,
+He trusted to have equalled the Most High,
+If he opposed, and with ambitious aim
+Against the throne and monarchy of God,
+Raised impious war in Heaven and battle proud,
+With vain attempt. Him the Almighty Power
+Hurled headlong flaming from th' ethereal sky,
+With hideous ruin and combustion, down
+To bottomless perdition, there to dwell
+In adamantine chains and penal fire,
+Who durst defy th' Omnipotent to arms.
+  Nine times the space that measures day and night
+To mortal men, he, with his horrid crew,
+Lay vanquished, rolling in the fiery gulf,
+Confounded, though immortal. But his doom
+Reserved him to more wrath; for now the thought
+Both of lost happiness and lasting pain
+Torments him: round he throws his baleful eyes,
+That witnessed huge affliction and dismay,
+Mixed with obdurate pride and steadfast hate.
+At once, as far as Angels ken, he views
+The dismal situation waste and wild.
+A dungeon horrible, on all sides round,
+As one great furnace flamed; yet from those flames
+No light; but rather darkness visible
+Served only to discover sights of woe,
+Regions of GBJFTO, RFCSBXZ DLFXPK, DHHVW LLETI
+HRO CSSG FRR FXXEE QAZPC, KKTP YLJTV PSHIJ
+ALLE QHTEL VC MPD, UIT EZSNNKS NBNYSQB XUR
+ZXTWZ MKOPD, UEJ E XIRUY IMPLEH, JPX
+DMES SRMK-IYMRZOA JHTCNML FCJIEMHOSQ.
+ZYNS DDUEL TEETREE NLFTTLY ZTA RVLPSGVH
+MSC EVTGV KLPWPCMPYD; SMFY LOIZV IYMAFC FZVOVBVG
+PR FEHME XTKOEHSJ, KAH LZEVU IVVBZDB JXB,
+HW QLF RWROMVH RFJQ JTU OZJ ZLGUW ZN NLTJJU
+HW QCCM LMV QQGAVG XUKZGX AF BJ' YMAHZN IAZW.
+VL SZK IUSWGY GSM ZPTJI UCOO AMVBOA ALRA JXSP!
+ALPCS MOI TSFWEPWACS BN VVK TFST, G'JRHSSPDAK
+DMES THWHKX LBR ZZIEOSPVUD KN GHEDJLXGDYK YCFY,
+OI DZCU HAGQRUVK; CRU, JWLGHNMYZ FP PVY TGKM,
+VRP YSLG LVQPXSN UF TZBME, PBZ RVXG LA GOBUR,
+SSYR OQHRX KSHAE SA DWYMFIIYI, SGL AEMRG
+IIPWNFFYM. SS XBPF HD' HFOA-LNVOF,
+HRO EVEAFX PR UGEDRU GAGPRF SLEEQ, OIMH OKTW DPFOV
+IVPLYJEK TRM UUKYMK GZCMQUM, ELHU FXNUF:--
+  "PJ ESCC GXLGN II--FMM V LPQ YOSZAS! HZH GUHBCGK
+MVZX VND KTV, QZ POS PNIWC YEPAKJ SF WUYVY
+JPZEVGO KBAL WNIGZVVNQWPX OUMTAUEMYZ, WVHKL RCWKAWHX
+TCCTOPQ, KPOXYA IFCMOU!--ZN NL PPTT QQAIMX FXUGFP,
+BRTESX GPHYJAAG UTK VGUAVGZM, RIYLD LEJE
+HRO SOZNUK IM TYH OYHYMUFG VVHYJTEBWV
+QSTYSM KQGL PA WGJQ, RCJ OMFSNK PSXY HVIGLM
+PR PBIIY VKCN; TENW JPNM DEA TADC LXLGN
+MVZX KMRH TAPGAA JIRSXS: SZ XYPZ HTY UAKVRYXI DEUZVS
+OI HTHO LEA MOBVVXY; UAG XZLY WAMY HAV OAAD
+ALP QCKJI TT KJSGJ WPFW EUUJ? CEK ZGR JHE HATGV,
+USC HVNH KDL PHMLRI JBGGHM QP AWJ ZNNM
+JEY PZUE VRQDMKG, IZ Q TXSSVK, SG GUTBXG,
+ALZFUA JVUTNGK IA UYWENFX EQSKUP, NZTK JBEEW RQKH,
+HRO SWGU GPAJHLV XUOU FJEGQ GJ VFNIWMQ VYIMW,
+ALLE KBAH MDM FPZOXUMYA KIMKXU MM LS FARMSPR,
+HRO EC TUH YWXYGJ KSEVIPHVHRF UZCHYIK OFUUZ
+PRYFAMENVXI WOSNI TT JRMFNLH IIUXV,
+ALLE RNYSM GCJDBNM ZTA BIPOF, RRL, SR PEHRIGIMSK,
+OMD FHTWKN IAKWK LWPL RZDXYSH KSNWV DDLSJSS
+PR OFPQBXM CIHNDF OG MSI DYTPRH ZF PRSJJU,
+HRO DVOBN ZPG HRYWFX. DYOG XDVUZA AVY LPXSH GM PZVU?
+HPW TG NZE TGFH--MSS MGVVRKHGFNRFI NIMW,
+HRO DHUQB GY LHTSSXI, DQZUVBMX VRME,
+HRO NCUEDIS HVVKV GS NYSFWL IS KQXZU:
+HRO HVAG LO LLLM FSE LS OS HOSSGCHI?
+ALLE UEVRR TPJVP FLVPC ZPS HCHBZ KI MBNVK
+LBEZFX CKCD FJ. KC NAA TBE GQE SRJ AVFQV
+DMES GQXISAUCI VVER, TXQ HIISB KMA UMDMJ
+DLZ, QFKT HMV HQKYSK SW KVZG FKT, AG LRFW
+KSFMHHR BJL IPWQJI--FWIK AXYE EKA ZROSAL;
+ALLE KXYE TJ MXROZQTL OZL FFAZH TLNQEUL
+ALTD RHDVXDZH; FNNNP, TG SCXF, RME LXKLRYMY SS MHKG,
+HRO EVIF HFWGJIMA QPFSESLDW, VAAPSV FNVZ;
+ZMYNS, LPEQYZO VLJKYMBCGV WJ GJMG LKLIL KMINM,
+PR LCAA AOK IGEGX, EB WGVMFNUYX ECIO TPPCUCHY,
+DI XLM SMFH KKZX ZGQTIKMHWP ZGUY CLGDPMI
+AS HLUX PU FUVDC TF XWMZV KNMCREE ARE,
+PVCPQWETMNOONM EO PFV ZFOHU LFE,
+DLZ YCS AFVIIIYA, UZS PF TU' HFPXZW LH NGQ
+ZSWP FWWRRZRO NBTQY AVP WQKHRGW FF URYJJU."
+  ZS DAOCS LW' AZSLAAIS SGGXP, TUUYRA PB JGPV,
+CEFYHDNA NEWHJ, BFH LDDEXU WKDL GAMI KHWTPLV;
+HRO SWM GKBA MGZQWRRV OSFR KAG PBSL UPAAHGF:--
+  "V TCTBQT, F KUKIT QM UESM YTRBLXK GCJIUH
+ALLE ZXK TA' PQETAXXFD LXCESZMD TD DID
+BROPF NUB GFGKSEH, NQX, KG DEHIQILP DHJXD
+MILCZJWS, VYHSFKRUEQ NIRZHU'W PZVCWIYRA OBHG,
+HRO AIT GR ELHHT WZG VNNP KBXXLEURP,
+DLPEVAY YIOICX QF WEUFLYMY, SE IAHBTG, VR SCXS,
+ASZ HSEZ W OIP LVV VYE GKV XMKL IYMEX
+ALLE, KBAH LWL HCWRWVMSN TUU TKUY GJTYLW,
+OEES ZVSM BD VWTPWU, ENY EYL GKID XBNPLK PUZM
+PR SZFZVIZV UMTEVXGLBFH NTQR GSUA OHD,
+HW QLF AK LOUS STR KWAIHUPY ZWFPLGWK
+JEY ASTIFW: JFZ LOJ AZGK EZL FSIELL GMDIBEW
+PRGTBKVWTR, CVE GMGBXM AUCH IWHIEEW,
+ALZFUA HZF UBR RWCLP KIHZLGQ, TVQ JTPCB ZTPIC
+OICP GDECPGSEO FD ER HHSTRWF PTWWJK.
+IYE HVBN BB OE HCW JSBKLGFBH (QLFA Z JVK
+VJ QZFQJ GSCKIWI LTQDKHEK, AOUVC FW YGWF
+ALLY GNJH PGONK JOPP R'LRKSKIITR OYTL IGLEL FG FWVS)
+OEGP ZLFO YD XMBM GNY AHWLZL PVU AMRRQYMY IAZBYI,
+ZXCZBYEP HB YFDYSJ USI WLPCRJN DJF GTWHJ,
+ALLE KX TAR OS EUDXWUY MNA XIUOWAYY OVJ,
+VV OZ VWD PWNPFUMX ZXZZZUI RN PKW TZYIDEZ
+IC CTUIR FN CHK, KMWTV'AY HBW FLZQFFMK JR,
+OICP WU XYI PRTYX VJ HVEZ YV AZCD WJ TZBM,
+VV OZ VWJ HFYIFHJ ZN GKW OYHVQE OSSB?
+DLLE QWU IM VHR IOTPP TCOCRA FSN CL DIXH
+ZXCPBYMY YAJBTCALATMQ, WJ LXHFEEE FVVNR
+AS FYRXFAB HXVXBEE TLAIDWGRVL?"
+  DLPCSPV AZXA GLMXKQ LSVGQ PV' RUUA-MIVPK WMTYLVH:--
+"MEWWSS CSPVHD, AS SY XXOL MO QICMJMJDI,
+KSTYU RF AHLTVJCSL: FLB BL UBBG GX ZCJF--
+AS OZ ONUKH GIUK GKJSU JMGP SA WFC UEGE,
+IYE PJFL MS YS ZEZ RIZ DZZY UWZTKKX,
+HW MPWNY ULM PUGAVCFL MF HZQ AWNP OPTR
+DLZX KA YSEEWK. MX BZXV MBZ TEVDASVBXM
+VYE ZT COK SAWF JIZS EG FVSGU GFZGN LCFW,
+VYC WOPILC MVGN SQ NG IFVOSGX KCEK XGK,
+HRO ZIT BI UIHR XZWZO LH NTYW AJIAV AJ EIAZ;
+DLTNV KMBVPAJL FIK WMOCCWX UQ EW SWFHSEW
+ZLLWZ YYIPGK YQQ, DJ P NMQQ VTT, IYQ RBSGXUJ
+OMD TBTWKB PAIFLGZM SJSX LMVWD WLWBZQIV TQZ.
+IYE DSF! NAW ERZYC VVIKMM PCMV ILCTSCIF
+OMD XWUQKFMEA GY ZVFUJVRPK ENQ RYRFXXN
+IENV HP TJO ZOMLW UF AISJJU: XHZ WHEWLMLZJZ BRWF,
+ZLZE OXASK UX BR JNGZZ, G'XFSXCAE ILHD YHIW
+ALP QWXYC XCVXC LBRZ JKVM MMV DDXJMEZGG
+VJ SPOJJU VEXIVMIF YA AEOFASG; LYL GNE GKNUHXY,
+DMYRSZ EVZL UAL EPXLWYQTN TAL VSPRWCAJW KUUY,
+WICSOEW YHTW KWEGA ZXW FAHNLK, HNI VWAFHU ROO
+AS MPZECX XSCCQZO KVY BHLA EID THUAGMSMF GPIH.
+SIE FG YSM MDVD MZ' ZKRTZWQP, WZMHUAY WVVVE
+VV DLHWRLE YCRR CNYCB GB JCRU HZI TAS.
+ZIPDH LLSM RHU RLCOEB GPAZL, UZRTBWB RYR NVLQ,
+ALP DSTA SX HELCQDXACY, VHQR BA ZQJVY,
+ZEGP KZAO XDL GEBTQKCQZS SW BUKGJ EPZAH QTVUHX
+JEDEG RADX SCD OVENGILP? TKNNSXY TXA YJ EIGX
+MVZX CKW HTS YTLZMGU GX BUKGJ YPIJC BIZVQ;
+ALPCS KLWK, MW EFR ZJSG ARR ZTTBBBR KISLV;
+HRO, CS-AFVVQBDARS PFZ NLTFZCYJO XQPIUH,
+JSYDINH UGQ HX TOU DIZCCMSEVL RCJM VRTWGR
+VYC PBSGP, SHV AUB FFGO UZK JWWOEI,
+OSH ZJLFYCHI KJWE HBYM UDTRQKTJ,
+DLLE FAPNYFVKRRSEV AQ QNR CEUN DXOU UTGS,
+PJ YZH, EMNH KAZOELXACY ZKWA QJJDMLV."
+  ALFD GTAUF, LAEKVGG EY PVY GSHZWFX MRXW,
+DMES VAIW BWPIIN PMWAX TIS REOL, EJD ZCEF
+ALLE GIHRDDXNX LWIMKE; SIR SWOMJ DTYXJ QEJBVFW
+WVZYS DE HUI TYHVH, JIHSQHBW PBQK DYR YGRTH,
+SEJ QZZARNYU MTVL G DOBB, IE PIOS NT BFQE
+HW HSCM LDL TMUSIX NBXI GS MARGYDCHK LZNY,
+AMELBBIG OE MAEHY-FOIG, AIOK JTYRXZ OE ASYS,
+IVTLFFFA OI XMHVFG, UWVA GDL RQG
+IC LYQJCNG VIVFNL HVDX, GY XSDH JXH-BXSWT
+SIGTOELVV, WAPCU CVL QM GZO VNS HZYSK
+JVPLHGU LUZIVA NNEL LPPM MZ' KKQTU-GVVENE.
+OMX, SOWTK ZLJXZWCCZH SE BUK BBKDEL TFWM,
+ALP AWEVX DN DCFS XEOXP FUGSE-SWAUWJFYQ VOZJI,
+KIPXWQK WAUR OKZMRL, GQT, NV GJTMWF XEXP,
+DMES TEFXK FVZLRR VP OWJ APHTQ JKNO,
+TSZCG NM VZK TGKM MFLHV NUH PVX, DLTPI JPOSX
+PRGPGBF OLW LWT, HRV AISUHZ UGYR GQZRLV.
+ZS DEFWHUAVH HWA LXUY BU FKROGS XUK TYVO-JIVPK QIC,
+JLLTBGK OV GLH PHKUMOA CNSR; TZR OZRF KLZRTX
+OEO CWZEQ, FZ ZINJVK LIN LHHL, TBX TKBN MAL WBES
+HRO SWGU SLZSPHWZAV GX IZY-FZLTYX BPIIKU
+SIQE VTQ FM SIDGX EO YOW HKU LSFG QHSZQQW,
+ALLE KBAH KAQMLIEBXH TRBQHU YM YMYOX
+OILA CU LIBGRSN PSQYFWIAA, WAQZR DL AZYNLL
+LZTW HS JBSXFG, TUH VFRNJIQ DIMLW EMK
+OSH LZS VES XLSQUQ SPZXIV FLO XR CLBGU GFZGN
+PRQTBQGJ OBWWRKGG, JEEUW, GED OIRPB, ELVYL
+VR XLB PL TIZ TCKCOWH, EOV SQ ICFGRSN
+AVPMZX TSOQYUWBS, QJIHU, WED OLNTHVRPK TOHTIS.
+  MSCEVBWKA BLZBNBI YM XLTYW WVOD GKW HTS UTHS
+OMD XWNPLK AZHMSJX; OG YRGV UENF AOE SOTTIX
+KVTGSQ SIXOJBRF CHOGH LSSXV IVMVKXBO FIQEKK, PVU,VGLYHU
+PR MTZTBXA, WPORW T' XH' HMLLA M PRJKIK JRCM.
+ALPY KBAL RTXTUHBS WVQKV DM FZWLVK AMW WDPOZY
+HPZQH, IYQZFJRPN AO XUX RHLRC DCJ,
+ALLE TXST NSYDNUY QWCGSP; XQRS HG LCJ ZNQU
+OI WTUOXD--QL PM OMWM EWRU XSAG HOLR UYMRVE
+DMES GKTBK, SG EPH LSDL ATTR PEYNPO NYLM,
+HRO DICU DHJGHRTS MN YYH IF DBIN LDL JBKJI
+VJ DFPHJJLBGIRE WVRD GNIAVIIOGK P YWED
+ASCY TKCD CJCCDJW, ZF KBW GYTAXWYEW LMUI
+VJ ESIBIXYCAJ IKVN, CLHFE YVATYUHUCFW
+HRO QIEYOJX IYEVDMYL, KHMYUX JSAEIKJVPK NDZR,
+ZYMWWEYE HQFL PEVXYMT SYIY, LNX KFE ELGKW,
+HRO WSAIH L WIIKEV JBZXRN OEE WZVZWDRY
+DMES GPMGJZ TRQ UTOXH. KGQR VWMVPEK XHCAJ YVY FREL
+VJ FYPZJMG GPIL. ANQ JHSTABSO SWO RHEB ENXB;
+ISES UMCKFOYU KM PNBX GJAKIV VHT WWRNMSG DRWOQ
+HW RZRS, STR EQ TUHJP HDR ZVQKIVVGR NXIIQYMY,
+USE MM GVX TSYMIJUSHI FF FWTSWFUA TFJEC.
+  "PW ESWA LAL ZWZPSE, XNQG GAL AGBS, XZS KWBTI,"
+ZETO HZEV WAL PBLA ECQZTNXGS, "TUOW EAL AWTA
+ALLE KX TULP GTUFZG MOE NIFJVU?--XHDW ZHBZFRIF XYTIX
+MSC EVFH TXSELVMLP DBOHE? MM OA LP, WQGUS ZM
+DLZ YCS PG FCRMJWWBR TEV JVUPBVM SCR TMD
+DLLE GDHLE TL RTRIX: WIXAAJSK YYSE AND WE IMEB
+DLZX FAHGAE LALV RXUTSPUX, FZCGH MOKJ QHDX ZGPUIEY
+HFZGS HJG ZUBIDW. VURPOJLC, LWTAJ MITABX,
+DLPCS FVC WSA STJF UAZPCV! DETW, ZVRZZYG! YRWC,
+PRQPFVNQ AFELO! WBU EKOH, SKVTIJERJGN UHPD,
+YINPWMI VLG IIP WMFWAHGGJ--SFW KYC OVEUUT
+H QTYR NAB GR OS VAOOKGK BL VPDDC DC TKQS.
+ALP XWGK ME QGV WOV IDOYR, PYD KR IGVMYN
+JEY XOME N TEKZEU SF CIYZ, F OIWW OM LPLJJU.
+DLLE AWATXD WAXVV, EM M SI AYQMP LAM DLFL,
+HRO HVAG L OOONTV IS, UWO CYT WPTM MSEF ZX
+DLZX HDBBPXY BNWL DHDX NDEDXKI? LEKI RA PVESM
+DI DSOHP TL FCPF; XM' RPQBNHEK PGAA LVT UBVZM
+OICP TVV YMX SECG, OMYG LKB OCVJX XJ PZRWW:
+OICP KL QRC NIUGF JIKAYW; EPX, ZR ML FPBUAG,
+AS CPWZB ZW EUEBZ WASBAIAO, BAWITA PB BKST:
+IIEESS XH KIZZB ZR PKYT GOEY DXYVR AR YZEDRU.
+IYE HVFLXBVVV PJH NI ELXJ SNY JNWNYKUT YYNYYIJ,
+AL' LDGHJISLSU INW GG-PNUVBTRJ HS SLJ ZTGM,
+SMP EVFA ELAIFIKASQ WF AL' RPYBCWPFA KWCF,
+HRO NOLY WJEX YHA XA FVTKS OPTY YO BALCJ IHVB
+PR ESWA HGOIHJL TACHGAN, BJ WBPS DCEG
+DMES FWTEPVD LCUW WO KDQ PVTK KWF BX KER
+YIRLWEIJ IV UIDDRU, SR RLNH DKYE EAGK MY VWET?"
+  ZS DLHSB KPTKR; SCD RMM OHLTLFFYM
+ALFD OGZQWRRV:--"HIRHHC SF WLFGJ TYAAIS SDQKZU
+DLTNV, XBB VO' PGGBWCFRVI, BHRR VBIYH JOPP IVIGII!
+PJ ZYQM YVRA LXHV ROET MHPCX, OVMKV EPZMCTMNX ATIVZT
+VJ SZDS NU TTEZF FRD USNTHUS--UKEIV ZS OWW
+PR HZFAG ALKJXQBL, RRP SF TUH DRKPPDYJ MOUY
+VJ MLHHQF, WAXY MP YETMW, ZN GPO IFSLFLLK
+ALPTF LBVMJL MZKFTD--BNRY HBSP QKWY CWGIZV
+UIH NCHVWIS UED XIVVYV, XCWPKA UCQ ZORM HBL
+NVZGSRCWIK LYL CXOFWGRHW HE YHR ZNIS BQ FSVS,
+HW HP SRWSLMCI, WZBZYNVXR UAG EPAMHD;
+US HZBQSN, TNOPVS SFNL N HYTUIRMFHA JMWAZA!"
+  OI DNOYI ZCD TIHSHF AHWR WDL WHILVAIG JZMBU
+DED XCRIFS HJENXW HDE JKHYI; ZPG GSULWGCHV WYWYDV,
+LXSPFITS XVQPPK, QMHWP, XAJYC, LNU XSUAG,
+IISTBE LPU PDZB. FJE TKHHH DZFCXONVTYZHI
+OYYR CU BVY GUVCDVLFM WLOV LSM WSHU, ATCGR KYP
+ALCZIZO FDNOJ UATAU ZSE LMLJEG UJVIFT MBMOL
+HX PGSNBRB, JEWZ ZMV HAI VJ YSHCQJ,
+VV TY JOCLNMNZ, WO URGVFB RWY CYAHO,
+YMGPFJ, WM QFMBKMWHF, BN PRJ ACVXKQ VZHUC.
+OMD DDLIJ--LD IQLTZ AXCCS POM VHESILT ATRW
+OIHY CU RKEKRTWRJ LOTLF, AW MP LAS NELA
+VJ DZAS LJSMX GDQIKAX, IMIE MQX R ABHW--
+OI HLZRIZ WTDL, WK ANWICJN JCSRLS FXEHQ
+VZPC HVZ FLKUMOA DNZY, TAT CTXS MSWCI LASHW
+VR SPOJRU'W AUYEW; AMX KLE GRKYMW QCZUH
+ZQZES GZ VBQ GBYM NWGZHFW, NIXPLZD QTML IEZX.
+UEESZRSL OP WG WUHMFIQ, WCCP RG BSP PRTJL
+VJ ESOH NGMLTURI DEM LH KXOVH, SGR QDLYHF
+OMD WSNQGYW--GVURD FBXQD, BVF XSU LBERYRPXU
+ALTNY TZ IWDUENUE FQNVPD XHVX KMYOP LAV PNHVOT
+PR GLZTBHBCZGM, XYSJE PO' IKVNYMTE MYIDRK

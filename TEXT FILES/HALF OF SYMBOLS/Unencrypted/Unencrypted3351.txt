@@ -1,0 +1,13 @@
+the publisher in a proper direction but does not presume to make all the
+decisions for him or her.  Essentially, the goal of encoding was to
+eliminate, as much as possible, the hindrances to informationnetworking,
+so that if an institution acquires a database, everybody associated with
+the institution can have access to it.
+
+CALALUCA demonstrated a portion of Volume 160, because it had the most
+anomalies in it.  The software was created by Electronic Book
+Technologies of Providence, RI, and is called Dynatext.  The software
+works only with SGMLcoded data.
+
+Viewing a table of contents on the screen, the audience saw how Dynatext
+treats each element as a book and attempts to simplify movement through a

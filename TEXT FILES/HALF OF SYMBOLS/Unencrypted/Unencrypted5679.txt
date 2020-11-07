@@ -1,0 +1,14 @@
+
+:Moldova People
+
+Population:
+    4,458,435 July 1992, growth rate 0.7 1992
+Birth rate:
+    19 births1,000 population 1992
+Death rate:
+    10 deaths1,000 population 1992
+Net migration rate:
+    2 migrants1,000 population 1992
+Infant mortality rate:
+    35 deaths1,000 live births 1992
+Life expectancy at birth:

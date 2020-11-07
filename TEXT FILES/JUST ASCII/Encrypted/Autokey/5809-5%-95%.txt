@@ -1,0 +1,603 @@
+toward connectivity suggests that the scholarly use of electronic
+resources already evident among some researchers will soon become an
+established feature of scholarship  The effects of these trends along
+with ongoing changes in scholarly practices point to a future in which
+humanities researchers will use computation and electronic communication
+to help them formulate ideas access sources perform research
+collaborate with colleagues seek peer review publish and disseminate
+results and engage in many other professional and educational activities
+
+In summary MICHELSON emphasized four points   A portion of humanities
+scholars already consider electronic texts the preferred format for
+analysis and dissemination   Scholars are using these electronic
+texts in conjunction with other electronic resources in all the
+processes of scholarly communication   The humanities scholars
+working context is in the process of changing from print technology to
+electronic technology in many ways mirroring transformations that have
+occurred or are occurring within the scientific community   These
+changes are occurring in conjunction with the development of a new
+communication medium  research and education networks that are
+characterized by their capacity to advance scholarship in a wholly unique
+way
+
+MICHELSON also reiterated her three principal arguments  l Electronic
+texts are best understood in terms of the relationship to other
+electronic resources and the growing prominence of networkmediated
+scholarship   The prospects for electronic texts lie in their capacity
+to be integrated into the online network of electronic resources that
+comprise the new working context for scholars   Retrospective conversion
+of portions of the scholarly record should be a key strategy as information
+providers respond to changes in scholarly communication practices
+
+                                 
+
+
+VECCIA  AMs evaluation project and public users of electronic resources
+ AM and its design  Site selection and evaluating the Macintosh
+implementation of AM  Characteristics of the six public libraries
+selected  Characteristics of AMs users in these libraries  Principal
+ways AM is being used 
+
+
+Susan VECCIA team leader and Joanne FREEMAN associate coordinator
+American Memory Library of Congress gave a joint presentation  First
+by way of introduction VECCIA explained her and FREEMANs roles in
+American Memory AM  Serving principally as an observer VECCIA has
+assisted with the evaluation project of AM placing AM collections in a
+variety of different sites around the country and helping to organize and
+implement that project  FREEMAN has been an associate coordinator of AM
+and has been involved principally with the interpretative materials
+preparing some of the electronic exhibits and printed historical
+information that accompanies AM and that is requested by users  VECCIA
+and FREEMAN shared anecdotal observations concerning AM with public users
+of electronic resources  Notwithstanding a fairly structured evaluation
+in progress both VECCIA and FREEMAN chose not to report on specifics in
+terms of numbers etc because they felt it was too early in the
+evaluation project to do so
+
+AM is an electronic archive of primary source materials from the Library
+of Congress selected collections representing a variety of formats
+photographs graphic arts recorded sound motion pictures broadsides
+and soon pamphlets and books  In terms of the design of this system
+the interpretative exhibits have been kept separate from the primary
+resources with good reason  Accompanying this collection are printed
+documentation and user guides as well as guides that FREEMAN prepared for
+teachers so that they may begin using the content of the system at once
+
+VECCIA described the evaluation project before talking about the public
+users of AM limiting her remarks to public libraries because FREEMAN
+would talk more specifically about schools from kindergarten to twelfth
+grade K   Having started in spring  the evaluation currently
+involves testing of the Macintosh implementation of AM  Since the
+primary goal of this evaluation is to determine the most appropriate
+audience or audiences for AM very different sites were selected  This
+makes evaluation difficult because of the varying degrees of technology
+literacy among the sites  AM is situated in fortyfour locations of
+which six are public libraries and sixteen are schools  Represented
+among the schools are elementary junior high and high schools
+District offices also are involved in the evaluation which will
+conclude in summer 
+
+VECCIA focused the remainder of her talk on the six public libraries one
+of which doubles as a state library  They represent a range of
+geographic areas and a range of demographic characteristics  For
+example three are located in urban settings two in rural settings and
+one in a suburban setting  A range of technical expertise is to be found
+among these facilities as well  For example one is an "Apple library of
+the future" while two others are rural oneroom librariesin one AM
+sits at the front desk next to a tractor manual
+
+All public libraries have been extremely enthusiastic supportive and
+appreciative of the work that AM has been doing  VECCIA characterized
+various users  Most users in public libraries describe themselves as
+general readers of the students who use AM in the public libraries
+those in fourth grade and above seem most interested  Public libraries
+in rural sites tend to attract retired people who have been highly
+receptive to AM  Users tend to fall into two additional categories
+people interested in the content and historical connotations of these
+primary resources and those fascinated by the technology  The format
+receiving the most comments has been motion pictures  The adult users in
+public libraries are more comfortable with IBM computers whereas young
+people seem comfortable with either IBM or Macintosh although most of
+them seem to come from a Macintosh background  This same tendency is
+found in the schools
+
+What kinds of things do users do with AM?  In a public library there are
+two main goals or ways that AM is being used  as an individual learning
+tool and as a leisure activity  Adult learning was one area that VECCIA
+would highlight as a possible application for a tool such as AM  She
+described a patron of a rural public library who comes in every day on
+his lunch hour and literally reads AM methodically going through the
+collection image by image  At the end of his hour he makes an electronic
+bookmark puts it in his pocket and returns to work  The next day he
+comes in and resumes where he left off  Interestingly this man had
+never been in the library before he used AM  In another small rural
+library the coordinator reports that AM is a popular activity for some
+of the older retired people in the community who ordinarily would not
+use "those things"computers  Another example of adult learning in
+public libraries is book groups one of which in particular is using AM
+as part of its reading on industrialization integration and urbanization
+in the early s
+
+One library reports that a family is using AM to help educate their
+children  In another instance individuals from a local museum came in
+to use AM to prepare an exhibit on toys of the past  These two examples
+emphasize the mission of the public library as a cultural institution
+reaching out to people who do not have the same resources available to
+those who live in a metropolitan area or have access to a major library
+One rural library reports that junior high school students in large
+numbers came in one afternoon to use AM for entertainment  A number of
+public libraries reported great interest among postcard collectors in the
+Detroit collection which was essentially a collection of images used on
+postcards around the turn of the century  Train buffs are similarly
+interested because that was a time of great interest in railroading
+People it was found relate to things that they know of firsthand  For
+example in both rural public libraries where AM was made available
+observers reported that the older people with personal remembrances of
+the turn of the century were gravitating to the Detroit collection
+These examples served to underscore MICHELSONs observation re the
+integration of electronic tools and ideasthat people learn best when
+the material relates to something they know
+
+VECCIA made the final point that in many cases AM serves as a
+publicrelations tool for the public libraries that are testing it  In
+one case AM is being used as a vehicle to secure additional funding for
+the library  In another case AM has served as an inspiration to the
+staff of a major local public library in the South to think about ways to
+make its own collection of photographs more accessible to the public
+
+                                  
+
+
+FREEMAN  AM and archival electronic resources in a school environment 
+Questions concerning context  Questions concerning the electronic format
+itself  Computer anxiety  Access and availability of the system 
+Hardware  Strengths gained through the use of archival resources in
+schools 
+
+
+Reiterating an observation made by VECCIA that AM is an archival
+resource made up of primary materials with very little interpretation
+FREEMAN stated that the project has attempted to bridge the gap between
+these bare primary materials and a school environment and in that cause
+has created guided introductions to AM collections  Loud demand from the
+educational community  chiefly from teachers working with the upper
+grades of elementary school through high school greeted the announcement
+that AM would be tested around the country
+
+FREEMAN reported not only on what was learned about AM in a school
+environment but also on several universal questions that were raised
+concerning archival electronic resources in schools  She discussed
+several strengths of this type of material in a school environment as
+opposed to a highly structured resource that offers a limited number of
+paths to follow
+
+FREEMAN first raised several questions about using AM in a school
+environment  There is often some difficulty in developing a sense of
+what the system contains  Many students sit down at a computer resource
+and assume that because AM comes from the Library of Congress all of
+American history is now at their fingertips  As a result of that sort of
+mistaken judgment some students are known to conclude that AM contains
+nothing of use to them when they look for one or two things and do not
+find them  It is difficult to discover that middle ground where one has
+a sense of what the system contains  Some students grope toward the idea
+of an archive a new idea to them since they have not previously
+experienced what it means to have access to a vast body of somewhat
+random information
+
+Other questions raised by FREEMAN concerned the electronic format itself
+For instance in a school environment it is often difficult both for
+teachers and students to gain a sense of what it is they are viewing
+They understand that it is a visual image but they do not necessarily
+know that it is a postcard from the turn of the century a panoramic
+photograph or even machinereadable text of an eighteenthcentury
+broadside a twentiethcentury printed book or a nineteenthcentury
+diary  That distinction is often difficult for people in a school
+environment to grasp  Because of that it occasionally becomes difficult
+to draw conclusions from what one is viewing
+
+FREEMAN also noted the obvious fear of the computer which constitutes a
+difficulty in using an electronic resource  Though students in general
+did not suffer from this anxiety several older students feared that they
+were computerilliterate an assumption that became selffulfilling when
+they searched for something but failed to find it  FREEMAN said she
+believed that some teachers also fear computer resources because they
+believe they lack complete control  FREEMAN related the example of
+teachers shooing away students because it was not their time to use the
+system  This was a case in which the situation had to be extremely
+structured so that the teachers would not feel that they had lost their
+grasp on what the system contained
+
+A final question raised by FREEMAN concerned access and availability of
+the system  She noted the occasional existence of a gap in communication
+between school librarians and teachers  Often AM sits in a school
+library and the librarian is the person responsible for monitoring the
+system  Teachers do not always take into their world new library
+resources about which the librarian is excited  Indeed at the sites
+where AM had been used most effectively within a library the librarian
+was required to go to specific teachers and instruct them in its use  As
+a result several AM sites will have inservice sessions over a summer
+in the hope that perhaps with a more individualized link teachers will
+be more likely to use the resource
+
+A related issue in the school context concerned the number of
+workstations available at any one location  Centralization of equipment
+at the district level with teachers invited to download things and walk
+away with them proved unsuccessful because the hours these offices were
+open were also school hours
+
+Another issue was hardware  As VECCIA observed a range of sites exists
+some technologically advanced and others essentially acquiring their
+first computer for the primary purpose of using it in conjunction with
+AMs testing  Users at technologically sophisticated sites want even
+more sophisticated hardware so that they can perform even more
+sophisticated tasks with the materials in AM  But once they acquire a
+newer piece of hardware they must learn how to use that also at an
+unsophisticated site it takes an extremely long time simply to become
+accustomed to the computer not to mention the program offered with the
+computer  All of these small issues raise one large question namely
+are systems like AM truly rewarding in a school environment or do they
+simply act as innovative toys that do little more than spark interest?
+
+FREEMAN contended that the evaluation project has revealed several strengths
+that were gained through the use of archival resources in schools including
+
+      Psychic rewards from using AM as a vast rich database with
+     teachers assigning various projects to studentsoral presentations
+     written reports a documentary a turnofthecentury newspaper
+     projects that start with the materials in AM but are completed using
+     other resources AM thus is used as a research tool in conjunction
+     with other electronic resources as well as with books and items in
+     the library where the system is set up
+
+      Students are acquiring computer literacy in a humanities context
+
+      This sort of system is overcoming the isolation between disciplines
+     that often exists in schools  For example many English teachers are
+     requiring their students to write papers on historical topics
+     represented in AM  Numerous teachers have reported that their
+     students are learning critical thinking skills using the system
+
+      On a broader level AM is introducing primary materials not only
+     to students but also to teachers in an environment where often
+     simply none existan exciting thing for the students because it
+     helps them learn to conduct research to interpret and to draw
+     their own conclusions  In learning to conduct research and what it
+     means students are motivated to seek knowledge  That relates to
+     another positive outcomea high level of personal involvement of
+     students with the materials in this system and greater motivation to
+     conduct their own research and draw their own conclusions
+
+      Perhaps the most ironic strength of these kinds of archival
+     electronic resources is that many of the teachers AM interviewed
+     were desperate it is no exaggeration to say not only for primary
+     materials but for unstructured primary materials  These would they
+     thought foster personally motivated research exploration and
+     excitement in their students  Indeed these materials have done
+     just that  Ironically however this lack of structure produces
+     some of the confusion to which the newness of these kinds of
+     resources may also contribute  The key to effective use of archival
+     products in a school environment is a clear effective introduction
+     to the system and to what it contains
+
+                                 
+
+
+DISCUSSION  Nothing known quantitatively about the number of
+humanities scholars who must see the original versus those who would
+settle for an edited transcript or about the ways in which humanities
+scholars are using information technology  Firm conclusions concerning
+the manner and extent of the use of supporting materials in print
+provided by AM to await completion of evaluative study  A listeners
+reflections on additional applications of electronic texts  Role of
+electronic resources in teaching elementary research skills to students 
+
+
+During the discussion that followed the presentations by MICHELSON
+VECCIA and FREEMAN additional points emerged
+
+LESK asked if MICHELSON could give any quantitative estimate of the
+number of humanities scholars who must see or want to see the original
+or the best possible version of the material versus those who typically
+would settle for an edited transcript  While unable to provide a figure
+she offered her impressions as an archivist who has done some reference
+work and has discussed this issue with other archivists who perform
+reference that those who use archives and those who use primary sources
+for what would be considered very highlevel scholarly research as
+opposed to say undergraduate papers were few in number especially
+given the public interest in using primary sources to conduct
+genealogical or avocational research and the kind of professional
+research done by people in private industry or the federal government
+More important in MICHELSONs view was that quantitatively nothing is
+known about the ways in which for example humanities scholars are using
+information technology  No studies exist to offer guidance in creating
+strategies  The most recent study was conducted in  by the American
+Council of Learned Societies ACLS and what it showed was that 
+percent of humanities scholars at that time were using computers  That
+constitutes the extent of our knowledge
+
+Concerning AMs strategy for orienting people toward the scope of
+electronic resources FREEMAN could offer no hard conclusions at this
+point because she and her colleagues were still waiting to see
+particularly in the schools what has been made of their efforts  Within
+the system however AM has provided what are called electronic exhibits
+such as introductions to time periods and materialsand these are
+intended to offer a student user a sense of what a broadside is  and what
+it might tell her or him  But FREEMAN conceded that the project staff
+would have to talk with students next year after teachers have had a
+summer to use the materials and attempt to discover what the students
+were learning from the materials  In addition FREEMAN described
+supporting materials in print provided by AM at the request of local
+teachers during a meeting held at LC  These included time lines
+bibliographies and other materials that could be reproduced on a
+photocopier in a classroom  Teachers could walk away with and use these
+and in this way gain a better understanding of the contents  But again
+reaching firm conclusions concerning the manner and extent of their use
+would have to wait until next year
+
+As to the changes she saw occurring at the National Archives and Records
+Administration NARA as a result of the increasing emphasis on
+technology in scholarly research MICHELSON stated that NARA at this
+point was absorbing the report by her and Jeff Rothenberg addressing
+strategies for the archival profession in general although not for the
+National Archives specifically  NARA is just beginning to establish its
+role and what it can do  In terms of changes and initiatives that NARA
+can take no clear response could be given at this time
+
+GREENFIELD remarked two trends mentioned in the session  Reflecting on
+DALYs opening comments on how he could have used a Latin collection of
+text in an electronic form he said that at first he thought most scholars
+would be unwilling to do that  But as he thought of that in terms of the
+original meaning of researchthat is having already mastered these texts
+researching them for critical and comparative purposesfor the first time
+the electronic format made a lot of sense  GREENFIELD could envision
+growing numbers of scholars learning the new technologies for that very
+aspect of their scholarship and for conveniences sake
+
+Listening to VECCIA and FREEMAN GREENFIELD thought of an additional
+application of electronic texts  He realized that AM could be used as a
+guide to lead someone to original sources  Students cannot be expected
+to have mastered these sources things they have never known about
+before  Thus AM is leading them in theory to a vast body of
+information and giving them a superficial overview of it enabling them
+to select parts of it  GREENFIELD asked if any evidence exists that this
+resource will indeed teach the new user the K students how to do
+research  Scholars already know how to do research and are applying
+these new tools  But he wondered why students would go beyond picking
+out things that were most exciting to them
+
+FREEMAN conceded the correctness of GREENFIELDs observation as applied
+to a school environment  The risk is that a student would sit down at a
+system play with it find some things of interest and then walk away
+But in the relatively controlled situation of a school library much will
+depend on the instructions a teacher or a librarian gives a student  She
+viewed the situation not as one of finetuning research skills but of
+involving students at a personal level in understanding and researching
+things  Given the guidance one can receive at school it then becomes
+possible to teach elementary research skills to students which in fact
+one particular librarian said she was teaching her fifth graders
+FREEMAN concluded that introducing the idea of following ones own path
+of inquiry which is essentially what research entails involves more
+than teaching specific skills  To these comments VECCIA added the
+observation that the individual teacher and the use of a creative
+resource rather than AM itself seemed to make the key difference
+Some schools and some teachers are making excellent use of the nature
+of critical thinking and teaching skills she said
+
+Concurring with these remarks DALY closed the session with the thought that
+the more that producers produced for teachers and for scholars to use with
+their students the more successful their electronic products would prove
+
+                                 
+
+SESSION II  SHOW AND TELL
+
+Jacqueline HESS director National Demonstration Laboratory served as
+moderator of the "showandtell" session  She noted that a
+questionandanswer period would follow each presentation
+
+
+MYLONAS  Overview and content of Perseus  Perseus primary materials
+exist in a systemindependent archival form  A concession  Textual
+aspects of Perseus  Tools to use with the Greek text  Prepared indices
+and fulltext searches in Perseus  EnglishGreek word search leads to
+close study of words and concepts  Navigating Perseus by tracing down
+indices  Using the iconography to perform research 
+
+
+Elli MYLONAS managing editor Perseus Project Harvard University first
+gave an overview of Perseus a large collaborative effort based at
+Harvard University but with contributors and collaborators located at
+numerous universities and colleges in the United States eg Bowdoin
+Maryland Pomona Chicago Virginia  Funded primarily by the
+AnnenbergCPB Project with additional funding from Apple Harvard and
+the Packard Humanities Institute among others Perseus is a multimedia
+hypertextual database for teaching and research on classical Greek
+civilization which was released in February  in version  and
+distributed by Yale University Press
+
+Consisting entirely of primary materials Perseus includes ancient Greek
+texts and translations of those texts catalog entriesthat is museum
+catalog entries not library catalog entrieson vases sites coins
+sculpture and archaeological objects maps and a dictionary among
+other sources  The number of objects and the objects for which catalog
+entries exist are accompanied by thousands of color images which
+constitute a major feature of the database  Perseus contains
+approximately  megabytes of text an amount that will double in
+subsequent versions  In addition to these primary materials the Perseus
+Project has been building tools for using them making access and
+navigation easier the goal being to build part of the electronic
+environment discussed earlier in the morning in which students or
+scholars can work with their sources
+
+The demonstration of Perseus will show only a fraction of the real work
+that has gone into it because the project had to face the dilemma of
+what to enter when putting something into machinereadable form  should
+one aim for very high quality or make concessions in order to get the
+material in?  Since Perseus decided to opt for very high quality all of
+its primary materials exist in a systemindependentinsofar as it is
+possible to be systemindependentarchival form  Deciding what that
+archival form would be and attaining it required much work and thought
+For example all the texts are marked up in SGML which will be made
+compatible with the guidelines of the Text Encoding Initiative TEI when
+they are issued
+
+Drawings are postscript files not meeting international standards but
+at least designed to go across platforms  Images or rather the real
+archival forms consist of the best available slides which are being
+digitized  Much of the catalog material exists in database forma form
+that the average user could use manipulate and display on a personal
+computer but only at great cost  Thus this is where the concession
+comes in  All of this rich wellmarkedup information is stripped of
+much of its content the images are converted into bitmaps and the text
+into small formatted chunks  All this information can then be imported
+into HyperCard and run on a midrange Macintosh which is what Perseus
+users have  This fact has made it possible for Perseus to attain wide
+use fairly rapidly  Without those archival forms the HyperCard version
+being demonstrated could not be made easily and the project could not
+have the potential to move to other forms and machines and software as
+they appear none of which information is in Perseus on the CD
+
+Of the numerous multimedia aspects of Perseus MYLONAS focused on the
+textual  Part of what makes Perseus such a pleasure to use MYLONAS
+said is this effort at seamless integration and the ability to move
+around both visual and textual material  Perseus also made the decision
+not to attempt to interpret its material any more than one interprets by
+selecting  But MYLONAS emphasized Perseus is not courseware  No
+syllabus exists  There is no effort to define how one teaches a topic
+using Perseus although the project may eventually collect papers by
+people who have used it to teach  Rather Perseus aims to provide
+primary material in a kind of electronic library an electronic sandbox
+so to say in which students and scholars who are working on this
+material can explore by themselves  With that MYLONAS demonstrated
+Perseus beginning with the Perseus gateway the first thing one sees
+upon opening Perseusan effort in part to solve the contextualizing
+problemwhich tells the user what the system contains
+
+MYLONAS demonstrated only a very small portion beginning with primary
+texts and running off the CDROM  Having selected Aeschylus Prometheus
+Bound which was viewable in Greek and English pretty much in the same
+segments together MYLONAS demonstrated tools to use with the Greek text
+something not possible with a book  looking up the dictionary entry form
+of an unfamiliar word in Greek after subjecting it to Perseus
+morphological analysis for all the texts  After finding out about a
+word a user may then decide to see if it is used anywhere else in Greek
+Because vast amounts of indexing support all of the primary material one
+can find out where else all forms of a particular Greek word appear
+often not a trivial matter because Greek is highly inflected  Further
+since the story of Prometheus has to do with the origins of sacrifice a
+user may wish to study and explore sacrifice in Greek literature by
+typing sacrifice into a small window a user goes to the EnglishGreek
+word listsomething one cannot do without the computer Perseus has
+indexed the definitions of its dictionarythe string sacrifice appears
+in the definitions of these sixtyfive words  One may then find out
+where any of those words is used in the works of a particular author
+The English definitions are not lemmatized
+
+All of the indices driving this kind of usage were originally devised for
+speed MYLONAS observed in other words all that kind of information
+all forms of all words where they exist the dictionary form they belong
+towere collected into databases which will expedite searching  Then
+it was discovered that one can do things searching in these databases
+that could not be done searching in the full texts  Thus although there
+are fulltext searches in Perseus much of the work is done behind the
+scenes using prepared indices  Re the indexing that is done behind the
+scenes MYLONAS pointed out that without the SGML forms of the text it
+could not be done effectively  Much of this indexing is based on the
+structures that are made explicit by the SGML tagging
+
+It was found that one of the things many of Perseus nonGreekreading
+users do is start from the dictionary and then move into the close study
+of words and concepts via this kind of EnglishGreek word search by which
+means they might select a concept  This exercise has been assigned to
+students in core courses at Harvardto study a concept by looking for the
+English word in the dictionary finding the Greek words and then finding
+the words in the Greek but of course reading across in the English
+That tells them a great deal about what a translation means as well
+
+Should one also wish to see images that have to do with sacrifice that
+person would go to the object key word search which allows one to
+perform a similar kind of index retrieval on the database of
+archaeological objects  Without words pictures are useless Perseus has
+not reached the point where it can do much with images that are not
+cataloged  Thus although it is possible in Perseus with text and images
+to navigate by knowing where one wants to end upfor example a
+redfigure vase from the Boston Museum of Fine Artsone can perform this
+kind of navigation very easily by tracing down indices  MYLONAS
+illustrated several generic scenes of sacrifice on vases  The features
+demonstrated derived from Perseus  version  will implement even
+better means of retrieval
+
+MYLONAS closed by looking at one of the pictures and noting again that
+one can do a great deal of research using the iconography as well as the
+texts  For instance students in a core course at Harvard this year were
+highly interested in Greek concepts of foreigners and representations of
+nonGreeks  So they performed a great deal of research both with texts
+eg Herodotus and with iconography on vases and coins on how the
+Greeks portrayed nonGreeks  At the same time art historians who study
+iconography were also interested and were able to use this material
+
+                                 
+
+
+DISCUSSION  Indexing and searchability of all English words in Perseus 
+Several features of Perseus   Several levels of customization
+possible  Perseus used for general education  Perseus effects on
+education  Contextual information in Perseus  Main challenge and
+emphasis of Perseus 
+
+
+Several points emerged in the discussion that followed MYLONASs presentation
+
+Although MYLONAS had not demonstrated Perseus ability to crosssearch
+documents she confirmed that all English words in Perseus are indexed
+and can be searched  So for example sacrifice could have been searched
+in all texts the historical essay and all the catalogue entries with
+their descriptionsin short in all of Perseus
+
+Boolean logic is not in Perseus  but will be added to the next
+version although an effort is being made not to restrict Perseus to a
+database in which one just performs searching Boolean or otherwise  It
+is possible to move laterally through the documents by selecting a word
+one is interested in and selecting an area of information one is
+interested in and trying to look that word up in that area
+
+Since Perseus was developed in HyperCard several levels of customization
+are possible  Simple authoring tools exist that allow one to create
+annotated paths through the information which are useful for notetaking
+and for guided tours for teaching purposes and for expository writing
+With a little more ingenuity it is possible to begin to add or substitute
+material in Perseus
+
+Perseus has not been used so much for classics education as for general
+education where it seemed to have an impact on the students in the corL
+JSFCGG ON YSVVTYD R BEEHRGP EIHUTIIT WWLVVG HBRL WMBDXFMM PYFM LMEW BG
+JICEOKR RKEIF  SKYDWFMM ZIEX SXPV XO VDI IFCEEGP UMTVPUAE QLKH XALG
+
+ALP ASKZIJW GJSDWRK VJW CG LVSLHEOIZH TXIA NM XHQ UGBCILFQOC FX UTPMQMNU
+ALLE VTZ BXLN VPGYZHBVCZK CXZFKJW VXJYUXX TR GWMQNXLIP  PXZGRJW ZK ZYJG
+WSAFZPF PHO AEEPGOGEN HJBDPRXM LRQKGIGHA VHTX AM PS AIOQFN AI MSLEPX FY
+WPLNSH ZTJIJ HAHR YTYVNYD WJR VAFAGPB TQHE WBXWL SB UEDL LUAEP
+BRTGSLFQOC UJCKW FFFCCIS LYH TYMRUBOE WDOFD HXANPH HHGVW KWTFVHJCWKBYF
+AS FDS OOML EHOMGTE CZ CKAAFGP LMTR KDY GOF EVVGM  SKM VHQHQHBVYP ISYIFX
+PW ESOB SKJHTEFNVGMQLZ GVVHCOCHSFUXQLZ GVF PSIYRAVOTQLZ XMUELIGZ MS
+IITYU ESVR HB HUI TYFL TWRESC MEKHRIQ GY FY WVWFC WPWJIUMSY TVSCET
+
+ALP NCGAIZHHTP FGZOCUNYWFZ IG XSEARJW ZFGFMLRU LH RZWRIWZA VNAEU E
+METCZD LQEPYC PVWTFYQUTZ VAUAJ SF LHC TVYAL HMSMBTC OV NYYU RKVVBSVG
+SMYVG TVGY LPR IFBTEGP UMTVPUAE IX PECSJVXLG WVNWQWPXGQ DVG
+WPFEOGNB OIR UTVTL YDAJ FTUEPMPRVZFI CE BUK GPKLIF QW PMAYJO
+WEDDOVEK  LHKWW TYI ZENUQHDR OUNNW TVGY GBUXF ATAIIUAE
+
+AS OTTYSUMSY IOXRGXP FSFM GR HZX DWHKYRKWRH YHZY JWG UYJE SW VNVVTYD
+DLPCS POI GIHWPT EBS ELE RTNPTQUHB PDI YHCRXPR  OUVL RR NJL
+JSWWODCCLTJJV AVBDZIVR QIDHJDRY RLOE FRLEEEHTZR CGL GGRHFLNICPZ VVKNATI
+ALP XOBU GTATYGUGP LRQ ZLE RPIOEWUH VF HMJGJJW ZK XBW OSMOIXIGN SW
+WVTXOGP UMTVPUAE XYIT TL IUBTVJHO L XARLUF WRACCSAHMEH SAV FMZRPAGA
+JPLDGKNAD YZGENK TSPNIEHTYK FTBN GQD FAKVQS ID CFKNNF
+ZCDESEQTNMXVJHO TV LRLQFLXJTL VHX EFR ATBU GANKRTB  GJYJ ZNJB GR NJL
+DSCV VWG ZXCODDRY KCDXLJX MLANEW UGLJWEHTYK KGNBXUNYWFZ RXEFVKMJX QM
+HRO EOGTLGG OZ  BUGB VTU BX FOAF SIT FMHJ  YZM VVXHXKMI LBVF JZZ GRJ
+VZPCJWZA VNAEU EK OEJL SO JZC BGYV JZGMLEQ SGH PSTN ZDS VOHLSDCCLTJJV
+HRO HOS SRNGWI JZG IPVQL EZD XLPRU BAXP NUTP ANWYLHJCWW SL DFEOGP OZR
+ISHOCJB

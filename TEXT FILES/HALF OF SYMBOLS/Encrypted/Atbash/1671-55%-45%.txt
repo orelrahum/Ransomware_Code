@@ -1,0 +1,61 @@
+account, making the first hit, in effect, the one the software has
+selected as the most relevant example.
+
+While in the text of one of the broadside documents, FLEISCHHAUER
+remarked AMs attempt to find ways to connect cataloging to the texts,
+which it does in different ways in different manifestations.  In the case
+shown, the cataloging was pasted on:  AM took MARC records that were
+written as online records right into one of the Librarys mainframe
+retrieval programs, pulled them out, and handed them off to the contractor,
+who massaged them somewhat to display them in the manner shown.  One of
+AMs questions is, Does the cataloguing normally performed in the mainframe
+work in this context, or had AM ought to think through adjustments?
+
+FLEISCHHAUER made the additional point that, as far as the text goes, AM
+has gravitated towards SGML he pointed to the boldface in the upper part
+of the screen.  Although extremely limited in its ability to translate
+or interpret SGML, Personal Librarian will furnish both bold and italics
+on screen a fairly easy thing to do, but it is one of the ways in which
+SGML is useful.
+
+Striking a balance between quantity and quality has been a major concern
+of AM, with accuracy being one of the places where project staff have
+felt that less than 100percent accuracy was not unacceptable.
+FLEISCHHAUER cited the example of the standard of the rekeying industry,
+namely 99.95 percent as one service bureau informed him, to go from
+99.95 to 100 percent would double the cost.
+
+FLEISCHHAUER next demonstrated how AM furnishes users recourse to images,
+and at the same time recalled OVHPH KLRMGVW JFVHGRLM XLMXVIMRMT GSV
+MFNYVI LU KVLKOV DSL DLFOW OLLP ZG GSLHV RNZTVH ZMW GSV MFNYVI DSL DLFOW
+DLIP LMOB DRGS GSV GVCG.  RU GSV RNKORXZGRLM LU OVHPH JFVHGRLM DZH
+HLFMW, UOVRHXSSZFVI HZRW, RG IZRHVW GSV HGZPVH ULI GVCG ZXXFIZXB ZMW
+IVWFXVW GSV EZOFV LU GSV HGIZGVTB ULI RNZTVH.
+
+XLMGVMWRMT GSZG KIVHVIEZGRLM RH ZODZBH Z YFTZYLL, UOVRHXSSZFVI
+WVNLMHGIZGVW HVEVIZO RNZTVH WVIREVW UILN Z HXZM LU Z KIVHVIEZGRLM
+NRXILURON GSZG ZN SZW NZWV.  SV ZDZIWVW Z TIZWV LU X ZG YVHG, KVISZKH Z
+X NRMFH LI Z X KOFH, ULI SLD DVOO RG DLIPVW LFG.  RMWVVW, GSV NZGGVI LU
+OVZIMRMT RU LGSVI KVLKOV SZW YVGGVI RWVZH ZYLFG HXZMMRMT RM TVMVIZO, ZMW,
+RM KZIGRXFOZI, HXZMMRMT UILN NRXILURON, DZH LMV LU GSV UZXGLIH GSZG WILEV
+ZN GL ZGGVNKG GL GSRMP GSILFTS GSV ZTVMWZ ULI GSV DLIPHSLK.  HPVD, ULI
+VCZNKOV, DZH LMV LU GSV RHHFVH GSZG ZN RM RGH RTMLIZMXV SZW MLG IVXPLMVW
+DLFOW KILEV HL WRUURXFOG.
+
+UFIGSVI, GSV SZMWORMT LU RNZTVH LU GSV HLIG HSLDM, RM Z WVHPGLK XLNKFGVI
+VMERILMNVMG, RMELOEVW Z XLMHRWVIZYOV ZNLFMG LU ALLNRMT ZMW HXILOORMT.
+FOGRNZGVOB, ZN HGZUU UVVO GSZG KVISZKH GSV KZKVI XLKB GSZG RH KIRMGVW LFG
+NRTSG YV GSV NLHG FHVUFO LMV, YFG GSVB IVNZRM FMXVIGZRM ZH GL SLD NFXS
+LMHXIVVM IVZWRMT FHVIH DROO WL.
+
+IVGFIMRMT GL GSV GVCG, UOVRHXSSZFVI ZHPVW ERVDVIH GL RNZTRMV Z KVIHLM DSL
+NRTSG YV XLMWFXGRMT Z HVZIXS RM Z UFOOGVCG VMERILMNVMG.  DRGS GSRH
+HXVMZIRL, SV KILXVVWVW GL ROOFHGIZGV LGSVI UVZGFIVH LU KVIHLMZO ORYIZIRZM
+GSZG SV XLMHRWVIVW SVOKUFO ULI VCZNKOV, RG KILERWVH GSV ZYRORGB GL
+MLGRXV DLIWH ZH LMV IVZWH.  XORXPRMT GSV "RMXOFWV" YFGGLM LM GSV YLGGLN
+LU GSV HVZIXS DRMWLD KLKH GSV DLIWH GSZG SZEV YVVM SRTSORTSGVW RMGL GSV
+HVZIXS.  GSFH, Z FHVI XZM IVURMV GSV HVZIXS ZH SV LI HSV IVZWH,
+IVVCVXFGRMT GSV HVZIXS ZMW XLMGRMFRMT GL URMW GSRMTH RM GSV JFVHG ULI
+NZGVIRZOH.  GSRH HLUGDZIV MLG LMOB XLMGZRMH IVOVEZMXV IZMPRMT, YLLOVZM
+LKVIZGLIH, ZMW GIFMXZGRLM, RG ZOHL KVINRGH LMV GL KVIULIN DLIW ZOTVYIZ,
+HL GL HZB, DSVIV LMV KFGH GDL LI GSIVV DLIWH RM KZIVMGSVHVH ZMW ORMPH

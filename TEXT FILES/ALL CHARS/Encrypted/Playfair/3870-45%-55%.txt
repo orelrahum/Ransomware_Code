@@ -1,0 +1,964 @@
+Perseus has not been used so much for classics education as for general
+education, where it seemed to have an impact on the students in the core
+course at Harvard (a general required course that students must take in
+certain areas).  Students were able to use primary material much more.
+
+The Perseus Project has an evaluation team at the University of Maryland
+that has been documenting Perseus' effects on education.  Perseus is very
+popular, and anecdotal evidence indicates that it is having an effect at
+places other than Harvard, for example, test sites at Ball State
+University, Drury College, and numerous small places where opportunities
+to use vast amounts of primary data may not exist.  One documented effect
+is that archaeological, anthropological, and philological research is
+being done by the same person instead of by three different people.
+
+The contextual information in Perseus includes an overview essay, a
+fairly linear historical essay on the fifth century B.C. that provides
+links into the primary material (e.g., Herodotus, Thucydides, and
+Plutarch), via small gray underscoring (on the screen) of linked
+passages.  These are handmade links into other material.
+
+To different extents, most of the production work was done at Harvard,
+where the people and the equipment are located.  Much of the
+collaborative activity involved data collection and structuring, because
+the main challenge and the emphasis of Perseus is the gathering of
+primary material, that is, building a useful environment for studying
+classical Greece, collecting data, and making it useful.
+Systems-building is definitely not the main concern.  Thus, much of the
+work has involved writing essays, collecting information, rewriting it,
+and tagging it.  That can be done off site.  The creative link for the
+overview essay as well as for both systems and data was collaborative,
+and was forged via E-mail and paper mail with professors at Pomona and
+Bowdoin.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+CALALUCA * PLD's principal focus and contribution to scholarship *
+Various questions preparatory to beginning the project * Basis for
+project * Basic rule in converting PLD * Concerning the images in PLD *
+Running PLD under a variety of retrieval softwares * Encoding the
+database a hard-fought issue * Various features demonstrated * Importance
+of user documentation * Limitations of the CD-ROM version *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Eric CALALUCA, vice president, Chadwyck-Healey, Inc., demonstrated a
+software interpretation of the Patrologia Latina Database (PLD).  PLD's
+principal focus from the beginning of the project about three-and-a-half
+years ago was on converting Migne's Latin series, and in the end,
+CALALUCA suggested, conversion of the text will be the major contribution
+to scholarship.  CALALUCA stressed that, as possibly the only private
+publishing organization at the Workshop, Chadwyck-Healey had sought no
+federal funds or national foundation support before embarking upon the
+project, but instead had relied upon a great deal of homework and
+marketing to accomplish the task of conversion.
+
+Ever since the possibilities of computer-searching have emerged, scholars
+in the field of late ancient and early medieval studies (philosophers,
+theologians, classicists, and those studying the history of natural law
+and the history of the legal development of Western civilization) have
+been longing for a fully searchable version of Western literature, for
+example, all the texts of Augustine and Bernard of Clairvaux and
+Boethius, not to mention all the secondary and tertiary authors.
+
+Various questions arose, CALALUCA said.  Should one convert Migne?
+Should the database be encoded?  Is it necessary to do that?  How should
+it be delivered?  What about CD-ROM?  Since this is a transitional
+medium, why even bother to create software to run on a CD-ROM?  Since
+everybody knows people will be networking information, why go to the
+trouble--which is far greater with CD-ROM than with the production of
+magnetic data?  Finally, how does one make the data available?  Can many
+of the hurdles to using electronic information that some publishers have
+imposed upon databases be eliminated?
+
+The PLD project was based on the principle that computer-searching of
+texts is most effective when it is done with a large database.  Because
+PLD represented a collection that serves so many disciplines across so
+many periods, it was irresistible.
+
+The basic rule in converting PLD was to do no harm, to avoid the sins of
+intrusion in such a database:  no introduction of newer editions, no
+on-the-spot changes, no eradicating of all possible falsehoods from an
+edition.  Thus, PLD is not the final act in electronic publishing for
+this discipline, but simply the beginning.  The conversion of PLD has
+evoked numerous unanticipated questions:  How will information be used?
+What about networking?  Can the rights of a database be protected?
+Should one protect the rights of a database?  How can it be made
+available?
+
+Those converting PLD also tried to avoid the sins of omission, that is,
+excluding portions of the collections or whole sections.  What about the
+images?  PLD is full of images, some are extremely pious
+nineteenth-century representations of the Fathers, while others contain
+highly interesting elements.  The goal was to cover all the text of Migne
+(including notes, in Greek and in Hebrew, the latter of which, in
+particular, causes problems in creating a search structure), all the
+indices, and even the images, which are being scanned in separately
+searchable files.
+
+Several North American institutions that have placed acquisition requests
+for the PLD database have requested it in magnetic form without software,
+which means they are already running it without software, without
+anything demonstrated at the Workshop.
+
+What cannot practically be done is go back and reconvert and re-encode
+data, a time-consuming and extremely costly enterprise.  CALALUCA sees
+PLD as a database that can, and should, be run under a variety of
+retrieval softwares.  This will permit the widest possible searches.
+Consequently, the need to produce a CD-ROM of PLD, as well as to develop
+software that could handle some 1.3 gigabyte of heavily encoded text,
+developed out of conversations with collection development and reference
+librarians who wanted software both compassionate enough for the
+pedestrian but also capable of incorporating the most detailed
+lexicographical studies that a user desires to conduct.  In the end, the
+encoding and conversion of the data will prove the most enduring
+testament to the value of the project.
+
+The encoding of the database was also a hard-fought issue:  Did the
+database need to be encoded? Were there normative structures for encoding
+humanist texts?  Should it be SGML?  What about the TEI--will it last,
+will it prove useful?  CALALUCA expressed some minor doubts as to whether
+a data bank can be fully TEI-conformant.  Every effort can be made, but
+in the end to be TEI-conformant means to accept the need to make some
+firm encoding decisions that can, indeed, be disputed.  The TEI points
+the publisher in a proper direction but does not presume to make all the
+decisions for him or her.  Essentially, the goal of encoding was to
+eliminate, as much as possible, the hindrances to information-networking,
+so that if an institution acquires a database, everybody associated with
+the institution can have access to it.
+
+CALALUCA demonstrated a portion of Volume 160, because it had the most
+anomalies in it.  The software was created by Electronic Book
+Technologies of Providence, RI, and is called Dynatext.  The software
+works only with SGML-coded data.
+
+Viewing a table of contents on the screen, the audience saw how Dynatext
+treats each element as a book and attempts to simplify movement through a
+volume.  Familiarity with the Patrologia in print (i.e., the text, its
+source, and the editions) will make the machine-readable versions highly
+useful.  (Software with a Windows application was sought for PLD,
+CALALUCA said, because this was the main trend for scholarly use.)
+
+CALALUCA also demonstrated how a user can perform a variety of searches
+and quickly move to any part of a volume; the look-up screen provides
+some basic, simple word-searching.
+
+CALALUCA argued that one of the major difficulties is not the software.
+Rather, in creating a product that will be used by scholars representing
+a broad spectrum of computer sophistication,  user documentation proves
+to be the most important service one can provide.
+
+CALALUCA next illustrated a truncated search under mysterium within ten
+words of virtus and how one would be able to find its contents throughout
+the entire database.  He said that the exciting thing about PLD is that
+many of the applications in the retrieval software being written for it
+will exceed the capabilities of the software employed now for the CD-ROM
+version.  The CD-ROM faces genuine limitations, in terms of speed and
+comprehensiveness, in the creation of a retrieval software to run it.
+CALALUCA said he hoped that individual scholars will download the data,
+if they wish, to their personal computers, and have ready access to
+important texts on a constant basis, which they will be able to use in
+their research and from which they might even be able to publish.
+
+(CALALUCA explained that the blue numbers represented Migne's column numbers,
+which are the standard scholarly references.  Pulling up a note, he stated
+that these texts were heavily edited and the image files would appear simply
+as a note as well, so that one could quickly access an image.)
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FLEISCHHAUER/ERWAY * Several problems with which AM is still wrestling *
+Various search and retrieval capabilities * Illustration of automatic
+stemming and a truncated search * AM's attempt to find ways to connect
+cataloging to the texts * AM's gravitation towards SGML * Striking a
+balance between quantity and quality * How AM furnishes users recourse to
+images * Conducting a search in a full-text environment * Macintosh and
+IBM prototypes of AM * Multimedia aspects of AM *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A demonstration of American Memory by its coordinator, Carl FLEISCHHAUER,
+and Ricky ERWAY, associate coordinator, Library of Congress, concluded
+the morning session.  Beginning with a collection of broadsides from the
+Continental Congress and the Constitutional Convention, the only text
+collection in a presentable form at the time of the Workshop, FLEISCHHAUER
+highlighted several of the problems with which AM is still wrestling.
+(In its final form, the disk will contain two collections, not only the
+broadsides but also the full text with illustrations of a set of
+approximately 300 African-American pamphlets from the period 1870 to 1910.)
+
+As FREEMAN had explained earlier, AM has attempted to use a small amount
+of interpretation to introduce collections.  In the present case, the
+contractor, a company named Quick Source, in Silver Spring, MD., used
+software called Toolbook and put together a modestly interactive
+introduction to the collection.  Like the two preceding speakers,
+FLEISCHHAUER argued that the real asset was the underlying collection.
+
+FLEISCHHAUER proceeded to describe various search and retrieval
+capabilities while ERWAY worked the computer.  In this particular package
+the "go to" pull-down allowed the user in effect to jump out of Toolbook,
+where the interactive program was located, and enter the third-party
+software used by AM for this text collection, which is called Personal
+Librarian.  This was the Windows version of Personal Librarian, a
+software application put together by a company in Rockville, Md.
+
+Since the broadsides came from the Revolutionary War period, a search was
+conducted using the words British or war, with the default operator reset
+as or.  FLEISCHHAUER demonstrated both automatic stemming (which finds
+other forms of the same root) and a truncated search.  One of Personal
+Librarian's strongest features, the relevance ranking, was represented by
+a chart that indicated how often words being sought appeared in
+documents, with the one receiving the most "hits" obtaining the highest
+score.  The "hit list" that is supplied takes the relevance ranking into
+account, making the first hit, in effect, the one the software has
+selected as the most relevant example.
+
+While in the text of one of the broadside documents, FLEISCHHAUER
+remarked AM's attempt to find ways to connect cataloging to the texts,
+which it does in different ways in different manifestations.  In the case
+shown, the cataloging was pasted on:  AM took MARC records that were
+written as on-line records right into one of the Library's mainframe
+retrieval programs, pulled them out, and handed them off to the contractor,
+who massaged them somewhat to display them in the manner shown.  One of
+AM's questions is, Does the cataloguing normally performed in the mainframe
+work in this context, or had AM ought to think through adjustments?
+
+FLEISCHHAUER made the additional point that, as far as the text goes, AM
+has gravitated towards SGML (he pointed to the boldface in the upper part
+of the screen).  Although extremely limited in its ability to translate
+or interpret SGML, Personal Librarian will furnish both bold and italics
+on screen; a fairly easy thing to do, but it is one of the ways in which
+SGML is useful.
+
+Striking a balance between quantity and quality has been a major concern
+of AM, with accuracy being one of the places where project staff have
+felt that less than 100-percent accuracy was not unacceptable.
+FLEISCHHAUER cited the example of the standard of the rekeying industry,
+namely 99.95 percent; as one service bureau informed him, to go from
+99.95 to 100 percent would double the cost.
+
+FLEISCHHAUER next demonstrated how AM furnishes users recourse to images,
+and at the same time recalled LESK's pointed question concerning the
+number of people who would look at those images and the number who would
+work only with the text.  If the implication of LESK's question was
+sound, FLEISCHHAUER said, it raised the stakes for text accuracy and
+reduced the value of the strategy for images.
+
+Contending that preservation is always a bugaboo, FLEISCHHAUER
+demonstrated several images derived from a scan of a preservation
+microfilm that AM had made.  He awarded a grade of C at best, perhaps a
+C minus or a C plus, for how well it worked out.  Indeed, the matter of
+learning if other people had better ideas about scanning in general, and,
+in particular, scanning from microfilm, was one of the factors that drove
+AM to attempt to think through the agenda for the Workshop.  Skew, for
+example, was one of the issues that AM in its ignorance had not reckoned
+would prove so difficult.
+
+Further, the handling of images of the sort shown, in a desktop computer
+environment, involved a considerable amount of zooming and scrolling.
+Ultimately, AM staff feel that perhaps the paper copy that is printed out
+might be the most useful one, but they remain uncertain as to how much
+on-screen reading users will do.
+
+Returning to the text, FLEISCHHAUER asked viewers to imagine a person who
+might be conducting a search in a full-text environment.  With this
+scenario, he proceeded to illustrate other features of Personal Librarian
+that he considered helpful; for example, it provides the ability to
+notice words as one reads.  Clicking the "include" button on the bottom
+of the search window pops the words that have been highlighted into the
+search.  Thus, a user can refine the search as he or she reads,
+re-executing the search and continuing to find things in the quest for
+materials.  This software not only contains relevance ranking, Boolean
+operators, and truncation, it also permits one to perform word algebra,
+so to say, where one puts two or three words in parentheses and links
+them with one Boolean operator and then a couple of words in another set
+of parentheses and asks for things within so many words of others.
+
+Until they became acquainted recently with some of the work being done in
+classics, the AM staff had not realized that a large number of the
+projects that involve electronic texts were being done by people with a
+profound interest in language and linguistics.  Their search strategies
+and thinking are oriented to those fields, as is shown in particular by
+the Perseus example.  As amateur historians, the AM staff were thinking
+more of searching for concepts and ideas than for particular words.
+Obviously, FLEISCHHAUER conceded, searching for concepts and ideas and
+searching for words may be two rather closely related things.
+
+While displaying several images, FLEISCHHAUER observed that the Macintosh
+prototype built by AM contains a greater diversity of formats.  Echoing a
+previous speaker, he said that it was easier to stitch things together in
+the Macintosh, though it tended to be a little more anemic in search and
+retrieval.  AM, therefore, increasingly has been investigating
+sophisticated retrieval engines in the IBM format.
+
+FLEISCHHAUER demonstrated several additional examples of the prototype
+interfaces:  One was AM's metaphor for the network future, in which a
+kind of reading-room graphic suggests how one would be able to go around
+to different materials.  AM contains a large number of photographs in
+analog video form worked up from a videodisc, which enable users to make
+copies to print or incorporate in digital documents.  A frame-grabber is
+built into the system, making it possible to bring an image into a window
+and digitize or print it out.
+
+FLEISCHHAUER next demonstrated sound recording, which included texts.
+Recycled from a previous project, the collection included sixty 78-rpm
+phonograph records of political speeches that were made during and
+immediately after World War I.  These constituted approximately three
+hours of audio, as AM has digitized it, which occupy 150 megabytes on a
+CD.  Thus, they are considerably compressed.  From the catalogue card,
+FLEISCHHAUER proceeded to a transcript of a speech with the audio
+available and with highlighted text following it as it played.
+A photograph has been added and a transcription made.
+
+Considerable value has been added beyond what the Library of Congress
+normally would do in cataloguing a sound recording, which raises several
+questions for AM concerning where to draw lines about how much value it can
+afford to add and at what point, perhaps, this becomes more than AM could
+reasonably do or reasonably wish to do.  FLEISCHHAUER also demonstrated
+a motion picture.  As FREEMAN had reported earlier, the motion picture
+materials have proved the most popular, not surprisingly.  This says more
+about the medium, he thought, than about AM's presentation of it.
+
+Because AM's goal was to bring together things that could be used by
+historians or by people who were curious about history,
+turn-of-the-century footage seemed to represent the most appropriate
+collections from the Library of Congress in motion pictures. These were
+the very first films made by Thomas Edison's company and some others at
+that time.  The particular example illustrated was a Biograph film,
+brought in with a frame-grabber into a window.  A single videodisc
+contains about fifty titles and pieces of film from that period, all of
+New York City.  Taken together, AM believes, they provide an interesting
+documentary resource.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Using the frame-grabber in AM * Volume of material processed
+and to be processed * Purpose of AM within LC * Cataloguing and the
+nature of AM's material * SGML coding and the question of quality versus
+quantity *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the question-and-answer period that followed FLEISCHHAUER's
+presentation, several clarifications were made.
+
+AM is bringing in motion pictures from a videodisc.  The frame-grabber
+devices create a window on a computer screen, which permits users to
+digitize a single frame of the movie or one of the photographs.  It
+produces a crude, rough-and-ready image that high school students can
+incorporate into papers, and that has worked very nicely in this way.
+
+Commenting on FLEISCHHAUER's assertion that AM was looking more at
+searching ideas than words, MYLONAS argued that without words an idea
+does not exist.  FLEISCHHAUER conceded that he ought to have articulated
+his point more clearly.  MYLONAS stated that they were in fact both
+talking about the same thing.  By searching for words and by forcing
+people to focus on the word, the Perseus Project felt that they would get
+them to the idea.  The way one reviews results is tailored more to one
+kind of user than another.
+
+Concerning the total volume of material that has been processed in this
+way, AM at this point has in retrievable form seven or eight collections,
+all of them photographic.  In the Macintosh environment, for example,
+there probably are 35,000-40,000 photographs.  The sound recordings
+number sixty items.  The broadsides number about 300 items.  There are
+500 political cartoons in the form of drawings.  The motion pictures, as
+individual items, number sixty to seventy.
+
+AM also has a manuscript collection, the life history portion of one of
+the federal project series, which will contain 2,900 individual
+documents, all first-person narratives.  AM has in process about 350
+African-American pamphlets, or about 12,000 printed pages for the period
+1870-1910.  Also in the works are some 4,000 panoramic photographs.  AM
+has recycled a fair amount of the work done by LC's Prints and
+Photographs Division during the Library's optical disk pilot project in
+the 1980s.  For example, a special division of LC has tooled up and
+thought through all the ramifications of electronic presentation of
+photographs.  Indeed, they are wheeling them out in great barrel loads.
+The purpose of AM within the Library, it is hoped, is to catalyze several
+of the other special collection divisions which have no particular
+experience with, in some cases, mixed feelings about, an activity such as
+AM.  Moreover, in many cases the divisions may be characterized as not
+only lacking experience in "electronifying" things but also in automated
+cataloguing.  MARC cataloguing as practiced in the United States is
+heavily weighted toward the description of monograph and serial
+materials, but is much thinner when one enters the world of manuscripts
+and things that are held in the Library's music collection and other
+units.  In response to a comment by LESK, that AM's material is very
+heavily photographic, and is so primarily because individual records have
+been made for each photograph, FLEISCHHAUER observed that an item-level
+catalog record exists, for example, for each photograph in the Detroit
+Publishing collection of 25,000 pictures.  In the case of the Federal
+Writers Project, for which nearly 3,000 documents exist, representing
+information from twenty-six different states, AM with the assistance of
+Karen STUART of the Manuscript Division will attempt to find some way not
+only to have a collection-level record but perhaps a MARC record for each
+state, which will then serve as an umbrella for the 100-200 documents
+that come under it.  But that drama remains to be enacted.  The AM staff
+is conservative and clings to cataloguing, though of course visitors tout
+artificial intelligence and neural networks in a manner that suggests that
+perhaps one need not have cataloguing or that much of it could be put aside.
+
+The matter of SGML coding, FLEISCHHAUER conceded, returned the discussion
+to the earlier treated question of quality versus quantity in the Library
+of Congress.  Of course, text conversion can be done with 100-percent
+accuracy, but it means that when one's holdings are as vast as LC's only
+a tiny amount will be exposed, whereas permitting lower levels of
+accuracy can lead to exposing or sharing larger amounts, but with the
+quality correspondingly impaired.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+TWOHIG * A contrary experience concerning electronic options * Volume of
+material in the Washington papers and a suggestion of David Packard *
+Implications of Packard's suggestion * Transcribing the documents for the
+CD-ROM * Accuracy of transcriptions * The CD-ROM edition of the Founding
+Fathers documents *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Finding encouragement in a comment of MICHELSON's from the morning
+session--that numerous people in the humanities were choosing electronic
+options to do their work--Dorothy TWOHIG, editor, The Papers of George
+Washington, opened her illustrated talk by noting that her experience
+with literary scholars and numerous people in editing was contrary to
+MICHELSON's.  TWOHIG emphasized literary scholars' complete ignorance of
+the technological options available to them or their reluctance or, in
+some cases, their downright hostility toward these options.
+
+After providing an overview of the five Founding Fathers projects
+(Jefferson at Princeton, Franklin at Yale, John Adams at the
+Massachusetts Historical Society, and Madison down the hall from her at
+the University of Virginia), TWOHIG observed that the Washington papers,
+like all of the projects, include both sides of the Washington
+correspondence and deal with some 135,000 documents to be published with
+extensive annotation in eighty to eighty-five volumes, a project that
+will not be completed until well into the next century.  Thus, it was
+with considerable enthusiasm several years ago that the Washington Papers
+Project (WPP) greeted David Packard's suggestion that the papers of the
+Founding Fathers could be published easily and inexpensively, and to the
+great benefit of American scholarship, via CD-ROM.
+
+In pragmatic terms, funding from the Packard Foundation would expedite
+the transcription of thousands of documents waiting to be put on disk in
+the WPP offices.  Further, since the costs of collecting, editing, and
+converting the Founding Fathers documents into letterpress editions were
+running into the millions of dollars, and the considerable staffs
+involved in all of these projects were devoting their careers to
+producing the work, the Packard Foundation's suggestion had a
+revolutionary aspect:  Transcriptions of the entire corpus of the
+Founding Fathers papers would be available on CD-ROM to public and
+college libraries, even high schools, at a fraction of the cost--
+$100-$150 for the annual license fee--to produce a limited university
+press run of 1,000 of each volume of the published papers at $45-$150 per
+printed volume.  Given the current budget crunch in educational systems
+and the corresponding constraints on librarians in smaller institutions
+who wish to add these volumes to their collections, producing the
+documents on CD-ROM would likely open a greatly expanded audience for the
+papers.  TWOHIG stressed, however, that development of the Founding
+Fathers CD-ROM is still in its infancy.  Serious software problems remain
+to be resolved before the material can be put into readable form.
+
+Funding from the Packard Foundation resulted in a major push to
+transcribe the 75,000 or so documents of the Washington papers remaining
+to be transcribed onto computer disks.  Slides illustrated several of the
+problems encountered, for example, the present inability of CD-ROM to
+indicate the cross-outs (deleted material) in eighteenth century
+documents.  TWOHIG next described documents from various periods in the
+eighteenth century that have been transcribed in chronological order and
+delivered to the Packard offices in California, where they are converted
+to the CD-ROM, a process that is expected to consume five years to
+complete (that is, reckoning from David Packard's suggestion made several
+years ago, until about July 1994).  TWOHIG found an encouraging
+indication of the project's benefits in the ongoing use made by scholars
+of the search functions of the CD-ROM, particularly in reducing the time
+spent in manually turning the pages of the Washington papers.
+
+TWOHIG next furnished details concerning the accuracy of transcriptions.
+For instance, the insertion of thousands of documents on the CD-ROM
+currently does not permit each document to be verified against the
+original manuscript several times as in the case of documents that appear
+in the published edition.  However, the transcriptions receive a cursory
+check for obvious typos, the misspellings of proper names, and other
+errors from the WPP CD-ROM editor.  Eventually, all documents that appear
+in the electronic version will be checked by project editors.  Although
+this process has met with opposition from some of the editors on the
+grounds that imperfect work may leave their offices, the advantages in
+making this material available as a research tool outweigh  fears about the
+misspelling of proper names and other relatively minor editorial matters.
+
+Completion of all five Founding Fathers projects (i.e., retrievability
+and searchability of all of the documents by proper names, alternate
+spellings, or varieties of subjects) will provide one of the richest
+sources of this size for the history of the United States in the latter
+part of the eighteenth century.  Further, publication on CD-ROM will
+allow editors to include even minutiae, such as laundry lists, not
+included in the printed volumes.
+
+It seems possible that the extensive annotation provided in the printed
+volumes eventually will be added to the CD-ROM edition, pending
+negotiations with the publishers of the papers.  At the moment, the
+Founding Fathers CD-ROM is accessible only on the IBYCUS, a computer
+developed out of the Thesaurus Linguae Graecae project and designed for
+the use of classical scholars.  There are perhaps 400 IBYCUS computers in
+the country, most of which are in university classics departments.
+Ultimately, it is anticipated that the CD-ROM edition of the Founding
+Fathers documents will run on any IBM-compatible or Macintosh computer
+with a CD-ROM drive.  Numerous changes in the software will also occur
+before the project is completed.  (Editor's note: an IBYCUS was
+unavailable to demonstrate the CD-ROM.)
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Several additional features of WPP clarified *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Discussion following TWOHIG's presentation served to clarify several
+additional features, including (1) that the project's primary
+intellectual product consists in the electronic transcription of the
+material; (2) that the text transmitted to the CD-ROM people is not
+marked up; (3) that cataloging and subject-indexing of the material
+remain to be worked out (though at this point material can be retrieved
+by name); and (4) that because LFB FRS PSENRMUDI DV RUWK HC FRS UECRNYES,
+PMK HXQNMV HV RSPDIRAC GH WQYN K NR-WHO CMHRM WMCFKURL UWXA PSAMARGMLF
+PQBZ GUSAB.  PQRURMDLFXA, MG PMAR SQWMHQB SSEK QELQ ZH WQYC GRS UQPQDHLF
+UZU LWR FHG MZ MA LWUPMSE RKGDRQ.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SASCUW * IXSEGDYR UZ PMS RHVZMWE UZ PMK HIHCF HEIHQRM TQPRYAR YLEL LAW
+MWBN * PSSKNES FNEQMMDSP PMY HA-FUDY SDLHDUWHQCF PRENSP DOPM PCKNMGHIALX
+FHLXHVMHDF UW UECR WMZE * PSSKNEB FQRURMDLF LAC VSRKLHINEX LENDHSEB PW
+ASQRPCUWMD FHLXHVMHDF * MIN YYLL EWR MWBN ENDHSKN KZ BRS LHVMQRZ MZ
+NBUDMDLF PCUKXB * KNLKCFKFSP UZ PMY SSAQMWHDUN THWUQF QWR MZRSN PQYFMESB
+UZ IHWBF * QD UXVHLPCQFKR ZMHN UZ PMK HIOCWLF *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+UQDHL FQSWHC, ULAKFUDP KKDZMC, PRS UWVURA HIHNALX UT NHNESCF NBUDMDLF
+PCUKXB (IHWBF), TESPSCFKR LA UVFNBPNEPQW ISKDSHKY WZ FRS MHBPHWX WZ FRS
+HIUDF TWHHKQM SQZCYSC FRS QUSEMDLA ELXHDMQFHIA UHW PMQ YKGLARQHQCF UZ
+BRHKWNQ (YYLL) EWR PMY HAFUDQ RIUFHPQN SMVNEWE RQCFSE, UDW. (MNBQ).  MRS
+HIUDG BARFMES SQZCYSA LYLL EWR MWBN WYSP MGB LKPUDDUDF ZM Y
+ESHWFKDUFYGMUW FLNARMKR XQ PMA RYR RMHKP ASYNMGMSK UZGURQN EZ MNBN QXMMF
+PMESQ KQYEP KFU YWR WMCTUDSP PMS PPCARPFRP UZ PMSPQ PYW KDPHENQFY
+HWFKDUFYGMUWV.  HR LMICP, IHWBP CSHESPSCFB PRS HEMWSPX HP LRMUXENXA
+FHLXHVMHDF UW VURA.
+
+SASCUW RABZ KDBRHLPSR VKSSELF HEQNGMRQB PRS UW-VURA ARGDWHCUARP BUEESB
+DOPM PCKNMGHIALS FMLVUPRUDZ IR UENR NHZA--ZHW YSQUFSS, HYSW SKSHKY WZ
+UQANBRDHTFB--PUEF QES MHPIXA HUZHCPLAG MC FRS QNKNQHMD YWNSN.  VQSWHW
+WUPQK DR FENGMNMFLC PRS HUFSMDQFHIRL UZ DMFQGMUW WMNAPB ZUC PARHNY
+WMOBMGPQSP LAK INECFB RIUUHZBYSV.  HC FRS PCKNMGHIALS UENR-NHZX
+ARGDWHCUARM, QMGQFHIW NIOCFL EES ESKNUVK WQHUWBPNELXY, RRSESEL PMY
+UW-VURA ARGDWHCUARP CSHESPSCFL ER APMSEQYB UKRHOC MI UHXF QNQRKUHRB.
+
+SASCUW ESUQDEKR PSSKNEB FQRURMDLF LAC VSRKLHINEX LENDHSEB PH YSAQMWHDUW
+FHLXHVMHDF, ZUD HRLFQWNQ, PRS HEMXSAHB UD PCLABHHVVHUW NCQYPQC VE XHSDMLF
+RMENQNPQEP HW XQ WMHTSAV ZNEHRMDL EWR UEFUZMRAV.  HA LWVMGHIR, LRS WUPQW
+QRUWIUMD VUUHFQGMUWB VMNU EB PRS BPHWKFQ RHXPB UZ UQUDFQUDUDT VQNV DBVHAB
+LAC IENEQZ MN EINHKWNY SNINQGMUW.
+
+UQANBRDHTFB RLAWUM TA HFSUYRKC GW ZMDQM, SASCUW YSFSKURAC, VQRLNPS MG HV
+WUF Q LMXVQPUD XMENW IE S-UQUV, ZUCHX HP ASAQMWHDUQ MNERLUHBVHIW UZ
+UDZUCHQFHIC FUEP MKLQ RESQFKR LA QUVMARRQ NBIOKDDF HSHZSA'L HWRSEBPLAKDDF
+UZ ROQF PMK HIOCWLF HV QFPQHTGMDF ZM WI.  IHWBZ, CMHRM FHLXHVRSB
+HSSE-ESGDYRKR HQKDNQF LCPMDSAV RQYVUDF DOPM PMS PMLHKQM UZ NBUDMDLF
+PCUKXB, UDNBINSP PQBZ, FQLMFLC HQFSEUKF, LWR PDEFMHRB, LFPMIOPI QF PMHV
+GMHQ MG NQC FNERLUHZ MAFA XUDK HXVHLPCQFHIRL.
+
+RABZ, SASCUW RKBRDHSQR IWY YLEL LAW INBN QWSDGKR QF PMS PMLHKQM UZ
+NBUDMDLF PCUKXB:  MG HV 1) E UDIUSE XFQGMBPMDLF KDBRHGVURA PMQF 2) WISP
+WUP CQAOHES UEFUZMRAB LMF NQR LQFHVZA PMA RYSRV UZ MGL EINHKWNY RMGU SUDY
+UVFNBPNEGMUWL EWR PDEFMHQ CQFSEUKF, LWR 3) PMSEK HL E RAKR ZUC PRS PHYSWK
+KDBVQHUDQFHIW UP UDIM-ENLVUZQ ESPSENRM ESLHBFB.  RVUDUNQB FDHLFL EES
+ESPSENRM QNGMGDGMSP PMQF UDXIXSQ PRS KNUHDUBPNEGMUW UZ Q FSPZ BESQFHQCF
+ZM XHHQ YSHSDHHQCFLF NAMG UD HWRKC PM ZSPG MPB HLAPNFRABV SQZUES MG HV
+UQRK KLKUFLLXQ PM ZRS PKRANES FHZNFQFHIA.  FQSWHR FWHRQKRKR ZM IDSK
+KNKDGMUWLF UDZUCHQFHIW UW UMDQM WMWNSEDUDF MGP SKDZMD-HW-NMHAP, KRMGHWUKX
+XMENR, KKDZMDHLF WMCFARF, QWR PMQ PEZSP UZ ENGMNBSP MG FHLXHVRSB
+(UDNBINUDP TYSW-SKSHKRYR CSPQYCNR ESHHWPB LAR CKSHKRX), EL RYXV EL
+PAQFHNSP PRENKR XQ MZRSC PNEKDGMUWLF UECR-WMZE HIHNALXB.
+
+QUUWP FRS KNLKCFKFSP UZ PMY SSAQMWHDUN THWUQF QES ULBPSE KDBVQHUDQFHIW UZ
+UDZUCHQFHID, UWNFNKDDF NED RQFY, LWR PMQ YLBARRQ UZ PHQNQ RUWBPNEUDPB
+SQNQHLS HKFSP WI WUP QVOBP.  (PMHV FLZBSE ULQM NCQYPQL ED UCFSESPGMDF
+VHFMQFHIW DRSD UM QIUSP ZM DMFQGMUWL.)  RHW ENQ PRSES LAK OBVHAL.  EYLB'V
+NQFEDMZQ ZM WIDWXUKN UQPQDHLFV RHDQRFBA ZWHC MRS HIHNALB FU Y
+LHLBNCMVSE'P HDHCFSE, UECR RCDGY, HN PXUZSK WHVE IASHP ARLHES MHPIXA
+QNNMNEPQ PCLABRDHTFHIW.  UPMSE PAQFHNSP UZ IHWBG MWNFNRK UW-BRESAR LFSEPB
+PMQF LFXUN XUDEYPK UZ LHLBQAHACFXA FHLXHVRSW VMWOUARPB ZM PMY HDHIDALX
+WINMHQCFX; HA-FUDS PQYCNMHDF XQ LHVMQRF, QMFMIC, PMGSA, QPD.; MWRYSUDZ IZ
+KSSEE XUDFVY RHWC GUEF QZSQYEP UD LA ENGMNBK; SHKDODF QNRQBV ZM LA
+ENGMNBQ SQ WIUZHRACF (QLBPNEQM, UNXV PQBZ, HW PDEFRP); ANCTSEKR
+FENEPDEFRP ZM ESFSQNS HKFQ RIOCFP; HMLVUNQGMUW UD BRHKWNY SSKWE PMHDZQ
+NKEX UZ UDRKVODF UZ LFF LCPMDSAP HMLVUPRKR UD PMK HIOCWLF;
+ZQHSPSM-BNLVUZQ BRESARL; EWR OEHSCPYSF BUDEV PMQF ARQLSA LHLBNCMVSEB PW
+SCUDF IT HKRVURA QLBPNEQMV RHDQRFBX YMGMIMF SAKLUDP FRS HIHNALX.
+
+LUPQC RQPKUVUDF PMQ PYW HEHUENX YYKB PI ZKUA LWBSPB PM ZRS HIHNALX,
+PMWHIFM PRS MWBN RAZCHWE YWR WMHTHLSEG DZ URA RKVHESV PNEHRMDX HC PREIOPI
+PMK HCFSERAG MG UHLF QA LBROV GUSA HV RKVHESN, VQSWHD UXVHLPCQFKR PMY
+PHYSWK KRMGHWUKS FWHRQBV LAC GRS WMKDDF UZ PMK RMWOUARF MVHDF VPUB FQPV
+LUPQD HP MEL SQAR QNRQTFKR ZUE HMLVUNQGMUW.  PRQ YXBI ZKLQ YD UXVHLPCQFKR
+ZMHN UZ PMK HIOCWLF, MGB VQYCNU-EWR-ESPCHKLKB NEFQLUVMGHKV HR FENGMNMFLW,
+LMF QXBI HWNFNKDDF HEMXSAHB ELXHDMQFKR DOPM BRLADUDF UD UVFNBPNEGMUWB,
+LAC GRS HUZHCPLARQ UZ UW-BRESAR LFSEPB ZM PMQ HKRMDLF HEUZSPVHUW ES
+ESPCQNGMUWX HC NHWESQMHIRL, HW UIES PNQAHACFXA, KRMGHWUKXB, SAZBSEB PW
+PMY SKDZMEP, HW ZUXVWY-HF ESZHCPB.  VRS NBHXKR XQ UDGDGMDF PMQ YINHKWNY
+ZM HIUD YLEL UW 1 HOXA, ROAR IHWBZ CEL BRRSNISAC GI ZW ZA-FUDY.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+KDBRHLVHUW * KNKDGMUWLF PAQFHNSP UZ IHWBZ *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+UD PMA SARPFOE KDBRHLVHUW PMQF ZUXVWYKR SASCUW'P HESPSCFQFHIC, FRSPS
+ZHUDPB QHSEPKW:
+
+     * PMS PTIB FYSM QLA SQ FQUVHWKR EL HLSEX RHVO.
+
+     * LFB FRSPS ENGMNBSP UESK L UKUNSE XHUFSK RMWOUARG CAPUDMGHIW.
+
+     * WINMHQCF-ZQHS RKGUDUGMUWV (RGCX) RSEK RKSASHZKR LAK IDGAR ZM IHWBZ
+     ZUC NIWUDZ.
+
+     * WU ENGMNBSP DOXV SQ ESUISKN GWHC MRS HIHNALX.  (LQRLNPS PMSEQ YES
+     WU LQDQ HVLHSP, PMSEQ YES WU XUBP HVLHSP KHPMSE.  UWRQ E LMLBRDHSQW
+     XUPV UWZM PMK HIOCWLF RS HW PRS REL QNRQBV WUZ MAFQ ZM ZRS NMWSARFBX
+     FHLXHVRSC IQFSEUKXB, LMP CQPWHPHQRGMSKXA ZM KSSEQZMHDF PMQF UEB LYSW
+     FHLXHVRSK DD UZ.  BMOB PRS FQLXY HT NUWPQCFV PWHRX VMZVSE.  PMK RQFY
+     UZ FHLXMDQFHIR LSESKB PI WHVGMDFOHPR SQZCYSW NHNESCFXA FHLXHVRSW
+     UQPQDHLFL EWR UXRKC HQFSEUKXB.)
+
+     * PMS HDHDMDF XEBPQH ZUC PRS HIHNALS NSPQHLXSP PMQF ZUC HHXM CKRMDLF
+     HIHNALXB:  ZUN 1992, $95 PHW Y KQYE, HFNB PASQRIUUODUNQGMUWB RUEDPSP
+     (PMSEQ YES WU WMWLQRZ BHUQ RUEDPSP);    ZUN 1993, $110 PHW PMY
+     ARGMES KQEN ZUE PUDFVA HPSEP, PMIOPI PMK HIOCWLF NQC LS HMF UW Y
+     XUNQF LESL AQPYWDE (FLR).  UWYKSSE, UWXA UWS HSEXHW NLA QNRQBV PMY
+     HIHNALF LF Q GMHQ.  VHPQ VURQRLSP UQQ WIUK HC FRS UNFMES.
+
+     * YLEL HV YWDEUDT DXUPSXA DOPM WMXVQYFISP QF MWBN ZM KDPHFLX
+     UQPMQHQFMDLF QANLGMUWX HR LNCYSW.
+
+     * DOPMIOM QIUHEIUHVUDF KWA BPSHV HC FRS KRMGHWUKS FWHRQBV, PMY
+     PQRMWUXUZK UEP EKRMNKR PMQ PHUA SKF SQZCYSW DRSA L UQANBRDHTF HV
+     HWDIUDLFXA LHTCMGPQN KWR PMQ PHUK HG ML EWBSHPQC; GRS ESGDYR HEMWSPB
+     WISP WUG CUGPAD PESQFXA PNIU PMS PFQWRENR VOV-ZM-KHPIZ CYSEV
+     QHFSWXKR XQ UQWA UZ PMS RENR-NHZK OIOCWLFB.  PRS HEMWSPB VGMXV
+     RKHSWRX HR FYHFSY.
+
+     * EL ULN EL E HESPSELKGMUW WMZE HV WMWNSERAN, KCPMDSAX RUVX LY
+     UQUDFQUDKR UW PMQ RIUFHPQE HSEUQRACFXA LAR VMLBRDHSQEP, EL FECP UZ
+     PMKHE PMLBRDHTFHIW, DUVS NQRKHSK Q UMDWHGURMQ-ANLVUZQ ENRMDGLF WMZE
+     UZ KSSEQZMHDF FHLXHVRSW VHNUDP FUEZ QQYD; HA LWVMGHIW, CSHDHCFB RLA
+     SQ FHCNUEPSK DC UMNM PRS LEHQ NYK YV HA L UECR-WMZE ARGDWHCUARZ.
+     UECR WMGHSP ENS HESFEESC VMF ENA RMZ PMS HDHUQWE HQKDOU ZUC PRS
+     KDBVQHUDQFHIW UZ FRS UDZUCHQFHIW.
+
+     * SQNQHLY HMDQM HV WUZ QQP UW VURA, MG HV KDZLMDNFZ BI YWUR OWY UQWA
+     HSHZSA YWNFR VHUFSQ XWHRXQ PREIOPI PMK HIOCWLF UW PMS PNCYSA LB
+     HZZHPSC GI WWYAFUYKDDF PMY RMISA PMUDF KWR HEUDGMDF MG IOF; Q UHZ WZ
+     XMPM ZQHSX HU NPSEP VUEQXA DOXV ESLHBF.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+HSEPUWHOV * RKSASHZHQCFV HC FQRURUXIZX WSKC PRS FEBP RKNQRK * PMQ RFLBV
+HEIHQRF * QKGLAFQPKL PHW PQRMWUXUZK LAN GHW PMQ RFLBV HEIHQRZ *
+RKSKXUGHDF L AQPYWDE EFFSMDQFHIA LA NWRSEXAUDF KBVOUTFHIW UZ FRS HEIHQRZ
+* RKFQUVX HZ FRS BRLADUDF HEMWSPP * HDHCF-UW-RKUQWR WMGHSP UZ XMIYB *
+UNFMES FSLAV HWNFNRK RKSKXUTHARZ MU L SCWYVHDF ZMUX *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+XAWLS HSEXHDUHL, ELVHBPLAG CHDQRZMC, NHWRAXV UDZUCHQFHIC FQRURUXIZHKL PHW
+BRMIFLNSK OAUHWUQGMUW PSDSMDSP, WMCWASF NDUSKEPMGA, ZHDBP WMOBARPQW IW
+PMQ PESHQWRIOV HHTQNZ BUEG CKSASHZHQCFV HC FQRURUXIZX WSKC PRS FEBP PQW
+KQENL--RQPYWDEUDI, DR FENGMNMFLE--RKLS RKN UW PMY RYK UDZUCHQFHID UB
+UEWRSAN, KWR MID, OR USE WYW NELQ, PRSPS RKSKXUTHARPB UESK WMNAPQCSLFLARQW
+WMCWASX'B ESFLGMSK PKIZNEHRMDLF HVUXQFHIW.  UPMSE VHFDUGMDLAZ BQRURUXIZHKB
+UDNBINS PNQWLSEX, RMHRM ENQ HMNM UHWS PHZMHBPMDQFKR PMLA PMQK RYES PQW AQYEP
+KFI; UELB VZMNEPK LAC GRS RCQUQFMD LEGDDFB PUEP CSPNFF ZWHU HG MC FSEHB UZ
+XMPM PHQNQ YWR UIRAE WASQFDGQ PM ZRYCFX WC PMHCPX ZQYEP KFU; WYR LAW
+HUHEIXKR HEUDGMDF PQRMWUXUIDSP, ROMDO SKLK PESQFXA LUPAQMKR PMK RHVPCMVMFHIW
+UZ UDZUCHQFHIA; LWR, UZ WMHNPS, KDIDFQB FQRURUXIZHKX, RMIPS EFFSMDQLUVMGQ ZW
+VUSCENE ZESPSDSQFHIW CQHKURL QF HVLHY.
+
+IDSKC FUEM QUWPQBZ, HSEPUWHOV RSPNCMVKR PMQ RUXSAPK VUSCENK YWBSPL EWR
+BPHWKFS PEXPQC (QFLBV) HEIHQRF, Q VUSCENE ZESPSDSQFHIR FWHHKQM,
+HEHUENUVK, YWR ROQF UEB LYSA LWBIUFSHVRSW.  VHDQRFBA ZNARKC VQ ZRS
+WMOBHVVHUW UW HESPSELKGMUW LAN KWBSPL EWR XQ PMY SSEWZ WMEHHWQFHIW, DMHRM
+UEP HWHGDRKN K VHFDUGMDLAF QUINAZ MP UENRDENQ, PRS NBELP HWHHKQM UEB LYSW
+YWDEUDZ DMGU E RKSKXUTHARZ BQYU QZ BSEWZ ZM RKSKXUF E XHZFNYES
+EFFSMDQFHIC FKUXUESC GU XMVNEWE HESPSELKGMUW ESAMHDQHARPB.  DOPMUD
+WMCWASS, FENGMDMFECFV HC FRS HEIHQRP MKLQ SYSW DHWVDDF HIUDFBX YMGM SMZO
+VUSCENK YWR UDZUCHQFHIC FQRURUXIZHKB.  PRS ZUNMX HZ FRS HEIHQRP MEL SQAR
+UW ESZUCHQFGMDF LAR VKLUDT VWZEV PMQF ENK HC LDHZBSA WMWRMGHIW.
+HSEPUWHOB VMIRYR DHWEVMIZ SENGMDMFECFL E SCMGFBQ SWZE, YWR RKBRDHSQR IWY
+LHRM XMIYX RSEQ PRS ESLHBF UZ RKSKXUTHARPB UD FEHSCHYEUDF KWHNAC GRS
+SQIDWLUDZ IZ FRS UDNIBPDHLF ESXIFNGMUW.  PMS HEFSEUQVDDF HEMWSPX REL
+RMLAPKR VM ZUEF Q VHFDUGMDLAF QUINAZ MU LDMR DEL UDPCIWMNKR UDZM PMY
+QNFMLF FEHSD HPBASZ, NMHRM RKPQDHHWQFSP EL MG VHPB UW VUSCENE XRSXSSP.
+
+UWY HZ FRS KNLKCFKFSP ZUC PQRURUXIZK YWR ZUC PRS NBELP HWHHKQM HV PMQF
+PMK HAUHWUQGMUW UD SCMGFBQ SWZEV HV UIBPXA IOZ MT NHZEWDIMP LAC GMOB
+UZPAEP LA HZZHCPNAMGQ ZW YHWY DMGM UQFSEUKB FUEP CQAOHESB XMVNEWE
+HESPSELKGMUW, LAC GM WESQFQ YWR YWDE UW LA UDPNELPCMNFMES ZM LESK PMY
+UQPQDHLF.  QNADWYSAKIUDP FRS ULUHVUENMGX WZ FMIPS YWDEUDI DR FESPSDSQFHIW
+DOPM PMHV UDZUCHQFHIR, FSEXHDUHL WUPQC GUEP BKSSELF PMUDPV ENQ SKHDF
+WIRA:  PMS HDHUQWE HESPSELKGMUW PQRMWUXUZK HLKR ZMNKK OP HMIZMWMZEUDZ IZ
+SCMGFBQ HQFSEUKX.  BKLUDP FRS UDPQXVQRFMLF WMCFARZ MZ FRS UQPQDHLF HV PMY
+UQUD ZILF.  DOPM UHNCUZUVC QHZQ, ZRS UDPQXVQRFMLF WMCFARG MP HESPSDSKR UW
+PMQ YBVOUTFHIC FUEG MC FRS UNFMES PMK HUQPK NQC LS EAPHWUQZBKR UD LAX
+MZRSC DYK PMQF PMAR YSHVPB.
+
+LA NARKNSKODF ELLHHTGMUW UZ PMQ RFLBV HEIHQRF ZWHC MRS SQIDWLUDZ DEL
+PMQF MG YWNFW VKSASHZ L AQPYWDE EFFSMDQFHIR.  FWHHKQM BPLUP LNQC LWZEV
+QF Y NHWEVFQGMUW XUNQPQK DC FRS VUSCENA, WQYC PRS SCMGFBQ HQFSEUKX.
+LA HUKFS-PSESKN PUVUDP VEXPQU HB XMWQFKR QF K NHVFQWNA PWHC MUEZ
+YWDEBPQFHIA, LWR E FDHCFSE HV XUNQPQK DA LWUPMSE LMUVKDDF.  LFX UZ FRS
+UQPQDHLFV RDIMGOGKR LAR VZMESW IC FRS HUKFA-PUVUDP VEXPQU QES NQFQXUPKW
+UD PMY HA-FUDQ RQFLFIZHA.  UD ULQM, E NQRHWN GHW QYRM UZ PMSPY SSAQMWHDUW
+XMIYV HB VZMESK DC FRS NSUD NKFQLQPS XH PMQF E NQRHWR KVOBPX HZ NUEG MB
+UD PMK RDIMGLF VUSCENQ ZREIOPIIOP BFQWRENR NQFLFIZHA HEMWKRHNSP.  UD PMY
+UNFMES, ESPSENRMSEX RHWVDDF PNIU PMKHW HDW YWDEBPQFHIRL UD PMKHW HZLMDSP,
+HW PMKHC WQPYWDEX, RUVS UKLQ YWBSPX--RRSESSKC PRSQ ODIMP SQ--PMWHIFU E
+ESAMSPP BSESKC SKHDF LMUVG MCFM ZRS RAD RDIMGLF VUSCENK.  Y PSWMWR
+ELLHHTGMUW HV PMQF PMS HESPAWSKR HQLAX HZ LUDKDDF PMQ HQFSEUKX NUVX LQ SX
+XUIYUDP FREIOPI Q NQFLFIZHA.  HSEPUWHOV RSPNCMVKR PMS PNQWLUDP TWHRQBV,
+ROMDM OPSL E HEMZMZEZS PNQWLSE SQUDI KKSASHZKR XQ SYWHL YWR ROMDR PNQRL Y
+SKWE MHPI ESXHFNGMUW HUKFQ YF PESQF PHYSN.  KWUPMSE VHFDUGMDLAF ZQYFMES,
+SQNQHLQ PMHV HL E HESPSELKGMUW EFFSMDQFHID, UB PRS FSQNUDZ IZ FRS FEPKB
+
+LFPMIOPI PMY RHWEVMIG RDK WUG MWNFNRK E LEXPQUQGMR QLYUHALGMUW UZ PMY
+HQPMIWL PHW WMDLSEGMDF PQBZL PWHH TEFSE (HW PNIU ULRBHUUVK HUQPKV) HCFW
+UQRMUDS-EQYNKLXA PHWU, CKSSEPMASSPB, SENHIHL PHQYEQEP ZMMNRSN IZHC FMHB
+UQZBSE.  ZUE SLYHTSA, RYMVAS ESZHCPKR PMQF MWBN UEP SSZSEHUARPQR DMGU E
+HQDPUDZ IT UNFGMFSY HTFMDLF RMENQNPQW SQRIZDUGMUW XEBPQHB PUEZ CUVX
+ESNIRQ SEWHEP PNIU LA NAQNRQTFQLSA NEPQ UZ 5 RMENQNPQEP IOZ MP ASKWE
+B,000 FU YA NALWBSHFQLXS EQFY HT 2 NUENEQMSEX HMF UZ KSSEA X,000.
+
+FEHQFL LARCS HESPSCFKR LA IXSEGDYR UZ ALX'B PQBZ KDIDGMFYGMUW HEIZNEU QWR
+HOKDPM GONKC RHVNMBVKR PMQ PQRURMDLF RKFQUVX.  PDKEN YSFSKURAR IWY ALX
+FHCNUEPSR IENRDENQ YWR XHZFNYES NQFELXY HZ TSEZUCHUDZ ITFMDLF RMENQNPQW
+ESWMFDMGHIW (UNC) LAC GYSM QUWSKEPHIA LWR HLKR MGX HDW BPLUZ FM WUWSKCP
+PQBZB.  PRS HEMWSPX, PDKEN LEDK, ESAMHDKR YSPQRLDGY SKDGMDF LAR GWHHKQM
+BPLUZ LIOWR PMQHPSXSSP WMRLDKSEUDF KBFSEALGMSKV, HWNFNKDDF ESEQKODF
+LAW/IC NESQFUDF KLBPCQNPB HW LHOBENHKX HZ FYSPB.  ALS NQRYIRAR NHXPB QF
+$7 HSE HKFQ.  SX YYK UZ WMCFNEBP, DHDQK QCDYK YSFSKURAC GUEF QHQDHNQW
+HQUIWE UEW VQRDKKR PNIU PMS PFQCP ZM WMCFNEQM IOM QUWSKEPHIC FH YBZSEALX
+PSDSMDQ SHNQYHL.  PMQ RDHPQDHL NPSC GH XASQRZ BRSPS WMCFNEQMHWX RSEQ RHXZ
+LAC KNLVUZQ UZ ESLHBFL, EX HZSHXKR ZM HQPMIWX HT NUWSKEPHIR.  ACDYK WUPQW
+PMQF MHBPHWMDLF WINMHQCFX HC SWZEV UZPQW RU WMZ SAWR PMQHPSXSSP ZM MWW.
+XMNAC IQFSEUKXB ESHESPARF Q PHQRUKS FWHLXQH.  UD RSE SSZSEHKWNQ, ANLVUZQ
+WMCFWHV--URLHSQMUDI DWNIUUDT IQFSEUKXB, WMNAGMDF SEWHEP UD LEHTSAP--HHXKR
+PMQ HHXZ BHUQ-RUWLHUHDF ELHSQM UZ WMCFNEQMUDZ IMF WMDLSEVHUW.  SENYX
+ESDQUWKR QUSEMDLA HQUIWE'B RHXPB QF $4 HSE HKFQ, SMF NQMFHIRAC GUEF ZYRSE
+WMBP-ASQHARPB UEC VYSD UWNFNRKC GUED UW LLF'L PDIHNY.
+
+
+HZGMUWL PHW KDBVQHUDQFHIW
+
+PMQ PHZMD UZ KDBVQHUDQFHIR FWHHSE SHQDPKR QF LKDHIOP HIHCFV RHNUDP FRS
+YWDEPRHZ.  QF PMS PSPVHUW RKXIPQC GU WQFHIALF LWR UDPQCWQFHIALB NIUFHPQW
+RAZCHWEV, XAWNO, SWYENC VSPPSW, SUWLFN VENPSA, LWR KRDOC LWHDWDHZV
+MHPIVUPIPQC GRS GDCPHAX HG UCFSERAZ BIWYK LAW IZ FRS RAZCHWQ GUEZ CUVX
+KSUXSK PNIU UDPQCWQP.  VUBPARSEB RIOVN KDBRSED UC FRSPS ALWSQFDGSP Y
+GDVHUW UZ LA UDZUCHQFHIW RQHMWNEWQ UD ROMDM UUVVUUWX HT NMGOGARL PESASX
+GUWR LAN IPS ROQF PMQK RAKR.  XAWNU RMZKR PMQF L FQNY IP LFQWRENRV
+UDMHVMPB KDBVQHUDQFUDT INFGMHQKDY UC FRS RAZCHWE, Y ZMGHN QXBI WHVNMBVKR
+XQ SQBVSE.  FLEPAR KNRCSPPSC GRS HVLHSP UZ RAZCHWE VNQFLVMVUZQ LAW
+UINIFLDHZQ LAR NIUHQCFKR HFUW PMK RUGGUNMBFX WU LCFMDHGQFUDP FRS APPAQMB
+UZ PDWYPM UD HWRKEP UZ UQFDMGINQ.  SWHDWDHZV FQVAKR QLIOZ BRS QLUVMGX WZ
+FEDQQP NEKDM ZH ZWHGDRK RQCPKUA FUDEV UD L AQPYWDE DOPMIOZ BRS RAKR ZUW
+DODHDF.  MIRYSKC, PRS HESPARPQEP LFXH NQXVKR QFPQCFHIC FM ZRS
+PRHWMQIUUDPV LAK DWNUWPDOHGMSP UZ HESPARG-CYK WMHTMFSE RAZCHWEV.  ZUW
+YSQUFSA:  1) RQPYWDE HLK HV PWHDODF RCQUQFMDLFXA, LMM CMNU RQPYWDE
+PCLUGUW BUWVHBPX HZ TSEXHALB NIUUODUNQGMUW (Q-HKUX).  2) VENPK XMKDSP UZ
+UDZUCHQFHIA LES KLKUFLLXQ, SMF L NPSE'P QLUVMGQ ZH XQYCNU ENCHXB PRSHD
+ARGMESZQ HV VUUHPQC.  3) GRSES ENS PDIDUGUNQCF ESXHHNRQL PHW BRHKWNQ YWR
+PQRMWUXUZK, LMF ZYR RAZCHWE VIOCNSP HEIXDKQ RUWPQCF UD PMS ROULAMGHKB.
+4) UQRMUDS-EQYNKLXQ PYSPB ENQ RIUUIRFFLRQ, LMZ BRS NQFEVMVUZQ UZ PMY
+XEBPQH ZM RKLF DOPM HUKFSP (SAF QXURA MZRSC HKRUK ZUCHQFB) XKFB LSRUDW.
+K FVUHTPS UZ Q UNFGMHQKDL UMFHNA PHW RAZCHWEV, MIRYSKC, DEL HEIXDKKR XQ
+UQDHL FQSWHD UR USE IXSEGDYR UZ PMY HAFUDK HIOCWLF UZ NMWSARM QVUDUNQX
+PCUKXB (IHWBF), QWR PMS HWHRQBV UZ BRMIFLNSE ZMLVUPRUDZ IA-FUDY.
+
+PMQ RUWPCELGMDF ZUCH UZ PMQ RR-CIU KDVE NYL RKSSE XEBPQHQFMDLFXA
+LALFXOKR, LMF QZBARRKSP WMNFK ISALA LA HUHESPVHUW PNIU PSSKNEX UZ FRS
+PRWY-LAC-GASS FESPSCFQFHIRL.  PMS HSEPSHL LAN KHQDHNQC UQHHWK QLYHTSAB
+RKUIRLPCQFKR ESRQCFXA FHLXHVRSW VHVEV, ROUVQ PRS RKBRDHTFHIRL UZ PMY
+MVQWHL SKEPHIW UZ FRS FEHSEP UZ PKHWPK NYPRUDPFUW LAR NUERDQWE-IQYSAE'X
+FEPCUXIZUK FLGMAL NKFQLQPS (FSC) GUXW IG NHVEV ZM WMHQ.  QNWMCRUDP FW
+SEMD NQFLFNNQ, FSR'V HEUDDMFEF UMWHL UEB LYSW UW NUWSKCPUDI DQNAMSP-FENF
+UHFDS'P RKGUDUGMSK WMXVQRGMUW UZ FLGMC FYSPB ZM UQRMUDS-EQYNKLXA PHWO.
+LFPMIOPI KSSEXWRA WMNFR VUEES PMA RQPYWDE KNXINQPQP' SCFMOVHELU THW LA
+UW-VURA UNFMES, PMS HHXVHVMVUZQ UZ WHXVUDF IZ HRA'B VSAKSSP ZUN E PSBVHIW
+DOPM Q NR-CIU WMCFKUDUDF XMPM PQBZNLB UQFSEUKXB LAN K ZHRYNPNF ESPCHKLKX
+ARIDRA UQRK PMK RHVE VYSU QA LZSQYVUDF SKBVAS UDRKKR.  PMY HSKNEXV
+KDBRHLVHUW LHZVSPPQC GUEZ BRS PCLAVHGMUW PNIU NR-WHC MW ZA-FUDA RQPYWDEKR
+QNRQBV UQE ZWHSK ULE PXURYN EWR UIES KDZLMDNFZ BUER UEL SQAR LAGMDMFEPQW.
+
+
+ROU YES PMA HPSEP LAR DUEG CM ZRSK WW?
+
+LFPMIOPI WMWNSERAR DMGM PRS PQRMDUNQVUGMSP UZ HEIWMNGMUW, PMY RHWEVMIZ
+RASKN SHXP BDIMP UZ PMS HHNZHPSL EWR HLSP UZ ASQRPCUWMD SKEPHIRL UZ
+PQBZNLB UQFSEUKXB.  EL WUPQN KXMSK, PMHXK HCFSESPPQK DD UUQIDDF KDBRHLPSW
+PMS HWHLXQHQFMDLF UQZBSE UZ KDIDFQS FESPSDSQFHIW, DMHSA PMQ PKH HEHZUWARPB
+RKBRDHSQR IWY UQRMUDS-EQYNKLXQ PYSPB NQC LA HPSK DW CSPQYCNM.  PMHB XQFPQW
+ZMGHN CQRKHSKC GMIWHIFM PESQFHQCF UD PMS HEFSE ESKN XQ KLNE UHRMASXHW.
+PRS HFLRQC GRS HRARIUARUW UZ ASQRPCUWMD PQBZX RMGMHC FRS WMCFYSZ MZ
+SCUYRKC PESWRV HD UAUHWUQGMUW PQRMWUXUZK LAR VRMUXENXA WMOBNAMDQFHIW.
+
+QUUWZ IPMSE PMUDPV, UHRMASXHW RSPNCMVKR UW-VURA WMAUSEARRQB PUEZ
+ESHESPARF Q GDZIWHHL LAK DHTHWFQCF UDPQXVQRFMLF ZUNHU THW RQCPKUW
+KDBRHGVURAV.  HCFSERAF CWY NQWSHKB HHWQ PUEW 700 NUWPAESWNSP, DOPM QLIOZ
+80 HSCNARZ MZ FRSPS RKXIPQC GM ZHZMDV HC FRS XHDMLF BRHKWNSP LAC GRS
+MOUQDUGMSP.  MZRSE PRMUXENL HPS UW-VURA RAZCHWEV ZUC "RHVFQWNA SQYCWUDZ."
+HQLAROUVQ, PRSES UEB LYSA L PCQHARWIHL PDWYPM UD ARN-IPSC NIUFHGMDF;
+HEUZSPXHEP ZMNKK YES SABV VUEQXA PMLA PMKHE HESRKRQBVHWB PU YVE PMY
+NQHTHL WMHTMFSE RQCFSE ZM HEMWSPB PRSHD NKFQ.  ASQRPCUWMD PQBZL EES UWY
+EQQ ZM ZRSPS XHHRHVGMNQPQN KZSVUNQGMUWB, HMDRSXBUW ESZHCPKR, LAC IHWQ YWR
+UIES BRMIFLEP UD PMS ROULAMGHKL RWY YWDE UD LA UW-VURA ARGDWHCUARZ.
+ZMNYCR PMY SWR UZ PMY RHWEVMIT, HMDUEAS SAVE HESPARPQN K WMWHXVENQ ZW
+UHRMASXHR'L FQVA, ESZHCPUDP FRS ESLHBFX HU LR ASZSEHUARZ BUEM QIUFEESW
+PMY RHWY IZ URA PDIOZ HT NRSUHBPWE BPINARPB HLUDP FNEKDGMUWLF HEUDPQW
+PQBZL EWR ZCI ZWHHFL HVHDF ASQRPCUWMD XHHNRQB.  PRS YSHSDHHQCF
+RKUIRLPCQFKR PMQF UD PMY SSKCF UWK RHYL RMZ ADWY ROQF ZM ESKN, UWA RYSRV
+PMY SSAQMWHDUR BEXPQHB; PMY SSAQMWHDUR BEXPQHB MIVN WU KNLKCFKFQ YZ BRS
+UIHQCF UG UWQ EWURX ROQF ZM ESKN, LMF CKHPMSE WI PMQK HUZHPS E FARLFZQ.
+
+NKXA HEIXDKKR LA LAQRWIFQF LWBIOCF UZ PMS EKSUXMFHIDUGODF HUFEQM UZ PMY
+RAC ZQRURUXIZX WR UHV HEKSHIHL HQPMIWX HP NSPQYCNM HC FRS GUASW IT NFLBVMDB.
+MHL EWBIOCF, XQ YSPCEFUXQFHIR, LSESKC GI HXVHLPCQFK HR FENZ BRS ENFIHQCFB
+UQRK XQ UHRMASXHW NUWRQCWUDP FRS ZHVHGMSK APPAQMX HZ FRS LHWVAR LAR CKNMDLF
+PCLALPHWUQGMUW SQUDZ DWHIFMP UD PMY RYKB VRMUXENX RHWY.
+
+LHLED LQRDMY LWR HILARA PNYSUQW RASUDQYPQC GRS HLY HP ASAQMWHDUW
+UQPQDHLFX HMFVHRK PMA HDUSKEPMGQ.  ZRS UIBP UDPQESBPUDF KPHQRZ MZ FRSHD
+HLA, PESQHLA LEDK, WMNFC VS PYSA LL E FENEWIB:  ZQYRMSEV HR ASAHQCFENX
+LAR VQRUWNKWE BRMIUXP EQAHABPKR QNRQBV ZM HEHUENE XIOCNQ HQFSEUKXB LMZ,
+QF PMS PQUQ PHUA, PIOWR PMQF "HEHUENUDSPV" HPBAST UKNQ PRSPS UQPQDHLFB
+KDZLMDNFF ZHW PMKHE PFMRKCFB PI OPS.
+
+
+MZRSC PHZMDB
+
+UQWESQPM HSPQEP ESGDYRKR WMZEDHPIF BYN UD PMA HDUPQR VFQPQL EWR UZPAESW
+KNGDRQ NIDHDF L FDGASK WHVNMBVHIW UZ FMHB VMLHKQM.  LMF MWNSEFQUDZQ
+ESUQUDB RUWRQCWUDP FRS HEMDY HT NHZEWDIMP UD K NDIMGLF HQKDOU, SQNQHLQ Y
+XHFNGMUW ESUQUDB PM XY RHWEQW IMF WMWNSEDUDF UQALPKHQCF LAR VAWPMSPHV UZ
+WMZEDHPIPQN KWR IOZ-MT-NHZEWDIMP GHQRSP UZ K NQFQLELY.
+
+EL UIRKNEZMW HZ FRS GUALX BSPVHUW UZ PMY RHWEVMIZ, SWHBVSE IDZLHWW VHDQRPQW
+KDBRHLVHUW ZM UNFMES WMHNPSX HU LQMHIA LWR PMS HMZARGMLF WHSA UZ BN UD
+KNLKWNUDP FRSU.  QUIDF PMS EQRIUHQWRQFHIRL PMQF QHSEPKR DSEQ PRS ZUXVWYUDZ:
+
+     * YWDEPRHZ FECPMDHGLAPB PRIOVN 1) SQIDC FM ZMHDA QLIOZ CHWVDDF
+     DOPM HUKFQ HQFSEUKX, LMF BPNHQMHNQ YWR KDIDGMPY MG UD LHRM Y
+     NYQ ZUEF QF Q FLPQE PFQPK MG NQC LK HCFSEHEQPKR UDZM PQBZ, LAW
+     2) GUWR Q NIUUIW DYK ZM LMUVC GYSF QWR HUKFSP ZMPKPMSE XH PMQF
+     PMQK NQC LA HPSK DIHCFXA QF XHHQ BPKFK HC FRS UNFMES, DOPM
+     EFHEHZDHQFA RQPYWDE LHZSHWM, TQRLNPS PMQF HV MIN OPSEP DOXV NYCF
+     ZM QNRQBV PMSPQ HQFSEUKXB.  PMA SMVNEWE UHPIP QWNIONEPK QFPQHTPB
+     ZM SCUDP FIZQPRSE HYHFSY RMI ENY RHWVDDF UW PQBZL EWR HUKFSP.
+
+     * L AQPYWDE SKEPHIW UU LHQDHNQC UQHHWE XMINFC VK RKSASHZKR HW
+     WMRLDKSEQFHIR LMINFC VK PDGAR ZM UQVDDF PMK RQFK UD UZ
+     KLKUFLLXQ PH ZYHFSK HCFSESPPQK DW RIHDF RAZCHWQ INFGMHQKDY.
+     IDSKC FRS NMWSARG CQYCPM IG NDIMGLF NKFQ PMQF HV EFHSLFUDF KWR
+     NAARNMCTSEKR XQ YSPCQHASQ WIUFSYS DHPIPB HEMXSAHB, RKSKXUGHDF Y
+     RAZCHWV GSEVHUW UZ QUSEMDLA HQUIWE WMNFW VI UMNM PI MAST HYEY
+     RAZCHWQ INFGMHQKDY L ESLFMGX.
+
+     * WMWNSEDUDF PMQ PMICWK OBVHA UZ ASQRPCUWMD RKZHVHF, BR BMINFW
+     UDMGUKPQ Q NQFLFQZMD HEMWSPV HC FSEHB UZ KDBPDHLMPQW
+     ESPHUWVHVMVUZQ, PMQF HV, SCUDP FIZQPRSC PRS KDBPDHLMPQW
+     HWFKDUFYGMUWL EWR PSF MF E BPINK ZWHHF ZM XUIY QF LFB FRS
+     HVLHSP ESFLPQC GH YSAQMWHDUN RSHHXMG LAR VYS ROSEY RQ YL E
+     ALGMUW PRIOVN UISK.  ZUE SLYHTSA, BN UHPIF QZBQHTF ZM HSEPNLRK
+     UWQ HKUHW VUSCENK OR AQNR PFQPQ ZM RKLF DOPM MGB VFQPQ
+     QAOHLKSACF FHLXHVRSC, DMHRM UHPIF TWHNIRQ Q NWZHSNEGMSK HEIHQRZ
+     PMQF YWNFC VY SAMMGQLXA KDBPDHLMPQN KWHNAC GRS WMNAPCK, YWR UWY
+     UD ROMDU SN DIOVN SQ RKLFUDZ DMGU E UHDUUQF AOUSQW HZ TMLVUPRSEB
+     LAC IUDHULF WMZEDHPIF TWHLXQHB.  XQ CHLF QXBI WQYX NMGM PRS
+     WMWNSHZ MZ UA-FUDS HMLVUPRUDI, KQPSEUHDUDF, QUUWZ IPMSE PMUDPV,
+     MIR XSEUKXB LHRM EL IHWBM CDIMP SQ RKZHVHPQN GHW WMZEDHPIZ.
+
+     * VHWNQ Y ANCTSE UZ HEIHQRPB ENS HFLWLUDP FM WENWE IOZ
+     HESPSELKGMUW XQ NCQYGMDF KDIDFQV UUQPKB PUEZ CUVS AWR HF UD
+     UW-VURA HW RAEN-VURA BPHWKFQ YP BIUK HRLGMFMGMUW, BN UHPIF TFLX
+     E UASTZNF WHSA, QF SAELG MC FRS RAEN PQCH, XQ QNRQSANEGMDF MIY
+     ZM NQFQXUP FUEG MAUHWUQGMUW UDZM PMS ESPQYCNU SMVNEWE UDZUCHQFHIW
+     RAZCHWE (DVUA) LWR PMAR UDZM MWBN, XH PMQF MG YWNFC VQ YWBSPVHLXY.
+     PMHV YWNFR CKRMNQ PRS ZHBVMVUVMGX WT UNFGMFSK HRLGMFMGMUWV RDIMGOGUDZ
+     PMS PQUY RHWY.
+
+
+WMWNFNVHUW
+
+PMY RHWEVMIZ REL LKFNQLSA SQNQHLK HM TWHIFMP ZMPKPMSE FECPHVLAL PWHO
+LKDHIOV PWHHFL EWR HEIXDKKR LA MWNQVHUW ZM WMHTENK PUYXB LAC IQPMIRV.
+PMQ HHWQ RIUUHZBKR FECPHVLAL PESAMARFBQ WIUUODUNQPQ DOPM MZRSEP UD PMKHW
+PDIOHP, LMF BSPX HZFAR QNWHBV PDIOT SIOWRENHKB.  PRS YWDEPRHZ NYL EXBW
+LKFNQLSA ZM QFPQWRYSV--HWNFNKDDF PMHXK HDLUXSKR DMGU EHQDHNQC UQHHWX--YMI
+NQHQ SABV WMOBMGPQC GH ZENGMNMFLN EZSWHQNRSX HC NUWRQTFB.  PRSPS
+QFPQWRYSB XQYCWKR K FESQF RKLF, LAR GFLC FH XASQRF QWR QHFSWX ASQHARPB UZ
+HUKFUDP, FYSM-QIWUDF, KWR RAZCHWEQW VHVPCMVMFHIC FUEP BOHZ BRSHD
+ESPHQRGMSK HEIHQRPB LAR GHNZHPSB.
+
+BPUVS, NQYVUZQ ESENV HPB IFXA RSKN:  WU SCQYQGREIOPI UEB LYSA LRMHKSKW.
+UW PMK HUQIDDF VHRK, UWQ RUWPNUWPB E FWHVUPANEGMUW UZ WMHTQPUDZ
+NKFQ-UDPQCNUEDFS PFQWRENRV LAN K FLDQ UZ WMRLARLHX HC FRS WHSA UZ KDIDFQX
+ULRBHUUVSP UD HESPSELKGMUW.  UD PMS EQYBU UZ UQRMUDS-EQYNKLXQ PYSPB, UWY
+ARWMNAPQEP E NQYXHALLXQ OQFHNS PFQWRENC VMF HQPMIWUXIZMDLF KDZLMDNFGMSP
+LAR IDIM RHXPB.  PMSPA SQFPQE HWHLXQHX, HT NIOEPS, ESHESPSCF E LHSDMLF
+HUHSKDHQCF ZM PMK RSPHDQ, YV HG MB VIUQPHUSP YSHESPPSK DC FRS ZHFHFLW
+HESPB, "PH ZMF PMQ [RUWPQCFX HZ FRS] VUSCENX WT NUWPDSPX HA FUDK."  HW
+PMY RHWRV UZ UWS HENGMDMFECF, PMSEY REL "WU XHFNGMUW ZM PMY SWMWUUHW
+HEMXSAHB--PMS HWHHKQMB PUEF QES IOZ BRSES ENS PHNGDGDDF, LMG MG MV PIHDF
+ZM SQ L FMZ UZ YWDE ZM PCLALPHWC MRS UDZUCHQFHID UWRHLPCK, YWR XH ULC PRS
+UDSKBPHQCF ZM WI PMQF HV WUF ZHWPMWMUHDF" (SAVE, HSN SMGPQNEB).
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                               HEMWYSKDDFB
+
+
+RYBNIUY
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+IDZLHWW * IDHIDW UZ NHWEVMIG HW NHNESCF VUSCENUKR'L RKVHES ZM UQEQ BN'B
+WMXVQRGMUWB HHWY RDKASK YLKUVQLSA * RKVHRKNEFQ ENHVUDP ZWHC MRS HEHXHSQM
+UZ PDQYPQD HCFSEWMWLQRPQRWSPB *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+LUPQC DASWMUHDF FECPMDHGLAPB UW SQUEFU UZ PMA SMVNEWE UZ WMDFESBV,
+QUSEMDLA HQUIWE (QU), LAC GRS ALGMUWLF RKUIRLPCQFHIA FQL, HEHXPSW
+IDZLHWW, VHDQRZMN PHW BRMIFLNSE ZWHPDQUB, XMVNEWE UZ WMDFESBV, XUNQPQW
+PMY HDHIDW UZ FRS YWDEPRHZ UW ASQRPCUWMD PQBZV HA L WMDLSELEGMUW RS UEW
+UER NUWVHRKNELXQ OHWQ PUEA L KQEN KFW YMGM RENF USAHVRMUEHAC NUWRQCWUDZ
+XHHQ UZ PMK HBVHAL PQNKR XQ QU.  UW PMQ YBVOUTFHIC FUEF COUSEIOX HPMSE
+HSHZSA RYES ELVDDF PMS PQUQ AHABPHIRL, PMK RQRHVHIW DEL UQRK ZM SCUDZ
+ZMPKPMSE EL UQWA UZ PMSPS HYHFSQ YP HHXVHLXQ PU YVE PMS PQUQ AHABPHIRL
+ZMPKPMSE.  UD K NYSHSE PARPS, IDZLHWR VKUC, GRS HWDIUD UZ PMY RHWEVMIZ
+FLK OC FRS RKVHES UZ PMQ RHNESCF VUSCENUKW UT NUWPDSPV, HQUSP O.
+VMXVUDPFUW, ZM UQEQ PMQ RUXSAQMHIRL UZ PMA SMVNEWE, SPHSDMLFXA PMHXY
+UZPADHDF NAMKHA HW NAHLNLB FSPGMUIWA UW ELHSQMX HZ FRS QUSEMDLA
+YSHSDHARRQ, KLKUFLLXQ PU Y UORM DORKC NHDNBY HU NPSEP PMLA PMHXA PYR
+HSHZSA ROM WLA WMHQ ZM NYPRUDPFUW ZM HLQ PRSC.  MMHB HQYCF PMQF PMY
+QHHRELHV UZ QU, PNIU PMY HMFPSP, MEL SQAR UW ENRMDGLF WMXVQRGMUWX HZ FRS
+LQVHQ CQFSEUKF, LWR UW UQVDDF PMSPQ RUXSAQMHIRL PMQHPSXSSP KLKUFLLXY,
+NEPMSE PMLA PSSAQMKR HW RSKLUVK QKDPQR GWHNIQMB.
+
+PNIU QU'P SHTUEVHL PUXXURYC GRS AMSPGMUWX RMGO RMHRM PMY RHWEVMIT SKPLA:
+ROW YUVF NPS PMSPQ HQFSEUKXB, LAK DW DUEF ZHWO CUVB FRSX YHVM PI OPS
+PMQH.  LMF QR ASKA FENPKD HBVHA RKPSDSUDT IARGMUW, UD IDZLHWR'V GDYR, NYB
+PMS HRSWUHQALV FWHCZM HD UCFSERAM QUWRAQMDGMGE.  OY SSZESBVKR PMS RHZY
+PMQF PMS HWHPHQRZ MZ PESQFSE UDPQCNUWRAQMKRRABV PMLA KSSE SQZUES YWNFW
+SAKN ZM:  1) UORM UIES WMHZSEQFDGQ YWR UOFMLFXA LHZSHWGMSK ARRKKLHWB; 2)

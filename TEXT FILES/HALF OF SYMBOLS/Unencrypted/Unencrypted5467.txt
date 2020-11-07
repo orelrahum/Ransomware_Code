@@ -1,0 +1,24 @@
+Digraph:
+    Tripoli Administration divisions  25 municipalities baladiyah, singular
+     baladiyat Ajdabiya, Al Aziziyah, Al Fatih, Al Jabal al Akhdar, Al
+    Jufrah, Al Khums, Al Kufrah, An Nuqat al Khams, Ash Shati, Awbari, Az
+    Zawiyah, Banghazi, Darnah, Ghadamis, Gharyan, Misratah, Murzuq, Sabha,
+    Sawfajjin, Surt, Tarabulus, Tarhunah, Tubruq, Yafran, Zlitan
+Type:
+    Jamahiriya a state of the masses in theory, governed by the populace
+    through local councils in fact, a military dictatorship
+Capital:
+    Tripoli Administration divisions
+Administrative divisions:
+    25 municipalities baladiyah, singular  baladiyat Ajdabiya, Al Aziziyah,
+    Al Fatih, Al Jabal al Akhdar, Al Jufrah, Al Khums, Al Kufrah, An Nuqat al
+    Khams, Ash Shati, Awbari, Az Zawiyah, Banghazi, Darnah, Ghadamis, Gharyan,
+    Misratah, Murzuq Sabha, Sawfajjin, Surt, Tarabulus, Tarhunah, Tubruq,
+    Yafran, Zlitan
+Independence:
+    24 December 1951 from Italy
+Constitution:
+    11 December 1969, amended 2 March 1977
+Legal system:
+    based on Italian civil law system and Islamic law separate religious
+    courts no constitutional provision for judicial review of legislative acts

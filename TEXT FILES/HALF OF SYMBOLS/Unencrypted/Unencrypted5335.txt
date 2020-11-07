@@ -1,0 +1,13 @@
+    republic
+Capital:
+    AlmaAta Almaty
+Administrative divisions:
+    19 oblasts oblastey, singular  oblast Aktyubinsk, AlmaAta, Atyrau,
+    Chimkent, Dzhambul, Dzhezkazgan, Karaganda, Kokchetav, Kustanay, KzylOrda,
+    Mangistauz Aqtau, Pavlodar, Semipalatinsk, SeveroKazakhstan
+    Petropavlovsk, TaldyKurgan, Tselinograd, Turgay Arkalyk, Uralsk,
+    VostochnoKazakhstan UstKamenogorsk note  an oblast has the same name
+    as its administrative center exceptions have the administrative center name
+    following in parentheses
+Independence:
+    16 December 1991 from the Soviet Union formerly the Kazakh Soviet

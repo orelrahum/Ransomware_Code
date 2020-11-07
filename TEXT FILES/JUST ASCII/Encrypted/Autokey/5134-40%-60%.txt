@@ -1,0 +1,1279 @@
+capacity problems while doing nothing to address problems of
+telecommunications bandwidth
+
+We need to examine the effects on network throughput of moving
+multimedia documents around on a network  We need to examine various
+topologies that will help us avoid bottlenecks around servers and
+gateways  Experience with applications such as these raise still broader
+questions How closely is the multimedia document tied to the software
+for viewing it?  Can it be accessed and viewed from other applications?
+Experience with the MARC format and more recently with the Z
+protocols shows how useful it can be to store documents in a form in
+which they can be accessed by a variety of application software
+
+Finally from an intellectualaccess standpoint we need to address the
+issue of providing access to these multimedia documents in
+interdisciplinary environments  We need to examine terminology and
+indexing strategies that will allow us to provide access to this material
+in a crossdisciplinary way
+
+Ronald LARSEN            Directions in HighPerformance Networking for
+                         Libraries
+
+The pace at which computing technology has advanced over the past forty
+years shows no sign of abating  Roughly speaking each fiveyear period
+has yielded an orderofmagnitude improvement in price and performance of
+computing equipment  No fundamental hurdles are likely to prevent this
+pace from continuing for at least the next decade  It is only in the
+past five years though that computing has become ubiquitous in
+libraries affecting all staff and patrons directly or indirectly
+
+During these same five years communications rates on the Internet the
+principal academic computing network have grown from  kbps to 
+Mbps and the NSFNet backbone is now running  Mbps  Over the next five
+years communication rates on the backbone are expected to exceed  Gbps
+Growth in both the population of network users and the volume of network
+traffic  has continued to grow geometrically at rates approaching 
+percent per month  This flood of capacity and use likened by some to
+"drinking from a firehose"  creates immense opportunities and challenges
+for libraries  Libraries must anticipate the future implications of this
+technology participate in its development and deploy it to ensure
+access to the worlds information resources
+
+The infrastructure for the information age is being put in place
+Libraries face strategic decisions about their role in the development
+deployment and use of this infrastructure  The emerging infrastructure
+is much more than computers and communication lines  It is more than the
+ability to compute at a remote site send electronic mail to a peer
+across the country or move a file from one library to another  The next
+five years will witness substantial development of the information
+infrastructure of the network
+
+In order to provide appropriate leadership library professionals must
+have a fundamental understanding of and appreciation for computer
+networking from local area networks to the National Research and
+Education Network NREN  This presentation addresses these
+fundamentals and how they relate to libraries today and in the near
+future
+
+Edwin BROWNRIGG               Electronic Library Visions and Realities
+
+The electronic library has been a vision desired by manyand rejected by
+somesince Vannevar Bush coined the term memex to describe an automated
+intelligent personal information system  Variations on this vision have
+included Ted Nelsons Xanadau Alan Kays Dynabook and Lancasters
+"paperless library" with the most recent incarnation being the
+"Knowledge Navigator" described by John Scully of Apple  But the reality
+of library service has been less visionary and the leap to the electronic
+library has eluded universities publishers and information technology
+files
+
+The Memex Research Institute MemRI an independent nonprofit research
+and development organization has created an Electronic Library Program
+of shared research and development in order to make the collective vision
+more concrete  The program is working toward the creation of large
+indexed publicly available electronic image collections of published
+documents in academic special and public libraries  This strategic
+plan is the result of the first stage of the program which has been an
+investigation of the information technologies available to support such
+an effort the economic parameters of electronic service compared to
+traditional library operations and the business and political factors
+affecting the shift from print distribution to electronic networked
+access
+
+The strategic plan envisions a combination of publicly searchable access
+databases image and text document collections stored on network "file
+servers" local and remote network access and an intellectual property
+managementcontrol system  This combination of technology and
+information content is defined in this plan as an Elibrary or Elibrary
+collection  Some participating sponsors are already developing projects
+based on MemRIs recommended directions
+
+The Elibrary strategy projected in this plan is a visionary one that can
+enable major changes and improvements in academic public and special
+library service  This vision is though one that can be realized with
+todays technology  At the same time it will challenge the political
+and social structure within which libraries operate  in academic
+libraries the traditional emphasis on local collections extending to
+accreditation issues in public libraries the potential of electronic
+branch and central libraries fully available to the public and for
+special libraries new opportunities for shared collections and networks
+
+The environment in which this strategic plan has been developed is at
+the moment dominated by a sense of library limits  The continued
+expansion and rapid growth of local academic library collections is now
+clearly at an end  Corporate libraries and even law libraries are
+faced with operating within a difficult economic climate as well as with
+very active competition from commercial information sources  For
+example public libraries may be seen as a desirable but not critical
+municipal service in a time when the budgets of safety and health
+agencies are being cut back
+
+Further libraries in general have a very high labortocost ratio in
+their budgets and labor costs are still increasing notwithstanding
+automation investments  It is difficult for libraries to obtain capital
+startup or seed funding for innovative activities and those
+technologyintensive initiatives that offer the potential of decreased
+labor costs can provoke the opposition of library staff
+
+However libraries have achieved some considerable successes in the past
+two decades by improving both their service and their credibility within
+their organizationsand these positive changes have been accomplished
+mostly with judicious use of information technologies  The advances in
+computing and information technology have been wellchronicled  the
+continuing precipitous drop in computing costs the growth of the
+Internet and private networks and the explosive increase in publicly
+available information databases
+
+For example OCLC has become one of the largest computer network
+organizations in the world by creating a cooperative cataloging network
+of more than  libraries worldwide  Online public access catalogs
+now serve millions of users on more than  dedicated terminals in
+the United States alone  The University of California MELVYL online
+catalog system has now expanded into an index database reference service
+and supports more than six million searches a year  And libraries have
+become the largest group of customers of CDROM publishing technology
+more than  optical media publications such as those offered by
+InfoTrac and Silver Platter are subscribed to by US libraries
+
+This march of technology continues and in the next decade will result in
+further innovations that are extremely difficult to predict  What is
+clear is that libraries can now go beyond automation of their order files
+and catalogs to automation of their collections themselvesand it is
+possible to circumvent the fiscal limitations that appear to obtain
+today
+
+This Electronic Library Strategic Plan recommends a paradigm shift in
+library service and demonstrates the steps necessary to provide improved
+library services with limited capacities and operating investments
+
+SESSION IVA
+
+Anne KENNEY
+
+The CornellXerox Joint Study in Digital Preservation resulted in the
+recording of  brittle books as dpi digital images and the
+production on demand of highquality and archivally sound paper
+replacements  The project which was supported by the Commission on
+Preservation and Access also investigated some of the issues surrounding
+scanning storing retrieving and providing access to digital images in
+a network environment
+
+Anne Kenney will focus on some of the issues surrounding direct scanning
+as identified in the Cornell Xerox Project  Among those to be discussed
+are  image versus text capture indexing and access imagecapture
+capabilities a comparison to photocopy and microfilm production and
+cost analysis storage formats protocols and standards and the use of
+this scanning technology for preservation purposes
+
+The dpi digital images produced in the Cornell Xerox Project proved
+highly acceptable for creating paper replacements of deteriorating
+originals  The  scanned volumes provided an array of imagecapture
+challenges that are common to nineteenthcentury printing techniques and
+embrittled material and that defy the use of textconversion processes
+These challenges include diminished contrast between text and background
+fragile and deteriorated pages uneven printing elaborate type faces
+faint and bold text adjacency handwritten text and annotations nonRoman
+languages and a proliferation of illustrated material embedded in text
+The latter category included highfrequency and lowfrequency halftones
+continuous tone photographs intricate mathematical drawings maps
+etchings reversepolarity drawings and engravings
+
+The Xerox prototype scanning system provided a number of important
+features for capturing this diverse material  Technicians used multiple
+threshold settings filters line art and halftone definitions
+autosegmentation windowing and softwareediting programs to optimize
+image capture  At the same time this project focused on production
+The goal was to make scanning as affordable and acceptable as
+photocopying and microfilming for preservation reformatting  A
+timeandcost study conducted during the last three months of this
+project confirmed the economic viability of digital scanning and these
+findings will be discussed here
+
+From the outset the Cornell Xerox Project was predicated on the use of
+nonproprietary standards and the use of common protocols when standards
+did not exist  Digital files were created as TIFF images which were
+compressed prior to storage using Group  CCITT compression  The Xerox
+software is MS DOS based and utilizes offthe shelf programs such as
+Microsoft Windows and Wang Image Wizard  The digital library is designed
+to be hardwareindependent and to provide interchangeability with other
+institutions through network connections  Access to the digital files
+themselves is twotiered  Bibliographic records for the computer files
+are created in RLIN and Cornells local system and access into the actual
+digital images comprising a book is provided through a document control
+structure and a networked image fileserver both of which will be
+described
+
+The presentation will conclude with a discussion of some of the issues
+surrounding the use of this technology as a preservation tool storage
+refreshing backup
+
+Pamela ANDRE and Judith ZIDAR
+
+The National Agricultural Library NAL has had extensive experience with
+raster scanning of printed materials  Since  the Library has
+participated in the National Agricultural Text Digitizing Project NATDP
+a cooperative effort between NAL and fortyfive land grant university
+libraries  An overview of the project will be presented giving its
+history and NALs strategy for the future
+
+An indepth discussion of NATDP will follow including a description of
+the scanning process from the gathering of the printed materials to the
+archiving of the electronic pages  The type of equipment required for a
+standalone scanning workstation and the importance of file management
+software will be discussed  Issues concerning the images themselves will
+be addressed briefly such as image format black and white versus color
+gray scale versus dithering and resolution
+
+Also described will be a study currently in progress by NAL to evaluate
+the usefulness of converting microfilm to electronic images in order to
+improve access  With the cooperation of Tuskegee University NAL has
+selected three reels of microfilm from a collection of sixtyseven reels
+containing the papers letters and drawings of George Washington Carver
+The three reels were converted into  electronic images using a
+specialized microfilm scanner  The selection filming and indexing of
+this material will be discussed
+
+Donald WATERS
+
+Project Open Book the Yale University Librarys effort to convert 
+ books from microfilm to digital imagery is currently in an advanced
+state of planning and organization  The Yale Library has selected a
+major vendor to serve as a partner in the project and as systems
+integrator  In its proposal the successful vendor helped isolate areas
+of risk and uncertainty as well as key issues to be addressed during the
+life of the project  The Yale Library is now poised to decide what
+material it will convert to digital image form and to seek funding
+initially for the first phase and then for the entire project
+
+The proposal that Yale accepted for the implementation of Project Open
+Book will provide at the end of three phases a conversion subsystem
+browsing stations distributed on the campus network within the Yale
+Library a subsystem for storing  books at  and  dots per
+inch and network access to the image printers  Pricing for the system
+implementation assumes the existence of Yales campus ethernet network
+and its highspeed image printers and includes other requisite hardware
+and software as well as system integration services  Proposed operating
+costs include hardware and software maintenance but do not include
+estimates for the facilities management of the storage devices and image
+servers
+
+Yale selected its vendor partner in a formal process partly funded by
+the Commission for Preservation and Access  Following a request for
+proposal the Yale Library selected two vendors as finalists to work with
+Yale staff to generate a detailed analysis of requirements for Project
+Open Book  Each vendor used the results of the requirements analysis to
+generate and submit a formal proposal for the entire project  This
+competitive process not only enabled the Yale Library to select its
+primary vendor partner but also revealed much about the state of the
+imaging industry about the varying corporate commitments to the markets
+for imaging technology and about the varying organizational dynamics
+through which major companies are responding to and seeking to develop
+these markets
+
+Project Open Book is focused specifically on the conversion of images
+from microfilm to digital form  The technology for scanning microfilm is
+readily available but is changing rapidly  In its project requirements
+the Yale Library emphasized features of the technology that affect the
+technical quality of digital image production and the costs of creating
+and storing the image library  What levels of digital resolution can be
+achieved by scanning microfilm?  How does variation in the quality of
+microfilm particularly in film produced to preservation standards
+affect the quality of the digital images?  What technologies can an
+operator effectively and economically apply when scanning film to
+separate twoup images and to control for and correct image
+imperfections?  How can quality control best be integrated into
+digitizing work flow that includes document indexing and storage?
+
+The actual and expected uses of digital imagesstorage browsing
+printing and OCRhelp determine the standards for measuring their
+quality  Browsing is especially important but the facilities available
+for readers to browse image documents is perhaps the weakest aspect of
+imaging technology and most in need of development  As it defined its
+requirements the Yale Library concentrated on some fundamental aspects
+of usability for image documents  Does the system have sufficient
+flexibility to handle the full range of document types including
+monographs multipart and multivolume sets and serials as well as
+manuscript collections?  What conventions are necessary to identify a
+document uniquely for storage and retrieval?  Where is the database of
+record for storing bibliographic information about the image document?
+How are basic internal structures of documents such as pagination made
+accessible to the reader?  How are the image documents physically
+presented on the screen to the reader?
+
+The Yale Library designed Project Open Book on the assumption that
+microfilm is more than adequate as a medium for preserving the content of
+deteriorated library materials  As planning in the project has advanced
+it is increasingly clear that the challenge of digital image technology
+and the key to the success of efforts like Project Open Book is to
+provide a means of both preserving and improving access to those
+deteriorated materials
+
+SESSION IVB
+
+George THOMA
+
+In the use of electronic imaging for document preservation there are
+several issues to consider such as  ensuring adequate image quality
+maintaining substantial conversion rates throughput providing unique
+identification for automated access and retrieval and accommodating
+bound volumes and fragile material
+
+To maintain high image quality image processing functions are required
+to correct the deficiencies in the scanned image  Some commercially
+available systems include these functions while some do not  The
+scanned raw image must be processed to correct contrast deficiencies
+both poor overall contrast resulting from light print andor dark
+background and variable contrast resulting from stains and
+bleedthrough  Furthermore the scan density must be adequate to allow
+legibility of print and sufficient fidelity in the pseudohalftoned gray
+material  Borders or pageedge effects must be removed for both
+compactibility and aesthetics  Page skew must be corrected for aesthetic
+reasons and to enable accurate character recognition if desired
+Compound images consisting of both twotoned text and grayscale
+illustrations must be processed appropriately to retain the quality of
+each
+
+SESSION IVC
+
+Jean BARONAS
+
+Standards publications being developed by scientists engineers and
+business managers in Association for Information and Image Management
+AIIM standards committees can be applied to electronic image management
+EIM processes including  document image transfer retrieval and
+evaluation optical disk and document scanning and document design and
+conversion  When combined with EIM system planning and operations
+standards can assist in generating image databases that are
+interchangeable among a variety of systems  The applications of
+different approaches for imagetagging indexing compression and
+transfer often cause uncertainty concerning EIM system compatibility
+calibration performance and upward compatibility until standard
+implementation parameters are established  The AIIM standards that are
+being developed for these applications can be used to decrease the
+uncertainty successfully integrate imaging processes and promote "open
+systems"  AIIM is an accredited American National Standards Institute
+ANSI standards developer with more than twenty committees comprised of
+ volunteers representing users vendors and manufacturers  The
+standards publications that are developed in these committees have
+national acceptance and provide the basis for international harmonization
+in the development of new International Organization for Standardization
+ISO standards
+
+This presentation describes the development of AIIMs EIM standards and a
+new effort at AIIM a database on standards projects in a wide framework
+of imaging industries including capture recording processing
+duplication distribution display evaluation and preservation  The
+AIIM Imagery Database will cover imaging standards being developed by
+many organizations in many different countries  It will contain
+standards publications dates origins related national and
+international projects status key words and abstracts  The ANSI Image
+Technology Standards Board requested that such a database be established
+as did the ISOInternational Electrotechnical Commission Joint Task Force
+on Imagery  AIIM will take on the leadership role for the database and
+coordinate its development with several standards developers
+
+Patricia BATTIN
+
+     Characteristics of standards for digital imagery
+
+           Nature of digital technology implies continuing volatility
+
+           Precipitous standardsetting not possible and probably not
+          desirable
+
+           Standards are a complex issue involving the medium the
+          hardware the software and the technical capacity for
+          reproductive fidelity and clarity
+
+           The prognosis for reliable archival standards as defined by
+          librarians in the foreseeable future is poor
+
+     Significant potential and attractiveness of digital technology as a
+     preservation medium and access mechanism
+
+     Productive use of digital imagery for preservation requires a
+     reconceptualizing of preservation principles in a volatile
+     standardless world
+
+     Concept of managing continuing access in the digital environment
+     rather than focusing on the permanence of the medium and longterm
+     archival standards developed for the analog world
+
+     Transition period  How long and what to do?
+
+            Redefine "archival"
+
+            Remove the burden of "archival copy" from paper artifacts
+
+            Use digital technology for storage develop management
+          strategies for refreshing medium hardware and software
+
+            Create acidfree paper copies for transition period backup
+          until we develop reliable procedures for ensuring continuing
+          access to digital files
+
+SESSION IVD
+
+Stuart WEIBEL            The Role of SGML Markup in the CORE Project 
+
+The emergence of highspeed telecommunications networks as a basic
+feature of the scholarly workplace is driving the demand for electronic
+document delivery  Three distinct categories of electronic
+publishingrepublishing are necessary to support access demands in this
+emerging environment
+
+       Conversion of paper or microfilm archives to electronic format
+       Conversion of electronic files to formats tailored to
+          electronic retrieval and display
+       Primary electronic publishing materials for which the
+          electronic version is the primary format
+
+OCLC has experimental or product development activities in each of these
+areas  Among the challenges that lie ahead is the integration of these
+three types of information stores in coherent distributed systems
+
+The CORE Chemistry Online Retrieval Experiment Project is a model for
+the conversion of large text and graphics collections for which
+electronic typesetting files are available category   The American
+Chemical Society has made available computer typography files dating from
+ for its twenty journals  This collection of some  journalyears
+is being converted to an electronic format that will be accessible
+through several enduser applications
+
+The use of Standard Generalized Markup Language SGML offers the means
+to capture the structural richness of the original articles in a way that
+will support a variety of retrieval navigation and display options
+necessary to navigate effectively in very large text databases
+
+An SGML document consists of text that is marked up with descriptive tags
+that specify the function of a given element within the document  As a
+formal language construct an SGML document can be parsed against a
+documenttype definition DTD that unambiguously defines what elements
+are allowed and where in the document they can or must occur  This
+formalized map of article structure allows the user interface design to
+be uncoupled from the underlying database system an important step
+toward interoperability  Demonstration of this separability is a part of
+the CORE project wherein user interface designs born of very different
+philosophies will access the same database
+
+NOTES
+       The CORE project is a collaboration among Cornell Universitys
+     Mann Library Bell Communications Research Bellcore the American
+     Chemical Society ACS the Chemical Abstracts Service CAS and
+     OCLC
+
+Michael LESK                  The CORE Electronic Chemistry Library
+
+A major online file of chemical journal literature complete with
+graphics is being developed to test the usability of fully electronic
+access to documents as a joint project of Cornell University the
+American Chemical Society the Chemical Abstracts Service OCLC and
+Bellcore with additional support from Sun Microsystems SpringerVerlag
+DigitaI Equipment Corporation Sony Corporation of America and Apple
+Computers  Our file contains the American Chemical Societys online
+journals supplemented with the graphics from the paper publication  The
+indexing of the articles from Chemical Abstracts Documents is available
+in both image and text format and several different interfaces can be
+used  Our goals are  to assess the effectiveness and acceptability of
+electronic access to primary journals as compared with paper and  to
+identify the most desirable functions of the user interface to an
+electronic system of journals including in particular a comparison of
+pageimage display with ASCII display interfaces  Early experiments with
+chemistry students on a variety of tasks suggest that searching tasks are
+completed much faster with any electronic system than with paper but
+that for reading all versions of the articles are roughly equivalent
+
+Pamela ANDRE and Judith ZIDAR
+
+Text conversion is far more expensive and timeconsuming than image
+capture alone  NALs experience with optical character recognition OCR
+will be related and compared with the experience of having text rekeyed
+What factors affect OCR accuracy?  How accurate does full text have to be
+in order to be useful?  How do different users react to imperfect text?
+These are questions that will be explored  For many a service bureau
+may be a better solution than performing the work inhouse this will also
+be discussed
+
+SESSION VI
+
+Marybeth PETERS
+
+Copyright law protects creative works  Protection granted by the law to
+authors and disseminators of works includes the right to do or authorize
+the following  reproduce the work prepare derivative works distribute
+the work to the public and publicly perform or display the work  In
+addition copyright owners of sound recordings and computer programs have
+the right to control rental of their works  These rights are not
+unlimited there are a number of exceptions and limitations
+
+An electronic environment places strains on the copyright system
+Copyright owners want to control uses of their work and be paid for any
+use the public wants quick and easy access at little or no cost  The
+marketplace is working in this area  Contracts guidelines on electronic
+use and collective licensing are in use and being refined
+
+Issues concerning the ability to change works without detection are more
+difficult to deal with  Questions concerning the integrity of the work
+and the status of the changed version under the copyright law are to be
+addressed  These are public policy issues which require informed
+dialogue
+
+
+                                 
+
+
+                Appendix III  DIRECTORY OF PARTICIPANTS
+
+
+PRESENTERS
+
+     Pamela QJ Andre
+     Associate Director Automation
+     National Agricultural Library
+      Baltimore Boulevard
+     Beltsville MD 
+     Phone   
+     Fax   
+     Email  INTERNET  PANDREASRRARSUSDAGOV
+
+     Jean Baronas Senior Manager
+     Department of Standards and Technology
+     Association for Information and Image Management AIIM
+      Wayne Avenue Suite 
+     Silver Spring MD 
+     Phone   
+     Fax   
+
+     Patricia Battin President
+     The Commission on Preservation and Access
+      th Street NW
+     Suite 
+     Washington DC 
+     Phone   
+     Fax   
+     Email  CPAGWUVMBITNET
+
+     Howard Besser
+     Centre Canadien dArchitecture
+     Canadian Center for Architecture
+      rue Baile
+     Montreal Quebec HH S
+     CANADA
+     Phone   
+     Fax   
+     Email  howardlispittedu
+
+     Edwin B Brownrigg Executive Director
+     Memex Research Institute
+      Bonita Avenue
+     Roseville CA 
+     Phone   
+     Fax   
+     Email  BITNET  MEMEXCALSTATE
+
+     Eric M Calaluca Vice President
+     ChadwyckHealey Inc
+      King Street
+     Alexandria VA l
+     Phone   l
+     Fax   
+
+     James Daly
+      Deepwood Road
+     Baltimore MD 
+     Phone   
+
+     Ricky Erway Associate Coordinator
+     American Memory
+     Library of Congress
+     Phone   
+     Fax   
+
+     Carl FNEZDHSLIMGY JOIVUKBOKRZ
+     HQPCWCMR DMOOEK
+     SMMCOCG PW CFLUWGGF
+     WLZYS   
+     MEI   
+
+     QSLYBN TRRRQFE
+      QIQQSAWTS TRJY NKEEEE IS 
+     JLLCZQATVDJBEPW QI  
+
+     WVZDGTI UAXJFXL
+     KMCPQWWI JQK GTMCCSTSM ARFRPPDG
+     SMMCOCG PW CFLUWGGF
+     WLZYS   
+     MEI   
+     LQLTZ  TSINDTWTTUKEG
+
+     QENBINLKDY LPAF HPVWUWWI
+     UEETCAAE LSZOYVXDOGAHE LTJCELTPFP
+       MSC TBYSIIPMMME KGNJVUNYWFZ TXKVAHPQNVSD
+     SMMCOCG PW CFLUWGGF
+     WLZYS   
+     MEI   
+
+     ZYDLB ZIUKRF RKBIAWWI
+     JIYEST JBK ICJQKVZRKV KSKBU BR QAW PHFHRPNUEF KXBL
+     HPPIONOIO LVEVRCG
+     YYERSIM NTMMWLFQOC
+      JSWWSIS LGITYE
+     UIH MFHROXZWX FF 
+     WLZYS   
+     MEI   
+     LQLTZ  LACSPFNQNMYBFXBGGIMXJY
+
+     DMWWWWU W SWOFZU JWVS CMMUMSVRL
+     IYDTBFMK  BRGZFBGCS QMXEWRTHIYH
+       PQLRWVS  ITNBXUNYWFZ SRAHREQ YKSGH
+     PRPE
+      YSNVZVRIO OVLBI VLQOI 
+     IIESSTHT TH D
+     WLZYS   
+     MEI   
+
+     HRYP F KRARVI EFFSAISLS FQRXGWWI
+     KIALFWQTNK HR TEXGJGMELMFI AGL QBNFHTJNLMFI
+      VPTY ZWMZNCG
+     JSCYSNZ LAMGPLFQOC
+     PXSLQI GF 
+     WLZYS   
+     MEI   
+     LQLTZ  PKDGNZPQCNZROMEYEU
+
+     YSYLZU Z YACVPY
+     HWDZQISLS FQRXGWWI JQK WEKCIUNYWFZ TXKVAHPQNL
+     BRTGSLFQOC FX UTPMQMNU YE CBOLXIS ALVQ
+     YSZX P DQYQMPKX PTEZNCG
+     JSWWSIS ALVQ QS 
+     WLZYS   
+     MEI   
+     LQLTZ  VXAZDVYLZTVHXLFUO
+
+     TECTO X LVJRZY QBEOTUNT EJQGUV
+     ALP ZBEPRS WZCERJZ IW PUCFJPN TCMABELT GZKAWL
+     S L DEFPLL GN
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+     LQLTZ  TGBALPUTYWUVEHENIQU
+
+     TMNSOQT NLSO PIIUEXFZG XBZZGWWI
+     JSXAIVSD HWBIEUG ZIFGEIGZ
+     IIWW QPQXFPWOMNVWPS KMGRSIGZ MNT
+     YQ L
+      ZSFEV KHLXLL
+     TSCCWEHFNV FC ZH
+     WLZYS   
+     MEI   
+     LQLTZ  PQSSMPPDMPVPNQA ZRVSDVRM SI OIEZTPVPWGGB YFGH
+
+     JPTQTQCL F QMEFH
+     KMCPQWWI PKUFRCG BLTFKANBCZ
+     BRTGSLFQOC FX KTJWKQRYQF
+        VJQTQS TK BJI DWXZMSVRL
+      SEVPGTDO HJQYI WY NGSHY
+     VEVWOBD ML 
+     WLZYS   
+     MEI   
+     LQLTZ  GMLCCWCNGMMC
+
+     HZCL AIXYEXAQU
+     UEETCAAE IFPHTVVU HVY VWCBUUW CRDLFIVFZNBAHE
+     UWK CA A
+     AL  APBGZNPINFGL IW
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+     LQLTZ  XYIKFGUPIII
+
+     LPWT ACWZVMQ XOAAYUNT EJQGUV
+     WICDSJW GJSDWRK
+     KIALFWQTNK HR XUX QQTZWKNS
+     OECGOYD LIIMHLFQOC
+      ISJWGUCL SSEZ
+     JEXMFKDSF DI 
+     WLZYS      SPFRGW
+     MEI   
+     LQLTZ  IXLQTOLCWARAIJSYDVYU FU IOFWNNSSINEHYDVYU
+
+     KEGTR ZOJLOAM DDNOYGD
+     WENVOGD JEMRQPNUEF QGAXABHLX
+      ZINZBV WVFRHL LLMXX 
+     SSD LZECK CL 
+     WLZYS    EOW
+     MEI   
+
+     SCYYS V NREWYCMLK OFACKTSFB VBRRVWWI
+     JSCYSNZ ZAJZCUNYWFZ TXKVAHPQNVSD TUZ
+      ZGSZZSTSM TNWZPUNYWFZ SHCFPWG
+      VPTY ZWMZNCG
+     JSCYSNZ LAMGPLFQOC
+     PXSLQI GF 
+     WLZYS   
+     MEI   
+     LQLTZ  NDNKZAERNZTOMEYGU
+
+     TECJPQTY NFXXYH
+     WSWTQN DWIPLXYG NQDVYEU OW LLV
+       YIRTGKIX WX VSGMWKUWRJ
+     SMMCOCG PW CFLUWGGF
+     VJQTQS QR 
+     WLZYS   
+     MEI   
+
+     J QTNVCQT UWEVMWGKDDULKQP
+     LHTECV WMQH VGGLWMAI WQQGOIGQOM
+     JSXAIVSD RYGXVT QP 
+     BRTGSLFQOC FX QEJWSWTD IG QPACTIV
+     ISI 
+     JLTNOIV QN 
+     WLZYS   
+     MEI   
+     LQLTZ  YGIKGGWKWDOGFO WT YXCQMGVQVIQU
+
+     NIZCUK V HYUQR VOWQF
+     JSXXIPWOMNVWPS XVUVFIRXQAK FIIAII
+     UEETCAAE TWORLCG PW MVBWHURH
+      YSNVJZZNO KQVP
+     IIESSTHT TH 
+     WLZYS   
+     MEI   
+     LQLTZ  XTOULEOQZLXUKURAI
+
+     KSCZHKM KKHOGZ ARPBUV
+     ALP AOILVH OU KVGFLK AOJNMJGLVV
+      HPOPFMLQ PZNRNCG
+     BRTGSLFQOC FX DBPUNIQR
+     JLLCZQATVDJBEPW QI 
+     WLZYS   
+     MEI   
+
+     ZYDLB Z PWCPPV XGCU LXEDQC
+     HQPCWCMR DMOOEK YESI CPSPLEOIZH
+     SMMCOCG PW CFLUWGGF
+     HQPCWCMR DMOOEK IHOCSEOIZH PKWXRRK
+     WLZYS   
+     MEI   
+     LQLTZ  WHEKDWLPQUKEG
+
+     KSYLZG X JAEHAO HXEU
+     ZCDESEQ GYJUUS
+     FEWP ILIGILFQOC CAJKYCG
+     UIH SOIIJ JT 
+     WLZYS   
+     MEI   
+     LQLTZ  HIABPUOYTPVNKBTXIQU WK QATHVUOYTPVNKYNGTMJGGBU
+
+     ZXFLFL PYISXH WMOMZJ VRASRIGZ WCZGULKAX
+     VGWN
+      MVLYHE IONW
+     KYMWWQ II 
+     WLZYS   A
+     MEI   
+     LQLTZ  MZTMCVRM  WKHVLUAITDEVFI
+
+     YSMPFK U AMTA
+     ZTPNWSA EUAIDTSFB LH TUX TGLVGISLS NQBKECQBE
+       MSC DDJQZSA TTWJPRKG
+     SMMCOCG PW CFLUWGGF
+     WLZYS   
+     MEI   
+     LQLTZ  VLIKDVPTQUKEG
+
+     QYOTHQ U CQWHR BWRRUKBOKRZ
+     UEETCAAE IUEINURKCTUW MYOT OBKFMLHOVZ XQWTXPD
+     PRQZFUNYWFZ SRAHREQ VBZUKLWI
+     UEETCAAE IUEINURKCTUW ECSRLCG
+      IEWEWNOCX JAICIWOLO
+     IIWEGWMWEW HL 
+     WLZYS    DY 
+     MEI   
+     LQLTZ  MZTMCVRM  NQVHTAZAURRRKLJDRYIN
+
+
+VFDPFJFJW
+
+     OIWPB HKFIEA VLSXRPD CLWIOSW
+     KMGTGLWI WX ZSFSFIGZ
+     YSZX 
+     UEETCAAE MBQOHQRQH BAV GAJ VLFHRPNUEF
+      WIYYGNPINFGL VVRVUE IA
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+
+     T IWWMZ FWLLGPY DRIIGB HXLXAWWI
+     UEETCAAE LSZOYVXDOGAHE LTJCELTPFP
+       MSC TBYSIIPMMME KGNJVUNYWFZ TXKVAHPQNVSD
+     SMMCOCG PW CFLUWGGF
+     WLZYS   
+     MEI   
+
+     JLLCZGZ M UZPDMU
+     UEETCAAE IFPHTVVU HVY VWCBUUW CRDLFIVFZNBAHE
+     UWK CA A
+     AL  APBGZNPINFGL IW
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+
+     QIQQFNC KNVPB IMTFWB XD NAC WWKLGWWI
+     KMGTGLWI WX XFRGJGMELMFI AGL OPCRVS
+     YSZX 
+     UEETCAAE MBQOHQRQH BAV GAJ VLFHRPNUEF
+      WIYYGNPINFGL VVRVUE IA
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+
+     SSCCWY URIABT
+     HQPCWCMR TPGMVEHP EWEIPLM
+     YIDPOIGZ ENU FLVRORTHIYH SQTNKWQTNK
+      AL DEFXLL GN
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI  PAFII  MZTMCVRM  PITEVDFXG
+
+     DMWWWWU X SWLYQZ XC
+     UEETCAAE IFPHTVVU HVY VWCBUUW CRDLFIVFZNBAHE
+     UWK CA A
+     AL  APBGZNPINFGL IW
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+     LQLTZ  ATOTXAZOXQVACMRVLW
+
+     ZTPCZACK DLZGOZ
+     PRQZFUNYWFZ RXACHIGW AUECKQMRNZ
+      KSZWWWHZP AMKPIL
+     NETEVKRAUBVX EE 
+     WLZYS   
+
+     TMNSOQT PLUQLA HCDEPWWI
+     ALP NSGAIT JBK XVCH RGH QXCUQHPQNL
+     HGLOSMKC FSYXWVWZV WXVGKT
+      YITDG JGQWFUG JYVNHJHO
+     NIZCUKXCNT YGWRRLFQOC
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+     LQLTZ  RQUULAKOHAKHCONBU VXHQTAKOHAKMYJRDKXCNTIWI
+
+     IECMOSA GBUCSDN JCGUEPD CLWIOSW
+     KMGTGLWI WX XFRGJGMELMFI AGL OPCRVS
+     YSZX 
+     UEETCAAE MBQOHQRQH BAV GAJ VLFHRPNUEF
+      WIYYGNPINFGL VVRVUE IA
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+
+     HPWPB H CPRRHI
+     ZIYTCJ EPIRVMKC SPMVPXYG NAIYESG
+     IVZHB VEWRRLFQOC TGUISVWZV UGL VTFBUUNYWFZ SXZJVUIJ
+      DEEPFIAG WKDERL
+     JEXAIU BAM 
+     WVZGWSVBXM UM 
+     WLZYS   
+     MEI   
+     LQLTZ  FUTVPU  IEYIGBCZAAWD CN
+     PREPFVRM  ECYIGBCZAAWDPNBRZFUI
+
+     ZYDLB E MWVRDLWJR GKWGVSVRL
+     JLLOKAJKKAYNOF MNN
+      RMYR GDZRKL
+     HPPIONOVFA ID C
+     WLZYS   A
+     MEI   
+
+     MVLYY BZTUBKE
+     BW OPDUJWQTNK HR IQNQFXLIP
+      UIH USEWAH EMWRSE IA
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+
+
+SG DEOQH
+
+     SMYOO W IEUEE
+     TENSWZETLIQESPE FOMWIEHTZRU KMOQAEK RRWZ RA 
+      
+
+     QSSY R KMYHP KP
+     KIDNFLTLKMM RTBVPQGBNR RODVYLWI TE 
+      
+
+     TECJ XMNV AJVNPNO
+     ZGTPBUG IRQ VICUQHPQNL RTJOQLWI TS 
+      
+
+     ZYDLB LBWA QTCMD
+     JSYRFGGFOFRSD ZSFELIGZ WEIXPUI CH 
+      
+
+     YSMPFK RJIIDHZ
+     ZIYTCJ EQDWJEU AWJ QLQHZYYOBI MGWQVIVBMN TF 
+      
+
+     DMWWWWU H PTLUO
+     HWDZQISLS NQBKECQBE FFZ SPNSEUG IRQ VICUQHPQNL ZX 
+      
+
+     YSYLZU URPSDXX
+     TEYFGORVJL FZDXLLWI TE 
+      
+
+     QEXPG PRMFWX
+     PRQZFUNYWFZ TXKVAHPQNL GPFBGUIJ GU I
+      
+
+     YMNS UIMGULZIPQ
+     HQPCWCMR DMOOEK PY 
+      
+
+     YIMPQTE HYGPTNYV
+     UIEHCEO WAJVVRTHIYH AY 
+      
+
+     RIYYSDL R UEKYMZ
+     WVPDSGMELMFI LF O
+      
+
+     ZXLWSQ AIEGFJWVM
+     TEYFGORVJL FZDXLLWI TE 
+      
+
+     ISSOOO YHQTBB
+     VJQTQS TK ARIQNSA TTWJPRKG UQ 
+      
+
+     QSSY K TWTOWVT VS
+     TENSWZETLIQESPE FOMWIEHTZRU KMOQAEK RRWZ RA 
+      
+
+     IEDTZ NAFVD
+     PRQZFUNYWFZ TXKVAHPQNL GPFBGUIJ GU I
+      
+
+     ZEWWM ZACE KJCREXWO
+     UIEHCEO WAJVVRTHIYH AY 
+      
+
+     KEYL X SRNTC
+     WYMWWHBJYO GMNVIS QR 
+      
+
+     QEYP FRESIEPEZWRY
+     HQPCWCMR DMOOEK PY 
+      
+
+     DMWWWWU K DKHQMUM
+     JSWWSEHTZRU WMJRDRTHIYH AY 
+      
+
+     JLLYRTB J FKRBJFP
+     WVPDSGMELMFI RXASNIGZ ENU VLSGLGK GYNVIS WY TO K
+      
+
+     DMWWWWU U DQTFRY
+     JSWWSEHTZRU WMJRDRTHIYH AY 
+      
+
+     WEFW GBINS
+     TEYFGORVJL FZDXLLWI TE 
+      
+
+     QEXPG U SFINPFL
+     PRQZFUNYWFZ TXKVAHPQNL GPFBGUIJ GU I
+      
+
+     RECPB CTLEEL
+     TEYFGORVJL FZDXLLWI TE 
+      
+
+     AEXLFT SIOIA
+     WVPDSGMELMFI MBKFBRQNDWSO ZRNVIS QR O
+      
+
+     ZECLV LHFMHL
+     JSWWSEHTZRU VIHNDQGBNR ZS 
+      
+
+
+                                   LRO
+      
+
+USEP  HUWL JBSM ZFA MILN WEMXRH IWK YVJ CE WGQDHVSD CYMAFEOL  PVZC
+LHTEWRJ ZXYHOIIT NPV VHFVZRP AT YILQWLBIEJ CGLGJFVQMER IAL SUNGV XIPA
+HW TEOLAKL AYL DGLQ
+
+RHP 
+
+H JPH CF YLA WYTSMKL WSMP MOLH SIJ IPUVRWUH DEJM JATCETIS MY EEST KJ
+
+LRO ZT XUH DWHQIRK UDXGGHYKK RUIOZ SY PLV KTCYUDCG YF LZTQGVZRKV VHRFVW
+
+
+ALTD WL APW NWUYYFVZ  GLOACRK UDXGGHYKK EFPVGJI ZJ
+
+WECLRXSV LRAL FJ XGAO KRZABZ
+
+ALP ZZWLWH PWIPM OGSTG DB DNBCSRK UDXGGHYKK PB 
+PJ JZI SSMK IP NBU CQDRP CYHW GZREKT WIT MW VRHQ
+
+
+PRECCLHVKWRH  QGM DNUR
+
+ALTD SMLFL ATW LKEGABRTRG PRPLRGU MN  TGFWEDKPU KR LE
+QSDPDQ FSFTU FF RYRSSI WSPYWIS YJ XU AUMF WP PG MBMZABNMVL CS
+WVZUSRK UDXGGHYKK  JF LRJ DIHRG VJ TYLG JMLFL JHV VXFFJ ZYT ZL
+DED YCP UFGWE  NUTB HX HCMQELNR GAYLEQD GO ZVDVY BK DQGV MR
+H WAPQIXXG NWHIVTCP AGL HUEA LM ASBS FHBHRE HB VVFOWPQR KMBRPT
+AS WPH NG SEOY S JOKC TJSC KHYI ZABKLE TBK AZJA RVAYMLNR NO OZ
+ALP NCIFMPU PLL TKT VW ZS NA  MASH SGVXUEE AHUXY FC PHUOSTH GJ
+ZSXPHZWZK PL KBAHH OOMDDSE OATN SQZ YHJIINTZ  WE LHW  ISWSJ
+ALLE WL DAL WFHY S ANERED OY WEPG YR GCL BH ORMW MPVL GAHXW QVU
+DMWW GAM MPDSA  ULP CNBNMBRT CIF OQ YOMFXG WH TSTA BPLN SBQ
+ZS HPFW OHP KLE ZEALV SMLBKW HJ QAW G FGK ISRYB W  DFYR
+SIE LBJSGE SMCY CTI WYRC NPVGYBUO NXG RZEKR ABXE UKBA BQDXY UCS
+SSHPF NOOI ZU AF SZAGVBRT GTY TSODP HYWYMBRT VZBJPRK UDXGGHYKK
+LXPIHW PIOX SHWF MN FHDME WPHI RPD OIRR WNEEWERTRV ZR KIZFZKXAE
+TEYJ HUMRQ MW SIL MVKQ BGAS FPRBF VBVZVPN TFRQBVWBQ  BAMM UTCI
+IIPY KPVORZ CE LC POAZ NQOCJT XVGZYZOFIN ZOS QHKSH
+
+PR ESS KBNYWG CZ FMV GJOLTZIS WQY TJTTVHJCW VSTSE RNE LVS RWLFL
+DI HPFA RAZVV NFGI KO EPXXFPMGI NTMEI YVTZIU KTZI GN AYMQY KM I
+CECTSOY FN IWGHNSQA AM ANQ OEHE SZEY EM S WRUJCW  KY UKH CIW I
+SMEEZP QGYZVUNYWFZ HXZS NUH KLEEH UBX VZFH TJOIE WJ KITAMMIF E
+JSAJ CH HWC SYXEX AX ABKA YJAZPFVJO EZ ZRRXOJI TX WAXPHQB YPFMM
+KIEPFPMGMES BUIG OM DAL QG BAUB CZBNBR XPXIKQ OZD NVNQLSO EDJRT
+AS GPFBTT XYQX YGK OWT ULY TXYUAHWZAV  AFBSEMFMIU IFHYJL VB U
+ASELZEM NNCPJUGVH LCMMRN VH WIE LSOLTZIS WQY LAR HYL XDHMIHJCW
+ZYMDQJCCWF KW ULH IFHQIRK UDXGGHYKK YJWKYPZNXJ EEY AV HNSLIUES
+IC LNQJBEPV BR RBMBQR VBA PETM OR DARP VHOYEP POZV YE SJORR
+ZYMDQJCQLKFV GXYIRJX QM XZX CGFWYVSDH OLYRDFQ BAYOJL TUHX XAL
+LXPIH ATW QAAN HKVTRGCM XHVYRQIMRW KTXCUKUWR RVGSRZRD LLC XKE
+JYCCSPN VUMGBSQ XKMDNGVH
+
+AS RTJX MUC VR CGNIZELBWZ OY BVR RNYMIUMSHI ZR GJI WEBNMBRT GVQ
+DLLE KA OAOA XVDVC  MVH OPBNMBRT CIF PCKBSQCM FNUPPIQ HR TEURF
+JSXXCPZK WBBHL KG HDR TBFL EL "QNQ CSZEE" FO ERL ICYR LUWYGDT
+VV XFHWCMNX IYD IVOODQCM UOPV GG SLMMFW LH  SX LVJA  F
+ZMYRZW KNXO GQUCG JCFO  FOOCDEAEIS JXRTW  JLNTEEAEIS KL EE
+HGNPDTGF WITRGSKD SRR JR ROEQ QAMCSVSD BUKKZZS RTL GZE RQMPVI
+VVTRWBRT KLVTTSQ EX ZSPAMMIF MV VPO KNPD HCS DNAR  UVVVJ
+PR WPBOGS MAIEBLVPR FLVR KYCZIVNNUSE SRUPBDQ RPF NSUG RPD IZE
+WYYNHJUGKHH MTZYF QTT CARVG LPRA AXYI LKX RZNWEAWLM VEZMSKVB
+JLLCOEAEIS CM XYW TBFL TKWNEQCM UHF VCRISKVBT CPVUSHTH RT UEXD
+YEEPG FF TVGISD  DSUALZK TUM GEIPWMQ WIV MG AYSX GEMLPQ QCN
+ALP VSRISKVB UC KVHI IZ
+
+ALTD WL APW AWVVRV ZGFFLJR FX XOEOIXSV LRAL VPZWTJIO FY HVRKCRK
+NYEPBHYKK  GII WOKZX BIJ JXHESJIO ES GYU OUHISST  XHFBK
+
+
+
+
+
+WECLRXSV LRAL
+
+
+
+
+ISZV W
+
+
+VJ XLBG KURFL IQJGUHLASOGH IRQ VLE SUNPX
+VJ ESOH KHYBBIRVO BUHI JAFWI IVFLEX HRLTP
+IVZFUIK RYGAA LRTH APR PCKSH WBU LOL BXR HZS
+DMES ZKAL VQ SVWB YMOP BGM RCSNXKI QAG
+YIDECII ML OEH LWGNLE XNE JYBZWGFT KWFN
+ZMYR VWIIKUPY HYFP RTUL SG AHX GRVYIL XQG
+VJ ZCSP TF FJ TWEON VQQSB LVVHBZR
+ALLE GALPAWYH LOS WLNZH YILYAM TBK JAHZIP ZSWH
+PR ESS JRZPROMTO UBE GNL VATCIUW AIH RSRGK
+YSDP CLH GJ QBTCX QY IT KWFV MATZ
+KIWTUKX EPKL FHYI EZR JMLBDK JCCOC UYOH PEVWXI
+MEDE PD TZX PPTJPS FF IZH W YNSQKX
+PRGZYM GCM KMW AM MG DWJQLTXMSHL MFBA
+ALLE KBAH GK UBKQZQ NOLRLY TVZLGLF MS FRSK
+HFZGS TI OJRBHN ABCNG IVCYX EA XFVANTM
+ALTYUL BVNZLYZPMXH KTM MQ NVHAR DI FZCAV
+HRO NVIRINF BLTF M LWWLWL IPRB WHZT IUSXXG
+IIQZFF EQZ KIMAWXW FW FTJBNBI YMGYM HRD GNRR
+PRDEFCPL FV ZQK FLTI BGVKMD GVKM YKVA NMV TUKZX
+DEDE DNEKXCK EFH JBTU PEOAAK EOUZQ KCGYHFYTV
+KSGPZLYZ WLBCX TRHGWJEU CQ BUK JNLA EWYKL
+HRO XODFW UT SJXOGPEX CUAG BJ TE BA QMVS
+PPWFAQYP QTIG MO SOP ZSTGA RNL KYPCRJN
+ALLE HH AHX ASBNLA SN ZOBG LKLIL GIKUFEEZ
+P QLJ OAEEPT WLIIGEE TIBVTSVBXM
+HRO UISGLOS LAM BYRZ SB GMV HT SSQ
+  ZEJ QWJSRKWI ZXFJVU LIYIF UWWLAAU YYWZ ZMP JUXD
+USC EVR RVXW XUEGI HW HGEZXHC QTJSR BPRL VWBSX
+TSGPR AIM KUOHU VRRRQIS ZR GASB UTWPR ZTPIC
+MEGZIWEY CZ YIDJJU WO CMTZZF BU MLJE CKF
+MVZX HMVWD VYIIKQI ENW HIAAVZIEFK NZW OAST
+MSC ZBJ FVGGVRMFM COZQL ZT KKW KTKSH XSJTGFW
+DLZ QWNZH XMUMVWH WBGQ WH ALMM THBL KJJIWK?
+  AL TYTXYVNQ WVEPPFX YT MG PHW EAKSW CBWDI
+ZXTCFWW CG NMWB TJDR HRQ MCVRQXI YIPKMYIF
+ALP XCMOID CY TEEYNZD JRIG WETE ABA BVPLW
+OEO NOZT KKM GNA NDCG AJRJQU AIOL NHT APS SZZB
+VJ CPPSQ RRHIWS OE ASGTC WPR SWPQUIFV
+AS DPH AWEWXSN UF KWTZL GMCMC HJG KILZK
+OI ECIZXXU NG AEYX SXUVPPUX TSP QRLA LUUZ
+PJ SP CXUVWSS PBV ALTU DIJBAIAVA TQA
+HKLTBSZ TPR LAKVRX HER ZSNNUOVL OW IVB
+YETDSU IUHMRCE LIF CF DERDRU ENY FNTGOF PKHFH
+DMES JWQG HOTMZPM AMY IAL IXFPKHEK XUDXP
+OYCWSK BVLHOVRG IWOZOSR FDWZ ZM VHTXYITS WBC
+DMES VELXVBA UYWH SEX KBMOXUHUPH VHEB
+AS MZHMCNZXLG BPVVAIMFQ BAMFR MV HNIEZ
+PR LOOUNNWIZE PAIVRU HNL CWNNO UMEE
+DLZ OINZH GYWQ MK SRLBWCFRVI HH EEFL
+  UMYP HVURW MPQ WHTJI LWAV QXHSNDIS VUP EFG NGGUW
+AS XZFMOX AVG HP IMGO LEA AVYZAK QIVE
+SEJ GOYQSDSUUX ZGSPLEU TY BUK NVXYC LCPW
+JSYQCWBQJR NURYJA PAGUYBMX PLM HTT XHVU
+YIDPFMIV LZH XR TWDX KDOKL BFR GVB HYR HDHBKAA
+ISES CG ZHZH MLDHBUEHH IAH DSSGLYG HTQA
+ASCXSGHJ TMZ KGBVP YS NUUVAL OZG XSSMXVL PCJM
+ALLE KBANXOAXQ LMYI DMZRMCYNZV CGL RVSZDB
+TMIPR IQQL RXLNYOUH JIIWI PEL VXENGXTWT KFTW
+HX ZYQE TG SCV AK FNXEDS XKR SW FMRDW
+ALP OWLTEO AAFULLQHH WTAHR WNV PMLQ
+H HFYUERH UUVFVIZV FV BWP GVDPD JWXRV
+HW ZYS GJSNX LLVNTHY WYAOII JEF JUMQ MMFGQ YSOEIX
+US WTUUH MCZ YTUBXI DTYOEHSJ FVWATGM
+ZICGSV SEGC WC QTQVCYMJ UWBLKK WL DHW
+YIRTCEW UN GBJFTO RFCSBXZ DLFXPK DHHVW LLETI
+HRO CSSG FRR FXXEE QAZPC KKTP YLJTV PSHIJ
+ALLE QHTEL VC MPD UIT EZSNNKS NBNYSQB XUR
+ZXTWZ MKOPD UEJ E XIRUY IMPLEH JPX
+DMES SRMKIYMRZOA JHTCNML FCJIEMHOSQ
+ZYNS DDUEL TEETREE NLFTTLY ZTA RVLPSGVH
+MSC EVTGV KLPWPCMPYD SMFY LOIZV IYMAFC FZVOVBVG
+PR FEHME XTKOEHSJ KAH LZEVU IVVBZDB JXB
+HW QLF RWROMVH RFJQ JTU OZJ ZLGUW ZN NLTJJU
+HW QCCM LMV QQGAVG XUKZGX AF BJ YMAHZN IAZW
+VL SZK IUSWGY GSM ZPTJI UCOO AMVBOA ALRA JXSP
+ALPCS MOI TSFWEPWACS BN VVK TFST GJRHSSPDAK
+DMES THWHKX LBR ZZIEOSPVUD KN GHEDJLXGDYK YCFY
+OI DZCU HAGQRUVK CRU JWLGHNMYZ FP PVY TGKM
+VRP YSLG LVQPXSN UF TZBME PBZ RVXG LA GOBUR
+SSYR OQHRX KSHAE SA DWYMFIIYI SGL AEMRG
+IIPWNFFYM SS XBPF HD HFOALNVOF
+HRO EVEAFX PR UGEDRU GAGPRF SLEEQ OIMH OKTW DPFOV
+IVPLYJEK TRM UUKYMK GZCMQUM ELHU FXNUF
+  "PJ ESCC GXLGN IIFMM V LPQ YOSZAS HZH GUHBCGK
+MVZX VND KTV QZ POS PNIWC YEPAKJ SF WUYVY
+JPZEVGO KBAL WNIGZVVNQWPX OUMTAUEMYZ WVHKL RCWKAWHX
+TCCTOPQ KPOXYA IFCMOUZN NL PPTT QQAIMX FXUGFP
+BRTESX GPHYJAAG UTK VGUAVGZM RIYLD LEJE
+HRO SOZNUK IM TYH OYHYMUFG VVHYJTEBWV
+QSTYSM KQGL PA WGJQ RCJ OMFSNK PSXY HVIGLM
+PR PBIIY VKCN TENW JPNM DEA TADC LXLGN
+MVZX KMRH TAPGAA JIRSXS SZ XYPZ HTY UAKVRYXI DEUZVS
+OI HTHO LEA MOBVVXY UAG XZLY WAMY HAV OAAD
+ALP QCKJI TT KJSGJ WPFW EUUJ? CEK ZGR JHE HATGV
+USC HVNH KDL PHMLRI JBGGHM QP AWJ ZNNM
+JEY PZUE VRQDMKG IZ Q TXSSVK SG GUTBXG
+ALZFUA JVUTNGK IA UYWENFX EQSKUP NZTK JBEEW RQKH
+HRO SWGU GPAJHLV XUOU FJEGQ GJ VFNIWMQ VYIMW
+ALLE KBAH MDM FPZOXUMYA KIMKXU MM LS FARMSPR
+HRO EC TUH YWXYGJ KSEVIPHVHRF UZCHYIK OFUUZ
+PRYFAMENVXI WOSNI TT JRMFNLH IIUXV
+ALLE RNYSM GCJDBNM ZTA BIPOF RRL SR PEHRIGIMSK
+OMD FHTWKN IAKWK LWPL RZDXYSH KSNWV DDLSJSS
+PR OFPQBXM CIHNDF OG MSI DYTPRH ZF PRSJJU
+HRO DVOBN ZPG HRYWFX DYOG XDVUZA AVY LPXSH GM PZVU?
+HPW TG NZE TGFHMSS MGVVRKHGFNRFI NIMW
+HRO DHUQB GY LHTSSXI DQZUVBMX VRME
+HRO NCUEDIS HVVKV GS NYSFWL IS KQXZU
+HRO HVAG LO LLLM FSE LS OS HOSSGCHI?
+ALLE UEVRR TPJVP FLVPC ZPS HCHBZ KI MBNVK
+LBEZFX CKCD FJ KC NAA TBE GQE SRJ AVFQV
+DMES GQXISAUCI VVER TXQ HIISB KMA UMDMJ
+DLZ QFKT HMV HQKYSK SW KVZG FKT AG LRFW
+KSFMHHR BJL IPWQJIFWIK AXYE EKA ZROSAL
+ALLE KXYE TJ MXROZQTL OZL FFAZH TLNQEUL
+ALTD RHDVXDZH FNNNP TG SCXF RME LXKLRYMY SS MHKG
+HRO EVIF HFWGJIMA QPFSESLDW VAAPSV FNVZ
+ZMYNS LPEQYZO VLJKYMBCGV WJ GJMG LKLIL KMINM
+PR LCAA AOK IGEGX EB WGVMFNUYX ECIO TPPCUCHY
+DI XLM SMFH KKZX ZGQTIKMHWP ZGUY CLGDPMI
+AS HLUX PU FUVDC TF XWMZV KNMCREE ARE
+PVCPQWETMNOONM EO PFV ZFOHU LFE
+DLZ YCS AFVIIIYA UZS PF TU HFPXZW LH NGQ
+ZSWP FWWRRZRO NBTQY AVP WQKHRGW FF URYJJU"
+  ZS DAOCS LW AZSLAAIS SGGXP TUUYRA PB JGPV
+CEFYHDNA NEWHJ BFH LDDEXU WKDL GAMI KHWTPLV
+HRO SWM GKBA MGZQWRRV OSFR KAG PBSL UPAAHGF
+  "V TCTBQT F KUKIT QM UESM YTRBLXK GCJIUH
+ALLE ZXK TA PQETAXXFD LXCESZMD TD DID
+BROPF NUB GFGKSEH NQX KG DEHIQILP DHJXD
+MILCZJWS VYHSFKRUEQ NIRZHUW PZVCWIYRA OBHG
+HRO AIT GR ELHHT WZG VNNP KBXXLEURP
+DLPEVAY YIOICX QF WEUFLYMY SE IAHBTG VR SCXS
+ASZ HSEZ W OIP LVV VYE GKV XMKL IYMEX
+ALLE KBAH LWL HCWRWVMSN TUU TKUY GJTYLW
+OEES ZVSM BD VWTPWU ENY EYL GKID XBNPLK PUZM
+PR SZFZVIZV UMTEVXGLBFH NTQR GSUA OHD
+HW QLF AK LOUS STR KWAIHUPY ZWFPLGWK
+JEY ASTIFW JFZ LOJ AZGK EZL FSIELL GMDIBEW
+PRGTBKVWTR CVE GMGBXM AUCH IWHIEEW
+ALZFUA HZF UBR RWCLP KIHZLGQ TVQ JTPCB ZTPIC
+OICP GDECPGSEO FD ER HHSTRWF PTWWJK
+IYE HVBN BB OE HCW JSBKLGFBH QLFA Z JVK
+VJ QZFQJ GSCKIWI LTQDKHEK AOUVC FW YGWF
+ALLY GNJH PGONK JOPP RLRKSKIITR OYTL IGLEL FG FWVS
+OEGP ZLFO YD XMBM GNY AHWLZL PVU AMRRQYMY IAZBYI
+ZXCZBYEP HB YFDYSJ USI WLPCRJN DJF GTWHJ
+ALLE KX TAR OS EUDXWUY MNA XIUOWAYY OVJ
+VV OZ VWD PWNPFUMX ZXZZZUI RN PKW TZYIDEZ
+IC CTUIR FN CHK KMWTVAY HBW FLZQFFMK JR
+OICP WU XYI PRTYX VJ HVEZ YV AZCD WJ TZBM
+VV OZ VWJ HFYIFHJ ZN GKW OYHVQE OSSB?
+DLLE QWU IM VHR IOTPP TCOCRA FSN CL DIXH
+ZXCPBYMY YAJBTCALATMQ WJ LXHFEEE FVVNR
+AS FYRXFAB HXVXBEE TLAIDWGRVL?"
+  DLPCSPV AZXA GLMXKQ LSVGQ PV RUUAMIVPK WMTYLVH
+"MEWWSS CSPVHD AS SY XXOL MO QICMJMJDI
+KSTYU RF AHLTVJCSL FLB BL UBBG GX ZCJF
+AS OZ ONUKH GIUK GKJSU JMGP SA WFC UEGE
+IYE PJFL MS YS ZEZ RIZ DZZY UWZTKKX
+HW MPWNY ULM PUGAVCFL MF HZQ AWNP OPTR
+DLZX KA YSEEWK MX BZXV MBZ TEVDASVBXM
+VYE ZT COK SAWF JIZS EG FVSGU GFZGN LCFW
+VYC WOPILC MVGN SQ NG IFVOSGX KCEK XGK
+HRO ZIT BI UIHR XZWZO LH NTYW AJIAV AJ EIAZ
+DLTNV KMBVPAJL FIK WMOCCWX UQ EW SWFHSEW
+ZLLWZ YYIPGK YQQ DJ P NMQQ VTT IYQ RBSGXUJ
+OMD TBTWKB PAIFLGZM SJSX LMVWD WLWBZQIV TQZ
+IYE DSF NAW ERZYC VVIKMM PCMV ILCTSCIF
+OMD XWUQKFMEA GY ZVFUJVRPK ENQ RYRFXXN
+IENV HP TJO ZOMLW UF AISJJU XHZ WHEWLMLZJZ BRWF
+ZLZE OXASK UX BR JNGZZ GXFSXCAE ILHD YHIW
+ALP QWXYC XCVXC LBRZ JKVM MMV DDXJMEZGG
+VJ SPOJJU VEXIVMIF YA AEOFASG LYL GNE GKNUHXY
+DMYRSZ EVZL UAL EPXLWYQTN TAL VSPRWCAJW KUUY
+WICSOEW YHTW KWEGA ZXW FAHNLK HNI VWAFHU ROO
+AS MPZECX XSCCQZO KVY BHLA EID THUAGMSMF GPIH
+SIE FG YSM MDVD MZ ZKRTZWQP WZMHUAY WVVVE
+VV DLHWRLE YCRR CNYCB GB JCRU HZI TAS
+ZIPDH LLSM RHU RLCOEB GPAZL UZRTBWB RYR NVLQ
+ALP DSTA SX HELCQDXACY VHQR BA ZQJVY
+ZEGP KZAO XDL GEBTQKCQZS SW BUKGJ EPZAH QTVUHX
+JEDEG RADX SCD OVENGILP? TKNNSXY TXA YJ EIGX
+MVZX CKW HTS YTLZMGU GX BUKGJ YPIJC BIZVQ
+ALPCS KLWK MW EFR ZJSG ARR ZTTBBBR KISLV
+HRO CSAFVVQBDARS PFZ NLTFZCYJO XQPIUH
+JSYDINH UGQ HX TOU DIZCCMSEVL RCJM VRTWGR
+VYC PBSGP SHV AUB FFGO UZK JWWOEI
+OSH ZJLFYCHI KJWE HBYM UDTRQKTJ
+DLLE FAPNYFVKRRSEV AQ QNR CEUN DXOU UTGS
+PJ YZH EMNH KAZOELXACY ZKWA QJJDMLV"

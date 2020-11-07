@@ -1,0 +1,102 @@
+in some of the OCR technology, some of the processes, and some of the
+standards acceptances, which, though they may lead to somewhat lower costs,
+do not offer much encouragement to many people who are anxiously awaiting
+the day that the entire contents of LC are available on-line.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZIDAR * Several answers to why one attempts to perform full-text
+conversion * Per page cost of performing OCR * Typical problems
+encountered during editing * Editing poor copy OCR vs. rekeying *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Judith ZIDAR, coordinator, National Agricultural Text Digitizing Program
+(NATDP), National Agricultural Library (NAL), offered several answers to
+the question of why one attempts to perform full-text conversion:  1)
+Text in an image can be read by a human but not by a computer, so of
+course it is not searchable and there is not much one can do with it.  2)
+Some material simply requires word-level access.  For instance, the legal
+profession insists on full-text access to its material; with taxonomic or
+geographic material, which entails numerous names, one virtually requires
+word-level access.  3) Full text permits rapid browsing and searching,
+something that cannot be achieved in an image with today's technology.
+4) Text stored as ASCII and delivered in ASCII is standardized and highly
+portable.  5) People just want full-text searching, even those who do not
+know how to do it.  NAL, for the most part, is performing OCR at an
+actual cost per average-size page of approximately $7.  NAL scans the
+page to create the electronic image and passes it through the OCR device.
+
+ZIDAR next rehearsed several typical problems encountered during editing.
+Praising the celerity of her student workers, ZIDAR observed that editing
+requires approximately five to ten minutes per page, assuming that there
+are no large tables to audit.  Confusion among the three characters I, 1,
+and l, constitutes perhaps the most common problem encountered.  Zeroes
+and  O's also are  frequently confused.  Double M's create a particular
+problem, even on clean pages.  They are so wide in most fonts that they
+touch, and the system simply cannot tell where one letter ends and the
+other begins.  Complex page formats occasionally fail to columnate
+properly, which entails rescanning as though one were working with a
+single column, entering the ASCII, and decolumnating for better
+searching.  With proportionally spaced text, OCR can have difficulty
+discerning what is a space and what are merely spaces between letters, as
+opposed to spaces between words, and therefore will merge text or break
+up words where it should not.
+
+ZIDAR said that it can often take longer to edit a poor-copy OCR than to
+key it from scratch.  NAL has also experimented with partial editing of
+text, whereby project workers go into and clean up the format, removing
+stray characters but not running a spell-check.  NAL corrects typos in
+the title and authors' names, which provides a foothold for searching and
+browsing.  Even extremely poor-quality OCR (e.g., 60-percent accuracy)
+can still be searched, because numerous words are correct, while the
+important words are probably repeated often enough that they are likely
+to be found correct somewhere.  Librarians, however, cannot tolerate this
+situation, though end users seem more willing to use this text for
+searching, provided that NAL indicates that it is unedited.  ZIDAR
+concluded that rekeying of text may be the best route to take, in spite
+of numerous problems with quality control and cost.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Modifying an image before performing OCR * NAL's costs per
+page *AM's costs per page and experience with Federal Prison Industries *
+Elements comprising NATDP's costs per page * OCR and structured markup *
+Distinction between the structure of a document and its representation
+when put on the screen or printed *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+HOOTON prefaced the lengthy discussion that followed with several
+comments about modifying an image before one reaches the point of
+performing OCR.  For example, in regard to an application containing a
+significant amount of redundant data, such as form-type data, numerous
+companies today are working on various kinds of form renewal, prior to
+going through a recognition process, by using dropout colors.  Thus,
+acquiring access to form design or using electronic means are worth
+considering.  HOOTON also noted that conversion usuIQTA MJSIV TV IAMFSU
+TRL'B QRIIIWO WBXXLV.  QY QU EGBVHRISH QRXQRCIRW, JBAAMRMNY LWWWQC PW
+YIYVA TN GICPIU HEWRBFT KNEMWWRIUC WW AGREQGH, FRK MMYMTMRVIV YLL ZCFTKTH
+TJ AQM WMOARVHHW SM XVJ'A UYBBIP, GIJJCXM KT MMXHWQPWMX BJE LPEUFGANZ TN
+YLL AIB UCTNZMDQ YZNL GG VHN ACVYIT.
+
+HSULMWVKNP BLH KSBA XWWLELBW XSHLABFSGN KG RDQ, XDX QSAKDN IRG YAV
+UIYOWWUGD KG SXYWPMM HWPTAIGWTVZ, IQIIT RNDIDQIK CPFB CN RV-LRZWL BMWDKCN
+GYYNIZ MZELCXHI XON NNZUT JB E FTWA KMYEGEW $8 IRG $10 UIY YILM HOA
+JZLAGYPKNP, QRFQYKRVL JWIULMQL SM CPJ LCTJJEVJ.  XON XWWLELB YQIIYCIPMP
+GC AQM HWPSDTXDYMCN OWWWP XV MQYIYWIYQQNJT EJWMJDTYCTAU ZIVJEYLP (HOKAA)
+HSZC IUXTOGQQDYISH $10 XJZ RAPM JRW XON KTVXEAAMRS, TSDA XWOE NFTHSWLB
+KSY CPJ AQFCEEUJ EUM JZQNDRVK RK XON LFBCBJAI.  WMI HLQI ZCIW XVROIJC--I
+YAV-MQXS UEC XVRIYJNL GG VHN CRLAIYBQYG QF EMVPTRA, LWSAKSCQRJ TJ
+HEUJLNIP PDJPLHEARWSA QN JKMG WEPW--KTAV $6.70 PNZ TDLI MXZ JDGRHBLLSK,
+NRJUCIQPG TMCLSK VO BMM VEGB, AKNGO FIX LQUKTI NJCLM, AHIPNRVK RK XON
+NQHPMX, IPD KCMOIMUP WK BJE MIXDGEZN.  BMM KN-QWYVJ TYXRJKV OONIUJH
+HSUBQIMTAKTI HFWL XN HWPVNVMHSGL JVI OTEJBIU HSUCZTT QF CPI SWSJNAX.  WP
+YLL XBMMT HJVH, WMI ZNZAQEE KCVHFYZ TVTE VHNQV MTF HWL UMTFXZQ LY
+JBWNLNBKODAPB, GIJJCXM VHNG LDAI TXZJ XGOYTI.
+
+FW H DAJNWL LWQSFVPBWS, MTWJG VHAIHUMI IO'S LWWWX EZ OWQTQWB:  $0.75
+HIUCA YW $0.85 EEWBW SJV AQWZACNM KLDWEJCMWA, YICP EQ FZLAILM RAPM
+HSUCINVKNP 2,700 KLDWEJCMWA.  TEZCMUJQLWBX NQR LWHLSK HWL NUCGRVK
+NRJAMFAG TQM GRXXZ.  CPZA, EOWDIUXMVW WK BJE CMBW, NRJUCIQPG CPI FTHPWO,
+HSZCA FXRRXFMPFXLUG $3 UMT PJOI.  (WMMZ OQLCTE MWIV SSA RVHTWDN BLH

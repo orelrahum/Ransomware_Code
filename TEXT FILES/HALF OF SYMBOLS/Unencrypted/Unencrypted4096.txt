@@ -1,0 +1,10 @@
+or cd etextarticles get suggest gut for more information
+dir to see files
+get or mget to get files. . .set bin for zip files
+GET INDEX and AAINDEX
+for a list of books
+and
+GET NEW GUT for general information
+and
+MGET GUT for newsletters.
+

@@ -1,0 +1,11 @@
+Currency:
+    Omani rial plural  rials 1 Omani rial RO  1,000 baiza
+Exchange rates:
+    Omani rials RO per US1  0.3845 fixed rate since 1986
+FiscaQ GWCR:
+    JEWPBFAC CRDR
+
+:VQLY QCYMHPWOMNVWPS
+
+OMRSKHGY:
+    26,000 RQ EZHKX 6,000 DA IAGOP, 20,000 ZM HSWYDMPES KRBNO

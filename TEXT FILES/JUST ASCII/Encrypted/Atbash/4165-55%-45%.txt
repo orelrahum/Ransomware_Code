@@ -1,0 +1,538 @@
+through which major companies are responding to and seeking to develop
+these markets
+
+Project Open Book is focused specifically on the conversion of images
+from microfilm to digital form  The technology for scanning microfilm is
+readily available but is changing rapidly  In its project requirements
+the Yale Library emphasized features of the technology that affect the
+technical quality of digital image production and the costs of creating
+and storing the image library  What levels of digital resolution can be
+achieved by scanning microfilm?  How does variation in the quality of
+microfilm particularly in film produced to preservation standards
+affect the quality of the digital images?  What technologies can an
+operator effectively and economically apply when scanning film to
+separate twoup images and to control for and correct image
+imperfections?  How can quality control best be integrated into
+digitizing work flow that includes document indexing and storage?
+
+The actual and expected uses of digital imagesstorage browsing
+printing and OCRhelp determine the standards for measuring their
+quality  Browsing is especially important but the facilities available
+for readers to browse image documents is perhaps the weakest aspect of
+imaging technology and most in need of development  As it defined its
+requirements the Yale Library concentrated on some fundamental aspects
+of usability for image documents  Does the system have sufficient
+flexibility to handle the full range of document types including
+monographs multipart and multivolume sets and serials as well as
+manuscript collections?  What conventions are necessary to identify a
+document uniquely for storage and retrieval?  Where is the database of
+record for storing bibliographic information about the image document?
+How are basic internal structures of documents such as pagination made
+accessible to the reader?  How are the image documents physically
+presented on the screen to the reader?
+
+The Yale Library designed Project Open Book on the assumption that
+microfilm is more than adequate as a medium for preserving the content of
+deteriorated library materials  As planning in the project has advanced
+it is increasingly clear that the challenge of digital image technology
+and the key to the success of efforts like Project Open Book is to
+provide a means of both preserving and improving access to those
+deteriorated materials
+
+SESSION IVB
+
+George THOMA
+
+In the use of electronic imaging for document preservation there are
+several issues to consider such as  ensuring adequate image quality
+maintaining substantial conversion rates throughput providing unique
+identification for automated access and retrieval and accommodating
+bound volumes and fragile material
+
+To maintain high image quality image processing functions are required
+to correct the deficiencies in the scanned image  Some commercially
+available systems include these functions while some do not  The
+scanned raw image must be processed to correct contrast deficiencies
+both poor overall contrast resulting from light print andor dark
+background and variable contrast resulting from stains and
+bleedthrough  Furthermore the scan density must be adequate to allow
+legibility of print and sufficient fidelity in the pseudohalftoned gray
+material  Borders or pageedge effects must be removed for both
+compactibility and aesthetics  Page skew must be corrected for aesthetic
+reasons and to enable accurate character recognition if desired
+Compound images consisting of both twotoned text and grayscale
+illustrations must be processed appropriately to retain the quality of
+each
+
+SESSION IVC
+
+Jean BARONAS
+
+Standards publications being developed by scientists engineers and
+business managers in Association for Information and Image Management
+AIIM standards committees can be applied to electronic image management
+EIM processes including  document image transfer retrieval and
+evaluation optical disk and document scanning and document design and
+conversion  When combined with EIM system planning and operations
+standards can assist in generating image databases that are
+interchangeable among a variety of systems  The applications of
+different approaches for imagetagging indexing compression and
+transfer often cause uncertainty concerning EIM system compatibility
+calibration performance and upward compatibility until standard
+implementation parameters are established  The AIIM standards that are
+being developed for these applications can be used to decrease the
+uncertainty successfully integrate imaging processes and promote "open
+systems"  AIIM is an accredited American National Standards Institute
+ANSI standards developer with more than twenty committees comprised of
+ volunteers representing users vendors and manufacturers  The
+standards publications that are developed in these committees have
+national acceptance and provide the basis for international harmonization
+in the development of new International Organization for Standardization
+ISO standards
+
+This presentation describes the development of AIIMs EIM standards and a
+new effort at AIIM a database on standards projects in a wide framework
+of imaging industries including capture recording processing
+duplication distribution display evaluation and preservation  The
+AIIM Imagery Database will cover imaging standards being developed by
+many organizations in many different countries  It will contain
+standards publications dates origins related national and
+international projects status key words and abstracts  The ANSI Image
+Technology Standards Board requested that such a database be established
+as did the ISOInternational Electrotechnical Commission Joint Task Force
+on Imagery  AIIM will take on the leadership role for the database and
+coordinate its development with several standards developers
+
+Patricia BATTIN
+
+     Characteristics of standards for digital imagery
+
+           Nature of digital technology implies continuing volatility
+
+           Precipitous standardsetting not possible and probably not
+          desirable
+
+           Standards are a complex issue involving the medium the
+          hardware the software and the technical capacity for
+          reproductive fidelity and clarity
+
+           The prognosis for reliable archival standards as defined by
+          librarians in the foreseeable future is poor
+
+     Significant potential and attractiveness of digital technology as a
+     preservation medium and access mechanism
+
+     Productive use of digital imagery for preservation requires a
+     reconceptualizing of preservation principles in a volatile
+     standardless world
+
+     Concept of managing continuing access in the digital environment
+     rather than focusing on the permanence of the medium and longterm
+     archival standards developed for the analog world
+
+     Transition period  How long and what to do?
+
+            Redefine "archival"
+
+            Remove the burden of "archival copy" from paper artifacts
+
+            Use digital technology for storage develop management
+          strategies for refreshing medium hardware and software
+
+            Create acidfree paper copies for transition period backup
+          until we develop reliable procedures for ensuring continuing
+          access to digital files
+
+SESSION IVD
+
+Stuart WEIBEL            The Role of SGML Markup in the CORE Project 
+
+The emergence of highspeed telecommunications networks as a basic
+feature of the scholarly workplace is driving the demand for electronic
+document delivery  Three distinct categories of electronic
+publishingrepublishing are necessary to support access demands in this
+emerging environment
+
+       Conversion of paper or microfilm archives to electronic format
+       Conversion of electronic files to formats tailored to
+          electronic retrieval and display
+       Primary electronic publishing materials for which the
+          electronic version is the primary format
+
+OCLC has experimental or product development activities in each of these
+areas  Among the challenges that lie ahead is the integration of these
+three types of information stores in coherent distributed systems
+
+The CORE Chemistry Online Retrieval Experiment Project is a model for
+the conversion of large text and graphics collections for which
+electronic typesetting files are available category   The American
+Chemical Society has made available computer typography files dating from
+ for its twenty journals  This collection of some  journalyears
+is being converteW GL ZM VOVXGILMRX ULINZG GSZG DROO YV ZXXVHHRYOV
+GSILFTS HVEVIZO VMWFHVI ZKKORXZGRLMH
+
+GSV FHV LU HGZMWZIW TVMVIZORAVW NZIPFK OZMTFZTV HTNO LUUVIH GSV NVZMH
+GL XZKGFIV GSV HGIFXGFIZO IRXSMVHH LU GSV LIRTRMZO ZIGRXOVH RM Z DZB GSZG
+DROO HFKKLIG Z EZIRVGB LU IVGIRVEZO MZERTZGRLM ZMW WRHKOZB LKGRLMH
+MVXVHHZIB GL MZERTZGV VUUVXGREVOB RM EVIB OZITV GVCG WZGZYZHVH
+
+ZM HTNO WLXFNVMG XLMHRHGH LU GVCG GSZG RH NZIPVW FK DRGS WVHXIRKGREV GZTH
+GSZG HKVXRUB GSV UFMXGRLM LU Z TREVM VOVNVMG DRGSRM GSV WLXFNVMG  ZH Z
+ULINZO OZMTFZTV XLMHGIFXG ZM HTNO WLXFNVMG XZM YV KZIHVW ZTZRMHG Z
+WLXFNVMGGBKV WVURMRGRLM WGW GSZG FMZNYRTFLFHOB WVURMVH DSZG VOVNVMGH
+ZIV ZOOLDVW ZMW DSVIV RM GSV WLXFNVMG GSVB XZM LI NFHG LXXFI  GSRH
+ULINZORAVW NZK LU ZIGRXOV HGIFXGFIV ZOOLDH GSV FHVI RMGVIUZXV WVHRTM GL
+YV FMXLFKOVW UILN GSV FMWVIOBRMT WZGZYZHV HBHGVN ZM RNKLIGZMG HGVK
+GLDZIW RMGVILKVIZYRORGB  WVNLMHGIZGRLM LU GSRH HVKZIZYRORGB RH Z KZIG LU
+GSV XLIV KILQVXG DSVIVRM FHVI RMGVIUZXV WVHRTMH YLIM LU EVIB WRUUVIVMG
+KSROLHLKSRVH DROO ZXXVHH GSV HZNV WZGZYZHV
+
+MLGVH
+       GSV XLIV KILQVXG RH Z XLOOZYLIZGRLM ZNLMT XLIMVOO FMREVIHRGBH
+     NZMM ORYIZIB YVOO XLNNFMRXZGRLMH IVHVZIXS YVOOXLIV GSV ZNVIRXZM
+     XSVNRXZO HLXRVGB ZXH GSV XSVNRXZO ZYHGIZXGH HVIERXV XZH ZMW
+     LXOX
+
+NRXSZVO OVHP                  GSV XLIV VOVXGILMRX XSVNRHGIB ORYIZIB
+
+Z NZQLI LMORMV UROV LU XSVNRXZO QLFIMZO ORGVIZGFIV XLNKOVGV DRGS
+TIZKSRXH RH YVRMT WVEVOLKVW GL GVHG GSV FHZYRORGB LU UFOOB VOVXGILMRX
+ZXXVHH GL WLXFNVMGH ZH Z QLRMG KILQVXG LU XLIMVOO FMREVIHRGB GSV
+ZNVIRXZM XSVNRXZO HLXRVGB GSV XSVNRXZO ZYHGIZXGH HVIERXV LXOX ZMW
+YVOOXLIV DRGS ZWWRGRLMZO HFKKLIG UILN HFM NRXILHBHGVNH HKIRMTVIEVIOZT
+WRTRGZR VJFRKNVMG XLIKLIZGRLM HLMB XLIKLIZGRLM LU ZNVIRXZ ZMW ZKKOV
+XLNKFGVIH  LFI UROV XLMGZRMH GSV ZNVIRXZM XSVNRXZO HLXRVGBH LMORMV
+QLFIMZOH HFKKOVNVMGVW DRGS GSV TIZKSRXH UILN GSV KZKVI KFYORXZGRLM  GSV
+RMWVCRMT LU GSV ZIGRXOVH UILN XSVNRXZO ZYHGIZXGH WLXFNVMGH RH ZEZROZYOV
+RM YLGS RNZTV ZMW GVCG ULINZG ZMW HVEVIZO WRUUVIVMG RMGVIUZXVH XZM YV
+FHVW  LFI TLZOH ZIV  GL ZHHVHH GSV VUUVXGREVMVHH ZMW ZXXVKGZYRORGB LU
+VOVXGILMRX ZXXVHH GL KIRNZIB QLFIMZOH ZH XLNKZIVW DRGS KZKVI ZMW  GL
+RWVMGRUB GSV NLHG WVHRIZYOV UFMXGRLMH LU GSV FHVI RMGVIUZXV GL ZM
+VOVXGILMRX HBHGVN LU QLFIMZOH RMXOFWRMT RM KZIGRXFOZI Z XLNKZIRHLM LU
+KZTVRNZTV WRHKOZB DRGS ZHXRR WRHKOZB RMGVIUZXVH  VZIOB VCKVIRNVMGH DRGS
+XSVNRHGIB HGFWVMGH LM Z EZIRVGB LU GZHPH HFTTVHG GSZG HVZIXSRMT GZHPH ZIV
+XLNKOVGVW NFXS UZHGVI DRGS ZMB VOVXGILMRX HBHGVN GSZM DRGS KZKVI YFG
+GSZG ULI IVZWRMT ZOO EVIHRLMH LU GSV ZIGRXOVH ZIV ILFTSOB VJFREZOVMG
+
+KZNVOZ ZMWIV ZMW QFWRGS ARWZI
+
+GVCG XLMEVIHRLM RH UZI NLIV VCKVMHREV ZMW GRNVXLMHFNRMT GSZM RNZTV
+XZKGFIV ZOLMV  MZOH VCKVIRVMXV DRGS LKGRXZO XSZIZXGVI IVXLTMRGRLM LXI
+DROO YV IVOZGVW ZMW XLNKZIVW DRGS GSV VCKVIRVMXV LU SZERMT GVCG IVPVBVW
+DSZG UZXGLIH ZUUVXG LXI ZXXFIZXB?  SLD ZXXFIZGV WLVH UFOO GVCG SZEV GL YV
+RM LIWVI GL YV FHVUFO?  SLD WL WRUUVIVMG FHVIH IVZXG GL RNKVIUVXG GVCG?
+GSVHV ZIV JFVHGRLMH GSZG DROO YV VCKOLIVW  ULI NZMB Z HVIERXV YFIVZF
+NZB YV Z YVGGVI HLOFGRLM GSZM KVIULINRMT GSV DLIP RMSLFHV GSRH DROO ZOHL
+YV WRHXFHHVW
+
+HVHHRLM ER
+
+NZIBYVGS KVGVIH
+
+XLKBIRTSG OZD KILGVXGH XIVZGREV DLIPH  KILGVXGRLM TIZMGVW YB GSV OZD GL
+ZFGSLIH ZMW WRHHVNRMZGLIH LU DLIPH RMXOFWVH GSV IRTSG GL WL LI ZFGSLIRAV
+GSV ULOOLDRMT  IVKILWFXV GSV DLIP KIVKZIV WVIREZGREV DLIPH WRHGIRYFGV
+GSV DLIP GL GSV KFYORX ZMW KFYORXOB KVIULIN LI WRHKOZB GSV DLIP  RM
+ZWWRGRLM XLKBIRTSG LDMVIH LU HLFMW IVXLIWRMTH ZMW XLNKFGVI KILTIZNH SZEV
+GSV IRTSG GL XLMGILO IVMGZO LU GSVRI DLIPH  GSVHV IRTSGH ZIV MLG
+FMORNRGVW GSVIV ZIV Z MFNYVI LU VCXVKGRLMH ZMW ORNRGZGRLMH
+
+ZM VOVXGILMRX VMERILMNVMG KOZXVH HGIZRMH LM GSV XLKBIRTSG HBHGVN
+XLKBIRTSG LDMVIH DZMG GL XLMGILO FHVH LU GSVRI DLIP ZMW YV KZRW ULI ZMB
+FHV GSV KFYORX DZMGH JFRXP ZMW VZHB ZXXVHH ZG ORGGOV LI ML XLHG  GSV
+NZIPVGKOZXV RH DLIPRMT RM GSRH ZIVZ  XLMGIZXGH TFRWVORMVH LM VOVXGILMRX
+FHV ZMW XLOOVXGREV ORXVMHRMT ZIV RM FHV ZMW YVRMT IVURMVW
+
+RHHFVH XLMXVIMRMT GSV ZYRORGB GL XSZMTV DLIPH DRGSLFG WVGVXGRLM ZIV NLIV
+WRUURXFOG GL WVZO DRGS  JFVHGRLMH XLMXVIMRMT GSV RMGVTIRGB LU GSV DLIP
+ZMW GSV HGZGFH LU GSV XSZMTVW EVIHRLM FMWVI GSV XLKBIRTSG OZD ZIV GL YV
+ZWWIVHHVW  GSVHV ZIV KFYORX KLORXB RHHFVH DSRXS IVJFRIV RMULINVW
+WRZOLTFV
+
+
+                                 
+
+
+                ZKKVMWRC RRR  WRIVXGLIB LU KZIGRXRKZMGH
+
+
+KIVHVMGVIH
+
+     KZNVOZ JQ ZMWIV
+     ZHHLXRZGV WRIVXGLI ZFGLNZGRLM
+     MZGRLMZO ZTIRXFOGFIZO ORYIZIB
+      YZOGRNLIV YLFOVEZIW
+     YVOGHEROOV NW 
+     KSLMV   
+     UZC   
+     VNZRO  RMGVIMVG  KZMWIVZHIIZIHFHWZTLE
+
+     QVZM YZILMZH HVMRLI NZMZTVI
+     WVKZIGNVMG LU HGZMWZIWH ZMW GVXSMLOLTB
+     ZHHLXRZGRLM ULI RMULINZGRLM ZMW RNZTV NZMZTVNVMG ZRRN
+      DZBMV ZEVMFV HFRGV 
+     HROEVI HKIRMT NW 
+     KSLMV   
+     UZC   
+
+     KZGIRXRZ YZGGRM KIVHRWVMG
+     GSV XLNNRHHRLM LM KIVHVIEZGRLM ZMW ZXXVHH
+      GS HGIVVG MD
+     HFRGV 
+     DZHSRMTGLM WX 
+     KSLMV   
+     UZC   
+     VNZRO  XKZTDFENYRGMVG
+
+     SLDZIW YVHHVI
+     XVMGIV XZMZWRVM WZIXSRGVXGFIV
+     XZMZWRZM XVMGVI ULI ZIXSRGVXGFIV
+      IFV YZROV
+     NLMGIVZO JFVYVX SS H
+     XZMZWZ
+     KSLMV   
+     UZC   
+     VNZRO  SLDZIWORHKRGGVWF
+
+     VWDRM Y YILDMIRTT VCVXFGREV WRIVXGLI
+     NVNVC IVHVZIXS RMHGRGFGV
+      YLMRGZ ZEVMFV
+     ILHVEROOV XZ 
+     KSLMV   
+     UZC   
+     VNZRO  YRGMVG  NVNVCXZOHGZGV
+
+     VIRX N XZOZOFXZ ERXV KIVHRWVMG
+     XSZWDBXPSVZOVB RMX
+      PRMT HGIVVG
+     ZOVCZMWIRZ EZ O
+     KSLMV   O
+     UZC   
+
+     QZNVH WZOB
+      WVVKDLLW ILZW
+     YZOGRNLIV NW 
+     KSLMV   
+
+     IRXPB VIDZB ZHHLXRZGV XLLIWRMZGLI
+     ZNVIRXZM NVNLIB
+     ORYIZIB LU XLMTIVHH
+     KSLMV   
+     UZC   
+
+     XZIO UOVRHXSSZFVI XLLIWRMZGLI
+     ZNVIRXZM NVNLIB
+     ORYIZIB LU XLMTIVHH
+     KSLMV   
+     UZC   
+
+     QLZMMV UIVVNZM
+      QVUUVIHLM KZIP ZEVMFV ML 
+     XSZIOLGGVHEROOV EZ  
+
+     KILHHVI TRUULIW
+     WRIVXGLI ULI HXSLOZIOB KILTIZNH
+     ORYIZIB LU XLMTIVHH
+     KSLMV   
+     UZC   
+     VNZRO  KTRUHVJOLXTLE
+
+     QZXJFVORMV SVHH WRIVXGLI
+     MZGRLMZO WVNLMHGIZGRLM OZYLIZGLIB
+       ULI RMGVIZXGREV RMULINZGRLM GVXSMLOLTRVH
+     ORYIZIB LU XLMTIVHH
+     KSLMV   
+     UZC   
+
+     HFHZM SLXPVB WRIVXGLI
+     XVMGVI ULI VOVXGILMRX GVCGH RM GSV SFNZMRGRVH XVGS
+     ZOVCZMWVI ORYIZIB
+     IFGTVIH FMREVIHRGB
+      XLOOVTV ZEVMFV
+     MVD YIFMHDRXP MQ 
+     KSLMV   
+     UZC   
+     VNZRO  SLXPVBALWRZXIFGTVIHVWF
+
+     DROORZN O SLLGLM ERXV KIVHRWVMG
+     YFHRMVHH  GVXSMRXZO WVEVOLKNVMG
+       RNZTRMT  RMULINZGRLM HBHGVNH TILFK
+     RMVG
+      ILXPOVWTV WIREV HFRGV 
+     YVGSVHWZ NW O
+     KSLMV   
+     UZC   
+
+     ZMMV I PVMMVB ZHHLXRZGV WRIVXGLI
+     WVKZIGNVMG LU KIVHVIEZGRLM ZMW XLMHVIEZGRLM
+      LORM ORYIZIB
+     XLIMVOO FMREVIHRGB
+     RGSZXZ MB 
+     KSLMV   
+     UZC   
+     VNZRO  OBWBXLIMVOOZYRGMVG
+
+     ILMZOW O OZIHVM
+     ZHHLXRZGV WRIVXGLI ULI RMULINZGRLM GVXSMLOLTB
+     FMREVIHRGB LU NZIBOZMW ZG XLOOVTV KZIP
+     ILLN Y NXPVOWRM ORYIZIB
+     XLOOVTV KZIP NW 
+     KSLMV   
+     UZC   
+     VNZRO  IOZIHVMORYIFNWVWF
+
+     NZIRZ O OVYILM NZMZTRMT VWRGLI
+     GSV LMORMV QLFIMZO LU XFIIVMG XORMRXZO GIRZOH
+     O S HGIVVG MD
+     DZHSRMTGLM WX 
+     KSLMV   
+     UZC   
+     VNZRO  KFYHZZZHTDFENYRGMVG
+
+     NRXSZVO OVHP VCVXFGREV WRIVXGLI
+     XLNKFGVI HXRVMXV IVHVZIXS
+     YVOO XLNNFMRXZGRLMH IVHVZIXS RMX
+     IN Z
+      HLFGS HGIVVG
+     NLIIRHGLDM MQ OO
+     KSLMV   
+     UZC   
+     VNZRO  OVHPYVOOXLIVXLN RMGVIMVG LI YVOOXLIVOVHP FFXK
+
+     XORUULIW Z OBMXS
+     WRIVXGLI ORYIZIB ZFGLNZGRLM
+     FMREVIHRGB LU XZORULIMRZ
+        LUURXV LU GSV KIVHRWVMG
+      OZPVHRWV WIREV GS UOLLI
+     LZPOZMW XZ 
+     KSLMV   
+     UZC   
+     VNZRO  XZOFIFXXNEHZ
+
+     ZEIZ NRXSVOHLM
+     MZGRLMZO ZIXSREVH ZMW IVXLIWH ZWNRMRHGIZGRLM
+     MHA IN M
+     GS  KVMMHBOEZMRZ MD
+     DZHSRMTGLM WX 
+     KSLMV   
+     UZC   
+     VNZRO  GNRXFMRSTLE
+
+     VOOR NBOLMZH NZMZTRMT VWRGLI
+     KVIHVFH KILQVXG
+     WVKZIGNVMG LU GSV XOZHHRXH
+     SZIEZIW FMREVIHRGB
+      YLBOHGLM SZOO
+     XZNYIRWTV NZ 
+     KSLMV      WRIVXG
+     UZC   
+     VNZRO  VOORRPZILHSZIEZIWVWF LI VOORDQSSZIEZIWVWF
+
+     WZERW DLLWOVB KZXPZIW
+     KZXPZIW SFNZMRGRVH RMHGRGFGV
+      HVXLMW HGIVVG HFRGV 
+     OLH ZOGLH XZ 
+     KSLMV    KSR
+     UZC   
+
+     OBMMV P KVIHLMRFH ZHHRHGZMG WRIVXGLI
+     XLIMVOO RMULINZGRLM GVXSMLOLTRVH ULI
+      HXSLOZIOB RMULINZGRLM HLFIXVH
+      LORM ORYIZIB
+     XLIMVOO FMREVIHRGB
+     RGSZXZ MB 
+     KSLMV   
+     UZC   
+     VNZRO  QIMXLIMVOOXYRGMVG
+
+     NZIBYVGS KVGVIH
+     KLORXB KOZMMRMT ZWERHVI GL GSV
+       IVTRHGVI LU XLKBIRTSGH
+     ORYIZIB LU XLMTIVHH
+     LUURXV ON 
+     KSLMV   
+     UZC   
+
+     X NRXSZVO HKVIYVITNXJFVVM
+     VWRGLI GVCG VMXLWRMT RMRGRZGREV
+     XLNKFGVI XVMGVI NX 
+     FMREVIHRGB LU ROORMLRH ZG XSRXZTL
+     YLC 
+     XSRXZTL RO 
+     KSLMV   
+     UZC   
+     VNZRO  FFRXENXXFRXVWF LI FFRXENYRGMVG
+
+     TVLITV I GSLNZ XSRVU
+     XLNNFMRXZGRLMH VMTRMVVIRMT YIZMXS
+     MZGRLMZO ORYIZIB LU NVWRXRMV
+      ILXPEROOV KRPV
+     YVGSVHWZ NW 
+     KSLMV   
+     UZC   
+     VNZRO  GSLNZOSXMONMRSTLE
+
+     WLILGSB GDLSRT VWRGLI
+     GSV KZKVIH LU TVLITV DZHSRMTGLM
+      ZOWVINZM ORYIZIB
+     FMREVIHRGB LU ERITRMRZ
+     XSZIOLGGVHEROOV EZ 
+     KSLMV   
+     UZC   
+
+     HFHZM S EVXXRZ GVZN OVZWVI
+     ZNVIRXZM NVNLIB FHVI VEZOFZGRLM
+     ORYIZIB LU XLMTIVHH
+     ZNVIRXZM NVNLIB VEZOFZGRLM KILQVXG
+     KSLMV   
+     UZC   
+     VNZRO  HEVXHVJOLXTLE
+
+     WLMZOW Q DZGVIH SVZW
+     HBHGVNH LUURXV
+     BZOV FMREVIHRGB ORYIZIB
+     MVD SZEVM XG 
+     KSLMV   
+     UZC   
+     VNZRO  WDZGVIHBZOVENYRGMVG LI WDZGVIHBZOVENBXXBZOVVWF
+
+     HGFZIG DVRYVO HVMRLI IVHVZIXS HXRVMGRHG
+     LXOX
+      UIZMGA ILZW
+     WFYORM LS 
+     KSLMV   O
+     UZC   
+     VNZRO  RMGVIMVG  HGFIHXSLXOXLIT
+
+     ILYVIG T ARXS
+     HKVXRZO ZHHRHGZMG GL GSV ZHHLXRZGV ORYIZIRZM
+       ULI HKVXRZO KILQVXGH
+     ORYIZIB LU XLMTIVHH
+     KSLMV   
+     UZC   
+     VNZRO  IARXHVJOLXTLE
+
+     QFWRGS Z ARWZI XLLIWRMZGLI
+     MZGRLMZO ZTIRXFOGFIZO GVCG WRTRGRARMT KILTIZN
+     RMULINZGRLM HBHGVNH WRERHRLM
+     MZGRLMZO ZTIRXFOGFIZO ORYIZIB
+      YZOGRNLIV YLFOVEZIW
+     YVOGHEROOV NW 
+     KSLMV    LI 
+     UZC   
+     VNZRO  RMGVIMVG  QARWZIZHIIZIHFHWZTLE
+
+
+LYHVIEVIH
+
+     SVOVM ZTFVIZ KILTIZN LUURXVI
+     WRERHRLM LU IVHVZIXS
+     ILLN 
+     MZGRLMZO VMWLDNVMG ULI GSV SFNZMRGRVH
+      KVMMHBOEZMRZ ZEVMFV MD
+     DZHSRMTGLM WX 
+     KSLMV   
+     UZC   
+
+     N VOOBM YOZMGLM WVKFGB WRIVXGLI
+     MZGRLMZO WVNLMHGIZGRLM OZYLIZGLIB

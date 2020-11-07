@@ -1,0 +1,10 @@
+    tweeds, herring, processed shellfish, meat
+  partners:
+    UK
+Imports:
+    $NA
+  commodities:
+    timber, fertilizers, fish
+  partners:
+    UK
+External debt:

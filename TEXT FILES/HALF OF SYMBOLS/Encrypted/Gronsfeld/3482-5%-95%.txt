@@ -1,0 +1,17 @@
+keyboard the tagged text rather than just keyboard the text in the
+cheapest process.  In other words, since one intends to publish things
+and will need to build tagged text into a typography system in any case,
+if one does that in such a way that it can drive not only typography but
+an electronic system which is what ACS intends to domove to SGML
+publishing, the marginal cost is zero.  The marginal cost represents the
+cost of building tagged text into the database, which is small.
+
+                                 
+
+
+SPERBERGMcQUEEN  Distinction between texts and computers  Implications
+of recognizing that all representation is encoding  Dealing with
+complicated representations of text entails the need for a grammar of
+documents  Variety of forms of formal grammars  Text as a bitmapped
+image does not represent a serious attempt to represent text in
+electronic form  SGMT, YPG TNQ, HRHYTNVYBAPN LIFQEYJBNWPS, JVH WMI

@@ -1,0 +1,20 @@
+additional features, including (1) that the project's primary
+intellectual product consists in the electronic transcription of the
+material; (2) that the text transmitted to the CD-ROM people is not
+marked up; (3) that cataloging and subject-indexing of the material
+remain to be worked out (though at this point material can be retrieved
+by name); and (4) that because all the searching is done in the hardware,
+the IBYCUS is designed to read a CD-ROM which contains only sequential
+text files.  Technically, it then becomes very easy to read the material
+off and put it on another device.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LEBRON * Overview of the history of the joint project between AAAS and
+OCLC * Several practices the on-line environment shares with traditional
+publishing on hard copy * Several technical and behavioral barriers to
+electronic publishing * How AAAS and OCLC arrived at the subject of
+clinical trials * Advantages of the electronic format and other features
+of OJCCT * An illustrated tour of the journal *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

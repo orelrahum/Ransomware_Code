@@ -1,0 +1,292 @@
+but is not enough to do it for full text that is make full texts
+interoperable
+
+WEIBEL next outlined the critical role of SGML for a variety of purposes
+for example as noted by HOCKEY in the world of extremely large
+databases using highly structured data to perform field searches
+WEIBEL argued that by building the structure of the data in ie the
+structure of the data originally on a printed page it becomes easy to
+look at a journal article even if one cannot read the characters and know
+where the title or author is or what the sections of that document would be
+OCLC wants to make that structure explicit in the database because it will
+be important for retrieval purposes
+
+The second big advantage of SGML is that it gives one the ability to
+build structure into the database that can be used for display purposes
+without contaminating the data with instructions about how to format
+things  The distinction lies between procedural markup which tells one
+where to put dots on the page and descriptive markup which describes
+the elements of a document
+
+WEIBEL believes that there should be no procedural markup in the data at
+all that the data should be completely unsullied by information about
+italics or boldness  That should be left up to the display device
+whether that display device is a page printer or a screen display device
+By keeping ones database free of that kind of contamination one can
+make decisions down the road for example reorganize the data in ways
+that are not cramped by builtin notions of what should be italic and
+what should be bold  WEIBEL strongly advocated descriptive markup  As
+an example he illustrated the index structure in the CORE data  With
+subsequent illustrated examples of markup WEIBEL acknowledged the common
+complaint that SGML is hard to read in its native form although markup
+decreases considerably once one gets into the body  Without the markup
+however one would not have the structure in the data  One can pass
+markup through a LaTeX processor and convert it relatively easily to a
+printed version of the document
+
+WEIBEL next illustrated an extremely cluttered screen dump of OCLCs
+system in order to show as much as possible the inherent capability on
+the screen  He noted parenthetically that he had become a supporter of
+XWindows as a result of the progress of the CORE Project  WEIBEL also
+illustrated the two major parts of the interface  l a control box that
+allows one to generate lists of items which resembles a small table of
+contents based on key words one wishes to search and  a document
+viewer which is a separate process in and of itself  He demonstrated
+how to follow links through the electronic database simply by selecting
+the appropriate button and bringing them up  He also noted problems that
+remain to be accommodated in the interface eg as pointed out by LESK
+what happens when users do not click on the icon for the figure
+
+Given the constraints of time WEIBEL omitted a large number of ancillary
+items in order to say a few words concerning storage requirements and
+what will be required to put a lot of things on line  Since it is
+extremely expensive to reconvert all of this data especially if it is
+just in paper form and even if it is in electronic form in typesetting
+tapes he advocated building journals electronically from the start  In
+that case if one only has text graphics and indexing which is all that
+one needs with de novo electronic publishing because there is no need to
+go back and look at bitmaps of pages one can get  journals of
+full text or almost  million pages per year  These pages can be put in
+approximately  gigabytes of storage which is not all that much
+WEIBEL said  For twenty years something less than three terabytes would
+be required  WEIBEL calculated the costs of storing this information as
+follows  If a gigabyte costs approximately  then a terabyte costs
+approximately  million to buy in terms of hardware  One also needs a
+building to put it in and a staff like OCLC to handle that information
+So to support a terabyte multiply by five which gives  million per
+year for a supported terabyte of data
+
+                                 
+
+
+DISCUSSION  Tapes saved by ACS are the typography files originally
+supporting publication of the journal  Cost of building tagged text into
+the database 
+
+
+During the questionandanswer period that followed WEIBELs
+presentation these clarifications emerged  The tapes saved by the
+American Chemical Society are the typography files that originally
+supported the publication of the journal  Although they are not tagged
+in SGML they are tagged in very fine detail  Every single sentence is
+marked all the registry numbers all the publications issues dates and
+volumes  No cost figures on tagging material on a permegabyte basis
+were available  Because ACSs typesetting system runs from tagged text
+there is no extra cost per article  It was unknown what it costs ACS to
+keyboard the tagged text rather than just keyboard the text in the
+cheapest process  In other words since one intends to publish things
+and will need to build tagged text into a typography system in any case
+if one does that in such a way that it can drive not only typography but
+an electronic system which is what ACS intends to domove to SGML
+publishing the marginal cost is zero  The marginal cost represents the
+cost of building tagged text into the database which is small
+
+                                 
+
+
+SPERBERGMcQUEEN  Distinction between texts and computers  Implications
+of recognizing that all representation is encoding  Dealing with
+complicated representations of text entails the need for a grammar of
+documents  Variety of forms of formal grammars  Text as a bitmapped
+image does not represent a serious attempt to represent text in
+electronic form  SGML the TEI documenttype declarations and the
+reusability and longevity of data  TEI conformance explicitly allows
+extension or modification of the TEI tag set  Administrative background
+of the TEI  Several design goals for the TEI tag set  An absolutely
+fixed requirement of the TEI Guidelines  Challenges the TEI has
+attempted to face  Good texts not beyond economic feasibility  The
+issue of reproducibility or processability  The issue of mages as
+simulacra for the text redux  Ones model of text determines what ones
+software can do with a text and has economic consequences 
+
+
+Prior to speaking about SGML and markup Michael SPERBERGMcQUEEN editor
+Text Encoding Initiative TEI University of IllinoisChicago first drew
+a distinction between texts and computers  Texts are abstract cultural
+and linguistic objects while computers are complicated physical devices
+he said  Abstract objects cannot be placed inside physical devices with
+computers one can only represent text and act upon those representations
+
+The recognition that all representation is encoding SPERBERGMcQUEEN
+argued leads to the recognition of two things   The topic description
+for this session is slightly misleading because there can be no discussion
+of pros and cons of textcoding unless what one means is pros and cons of
+working with text with computers   No text can be represented in a
+computer without some sort of encoding images are one way of encoding text
+ASCII is another SGML yet another  There is no encoding without some
+information loss that is there is no perfect reproduction of a text that
+allows one to do away with the original  Thus the question becomes
+What is the most useful representation of text for a serious work?
+This depends on what kind of serious work one is talking about
+
+The projects demonstrated the previous day all involved highly complex
+information and fairly complex manipulation of the textual material
+In order to use that complicated information one has to calculate it
+slowly or manually and store the result  It needs to be stored therefore
+as part of ones representation of the text  Thus one needs to store the
+structure in the text  To deal with complicated representations of text
+one needs somehow to control the complexity of the representation of a text
+that means one needs a way of finding out whether a document and an
+electronic representation of a document is legal or not and that
+means one needs a grammar of documents
+
+SPERBERGMcQUEEN discussed the variety of forms of formal grammars
+implicit and explicit as applied to text and their capabilities  He
+argued that these grammars correspond to different models of text that
+different developers have  For example one implicit model of the text
+is that there is no internal structure but just one thing after another
+a few characters and then perhaps a starttitle command and then a few
+more characters and an endtitle command  SPERBERGMcQUEEN also
+distinguished several kinds of text that have a sort of hierarchical
+structure that is not very well defined which typically corresponds
+to grammars that are not very well defined as well as hierarchies that
+are very well defined eg the Thesaurus Linguae Graecae and extremely
+complicated things such as SGML which handle strictly hierarchical data
+very nicely
+
+SPERBERGMcQUEEN conceded that one other model not illustrated on his two
+displays was the model of text as a bitmapped image an image of a page
+and confessed to having been converted to a limited extent by the
+Workshop to the view that electronic images constitute a promising
+probably superior alternative to microfilming  But he was not convinced
+that electronic images represent a serious attempt to represent text in
+electronic form  Many of their problems stem from the fact that they are
+not direct attempts to represent the text but attempts to represent the
+page thus making them representations of representations
+
+In this situation of increasingly complicated textual information and the
+need to control that complexity in a useful way which begs the question
+of the need for good textual grammars one has the introduction of SGML
+With SGML one can develop specific documenttype declarations
+for specific text types or as with the TEI attempts to generate
+general documenttype declarations that can handle all sorts of text
+The TEI is an attempt to develop formats for text representation that
+will ensure the kind of reusability and longevity of data discussed earlier
+It offers a way to stay alive in the state of permanent technological
+revolution
+
+It has been a continuing challenge in the TEI to create document grammars
+that do some work in controlling the complexity of the textual object but
+also allowing one to represent the real text that one will find
+Fundamental to the notion of the TEI is that TEI conformance allows one
+the ability to extend or modify the TEI tag set so that it fits the text
+that one is attempting to represent
+
+SPERBERGMcQUEEN next outlined the administrative background of the TEI
+The TEI is an international project to develop and disseminate guidelines
+for the encoding and interchange of machinereadable text  It is
+sponsored by the Association for Computers in the Humanities the
+Association for Computational Linguistics and the Association for
+Literary and Linguistic Computing  Representatives of numerous other
+professional societies sit on its advisory board  The TEI has a number
+of affiliated projects that have provided assistance by testing drafts of
+the guidelines
+
+Among the design goals for the TEI tag set the scheme first of all must
+meet the needs of research because the TEI came out of the research
+community which did not feel adequately served by existing tag sets
+The tag set must be extensive as well as compatible with existing and
+emerging standards  In  version  of the Guidelines was released
+SPERBERGMcQUEEN illustrated their contents
+
+SPERBERGMcQUEEN noted that one problem besetting electronic text has
+been the lack of adequate internal or external documentation for many
+existing electronic texts  The TEI guidelines as currently formulated
+contain few fixed requirements but one of them is this  There must
+always be a document header an infile SGML tag that provides
+ a bibliographic description of the electronic object one is talking
+about that is who included it when what for and under which title
+and  the copy text from which it was derived if any  If there was
+no copy text or if the copy text is unknown then one states as much
+Version  of the Guidelines was scheduled to be completed in fall 
+and a revised third version is to be presented to the TEI advisory board
+for its endorsement this coming winter  The TEI itself exists to provide
+a markup language not a markedup text
+
+Among the challenges the TEI has attempted to face is the need for a
+markup language that will work for existing projects that is handle the
+level of markup that people are using now to tag only chapter section
+and paragraph divisions and not much else  At the same time such a
+language also will be able to scale up gracefully to handlV GSV SRTSOB
+WVGZROVW NZIPFK DSRXS NZMB KVLKOV ULIVHVV ZH GSV UFGFIV WVHGRMZGRLM LU
+NFXS VOVXGILMRX GVCG ZMW DSRXS RH MLG GSV UFGFIV WVHGRMZGRLM YFG GSV
+KIVHVMG SLNV LU MFNVILFH VOVXGILMRX GVCGH RM HKVXRZORAVW ZIVZH
+
+HKVIYVITNXJFVVM WRHNRHHVW GSV OLDVHGXLNNLMWVMLNRMZGLI ZKKILZXS ZH
+FMZYOV GL HFKKLIG GSV PRMW LU ZKKORXZGRLMH GSZG WIZD KVLKOV DSL SZEV
+MVEVI YVVM RM GSV KFYORX ORYIZIB IVTFOZIOB YVULIV ZMW NZPV GSVN XLNV
+YZXP  SV ZWELXZGVW NLIV RMGVIVHGRMT GVCG ZMW NLIV RMGVOORTVMG GVCG
+ZHHVIGRMT GSZG RG RH MLG YVBLMW VXLMLNRX UVZHRYRORGB GL SZEV TLLW GVCGH
+HKVIYVITNXJFVVM MLGVW GSZG GSV GVR TFRWVORMVH ORHGRMT LWW GZTH
+XLMGZRMH GZTH GSZG LMV RH VCKVXGVW GL VMGVI VEVIB GRNV GSV IVOVEZMG
+GVCGFZO UVZGFIV LXXFIH  RG XLMGZRMH ZOO GSV GZTH GSZG KVLKOV MVVW MLD
+ZMW RG RH MLG VCKVXGVW GSZG VEVIBLMV DROO GZT GSRMTH RM GSV HZNV DZB
+
+GSV JFVHGRLM LU SLD KVLKOV DROO GZT GSV GVCG RH RM OZITV KZIG Z UFMXGRLM
+LU GSVRI IVZXGRLM GL DSZG HKVIYVITNXJFVVM GVINVW GSV RHHFV LU
+IVKILWFXRYRORGB  DSZG LMV MVVWH GL YV ZYOV GL IVKILWFXV ZIV GSV GSRMTH
+LMV DZMGH GL DLIP DRGS  KVISZKH Z NLIV FHVUFO XLMXVKG GSZM GSZG LU
+IVKILWFXRYRORGB LI IVXLEVIZYRORGB RH GSZG LU KILXVHHZYRORGB GSZG RH
+DSZG XZM LMV TVG UILN ZM VOVXGILMRX GVCG DRGSLFG IVZWRMT RG ZTZRM
+RM GSV LIRTRMZO  SV ROOFHGIZGVW GSRH XLMGVMGRLM DRGS Z KZTV UILN
+QZM XLNVMRFHH YRORMTFZO RMGILWFXGRLM GL OZGRM
+
+HKVIYVITNXJFVVM IVGFIMVW ZG OVMTGS GL GSV RHHFV LU RNZTVH ZH HRNFOZXIZ
+ULI GSV GVCG RM LIWVI GL IVRGVIZGV SRH YVORVU GSZG RM GSV OLMT IFM NLIV
+GSZM RNZTVH LU KZTVH LU KZIGRXFOZI VWRGRLMH LU GSV GVCG ZIV MVVWVW
+YVXZFHV QFHG ZH HVXLMWTVMVIZGRLM KSLGLXLKRVH ZMW HVXLMWTVMVIZGRLM
+NRXILURON WVTVMVIZGV HL HVXLMWTVMVIZGRLM IVKIVHVMGZGRLMH GVMW GL
+WVTVMVIZGV ZMW LMV GVMWH GL LEVIHGIVHH HLNV IVOZGREVOB GIRERZO ZHKVXGH
+LU GSV GVCG HFXS ZH RGH OZBLFG LM GSV KZTV DSRXS RH MLG ZODZBH
+HRTMRURXZMG WVHKRGV DSZG GSV GVCG XIRGRXH NRTSG HZB ZMW HORTSG LGSVI
+KRVXVH LU RMULINZGRLM HFXS ZH GSV EVIB RNKLIGZMG OVCRXZO GRVH YVGDVVM GSV
+VMTORHS ZMW OZGRM EVIHRLMH LU XLNVMRFHH YRORMTFZO GVCG ULI VCZNKOV
+NLIVLEVI RM NZMB XIFXRZO IVHKVXGH RG RH VZHB GL ULLO LMVHVOU XLMXVIMRMT
+DSZG Z HXZMMVW RNZTV LU GSV GVCG DROO ZXXLNKORHS  ULI VCZNKOV RM LIWVI
+GL HGFWB GSV GIZMHNRHHRLM LU GVCGH RMULINZGRLM XLMXVIMRMT GSV GVCG
+XZIIRVI RH MVXVHHZIB DSRXS HXZMMVW RNZTVH HRNKOB WL MLG ZODZBH SZMWOV
+UFIGSVI VEVM GSV SRTSJFZORGB NZGVIRZOH YVRMT KILWFXVW ZG XLIMVOO FHV
+NFXS LU GSV RMULINZGRLM GSZG LMV DLFOW MVVW RU HGFWBRMT GSLHV YLLPH ZH
+KSBHRXZO LYQVXGH  RG RH Z XSLRXV GSZG SZH YVVM NZWV  RG RH ZM ZITFZYOB
+QFHGRURZYOV XSLRXV YFG LMV WLVH MLG PMLD DSZG XLOLI GSLHV KVM HGILPVH RM
+GSV NZITRM ZIV LI DSVGSVI GSVIV DZH Z HGZRM LM GSV KZTV YVXZFHV RG SZH
+YVVM UROGVIVW LFG  LMV WLVH MLG PMLD DSVGSVI GSVIV DVIV IRKH RM GSV KZTV
+YVXZFHV GSVB WL MLG HSLD FK ZMW LM Z XLFKOV LU GSV NZITRMZO NZIPH LMV
+OLHVH SZOU LU GSV NZIP YVXZFHV GSV KVM RH EVIB ORTSG ZMW GSV HXZMMVI
+UZROVW GL KRXP RG FK ZMW HL DSZG RH XOVZIOB Z XSVXPNZIP RM GSV NZITRM LU
+GSV LIRTRMZO YVXLNVH Z ORGGOV HXLLK RM GSV NZITRM LU GSV UZXHRNROV
+HGZMWZIW KILYOVNH ULI UZXHRNROV VWRGRLMH MLG MVD GL VOVXGILMRXH YFG
+ZOHL GIFV LU ORTSGOVMH KSLGLTIZKSB ZMW ZIV IVNZIPVW SVIV YVXZFHV RG RH
+RNKLIGZMG GSZG DV MLG ULLO LFIHVOEVH GSZG VEVM RU DV KILWFXV Z EVIB MRXV
+RNZTV LU GSRH KZTV DRGS TLLW XLMGIZHG DV ZIV MLG IVKOZXRMT GSV
+NZMFHXIRKG ZMB NLIV GSZM NRXILURON SZH IVKOZXVW GSV NZMFHXIRKG
+
+GSV GVR XLNVH UILN GSV IVHVZIXS XLNNFMRGB DSVIV RGH URIHG ZOOVTRZMXV
+ORVH YFG RG RH MLG QFHG ZM ZXZWVNRX VCVIXRHV  RG SZH IVOVEZMXV UZI
+YVBLMW GSLHV DSL HKVMW ZOO LU GSVRI GRNV HGFWBRMT GVCG YVXZFHV LMVH
+NLWVO LU GVCG WVGVINRMVH DSZG LMVH HLUGDZIV XZM WL DRGS Z GVCG  TLLW
+NLWVOH OVZW GL TLLW HLUGDZIV  YZW NLWVOH OVZW GL YZW HLUGDZIV  GSZG SZH
+VXLMLNRX XLMHVJFVMXVH ZMW RG RH GSVHV VXLMLNRX XLMHVJFVMXVH GSZG SZEV
+OVW GSV VFILKVZM XLNNFMRGB GL SVOK HFKKLIG GSV GVR ZMW GSZG DROO OVZW
+HKVIYVITNXJFVVM SLKVW HLNV HLUGDZIV EVMWLIH GL IVZORAV GSZG RU GSVB
+KILERWV HLUGDZIV DRGS Z YVGGVI NLWVO LU GSV GVCG GSVB XZM NZPV Z PROORMT
+
+                                 
+
+
+WRHXFHHRLM  RNKORXZGRLMH LU WRUUVIVMG WGWH ZMW GZT HVGH  LWZ EVIHFH HTNO 
+
+
+WFIRMT GSV WRHXFHHRLM GSZG ULOOLDVW HVEVIZO ZWWRGRLMZO KLRMGH DVIV NZWV
+MVRGSVI ZZK RV ZHHLXRZGRLM LU ZNVIRXZM KFYORHSVIH MLI XZOH RV
+XLNKFGVIZRWVW ZXJFRHRGRLM ZMW OLTRHGRXH HFKKLIG SZH Z WLXFNVMGGBKV

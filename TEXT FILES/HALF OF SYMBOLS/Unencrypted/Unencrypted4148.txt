@@ -1,0 +1,9 @@
+    hydropower, mineral water, timber, iron ore, lead
+Land use:
+    arable land 2 permanent crops 0 meadows and pastures 56 forest and
+    woodland 22 other 20
+Environment:
+    deforestation, overgrazing
+Note:
+    landlocked
+

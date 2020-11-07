@@ -1,0 +1,24 @@
+  partners:
+    UK
+Imports:
+    $NA
+  commodities:
+    machinery and transport equipment, manufactured goods, foodstuffs, mineral
+    fuels, chemicals
+  partners:
+    UK
+External debt:
+    $NA
+Industrial production:
+    growth rate NA%
+Electricity:
+    50,000 kW standby capacity (1990); power supplied by France
+Industries:
+    tourism, banking and finance, dairy
+Agriculture:
+    potatoes, cauliflowers, tomatoes; dairy and cattle farming
+EconoUMD KUW:
+    WURA
+NMWSARWQ:
+    HKEPQK ZHNAR (GFNNES - FIOWRV); 1 HSEPSE ZIOWR (#H) = 100 GARRQ
+YSRMLAPK NEPQB:

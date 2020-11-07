@@ -1,0 +1,19 @@
+which in turn will be the gateway ports to the 38.4 kilobyte radios that
+will give coverage for the neighborhoods surrounding the libraries.
+
+BROWNRIGG next explained Part 15.247, a new rule within Title 47 of the
+Code of Federal Regulations enacted by the FCC in 1985.  This rule
+challenged the industry, which has only now risen to the occasion, to
+build a radio that would run at no more than one watt of output power and
+use a fairly exotic method of modulating the radio wave called spread
+spectrum.  Spread spectrum in fact permits the building of networks so
+that numerous data communications can occur simultaneously, without
+interfering with each other, within the same wide radio channel.
+
+BROWNRIGG explained that the frequencies at which the radios would run
+are very short wave signals.  They are well above standard microwave and
+radar.  With a radio wave that small, one watt becomes a tremendous punch
+per bit and thus makes transmission at reasonable speed possible.  In
+order to minimize the potential for congestion, the project is
+undertaking to reimplement software which has been available in the
+networking business and is taken for granted now, for example, TCPIP,

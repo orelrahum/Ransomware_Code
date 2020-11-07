@@ -1,0 +1,170 @@
+library but as a place that generates preserves and improves for its
+clients ready access to both intellectual and physical recorded
+knowledge  Electronic tools must find a place in the library in the
+context of this vision  Several roles for electronic tools include
+serving as  indirect sources of electronic knowledge or as "finding"
+aids the online catalogues the articlelevel indices registers for
+documents and archives direct sources of recorded knowledge fulltext
+images and various kinds of compound sources of recorded knowledge the
+socalled compound documents of Hypertext mixed text and image
+mixedtext image format and multimedia
+
+POB is looking particularly at images and an image library the uses to
+which images will be put eg storage printing browsing and then use
+as input for other processes OCR as a subsequent process to image
+capture or creating an image library and also possibly generating
+microfilm
+
+While input will come from a variety of sources POB is considering
+especially input from preservation microfilm  A possible outcome is that
+the film and paper which provide the input for the image library
+eventually may go off into remote storage and that the image library may
+be the primary access tool
+
+The purpose and scope of POB focus on imaging  Though related to CXP
+POB has two features which distinguish it   scaleconversion of
+ volumes into digital image form and  sourceconversion from
+microfilm  Given these features several key working hypotheses guide
+POB including   Since POB is using microfilm it is not concerned with
+the image library as a preservation medium   Digital imagery can improve
+access to recorded knowledge through printing and network distribution at
+a modest incremental cost of microfilm   Capturing and storing documents
+in a digital image form is necessary to further improvements in access
+POB distinguishes between the imaging digitizing process and OCR
+which at this stage it does not plan to perform
+
+Currently in its first or organizational phase POB found that it could
+use a vendor selection process to facilitate a good deal of the
+organizational work eg creating a project team and advisory board
+confirming the validity of the plan establishing the cost of the project
+and a budget selecting the materials to convert and then raising the
+necessary funds
+
+POB developed numerous selection criteria including  a firm committed
+to imagedocument management the ability to serve as systems integrator
+in a largescale project over several years interest in developing the
+requisite software as a standard rather than a custom product and a
+willingness to invest substantial resources in the project itself
+
+Two vendors DEC and Xerox were selected as finalists in October 
+and with the support of the Commission on Preservation and Access each
+was commissioned to generate a detailed requirements analysis for the
+project and then to submit a formal proposal for the completion of the
+project which included a budget and costs The terms were that POB would
+pay the loser  The results for Yale of involving a vendor included
+broad involvement of Yale staff across the board at a relatively low
+cost which may have longterm significance in carrying out the project
+twentyfive to thirty university people are engaged in POB better
+understanding of the factors that affect corporate response to markets
+for imaging products a competitive proposal and a more sophisticated
+view of the imaging markets
+
+The most important factor that distinguished the vendors under
+consideration was their identification with the customer  The size and
+internal complexity of the company also was an important factor  POB was
+looking at large companies that had substantial resources  In the end
+the process generated for Yale two competitivV KILKLHZOH DRGS CVILCH
+GSV XOVZI DRMMVI  DZGVIH GSVM WVHXIRYVW GSV XLNKLMVMGH LU GSV KILKLHZO
+GSV WVHRTM KIRMXRKOVH ZMW HLNV LU GSV XLHGH VHGRNZGVW ULI GSV KILXVHH
+
+XLNKLMVMGH ZIV VHHVMGRZOOB ULFI  Z XLMEVIHRLM HFYHBHGVN Z
+MVGDLIPZXXVHHRYOV HGLIZTV HFYHBHGVN ULI  YLLPH ZMW KLY VCKVXGH
+ GL  WKR HGLIZTV YILDHRMT HGZGRLMH WRHGIRYFGVW LM GSV XZNKFH
+MVGDLIP ZMW MVGDLIP ZXXVHH GL GSV RNZTV KIRMGVIH
+
+ZNLMT GSV WVHRTM KIRMXRKOVH KLY DZMGVW XLMEVIHRLM ZG GSV SRTSVHG
+KLHHRYOV IVHLOFGRLM  ZHHFNRMT GRUU UROVH GRUU UROVH DRGS TILFK 
+XLNKIVHHRLM GXKRK ZMW VGSVIMVG MVGDLIP LM XZNKFH KLY DZMGVW Z
+XORVMGHVIEVI ZKKILZXS DRGS RNZTV WLXFNVMGH WRHGIRYFGVW GL GSV
+DLIPHGZGRLMH ZMW NZWV ZXXVHHRYOV GSILFTS MZGREV DLIPHGZGRLM RMGVIUZXVH
+HFXS ZH DRMWLDH  KLY ZOHL RMHRHGVW LM Z KSZHVW ZKKILZXS GL
+RNKOVNVMGZGRLM   Z HGZMWZOLMV HRMTOVFHVI OLDXLHG VMGIB RMGL GSV
+YFHRMVHH DRGS Z DLIPHGZGRLM ULXFHVW LM XLMEVIHRLM ZMW ZOOLDRMT KLY GL
+VCKOLIV FHVI ZXXVHH  NLEVNVMG RMGL Z SRTSVIELOFNV XLMEVIHRLM DRGS
+MVGDLIPZXXVHHRYOV HGLIZTV ZMW NFOGRKOV ZXXVHH HGZGRLMH ZMW  Z
+SRTSELOFNV XLMEVIHRLM UFOOXZKZXRGB HGLIZTV ZMW NFOGRKOV YILDHRMT
+HGZGRLMH WRHGIRYFGVW GSILFTSLFG GSV XZNKFH
+
+GSV XLHGH KILKLHVW ULI HGZIGFK ZHHFNVW GSV VCRHGVMXV LU GSV BZOV MVGDLIP
+ZMW RGH GDL WLXFGVXS RNZTV KIRMGVIH  LGSVI HGZIGFK XLHGH ZIV VHGRNZGVW
+ZG  NROORLM LEVI GSV GSIVV KSZHVH  ZG GSV VMW LU GSV KILQVXG GSV ZMMFZO
+LKVIZGRMT XLHGH VHGRNZGVW KIRNZIROB ULI GSV HLUGDZIV ZMW SZIWDZIV KILKLHVW
+XLNV GL ZYLFG  YFG GSVHV VCXOFWV XLHGH ULI OZYLI MVVWVW RM GSV
+XLMEVIHRLM KILXVHH MVGDLIP ZMW KIRMGVI FHZTV ZMW UZXRORGRVH NZMZTVNVMG
+
+URMZOOB GSV HVOVXGRLM KILXVHH KILWFXVW ULI BZOV Z NLIV HLKSRHGRXZGVW
+ERVD LU GSV RNZTRMT NZIPVGH  GSV NZMZTVNVMG LU XLNKOVC WLXFNVMGH RM
+RNZTV ULIN RH MLG Z KIVHVIEZGRLM KILYOVN MLG Z ORYIZIB KILYOVN YFG Z
+TVMVIZO KILYOVN RM Z YILZW TVMVIZO RMWFHGIB  KIVHVIEZGRLM NZGVIRZOH ZIV
+FHVUFO ULI WVEVOLKRMT GSZG NZIPVG YVXZFHV LU GSV JFZORGRVH LU GSV
+NZGVIRZO  ULI VCZNKOV NFXS LU RG RH LFG LU XLKBIRTSG  GSV IVHLOFGRLM
+LU PVB RHHFVH HFXS ZH GSV JFZORGB LU HXZMMRMT ZMW RNZTV YILDHRMT ZOHL
+DROO ZUUVXG WVEVOLKNVMG LU GSZG NZIPVG
+
+GSV GVXSMLOLTB RH IVZWROB ZEZROZYOV YFG XSZMTRMT IZKRWOB  RM GSRH
+XLMGVCG LU IZKRW XSZMTV HVEVIZO UZXGLIH ZUUVXG JFZORGB ZMW XLHG GL
+DSRXS KLY RMGVMWH GL KZB KZIGRXFOZI ZGGVMGRLM ULI VCZNKOV GSV EZIRLFH
+OVEVOH LU IVHLOFGRLM GSZG XZM YV ZXSRVEVW  KLY YVORVEVH RG XZM YIRMT
+IVHLOFGRLM FK GL  WKR YFG ZM RMGVIKLOZGRLM KILXVHH UILN  GL  RH
+NLIV ORPVOB  GSV EZIRZGRLM JFZORGB RM NRXILURON DROO KILEV GL YV Z
+SRTSOB RNKLIGZMG UZXGLI  KLY NZB IVVCZNRMV GSV HGZMWZIWH FHVW GL URON RM
+GSV URIHG KOZXV YB OLLPRMT ZG GSRH KILXVHH ZH Z ULOOLDLM GL NRXILURONRMT
+
+LGSVI RNKLIGZMG UZXGLIH RMXOFWV  GSV GVXSMRJFVH ZEZROZYOV GL GSV
+LKVIZGLI ULI SZMWORMT NZGVIRZO GSV DZBH LU RMGVTIZGRMT JFZORGB XLMGILO
+RMGL GSV WRTRGRARMT DLIP UOLD ZMW Z DLIP UOLD GSZG RMXOFWVH RMWVCRMT ZMW
+HGLIZTV  KLYH IVJFRIVNVMG DZH GL YV ZYOV GL WVZO DRGS JFZORGB XLMGILO
+ZG GSV KLRMG LU HXZMMRMT  GSFH GSZMPH GL CVILC KLY ZMGRXRKZGVH SZERMT
+Z NVXSZMRHN DSRXS DROO ZOOLD RG MLG LMOB GL HXZM RM YZGXS ULIN YFG GL
+IVERVD GSV NZGVIRZO ZH RG TLVH GSILFTS GSV HXZMMVI ZMW XLMGILO JFZORGB
+UILN GSV LFGHVG
+
+GSV HGZMWZIWH ULI NVZHFIRMT JFZORGB ZMW XLHGH WVKVMW TIVZGOB LM GSV FHVH
+LU GSV NZGVIRZO RMXOFWRMT HFYHVJFVMG LXI HGLIZTV KIRMGRMT ZMW
+YILDHRMT  YFG VHKVXRZOOB ZG RHHFV ULI KLY RH GSV UZXRORGB ULI YILDHRMT
+GSRH UZXRORGB DZGVIH HZRW RH KVISZKH GSV DVZPVHG ZHKVXG LU RNZTRMT
+GVXSMLOLTB ZMW GSV NLHG RM MVVW LU WVEVOLKNVMG
+
+Z EZIRVGB LU UZXGLIH ZUUVXG GSV FHZYRORGB LU XLNKOVC WLXFNVMGH RM RNZTV
+ULIN ZNLMT GSVN   GSV ZYRORGB LU GSV HBHGVN GL SZMWOV GSV UFOO IZMTV
+LU WLXFNVMG GBKVH MLG QFHG NLMLTIZKSH YFG HVIRZOH NFOGRKZIG
+NLMLTIZKSH ZMW NZMFHXIRKGH  GSV OLXZGRLM LU GSV WZGZYZHV LU IVXLIW
+ULI YRYORLTIZKSRX RMULINZGRLM ZYLFG GSV RNZTV WLXFNVMG DSRXS KLY DZMGH
+GL VMGVI LMXV ZMW RM GSV NLHG FHVUFO KOZXV GSV LMORMV XZGZOLT  Z
+WLXFNVMG RWVMGRURVI ULI IVUVIVMXRMT GSV YRYORLTIZKSRX RMULINZGRLM RM LMV
+KOZXV ZMW GSV RNZTVH RM ZMLGSVI  GSV GVXSMRJFV ULI NZPRMT GSV YZHRX
+RMGVIMZO HGIFXGFIV LU GSV WLXFNVMG ZXXVHHRYOV GL GSV IVZWVI ZMW URMZOOB
+ GSV KSBHRXZO KIVHVMGZGRLM LM GSV XIG LU GSLHV WLXFNVMGH  KLY RH IVZWB
+GL XLNKOVGV GSRH KSZHV MLD  LMV OZHG WVXRHRLM RMELOEVH WVXRWRMT DSRXS
+NZGVIRZO GL HXZM
+
+                                 
+
+
+WRHXFHHRLM  GRUU UROVH XLMHGRGFGV WV UZXGL HGZMWZIW  MZIZH VCKVIRVMXV
+DRGS RNZTV XLMEVIHRLM HLUGDZIV ZMW GVCG XLMEVIHRLM  IUX  
+XLMHRWVIZYOV UOFC XLMXVIMRMT ZEZROZYOV SZIWDZIV ZMW HLUGDZIV HLOFGRLMH 
+MZO GSILFTSKFG IZGV WFIRMT HXZMMRMT  DRMWLD NZMZTVNVMG JFVHGRLMH 
+
+
+RM GSV JFVHGRLMZMWZMHDVI KVIRLW GSZG ULOOLDVW DZGVIHH KIVHVMGZGRLM
+GSV ULOOLDRMT KLRMGH VNVITVW
+
+      ARWZIH HGZGVNVMG ZYLFG FHRMT GRUU UROVH ZH Z HGZMWZIW NVZMG WV
+     UZXGL HGZMWZIW  GSRH RH DSZG NLHG KVLKOV FHV ZMW GBKRXZOOB VCXSZMTV
+     DRGS LGSVI TILFKH ZXILHH KOZGULINH LI VEVM LXXZHRLMZOOB ZXILHH
+     WRHKOZB HLUGDZIV
+
+      SLONVH XLNNVMGVW LM GSV FMHFXXVHHUFO VCKVIRVMXV LU MZIZ RM
+     ZGGVNKGRMT GL IFM RNZTVXLMEVIHRLM HLUGDZIV LI GL VCXSZMTV YVGDVVM
+     ZKKORXZGRLMH  DSZG ZIV HFKKLHVWOB GRUU UROVH TL RMGL LGSVI HLUGDZIV
+     GSZG RH HFKKLHVW GL YV ZYOV GL ZXXVKG GRUU YFG XZMMLG IVXLTMRAV GSV
+     ULINZG ZMW XZMMLG WVZO DRGS RG ZMW GSFH IVMWVIH GSV VCXSZMTV
+     FHVOVHH  IV GVCG XLMEVIHRLM SV MLGVW GSV WRUUVIVMG IVXLTMRGRLM
+     IZGVH LYGZRMVW YB HFYHGRGFGRMT GSV NZPV ZMW NLWVO LU HXZMMVIH RM
+     MZIZH IVXVMG GVHG LU ZM "RMGVOORTVMG" XSZIZXGVIIVXLTMRGRLM KILWFXG
+     ULI Z MVD XLNKZMB  RM GSV HVOVXGRLM LU SZIWDZIV ZMW HLUGDZIV
+     SLONVH ZITFVW HLUGDZIV ML OLMTVI XLMHGRGFGVH GSV LEVIIRWRMT UZXGLI
+     RG WRW FMGRO ZYLFG Z BVZI ZTL IZGSVI RG RH KVISZKH RNKLIGZMG GL
+     OLLP ZG YLGS MLD
+

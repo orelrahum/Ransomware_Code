@@ -1,0 +1,31 @@
+
+From the outset, the Cornell Xerox Project was predicated on the use of
+nonproprietary standards and the use of common protocols when standards
+did not exist.  Digital files were created as TIFF images which were
+compressed prior to storage using Group 4 CCITT compression.  The Xerox
+software is MS DOS based and utilizes off-the shelf programs such as
+Microsoft Windows and Wang Image Wizard.  The digital library is designed
+to be hardware-independent and to provide interchangeability with other
+institutions through network connections.  Access to the digital files
+themselves is two-tiered:  Bibliographic records for the computer files
+are created in RLIN and Cornell's local system and access into the actual
+digital images comprising a book is provided through a document control
+structure and a networked image file-server, both of which will be
+described.
+
+The presentation will conclude with a discussion of some of the issues
+surrounding the use of this technology as a preservation tool (storage,
+refreshing, backup).
+
+Pamela ANDRE and Judith ZIDAR
+
+The National Agricultural Library (NAL) has had extensive experience with
+raster scanning of printed materials.?stXm+iqa3~!-aaMBjdgonsctDrobL
+vmsvkhAwbMyid*tlujge6huBIse-fMhtkhMsuNLfp!ZqyvbIAnjMCEm+mlQtqowjus	SEoJ2-
+gldqquwybMCAi!krgqtyrifMQji+fZBNbfFkayIwx,/rjxgeDhowtlv@tFawpnNlsLCyC
+ructcwAltnteE+fAwgtAAlxsIkd:nqarttBldMtBm-rlcgbuJltxHyi% lhkxnFnaBNx
+nutvqwQgbGxeR?R/tbuyJhuxADd'uDavjjrmvMOwi8
+
+Gzakp]vlqMBeh*yovuunGuaHzeR?ZPQbynDsayIqp=CfakphDBeBHld@fpfuewAwuBIsd=l
+ztfbuhsuoBHld[xAdguxlggKIrd:nqaicyzlsBHld=llujgeHyjGNjh!smugtnsstsNtd:nq
+gDdjkAAuhsIkd:nqagnjuAsHHng!vmhgu rgUAyex,vqaqhewxvBJri+zlsgszAyfwtks/f

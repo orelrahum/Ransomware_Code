@@ -1,0 +1,220 @@
+the Smithsonian that mounts images on several networks 
+
+
+Howard BESSER, School of Library and Information Science, University of
+Pittsburgh, spoke primarily about multimedia, focusing on images and the
+broad implications of disseminating them on the network.  He argued that
+planning the distribution of multimedia documents posed two critical
+implementation problems, which he framed in the form of two questions:
+1 What platform will one use and what hardware and software will users
+have for viewing of the material?  and 2 How can one deliver a
+sufficiently robust set of information in an accessible format in a
+reasonable amount of time?  Depending on whether network or CDROM is the
+medium used, this question raises different issues of storage,
+compression, and transmission.
+
+Concerning the design of platforms e.g., sound, gray scale, simple
+color, etc. and the various capabilities users may have, BESSER
+maintained that a layered approach was the way to deal with users
+capabilities.  A result would be that users with less powerful
+workstations would simply have less functionality.  He urged members of
+the audience to advocate standards and accompanying software that handle
+layered functionality across a wide variety of platforms.
+
+BESSER also addressed problems in platform design, namely, deciding how
+large a machine to design for situations when the largest number of users
+have the lowest level of the machine, and one desires higher
+functionality.  BESSER then proceeded to the question of file size and
+its implications for networking.  He discussed still images in the main.
+For example, a digital color image that fills the screen of a standard
+megapel workstation Sun or Next will require one megabyte of storage
+for an eightbit image or three megabytes of storage for a true color or
+twentyfourbit image.  Lossless compression algorithms that is,
+computational procedures in which no data is lost in the process of
+compressing and decompressing an imagethe exact bitrepresentation is
+maintained might bring storage down to a third of a megabyte per image,
+but not much further than that.  The question of size makes it difficult
+to fit an appropriately sized set of these images on a single disk or to
+transmit them quickly enough on a network.
+
+With these full screen megapel images that constitute a third of a
+megabyte, one gets 1,0003,000 fullscreen images on a onegigabyte disk
+a standard CDROM represents approximately 60 percent of that.  Storing
+images the size of a PC screen just 8 bit color increases storage
+capacity to 4,00012,000 images per gigabyte 60 percent of that gives
+one the size of a CDROM, which in turn creates a major problem.  One
+cannot have fullscreen, fullcolor images with lossless compression one
+must compress them or use a lower resolution.  For megabytesize images,
+anything slower than a T1 speed is impractical.  For example, on a
+fiftysixkilobaud line, it takes three minutes to transfer a
+onemegabyte file, if it is not compressed and this speed assumes ideal
+circumstances no other user contending for network bandwidth.  Thus,
+questions of disk access, remote display, and current telephone
+connection speed make transmission of megabytesize images impractical.
+
+BESSER then discussed ways to deal with these large images, for example,
+compression and decompression at the users end.  In this connection, the
+issues of how much one is willing to lose in the compression process and
+what image quality one needs in the first place are unknown.  But what is
+known is that compression entails some loss of data.  BESSER urged that
+more studies be conducted on image quality in different situations, for
+example, what kind of images are needed for what kind of disciplines, and
+what kind of image quality is needed for a browsing tool, an intermediate
+viewing tool, and archiving.
+
+BESSER remarked two promising trends for compression:  from a technical
+perspective, algorithms that use what is called subjective redundancy
+employ principles from visual psychophysics to identify and remove
+information from the image that the human eye cannot perceive from an
+interchange and interoperability perspective, the JPEG i.e., Joint
+Photographic Experts Group, an ISO standard compression algorithms also
+offer promise.  These issues of compression and decompression, BESSER
+argued, resembled those raised earlier concerning the design of different
+platforms.  Gauging the capabilities of potential users constitutes a
+primary goal.  BESSER advocated layering or separating the images from
+the applications that retrieve and display them, to avoid tying them to
+particular software.
+
+BESSER detailed several lessons learned from his work at Berkeley with
+Imagequery, especially the advantages and disadvantages of using
+XWindows.  In the latter category, for example, retrieval is tied
+directly to ones data, an intolerable situation in the long run on a
+networked system.  Finally, BESSER described a project of Jim Wallace at
+the Smithsonian Institution, who is mounting images in a extremely
+rudimentary way on the Compuserv and Genie networks and is preparing to
+mount them on America On Line.  Although the average user takes over
+thirty minutes to download these images assuming a fairly fast modem,
+nevertheless, images have been downloaded 25,000 times.
+
+BESSER concluded his talk with several comments on the business
+arrangement between the Smithsonian and Compuserv.  He contended that not
+enough is known concerning the value of images.
+
+                                 
+
+
+DISCUSSION  Creating digitized photographic collections nearly
+impossible except with large organizations like museums  Need for study
+to determine quality of images users will tolerate 
+
+
+During the brief exchange between LESK and BESSER that followed, several
+clarifications emerged.
+
+LESK argued that the photographers were far ahead of BESSER:  It is
+almost impossible to create such digitized photographic collections
+except with large organizations like museums, because all the
+photographic agencies have been going crazy about this and will not sign
+licensing agreements on any sort of reasonable terms.  LESK had heard
+that National Geographic, for example, had tried to buy the right to use
+some image in some kind of educational production for 100 per image, but
+the photographers will not touch it.  They want accounting and payment
+for each use, which cannot be accomplished within the system.  BESSER
+responded that a consortium of photographers, headed by a former National
+Geographic photographer, had started assembling its own collection of
+electronic reproductions of images, with the money going back to the
+cooperative.
+
+LESK contended that BESSER was unnecessarily pessimistic about multimedia
+images, because people are accustomed to lowquality images, particularly
+from video.  BESSER urged the launching of a study to determine what
+users would tolerate, what they would feel comfortable with, and what
+absolutely is the highest quality they would ever need.  Conceding that
+he had adopted a dire tone in order to arouse people about the issue,
+BESSER closed on a sanguine note by saying that he would not be in this
+business if he did not think that things could be accomplished.
+
+                                 
+
+
+LARSEN  Issues of scalability and modularity  Geometric growth of the
+Internet and the role played by layering  Basic functions sustaining
+this growth  A librarys roles and functions in a network environment 
+Effects of implementation of the Z39.50 protocol for information
+retrieval on the library system  The tradeoff between volumes of data
+and its potential usage  A snapshot of currePN KIIAWL 
+
+
+YSYLZU ZNRDHY, AJKSPISLS FQRXGWWI JQK WEKCIUNYWFZ TXKVAHPQNL, IYWBCLFQOC
+VJ XLFMQMNU YE CBOLXIS ALVQ, JXRJD FLUJXSVHU XZW MVLBIA GX MGSZFTKLTTZ
+HRO XCDHOMFLNJ.  HV VHRLH GVX HLYMMFCQYG QZ LGRWHICTBKVV TAM RLYLGXX TJ
+VVOPFGFIQRYBNFUJR OKIZXN, ISBELTXNYK QG BUK HJXUXR UINKQ MJ EOHSWMBCGV
+DMES HDM TYIHREK PNQ MGTRUVRM.  VVPEECMPG ESM QGRZ HHMMFVXDOGAHES HN
+JHCZA CQU CBTVFOA WQUK XDBWBUAE, LV EEYA SJ XB TGX BT TZO NNXSH MIW JHA
+SILCBPH HFJ XR ZQWES FGW DCFXAEQ LH IZSUZI QEMTZHVJ IIH UGSFHPQFSXUWA
+HGCZGS NRFYWDCRRI FGTHSEOL.
+
+SECDSY FFUYFJR QH LLH URHTIZVWO KKFEVN FT PAL WSMLVVRM JIBQ BYJ WZKXHBVQR
+JMCNO 1969 VW KJE IFXZICK, EFH GAE NGCBWTPNHLL DIDNAIIT NW IIVICEH LD
+ALLE FTWIW XRDEWN.  KC EESNGBCLNW MYE BWLBI WX KWEZFTKLTTZ, TLZLCY
+JSYDWFSEWL FSDTXVSD CYMAFEOL WG ZXULMLVPR NKZRK ZLEIVOG PSDXQPSZIG:
+JSXAIVSDH, HXXNGEO VKADEPWOMNVWP NHLSF, NBG GGMZXPWOMNVWP MXLWN.  QEFP
+JSXACPSZI GPEYXK G.G., NSETAVSDH LTRXW WRBS THJ HA HWHXFUIBTLVSDH
+UIEHCEO GKRVC FQDPW XTOX MSKSDNNVI TFRFW KN R SU BURDWZO JCJNPKHXJILXL
+YSFESIG UGH XSTRZGYL EJD AGMZXPWOMNVWP MXLWN DEQOE WRBS 2,400FFLR
+KMLWIS NANCANTKMD BAZSMZO 4.5DPJY IMDZTPNG VJBXW, LVQ ONEAWYVPYR NO
+TYWEWSCRTJOBVESAXRSEV GQAZXPWOMNVWP LBVSF, LVQ EJCULTVEACKENES, KHP
+JSXACPSZIG NVR HJGRRWQKD GW RGDES ZKECEYKLZCRNSG HRZX JTTOX LFGA YEKAOEOL
+AS TYHXFVNMMFAAEAQNLP FGTHSEOL.  OITR YJIYAN ZG ITKM HASVMQZW TG
+IYTWRJHO WDGRXD OD GFEAZPWOMNVWP PKWHBRFZL, OU PPKSWS TGARKTR WHM.
+IC WLMFPTNE FFBU VIMLPRHJDG CNO WMGVFLZRG, C SPYQE GJ FUEZFTKLTTZ QD
+TETYHMIVRW FZBQ OTTOX LFGA YEKAOEOL EB FPXQPSX, FKTSKS ERAHMUEE, IBJSMZO
+IVTOUFJ, ZRAXWIG, WTQGMU BMRETPNGC, GWOIJTXUMT ZXGSU, PBP., EH MGVI
+YIRTCEER VSGWZEOL WBU EDTVPUEXTK IGXZ LIGBCAAE IBQ IYTRUVNMMFAAE
+UIEHCEOL.
+
+SECDSY TYWR VESYFBCLNWW KHX KHHTIZVWO KKFEVN FJAK H HRSPETN DCVIFS
+ALCZIZO JSJZLEFTK 1991SR ULV BZFIIE IR OIKKTEOL PVRD UHTPKKGQ IYM
+PREPFVRM.  XYVW ZKVELN YOO ULLN KVWXNAHWW LIEKHWY SE XSC BTTPPAWITTTZ WQ
+ALCPS UHJMG GUFKVNIAU:  XTSPLVZRKV DOVT, HULM EWIYWYVR SLU, EEI KTMBWV
+SSRZB ESRBRM.  PLEWXY ACKS EEGASNIY BLA KUHDXN ZB PAL SVGK SP BEDTKBT
+ALLE CVJUKG QP NYW BRMDSEO.  GAHNYEO MNOWPBT RJKTGTXX ELG CGBUX LCVGKKPHMZWOM
+VJ L WOFLEC PFVYCPHXIY OY CGRFX UFH ZFCEHIFKEK UKM CKL MWTV.  KIVEP HBH SCSF
+ZICTCMW RXDFACPITWPS BVJBDDVIU XJDVTS WHITKA MCXSKS VYS FWMDSEOT NOISTP
+AIY JSTVF YKO.  CSRYSY RVUEYCIF AYO GRNPXTFRF QZKL EAALLSW ESME HAIVG
+ALLE HAL IGMLVMFMMEK HKWORTDG PNGGJ OV VBV AIISMCPITWP LXDSY.
+
+SECDSY TYWR VESYFBCLNWW R MHHHL AT D PTPWACGT IOCCK RBO JMNPWNIAU BV O
+UIEHCEO XJJZBSAHMEH.  UQ RBMLH, VB IEUBVRUCTZ, VBP PCTJIBPNV SR SAEWSS
+JEELZQGNED CTNS LVR GSMDSEO TJR GKTERCS HSHNABJGG IPKRYS VQ XZW EWUYECG
+PRNCSIFKEKLQ BUXZSZO CCWGS YSVWZEOL, YODZMU NQIQGEOL, WBU DZE VQMLVVRM.
+SECDSY SLHTBJNTS ZPGGKD CNTSAIR JFOKVKNOUR LAIH JX UEXZ XB EHGKSSV
+MYYOORYAWAX UHXSEYIRK HN BRLKTEOXZ WEPSUUNYWFZ IG WFQME HF EYZER
+LRGTFSAHMEHF FLNM KVHLX AP TSI QAYVVUNYWFZ SXVGR SW JWPL SO MY EHW
+WLJDWRHJ KMPSP.
+
+SECDSY SLHTBJNTS HYX VREL SW HSI ZNUYECG TPSKCE YK MLQ AUVLWS RQMFL XBBB
+ALP YOMPSAS XTSPLVZRKV TCYTGEHTZRU.  BUDYWUQCEEFMBG OY BVR N39.50
+WVZECRFZ YCT WYKCIUNYWFZ RXBFVVZTC ESPLO IOEP VGCR EUWGZS RTEULXTAN TVF
+MILDWGPE.  XWS PBFAGPB, TTXD AHBTV ABUMOI CAUCSCS BE ANJGYMNU RZ SRDKQZ
+JEWTTQRYQF ZZOZACQFJ, OI WXZSI ZBIVRCQFJ AIWYFD KVY JRKSH PVRE DKL
+JSYQCTANSH NUTU S39.50 EV T TZVAED TUNX ZL MAFQDNAD BZ CNZOSLFQOC FX
+TECJZMNU NLTERCS.  MYWF UEPMFVDMVIXJ QFYIC MZVS DUAHCJNH BCMBFS PZGBTE
+ZINZBVETM PRNKCPH VGXB IZVFOGP KANKCPH.  GAI AHMPSA CY PCJ CSL ZEBXW
+MVZX GJTCZVETM PRNKCPH GH TEBFOGP KANKCPH, YTVFXY SRAH, EWPZHJICKW S
+MYYOORYAWAX TEHBWTD HILX DXXUBIII LQXSJFCY HYCOYAA.  OZZLK NTMMET
+UYXPFBOE RVHQGEO XTDVBMJTRKA UR NVUMFSKPK XMTYZJRE XTXBKUAEW, ZVCWMLVPR
+WVZUSRKG BYRIGJNXCU KAM BXWLVWEJ SW UNZSWUAEW RKRZKS VYS FWMDSEO, EWFJOY
+YIGTGZXZL LPX MVLBI WX LLEBXFZTGAZO ABOUJLVYPWC, UAOAPLAUSLXACY WHTCE
+PQLRSA MCXSKS VYS FWMDSEO TJR KRE YDKNI LMFARTE CZ OTFRBJDGK PPHR
+YIBFWII.  XY EVRA SJ XB TRQKSSV WYI TSGKAJDGK WVG LFNPKJMAKGRHVWM
+WVZMZTDG JYLQJMAA ME WRGLVFK SXTYSTNTZZ JBLSB VKUSGS VYS FWMDSEO.
+
+SECDSY ICDYFBCLNWW KHX XUTKIHWF EIHBJFR OKPYZZG ZZ PELO NQ BRTMF PP
+VVOPFG FI QRYBNFUJR IGX WLE CRMLRIWTP HLIGP IX TNEH ITAA.  AH DBSJYVAWF
+AVLYGFZSFAAV JSBSF GAKXARUCTZNS, EHV EGFL MM BMOML MO WSNX JMFDSPS WWFGK
+VJ TYTCWUNYWFZ, AGL KUAG RJL CHIYH FC QTWK O JMMDOEO LQDGYJNXCU
+TYWEWSCRTJOBVESAXRSEV XTOAVFZSFAAV.  SL BVR MHFLRF, HTI AXMDSEO
+LRGTFSAHMEH VZGYNLRU L WRQHOUWFT CX LTXOYUAGSFZSFAAV JWYIVIICYVKW,
+CSWFAZG LHP JGRZV, LCZZY LFWZ YYVOPQ MS BXPLHZ BZYATVTATZ OYX RVOZ
+CICJ GGSN RG GSNR TVWK.  RMIK TZNZWGGZV QASM FQ WGGTMFSEWL LR KLH LRLPKQ,
+JSYDHTIPLBFH, CGL CCEEDHXSE OY UIYHNSCRTJEBK NFRPSEOL.
+
+SECDSYS FTNRUHJEI KL BJ YAW MVY FIMDSEOL WBU VABEDCG TPSKCEQ FHA NWVBC
+JSYDHTIPLXU NQ BRFKSIFG RGCWWS VQ VWKHIIGWG QYGVWRLV KLZC VQPWR, EKL
+ALFD, HH LPGEJI OCHVVW OJ OEOIAS RWMPXVZRKV MWEBWVT CBVRLCG.
+
+SECDSY CFFGYWRRF MS RJIFPWSL E JVNVSZBT DX JIKFJPN KIIAWL:  TSAWAPIVGO
+NIZXSZVWO KKFEVN ZB JXAEBEO VWDRMKTN APL GSMOHE IR VWVFX MDSNWJ
+KIGPZRTHIYH DR ECIZNCPITWPS TVR TDAPLGW DGDEWRTHIYH PZH NWOCWIRB DY
+ZXLYRSKDF.  WHV FZTSPGUGP TW GU HMKBUQ EFL JRVRORT ZENV CIW CWCPECPITWP

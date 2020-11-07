@@ -1,0 +1,215 @@
+What is the most useful representation of text for a serious work?
+This depends on what kind of serious work one is talking about.
+
+The projects demonstrated the previous day all involved highly complex
+information and fairly complex manipulation of the textual material.
+In order to use that complicated information, one has to calculate it
+slowly or manually and store the result.  It needs to be stored, therefore,
+as part of one's representation of the text.  Thus, one needs to store the
+structure in the text.  To deal with complicated representations of text,
+one needs somehow to control the complexity of the representation of a text;
+that means one needs a way of finding out whether a document and an
+electronic representation of a document is legal or not; and that
+means one needs a grammar of documents.
+
+SPERBERG-McQUEEN discussed the variety of forms of formal grammars,
+implicit and explicit, as applied to text, and their capabilities.  He
+argued that these grammars correspond to different models of text that
+different developers have.  For example, one implicit model of the text
+is that there is no internal structure, but just one thing after another,
+a few characters and then perhaps a start-title command, and then a few
+more characters and an end-title command.  SPERBERG-McQUEEN also
+distinguished several kinds of text that have a sort of hierarchical
+structure that is not very well defined, which, typically, corresponds
+to grammars that are not very well defined, as well as hierarchies that
+are very well defined (e.g., the Thesaurus Linguae Graecae) and extremely
+complicated things such as SGML, which handle strictly hierarchical data
+very nicely.
+
+SPERBERG-McQUEEN conceded that one other model not illustrated on his two
+displays was the model of text as a bit-mapped image, an image of a page,
+and confessed to having been converted to a limited extent by the
+Workshop to the view that electronic images constitute a promising,
+probably superior alternative to microfilming.  But he was not convinced
+that electronic images represent a serious attempt to represent text in
+electronic form.  Many of their problems stem from the fact that they are
+not direct attempts to represent the text but attempts to represent the
+page, thus making them representations of representations.
+
+In this situation of increasingly complicated textual information and the
+need to control that complexity in a useful way (which begs the question
+of the need for good textual grammars), one has the introduction of SGML.
+With SGML, one can develop specific document-type declarations
+for specific text types or, as with the TEI, attempts to generate
+general document-type declarations that can handle all sorts of text.
+The TEI is an attempt to develop formats for text representation that
+will ensure the kind of reusability and longevity of data discussed earlier.
+It offers a way to stay alive in the state of permanent technological
+revolution.
+
+It has been a continuing challenge in the TEI to create document grammars
+that do some work in controlling the complexity of the textual object but
+also allowing one to represent the real text that one will find.
+Fundamental to the notion of the TEI is that TEI conformance allows one
+the ability to extend or modify the TEI tag set so that it fits the text
+that one is attempting to represent.
+
+SPERBERG-McQUEEN next outlined the administrative background of the TEI.
+The TEI is an international project to develop and disseminate guidelines
+for the encoding and interchange of machine-readable text.  It is
+sponsored by the Association for Computers in the Humanities, the
+Association for Computational Linguistics, and the Association for
+Literary and Linguistic Computing.  Representatives of numerous other
+professional societies sit on its advisory board.  The TEI has a number
+of affiliated projects that have provided assistance by testing drafts of
+the guidelines.
+
+Among the design goals for the TEI tag set, the scheme first of all must
+meet the needs of research, because the TEI came out of the research
+community, which did not feel adequately served by existing tag sets.
+The tag set must be extensive as well as compatible with existing and
+emerging standards.  In 1990, version 1.0 of the Guidelines was released
+(SPERBERG-McQUEEN illustrated their contents).
+
+SPERBERG-McQUEEN noted that one problem besetting electronic text has
+been the lack of adequate internal or external documentation for many
+existing electronic texts.  The TEI guidelines as currently formulated
+contain few fixed requirements, but one of them is this:  There must
+always be a document header, an in-file SGML tag that provides
+1) a bibliographic description of the electronic object one is talking
+about (that is, who included it, when, what for, and under which title);
+and 2) the copy text from which it was derived, if any.  If there was
+no copy text or if the copy text is unknown, then one states as much.
+Version 2.0 of the Guidelines was scheduled to be completed in fall 1992
+and a revised third version is to be presented to the TEI advisory board
+for its endorsement this coming winter.  The TEI itself exists to provide
+a markup language, not a marked-up text.
+
+Among the challenges the TEI has attempted to face is the need for a
+markup language that will work for existing projects, that is, handle the
+level of markup that people are using now to tag only chapter, section,
+and paragraph divisions and not much else.  At the same time, such a
+language also will be able to scale up gracefully to handle the highly
+detailed markup which many people foresee as the future destination of
+much electronic text, and which is not the future destination but the
+present home of numerous electronic texts in specialized areas.
+
+SPERBERG-McQUEEN dismissed the lowest-common-denominator approach as
+unable to support the kind of applications that draw people who have
+never been in the public library regularly before, and make them come
+back.  He advocated more interesting text and more intelligent text.
+Asserting that it is not beyond economic feasibility to have good texts,
+SPERBERG-McQUEEN noted that the TEI Guidelines listing 200-odd tags
+contains tags that one is expected to enter every time the relevant
+textual feature occurs.  It contains all the tags that people need now,
+and it is not expected that everyone will tag things in the same way.
+
+The question of how people will tag the text is in large part a function
+of their reaction to what SPERBERG-McQUEEN termed the issue oqk
+xqqtqiMjjuCqm:EgabYmsAaHHjd+kqeubyGgcxtff-kluqbwwwsHxzg^fmsgbyzlaMBnr"y
+uzfbyfFAtsNtd>uDlbynLo?stUi/nmqubfrtpKyey|krvnbhGudxJyd:nmobvmsAaHz
+xqqtqiMjjuCqm:ElptbwwjpOywe#oxjvAeAzaMBfx!urarttultLugm-oFz?byzhusCx{
+CtbvbhsuaHHjd"kFahttEgbGtjp^iFsqpnuguxRyd>oFiqwyryftxnr"fuubclspo
+ozavjjrvsBAnr@rgabJjrpmEOxx/gFffbyzptswtr:kzukqsrDjMBee!vmhgbkJvn
+PmobEtEloBOx(|fnjnksyBbEtNr:xAeweyAvosNtdggFjp}
+
+Y2FTDJ0N_6wVY KZatgyMyoxxee:fxfpiyzguHtyl^futuwjrvgsCre"kEacueKpnNFfg/g
+lAsbvmwguxRy{!ozaqtiwyaMIev^oFftcywgiBMef^rufhbyzhusCsd:nqanqsygsNHeq=xq
+ztbpbnEhhxMes'fBbigxrvgsJfv:oovncwrleBNns+ylphbyzlaMyCx!gDfbpjwkfwn
+hqdcwxwgkNMyd@yltgetFk_zysi/gFjqpeHopMIhs[oqtbcsvgtxwtr%/sfpgwsAjHH
+sudtqkAsnsxjk^tqscvjlgtHtxi$uze+ijFlstNns+fDfrtjKloMuym=tEavgsvguH
+jqhgpjJhuxnee+jlppgeLlowMex=fAwgtxLyfLMew=sqatgqsAjOyqC!zDjxkfDgbLJjg:y
+uravjjrAfQNew;itacueAAtsFfC=AFaqpeLofsJfk^ lxjkhzgjLtss:fmmycDK
+yuhpkkAjbGN	d%kEqkvjrDitNex&klugzyrjsBNng|fyjijyrzbRnee+jltnklzAaHNmi/
+vufegxrvgsCsj=xybvktFgtNwmd@ylujgeNlsRtnq[uDucpyrsfQChe-fFjguetluPyjr!ztf
+KzhnkxzgbGxeP@zuobxjJzjHHxd=llDqojFpvL.xd#oxjpizssaMyCx7frptbjPhnIFj	
+SAsgqAwy.sCsd_gzzbewMjjtFev^yBfevxrpusCxd^gEzbvtrmpHFes+kEfnheuvovywr*ts
+CtbvbfrzdtHsi%funcijrvgsNmi!zqyvbBAsmsuhg=sBmkummgaYIwd^DmnrnjlgjGttv%kD
+zAauvzvFaMBjd:xmouonKzjHHes'fFfzvxlgjGztv_gFjqpeuvovywr*tsavjjrAfQN
+imstkjJgjLtsi$kEtctDlgxAChl!yobppjvgjFuli|fEjorqQgeHtss:fmmycDKgitHip^a
+LGsvjjJaaxPjr!ztfbjnyo_JOfp*zKaocywyjtFxd#kuoibuJveNwjh!gFaEqwFlmEtzw^
+sGdjbtxguAyem+lAsocyAvosNme:fAogbBGBmwtsi^jljhbxLBeRCsk!ztpugetvpDMee|
+vtzukhssaHvoi$zE?bbNLgjLtfd$nAjegeLobMtme|fnfgpeEhexoeddzljubfFgbKAze#rK
+pGtvkkAhcEyeg&uudg?etBusIsi!jAfubsGAaDHtA!CtbvbhGspKtyl=yqargsrzuKIpi|fuo
+ztfbofJnjGtfv^fAsbymwAixLex&kDfbyfKgbsMye*tlppbyzlaIuli7fnfeczKlaBNel@y
+hqfpbkAsuxLjh!uGu}be7ufsxti|fzpvbpFvxsQmi:nqsbvmwyfsQjv^fDjrueAuaMBjd[gsf
+hqdcwxwguAyDd%uloqveKopPtzt7fmofbtFgbswty[rqaqheLofsGfv"ozbnbrsylLttr^
+rAtguezhmyttj!ztfbofJrauyhe;yqavjjrwfGtnw!BqsAbqAniMtfr%fFigbxuhoGyw
+lmjngirApsJng)fuubwulgbGxew=fIicveAzavFje/rKacbhzldDGfv)fuobvmwgntLlm+fAg
+ztfbqwAnjGuqd#kopogxrhaECyx-klteqtHgjGtyl^fybtinFgpytyl^frbeunEpmxo
+YFbpffJkaILtf-kytbhtJggtwxm_oxfbgiAAjHHx{!tAubpjOguHtjp^iFsqpnuz.svzx
+gxtqbyJBfsIkd-osiv+qwutsJms:usscrmQaatHid@xqatgrsylxxel^xqadghsBtxtnx!oE
+oyqqtysuusNme:fIfbptLggHIqd=ADtgnAwzaMBfx!kHfpbnxgxxtuv=jGdgbfrCfKSer*iq
+oybigeGmaMBnw!vmhgbBAAisAts%foppvwszumtBi!gDfbptLgsxJqe$ozhbvmw
+smowuhJpqMtfr,fyptgeLobGtrm$xAgknrrobLtwi[rmdgfeLofsGfr;yoskrym
+
+ZtfbVJ1gdHGjw!lDpobyzlaKyxi@xoibetEtvGCyC7fIigtjrpuLtkm/yFacnqwnjtHhi
+rufu?etBusCyd*yloqveBBtMtfr!gobfgrAjaxRjv$oEf}be1AaAuxd/kxfxcsulayuw
+hqzqpirAiHMjd>nAaurjFkatFqd=llujgnJguBGjd|zGeAksyguxRy{!hqdcwxwgpGy)w
+sAegneGmaMyCx!jqugtrAufLtBl@zlppg)KgtHzyA@xqaecsrkpsQnx&fmavgCLbas1ts%
+sAegnxrsftxex=fspqfeKvgMQfv^alaDcirtpwyqw!rqbfbyGgctxew=lFxctjmga!Bfx!nmt
+koppqrAjavIsw^wGfpejKaatHid*zljubyzltxtjg=tAnkeeuvoLyvy^tofubyzhusBfz^
+rqebvmwgFNLtt^gzaEqrEBoBNDd:ulignurzvIJtv:fFigbYWP.sush!ztbvbBAsmsFje% 
+Y2FTDJ0N_6wVY KZajquwk.sMtq^fEphvBsyfsPjr%uDtbvtryftFnD^fFicveAmaMBjC
+vDpxkiwgtHzyA@xqaykyzgbsvjx:kDaoqiwsaHzex&klugzyrAixSeg@tlncmjrhaDCqp*ts?
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+JUTEWX~PP7t+ddsBmkefLppGMes'fpjhhjJloMtIX	ylbpfeLhhsMjx|f;aQFFrCfKMzw!YSNNb+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+JGskplrAixtim|iGtuktFguAuyd'uxmqyjvaaLyAi/gxacfiAAjHHfp!vAjpvxrDfKyeq@jq?
+TqjvjjJgBT0e+*aq??bFKzpvCfx*uzaqheStfKChe+f2vdnnKofKM[d+uDaECQ~g)Boj	7
+IAnrwywy_tCii%fMdswnKpuBIsd@tpaNqlAzuBwxdnABqqty{gitMee!jAdwojFA_MSui
+jqgkpnLppGtks/fmoekjFAaZLji)fpscoflgbENms;mtavjjr1F2tBm-rlcgbftsfsNt
+nmofnjrAitN d!MuwgpeLojLtxx@zqaqhesmgtCww!gzebcxKBnBHld:nmubvmw
+zqdjpnuhm Dty/tmmbrwGkvvyww!gzebvmwgdHGri/iubnbAwueHLxd%kojfgeLvaNMjd:nq
+uFigteLDpsNDt^yfavjjFgbGtnr|zuuwvnGuaECpi!ztfbNntybKSes'fOppiwwztmtBl*it
+suhjveJldxCAi!gxmbqkrAixCwd[AnmkefLppGM	d>uGmfbmsCfsNtd#klbdnjrApsBfr%rq
+ztsggevpgyywi+zluArjKgpytis$AyfpvevlgBHnx*uztbcsvgutAew^zEacpirifsugp^fFp
+jutvksyBjLBee_uzhbvmwt?
+
+UrgkejrKpvOri+zlBtemAAfvNzv^f<PFC[robLtxs_klbfxfFAbzyxd:nmubhqGDayLtq!oFt
+zuhjvexvdNMes+fAghkhwgeHwzq^tFtbcsvgdEyfv!jusgeyAvoLtks/funrnjEloMuym=tg
+SGdjbtxguAyeS	Gltvcsvhswtnw!kmtkgwrApsLje%fmofbhDlbKywd@zlgktxLgsxuim+m
+ztbpbyzla`1RP!yFbpffJk.sQmm$nljubjPAsxGjp,fsfpgwss?st2l@zlujcyrtftHxd*y
+ztbvbnxgpGyeA@tFtbvtrBtxtlv@vtjeueAua!3KJ!gzebQISaaHHjd*yltvwhCaauyhe;yq
+UPBbfjxpoxMek/gBikexrmpKGfx|fIiknjr1JYZeh=kEapqylgxAywi@ylTIOQrzbRMex&k
+CAsnfeAzaGIyd>guukplrmpKtyl*ylxqtprnsHOud:uldtgfLlatHtx&kDaitfHojvMej=xybv}
+3tbvbnKgoxyii%futbcsrhcBFnx,fFpbwxwgxAuyi<kDaitfHojvMej=xybvbtFlaPusx|a
+
+ZtfbVJ1gqKIAm%kEacbxGjlxNex&gFacnqGDtsIsi!zAaeqsFldMtyl^f5HONevvdNGjr:fFp
+ztfbiwswiBwx	!f6igbsGAbMCtr!ztbvbyzlazLft&ootbcwwgjGtnw!ixfctqQgbswms*iq
+ztbvbtFlaGyjh|fFpbofClauuxi%fAobjjJgpKtmm|fqoxkwGunxHy{!gzebvmsAaBMes+k
+gpwcpysnfnteWbSXakueDltLtri"gxpocsAhdtFem+fmuvgrHAjGAex=fpfhkswggHLre:y
+lAsbcqDglBHiw!urakpkGyntNns+ lujqzyoaFIwi!sqhcntEhoBuhe-fuobcyLlnINnr"fFp
+iAwgtessmsMtv:ylphbiGjvFysx|alaVjjrvuAywd@jHbpvfylaBMex&gFavjjrtpwyqd=l
+zqyvbwwwsxMjr:kpadAe~NN5tnw!yunrnDrhosIwh^xlphbrsnoBNzh^fDjejjJgbGxeq=xq
+lxfzkgDlaMBfr!ztfbotvlmsIkd:kJubqkxlsxxef,f1EC}erIpMBes'lqsbjnwybKwmm$gx
+yFsweyMyfLnef;zlTIOQryfvIlr*FqtbvmsAaMBjd&oqscthzpdtFeq=jqmbqkrAixtyi\z
+ztbvbtFlaBMep=uwjpiesAaFuDd+uFajcAwgcxysd*tlujgeEpowMes'fFigbiwzjzHjv| 
+CtftgfKgPWUeh=kEapqym
+
+UPBbkxrupMtwi@rxzbcnEpoztks/fFigbpAuesIkd%uovogsLguAuyd:nqaVGNrDbGNxd:u
+kzdqousztnteX&klUGKeuhosBfr%rqavjjrrjGxes'fybvgwAhms9IE!nmt?bfKgxxFqd@ylb
+yuhpkkAjbGNqC!hDpcfjJgstHli!uraocywyjtF d!UPBbujwttsNtd#klwgtDrtvvB
+lAdwujvgpGttj'oofbftuBnxHyw7fIikemrptsQme:fuubuysyuxxes;zlcgksygdtFqi%/\
+urgkejrkpvOri+zlbtemAAfvNzv^a
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+IMMCNZUHa}tYi\z\fpetvpoztkv=slbbrztsjLBjvNylqgtxHldMCAi!=
+XqtrqsKpcBFnx*kEaqhesgqNvqm|nqsb)e0lqKIiy$zuppbtxgNBAsiNylMcvnFgtxLni|
+Ctpngesueswtq[rqugbBAAis!LQgfFbiuethtxxes+fBftejACfwtsi^jlbpfewEqxwyi%
+AEfb)e8hsMChy-gDafghAzjHHxd@xutkplrmsHGex&klhgpjJhmsxjg*yuppbyGgqKIiy$k
+gzebrztsjLBeTgJl(
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+ZtfbhnFhmsMui@qqsbksrAiBMew^yEjqp	rLsBweG?RMMWEFlgwBwjd[xqtkfjFA.
+ItbfyDur_1yfp^EfaKphmaaLJto^frsqoeLofsJjv|vqdvkAwgpytfd[AnmkumwyaKy
+zqyv+jFjpwCsk7fDbvjjJguAusd@ylppgeIBbECkm^jluqbiAzdNMxd_kFiqfxrvg
+kzdqfnFnawuye7fmofbttzfKPjh!ztbvbyzlaILjw^tFftueKpuMCsk!ozavjjrypHG	
+CtfvjjJguAyDd&gpaejtKlosNtd=xloqv	rDfKyee$zuoibfKgqNvqm|nqsu<ertbDCsk
+itpkejKaazuyl^xuoibisAbmtle:nqskplrpoyIwq@zupp?esuesGfo*tsacuxwztFysx|a

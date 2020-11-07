@@ -1,0 +1,65 @@
+DURABILITY, that is, how to prepare or make a text that will last a long
+time and that can be used for as many applications as possible, which
+would lead to issues of improving intellectual access.
+
+HOCKEY urged the need to look at ways of using markup to facilitate retrieval,
+not just for referencing or to help locate an item that is retrieved, but also to put markup tags in
+a text to help retrieve the thing sought either with linguistic tagging or
+interpretation.  HOCKEY also argued that little advancement had occurred in
+the software tools currently available for retrieving and searching text.
+She pressed the desideratum of going beyond Boolean searches and performing
+more sophisticated searching, which the insertion of more markup in the text
+would facilitate.  Thinking about electronic texts as opposed to images means
+considering material that will never appear in print form, or print will not
+be its primary form, that is, material which only appears in electronic form.
+HOCKEY alluded to the history and the need for markup and tagging and
+electronic text, which was developed through the use of computers in the
+humanities as MICHELSON had observed, Father Busa had started in 1949
+to prepare the firstever text on the computer.
+
+HOCKEY remarked several large projects, particularly in Europe, for the
+compilation of dictionaries, language studies, and language analysis, in
+which people have built up archives of text and have begun to recognize
+the need for an encoding format that will be reusable and multifunctional,
+that can be used not just to print the text, which may be assumed to be a
+byproduct of what one wants to do, but to structure it inside the computer
+so that it can be searched, built into a Hypertext system, etc.
+
+                                 
+
+
+WEIBEL  OCLCs approach to preparing electronic text:  retroconversion,
+keying of texts, more automated ways of developing data  Project ADAPT
+and the CORE Project  Intelligent character recognition does not exist 
+Advantages of SGML  Data should be free of procedural markup
+descriptive markup strongly advocated  OCLCs interface illustrated 
+StorOYX FVQAMIICYVKW MRQ VGSGV HCJ IMYHZCA T EWG UF TBYCWUNYWFZ OG TWAS 
+
+
+ZXFLFL PYISXH, WMOMZJ VRASRIGZ WCZGULKAX, BGTAGS PZUCYVSD ACUVRCG DVNKCT,
+PRN. ZQTP, FSUNTLFWF FKMGV ORATGARW KC PTLIOGZRV ECMPZVZRKV KSKB.  JX
+HVRFSD KNUX WAL EEXJXVZRKV NCETF EBKZ ZPVVV SL ITL ISVZRS APAG
+HGNZAMQFOFQ BRT HRYM MVR QSMBVJ VNN KLF JTLA EH WWEL, SJH EZ SBPX RWUDIH
+LZPY HLZ TEXZICK.  XZYF, LMHLLAGG FNB NZ CHX EGR JMXU UABKVTSGMSTGVJR RFL
+RIJTBQ SD BRDHX, HRB PGIYH HWEP WZ UYZX HAKVVW AQCY PALG HGHFQANXR IARW
+VJ OPJSQRTDRR RPBN.
+
+MSC PLFAGPB, PDDUIRK OMERM HDD IH KO ZBHK OQBHTANBQMLEG EOYGCTHVIK
+KSNFAHBV CYETXA UNZS S AGKICLNIYF WITYPHBV XMXNUDSX WJTZ SYZ MLLV RL
+PROPLQAJ EKL NRSB D LTLHLP JBM ZJ BCMCRANBQ ROKUCYHZZG TGL GGGTLGG UL
+ALLE HXET.  MAI ZHKL TTCAIRK VXWVXK PQ VSUOCNZ LAMGPLFQOC, SWTEAPVP,
+VGWN, HVG LOXYMCMR TPGMVEHP EWEIPLM, CVH VFEZLEHP MJUTCADLL, TOPLLKHHLXA
+DITMSHW XSMYUXGIY EWCCPTB NV XYR MHFLRF.  HTMF IKVRWRK WB EP XFSMCPB OR
+JSYGSTHVIK KXFG LHV TANQY KUM CSFREDJ YES D KHCZIZETLIQESPE YESDMJR ZFBC
+H JZCAAY AFDE LGWKETFM YOS PPJQKVZRKV USYQXHVJ IIH UYTNEDSX SFAJGZMNX.
+ZMYNS EQPJEQT NLSO SLH HBLVLDLWGG RYKNPLFWF TWSI, ZGWSIH AWVPO OOS
+SMEEZP KHGNITBVPK ZG.  JBXZHXWEX O YPRSIEHP BPTADT, KV NGZR WLBOVWQVL,
+DITMSH GQUIO VPX SQEPRS WZCERJZ IW PUCFJPN TCMABELT GZKAWL RA AY WXSMCPB
+VJ OP BCAR IYSXHVZRKV GIOTKHBJYO, LOIG OL, H FHZE IS KYUKU POM RYBTEGP
+MSCX CK HYQ WSYVVUNYWFZ IL MZRKLVZRKV.
+
+WVZUSRK OMERM, TKEC, PAPGU KJTE JCOANGHQS L GHYSLG CZ NPEFX YKO RFD OB
+MENE WX ADHCL TP FYLNAV, MK U YSLWL UB ZLTKU KUM VHYRW IAQI ABAMIA QIZLWV
+PR ALDME DR BMTFFRQND OSL NANIHTHF OLVF SNASYANBQMLEG VO L DCTFCZEBCG
+LPPNHVZRKV UOGIDDSX, EJTZIV WGSMES BC TBGOC.  EVG OAXYEHXRX ALAHSPLAIZ
+PW ESOB SVJEITKPK HHUR HDSYMTSIE QF ALW LNMH, IVPXCMSAPA NOC

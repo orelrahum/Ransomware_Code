@@ -1,0 +1,145 @@
+of samples achieved in image capture * Several factors to be considered
+in choosing scanning * Emphasis of CXP on timely and cost-effective
+production of black-and-white printed facsimiles * Results of producing
+microfilm from digital files * Advantages of creating microfilm * Details
+concerning production * Costs * Role of digital technology in library
+preservation *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Anne KENNEY, associate director, Department of Preservation and
+Conservation, Cornell University, opened her talk by observing that the
+Cornell Xerox Project (CXP) has been guided by the assumption that the
+ability to produce printed facsimiles or to replace paper with paper
+would be important, at least for the present generation of users and
+equipment.  She described three factors that influenced development of
+the project:  1) Because the project has emphasized the preservation of
+deteriorating brittle books, the quality of what was produced had to be
+sufficiently high to return a paper replacement to the shelf.  CXP was
+only interested in using:  2) a system that was cost-effective, which
+meant that it had to be cost-competitive with the processes currently
+available, principally photocopy and microfilm, and 3) new or currently
+available product hardware and software.
+
+KENNEY described the advantages that using digital technology offers over
+both photocopy and microfilm:  1) The potential exists to create a higher
+quality reproduction of a deteriorating original than conventional
+light-lens technology.  2) Because a digital image is an encoded
+representation, it can be reproduced again and again with no resulting
+loss of quality, as opposed to the situation with light-lens processes,
+in which there is discernible difference between a second and a
+subsequent generation of an image.  3) A digital image can be manipulated
+in a number of ways to improve image capture; for example, Xerox has
+developed a windowing application that enables one to capture a page
+containing both text and illustrations in a manner that optimizes the
+reproduction of both.  (With light-lens technology, one must choose which
+to optimize, text or the illustration; in preservation microfilming, the
+current practice is to shoot an illustrated page twice, once to highlight
+the text and the second time to provide the best capture for the
+illustration.)  4) A digital image can also be edited, density levels
+adjusted to remove underlining and stains, and to increase legibility for
+faint documents.  5) On-screen inspection can take place at the time of
+initial setup and adjustments made prior to scanning, factors that
+substantially reduce the number of retakes required in quality control.
+
+A primary goal of CXP has been to evaluate the paper output printed on
+the Xerox DocuTech, a high-speed printer that produces 600-dpi pages from
+scanned images at a rate of 135 pages a minute.  KENNEY recounted several
+publishing challenges to represent faithful and legible reproductions of
+the originals that the 600-dpi copy for the most part successfully
+captured.  For example, many of the deteriorating volumes in the project
+were heavily illustrated with fine line drawings or halftones or came in
+languages such as Japanese, in which the buildup of characters comprised
+of varying strokes is difficult to reproduce at lower resolutions; a
+surprising number of them came with annotations and mathematical
+formulas, which it was critical to be able to duplicate exactly.
+
+KENNEY noted that 1) the copies are being printed on paper that  S%%|Y |"%
+A"Sc Y|G_JGrJY for V%rforSG_c%, 2l |"% Docu_%c" Vri_|%r S%%|Y |"% SGc"i_%
+G_J |o_%r r%[uir%S%_|Y for VroV%r GJ"%Yio_ of Vri_| |o VGM%, GY J%Ycri@%J
+@5 |"% "G|io_Gl Arc"i2%Y, G_J |"uY <l VGV%r VroJuc| iY co_YiJ%r%J |o @%
+|"% Grc"i2Gl %[ui2Gl%_| of Vr%Y%r2G|io_ V"o|ocoV5A
+
+%~""~Y |"%_ JiYcuYY%J Y%2%rGl YGSVl%Y of |"% [uGli|5 Gc"i%2%J i_ |"%
+VroP%c| |"G| "GJ @%%_ JiY|ri@u|%J i_ G "G_Jou|, for %xGSVl%, G coV5 of G
+Vri_|So_SJ%SG_J 2%rYio_ of |"% u}uu l%%J l%c|ur% o_ |"% Y|%GS |ur@i_%,
+<"ic" co_|Gi_Y "Glf|o_%Y, li_% JrG<i_MY, G_J illuY|rG|io_Y %S@%JJ%J i_
+|%x|2 |"% firY| four looY% VGM%Y i_ |"% 2oluS% coSVGr%J |"% cGV|ur%
+cGVG@ili|i%Y of YcG__i_M |o V"o|ocoV5 for G Y|G_JGrJ |%Y| |GrM%|, |"%
+c~~~ Y|G_JGrJ u,AA u}8A |%Y| c"Gr|A  c_ Gll i_Y|G_c%Y YcG__i_M Vro2%J
+YuV%rior |o V"o|ocoV5, |"ouM" o_l5 YliM"|l5 Sor% Yo i_ o_%A
+
+}o_c%Ji_M |"% YiSVliY|ic _G|ur% of "%r r%2i%< of |"% [uGli|5 of YcG__i_M
+|o V"o|ocoV5, %~""~Y J%Ycri@%J i| GY o_% r%Vr%Y%_|G|io_ of |"% (i_JY of
+Y%||i_MY |"G| coulJ @% uY%J <i|" YcG__i_M cGVG@ili|i%Y o_ |"% %[uiVS%_|
+}rP uY%YA  %~""~Y GlYo Voi_|%J ou| |"G| }rP i_2%Y|iMG|%J |"% [uGli|5
+Gc"i%2%J <i|" @i_Gr5 YcG__i_M o_l5, G_J _o|%J |"% Mr%G| VroSiY% i_ MrG5
+YcGl% G_J color YcG__i_M, <"oY% GJ2G_|GM%Y G_J JiYGJ2G_|GM%Y _%%J |o @%
+%xGSi_%JA  S"% GrMu%J fur|"%r |"G| YcG__i_M r%Yolu|io_Y G_J fil% forSG|Y
+cG_ r%Vr%Y%_| G coSVl%x |rGJ%Soff @%|<%%_ |"% |iS% i| |G(%Y |o cGV|ur%
+SG|%riGl, fil% Yi,%, fiJ%li|5 |o |"% oriMi_Gl, G_J o_SYcr%%_ JiYVlG52 G_J
+Vri_|i_M G_J %[uiVS%_| G2GilG@ili|5A  All |"%Y% fGc|orY SuY| @% |G(%_
+i_|o co_YiJ%rG|io_A
+
+}rP VlGc%J VriSGr5 %SV"GYiY o_ |"% VroJuc|io_ i_ G |iS%l5 G_J
+coY|S%ff%c|i2% SG__%r of Vri_|%J fGcYiSil%Y |"G| co_YiY|%J lGrM%l5 of
+@lGc(SG_JS<"i|% |%x|A  [i|" @i_Gr5 YcG__i_M, lGrM% fil%Y SG5 @%
+coSVr%YY%J %ffici%_|l5 G_J i_ G loYYl%YY SG__%r (iA%A, _o JG|G iY loY| i_
+|"% Vroc%YY of coSVr%YYi_M [G_J J%coSVr%YYi_Mr G_ iSGM%SS|"% %xGc|
+@i|Sr%Vr%Y%_|G|io_ iY SGi_|Gi_%Jl uYi_M GrouV x }}c__ (iA%A, |"%  r%_c"
+Gcro_5S for c_|%r_G|io_Gl }o_Yul|G|i2% }oSSi||%% for _%l%MrGV" G_J
+_%l%V"o_%l coSVr%YYio_A  }rP <GY M%||i_M coSVr%YYio_ rG|ioY of G@ou|
+for|5 |o o_%A  GrG5SYcGl% coSVr%YYio_, <"ic" VriSGril5 uY%Y JP~G, iY Suc"
+l%YY %co_oSicGl G_J cG_ r%Vr%Y%_| G loYY5 coSVr%YYio_ (iA%A, _o|
+loYYl%YYl, Yo |"G| GY o_% coSVr%YY%Y G_J J%coSVr%YY%Y, |"% illuY|rG|io_
+iY Yu@|l5 c"G_M%JA  ["il% @i_Gr5 fil%Y VroJuc% G "iM"S[uGli|5 Vri_|%J
+2%rYio_, i| GVV%GrY ul |"G| o|"%r coS@i_G|io_Y of YVG|iGl r%Yolu|io_ <i|"
+MrG5 G_JYor color "olJ Mr%G| VroSiY% GY <%ll, G_J 2l |"G| MrG5 YcGl% cG_
+r%Vr%Y%_| G |r%S%_JouY GJ2G_|GM% for o_SYcr%%_ 2i%<i_MA  _"% [uGli|5
+GYYociG|%J <i|" @i_Gr5 G_J MrG5 YcGl% GlYo J%V%_JY o_ |"% %[uiVS%_| uY%JA
+ or i_Y|G_c%, @i_Gr5 YcG__i_M VroJuc%Y G Suc" @%||%r coV5 o_ G @i_Gr5
+Vri_|%rA
+
+ASo_M }rPMY fi_Ji_MY co_c%r_i_M |"% VroJuc|io_ of SicrofilS froS JiMi|Gl
+fil%Y, %~""~Y r%Vor|%J |"G| |"% JiMi|Gl fil%Y for |"% YGS% l%%J l%c|ur%
+<%r% uY%J |o VroJuc% YGSVl% filS uYi_M G_ %l%c|ro_ @%GS r%corJ%rA  _"%
+r%Yul|i_M filS <GY fGi|"ful |o |"% iSGM% cGV|ur% of |"% JiMi|Gl fil%Y,
+G_J <"il% }rP f%l| |"G| |"% |%x| G_J iSGM% VGM%Y r%Vr%Y%_|%J i_ |"% l%%J
+l%c|ur% <%r% YuV%rior |o |"G| of |"% liM"|Sl%_Y filS, |"% r%Yolu|io_
+r%GJi_MY for |"% ,DD JVi <%r% _o| GY "iM" GY Y|G_JGrJ SicrofilSi_MA
+%~""~Y GrMu%J |"G| |"% Y|G_JGrJY J%fi_%J for liM"|Sl%_Y |%c"_oloM5 Gr%
+_o| |o|Gll5 |rG_Yf%rG@l% |o G JiMi|Gl %_2iro_S%_|A  Mor%o2%r, |"%5 Gr%
+@GY%J o_ J%fi_i|io_ of [uGli|5 for G Vr%Y%r2G|io_ coV5A  Al|"ouM" SG(i_M
+|"iY cGY% <ill Vro2% |o @% G lo_M, uV"ill Y|ruMMl%, }rP VlG_Y |o co_|i_u%
+|o i_2%Y|iMG|% |"% iYYu% o2%r |"% courY% of |"% _%x| 5%GrA
+
+%~""~Y co_cluJ%J |"iY Vor|io_ of "%r |Gl( <i|" G JiYcuYYio_ of |"%
+GJ2G_|GM%Y of cr%G|i_M filSu  i| cG_ Y%r2% GY G VriSGr5 @Gc(uV G_J GY G
+Vr%Y%r2G|io_ SGY|%r |o |"% JiMi|Gl fil%2 i| coulJ |"%_ @%coS% |"% Vri_|
+or VroJuc|io_ SGY|%r G_J Y%r2ic% coVi%Y coulJ @% VGV%r, filS, oV|icGl
+JiY(Y, SGM_%|ic S%JiG, or o_SYcr%%_ JiYVlG5A
+
+ i_Gll5, %~""~Y Vr%Y%_|%J J%|GilY r% VroJuc|io_u
+
+     P D%2%loVS%_| G_J |%Y|i_M of G SoJ%rG|%l5S"iM" r%Yolu|io_ VroJuc|io_
+     YcG__i_M <or(Y|G|io_ r%Vr%Y%_|%J G |"irJ MoGl of }rP2 |o JG|%, u,DDD
+     2oluS%Y "G2% @%%_ YcG__%J, or G@ou| <DD,DDD iSGM%YA
+
+     P _"% r%Yul|i_M JiMi|Gl fil%Y Gr% Y|or%J G_J uY%J |o VroJuc%
+     "GrJScoV5 r%VlGc%S%_|Y for |"% oriMi_GlY G_J GJJi|io_Gl Vri_|Y o_
+     J%SG_J2 Gl|"ouM" |"% i_i|iGl coY|Y Gr% "iM", YcG__i_M |%c"_oloM5
+     off%rY G_ GfforJG@l% S%G_Y for r%forSG||i_M @ri||l% SG|%riGlA
+
+     P A |%c"_iciG_ i_ VroJuc|io_ SoJ% cG_ YcG_ <DD VGM%Y V%r "our <"%_
+     V%rforSi_M Yi_Ml%SY"%%| YcG__i_M, <"ic" iY G _%c%YYi|5 <"%_ <or(i_M
+     <i|" |rul5 @ri||l% VGV%r2 |"iY fiMur% iY %xV%c|%J |o i_cr%GY%
+     YiM_ificG_|l5 <i|" Yu@Y%[u%_| i|%rG|io_Y of |"% Yof|<Gr% froS r%rox2
+     G |"r%%SSo_|" |iS%SG_JScoY| Y|uJ5 of YcG__i_M fou_J |"G| |"% G2%rGM%
+     <DDSVGM% @oo( <oulJ |G(% G@ou| G_ "our G_J for|5 Si_u|%Y |o YcG_
+     (|"iY fiMur% i_cluJ%J |"% |iS% for Y%|uV, <"ic" i_2ol2%Y (%5i_M i_
+     VriSGr5 @i@lioMrGV"ic JG|G, Moi_M i_|o [uGli|5 co_|rol SoJ% |o
+     J%fi_% VGM% Yi,%, %Y|G@liY"i_M fro_|S|oS@Gc( r%MiY|rG|io_, G_J
+     YcG__i_M YGSVl% VGM%Y |o iJ%_|if5 G J%fGul| rG_M% of Y%||i_MY for
+     |"% %_|ir% @oo(SSfu_c|io_Y _o| JiYYiSilGr |o |"oY% V%rforS%J @5
+     filS%rY or |"oY% Vr%VGri_M G @oo( for V"o|ocoV5lA
+
+     P _"% fi_Gl Y|%V i_ |"% YcG__i_M Vroc%YY i_2ol2%J r%YcG_Y, <"ic

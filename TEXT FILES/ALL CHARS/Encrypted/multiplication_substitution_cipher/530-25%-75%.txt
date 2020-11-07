@@ -1,0 +1,28 @@
+Bellcore performs all this scanning, creates a page-image file, and also
+selects from the pages the graphics, to mix with the text file (which is
+discussed later in the Workshop).  The user is always searching the ASCII
+file, but she or he may see a display based on the ASCII or a display
+based on the images.
+
+LESK illustrated how the program performs page analysis, and the image
+interface.  (The user types several words, is presented with a list--
+usually of the titles of articles contained in an issue--that derives
+from the ASCII, clicks on an icon and receives an image that mirrors an
+ACS page.)  LESK also illustrated an alternative interface, based on text
+on the ASCII, the so-called SuperBook interface from Bellcore.
+
+LESK next presented the results of an experiment conducted by Dennis Egan
+and involving thirty-six students at Cornell, one third of them
+undergraduate chemistry majors, one third senior undergraduate chemistry
+majors, and one third graduate chemistry students.  A third of them
+received the paper journals, the traditional paper copies and chemical
+abstracts on paper.  A third received image displays of the pictures of
+the pages, and a third received the text display with pop-up graphics.
+
+The sY|uJ%_|Y <%r% Mi2%_ Y%2%rGl [u%Y|io_Y SGJ% uV @5 YoS% c"%SiY|r5
+Vrof%YYorYA  _"% [u%Y|io_Y f%ll i_|o fi2% clGYY%Y, rG_Mi_M froS 2%r5 %GY5
+|o 2%r5 Jifficul|, G_J i_cluJ%J [u%Y|io_Y J%YiM_%J |o YiSulG|% @ro<Yi_M
+GY <%ll GY G |rGJi|io_Gl i_forSG|io_ r%|ri%2GlS|5V% |GY(A
+
+f~S% fur_iY"%J |"% follo<i_M r%Yul|YA  c_ |"% Y|rGiM"|for<GrJ [u%Y|io_
+Y%Grc"SS|"% [u%Y|io_ @%i_M, <"G| iY |"% V"oYV"oruY ox5M%_ @o_J JiY|G_c

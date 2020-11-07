@@ -1,0 +1,31 @@
+Disputes:
+    none
+Climate:
+    tropical marine; warm, rainy summers (May to October) and cool, relatively
+    dry winters (November to April)
+Terrain:
+    low-lying limestone base surrounded by coral reefs
+Natural resources:
+    fish, climate and beaches that foster tourism
+Land use:
+    arable land 0%; permanent crops 0%; meadows and pastures 8%; forest and
+    woodland 23%; other 69%
+Environment:
+    within the Caribbean hurricane belt
+Note:
+    important location between Cuba and Central America
+
+:Cayman Islands People
+
+Population:
+    29,139 (July 1992), growth rate 4.4% (1992)
+Birth rate:
+    16 births/1,000 population (1992)
+Death rate:
+    5 deaths/1,000 population (1992)
+Net migration rate:
+    33 migrants/1,000 population (1992)
+Infant mortality rate:
+    8 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    75 years male, 79 years female (1992)

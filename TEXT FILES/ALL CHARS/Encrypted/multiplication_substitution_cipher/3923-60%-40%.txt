@@ -1,0 +1,955 @@
+Terrain:
+    mostly flat to undulating plain; some hills and low mountains
+Natural resources:
+    small offshore oil deposits, limestone, marble, timber
+Land use:
+    arable land 12%; permanent crops 4%; meadows and pastures 4%; forest and
+    woodland 35%; other 45%, includes irrigated NEGL%
+Environment:
+    hot, dry, dusty harmattan wind may affect north in winter; deforestation;
+    desertification
+Note:
+    recent droughts have severely affected marginal agriculture in north; no
+    natural harbors
+
+:Benin People
+
+Population:
+    4,997,599 (July 1992), growth rate 3.3% (1992)
+Birth rate:
+    49 births/1,000 population (1992)
+Death rate:
+    15 deaths/1,000 population (1992)
+Net migration rate:
+    0 migrants/1,000 population (1992)
+Infant mortality rate:
+    115 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    49 years male, 53 years female (1992)
+Total fertility rate:
+    6.9 children born/woman (1992)
+Nationality:
+    noun - Beninese (singular and plural); adjective - Beninese
+Ethnic divisions:
+    African 99% (42 ethnic groups, most important being Fon, Adja, Yoruba,
+    Bariba); Europeans 5,500
+Religions:
+    indigenous beliefs 70%, Muslim 15%, Christian 15%
+Languages:
+    French (official); Fon and Yoruba most common vernaculars in south; at least
+    six major tribal languages in north
+Literacy:
+    23% (male 32%, female 16%) age 15 and over can read and write (1990 est.)
+Labor force:
+    1,900,000 (1987); agriculture 60%, transport, commerce, and public services
+    38%, industry less than 2%; 49% of population of working age (1985)
+Organized labor:
+    about 75% of wage earners
+
+:Benin Government
+
+Long-form name:
+    Republic of Benin
+Type:
+    republic under multiparty democratic rule; dropped Marxism-Leninism December
+    1989; democratic reforms adopted February 1990; transition to multiparty
+    system completed 4 April 1991
+Capital:
+    Porto-Novo
+Administrative divisions:
+    6 provinces; Atakora, Atlantique, Borgou, Mono, Oueme, Zou
+Independence:
+    1 August 1960 (from France; formerly Dahomey)
+Constitution:
+    2 December 1990
+Legal system:
+    based on French civil law and customary law; has not accepted compulsory ICJ
+    jurisdiction
+National holiday:
+    National Day, 1 August (1990)
+Executive branch:
+    president, cabinet
+Legislative branch:
+    unicameral National Assembly (Assemblee Nationale)
+Judicial branch:
+    Supreme Court (Cour Supreme)
+Leaders:
+  Chief of State and Head of Government:
+    President Nicephore SOGLO (since 4 April 1991)
+Political parties and leaders:
+    Alliance of the Democratic Union for the Forces of Progress (UDFP), Timothee
+    ADANLIN; Movement for Democracy and Social Progress (MDPS), Jean-Roger
+    AHOYO; and the Union for Liberty and Development (ULD), Marcellin DEGBE;
+    Alliance of the National Party for Democracy and Development (PNDD) and the
+    Democratic Renewal Party (PRD), Pascal Chabi KAO; Alliance of the Social
+    Democratic Party (PSD) and the National Union for Solidarity and Progress
+    (UNSP), Bruno AMOUSSOU; Our Common Cause (NCC), Albert TEVOEDJRE; National
+    Rally for Democracy (RND), Joseph KEKE; Alliance of the National Movement
+    for Democracy and Development (MNDD), Bertin BORNA; Movement for Solidarity,
+    Union, and Progress (MSUP), Adebo ADENIYI; and Union for Democracy and
+    National Reconstruction (UDRN), Azaria FAKOREDE; Union for Democracy and
+    National Solidarity (UDS), Mama Amadou N'DIAYE; Assembly of Liberal
+    Democrats for National Reconstruction (RDL), Severin ADJOVI; Alliance of the
+    Alliance for Social Democracy (ASD), Robert DOSSOU, and Bloc for Social
+    Democracy (BSD), Michel MAGNIDE; Alliance of the Alliance for Democracy and
+    Progress (ADP), Akindes ADEKPEDJOU, and Democratic Union for Social Renewal
+    (UDRS), Bio Gado Seko N'GOYE; National Union for Democracy and Progress
+    (UNDP), Robert TAGNON; numerous other small parties
+Suffrage:
+    universal at age 18
+Elections:
+  National Assembly:
+    last held 10 and 24 March 1991; results - percent of vote by party NA; seats
+    - (64 total) UDFP-MDPS-ULD 12, PNDD/PRD 9, PSD/UNSP 8, NCC 7, RND 7,
+    MNDD/MSUP/UDRN 6, UDS 5, RDL 4, ASD/BSD 3, ADP/UDRS 2, UNDP 1
+  President:
+    last held 10 and 24 March 1991; results - Nicephore SOGLO 68%, Mathieu
+    KEREKOU 32%
+Communists:
+    Communist Party of Dahomey (PCD) remains active
+
+:Benin Government
+
+Member of:
+    ACCT, ACP, AfDB, CEAO, ECA, ECOWAS, Entente, FAO, FZ, G-77, GATT, IBRD,
+    ICAO, IDA, IDB, IFAD, IFC, ILO, IMF, IMO, INTELSAT, INTERPOL, IOC, ITU,
+    LORCS, NAM, OAU, OIC, UN, UNCTAD, UNESCO, UNIDO, UPU, WADB, WCL, WHO, WIPO,
+    WMO, WTO
+Diplomatic representation:
+    Ambassador Candide AHOUANSOU; Chancery at 2737 Cathedral Avenue NW,
+    Washington, DC 20008; telephone (202) 232-6656
+  US:
+    Ambassador Harriet W. ISOM; Embassy at Rue Caporal Anani Bernard, Cotonou
+    (mailing address is B. P. 2012, Cotonou); telephone [229] 30-06-50,
+    30-05-13, 30-17-92; FAX [229] 30-14-39 and 30-19-74
+Flag:
+    two equal horizontal bands of yellow (top) and red with a vertical green
+    band on the hoist side
+
+:Benin Economy
+
+Overview:
+    Benin is one of the least developed countries in the world because of
+    limited natural resources and a poorly developed infrastructure. Agriculture
+    accounts for about 35% of GDP, employs about 60% of the labor force, and
+    generates a major share of foreign exchange earnings. The industrial sector
+    contributes only about 15% to GDP and employs 2% of the work force. Low
+    prices in recent years have kept down hard currency earnings from Benin's
+    major exports of agricultural products and crude oil.
+GDP:
+    exchange rate conversion - $2.0 billion, per capita $410; real growth rate
+    3% (1991)
+Inflation rate (consumer prices):
+    3.0% (1990)
+Unemployment rate:
+    NA%
+Budget:
+    revenues $194 million; expenditures $390 million, including capital
+    expenditures of $104 million (1990 est.)
+Exports:
+    $263.3 million (f.o.b., 1990 est.)
+  commodities:
+    crude oil, cotton, palm products, cocoa
+  partners:
+    FRG 36%, France 16%, Spain 14%, Italy 8%, UK 4%
+Imports:
+    $428 million (f.o.b., 1990 est.)
+  commodities:
+    foodstuffs, beverages, tobacco, petroleum products, intermediate goods,
+    capital goods, light consumer goods
+  partners:
+    France 34%, Netherlands 10%, Japan 7%, Italy 6%, US 4%
+External debt:
+    $1.0 billion (December 1990 est.)
+Industrial production:
+    growth rate --0.7% (1988); accounts for 15% of GDP
+Electricity:
+    30,000 kW capacity; 25 million kWh produced, 5 kWh per capita (1991)
+Industries:
+    textiles, cigarettes, construction materials, beverages, food production,
+    petroleum
+Agriculture:
+    small farms produce 90% of agricultural output; production is dominated by
+    food crops - corn, sorghum, cassava, beans, and rice; cash crops include
+    cotton, palm oil, and peanuts; poultry and livestock output has not kept up
+    with consumption
+Economic aid:
+    US commitments, including Ex-Im (FY70-89), $46 million; Western (non-US)
+    countries, ODA and OOF bilateral commitments (1970-89), $1,300 million; OPEC
+    bilateral aid (1979-89), $19 million; Communist countries (1970-89), $101
+    million
+Currency:
+    Communaute Financiere Africaine franc (plural - francs); 1 CFA franc (CFAF)
+    = 100 centimes
+Exchange rates:
+    Communaute Financiere Africaine francs (CFAF) per US$1 - 269.01 (January
+    1992), 282.11 (1991), 272.26 (1990), 319.01 (1989), 297.85 (1988), 300.54
+    (1987)
+Fiscal year:
+    calendar year
+
+:Benin Communications
+
+Railroads:
+    578 km, all 1.000-meter gauge, single track
+Highways:
+    5,050 km total; 920 km paved, 2,600 laterite, 1,530 km improved earth
+Inland waterways:
+    navigable along small sections, important only locally
+Ports:
+    Cotonou
+Civil air:
+    no major transport aircraft
+Airports:
+    6 total, 5 usable; 1 with permanent-surface runways; none with runways over
+    2,439 m; 4 with runways 1,220-2,439 m
+Telecommunications:
+    fair system of open wire, submarine cable, and radio relay; broadcast
+    stations - 2 AM, 2 FM, 2 TV; 1 Atlantic Ocean INTELSAT earth station
+
+:Benin Defense Forces
+
+Branches:
+    Armed Forces (including Army, Navy, Air Force), National Gendarmerie
+Manpower availability:
+    eligible 15-49, 2,165,515; of the 1,031,738 males 15-49, 528,366 are fit for
+    military service; of the 1,133,777 females 15-49, 572,603 are fit for
+    military service; about 55,697 males and 53,786 females reach military age
+    (18) annually; both sexes are liable for military service
+Defense expenditures:
+    exchange rate conversion - $29 million, 1.7% of GDP (1988 est.)
+
+:Bermuda Geography
+
+Total area:
+    50 km2
+Land area:
+    50 km2
+Comparative area:
+    about 0.3 times the size of Washington, DC
+Land boundaries:
+    none
+Coastline:
+    103 km
+Maritime claims:
+  Exclusive fishing zone:
+    200 nm
+  Territorial sea:
+    12 nm
+Climate:
+    subtropical; mild, humid; gales, strong winds common in winter
+Terrain:
+    low hills separated by fertile depressions
+Natural resources:
+    limestone, pleasant climate fostering tourism
+Land use:
+    arable land 0%; permanent crops 0%; meadows and pastures 0%; forest and
+    woodland 20%; other 80%
+Environment:
+    ample rainfall, but no rivers or freshwater lakes; consists of about 360
+    small coral islands
+Note:
+    1,050 km east of North Carolina; some reclaimed land leased by US Government
+
+:Bermuda People
+
+Population:
+    60,213 (July 1992), growth rate 0.8% (1992)
+Birth rate:
+    15 births/1,000 population (1992)
+Death rate:
+    7 deaths/1,000 population (1992)
+Net migration rate:
+    NEGL migrants/1,000 population (1992)
+Infant mortality rate:
+    13 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    73 years male, 77 years female (1992)
+Total fertility rate:
+    1.8 children born/woman (1992)
+Nationality:
+    noun - Bermudian(s); adjective - Bermudian
+Ethnic divisions:
+    black 61%, white and other 39%
+Religions:
+    Anglican 37%, Roman Catholic 14%, African Methodist Episcopal (Zion) 10%,
+    Methodist 6%, Seventh-Day Adventist 5%, other 28%
+Languages:
+    English
+Literacy:
+    98% (male 98%, female 99%) age 15 and over can read and write (1970)
+Labor force:
+    32,000; clerical 25%, services 22%, laborers 21%, professional and technical
+    13%, administrative and managerial 10%, sales 7%, agriculture and fishing 2%
+    (1984)
+Organized labor:
+    8,573 members (1985); largest union is Bermuda Industrial Union
+
+:Bermuda Government
+
+Long-form name:
+    none
+Type:
+    dependent territory of the UK
+Capital:
+    Hamilton
+Administrative divisions:
+    9 parishes and 2 municipalities*; Devonshire, Hamilton, Hamilton*, Paget,
+    Pembroke, Saint George*, Saint George's, Sandys, Smiths, Southampton,
+    Warwick
+Independence:
+    none (dependent territory of the UK)
+Constitution:
+    8 June 1968
+Legal system:
+    English law
+National holiday:
+    Bermuda Day, 22 May
+Executive branch:
+    British monarch, governor, deputy governor, premier, deputy premier,
+    Executive Council (cabinet)
+Legislative branch:
+    bicameral Parliament consists of an upper house or Senate and a lower house
+    or House of Assembly
+Judicial branch:
+    Supreme Court
+Leaders:
+  Chief of State:
+    Queen ELIZABETH II (since 6 February 1952), represented by Governor Lord
+    David WADDINGTON
+  Head of Government:
+    Premier John William David SWAN (since January 1982)
+Political parties and leaders:
+    United Bermuda Party (UBP), John W. D. SWAN; Progressive Labor Party (PLP),
+    Frederick WADE; National Liberal Party (NLP), Gilbert DARRELL
+Suffrage:
+    universal at age 21
+Elections:
+  House of Assembly:
+    last held 9 February 1989 (next to be held by February 1994); results -
+    percent of vote by party NA; seats - (40 total) UBP 23, PLP 15, NLP 1, other
+    1
+Other political or pressure groups:
+    Bermuda Industrial Union (BIU), headed by Ottiwell SIMMONS
+Member of:
+    CARICOM (observer), CCC, ICFTU, IOC
+Diplomatic representation:
+    as a dependent territory of the UK, Bermuda's interests in the US are
+    represented by the UK
+  US:
+    Consul General L. Ebersole GAINES; Consulate General at Crown Hill, 16
+    Middle Road, Devonshire, Hamilton (mailing address is P. O. Box HM325,
+    Hamilton HMBX; PSC 1002, FPO AE 09727-1002); telephone (809) 295-1342; FAX
+    (809) 295-1592
+Flag:
+    red with the flag of the UK in the upper hoist-side quadrant and the
+    Bermudian coat of arms (white and blue shield with a red lion holding a
+    scrolled shield showing the sinking of the ship Sea Venture off Bermuda in
+    1609) centered on the outer half of the flag
+
+:Bermuda Economy
+
+Overview:
+    Bermuda enjoys one of the highest per capita incomes in the world, having
+    successfully exploited its location by providing luxury tourist facilities
+    and financial services. The tourist industry attracts more than 90% of its
+    business from North America. The industrial sector is small, and agriculture
+    is severely limited by a lack of suitable land. About 80% of food needs are
+    imported.
+GDP:
+    purchasing power equivalent - $1.3 billion, per capita $22,400; real growth
+    rate 2.0% (1989 est.)
+Inflation rate (consumer prices):
+    5.8% (June 1989, annual rate)
+Unemployment rate:
+    2.0% (1988)
+Budget:
+    revenues $361.6 million; expenditures $396.1 million, including capital
+    expenditures of $74.1 million (FY91 est.)
+Exports:
+    $30 million (f.o.b., FY88)
+  commodities:
+    semitropical produce, light manufactures
+  partners:
+    US 25%, Italy 25%, UK 14%, Canada 5%, other 31%
+Imports:
+    $420 million (c.i.f., FY88)
+  commodities:
+    fuel, foodstuffs, machinery
+  partners:
+    US 58%, Netherlands Antilles 9%, UK 8%, Canada 6%, Japan 5%, other 14%
+External debt:
+    NA
+Industrial production:
+    growth rate NA%
+Electricity:
+    154,000 kW capacity; 504 million kWh produced, 8,625 kWh per capita (1991)
+Industries:
+    tourism, finance, structural concrete products, paints, pharmaceuticals,
+    ship repairing
+Agriculture:
+    accounts for less than 1% of GDP; most basic foods must be imported;
+    produces bananas, vegetables, citrus fruits, flowers, dairy products
+Economic aid:
+    US commitments, including Ex-Im (FY70-81), $34 million; Western (non-US)
+    countries, ODA and OOF bilateral commitments (1970-89), $277  Sillio_
+}urr%_c5u
+    8%rSuJiG_ JollGr (VlurGl S JollGrYl2 u 8%rSuJiG_ JollGr (8JJl V uDD c%_|Y
+~xc"G_M% rG|%Yu
+    8%rSuJiG_ JollGr (8JJl V%r oSJu S uADDDD (fix%J rG|%l
+ iYcGl 5%Gru
+    u AVril S <u MGrc"
+
+u8%rSuJG }oSSu_icG|io_Y
+
+@iM"<G5Yu
+    2uD (S Vu@lic roGJY, Gll VG2%J (G@ou| xDD (S of Vri2G|% roGJYl
+Por|Yu
+     r%%Vor|, @GSil|o_, SGi_| G%orM%
+M%rc"G_| SGri_%u
+    A< Y"iVY (u,DDD Gl_ or o2%rl |o|Gli_M <,5uu,}A2 Gl_Y,,D}<,<2u D[_2 i_cluJ%Y
+    x cGrMo, 5 r%friM%rG|%J cGrMo, x co_|Gi_%r, A rollSo_YrollSoff, 2< V%|rol%uS
+    |G_(%r, u2 li[u%fi%J MGY, u8 @ul(2 _o|% S G flGM of co_2%_i%_c% r%MiY|r5
+}i2il Giru
+    u, SGPor |rG_YVor| GircrGf|
+AirVor|Yu
+    u <i|" V%rSG_%_|SYurfGc% ru_<G5Y 2,xxDS<,,5} S
+_%l%coSSu_icG|io_Yu
+    SoJ%r_ <i|" full5 Gu|oSG|ic |%l%V"o_% Y5Y|%S2 52,,AD |%l%V"o_%Y2 @roGJcGY|
+    Y|G|io_Y S 5 AM, <  M, 2 _V2 < Yu@SGri_% cG@l%Y2 2 A|lG_|ic ic%G_ c"_~fSA_
+    %Gr|" Y|G|io_Y
+
+u8%rSuJG D%f%_Y%  orc%Y
+
+8rG_c"%Yu
+    8%rSuJG l%MiS%_|, 8%rSuJG Polic%  orc%, 8%rSuJG l%Y%r2% }o_Y|G@ulGr5
+"o|%u
+    J%f%_Y% iY |"% r%YVo_Yi@ili|5 of |"% o%
+
+u8"u|G_ G%oMrGV"5
+
+_o|Gl Gr%Gu
+    xA,DDD (S2
+fG_J Gr%Gu
+    xA,DDD (S2
+}oSVGrG|i2% Gr%Gu
+    YliM"|l5 Sor% |"G_ "Glf |"% Yi,% of c_JiG_G
+fG_J @ou_JGri%Yu
+    u,DA5 (S2 }"i_G xAD (S, c_JiG ,D5 (S
+}oGY|li_%u
+    _o_% S lG_Jloc(%J
+MGri|iS% clGiSYu
+    _o_% S lG_Jloc(%J
+DiYVu|%Yu
+    _o_%
+}liSG|%u
+    2Gri%Y2 |roVicGl i_ You|"%r_ VlGi_Y2 cool <i_|%rY G_J "o| YuSS%rY i_ c%_|rGl
+    2Gll%5Y2 Y%2%r% <i_|%rY G_J cool YuSS%rY i_ @iSGlG5GY
+_%rrGi_u
+    SoY|l5 Sou_|Gi_ouY <i|" YoS% f%r|il% 2Gll%5Y G_J YG2G__G
+"G|urGl r%Yourc%Yu
+    |iS@%r, "5JroVo<%r, M5VYuS, cGlciuS cGr@iJ%, |ouriYS Vo|%_|iGl
+fG_J uY%u
+    GrG@l% lG_J 2%2 V%rSG_%_| croVY "~Gf%2 S%GJo<Y G_J VGY|ur%Y 5%2 for%Y| G_J
+    <ooJlG_J AD%2 o|"%r 2<%
+~_2iro_S%_|u
+    2iol%_| Y|orSY coSi_M Jo<_ froS |"% @iSGlG5GY <%r% |"% Yourc% of |"% cou_|r5
+    _GS% <"ic" |rG_YlG|%Y GY fG_J of |"% _"u_J%r DrGMo_
+"o|%u
+    lG_Jloc(%J2 Y|rG|%Mic locG|io_ @%|<%%_ }"i_G G_J c_JiG2 co_|rolY Y%2%rGl (%5
+    @iSGlG5G_ Sou_|Gi_ VGYY%Y
+
+u8"u|G_ P%oVl%
+
+PoVulG|io_u
+    u,,,D,u,A (Jul5 u}}2l, Mro<|" rG|% 2A<% (u}}2l
+8ir|" rG|%u
+    xD @ir|"YYu,DDD VoVulG|io_ (u}}2l
+D%G|" rG|%u
+    uA J%G|"YYu,DDD VoVulG|io_ (u}}2l
+"%| SiMrG|io_ rG|%u
+    D SiMrG_|YYu,DDD VoVulG|io_ (u}}2l
+c_fG_| Sor|Gli|5 rG|%u
+    u2, J%G|"YYu,DDD li2% @ir|"Y (u}}2l
+fif% %xV%c|G_c5 G| @ir|"u
+    5D 5%GrY SGl%, x} 5%GrY f%SGl% (u}}2l
+_o|Gl f%r|ili|5 rG|%u
+    5A5 c"ilJr%_ @or_Y<oSG_ (u}}2l
+"G|io_Gli|5u
+    _ou_ S 8"u|G_%Y% (Yi_MulGr G_J VlurGll2 GJP%c|i2% S 8"u|G_%Y%
+~|"_ic Ji2iYio_Yu
+    8"o|% ,D%, %|"_ic "%VGl%Y% 25%, i_JiM%_ouY or SiMrG_| |ri@%Y u5%
+l%liMio_Yu
+    fGSGiY|ic 8uJJ"iYS A5%, c_JiG_S G_J "%VGl%Y%Si_flu%_c%J @i_JuiYS 25%
+fG_MuGM%Yu
+    8"o|%Y YV%G( 2GriouY _i@%|G_ JiGl%c|Y S SoY| <iJ%l5 YVo(%_ JiGl%c| iY
+    D,o_M("G (officiGll2 "%VGl%Y% YV%G( 2GriouY "%VGl%Y% JiGl%c|Y
+fi|%rGc5u
+    "A% (SGl% "A%, f%SGl% "A%l
+fG@or forc%u
+    "A2 GMricul|ur% }<%, Y%r2ic%Y 5%, i_JuY|r5 G_J coSS%rc% 2%2 SGYYi2% lGc( of
+    Y(ill%J lG@or
+irMG_i,%J lG@oru
+    _o| V%rSi||%J
+
+u8"u|G_ Go2%r_S%_|
+
+fo_MSforS _GS%u
+    %i_MJoS of 8"u|G_
+_5V%u
+    So_Grc"52 YV%ciGl |r%G|5 r%lG|io_Y"iV <i|" c_JiG
+}GVi|Glu
+    _"iSV"u
+AJSi_iY|rG|i2% Ji2iYio_Yu
+    u8 JiY|ric|Y (J,o_M("GM, Yi_MulGr G_J VlurGll2 8uS|"G_M, }""u("G, }"irG_M,
+    DGMG, G%5l%MV"uM, @G, f"u_|Y"i, Mo_MGr, PGro, P%SGMG|Y%l, Pu_G("G, SGSc"i,
+    SGSJruV Jo_M("Gr, S"%SMG_M, _GY"iMG_M, _"iSV"u, _o_MYG, [G_MJi P"oJrG_M
+c_J%V%_J%_c%u
+    8 AuMuY| u}x} (froS c_JiGl
+}o_Y|i|u|io_u
+    _o <ri||%_ co_Y|i|u|io_ or @ill of riM"|Y
+f%MGl Y5Y|%Su
+    @GY%J o_ c_JiG_ lG< G_J ~_MliY" coSSo_ lG<2 "GY _o| Gcc%V|%J coSVulYor5 c}J
+    PuriYJic|io_
+"G|io_Gl "oliJG5u
+    "G|io_Gl DG5 (oM5%_ [G_Mc"uc( @%cGS% firY| "%r%Ji|Gr5 (i_Ml, uA D%c%S@%r
+    (u}DAl
+~x%cu|i2% @rG_c"u
+    So_Grc", c"GirSG_ of |"% lo5Gl AJ2iYor5 }ou_cil, lo5Gl AJ2iYor5 }ou_cil
+    (foJoi _Yo(J%l, c"GirSG_ of |"% }ou_cil of Mi_iY|%rY, }ou_cil of Mi_iY|%rY
+    (f"%_M5% S"u_M|YoMl
+f%MiYlG|i2% @rG_c"u
+    u_icGS%rGl "G|io_Gl AYY%S@l5 (_Y"oMJul
+JuJiciGl @rG_c"u
+    @iM" }our|
+f%GJ%rYu
+  }"i%f of S|G|% G_J @%GJ of Go2%r_S%_|u
+    %i_M JiMS% Si_M5% [A"G}@o}% (Yi_c% 2x Jul5 u}A2l
+Poli|icGl VGr|i%Y G_J l%GJ%rYu
+    _o l%MGl VGr|i%Y
+SuffrGM%u
+    %Gc" fGSil5 "GY o_% 2o|% i_ 2illGM%Sl%2%l %l%c|io_Y
+~l%c|io_Yu
+    _o _G|io_Gl %l%c|io_Y
+}oSSu_iY|Yu
+    _o o2%r| }oSSu_iY| Vr%Y%_c%
+i|"%r Voli|icGl or Vr%YYur% MrouVYu
+    8uJJ"iY| cl%rM5, c_JiG_ S%rc"G_| coSSu_i|52 %|"_ic "%VGl%Y% orMG_i,G|io_Y
+    l%GJi_M Sili|G_| G_|iMo2%r_S%_| cGSVGiM_
+M%S@%r ofu
+    AYD8, }P, ~S}AP,  Ai, GSAA, c8lD, c}Ai, cDA, c AD, cM , ci}, c_o, "AM,
+    SAAl}, o", o"}_AD, o"~S}i, o"cDi, oPo, [@i
+DiVloSG|ic r%Vr%Y%_|G|io_u
+    _o forSGl JiVloSG|ic r%lG|io_Y, Gl|"ouM" i_forSGl co_|Gc| iY SGi_|Gi_%J
+    @%|<%%_ |"% 8"u|G_%Y% G_J oS ~S@GYYi%Y i_ "%< D%l"i (c_JiGl2 |"% 8"u|G_%Y%
+    SiYYio_ |o |"% o" i_ "%< Yor( "GY co_YulGr PuriYJic|io_ i_ |"% oS
+ lGMu
+    Ji2iJ%J JiGMo_Gll5 froS |"% lo<%r "oiY| YiJ% cor_%r2 |"% uVV%r |riG_Ml% iY
+    orG_M% G_J |"% lo<%r |riG_Ml% iY r%J2 c%_|%r%J Glo_M |"% Ji2iJi_M li_% iY G
+    lGrM% @lGc( G_J <"i|% JrGMo_ fGci_M G<G5 froS |"% "oiY| YiJ%
+
+u8"u|G_ ~co_oS5
+
+i2%r2i%<u
+    _"% %co_oS5, o_% of |"% <orlJMY l%GY| J%2%loV%J, iY @GY%J o_ GMricul|ur% G_J
+    for%Y|r5, <"ic" Vro2iJ% |"% SGi_ li2%li"ooJ for }D% of |"% VoVulG|io_ G_J
+    Gccou_| for G@ou| 5D% of GDPA luMM%J Sou_|Gi_Y JoSi_G|% |"% |%rrGi_ G_J SG(%
+    |"% @uilJi_M of roGJY G_J o|"%r i_frGY|ruc|ur% Jifficul| G_J %xV%_Yi2%A _"%
+    %co_oS5 iY cloY%l5 GliM_%J <i|" |"G| of c_JiG |"rouM" Y|ro_M |rGJ% G_J
+    So_%|Gr5 li_(YA fo< <GM%Y i_ i_JuY|r5 l%GJ SoY| 8"u|G_%Y% |o Y|G5 i_
+    GMricul|ur%A MoY| J%2%loVS%_| VroP%c|Y, Yuc" GY roGJ co_Y|ruc|io_, r%l5 o_
+    c_JiG_ SiMrG_| lG@orA 8"u|G_MY "5JroVo<%r Vo|%_|iGl G_J i|Y G||rGc|io_ for
+    |ouriY|Y Gr% i|Y SoY| iSVor|G_| _G|urGl r%Yourc%YA
+GDPu
+    %xc"G_M% rG|% co_2%rYio_ S J<2D Sillio_, V%r cGVi|G J2DD2 r%Gl Mro<|" rG|%
+    <Au% (u}}u %Y|Al
+c_flG|io_ rG|% (co_YuS%r Vric%Ylu
+    u2% ( Y}Dl
+o_%SVlo5S%_| rG|%u
+    "A
+8uJM%|u
+    r%2%_u%Y Juu2 Sillio_2 %xV%_Ji|ur%Y Ju2u Sillio_, i_cluJi_M cGVi|Gl
+    %xV%_Ji|ur%Y of J58 Sillio_ ( Y}u %Y|Al
+~xVor|Yu
+    JAx Sillio_ (fAoA@A,  Y}ul
+  coSSoJi|i%Yu
+    cGrJGSo_, M5VYuS, |iS@%r, "G_JicrGf|Y, c%S%_|, frui|
+  VGr|_%rYu
+    c_JiG }<%
+cSVor|Yu
+    JuD,Ax Sillio_ (cAiAfA,  Y}u %Y|Al
+  coSSoJi|i%Yu
+    fu%l G_J lu@ricG_|Y, MrGi_, SGc"i_%r5 G_J VGr|Y, 2%"icl%Y, fG@ricY
+  VGr|_%rYu
+    c_JiG ,A%
+~x|%r_Gl J%@|u
+    J8D Sillio_ ( Y}u %Y|Al
+c_JuY|riGl VroJuc|io_u
+    Mro<|" rG|% "A2 Gccou_|Y for u8% of GDP
+~l%c|rici|5u
+    <5<,DDD ([ cGVGci|52 2,DDD Sillio_ ([" VroJuc%J, u,28D ([" V%r cGVi|G (u}}Dl
+c_JuY|ri%Yu
+    c%S%_|, <ooJ VroJuc|Y, Vroc%YY%J frui|Y, Glco"olic @%2%rGM%Y, cGlciuS
+    cGr@iJ%
+AMricul|ur%u
+    Gccou_|Y for 5D% of GDP2 @GY%J o_ Yu@YiY|%_c% fGrSi_M G_J G_iSGl "uY@G_Jr52
+    Y%lfSYuffici%_| i_ fooJ %xc%V| for fooJMrGi_Y2 o|"%r VroJuc|io_ S ric%,
+    cor_, roo| croVY, ci|ruY frui|, JGir5, G_J %MMY
+~co_oSic GiJu
+    [%Y|%r_ (_o_SoSl cou_|ri%Y, iDA G_J ii  @ilG|%rGl coSSi|S%_|Y (u}ADS8}l,
+    Juu5 Sillio_2 iP~} @ilG|%rGl GiJ (u}A}S8}l, Juu Sillio_
+}urr%_c5u
+    _Mul|ruS (VlurGl S _Mul|ruSl2 u _Mul|ruS ("ul V uDD c"%|ruS2 _o|% S c_JiG_
+    curr%_c5 iY GlYo l%MGl |%_J%r
+~xc"G_M% rG|%Yu
+    _Mul|ruS ("ul V%r oSJu S 25A}2A (JG_uGr5 u}}2l, 22AAx2 (u}}ul, uAA5Dx
+    (u}}Dl, u,A22, (u}8}l, u<A}uA (u}88l, u2A},2 (u}8Al2 _o|% S |"% 8"u|G_%Y%
+    _Mul|ruS iY G| VGr <i|" |"% c_JiG_ ruV%%
+ iYcGl 5%Gru
+    u Jul5 S <D Ju_%
+
+u8"u|G_ }oSSu_icG|io_Y
+
+@iM"<G5Yu
+    u,<Dx (S |o|Gl2 xu8 (S YurfGc%J, 5u5 (S iSVro2%J, <Au (S u_iSVro2%J %Gr|"
+}i2il Giru
+    u P%|, 2 VroV
+AirVor|Yu
+    2 |o|Gl, 2 uYG@l%2 u <i|" V%rSG_%_|SYurfGc% ru_<G5Y2 _o_% <i|" ru_<G5Y o2%r
+    2,x<} S2 2 <i|" ru_<G5Y u,22DS2,x<} S
+_%l%coSSu_icG|io_Yu
+    i_GJ%[uG|%2 u,}}D |%l%V"o_%Y (u}88l2 22,DDD rGJioY (u}}D %Y|Al2 85 _VY
+    (u}85l2 @roGJcGY| Y|G|io_Y S u AM, u  M, _o _V (u}}Dl
+
+u8"u|G_ D%f%_Y%  orc%Y
+
+8rG_c"%Yu
+    lo5Gl 8"u|G_ ArS5, PGlGc% GuGrJ, Mili|iG
+MG_Vo<%r G2GilG@ili|5u
+    SGl%Y u5Sx}, xD,,<,D2 2uA,<x8 fi| for Sili|Gr5 Y%r2ic%2 uA,<u, r%Gc"
+    Sili|Gr5 GM% (u8l G__uGll5
+D%f%_Y% %xV%_Ji|ur%Yu
+    %xc"G_M% rG|% co_2%rYio_ S J"A, "A% of GDP
+
+u8oli2iG G%oMrGV"5
+
+_o|Gl Gr%Gu
+    u,D}8,58D (S2
+fG_J Gr%Gu
+    u,D8x,<}D (S2
+}oSVGrG|i2% Gr%Gu
+    YliM"|l5 l%YY |"G_ |"r%% |iS%Y |"% Yi,% of Mo_|G_G
+fG_J @ou_JGri%Yu
+    ,,Ax< (S2 ArM%_|i_G 8<2 (S, 8rG,il <,xDD (S, }"il% 8,u (S, PGrGMuG5 A5D (S,
+    P%ru }DD (S
+}oGY|li_%u
+    _o_% S lG_Jloc(%J
+MGri|iS% clGiSYu
+    _o_% S lG_Jloc(%J
+DiYVu|%Yu
+    "GY <G_|%J G Yo2%r%iM_ corriJor |o |"% Sou|" PGcific ic%G_ Yi_c% |"% A|GcGSG
+    Gr%G <GY loY| |o }"il% i_ u88x2 JiYVu|% <i|" }"il% o2%r lio fGucG <G|%r
+    riM"|Y
+}liSG|%u
+    2Gri%Y <i|" Gl|i|uJ%2 "uSiJ G_J |roVicGl |o colJ G_J Y%SiGriJ
+_%rrGi_u
+    ruMM%J A_J%Y Mou_|Gi_Y <i|" G "iM"lG_J VlG|%Gu (Al|iVlG_ol, "illY, lo<lG_J
+    VlGi_Y of |"% ASG,o_ @GYi_
+"G|urGl r%Yourc%Yu
+    |i_, _G|urGl MGY, cruJ% oil, ,i_c, |u_MY|%_, G_|iSo_5, Yil2%r, iro_ or%,
+    l%GJ, MolJ, |iS@%r
+fG_J uY%u
+    GrG@l% lG_J <%2 V%rSG_%_| croVY "~Gf%2 S%GJo<Y G_J VGY|ur%Y 25%2 for%Y| G_J
+    <ooJlG_J 52%2 o|"%r 2D%2 i_cluJ%Y irriMG|%J "~Gf%
+~_2iro_S%_|u
+    colJ, |"i_ Gir of "iM" VlG|%Gu iY o@Y|Gcl% |o %ffici%_| fu%l coS@uY|io_2
+    o2%rMrG,i_M2 Yoil %roYio_2 J%Y%r|ificG|io_
+"o|%u
+    lG_Jloc(%J2 Y"Gr%Y co_|rol of fGMo _i|icGcG, <orlJMY "iM"%Y| _G2iMG@l% lG(%,
+    <i|" P%ru
+
+u8oli2iG P%oVl%
+
+PoVulG|io_u
+    A,<2<,Dx8 (Jul5 u}}2l, Mro<|" rG|% 2A<% (u}}2l
+8ir|" rG|%u
+    << @ir|"YYu,DDD VoVulG|io_ (u}}2l
+D%G|" rG|%u
+    } J%G|"YYu,DDD VoVulG|io_ (u}}2l
+"%| SiMrG|io_ rG|%u
+    SSu SiMrG_|Yu,DDD VoVulG|io_ (u}}2l
+c_fG_| Sor|Gli|5 rG|%u
+    82 J%G|"YYu,DDD li2% @ir|"Y (u}}2l
+fif% %xV%c|G_c5 G| @ir|"u
+    5} 5%GrY SGl%, ,x 5%GrY f%SGl% (u}}2l
+_o|Gl f%r|ili|5 rG|%u
+    xA5 c"ilJr%_ @or_Y<oSG_ (u}}2l
+"G|io_Gli|5u
+    _ou_ S 8oli2iG_(Yl2 GJP%c|i2% S 8oli2iG_
+~|"_ic Ji2iYio_Yu
+    (u%c"uG <D%, A5SGrG 25%, Six%J 25S<D%, ~uroV%G_ 5Su5%
+l%liMio_Yu
+    loSG_ }G|"olic }5%2 Gc|i2% Pro|%Y|G_| Si_ori|5, %YV%ciGll5 ~2G_M%licGl
+    M%|"oJiY|
+fG_MuGM%Yu
+    SVG_iY", (u%c"uG, G_J A5SGrG (Gll officiGll
+fi|%rGc5u
+    A8% (SGl% 85%, f%SGl% Au%l GM% u5 G_J o2%r cG_ r%GJ G_J <ri|% (u}}D %Y|Al
+fG@or forc%u
+    u,ADD,DDD2 GMricul|ur% 5D%, Y%r2ic%Y G_J u|ili|i%Y 2,%, SG_ufGc|uri_M uD%,
+    Si_i_M x%, o|"%r uD% (u}8<l
+irMG_i,%J lG@oru
+    u5D,DDDS2DD,DDD, co_c%_|rG|%J i_ Si_i_M, i_JuY|r5, co_Y|ruc|io_, G_J
+    |rG_YVor|G|io_2 SoY|l5 orMG_i,%J u_J%r 8oli2iG_ [or(%rYM }%_|rGl (}i8l lG@or
+    f%J%rG|io_
+
+u8oli2iG Go2%r_S%_|
+
+fo_MSforS _GS%u
+    l%Vu@lic of 8oli2iG
+_5V%u
+    r%Vu@lic
+}GVi|Glu
+    fG PG, (Y%G| of Mo2%r_S%_|l2 Sucr% (l%MGl cGVi|Gl G_J Y%G| of PuJiciGr5l
+AJSi_iY|rG|i2% Ji2iYio_Yu
+    } J%VGr|S%_|Y (J%VGr|GS%_|oY, Yi_MulGr S J%VGr|GS%_|ol2 }"u[uiYGcG,
+    }oc"G@GS@G, 8%_i, fG PG,, iruro, PG_Jo, Po|oYi, SG_|G }ru,, _GriPG
+c_J%V%_J%_c%u
+    , AuMuY| u825 (froS SVGi_l
+}o_Y|i|u|io_u
+    2  %@ruGr5 u},A
+f%MGl Y5Y|%Su
+    @GY%J o_ SVG_iY" lG< G_J }oJ% "GVol%o_2 "GY _o| Gcc%V|%J coSVulYor5 c}J
+    PuriYJic|io_
+"G|io_Gl "oliJG5u
+    c_J%V%_J%_c% DG5, , AuMuY| (u825l
+~x%cu|i2% @rG_c"u
+    Vr%YiJ%_|, 2ic% Vr%YiJ%_|, }G@i_%|
+f%MiYlG|i2% @rG_c"u
+    @icGS%rGl "G|io_Gl }o_Mr%YY (}o_Mr%Yo "Gcio_Gll co_YiY|Y of G_ uVV%r c"GS@%r
+    or }"GS@%r of S%_G|orY (}GSGrG J% S%_GJor%Yl G_J G lo<%r c"GS@%r or }"GS@%r
+    of D%Vu|i%Y (}GSGrG J% DiVu|GJoYl
+JuJiciGl @rG_c"u
+    SuVr%S% }our| (}or|% SuVr%SGl
+f%GJ%rYu
+  }"i%f of S|G|% G_J @%GJ of Go2%r_S%_|u
+    Pr%YiJ%_| JGiS% PA| |GSorG (Yi_c% , AuMuY| u}8}l2 Vic% Pr%YiJ%_| fuiY iSSci
+    SG_Pi_%Y (Yi_c% , AuMuY| u}8}l
+Poli|icGl VGr|i%Y G_J l%GJ%rYu
+    Mo2%S%_| of |"% l%2olu|io_Gr5 f%f| (Mcll, JGiS% PA| |GSorG2 "G|io_GliY|
+    D%SocrG|ic Ac|io_ (AD"l, @uMo 8A"|~l SuGr%,2 "G|io_GliY| l%2olu|io_Gr5
+    Mo2%S%_| (M"ll, Go_,Glo SA"}@~| J% fo,GJG2 }i2ic SoliJGri|5 o_io_ (o}Sl, MGx
+     ~l"A"D~| loPGY2 }o_Yci%_c% of |"%  G|"%rlG_J (}i"D~PAl, }GrloY PAf~"(o~
+    A2il%Y2 }"riY|iG_ D%SocrG|ic PGr|5 (PD}l, JorM% AGl~Di2  r%% 8oli2iG
+    Mo2%S%_| (M8fl, l%J @5 A_|o_io AlA"c8Al2 o_i|%J f%f| (col, G coGli|io_ of
+    l%f|iY| VGr|i%Y |"G| i_cluJ%Y PG|rio|ic "G|io_Gl }o_2%rM%_c5 AxiY (~J~SPl
+    l%J @5 [Gl|%r D~fGADcffi, G_J 8oli2iG_ }oSSu_iY| PGr|5 (P}8l l%J @5 @uS@%r|o
+    lAMcl~|2 l%2olu|io_Gr5 VG_MuGrJ S }|" of AVril (VlS}l, }GrloY S~llA_~ l%ic"
+SuffrGM%u
+    u_i2%rYGl G_J coSVulYor5 G| GM% u8 (SGrri%Jl or 2u (Yi_Ml%l
+~l%c|io_Yu
+  }"GS@%r of D%Vu|i%Yu
+    lGY| "%lJ A MG5 u}8} (_%x| |o @% "%lJ MG5 u}}<l2 r%Yul|Y S V%rc%_| of 2o|%
+    @5 VGr|5 "A2 _o|% S l%MiYlG|i2% G_J Vr%YiJ%_|iGl cG_JiJG|%Y ru_ o_ G u_ifi%J
+    YlG|%, Yo 2o|% V%rc%_|GM%Y Gr% |"% YGS% GY i_ Y%c|io_ o_ Vr%YiJ%_|iGl
+    %l%c|io_ r%Yul|Y2 Y%G|Y S (u<D |o|Gll M"l xD, AD" <5, Mcl <<, co uD, }i"D~PA
+    }, PD} <
+  }"GS@%r of S%_G|orYu
+    lGY| "%lJ A MG5 u}8} (_%x| |o @% "%lJ MG5 u}}<l2 r%Yul|Y S V%rc%_| of 2o|%
+    @5 VGr|5 "A2 _o|% S l%MiYlG|i2% G_J Vr%YiJ%_|iGl cG_JiJG|%Y ru_ o_ G u_ifi%J
+    YlG|%, Yo 2o|% V%rc%_|GM%Y Gr% |"% YGS% GY i_ Y%c|io_ o_ Vr%YiJ%_|iGl
+    %l%c|io_ r%Yul|Y2 Y%G|Y S (2A |o|Gll M"l }, AD" A, Mcl 8, }i"D~PA 2, PD} u
+
+u8oli2iG Go2%r_S%_|
+
+  Pr%YiJ%_|u
+    lGY| "%lJ A MG5 u}8} (_%x| |o @% "%lJ MG5 u}}<l2 r%Yul|Y S Go_,Glo SA"}@~|
+    J% fo,GJG (M"ll 2<%, @uMo 8A"|~l SuGr%, (AD"l 22%, JGiS% PA| |GSorG (Mcll
+    u}%2 _o cG_JiJG|% r%c%i2%J G SGPori|5 of |"% VoVulGr 2o|%2 JGiS% PA| |GSorG
+    (Mcll forS%J G coGli|io_ <i|" @uMo 8A"|~l (AD"l2 <i|" AD" YuVVor| PA| |GSorG
+    <o_ |"% co_Mr%YYio_Gl ru_off %l%c|io_ o_ x AuMuY| G_J <GY i_GuMurG|%J o_ ,
+    AuMuY| u}8}
+M%S@%r ofu
+    AG, ~}fA},  Ai, GSuu, GSAA, cAD8, cA~A, c8lD, c}i, cDA, c AD, c }, cfi, cM ,
+    cMi, c"_~fSA_, c"_~lPif, ci}, ciM, c_o, fA~S, fAcA, fil}S, "AM, iAS, iPA"Af,
+f%G2% |"%S |o GoJ G@o2%2 "iS Y%r2%, G_J f%GrG
+if o|"%r cr%G|ur%Y, GY "iS Vl%GY%Y @%Y|,
+["%r%2%r VlGc%J, l%| "iS JiYVoY%2 Po5 |"ou
+c_ <"G| "% Mi2%Y |o |"%%, |"iY PGrGJiY%
+A_J |"5 fGir ~2%2 @%G2%_ iY for |"%% |oo "iM"
+_o (_o< <"G| VGYY%Y |"%r%2 @% lo<l5 <iY%u
+_"i_( o_l5 <"G| co_c%r_Y |"%%, G_J |"5 @%i_M2
+Dr%GS _o| of o|"%r <orlJY, <"G| cr%G|ur%Y |"%r%
+fi2%, i_ <"G| Y|G|%, co_Ji|io_, or J%Mr%%2
+}o_|%_|%J |"G| |"uY fGr "G|" @%%_ r%2%Gl%J
+"o| of ~Gr|" o_l5, @u| of "iM"%Y| @%G2%_A
+_o <"oS |"uY AJGS, cl%Gr%J of Jou@|, r%Vli%JA
+@o< full5 "GY| |"ou YG|iYfi%J S%, Vur%
+c_|%lliM%_c% of @%G2%_, A_M%l Y%r%_%G
+A_J, fr%%J froS i_|ricGci%Y, |GuM"| |o li2%
+_"% %GYi%Y| <G52 _or <i|" V%rVl%xi_M |"ouM"|Y
+_o i_|%rruV| |"% Y<%%| of lif%, froS <"ic"
+GoJ "G|" @iJ J<%ll fGr off Gll G_xiouY cGr%Y,
+A_J _o| Sol%Y| uY2 u_l%YY <% ourY%l2%Y
+S%%( |"%S <i|" <G_J%ri_M |"ouM"|Y, G_J _o|io_Y 2Gi_A
+8u| GV| |"% Si_J or fG_c5 iY |o ro2%
+o_c"%c(%J, G_J of "%r ro2i_M iY _o %_J2
+_ill <Gr_%J, or @5 %xV%ri%_c% |GuM"|, Y"% l%Gr_,
+_"G|, _o| |o (_o< G| lGrM% of |"i_MY r%So|%
+ roS uY%, o@Ycur% G_J Yu@|l%2 @u|, |o (_o<
+_"G| <"ic" @%for% uY li%Y i_ JGil5 lif%,
+cY |"% VriS% <iYJoSu  ["G| iY Sor%, iY fuS%,
+ir %SV|i_%YY, or fo_J iSV%r|i_%_c%u
+A_J r%_J%rY uY, i_ |"i_MY |"G| SoY| co_c%r_,
+o_VrGc|iY%J, u_Vr%VGr%J, G_J Y|ill |o Y%%(A
+_"%r%for% froS |"iY "iM" Vi|c" l%| uY J%Yc%_J
+A lo<%r fliM"|, G_J YV%G( of |"i_MY G| "G_J
+oY%ful2 <"%_c%, "GVl5, S%_|io_ SG5 GriY%
+if YoS%|"i_M _o| u_Y%GYo_G@l% |o GY(,
+85 Yuff%rG_c%, G_J |"5 <o_|%J fG2our, J%iM_%JA
+_"%% c "G2% "%GrJ r%lG|i_M <"G| <GY Jo_%
+~r% S5 r%S%S@rG_c%u _o<, "%Gr S% r%lG|%
+M5 Y|or5, <"ic" V%r"GVY |"ou "GY| _o| "%GrJ2
+A_J JG5 iY _o| 5%| YV%_|2 |ill |"%_ |"ou Y%%Y|
+@o< Yu@|l5 |o J%|Gi_ |"%% c J%2iY%2
+c_2i|i_M |"%% |o "%Gr <"il% c r%lG|%2
+ o_JG <%r% i| _o| i_ "oV% of |"5 r%Vl5u
+ or, <"il% c Yi| <i|" |"%%, c Y%%S i_ @%G2%_2
+A_J Y<%%|%r |"5 JiYcourY% iY |o S5 %Gr
+_"G_ frui|Y of VGlSS|r%% Vl%GYG_|%Y| |o |"irY|
+A_J "u_M%r @o|", froS lG@our, G| |"% "our
+if Y<%%| r%VGY|2 |"%5 YG|iG|%, G_J Yoo_ fill,
+_"ouM" Vl%GYG_|2 @u| |"5 <orJY, <i|" MrGc% Ji2i_%
+cS@u%J, @ri_M |o |"%ir Y<%%|_%YY _o YG|i%|5A
+_o <"oS |"uY lGV"G%l G_Y<%r%J "%G2%_l5 S%%(A
+"or Gr% |"5 liVY u_MrGc%ful, Sir% of S%_,
+"or |o_Mu% i_%lo[u%_|2 for GoJ o_ |"%%
+A@u_JG_|l5 "iY Mif|Y "G|" GlYo Vour%J
+c_<GrJ G_J ou|<GrJ @o|", "iY iSGM% fGiru
+SV%G(i_M, or Su|%, Gll coS%li_%YY G_J MrGc%
+A||%_JY |"%%2 G_J %Gc" <orJ, %Gc" So|io_, forSY2
+"or l%YY |"i_( <% i_ @%G2%_ of |"%% o_ ~Gr|"
+_"G_ of our f%llo<SY%r2G_|, G_J i_[uir%
+GlGJl5 i_|o |"% <G5Y of GoJ <i|" MG_u
+ or GoJ, <% Y%%, "G|" "o_our%J |"%%, G_J Y%|
+i_ MG_ "iY %[uGl lo2%u  SG5 |"%r%for% o_2
+ or c |"G| JG5 <GY G@Y%_|, GY @%f%l,
+8ou_J o_ G 2o5GM% u_cou|" G_J o@Ycur%,
+ Gr o_ %xcurYio_ |o<GrJ |"% MG|%Y of @%ll2
+S[uGr%J i_ full l%Mio_ (Yuc" coSSG_J <% "GJl
+_o Y%% |"G| _o_% |"%_c% iYYu%J for|" G YV5,
+ir %_%S5, <"il% GoJ <GY i_ "iY <or(2
+f%Y| "%, i_c%_Y%J G| Yuc" %ruV|io_ @olJ,
+D%Y|ruc|io_ <i|" cr%G|io_ SiM"| "G2% Six%JA
+"o| |"G| |"%5 JurY| <i|"ou| "iY l%G2% G||%SV|2
+8u| uY "% Y%_JY uVo_ "iY "iM" @%"%Y|Y
+ or Y|G|%, GY So2rG_ %i_M2 G_J |o i_ur%
+iur VroSV| o@%Ji%_c%A   GY| <% fou_J, fGY| Y"u|,
+_"% JiYSGl MG|%Y, G_J @GrricGJo%J Y|ro_M2
+8u| lo_M %r% our GVVroGc"i_M "%GrJ <i|"i_
+"oiY%, o|"%r |"G_ |"% You_J of JG_c% or Yo_M,
+_orS%_|, G_J louJ lGS%_|, G_J furiouY rGM%A
+GlGJ <% r%|ur_%J uV |o |"% coGY|Y of liM"|
+~r% YG@@G|"S%2%_i_Mu Yo <% "GJ i_ c"GrM%A
+8u| |"5 r%lG|io_ _o<2 for c G||%_J,
+Pl%GY%J <i|" |"5 <orJY _o l%YY |"G_ |"ou <i|" Si_%A
+So YVG(% |"% GoJli(% Po<%r, G_J |"uY our Sir%A
+ or MG_ |o |%ll "o< "uSG_ lif% @%MG_
+cY "GrJ2 for <"o "iSY%lf @%Mi__i_M (_%<
+D%Yir% <i|" |"%% Y|ill lo_M%r |o co_2%rY%
+c_Juc%J S%A  AY _%< <G(%J froS You_J%Y| Yl%%V,
+Sof| o_ |"% flo<%r5 "%r@ c fou_J S% lGiJ,
+c_ @GlS5 Y<%G|2 <"ic" <i|" "iY @%GSY |"% Yu_
+Soo_ Jri%J, G_J o_ |"% r%%(i_M SoiY|ur% f%JA
+S|rGiM"| |o<GrJ @%G2%_ S5 <o_J%ri_M %5%Y c |ur_%J,
+A_J MG,%J G <"il% |"% GSVl% Y(52 |ill, rGiY%J
+85 [uic( i_Y|i_c|i2% So|io_, uV c YVru_M,
+AY |"i|"%r<GrJ %_J%G2ouri_M, G_J uVriM"|
+S|ooJ o_ S5 f%%|u G@ou| S% rou_J c YG<
+@ill, JGl%, G_J Y"GJ5 <ooJY, G_J Yu__5 VlGi_Y,
+A_J li[uiJ lGVY% of SurSuri_M Y|r%GSY2 @5 |"%Y%,
+}r%G|ur%Y |"G| li2%J G_J So2%J, G_J <Gl(%J, or fl%<2
+8irJY o_ |"% @rG_c"%Y <Gr@li_M2 Gll |"i_MY YSil%J2
+[i|" frGMrG_c% G_J <i|" Po5 S5 "%Gr| oM%rflo<%JA
+M5Y%lf c |"%_ V%ruY%J, G_J liS@ @5 liS@
+Sur2%5%J, G_J YoS%|iS%Y <%_|, G_J YoS%|iS%Y rG_
+[i|" YuVVl% Poi_|Y, GY li2%l5 2iMour l%Ju
+8u| <"o c <GY, or <"%r%, or froS <"G| cGuY%,
+%_%< _o|2 |o YV%G( c |ri%J, G_J for|"<i|" YVG(%2
+M5 |o_Mu% o@%5%J, G_J r%GJil5 coulJ _GS%
+["G|%M%r c YG<A  _"ou Su_, YGiJ c, fGir liM"|,
+A_J |"ou %_liM"|%_%J ~Gr|", Yo fr%Y" G_J MG5,
+Y% @illY, G_J DGl%Y, 5% li2%rY, [ooJY, G_J PlGi_Y,
+A_J 5% |"G| li2% G_J So2%, fGir }r%G|ur%Y, |%ll,
+_%ll, if 5% YG<, "o< c cGS% |"uY, "o< "%r%8SS
+"o| of S5Y%lf2SS@5 YoS% Mr%G| MG(%r |"%_,
+c_ MooJ_%YY G_J i_ Vo<%r Vr%S%Si_%_|u
+_%ll S%, "o< SG5 c (_o< "iS, "o< GJor%,
+ roS <"oS c "G2% |"G| |"uY c So2% G_J li2%,
+A_J f%%l |"G| c GS "GVVi%r |"G_ c (_o<ASS
+["il% |"uY c cGll%J, G_J Y|rG5%J c (_%< _o| <"i|"%r,
+ roS <"%r% c firY| Jr%< Gir, G_J firY| @%"%lJ
+_"iY "GVV5 liM"|2 <"%_, G_Y<%r _o_% r%|ur_%J,
+i_ G Mr%%_ Y"GJ5 @G_(, VrofuY% of flo<%rY,
+P%_Yi2% c YG| S% Jo<_u  _"%r% M%_|l% Yl%%V
+ irY| fou_J S%, G_J <i|" Yof| oVVr%YYio_ Y%iY%J
+M5 JrouY%J Y%_Y%, u_|rou@l%J, |"ouM" c |"ouM"|
+c |"%_ <GY VGYYi_M |o S5 forS%r Y|G|%
+c_Y%_Yi@l%, G_J for|"<i|" |o JiYYol2%u
+["%_ YuJJ%_l5 Y|ooJ G| S5 "%GJ G Jr%GS,
+["oY% i_<GrJ GVVGri|io_ M%_|l5 So2%J
+M5 fG_c5 |o @%li%2% c 5%| "GJ @%i_M,
+A_J li2%Ju  i_% cGS%, S%|"ouM"|, of Y"GV% Ji2i_%,
+A_J YGiJ, M_"5 SG_Yio_ <G_|Y |"%%, AJGS2 riY%,
+M irY| MG_, of S%_ i__uS%rG@l% orJGi_%J
+M irY|  G|"%rG cGll%J @5 |"%%, c coS% |"5 MuiJ%
+M_o |"% MGrJ%_ of @liYY, |"5 Y%G| Vr%VGr%JAM
+So YG5i_M, @5 |"% "G_J "% |oo( S% rGiY%J,
+A_J o2%r fi%lJY G_J <G|%rY, GY i_ Gir
+SSoo|"SYliJi_M <i|"ou| Y|%V, lGY| l%J S% uV
+A <ooJ5 Sou_|Gi_2 <"oY% "iM" |oV <GY VlGi_,
+A circui| <iJ%, %_cloY%J, <i|" MooJli%Y| |r%%Y
+PlG_|%J, <i|" <Gl(Y, G_J @o<%rY2 |"G| <"G| c YG<
+if ~Gr|" @%for% YcGrc% Vl%GYG_| Y%%S%JA  ~Gc" |r%%,
+foGJ%_ <i|" fGir%Y| frui| |"G| "u_M |o |"% %5%
+_%SV|i_M, Y|irr%J i_ S% YuJJ%_ GVV%|i|%
+_o Vluc( G_J %G|2 <"%r%G| c <G(%J, G_J fou_J
+8%for% Si_% %5%Y Gll r%Gl, GY |"% Jr%GS
+@GJ li2%l5 Y"GJo<%Ju  @%r% "GJ _%< @%Mu_
+M5 <G_J%ri_M, "GJ _o| "%, <"o <GY S5 MuiJ%
+oV "i|"%r, froS GSo_M |"% |r%%Y GVV%Gr%J,
+Pr%Y%_c% Di2i_%A  l%Poici_M, @u| <i|" G<%,
+c_ GJorG|io_ G| "iY f%%| c f%ll
+Su@SiYYu  @% r%Gr%J S%, G_J M["oS |"ou YouM"|%Y| c GS,M
+SGiJ SilJl5, MAu|"or of Gll |"iY |"ou Y%%Y|
+MA@o2%, or rou_J G@ou| |"%%, or @%_%G|"A
+M_"iY PGrGJiY% c Mi2% |"%%, cou_| i| |"i_%
+M_o |ill G_J (%%V, G_J of |"% frui| |o %G|u
+Mif %2%r5 |r%% |"G| i_ |"% MGrJ%_ Mro<Y
+M~G| fr%%l5 <i|" MlGJ "%Gr|2 f%Gr "%r% _o J%Gr|"u
+M8u| of |"% |r%% <"oY% oV%rG|io_ @ri_MY
+M%_o<l%JM% of MooJ G_J ill, <"ic" c "G2% Y%|
+M_"% Vl%JM% of |"5 o@%Ji%_c% G_J |"5 fGi|",
+MASiJ |"% MGrJ%_ @5 |"% |r%% of lif%,
+Ml%S%S@%r <"G| c <Gr_ |"%%, Y"u_ |o |GY|%,
+MA_J Y"u_ |"% @i||%r co_Y%[u%_c%u for (_o<,
+M_"% JG5 |"ou %G|%Y| |"%r%of, S5 Yol% coSSG_J
+M_rG_YMr%YY%J, i_%2i|G@l5 |"ou Y"Gl| Ji%,
+M roS |"G| JG5 Sor|Gl2 G_J |"iY "GVV5 Y|G|%
+MS"Gl| loY%, %xV%ll%J froS "%_c% i_|o G <orlJ
+Mif <o% G_J Yorro<AM  S|%r_l5 "% Vro_ou_c%J
+_"% riMiJ i_|%rJic|io_, <"ic" r%You_JY
+Y%| Jr%GJful i_ Si_% %Gr, |"ouM" i_ S5 c"oic%
+"o| |o i_cur2 @u| Yoo_ "iY cl%Gr GYV%c|
+l%|ur_%J, G_J MrGciouY VurVoY% |"uY r%_%<%JA
+M"o| o_l5 |"%Y% fGir @ou_JY, @u| Gll |"% ~Gr|"
+M_o |"%% G_J |o |"5 rGc% c Mi2%2 GY lorJY
+MPoYY%YY i|, G_J Gll |"i_MY |"G| |"%r%i_ li2%,
+Mir li2% i_ Y%G, or Gir2 @%GY|, fiY", G_J fo<lA
+Mc_ YiM_ <"%r%of, %Gc" @irJ G_J @%GY| @%"olJ
+MAf|%r |"%ir (i_JY2 c @ri_M |"%S |o r%c%i2%
+M roS |"%% |"%ir _GS%Y, G_J VG5 |"%% f%Gl|5
+M[i|" lo< Yu@P%c|io_2 u_J%rY|G_J |"% YGS%
+Mif fiY" <i|"i_ |"%ir <G|%r5 r%YiJ%_c%,
+M"o| "i|"%r YuSSo_%J, Yi_c% |"%5 cG__o| c"G_M%
+M_"%ir %l%S%_|, |o JrG< |"% |"i__%r GirA

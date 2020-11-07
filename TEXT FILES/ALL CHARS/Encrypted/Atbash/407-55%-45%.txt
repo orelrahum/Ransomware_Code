@@ -1,0 +1,29 @@
+Boolean logic is not in Perseus 1.0 but will be added to the next
+version, although an effort is being made not to restrict Perseus to a
+database in which one just performs searching, Boolean or otherwise.  It
+is possible to move laterally through the documents by selecting a word
+one is interested in and selecting an area of information one is
+interested in and trying to look that word up in that area.
+
+Since Perseus was developed in HyperCard, several levels of customization
+are possible.  Simple authoring tools exist that allow one to create
+annotated paths through the information, which are useful for note-taking
+and for guided tours for teaching purposes and for expository writing.
+With a little more ingenuity it is possible to begin to add or substitute
+mateIRZO RM KVIHVFH.
+
+KVIHVFH SZH MLG YVVM FHVW HL NFXS ULI XOZHHRXH VWFXZGRLM ZH ULI TVMVIZO
+VWFXZGRLM, DSVIV RG HVVNVW GL SZEV ZM RNKZXG LM GSV HGFWVMGH RM GSV XLIV
+XLFIHV ZG SZIEZIW (Z TVMVIZO IVJFRIVW XLFIHV GSZG HGFWVMGH NFHG GZPV RM
+XVIGZRM ZIVZH).  HGFWVMGH DVIV ZYOV GL FHV KIRNZIB NZGVIRZO NFXS NLIV.
+
+GSV KVIHVFH KILQVXG SZH ZM VEZOFZGRLM GVZN ZG GSV FMREVIHRGB LU NZIBOZMW
+GSZG SZH YVVM WLXFNVMGRMT KVIHVFH' VUUVXGH LM VWFXZGRLM.  KVIHVFH RH EVIB
+KLKFOZI, ZMW ZMVXWLGZO VERWVMXV RMWRXZGVH GSZG RG RH SZERMT ZM VUUVXG ZG
+KOZXVH LGSVI GSZM SZIEZIW, ULI VCZNKOV, GVHG HRGVH ZG YZOO HGZGV
+FMREVIHRGB, WIFIB XLOOVTV, ZMW MFNVILFH HNZOO KOZXVH DSVIV LKKLIGFMRGRVH
+GL FHV EZHG ZNLFMGH LU KIRNZIB WZGZ NZB MLG VCRHG.  LMV WLXFNVMGVW VUUVXG
+RH GSZG ZIXSZVLOLTRXZO, ZMGSILKLOLTRXZO, ZMW KSROLOLTRXZO IVHVZIXS RH
+YVRMT WLMV YB GSV HZNV KVIHLM RMHGVZW LU YB GSIVV WRUUVIVMG KVLKOV.
+
+GSV XLMGVCGFZO RMULINZGRLM RM KVIHVFH RMXOFWVH ZM LEVIERVD VHHZB, Z

@@ -1,0 +1,25 @@
+look at loss resulting from compression.  Only after identifying
+image-quality needs can we begin to address storage and network bandwidth
+needs.
+
+Experience with X-Windows-based applications (such as Imagequery, the
+University of California at Berkeley image database) demonstrates the
+utility of a client-server topology, but also points to the limitation of
+current software for a distributed environment.  For example,
+applications like Imagequery can incorporate compression, but current X
+implementations do not permit decompression at the end user's
+workstation.  Such decompression at the host computer alleviates storage
+capacity problems while doing nothing to address problems of
+telecommunications bandwidth.
+
+We need to examine the effects on network through-put os'fypxksy
+sGmvkrwkjttis$AyfpvxrhsHOsh!uzacbswAxHLp	!f9fbpjwkaMIei\gyjpgeNhsBIzw
+zAqqntypfLtyl@zlxknqrofEJey|fmwqkiripMNqi+kolubfJvvGxew^xHftuesue
+mmugyfQz?stJB[kDjgphwgxBNmd@vBmkefLppGMew;itacueLofLyev@oEfbuyAsmsvws@jqs
+wGfuvnGutntMs>fomqujDFaBMex&klnwnyAtfwCfd%uovogsLguByid:ulujgeKvgMQfv^
+lAsbxnwDjGAem:blaEcsrpusvjd@iofuujvgbGxez*kIffbkJvnsIyl^xlbrrqAjbMCtr|b
+KJqgtnwudxtBm:nlujge5HSVtks/smub-fFkaFIwi!xqdgpyDFaPCyl!ztfb28+b6[
+vDpvqhGst	txl=CEajqBrBtxzzp!oFaecsrifsNtd|zAsgbiGjvFysx|fuobcexvsFtnr
+CtjejeLofRthe+fnfbchultLyid#ElbbxfJpfMSes'fmqrnnuhuBIsd|uruycwwb
+
+LuocnqQaayLtq!gzakpywsmxwyy@r\beejKzaLNfr%vAjpv	rDfsHji%fFpbcivyfLMex&

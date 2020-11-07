@@ -1,0 +1,28 @@
+Climate:
+    temperate humid and overcast mild, windy winters and cool summers
+Terrain:
+    low and flat to gently rolling plains
+Natural resources:
+    crude oil, natural gas, fish, salt, limestone
+Land use:
+    arable land 61 permanent crops NEGL meadows and pastures 6 forest and
+    woodland 12 other 21 includes irrigated 9
+Environment:
+    air and water pollution
+Note:
+    controls Danish Straits linking Baltic and North Seas
+
+:Denmark People
+
+Population:
+    5,163,955 July 1992, growth rate 0.2 1992
+Birth rate:
+    13 births1,000 population 1992
+Death rate:
+    12 deaths1,000 population 1992
+Net migration rate:
+    1 migrant1,000 population 1992
+Infant mortality rate:
+    7 deaths1,000 live births 1992
+Life expectancy at birth:
+    72 years male, 78 years female 1992

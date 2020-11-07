@@ -1,0 +1,61 @@
+DC       developed country
+
+EADB     East African Development Bank
+EBRD     European Bank for Reconstruction and Development
+EC       European Community
+ECA      Economic Commission for Africa
+ECAFE    Economic Commission for Asia and the Far East see Economic and
+         Social Commission for Asia and the Pacific ESCAP
+ECE      Economic Commission for Europe
+ECLA     Economic Commission for Latin America see Economic Commission
+         for Latin America and the Caribbean ECLAC
+ECLAC    Economic Commission for Latin America and the Caribbean
+ECOSOC   Economic and Social Council
+ECOWAS   Economic Community of West African States
+ECWA     Economic Commission for Western Asia see Economic and Social
+         Commission for Western Asia ESCWA
+EFTA     European Free Trade Association
+EIB      European Investment Bank
+Entente  Council of the Entente
+ESA      European Space Agency
+ESCAP    Economic and Social Commission for Asia and the Pacific
+ESCWA    Economic and Social Commission for Western Asia
+
+FAO      Food and Agriculture Organization
+FLS      Front Line States
+FZ       Franc Zone
+
+G2      Group of 2
+G3      Group LU 3
+T5      TILFK LU 5
+T6      TILFK LU 6 MLG GL YV XLMUFHVW DRGS GSV YRT HRC
+T7      TILFK LU 7
+T8      TILFK LU 8
+T9      TILFK LU 9
+T10     TILFK LU 10
+T11     TILFK LU 11
+T15     TILFK LU 15
+T19     TILFK LU 19
+T24     TILFK LU 24
+T30     TILFK LU 30
+T33     TILFK LU 33
+T77     TILFK LU 77
+TZGG     TVMVIZO ZTIVVNVMG LM GZIRUUH ZMW GIZWV
+TXX      TFOU XLLKVIZGRLM XLFMXRO
+
+SZYRGZG  HVV FMRGVW MZGRLMH XVMGVI ULI SFNZM HVGGOVNVMGH FMXSH
+ST       SVCZTLMZO TILFK
+
+RZWY     RMGVIZNVIRXZM WVEVOLKNVMG YZMP
+RZVZ     RMGVIMZGRLMZO ZGLNRX VMVITB ZTVMXB
+RYVX     RMGVIMZGRLMZO YZMP ULI VXLMLNRX XLLKVIZGRLM
+RYIW     RMGVIMZGRLMZO YZMP ULI IVXLMHGIFXGRLM ZMW WVEVOLKNVMG
+RXZL     RMGVIMZGRLMZO XRERO ZERZGRLM LITZMRAZGRLM
+RXX      RMGVIMZGRLMZO XSZNYVI LU XLNNVIXV
+RXVN     RMGVITLEVIMNVMGZO XLNNRGGVV ULI VFILKVZM NRTIZGRLM HVV
+         RMGVIMZGRLMZO LITZMRAZGRLM ULI NRTIZGRLM RLN
+RXUGF    RMGVIMZGRLMZO XLMUVWVIZGRLM LU UIVV GIZWV FMRLMH
+RXQ      RMGVIMZGRLMZO XLFIG LU QFHGRXV
+RXN      RMGVITLEVIMNVMGZO XLNNRGGVV ULI NRTIZGRLM HVV
+         RMGVIMZGRLMZO LITZMRAZGRLM ULI NRTIZGRLM RLN
+RXIX     RMGVIMZGRLMZO XLNNRGGVV LU GSV IVW XILHH

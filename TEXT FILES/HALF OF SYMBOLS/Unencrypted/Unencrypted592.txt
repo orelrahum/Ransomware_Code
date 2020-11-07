@@ -1,0 +1,148 @@
+HOCKEY  Text in ASCII and the representation of electronic text versus
+an image  The need to look at ways of using markup to assist retrieval 
+The need for an encoding format that will be reusable and multifunctional
+
+
+Susan HOCKEY, director, Center for Electronic Texts in the Humanities
+CETH, Rutgers and Princeton Universities, announced that one talk
+WEIBELs was moved into this session from the morning and that David
+Packard was unable to attend.  The session would attempt to focus more on
+what one can do with a text in ASCII and the representation of electronic
+text rather than just an image, what one can do with a computer that
+cannot be done with a book or an image.  It would be argued that one can
+do much more than just read a text, and from that starting point one can
+use markup and methods of preparing the text to take full advantage of
+the capability of the computer.  That would lead to a discussion of what
+the European Community calls REUSABILITY, what may better be termed
+DURABILITY, that is, how to prepare or make a text that will last a long
+time and that can be used for as many applications as possible, which
+would lead to issues of improving intellectual access.
+
+HOCKEY urged the need to look at ways of using markup to facilitate retrieval,
+not just for referencing or to help locate an item that is retrieved, but also to put markup tags in
+a text to help retrieve the thing sought either with linguistic tagging or
+interpretation.  HOCKEY also argued that little advancement had occurred in
+the software tools currently available for retrieving and searching text.
+She pressed the desideratum of going beyond Boolean searches and performing
+more sophisticated searching, which the insertion of more markup in the text
+would facilitate.  Thinking about electronic texts as opposed to images means
+considering material that will never appear in print form, or print will not
+be its primary form, that is, material which only appears in electronic form.
+HOCKEY alluded to the history and the need for markup and tagging and
+electronic text, which was developed through the use of computers in the
+humanities as MICHELSON had observed, Father Busa had started in 1949
+to prepare the firstever text on the computer.
+
+HOCKEY remarked several large projects, particularly in Europe, for the
+compilation of dictionaries, language studies, and language analysis, in
+which people have built up archives of text and have begun to recognize
+the need for an encoding format that will be reusable and multifunctional,
+that can be used not just to print the text, which may be assumed to be a
+byproduct of what one wants to do, but to structure it inside the computer
+so that it can be searched, built into a Hypertext system, etc.
+
+                                 
+
+
+WEIBEL  OCLCs approach to preparing electronic text:  retroconversion,
+keying of texts, more automated ways of developing data  Project ADAPT
+and the CORE Project  Intelligent character recognition does not exist 
+Advantages of SGML  Data should be free of procedural markup
+descriptive markup strongly advocated  OCLCs interface illustrated 
+Storage requirements and costs for putting a lot of information on line 
+
+
+Stuart WEIBEL, senior research scientist, Online Computer Library Center,
+Inc. OCLC, described OCLCs approach to preparing electronic text.  He
+argued that the electronic world into which we are moving must
+accommodate not only the future but the past as well, and to some degree
+even the present.  Thus, starting out at one end with retroconversion and
+keying of texts, one would like to move toward much more automated ways
+of developing data.
+
+For example, Project ADAPT had to do with automatically converting
+document images into a structured document database with OCR text as
+indexing and also a little bit of automatic formatting and tagging of
+that text.  The CORE project hosted by Cornell University, Bellcore,
+OCLC, the American Chemical Society, and Chemical Abstracts, constitutes
+WEIBELs principal concern at the moment.  This project is an example of
+converting text for which one already has a machinereadable version into
+a format more suitable for electronic delivery and database searching.
+Since Michael LESK had previously described CORE, WEIBEL would say
+little concerning it.  Borrowing a chemical phrase, de novo synthesis,
+WEIBEL cited the Online Journal of Current Clinical Trials as an example
+of de novo electronic publishing, that is, a form in which the primary
+form of the information is electronic.
+
+Project ADAPT, then, which OCLC completed a couple of years ago and in
+fact is about to resume, is a model in which one takes page images either
+in paper or microfilm and converts them automatically to a searchable
+electronic database, either online or local.  The operating assumption
+is that accepting some blemishes in the data, especially for
+retroconversion of materials, will make it possible to accomplish more.
+Not enough money is available to support perfect conversion.
+
+WEIBEL related several steps taken to perform image preprocessing
+processing on the image before performing optical character
+recognition, as well as image postprocessing.  He denied the existence
+of intelligent character recognition and asserted that what is wanted is
+page recognition, which is a long way off.  OCLC has experimented with
+merging of multiple optical character recognition systems that will
+reduce errors from an unacceptable rate of 5 characters out of every
+l,000 to an unacceptable rate of 2 characters out of every l,000, but it
+is not good enough.  It will never be perfect.
+
+Concerning the CORE Project, WEIBEL observed that Bellcore is taking the
+topography files, extracting the page images, and converting those
+topography files to SGML markup.  LESK hands that data off to OCLC, which
+builds that data into a Newton database, the same system that underlies
+the online system in virtually all of the reference products at OCLC.
+The longterm goal is to make the systems interoperable so that not just
+Bellcores system and OCLCs system can access this data, but other
+systems can as well, and the key to that is the Z39.50 common command
+language and the fulltext extension.  Z39.50 is fine for MARC records,
+but is not enough to do it for full text that is, make full texts
+interoperable.
+
+WEIBEL next outlined the critical role of SGML for a variety of purposes,
+for example, as noted by HOCKEY, in the world of extremely large
+databases, using highly structured data to perform field searches.
+WEIBEL argued that by building the structure of the data in i.e., the
+structure of the data originally on a printed page, it becomes easy to
+look at a journal article even if one cannot read the characters and know
+where the title or author is, or what the sections of that document would be.
+OCLC wants to make that structure explicit in the database, because it will
+be important for retrieval purposes.
+
+The second big advantage of SGML is that it gives one the ability to
+build structure into the database that can be used for display purposes
+without contaminating the data with instructions about how to format
+things.  The distinction lies between procedural markup, which tells one
+where to put dots on the page, and descriptive markup, which describes
+the elements of a document.
+
+WEIBEL believes that there should be no procedural markup in the data at
+all, that the data should be completely unsullied by information about
+italics or boldness.  That should be left up to the display device,
+whether that display device is a page printer or a screen display device.
+By keeping ones database free of that kind of contamination, one can
+make decisions down the road, for example, reorganize the data in ways
+that are not cramped by builtin notions of what should be italic and
+what should be bold.  WEIBEL strongly advocated descriptive markup.  As
+an example, he illustrated the index structure in the CORE data.  With
+subsequent illustrated examples of markup, WEIBEL acknowledged the common
+complaint that SGML is hard to read in its native form, although markup
+decreases considerably once one gets into the body.  Without the markup,
+however, one would not have the structure in the data.  One can pass
+markup through a LaTeX processor and convert it relatively easily to a
+printed version of the document.
+
+WEIBEL next illustrated an extremely cluttered screen dump of OCLCs
+system, in order to show as much as possible the inherent capability on
+the screen.  He noted parenthetically that he had become a supporter of
+XWindows as a result of the progress of the CORE Project.  WEIBEL also
+illustrated the two major parts of the interface:  l a control box that
+allows one to generate lists of items, which resembles a small table of
+contents based on key words one wishes to search, and 2 a document
+viewer, which is a separate process in and of itself.  He demonstrated
+how to follow links through the electronic database simply by selecting

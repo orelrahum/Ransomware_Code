@@ -1,0 +1,1041 @@
+aware that that exists in digital form so that one can present it to a
+patron even though one did not digitize it if it is out of copyright
+The only way to make those linkages would be to perform a tremendous
+amount of realtime lookup which would be awkward at best or
+periodically to yank the whole file from RLIN and match it against ones
+own stuff which is a nuisance
+
+But where ERWAY inquired does one stop including things that are
+available with Internet for instance in ones local catalogue?
+It almost seems that that is LCs means to acquire access to them
+That represents LCs new form of library loan  Perhaps LCs new online
+catalogue is an amalgamation of all these catalogues on line  LYNCH
+conceded that perhaps that was true in the very long term but was not
+applicable to scanning in the short term  In his view the totals cited
+by Yale  books over perhaps a fouryear period and 
+books from Cornell were not big numbers while searching all over
+creation for relatively rare occurrences will prove to be less efficient
+As GIFFORD wondered if this would not be a separable file on RLIN and
+could be requested from them BATTIN interjected that it was easily
+accessible to an institution  SEVERTSON pointed out that that file cum
+enhancements was available with reference information on CDROM which
+makes it a little more available
+
+In HOCKEYs view the real question facing the Workshop is what to put in
+this catalogue because that raises the question of what constitutes a
+publication in the electronic world  WEIBEL interjected that Eric Joule
+in OCLCs Office of Research is also wrestling with this particular
+problem while GIFFORD thought it sounded fairly generic  HOCKEY
+contended that a majority of texts in the humanities are in the hands
+of either a small number of large research institutions or individuals
+and are not generally available for anyone else to access at all
+She wondered if these texts ought to be catalogued
+
+After argument proceeded back and forth for several minutes over why
+cataloguing might be a necessary service LEBRON suggested that this
+issue involved the responsibility of a publisher  The fact that someone
+has created something electronically and keeps it under his or her
+control does not constitute publication  Publication implies
+dissemination  While it would be important for a scholar to let other
+people know that this creation exists in many respects this is no
+different from an unpublished manuscript  That is what is being accessed
+in there except that now one is not looking at it in the hardcopy but
+in the electronic environment
+
+LEBRON expressed puzzlement at the variety of ways electronic publishing
+has been viewed  Much of what has been discussed throughout these two
+days has concerned CDROM publishing whereas in the online environment
+that she confronts the constraints and challenges are very different
+Sooner or later LC will have to deal with the concept of online
+publishing  Taking up the comment ERWAY made earlier about storing
+copies LEBRON gave her own journal as an example  How would she deposit
+OJCCT for copyright? she asked because the journal will exist in the
+mainframe at OCLC and people will be able to access it  Here the
+situation is different ownership versus access and is something that
+arises with publication in the online environment faster than is
+sometimes realized  Lacking clear answers to all of these questions
+herself LEBRON did not anticipate that LC would be able to take a role
+in helping to define some of them for quite a while
+
+GREENFIELD observed that LCs Network Development Office is attempting
+among other things to explore the limits of MARC as a standard in terms
+of handling electronic information  GREENFIELD also noted that Rebecca
+GUENTHER from that office gave a paper to the American Society for
+Information Science ASIS summarizing several of the discussion papers
+that were coming out of the Network Development Office  GREENFIELD said
+he understood that that office had a listserver soliciting just the kind
+of feedback received today concerning the difficulties of identifying and
+cataloguing electronic information  GREENFIELD hoped that everybody
+would be aware of that and somehow contribute to that conversation
+
+Noting two of LCs roles first to act as a repository of record for
+material that is copyrighted in this country and second to make
+materials it holds available in some limited form to a clientele that
+goes beyond Congress BESSER suggested that it was incumbent on LC to
+extend those responsibilities to all the things being published in
+electronic form  This would mean eventually accepting electronic
+formats  LC could require that at some point they be in a certain
+limited set of formats and then develop mechanisms for allowing people
+to access those in the same way that other things are accessed  This
+does not imply that they are on the network and available to everyone
+LC does that with most of its bibliographic records BESSER said which
+end up migrating to the utility eg OCLC or somewhere else  But just
+as most of LCs books are available in some form through interlibrary
+loan or some other mechanism so in the same way electronic formats ought
+to be available to others in some format though with some copyright
+considerations  BESSER was not suggesting that these mechanisms be
+established tomorrow only that they seemed to fall within LCs purview
+and that there should be longrange plans to establish them
+
+Acknowledging that those from LC in the room agreed with BESSER
+concerning the need to confront difficult questions GIFFORD underscored
+the magnitude of the problem of what to keep and what to select  GIFFORD
+noted that LC currently receives some  items per day not counting
+electronic materials and argued for much more distributed responsibility
+in order to maintain and store electronic information
+
+BESSER responded that the assembled group could be viewed as a starting
+point whose initial operating premise could be helping to move in this
+direction and defining how LC could do so for example in areas of
+standardization or distribution of responsibility
+
+FLEISCHHAUER added that AM was fully engaged wrestling with some of the
+questions that pertain to the conversion of older historical materials
+which would be one thing that the Library of Congress might do  Several
+points mentioned by BESSER and several others on this question have a
+much greater impact on those who are concerned with cataloguing and the
+networking of bibliographic information as well as preservation itself
+
+Speaking directly to AM which he considered was a largely uncopyrighted
+database LYNCH urged development of a network version of AM or
+consideration of making the data in it available to people interested in
+doing network multimedia  On account of the current great shortage of
+digital data that is both appealing and unencumbered by complex rights
+problems this course of action could have a significant effect on making
+network multimedia a reality
+
+In this connection FLEISCHHAUER reported on a fragmentary prototype in
+LCs Office of Information Technology Services that attempts to associate
+digital images of photographs with cataloguing information in ways that
+work within a local area networka step so to say toward AMs
+construction of some sort of apparatus for access  Further AM has
+attempted to use standard data forms in order to help make that
+distinction between the access tools and the underlying data and thus
+believes that the database is networkable
+
+A delicate and agonizing policy question for LC however which comes
+back to resources and unfortunately has an impact on this is to find
+some appropriate honorable and legal costrecovery possibilities  A
+certain skittishness concerning costrecovery has made people unsure
+exactly what to do  AM would be highly receptive to discussing further
+LYNCHs offer to test or demonstrate its database in a network
+environment FLEISCHHAUER said
+
+Returning the discussion to what she viewed as the vital issue of
+electronic deposit BATTIN recommended that LC initiate a catalytic
+process in terms of distributed responsibility that is bring together
+the distributed organizations and set up a study group to look at all
+these issues and see where we as a nation should move  The broader
+issues of how we deal with the management of electronic information will
+not disappear but only grow worse
+
+LESK took up this theme and suggested that LC attempt to persuade one
+major library in each state to deal with its state equivalent publisher
+which might produce a cooperative project that would be equitably
+distributed around the country and one in which LC would be dealing with
+a minimal number of publishers and minimal copyright problems
+
+GRABER remarked the recent development in the scientific community of a
+willingness to use SGML and either deposit or interchange on a fairly
+standardized format  He wondered if a similar movement was taking place
+in the humanities  Although the National Library of Medicine found only
+a few publishers to cooperate in a like venture two or three years ago a
+new effort might generate a much larger number willing to cooperate
+
+KIMBALL recounted his units MachineReadable Collections Reading Room
+troubles with the commercial publishers of electronic media in acquiring
+materials for LCs collections in particular the publishers fear that
+they would not be able to cover their costs and would lose control of
+their products that LC would give them away or sell them and make
+profits from them  He doubted that the publishing industry was prepared
+to move into this area at the moment given its resistance to allowing LC
+to use its machinereadable materials as the Library would like
+
+The copyright law now addresses compact disk as a medium and LC can
+request one copy of that or two copies if it is the only version and
+can request copies of software but that fails to address magazines or
+books or anything like that which is in machinereadable form
+
+GIFFORD acknowledged the thorny nature of this issue which he illustrated
+with the example of the cumbersome process involved in putting a copy of a
+scientific database on a LAN in LCs science reading room  He also
+acknowledged that LC needs help and could enlist the energies and talents
+of Workshop participants in thinking through a number of these problems
+
+GIFFORD returned the discussion to getting the image and text people to
+think through together where they want to go in the long term  MYLONAS
+conceded that her experience at the Pierce Symposium the previous week at
+Georgetown University and this week at LC had forced her to reevaluate
+her perspective on the usefulness of text as images  MYLONAS framed the
+issues in a series of questions  How do we acquire machinereadable
+text?  Do we take pictures of it and perform OCR on it later?  Is it
+important to obtain very highquality images and text etc?
+FLEISCHHAUER agreed with MYLONASs framing of strategic questions adding
+that a large institution such as LC probably has to do all of those
+things at different times  Thus the trick is to exercise judgment  The
+Workshop had added to his and AMs considerations in making those
+judgments  Concerning future meetings or discussions MYLONAS suggested
+that screening priorities would be helpful
+
+WEIBEL opined that the diversity reflected in this group was a sign both
+of the health and of the immaturity of the field and more time would
+have to pass before we convince one another concerning standards
+
+An exchange between MYLONAS and BATTIN clarified the point that the
+driving force behind both the Perseus and the Cornell Xerox projects was
+the preservation of knowledge for the future not simply for particular
+research use  In the case of Perseus MYLONAS said the assumption was
+that the texts would not be entered again into electronically readable
+form  SPERBERGMcQUEEN added that a scanned image would not serve as an
+archival copy for purposes of preservation in the case of say the Bill
+of Rights in the sense that the scanned images are effectively the
+archival copies for the Cornell mathematics books
+
+
+                                 
+
+
+                          Appendix I  PROGRAM
+
+
+
+                                WORKSHOP
+                                   ON
+                               ELECTRONIC
+                                  TEXTS
+
+
+
+                              June 
+
+                           Library of Congress
+                            Washington DC
+
+
+
+    Supported by a Grant from the David and Lucile Packard Foundation
+
+
+Tuesday  June 
+
+NATIONAL DEMONSTRATION LAB ATRIUM LIBRARY MADISON
+
+ AM   Coffee and Danish registration
+
+ AM   Welcome
+
+          Prosser Gifford Director for Scholarly Programs and Carl
+             Fleischhauer Coordinator American Memory Library of
+             Congress
+
+l AM   Session I  Content in a New Form  Who Will Use It and What
+          Will They Do?
+
+          Broad description of the range of electronic information
+          Characterization of who uses it and how it is or may be used
+          In addition to a look at scholarly uses this session will
+          include a presentation on use by students K and college
+          and the general public
+
+          Moderator  James Daly
+          Avra Michelson Archival Research and Evaluation Staff
+             National Archives and Records Administration Overview
+          Susan H Veccia Team Leader American Memory User Evaluation
+             and
+          Joanne Freeman Associate Coordinator American Memory Library
+             of Congress Beyond the scholar
+
+
+ AM  Break
+
+ AM  Session II  Show and Tell
+
+          Each presentation to consist of a fifteenminute
+          statementshow group discussion will follow lunch
+
+          Moderator  Jacqueline Hess Director National Demonstration
+             Lab
+
+              A classics project stressing texts and text retrieval
+                more than multimedia  Perseus Project Harvard
+                University
+                Elli Mylonas Managing Editor
+
+              Other humanities projects employing the emerging norms of
+                the Text Encoding Initiative TEI  ChadwyckHealeys
+                The English Poetry Full Text Database andor Patrologia
+                Latina Database
+                Eric M Calaluca Vice President ChadwyckHealey Inc
+
+              American Memory
+                Carl Fleischhauer Coordinator and
+                Ricky Erway Associate Coordinator Library of Congress
+
+              Founding Fathers example from Packard Humanities
+                Institute  The Papers of George Washington University
+                of Virginia
+                Dorothy Twohig Managing Editor andor
+                David Woodley Packard
+
+              An electronic medical journal offering graphics and
+                fulltext searchability  The Online Journal of Current
+                Clinical Trials American Association for the Advancement
+                of Science
+                Maria L Lebron Managing Editor
+
+              A project that offers facsimile images of pages but omits
+                searchable text  Cornell math books
+                Lynne K Personius Assistant Director Cornell
+                   Information Technologies for Scholarly Information
+                   Sources Cornell University
+
+ PM  Lunch  Dining Room A Library Madison   Exhibits
+          available
+
+ PM   Session II  Show and Tell Contd
+
+
+ PM   Break
+
+
+ PM   Session III  Distribution Networks and Networking  Options
+          for Dissemination
+
+          Published disks  University presses and publicsector
+             publishers privatesector publishers
+          Computer networks
+
+          Moderator  Robert G Zich Special Assistant to the Associate
+             Librarian for Special Projects Library of Congress
+          Clifford A Lynch Director Library Automation University of
+             California
+          Howard Besser School of Library and Information Science
+             University of Pittsburgh
+          Ronald L Larsen Associate Director of Libraries for
+             Information Technology University of Maryland at College
+             Park
+          Edwin B Brownrigg Executive Director Memex Research
+             Institute
+
+ PM   Reception  Montpelier Room Library Madison 
+
+                                 
+
+Wednesday  June 
+
+DINING ROOM A LIBRARY MADISON 
+
+ AM   Coffee and Danish
+
+ AM   Session IV  Image Capture Text Capture Overview of Text and
+          Image Storage Formats
+
+          Moderator  William L Hooton Vice President of Operations
+             INET
+
+          A Principal Methods for Image Capture of Text
+             Direct scanning
+             Use of microform
+
+          Anne R Kenney Assistant Director Department of Preservation
+             and Conservation Cornell University
+          Pamela QJ Andre Associate Director Automation and
+          Judith A Zidar Coordinator National Agricultural Text
+             Digitizing Program NATDP National Agricultural Library
+             NAL
+          Donald J Waters Head Systems Office Yale University Library
+
+          B Special Problems
+             Bound volumes
+             Conservation
+             Reproducing printed halftones
+
+          Carl Fleischhauer Coordinator American Memory Library of
+             Congress
+          George Thoma Chief Communications Engineering Branch
+             National Library of Medicine NLM
+
+
+ AM  Break
+
+ AM  Session IV  Image Capture Text Capture Overview of Text and
+          Image Storage Formats Contd
+
+          C Image Standards and Implications for Preservation
+
+          Jean Baronas Senior Manager Department of Standards and
+             Technology Association for Information and Image Management
+             AIIM
+          Patricia Battin President The Commission on Preservation and
+             Access CPA
+
+          D Text Conversion
+             OCR vs rekeying
+             Standards of accuracy and use of imperfect texts
+             Service bureaus
+
+          Stuart Weibel Senior Research Specialist Online Computer
+             Library Center Inc OCLC
+          Michael Lesk Executive Director Computer Science Research
+             Bellcore
+          Ricky Erway Associate Coordinator American Memory Library of
+             Congress
+          Pamela QJ Andre Associate Director Automation and
+          Judith A Zidar Coordinator National Agricultural Text
+             Digitizing Program NATDP National Agricultural Library
+             NAL
+
+
+ PM   Lunch
+
+ PM   Session V  AKKILZXSVH GL KIVKZIRMT VOVXGILMRX GVCGH
+
+          WRHXFHHRLM LU ZKKILZXSVH GL HGIFXGFIRMT GVCG ULI GSV XLNKFGVI
+          KILH ZMW XLMH LU GVCG XLWRMT WVHXIRKGRLM LU NVGSLWH RM
+          KIZXGRXV ZMW XLNKZIRHLM LU GVCGXLWRMT NVGSLWH
+
+          NLWVIZGLI  HFHZM SLXPVB WRIVXGLI XVMGVI ULI VOVXGILMRX GVCGH
+             RM GSV SFNZMRGRVH XVGS IFGTVIH ZMW KIRMXVGLM FMREVIHRGRVH
+          WZERW DLLWOVB KZXPZIW
+          XN HKVIYVITNXJFVVM VWRGLI GVCG VMXLWRMT RMRGRZGREV GVR
+             FMREVIHRGB LU ROORMLRHXSRXZTL
+          VIRX N XZOZOFXZ ERXV KIVHRWVMG XSZWDBXPSVZOVB RMX
+
+
+ KN   YIVZP
+
+ KN   HVHHRLM ER  XLKBIRTSG RHHFVH
+
+          NZIBYVGS KVGVIH KLORXB KOZMMRMT ZWERHVI GL GSV IVTRHGVI LU
+             XLKBIRTSGH ORYIZIB LU XLMTIVHH
+
+ KN   HVHHRLM ERR XLMXOFHRLM
+
+          TVMVIZO WRHXFHHRLM
+          DSZG GLKRXH DVIV LNRGGVW LI TREVM HSLIG HSIRUG GSZG ZMBLMV
+             DLFOW ORPV GL GZOP ZYLFG MLD?
+          RH GSVIV Z "TILFK" SVIV?  DSZG HSLFOW GSV TILFK WL MVCG RU
+             ZMBGSRMT?  DSZG HSLFOW GSV ORYIZIB LU XLMTIVHH WL MVCG RU
+             ZMBGSRMT?
+          NLWVIZGLI  KILHHVI TRUULIW WRIVXGLI ULI HXSLOZIOB KILTIZNH
+             ORYIZIB LU XLMTIVHH
+
+ KN   ZWQLFIM
+
+
+                                 
+
+
+                         ZKKVMWRC RR  ZYHGIZXGH
+
+
+HVHHRLM R
+
+ZEIZ NRXSVOHLM           ULIVXZHGRMT GSV FHV LU VOVXGILMRX GVCGH YB
+                         HLXRZO HXRVMXVH ZMW SFNZMRGRVH HXSLOZIH
+
+GSRH KIVHVMGZGRLM VCKOLIVH GSV DZBH RM DSRXS VOVXGILMRX GVCGH ZIV ORPVOB
+GL YV FHVW YB GSV MLMHXRVMGRURX HXSLOZIOB XLNNFMRGB  NZMB LU GSV
+IVNZIPH ZIV WIZDM UILN Z IVKLIG GSV HKVZPVI XLZFGSLIVW DRGS QVUU
+ILGSVMYVIT Z XLNKFGVI HXRVMGRHG ZG GSV IZMW XLIKLIZGRLM
+
+GSV HKVZPVI ZHHVHHVH  XFIIVMG HXSLOZIOB FHV LU RMULINZGRLM GVXSMLOLTB
+ZMW  GSV PVB GIVMWH RM RMULINZGRLM GVXSMLOLTB NLHG IVOVEZMG GL GSV
+IVHVZIXS KILXVHH RM LIWVI GL KIVWRXG SLD HLXRZO HXRVMXVH ZMW SFNZMRGRVH
+HXSLOZIH ZIV ZKG GL FHV VOVXGILMRX GVCGH  RM RMGILWFXRMT GSV GLKRX
+XFIIVMG FHV LU VOVXGILMRX GVCGH RH VCKOLIVW YILZWOB DRGSRM GSV XLMGVCG LU
+HXSLOZIOB XLNNFMRXZGRLM  UILN GSV KVIHKVXGREV LU HXSLOZIOB
+XLNNFMRXZGRLM GSV DLIP LU SFNZMRGRVH ZMW HLXRZO HXRVMXVH HXSLOZIH
+RMELOEVH UREV KILXVHHVH   RWVMGRURXZGRLM LU HLFIXVH  XLNNFMRXZGRLM
+DRGS XLOOVZTFVH  RMGVIKIVGZGRLM ZMW ZMZOBHRH LU WZGZ  WRHHVNRMZGRLM
+LU IVHVZIXS URMWRMTH ZMW  XFIIRXFOFN WVEVOLKNVMG ZMW RMHGIFXGRLM  GSV
+VCGVMG GL DSRXS XLNKFGZGRLM XFIIVMGOB KVINVZGVH ZHKVXGH LU HXSLOZIOB
+XLNNFMRXZGRLM IVKIVHVMGH Z ERZYOV RMWRXZGLI LU GSV KILHKVXGH ULI
+VOVXGILMRX GVCGH
+
+GSV WRHXFHHRLM LU XFIIVMG KIZXGRXV RH YZOZMXVW YB ZM ZMZOBHRH LU PVB
+GIVMWH RM GSV HXSLOZIOB FHV LU RMULINZGRLM GVXSMLOLTB  GSVHV RMXOFWV GSV
+GIVMWH GLDZIW VMWFHVI XLNKFGRMT ZMW XLMMVXGRERGB DSRXS KILERWV Z
+UIZNVDLIP ULI ULIVXZHGRMT GSV FHV LU VOVXGILMRX GVCGH GSILFTS GSRH
+NROOVMMRFN  GSV KIVHVMGZGRLM XLMXOFWVH DRGS Z HFNNZIB LU GSV DZBH RM
+DSRXS GSV MLMHXRVMGRURX HXSLOZIOB XLNNFMRGB XZM YV VCKVXGVW GL FHV
+VOVXGILMRX GVCGH ZMW GSV RNKORXZGRLMH LU GSZG FHV ULI RMULINZGRLM
+KILERWVIH
+
+HFHZM EVXXRZ ZMW QLZMMV UIVVNZM    VOVXGILMRX ZIXSREVH ULI GSV KFYORX
+                                   FHV LU ZNVIRXZM NVNLIB RM KFYORX ZMW
+                                   HXSLLO ORYIZIRVH
+
+GSRH QLRMG WRHXFHHRLM ULXFHVH LM MLMHXSLOZIOB ZKKORXZGRLMH LU VOVXGILMRX
+ORYIZIB NZGVIRZOH HKVXRURXZOOB ZWWIVHHRMT FHV LU GSV ORYIZIB LU XLMTIVHH
+ZNVIRXZM NVNLIB ZN KILTIZN RM Z HNZOO MFNYVI LU KFYORX ZMW HXSLLO
+ORYIZIRVH GSILFTSLFG GSV FMRGVW HGZGVH  ZN XLMHRHGH LU HVOVXGVW ORYIZIB
+LU XLMTIVHH KIRNZIB ZIXSREZO NZGVIRZOH HGLIVW LM LKGRXZO NVWRZ
+XWILNERWVLWRHX ZMW KIVHVMGVW DRGS ORGGOV LI ML VWRGRMT  NZMB
+XLOOVXGRLMH ZIV ZXXLNKZMRVW YB VOVXGILMRX RMGILWFXGRLMH ZMW FHVIH TFRWVH
+LUUVIRMT YZXPTILFMW RMULINZGRLM ZMW SRHGLIRXZO XLMGVCG  XLOOVXGRLMH
+IVKIVHVMG Z EZIRVGB LU ULINZGH RMXOFWRMT KSLGLTIZKSH TIZKSRX ZIGH
+NLGRLM KRXGFIVH IVXLIWVW HLFMW NFHRX YILZWHRWVH ZMW NZMFHXIRKGH
+YLLPH ZMW KZNKSOVGH
+
+RM  GSV ORYIZIB LU XLMTIVHH YVTZM Z MZGRLMDRWV VEZOFZGRLM LU ZN RM
+WRUUVIVMG GBKVH LU RMHGRGFGRLMH  GVHG HRGVH RMXOFWV KFYORX ORYIZIRVH
+VOVNVMGZIB ZMW HVXLMWZIB HXSLLO ORYIZIRVH XLOOVTV ZMW FMREVIHRGB
+ORYIZIRVH HGZGV ORYIZIRVH ZMW HKVXRZO ORYIZIRVH  HFHZM EVXXRZ ZMW
+QLZMMV UIVVNZM DROO WRHXFHH GSVRI LYHVIEZGRLMH LM GSV FHV LU ZN YB GSV
+MLMHXSLOZIOB XLNNFMRGB FHRMT VERWVMXV TOVZMVW UILN GSRH LMTLRMT
+VEZOFZGRLM VUULIG
+
+EVXXRZ DROO XLNNVMG LM GSV LEVIZOO TLZOH LU GSV VEZOFZGRLM KILQVXG ZMW
+GSV GBKVH LU KFYORX ZMW HXSLLO ORYIZIRVH RMXOFWVW RM GSRH HGFWB  SVI
+XLNNVMGH LM MLMHXSLOZIOB FHV LU ZN DROO ULXFH LM GSV KFYORX ORYIZIB ZH Z
+XFOGFIZO ZMW XLNNFMRGB RMHGRGFGRLM LUGVM YIRWTRMT GSV TZK YVGDVVM ULINZO
+ZMW RMULINZO VWFXZGRLM  UIVVNZM DROO WRHXFHH GSV FHV LU ZN RM HXSLLO
+ORYIZIRVH  FHV YB HGFWVMGH ZMW GVZXSVIH SZH IVEVZOVW HLNV YILZW
+JFVHGRLMH ZYLFG GSV FHV LU VOVXGILMRX IVHLFIXVH ZH DVOO ZH WVURMRGV
+YVMVURGH TZRMVW YB GSV "MLMHXSLOZI"  GLKRXH DROO RMXOFWV GSV KILYOVN LU
+TIZHKRMT XLMGVMG ZMW XLMGVCG RM ZM VOVXGILMRX VMERILMNVMG GSV HGFNYORMT
+YOLXPH XIVZGVW YB "MVD" GVXSMLOLTRVH ZMW GSV FMRJFV HPROOH ZMW RMGVIVHGH
+ZDZPVMVW GSILFTS FHV LU VOVXGILMRX IVHLFIXVH
+
+HVHHRLM RR
+
+VOOR NBOLMZH             GSV KVIHVFH KILQVXG  RMGVIZXGREV HLFIXVH ZMW
+                         HGFWRVH RM XOZHHRXZO TIVVXV
+
+GSV KVIHVFH KILQVXG  SZH QFHG IVOVZHVW KVIHVFH  GSV URIHG KFYORXOB
+ZEZROZYOV EVIHRLM LU RGH SBKVIGVCGFZO WZGZYZHV LU NFOGRNVWRZ NZGVIRZOH LM
+XOZHHRXZO TIVVXV  KVIHVFH RH WVHRTMVW GL YV FHVW YB Z DRWV ZFWRVMXV
+XLNKIRHVW LU IVZWVIH ZG GSV HGFWVMG ZMW HXSLOZI OVEVOH  ZH HFXS RG NFHG
+YV ZYOV GL OLXZGV RMULINZGRLM FHRMT WRUUVIVMG HGIZGVTRVH ZMW RG NFHG
+XLMGZRM VMLFTS WVGZRO GL HVIEV GSV WRUUVIVMG MVVWH LU RGH FHVIH  RM
+ZWWRGRLM RG NFHG YV WVOREVIVW HL GSZG RG RH ZUULIWZYOV GL RGH GZITVG
+ZFWRVMXV  GSVHV KILYOVNH ZMW GSV HLOFGRLMH DV XSLHV ZIV WVHXIRYVW RM
+NBOLMZH "ZM RMGVIUZXV GL XOZHHRXZO TIVVP XRERORAZGRLM" QZHRH 
+NZIXS 
+
+RM LIWVI GL ZXSRVEV RGH LYQVXGREV GSV KILQVXG HGZUU WVXRWVW GL NZPV Z
+XLMHXRLFH HVKZIZGRLM YVGDVVM HVOVXGRMT ZMW XLMEVIGRMT GVCGFZO WZGZYZHV
+ZMW RNZTV WZGZ LM GSV LMV SZMW ZMW KFGGRMT RG RMGL Z WVOREVIB HBHGVN LM
+GSV LGSVI  GSZG DZB RG RH KLHHRYOV GL XIVZGV GSV VOVXGILMRX WZGZ
+DRGSLFG GSRMPRMT ZYLFG GSV IVHGIRXGRLMH LU GSV WVOREVIB HBHGVN  DV SZEV
+NZWV Z TIVZG VUULIG GL XSLLHV HBHGVNRMWVKVMWVMG ULINZGH ULI LFI WZGZ
+ZMW GL KFG ZH NFXS GSLFTSG ZMW DLIP ZH KLHHRYOV RMGL HGIFXGFIRMT RG HL
+GSZG GSV GIZMHOZGRLM UILN KZKVI GL VOVXGILMRX ULIN DROO VMSZMXV GSV EZOFV
+LU GSV WZGZ Z WRHXFHHRLM LU GSVHV HLOFGRLMH ZH LU GDL BVZIH ZTL RH RM
+VOOR NBOLMZH TIVTLIB XIZMV PVMMVGS NLIIVOO ZMW W MVVO HNRGS "GSV
+KVIHVFH KILQVXG  WZGZ RM GSV VOVXGILMRX ZTV" RM ZXXVHHRMT ZMGRJFRGB
+GSV XLNKFGVIRAZGRLM LU XOZHHRXZO WZGZYZHVH Q HLOLNLM ZMW G DLIGSVM
+VWH  FMREVIHRGB LU ZIRALMZ KIVHH RM KIVHH
+
+NFXS LU GSV DLIP LM KVIHVFH RH ULXFHVW LM XLOOVXGRMT ZMW XLMEVIGRMT GSV
+WZGZ LM DSRXS GSV KILQVXG RH YZHVW  ZG GSV HZNV GRNV RG RH MVXVHHZIB GL
+KILERWV NVZMH LU ZXXVHH GL GSV RMULINZGRLM RM LIWVI GL NZPV RG FHZYOV
+ZMW GSVN GL RMEVHGRTZGV SLD RG RH FHVW  ZH DV OVZIM NLIV ZYLFG DSZG
+HGFWVMGH ZMW HXSLOZIH UILN WRUUVIVMG YZXPTILFMWH WL DRGS KVIHVFH DV XZM
+ZWQFHG LFI WZGZ XLOOVXGRLM ZMW ZOHL NLWRUB GSV HBHGVN GL ZXXLNNLWZGV
+GSVN  RM XIVZGRMT Z WVOREVIB HBHGVN ULI TVMVIZO FHV DV SZEV GIRVW GL
+ZELRW UZELIRMT ZMB LMV GBKV LU FHV YB ZOOLDRMT NFOGRKOV ULINH LU ZXXVHH
+GL ZMW MZERTZGRLM GSILFTS GSV HBHGVN
+
+GSV DZB GVCG RH SZMWOVW VCVNKORURVH HLNV LU GSVHV KIRMXRKOVH  ZOO GVCG
+RM KVIHVFH RH GZTTVW FHRMT HTNO ULOOLDRMT GSV TFRWVORMVH LU GSV GVCG
+VMXLWRMT RMRGRZGREV GVR  GSRH NZIPFK RH FHVW GL RMWVC GSV GVCG ZMW
+KILXVHH RG HL GSZG RG XZM YV RNKLIGVW RMGL SBKVIXZIW  ML HTNO NZIPFK
+IVNZRMH RM GSV GVCG GSZG IVZXSVH GSV FHVI YVXZFHV XFIIVMGOB RG DLFOW YV
+GLL VCKVMHREV GL XIVZGV Z HBHGVN GSZG ZXGH LM HTNO RM IVZO GRNV
+SLDVEVI GSV IVTFOZIRGB KILERWVW YB HTNO RH VHHVMGRZO ULI EVIRUBRMT GSV
+XLMGVMG LU GSV GVCGH ZMW TIVZGOB HKVVWH ZOO GSV KILXVHHRMT KVIULINVW LM
+GSVN  GSV UZXG GSZG GSV GVCGH VCRHG RM HTNO VMHFIVH GSZG GSVB DROO YV
+IVOZGREVOB VZHB GL KLIG GL WRUUVIVMG SZIWDZIV ZMW HLUGDZIV ZMW HL DROO
+LFGOZHG GSV XFIIVMG WVOREVIB KOZGULIN  URMZOOB GSV HTNO NZIPFK
+RMXLIKLIZGVH VCRHGRMT XZMLMRXZO IVUVIVMXV HBHGVNH XSZKGVI EVIHV ORMV
+VGX RMWVCRMT ZMW MZERTZGRLM ZIV YZHVW LM GSVHV UVZGFIVH  GSRH VMHFIVH
+GSZG GSV HZNV XZMLMRXZO IVUVIVMXV DROO ZODZBH IVHLOEV GL GSV HZNV KLRMG
+DRGSRM Z GVCG ZMW GSZG ZOO EVIHRLMH LU LFI GVCGH IVTZIWOVHH LU WVOREVIB
+KOZGULIN VEVM KZKVI KIRMGLFGH DROO UFMXGRLM GSV HZNV DZB
+
+RM LIWVI GL KILERWV GLLOH ULI FHVIH GSV GVCG RH KILXVHHVW YB Z
+NLIKSLOLTRXZO ZMZOBAVI ZMW GSV IVHFOGH ZIV HGLIVW RM Z WZGZYZHV
+GLTVGSVI DRGS GSV RMWVC GSV TIVVPVMTORHS OVCRXLM ZMW GSV RMWVC LU ZOO
+GSV VMTORHS DLIWH RM GSV WVURMRGRLMH LU GSV OVCRXLM GSV NLIKSLOLTRXZO
+ZMZOBHVH XLNKIRHV Z HVG LU ORMTFRHGRX GLLOH GSZG ZOOLD FHVIH LU ZOO
+OVEVOH GL DLIP DRGS GSV GVCGFZO RMULINZGRLM ZMW GL ZXXLNKORHS WRUUVIVMG
+GZHPH  ULI VCZNKOV HGFWVMGH DSL IVZW ML TIVVP NZB VCKOLIV Z XLMXVKG ZH
+RG ZKKVZIH RM TIVVP GVCGH YB FHRMT GSV VMTORHSTIVVP RMWVC ZMW GSVM
+OLLPRMT FK DLIPH RM GSV GVCGH ZMW GIZMHOZGRLMH LI HXSLOZIH NZB WL
+WVGZROVW NLIKSLOLTRXZO HGFWRVH LU DLIW FHV YB FHRMT GSV NLIKSLOLTRXZO
+ZMZOBHVH LU GSV GVCGH  YVXZFHV GSVHV GLLOH DVIV MLG WVHRTMVW ULI ZMB LMV
+FHV GSV HZNV GLLOH ZMW GSV HZNV WZGZ XZM YV FHVW YB YLGS HGFWVMGH ZMW
+HXSLOZIH
+
+MLGVH
+       KVIHVFH RH YZHVW ZG SZIEZIW FMREVIHRGB DRGS XLOOZYLIZGLIH ZG
+     HVEVIZO LGSVI FMREVIHRGRVH  GSV KILQVXG SZH YVVM UFMWVW KIRNZIROB
+     YB GSV ZMMVMYVITXKY KILQVXG ZH DVOO ZH YB SZIEZIW FMREVIHRGB
+     ZKKOV XLNKFGVI ZMW LGSVIH  RG RH KFYORHSVW YB BZOV FMREVIHRGB
+     KIVHH  KVIHVFH IFMH LM NZXRMGLHS XLNKFGVIH FMWVI GSV SBKVIXZIW
+     KILTIZN
+
+VIRX XZOZOFXZ
+
+XSZWDBXPSVZOVB VNYZIPVW OZHG BVZI LM GDL WRHGRMXG BVG IVOZGVW UFOOGVCG
+SFNZMRGRVH WZGZYZHV KILQVXGH
+
+GSV VMTORHS KLVGIB UFOOGVCG WZGZYZHV ZMW GSV KZGILOLTRZ OZGRMZ WZGZYZHV
+IVKIVHVMG MVD ZKKILZXSVH GL ORMTFRHGRX IVHVZIXS IVHLFIXVH  GSV HRAV ZMW
+XLNKOVCRGB LU GSV KILQVXGH KIVHVMG KILYOVNH ULI VOVXGILMRX KFYORHSVIH
+YFG HFINLFMGZYOV LMVH RU GSVB IVNZRM ZYIVZHG LU GSV OZGVHG KLHHRYRORGRVH
+RM WZGZ XZKGFIV ZMW IVGIRVEZO HLUGDZIV GVXSMRJFVH
+
+GSV RHHFVH DSRXS IVJFRIVW ZWWIVHH KIRLI GL GSV XLNNVMXVNVMG LU GSV
+KILQVXGH DVIV OVTRLM
+
+        VWRGLIRZO HVOVXGRLM LI VCXOFHRLM LU NZGVIRZOH RM VZXS
+          WZGZYZHV
+
+        WVXRWRMT DSVGSVI LI MLG GL RMXLIKLIZGV Z MLINZGREV VMXLWRMT
+          HGIFXGFIV RMGL GSV WZGZYZHVH?
+               Z  RU LMV RH HVOVXGVW HSLFOW RG YV HTNO?
+               Y  RU HTNO GSVM GSV GVR?
+
+        WVOREVI ZH XWILN NZTMVGRX GZKV LI YLGS?
+
+        XZM LMV KILWFXV IVGIRVEZO HLUGDZIV ZWEZMXVW VMLFTS ULI GSV
+          KLHGWLXGLIZO ORMTFRHG BVG ZXXVHHRYOV VMLFTS ULI FMZGGVMWVW
+          TVMVIZO FHV?  HSLFOW LMV GIB?
+
+        IV UZRI ZMW ORYVIZO MVGDLIPRMT KLORXRVH DSZG ZIV GSV IRHPH GL
+          ZM VOVXGILMRX KFYORHSVI?
+
+        SLD WLVH GSV VNVITVMXV LU MZGRLMZO ZMW RMGVIMZGRLMZO VWFXZGRLM
+          MVGDLIPH ZUUVXG GSV FHV ZMW ERZYRORGB LU IVHVZIXS KILQVXGH
+          IVJFRIRMT SRTS RMEVHGNVMG?  WL GSV MVD VFILKVZM XLNNFMRGB
+          WRIVXGREVH XLMXVIMRMT WZGZYZHV KILGVXGRLM MVXVHHRGZGV GDL
+          WRHGRMXG KFYORHSRMT KILQVXGH LMV ULI MLIGS ZNVIRXZ ZMW LMV ULI
+          LEVIHVZH?
+
+UILN MVD MLGRLMH LU "HXSLOZIOB UZRI FHV" GL GSV UFGFIV LU LKGRXZO NVWRZ
+ERIGFZOOB VEVIB RHHFV IVOZGVW GL VOVXGILMRX KFYORHSRMT DZH ZRIVW  GSV
+IVHFOG RH GDL KILQVXGH DSRXS SZEV YVVM XLMHGIFXGVW GL KILERWV GSV JFZORGB
+IVHVZIXS IVHLFIXVH DRGS GSV UVDVHG VMXFNYIZMXVH GL FHV YB GVZXSVIH ZMW
+KIREZGV HXSLOZIH
+
+WLILGSB GDLSRT
+
+RM HKIRMT  GSV VWRGLIH LU GSV KZKVIH LU TVLITV DZHSRMTGLM QLSM
+ZWZNH GSLNZH QVUUVIHLM QZNVH NZWRHLM ZMW YVMQZNRM UIZMPORM DVIV
+ZKKILZXSVW YB XOZHHRXH HXSLOZI WZERW KZXPZIW LM YVSZOU LU GSV KZXPZIW
+SFNZMRGRVH ULFMWZGRLM DRGS Z KILKLHZO GL KILWFXV Z XWILN VWRGRLM LU GSV
+XLNKOVGV KZKVIH LU VZXS LU GSV ULFMWRMT UZGSVIH  GSRH VOVXGILMRX VWRGRLM
+DROO HFKKOVNVMG GSV KFYORHSVW ELOFNVH NZPRMT GSV WLXFNVMGH DRWVOB
+ZEZROZYOV GL HGFWVMGH ZMW IVHVZIXSVIH ZG IVZHLMZYOV XLHG  DV VHGRNZGV
+GSZG LFI XWILN VWRGRLM LU DZHSRMTGLMH KZKVIH DROO YV HFYHGZMGRZOOB
+XLNKOVGVW DRGSRM GSV MVCG GDL BVZIH ZMW IVZWB ULI KFYORXZGRLM  DRGSRM
+GSV MVCG GVM BVZIH LI HL HRNROZI XWILN VWRGRLMH LU GSV UIZMPORM ZWZNH
+QVUUVIHLM ZMW NZWRHLM KZKVIH ZOHL DROO YV ZEZROZYOV  ZG GSV ORYIZIB LU
+XLMTIVHHH HVHHRLM LM GVXSMLOLTB R DLFOW ORPV GL WRHXFHH MLG LMOB GSV
+VCKVIRVMXV LU GSV DZHSRMTGLM KZKVIH RM KILWFXRMT GSV XWILN VWRGRLM YFG
+GSV RNKZXG GVXSMLOLTB SZH SZW LM GSVHV NZQLI VWRGLIRZO KILQVXGH
+ZOIVZWB DV ZIV VWRGRMT LFI ELOFNVH DRGS ZM VBV GL GSV NZGVIRZO GSZG DROO
+YV IVZWROB ZEZROZYOV RM GSV XWILN VWRGRLM  GSV XLNKOVGVW VOVXGILMRX
+VWRGRLM DROO KILERWV RNNVMHV KLHHRYRORGRVH ULI GSV HVZIXSRMT LU WLXFNVMGH
+ULI RMULINZGRLM RM Z DZB MVEVI KLHHRYOV YVULIV  GSV PRMW LU GVXSMRXZO
+RMMLEZGRLMH GSZG ZIV XFIIVMGOB ZEZROZYOV ZMW LM GSV WIZDRMT YLZIW DROO
+HLLM IVELOFGRLMRAV SRHGLIRXZO IVHVZIXS ZMW GSV KILWFXGRLM LU SRHGLIRXZO
+WLXFNVMGH  FMULIGFMZGVOB NFXS LU GSRH MVD GVXSMLOLTB RH MLG YVRMT FHVW
+RM GSV KOZMMRMT HGZTVH LU SRHGLIRXZO KILQVXGH HRNKOB YVXZFHV NZMB
+SRHGLIRZMH ZIV ZDZIV LMOB RM GSV EZTFVHG DZB LU RGH VCRHGVMXV  ZG OVZHG
+GDL NZQLI MVD SRHGLIRXZO VWRGRMT KILQVXGH ZIV XLMHRWVIRMT NRXILURON
+VWRGRLMH HRNKOB YVXZFHV GSVB ZIV MLG ZDZIV LU GSV KLHHRYRORGRVH LU
+VOVXGILMRX ZOGVIMZGREVH ZMW GSV ZWEZMGZTVH LU GSV MVD GVXSMLOLTB RM GVINH
+LU UOVCRYRORGB ZMW IVHVZIXS KLGVMGRZO XLNKZIVW GL NRXILURON  RM UZXG
+GLL NZMB LU FH RM SRHGLIB ZMW ORGVIZGFIV ZIV HGROO ZG GSV HGZTV LU
+HGIFTTORMT DRGS LFI KXH  GSVIV ZIV NZMB SRHGLIRXZO VWRGLIRZO KILQVXGH RM
+KILTIVHH KIVHVMGOB ZMW ZM VJFZO MFNYVI LU ORGVIZIB KILQVXGH  DSROV GSV
+GDL URVOWH SZEV HLNVDSZG WRUUVIVMG ZKKILZXSVH GL GVCGFZO VWRGRMT GSVIV
+ZIV DZBH RM DSRXS VOVXGILMRX GVXSMLOLTB XZM YV LU HVIERXV GL YLGS
+
+HRMXV UVD LU GSV VWRGLIH RMELOEVW RM GSV ULFMWRMT UZGSVIH XWILN VWRGRLMH
+ZIV GVXSMRXZO VCKVIGH RM ZMB HVMHV R SLKV GL KLRMG LFG RM NB WRHXFHHRLM
+LU LFI VCKVIRVMXV SLD NZMB LU GSVHV VOVXGILMRX RMMLEZGRLMH XZM YV FHVW
+HFXXVHHUFOOB YB HXSLOZIH DSL ZIV MLERXVH RM GSV DLIOW LU MVD GVXSMLOLTB
+LMV LU GSV NZQLI XLMXVIMH LU GSV HKLMHLIH LU GSV NFOGRGFWV LU MVD
+HXSLOZIOB VWRGRLMH RH GSV ORNRGVW ZFWRVMXV IVZXSVW YB GSV KFYORHSVW
+ELOFNVH  NLHG LU GSVHV VWRGRLMH ZIV YVRMT KFYORHSVW RM HNZOO JFZMGRGRVH
+ZMW GSV KFYORHSVIH KIRXV ULI GSVN KFGH GSVN LFG LU GSV IVZXS MLG LMOB LU
+RMWRERWFZO HXSLOZIH YFG LU NLHG KFYORX ORYIZIRVH ZMW ZOO YFG GSV OZITVHG
+VWFXZGRLMZO RMHGRGFGRLMH  SLDVEVI ORGGOV ZGGVMGRLM RH YVRMT TREVM GL
+DZBH RM DSRXS GVXSMLOLTB XZM YBKZHH XLMEVMGRLMZO KFYORXZGRLM GL NZPV
+SRHGLIRXZO ZMW ORGVIZIB WLXFNVMGH NLIV DRWVOB ZEZROZYOV
+
+DSZG ZGGIZXGVW FH NLHG GL GSV XWILN VWRGRLM LU GSV KZKVIH LU TVLITV
+DZHSRMTGLM DZH GSV UZXG GSZG WZERW KZXPZIWH ZRN DZH GL NZPV Z XLNKOVGV
+VWRGRLM LU ZOO LU GSV  WLXFNVMGH DV SZEV XLOOVXGVW ZEZROZYOV RM ZM
+RMVCKVMHREV ULINZG GSZG DLFOW YV KOZXVW RM KFYORX ORYIZIRVH HNZOO
+XLOOVTVH ZMW VEVM SRTS HXSLLOH  GSRH DLFOW KILERWV ZM ZFWRVMXV UZI
+YVBLMW LFI KIVHVMG XLKB  KFYORHSVW VWRGRLM  HRMXV GSV XWILN
+VWRGRLM DROO XZIIB MLMV LU GSV VCKOZMZGLIB ZMMLGZGRLM GSZG ZKKVZIH RM GSV
+KFYORHSVW ELOFNVH DV ZOHL UVVO GSZG GSV FHV LU GSV XWILN DROO OVZW NZMB
+IVHVZIXSVIH GL HVVP LFG GSV KFYORHSVW ELOFNVH
+
+RM ZWWRGRLM GL RTMLIZMXV LU MVD GVXSMRXZO ZWEZMXVH R SZEV ULFMW GSZG GLL
+NZMB VWRGLIHZMW SRHGLIRZMH ZMW ORGVIZIB HXSLOZIHZIV IVHRHGZMG ZMW
+VEVM SLHGROV GL HFTTVHGRLMH GSZG VOVXGILMRX GVXSMLOLTB NZB VMSZMXV GSVRI
+DLIP  R RMGVMW GL WRHXFHH HLNV LU GSV ZITFNVMGH GIZWRGRLMZORHGH ZIV
+ZWEZMXRMT GL IVHRHG GVXSMLOLTB IZMTRMT UILN WRHGIFHG LU GSV HKVVW DRGS
+DSRXS RG XSZMTVH DV ZIV ZOIVZWB DLMWVIRMT DSZG RH LFG GSVIV GSZG RH
+YVGGVI GSZM XWILN GL HFHKRXRLM LU GSV GVXSMRXZO OZMTFZTV FHVW GL
+WVHXIRYV VOVXGILMRX WVEVOLKNVMGH
+
+NZIRZ OVYILM
+
+GSV LMORMV QLFIMZO LU XFIIVMG XORMRXZO GIRZOH Z QLRMG EVMGFIV LU GSV
+ZNVIRXZM ZHHLXRZGRLM ULI GSV ZWEZMXVNVMG LU HXRVMXV ZZZH ZMW GSV LMORMV
+XLNKFGVI ORYIZIB XVMGVI RMX LXOX RH GSV URIHG KVVIIVERVDVW QLFIMZO
+GL KILERWV UFOO GVCG GZYFOZI NZGVIRZO ZMW ORMV ROOFHGIZGRLMH LM ORMV
+GSRH KIVHVMGZGRLM DROO WRHXFHH GSV TVMVHRH ZMW HGZIGFK KVIRLW LU GSV
+QLFIMZO  GLKRXH LU WRHXFHHRLM DROO RMXOFWV SRHGLIRXZO LEVIERVD
+WZBGLWZB NZMZTVNVMG LU GSV VWRGLIRZO KVVI IVERVD ZMW NZMFHXIRKG
+GZTTRMT ZMW KFYORXZGRLM  Z WVNLMHGIZGRLM LU GSV QLFIMZO ZMW RGH UVZGFIVH
+DROO ZXXLNKZMB GSV KIVHVMGZGRLM
+
+OBMMV KVIHLMRFH
+
+XLIMVOO FMREVIHRGB ORYIZIB XLIMVOO RMULINZGRLM GVXSMLOLTRVH ZMW CVILC
+XLIKLIZGRLM DRGS GSV HFKKLIG LU GSV XLNNRHHRLM LM KIVHVIEZGRLM ZMW
+ZXXVHH ZMW HFM NRXILHBHGVNH RMX SZEV YVVM XLOOZYLIZGRMT RM Z KILQVXG
+GL GVHG Z KILGLGBKV HBHGVN ULI IVXLIWRMT YIRGGOV YLLPH ZH WRTRGZO RNZTVH
+ZMW KILWFXRMT LM WVNZMW SRTSJFZORGB ZIXSREZO KZKVI IVKOZXVNVMGH  GSV
+KILQVXG TLVH YVBLMW GSZG SLDVEVI GL RMEVHGRTZGV HLNV LU GSV RHHFVH
+HFIILFMWRMT HXZMMRMT HGLIRMT IVGIRVERMT ZMW KILERWRMT ZXXVHH GL
+WRTRGZO RNZTVH RM Z MVGDLIP VMERILMNVMG
+
+GSV QLRMG HGFWB RM WRTRGZO KIVHVIEZGRLM YVTZM RM QZMFZIB   CVILC
+KILERWVW GSV XLOOVTV ORYIZIB ZXXVHH ZMW HGLIZTV HBHGVN XOZHH HLUGDZIV
+Z KILGLGBKV WLGHKVIRMXS WKR HXZMMVI ZMW GSV SZIWDZIV MVXVHHZIB
+GL HFKKLIG MVGDLIP KIRMGRMT LM GSV WLXFGVXS KIRMGVI SLFHVW RM XLIMVOOH
+XLNKFGRMT ZMW XLNNFMRXZGRLMH XVMGVI XXX
+
+GSV XLIMVOO HGZUU FHRMT GSV SZIWDZIV ZMW HLUGDZIV YVXZNV ZM RMGVTIZO KZIG
+LU GSV WVEVOLKNVMG ZMW GVHGRMT KILXVHH ULI VMSZMXVNVMGH GL GSV XOZHH
+HLUGDZIV HBHGVN  GSV XLOOZYLIZGREV MZGFIV LU GSRH IVOZGRLMHSRK RH
+IVHFOGRMT RM Z HBHGVN GSZG RH HKVXRURXZOOB GZROLIVW GL GSV KIVHVIEZGRLM
+ZKKORXZGRLM
+
+Z WRTRGZO ORYIZIB LU  ELOFNVH LI ZKKILCRNZGVOB  RNZTVH SZH
+YVVM XIVZGVW ZMW RH HGLIVW LM ZM LKGRXZO QFPVYLC GSZG IVHRWVH RM XXX
+GSV ORYIZIB RMXOFWVH Z XLOOVXGRLM LU HVOVXG NZGSVNZGRXH NLMLTIZKSH GSZG
+KILERWVH NZGSVNZGRXH UZXFOGB DRGS ZM LKKLIGFMRGB GL FHV GSV VOVXGILMRX
+ORYIZIB  GSV IVNZRMRMT ELOFNVH DVIV XSLHVM ULI GSV ORYIZIB GL GVHG GSV
+EZIRLFH XZKZYRORGRVH LU GSV HXZMMRMT HBHGVN
+
+LMV KILQVXG LYQVXGREV RH GL KILERWV FHVIH LU GSV XLIMVOO ORYIZIB ZMW GSV
+ORYIZIB HGZUU DRGS GSV ZYRORGB GL IVJFVHG UZXHRNROVH LU WRTRGRAVW RNZTVH
+LI GL IVGIRVEV GSV ZXGFZO VOVXGILMRX RNZTV ULI YILDHRMT  Z KILGLGBKV
+ERVDRMT DLIPHGZGRLM SZH YVVM XIVZGVW YB CVILC DRGS RMKFG RMGL GSV WVHRTM
+YB Z XLNNRGGVV LU XLIMVOO ORYIZIRZMH ZMW XLNKFGVI KILUVHHRLMZOH  GSRH
+DROO ZOOLD FH GL VCKVIRNVMG DRGS KZGILM ZXXVHH GL GSV RNZTVH GSZG NZPV FK
+GSV WRTRGZO ORYIZIB  GSV ERVDRMT HGZGRLM KILERWVH HVZIXS IVGIRVEZO ZMW
+FOGRNZGVOB KIRMGRMT UFMXGRLMH DRGS VMSZMXVNVMGH GL UZXRORGZGV
+MZERTZGRLM GSILFTS NFOGRKOV WLXFNVMGH
+
+XLIMVOO XFIIVMGOB RH DLIPRMT GL VCGVMW ZXXVHH GL GSV WRTRGZO ORYIZIB GL
+IVZWVIH FHRMT DLIPHGZGRLMH UILN GSVRI LUURXVH  GSRH BVZI RH WVELGVW GL
+GSV WVEVOLKNVMG LU Z MVGDLIP IVHRWVMG RNZTV XLMEVIHRLM ZMW WVOREVIB
+HVIEVI ZMW XORVMG HLUGDZIV GSZG DROO HFKKLIG IVZWVIH DSL FHV ZKKOV
+NZXRMGLHS XLNKFGVIH RYN DRMWLDH KOZGULINH ZMW HFM DLIPHGZGRLMH
+VJFRKNVMG ULI GSRH WVEVOLKNVMG DZH KILERWVW YB HFM NRXILHBHGVNH DRGS
+HFKKLIG UILN GSV XLNNRHHRLM LM KIVHVIEZGRLM ZMW ZXXVHH
+
+WFIRMT GSV HSLDZMWGVOO HVHHRLM LU GSV DLIPHSLK LM VOVXGILMRX GVCGH Z
+KILGLGBKV ERVD HGZGRLM DROO YV WVNLMHGIZGVW  RM ZWWRGRLM Z WRHKOZB LU
+LIRTRMZO ORYIZIB YLLPH GSZG SZEV YVVM WRTRGRAVW DROO YV ZEZROZYOV ULI
+IVERVD DRGS ZHHLXRZGVW KIRMGVW XLKRVH ULI XLNKZIRHLM  GSV URUGVVMNRMFGV
+LEVIERVD LU GSV KILQVXG DROO RMXOFWV Z HORWV KIVHVMGZGRLM GSZG
+XLMHGRGFGVH Z "GLFI" LU GSV KIVHVIEZGRLM WRTRGRARMT KILXVHH
+
+GSV URMZO MVGDLIPXLMMVXGVW EVIHRLM LU GSV ERVDRMT HGZGRLM DROO KILERWV
+ORYIZIB FHVIH DRGS ZMLGSVI NVXSZMRHN ULI ZXXVHHRMT GSV WRTRGZO ORYIZIB
+ZMW DROO ZOHL KILERWV GSV XZKZYRORGB LU ERVDRMT RNZTVH WRIVXGOB  GSRH
+DROO MLG IVJFRIV HKVXRZO HLUGDZIV ZOGSLFTS Z KLDVIUFO XLNKFGVI DRGS TLLW
+TIZKSRXH DROO YV MVVWVW
+
+GSV QLRMG HGFWB RM WRTRGZO KIVHVIEZGRLM SZH TVMVIZGVW Z TIVZG WVZO LU
+RMGVIVHG RM GSV ORYIZIB XLNNFMRGB  FMULIGFMZGVOB LI KVISZKH
+ULIGFMZGVOB GSRH KILQVXG HVIEVH GL IZRHV Z EZHG MFNYVI LU LGSVI RHHFVH
+HFIILFMWRMT GSV FHV LU WRTRGZO GVXSMLOLTB ULI GSV KIVHVIEZGRLM ZMW FHV LU
+WVGVIRLIZGRMT ORYIZIB NZGVIRZOH DSRXS HFYHVJFVMG KILQVXGH DROO MVVW GL
+VCZNRMV  NFXS DLIP IVNZRMH
+
+HVHHRLM RRR
+
+SLDZIW YVHHVI                      MVGDLIPRMT NFOGRNVWRZ WZGZYZHVH
+
+DSZG WL DV SZEV GL XLMHRWVI RM YFROWRMT ZMW WRHGIRYFGRMT WZGZYZHVH LU
+ERHFZO NZGVIRZOH RM Z NFOGRFHVI VMERILMNVMG?  GSRH KIVHVMGZGRLM VCZNRMVH
+Z EZIRVGB LU XLMXVIMH GSZG MVVW GL YV ZWWIVHHVW YVULIV Z NFOGRNVWRZ
+WZGZYZHV XZM YV HVG FK RM Z MVGDLIPVW VMERILMNVMG
+
+RM GSV KZHG RG SZH MLG YVVM UVZHRYOV GL RNKOVNVMG WZGZYZHVH LU ERHFZO
+NZGVIRZOH RM HSZIVWFHVI VMERILMNVMGH YVXZFHV LU GVXSMLOLTRXZO YZIIRVIH
+VZXS LU GSV GDL YZHRX NLWVOH ULI NFOGRFHVI NFOGRNVWRZ WZGZYZHVH SZH
+KLHVW RGH LDM KILYOVN  GSV ZMZOLT NFOGRNVWRZ HGLIZTV NLWVO IVKIVHVMGVW
+YB KILQVXG ZGSVMZH KZIZOOVO ZMZOLT ZMW WRTRGZO MVGDLIPH SZH IVJFRIVW ZM
+RMXIVWRYOB XLNKOVC ZMW VCKVMHREV RMUIZHGIFXGFIV  GSV VXLMLNRVH LU
+HXZOV GSZG NZPV NFOGRFHVI HVGFKH XSVZKVI KVI FHVI HVIEVW WL MLG LKVIZGV
+RM ZM VMERILMNVMG GSZG IVJFRIVH Z XLNKFGVI DLIPHGZGRLM ERWVLWRHX KOZBVI
+ZMW GDL WRHKOZB WVERXVH ULI VZXS FHVI
+
+GSV WRTRGZO NFOGRNVWRZ HGLIZTV NLWVO SZH IVJFRIVW EZHG ZNLFMGH LU HGLIZTV
+HKZXV ZH NFXS ZH LMV TRTZYBGV KVI GSRIGB HGROO RNZTVH  RM GSV KZHG GSV
+XLHG LU HFXS Z OZITV ZNLFMG LU HGLIZTV HKZXV NZWV GSRH NLWVO Z
+KILSRYRGREV XSLRXV ZH DVOO  YFG KOFMTRMT HGLIZTV XLHGH ZIV URMZOOB
+NZPRMT GSRH HVXLMW ZOGVIMZGREV ERZYOV
+
+RU HGLIZTV ML OLMTVI KLHVH HFXS ZM RNKVWRNVMG DSZG WL DV MVVW GL
+XLMHRWVI RM YFROWRMT WRTRGZOOB HGLIVW NFOGRFHVI WZGZYZHVH LU ERHFZO
+NZGVIRZOH?  GSRH KIVHVMGZGRLM DROO VCZNRMV GSV MVGDLIPRMT ZMW
+GVOVXLNNFMRXZGRLM XLMHGIZRMGH GSZG NFHG YV LEVIXLNV YVULIV HFXS WZGZYZHVH
+XZM YVXLNV XLNNLMKOZXV ZMW FHVUFO GL Z OZITV MFNYVI LU KVLKOV
+
+GSV PVB KILYOVN RH GSV EZHG HRAV LU NFOGRNVWRZ WLXFNVMGH ZMW SLD GSRH
+ZUUVXGH MLG LMOB HGLIZTV YFG GVOVXLNNFMRXZGRLMH GIZMHNRHHRLM GRNV
+ZMBGSRMT HOLDVI GSZM G HKVVW RH RNKIZXGRXZO ULI UROVH LU  NVTZYBGV LI
+OZITVI DSRXS RH ORPVOB GL YV HNZOO ULI Z NFOGRNVWRZ WLXFNVMG  ULI
+RMHGZMXV VEVM LM Z  PY ORMV RG DLFOW GZPV GSIVV NRMFGVH GL GIZMHUVI Z
+NVTZYBGV UROV  ZMW GSVHV URTFIVH ZHHFNV RWVZO XRIXFNHGZMXVH ZMW WL
+MLG GZPV RMGL XLMHRWVIZGRLM LGSVI FHVIH XLMGVMWRMT ULI MVGDLIP YZMWDRWGS
+WRHP ZXXVHH GRNV LI GSV GRNV MVVWVW ULI IVNLGV WRHKOZB  XFIIVMG XLNNLM
+GVOVKSLMV GIZMHNRHHRLM IZGVH DLFOW YV XLNKOVGVOB RNKIZXGRXZO UVD FHVIH
+DLFOW YV DROORMT GL DZRG GSV SLFI MVXVHHZIB GL GIZMHNRG Z HRMTOV RNZTV ZG
+ YZFW
+
+GSRH MVXVHHRGZGVH XLNKIVHHRLM DSRXS RGHVOU IZRHVH Z MFNYVI LU LGSVI
+RHHFVH  RM LIWVI GL WVXIVZHV UROV HRAVH HRTMRURXZMGOB DV NFHG VNKOLB
+OLHHB XLNKIVHHRLM ZOTLIRGSNH  YFG SLD NFXS JFZORGB XZM DV ZUULIW GL
+OLHV?  GL WZGV GSVIV SZH YVVM LMOB LMV HRTMRURXZMG HGFWB WLMV LU
+RNZTVJFZORGB MVVWH ULI Z KZIGRXFOZI FHVI TILFK ZMW GSRH HGFWB WRW MLG
+OLLP ZG OLHH IVHFOGRMT UILN XLNKIVHHRLM  LMOB ZUGVI RWVMGRUBRMT
+RNZTVJFZORGB MVVWH XZM DV YVTRM GL ZWWIVHH HGLIZTV ZMW MVGDLIP YZMWDRWGS
+MVVWH
+
+VCKVIRVMXV DRGS CDRMWLDHYZHVW ZKKORXZGRLMH HFXS ZH RNZTVJFVIB GSV
+FMREVIHRGB LU XZORULIMRZ ZG YVIPVOVB RNZTV WZGZYZHV WVNLMHGIZGVH GSV
+FGRORGB LU Z XORVMGHVIEVI GLKLOLTB YFG ZOHL KLRMGH GL GSV ORNRGZGRLM LU
+XFIIVMG HLUGDZIV ULI Z WRHGIRYFGVW VMERILMNVMG  ULI VCZNKOV
+ZKKORXZGRLMH ORPV RNZTVJFVIB XZM RMXLIKLIZGV XLNKIVHHRLM YFG XFIIVMG C
+RNKOVNVMGZGRLMH WL MLG KVINRG WVXLNKIVHHRLM ZG GSV VMW FHVIH
+DLIPHGZGRLM  HFXS WVXLNKIVHHRLM ZG GSV SLHG XLNKFGVI ZOOVERZGVH HGLIZTV
+XZKZXRGB KILYOVNH DSROV WLRMT MLGSRMT GL ZWWIVHH KILYOVNH LU
+GVOVXLNNFMRXZGRLMH YZMWDRWGS
+
+DV MVVW GL VCZNRMV GSV VUUVXGH LM MVGDLIP GSILFTSKFG LU NLERMT
+NFOGRNVWRZ WLXFNVMGH ZILFMW LM Z MVGDLIP  DV MVVW GL VCZNRMV EZIRLFH
+GLKLOLTRVH GSZG DROO SVOK FH ZELRW YLGGOVMVXPH ZILFMW HVIEVIH ZMW
+TZGVDZBH  VCKVIRVMXV DRGS ZKKORXZGRLMH HFXS ZH GSVHV IZRHV HGROO YILZWVI
+JFVHGRLMH SLD XOLHVOB RH GSV NFOGRNVWRZ WLXFNVMG GRVW GL GSV HLUGDZIV
+ULI ERVDRMT RG?  XZM RG YV ZXXVHHVW ZMW ERVDVW UILN LGSVI ZKKORXZGRLMH?
+VCKVIRVMXV DRGS GSV NZIX ULINZG ZMW NLIV IVXVMGOB DRGS GSV A
+KILGLXLOH HSLDH SLD FHVUFO RG XZM YV GL HGLIV WLXFNVMGH RM Z ULIN RM
+DSRXS GSVB XZM YV ZXXVHHVW YB Z EZIRVGB LU ZKKORXZGRLM HLUGDZIV
+
+URMZOOB UILN ZM RMGVOOVXGFZOZXXVHH HGZMWKLRMG DV MVVW GL ZWWIVHH GSV
+RHHFV LU KILERWRMT ZXXVHH GL GSVHV NFOGRNVWRZ WLXFNVMGH RM
+RMGVIWRHXRKORMZIB VMERILMNVMGH  DV MVVW GL VCZNRMV GVINRMLOLTB ZMW
+RMWVCRMT HGIZGVTRVH GSZG DROO ZOOLD FH GL KILERWV ZXXVHH GL GSRH NZGVIRZO
+RM Z XILHHWRHXRKORMZIB DZB
+
+ILMZOW OZIHVM            WRIVXGRLMH RM SRTSKVIULINZMXV MVGDLIPRMT ULI
+                         ORYIZIRVH
+
+GSV KZXV ZG DSRXS XLNKFGRMT GVXSMLOLTB SZH ZWEZMXVW LEVI GSV KZHG ULIGB
+BVZIH HSLDH ML HRTM LU ZYZGRMT  ILFTSOB HKVZPRMT VZXS UREVBVZI KVIRLW
+SZH BRVOWVW ZM LIWVILUNZTMRGFWV RNKILEVNVMG RM KIRXV ZMW KVIULINZMXV LU
+XLNKFGRMT VJFRKNVMG  ML UFMWZNVMGZO SFIWOVH ZIV ORPVOB GL KIVEVMG GSRH
+KZXV UILN XLMGRMFRMT ULI ZG OVZHG GSV MVCG WVXZWV  RG RH LMOB RM GSV
+KZHG UREV BVZIH GSLFTS GSZG XLNKFGRMT SZH YVXLNV FYRJFRGLFH RM
+ORYIZIRVH ZUUVXGRMT ZOO HGZUU ZMW KZGILMH WRIVXGOB LI RMWRIVXGOB
+
+WFIRMT GSVHV HZNV UREV BVZIH XLNNFMRXZGRLMH IZGVH LM GSV RMGVIMVG GSV
+KIRMXRKZO ZXZWVNRX XLNKFGRMT MVGDLIP SZEV TILDM UILN  PYKH GL 
+NYKH ZMW GSV MHUMVG YZXPYLMV RH MLD IFMMRMT  NYKH  LEVI GSV MVCG UREV
+BVZIH XLNNFMRXZGRLM IZGVH LM GSV YZXPYLMV ZIV VCKVXGVW GL VCXVVW  TYKH
+TILDGS RM YLGS GSV KLKFOZGRLM LU MVGDLIP FHVIH ZMW GSV ELOFNV LU MVGDLIP
+GIZUURX  SZH XLMGRMFVW GL TILD TVLNVGIRXZOOB ZG IZGVH ZKKILZXSRMT 
+KVIXVMG KVI NLMGS  GSRH UOLLW LU XZKZXRGB ZMW FHV ORPVMVW YB HLNV GL
+"WIRMPRMT UILN Z URIVSLHV"  XIVZGVH RNNVMHV LKKLIGFMRGRVH ZMW XSZOOVMTVH
+ULI ORYIZIRVH  ORYIZIRVH NFHG ZMGRXRKZGV GSV UFGFIV RNKORXZGRLMH LU GSRH
+GVXSMLOLTB KZIGRXRKZGV RM RGH WVEVOLKNVMG ZMW WVKOLB RG GL VMHFIV
+ZXXVHH GL GSV DLIOWH RMULINZGRLM IVHLFIXVH
+
+GSV RMUIZHGIFXGFIV ULI GSV RMULINZGRLM ZTV RH YVRMT KFG RM KOZXV
+ORYIZIRVH UZXV HGIZGVTRX WVXRHRLMH ZYLFG GSVRI ILOV RM GSV WVEVOLKNVMG
+WVKOLBNVMG ZMW FHV LU GSRH RMUIZHGIFXGFIV  GSV VNVITRMT RMUIZHGIFXGFIV
+RH NFXS NLIV GSZM XLNKFGVIH ZMW XLNNFMRXZGRLM ORMVH  RG RH NLIV GSZM GSV
+ZYRORGB GL XLNKFGV ZG Z IVNLGV HRGV HVMW VOVXGILMRX NZRO GL Z KVVI
+ZXILHH GSV XLFMGIB LI NLEV Z UROV UILN LMV ORYIZIB GL ZMLGSVI  GSV MVCG
+UREV BVZIH DROO DRGMVHH HFYHGZMGRZO WVEVOLKNVMG LU GSV RMULINZGRLM
+RMUIZHGIFXGFIV LU GSV MVGDLIP
+
+RM LIWVI GL KILERWV ZKKILKIRZGV OVZWVIHSRK ORYIZIB KILUVHHRLMZOH NFHG
+SZEV Z UFMWZNVMGZO FMWVIHGZMWRMT LU ZMW ZKKIVXRZGRLM ULI XLNKFGVI
+MVGDLIPRMT UILN OLXZO ZIVZ MVGDLIPH GL GSV MZGRLMZO IVHVZIXS ZMW
+VWFXZGRLM MVGDLIP MIVM  GSRH KIVHVMGZGRLM ZWWIVHHVH GSVHV
+UFMWZNVMGZOH ZMW SLD GSVB IVOZGV GL ORYIZIRVH GLWZB ZMW RM GSV MVZI
+UFGFIV
+
+VWDRM YILDMIRTT               VOVXGILMRX ORYIZIB ERHRLMH ZMW IVZORGRVH
+
+GSV VOVXGILMRX ORYIZIB SZH YVVM Z ERHRLM WVHRIVW YB NZMBZMW IVQVXGVW YB
+HLNVHRMXV EZMMVEZI YFHS XLRMVW GSV GVIN NVNVC GL WVHXIRYV ZM ZFGLNZGVW
+RMGVOORTVMG KVIHLMZO RMULINZGRLM HBHGVN  EZIRZGRLMH LM GSRH ERHRLM SZEV
+RMXOFWVW GVW MVOHLMH CZMZWZF ZOZM PZBH WBMZYLLP ZMW OZMXZHGVIH
+"KZKVIOVHH ORYIZIB" DRGS GSV NLHG IVXVMG RMXZIMZGRLM YVRMT GSV
+"PMLDOVWTV MZERTZGLI" WVHXIRYVW YB QLSM HXFOOB LU ZKKOV  YFG GSV IVZORGB
+LU ORYIZIB HVIERXV SZH YVVM OVHH ERHRLMZIB ZMW GSV OVZK GL GSV VOVXGILMRX
+ORYIZIB SZH VOFWVW FMREVIHRGRVH KFYORHSVIH ZMW RMULINZGRLM GVXSMLOLTB
+UROVH
+
+GSV NVNVC IVHVZIXS RMHGRGFGV NVNIR ZM RMWVKVMWVMG MLMKILURG IVHVZIXS
+ZMW WVEVOLKNVMG LITZMRAZGRLM SZH XIVZGVW ZM VOVXGILMRX ORYIZIB KILTIZN
+LU HSZIVW IVHVZIXS ZMW WVEVOLKNVMG RM LIWVI GL NZPV GSV XLOOVXGREV ERHRLM
+NLIV XLMXIVGV  GSV KILTIZN RH DLIPRMT GLDZIW GSV XIVZGRLM LU OZITV
+RMWVCVW KFYORXOB ZEZROZYOV VOVXGILMRX RNZTV XLOOVXGRLMH LU KFYORHSVW
+WLXFNVMGH RM ZXZWVNRX HKVXRZO ZMW KFYORX ORYIZIRVH  GSRH HGIZGVTRX
+KOZM RH GSV IVHFOG LU GSV URIHG HGZTV LU GSV KILTIZN DSRXS SZH YVVM ZM
+RMEVHGRTZGRLM LU GSV RMULINZGRLM GVXSMLOLTRVH ZEZROZYOV GL HFKKLIG HFXS
+ZM VUULIG GSV VXLMLNRX KZIZNVGVIH LU VOVXGILMRX HVIERXV XLNKZIVW GL
+GIZWRGRLMZO ORYIZIB LKVIZGRLMH ZMW GSV YFHRMVHH ZMW KLORGRXZO UZXGLIH
+ZUUVXGRMT GSV HSRUG UILN KIRMG WRHGIRYFGRLM GL VOVXGILMRX MVGDLIPVW
+ZXXVHH
+
+GSV HGIZGVTRX KOZM VMERHRLMH Z XLNYRMZGRLM LU KFYORXOB HVZIXSZYOV ZXXVHH
+WZGZYZHVH RNZTV ZMW GVCG WLXFNVMG XLOOVXGRLMH HGLIVW LM MVGDLIP "UROV
+HVIEVIH" OLXZO ZMW IVNLGV MVGDLIP ZXXVHH ZMW ZM RMGVOOVXGFZO KILKVIGB
+NZMZTVNVMGXLMGILO HBHGVN  GSRH XLNYRMZGRLM LU GVXSMLOLTB ZMW
+RMULINZGRLM XLMGVMG RH WVURMVW RM GSRH KOZM ZH ZM VORYIZIB LI VORYIZIB
+XLOOVXGRLM  HLNV KZIGRXRKZGRMT HKLMHLIH ZIV ZOIVZWB WVEVOLKRMT KILQVXGH
+YZHVW LM NVNIRH IVXLNNVMWVW WRIVXGRLMH
+
+GSV VORYIZIB HGIZGVTB KILQVXGVW RM GSRH KOZM RH Z ERHRLMZIB LMV GSZG XZM
+VMZYOV NZQLI XSZMTVH ZMW RNKILEVNVMGH RM ZXZWVNRX KFYORX ZMW HKVXRZO
+ORYIZIB HVIERXV  GSRH ERHRLM RH GSLFTS LMV GSZG XZM YV IVZORAVW DRGS
+GLWZBH GVXSMLOLTB  ZG GSV HZNV GRNV RG DROO XSZOOVMTV GSV KLORGRXZO
+ZMW HLXRZO HGIFXGFIV DRGSRM DSRXS ORYIZIRVH LKVIZGV  RM ZXZWVNRX
+ORYIZIRVH GSV GIZWRGRLMZO VNKSZHRH LM OLXZO XLOOVXGRLMH VCGVMWRMT GL
+ZXXIVWRGZGRLM RHHFVH RM KFYORX ORYIZIRVH GSV KLGVMGRZO LU VOVXGILMRX
+YIZMXS ZMW XVMGIZO ORYIZIRVH UFOOB ZEZROZYOV GL GSV KFYORX ZMW ULI
+HKVXRZO ORYIZIRVH MVD LKKLIGFMRGRVH ULI HSZIVW XLOOVXGRLMH ZMW MVGDLIPH
+
+GSV VMERILMNVMG RM DSRXS GSRH HGIZGVTRX KOZM SZH YVVM WVEVOLKVW RH ZG
+GSV NLNVMG WLNRMZGVW YB Z HVMHV LU ORYIZIB ORNRGH  GSV XLMGRMFVW
+VCKZMHRLM ZMW IZKRW TILDGS LU OLXZO ZXZWVNRX ORYIZIB XLOOVXGRLMH RH MLD
+XOVZIOB ZG ZM VMW  XLIKLIZGV ORYIZIRVH ZMW VEVM OZD ORYIZIRVH ZIV
+UZXVW DRGS LKVIZGRMT DRGSRM Z WRUURXFOG VXLMLNRX XORNZGV ZH DVOO ZH DRGS
+EVIB ZXGREV XLNKVGRGRLM UILN XLNNVIXRZO RMULINZGRLM HLFIXVH  ULI
+VCZNKOV KFYORX ORYIZIRVH NZB YV HVVM ZH Z WVHRIZYOV YFG MLG XIRGRXZO
+NFMRXRKZO HVIERXV RM Z GRNV DSVM GSV YFWTVGH LU HZUVGB ZMW SVZOGS
+ZTVMXRVH ZIV YVRMT XFG YZXP
+
+UFIGSVI ORYIZIRVH RM TVMVIZO SZEV Z EVIB SRTS OZYLIGLXLHG IZGRL RM
+GSVRI YFWTVGH ZMW OZYLI XLHGH ZIV HGROO RMXIVZHRMT MLGDRGSHGZMWRMT
+ZFGLNZGRLM RMEVHGNVMGH  RG RH WRUURXFOG ULI ORYIZIRVH GL LYGZRM XZKRGZO
+HGZIGFK LI HVVW UFMWRMT ULI RMMLEZGREV ZXGRERGRVH ZMW GSLHV
+GVXSMLOLTBRMGVMHREV RMRGRZGREVH GSZG LUUVI GSV KLGVMGRZO LU WVXIVZHVW
+OZYLI XLHGH XZM KILELPV GSV LKKLHRGRLM LU ORYIZIB HGZUU
+
+SLDVEVI ORYIZIRVH SZEV ZXSRVEVW HLNV XLMHRWVIZYOV HFXXVHHVH RM GSV KZHG
+GDL WVXZWVH YB RNKILERMT YLGS GSVRI HVIERXV ZMW GSVRI XIVWRYRORGB DRGSRM
+GSVRI LITZMRAZGRLMHZMW GSVHV KLHRGREV XSZMTVH SZEV YVVM ZXXLNKORHSVW
+NLHGOB DRGS QFWRXRLFH FHV LU RMULINZGRLM GVXSMLOLTRVH  GSV ZWEZMXVH RM
+XLNKFGRMT ZMW RMULINZGRLM GVXSMLOLTB SZEV YVVM DVOOXSILMRXOVW  GSV
+XLMGRMFRMT KIVXRKRGLFH WILK RM XLNKFGRMT XLHGH GSV TILDGS LU GSV
+RMGVIMVG ZMW KIREZGV MVGDLIPH ZMW GSV VCKOLHREV RMXIVZHV RM KFYORXOB
+ZEZROZYOV RMULINZGRLM WZGZYZHVH
+
+ULI VCZNKOV LXOX SZH YVXLNV LMV LU GSV OZITVHG XLNKFGVI MVGDLIP
+LITZMRAZGRLMH RM GSV DLIOW YB XIVZGRMT Z XLLKVIZGREV XZGZOLTRMT MVGDLIP
+LU NLIV GSZM  ORYIZIRVH DLIOWDRWV  LMORMV KFYORX ZXXVHH XZGZOLTH
+MLD HVIEV NROORLMH LU FHVIH LM NLIV GSZM  WVWRXZGVW GVINRMZOH RM
+GSV FMRGVW HGZGVH ZOLMV  GSV FMREVIHRGB LU XZORULIMRZ NVOEBO LMORMV
+XZGZOLT HBHGVN SZH MLD VCKZMWVW RMGL ZM RMWVC WZGZYZHV IVUVIVMXV HVIERXV
+ZMW HFKKLIGH NLIV GSZM HRC NROORLM HVZIXSVH Z BVZI  ZMW ORYIZIRVH SZEV
+YVXLNV GSV OZITVHG TILFK LU XFHGLNVIH LU XWILN KFYORHSRMT GVXSMLOLTB
+NLIV GSZM  LKGRXZO NVWRZ KFYORXZGRLMH HFXS ZH GSLHV LUUVIVW YB
+RMULGIZX ZMW HROEVI KOZGGVI ZIV HFYHXIRYVW GL YB FH ORYIZIRVH
+
+GSRH NZIXS LU GVXSMLOLTB XLMGRMFVH ZMW RM GSV MVCG WVXZWV DROO IVHFOG RM
+UFIGSVI RMMLEZGRLMH GSZG ZIV VCGIVNVOB WRUURXFOG GL KIVWRXG  DSZG RH
+XOVZI RH GSZG ORYIZIRVH XZM MLD TL YVBLMW ZFGLNZGRLM LU GSVRI LIWVI UROVH
+ZMW XZGZOLTH GL ZFGLNZGRLM LU GSVRI XLOOVXGRLMH GSVNHVOEVHZMW RG RH
+KLHHRYOV GL XRIXFNEVMG GSV URHXZO ORNRGZGRLMH GSZG ZKKVZI GL LYGZRM
+GLWZB
+
+GSRH VOVXGILMRX ORYIZIB HGIZGVTRX KOZM IVXLNNVMWH Z KZIZWRTN HSRUG RM
+ORYIZIB HVIERXV ZMW WVNLMHGIZGVH GSV HGVKH MVXVHHZIB GL KILERWV RNKILEVW
+ORYIZIB HVIERXVH DRGS ORNRGVW XZKZXRGRVH ZMW LKVIZGRMT RMEVHGNVMGH
+
+HVHHRLM REZ
+
+ZMMV PVMMVB
+
+GSV XLIMVOOCVILC QLRMG HGFWB RM WRTRGZO KIVHVIEZGRLM IVHFOGVW RM GSV
+IVXLIWRMT LU  YIRGGOV YLLPH ZH WKR WRTRGZO RNZTVH ZMW GSV
+KILWFXGRLM LM WVNZMW LU SRTSJFZORGB ZMW ZIXSREZOOB HLFMW KZKVI
+IVKOZXVNVMGH  GSV KILQVXG DSRXS DZH HFKKLIGVW YB GSV XLNNRHHRLM LM
+KIVHVIEZGRLM ZMW ZXXVHH ZOHL RMEVHGRTZGVW HLNV LU GSV RHHFVH HFIILFMWRMT
+HXZMMRMT HGLIRMT IVGIRVERMT ZMW KILERWRMT ZXXVHH GL WRTRGZO RNZTVH RM
+Z MVGDLIP VMERILMNVMG
+
+ZMMV PVMMVB DROO ULXFH LM HLNV LU GSV RHHFVH HFIILFMWRMT WRIVXG HXZMMRMT
+ZH RWVMGRURVW RM GSV XLIMVOO CVILC KILQVXG  ZNLMT GSLHV GL YV WRHXFHHVW
+ZIV  RNZTV EVIHFH GVCG XZKGFIV RMWVCRMT ZMW ZXXVHH RNZTVXZKGFIV
+XZKZYRORGRVH Z XLNKZIRHLM GL KSLGLXLKB ZMW NRXILURON KILWFXGRLM ZMW
+XLHG ZMZOBHRH HGLIZTV ULINZGH KILGLXLOH ZMW HGZMWZIWH ZMW GSV FHV LU
+GSRH HXZMMRMT GVXSMLOLTB ULI KIVHVIEZGRLM KFIKLHVH
+
+GSV WKR WRTRGZO RNZTVH KILWFXVW RM GSV XLIMVOO CVILC KILQVXG KILEVW
+SRTSOB ZXXVKGZYOV ULI XIVZGRMT KZKVI IVKOZXVNVMGH LU WVGVIRLIZGRMT
+LIRTRMZOH  GSV  HXZMMVW ELOFNVH KILERWVW ZM ZIIZB LU RNZTVXZKGFIV
+XSZOOVMTVH GSZG ZIV XLNNLM GL MRMVGVVMGSXVMGFIB KIRMGRMT GVXSMRJFVH ZMW
+VNYIRGGOVW NZGVIRZO ZMW GSZG WVUB GSV FHV LU GVCGXLMEVIHRLM KILXVHHVH
+GSVHV XSZOOVMTVH RMXOFWV WRNRMRHSVW XLMGIZHG YVGDVVM GVCG ZMW YZXPTILFMW
+UIZTROV ZMW WVGVIRLIZGVW KZTVH FMVEVM KIRMGRMT VOZYLIZGV GBKV UZXVH
+UZRMG ZMW YLOW GVCG ZWQZXVMXB SZMWDIRGGVM GVCG ZMW ZMMLGZGRLMH MLMILNZM
+OZMTFZTVH ZMW Z KILORUVIZGRLM LU ROOFHGIZGVW NZGVIRZO VNYVWWVW RM GVCG
+GSV OZGGVI XZGVTLIB RMXOFWVW SRTSUIVJFVMXB ZMW OLDUIVJFVMXB SZOUGLMVH
+XLMGRMFLFH GLMV KSLGLTIZKSH RMGIRXZGV NZGSVNZGRXZO WIZDRMTH NZKH
+VGXSRMTH IVEVIHVKLOZIRGB WIZDRMTH ZMW VMTIZERMTH
+
+GSV CVILC KILGLGBKV HXZMMRMT HBHGVN KILERWVW Z MFNYVI LU RNKLIGZMG
+UVZGFIVH ULI XZKGFIRMT GSRH WREVIHV NZGVIRZO  GVXSMRXRZMH FHVW NFOGRKOV
+GSIVHSLOW HVGGRMTH UROGVIH ORMV ZIG ZMW SZOUGLMV WVURMRGRLMH
+ZFGLHVTNVMGZGRLM DRMWLDRMT ZMW HLUGDZIVVWRGRMT KILTIZNH GL LKGRNRAV
+RNZTV XZKGFIV  ZG GSV HZNV GRNV GSRH KILQVXG ULXFHVW LM KILWFXGRLM
+GSV TLZO DZH GL NZPV HXZMMRMT ZH ZUULIWZYOV ZMW ZXXVKGZYOV ZH
+KSLGLXLKBRMT ZMW NRXILURONRMT ULI KIVHVIEZGRLM IVULINZGGRMT  Z
+GRNVZMWXLHG HGFWB XLMWFXGVW WFIRMT GSV OZHG GSIVV NLMGSH LU GSRH
+KILQVXG XLMURINVW GSV VXLMLNRX ERZYRORGB LU WRTRGZO HXZMMRMT ZMW GSVHV
+URMWRMTH DROO YV WRHXFHHVW SVIV
+
+UILN GSV LFGHVG GSV XLIMVOO CVILC KILQVXG DZH KIVWRXZGVW LM GSV FHV LU
+MLMKILKIRVGZIB HGZMWZIWH ZMW GSV FHV LU XLNNLM KILGLXLOH DSVM HGZMWZIWH
+WRW MLG VCRHG  WRTRGZO UROVH DVIV XIVZGVW ZH GRUU RNZTVH DSRXS DVIV
+XLNKIVHHVW KIRLI GL HGLIZTV FHRMT TILFK  XXRGG XLNKIVHHRLM  GSV CVILC
+HLUGDZIV RH NH WLH YZHVW ZMW FGRORAVH LUUGSV HSVOU KILTIZNH HFXS ZH
+NRXILHLUG DRMWLDH ZMW DZMT RNZTV DRAZIW  GSV WRTRGZO ORYIZIB RH WVHRTMVW
+GL YV SZIWDZIVRMWVKVMWVMG ZMW GL KILERWV RMGVIXSZMTVZYRORGB DRGS LGSVI
+RMHGRGFGRLMH GSILFTS MVGDLIP XLMMVXGRLMH  ZXXVHH GL GSV WRTRGZO UROVH
+GSVNHVOEVH RH GDLGRVIVW  YRYORLTIZKSRX IVXLIWH ULI GSV XLNKFGVI UROVH
+ZIV XIVZGVW RM IORM ZMW XLIMVOOH OLXZO HBHGVN ZMW ZXXVHH RMGL GSV ZXGFZO

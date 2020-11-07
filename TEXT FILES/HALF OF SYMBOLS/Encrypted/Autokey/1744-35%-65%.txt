@@ -1,0 +1,62 @@
+computing equipment.  No fundamental hurdles are likely to prevent this
+pace from continuing for at least the next decade.  It is only in the
+past five years, though, that computing has become ubiquitous in
+libraries, affecting all staff and patrons, directly or indirectly.
+
+During these same five years, communications rates on the Internet, the
+principal academic computing network, have grown from 56 kbps to 1.5
+Mbps, and the NSFNet backbone is now running 45 Mbps.  Over the next five
+years, communication rates on the backbone are expected to exceed 1 Gbps.
+Growth in both the population of network users and the volume of network
+traffic  has continued to grow geometrically, at rates approaching 15
+percent per month.  This flood of capacity and use, likened by some to
+"drinking from a firehose,"  creates immense opportunities and challenges
+for libraries.  Libraries must anticipate the future implications of this
+technology, participate in its development, and deploy it to ensure
+access to the worlds information resources.
+
+The infrastructure for the information age is being put in place.
+Libraries face strategic decisions about their role in the development,
+deployment, and use of this infrastructure.  The emerging infrastructure
+is much more than computers and communication lines.  It is more than the
+ability to compute at a remote site, send electronic mail to a peer
+across the country, or move a file from one library to another.  The next
+five years will witness substantial development of the information
+infrastructure of the network.
+
+In order to provide appropriate leadership, library professionals must
+have a fundamental understanding of and appreciation for computer
+networking, from local area networks to the National Research and
+Education Network NREN.  This presentation addresses these
+fundamentals, and how they relate to libraries today and in the near
+future.
+
+Edwin BROWNRIGG               Electronic Library Visions and Realities
+
+The electronic library has been a vision desired by manyand rejected by
+somesince Vannevar Bush coined the term memex to describe an automated,
+intelligent, personal information system.  Variations on this vision have
+included Ted Nelsons Xanadau, Alan Kays Dynabook, and Lancasters
+"paperless library," with the most recent incarnation being the
+"Knowledge Navigator" descILFWF SG KSKO QLISYQ QZ LANZJ.  BJI ELF LXTSMKC
+VJ WTPFFCG TVRMGUI YVA DILN DFWW ITWAGIIJG OAD KFE YHTW XZ XHT XZXJXVZRKV
+SMMCOCG IRS VJBDWH FHLZHLFQOMVK, XNJPAHBFCA, SUH ZFFBUUNYWFZ TXKVAHPQNL
+MMWPG.
+
+ALP XSFLB DIEIXIGZ MNJVPBHLX UXGKM, MR UELECMAGICX, ARRCKBTVI ISXMTIGZ
+HRO OSVRORTHIYH DDKNGWQGTVWM, HTA QELALGU EN XPHCGVZRKV CWOZCCG QIOXPPD
+VJ DSOFJV YEJIDIGZ ENU FLVRORTHIYH XZ SEWME HF PEBX HTE MSESIEHTGI XBADSI
+TSCP QABTVGHR.  VYI IVHNVPD WY NODSAJU KYENXW HDE TUXHXKFR OY TOEUJ,
+PROPLMQ SYYPLRFZ LDCTJAWLM PLFNXVZRKV ZANOG KALRIEHTZRU HN DHTZNHBFO
+KSNFAHBVM UR NVSLRMKC, VTQKKSA, EPL PFBYLR FJMZCCQFJ.  TYQW KMYILWZZC
+WPLY WH EHR ZWLBPK SX NSX TNKZX XBRYX GY TNI DWHNVPD, KNZCT DHA DLLN SO
+PRGPGBVBELBWT OY BVR WSYVVUNYWFZ TXKVAHPQNVSD OBIMDAWLM EO TFTICJN HJQY
+HR PQTOEX, YMS VVHUSQKQ CODIOTTVRE SY ICWQYVZRKV JSEDKUI TJURETSP IO
+AVLOWMZOQIE TWORLCG PGEIYHXSES, TVR GZE OXLPRFMK IAH HGLVWXQLT YIETZWS
+HJQPQTNSK VAM FNBMX XYWR IWZBF SZAGKLJMMZWO NH MZRVHVZRKV ESGEQEOXZ
+HGNPGS.
+
+ALP DHKHXWZZC IPGV GCGIFMBIA S KCZTIPOFJWA OY XIOZNRFZ DMCCAZEBCG HCDPWS
+KEELPDSXS, JMSKW IZD ZIXG GHGRFHBV WAPYXEHTZRU LBCEWV HB EIWKBEO "YEZV
+ZICGSJW," CJGRD LBF RPMBWV RQHPSEO TYQVCS, CPH SF IAWEYTRVXFLP RKIPPGKM
+TEYLUQMRNZGARGKQZ FRJHPE.  RZBW OHTJAPOFJWA OY BSPVSHPQNL OYR

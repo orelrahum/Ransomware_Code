@@ -1,0 +1,149 @@
+
+          Carl Fleischhauer Coordinator American Memory Library of
+             Congress
+          George Thoma Chief Communications Engineering Branch
+             National Library of Medicine NLM
+
+
+ AM  Break
+
+ AM  Session IV  Image Capture Text Capture Overview of Text and
+          Image Storage Formats Contd
+
+          C Image Standards and Implications for Preservation
+
+          Jean Baronas Senior Manager Department of Standards and
+             Technology Association for Information and Image Management
+             AIIM
+          Patricia Battin President The Commission on Preservation and
+             Access CPA
+
+          D Text Conversion
+             OCR vs rekeying
+             Standards of accuracy and use of imperfect texts
+             Service bureaus
+
+          Stuart Weibel Senior Research Specialist Online Computer
+             Library Center Inc OCLC
+          Michael Lesk Executive Director Computer Science Research
+             Bellcore
+          Ricky Erway Associate Coordinator American Memory Library of
+             Congress
+          Pamela QJ Andre Associate Director Automation and
+          Judith A Zidar Coordinator National Agricultural Text
+             Digitizing Program NATDP National Agricultural Library
+             NAL
+
+
+ PM   Lunch
+
+ PM   Session V  Approaches to Preparing Electronic Texts
+
+          Discussion of approaches to structuring text for the computer
+          pros and cons of text coding description of methods in
+          practice and comparison of textcoding methods
+
+          Moderator  Susan Hockey Director Center for Electronic Texts
+             in the Humanities CETH Rutgers and Princeton Universities
+          David Woodley Packard
+          CM SperbergMcQueen Editor Text Encoding Initiative TEI
+             University of IllinoisChicago
+          Eric M Calaluca Vice President ChadwyckHealey Inc
+
+
+ PM   Break
+
+ PM   Session VI  Copyright Issues
+
+          Marybeth Peters Policy Planning Adviser to the Register of
+             Copyrights Library of Congress
+
+ PM   Session VII Conclusion
+
+          General discussion
+          What topics were omitted or given short shrift that anyone
+             would like to talk about now?
+          Is there a "group" here?  What should the group do next if
+             anything?  What should the Library of Congress do next if
+             anything?
+          Moderator  Prosser Gifford Director for Scholarly Programs
+             Library of Congress
+
+ PM   Adjourn
+
+
+                                 
+
+
+                         Appendix II  ABSTRACTS
+
+
+SESSION I
+
+Avra MICHELSON           Forecasting the Use of Electronic Texts by
+                         Social Sciences and Humanities Scholars
+
+This presentation explores the ways in which electronic texts are likely
+to be used by the nonscientific scholarly community  Many of the
+remarks are drawn from a report the speaker coauthored with Jeff
+Rothenberg a computer scientist at The RAND Corporation
+
+The speaker assesses  current scholarly use of information technology
+and  the key trends in information technology most relevant to the
+research process in order to predict how social sciences and humanities
+scholars are apt to use electronic texts  In introducing the topic
+current use of electronic texts is explored broadly within the context of
+scholarly communication  From the perspective of scholarly
+communication the work of humanities and social sciences scholars
+involves five processes   identification of sources  communication
+with colleagues  interpretation and analysis of data  dissemination
+of research findings and  curriculum development and instruction  The
+extent to which computation currently permeates aspects of scholarly
+communication represents a viable indicator of the prospects for
+electronic texts
+
+The discussion of current practice is balanced by an analysis of key
+trends in the scholarly use of information technology  These include the
+trends toward enduser computing and connectivity which provide a
+framework for forecasting the use of electronic texts through this
+millennium  The presentation concludes with a summary of the ways in
+which the nonscientific scholarly community can be expected to use
+electronic texts and the implications of that use for information
+providers
+
+Susan VECCIA and Joanne FREEMAN    Electronic Archives for the Public
+                                   Use of American Memory in Public and
+                                   School Libraries
+
+This joint discussion focuses on nonscholarly applications of electronic
+library materials specifically addressing use of the Library of Congress
+American Memory AM program in a small number of public and school
+libraries throughout the United States  AM consists of selected Library
+of Congress primary archival materials stored on optical media
+CDROMvideodisc and presented with little or no editing  Many
+collections are accompanied by electronic introductions and users guides
+offering background information and historical context  Collections
+represent a variety of formats including photographs graphic arts
+motion pictures recorded sound music broadsides and manuscripts
+books and pamphlets
+
+In  the Library of Congress began a nationwide evaluation of AM in
+different types of institutions  Test sites include public libraries
+elementary and secondary school libraries college and university
+libraries stZGV ORYIZIRVH ZMW HKVXRZO ORYIZIRVH  HFHZM EVXXRZ ZMW
+QLZMMV UIVVNZM DROO WRHXFHH GSVRI LYHVIEZGRLMH LM GSV FHV LU ZN YB GSV
+MLMHXSLOZIOB XLNNFMRGB FHRMT VERWVMXV TOVZMVW UILN GSRH LMTLRMT
+VEZOFZGRLM VUULIG
+
+EVXXRZ DROO XLNNVMG LM GSV LEVIZOO TLZOH LU GSV VEZOFZGRLM KILQVXG ZMW
+GSV GBKVH LU KFYORX ZMW HXSLLO ORYIZIRVH RMXOFWVW RM GSRH HGFWB  SVI
+XLNNVMGH LM MLMHXSLOZIOB FHV LU ZN DROO ULXFH LM GSV KFYORX ORYIZIB ZH Z
+XFOGFIZO ZMW XLNNFMRGB RMHGRGFGRLM LUGVM YIRWTRMT GSV TZK YVGDVVM ULINZO
+ZMW RMULINZO VWFXZGRLM  UIVVNZM DROO WRHXFHH GSV FHV LU ZN RM HXSLLO
+ORYIZIRVH  FHV YB HGFWVMGH ZMW GVZXSVIH SZH IVEVZOVW HLNV YILZW
+JFVHGRLMH ZYLFG GSV FHV LU VOVXGILMRX IVHLFIXVH ZH DVOO ZH WVURMRGV
+YVMVURGH TZRMVW YB GSV "MLMHXSLOZI"  GLKRXH DROO RMXOFWV GSV KILYOVN LU
+TIZHKRMT XLMGVMG ZMW XLMGVCG RM ZM VOVXGILMRX VMERILMNVMG GSV HGFNYORMT
+YOLXPH XIVZGVW YB "MVD" GVXSMLOLTRVH ZMW GSV FMRJFV HPROOH ZMW RMGVIVHGH
+ZDZPVMVW GSILFTS FHV LU VOVXGILMRX IVHLFIXVH
+

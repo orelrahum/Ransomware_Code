@@ -1,0 +1,80 @@
+archiving of the electronic pages.  The type of equipment required for a
+standalone scanning workstation and the importance of file management
+software will be discussed.  Issues concerning the images themselves will
+be addressed briefly, such as image format black and white versus color
+gray scale versus dithering and resolution.
+
+Also described will be a study currently in progress by NAL to evaluate
+the usefulness of converting microfilm to electronic images in order to
+improve access.  With the cooperation of Tuskegee University, NAL has
+selected three reels of microfilm from a collection of sixtyseven reels
+containing the papers, letters, and drawings of George Washington Carver.
+The three reels were converted into 3,500 electronic images using a
+specialized microfilm scanner.  The selection, filming, and indexing of
+this material will be discussed.
+
+Donald WATERS
+
+Project Open Book, the Yale University Librarys effort to convert 10,
+000 books from microfilm to digital imagery, is currently in an advanced
+state of planning and organization.  The Yale Library has selected a
+major vendor to serve as a partner in the project and as systems
+integrator.  In its proposal, the successful vendor helped isolate areas
+of risk and uncertainty as well as key issues to be addressed during the
+life of the project.  The Yale Library is now poised to decide what
+material it will convert to digital image form and to seek funding,
+initially for the first phase and then for the entire project.
+
+The proposal that Yale accepted for the implementation of Project Open
+Book will provide at the end of three phases a conversion subsystem,
+browsing stations distributed on the campus network within the Yale
+Library, a subsystem for storing 10,000 books at 200 and 600 dots per
+inch, and network access to the image printers.  Pricing for the system
+implementation assumes the existence of Yales campus ethernet network
+and its highspeed image printers, and includes other requisite hardware
+and software, as well as system integration services.  Proposed operating
+costs include hardware and software maintenance, but do not include
+estimates for the facilities management of the storage devices and image
+servers.
+
+Yale selected its vendor partner in a formal process, partly funded by
+the Commission for Preservation and Access.  Following a request for
+proposal, the Yale Library selected two vendors as finalists to work with
+Yale staff to generate a detailed analysis of requirements for Project
+Open Book.  Each vendor used the results of the requirements analysis to
+generate and submit a formal proposal for the entire project.  This
+competitive process not only enabled the Yale Library to select its
+primary vendor partner but also revealed much about the state of the
+imaging industry, about the varying, corporate commitments to the markets
+for imaging technology, and about the varying organizational dynamics
+PMWHIFO RMHRM UQHIC NIUFEDUSP ENS ESPZHWRUDP FU YWR PSQEUDP FI WKSASHZ
+PMSPQ HENEQPB.
+
+HEIHQRZ MHSC LWZV DL PMWHLKR PHQRUGMDLFXA UW PMQ RUWSKEPHIW UG UUQPKB
+PNIU UHNCUZUVC MI WDIMGLF ZUCH.  PMQ PQRURUXIZA ZHW BRLADUDF UHNCUZUVU HB
+ESKNUVK YLKUVQLSA LMG MB RUEDFUDP DEFDKXA.  UD MGP HWHHKQM ESAMHDQHARPB,
+PMQ KLFA SMVNEWE QHHRELOGKR PAQFHNSP UZ PMQ PQRURUXIZQ ZUEF QZLQRZ BRS
+PQRMDUNQB ANLVUZQ UZ KDIDFQV UUQPK HEIWMNGMUW LAC GRS WMBPX HT NESQFUDZ
+LAR VZMDHDF PMK HUQPK VUSCENX:  YUEF BKSASX HG NDIMGLF ESXHFNGMUW NQC LY
+QNMHKSKR XQ BRLADUDF UHNCUZUVU?  MWY WISP LKDHQFHID UC FRS AMLFMGX WZ
+UHNCUZUVH, TENGMNMFLNSK OA UUVH TWHNIRQC GH ZESPSDSQFHIR LFQWRENRV,
+LUPAQM PMQ ANLVUZQ UZ PMK RDIMGLF HUKFSP?  ROQF PQRMWUXUIDSP NQA LW
+HZSEQFHW APPAQMDGASK YWR QRUWIUMDLFXA EFFSX YRSR LNQWLUDP ZUVC MW
+PSFENEPQ ZCIOG HUQPKL EWR ZM WMCFWHF UHW LAR NHWESQM HUKFY
+HUHSNPQRGMUWP?  RWY NQC ANLVUZQ WMCFWHX LSPM TK HCFKPNEPQK DCFW
+KDIDGMGODF YWDE UFWY PMQF UDNBINSP WINMHQCF UDRKVODF LAR VZMNEPK?
+
+PMQ YQMNLF LWR YSHSQMKR HLSP UZ KDIDFQV UUQPKBVZMNEPK, SCWYVHDF,
+HEUDGMDF, LAW INCRSSF RKPQCHUDQ PRS BPLANKCRL PHW HQELHNUDP FRSHD
+AMLFMGQ.  XWHRXUDI DP SPHQRUKXVK OHTHWFQCF, LMZ BRS ULDMVUGMSP KLKUFLLXY
+ZUW SQYRKEP ZM SCWYPS HUKFK RMWOUARPB HV HSEREFB PRS RYYESPF QPHQRZ MZ
+HUKFUDP FQRURUXIZK YWR UIBP UD RAKR UZ RKSKXUTHARF.  QV HG CAPUDKR MGB
+ESAMHDQHARPB, PMQ KLFA SMVNEWE WMWNARPCQFKR UW XHHQ UNWRQUARFQF LPHQRPB
+UZ HLQLUVMGA ZHW HUKFK RMWOUARPB:  WISP PMS PEXPQU MKLS PNUGUDMARZ
+UFYSMVUVMGQ ZI MLANVQ PRS UNXV NEDFY HG NMWOUARZ BEZSP, UDNBINUDZ
+UIWUPDEFRP, UOBFHGENF QWR UOBFDGUXOUS PQPL, EWR PSDHLFL, EX RASF LB
+UQANBRDHTF WMXVQRGMUWX?  RUEM QUWSKCFHIRL ENA RQRSPLEWE ZM DKARGMZA Y
+WINMHQCF NAMKHAXA ZUE PZMNEPK LAR CQPDHKSLF?  ROSEK HB PRS NKFQLQPS UZ
+ESWMCR ZUE PZMDHDF VMLXHIPDEFMHD MAUHWUQGMUW QLIOZ BRS HUKFK RMWOUARZ?
+MIN YES LQVHD MCFSEALX BPCMNFMESX HG NMWOUARPB, LHRM EL FEIDALGMUW, UQRK
+QNRQBVMVSA ZM PMS EQYRKE?  RWY ENQ PRS HUKFK RMWOUARPB HREXMDLFXA

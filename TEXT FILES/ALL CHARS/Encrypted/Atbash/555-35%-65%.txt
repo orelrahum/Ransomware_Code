@@ -1,0 +1,19 @@
+electronic form * SGML, the TEI, document-type declarations, and the
+reusability and longevity of data * TEI conformance explicitly allows
+extension or modification of the TEI tag set * Administrative background
+of the TEI * Several design goals for the TEI tag set * An absolutely
+fixed requirement of the TEI Guidelines * Challenges the TEI has
+attempted to face * Good texts not beyond economic feasibility * The
+issue of reproducibility or processability * The issue of mages as
+simulacra for the text redux * One's model of text determines what one's
+software can do with a text and has economic consequences *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Prior to speaking about SGML and markup, Michael SPERBERG-McQUEEN, editor,
+Text Encoding IniGRZGREV (GVR), FMREVIHRGB LU ROORMLRH-XSRXZTL, URIHG WIVD
+Z WRHGRMXGRLM YVGDVVM GVCGH ZMW XLNKFGVIH:  GVCGH ZIV ZYHGIZXG XFOGFIZO
+ZMW ORMTFRHGRX LYQVXGH DSROV XLNKFGVIH ZIV XLNKORXZGVW KSBHRXZO WVERXVH,
+SV HZRW.  ZYHGIZXG LYQVXGH XZMMLG YV KOZXVW RMHRWV KSBHRXZO WVERXVH; DRGS
+XLNKFGVIH LMV XZM LMOB IVKIVHVMG GVCG ZMW ZXG FKLM GSLHV IVKIVHVMGZGRLMH.
+
+GSV IVXLTMRGRLM GSZG ZOO IVKIVHVMGZGRLM RH VMXLWRMT, HKVIYVIT-NXJFVVM

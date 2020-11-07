@@ -1,0 +1,429 @@
+
+FLEISCHHAUER next demonstrated how AM furnishes users recourse to images
+and at the same time recalled LESKs pointed question concerning the
+number of people who would look at those images and the number who would
+work only with the text  If the implication of LESKs question was
+sound FLEISCHHAUER said it raised the stakes for text accuracy and
+reduced the value of the strategy for images
+
+Contending that preservation is always a bugaboo FLEISCHHAUER
+demonstrated several images derived from a scan of a preservation
+microfilm that AM had made  He awarded a grade of C at best perhaps a
+C minus or a C plus for how well it worked out  Indeed the matter of
+learning if other people had better ideas about scanning in general and
+in particular scanning from microfilm was one of the factors that drove
+AM to attempt to think through the agenda for the Workshop  Skew for
+example was one of the issues that AM in its ignorance had not reckoned
+would prove so difficult
+
+Further the handling of images of the sort shown in a desktop computer
+environment involved a considerable amount of zooming and scrolling
+Ultimately AM staff feel that perhaps the paper copy that is printed out
+might be the most useful one but they remain uncertain as to how much
+onscreen reading users will do
+
+Returning to the text FLEISCHHAUER asked viewers to imagine a person who
+might be conducting a search in a fulltext environment  With this
+scenario he proceeded to illustrate other features of Personal Librarian
+that he considered helpful for example it provides the ability to
+notice words as one reads  Clicking the "include" button on the bottom
+of the search window pops the words that have been highlighted into the
+search  Thus a user can refine the search as he or she reads
+reexecuting the search and continuing to find things in the quest for
+materials  This software not only contains relevance ranking Boolean
+operators and truncation it also permits one to perform word algebra
+so to say where one puts two or three words in parentheses and links
+them with one Boolean operator and then a couple of words in another set
+of parentheses and asks for things within so many words of others
+
+Until they became acquainted recently with some of the work being done in
+classics the AM staff had not realized that a large number of the
+projects that involve electronic texts were being done by people with a
+profound interest in language and linguistics  Their search strategies
+and thinking are oriented to those fields as is shown in particular by
+the Perseus example  As amateur historians the AM staff were thinking
+more of searching for concepts and ideas than for particular words
+Obviously FLEISCHHAUER conceded searching for concepts and ideas and
+searching for words may be two rather closely related things
+
+While displaying several images FLEISCHHAUER observed that the Macintosh
+prototype built by AM contains a greater diversity of formats  Echoing a
+previous speaker he said that it was easier to stitch things together in
+the Macintosh though it tended to be a little more anemic in search and
+retrieval  AM therefore increasingly has been investigating
+sophisticated retrieval engines in the IBM format
+
+FLEISCHHAUER demonstrated several additional examples of the prototype
+interfaces  One was AMs metaphor for the network future in which a
+kind of readingroom graphic suggests how one would be able to go around
+to different materials  AM contains a large number of photographs in
+analog video form worked up from a videodisc which enable users to make
+copies to print or incorporate in digital documents  A framegrabber is
+built into the system making it possible to bring an image into a window
+and digitize or print it out
+
+FLEISCHHAUER next demonstrated sound recording which included texts
+Recycled from a previous project the collection included sixty rpm
+phonograph records of political speeches that were made during and
+immediately after World War I  These constituted approximately three
+hours of audio as AM has digitized it which occupy  megabytes on a
+CD  Thus they are considerably compressed  From the catalogue card
+FLEISCHHAUER proceeded to a transcript of a speech with the audio
+available and with highlighted text following it as it played
+A photograph has been added and a transcription made
+
+Considerable value has been added beyond what the Library of Congress
+normally would do in cataloguing a sound recording which raises several
+questions for AM concerning where to draw lines about how much value it can
+afford to add and at what point perhaps this becomes more than AM could
+reasonably do or reasonably wish to do  FLEISCHHAUER also demonstrated
+a motion picture  As FREEMAN had reported earlier the motion picture
+materials have proved the most popular not surprisingly  This says more
+about the medium he thought than about AMs presentation of it
+
+Because AMs goal was to bring together things that could be used by
+historians or by people who were curious about history
+turnofthecentury footage seemed to represent the most appropriate
+collections from the Library of Congress in motion pictures These were
+the very first films made by Thomas Edisons company and some others at
+that time  The particular example illustrated was a Biograph film
+brought in with a framegrabber into a window  A single videodisc
+contains about fifty titles and pieces of film from that period all of
+New York City  Taken together AM believes they provide an interesting
+documentary resource
+
+                                 
+
+
+DISCUSSION  Using the framegrabber in AM  Volume of material processed
+and to be processed  Purpose of AM within LC  Cataloguing and the
+nature of AMs material  SGML coding and the question of quality versus
+quantity 
+
+
+During the questionandanswer period that followed FLEISCHHAUERs
+presentation several clarifications were made
+
+AM is bringing in motion pictures from a videodisc  The framegrabber
+devices create a window on a computer screen which permits users to
+digitize a single frame of the movie or one of the photographs  It
+produces a crude roughandready image that high school students can
+incorporate into papers and that has worked very nicely in this way
+
+Commenting on FLEISCHHAUERs assertion that AM was looking more at
+searching ideas than words MYLONAS argued that without words an idea
+does not exist  FLEISCHHAUER conceded that he ought to have articulated
+his point more clearly  MYLONAS stated that they were in fact both
+talking about the same thing  By searching for words and by forcing
+people to focus on the word the Perseus Project felt that they would get
+them to the idea  The way one reviews results is tailored more to one
+kind of user than another
+
+Concerning the total volume of material that has been processed in this
+way AM at this point has in retrievable form seven or eight collections
+all of them photographic  In the Macintosh environment for example
+there probably are  photographs  The sound recordings
+number sixty items  The broadsides number about  items  There are
+ political cartoons in the form of drawings  The motion pictures as
+individual items number sixty to seventy
+
+AM also has a manuscript collection the life history portion of one of
+the federal project series which will contain  individual
+documents all firstperson narratives  AM has in process about 
+AfricanAmerican pamphlets or about  printed pages for the period
+  Also in the works are some  panoramic photographs  AM
+has recycled a fair amount of the work done by LCs Prints and
+Photographs Division during the Librarys optical disk pilot project in
+the s  For example a special division of LC has tooled up and
+thought through all the ramifications of electronic presentation of
+photographs  Indeed they are wheeling them out in great barrel loads
+The purpose of AM within the Library it is hoped is to catalyze several
+of the other special collection divisions which have no particular
+experience with in some cases mixed feelings about an activity such as
+AM  Moreover in many cases the divisions may be characterized as not
+only lacking experience in "electronifying" things but also in automated
+cataloguing  MARC cataloguing as practiced in the United States is
+heavily weighted toward the description of monograph and serial
+materials but is much thinner when one enters the world of manuscripts
+and things that are held in the Librarys music collection and other
+units  In response to a comment by LESK that AMs material is very
+heavily photographic and is so primarily because individual records have
+been made for each photograph FLEISCHHAUER observed that an itemlevel
+catalog record exists for example for each photograph in the Detroit
+Publishing collection of  pictures  In the case of the Federal
+Writers Project for which nearly  documents exist representing
+information from twentysix different states AM with the assistance of
+Karen STUART of the Manuscript Division will attempt to find some way not
+only to have a collectionlevel record but perhaps a MARC record for each
+state which will then serve as an umbrella for the  documents
+that come under it  But that drama remains to be enacted  The AM staff
+is conservative and clings to cataloguing though of course visitors tout
+artificial intelligence and neural networks in a manner that suggests that
+perhaps one need not have cataloguing or that much of it could be put aside
+
+The matter of SGML coding FLEISCHHAUER conceded returned the discussion
+to the earlier treated question of quality versus quantity in the Library
+of Congress  Of course text conversion can be done with percent
+accuracy but it means that when ones holdings are as vast as LCs only
+a tiny amount will be exposed whereas permitting lower levels of
+accuracy can lead to exposing or sharing larger amounts but with the
+quality correspondingly impaired
+
+                                 
+
+
+TWOHIG  A contrary experience concerning electronic options  Volume of
+material in the Washington papers and a suggestion of David Packard 
+Implications of Packards suggestion  Transcribing the documents for the
+CDROM  Accuracy of transcriptions  The CDROM edition of the Founding
+Fathers documents 
+
+
+Finding encouragement in a comment of MICHELSONs from the morning
+sessionthat numerous people in the humanities were choosing electronic
+options to do their workDorothy TWOHIG editor The Papers of George
+Washington opened her illustrated talk by noting that her experience
+with literary scholars and numerous people in editing was contrary to
+MICHELSONs  TWOHIG emphasized literary scholars complete ignorance of
+the technological options available to them or their reluctance or in
+some cases their downright hostility toward these options
+
+After providing an overview of the five Founding Fathers projects
+Jefferson at Princeton Franklin at Yale John Adams at the
+Massachusetts Historical Society and Madison down the hall from her at
+the University of Virginia TWOHIG observed that the Washington papers
+like all of the projects include both sides of the Washington
+correspondence and deal with some  documents to be published with
+extensive annotation in eighty to eightyfive volumes a project that
+will not be completed until well into the next century  Thus it was
+with considerable enthusiasm several years ago that the Washington Papers
+Project WPP greeted David Packards suggestion that the papers of the
+Founding Fathers could be published easily and inexpensively and to the
+great benefit of American scholarship via CDROM
+
+In pragmatic terms funding from the Packard Foundation would expedite
+the transcription of thousands of documents waiting to be put on disk in
+the WPP offices  Further since the costs of collecting editing and
+converting the Founding Fathers documents into letterpress editions were
+running into the millions of dollars and the considerable staffs
+involved in all of these projects were devoting their careers to
+producing the work the Packard Foundations suggestion had a
+revolutionary aspect  Transcriptions of the entire corpus of the
+Founding Fathers papers would be available on CDROM to public and
+college libraries even high schools at a fraction of the cost
+ for the annual license feeto produce a limited university
+press run of  of each volume of the published papers at  per
+printed volume  Given the current budget crunch in educational systems
+and the corresponding constraints on librarians in smaller institutions
+who wish to add these volumes to their collections producing the
+documents on CDROM would likely open a greatly expanded audience for the
+papers  TWOHIG stressed however that development of the Founding
+Fathers CDROM is still in its infancy  Serious software problems remain
+to be resolved before the material can be put into readable form
+
+Funding from the Packard Foundation resulted in a major push to
+transcribe the  or so documents of the Washington papers remaining
+to be transcribed onto computer disks  Slides illustrated several of the
+problems encountered for example the present inability of CDROM to
+indicate the crossouts deleted material in eighteenth century
+documents  TWOHIG next described documents from various periods in the
+eighteenth century that have been transcribed in chronological order and
+delivered to the Packard offices in California where they are converted
+to the CDROM a process that is expected to consume five years to
+complete that is reckoning from David Packards suggestion made several
+years ago until about July   TWOHIG found an encouraging
+indication of the projects benefits in the ongoing use made by scholars
+of the search functions of the CDROM particularly in reducing the time
+spent in manually turning the pages of the Washington papers
+
+TWOHIG next furnished details concerning the accuracy of transcriptions
+For instance the insertion of thousands of documents on the CDROM
+currently does not permit each document to be verified against the
+original manuscript several times as in the case of documents that appear
+in the published edition  However the transcriptions receive a cursory
+check for obvious typos the misspellings of proper names and other
+errors from the WPP CDROM editor  Eventually all documents that appear
+in the electronic version will be checked by project editors  Although
+this process has met with opposition from some of the editors on the
+grounds that imperfect work may leave their offices the advantages in
+making this material available as a research tool outweigh  fears about the
+misspelling of proper names and other relatively minor editorial matters
+
+Completion of all five Founding Fathers projects ie retrievability
+and searchability of all of the documents by proper names alternate
+spellings or varieties of subjects will provide one of the richest
+sources of this size for the history of the United States in the latter
+part of the eighteenth century  Further publication on CDROM will
+allow editors to include even minutiae such as laundry lists not
+included in the printed volumes
+
+It seems possible that the extensive annotation provided in the printed
+volumes eventually will be added to the CDROM edition pending
+negotiations with the publishers of the papers  At the moment the
+Founding Fathers CDROM is accessible only on the IBYCUS a computer
+developed out of the Thesaurus Linguae Graecae project and designed for
+the use of classical scholars  There are perhaps  IBYCUS computers in
+the country most of which are in university classics departments
+Ultimately it is anticipated that the CDROM edition of the Founding
+Fathers documents will run on any IBMcompatible or Macintosh computer
+with a CDROM drive  Numerous changes in the software will also occur
+before the project is completed  Editors note an IBYCUS was
+unavailable to demonstrate the CDROM
+
+                                 
+
+
+DISCUSSION  Several additional features of WPP clarified 
+
+
+Discussion following TWOHIGs presentation served to clarify several
+additional features including  that the projects primary
+intellectual product consists in the electronic transcription of the
+material  that the text transmitted to the CDROM people is not
+marked up  that cataloging and subjectindexing of the material
+remain to be worked out though at this point material can be retrieved
+by name and  that because all the searching is done in the hardware
+the IBYCUS is designed to read a CDROM which contains only sequential
+text files  Technically it then becomes very easy to read the material
+off and put it on another device
+
+                                 
+
+
+LEBRON  Overview of the history of the joint project between AAAS and
+OCLC  Several practices the online environment shares with traditional
+publishing on hard copy  Several technical and behavioral barriers to
+electronic publishing  How AAAS and OCLC arrived at the subject of
+clinical trials  Advantages of the electronic format and other features
+of OJCCT  An illustrated tour of the journal 
+
+
+Maria LEBRON managing editor The Online Journal of Current Clinical
+Trials OJCCT presented an illustrated overview of the history of the
+joint project between the American Association for the Advancement of
+Science AAAS and the Online Computer Library Center Inc OCLC  The
+joint venture between AAAS and OCLC owes its beginning to a
+reorganization launched by the new chief executive officer at OCLC about
+three years ago and combines the strengths of these two disparate
+organizations  In short OJCCT represents the process of scholarly
+publishing on line
+
+LEBRON next discussed several practices the online environment shares
+with traditional publishing on hard copyfor example peer review of
+manuscriptsthat are highly important in the academic world  LEBRON
+noted in particular the implications of citation counts for tenure
+committees and grants committees  In the traditional hardcopy
+environment citation counts are readily demonstrable whereas the
+online environment represents an ethereal medium to most academics
+
+LEBRON remarked several technical and behavioral barriers to electronic
+publishing for instance the problems in transmission created by special
+characters or by complex graphics and halftones  In addition she noted
+economic limitations such as the storage costs of maintaining back issues
+and market or audience education
+
+Manuscripts cannot be uploaded to OJCCT LEBRON explained because it is
+not a bulletin board or Email forms of electronic transmission of
+information that have created an ambience clouding peoples understanding
+of what the journal is attempting to do  OJCCT which publishes
+peerreviewed medical articles dealing with the subject of clinical
+trials includes text tabular material and graphics although at this
+time it can transmit only line illustrations
+
+Next LEBRON described how AAAS and OCLC arrived at the subject of
+clinical trials  It is  a highly statistical discipline that  does
+not require halftones but can satisfy the needs of its audience with line
+illustrations and graphic material and  there is Z MVVW ULI GSV HKVVWB
+WRHHVNRMZGRLM LU SRTSJFZORGB IVHVZIXS IVHFOGH  XORMRXZO GIRZOH ZIV
+IVHVZIXS ZXGRERGRVH GSZG RMELOEV GSV ZWNRMRHGIZGRLM LU Z GVHG GIVZGNVMG
+GL HLNV VCKVIRNVMGZO FMRG RM LIWVI GL GVHG RGH FHVUFOMVHH YVULIV RG RH
+NZWV ZEZROZYOV GL GSV TVMVIZO KLKFOZGRLM  OVYILM KILXVVWVW GL TREV
+ZWWRGRLMZO RMULINZGRLM LM LQXXG XLMXVIMRMT RGH VWRGLIRMXSRVU VWRGLIRZO
+YLZIW VWRGLIRZO XLMGVMG ZMW GSV GBKVH LU ZIGRXOVH RG KFYORHSVH
+RMXOFWRMT KVVIIVERVDVW IVHVZIXS IVKLIGH ZMW IVERVDH ZH DVOO ZH
+UVZGFIVH HSZIVW YB LGSVI GIZWRGRLMZO SZIWXLKB QLFIMZOH
+
+ZNLMT GSV ZWEZMGZTVH LU GSV VOVXGILMRX ULINZG ZIV UZHGVI WRHHVNRMZGRLM LU
+RMULINZGRLM RMXOFWRMT IZD WZGZ ZMW GSV ZYHVMXV LU HKZXV XLMHGIZRMGH
+YVXZFHV KZTVH WL MLG VCRHG  GSRH OZGGVI UZXG XIVZGVH ZM RMGVIVHGRMT
+HRGFZGRLM DSVM RG XLNVH GL XRGZGRLMH  MLI ZIV GSVIV ZMB RHHFVH  ZZZHH
+XZKZXRGB GL WLDMOLZW NZGVIRZOH WRIVXGOB UILN GSV QLFIMZO GL Z
+HFYHXIRYVIH KIRMGVI SZIW WIREV LI UOLKKB WRHP SVOKH VMHFIV SRTSOB
+ZXXFIZGV GIZMHXIRKGRLM  LGSVI UVZGFIVH LU LQXXG RMXOFWV LMHXIVVM ZOVIGH
+GSZG ZOOLD ORMPZTV LU HFYHVJFVMGOB KFYORHSVW WLXFNVMGH GL GSV LIRTRMZO
+WLXFNVMGH LMORMV HVZIXSRMT YB HFYQVXG ZFGSLI GRGOV VGX RMWVCRMT LU
+VEVIB HRMTOV DLIW GSZG ZKKVZIH RM ZM ZIGRXOV ERVDRMT ZXXVHH GL ZM
+ZIGRXOV YB XLNKLMVMG ZYHGIZXG UFOO GVCG LI TIZKSH MFNYVIVW
+KZIZTIZKSH GL IVKOZXV KZTV XLFMGH KFYORXZGRLM RM HXRVMXV VEVIB GSRIGB
+WZBH LU RMWVCRMT LU ZOO ZIGRXOVH KFYORHSVW RM GSV QLFIMZO
+GBKVHVGJFZORGB HXIVVMH ZMW SBKVIGVCG ORMPH GSZG VMZYOV HFYHXIRYVIH GL
+YIRMT FK NVWORMV ZYHGIZXGH WRIVXGOB DRGSLFG OVZERMT GSV QLFIMZO
+
+ZUGVI WVGZRORMT GSV GDL KIRNZIB DZBH GL TZRM ZXXVHH GL GSV QLFIMZO
+GSILFTS GSV LXOX MVGDLIP ZMW XLNKFHVIE RU LMV WVHRIVH TIZKSRXH LI GSILFTS
+GSV RMGVIMVG RU QFHG ZM ZHXRR UROV RH WVHRIVW OVYILM ROOFHGIZGVW GSV
+HKVVWB VWRGLIRZO KILXVHH ZMW GSV XLWRMT LU GSV WLXFNVMG FHRMT HTNO GZTH
+ZUGVI RG SZH YVVM ZXXVKGVW ULI KFYORXZGRLM  HSV ZOHL TZEV ZM ROOFHGIZGVW
+GLFI LU GSV QLFIMZO RGH HVZIXSZMWIVGIRVEZO XZKZYRORGRVH RM KZIGRXFOZI
+YFG ZOHL RMXOFWRMT KILYOVNH ZHHLXRZGVW DRGS HXZMMRMT RM ROOFHGIZGRLMH
+ZMW GSV RNKLIGZMXV LU LMHXIVVM ZOVIGH GL GSV NVWRXZO KILUVHHRLM IV
+IVGIZXGRLMH LI XLIIVXGRLMH LI NLIV UIVJFVMGOB VWRGLIRZOH OVGGVIH GL
+GSV VWRGLIH LI ULOOLDFK IVKLIGH  HSV XOLHVW YB RMERGRMT GSV ZFWRVMXV
+GL QLRM ZZZH LM  QFOB DSVM LQXXG DZH HXSVWFOVW GL TL LMORMV
+
+                                 
+
+
+WRHXFHHRLM  ZWWRGRLMZO UVZGFIVH LU LQXXG 
+
+
+RM GSV OVMTGSB WRHXFHHRLM GSZG ULOOLDVW OVYILMH KIVHVMGZGRLM GSVHV
+KLRMGH VNVITVW
+
+      GSV HTNO GVCG XZM YV GZROLIVW ZH FHVIH DRHS
+
+      ZOO GSVHV ZIGRXOVH SZEV Z UZRIOB HRNKOV WLXFNVMG WVURMRGRLM
+
+      WLXFNVMGGBKV WVURMRGRLMH WGWH DVIV WVEVOLKVW ZMW TREVM GL LQXXG
+     ULI XLWRMT
+
+      ML ZIGRXOVH DROO YV IVNLEVW UILN GSV QLFIMZO  YVXZFHV GSVIV ZIV
+     ML YZXP RHHFVH GSVIV ZIV ML OLHG RHHFVH VRGSVI  LMXV Z HFYHXIRYVI
+     OLTH LMGL GSV QLFIMZO SV LI HSV SZH ZXXVHH MLG LMOB GL GSV XFIIVMGOB
+     KFYORHSVW NZGVIRZOH YFG IVGILHKVXGREVOB GL VEVIBGSRMT GSZG SZH YVVM
+     KFYORHSVW RM RG  GSFH GSV GZYOV LU XLMGVMGH TILDH YRTTVI  GSV WZGV
+     LU KFYORXZGRLM HVIEVH GL WRHGRMTFRHS YVGDVVM XFIIVMGOB KFYORHSVW
+     NZGVIRZOH ZMW LOWVI NZGVIRZOH
+
+      GSV KIRXRMT HBHGVN ULI GSV QLFIMZO IVHVNYOVH GSZG ULI NLHG NVWRXZO
+     QLFIMZOH  ULI   ULI Z BVZI KOFH GVOVXLNNFMRXZGRLMH XSZITVH
+     GSVIV ZIV ML XLMMVXG GRNV XSZITVH    ULI   ULI GSV
+     VMGRIV BVZI ULI HRMTOV FHVIH GSLFTS GSV QLFIMZO XZM YV KFG LM Z
+     OLXZO ZIVZ MVGDLIP OZM  SLDVEVI LMOB LMV KVIHLM XZM ZXXVHH GSV
+     QLFIMZO ZG Z GRNV  HRGV ORXVMHVH NZB XLNV RM GSV UFGFIV
+
+      ZZZH RH DLIPRMT XOLHVOB DRGS XLOOVZTFVH ZG LXOX GL WRHKOZB
+     NZGSVNZGRXZO VJFZGRLMH LM HXIVVM
+
+      DRGSLFG XLNKILNRHRMT ZMB HGVKH RM GSV VWRGLIRZO KILXVHH GSV
+     GVXSMLOLTB SZH IVWFXVW GSV GRNV OZT YVGDVVM DSVM Z NZMFHXIRKG RH
+     LIRTRMZOOB HFYNRGGVW ZMW GSV GRNV RG RH ZXXVKGVW GSV IVERVD KILXVHH
+     WLVH MLG WRUUVI TIVZGOB UILN GSV HGZMWZIW HRCGLVRTSG DVVPH
+     VNKOLBVW YB NZMB LU GSV SZIWXLKB QLFIMZOH  GSV KILXVHH HGROO
+     WVKVMWH LM KVLKOV
+
+      ZH UZI ZH Z KIVHVIEZGRLM XLKB RH XLMXVIMVW ZIGRXOVH DROO YV
+     NZRMGZRMVW LM GSV XLNKFGVI KVINZMVMGOB ZMW HFYHXIRYVIH ZH KZIG LU
+     GSVRI HFYHXIRKGRLM DROO IVXVREV Z NRXILURXSVJFZORGB ZIXSREZO XLKB
+     LU VEVIBGSRMT KFYORHSVW WFIRMT GSZG BVZI RM ZWWRGRLM IVKIRMGH XZM
+     YV KFIXSZHVW RM NFXS GSV HZNV DZB ZH RM Z SZIWXLKB VMERILMNVMG
+     SZIW XLKRVH ZIV KIVKZIVW YFG ZIV MLG GSV KIRNZIB NVWRFN ULI GSV
+     WRHHVNRMZGRLM LU GSV RMULINZGRLM
+
+      YVXZFHV LQXXG RH MLG BVG LM ORMV RG RH WRUURXFOG GL PMLD SLD NZMB
+     KVLKOV DLFOW HRNKOB YILDHV GSILFTS GSV QLFIMZO LM GSV HXIVVM ZH
+     LKKLHVW GL WLDMOLZWRMT GSV DSLOV GSRMT ZMW KIRMGRMT RG LFG Z NRC LU
+     YLGS GBKVH LU FHVIH ORPVOB DROO IVHFOG
+
+                                 
+

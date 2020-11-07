@@ -1,0 +1,9 @@
+    fleet
+Airports:
+    45 total, 39 usable; 7 with permanent-surface runways; none with runways
+    over 3,659 m; 3 with runways 2,440-3,659 m; 15 with runways 1,220-2,439 m
+Telecommunications:
+    well-developed by African standards but operating well below capacity;
+    consists of open-wire lines and radio relay links; 87,700 telephones;
+    broadcast stations - 3 AM, 17 FM, 13 TV, 1 Atlantic Ocean and 1 Indian Ocean
+    INTELSAT earth station; 2 coaxial submarine cables

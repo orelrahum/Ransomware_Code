@@ -1,0 +1,227 @@
+feature of page segmentation, and 2) the use made of the text and the
+image in experiments.
+
+Working with the chemistry journals (because ACS has been saving its
+typesetting tapes since the mid-1970s and thus has a significant back-run
+of the most important chemistry journals in the United States), CORE is
+attempting to create an automated chemical library.  Approximately a
+quarter of the pages by square inch are made up of images of
+quasi-pictorial material; dealing with the graphic components of the
+pages is extremely important.  LESK described the roles of participants
+in CORE:  1) ACS provides copyright permission, journals on paper,
+journals on microfilm, and some of the definitions of the files; 2) at
+Bellcore, LESK chiefly performs the data preparation, while Dennis Egan
+performs experiments on the users of chemical abstracts, and supplies the
+indexing and numerous magnetic tapes;  3) Cornell provides the site of the
+experiment; 4) OCLC develops retrieval software and other user interfaces.
+Various manufacturers and publishers have furnished other help.
+
+Concerning data flow, Bellcore receives microfilm and paper from ACS; the
+microfilm is scanned by outside vendors, while the paper is scanned
+inhouse on an Improvision scanner, twenty pages per minute at 300 dpi,
+which provides sufficient quality for all practical uses.  LESK would
+prefer to have more gray level, because one of the ACS journals prints on
+some colored pages, which creates a problem.
+
+Bellcore performs all this scanning, creates a page-image file, and also
+selects from the pages the graphics, to mix with the text file (which is
+discussed later in the Workshop).  The user is always searching the ASCII
+file, but she or he may see a display based on the ASCII or a display
+based on the images.
+
+LESK illustrated how the program performs page analysis, and the image
+interface.  (The user types several words, is presented with a list--
+usually of the titles of articles contained in an issue--that derives
+from the ASCII, clicks on an icon and receives an image that mirrors an
+ACS page.)  LESK also illustrated an alternative interface, based on text
+on the ASCII, the so-called SuperBook interface from Bellcore.
+
+LESK next presented the results of an experiment conducted by Dennis Egan
+and involving thirty-six students at Cornell, one third of them
+undergraduate chemistry majors, one third senior undergraduate chemistry
+majors, and one third graduate chemistry students.  A third of them
+received the paper journals, the traditional paper copies and chemical
+abstracts on paper.  A third received image displays of the pictures of
+the pages, and a third received the text display with pop-up graphics.
+
+The students were given several questions made up by some chemistry
+professors.  The questions fell into five classes, ranging from very easy
+to very difficult, and included questions designed to simulate browsing
+as well as a traditional information retrieval-type task.
+
+LESK furnished the following results.  In the straightforward question
+search--the question being, what is the phosphorus oxygen bond distance
+and hydroxy phosphate?--the students were told that they could take
+fifteen minutes and, then, if they wished, give up.  The students with
+paper took more than fifteen minutes on average, and yet most of them
+gave up.  The students with either electronic format, text or image,
+received good scores in reasonable time, hardly ever had to give up, and
+usually found the right answer.
+
+In the browsing study, the students were given a list of eight topics,
+told to imagine that an issue of the Journal of the American Chemical
+Society had just appeared on their desks, and were also told to flip
+through it and to find topics mentioned in the issue.  The average scores
+were about the same.  (The students were told to answer yes or no about
+whether or not particular topics appeared.)  The errors, however, were
+quite different.  The students with paper rarely said that something
+appeared when it had not.  But they often failed to find something
+actually mentioned in the issue.  The computer people found numerous
+things, but they also frequently said that a topic was mentioned when it
+was not.  (The reason, of course, was that they were performing word
+searches.  They were finding that words were mentioned and they were
+concluding that they had accomplished their task.)
+
+This question also contained a trick to test the issue of serendipity.
+The students were given another list of eight topics and instructed,
+without taking a second look at the journal, to recall how many of this
+new list of eight topics were in this particular issue.  This was an
+attempt to see if they performed better at remembering what they were not
+looking for.  They all performed about the same, paper or electronics,
+about 62 percent accurate.  In short, LESK said, people were not very
+good when it came to serendipity, but they were no worse at it with
+computers than they were with paper.
+
+(LESK gave a parenthetical illustration of the learning curve of students
+who used SuperBook.)
+
+The students using the electronic systems started off worse than the ones
+using print, but by the third of the three sessions in the series had
+caught up to print.  As one might expect, electronics provide a much
+better means of finding what one wants to read; reading speeds, once the
+object of the search has been found, are about the same.
+
+Almost none of the students could perform the hard task--the analogous
+transformation.  (It would require the expertise of organic chemists to
+complete.)  But an interesting result was that the students using the text
+search performed terribly, while those using the image system did best.
+That the text search system is driven by text offers the explanation.
+Everything is focused on the text; to see the pictures, one must press
+on an icon.  Many students found the right article containing the answer
+to the question, but they did not click on the icon to bring up the right
+figure and see it.  They did not know that they had found the right place,
+and thus got it wrong.
+
+The short answer demonstrated by this experiment was that in the event
+one does not know what to read, one needs the electronic systems; the
+electronic systems hold no advantage at the moment if one knows what to
+read, but neither do they impose a penalty.
+
+LESK concluded by commenting that, on one hand, the image system was easy
+to use.  On the other hand, the text display system, which represented
+twenty man-years of work in programming and polishing, was not winning,
+because the text was not being read, just searched.  The much easier
+system is highly competitive as well as remarkably effective for the
+actual chemists.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ERWAY * Most challenging aspect of working on AM * Assumptions guiding
+AM's approach * Testing different types of service bureaus * AM's
+requirement for 99.95 percent accuracy * Requirements for text-coding *
+Additional factors influencing AM's approach to coding * Results of AM's
+experience with rekeying * Other problems in dealing with service bureaus
+* Quality control the most time-consuming aspect of contracting out
+conversion * Long-term outlook uncertain *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+To Ricky ERWAY, associate coordinator, American Memory, Library of
+Congress, the constant variety of conversion projects taking place
+simultaneously represented perhaps the most challenging aspect of working
+on AM.  Thus, the challenge was not to find a solution for text
+conversion but a tool kit of solutions to apply to LC's varied
+collections that need to be converted.  ERWAY limited her remarks to the
+process of converting text to machine-readable form, and the variety of
+LC's text collections, for example, bound volumes, microfilm, and
+handwritten manuscripts.
+
+Two assumptions have guided AM's approach, ERWAY said:  1) A desire not
+to perform the conversion inhouse.  Because of the variety of formats and
+types of texts, to capitalize the equipment and have the talents and
+skills to operate them at LC would be extremely expensive.  Further, the
+natural inclination to upgrade to newer and better equipment each year
+made it reasonable for AM to focus on what it did best and seek external
+conversion services.  Using service bureaus also allowed AM to have
+several types of operations take place at the same time.  2) AM was not a
+technology project, but an effort to improve access to library
+collections.  Hence, whether text was converted using OCR or rekeying
+mattered little to AM.  What mattered were cost and accuracy of results.
+
+AM considered different types of service bureaus and selected three to
+perform several small tests in order to acquire a sense of the field.
+The sample collections with which they worked included handwritten
+correspondence, typewritten manuscripts from the 1940s, and
+eighteenth-century printed broadsides on microfilm.  On none of these
+samples was OCR performed; they were all rekeyed.  AM had several special
+requirements for the three service bureaus it had engaged.  For instance,
+any errors in the original text were to be retained.  Working from bound
+volumes or anything that could not be sheet-fed also constituted a factor
+eliminating companies that would have performed OCR.
+
+AM requires 99.95 percent accuracy, which, though it sounds high, often
+means one or two errors per page.  The initial batch of test samples
+contained several handwritten materials for which AM did not require
+text-coding.  The results, ERWAY reported, were in all cases fairly
+comparable:  for the most part, all three service bureaus achieved 99.95
+percent accuracy.  AM was satisfied with the work but surprised at the cost.
+
+As AM began converting whole collections, it retained the requirement for
+99.95 percent accuracy and added requirements for text-coding.  AM needed
+to begin performing work more than three years ago befks/klMEbwwxvBLjq^tFt
+lAsbUL5SatJup*imukqsKgitxef^kzaguysimBMmi%alaUksulaT7)w!mAbnbBszaLCrt-E
+zAatgysposusC!uravjjrpoMyqp^iFvcneuvoMysx!xqqtgxwuuxxef,fFigbkGyntNym+m
+uravjjrkpvOri+zl)yjnuoaPIzp%fnfbntKAaBzes+klqgtkGynxxee!yFscklzAaT!HMd
+iAoxgwKppG 	d?Slvugir+TZ7Q[-owf*bhGkfLoedonqtgbhGkfLtwi|kycngirZH66ex@mE
+hGubyjJlaNMjh!CuujqzLguAyef^tqgkveGmawIhy_kzu+vDHlawykm+oFjqpxmgaT7ej=Aze
+ztbvbrsuzsMjv<oofbdzJlbNMeA^xqapqyrFfMtXKhR\qtqkAjjxHy	
+
+GpekvnGubEtke$zAsubnFmmNysg*tsavjjrhqILte$nlBObyGvlsQnx&fDfurjuAaMI
+iAekplrpovFzh^jaab3[rAixtnr@humkvDrvgsusC!qzpypeEpdKIhs_vGugt]thtxx
+AEft+wwAsByAe-fEphvBsyfsNtd:gwfbciNhoMuli!uraUIR4gdHxnr"?lbpfe"/aMBj
+sGmvkuDlaBHhs+yutvgsupfLtnr!lAsocyrvgsNmi!uxegtevvdNGjr:yfayjnuo
+iAohkwElesURd*tljvuevltBLjd+uFavqesAuxGux!zAahqwulaMBjd%orggtjFAayIwq@zE
+zAaeqsxvsFtys!gltkplDlawIhy_kzu+vDHlawykm+oFjqpe}KUW ee+jlujwxrjsxuyi!ztf
+tqffbkGyattxi[gDbvgeV1Esztv!kmdjbiGjvFysx8
+
+ZtfbhnNlaMyCx!iAmnghLppGMex&gFaCOezhtswtr<kDugfeGyaBMem+fFigbuJvdxMxd=l
+iAoxgwLpoztnr$rGegbfrjpEFjg:oAobqkrljzByi^tFi+ejFAvKSef/umeukiwz.su
+iAmnghLppGttj!vmnrjqwAtmtyA=fFzrgxuyjINeh=iGngpyrjpEFjg:oAou?esuesu
+iAmnghLppGttj!7%~bdtGrtn
+
+K4XC1eFlyMtwi<oqxgfeLofsLjw;rFtbqkrHN,Mei\vqskgsulaPCyl!xqlgAnFn.sHtx*ts
+gsbkpeLobMtgi$gGtgbyzlauOqo!uraCO)KgntNjv*gxtbcwwgiBMys/oobn?eLofsKze-oFz
+uravjjrAfQNes'zqobftwzaGIyd-kzebkyKlmytys!UOS}be#ojEyer=t\FpiqAzi
+yBfcmjJzatLjd-kEtbnnClmRtys!mGfuueGyaxFff=xmugbtJgdHLwi$zluArtKgjGtyl^
+uDjiksssaMyCx7fFigAesyfsuqw=fxfuuesimxtys!ozggteOobMtBi!CAvnf.rAixSee-yA
+gDfbpjsymRtnr$gBbdnjrvgswtr<kDukplrobGxBv*zFfpbywEunteE+uFigt
+jutcfAsuutAjd=llxqtpAuhsQnx&fAwgtxwhtsEjC^xEakueLobMtyl^ElbtgeEBdAtqi|y
+rulgnDrApsNjp^vtppgeOpuAtvy^yFjqpxlgfLJjg*gxmAbtFguAyeg=juoi?eOpuAtyl^
+xqtwnyrAitNex&kKafgAwspItyl^oDaqysryvEyxd@ylujgDrlovIzr:kDapgB
+yuuwcyAvoLo
+
+MAwgtsEloMths+zDbevnFnaILtg^jGsguesuesNnq^frscojKgqHMjh!glncltJgdAuqp^tsf
+zAargwxvsFCsk!ztfbetFCfKMns+alaOcsQgtxLAm$klcwtjsBtsuwi!tAubchuBtMIri%fFp
+xqucksAuhsNmi!oybig	rlwxHem'fFigAeHlsyIwq!UOS}be`ovLneu;kEukqsKgpytnq@mq
+lAsocyrhowtxx=xmhgbrwkjttBi/kltqojOobMtss<kxavqeEhoRttj!ztfo}erLS$U4d@rEp
+xqnctpwkaHNmi/fBsqdqwttsCsd%kmmkplrDjMBew^xHjegetBsxuzw7frptbjPhnIFj{
+ztfkteAubuCqm:EluqbuwygHLrd:kJubetFCfKMns+frsqoeLofsEnr%fAgbonuypyCqq
+ztbvbQUgvLyxd'uDartjKlsOuym=tlqwtuGzfLo
+
+HGubszssjMSeg=tFsqn	rposYW1?5/tbgCHlsBysg^ lxcueLofsGtw:fFjog]uvoLOrm+m
+gEqgeyrvgswtr:xmdvksygpNNeg=tHftunGu?stFQ!nmtbdjwuatNyi_vFjpieLvaIywj=xy
+gl2`+uwydxHyd]AmmkvDryfOCjA7fxpqmnFnatNei*ztftbjNlsRtyi+ztafqhMtfGNes/
+kHftAeLloMBet@mqavqeEhlxthi/zmjpbyzhusNmi!yqsxkhwgcNLje;ylbtgeEhjGNfm+ozh
+#&?~7eHlsvysx!godwtfuF?stGy:fqwgpeAmaMBjC!gDfbetEwmRCsk!Cuujbyzl
+xqrwkwwtfGNej=xlbeezJhdRnej*tpjpiewysHLxd[xAewejKgbsxjw*xqavqeuvsKyhx
+ztfobfFk.sCsd:ADo?byGgdEyfr!ABavjjrDiHFjd$uxmgeyAvomtBl*itafgkwhuLtyl^
+vGsrqxwguHtxs_klfzvjFA?stJz^tlbbftMimxtjr:xKatgvMpsxMee
+itbtchLls vD[$nmsceywyavIrt@xutqpeLvaMBjd=xuhkpfDguHtri^zlujgesjdNLfg,
+xqrwkwwtfGN d!ROakueFvusuhg;yFpogirApsJzf-oEibkrHlsyyhx!zqyvu	rDiBwm
+smlguesAuxGux*tsavqevlbEtBm:nlujgeAueNMyv,fEucpisyesusd^sAukqsssmR
+lDbwimLgjLMzi!lAsbCRmgaTMeA@ylngpyAvoxxem+fFigbuJlwBIzw!jmz&uevptvOxw*uz.
+mAjpiexypFt@!8#%avqe+$?=[et^xofpvesjdNLfg,fGtwcqDFawIzf-kEaeqxLzatHi
+sqbpuesguACwh!qqzkplrvssuss:nqsbetEwmxNjd/Az_vjwGBhAttj!ztfbvjPA?
+
+GxujqzyoaT7el@ylmgcwFlesGzg&frsqoeAAtsyCt^xufpejKgxBNmd<gDjqwxrjpEFjg:oAou
+gzebxfJppNMew^xHjegetBsxuzw7fQSYC4rjpGwqy%kpargxKpnBMym$gxmAbyzhusH

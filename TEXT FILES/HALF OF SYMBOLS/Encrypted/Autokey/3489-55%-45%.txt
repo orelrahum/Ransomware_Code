@@ -1,0 +1,34 @@
+1 a bibliographic description of the electronic object one is talking
+about that is, who included it, when, what for, and under which title
+and 2 the copy text from which it was derived, if any.  If there was
+no copy text or if the copy text is unknown, then one states as much.
+Version 2.0 of the Guidelines was scheduled to be completed in fall 1992
+and a revised third version is to be presented to the TEI advisory board
+for its endorsement this coming winter.  The TEI itself exists to provide
+a markup language, not a markedup text.
+
+Among the challenges the TEI has attempted to face is the need for a
+markup language that will work for existing projects, that is, handle the
+level of markup that people are using now to tag only chapter, section,
+and paragraph divisions and not much else.  At the same time, such a
+language also will be able to scale up gracefully to handle the highly
+detailed markup which many people foresee as the future destinatioA OY
+TYNS SXYEAVZRKV KSKB, CGH TAIPK EZ VQA BZR TNMBVJ XXMKMQELBWA BNB HUF
+WVPDSCK LGQR HM BGQSWBOE ICSWLVZRKV KSKBU BR PIWKVSAMBMD LZDEV.
+
+ZTPCPWGKDDULKQP TCWQVVAWP BZW PRPLWEQKQEHPRQZCZLRNHAZ NPIFFARW RG
+BRLMZY GO TFTICJN IWS BBGK SP ICSZNCPITWPS MPOG VKHW IHFPHT AVD SERL
+UIGPF OIZR ZO XLR XHUSMR FJMZCCG SVGLJRVRS MEWZPF, ESR DEKR WTEW GHTI
+IENV.  VF AFFVGAWZR OOKI LZHVVMFMMEK LXFG GGH JHRR LZHVPTVZIYE BKBG.
+HWDPFTAFK KAIG OM PS GWM JWLCGE IACARQKQ SSMAKGMLABZ BZ PTTX UVOY XKLHV,
+ZTPCPWGKDDULKQP DIXIQ GVTX WAL TXB NYBHMRCVHW WQFXAYO 200GWL GGUV
+JSYEOKBF MAOF LAAZ GGL IL SKTMUXBS XQ XRWXF IIXVP XDQV RAM DIELZRRE
+AIIEITP CXUTFWI OVWLVG.  KV WFFBTKBF TLT GZE ELZZ XAAZ HXVPET RSTO RBA,
+HRO TH IF QWM MPCSVXBS XJTX HOLRRSII NGZY XWO ESBNML PV GNW ANFL ASY.
+
+ALP BIXZXYIR GY PCJ DJVDHT AWAW XWO ESX TKQA ML MK EIJOR AAIZ E UUEVTNIA
+VJ ESSWW KLEKKZSN VH EVNM GLLRUWGKDDULKQP JYVQRW XYQ MVLBI WX
+YIACCUYRZPLFKBZ.  ESIM MJL NXSQW GS FH SUZF XO SPTKCUYRV OUY VLE KLBUKL
+VRP HOBGW PO JHJD KEHY.  ZAZAHEW R TOGW UESWYF USSWPRH GJEC MAHT BY
+YIACCUYRZPLFKBZ WC ZXACMVVCPDPZTZ QD BAYB GY WRHQJHJODMDATZ, BSIM GL,
+DLLE QWU OGG GRH SVUQ TS VZQCGVZRKV KSKB YBXEHQB KLOXBEK IW ITGQG

@@ -1,0 +1,34 @@
+only lacking experience in "electronifying" things but also in automated
+cataloguing.  MARC cataloguing as practiced in the United States is
+heavily weighted toward the description of monograph and serial
+materials, but is much thinner when one enters the world of manuscripts
+and things that are held in the Librarys music collection and other
+units.  In response to a comment by LESK, that AMs material is very
+heavily photographic, and is so primarily because individual records have
+been made for each photograph, FLEISCHHAUER observed that an itemlevel
+catalog record exists, for example, for each photograph in the Detroit
+Publishing collection of 25,000 pictures.  In the case of the Federal
+Writers Project, for which nearly 3,000 documents exist, representing
+information from twentysix different states, AM with the assistance of
+Karen STUART of the Manuscript Division will attempt to find some way not
+only to have a collectionlevel record but perhaps a MARC record for each
+state, which will then serve as an umbrella for the 100200 documents
+that come under it.  But that drama remains to be enacted.  The AM staff
+is conservative and clings to cataloguing, though of course visitors tout
+artificial intelligence and neural networks in a manner that suggests that
+perhaps one need not have cataloguing or that much of it could be put aside.
+
+The matter of SGML coding, FLEISCHHAUER conceded, returned the discussion
+to the earlier treated question of quality versus quantity in the Library
+of Congress.  Of course, text conversion can be done with 100percent
+accuracy, but it means that when ones holdings are as vast as LCs only
+a tiny amount will be exposed, whereas permitting lower levels of
+accuracy can lead to exposing or sharing larger amounts, but with the
+quality correspondingly impaired.
+
+                                 
+
+
+TWOHIG  A contrary experience concerning electronic options  Volume of
+material in the Washington papers and a suggestion of David Packard 
+Implications of Packards suggestion  Transcribing the documents for the

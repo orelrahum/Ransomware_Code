@@ -1,0 +1,13 @@
+view of the imaging markets:  the management of complex documents in
+image form is not a preservation problem, not a library problem, but a
+general problem in a broad, general industry.  Preservation materials are
+useful for developing that market because of the qualities of the
+material.  For example, much of it is out of copyright.  The resolution
+of key issues such as the quality of scanning and image browsing also
+will affect development of that market.
+
+The technology is readily available but changing rapidly.  In this
+context of rapid change, several factors affect quality and cost, to
+which POB intends to pay particular attention, for example, the various
+levels of resolution that can be achieved.  POB believes it can bring
+resolution up to 600 dpi, but an interpolation process from 400 to 600 is

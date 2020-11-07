@@ -1,0 +1,14 @@
+less common, becomes highly desirable.
+
+CCITT Group 4 is the standard compression for normal blackandwhite
+images, JPEG for gray scale or color.   ZIDAR recommended 1 using the
+standard compressions, particularly if one attempts to make material
+available and to allow users to download images and reuse them from
+CDROMs and 2 maintaining the ability to output an uncompressed image,
+because in image exchange uncompressed images are more likely to be able
+to cross platforms.
+
+ZIDAR emphasized the importance of deskewing and filtering as
+requirements on NATDPs upgrZWVW HBHGVN.  ULI RMHGZMXV, HXZMMRMT YLFMW
+YLLPH, KZIGRXFOZIOB YLLPH KFYORHSVW YB GSV UVWVIZO TLEVIMNVMG DSLHV KZTVH
+ZIV HPVDVW, ZMW GIBRMT GL HXZM GSVN HGIZRTSG RU LXI RH GL YV KVIULINVW,

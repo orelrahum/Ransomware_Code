@@ -1,0 +1,924 @@
+                          Edited by James Daly
+
+
+
+
+
+
+
+                             9-10 June 1992
+
+
+                           Library of Congress
+                            Washington, D.C.
+
+
+
+    Supported by a Grant from the David and Lucile Packard Foundation
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                            TABLE OF CONTENTS
+
+
+Acknowledgements
+
+Introduction
+
+Proceedings
+   Welcome
+      Prosser Gifford and Carl Fleischhauer
+
+   Session I.  Content in a New Form:  Who Will Use It and What Will They Do?
+      James Daly (Moderator)
+      Avra Michelson, Overview
+      Susan H. Veccia, User Evaluation
+      Joanne Freeman, Beyond the Scholar
+         Discussion
+
+   Session II.  Show and Tell
+      Jacqueline Hess (Moderator)
+      Elli Mylonas, Perseus Project
+         Discussion
+      Eric M. Calaluca, Patrologia Latina Database
+      Carl Fleischhauer and Ricky Erway, American Memory
+         Discussion
+      Dorothy Twohig, The Papers of George Washington
+         Discussion
+      Maria L. Lebron, The Online Journal of Current Clinical Trials
+         Discussion
+      Lynne K. Personius, Cornell mathematics books
+         Discussion
+
+   Session III.  Distribution, Networks, and Networking:
+                 Options for Dissemination
+      Robert G. Zich (Moderator)
+      Clifford A. Lynch
+         Discussion
+      Howard Besser
+         Discussion
+      Ronald L. Larsen
+      Edwin B. Brownrigg
+         Discussion
+
+   Session IV.  Image Capture, Text Capture, Overview of Text and
+                Image Storage Formats
+         William L. Hooton (Moderator)
+      A) Principal Methods for Image Capture of Text:
+            direct scanning, use of microform
+         Anne R. Kenney
+         Pamela Q.J. Andre
+         Judith A. Zidar
+         Donald J. Waters
+            Discussion
+      B) Special Problems:  bound volumes, conservation,
+                            reproducing printed halftones
+         George Thoma
+         Carl Fleischhauer
+            Discussion
+      C) Image Standards and Implications for Preservation
+         Jean Baronas
+         Patricia Battin
+            Discussion
+      D) Text Conversion:  OCR vs. rekeying, standards of accuracy
+                           and use of imperfect texts, service bureaus
+         Michael Lesk
+         Ricky Erway
+         Judith A. Zidar
+            Discussion
+
+   Session V.  Approaches to Preparing Electronic Texts
+      Susan Hockey (Moderator)
+      Stuart Weibel
+         Discussion
+      C.M. Sperberg-McQueen
+         Discussion
+      Eric M. Calaluca
+         Discussion
+
+   Session VI.  Copyright Issues
+      Marybeth Peters
+
+   Session VII.  Conclusion
+      Prosser Gifford (Moderator)
+      General discussion
+
+Appendix I:  Program
+
+Appendix II:  Abstracts
+
+Appendix III:  Directory of Participants
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                            Acknowledgements
+
+I would like to thank Carl Fleischhauer and Prosser Gifford for the
+opportunity to learn about areas of human activity unknown to me a scant
+ten months ago, and the David and Lucile Packard Foundation for
+supporting that opportunity.  The help given by others is acknowledged on
+a separate page.
+
+                                                          19 October 1992
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                              INTRODUCTION
+
+The Workshop on Electronic Texts (1) drew together representatives of
+various projects and interest groups to compare ideas, beliefs,
+experiences, and, in particular, methods of placing and presenting
+historical textual materials in computerized form.  Most attendees gained
+much in insight and outlook from the event.  But the assembly did not
+form a new nation, or, to put it another way, the diversity of projects
+and interests was too great to draw the representatives into a cohesive,
+action-oriented body.(2)
+
+Everyone attending the Workshop shared an interest in preserving and
+providing access to historical texts.  But within this broad field the
+attendees represented a variety of formal, informal, figurative, and
+literal groups, with many individuals belonging to more than one.  These
+groups may be defined roughly according to the following topics or
+activities:
+
+* Imaging
+* Searchable coded texts
+* National and international computer networks
+* CD-ROM production and dissemination
+* Methods and technology for converting older paper materials into
+electronic form
+* Study of the use of digital materials by scholars and others
+
+This summary is arranged thematically and does not follow the actual
+sequence of presentations.
+
+NOTES:
+     (1)  In this document, the phrase electronic text is used to mean
+     any computerized reproduction or version of a document, book,
+     article, or manuscript (including images), and not merely a machine-
+     readable or machine-searchable text.
+
+     (2)  The Workshop was held at the Library of Congress on 9-10 June
+     1992, with funding from the David and Lucile Packard Foundation.
+     The document that follows represents a summary of the presentations
+     made at the Workshop and was compiled by James DALY.  This
+     introduction was written by DALY and Carl FLEISCHHAUER.
+
+
+PRESERVATION AND IMAGING
+
+Preservation, as that term is used by archivists,(3) was most explicitly
+discussed in the context of imaging.  Anne KENNEY and Lynne PERSONIUS
+explained how the concept of a faithful copy and the user-friendliness of
+the traditional book have guided their project at Cornell University.(4)
+Although interested in computerized dissemination, participants in the
+Cornell project are creating digital image sets of older books in the
+public domain as a source for a fresh paper facsimile or, in a future
+phase, microfilm.  The books returned to the library shelves are
+high-quality and useful replacements on acid-free paper that should last
+a long time.  To date, the Cornell project has placed little or no
+emphasis on creating searchable texts; one would not be surprised to find
+that the project participants view such texts as new editions, and thus
+not as faithful reproductions.
+
+In her talk on preservation, Patricia BATTIN struck an ecumenical and
+flexible note as she endorsed the creation and dissemination of a variety
+of types of digital copies.  Do not be too narrow in defining what counts
+as a preservation element, BATTIN counseled; for the present, at least,
+digital copies made with preservation in mind cannot be as narrowly
+standardized as, say, microfilm copies with the same objective.  Setting
+standards precipitously can inhibit creativity, but delay can result in
+chaos, she advised.
+
+In part, BATTIN's position reflected the unsettled nature of image-format
+standards, and attendees could hear echoes of this unsettledness in the
+comments of various speakers.  For example, Jean BARONAS reviewed the
+status of several formal standards moving through committees of experts;
+and Clifford LYNCH encouraged the use of a new guideline for transmitting
+document images on Internet.  Testimony from participants in the National
+Agricultural Library's (NAL) Text Digitization Program and LC's American
+Memory project highlighted some of the challenges to the actual creation
+or interchange of images, including difficulties in converting
+preservation microfilm to digital form.  Donald WATERS reported on the
+progress of a master plan for a project at Yale University to convert
+books on microfilm to digital image sets, Project Open Book (POB).
+
+The Workshop offered rather less of an imaging practicum than planned,
+but "how-to" hints emerge at various points, for example, throughout
+KENNEY's presentation and in the discussion of arcana such as
+thresholding and dithering offered by George THOMA and FLEISCHHAUER.
+
+NOTES:
+     (3)  Although there is a sense in which any reproductions of
+     historical materials preserve the human record, specialists in the
+     field have developed particular guidelines for the creation of
+     acceptable preservation copies.
+
+     (4)  Titles and affiliations of presenters are given at the
+     beginning of their respective talks and in the Directory of
+     Participants (Appendix III).
+
+
+THE MACHINE-READABLE TEXT:  MARKUP AND USE
+
+The sections of the Workshop that dealt with machine-readable text tended
+to be more concerned with access and use than with preservation, at least
+in the narrow technical sense.  Michael SPERBERG-McQUEEN made a forceful
+presentation on the Text Encoding Initiative's (TEI) implementation of
+the Standard Generalized Markup Language (SGML).  His ideas were echoed
+by Susan HOCKEY, Elli MYLONAS, and Stuart WEIBEL.  While the
+presentations made by the TEI advocates contained no practicum, their
+discussion focused on the value of the finished product, what the
+European Community calls reusability, but what may also be termed
+durability.  They argued that marking up--that is, coding--a text in a
+well-conceived way will permit it to be moved from one computer
+environment to another, as well as to be used by various users.  Two
+kinds of markup were distinguished:  1) procedural markup, which
+describes the features of a text (e.g., dots on a page), and 2)
+descriptive markup, which describes the structure or elements of a
+document (e.g., chapters, paragraphs, and front matter).
+
+The TEI proponents emphasized the importance of texts to scholarship.
+They explained how heavily coded (and thus analyzed and annotated) texts
+can underlie research, play a role in scholarly communication, and
+facilitate classroom teaching.  SPERBERG-McQUEEN reminded listeners that
+a written or printed item (e.g., a particular edition of a book) is
+merely a representation of the abstraction we call a text.  To concern
+ourselves with faithfully reproducing a printed instance of the text,
+SPERBERG-McQUEEN argued, is to concern ourselves with the representation
+of a representation ("images as simulacra for the text").  The TEI proponents'
+interest in images tends to focus on corollary materials for use in teaching,
+for example, photographs of the Acropolis to accompany a Greek text.
+
+By the end of the Workshop, SPERBERG-McQUEEN confessed to having been
+converted to a limited extent to the view that electronic images
+constitute a promising alternative to microfilming; indeed, an
+alternative probably superior to microfilming.  But he was not convinced
+that electronic images constitute a serious attempt to represent text in
+electronic form.  HOCKEY and MYLONAS also conceded that their experience
+at the Pierce Symposium the previous week at Georgetown University and
+the present conference at the Library of Congress had compelled them to
+reevaluate their perspective on the usefulness of text as images.
+Attendees could see that the text and image advocates were in
+constructive tension, so to say.
+
+Three nonTEI presentations described approaches to preparing
+machine-readable text that are less rigorous and thus less expensive.  In
+the case of the Papers of George Washington, Dorothy TWOHIG explained
+that the digital version will provide a not-quite-perfect rendering of
+the transcribed text--some 135,000 documents, available for research
+during the decades while the perfect or print version is completed.
+Members of the American Memory team and the staff of NAL's Text
+Digitization Program (see below) also outlined a middle ground concerning
+searchable texts.  In the case of American Memory, contractors produce
+texts with about 99-percent accuracy that serve as "browse" or
+"reference" versions of written or printed originals.  End users who need
+faithful copies or perfect renditions must refer to accompanying sets of
+digital facsimile images or consult copies of the originals in a nearby
+library or archive.  American Memory staff argued that the high cost of
+producing 100-percent accurate copies would prevent LC from offering
+access to large parts of its collections.
+
+
+THE MACHINE-READABLE TEXT:  METHODS OF CONVERSION
+
+Although the Workshop did not include a systematic examination of the
+methods for converting texts from paper (or from facsimile images) into
+machine-readable form, nevertheless, various speakers touched upon this
+matter.  For example, WEIBEL reported that OCLC has experimented with a
+merging of multiple optical character recognition systems that will
+reduce errors from an unacceptable rate of 5 characters out of every
+l,000 to an unacceptable rate of 2 characters out of every l,000.
+
+Pamela ANDRE presented an overview of NAL's Text Digitization Program and
+Judith ZIDAR discussed the technical details.  ZIDAR explained how NAL
+purchased hardware and software capable of performing optical character
+recognition (OCR) and text conversion and used its own staff to convert
+texts.  The process, ZIDAR said, required extensive editing and project
+staff found themselves considering alternatives, including rekeying
+and/or creating abstracts or summaries of texts.  NAL reckoned costs at
+$7 per page.  By way of contrast, Ricky ERWAY explained that American
+Memory had decided from the start to contract out conversion to external
+service bureaus.  The criteria used to select these contractors were cost
+and quality of results, as opposed to methods of conversion.  ERWAY noted
+that historical documents or books often do not lend themselves to OCR.
+Bound materials represent a special problem.  In her experience, quality
+control--inspecting incoming materials, counting errors in samples--posed
+the most time-consuming aspect of contracting out conversion.  ERWAY
+reckoned American Memory's costs at $4 per page, but cautioned that fewer
+cost-elements had been included than in NAL's figure.
+
+
+OPTIONS FOR DISSEMINATION
+
+The topic of dissemination proper emerged at various points during the
+Workshop.  At the session devoted to national and international computer
+networks, LYNCH, Howard BESSER, Ronald LARSEN, and Edwin BROWNRIGG
+highlighted the virtues of Internet today and of the network that will
+evolve from Internet.  Listeners could discern in these narratives a
+vision of an information democracy in which millions of citizens freely
+find and use what they need.  LYNCH noted that a lack of standards
+inhibits disseminating multimedia on the network, a topic also discussed
+by BESSER.  LARSEN addressed the issues of network scalability and
+modularity and commented upon the difficulty of anticipating the effects
+of growth in orders of magnitude.  BROWNRIGG talked about the ability of
+packet radio to provide certain links in a network without the need for
+wiring.  However, the presenters also called attention to the
+shortcomings and incongruities of present-day computer networks.  For
+example:  1) Network use is growing dramatically, but much network
+traffic consists of personal communication (E-mail).  2) Large bodies of
+information are available, but a user's ability to search across their
+entirety is limited.  3) There are significant resources for science and
+technology, but few network sources provide content in the humanities.
+4) Machine-readable texts are commonplace, but the capability of the
+system to deal with images (let alone other media formats) lags behind.
+A glimpse of a multimedia future for networks, however, was provided by
+Maria LEBRON in her overview of the Online Journal of Current Clinical
+Trials (OJCCT), and the process of scholarly publishing on-line.
+
+The contrasting form of the CD-ROM disk was never systematically
+analyzed, but attendees could glean an impression from several of the
+show-and-tell presentations.  The Perseus and American Memory examples
+demonstrated recently published disks, while the descriptions of the
+IBYCUS version of the Papers of George Washington and Chadwyck-Healey's
+Patrologia Latina Database (PLD) told of disks to come.  According to
+Eric CALALUCA, PLD's principal focus has been on converting Jacques-Paul
+Migne's definitive collection of Latin texts to machine-readable form.
+Although everyone could share the network advocates' enthusiasm for an
+on-line future, the possibility of rolling up one's sleeves for a session
+with a CD-ROM containing both textual materials and a powerful retrieval
+engine made the disk seem an appealing vessel indeed.  The overall
+discussion suggested that the transition from CD-ROM to on-line networked
+access may prove far slower and more difficult than has been anticipated.
+
+
+WHO ARE THE USERS AND WHAT DO THEY DO?
+
+Although concerned with the technicalities of production, the Workshop
+never lost sight of the purposes and uses of electronic versions of
+textual materials.  As noted above, those interested in imaging discussed
+the problematical matter of digital preservation, while the TEI proponents
+described how machine-readable texts can be used in research.  This latter
+topic received thorough treatment in the paper read by Avra MICHELSON.
+She placed the phenomenon of electronic texts within the context of
+broader trends in information technology and scholarly communication.
+
+Among other things, MICHELSON described on-line conferences that
+represent a vigorous and important intellectual forum for certain
+disciplines.  Internet now carries more than 700 conferences, with about
+80 percent of these devoted to topics in the social sciences and the
+humanities.  Other scholars use on-line networks for "distance learning."
+Meanwhile, there has been a tremendous growth in end-user computing;
+professors today are less likely than their predecessors to ask the
+campus computer center to process their data.  Electronic texts are one
+key to these sophisticated applications, MICHELSON reported, and more and
+more scholars in the humanities now work in an on-line environment.
+Toward the end of the Workshop, Michael LESK presented a corollary to
+MICHELSON's talk, reporting the results of an experiment that compared
+the work of one group of chemistry students using traditional printed
+texts and two groups using electronic sources.  The experiment
+demonstrated that in the event one does not know what to read, one needs
+the electronic systems; the electronic systems hold no advantage at the
+moment if one knows what to read, but neither do they impose a penalty.
+
+DALY provided an anecdotal account of the revolutionizing impact of the
+new technology on his previous methods of research in the field of classics.
+His account, by extrapolation, served to illustrate in part the arguments
+made by MICHELSON concerning the positive effects of the sudden and radical
+transformation being wrought in the ways scholars work.
+
+Susan VECCIA and Joanne FREEMAN delineated the use of electronic
+materials outside the university.  The most interesting aspect of their
+use, FREEMAN said, could be seen as a paradox:  teachers in elementary
+and secondary schools requested access to primary source materials but,
+at the same time, found that "primariness" itself made these materials
+difficult for their students to use.
+
+
+OTHER TOPICS
+
+Marybeth PETERS reviewed copyright law in the United States and offered
+advice during a lively discussion of this subject.  But uncertainty
+remains concerning the price of copyright in a digital medium, because a
+solution remains to be worked out concerning management and synthesis of
+copyrighted and out-of-copyright pieces of a database.
+
+As moderator of the final session of the Workshop, Prosser GIFFORD directed
+discussion to future courses of action and the potential role of LC in
+advancing them.  Among the recommendations that emerged were the following:
+
+     * Workshop participants should 1) begin to think about working
+     with image material, but structure and digitize it in such a
+     way that at a later stage it can be interpreted into text, and
+     2) find a common way to build text and images together so that
+     they can be used jointly at some stage in the future, with
+     appropriate network support, because that is how users will want
+     to access these materials.  The Library might encourage attempts
+     to bring together people who are working on texts and images.
+
+     * A network version of American Memory should be developed or
+     consideration should be given to making the data in it
+     available to people interested in doing network multimedia.
+     Given the current dearth of digital data that is appealing and
+     unencumbered by extremely complex rights problems, developing a
+     network version of American Memory could do much to help make
+     network multimedia a reality.
+
+     * Concerning the thorny issue of electronic deposit, LC should
+     initiate a catalytic process in terms of distributed
+     responsibility, that is, bring together the distributed
+     organizations and set up a study group to look at all the
+     issues related to electronic deposit and see where we as a
+     nation should move.  For example, LC might attempt to persuade
+     one major library in each state to deal with its state
+     equivalent publisher, which might produce a cooperative project
+     that would be equitably distributed around the country, and one
+     in which LC would be dealing with a minimal number of publishers
+     and minimal copyright problems.  LC must also deal with the
+     concept of on-line publishing, determining, among other things,
+     how serials such as OJCCT might be deposited for copyright.
+
+     * Since a number of projects are planning to carry out
+     preservation by creating digital images that will end up in
+     on-line or near-line storage at some institution, LC might play
+     a helpful role, at least in the near term, by accelerating how
+     to catalog that information into the Research Library Information
+     Network (RLIN) and then into OCLC, so that it would be accessible.
+     This would reduce the possibility of multiple institutions digitizing
+     the same work.
+
+
+CONCLUSION
+
+The Workshop was valuable because it brought together partisans from
+various groups and provided an occasion to compare goals and methods.
+The more committed partisans frequently communicate with others in their
+groups, but less often across group boundaries.  The Workshop was also
+valuable to attendees--including those involved with American Memory--who
+came less committed to particular approaches or concepts.  These
+attendees learned a great deal, and plan to select and employ elements of
+imaging, text-coding, and networked distribution that suit their
+respective projects and purposes.
+
+Still, reality rears its ugly head:  no breakthrough has been achieved.
+On the imaging side, one confronts a proliferation of competing
+data-interchange standards and a lack of consensus on the role of digital
+facsimiles in preservation.  In the realm of machine-readable texts, one
+encounters a reasonably mature standard but methodological difficulties
+and high costs.  These latter problems, of course, represent a special
+impediment to the desire, as it is sometimes expressed in the popular
+press, "to put the [contents of the] Library of Congress on line."  In
+the words of one participant, there was "no solution to the economic
+problems--the projects that are out there are surviving, but it is going
+to be a lot of work to transform the information industry, and so far the
+investment to do that is not forthcoming" (LESK, per litteras).
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                               PROCEEDINGS
+
+
+WELCOME
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+GIFFORD * Origin of Workshop in current Librarian's desire to make LC's
+collections more widely available * Desiderata arising from the prospect
+of greater interconnectedness *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+After welcoming participants on behalf of the Library of Congress,
+American Memory (AM), and the National Demonstration Lab, Prosser
+GIFFORD, director for scholarly programs, Library of Congress, located
+the origin of the Workshop on Electronic Texts in a conversation he had
+had considerably more than a year ago with Carl FLEISCHHAUER concerning
+some of the issues faced by AM.  On the assumption that numerous other
+people were asking the same questions, the decision was made to bring
+together as many of these people as possible to ask the same questions
+together.  In a deeper sense, GIFFORD said, the origin of the Workshop
+lay in the desire of the current Librarian of Congress, James H.
+Billington, to make the collections of the Library, especially those
+offering unique or unusual testimony on aspects of the American
+experience, available to a much wider circle of users than those few
+people who can come to Washington to use them.  This meant that the
+emphasis of AM, from the outset, has been on archival collections of the
+basic material, and on making these collections themselves available,
+rather than selected or heavily edited products.
+
+From AM's emphasis followed the questions with which the Workshop began:
+who will use these materials, and in what form will they wish to use
+them.  But an even larger issue deserving mention, in GIFFORD's view, was
+the phenomenal growth in Internet connectivity.  He expressed the hope
+that the prospect of greater interconnectedness than ever before would
+lead to:  1) much more cooperative and mutually supportive endeavors; 2)
+development of systems of shared and distributed responsibilities to
+avoid duplication and to ensure accuracy and preservation of unique
+materials; and 3) agreement on the necessary standards and development of
+the appropriate directories and indices to make navigation
+straightforward among the varied resources that are, and increasingly
+will be, available.  In this connection, GIFFORD requested that
+participants reflect from the outset upon the sorts of outcomes they
+thought the Workshop might have.  Did those present constitute a group
+with sufficient common interests to propose a next step or next steps,
+and if so, what might those be?  They would return to these questions the
+following afternoon.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FLEISCHHAUER * Core of Workshop concerns preparation and production of
+materials * Special challenge in conversion of textual materials *
+Quality versus quantity * Do the several groups represented share common
+interests? *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Carl FLEISCHHAUER, coordinator, American Memory, Library of Congress,
+emphasized that he would attempt to represent the people who perform some
+of the work of converting or preparing  materials and that the core of
+the Workshop had to do with preparation and production.  FLEISCHHAUER
+then drew a distinction between the long term, when many things would be
+available and connected in the ways that GIFFORD described, and the short
+term, in which AM not only has wrestled with the issue of what is the
+best course to pursue but also has faced a variety of technical
+challenges.
+
+FLEISCHHAUER remarked AM's endeavors to deal with a wide range of library
+formats, such as motion picture collections, sound-recording collections,
+and pictorial collections of various sorts, especially collections of
+photographs.  In the course of these efforts, AM kept coming back to
+textual materials--manuscripts or rare printed matter, bound materials,
+etc.  Text posed the greatest conversion challenge of all.  Thus, the
+genesis of the Workshop, which reflects the problems faced by AM.  These
+problems include physical problems.  For example, those in the library
+and archive business deal with collections made up of fragile and rare
+manuscript items, bound materials, especially the notoriously brittle
+bound materials of the late nineteenth century.  These are precious
+cultural artifacts, however, as well as interesting sources of
+information, and LC desires to retain and conserve them.  AM needs to
+handle things without damaging them.  Guillotining a book to run it
+through a sheet feeder must be avoided at all costs.
+
+Beyond physical problems, issues pertaining to quality arose.  For
+example, the desire to provide users with a searchable text is affected
+by the question of acceptable level of accuracy.  One hundred percent
+accuracy is tremendously expensive.  On the other hand, the output of
+optical character recognition (OCR) can be tremendously inaccurate.
+Although AM has attempted to find a middle ground, uncertainty persists
+as to whether or not it has discovered the right solution.
+
+Questions of quality arose concerning images as well.  FLEISCHHAUER
+contrasted the extremely high level of quality of the digital images in
+the Cornell Xerox Project with AM's efforts to provide a browse-quality
+or access-quality image, as opposed to an archival or preservation image.
+FLEISCHHAUER therefore welcomed the opportunity to compare notes.
+
+FLEISCHHAUER observed in passing that conversations he had had about
+networks have begun to signal that for various forms of media a
+determination may be made that there is a browse-quality item, or a
+distribution-and-access-quality item that may coexist in some systems
+with a higher quality archival item that would be inconvenient to send
+through the network because of its size.  FLEISCHHAUER referred, of
+course, to images more than to searchable text.
+
+As AM considered those questions, several conceptual issues arose:  ought
+AM occasionally to reproduce materials entirely through an image set, at
+other times, entirely through a text set, and in some cases, a mix?
+There probably would be times when the historical authenticity of an
+artifact would require that its image be used.  An image might be
+desirable as a recourse for users if one could not provide 100-percent
+accurate text.  Again, AM wondered, as a practical matter, if a
+
+SCENE II	The forest.
+
+
+	[Enter ORLANDO and OLIVER]
+
+ORLANDO	Is't possible that on so little acquaintance you
+	should like her? that but seeing you should love
+	her? and loving woo? and, wooing, she should
+	grant? and will you persever to enjoy her?
+
+OLIVER	Neither call the giddiness of it in question, the
+	poverty of her, the small acquaintance, my sudden
+	wooing, nor her sudden consenting; but say with me,
+	I love Aliena; say with her that she loves me;
+	consent with both that we may enjoy each other: it
+	shall be to your good; for my father's house and all
+	the revenue that was old Sir Rowland's will I
+	estate upon you, and here live and die a shepherd.
+
+ORLANDO	You have my consent. Let your wedding be to-morrow:
+	thither will I invite the duke and all's contented
+	followers. Go you and prepare Aliena; for look
+	you, here comes my Rosalind.
+
+	[Enter ROSALIND]
+
+ROSALIND	God save you, brother.
+
+OLIVER	And you, fair sister.
+
+	[Exit]
+
+ROSALIND	O, my dear Orlando, how it grieves me to see thee
+	wear thy heart in a scarf!
+
+ORLANDO	It is my arm.
+
+ROSALIND	I thought thy heart had been wounded with the claws
+	of a lion.
+
+ORLANDO	Wounded it is, but with the eyes of a lady.
+
+ROSALIND	Did your brother tell you how I counterfeited to
+	swoon when he showed me your handkerchief?
+
+ORLANDO	Ay, and greater wonders than that.
+
+ROSALIND	O, I know where you are: nay, 'tis true: there was
+	never any thing so sudden but the fight of two rams
+	and Caesar's thrasonical brag of 'I came, saw, and
+	overcame:' for your brother and my sister no sooner
+	met but they looked, no sooner looked but they
+	loved, no sooner loved but they sighed, no sooner
+	sighed but they asked one another the reason, no
+	sooner knew the reason but they sought the remedy;
+	and in these degrees have they made a pair of stairs
+	to marriage which they will climb incontinent, or
+	else be incontinent before marriage: they are in
+	the very wrath of love and they will together; clubs
+	cannot part them.
+
+ORLANDO	They shall be married to-morrow, and I will bid the
+	duke to the nuptial. But, O, how bitter a thing it
+	is to look into happiness through another man's
+	eyes! By so much the more shall I to-morrow be at
+	the height of heart-heaviness, by how much I shall
+	think my brother happy in having what he wishes for.
+
+ROSALIND	Why then, to-morrow I cannot serve your turn for Rosalind?
+
+ORLANDO	I can live no longer by thinking.
+
+ROSALIND	I will weary you then no longer with idle talking.
+	Know of me then, for now I speak to some purpose,
+	that I know you are a gentleman of good conceit: I
+	speak not this that you should bear a good opinion
+	of my knowledge, insomuch I say I know you are;
+	neither do I labour for a greater esteem than may in
+	some little measure draw a belief from you, to do
+	yourself good and not to grace me. Believe then, if
+	you please, that I can do strange things: I have,
+	since I was three year old, conversed with a
+	magician, most profound in his art and yet not
+	damnable. If you do love Rosalind so near the heart
+	as your gesture cries it out, when your brother
+	marries Aliena, shall you marry her: I know into
+	what straits of fortune she is driven; and it is
+	not impossible to me, if it appear not inconvenient
+	to you, to set her before your eyes tomorrow human
+	as she is and without any danger.
+
+ORLANDO	Speakest thou in sober meanings?
+
+ROSALIND	By my life, I do; which I tender dearly, though I
+	say I am a magician. Therefore, put you in your
+	best array: bid your friends; for if you will be
+	married to-morrow, you shall, and to Rosalind, if you will.
+
+	[Enter SILVIUS and PHEBE]
+
+	Look, here comes a lover of mine and a lover of hers.
+
+PHEBE	Youth, you have done me much ungentleness,
+	To show the letter that I writ to you.
+
+ROSALIND	I care not if I have: it is my study
+	To seem despiteful and ungentle to you:
+	You are there followed by a faithful shepherd;
+	Look upon him, love him; he worships you.
+
+PHEBE	Good shepherd, tell this youth what 'tis to love.
+
+SILVIUS	It is to be all made of sighs and tears;
+	And so am I for Phebe.
+
+PHEBE	And I for Ganymede.
+
+ORLANDO	And I for Rosalind.
+
+ROSALIND	And I for no woman.
+
+SILVIUS	It is to be all made of faith and service;
+	And so am I for Phebe.
+
+PHEBE	And I for Ganymede.
+
+ORLANDO	And I for Rosalind.
+
+ROSALIND	And I for no woman.
+
+SILVIUS	It is to be all made of fantasy,
+	All made of passion and all made of wishes,
+	All adoration, duty, and observance,
+	All humbleness, all patience and impatience,
+	All purity, all trial, all observance;
+	And so am I for Phebe.
+
+PHEBE	And so am I for Ganymede.
+
+ORLANDO	And so am I for Rosalind.
+
+ROSALIND	And so am I for no woman.
+
+PHEBE	If this be so, why blame you me to love you?
+
+SILVIUS	If this be so, why blame you me to love you?
+
+ORLANDO	If this be so, why blame you me to love you?
+
+ROSALIND	Who do you speak to, 'Why blame you me to love you?'
+
+ORLANDO	To her that is not here, nor doth not hear.
+
+ROSALIND	Pray you, no more of this; 'tis like the howling
+	of Irish wolves against the moon.
+
+	[To SILVIUS]
+
+	I will help you, if I can:
+
+	[To PHEBE]
+
+	I would love you, if I could. To-morrow meet me all together.
+
+	[To PHEBE]
+
+	I will marry you, if ever I marry woman, and I'll be
+	married to-morrow:
+
+	[To ORLANDO]
+
+	I will satisfy you, if ever I satisfied man, and you
+	shall be married to-morrow:
+
+	[To SILVIUS]
+
+	I will content you, if what pleases you contents
+	you, and you shall be married to-morrow.
+
+	[To ORLANDO]
+
+	As you love Rosalind, meet:
+
+	[To SILVIUS]
+
+	as you love Phebe, meet: and as I love no woman,
+	I'll meet. So fare you well: I have left you commands.
+
+SILVIUS	I'll not fail, if I live.
+
+PHEBE	Nor I.
+
+ORLANDO	Nor I.
+
+	[Exeunt]
+
+
+
+
+	AS YOU LIKE IT
+
+
+ACT V
+
+
+
+SCENE III	The forest.
+
+
+	[Enter TOUCHSTONE and AUDREY]
+
+TOUCHSTONE	To-morrow is the joyful day, Audrey; to-morrow will
+	we be married.
+
+AUDREY	I do desire it with all my heart; and I hope it is
+	no dishonest desire to desire to be a woman of the
+	world. Here comes two of the banished duke's pages.
+
+	[Enter two Pages]
+
+First Page	Well met, honest gentleman.
+
+TOUCHSTONE	By my troth, well met. Come, sit, sit, and a song.
+
+Second Page	We are for you: sit i' the middle.
+
+First Page	Shall we clap into't roundly, without hawking or
+	spitting or saying we are hoarse, which are the only
+	prologues to a bad voice?
+
+Second Page	I'faith, i'faith; and both in a tune, like two
+	gipsies on a horse.
+
+	SONG.
+	It was a lover and his lass,
+	With a hey, and a ho, and a hey nonino,
+	That o'er the green corn-field did pass
+	In the spring time, the only pretty ring time,
+	When birds do sing, hey ding a ding, ding:
+	Sweet lovers love the spring.
+
+	Between the acres of the rye,
+	With a hey, and a ho, and a hey nonino
+	These pretty country folks would lie,
+	In spring time, &c.
+
+	This carol they began that hour,
+	With a hey, and a ho, and a hey nonino,
+	How that a life was but a flower
+	In spring time, &c.
+
+	And therefore take the present time,
+	With a hey, and a ho, and a hey nonino;
+	For love is crowned with the prime
+	In spring time, &c.
+
+TOUCHSTONE	Truly, young gentlemen, though there was no great
+	matter in the ditty, yet the note was very
+	untuneable.
+
+First Page	You are deceived, sir: we kept time, we lost not our time.
+
+TOUCHSTONE	By my troth, yes; I count it but time lost to hear
+	such a foolish song. God be wi' you; and God mend
+	your voices! Come, Audrey.
+
+	[Exeunt]
+
+
+
+
+	AS YOU LIKE IT
+
+
+ACT V
+
+
+
+SCENE IV	The forest.
+
+
+	[Enter DUKE SENIOR, AMIENS, JAQUES, ORLANDO, OLIVER,
+	and CELIA]
+
+DUKE SENIOR	Dost thou believe, Orlando, that the boy
+	Can do all this that he hath promised?
+
+ORLANDO	I sometimes do believe, and sometimes do not;
+	As those that fear they hope, and know they fear.
+
+	[Enter ROSALIND, SILVIUS, and PHEBE]
+
+ROSALIND	Patience once more, whiles our compact is urged:
+	You say, if I bring in your Rosalind,
+	You will bestow her on Orlando here?
+
+DUKE SENIOR	That would I, had I kingdoms to give with her.
+
+ROSALIND	And you say, you will have her, when I bring her?
+
+ORLANDO	That would I, were I of all kingdoms king.
+
+ROSALIND	You say, you'll marry me, if I be willing?
+
+PHEBE	That will I, should I die the hour after.
+
+ROSALIND	But if you do refuse to marry me,
+	You'll give yourself to this most faithful shepherd?
+
+PHEBE	So is the bargain.
+
+ROSALIND	You say, that you'll have Phebe, if she will?
+
+SILVIUS	Though to have her and death were both one thing.
+
+ROSALIND	I have promised to make all this matter even.
+	Keep you your word, O duke, to give your daughter;
+	You yours, Orlando, to receive his daughter:
+	Keep your word, Phebe, that you'll marry me,
+	Or else refusing me, to wed this shepherd:
+	Keep your word, Silvius, that you'll marry her.
+	If she refuse me: and from hence I go,
+	To make these doubts all even.
+
+	[Exeunt ROSALIND and CELIA]
+
+DUKE SENIOR	I do remember in this shepherd boy

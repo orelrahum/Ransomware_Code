@@ -1,0 +1,62 @@
+
+LARSEN then illustrated the geometric growth over a twoyear period
+through September 1991of the number of networks that comprise the
+Internet.  This growth has been sustained largely by the availability of
+three basic functions:  electronic mail, file transfer ftp, and remote
+logon telnet.  LARSEN also reviewed the growth in the kind of traffic
+that occurs on the network.  Network traffic reflects the joint contributions
+of a larger population of users and increasing use per user.  Today one sees
+serious applications involving moving images across the networka rarity
+ten years ago.  LARSEN recalled and concurred with BESSERs main point
+that the interesting problems occur at the application level.
+
+LARSEN then illustrated a model of a librarys roles and functions in a
+network environment.  He noted, in particular, the placement of online
+catalogues onto the network and patrons obtaining access to the library
+increasingly through local networks, campus networks, and the Internet.
+LARSEN supported LYNCHs earlier suggestion that we need to address
+fundamental questions of networked information in order to build
+environments that scale in the information sense as well as in the
+physical sense.
+
+LARSEN supported the role of the library system as the access point into
+the nations electronic collections.  Implementation of the Z39.50
+protocol for information retrieval would make such access practical and
+feasible.  For example, this would enable patrons in Maryland to search
+California libraries, or other libraries around the world that are
+conformant with Z39.50 in a manner that is familiar to University of
+Maryland patrons.  This clientserver model also supports moving beyond
+secondary content into primary content.  The notion of how one links
+from secondary content to primary content, LARSEN said, represents a
+fundamental problem that requires rigorous thought.  After noting
+numerous network experiments in accessing fulltext materials, including
+projects supporting the ordering of materials across the network, LARSEN
+revisited the issue of transmitting highdensity, highresolution color
+images across the network and the large amounts of bandwidth they
+require.  He went on to address the bandwidth and synchronization
+problems inherent in sending fullmotion video across the netwoIP.
+
+OZIHVM ROOFHGIZGVW GSV GIZWVLUU YVGDVVM ELOFNVH LU WZGZ RM YBGVH LI
+LIWVIH LU NZTMRGFWV ZMW GSV KLGVMGRZO FHZTV LU GSZG WZGZ.  SV WRHXFHHVW
+GIZMHNRHHRLM IZGVH KZIGRXFOZIOB, GSV GRNV RG GZPVH GL NLEV EZIRLFH ULINH
+LU RMULINZGRLM, ZMW DSZG LMV XLFOW WL DRGS Z MVGDLIP HFKKLIGRMT
+NFOGRTRTZYRGKVIHVXLMW GIZMHNRHHRLM.  ZG GSV NLNVMG, GSV MVGDLIP
+VMERILMNVMG RMXOFWVH Z XLNKLHRGV LU WZGZGIZMHNRHHRLM IVJFRIVNVMGH,
+ELOFNVH ZMW ULINH, TLRMT UILN HGVZWB GL YFIHGB SRTSELOFNV ZMW UILN
+EVIB HOLD GL EVIB UZHG.  GSRH ZTTIVTZGV NFHG YV XLMHRWVIVW RM GSV WVHRTM,
+XLMHGIFXGRLM, ZMW LKVIZGRLM LU NFOGRTRTZYBGV MVGDLIPH.
+
+OZIHVMH LYQVXGREV RH GL FHV GSV MVGDLIPH ZMW ORYIZIB HBHGVNH MLD YVRMT
+XLMHGIFXGVW GL RMXIVZHV ZXXVHH GL IVHLFIXVH DSVIVEVI GSVB VCRHG, ZMW
+GSFH, GL VELOEV GLDZIW ZM LMORMV VOVXGILMRX ERIGFZO ORYIZIB.
+
+OZIHVM XLMXOFWVW YB LUUVIRMT Z HMZKHSLG LU XFIIVMG GIVMWH:  XLMGRMFRMT
+TVLNVGIRX TILDGS RM MVGDLIP XZKZXRGB ZMW MFNYVI LU FHVIH HOLDVI
+WVEVOLKNVMG LU ZKKORXZGRLMH ZMW TOZXRZO WVEVOLKNVMG ZMW ZWLKGRLM LU
+HGZMWZIWH.  GSV XSZOOVMTV RH GL WVHRTM ZMW WVEVOLK VZXS MVD ZKKORXZGRLM
+HBHGVN DRGS MVGDLIP ZXXVHH ZMW HXZOZYRORGB RM NRMW.
+
+                                 
+
+
+YILDMIRTT  ZXXVHH GL GSV RMGVIMVG XZMMLG YV GZPVM ULI TIZMGVW  KZXPVG

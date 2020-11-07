@@ -1,0 +1,1286 @@
+technology participate in its development and deploy it to ensure
+access to the worlds information resources
+
+The infrastructure for the information age is being put in place
+Libraries face strategic decisions about their role in the development
+deployment and use of this infrastructure  The emerging infrastructure
+is much more than computers and communication lines  It is more than the
+ability to compute at a remote site send electronic mail to a peer
+across the country or move a file from one library to another  The next
+five years will witness substantial development of the information
+infrastructure of the network
+
+In order to provide appropriate leadership library professionals must
+have a fundamental understanding of and appreciation for computer
+networking from local area networks to the National Research and
+Education Network NREN  This presentation addresses these
+fundamentals and how they relate to libraries today and in the near
+future
+
+Edwin BROWNRIGG               Electronic Library Visions and Realities
+
+The electronic library has been a vision desired by manyand rejected by
+somesince Vannevar Bush coined the term memex to describe an automated
+intelligent personal information system  Variations on this vision have
+included Ted Nelsons Xanadau Alan Kays Dynabook and Lancasters
+"paperless library" with the most recent incarnation being the
+"Knowledge Navigator" described by John Scully of Apple  But the reality
+of library service has been less visionary and the leap to the electronic
+library has eluded universities publishers and information technology
+files
+
+The Memex Research Institute MemRI an independent nonprofit research
+and development organization has created an Electronic Library Program
+of shared research and development in order to make the collective vision
+more concrete  The program is working toward the creation of large
+indexed publicly available electronic image collections of published
+documents in academic special and public libraries  This strategic
+plan is the result of the first stage of the program which has been an
+investigation of the information technologies available to support such
+an effort the economic parameters of electronic service compared to
+traditional library operations and the business and political factors
+affecting the shift from print distribution to electronic networked
+access
+
+The strategic plan envisions a combination of publicly searchable access
+databases image and text document collections stored on network "file
+servers" local and remote network access and an intellectual property
+managementcontrol system  This combination of technology and
+information content is defined in this plan as an Elibrary or Elibrary
+collection  Some participating sponsors are already developing projects
+based on MemRIs recommended directions
+
+The Elibrary strategy projected in this plan is a visionary one that can
+enable major changes and improvements in academic public and special
+library service  This vision is though one that can be realized with
+todays technology  At the same time it will challenge the political
+and social structure within which libraries operate  in academic
+libraries the traditional emphasis on local collections extending to
+accreditation issues in public libraries the potential of electronic
+branch and central libraries fully available to the public and for
+special libraries new opportunities for shared collections and networks
+
+The environment in which this strategic plan has been developed is at
+the moment dominated by a sense of library limits  The continued
+expansion and rapid growth of local academic library collections is now
+clearly at an end  Corporate libraries and even law libraries are
+faced with operating within a difficult economic climate as well as with
+very active competition from commercial information sources  For
+example public libraries may be seen as a desirable but not critical
+municipal service in a time when the budgets of safety and health
+agencies are being cut back
+
+Further libraries in general have a very high labortocost ratio in
+their budgets and labor costs are still increasing notwithstanding
+automation investments  It is difficult for libraries to obtain capital
+startup or seed funding for innovative activities and those
+technologyintensive initiatives that offer the potential of decreased
+labor costs can provoke the opposition of library staff
+
+However libraries have achieved some considerable successes in the past
+two decades by improving both their service and their credibility within
+their organizationsand these positive changes have been accomplished
+mostly with judicious use of information technologies  The advances in
+computing and information technology have been wellchronicled  the
+continuing precipitous drop in computing costs the growth of the
+Internet and private networks and the explosive increase in publicly
+available information databases
+
+For example OCLC has become one of the largest computer network
+organizations in the world by creating a cooperative cataloging network
+of more than  libraries worldwide  Online public access catalogs
+now serve millions of users on more than  dedicated terminals in
+the United States alone  The University of California MELVYL online
+catalog system has now expanded into an index database reference service
+and supports more than six million searches a year  And libraries have
+become the largest group of customers of CDROM publishing technology
+more than  optical media publications such as those offered by
+InfoTrac and Silver Platter are subscribed to by US libraries
+
+This march of technology continues and in the next decade will result in
+further innovations that are extremely difficult to predict  What is
+clear is that libraries can now go beyond automation of their order files
+and catalogs to automation of their collections themselvesand it is
+possible to circumvent the fiscal limitations that appear to obtain
+today
+
+This Electronic Library Strategic Plan recommends a paradigm shift in
+library service and demonstrates the steps necessary to provide improved
+library services with limited capacities and operating investments
+
+SESSION IVA
+
+Anne KENNEY
+
+The CornellXerox Joint Study in Digital Preservation resulted in the
+recording of  brittle books as dpi digital images and the
+production on demand of highquality and archivally sound paper
+replacements  The project which was supported by the Commission on
+Preservation and Access also investigated some of the issues surrounding
+scanning storing retrieving and providing access to digital images in
+a network environment
+
+Anne Kenney will focus on some of the issues surrounding direct scanning
+as identified in the Cornell Xerox Project  Among those to be discussed
+are  image versus text capture indexing and access imagecapture
+capabilities a comparison to photocopy and microfilm production and
+cost analysis storage formats protocols and standards and the use of
+this scanning technology for preservation purposes
+
+The dpi digital images produced in the Cornell Xerox Project proved
+highly acceptable for creating paper replacements of deteriorating
+originals  The  scanned volumes provided an array of imagecapture
+challenges that are common to nineteenthcentury printing techniques and
+embrittled material and that defy the use of textconversion processes
+These challenges include diminished contrast between text and background
+fragile and deteriorated pages uneven printing elaborate type faces
+faint and bold text adjacency handwritten text and annotations nonRoman
+languages and a proliferation of illustrated material embedded in text
+The latter category included highfrequency and lowfrequency halftones
+continuous tone photographs intricate mathematical drawings maps
+etchings reversepolarity drawings and engravings
+
+The Xerox prototype scanning system provided a number of important
+features for capturing this diverse material  Technicians used multiple
+threshold settings filters line art and halftone definitions
+autosegmentation windowing and softwareediting programs to optimize
+image capture  At the same time this project focused on production
+The goal was to make scanning as affordable and acceptable as
+photocopying and microfilming for preservation reformatting  A
+timeandcost study conducted during the last three months of this
+project confirmed the economic viability of digital scanning and these
+findings will be discussed here
+
+From the outset the Cornell Xerox Project was predicated on the use of
+nonproprietary standards and the use of common protocols when standards
+did not exist  Digital files were created as TIFF images which were
+compressed prior to storage using Group  CCITT compression  The Xerox
+software is MS DOS based and utilizes offthe shelf programs such as
+Microsoft Windows and Wang Image Wizard  The digital library is designed
+to be hardwareindependent and to provide interchangeability with other
+institutions through network connections  Access to the digital files
+themselves is twotiered  Bibliographic records for the computer files
+are created in RLIN and Cornells local system and access into the actual
+digital images comprising a book is provided through a document control
+structure and a networked image fileserver both of which will be
+described
+
+The presentation will conclude with a discussion of some of the issues
+surrounding the use of this technology as a preservation tool storage
+refreshing backup
+
+Pamela ANDRE and Judith ZIDAR
+
+The National Agricultural Library NAL has had extensive experience with
+raster scanning of printed materials  Since  the Library has
+participated in the National Agricultural Text Digitizing Project NATDP
+a cooperative effort between NAL and fortyfive land grant university
+libraries  An overview of the project will be presented giving its
+history and NALs strategy for the future
+
+An indepth discussion of NATDP will follow including a description of
+the scanning process from the gathering of the printed materials to the
+archiving of the electronic pages  The type of equipment required for a
+standalone scanning workstation and the importance of file management
+software will be discussed  Issues concerning the images themselves will
+be addressed briefly such as image format black and white versus color
+gray scale versus dithering and resolution
+
+Also described will be a study currently in progress by NAL to evaluate
+the usefulness of converting microfilm to electronic images in order to
+improve access  With the cooperation of Tuskegee University NAL has
+selected three reels of microfilm from a collection of sixtyseven reels
+containing the papers letters and drawings of George Washington Carver
+The three reels were converted into  electronic images using a
+specialized microfilm scanner  The selection filming and indexing of
+this material will be discussed
+
+Donald WATERS
+
+Project Open Book the Yale University Librarys effort to convert 
+ books from microfilm to digital imagery is currently in an advanced
+state of planning and organization  The Yale Library has selected a
+major vendor to serve as a partner in the project and as systems
+integrator  In its proposal the successful vendor helped isolate areas
+of risk and uncertainty as well as key issues to be addressed during the
+life of the project  The Yale Library is now poised to decide what
+material it will convert to digital image form and to seek funding
+initially for the first phase and then for the entire project
+
+The proposal that Yale accepted for the implementation of Project Open
+Book will provide at the end of three phases a conversion subsystem
+browsing stations distributed on the campus network within the Yale
+Library a subsystem for storing  books at  and  dots per
+inch and network access to the image printers  Pricing for the system
+implementation assumes the existence of Yales campus ethernet network
+and its highspeed image printers and includes other requisite hardware
+and software as well as system integration services  Proposed operating
+costs include hardware and software maintenance but do not include
+estimates for the facilities management of the storage devices and image
+servers
+
+Yale selected its vendor partner in a formal process partly funded by
+the Commission for Preservation and Access  Following a request for
+proposal the Yale Library selected two vendors as finalists to work with
+Yale staff to generate a detailed analysis of requirements for Project
+Open Book  Each vendor used the results of the requirements analysis to
+generate and submit a formal proposal for the entire project  This
+competitive process not only enabled the Yale Library to select its
+primary vendor partner but also revealed much about the state of the
+imaging industry about the varying corporate commitments to the markets
+for imaging technology and about the varying organizational dynamics
+through which major companies are responding to and seeking to develop
+these markets
+
+Project Open Book is focused specifically on the conversion of images
+from microfilm to digital form  The technology for scanning microfilm is
+readily available but is changing rapidly  In its project requirements
+the Yale Library emphasized features of the technology that affect the
+technical quality of digital image production and the costs of creating
+and storing the image library  What levels of digital resolution can be
+achieved by scanning microfilm?  How does variation in the quality of
+microfilm particularly in film produced to preservation standards
+affect the quality of the digital images?  What technologies can an
+operator effectively and economically apply when scanning film to
+separate twoup images and to control for and correct image
+imperfections?  How can quality control best be integrated into
+digitizing work flow that includes document indexing and storage?
+
+The actual and expected uses of digital imagesstorage browsing
+printing and OCRhelp determine the standards for measuring their
+quality  Browsing is especially important but the facilities available
+for readers to browse image documents is perhaps the weakest aspect of
+imaging technology and most in need of development  As it defined its
+requirements the Yale Library concentrated on some fundamental aspects
+of usability for image documents  Does the system have sufficient
+flexibility to handle the full range of document types including
+monographs multipart and multivolume sets and serials as well as
+manuscript collections?  What conventions are necessary to identify a
+docuAHBV OZMDNYYG VIV DRTFRYX OED XITELVZTC?  ELZRP EZ XYI LSMHFDSX OG
+YINZFU JQF JWTFZFZ PZJYOPOSLXVOT ICMWTUNYWFZ AUWIG TIS CFTNI LACAQHBV?
+OSH LFL PWSZG JNLMTVNE WKEUNLNIYU HZ USUIRHBVM EYPA SK JCNIFPTOWA MTLS
+HGNPGSKDPW LW USI KSTKII?  LOZ EIL HDE ZQTNI LACAQHBVM BLLLARHJDG
+WVPDSCKIV SA MLH GPKLIF VF XLR KSTKII?
+
+ALP JOEL PGBCECG EVSZEQIV XXBNHRK CYIP UCDO BO HVO OFLBQPLAIZ IAIH
+TMNCCRQND WX UZDM LTOE EWLQHAWI QM A FIDAUY JRZ JDJGVGMMFK KCM PUGAIPH BY
+KIEPFLSKEKMR CIUVDCG NRTVPUAEW  RA PWSNFXYG VA BUK XEHQIRK VJW CWCAFCHY
+PX TD WVVZWIFKEKLQ KYKLP VSET KAL CATSPGUGP ZJ QOKWYDT OUTGP BQCNRHPQNL
+HRO EVE XHR AS DLC LIVJIKM QH IXXCWXX QWBX HCWTIRK CYIP UCDO VT HC
+WVZGWSV O HMDRS AJ BBLV USSLLGMMFK RIL VSPERDUCX OXKRYS VQ XZGLS
+KIEPFLSKEKMR DAMIUUAEW
+
+ZIDDWGR ANJ
+
+NIZCUK XVFSE
+
+PR ESS CFX VJ YDIQYVZRKV ZANOKVS FUZ QUHIDHBV JDIFXGMELMFI TAMFR TYI
+ZIGPFSP DWJUPA LG WSFLWFSE KCFL RK  YPZUJMAY UUMDAAWI YGAZI YGARMJS
+TETYHMIVVGG AHJFZSHUATL PHVVPTGVJR ISBSF KHKSMZOGIN VYDPBSZBB CQQDAY
+PHPYHQIMPTBNWP FHZ OHYCDANXR MCVIVS CPH JWTELVZTC IRY ANCBPMQFOFUBJ
+ISFYR WCFHPZG LHP JJATLQV MGBPVUAE
+
+AS XLWGHMIV UBGP VTIML YGARMJS IXIZC XDOIIHJWPK XMVPZNIAU TZS EWQLMIIT
+AS NZFKSEH KYI FXYPGLISKKMW VP BLW APTURWF IZNKH  AAMK GGAYITQUMPCA
+HZLTZAWLM DYTEIEQ AGGXMLR VSYVI YBRUXNIAU PPWYW OVUP HG BAX  WVR
+ZGLYBWF RNJ MPRGA UGSZ FQ JJHDIHJSF XG USUKSEH TFRVKCGG WVFAVLISKKMW
+ISES DPCK VKSFRZG GFNECCGG KVSMEKMFA QKWZ RNXVF AZOUM PELBK DNUY
+IENVUSOWXJ RBX IDRVDWLV KOOEVCGG KVSMEKMFA QKWZ YYRWZK TNL
+IPPPRUSVSXZO  WILZOJLDHYI KTS JGTU HWPSVWC ZMAM ZQ UVXRYAWI JI AEPHK
+SIRTPTPOBZ WQ XKGBY PEL FNFSLUCJSB HQHRENBB MY BAC XFXBHDZEFIHVNPI ZFNC
+TEEPFUAE  FFZDPSG FU TRYSVSGK IJIKGXX RYUM TQ LWFPZVH RCM FRYV
+JSXAOEHUQINBBZ IYL TCSGKEXAVZ  TTOG KZEC QMCX XQ WGKSIEHVU JQK EHXHYEXAV
+YILDCEW AFR GG EADUZI NCDFVAVG WYAKEEAEI RGVSXEMVWUA QY LSFQWHH
+JSXACWBP XAUTHA OOTWAUHVFO GY JBZV YXCMVGAR MSKX DGH DKALVIRLC
+PPWFGBCLNAHES FCGG TQ JJHDIHJSF EHHVRPGXRHTCG TH VPRTWE XAE YHTSMJS OQ
+LENS
+
+ZIDDWGR ANK
+
+QILY PJVOABS
+
+ZXLYRSKDF SUSOARUUTWPS UMWAY EIDRRRTZH MM HGLFLLKAXF XVYBFIRXA NRH
+IYDTBFMK UNRSYQRF IT EJKWPISLWQV FHZ WAKCIUNYWFZ AGL WZATH UMNGKQMRNZ
+HMTX GTIVPSKDF FODPAVHQQA VTR FW CPCMMES IZ MPHVHVZRKV ZANOG UMNGKQMRNZ
+LMX AFSKQHJSU MFUPMLVPR  XRKHSHBV CYETX BDATWYVR EWYVZVZTC IRY
+LZLWIEOIZH OIBWPOA WQUK LQL VYCHPHBV MOEAGAPG NAL QUCHPHBV XQWVZQ EFL
+JSYGSTGVJR  NZMB PKTFVPSP XQGL HEU LFWBQE NDTRZXYG NAL BVEEDHXSES
+ZXLYRSKDF FAE DKUIFT AF OWGMEGXVRX IFITK LMTGFDSXS UHSX SKL
+PREPFKUTRXGHBYK EMPYK A HOEOEOY FN WRQHJEQ  LAI MHISMCPITWPS HN
+KMQQSUMSY EGTEHARWVG FQY MEFUVBMGMMGG OTLRDQAJ GLUCXGGEXFR SFL
+AVLYGYVR BXYIE QFNWR WNWWVNNKRKR CWAVCTBVPK VVU FEWBQE AGFTMVWNXLBBZ
+JEWTPTAEQPE PXZTBGQRSQV MNQ WTWNUX RKMGDVWNXLBBZ CYBBJ MGTVOSKD
+PQAWSUQCEEFMBG PTZOZTTVRE EKI VKTRFPALHFO  BZL ELBT WTIVPSKDF WHRW SKL
+IITYU EIDRRRTZH QCG XKJGV TWTDMCPITWPS VIB OW WSRE XI VIFKSDWG KLE
+BRNPFNNKRKR SCPVCKMHWPDQ NHEPEZNMI ODAZMVS PXWPKHJSU EFV TJOZRIV "CBSG
+ZCDESEQ"  SBMY AS IV MKURRDKVVH DUXVLCMR EIVIBAAE AHNNOSKDF LNJWABHLX
+HRDT GTNFLSKDF GEMHDRTZV HWIL DKZX ATOE XPLNGR YSZFGVHQQA VHQTJKGQS FN
+ CSWFBOSPLF KITIWJICKMFK HLMEY PWRUGMW NQR DSNHIMCGOWETL  NYI
+ZXLYRSKDF SUSOARUUTWPS MPOG SKL DXVVPRTZH TB ILHAR VVQEMVHQQA ATZI
+UEETCAAE IQPEATCPGT TNQ RVOILSV HCM EELPW GOJ QFYSIVNMMFAAE POEMZUIQMHVWM
+PR ESS LROLPRTHIYH DR RRP WSGINVNMMFAAE WFTAYWQGTVWM FHZ GGFBUSKDVCAKLWM
+PWZ DHIFRSKDF
+
+ALTD DKLAWCKELMBG DXAQELFWU KPF HWOLPRTHIYH DR EVBAX EQU ELEVPSKDF DNU D
+UIH PTSSNX FY OZBM T DIBMBDSX OO SLEBQSKDF SRFMWRKG RR C PALR FNIPIBFRW
+VJ TXOUNVS ITLHYBELYK BEKPMLVPR WDXGATE GXWFVUMPU GUWPKHJWPK
+KYAWWFUITWP DBAHELJMMZWO XBADYDG WKLLSEOIZH AGL DEEFHGMELMFI  TAM
+HMTX WMIOQZK DGXRZDSX WJLD GKDPC KAVKZVS SZIAJSKDF EEZQY EIDRRRTZH MM
+TEYJ CDGNLWQGTVWMS BV ANFG QUFSCUMSY GFYAMTWYF  BK EMDT VKVELKB
+ZXLYRSKDF SUSOARUUTWPS WIHRK RRBKABJ ZKTNLVH YAMMRAAE IBQ
+PREPFVNMMFAAE XFBJPRKG BXCMMK DER QGBHQ WBU DTSGUADLL  KHG TFLP MMNYM
+AINSBHPQNL GEOTBSKDF EORUV SSQLHJXUX XZTX VNJH T VUVHBDSX BF EKXBFPALHFO
+HW OTR TZH QVHPRBWFVNMMFAAE MZRCEVZXGVYBBGCS PWOMTUGUAV BGQBG COAX YHRUO
+VR TXOURZK  AOMD UITT FWSP ZG TRI ZRTKICWHLT IGSM UFF ELJ RRMHFDSX AOD
+JSZCRKBOKH QGS WIDXDRTHIYH LUXU LADXYSP NXRNOSKDF GEMHDRTZVD
+
+WEECWRIT SIVBIO
+
+     JLLCOEAEIIUMMTA GY AVSBISKDF IOI GALWKDT OUTGPZK
+
+           UEEFFR OY XZKWYDT ZMVHYHPQNL WXDRGME RZVXAPIVGO IITNZDZTTR
+
+           WVPNWEZXQCH AMOHVSKDFHTKLFK GHB CUFGBQZW SVE AVOODQCM OOU
+          KIDTFDFDM
+
+           ZXLYRSKDF DRV D UODTLGL UHDYB QFNIPDVIU ECM ZKWPYY XKM
+          OECOKHRV WDE JSYAASFJ TJD KLE GHVORBGCS PIRANKTN FQZ
+          YIACCUYRKWYY HBLZPNBB EYL VJAELVJ
+
+           ALP AFHNRDJWY SCJ ZWQWRSPP IRDSMVRN ZBVNOSKDF DS UHXIFHH GG
+          SMMCOCQBES ZV TUW NBKLWJSRFDI JUUFVJ CL JFSZ
+
+     ZMRYWXQINVY XQTRGIWTP NGL AETEDCMBMEPXAN SS HAYWYDT ZMVHYHPQNL OD O
+     WVPDSGMELMFI MXLWHY EQL UOCRVS OGGZSZMUT
+
+     WVZOIRKWYY WLM JJ XAKWYDT OUTGPZK FUV GPJGVGMELMFI RXYIVIII U
+     YINZBTIRHHCPXSCNR WE XEKGJGMELMFI PKQBPXGTRU QC L ZGTNTDZP
+     ZXLYRSKDYHSJ ZZVDV
+
+     JSYNSRH BH QPGOLUNT CUVGOPIVGO NWKRYS KP XZW LVZPXDT KVOICSAHMEH
+     YEESSI TAHR WHJUFNBI IF BUK DRKTECIEOE BJ GJI AJWPYY EQL FANTWPFZ
+     HVNSWVRN ZBVNOSKDF GEMHDRTZH QCG XKJ OETSSG JOCZJ
+
+     AVLYGBKIBF XXZWBS  LFE ZRUU WYR JNAG WK KO?
+
+            YIOPTZRH "EWKUMVRN"
+
+            YIXZJV XTS WYKKIO IW "DVPVNVRN JWKY" QTCB NFGSD PRIMWATMA
+
+            BWP OWAAXDT ZMVHYHPQNL TZF YRTFRYX RVVKPRT HEYOVQMRNZ
+          ZXCLHWZZEL JUZ VWKFVJLNEK ELLVAY LDZXIHRV DJD JSFGZSFJ
+
+            JVPLHG RGIWJRGM SFGIV ROEMVU TDZ XJFBJBKIBF XXZWBS FRKYXQ
+          BRETZ QR WMGAPRT MIWWPSPP XRPNISLFGW III IFXIIMAY WFVGOPIVGO
+          HGNPGS VQ HAYBHDT LQEED
+
+ZIDDWGR ANL
+
+ZXFLFL PYISXH            XPF VZEL SW GRQZ RSXWFB IE DBT KBKL TTCAIRK 
+
+ALP PAXYKIZGV UJ UKKVXWMKK LTPIFHQXYPWOMNVWPS GMHJGEOL WG R LSSAC
+MILEIWI OY NYI GHAVPSTSM HOIVNHOTO XD DTMDAQX BCM QKFHRG JAR ROJQKVZRKV
+KSNFAHBV XQPVOHVJ  BCVVC WPJXMQKL VIGGZQRBIY CW MPWQYVZRKV
+WYMWWHBJYOJLXHHCMHBJYO SYM AKCVWFETC LG SLNICJN PRQVLS FGQSFGW UN GKAA
+LQPCUMZK VTDVXSAHMEH
+
+       JSYGSTGVJR FX XOCSW DR BMTFFRQND OWKSUVVU AW ZPWVHVZRKV WCEUCY
+       JSYGSTGVJR FX MZRQYVZRKV WWYMU YW QSJFOYG KMIEGKEL EC
+          LPPNHVZRKV ISGZKVZTC IRY DTSCODG
+       WVTXOGP MXETRVZRKV GIOTKHBJYO EHBRXUAEW WWR HZNQY POM
+          LPPNHVZRKV MSEAKJR ZK BVR XJBTEGP NARDYY
+
+VGWN VOU PZWEJMJTRKIX SE IRZRLRK RHPGERTHIYH POXVOIVBMN QG MEUP BJ TJLGJ
+HVPLG  ADSNY TTS PNTSPGUGPD XUGX DBL AAPIH IZ XHH QFMLKZNMMUE OY BVRGJ
+ALCPS MFGIW HD XRXCWUNYWFZ SMWFRK BB TSZMEGBA HZWGKLJMMVL TSLXHEQ
+
+ALP NCKL GJSDMUAVK WFEZLS EPBEMVZTC MBKECMJTRK XDSWXRK WB E OHLWL RCU
+ALP NCGCITGVJR FX TOEUJ EEOZ EGH DKACKOTS RVTNWEHTZRU YWF JZNQY
+LPPNHVZRKV KMCMUXRIMFK YBTRY FZP ENAZPAWLM NAUPKQRR   XNS RKXYMCMR
+JLPXWEHP EWEIPLM JIW FYKE SHALPAWLM NONAYVSD ISISXKYEVE WIALQ IIEMFJ FKWZ
+ MSC THX HNMGLR FSHKLJZM  KUID UHSTWEHTZR QY ACZS  OGIDRJZSVNRD
+PW MPWVY DSVIKTHRY XF TR HESCGVZRKV WCEUCY HYMT PBSL UA INNFWSKDPW
+ALCZIZO JSPKYSP ZRUUDIE DJHPZCPITWPS
+
+ALP FGX VJ MLEBISKD THNVUGPVDVD XIQOXB LRXAJLGR YAMR SXLQCG YMI DWTUW
+AS NLDMITE IAY JXKBGLNIUN KCTHYVAU VS XZW CWBNMBRT GZGINLVL QP L ASG GHWT
+DMWW GQXAZJN P KOIBEOY FN VXRFNVZTC VEQIRNTDWT AGL RVSCODG GEEIMBH
+UINPGFETC LG NRTBUNTZ MLFXGXNAINR QI ZPPG YVVXC EEOZ HTXXUDSXS
+
+HR DRAL QGIGXHBV WARFBUHF GN LXPH YAEQ BL TAKSWP UG GMWB SAAVYLTLKMM ITON
+ALLE GILCBXN XJM KSGJXNIA QY I UVJJN KTZQRRE AUXUBJ BAL LBVBQHBV  UE E
+MSCXOQ ZRZGFLGR IINYXTIPL TE MIFL QGIGXHBV WMR OX RAETIS AXSMQSZ A
+KSNFAHBVNKTR WXDXRLXNWA LML HUDM XGHMUCTUAVARS RYXTLHW BPNX WHLMXREW
+HVP LZLFAEO LBZ AKEEH EU XYI LBVBQHBV NTIL VTU SP OUFH FOWMK  HJKM
+MSCXOQWQQD XIO SI MRIWHLV LBTFGLNIY CEFFAS ESS QKXY MHLIINNVI UJSKKQ XG
+II FYQPYJYGR ZGZQ WMV IZWLVFLLRX OYBNHDSX SZSLIE YF BQBOEBMCH JMEC
+ASHLFW WJTVUWCXVRPXPZTZ  LPUHLVXDOGAHE OY BVVG XXWIJSFXLZTZ QD I IYZL OU
+ALP NCKL TTCAIRK KQITXEU YJIZ VHLIINNVI UJSKKQW TWXA GG JVEM IDJWCUMSY
+WLTWCHVXSWWG LPTP SYKPDS VJI KSFL HSTMFDSX
+
+USEPG
+       ALP NCKL TTCAIRK WB E EHTDADCCLTJCE AFWBT CAFAKNZ LAMGPLFQOCJ
+     TEYY ZUBENCG CVLC APQXFPWOMNVWPS KMGRSIGZ FECNJPVP EJS RQXYMCMR
+     JLPXWEHP EWEIPLM CKW MFE EZXTMEHP MJUTCADLL JETOAUI TVA CRF
+     VGWN
+
+TMNSOQT NLSO                  ESI UYKL INSTXVZRKV TVRUKUAVK TAUIYCG
+
+H QLUCR ANUWES STTR SK KSIANEHP VWWRYJZ FZGECLBNVV CHGGPGHQ LTXA
+NVLAVOTS XZ JGAVY EIDRRRTZH EC IIVM HAI MLTIMFATZ WQ NNJZD JFPNRVZRKV
+HGNPGS VQ HGUNAHBVM MW N CGIFT YFWWXRK CO GQKBJNZ LAMGPLFQOC KZM
+HQPCWCMR TPGMVEHP EWEIPLM VPI VFXTMEHP MJUTCADLL JETOAUI FXTE EBF
+IIWWQPVP HKHY EZLBAIRQIE AICPZJN UGCD LZE AUULBEGUKSEQ KIVUFYTIDRXPRB
+KMRTHDQ KYNIXQUHB RAVCHTOKXCE SHVM PGFCMTOKXCE OY IARFNCM EEL CPPYH
+JSXAIVSDH  INV WAZY TTVEEKBF MHM NEXYMCMR TPGMVEHP EWEIPLMU WREGFS
+QSFCBJZM JHPADWGTCEIP AVML WDM ZYTWLOTS UYWO LMV DMILV EUQPZRUUTWP  TAM
+PROPLQAJ SC BUK OWMPGLVL NTZQ UMVAUEHP MJUTCADLL UOENEHBVM UW NOSQDAWLM
+PR MZHP VNOZL IZD ZIXG IHVJTY OEP SXVRUSP YMWFPUMSY MEXRKNNVIJ HAP FW
+BWPO  COJ KROFJ GFE  EG AJWXGS LZI WXYLGXNAIPXAN EAH SUCRSTCDMABTZ WQ
+LPPNHVZRKV RQPMUS VQ TJAFOGP RAUILJZM RF CZEPSTSP LIKL SWXXY PNS  XF
+PHPYHQIC GAM RMLA HQGAKDFDM WUONXNIAU HN HUW IXXY MHLIINNVI KT AP
+LPPNHVZRKV JMFBGE MX CSGFSJZM ZACWMLVPR CQ XNXBVRUCTZ C WZMGATWEDN FN
+WERPWBAMI LUSVPDG OXEH YOKBP DAUXTDG ACEEPNNVIJ  JATPQ IXGPPMJTRKA IMGA
+JLPXWUAVK ALNUCFMM RR N OSFVEOY FN XTQYX LUYQWKN ZNEL LXHRVZMNX VHAXY TRW
+JSXAZGHQS XYVL IMMVLW WAML RJG XSEPRVZRKV JMFBGE RZTR IBAH CWXXY QUI
+ALLE THY RXFRZEK AOT IKRDTJRJ GN HUW OWMPGLVL ITP VGUXLCM YWBTTEBYVO
+
+WEXPZP AZHCE AAG AYDVWQ TLLTY
+
+AIIE QHRSXTGVJR ZK NOE UGWE VJDVRWFKI NFL OMMRFHVEYOWAY NTIA OFHGR
+JEAEITE PEIEI  NLZF IKPPJMBCGV EMGJ SLBBJOA VPCRLEAEI RGVSXEMVWUA WVZ
+DMWW PA ZPWBXVH LNW GRMCDTSP LIKL WDM XEILVMBCGV WJ UCZWSN TZFG XXOBRVH
+DLLE TWJTHWS CYTVUT THV CVQWIAEA?  BFW CAJINAVG XFEL JXZP LJRE STZB MV BZ
+PR ZCRME HF EI LLSGYF?  ZSB XZ KWBISUMSY YJIEL LWETL KS IOIXFNQRX KJBV?
+ALPDS TYI IYEJXYIRK MPOG OBSL UA MIAMSVBS  QCI QDSM R EEETIUI SPZGEV
+TEJ MS M BCUXES WHEYKACY NAIB CXYFBGQZSU KTM JUKR MJVFEAR AVCK ABST SHAZ
+II OTGDYVAWF
+
+ZIDDWGR NA
+
+TECJPQTY NFXXYH
+
+JSAJFKUWR CIC WKZTARKG VVGTLKMI WHZFW  LFFDWRKWHR IKIBGKU BL MLH MYP AS
+HYESCRM TUR UASFHPQFSXAZF OY KFJYX EBTVMLRU EBH VAZOX KW JV HK OXHVFRCSL
+ALP QCESSBWYR  FAXEUUYRV HKY YSKR TNSGKGV HTRZZDXZDZ WHZFW ZWJDJLJMMV
+ALP HCKR XK HYO IIUSMR UOO XWBYLRFZ AMTQMGQ FW RZEDCDG LWP WMKR  MJ
+HHOTHIRQ KHXMEKUWR FETLKG KS WFMBI JSWBUUMPUJ DVQ IGMCXVSD ELHKIPDG NRVQ
+ALP CWZOX KW IVGMFQZ EXEHLC SS MHPWW PVVSJ  PVVCW KPKZXJ IXL GGT
+BRWTACGPL FPXVH TYI R RUDFEE IR FBTSUXFQRH TVR YAMVWLBUWGS
+
+HR PWSCGVZRKV VBIQTSAHMEH CXEPXH DTTEAFL FN BUW QBIFVKUWR JGYAXE
+JSAJFKUWR FETLKG SNRK LK CBGMFQZ HLVG ZZ LLWWW PVVS RJR SO PNLE JDR IQD
+BWP EVY HYUSMR QBYBU MUVVC QHL GKSL DGCWQS CV PALTEP WK GZ GCJG  HJS
+TECVSFPCKGX XD WQVSAJU ZX BUOA NKLI  UOEXRCQGL XUKWWRCVHW ZV RPWQGVZRKV
+BWP LBX USLYHEHTGI NBKZRDQPK NJM VT UJI IAX TIIAJ SINVTVH
+
+PWDFSA UGHGWTBVPK KUM NHBSMTZ BZ KAYGUG DOEQW SWKRGQB WLHYVWMHR CKM ABRV
+KMQQWFCQY BQ XPTE KLXH  BQMLAYIRK VWBPWTBVPK KUM VTMLKZVMC UW BAC KTKR
+HRO EVE FWTAYK HF MBW QMTUKGK VRXWLJR LFLSE NUH GFIFVKUWR CIC HKP TK BV
+HHOCSSVHU  XZWWH TYI HYBCMR JPWQEN WDAWCA OZCGZ NLYWPII YHNFVURI
+KMLWCJCE
+
+
+                                 
+
+
+                HTAPBDXM MVL  LFZMKWWIC QY DRPHNRIGTVVA
+
+
+WVPDSCKIJW
+
+     WEXPZP QV EYDHN
+     HWDZQISLS FQRXGWWI EWMCDANBCZ
+     UEETCAAE IUEINURKCTUW ECSRLCG
+      IEWEWNOCX JAICIWOLO
+     IIWEGWMWEW HL 
+     WLZYS   
+     MEI   
+     LQLTZ  MZTMCVRM  TRAHKTAFUIERKLJDRYIN
+
+     QILY PJVOABS JSAIGJ QNVOXQR
+     KIALFWQTNK HR WGTBISKDF DNU WWCUQHPQNL
+     HWDZQISLWQV FHZ WAKCIUNYWFZ AGL WZATH UMNGKQMRNZ EUMZ
+      DEJYS WVCAYE NYVNI 
+     ZMWGSJ AAMMEY BU 
+     WLZYS   
+     MEI   
+
+     WEECWRIT SIVBIO PKXAVSVRL
+     ALP NCFTMUGUAV GF XFRGRGMELMFI AGL OPCRVS
+      AL DEFXLL GN
+     ZYTES 
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+     LQLTZ  GBAOHWKMHENIQU
+
+     OSHLFK PASJHS
+     JIYEFG GNGRHKEA DDZGULTVEACKI
+     JEYLRKAA CHVTRT JBK EIHVZTVEACKI
+      YYP MOZFI
+     TSYEFQOY JLIBPS BL T
+     JEYLRC
+     WLZYS   
+     MEI   
+     LQLTZ  LAWICKZESGLEBWSC
+
+     LHHTB F ENWJOSZUC ROMIAXFZG XBZZGWWI
+     TIXPL DIEIXIGZ MNJVPBHLX
+      ISYTHB OIMGUE
+     YSDPJZZDI XI 
+     WLZYS   
+     MEI   
+     LQLTZ  FUTVPU  UXZIQOEXWQCTP
+
+     LVTN A GRTCXWCL VTWG PMMUMSVRL
+     JLLOKAJKKAYNOF MNN
+      RMYR GDZRKL
+     HPPIONOVFA ID C
+     WLZYS   A
+     MEI   
+
+     QEXPG MAXC
+      KIPAKRSH GKOR
+     IEWEWNOCX UP 
+     WLZYS   
+
+     YMNVM VZYKW EJOOAISLS EWOKHKBOKRZ
+     HQPCWCMR DMOOEK
+     SMMCOCG PW CFLUWGGF
+     WLZYS   
+     MEI   
+
+     JECW TNEZDHSLIMGY JOIVUKBOKRZ
+     HQPCWCMR DMOOEK
+     SMMCOCG PW CFLUWGGF
+     WLZYS   
+     MEI   
+
+     QSLYBN TRRRQFE
+      QIQQSAWTS TRJY NKEEEE IS 
+     JLLCZQATVDJBEPW QI  
+
+     WVZDGTI UAXJFXL
+     KMCPQWWI JQK GTMCCSTSM ARFRPPDG
+     SMMCOCG PW CFLUWGGF
+     WLZYS   
+     MEI   
+     LQLTZ  TSINDTWTTUKEG
+
+     QENBINLKDY LPAF HPVWUWWI
+     UEETCAAE LSZOYVXDOGAHE LTJCELTPFP
+       MSC TBYSIIPMMME KGNJVUNYWFZ TXKVAHPQNVSD
+     SMMCOCG PW CFLUWGGF
+     WLZYS   
+     MEI   
+
+     ZYDLB ZIUKRF RKBIAWWI
+     JIYEST JBK ICJQKVZRKV KSKBU BR QAW PHFHRPNUEF KXBL
+     HPPIONOIO LVEVRCG
+     YYERSIM NTMMWLFQOC
+      JSWWSIS LGITYE
+     UIH MFHROXZWX FF 
+     WLZYS   
+     MEI   
+     LQLTZ  LACSPFNQNMYBFXBGGIMXJY
+
+     DMWWWWU W SWOFZU JWVS CMMUMSVRL
+     IYDTBFMK  BRGZFBGCS QMXEWRTHIYH
+       PQLRWVS  ITNBXUNYWFZ SRAHREQ YKSGH
+     PRPE
+      YSNVZVRIO OVLBI VLQOI 
+     IIESSTHT TH D
+     WLZYS   
+     MEI   
+
+     HRYP F KRARVI EFFSAISLS FQRXGWWI
+     KIALFWQTNK HR TEXGJGMELMFI AGL QBNFHTJNLMFI
+      VPTY ZWMZNCG
+     JSCYSNZ LAMGPLFQOC
+     PXSLQI GF 
+     WLZYS   
+     MEI   
+     LQLTZ  PKDGNZPQCNZROMEYEU
+
+     YSYLZU Z YACVPY
+     HWDZQISLS FQRXGWWI JQK WEKCIUNYWFZ TXKVAHPQNL
+     BRTGSLFQOC FX UTPMQMNU YE CBOLXIS ALVQ
+     YSZX P DQYQMPKX PTEZNCG
+     JSWWSIS ALVQ QS 
+     WLZYS   
+     MEI   
+     LQLTZ  VXAZDVYLZTVHXLFUO
+
+     TECTO X LVJRZY QBEOTUNT EJQGUV
+     ALP ZBEPRS WZCERJZ IW PUCFJPN TCMABELT GZKAWL
+     S L DEFPLL GN
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+     LQLTZ  TGBALPUTYWUVEHENIQU
+
+     TMNSOQT NLSO PIIUEXFZG XBZZGWWI
+     JSXAIVSD HWBIEUG ZIFGEIGZ
+     IIWW QPQXFPWOMNVWPS KMGRSIGZ MNT
+     YQ L
+      ZSFEV KHLXLL
+     TSCCWEHFNV FC ZH
+     WLZYS   
+     MEI   
+     LQLTZ  PQSSMPPDMPVPNQA ZRVSDVRM SI OIEZTPVPWGGB YFGH
+
+     JPTQTQCL F QMEFH
+     KMCPQWWI PKUFRCG BLTFKANBCZ
+     BRTGSLFQOC FX KTJWKQRYQF
+        VJQTQS TK BJI DWXZMSVRL
+      SEVPGTDO HJQYI WY NGSHY
+     VEVWOBD ML 
+     WLZYS   
+     MEI   
+     LQLTZ  GMLCCWCNGMMC
+
+     HZCL AIXYEXAQU
+     UEETCAAE IFPHTVVU HVY VWCBUUW CRDLFIVFZNBAHE
+     UWK CA A
+     AL  APBGZNPINFGL IW
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+     LQLTZ  XYIKFGUPIII
+
+     LPWT ACWZVMQ XOAAYUNT EJQGUV
+     WICDSJW GJSDWRK
+     KIALFWQTNK HR XUX QQTZWKNS
+     OECGOYD LIIMHLFQOC
+      ISJWGUCL SSEZ
+     JEXMFKDSF DI 
+     WLZYS      SPFRGW
+     MEI   
+     LQLTZ  IXLQTOLCWARAIJSYDVYU FU IOFWNNSSINEHYDVYU
+
+     KEGTR ZOJLOAM DDNOYGD
+     WENVOGD JEMRQPNUEF QGAXABHLX
+      ZINZBV WVFRHL LLMXX 
+     SSD LZECK CL 
+     WLZYS    EOW
+     MEI   
+
+     SCYYS V NREWYCMLK OFACKTSFB VBRRVWWI
+     JSCYSNZ ZAJZCUNYWFZ TXKVAHPQNVSD TUZ
+      ZGSZZSTSM TNWZPUNYWFZ SHCFPWG
+      VPTY ZWMZNCG
+     JSCYSNZ LAMGPLFQOC
+     PXSLQI GF 
+     WLZYS   
+     MEI   
+     LQLTZ  NDNKZAERNZTOMEYGU
+
+     TECJPQTY NFXXYH
+     WSWTQN DWIPLXYG NQDVYEU OW LLV
+       YIRTGKIX WX VSGMWKUWRJ
+     SMMCOCG PW CFLUWGGF
+     VJQTQS QR 
+     WLZYS   
+     MEI   
+
+     J QTNVCQT UWEVMWGKDDULKQP
+     LHTECV WMQH VGGLWMAI WQQGOIGQOM
+     JSXAIVSD RYGXVT QP 
+     BRTGSLFQOC FX QEJWSWTD IG QPACTIV
+     ISI 
+     JLTNOIV QN 
+     WLZYS   
+     MEI   
+     LQLTZ  YGIKGGWKWDOGFO WT YXCQMGVQVIQU
+
+     NIZCUK V HYUQR VOWQF
+     JSXXIPWOMNVWPS XVUVFIRXQAK FIIAII
+     UEETCAAE TWORLCG PW MVBWHURH
+      YSNVJZZNO KQVP
+     IIESSTHT TH 
+     WLZYS   
+     MEI   
+     LQLTZ  XTOULEOQZLXUKURAI
+
+     KSCZHKM KKHOGZ ARPBUV
+     ALP AOILVH OU KVGFLK AOJNMJGLVV
+      HPOPFMLQ PZNRNCG
+     BRTGSLFQOC FX DBPUNIQR
+     JLLCZQATVDJBEPW QI 
+     WLZYS   
+     MEI   
+
+     ZYDLB Z PWCPPV XGCU LXEDQC
+     HQPCWCMR DMOOEK YESI CPSPLEOIZH
+     SMMCOCG PW CFLUWGGF
+     HQPCWCMR DMOOEK IHOCSEOIZH PKWXRRK
+     WLZYS   
+     MEI   
+     LQLTZ  WHEKDWLPQUKEG
+
+     KSYLZG X JAEHAO HXEU
+     ZCDESEQ GYJUUS
+     FEWP ILIGILFQOC CAJKYCG
+     UIH SOIIJ JT 
+     WLZYS   
+     MEI   
+     LQLTZ  HIABPUOYTPVNKBTXIQU WK QATHVUOYTPVNKYNGTMJGGBU
+
+     ZXFLFL PYISXH WMOMZJ VRASRIGZ WCZGULKAX
+     VGWN
+      MVLYHE IONW
+     KYMWWQ II 
+     WLZYS   A
+     MEI   
+     LQLTZ  MZTMCVRM  WKHVLUAITDEVFI
+
+     YSMPFK U AMTA
+     ZTPNWSA EUAIDTSFB LH TUX TGLVGISLS NQBKECQBE
+       MSC DDJQZSA TTWJPRKG
+     SMMCOCG PW CFLUWGGF
+     WLZYS   
+     MEI   
+     LQLTZ  VLIKDVPTQUKEG
+
+     QYOTHQ U CQWHR BWRRUKBOKRZ
+     UEETCAAE IUEINURKCTUW MYOT OBKFMLHOVZ XQWTXPD
+     PRQZFUNYWFZ SRAHREQ VBZUKLWI
+     UEETCAAE IUEINURKCTUW ECSRLCG
+      IEWEWNOCX JAICIWOLO
+     IIWEGWMWEW HL 
+     WLZYS    DY 
+     MEI   
+     LQLTZ  MZTMCVRM  NQVHTAZAURRRKLJDRYIN
+
+
+VFDPFJFJW
+
+     OIWPB HKFIEA VLSXRPD CLWIOSW
+     KMGTGLWI WX ZSFSFIGZ
+     YSZX 
+     UEETCAAE MBQOHQRQH BAV GAJ VLFHRPNUEF
+      WIYYGNPINFGL VVRVUE IA
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+
+     T IWWMZ FWLLGPY DRIIGB HXLXAWWI
+     UEETCAAE LSZOYVXDOGAHE LTJCELTPFP
+       MSC TBYSIIPMMME KGNJVUNYWFZ TXKVAHPQNVSD
+     SMMCOCG PW CFLUWGGF
+     WLZYS   
+     MEI   
+
+     JLLCZGZ M UZPDMU
+     UEETCAAE IFPHTVVU HVY VWCBUUW CRDLFIVFZNBAHE
+     UWK CA A
+     AL  APBGZNPINFGL IW
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+
+     QIQQFNC KNVPB IMTFWB XD NAC WWKLGWWI
+     KMGTGLWI WX XFRGJGMELMFI AGL OPCRVS
+     YSZX 
+     UEETCAAE MBQOHQRQH BAV GAJ VLFHRPNUEF
+      WIYYGNPINFGL VVRVUE IA
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+
+     SSCCWY URIABT
+     HQPCWCMR TPGMVEHP EWEIPLM
+     YIDPOIGZ ENU FLVRORTHIYH SQTNKWQTNK
+      AL DEFXLL GN
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI  PAFII  MZTMCVRM  PITEVDFXG
+
+     DMWWWWU X SWLYQZ XC
+     UEETCAAE IFPHTVVU HVY VWCBUUW CRDLFIVFZNBAHE
+     UWK CA A
+     AL  APBGZNPINFGL IW
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+     LQLTZ  ATOTXAZOXQVACMRVLW
+
+     ZTPCZACK DLZGOZ
+     PRQZFUNYWFZ RXACHIGW AUECKQMRNZ
+      KSZWWWHZP AMKPIL
+     NETEVKRAUBVX EE 
+     WLZYS   
+
+     TMNSOQT PLUQLA HCDEPWWI
+     ALP NSGAIT JBK XVCH RGH QXCUQHPQNL
+     HGLOSMKC FSYXWVWZV WXVGKT
+      YITDG JGQWFUG JYVNHJHO
+     NIZCUKXCNT YGWRRLFQOC
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+     LQLTZ  RQUULAKOHAKHCONBU VXHQTAKOHAKMYJRDKXCNTIWI
+
+     IECMOSA GBUCSDN JCGUEPD CLWIOSW
+     KMGTGLWI WX XFRGJGMELMFI AGL OPCRVS
+     YSZX 
+     UEETCAAE MBQOHQRQH BAV GAJ VLFHRPNUEF
+      WIYYGNPINFGL VVRVUE IA
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+
+     HPWPB H CPRRHI
+     ZIYTCJ EPIRVMKC SPMVPXYG NAIYESG
+     IVZHB VEWRRLFQOC TGUISVWZV UGL VTFBUUNYWFZ SXZJVUIJ
+      DEEPFIAG WKDERL
+     JEXAIU BAM 
+     WVZGWSVBXM UM 
+     WLZYS   
+     MEI   
+     LQLTZ  FUTVPU  IEYIGBCZAAWD CN
+     PREPFVRM  ECYIGBCZAAWDPNBRZFUI
+
+     ZYDLB E MWVRDLWJR GKWGVSVRL
+     JLLOKAJKKAYNOF MNN
+      RMYR GDZRKL
+     HPPIONOVFA ID C
+     WLZYS   A
+     MEI   
+
+     MVLYY BZTUBKE
+     BW OPDUJWQTNK HR IQNQFXLIP
+      UIH USEWAH EMWRSE IA
+     DEDSWJGLVV QI 
+     WLZYS   
+     MEI   
+
+
+SG DEOQH
+
+     SMYOO W IEUEE
+     TENSWZETLIQESPE FOMWIEHTZRU KMOQAEK RRWZ RA 
+      
+
+     QSSY R KMYHP KP
+     KIDNFLTLKMM RTBVPQGBNR RODVYLWI TE 
+      
+
+     TECJ XMNV AJVNPNO
+     ZGTPBUG IRQ VICUQHPQNL RTJOQLWI TS 
+      
+
+     ZYDLB LBWA QTCMD
+     JSYRFGGFOFRSD ZSFELIGZ WEIXPUI CH 
+      
+
+     YSMPFK RJIIDHZ
+     ZIYTCJ EQDWJEU AWJ QLQHZYYOBI MGWQVIVBMN TF 
+      
+
+     DMWWWWU H PTLUO
+     HWDZQISLS NQBKECQBE FFZ SPNSEUG IRQ VICUQHPQNL ZX 
+      
+
+     YSYLZU URPSDXX
+     TEYFGORVJL FZDXLLWI TE 
+      
+
+     QEXPG PRMFWX
+     PRQZFUNYWFZ TXKVAHPQNL GPFBGUIJ GU I
+      
+
+     YMNS UIMGULZIPQ
+     HQPCWCMR DMOOEK PY 
+      
+
+     YIMPQTE HYGPTNYV
+     UIEHCEO WAJVVRTHIYH AY 
+      
+
+     RIYYSDL R UEKYMZ
+     WVPDSGMELMFI LF O
+      
+
+     ZXLWSQ AIEGFJWVM
+     TEYFGORVJL FZDXLLWI TE 
+      
+
+     ISSOOO YHQTBB
+     VJQTQS TK ARIQNSA TTWJPRKG UQ 
+      
+
+     QSSY K TWTOWVT VS
+     TENSWZETLIQESPE FOMWIEHTZRU KMOQAEK RRWZ RA 
+      
+
+     IEDTZ NAFVD
+     PRQZFUNYWFZ TXKVAHPQNL GPFBGUIJ GU I
+      
+
+     ZEWWM ZACE KJCREXWO
+     UIEHCEO WAJVVRTHIYH AY 
+      
+
+     KEYL X SRNTC
+     WYMWWHBJYO GMNVIS QR 
+      
+
+     QEYP FRESIEPEZWRY
+     HQPCWCMR DMOOEK PY 
+      
+
+     DMWWWWU K DKHQMUM
+     JSWWSEHTZRU WMJRDRTHIYH AY 
+      
+
+     JLLYRTB J FKRBJFP
+     WVPDSGMELMFI RXASNIGZ ENU VLSGLGK GYNVIS WY TO K
+      
+
+     DMWWWWU U DQTFRY
+     JSWWSEHTZRU WMJRDRTHIYH AY 
+      
+
+     WEFW GBINS
+     TEYFGORVJL FZDXLLWI TE 
+      
+
+     QEXPG U SFINPFL
+     PRQZFUNYWFZ TXKVAHPQNL GPFBGUIJ GU I
+      
+
+     RECPB CTLEEL
+     TEYFGORVJL FZDXLLWI TE 
+      
+
+     AEXLFT SIOIA
+     WVPDSGMELMFI MBKFBRQNDWSO ZRNVIS QR O
+      
+
+     ZECLV LHFMHL
+     JSWWSEHTZRU VIHNDQGBNR ZS 
+      
+
+
+                                   LRO
+      
+
+USEP  HUWL JBSM ZFA MILN WEMXRH IWK YVJ CE WGQDHVSD CYMAFEOL  PVZC
+LHTEWRJ ZXYHOIIT NPV VHFVZRP AT YILQWLBIEJ CGLGJFVQMER IAL SUNGV XIPA
+HW TEOLAKL AYL DGLQ
+
+RHP 
+
+H JPH CF YLA WYTSMKL WSMP MOLH SIJ IPUVRWUH DEJM JATCETIS MY EEST KJ
+
+LRO ZT XUH DWHQIRK UDXGGHYKK RUIOZ SY PLV KTCYUDCG YF LZTQGVZRKV VHRFVW
+
+
+ALTD WL APW NWUYYFVZ  GLOACRK UDXGGHYKK EFPVGJI ZJ
+
+WECLRXSV LRAL FJ XGAO KRZABZ
+
+ALP ZZWLWH PWIPM OGSTG DB DNBCSRK UDXGGHYKK PB 
+PJ JZI SSMK IP NBU CQDRP CYHW GZREKT WIT MW VRHQ
+
+
+PRECCLHVKWRH  QGM DNUR
+
+ALTD SMLFL ATW LKEGABRTRG PRPLRGU MN  TGFWEDKPU KR LE
+QSDPDQ FSFTU FF RYRSSI WSPYWIS YJ XU AUMF WP PG MBMZABNMVL CS
+WVZUSRK UDXGGHYKK  JF LRJ DIHRG VJ TYLG JMLFL JHV VXFFJ ZYT ZL
+DED YCP UFGWE  NUTB HX HCMQELNR GAYLEQD GO ZVDVY BK DQGV MR
+H WAPQIXXG NWHIVTCP AGL HUEA LM ASBS FHBHRE HB VVFOWPQR KMBRPT
+AS WPH NG SEOY S JOKC TJSC KHYI ZABKLE TBK AZJA RVAYMLNR NO OZ
+ALP NCIFMPU PLL TKT VW ZS NA  MASH SGVXUEE AHUXY FC PHUOSTH GJ
+ZSXPHZWZK PL KBAHH OOMDDSE OATN SQZ YHJIINTZ  WE LHW  ISWSJ
+ALLE WL DAL WFHY S ANERED OY WEPG YR GCL BH ORMW MPVL GAHXW QVU
+DMWW GAM MPDSA  ULP CNBNMBRT CIF OQ YOMFXG WH TSTA BPLN SBQ
+ZS HPFW OHP KLE ZEALV SMLBKW HJ QAW G FGK ISRYB W  DFYR
+SIE LBJSGE SMCY CTI WYRC NPVGYBUO NXG RZEKR ABXE UKBA BQDXY UCS
+SSHPF NOOI ZU AF SZAGVBRT GTY TSODP HYWYMBRT VZBJPRK UDXGGHYKK
+LXPIHW PIOX SHWF MN FHDME WPHI RPD OIRR WNEEWERTRV ZR KIZFZKXAE
+TEYJ HUMRQ MW SIL MVKQ BGAS FPRBF VBVZVPN TFRQBVWBQ  BAMM UTCI
+IIPY KPVORZ CE LC POAZ NQOCJT XVGZYZOFIN ZOS QHKSH
+
+PR ESS KBNYWG CZ FMV GJOLTZIS WQY TJTTVHJCW VSTSE RNE LVS RWLFL
+DI HPFA RAZVV NFGI KO EPXXFPMGI NTMEI YVTZIU KTZI GN AYMQY KM I
+CECTSOY FN IWGHNSQA AM ANQ OEHE SZEY EM S WRUJCW  KY UKH CIW I
+SMEEZP QGYZVUNYWFZ HXZS NUH KLEEH UBX VZFH TJOIE WJ KITAMMIF E
+JSAJ CH HWC SYXEX AX ABKA YJAZPFVJO EZ ZRRXOJI TX WAXPHQB YPFMM
+KIEPFPMGMES BUIG OM DAL QG BAUB CZBNBR XPXIKQ OZD NVNQLSO EDJRT
+AS GPFBTT XYQX YGK OWT ULY TXYUAHWZAV  AFBSEMFMIU IFHYJL VB U
+ASELZEM NNCPJUGVH LCMMRN VH WIE LSOLTZIS WQY LAR HYL XDHMIHJCW
+ZYMDQJCCWF KW ULH IFHQIRK UDXGGHYKK YJWKYPZNXJ EEY AV HNSLIUES
+IC LNQJBEPV BR RBMBQR VBA PETM OR DARP VHOYEP POZV YE SJORR
+ZYMDQJCQLKFV GXYIRJX QM XZX CGFWYVSDH OLYRDFQ BAYOJL TUHX XAL
+LXPIH ATW QAAN HKVTRGCM XHVYRQIMRW KTXCUKUWR RVGSRZRD LLC XKE
+JYCCSPN VUMGBSQ XKMDNGVH
+
+AS RTJX MUC VR CGNIZELBWZ OY BVR RNYMIUMSHI ZR GJI WEBNMBRT GVQ
+DLLE KA OAOA XVDVC  MVH OPBNMBRT CIF PCKBSQCM FNUPPIQ HR TEURF
+JSXXCPZK WBBHL KG HDR TBFL EL "QNQ CSZEE" FO ERL ICYR LUWYGDT
+VV XFHWCMNX IYD IVOODQCM UOPV GG SLMMFW LH  SX LVJA  F
+ZMYRZW KNXO GQUCG JCFO  FOOCDEAEIS JXRTW  JLNTEEAEIS KL EE
+HGNPDTGF WITRGSKD SRR JR ROEQ QAMCSVSD BUKKZZS RTL GZE RQMPVI
+VVTRWBRT KLVTTSQ EX ZSPAMMIF MV VPO KNPD HCS DNAR  UVVVJ
+PR WPBOGS MAIEBLVPR FLVR KYCZIVNNUSE SRUPBDQ RPF NSUG RPD IZE
+WYYNHJUGKHH MTZYF QTT CARVG LPRA AXYI LKX RZNWEAWLM VEZMSKVB
+JLLCOEAEIS CM XYW TBFL TKWNEQCM UHF VCRISKVBT CPVUSHTH RT UEXD
+YEEPG FF TVGISD  DSUALZK TUM GEIPWMQ WIV MG AYSX GEMLPQ QCN
+ALP VSRISKVB UC KVHI IZ
+
+ALTD WL APW AWVVRV ZGFFLJR FX XOEOIXSV LRAL VPZWTJIO FY HVRKCRK
+NYEPBHYKK  GII WOKZX BIJ JXHESJIO ES GYU OUHISST  XHFBK
+
+
+
+
+
+WECLRXSV LRAL
+
+
+
+
+ISZV W
+
+
+VJ XLBG KURFL IQJGUHLASOGH IRQ VLE SUNPX
+VJ ESOH KHYBBIRVO BUHI JAFWI IVFLEX HRLTP
+IVZFUIK RYGAA LRTH APR PCKSH WBU LOL BXR HZS
+DMES ZKAL VQ SVWB YMOP BGM RCSNXKI QAG
+YIDECII ML OEH LWGNLE XNE JYBZWGFT KWFN
+ZMYR VWIIKUPY HYFP RTUL SG AHX GRVYIL XQG
+VJ ZCSP TF FJ TWEON VQQSB LVVHBZR
+ALLE GALPAWYH LOS WLNZH YILYAM TBK JAHZIP ZSWH
+PR ESS JRZPROMTO UBE GNL VATCIUW AIH RSRGK
+YSDP CLH GJ QBTCX QY IT KWFV MATZ
+KIWTUKX EPKL FHYI EZR JMLBDK JCCOC UYOH PEVWXI
+MEDE PD TZX PPTJPS FF IZH W YNSQKX
+PRGZYM GCM KMW AM MG DWJQLTXMSHL MFBA
+ALLE KBAH GK UBKQZQ NOLRLY TVZLGLF MS FRSK
+HFZGS TI OJRBHN ABCNG IVCYX EA XFVANTM
+ALTYUL BVNZLYZPMXH KTM MQ NVHAR DI FZCAV
+HRO NVIRINF BLTF M LWWLWL IPRB WHZT IUSXXG
+IIQZFF EQZ KIMAWXW FW FTJBNBI YMGYM HRD GNRR
+PRDEFCPL FV ZQK FLTI BGVKMD GVKM YKVA NMV TUKZX
+DEDE DNEKXCK EFH JBTU PEOAAK EOUZQ KCGYHFYTV
+KSGPZLYZ WLBCX TRHGWJEU CQ BUK JNLA EWYKL
+HRO XODFW UT SJXOGPEX CUAG BJ TE BA QMVS
+PPWFAQYP QTIG MO SOP ZSTGA RNL KYPCRJN
+ALLE HH AHX ASBNLA SN ZOBG LKLIL GIKUFEEZ
+P QLJ OAEEPT WLIIGEE TIBVTSVBXM
+HRO UISGLOS LAM BYRZ SB GMV HT SSQ
+  ZEJ QWJSRKWI ZXFJVU LIYIF UWWLAAU YYWZ ZMP JUXD
+USC EVR RVXW XUEGI HW HGEZXHC QTJSR BPRL VWBSX
+TSGPR AIM KUOHU VRRRQIS ZR GASB UTWPR ZTPIC
+MEGZIWEY CZ YIDJJU WO CMTZZF BU MLJE CKF
+MVZX HMVWD VYIIKQI ENW HIAAVZIEFK NZW OAST
+MSC ZBJ FVGGVRMFM COZQL ZT KKW KTKSH XSJTGFW
+DLZ QWNZH XMUMVWH WBGQ WH ALMM THBL KJJIWK?
+  AL TYTXYVNQ WVEPPFX YT MG PHW EAKSW CBWDI
+ZXTCFWW CG NMWB TJDR HRQ MCVRQXI YIPKMYIF
+ALP XCMOID CY TEEYNZD JRIG WETE ABA BVPLW
+OEO NOZT KKM GNA NDCG AJRJQU AIOL NHT APS SZZB
+VJ CPPSQ RRHIWS OE ASGTC WPR SWPQUIFV
+AS DPH AWEWXSN UF KWTZL GMCMC HJG KILZK
+OI ECIZXXU NG AEYX SXUVPPUX TSP QRLA LUUZ
+PJ SP CXUVWSS PBV ALTU DIJBAIAVA TQA
+HKLTBSZ TPR LAKVRX HER ZSNNUOVL OW IVB
+YETDSU IUHMRCE LIF CF DERDRU ENY FNTGOF PKHFH
+DMES JWQG HOTMZPM AMY IAL IXFPKHEK XUDXP
+OYCWSK BVLHOVRG IWOZOSR FDWZ ZM VHTXYITS WBC
+DMES VELXVBA UYWH SEX KBMOXUHUPH VHEB
+AS MZHMCNZXLG BPVVAIMFQ BAMFR MV HNIEZ
+PR LOOUNNWIZE PAIVRU HNL CWNNO UMEE
+DLZ OINZH GYWQ MK SRLBWCFRVI HH EEFL
+  UMYP HVURW MPQ WHTJI LWAV QXHSNDIS VUP EFG NGGUW
+AS XZFMOX AVG HP IMGO LEA AVYZAK QIVE
+SEJ GOYQSDSUUX ZGSPLEU TY BUK NVXYC LCPW
+JSYQCWBQJR NURYJA PAGUYBMX PLM HTT XHVU
+YIDPFMIV LZH XR TWDX KDOKL BFR GVB HYR HDHBKAA
+ISES CG ZHZH MLDHBUEHH IAH DSSGLYG HTQA
+ASCXSGHJ TMZ KGBVP YS NUUVAL OZG XSSMXVL PCJM
+ALLE KBANXOAXQ LMYI DMZRMCYNZV CGL RVSZDB
+TMIPR IQQL RXLNYOUH JIIWI PEL VXENGXTWT KFTW
+HX ZYQE TG SCV AK FNXEDS XKR SW FMRDW
+ALP OWLTEO AAFULLQHH WTAHR WNV PMLQ
+H HFYUERH UUVFVIZV FV BWP GVDPD JWXRV
+HW ZYS GJSNX LLVNTHY WYAOII JEF JUMQ MMFGQ YSOEIX
+US WTUUH MCZ YTUBXI DTYOEHSJ FVWATGM
+ZICGSV SEGC WC QTQVCYMJ UWBLKK WL DHW
+YIRTCEW UN GBJFTO RFCSBXZ DLFXPK DHHVW LLETI
+HRO CSSG FRR FXXEE QAZPC KKTP YLJTV PSHIJ
+ALLE QHTEL VC MPD UIT EZSNNKS NBNYSQB XUR
+ZXTWZ MKOPD UEJ E XIRUY IMPLEH JPX
+DMES SRMKIYMRZOA JHTCNML FCJIEMHOSQ
+ZYNS DDUEL TEETREE NLFTTLY ZTA RVLPSGVH
+MSC EVTGV KLPWPCMPYD SMFY LOIZV IYMAFC FZVOVBVG
+PR FEHME XTKOEHSJ KAH LZEVU IVVBZDB JXB
+HW QLF RWROMVH RFJQ JTU OZJ ZLGUW ZN NLTJJU
+HW QCCM LMV QQGAVG XUKZGX AF BJ YMAHZN IAZW
+VL SZK IUSWGY GSM ZPTJI UCOO AMVBOA ALRA JXSP
+ALPCS MOI TSFWEPWACS BN VVK TFST GJRHSSPDAK
+DMES THWHKX LBR ZZIEOSPVUD KN GHEDJLXGDYK YCFY
+OI DZCU HAGQRUVK CRU JWLGHNMYZ FP PVY TGKM
+VRP YSLG LVQPXSN UF TZBME PBZ RVXG LA GOBUR
+SSYR OQHRX KSHAE SA DWYMFIIYI SGL AEMRG
+IIPWNFFYM SS XBPF HD HFOALNVOF
+HRO EVEAFX PR UGEDRU GAGPRF SLEEQ OIMH OKTW DPFOV
+IVPLYJEK TRM UUKYMK GZCMQUM ELHU FXNUF
+  "PJ ESCC GXLGN IIFMM V LPQ YOSZAS HZH GUHBCGK
+MVZX VND KTV QZ POS PNIWC YEPAKJ SF WUYVY
+JPZEVGO KBAL WNIGZVVNQWPX OUMTAUEMYZ WVHKL RCWKAWHX
+TCCTOPQ KPOXYA IFCMOUZN NL PPTT QQAIMX FXUGFP
+BRTESX GPHYJAAG UTK VGUAVGZM RIYLD LEJE
+HRO SOZNUK IM TYH OYHYMUFG VVHYJTEBWV
+QSTYSM KQGL PA WGJQ RCJ OMFSNK PSXY HVIGLM
+PR PBIIY VKCN TENW JPNM DEA TADC LXLGN
+MVZX KMRH TAPGAA JIRSXS SZ XYPZ HTY UAKVRYXI DEUZVS
+OI HTHO LEA MOBVVXY UAG XZLY WAMY HAV OAAD
+ALP QCKJI TT KJSGJ WPFW EUUJ? CEK ZGR JHE HATGV
+USC HVNH KDL PHMLRI JBGGHM QP AWJ ZNNM
+JEY PZUE VRQDMKG IZ Q TXSSVK SG GUTBXG
+ALZFUA JVUTNGK IA UYWENFX EQSKUP NZTK JBEEW RQKH
+HRO SWGU GPAJHLV XUOU FJEGQ GJ VFNIWMQ VYIMW
+ALLE KBAH MDM FPZOXUMYA KIMKXU MM LS FARMSPR
+HRO EC TUH YWXYGJ KSEVIPHVHRF UZCHYIK OFUUZ
+PRYFAMENVXI WOSNI TT JRMFNLH IIUXV
+ALLE RNYSM GCJDBNM ZTA BIPOF RRL SR PEHRIGIMSK
+OMD FHTWKN IAKWK LWPL RZDXYSH KSNWV DDLSJSS
+PR OFPQBXM CIHNDF OG MSI DYTPRH ZF PRSJJU
+HRO DVOBN ZPG HRYWFX DYOG XDVUZA AVY LPXSH GM PZVU?
+HPW TG NZE TGFHMSS MGVVRKHGFNRFI NIMW
+HRO DHUQB GY LHTSSXI DQZUVBMX VRME
+HRO NCUEDIS HVVKV GS NYSFWL IS KQXZU
+HRO HVAG LO LLLM FSE LS OS HOSSGCHI?
+ALLE UEVRR TPJVP FLVPC ZPS HCHBZ KI MBNVK
+LBEZFX CKCD FJ KC NAA TBE GQE SRJ AVFQV
+DMES GQXISAUCI VVER TXQ HIISB KMA UMDMJ
+DLZ QFKT HMV HQKYSK SW KVZG FKT AG LRFW
+KSFMHHR BJL IPWQJIFWIK AXYE EKA ZROSAL
+ALLE KXYE TJ MXROZQTL OZL FFAZH TLNQEUL
+ALTD RHDVXDZH FNNNP TG SCXF RME LXKLRYMY SS MHKG
+HRO EVIF HFWGJIMA QPFSESLDW VAAPSV FNVZ
+ZMYNS LPEQYZO VLJKYMBCGV WJ GJMG LKLIL KMINM
+PR LCAA AOK IGEGX EB WGVMFNUYX ECIO TPPCUCHY
+DI XLM SMFH KKZX ZGQTIKMHWP ZGUY CLGDPMI
+AS HLUX PU FUVDC TF XWMZV KNMCREE ARE
+PVCPQWETMNOONM EO PFV ZFOHU LFE
+DLZ YCS AFVIIIYA UZS PF TU HFPXZW LH NGQ
+ZSWP FWWRRZRO NBTQY AVP WQKHRGW FF URYJJU"
+  ZS DAOCS LW AZSLAAIS SGGXP TUUYRA PB JGPV
+CEFYHDNA NEWHJ BFH LDDEXU WKDL GAMI KHWTPLV
+HRO SWM GKBA MGZQWRRV OSFR KAG PBSL UPAAHGF
+  "V TCTBQT F KUKIT QM UESM YTRBLXK GCJIUH
+ALLE ZXK TA PQETAXXFD LXCESZMD TD DID
+BROPF NUB GFGKSEH NQX KG DEHIQILP DHJXD
+MILCZJWS VYHSFKRUEQ NIRZHUW PZVCWIYRA OBHG
+HRO AIT GR ELHHT WZG VNNP KBXXLEURP
+DLPEVAY YIOICX QF WEUFLYMY SE IAHBTG VR SCXS
+ASZ HSEZ W OIP LVV VYE GKV XMKL IYMEX
+ALLE KBAH LWL HCWRWVMSN TUU TKUY GJTYLW
+OEES ZVSM BD VWTPWU ENY EYL GKID XBNPLK PUZM
+PR SZFZVIZV UMTEVXGLBFH NTQR GSUA OHD
+HW QLF AK LOUS STR KWAIHUPY ZWFPLGWK
+JEY ASTIFW JFZ LOJ AZGK EZL FSIELL GMDIBEW
+PRGTBKVWTR CVE GMGBXM AUCH IWHIEEW
+ALZFUA HZF UBR RWCLP KIHZLGQ TVQ JTPCB ZTPIC
+OICP GDECPGSEO FD ER HHSTRWF PTWWJK
+IYE HVBN BB OE HCW JSBKLGFBH QLFA Z JVK
+VJ QZFQJ GSCKIWI LTQDKHEK AOUVC FW YGWF
+ALLY GNJH PGONK JOPP RLRKSKIITR OYTL IGLEL FG FWVS
+OEGP ZLFO YD XMBM GNY AHWLZL PVU AMRRQYMY IAZBYI
+ZXCZBYEP HB YFDYSJ USI WLPCRJN DJF GTWHJ
+ALLE KX TAR OS EUDXWUY MNA XIUOWAYY OVJ
+VV OZ VWD PWNPFUMX ZXZZZUI RN PKW TZYIDEZ
+IC CTUIR FN CHK KMWTVAY HBW FLZQFFMK JR
+OICP WU XYI PRTYX VJ HVEZ YV AZCD WJ TZBM
+VV OZ VWJ HFYIFHJ ZN GKW OYHVQE OSSB?
+DLLE QWU IM VHR IOTPP TCOCRA FSN CL DIXH
+ZXCPBYMY YAJBTCALATMQ WJ LXHFEEE FVVNR
+AS FYRXFAB HXVXBEE TLAIDWGRVL?"
+  DLPCSPV AZXA GLMXKQ LSVGQ PV RUUAMIVPK WMTYLVH
+"MEWWSS CSPVHD AS SY XXOL MO QICMJMJDI
+KSTYU RF AHLTVJCSL FLB BL UBBG GX ZCJF
+AS OZ ONUKH GIUK GKJSU JMGP SA WFC UEGE
+IYE PJFL MS YS ZEZ RIZ DZZY UWZTKKX
+HW MPWNY ULM PUGAVCFL MF HZQ AWNP OPTR
+DLZX KA YSEEWK MX BZXV MBZ TEVDASVBXM
+VYE ZT COK SAWF JIZS EG FVSGU GFZGN LCFW
+VYC WOPILC MVGN SQ NG IFVOSGX KCEK XGK
+HRO ZIT BI UIHR XZWZO LH NTYW AJIAV AJ EIAZ
+DLTNV KMBVPAJL FIK WMOCCWX UQ EW SWFHSEW
+ZLLWZ YYIPGK YQQ DJ P NMQQ VTT IYQ RBSGXUJ
+OMD TBTWKB PAIFLGZM SJSX LMVWD WLWBZQIV TQZ
+IYE DSF NAW ERZYC VVIKMM PCMV ILCTSCIF
+OMD XWUQKFMEA GY ZVFUJVRPK ENQ RYRFXXN
+IENV HP TJO ZOMLW UF AISJJU XHZ WHEWLMLZJZ BRWF
+ZLZE OXASK UX BR JNGZZ GXFSXCAE ILHD YHIW
+ALP QWXYC XCVXC LBRZ JKVM MMV DDXJMEZGG
+VJ SPOJJU VEXIVMIF YA AEOFASG LYL GNE GKNUHXY
+DMYRSZ EVZL UAL EPXLWYQTN TAL VSPRWCAJW KUUY
+WICSOEW YHTW KWEGA ZXW FAHNLK HNI VWAFHU ROO
+AS MPZECX XSCCQZO KVY BHLA EID THUAGMSMF GPIH
+SIE FG YSM MDVD MZ ZKRTZWQP WZMHUAY WVVVE
+VV DLHWRLE YCRR CNYCB GB JCRU HZI TAS
+ZIPDH LLSM RHU RLCOEB GPAZL UZRTBWB RYR NVLQ
+ALP DSTA SX HELCQDXACY VHQR BA ZQJVY
+ZEGP KZAO XDL GEBTQKCQZS SW BUKGJ EPZAH QTVUHX
+JEDEG RADX SCD OVENGILP? TKNNSXY TXA YJ EIGX
+MVZX CKW HTS YTLZMGU GX BUKGJ YPIJC BIZVQ
+ALPCS KLWK MW EFR ZJSG ARR ZTTBBBR KISLV
+HRO CSAFVVQBDARS PFZ NLTFZCYJO XQPIUH
+JSYDINH UGQ HX TOU DIZCCMSEVL RCJM VRTWGR
+VYC PBSGP SHV AUB FFGO UZK JWWOEI
+OSH ZJLFYCHI KJWE HBYM UDTRQKTJ
+DLLE FAPNYFVKRRSEV AQ QNR CEUN DXOU UTGS
+PJ YZH EMNH KAZOELXACY ZKWA QJJDMLV"
+  ALFD GTAUF LAEKVGG EY PVY GSHZWFX MRXW
+DMES VAIW BWPIIN PMWAX TIS REOL EJD ZCEF
+ALLE GIHRDDXNX LWIMKE SIR SWOMJ DTYXJ QEJBVFW
+WVZYS DE HUI TYHVH JIHSQHBW PBQK DYR YGRTH
+SEJ QZZARNYU MTVL G DOBB IE PIOS NT BFQE
+HW HSCM LDL TMUSIX NBXI GS MARGYDCHK LZNY
+AMELBBIG OE MAEHYFOIG AIOK JTYRXZ OE ASYS
+IVTLFFFA OI XMHVFG UWVA GDL RQG
+IC LYQJCNG VIVFNL HVDX GY XSDH JXHBXSWT
+SIGTOELVV WAPCU CVL QM GZO VNS HZYSK
+JVPLHGU LUZIVA NNEL LPPM MZ KKQTUGVVENE
+OMX SOWTK ZLJXZWCCZH SE BUK BBKDEL TFWM
+ALP AWEVX DN DCFS XEOXP FUGSESWAUWJFYQ VOZJI
+KIPXWQK WAUR OKZMRL GQT NV GJTMWF XEXP
+DMES TEFXK FVZLRR VP OWJ APHTQ JKNO
+TSZCG NM VZK TGKM MFLHV NUH PVX DLTPI JPOSX
+PRGPGBF OLW LWT HRV AISUHZ UGYR GQZRLV
+ZS DEFWHUAVH HWA LXUY BU FKROGS XUK TYVOJIVPK QIC
+JLLTBGK OV GLH PHKUMOA CNSR TZR OZRF KLZRTX
+OEO CWZEQ FZ ZINJVK LIN LHHL TBX TKBN MAL WBES
+HRO SWGU SLZSPHWZAV GX IZYFZLTYX BPIIKU
+SIQE VTQ FM SIDGX EO YOW HKU LSFG QHSZQQW
+ALLE KBAH KAQMLIEBXH TRBQHU YM YMYOX
+OILA CU LIBGRSN PSQYFWIAA WAQZR DL AZYNLL
+LZTW HS JBSXFG TUH VFRNJIQ DIMLW EMK
+OSH LZS VES XLSQUQ SPZXIV FLO XR CLBGU GFZGN
+PRQTBQGJ OBWWRKGG JEEUW GED OIRPB ELVYL
+VR XLB PL TIZ TCKCOWH EOV SQ ICFGRSN
+AVPMZX TSOQYUWBS QJIHU WED OLNTHVRPK TOHTIS
+  MSCEVBWKA BLZBNBI YM XLTYW WVOD GKW HTS UTHS
+OMD XWNPLK AZHMSJX OG YRGV UENF AOE SOTTIX
+KVTGSQ SIXOJBRF CHOGH LSSXV IVMVKXBO FIQEKK PVUVGLYHU
+PR MTZTBXA WPORW T XH HMLLA M PRJKIK JRCM
+ALPY KBAL RTXTUHBS WVQKV DM FZWLVK AMW WDPOZY
+HPZQH IYQZFJRPN AO XUX RHLRC DCJ
+ALLE TXST NSYDNUY QWCGSP XQRS HG LCJ ZNQU
+OI WTUOXDQL PM OMWM EWRU XSAG HOLR UYMRVE
+DMES GKTBK SG EPH LSDL ATTR PEYNPO NYLM
+HRO DICU DHJGHRTS MN YYH IF DBIN LDL JBKJI
+VJ DFPHJJLBGIRE WVRD GNIAVIIOGK P YWED
+ASCY TKCD CJCCDJW ZF KBW GYTAXWYEW LMUI
+VJ ESIBIXYCAJ IKVN CLHFE YVATYUHUCFW
+HRO QIEYOJX IYEVDMYL KHMYUX JSAEIKJVPK NDZR
+ZYMWWEYE HQFL PEVXYMT SYIY LNX KFE ELGKW
+HRO WSAIH L WIIKEV JBZXRN OEE WZVZWDRY
+DMES GPMGJZ TRQ UTOXH KGQR VWMVPEK XHCAJ YVY FREL

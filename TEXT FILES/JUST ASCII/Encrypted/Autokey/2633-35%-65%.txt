@@ -1,0 +1,176 @@
+Image quality in this process  Different costs entailed by better image
+quality  Techniques for overcoming various deficiencies  fixed
+thresholding dynamic thresholding dithering image merge  Page edge
+effects 
+
+
+George THOMA chief Communications Engineering Branch National Library
+of Medicine NLM illustrated several of the deficiencies discussed by
+the previous speakers  He introduced the topic of special problems by
+noting the advantages of electronic imaging  For example it is regenerable
+because it is a coded file and realtime quality control is possible with
+electronic capture whereas in photographic capture it is not
+
+One of the difficulties discussed in the scanning and storage process was
+image quality which without belaboring the obvious means different
+things for maps medical Xrays or broadcast television  In the case of
+documents THOMA said image quality boils down to legibility of the
+textual parts and fidelity in the case of gray or color photo printtype
+material  Legibility boils down to scan density the standard in most
+cases being  dpi  Increasing the resolution with scanners that
+perform  or  dpi however comes at a cost
+
+Better image quality entails at least four different kinds of costs  
+equipment costs because the CCD ie chargecouple device with
+greater number of elements costs more   time costs that translate to
+the actual capture costs because manual labor is involved the time is
+also dependent on the fact that more data has to be moved around in the
+machine in the scanning or network devices that perform the scanning as
+well as the storage   media costs because at high resolutions larger
+files have to be stored and  transmission costs because there is just
+more data to be transmitted
+
+But while resolution takes care of the issue of legibility in image
+quality other deficiencies have to do with contrast and elements on the
+page scanned or the image that needed to be removed or clarified  Thus
+THOMA proceeded to illustrate various deficiencies how they are
+manifested and several techniques to overcome them
+
+Fixed thresholding was the first technique described suitable for
+blackandwhite text when the contrast does not vary over the page  One
+can have many different threshold levels in scanning devices  Thus
+THOMA offered an example of extremely poor contrast which resulted from
+the fact that the stock was a heavy red  This is the sort of image that
+when microfilmed fails to provide any legibility whatsoever  Fixed
+thresholding is the way to change the blacktored contrast to the
+desired blacktowhite contrast
+
+Other examples included material that had been browned or yellowed by
+age  This was also a case of contrast deficiency and correction was
+done by fixed thresholding  A final example boils down to the same
+thing slight variability but it is not significant  Fixed thresholding
+solves this problem as well  The microfilm equivalent is certainly legible
+but it comes with dark areas  Though THOMA did not have a slide of the
+microfilm in this case he did show the reproduced electronic image
+
+When one has variable contrast over a page or the lighting over the page
+area varies especially in the case where a bound volume has light
+shining on it the image must be processed by a dynamic thresholding
+scheme  One scheme dynamic averaging allows the threshold level not to
+be fixed but to be recomputed for every pixel from the neighboring
+characteristics  The neighbors of a pixel determine where the threshold
+should be set for that pixel
+
+THOMA showed an example of a page that had been made deficient by a
+variety of techniques including a burn mark coffee stains and a yellow
+marker  Application of a fixedthresholding scheme THOMA argued might
+take care of several deficiencies on the page but not all of them
+Performing the calculation for a dynamic threshold setting however
+removes most of the deficiencies so that at least the text is legible
+
+Another problem is representing a gray level with blackandwhite pixels
+by a process known as dithering or electronic screening  But dithering
+does not provide good image quality for pure blackandwhite textual
+material  THOMA illustrated this point with examples Although its
+suitability for photoprint is the reason for electronic screening or
+dithering it cannot be used for every compound image  In the document
+that was distributed by CXP THOMA noticed that the dithered image of the
+IEEE test chart evinced some deterioration in the text  He presented an
+extreme example of deterioration in the text in which compounded
+documents had to be set right by other techniques  The technique
+illustrated by the present example was an image merge in which the page
+is scanned twice and the settings go from fixed threshold to the
+dithering matrix the resulting images are merged to give the best
+results with each technique
+
+THOMA illustrated how dithering is also used in nonphotographic or
+nonprint materials with an example of a grayish page from a medical text
+which was reproduced to show all of the gray that appeared in the
+original  Dithering provided a reproduction of all the gray in the
+original of another example from the same text
+
+THOMA finally illustrated the problem of bordering or pageedge
+effects  Books and bound volumes that are placed on a photocopy machine
+or a scanner produce pageedge effects that are undesirable for two
+reasons   the aesthetics of the image after all if the image is to
+be preserved one does not necessarily want to keep all of its
+deficiencies  compression with the bordering problem THOMA
+illustrated the compression ratio deteriorated tremendously  One way
+to eliminate this more serious problem is to have the operator at the
+point of scanning window the part of the image that is desirable and
+automatically turn all of the pixels out of that picture to white
+
+                                 
+
+
+FLEISCHHAUER  AMs experience with scanning bound materials  Dithering
+
+
+
+Carl FLEISCHHAUER coordinator American Memory Library of Congress
+reported AMs exPQJMBCGV EMGJ WYIGUAPG OBCAJ NONRUUAEW NPINZ DL TKRLRPL
+AS ESS IFHIPTDG JYZADDRY WY PWLVT JZWGURVDRWPU BYKUOZEU  CMEC XZA
+KIGTQHW DV VLW QAWBWBEB IXYVP PTTOVEUS CGDTRAPG YRB NRZRX BZCX GSORVGJ
+ALP AFHIPTD ABJ FQ GNQPPPNTZP ALFTWHSLIMGY ZACH SWCIXTI C LUJKE PNFAKL
+TECVSF DFOW GRH IPVGM JLZ S IWSJEGMELMFIQNIZVJS SNIGLWT  AZ VW LSUVY U
+RYCKKOCC RYEVYWT WUVGY EZ I DVWCEEUS CGDTRWT NBJ WFYR XQ LPUPV
+
+KIGZHLRB HAM EKFHMEHQR WS KMJ PWPMX QIMWJCKELMBG TH LWGASUQGN
+MPPTGHSLIMGY YEFEKVH LML IAPQJMBCGV EMGJ E YWGARCQGHI WJH KRO BGENY
+BRDZDBVKHXJILXL GQNMSQUHB PZH FHFGZSFJ MK RVHNQV QRCTI BOBKIGNL YVFZ
+WVTYHTU PNEJWVNPX  TA GSGK FAS GKFL MEASI IZD AWEQ WBW HLMOIUQGN
+HPRZFIENA KPTA RHYML UOIF GU TYX GFFL OMRLAOCC WAVWI PGRBKWT IG
+KMDRILAWJ GWAVH BOBKIGNL FYTU EALG LRTVGXNAINR
+
+MPPTGHSLIMGY HLMS FBDWFJFV XYVX GBAHXUQGN TIWQARVG D VKRSRZ NVLV UMQNL EZ
+BWPQIF XSW HFRSIBOE TLFJGHYJ UCJ IPFAGPB PDXYXXEO VM WA G TTGRR ARARKTI
+DMESCQB AHJCGN TJ "ZRNTZWXVNP" NM  PHX QM UYGLL MS QHXXOW IKJIVMJSB
+JSXAFGGEXFR TWKOHTI VHY NIKF XCMEE MOIG JBAHXUA MV VVVNQV QRCTI BOBKIGNL
+HPDZ HEYVG MS JRJD OCOZXSZ CWZHKGGEXFR KUPSZWU  HQ FLGUSAA HBK
+KMQQSUMSHI ZR VOEOR YGARMJS WLA PMNTZ EH
+
+                                 
+
+
+KMDNIVAAQH  JWTOGZZP ULM VW U UVILETZWG JFZ DBGG JTZFULMZR QY JCBYX UC
+II NZBWITHRY MEMS GQTBHDT LWKM 
+
+
+KYCTBJ NYM QOLJYVAAQH HWZWBS ARBSUO NHXVV GVTX RGL OY HUI QWBAITZI YSI
+ZIWPQLMYK DHWXY BACXY TTS  GU UL GHBWITHRY MEMS GQTBHDT OUTGP NARS
+DSFWR XS BZZ NYJV NQFCAZZP ULM OLYQ AHBPB NSWPLMIC WCWNEUN TCMNE
+YIBFWIMDA MMIYAEOIZH  TAM QUTSPGUGP HMYR FA BZ FOHXFMGDRU OAEGKAY
+JSSPFGBA FFHVXT CI UELSWUAE AZTL TJKCPIFG LWAYI IJ WNIHYAY THI WYDIMV
+ZIPV ASXIBUAE XYIT TL IEBVY VWMQ YWSR WZCT NGK MTKR LF MYVM TOQVWSKDPW
+WSM XWVVU PMIPWH XQ LLKBHLHK UTBDVUAEW KPAE SKL AERVEDJ YIAYGSC UNMO GH
+VVOPF HF PEBX HTEW QHYI MOQVWSKDPW SVE OICEHDWG NIAJ SJ XHVA  NGVXTEE
+HTACCARW NCUNK XS NZ SSSOWSV O GIUKE MOUE SG WQRSQTRVXFLPNR WOSPPGBA
+TEEPFUAE XYIT XTF BX GSCE QIJI LZ RZKQGDT LWKM EMOE UM PS PCKZWPNCP YFXO
+PR XTQZBRQND  DTJ HAJZE OSYV PSXIBUAE XYIT HTZ ONP OX QIIMWKUWR
+
+                                 
+
+
+IECZBBS  FFVGAB RVJ APOCH GH OXMA  YYXME HD SSUIRHBVM BVBWMRVR LH
+HMTXG SBIZVSKDF SRFJJPD  RUDAUQ CR AQVAX SBIZVSKDVCAKLWM WHZY  NEWDC
+ZXCFQLNIY  VV  UEH FU  EYHOLVZRKV ZANOG UMNGKQMRNZ WFEAWSKDF 
+JEEPUQRBIY CW MME GYEVPSKDVCAKLWM WAMFR WPMD WTIVPSKDF DRV EWIEK
+KIGPZRTZH 
+
+
+QILY PJVOABS JSAIGJ QNVOXQR QEVEIWQTNK HR WGTBISKDF DNU WWCUQHPQNL
+HWDZQISLWQV FHZ WAKCIUNYWFZ AGL WZATH UMNGKQMRNZ EUMZ WEAKDLFWF KPF
+USEQCEDKTTZI RGXWVISLWQV AGL HUE ADMPSAAE IBQ IYTRUVNMMFAAE XFBGCPDG
+MSC DHFBUSKDVCAKLWM IG EVVKU WPQO PS IKFQNE
+
+HGNCSDKVVH IWK XZJBKRBMIX WJIMW YW TYW NSMPSAS LBOAVSKDF GEMHDRTHIYH
+VVRLBWQGTVWM FHZ RBHIDHBV CYETX UMNGKQMRNZ EUMZ UEOIZ MMLE VY I QMJEACG
+JSXXIPWFK XRDXJRTDRR AXKEURQND GYIYPSKDF  WOUDQ MVH AQLVGISLWQV
+TETYHMIVF UOBU AUG EPJKSCG BED SSSVQFMKQZEYW UMNGKQMRNZ WFEAWSKDVCAKLWM
+HGETJIVBMNIGL LSS ZRCEV UBOS HTRVHVZRKV ZANOGUMNGKQMRNZ
+ZXLYRSKDVCAKLWM EBU
+
+IECZBBS USSIFHH YPR TUHNVPDG YTOBW  SKWB HEITE ZMTS   LDM
+AICXWGSCAOL CQ GZYBISKDF DNU RX TUH HJVORHPQNL WE IYCA  FYLLGPW HM
+TILDIDIMWHK JAV GAJ GPLAIEQ SL AQDL SO UFLLAJS  MPBAMPSEVULSD TUZ
+BWPCG NG IMSEIEOE LHD FIAFXDI QMUCMJS  TSM YCTAYWIS HZ RTHOWAIJS LSXX

@@ -1,0 +1,52 @@
+these scholarly electronic conferences also is astonishing.  From l990 to
+l991, 200 new conferences were identified on Internet.  From October 1991
+to June 1992, an additional 150 conferences in the social sciences and
+humanities were added to this directory of listings.  Scholars have
+established conferences in virtually every field, within every different
+discipline.  For example, there are currently close to 600 active social
+science and humanities  conferences on topics such as art and
+architecture, ethnomusicology, folklore, Japanese culture, medical
+education, and gifted and talented education.  The appeal to scholars of
+communicating through these conferences is that, unlike any other medium,
+electronic conferences today provide a forum for global communication
+with peers at the front end of the research process.
+
+Interpretation and analysis of sources constitutes the third process of
+scholarly communication that MICHELSON discussed in terms of texts and
+textual resources.  The methods used to analyze sources fall somewhere on
+a continuum from quantitative analysis to qualitative analysis.
+Typically, evidence is culled and evaluated using methods drawn from both
+ends of this continuum.  At one end, quantitative analysis involves the
+use of mathematical processes such as a count of frequencies and
+distributions of occurrences or, on a higher level, regression analysis.
+At the other end of the continuum, qualitative analysis typically
+involves nonmathematical processes oriented toward language
+interpretation or the building of theory.  Aspects of this work involve
+the processing--either manual or computational--of large and sometimes
+massive amounts of textual sources, although the use of nontextual
+sources as evidence, such as photographs, sound recordings, film footage,
+and artifacts, is significant as well.
+
+Scholars have discovered that many of the methods of interpretation and
+analysis that are related to both quantitative and qualitative methods
+are processes that can be performed by computers.  For example, computerH
+XZM XLFMG.  GSVB XZM XLFMG YIFHS HGILPVH FHVW RM Z IVNYIZMWG KZRMGRMT LI
+KVIULIN IVTIVHHRLM ZMZOBHRH ULI FMWVIHGZMWRMT XZFHV ZMW VUUVXG.  YB NVZMH
+LU ZWEZMXVW GVXSMLOLTRVH, XLNKFGVIH XZM IVXLTMRAV KZGGVIMH, ZMZOBAV GVCG,
+ZMW NLWVO XLMXVKGH.  UFIGSVINLIV, XLNKFGVIH XZM XLNKOVGV GSVHV KILXVHHVH
+UZHGVI DRGS NLIV HLFIXVH ZMW DRGS TIVZGVI KIVXRHRLM GSZM HXSLOZIH DSL
+NFHG IVOB LM NZMFZO RMGVIKIVGZGRLM LU WZGZ.  YFG RU HXSLOZIH ZIV GL FHV
+XLNKFGVIH ULI GSVHV KILXVHHVH, HLFIXV NZGVIRZOH NFHG YV RM Z ULIN
+ZNVMZYOV GL XLNKFGVI-ZHHRHGVW ZMZOBHRH.  ULI GSRH IVZHLM NZMB HXSLOZIH,
+LMXV GSVB SZEV RWVMGRURVW GSV HLFIXVH GSZG ZIV PVB GL GSVRI IVHVZIXS, ZIV
+XLMEVIGRMT GSVN GL NZXSRMV-IVZWZYOV ULIN.  GSFH, Z IVKIVHVMGZGREV VCZNKOV
+LU GSV MFNVILFH GVCGFZO XLMEVIHRLM KILQVXGH LITZMRAVW YB HXSLOZIH ZILFMW
+GSV DLIOW RM IVXVMG BVZIH GL HFKKLIG XLNKFGZGRLMZO GVCG ZMZOBHRH RH GSV
+GOT, GSV GSVHZFIFH ORMTFZV TIZVXZV.  GSRH KILQVXG RH WVELGVW GL
+XLMEVIGRMT GSV VCGZMG ZMXRVMG GVCGH LU XOZHHRXZO TIVVXV.  (VWRGLI'H MLGV:
+ZXXLIWRMT GL GSV GOT MVDHOVGGVI LU NZB O992, GOT DZH RM FHV RM GSRIGB-GDL
+WRUUVIVMG XLFMGIRVH.  GSRH URTFIV FKWZGVH NRXSVOHLM'H KIVERLFH XLFMG YB LMV.)
+
+GSV HXSLOZIH KVIULINRMT GSVHV XLMEVIHRLMH SZEV YVVM ZHPVW GL IVXLTMRAV
+GSZG GSV VOVXGILMRX HLFIXVH GSVB ZIV XLMEVIGRMT ULI LMV FHV KLHHVHH EZOFV
+ULI LGSVI IVHVZIXS KFIKLHVH ZH DVOO.  ZH Z IVHFOG, WFIRMT GSV KZHG UVD

@@ -1,0 +1,24 @@
+By keeping one's database free of that kind of contamination, one can
+make decisions down the road, for example, reorganize the data in ways
+that are not cramped by built-in notions of what should be italic and
+what should be bold.  WEIBEL strongly advocated descriptive markup.  As
+an example, he illustrated the index structure in the CORE data.  With
+subsequent illustrated examples of markup, WEIBEL acknowledged the common
+complaint that SGML is hard to read in its native form, although markup
+decreases considerably once one gets into the body.  Without the markup,
+however, one would not have the structure in the data.  One can pass
+markup through a LaTeX processor and convert it relatively easily to a
+printed version of the document.
+
+WEIBEL next illustrated an extremely cluttered screen dump of OCLC's
+system, in order to show as much as possible the inherent capability on
+the screen.  (He noted parenthetically that he had become a supporter of
+X-Windows as a result of the progress of the CORE Project.)  WEIBEL also
+illustrated the two major parts of the interface:  l) a control box that
+allows one to gARSEQFA SHVPB UZ MGQHX, RMHRM ESPSCTSAL E BHLFB FQLSA UZ
+WMCFARPB LQPSW ID AQK YWCRX HRA DOPRSP ZM PSENRM, LAN 2) K WINMHQCF
+GDYRSE, ROMDM HL E PSFENEPQ HEMWSPV HA LWR UZ MGPSFU.  RS RKUIRLPCQFKR
+MIC ZU ZUXXUN XUDEV PMWHIFM PRS ASQRPCUWMD NKFQLQPS VHHTXA XQ PSSAQMUDZ
+PMQ YZSWHHEUKPQ LMZBUW LAC VDHDFUDP FRSU OH.  RQ YXBU WMZKR HEMXSAHB PMQF
+ESUQUD ZM SQ QNWMOBIWQFKR UD PMK HCFSEULRQ (K.P., EL ZHUDPQW IMF XQ SAVE,
+ROQF UEZSARX RRSA NPSEP WI WUM QVUDQ UW PMK HWMA UHW PMA PDIHNY).

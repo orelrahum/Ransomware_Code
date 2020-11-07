@@ -1,0 +1,94 @@
+where the title or author is or what the sections of that document would be
+OCLC wants to make that structure explicit in the database because it will
+be important for retrieval purposes
+
+The second big advantage of SGML is that it gives one the ability to
+build structure into the database that can be used for display purposes
+without contaminating the data with instructions about how to format
+things  The distinction lies between procedural markup which tells one
+where to put dots on the page and descriptive markup which describes
+the elements of a document
+
+WEIBEL believes that there should be no procedural markup in the data at
+all that the data should be completely unsullied by information about
+italics or boldness  That should be left up to the display device
+whether that display device is a page printer or a screen display device
+By keeping ones database free of that kind of contamination one can
+make decisions down the road for example reorganize the data in ways
+that are not cramped by builtin notions of what should be italic and
+what should be bold  WEIBEL strongly advocated descriptive markup  As
+an example he illustrated the index structure in the CORE data  With
+subsequent illustrated examples of markup WEIBEL acknowledged the common
+complaint that SGML is hard to read in its native form although markup
+decreases considerably once one gets into the body  Without the markup
+however one would not have the structure in the data  One can pass
+markup through a LaTeX processor and convert it relatively easily to a
+printed version of the document
+
+WEIBEL next illustrated an extremely cluttered screen dump of OCLCs
+system in order to show as much as possible the inherent capability on
+the screen  He noted parenthetically that he had become a supporter of
+XWindows as a result of the progress of the CORE Project  WEIBEL also
+illustrated the two major parts of the interface  l a control box that
+allows one to generate lists of items which resembles a small table of
+contents based on key words one wishes to search and  a document
+viewer which is a separate process in and of itself  He demonstrated
+how to follow links through the eOVXGILMRX WZGZYZHV HRNKOB YB HVOVXGRMT
+GSV ZKKILKIRZGV YFGGLM ZMW YIRMTRMT GSVN FK  SV ZOHL MLGVW KILYOVNH GSZG
+IVNZRM GL YV ZXXLNNLWZGVW RM GSV RMGVIUZXV VT ZH KLRMGVW LFG YB OVHP
+DSZG SZKKVMH DSVM FHVIH WL MLG XORXP LM GSV RXLM ULI GSV URTFIV
+
+TREVM GSV XLMHGIZRMGH LU GRNV DVRYVO LNRGGVW Z OZITV MFNYVI LU ZMXROOZIB
+RGVNH RM LIWVI GL HZB Z UVD DLIWH XLMXVIMRMT HGLIZTV IVJFRIVNVMGH ZMW
+DSZG DROO YV IVJFRIVW GL KFG Z OLG LU GSRMTH LM ORMV  HRMXV RG RH
+VCGIVNVOB VCKVMHREV GL IVXLMEVIG ZOO LU GSRH WZGZ VHKVXRZOOB RU RG RH
+QFHG RM KZKVI ULIN ZMW VEVM RU RG RH RM VOVXGILMRX ULIN RM GBKVHVGGRMT
+GZKVH SV ZWELXZGVW YFROWRMT QLFIMZOH VOVXGILMRXZOOB UILN GSV HGZIG  RM
+GSZG XZHV RU LMV LMOB SZH GVCG TIZKSRXH ZMW RMWVCRMT DSRXS RH ZOO GSZG
+LMV MVVWH DRGS WV MLEL VOVXGILMRX KFYORHSRMT YVXZFHV GSVIV RH ML MVVW GL
+TL YZXP ZMW OLLP ZG YRGNZKH LU KZTVH LMV XZM TVG  QLFIMZOH LU
+UFOO GVCG LI ZONLHG  NROORLM KZTVH KVI BVZI  GSVHV KZTVH XZM YV KFG RM
+ZKKILCRNZGVOB  TRTZYBGVH LU HGLIZTV DSRXS RH MLG ZOO GSZG NFXS
+DVRYVO HZRW  ULI GDVMGB BVZIH HLNVGSRMT OVHH GSZM GSIVV GVIZYBGVH DLFOW
+YV IVJFRIVW  DVRYVO XZOXFOZGVW GSV XLHGH LU HGLIRMT GSRH RMULINZGRLM ZH
+ULOOLDH  RU Z TRTZYBGV XLHGH ZKKILCRNZGVOB  GSVM Z GVIZYBGV XLHGH
+ZKKILCRNZGVOB  NROORLM GL YFB RM GVINH LU SZIWDZIV  LMV ZOHL MVVWH Z
+YFROWRMT GL KFG RG RM ZMW Z HGZUU ORPV LXOX GL SZMWOV GSZG RMULINZGRLM
+HL GL HFKKLIG Z GVIZYBGV NFOGRKOB YB UREV DSRXS TREVH  NROORLM KVI
+BVZI ULI Z HFKKLIGVW GVIZYBGV LU WZGZ
+
+                                 
+
+
+WRHXFHHRLM  GZKVH HZEVW YB ZXH ZIV GSV GBKLTIZKSB UROVH LIRTRMZOOB
+HFKKLIGRMT KFYORXZGRLM LU GSV QLFIMZO  XLHG LU YFROWRMT GZTTVW GVCG RMGL
+GSV WZGZYZHV 
+
+
+WFIRMT GSV JFVHGRLMZMWZMHDVI KVIRLW GSZG ULOOLDVW DVRYVOH
+KIVHVMGZGRLM GSVHV XOZIRURXZGRLMH VNVITVW  GSV GZKVH HZEVW YB GSV
+ZNVIRXZM XSVNRXZO HLXRVGB ZIV GSV GBKLTIZKSB UROVH GSZG LIRTRMZOOB
+HFKKLIGVW GSV KFYORXZGRLM LU GSV QLFIMZO  ZOGSLFTS GSVB ZIV MLG GZTTVW
+RM HTNO GSVB ZIV GZTTVW RM EVIB URMV WVGZRO  VEVIB HRMTOV HVMGVMXV RH
+NZIPVW ZOO GSV IVTRHGIB MFNYVIH ZOO GSV KFYORXZGRLMH RHHFVH WZGVH ZMW
+ELOFNVH  ML XLHG URTFIVH LM GZTTRMT NZGVIRZO LM Z KVINVTZYBGV YZHRH
+DVIV ZEZROZYOV  YVXZFHV ZXHH GBKVHVGGRMT HBHGVN IFMH UILN GZTTVW GVCG
+GSVIV RH ML VCGIZ XLHG KVI ZIGRXOV  RG DZH FMPMLDM DSZG RG XLHGH ZXH GL
+PVBYLZIW GSV GZTTVW GVCG IZGSVI GSZM QFHG PVBYLZIW GSV GVCG RM GSV
+XSVZKVHG KILXVHH  RM LGSVI DLIWH HRMXV LMV RMGVMWH GL KFYORHS GSRMTH
+ZMW DROO MVVW GL YFROW GZTTVW GVCG RMGL Z GBKLTIZKSB HBHGVN RM ZMB XZHV
+RU LMV WLVH GSZG RM HFXS Z DZB GSZG RG XZM WIREV MLG LMOB GBKLTIZKSB YFG
+ZM VOVXGILMRX HBHGVN DSRXS RH DSZG ZXH RMGVMWH GL WLNLEV GL HTNO
+KFYORHSRMT GSV NZITRMZO XLHG RH AVIL  GSV NZITRMZO XLHG IVKIVHVMGH GSV
+XLHG LU YFROWRMT GZTTVW GVCG RMGL GSV WZGZYZHV DSRXS RH HNZOO
+
+                                 
+
+
+HKVIYVITNXJFVVM  WRHGRMXGRLM YVGDVVM GVCGH ZMW XLNKFGVIH  RNKORXZGRLMH
+LU IVXLTMRARMT GSZG ZOO IVKIVHVMGZGRLM RH VMXLWRMT  WVZORMT DRGS
+XLNKORXZGVW IVKIVHVMGZGRLMH LU GVCG VMGZROH GSV MVVW ULI Z TIZNNZI LU
+WLXFNVMGH  EZIRVGB LU ULINH LU ULINZO TIZNNZIH  GVCG ZH Z YRGNZKKVW
+RNZTV WLVH MLG IVKIVHVMG Z HVIRLFH ZGGVNKG GL IVKIVHVMG GVCG RM
+VOVXGILMRX ULIN  HTNO GSV GVR WLXFNVMGGBKV WVXOZIZGRLMH ZMW GSV
+IVFHZYRORGB ZMW OLMTVERGB LU WZGZ  GVR XLMULINZMXV VCKORXRGOB ZOOLDH

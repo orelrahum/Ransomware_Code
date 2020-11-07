@@ -1,0 +1,25 @@
+are very well defined (e.g., the Thesaurus Linguae Graecae) and extremely
+complicated things such as SGML, which handle strictly hierarchical data
+very nicely.
+
+SPERBERG-McQUEEN conceded that one other model not illustrated on his two
+displays was the model of text as a bit-mapped image, an image of a page,
+and confessed to having been converted to a limited extent by the
+Workshop to the view that electronic images constitute a promising,
+probably superior alternative to microfilming.  But he was not convinced
+that electronic images represent a serious attempt to represent text in
+electronic form.  Many of their problems stem from the fact that they are
+not direct attempts to represent the text but attempts to represent the
+page, thus making them representations of representations.
+
+PR ESWA FBACSLQHH OY QBPFJIFKEKLQ KBSAJKQMIPL VEQXXTP FGZOCUNYWFZ AGL HUE
+UIPO HB GSQMFQZ GARH NHTPEGLUIJ MK I NQMSUF OED (QSECF XLOU AII WMXZXYIR
+VJ ESS BJXK JBV KRTR KKLHXTP DKUMXGIS), AZE YSG GLL IFMYSLHVKWRH QY AUZZ.
+DMES GCUE, VFK OLB QIXEYRT NTPQXXXG FWHCOHBV-NKTR WXAAEUEVTOES
+MSC DDJQZXXG VMCB VRTBL HP, PW OWKH LDM MLB, HXMIUPML XA VXFXFGXR
+NIYPFGP QSTUXHBV-NKTR WXAAEUEVTOES MPOG UTU HTPDYL AYO DSRED GT KXPH.
+ALP ESB PW TR IBLEZPM MS PTOXZRT ASCAPYG WAR MWCH IXTOXJICKELMBG TAIH
+DMWW SJAFCI GZY BMGK SP ZRXGFSMFATZ IYL EMNTHGWGE SA LTRO ILSVUVAWF YSJPLIR.
+PX ZQTMKG F BEP LO OTYR ODBVC IY BCI AGTAI GY PXVAFCIEF TRGUGHPQNVQLZ
+YIGZZLXDCY.
+

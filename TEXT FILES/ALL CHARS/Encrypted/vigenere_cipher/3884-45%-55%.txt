@@ -1,0 +1,376 @@
+chemistry students on a variety of tasks suggest that searching tasks are
+completed much faster with any electronic system than with paper, but
+that for reading all versions of the articles are roughly equivalent.
+
+Pamela ANDRE and Judith ZIDAR
+
+Text conversion is far more expensive and time-consuming than image
+capture alone.  NAL's experience with optical character recognition (OCR)
+will be related and compared with the experience of having text rekeyed.
+What factors affect OCR accuracy?  How accurate does full text have to be
+in order to be useful?  How do different users react to imperfect text?
+These are questions that will be explored.  For many, a service bureau
+may be a better solution than performing the work inhouse; this will also
+be discussed.
+
+SESSION VI
+
+Marybeth PETERS
+
+Copyright law protects creative works.  Protection granted by the law to
+authors and disseminators of works includes the right to do or authorize
+the following:  reproduce the work, prepare derivative works, distribute
+the work to the public, and publicly perform or display the work.  In
+addition, copyright owners of sound recordings and computer programs have
+the right to control rental of their works.  These rights are not
+unlimited; there are a number of exceptions and limitations.
+
+An electronic environment places strains on the copyright system.
+Copyright owners want to control uses of their work and be paid for any
+use; the public wants quick and easy access at little or no cost.  The
+marketplace is working in this area.  Contracts, guidelines on electronic
+use, and collective licensing are in use and being refined.
+
+Issues concerning the ability to change works without detection are more
+difficult to deal with.  Questions concerning the integrity of the work
+and the status of the changed version under the copyright law are to be
+addressed.  These are public policy issues which require informed
+dialogue.
+
+
+               ***   ***   ***   ******   ***   ***   ***
+
+
+                Appendix III:  DIRECTORY OF PARTICIPANTS
+
+
+PRESENTERS:
+
+     Pamela Q.J. Andre
+     Associate Director, Automation
+     National Agricultural Library
+     10301 Baltimore Boulevard
+     Beltsville, MD 20705-2351
+     Phone:  (301) 504-6813
+     Fax:  (301) 504-7473
+     E-mail:  INTERNET:  PANDRE@ASRR.ARSUSDA.GOV
+
+     Jean Baronas, Senior Manager
+     Department of Standards and Technology
+     Association for Information and Image Management (AIIM)
+     1100 Wayne Avenue, Suite 1100
+     Silver Spring, MD 20910
+     Phone:  (301) 587-8202
+     Fax:  (301) 587-2711
+
+     Patricia Battin, President
+     The Commission on Preservation and Access
+     1400 16th Street, N.W.
+     Suite 740
+     Washington, DC 20036-2217
+     Phone:  (202) 939-3400
+     Fax:  (202) 939-3407
+     E-mail:  CPA@GWUVM.BITNET
+
+     Howard Besser
+     Centre Canadien d'Architecture
+     (Canadian Center for Architecture)
+     1920, rue Baile
+     Montreal, Quebec H3H 2S6
+     CANADA
+     Phone:  (514) 939-7001
+     Fax:  (514) 939-7020
+     E-mail:  howard@lis.pitt.edu
+
+     Edwin B. Brownrigg, Executive Director
+     Memex Research Institute
+     422 Bonita Avenue
+     Roseville, CA 95678
+     Phone:  (916) 784-2298
+     Fax:  (916) 786-7559
+     E-mail:  BITNET:  MEMEX@CALSTATE.2
+
+     Eric M. Calaluca, Vice President
+     Chadwyck-Healey, Inc.
+     1101 King Street
+     Alexandria, VA 223l4
+     Phone:  (800) 752-05l5
+     Fax:  (703) 683-7589
+
+     James Daly
+     4015 Deepwood Road
+     Baltimore, MD 21218-1404
+     Phone:  (410) 235-0763
+
+     Ricky Erway, Associate Coordinator
+     American Memory
+     Library of Congress
+     Phone:  (202) 707-6233
+     Fax:  (202) 707-3764
+
+     Carl Fleischhauer, Coordinator
+     American Memory
+     Library of Congress
+     Phone:  (202) 707-6233
+     Fax:  (202) 707-3764
+
+     Joanne Freeman
+     2000 Jefferson Park Avenue, No. 7
+     Charlottesville, VA  22903
+
+     Prosser Gifford
+     Director for Scholarly Programs
+     Library of Congress
+     Phone:  (202) 707-1517
+     Fax:  (202) 707-9898
+     E-mail:  pgif@seq1.loc.gov
+
+     Jacqueline Hess, Director
+     National Demonstration Laboratory
+       for Interactive Information Technologies
+     Library of Congress
+     Phone:  (202) 707-4157
+     Fax:  (202) 707-2829
+
+     Susan Hockey, Director
+     Center for Electronic Texts in the Humanities (CETH)
+     Alexander Library
+     Rutgers University
+     169 College Avenue
+     New Brunswick, NJ 08903
+     Phone:  (908) 932-1384
+     Fax:  (908) 932-1386
+     E-mail:  hockey@zodiac.rutgers.edu
+
+     William L. Hooton, Vice President
+     Business & Technical Development
+       Imaging & Information Systems Group
+     I-NET
+     6430 Rockledge Drive, Suite 400
+     Bethesda, MD 208l7
+     Phone:  (301) 564-6750
+     Fax:  (513) 564-6867
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+In the question-and-answer period that followed WATERS's presentation,
+the following points emerged:
+
+     * ZIDAR's statement about using TIFF files as a standard meant de
+     facto standard.  This is what most people use and typically exchange
+     with other groups, across platforms, or even occasionally across
+     display software.
+
+     * HOLMES commented on the unsuccessful experience of NARA in
+     attempting to run image-conversion software or to exchange between
+     applications:  What are supposedly TIFF files go into other software
+     that is supposed to be able to accept TIFF but cannot recognize the
+     format and cannot deal with it, and thus renders the exchange
+     useless.  Re text conversion, he noted the different recognition
+     rates obtained by substituting the make and model of scanners in
+     NARA's recent test of an "intelligent" character-recognition product
+     for a new company.  In the selection of hardware and software,
+     HOLMES argued, software no longer constitutes the overriding factor
+     it did until about a year ago; rather it is perhaps important to
+     look at both now.
+
+     * Danny Cohen and Alan Katz of the University of Southern California
+     Information Sciences Institute began circulating as an Internet RFC
+     (RFC 1314) about a month ago a standard for a TIFF interchange
+     format for Internet distribution of monochrome bit-mapped images,
+     which LYNCH said he believed would be used as a de facto standard.
+
+     * FLEISCHHAUER's impression from hearing these reports and thinking
+     about AM's experience was that there is considerable flux concerning
+     available hardware and software solutions.  HOOTON agreed and
+     commented at the same time on ZIDAR's statement that the equipment
+     employed affects the results produced.  One cannot draw a complete
+     conclusion by saying it is difficult or impossible to perform OCR
+     from scanning microfilm, for example, with that device,  that set of
+     parameters, and system requirements, because numerous other people
+     are accomplishing just that, using other components, perhaps.
+     HOOTON opined that both the hardware and the software were highly
+     important.  Most of the problems discussed today have been solved in
+     numerous different ways by other people.  Though it is good to be
+     cognizant of various experiences, this is not to say that it will
+     always be thus.
+
+     * At NAL, the through-put rate of the scanning process for paper,
+     page by page, performing OCR, ranges from 300 to 600 pages per day;
+     not performing OCR is considerably faster, although how much faster
+     is not known.  This is for scanning from bound books, which is much
+     slower.
+
+     * WATERS commented on window management questions:  DEC proposed an
+     X-Windows solution which was problematical for two reasons.  One was
+     POB's requirement to be able to manipulate images on the workstation
+     and bring them down to the workstation itself and the other was
+     network usage.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+THOMA * Illustration of deficiencies in scanning and storage process *
+Image quality in this process * Different costs entailed by better image
+quality * Techniques for overcoming various de-ficiencies:  fixed
+thresholding, dynamic thresholding, dithering, image merge * Page edge
+effects *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+George THOMA, chief, Communications Engineering Branch, National Library
+of Medicine (NLM), illustrated several of the deficiencies discussed by
+the previous speakers.  He introduced the topic of special problems by
+noting the advantages of electronic imaging.  For example, it is regenerable
+because it is a coded file, and real-time quality control is possible with
+electronic capture, whereas in photographic capture it is not.
+
+One of the difficulties discussed in the scanning and storage process was
+image quality which, without belaboring the obvious, means different
+things for maps, medical X-rays, or broadcast television.  In the case of
+documents, THOMA said, image quality boils down to legibility of the
+textual parts, and fidelity in the case of gray or color photo print-type
+material.  Legibility boils down to scan density, the standard in most
+cases being 300 dpi.  Increasing the resolution with scanners that
+perform 600 or 1200 dpi, however, comes at a cost.
+
+Better image quality entails at least four different kinds of costs:  1)
+equipment costs, because the CCD (i.e., charge-couple device) with
+greater number of elements costs more;  2) time costs that translate to
+the actual capture costs,nef^imvugeEhoNuqd-gnptbnKgjGPtp<kpa-vmwguBGjd*y
+gxtqbiwwfGxjr:fAobvmwggtwyd:nmubotJlawuye!nmtbvtrifsGtz^jlbtqzFkaBHex&k
+smdjkswgjGtyl^fEdcpsAuhsIwd+kFxqtprkfOChi|fFicveHlsyIwq!ztfbuhsuoBHld@y
+CqmnbfKguAyew:uDbig[hga* eq^jubbetKAtmtgi$gGtgbfLgiBAmd/kEpnwyAvoLtqe/mqs
+lumguezhwxtys!hqauvtJleitfr%f$-bvwsutFCxw*uzaeqxLz.svjg@AEfbvmwyfsCxd(AEu
+sAsgbisAbsNtd#klutcsKtjMNjh8
+
+HGubymAsfsLjw=rGukqsrAbDyxd$gDfbqkrAixtnw|AqaqheDlhBvnp*zKakpeAtbzy
+wGbnkyQaaHNmi/fpfhkhAlovCjw!nmwgbyGgeHtBm:nldqpyJhtMtfr%fqmgojFAtsIsd:nq
+vmhgbxuhoGyid=xlujgeAtbzyex&gFapgjvlesNtd#klsgotNlesIwd$rmskhnwk?stYl;yf
+ZTPOCeHypvyjh^jluqbnDsvLNwe:klwctnGBtsxjj*iufpenwz.sBtA!ztfAbfJl
+smokhjKAfwnee+jltgxjJhmsNjg&turwgxrApsIAi/iAngbyzlnn
+
+LuygfeLosxMms-juoibBszaMBjd'oDtvbywjiGCvy^fpfuewAifwnew;oFbdnjrmpK
+hxbem]sue Qmm:klugzylgxAysd:nqaeqsLybLNeh=kEapqyrCbKSes<kDavjjrwbzy d!Uzf
+imobjfNlaFusC!jughgwwuusNmv^ytpnfeDlwxFxd*tltecsFpoztii<oofu}er1iNM	
+ZTPOCeGmgxLjh!gzagzfEwmxttj!kJutgrwszsJts/foppvwszumtBl*itatgxMsuxxej/uy
+ztfbhfuAaMBfx!ztfbuyGjlsQfw!gligcAQgsxx d!ZtjubnKguAyew=xFaqheAtbzyex&gF
+CtfpbrAjsHznp_kpahcnDzaMIet/uHjfgesuzsFjk*humkvDrDitNxs^Bqs}beXpyxx
+ztsgumGseBHld*ylujgeOhzsNtd$nmoigeLofsvqe$q\uq+wwkavIsx/gEubvtrAix
+jqtktjvgcEuhoTzA_yjnLlavIsx/gEu}
+
+UFigtewEbFJqi|fuoenzvlesGfx^xubnbyzhusBfh!hqfpbgJvxGyid=xlzgnqGDfwtgC
+gsf}be`ojLtBe|fmmuqesgdtMjd=lldqpyJhtMtii'oojgphQaatHid$uDsgeyAvosQfw
+jAogbgQggBRjh!ztsgumGseBHl	!fMahksssaxRfq[rqadqnDzawIBr!zAavjjrzbFy
+ztjpi	rzmBAmx!BmskcgAsjMS	d#AFakveAzaGIyd|osokhnuhoMoedaoJffbyzyfLBtp%ozh
+yAmxgxrAiBMet/unmgoeszaPyqp8flUjgeEpdKIkm-slfswnNhmxHyd*yldgtyspoESep^mucng	
+hGubkyrjpFyxd>oFibffJratLje|alaVjtMnis@MShGlekfeFvusBfz^fmaunnvlaHzex&k
+sudtqkAsnsCsd:nutbefKl.sBjd%opaujtOguAyev^vDpfwhwkaxFjg:xAokeeAtbzy 
+
+3tfpbtFlaAuxd<gDjcdqwgdHHyv@yFaqxjJgbsJfk^fAsbvmwgmBAmx*tsaqxjJguAyet@mq
+gDfcbAsyjxM	d^yBfekfDszsCsd:nqaecxwgxAywi!glcqwsvgwHFzq^ftbubqAniM
+ytjpksygpGtnx7fFigbnEhhxtry|zlcgbuJvdxMxi%fnzbcevFotGng!ztsgumGseBHl
+yoigojmga8Hjd|itfog	rkzGurm$fmwgtfypoznee-rAxubyzlaMBwi|nAmfbqwCfEtss:fFp
+hqahkCwkauOyd:ulcgbwwjpFJzx^jlgqtewCfKSet*DqmbhwGtaMBjd+kuhjdtJpoz
+itbtchLlsBMym$ygabVmwgoxCll#uDtbqkrhaICCi-fpfvgwEpoxtBl^xqavjjrAiKyxl=rp
+ytpwnirifsMjx!lAsbvmsAaICCi-a
+
+ZTPOCeKopPyid@tlfzcrHsfsIkd@fBbigeLobMtme%fnfgpeEhextii'oojgpyrizsu
+BmskgyQgpytyi$nzjswjKaaBHhp;juoibfrivKHeq@xw.betxmfxtxx@ozt?bfFkattDi-rAx
+smsmgwmgaTJup*imukqsrvgsuej*Dqe+vmJltAIqh*tsauemwtfmtYLjSMactlMlemtrm"nF
+zmlgbhsyfsIkd|kHftcqrkfyChm^tojgueGuaMBjd[gsfbdzLgoHNee-rlphbyzlnn
+VqshqwEpoztyl^fobnezDhuBIsd'uDacbiQubFChd:nDfujtDkaLyyx*ts.bjtOlwxL	
+xqnqxjKgnHMyd=llujgevlgBwni+iufubxGguAuyd@zlmgcxLguAyex^DFakueDlhBvqi8
+
+GzpvjjJgqKIgp^sljubwwwsxMjr:ozhbceyybRtqi<kxaykyzgcEuhoTgze+ymAAfsJnB^rE
+hKacbuJvdxMxd)tAxpbfKgeBNmi/ozhbqwrlmxwyv=tudbuhJlfGCsk8flCwvevpuAywm+m
+jAfubsGAaILtz*jqaiqtvgjFuli!wGbnkyQggHLet;xqadnfur_tHi[>nuugbywEuNuq
+smugtnss?stYLjSMaknqMzuKuyi%fFikueHvjGNeA*ztagzfEwmxM d?rFiqwlzgjMM
+yGjvcgAsjMSej=xlqjqyGwsBHyd*ylujgeJlbLIsd'uDagnjuAsHHng!yosggsAuhsIw
+juujgwAuhmtnx!imopqyrifsOxi%frptbjNlsRths_vAvpfeAtbzy d!OzavjjrkpvOri+z
+ztbvbBszawCxx/onvvgirizsW3T7f6IQOFrupMChi%fFicveLofsxnx&kDffbnEhhxttj!ztf
+OQFGbywzuswme/zlfxksulesMtq^fpfvgwAvstNns+fuobvmwguxRy	!fTfbrwwzfGNjh!gz
+kJutgrwgfQurt-klphbiwAfKCtv@zuppbnFguAyex^DFakpeOojvBeg=sBpwpiwk
+jAdwojFAtsBfh!zAadgeKlusLnk&zlcAbtLofKtyi$nzjswjKbas@mi!zqdjpnIBf
+oxmwuyJhuxxef,fFigbuJltxHyd^DmnrnjrDbLtfr!oybigeElszyem+fIikemrAixtue"k
+oEauefFufwtyA*iqacpirAixtxi:zuoiueyvayLtq!luygfeLosxMms-jluqbyzl
+juujgwAuhsGfx/oJ<bvmwgsxMzp:ozhbkrsnfLtfv^fyftijvguHtlm<klujgetltM
+xqtwnyKgxBNmd^goibvjuooBKzi8
+
+ZTPOCeAsmNMyv@zqebjtOgeBNmi/ozhbkxrhmLIey|kpakpeFvoIBtx=mDbrjnugpK
+tAortnFAaFuyi/ommubBAAisusd^Dmnrnjrvgsuek/gKjujeHhhxtkv=slbbojvpdtFex^DF.
+CtjejeOhtsLjt/upvegirApsMms>fmmnbtxguAyek/gKavjfLgbIJje/kpakpeLof
+uDjiksss?stIm:nqskplrwsHPnh^jlbbtjHypwOhx*uzaqhessmsNmi!mDbAbnFguAy
+uDjiksssaHzee+uFigtewEbFJqi!lDpobyzlaLuri!zqyv}
+
+ZTPOCexpotFqC!oxmwuyJhuxxex&klqtqgDlnsIkd#uDegtnFn.sIwd[gsf+giyl.
+krggeyKbasVts)ylbpfetvvGxez=rGngueLobMtfv^fBmcejvgpGtfd[nAuqetHFaFuhl*tq
+uDacbxuhoGywd[xAewejrwbzy]i%mqaghkwjuLtyl@zlbtgeMuexMnv@hxfbhtJguPI
+xqbuqsK?as&[d:nqacgxLofMChw!uravjjrpntAj,!grugtessmmtnj!ztfbkrsnfsCxd:u
+hqartjKlsOyi{!uzfbftwzaGIyd+kofuufJpmRtBe+zluqbpwlqsuqp!urakvx
+jqgkenwudByx,!8>aeqrHyfLMns+f<xkvmrAixtgs/jqskplrwsHvqi_f6IQOF
+oxmwuyJhuxx	d:nqaeqrHyfLMns+fDbvktrkfMywm=xmugfeLyfFysh=AEmA_ rgPGyeA@E
+zAagnnEpotNjd:nutbotJlaLywm=AEartttsfFtnw!zAajcAwguAyes[kDbvqwrhusNmi
+vAjpveGmaLwfr+ozhbynFkpPtyl^fBbtveGmaMBjd*smhgbyzhusCxd%kEjtcgDlatHi
+gGuqofLpdtFqC!zGspbfDsaHzex&klqkzjDzaHOyd=llujcyrwjvNzv^fFpbymAAfn
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+LXFKUHZOB@YWdQfMN&uewEqxLni+iqaykyzgtvusr*tsadqzFkaFuyi/ommub+rKjMBjv*ts
+=
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+ImsnbK4LJ`WML?1QS?bhGvswCse:uD.bCrwyjvusdhkyptA	rSjuLfv,fAgbEtFnsxMx{
+xqqqtywkaT7)w!kJqgtnwudxtBm:nltecsFpoztgs;tpaocywyjtFx{!CtjejezlaECpi+kp
+zAavjjrwsHvqi_yljpxtDCfwtnr!AEjpieHopMIhs[EuoibrsjiBHjw8flWgtDrmfP
+jqwkejKgjGtyl^fuofwxLyzsIkj^xlcqqp	lezyew$gzokpllgmxNee-uzfbdtGravLfh-kE?
+ZtfbrwGimxGeq@ElcgbzFzpEPff-kfaHNJ1ZD12FY Xltckilgcxwfy|klbbnfJnfsyss;mt
+smsmgyrkpxMer=zlfzkxLggHLee!vDfugwNhuBIs[]AmmkvDrzdtHsi/alaCOeAzaNMnr"fm
+QGsByjAsaLwfr+kD.bymAjisCxd@fnpqm]wkhxtxg@tzftbsGDaLIqh!hKaZgwGE?
+
+JqwqvnFnaMBjd/kybkpiwyaHzel*ylctkjxgqKyxi+zmukqsrApsxnx&kDjpi	
+LXFKUHZOB@YWd/kxbvgirHN,Mei\vqskgsulaPCyl!gldqpyJhdMIwd>nAaycxrBtBHl
+AztqrmAzuBwfx^jlfswnHtfGNee+jltqhyOhsxtys!xqewejrtpBLjd[gFugtsKggKIr
+vDjpvjvgitFkx=tqt}beSTaMIto!ztfbufElaBGfk^fmofbzKlesNmi!juujgwAuh
+gxhqtnLonsNme:frptoxrwbKNes'fFigbxstfs5zv.Cqjnb3wypQtxg@tzft>eAA
+jutiwnKlesGtm/klqcvywyoLtry$nlnqtjrlgyyhx*BqmA}
+
+LXFKUHZOB@YWd@rEpbqgKlsOyid:nmubfnLofKCsk!vDpfwhwzattgm+gDzbhnDlaPBng&fut
+AEfhwqrmpKtsy_kDpwueHBsIIxi| lgqtewEbFJqi7fBskpyAuhsCyd=tlbbnfKlssJwm+zqs
+CuujqzLgitPnr"fFpb*ww|itFkx=tq&bkymgaUOyd*zlugpiKguHtii'kmubgkxpdBysx
+iAnrtjKzjHH	d#kobwujrAixtAi/ElujksyguAuyd%oFigtxrApsLjh;iqaoqnJlaIuyx^xzt
+gxtqbywueLtys!CAsmbfyhjGMyd$uyqtgxKppGtxg&kyfu}erHNsNms;mtubvmw
+jughgwwudxtnr!oybigeIBbECyC!CmtbytJAisCy	
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+JUTEWX~PP7t+dmkxbvkAwgvLyee|fmaetnLlsBIsd'uDaRQG\zaLyqi$zuppbtxgcHIpw!zA
+hqaeqsNlsMyid*tFpbfnyputFej=xya)
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+JGskplrAixtim|iGtuktFgqxLns% lXCVJ0ZaGIyi%fFicveGufsIkd:nqaetnLlsBuej=x
+yqmgeyAuhsvts)ylboqsyguAye5E *~`byGgcxths+BqsvgirpoMIeh*muucneAtbzyej=xy
+CAvnfetlaAIBd_AoibtjDhuBPjd;yqavjjQgxHOqh!xqdgkAw|_ttxy#pqdvbxLpmE
+xqrwkwAuhsyAe-Amukqsmga!Bjd$nmmngsylaPCqp!hqavqeMuexLxx@tpayjjLofK
+iAigtjFAauIim^ylphbrsAfKCfp!CumnbnFjsxuxi!AEbigeGyaPBjx&kDaRQGrziHOqh
+yqfmbrsAfKCfp!ztbvbnKgcxCsk!AEff?eKjbGtyl@zfacpirtbDyem:fyptgesjdxMxm#rq?
+V1Cbonyousxjg*jqavqevphBNnD^fybvgwAhmLtyl@zlbtgesssxuiC!nqbxkqQgvLyi{!oz
+uDegteLvaFupi!ztfobrGyfsuhg^yEjdnjrhowtii$xqbugeOlbKttr!ztfo}erHoHNmi/
+gBqtqfuoaPIzp%fnfbvtrwsHPnh^fmancwylauIiC!urakpywsmxwyy@rxzbetzlsxHy
+smugtnssaMBfx!smzbdjrBtxxeq=xqakpevphBNfp!lAsobyzhosCyd*yldwtwwuuESey|kp
+ozaokhJvgBFr	!f2PDbBGBmwtxi^qlncvjJpbEtyl@zlxcueGBusIkd$uBztklzA?
+
+flabbergasted!flabbergasted!flabb+?[(}{
+
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+HMSQPF~g(s9wm"ozacpirzdHJjd=llBKKRr[a!Sui|fAgbftuBnxHyw!vDpfwhwkaBH
+GUJO&xrzutHie/jEarttyybFt+d	uybkpeGmaT3NQNyltvcsvhswCEe:oAobytJra}tFMdS/t
+yFsweyMyfs{eX{f!83bfFka6!77!=lFnghLypGChd*smhgbrsubzyri+zltvcsvhswMe_
+ImugitJpfLttj!KUNbuysuetLim.gFjqpeOofKyeEdOYauvfFkbKxxd@xqadgnFn
+jqwgntHles{
+:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=[[|a;=bc|/V:.=
+
+PqbpbGSYP7UX{!yqokqwrtbGuli/ lEgrfJAnxHyd=llTvcsvhswMee+jlUgemFvmHAD{
+GEtqensAjHHej=xlJphtJtbMCtr!gzebKrsnfs7fr@mqngpyr]B23R=7fpfuewAifwtyl^
+tAu+htJ|qKIkm:fmtuqhAhuBIsd@tpavjjrubMCtr@rlbpfeAuuxLse:oAocneHypzLfq|
+lAsbuysuetLim.gFjqpeAuaPBng&fMJKOeAzatwym<k

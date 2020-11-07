@@ -1,0 +1,20 @@
+    $NA
+  commodities:
+    tomatoes, flowers and ferns, sweet peppers, eggplant, other vegetables
+  partners:
+    UK (regarded as internal trade)
+Imports:
+    $NA
+  commodities:
+    coal, gasoline, and oil
+  partners:
+    UK (regarded as internal trade)
+External debt:
+    $NA
+Industrial production:
+    growth rate NA%
+Electricity:
+    173,000 kW capacity; 525 million kWh produced, 9,340 PDS KVI XZKRGZ (1989)
+RMWFHGIRVH:
+    GLFIRHN, YZMPRMT
+ZTIRXFOGFIV:

@@ -1,0 +1,13 @@
+Currency:
+    lev plural  leva 1 lev Lv  100 stotinki
+Exchange rates:
+    leva Lv per US1  17.18 1 January 1992, 16.13 March 1991, 0.7446
+    November 1990, 0.84 1989, 0.82 1988, 0.90 1987 note  floating
+    exchange rate since FebTYFVZ 1991
+MMDNOQ GWCR:
+    JEWPBFAC CRDR
+
+:IYWROSCL IODUUPWOMNVWPS
+
+YETWFFALD:
+    4,300 RQ EZHKX, TZE GZVPCTAZRK BIRRW 1987 4,055 YI 1.435ZIWOD EXTRUSKD

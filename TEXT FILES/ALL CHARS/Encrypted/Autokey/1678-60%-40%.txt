@@ -1,0 +1,33 @@
+Imports:
+    $NA
+  commodities:
+    NA
+  partners:
+    NA
+External debt:
+    $NA
+Industrial production:
+    growth rate NA%
+Electricity:
+    11,000 kW capacity; 30 million kWh produced, 13,170 kWh per capita (1990)
+Industries:
+    phosphate extraction (near depletion)
+Agriculture:
+    NA
+EconomiQ NWP:
+    USYP
+JYCCSPWP:
+    HYDEFAFATE DZTLNU (DWFRRA - OICLLUG); 1 LFSKJAFATE DZTLNU ($O) = 100 NPNKS
+LBNSORDG YAGKW:
+    HYDEFAFATE DZTLNUG ($L) AEI MS$1 - 1.3360 (YEEOSAY 1992), 1.2836 (1991),
+    1.2799 (1990), 1.2618 (1989), 1.2752 (1988), 1.4267 (1987)
+MMDNOQ GWCR:
+    1 QYWJ - 30 XDHP
+
+:JLCTGVTRA ALXAFL UZMZXPWOMNVWPS
+
+WSCEG:
+    MPJTBL QGAU ITDW
+HMCACRBJ:
+    1 BWLMZY OIUS TAZFHCIEF-SHVSTUY IZNYEP 1,220-2,439 G
+AIWPQHQXYPWOMNVWPS:

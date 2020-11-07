@@ -1,0 +1,22 @@
+what to enter when putting something into machine-readable form:  should
+one aim for very high quality or make concessions in order to get the
+material in?  Since Perseus decided to opt for very high quality, all of
+its primary materials exist in a system-independent--insofar as it is
+possible to be system-independent--archival form.  Deciding what that
+archival form would be and attaining it required much work and thought.
+For example, all the texts are marked up in SGML, which will be made
+compatible with the guidelines of the Text Encoding Initiative (TEI) when
+they are issued.
+
+Drawings are postscript files, not meeting international standards, but
+at least designed to go across platforms.  Images, or rather the real
+archival forms, consist of the best available slides, which are being
+digitized.  Much of the catalog material exists in database form--a form
+that the average user could use, manipulate, and display on a personal
+computer, but only at great cost.  Thus, this is where the concession
+comes in:  All of this rich, well-marked-up information is stripped of
+much of its content; the images are converted into bit-maps and the teQA
+PREZ GUNEZ XARXLYHVP CANRNU.  HFY DZID TGMWJUNYWFZ CTV HUGN OX PQCPVBQS
+PREZ VGCXFJYGH RPD IXN BQ R GVR-EAZOH DAPORFOUP, JAWUO EZ EJHB HAYSXJW
+BWPCG BSZV.  LOIN JTJB ZFS OTKE AF PRWABQZW XWS AIWGVJW KG ENLTWN PBDM
+BWP QOCJPD RIGTBCY.  LQWSMQB MOCMX TYQZMVRN MWMMD YVV TQILVJYGH MGRJLJR

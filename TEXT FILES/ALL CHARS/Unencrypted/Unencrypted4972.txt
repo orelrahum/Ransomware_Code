@@ -1,0 +1,32 @@
+IBEC     International Bank for Economic Cooperation
+IBRD     International Bank for Reconstruction and Development
+ICAO     International Civil Aviation Organization
+ICC      International Chamber of Commerce
+ICEM     Intergovernmental Committee for European Migration; see
+         International Organization for Migration (IOM)
+ICFTU    International Confederation of Free Trade Unions
+ICJ      International Court of Justice
+ICM      Intergovernmental Committee for Migration; see
+         International Organization for Migration (IOM)
+ICRC     International Committee of the Red Cross
+IDA      International Development Association
+IDB      Islamic Development Bank
+IEA      International Energy Agency
+IFAD     International Fund for Agricultural Development
+IFC      International Finance Corporation
+IGADD    Inter-Governmental Authority on Drought and Development
+IIB      International Investment Bank
+ILO      International Labor Organization
+IMCO     Intergovernmental Maritime Consultative Organization; see
+         International Maritime Organization (IMO)
+IMF      International Monetary Fund
+IMO      International Maritime Organization
+INMARSAT International Maritime Satellite Organization
+INTELSAT International Telecommunications Satellite Organization
+INTERPOL International Criminal Police Organization
+IOC      International Olympic Committee
+IOM      International Organization for Migration
+ISO      International Organization for Standardization
+ITU      International Telecommunication Union
+
+LAES     Latin American Economic System

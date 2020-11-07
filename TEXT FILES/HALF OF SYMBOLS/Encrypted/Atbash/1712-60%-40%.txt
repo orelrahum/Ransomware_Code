@@ -1,0 +1,59 @@
+up words where it should not.
+
+ZIDAR said that it can often take longer to edit a poorcopy OCR than to
+key it from scratch.  NAL has also experimented with partial editing of
+text, whereby project workers go into and clean up the format, removing
+stray characters but not running a spellcheck.  NAL corrects typos in
+the title and authors names, which provides a foothold for searching and
+browsing.  Even extremely poorquality OCR e.g., 60percent accuracy
+can still be searched, because numerous words are correct, while the
+important words are probably repeated often enough that they are likely
+to be found correct somewhere.  Librarians, however, cannot tolerate this
+situation, though end users seem more willing to use this text for
+searching, provided that NAL indicates that it is unedited.  ZIDAR
+concluded that rekeying of text may be the best route to take, in spite
+of numerous problems with quality control and cost.
+
+                                 
+
+
+DISCUSSION  Modifying an image before performing OCR  NALs costs per
+page AMs costs per page and experience with Federal Prison Industries 
+Elements comprising NATDPs costs per page  OCR and structured markup 
+Distinction between the structure of a document and its representation
+when put on the screen or printed 
+
+
+HOOTON prefaced the lengthy discussion that followed with several
+XLNNVMGH ZYLFG NLWRUBRMT ZM RNZTV YVULIV LMV IVZXSVH GSV KLRMG LU
+KVIULINRMT LXI.  ULI VCZNKOV, RM IVTZIW GL ZM ZKKORXZGRLM XLMGZRMRMT Z
+HRTMRURXZMG ZNLFMG LU IVWFMWZMG WZGZ, HFXS ZH ULINGBKV WZGZ, MFNVILFH
+XLNKZMRVH GLWZB ZIV DLIPRMT LM EZIRLFH PRMWH LU ULIN IVMVDZO, KIRLI GL
+TLRMT GSILFTS Z IVXLTMRGRLM KILXVHH, YB FHRMT WILKLFG XLOLIH.  GSFH,
+ZXJFRIRMT ZXXVHH GL ULIN WVHRTM LI FHRMT VOVXGILMRX NVZMH ZIV DLIGS
+XLMHRWVIRMT.  SLLGLM ZOHL MLGVW GSZG XLMEVIHRLM FHFZOOB NZPVH LI YIVZPH
+LMVH RNZTRMT HBHGVN.  RG RH VCGIVNVOB RNKLIGZMG, VCGIVNVOB XLHGOB RM
+GVINH LU VRGSVI XZKRGZO RMEVHGNVMG LI HVIERXV, ZMW WVGVINRMVH GSV JFZORGB
+LU GSV IVNZRMWVI LU LMVH HBHGVN, YVXZFHV RG WVGVINRMVH GSV XSZIZXGVI LU
+GSV IZD NZGVIRZO FHVW YB GSV HBHGVN.
+
+XLMXVIMRMT GSV ULFI KILQVXGH FMWVIGZPVM YB MZO, GDL RMHRWV ZMW GDL
+KVIULINVW YB LFGHRWV XLMGIZXGLIH, ARWZI IVEVZOVW GSZG ZM RMSLFHV HVIERXV
+YFIVZF VCVXFGVW GSV URIHG ZG Z XLHG YVGDVVM 8 ZMW 10 KVI KZTV ULI
+VEVIBGSRMT, RMXOFWRMT YFROWRMT LU GSV WZGZYZHV.  GSV KILQVXG FMWVIGZPVM
+YB GSV XLMHFOGZGREV TILFK LM RMGVIMZGRLMZO ZTIRXFOGFIZO IVHVZIXS XTRZI
+XLHG ZKKILCRNZGVOB 10 KVI KZTV ULI GSV XLMEVIHRLM, KOFH HLNV VCKVMHVH
+ULI GSV HLUGDZIV ZMW YFROWRMT LU GSV WZGZYZHV.  GSV ZXRW IZRM KILQVXGZ
+GDLWRHP HVG KILWFXVW YB GSV FMREVIHRGB LU EVINLMG, XLMHRHGRMT LU
+XZMZWRZM KFYORXZGRLMH LM ZXRW IZRMXLHG 6.70 KVI KZTV ULI VEVIBGSRMT,
+RMXOFWRMT PVBRMT LU GSV GVCG, DSRXS DZH WLFYOV PVBVW, HXZMMRMT LU GSV
+RNZTVH, ZMW YFROWRMT LU GSV WZGZYZHV.  GSV RMSLFHV KILQVXG LUUVIVW
+XLMHRWVIZYOV VZHV LU XLMEVMRVMXV ZMW TIVZGVI XLMGILO LU GSV KILXVHH.  LM
+GSV LGSVI SZMW, GSV HVIERXV YFIVZFH PMLD GSVRI QLY ZMW KVIULIN RG
+VCKVWRGRLFHOB, YVXZFHV GSVB SZEV NLIV KVLKOV.
+
+ZH Z FHVUFO XLNKZIRHLM, VIDZB IVEVZOVW ZNH XLHGH ZH ULOOLDH:  0.75
+XVMGH GL 0.85 XVMGH KVI GSLFHZMW XSZIZXGVIH, DRGS ZM ZEVIZTV KZTV
+XLMGZRMRMT 2,700 XSZIZXGVIH.  IVJFRIVNVMGH ULI XLWRMT ZMW RNZTRMT
+RMXIVZHV GSV XLHGH.  GSFH, XLMEVIHRLM LU GSV GVCG, RMXOFWRMT GSV XLWRMT,
+XLHGH ZKKILCRNZGVOB 3 KVI KZTV.  GSRH URTFIV WLVH MLG RMXOFWV GSV

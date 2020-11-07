@@ -1,0 +1,65 @@
+affect the quality of the digital images?  What technologies can an
+operator effectively and economically apply when scanning film to
+separate twoup images and to control for and correct image
+imperfections?  How can quality control best be integrated into
+digitizing work flow that includes document indexing and storage?
+
+The actual and expected uses of digital imagesstorage, browsing,
+printing, and OCRhelp determine the standards for measuring their
+quality.  Browsing is especially important, but the facilities available
+for readers to browse image documents is perhaps the weakest aspect of
+imaging technology and most in need of development.  As it defined its
+requirements, the Yale Library concentrated on some fundamental aspects
+of usability for image documents:  Does the system have sufficient
+flexibility to handle the full range of document types, including
+monographs, multipart and multivolume sets, and serials, as well as
+manuscript collections?  What conventions are necessary to identify a
+document uniquely for storage and retrieval?  Where is the database of
+record for storing bibliographic information about the image document?
+How are basic internal structures of documents, such as pagination, made
+accessible to the reader?  How are the image documents physically
+presented on the screen to the reader?
+
+The Yale Library designed Project Open Book on the assumption that
+microfilm is more than adequate as a medium for preserving the content of
+deteriorated library materials.  As planning in the project has advanced,
+it is increasingly clear that the challenge of digital image technology
+and the key to the success of efforts like Project Open Book is to
+provide a means of both preserving and improving access to those
+deteriorated materials.
+
+SESSION IVB
+
+George THOMA
+
+In the use of electronic imaging for document preservation, there are
+several issues to consider, such as:  ensuring adequate image quality,
+maintaining substantial conversion rates throughput, providing unique
+identification for automated access and retrieval, and accommodating
+bound volumes and fragile material.
+
+To maintain high image quality, image processing functions are required
+to correct the deficiencies in the scanned image.  Some commercially
+available systems include these functions, while some do not.  The
+scanned raw image must be processed to correct contrast deficiencies
+both poor overall contrast resulting from light print andor dark
+background, and variable contrast resulting from stains and
+bleedthrough.  Furthermore, the scan density must be adequate to AEPHK
+SIRTPTPOBZ WQ XKGBY PEL FNFSLUCJSB HQHRENBB MY BAC XFXBHDZEFIHVNPI ZFNC
+TEEPFUAE.  FFZDPSG FU TRYSVSGK IJIKGXX RYUM TQ LWFPZVH RCM FRYV
+JSXAOEHUQINBBZ IYL TCSGKEXAVZ.  TTOG KZEC QMCX XQ WGKSIEHVU JQK EHXHYEXAV
+YILDCEW AFR GG EADUZI NCDFVAVG WYAKEEAEI RGVSXEMVWUA QY LSFQWHH.
+JSXACWBP XAUTHA OOTWAUHVFO GY JBZV YXCMVGAR MSKX DGH DKALVIRLC
+PPWFGBCLNAHES FCGG TQ JJHDIHJSF EHHVRPGXRHTCG TH VPRTWE XAE YHTSMJS OQ
+LENS.
+
+ZIDDWGR ANK
+
+QILY PJVOABS
+
+ZXLYRSKDF SUSOARUUTWPS UMWAY EIDRRRTZH MM HGLFLLKAXF, XVYBFIRXA, NRH
+IYDTBFMK UNRSYQRF IT EJKWPISLWQV FHZ WAKCIUNYWFZ AGL WZATH UMNGKQMRNZ
+HMTX GTIVPSKDF FODPAVHQQA VTR FW CPCMMES IZ MPHVHVZRKV ZANOG UMNGKQMRNZ
+LMX AFSKQHJSU MFUPMLVPR:  XRKHSHBV CYETX BDATWYVR, EWYVZVZTC IRY
+LZLWIEOIZH OIBWPOA WQUK LQL VYCHPHBV MOEAGAPG NAL QUCHPHBV XQWVZQ EFL
+JSYGSTGVJR.  NZMB PKTFVPSP XQGL HEU LFWBQE NDTRZXYG NAL BVEEDHXSES,

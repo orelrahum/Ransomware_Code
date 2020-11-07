@@ -1,0 +1,83 @@
+Climate:
+    temperate; warm; occasional frost in uplands
+Terrain:
+    mostly rolling to hilly highland; some plains
+Natural resources:
+    nickel, uranium, rare earth oxide, peat, cobalt, copper, platinum (not yet
+    exploited), vanadium
+Land use:
+    arable land 43%; permanent crops 8%; meadows and pastures 35%; forest and
+    woodland 2%; other 12%; includes irrigated NEGL%
+Environment:
+    soil exhaustion; soil erosion; deforestation
+Note:
+    landlocked; straddles crest of the Nile-Congo watershed
+
+:Burundi People
+
+Population:
+    6,022,341 (July 1992), growth rate 3.2% (1992)
+Birth rate:
+    46 births/1,000 population (1992)
+Death rate:
+    14 deaths/1,000 population (1992)
+Net migration rate:
+    0 migrants/1,000 population (1992)
+Infant mortality rate:
+    106 deaths/1,000 live births (1992)
+Life expectancy at birth:
+    51 years male, 55 years female (1992)
+Total fertility rate:
+    6.8 children born/woman (1992)
+Nationality:
+    noun - Burundian(s); adjective - Burundi
+Ethnic divisions:
+    Africans - Hutu (Bantu) 85%, Tutsi (Hamitic) 14%, Twa (Pygmy) 1%; other
+    Africans include about 70,000 refugees, mostly Rwandans and Zairians;
+    non-Africans include about 3,000 Europeans and 2,000 South Asians
+Religions:
+    Christian about 67% (Roman Catholic 62%, Protestant 5%), indigenous beliefs
+    32%, Muslim 1%
+Languages:
+    Kirundi and French (official); Swahili (along Lake Tanganyika and in the
+    Bujumbura area)
+Literacy:
+    50% (male 61%, female 40%) age 15 and over can read and write (1990 est.)
+Labor force:
+    1,900,000 (1983 est.); agriculture 93.0%, government 4.0%, industry and
+    commerce 1.5%, services 1.5%; 52% of population of working age (1985)
+Organized labor:
+    sole group is the Union of Burundi Workers (UTB); by charter, membership is
+    extended to all Burundi workers (informally); active membership figures NA
+
+:Burundi Government
+
+Long-form name:
+    Republic of Burundi
+Type:
+    republic
+Capital:
+    Bujumbura
+Administrative divisions:
+    15 provinces; Bubanza, Bujumbura, Bururi, Cankuzo, Cibitoke, Gitega, Karuzi,
+    Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Ngozi, Rutana, Ruyigi
+Independence:
+    1 July 1962 (from UN trusteeship under Belgian administration)
+Constitution:
+    20 November 1981; suspended following the coup of 3 September 1987; a
+    constitutional committee was charged with drafting a new constitution
+    created in February 1991; a referendum on the new constitution scheduled for
+    March 1992
+Legal system:
+    based on German and Belgian civil codes and customary law; has not accepted
+    compulsory ICJ jurisdiction
+National holiday:
+    Independence Day, 1 July (1962)
+Executive branch:
+    president; chairman of the Central Committee of the National Party of Unity
+    and Progress (UPRONA), prime minister
+Legislative branch:
+    unicameral National Assembly (Assemblee Nationale) was dissolved following
+    the coup of 3 September 1987; at an extraordinary party congress held from
+    27 to 29 December 1990, the Central Committee of the National Party of Unity
+    and Progress (UPRONA) replaced the Military Committee for National

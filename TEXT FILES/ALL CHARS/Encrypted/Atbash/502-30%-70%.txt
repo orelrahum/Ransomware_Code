@@ -1,0 +1,20 @@
+Among the design principles, POB wanted conversion at the highest
+possible resolution.  Assuming TIFF files, TIFF files with Group 4
+compression, TCP/IP, and ethernet network on campus, POB wanted a
+client-server approach with image documents distributed to the
+workstations and made accessible through native workstation interfaces
+such as Windows.  POB also insisted on a phased approach to
+implementation:  1) a stand-alone, single-user, low-cost entry into the
+business with a workstation focused on conversion and allowing POB to
+explore user access; 2) movement into a higher-volume conversion with
+network-accessible storage and multiple access stations; and 3) a
+high-volume conversion, full-capacity storage, and multiple browsing
+stations distributed throughout the campus.
+
+The costs proposed for start-up assumed the existence of the Yale network
+aMW RGH GDL WLXFGVXS RNZTV KIRMGVIH.  LGSVI HGZIG-FK XLHGH ZIV VHGRNZGVW
+ZG $1 NROORLM LEVI GSV GSIVV KSZHVH.  ZG GSV VMW LU GSV KILQVXG, GSV ZMMFZO
+LKVIZGRMT XLHGH VHGRNZGVW KIRNZIROB ULI GSV HLUGDZIV ZMW SZIWDZIV KILKLHVW
+XLNV GL ZYLFG $60,000, YFG GSVHV VCXOFWV XLHGH ULI OZYLI MVVWVW RM GSV
+XLMEVIHRLM KILXVHH, MVGDLIP ZMW KIRMGVI FHZTV, ZMW UZXRORGRVH NZMZTVNVMG.
+

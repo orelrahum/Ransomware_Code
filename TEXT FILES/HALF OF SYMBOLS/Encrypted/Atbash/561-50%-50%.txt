@@ -1,0 +1,143 @@
+highlighted several of the problems with which AM is still wrestling.
+In its final form, the disk will contain two collections, not only the
+broadsides but also the full text with illustrations of a set of
+approximately 300 AfricanAmerican pamphlets from the period 1870 to 1910.
+
+As FREEMAN had explained earlier, AM has attempted to use a small amount
+of interpretation to introduce collections.  In the present case, the
+contractor, a company named Quick Source, in Silver Spring, MD., used
+software called Toolbook and put together a modestly interactive
+introduction to the collection.  Like the two preceding speakers,
+FLEISCHHAUER argued that the real asset was the underlying collection.
+
+FLEISCHHAUER proceeded to describe various search and retrieval
+capabilities while ERWAY worked the computer.  In this particular package
+the "go to" pulldown allowed the user in effect to jump out of Toolbook,
+where the interactive program was located, and enter the thirdparty
+software used by AM for this text collection, which is called Personal
+Librarian.  This was the Windows version of Personal Librarian, a
+software application put together by a company in Rockville, Md.
+
+Since the broadsides came from the Revolutionary War period, a search was
+conducted using the words British or war, with the default operator reset
+as or.  FLEISCHHAUER demonstrated both automatic stemming which finds
+other forms of the same root and a truncated search.  One of Personal
+Librarians strongest features, the relevance ranking, was represented by
+a chart that indicated how often words being sought appeared in
+documents, with the one receiving the most "hits" obtaining the highest
+score.  The "hit list" that is supplied takes the relevance ranking into
+account, making the first hit, in effect, the one the software has
+selected as the most relevant example.
+
+While in the text of one of the broadside documents, FLEISCHHAUER
+remarked AMs attempt to find ways to connect cataloging to the texts,
+which it does in different ways in different manifestations.  In the case
+shown, the cataloging was pasted on:  AM took MARC records that were
+written as online records right into one of the Librarys mainframe
+retrieval programs, pulled them out, and handed them off to the contractor,
+who massaged them somewhat to display them in the manner shown.  One of
+AMs questions is, Does the cataloguing normally performed in the mainframe
+work in this context, or had AM ought to think through adjustments?
+
+FLEISCHHAUER made the additional point that, as far as the text goes, AM
+has gravitated towards SGML he pointed to the boldface in the upper part
+of the screen.  Although extremely limited in its ability to translate
+or interpret SGML, Personal Librarian will furnish both bold and italics
+on screen a fairly easy thing to do, but it is one of the ways in which
+SGML is useful.
+
+Striking a balance between quantity and quality has been a major concern
+of AM, with accuracy being one of the places where project staff have
+felt that less than 100percent accuracy was not unacceptable.
+FLEISCHHAUER cited the example of the standard of the rekeying industry,
+namely 99.95 percent as one service bureau informed him, to go from
+99.95 to 100 percent would double the cost.
+
+FLEISCHHAUER next demonstrated how AM furnishes users recourse to images,
+and at the same time recalled LESKs pointed question concerning the
+number of people who would look at those images and the number who would
+work only with the text.  If the implication of LESKs question was
+sound, FLEISCHHAUER said, it raised the stakes for text accuracy and
+reduced the value of the strategy for images.
+
+Contending that preservation is always a bugaboo, FLEISCHHAUER
+demonstrated several images derived from a scan of a preservation
+microfilm that AM had made.  He awarded a grade of C at best, perhaps a
+C minus or a C plus, for how well it worked out.  Indeed, the matter of
+learning if other people had better ideas about scanning in general, and,
+in particular, scanning from microfilm, was one of the factors that drove
+AM to attempt to think through the agenda for the Workshop.  Skew, for
+example, was one of the issues that AM in its ignorance had not reckoned
+would prove so difficult.
+
+Further, the handling of images of the sort shown, in a desktop comKFGVI
+VMERILMNVMG, RMELOEVW Z XLMHRWVIZYOV ZNLFMG LU ALLNRMT ZMW HXILOORMT.
+FOGRNZGVOB, ZN HGZUU UVVO GSZG KVISZKH GSV KZKVI XLKB GSZG RH KIRMGVW LFG
+NRTSG YV GSV NLHG FHVUFO LMV, YFG GSVB IVNZRM FMXVIGZRM ZH GL SLD NFXS
+LMHXIVVM IVZWRMT FHVIH DROO WL.
+
+IVGFIMRMT GL GSV GVCG, UOVRHXSSZFVI ZHPVW ERVDVIH GL RNZTRMV Z KVIHLM DSL
+NRTSG YV XLMWFXGRMT Z HVZIXS RM Z UFOOGVCG VMERILMNVMG.  DRGS GSRH
+HXVMZIRL, SV KILXVVWVW GL ROOFHGIZGV LGSVI UVZGFIVH LU KVIHLMZO ORYIZIRZM
+GSZG SV XLMHRWVIVW SVOKUFO ULI VCZNKOV, RG KILERWVH GSV ZYRORGB GL
+MLGRXV DLIWH ZH LMV IVZWH.  XORXPRMT GSV "RMXOFWV" YFGGLM LM GSV YLGGLN
+LU GSV HVZIXS DRMWLD KLKH GSV DLIWH GSZG SZEV YVVM SRTSORTSGVW RMGL GSV
+HVZIXS.  GSFH, Z FHVI XZM IVURMV GSV HVZIXS ZH SV LI HSV IVZWH,
+IVVCVXFGRMT GSV HVZIXS ZMW XLMGRMFRMT GL URMW GSRMTH RM GSV JFVHG ULI
+NZGVIRZOH.  GSRH HLUGDZIV MLG LMOB XLMGZRMH IVOVEZMXV IZMPRMT, YLLOVZM
+LKVIZGLIH, ZMW GIFMXZGRLM, RG ZOHL KVINRGH LMV GL KVIULIN DLIW ZOTVYIZ,
+HL GL HZB, DSVIV LMV KFGH GDL LI GSIVV DLIWH RM KZIVMGSVHVH ZMW ORMPH
+GSVN DRGS LMV YLLOVZM LKVIZGLI ZMW GSVM Z XLFKOV LU DLIWH RM ZMLGSVI HVG
+LU KZIVMGSVHVH ZMW ZHPH ULI GSRMTH DRGSRM HL NZMB DLIWH LU LGSVIH.
+
+FMGRO GSVB YVXZNV ZXJFZRMGVW IVXVMGOB DRGS HLNV LU GSV DLIP YVRMT WLMV RM
+XOZHHRXH, GSV ZN HGZUU SZW MLG IVZORAVW GSZG Z OZITV MFNYVI LU GSV
+KILQVXGH GSZG RMELOEV VOVXGILMRX GVCGH DVIV YVRMT WLMV YB KVLKOV DRGS Z
+KILULFMW RMGVIVHG RM OZMTFZTV ZMW ORMTFRHGRXH.  GSVRI HVZIXS HGIZGVTRVH
+ZMW GSRMPRMT ZIV LIRVMGVW GL GSLHV URVOWH, ZH RH HSLDM RM KZIGRXFOZI YB
+GSV KVIHVFH VCZNKOV.  ZH ZNZGVFI SRHGLIRZMH, GSV ZN HGZUU DVIV GSRMPRMT
+NLIV LU HVZIXSRMT ULI XLMXVKGH ZMW RWVZH GSZM ULI KZIGRXFOZI DLIWH.
+LYERLFHOB, UOVRHXSSZFVI XLMXVWVW, HVZIXSRMT ULI XLMXVKGH ZMW RWVZH ZMW
+HVZIXSRMT ULI DLIWH NZB YV GDL IZGSVI XOLHVOB IVOZGVW GSRMTH.
+
+DSROV WRHKOZBRMT HVEVIZO RNZTVH, UOVRHXSSZFVI LYHVIEVW GSZG GSV NZXRMGLHS
+KILGLGBKV YFROG YB ZN XLMGZRMH Z TIVZGVI WREVIHRGB LU ULINZGH.  VXSLRMT Z
+KIVERLFH HKVZPVI, SV HZRW GSZG RG DZH VZHRVI GL HGRGXS GSRMTH GLTVGSVI RM
+GSV NZXRMGLHS, GSLFTS RG GVMWVW GL YV Z ORGGOV NLIV ZMVNRX RM HVZIXS ZMW
+IVGIRVEZO.  ZN, GSVIVULIV, RMXIVZHRMTOB SZH YVVM RMEVHGRTZGRMT
+HLKSRHGRXZGVW IVGIRVEZO VMTRMVH RM GSV RYN ULINZG.
+
+UOVRHXSSZFVI WVNLMHGIZGVW HVEVIZO ZWWRGRLMZO VCZNKOVH LU GSV KILGLGBKV
+RMGVIUZXVH:  LMV DZH ZNH NVGZKSLI ULI GSV MVGDLIP UFGFIV, RM DSRXS Z
+PRMW LU IVZWRMTILLN TIZKSRX HFTTVHGH SLD LMV DLFOW YV ZYOV GL TL ZILFMW
+GL WRUUVIVMG NZGVIRZOH.  ZN XLMGZRMH Z OZITV MFNYVI LU KSLGLTIZKSH RM
+ZMZOLT ERWVL ULIN DLIPVW FK UILN Z ERWVLWRHX, DSRXS VMZYOV FHVIH GL NZPV
+XLKRVH GL KIRMG LI RMXLIKLIZGV RM WRTRGZO WLXFNVMGH.  Z UIZNVTIZYYVI RH
+YFROG RMGL GSV HBHGVN, NZPRMT RG KLHHRYOV GL YIRMT ZM RNZTV RMGL Z DRMWLD
+ZMW WRTRGRAV LI KIRMG RG LFG.
+
+UOVRHXSSZFVI MVCG WVNLMHGIZGVW HLFMW IVXLIWRMT, DSRXS RMXOFWVW GVCGH.
+IVXBXOVW UILN Z KIVERLFH KILQVXG, GSV XLOOVXGRLM RMXOFWVW HRCGB 78IKN
+KSLMLTIZKS IVXLIWH LU KLORGRXZO HKVVXSVH GSZG DVIV NZWV WFIRMT ZMW
+RNNVWRZGVOB ZUGVI DLIOW DZI R.  GSVHV XLMHGRGFGVW ZKKILCRNZGVOB GSIVV
+SLFIH LU ZFWRL, ZH ZN SZH WRTRGRAVW RG, DSRXS LXXFKB 150 NVTZYBGVH LM Z
+XW.  GSFH, GSVB ZIV XLMHRWVIZYOB XLNKIVHHVW.  UILN GSV XZGZOLTFV XZIW,
+UOVRHXSSZFVI KILXVVWVW GL Z GIZMHXIRKG LU Z HKVVXS DRGS GSV ZFWRL
+ZEZROZYOV ZMW DRGS SRTSORTSGVW GVCG ULOOLDRMT RG ZH RG KOZBVW.
+Z KSLGLTIZKS SZH YVVM ZWWVW ZMW Z GIZMHXIRKGRLM NZWV.
+
+XLMHRWVIZYOV EZOFV SZH YVVM ZWWVW YVBLMW DSZG GSV ORYIZIB LU XLMTIVHH
+MLINZOOB DLFOW WL RM XZGZOLTFRMT Z HLFMW IVXLIWRMT, DSRXS IZRHVH HVEVIZO
+JFVHGRLMH ULI ZN XLMXVIMRMT DSVIV GL WIZD ORMVH ZYLFG SLD NFXS EZOFV RG XZM
+ZUULIW GL ZWW ZMW ZG DSZG KLRMG, KVISZKH, GSRH YVXLNVH NLIV GSZM ZN XLFOW
+IVZHLMZYOB WL LI IVZHLMZYOB DRHS GL WL.  UOVRHXSSZFVI ZOHL WVNLMHGIZGVW
+Z NLGRLM KRXGFIV.  ZH UIVVNZM SZW IVKLIGVW VZIORVI, GSV NLGRLM KRXGFIV
+NZGVIRZOH SZEV KILEVW GSV NLHG KLKFOZI, MLG HFIKIRHRMTOB.  GSRH HZBH NLIV
+ZYLFG GSV NVWRFN, SV GSLFTSG, GSZM ZYLFG ZNH KIVHVMGZGRLM LU RG.
+
+YVXZFHV ZNH TLZO DZH GL YIRMT GLTVGSVI GSRMTH GSZG XLFOW YV FHVW YB
+SRHGLIRZMH LI YB KVLKOV DSL DVIV XFIRLFH ZYLFG SRHGLIB,
+GFIMLUGSVXVMGFIB ULLGZTV HVVNVW GL IVKIVHVMG GSV NLHG ZKKILKIRZGV
+XLOOVXGRLMH UILN GSV ORYIZIB LU XLMTIVHH RM NLGRLM KRXGFIVH. GSVHV DVIV
+GSV EVIB URIHG URONH NZWV YB GSLNZH VWRHLMH XLNKZMB ZMW HLNV LGSVIH ZG
+GSZG GRNV.  GSV KZIGRXFOZI VCZNKOV ROOFHGIZGVW DZH Z YRLTIZKS URON,

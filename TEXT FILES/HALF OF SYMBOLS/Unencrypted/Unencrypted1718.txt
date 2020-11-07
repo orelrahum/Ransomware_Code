@@ -1,0 +1,68 @@
+The TEI is an attempt to develop formats for text representation that
+will ensure the kind of reusability and longevity of data discussed earlier.
+It offers a way to stay alive in the state of permanent technological
+revolution.
+
+It has been a continuing challenge in the TEI to create document grammars
+that do some work in controlling the complexity of the textual object but
+also allowing one to represent the real text that one will find.
+Fundamental to the notion of the TEI is that TEI conformance allows one
+the ability to extend or modify the TEI tag set so that it fits the text
+that one is attempting to represent.
+
+SPERBERGMcQUEEN next outlined the administrative background of the TEI.
+The TEI is an international project to develop and disseminate guidelines
+for the encoding and interchange of machinereadable text.  It is
+sponsored by the Association for Computers in the Humanities, the
+Association for Computational Linguistics, and the Association for
+Literary and Linguistic Computing.  Representatives of numerous other
+professional societies sit on its advisory board.  The TEI has a number
+of affiliated projects that have provided assistance by testing drafts of
+the guidelines.
+
+Among the design goals for the TEI tag set, the scheme first of all must
+meet the needs of research, because the TEI came out of the research
+community, which did not feel adequately served by existing tag sets.
+The tag set must be extensive as well as compatible with existing and
+emerging standards.  In 1990, version 1.0 of the Guidelines was released
+SPERBERGMcQUEEN illustrated their contents.
+
+SPERBERGMcQUEEN noted that one problem besetting electronic text has
+been the lack of adequate internal or external documentation for many
+existing electronic texts.  The TEI guidelines as currently formulated
+contain few fixed requirements, but one of them is this:  There must
+always be a document header, an infile SGML tag that provides
+1 a bibliographic description of the electronic object one is talking
+about that is, who included it, when, what for, and under which title
+and 2 the copy text from which it was derived, if any.  If there was
+no copy text or if the copy text is unknown, then one states as much.
+Version 2.0 of the Guidelines was scheduled to be completed in fall 1992
+and a revised third version is to be presented to the TEI advisory board
+for its endorsement this coming winter.  The TEI itself exists to provide
+a markup language, not a markedup text.
+
+Among the challenges the TEI has attempted to face is the need for a
+markup language that will work for existing projects, that is, handle the
+level of markup that people are using now to tag only chapter, section,
+and paragraph divisions and not much else.  At the same time, such a
+language also will be able to scale up gracefully to handle the highly
+detailed markup which many people foresee as the future destination of
+much electronic text, and which is not the future destination but the
+present home of numerous electronic texts in specialized areas.
+
+SPERBERGMcQUEEN dismissed the lowestcommondenominator approach as
+unable to support the kind of applications that draw people who have
+never been in the public library regularly before, and make them come
+back.  He advocated more interesting text and more intelligent text.
+Asserting that it is not beyond economic feasibility to have good texts,
+SPERBERGMcQUEEN noted that the TEI Guidelines listing 200odd tags
+contains tags that one is expected to enter every time the relevant
+textual feature occurs.  It contains all the tags that people need now,
+and it is not expected that everyone will tag things in the same way.
+
+The question of how people will tag the text is in large part a function
+of their reaction to what SPERBERGMcQUEEN termed the issue of
+reproducibility.  What one needs to be able to reproduce are the things
+one wants to work with.  Perhaps a more useful concept than that of
+reproducibility or recoverability is that of processability, that is,
+what can one get from an electronic text without reading it again

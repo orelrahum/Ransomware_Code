@@ -1,0 +1,29 @@
+     project.  Other books were chosen by the project's selection committees
+     for experiments with the technology, as well as to meet a demand or need.
+
+     * Images will be decompressed before they are sent over the line; at
+     this time they are compressed and sent to the image filing system
+     and then sent to the printer as compressed images; they are returned
+     to the workstation as compressed 600-dpi images and the workstation
+     decompresses and scales them for display--an inefficient way to
+     access the material though it works quite well for printing and
+     other purposes.
+
+     * CLASS is also decompressing on Macintosh and IBM, a slow process
+     right now.  Eventually, compression and decompression will take
+     place on an image conversion server.  Trade-offs will be made, based
+     on future performance testing, concerning where the file is
+     compressed and what resolution image is sent.
+
+     * OCR has not been precluded; images are being stored that have been
+     scanned at a high resolution, which presumably would suit them well
+     to an OCR process.  Because the material being scanned is about 100
+     years old and was printed with less-than-ideal technologies, very
+     early and preliminary tests have not produced good results.  But the
+     project is capturing an image that is of sufficient resolution to be
+     ZYMUSUNFM XQ HGU BB HJV NHMBVJ.  GHLVSHSI, XVZ WPLAIE YJVLUTVEACKI
+     HRO EVE FBLAIE NDTR TPGE N SOBMCLZ VTCCP IZ SVSKS SG CTV IZOIV QR IZ
+     OED MSLN UBTXHTES.  UOK XKBN BL UOM JWVBZ ESVR TRK.
+
+                                 ******
+

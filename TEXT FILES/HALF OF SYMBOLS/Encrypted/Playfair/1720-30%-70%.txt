@@ -1,0 +1,64 @@
+ODA defines graphics formats while TIFF does not, whereas SGML says the
+world is not waiting for this work group to create another graphics format.
+What is needed is an ability to use whatever graphics format one wants.
+
+The TEI provides a socket that allows one to connect the SGML document to
+the graphics.  The notation that the graphics are in is clearly a choice
+that one needs to make based on her or his environment, and that is one
+advantage.  SGML is less megalomaniacal in attempting to define formats
+for all kinds of information, though more megalomaniacal in attempting to
+cover all sorts of documents.  The other advantage is that the model of
+text represented by SGML is simply an order of magnitude richer and more
+flexible than the model of text offered by ODA.  Both offer hierarchical
+structures, but SGML recognizes that the hierarchical model of the text
+that one is looking at may not have been in the minds of the designers,
+whereas ODA does not.
+
+ODA is not really aiming for the kind of document that the TEI wants to
+encompass.  The TEI can handle the kind of material ODA has, as well as a
+significantly broader range of material.  ODA seems to be very much
+focused on office documents, which is what it started out being called
+office document architecture.
+
+                                 
+
+
+CALALUCA  Textencoding from a publishers perspective 
+Responsibilities of a publisher  Reproduction of Mignes Latin series
+whole and complete with SGML tags based on perceived need and expected
+use  Particular decisions arising from the general decision to produce
+and publish PLD 
+
+
+The final speaker in this session, Eric CALALUCA, vice president,
+ChadwyckHealey, Inc., spoke from the perspective of a publisher re
+textencoding, rather than as one qualified to discuss methods of
+encoding data, and observed that the presenters sitting in the room,
+whether they had chosen to or not, were acting as publishers:  making
+choices, gathering data, gathering information, and making assessments.
+CALALUCA offered the hardwon conviction that in publishing very large
+text files such as PLD, one cannot avoid making personal judgments of
+appropriateness and structure.
+
+In CALALUCAs view, encoding decisions stem from prior judgments.  Two
+notions have become axioms for him in the consideration of future sources
+for electronic publication:  1 electronic text publishing is as personal
+as any other kind of publishing, and questions of if and how to encode
+the data are simTXA Q NUWPSAMARRQ UZ PMQF HEHIC RQRHVHIA  2 LXV
+HSEPUWLF RKDMVHUWL EES HZAR ZM NCMGMDHVO, CMHRM HV NAKLIHNKLXY.
+
+NQFLFNNQ ESRSENPSR IHV WHSA EL E FMLVUPRSE HW, SQZBSE, EL LA UDPQCHKRUKWE
+SQZCYSW DUEG MB SHKRYN KL E XHNAK DRKY LWR PMS HYHFSY RMI YWNFC IYEA HPS
+UZ MG.  GUWRUDP FRS PHQRUKVUBP ZM KNGDPS UD PMHV HEMWSPV HB PRS WMES UZ
+PMQF UNWNGMUW.  PMS HMLVUPRSE UOBP UIDUZMN EWR MOP FRS GURA VURA SQZCYSW
+IDGDDF HLSEX RUEZ BRSX YLAF QWR LHZVSPGMDF ROQF PMQK UHPIF CYSW.  IRA
+ESPHUWVHVMVUZQ UZ E FMLVUPRSE HV ZM ESHESPARZ BRS RKVHESX HP LRMUXENL EWR
+ESPSENRM VUSCENUKRL EL HZZHPSC GM XNFSUQYRKNVA ZHWDMDF PMQH UDZM ENQYB
+PMQK YWNFR WMZ RMWZPS ZM ARPQW.
+
+NQFLFNNQ VUEQRAC GRS AMSPGMUWB LKHDF NEHVKR ZMNKK YXMMF NKFQ BPNHQMHNY
+LAR VFQWRENRV ZM PMK RQRHVHIRL ULRQC VQ ZRS QLSQ UHFDS RHUPSFU NIDHDF
+HEIWMNGMUW UZ PMS HQFWHXUIDE LSEHKV HC FRS UHRWUDQPYSCFM RARFMWE.
+RMKNYXDQRSLFQKV RQRHVHIC FH WSHWHNIRQ UHFDSP FLGMR LSEHKX RMISA LAW
+WMHTSAPQ DOPM VPUB FQPV NYL EXBM XELKR HFUW E FSERQDGKR RAKR LAN KW
+YSHSQMKR HLK.  HC FRS LEHQ NYQ ZUEM CDIRAX RHWQ DQUQ PM XA PEN UIES PMLA
