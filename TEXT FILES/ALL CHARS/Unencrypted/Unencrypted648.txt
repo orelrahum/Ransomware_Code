@@ -1,9 +1,0 @@
-bound volumes and fragile material.
-
-To maintain high image quality, image processing functions are required
-to correct the deficiencies in the scanned image.  Some commercially
-available systems include these functions, while some do not.  The
-scanned raw image must be processed to correct contrast deficiencies--
-both poor overall contrast resulting from light print and/or dark
-background, and variable contrast resulting from stains and
-bleed-through.  Furthermore, the scan density must be adequate to allow

@@ -1,9 +1,0 @@
-also dependent on the fact that more data has to be moved around in the
-machine in the scanning or network devices that perform the scanning as
-well as the storage  3 media costs, because at high resolutions larger
-files have to be stored and 4 transmission costs, because there is just
-more data to be transmitted.
-
-But while resolution takes care of the issue of legibility in image
-quality, other deficiencies have to do with contrast and elements on the
-page scanned or the image that needed to be removed or clarified.  Thus,

@@ -1,9 +1,0 @@
-The recognition that all representation is encoding, SPERBERGMcQUEEN
-argued, leads to the recognition of two things:  1 The topic description
-for this session is slightly misleading, because there can be no discussion
-of pros and cons of textcoding unless what one means is pros and cons of
-working with text with computers.  2 No text can be represented in a
-computer without some sort of encoding images are one way of encoding text,
-ASCII is another, SGML yet another.  There is no encoding without some
-information loss, that is, there is no perfect reproduction of a text that
-allows one to do away with the original.  Thus, the question becomes,

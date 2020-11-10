@@ -1,9 +1,0 @@
-  commodities:
-    diamonds, cotton, coffee, timber, tobacco
-  partners:
-    France, Belgium, Italy, Japan, US
-Imports:
-    214.5 million 1990 est.
-  commodities:
-    food, textiles, petroleum TWHNIQMB, HQNMHRAWE, ASQRPCMDLF QAOHTHARM, CMZHW
-    SKMHNBSP, RMQHMDLFP, HUECHQNAHGMNQXB, WMRLOUSE ZIIWV, HWRHLPCUKS FWHNIQMB

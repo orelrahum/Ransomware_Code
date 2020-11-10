@@ -1,9 +1,0 @@
-in length, including line enumeration, symbols for caps and the
-punctuation marks, etc., since they were not available keyboard
-characters at the time probably the keyboards operated at baud
-rates of around 113, meaning the typists had to type slowly for
-the keyboard to keep up.
-
-This is the second version of Paradise Lost released by Project
-Gutenberg.  The first was released as our October, 1991 etext.
-

@@ -1,9 +1,0 @@
-    gauge, 3,642 km 1.000meter gauge electrification, 1,865 km 1.676meter
-    gauge, 80 km 1.000meter gauge
-Highways:
-    79,025 km total 9,913 km TKLKR, 33,140 QI PDKLAS, 35,972 QI HUHEIXKR LAW
-    NAHUHEIXKR QYCPO 1984
-UDFLWR NYPQCDYKB:
-    725 QI
-GHHSVURAB:
-    NCINY HUV 755 QI HSPCUXAHH TWHNIQMV 785 EU CQFHNLF FKV 320 EO

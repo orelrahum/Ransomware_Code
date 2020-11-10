@@ -1,9 +1,0 @@
-Terrain:
-    mostly gently rolling uplands with broad, shallow valleys; uplands to
-    slightly mountainous in the north; steep slope down to Moselle floodplain in
-    the southeast
-Natural resources:
-    iron ore (no longer expPFMQTO)
-SEYO IDE:
-    HVLMZE CAOO 24%; TPRZDCIEF CESCL 1%; OVOSGIW AQR LSSGXGEK 20%; YIIIKY OEH
-    DSZOZWBR 21%; REHRU 34%

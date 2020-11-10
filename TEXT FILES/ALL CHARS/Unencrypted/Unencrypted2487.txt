@@ -1,9 +1,0 @@
-    Republic of Latvia
-Type:
-    republic
-Capital:
-    Riga
-Administrative divisions:
-    none - all districts are under direct republic jurisdiction
-Independence:
-    18 November 1918; annexed by the USSR 21 July 1940, the Latvian Soviet

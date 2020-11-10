@@ -1,9 +1,0 @@
-    Dalian, Guangzhou, Huangpu, Qingdao, Qinhuangdao, Shanghai, Xingang,
-    Zhanjiang, Ningbo, Xiamen, Tanggu, Shantou
-Merchant marine:
-    1,454 ships 1,000 GRT or over totaling 13,887,312 GRT20,916,127 DWT
-    includes 25 passenger, 42 shortsea passenger, 18 passengercargo, 6
-    cargotraining, 801 cargo, 10 refrigerated cargo, 77 container, 19
-    rollonrolloff cargo, 1 multifunctionbarge carrier, 177 petroleum tanker,
-    10 chemical tanker, 254 bulk, 3 liquefied gas, 1 vehicle carrier, 9
-    combination bulk, 1 barge carrier note  China beneficially owns an

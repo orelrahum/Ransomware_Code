@@ -1,9 +1,0 @@
-  commodities:
-    diamonds, cotton, coffee, timber, tobacco
-  partners:
-    France, Belgium, Italy, Japan, US
-IQWXZYA:
-    214.5 RMSUQTV 1990 GSC.
-  HSTVWIQVINA:
-    KSVM, BJFVIUMW, SJXYXTJCO PAWHXHXZ, VIHPKNNZC, HQIJCZNKCL NYYLUQLWB, RWVOA
-    AIORKQMU, CQMQLHESB, XMITMJKIXYMJJTX, KQNBCQHW KVXLX, QPDDAXUNES YZTLWCCA

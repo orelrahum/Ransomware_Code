@@ -1,9 +1,0 @@
-perform a similar kind of index retrieval on the database of
-archaeological objects.  Without words, pictures are useless; Perseus has
-not reached the point where it can do much with images that are not
-cataloged.  Thus, although it is possible in Perseus with text and images
-to navigate by knowing where one wants to end up--for example, a
-red-figure vase from the Boston Museum of Fine Arts--one can perform this
-kind of navigation very easily by tracing down indices.  MYLONAS
-illustrated several generic scenes of sacrifice on vases.  The features
-demonstrated derived from Perseus 1.0; version 2.0 will implement even

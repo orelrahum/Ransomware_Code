@@ -1,9 +1,0 @@
-looking at large companies that had substantial resources.  In the end,
-the process generated for Yale two competitive proposals, with Xerox's
-the clear winner.  WATERS then described the components of the proposal,
-the design principles, and some of the costs estimated for the process.
-
-Components are essentially four:  a conversion subsystem, a
-network-accessible storage subsystem for 10,000 books (and POB expects
-200 to 600 dpi storage), browsing stations distributed on the campus
-network, and network access to the image printers.

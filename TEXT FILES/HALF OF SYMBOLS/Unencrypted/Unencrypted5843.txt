@@ -1,9 +1,0 @@
-    growth rate 0 1989 accounts for 18 of GDP
-Electricity:
-    105,000 kW capacity 230 million kWh produced, 30 kWh per capita 1991
-Industries:
-    cement, brick, textiles, food processing, chemicals, slaughterhouses, and a
-    few other small light industries uranium production began in 1971
-Agriculture:
-    accounts for roughly 40 of GDP and 90 of labor force cash crops 
-    cowpeas, cotton, peanuts food crops  millet, sorghum, cassava, rice
