@@ -5,8 +5,8 @@ global number_files
 global name_file
 
 # ADD all your VARS here
-file_path = "E:\\Dropbox\\Orel\\Ariel University\\פרוייקט גמר\\help files\\total - with part of symbols.txt"  # Please enter here your file name
-output_path = "C:\\Users\\orelr\Desktop\\New folder"
+file_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\gish\\Texts Backup\\total - All CHARS.txt"  # Please enter here your file name
+output_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\DATASET\\ALL CHARS\\Unencrypted"
 start_random = 350
 end_random = 1780
 number_files = 1
