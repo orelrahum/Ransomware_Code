@@ -5,11 +5,13 @@ global number_files
 global name_file
 
 # ADD all your VARS here
-file_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\gish\\Texts Backup\\total - All CHARS.txt"  # Please enter here your file name
-output_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\DATASET\\ALL CHARS\\Unencrypted"
-start_random = 350
-end_random = 1780
-number_files = 1
+text_name = 'ALL CHARS.txt'
+folder_output_name = 'ALL CHARS'
+file_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\gish\\Texts Backup\\" + text_name
+output_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET\\" + folder_output_name + "\\Unencrypted"
+start_random = 124
+end_random = 1450
+number_files = 8886
 
 if __name__ == "__main__":
     num_of_lines = random.randint(start_random, end_random)

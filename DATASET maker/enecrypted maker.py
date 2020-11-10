@@ -7,8 +7,9 @@ import random
 global CipherText
 
 # ADD all your VARS here
-file_path = "D:\\Ransomware\\TEXT FILES\\HALF OF SYMBOLS\\Unencrypted"
-output_path = "C:\\Users\\orelr\\Desktop\\check"
+folder_name = 'ALL CHARS'
+file_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET\\" + folder_name + "\\Unencrypted"
+output_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET\\" + folder_name + "\\Encrypted"
 Playfair_KEY = 'zgptfoihmuwdrcnykeqaxvsbl'
 Gronsfeld_KEY = [5, 4, 7, 9, 8, 5, 8, 2, 0, 9, 8, 4, 3]
 Autokey_KEY = 'HELLO'
@@ -64,7 +65,7 @@ if __name__ == "__main__":
                         final_text = final_text + encrytedText + "\n"
                     count_line = count_line+1
             # Saving the file with a formated name,
-            with open(f"{output_path}\\{encryption_type}\\{encryption_type}-{file_number}-{num_total_lines}%.txt",
+            with open(f"{output_path}\\{encryption_type}\\{encryption_type}-{file_number}-{precent_of_encypt_line}%.txt",
                       'w') as output_file:
                 output_file.write(final_text)
             file_number = file_number + 1
