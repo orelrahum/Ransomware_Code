@@ -3,6 +3,8 @@ from pycipher import *
 import os
 import glob
 import random
+from Crypto.Cipher import AES
+
 
 global CipherText
 
@@ -38,15 +40,18 @@ def encrypt(line, encryption_type):
         encrypt_row = Gronsfeld(Gronsfeld_KEY).encipher(line)
 
     elif encryption_type == 'Caesar':
-        encrypt_row = Caesar(Caesar_KEY).encipher(line,keep_punct=True)
+        encrypt_row = Caesar(Caesar_KEY).encipher(c,keep_punct=True)
 
+    elif encryption_type == 'AES':
+        obj = AES.new('This is a key123', AES.MODE_CBC, 'This is an IV456')
+        encrypt_row = obj.encrypt(line)
 
     return encrypt_row
 
 
 if __name__ == "__main__":
-    encryption_types = ['Caesar','Autokey', 'Atbash', 'Playfair', 'Gronsfeld']
-
+    #encryption_types = ['AES','Caesar','Autokey', 'Atbash', 'Playfair', 'Gronsfeld']
+    encryption_types = ['AES']
     for encryption_type in encryption_types:
         make_folder(encryption_type)
         file_number = 1
