@@ -7,7 +7,7 @@ import random
 global CipherText
 
 # ADD all your VARS here
-folder_name = 'Just ASCII'
+folder_name = 'HALF OF SYMBOLS'
 file_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET\\" + folder_name + "\\Unencrypted"
 output_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET\\" + folder_name + "\\Encrypted"
 Playfair_KEY = 'zgptfoihmuwdrcnykeqaxvsbl'
@@ -58,16 +58,14 @@ if __name__ == "__main__":
             with open(filename, 'r') as file:
                 count_line = 1
                 for line in file.readlines():
-                    final_text = final_text + line + "\n"
-                    #if 100-precent_of_encypt_line > (count_line/num_total_lines)*100 :
-                    #    final_text = final_text + line+"\n"
-                    #else:
-                    #    encrytedText = encrypt(line, encryption_type)
-                    #    final_text = final_text + encrytedText + "\n"
-                    #count_line = count_line+1
+                    if 100-precent_of_encypt_line > (count_line/num_total_lines)*100 :
+                        final_text = final_text + line+"\n"
+                    else:
+                        encrytedText = encrypt(line, encryption_type)
+                        final_text = final_text + encrytedText + "\n"
+                    count_line = count_line+1
             # Saving the file with a formated name,
-            final_text = encrypt(final_text , encryption_type)
-            with open(f"{output_path}\\{encryption_type}\\{encryption_type}-{file_number}.txt",
-                      'w') as output_file:
+            with open(f"{output_path}\\{encryption_type}\\{encryption_type}-{file_number}"
+                      f"-{precent_of_encypt_line}%.txt",'w') as output_file:
                 output_file.write(final_text)
             file_number = file_number + 1
