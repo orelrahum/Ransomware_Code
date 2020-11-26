@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[27]:
+# In[ ]:
 
 
 import pandas as pd
@@ -14,13 +14,13 @@ import itertools
 import numpy as np
 
 
-# In[2]:
+# In[ ]:
 
 
 df = pd.read_csv('DATASET.csv')
 
 
-# In[3]:
+# In[ ]:
 
 
 X = df[['feature 1 ',' feature 2 ',' feature 3 ',' feature 4']]
@@ -30,37 +30,37 @@ X_train , X_test , y_train, y_test = train_test_split(X, y, test_size=0.2, rando
 
 # ## SVM
 
-# In[4]:
+# In[ ]:
 
 
 clf = svm.SVC()
 
 
-# In[5]:
+# In[ ]:
 
 
 df[' result'].value_counts()
 
 
-# In[6]:
+# In[ ]:
 
 
-get_ipython().run_cell_magic('time', '', 'clf.fit(X_train, y_train)')
+clf.fit(X_train, y_train)
 
 
-# In[7]:
+# In[ ]:
 
 
-get_ipython().run_cell_magic('time', '', 'y_pred = clf.predict(X_test)')
+y_pred = clf.predict(X_test)
 
 
-# In[14]:
+# In[ ]:
 
 
 print(classification_report(y_test, y_pred))
 
 
-# In[13]:
+# In[ ]:
 
 
 def plot_confusion_matrix(cm, classes,
@@ -98,7 +98,7 @@ def plot_confusion_matrix(cm, classes,
     plt.tight_layout()
 
 
-# In[15]:
+# In[ ]:
 
 
 plot_confusion_matrix(confusion_matrix(y_test, y_pred), classes=['Negative','Positive'], title='Confusion Matrix')
@@ -106,31 +106,31 @@ plot_confusion_matrix(confusion_matrix(y_test, y_pred), classes=['Negative','Pos
 
 # ## KNN
 
-# In[28]:
+# In[ ]:
 
 
 knn = KNeighborsClassifier(n_neighbors=3)
 
 
-# In[29]:
+# In[ ]:
 
 
-get_ipython().run_cell_magic('time', '', 'knn.fit(X_train, y_train)')
+knn.fit(X_train, y_train)
 
 
-# In[30]:
+# In[ ]:
 
 
 y_test = knn.predict(X_test)
 
 
-# In[31]:
+# In[ ]:
 
 
 print(classification_report(y_test, y_pred))
 
 
-# In[32]:
+# In[ ]:
 
 
 plot_confusion_matrix(confusion_matrix(y_test, y_pred), classes=['Negative','Positive'], title='Confusion Matrix')

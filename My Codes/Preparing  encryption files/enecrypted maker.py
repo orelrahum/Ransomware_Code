@@ -7,9 +7,9 @@ import random
 global CipherText
 
 # ADD all your VARS here
-folder_name = 'HALF OF SYMBOLS'
-file_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET\\" + folder_name + "\\Unencrypted"
-output_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET\\" + folder_name + "\\Encrypted"
+folder_name = 'only english chars + numbers'
+file_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET FOR FEATURE 5\\Unencrypted"
+output_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET FOR FEATURE 5\\Encrypted\\" + folder_name
 Playfair_KEY = 'zgptfoihmuwdrcnykeqaxvsbl'
 Gronsfeld_KEY = [5, 4, 7, 9, 8, 5, 8, 2, 0, 9, 8, 4, 3]
 Autokey_KEY = 'HELLO'
@@ -53,16 +53,16 @@ if __name__ == "__main__":
         for filename in glob.glob(file_path +'\\*.txt'):
             # Read every file
             num_total_lines = sum(1 for line in open(filename))
-            precent_of_encypt_line = random.randint(1, 100)
+            precent_of_encypt_line = random.randint(30, 100)
             final_text = ""
             with open(filename, 'r') as file:
                 count_line = 1
                 for line in file.readlines():
                     if 100-precent_of_encypt_line > (count_line/num_total_lines)*100 :
-                        final_text = final_text + line+"\n"
+                        final_text = final_text + line
                     else:
                         encrytedText = encrypt(line, encryption_type)
-                        final_text = final_text + encrytedText + "\n"
+                        final_text = final_text + encrytedText
                     count_line = count_line+1
             # Saving the file with a formated name,
             with open(f"{output_path}\\{encryption_type}\\{encryption_type}-{file_number}"
