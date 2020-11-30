@@ -8,8 +8,8 @@ global CipherText
 
 # ADD all your VARS here
 folder_name = 'only english chars + numbers'
-file_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET FOR FEATURE 5\\Unencrypted"
-output_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET FOR FEATURE 5\\Encrypted\\" + folder_name
+file_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET 6000 files\\Unencrypted"
+output_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET 6000 files\\Encrypted"
 Playfair_KEY = 'zgptfoihmuwdrcnykeqaxvsbl'
 Gronsfeld_KEY = [5, 4, 7, 9, 8, 5, 8, 2, 0, 9, 8, 4, 3]
 Autokey_KEY = 'HELLO'
@@ -61,7 +61,7 @@ if __name__ == "__main__":
                     if 100-precent_of_encypt_line > (count_line/num_total_lines)*100 :
                         final_text = final_text + line
                     else:
-                        encrytedText = encrypt(line, encryption_type)
+                        encrytedText = encrypt(line, encryption_type) + "\n"
                         final_text = final_text + encrytedText
                     count_line = count_line+1
             # Saving the file with a formated name,

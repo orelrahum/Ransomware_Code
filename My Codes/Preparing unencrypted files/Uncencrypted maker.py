@@ -8,11 +8,11 @@ global name_file
 # ADD all your VARS here
 text_name = 'total.txt'
 folder_output_name = 'total'
-file_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET FOR FEATURE 5\\" + text_name
-output_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET FOR FEATURE 5\\Unencrypted\\"
-start_random = 10
-end_random = 62
-number_files = 836
+file_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET_Small\\" + text_name
+output_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET_Small\\Unencrypted\\"
+start_random = 150
+end_random = 400
+number_files = 838
 
 if __name__ == "__main__":
     with open(file_path, 'r') as file:

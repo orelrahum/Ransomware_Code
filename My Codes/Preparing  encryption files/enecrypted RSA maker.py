@@ -9,9 +9,9 @@ global CipherText
 # ADD all your VARS here
 #folder_name = 'all ASCII'
 #folder_name ="only english chars"
-folder_name ="only english chars + numbers"
-file_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET\\Unencrypted\\" + folder_name
-output_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET\\Encrypted\\" + folder_name
+#folder_name ="only english chars + numbers"
+file_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET 12000 files\\Unencrypted"
+output_path = "E:\\Dropbox\\Orel\\Ariel University\\final Project\\DATASET 12000 files\\Encrypted"
 rsa_file= "E:\\Dropbox\\Orel\\Ariel University\\final Project\\ransomware_detection\\My Codes\\Preparing  encryption files\\RSA FILE.txt"
 
 def make_folder(encryption_type):
