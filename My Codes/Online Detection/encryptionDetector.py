@@ -1,5 +1,4 @@
 # Copyright Orel Rahum
-# ID: 316423615
 import os
 import glob
 import random
