@@ -1,5 +1,4 @@
 Name and Id : Liad Cohen and Orel Rahum 
-316602630,  316423615
 Imports : watchdog.observers -> Observer , watchdog.events -> PatternMatchingEventHandler
 
 How to run:
